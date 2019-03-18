@@ -1,0 +1,64 @@
+It’s getting harder and harder to invent the iPhone Killer. Even for Apple.
+发明一款iPhone终结者变得越来越难，即使对于苹果(Apple)而言也是如此。
+The one truly huge, magnificent, radical idea of the iPhone, back when it was introduced in 2007, was to get rid of buttons. Make the whole phone a black rectangular touch screen.
+在其2007年问世时，iPhone真正惊人、激进、非凡设想在于抛弃了按键。整个手机被造成了一个带触屏的黑色长方形。
+By now, every company and its brother has done that. Everybody’s added voice recognition, GPS and navigation. Everybody’s sharpened up the screens to the point where you need a microscope to tell the difference.
+到目前为止，每家公司及其竞争对手都这么做了。所有人都增加了语音识别、GPS及导航功能。所有人都将屏幕性能提高到一定水平，以至于得用显微镜才能看出其彼此的区别。
+So now what? How do you distinguish your phone from the more than 4,000 other touch-screen phones? (That’s not a joke. There have actually been 3,997 different Android phone models so far. And six iPhones and a motley assortment of Windows and touch-screen BlackBerry phones. Heaven help the landfills.)
+那现在该怎么办呢？如何让自己的手机区别于另外4000多款触屏手机？（这可不是开玩笑。到目前为止，真的有3997款Android系统手机型号、6款iPhone，以及各式各样的Windows手机和触屏黑莓[Blackberry]手机。天呐，垃圾填埋场又有的忙了。）
+With much fanfare, Google proudly presents its answer: the Moto X.
+而在一番高调的宣传后，谷歌(Google)骄傲地呈上它的答案：Moto X。
+This phone ($200 with contract, 5.1 x 2.6 x 0.4 inches) is the first that Motorola has produced since Google bought it a year ago for $12.5 billion.
+Moto X是摩托罗拉(Motorola)自谷歌以125亿美元（约合765亿元人民币）的价格将其收购后生产的首款手机。其合约机售价200美元，尺寸为5.1x2.6x0.4英寸。
+By looking at it, you’d never guess that this is the Android phone that Motorola hopes will change everything. Its curved back is plasticky, not classy metal (like the HTC One) or glass (like the iPhone 4 and 4S). Its comfortable 4.7-inch screen looks great, but it isn’t as big or sharp as the Samsung Galaxy S4 and the HTC One. The phone is plenty fast, but its processor isn’t the latest and greatest.
+只看它的外表，你肯定想不到这就是摩托罗拉希望用来颠覆行业格局的那款Android手机。Moto X有弧度的后盖是塑料做的，而不是有时尚感的金属（像HTC One）或玻璃（像iPhone 4和iPhone 4s）。它4.7英寸大小的屏幕用起来舒服，看上去非常棒，但不如三星Galaxy S4或HTC One的屏幕那么大，也没有它们清晰锐利。Moto X运行速度很快，但它的处理器并不是最新最好的。
+But the Moto X does offer five features that no phone has offered before.
+但是，Moto X确实有五项过去没有任何一款手机具备的新特性。
+Feature 1: You can design your own color scheme. You’re offered a choice of 18 colors for the back panel, black or white for the front, and seven colors for the accents (the buttons and ring around the camera lens). The color choices are excellent; the odds of you and your frenemy showing up at a party with an identical Moto X phone are one in 252.
+第一：你可以设计自己的配色方案。手机后盖有18种颜色可供选择，手机正面可选择黑色或白色，而装饰区域（按键及镜头周围的圆圈）有7种颜色可选。有这么多颜色选择真的很棒；这样的话，你和你的“友敌”出现在同一个派对上，拿着一款一模一样的Moto X的几率只有1/252。
+Later this year, you’ll even be able to order a back panel made of real wood — in bamboo, teak, ebony or rosewood. Motorola’s testing shows these beautiful panels to be just as tough as plastic (although more susceptible to termites, I’m guessing).
+今年晚些时候，你甚至可以预订木制背板——用竹子、柚木、黑檀木或红木制成。摩托罗拉的产品测试显示，这些漂亮的后盖和塑料一样结实（不过可能更易受到白蚁侵袭，我猜）。
+While you’re online, you can also order color-matched cases and earbuds, specify the wallpaper you want or request an engraved message for the back. For now, only AT&T offers the color choices. Verizon, Sprint and T-Mobile will offer only black or white until later this year.
+你还可以在网上订颜色搭配的手机壳和耳机，指定屏保，或者要求在后盖上刻字。现在只有AT&T提供颜色选择，Verizon、Sprint和T-Mobile到今年晚些时候才会提供黑白以外的颜色。
+You get your customized phone within four days, courtesy of Feature 2: it’s assembled right here in these United States. The components are still made in Asia, but they’re put together in Texas — you can lose less sleep worrying about underpaid Chinese workers.
+经过定制的手机在四天内就可以拿到，原因就在于Moto X的第二项新特性：Moto X的组装地就在美国。它的零部件还是在亚洲制造，但是在德克萨斯州进行组装。这样一来，你因为担心报酬极低的中国工人而睡不着觉的症状，就得到了缓解。
+Feature 3 is the most useful: touchless mode. As with Siri on the iPhone, you can command the phone to dial a number, send a text, open an app, set your alarm, look up a fact on the Web, and so on.
+它的第三个新特性最有用：免触摸模式。就像iPhone上的Siri，你可以命令手机拨号、发短信、打开应用、设置闹钟、在网上查找信息等等。
+But unlike Siri, you don’t hold down a button to speak. The phone is always listening, even when it’s in your car’s cup holder.
+但和Siri不同的是，你说话时无需按住按钮。Moto X在随时等着你说出指令，即使是放在车载托架上的时候。
+It works remarkably well, as long as you precede your command with the salutation, “O.K., Google Now.” Without ever taking your eyes off the road, you can say, “O.K., Google Now. Give me directions to the Empire State Building.” Or, “O.K., Google Now. Remind me at 8 p.m. to give the dog his pill.” Or, “O.K., Google Now. Make an appointment for Thursday at noon with Bob.”
+这个新功能十分好用，只要你在发出指令前说一句，“好的，Google即时。”(OK, Google Now.)你可以在路上继续目视前方，说一句，“好的，Google即时，告诉我怎么去帝国大厦。”或者，“好的，Google即时，8点提醒我喂狗吃药。”或者，“好的，Google即时，跟鲍勃(Bob)预约周四中午见面。”
+This truly inspired idea is a leap forward in both safety and convenience. It owes its success to a special chip that does nothing but listen all day long. It does, however, come with fine print.
+这真是个有创意的想法，实现了安全和便捷性上的巨大飞跃。它之所以能够运行，要归功于一个特殊的芯片，这个芯片没有其他功能，一整天都在“听”。不过，使用这个功能还需要注意几点。
+For example, you have to train the phone to recognize your voice. In a silent room, you have to say “O.K., Google Now” exactly the same way three times.
+比如，你必须训练手机识别你的声音。要在一个安静的房间里，用完全相同的方式说三遍“好的，Google即时”。
+If you’ve password-protected your phone, this feature loses much of its power. It won’t execute most commands until you first pick it up and unlock it. So much for touchless.
+如果你用密码保护手机，这项功能就失去了大部分作用。手机将无法执行大部分指令，除非先把它拿起来解锁。这下就不再是免触摸功能了。
+And Android’s voice commands are still no match for Siri. The phone recognizes the basics, like “Wake me at 7:30 a.m,” “Open Angry Birds,” “What’s Google’s stock price?” and “Check the forecast for Memphis on Friday.”
+另外，Android的声音命令依然不敌Siri。Moto X能识别基本的指令，比如“早上7:30叫醒我”、“启动‘愤怒的小鸟’(Angry Birds)”、“谷歌的股价是多少？”，以及“查一下孟菲斯周五的天气预报”。
+Unlike Siri, though, it can’t speak answers to queries about movies, sports and restaurants. It doesn’t recognize “Read my new text messages,” “Add pickles to my grocery list” or “Tweet, ‘I just saw a double rainbow.’ ” Android just doesn’t have the smarts.
+不过，和Siri不同的是，该语音识别软件无法回答涉及电影、运动和餐馆的询问。它识别不出“读取我的新短信”，“在购物单里加上咸菜”，或者“在Twitter上发布，‘我刚刚看到了双重彩虹’。”Android系统确实没有这种智慧。
+Or the personality. Try saying “Tell me a joke” or “Do you believe in love?” or “Open the pod bay doors, Hal” to Siri; you’ll get hilarious replies. By comparison, the Moto X feels lobotomized.
+也没有那种个性。试试对Siri说“给我讲个笑话”或“你相信爱情吗？”或者“打开舱门，哈儿(Hal)”；你会得到令人捧腹的回答。与之相比，Moto X就像是做了脑叶切除术似的。
+But the Moto X does come with superb situational awareness. If you turn on the Assist feature, the phone changes modes according to the time and place: Driving, Meeting and Sleeping.
+不过，Moto X确实对周遭环境有极佳的感知力。如果你打开助手功能，手机会随着时间和地点在驾驶、会议和睡眠模式之间进行切换。
+In Driving mode, the phone detects that you’re in motion. It starts reading new text messages aloud, routing calls to the speakerphone and, if you like, responding to calls with an automatic text message: “I’m driving and will get back to you soon.”
+在驾驶模式下，手机察觉到你在运动。它开始大声朗读新短信，把语音呼叫切换到扩音器选项，如果你愿意，它还能用一条自动信息回答来电：“我正在开车，会很快给你打回去。”
+In Meeting mode, the phone knows when you’re in a meeting or at a show by consulting your calendar. During those hours, the phone mutes itself and can respond with a text message. (“In a meeting. I’ll get back to you soon.”) Smart little software!
+在会议模式下，手机通过查询你的日历，知道你是不是在开会，或者在看演出。在这段时间内，手机会自动静音，以短信应答来电（“我在开会。我会很快给你打回去。”）聪明的小软件！
+Sleeping mode, as the name implies, mutes the phone during bedtime hours that you specify. (In Meeting and Sleeping modes, you can choose to make exceptions for Favorites and when a caller urgently redials.)
+睡眠模式，正如其名所示，会在你指定的睡眠时间，让手机静音。（在会议和睡眠模式下，你可以选择把自己喜欢的来电者设为例外，或者把来电者再次紧急呼叫的情况设为例外。）
+Feature 4: Motorola observed that many people wake their phones many times a day just to check the time or missed messages. The Moto X displays this information briefly — the time and an icon for a missed event — every time you move it. You don’t have to press a button; just pull it from your pocket or lift it from the desk. The company says that there’s practically no penalty to the battery life (which is about the same as its rivals: you have to charge it every night).
+特性四：摩托罗拉观察到，许多人在一天里多次唤醒他们的手机，只是为了查看时间、或者漏掉的信息。每次你移动Moto X时，它会简短地显示这些信息——包括时间和一个显示错过某事件的图标。你不需要按某个按钮；只需从口袋里拿出它，或从桌上拿起它就可以看到这些信息。摩托罗拉说这个动作几乎不会损耗电池寿命（该款手机的电池和对手的大约相仿：你每晚都必须充电）。
+If that screen shows an icon (text, e-mail or call, for example), you can hold down your finger on it to view the details. Or swipe upward to open the corresponding app to reply. Sadly, this feature shows you only one notification — the most recent.
+如果屏幕显示出一个图标（比如短信、电子邮件或来电），你可以用手指按住该图标查看详情。或向上轻扫打开相应的应用做出回复。遗憾的是，该特性只显示一条提示，也就是最近的一条。
+Feature 5: You can fire up the Camera app by twitching your wrist a couple of times, as though trying to dislodge a mosquito; it works whether the phone is on or off. Within two seconds, you’re ready to take a shot by tapping anywhere on the screen.
+特性五：你可以通过扭动手腕几次，来启动照相机应用，动作就像是努力赶走一只蚊子；不管手机是开着还是关着的，这都能奏效。在两秒之内，你就可以通过点击屏幕上任意一处来拍照。
+That’s wonderful, and so is the streamlined app itself. But the camera leaves something to be desired. It does a ridiculous amount of focus hunting, so you get blurriness sometimes, and the videos are a bit soft.
+这相当不错，运行流畅的应用本身也很不错。不过，照相机留下了一些有待改进的地方。它会不断进行对焦，因此有时候你会得到模糊不清的图像，而视频也不够锐利。
+It’s nice that Motorola is focused on polishing up a few innovative features that you’ll really use; this isn’t the Samsung Galaxy S4, weighed down by a bunch of unreliable gimmickware. It’s nice that the phone has a splash-resistant coating. It’s also nice that, because this is a Google phone, you’ll be able to upgrade it promptly to new Android versions as they come along. That’s often untrue of the Android phones from other companies.
+摩托罗拉把精力集中在改进几个你能真正用到的创新特性上，这一点相当不错；它不是三星Galaxy S4，后者因一大堆不可靠的花里胡哨的软件而被人诟病。该手机的防溅涂层不错。因为这是一款谷歌手机，一旦新版Android操作系统出炉，你就可以即时进行更新，这一点也很不错。其他公司的Android手机往往做不到这一点。
+Unfortunately, the Moto X’s five breakthroughs don’t exactly shake the earth. It’s a fine phone, but it has to compete with the deeply satisfying beauty (and superior speakers) of the HTC One, the seething power (and superior screen) of the Galaxy S4, and the infinite app-and-accessory ecosystem (and superior voice control) of the iPhone.
+遗憾的是，Moto X的五点突破没能带来更大的影响。这是一款不错的手机，但它必须和HTC One无可挑剔的外观（以及超级扬声器）竞争、和Galaxy S4的强劲电力（以及超大屏幕）竞争、和iPhone无所不包的应用及配件生态系统（以及超级音控功能）竞争。
+Moto XI, anyone?
+Moto XI，有谁感兴趣？

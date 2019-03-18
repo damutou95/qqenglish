@@ -1,0 +1,36 @@
+Americans seem very afraid of cancer, with good reason. Unlike other things that kill us, it often seems to come out of nowhere.
+美国人似乎非常惧怕癌症，而且有着充分的理由。跟其他那些杀死我们的东西不一样，癌症仿佛总是从天而降。
+But evidence has increasingly accumulated that cancer may be preventable, too. Unfortunately, this has inflamed as much as it has assuaged people’s fears.
+不过，有越来越多的证据表明，癌症或许也可以预防。不幸的是，这一发现引发的恐惧，和它驱除的一样多。
+As a physician, I have encountered many people who believe that heart disease, which is the single biggest cause of death among Americans, is largely controllable. After all, if people ate better, were physically active and stopped smoking, then lots of them would get better. This ignores the fact that people can’t change many risk factors of heart disease like age, race and family genetics.
+作为一名医生，我遇到的很多人相信，美国人的单一最大死因——心脏病——在很大程度上是可控的。毕竟，如果吃得更健康，多做运动，并停止吸烟，大多数心脏病人的情况会好转。但一个事实被忽略了，人们无法改变诱发心脏病的许多风险因素，比如年龄、种族和家族基因。
+People don’t often seem to feel the same way about cancer. They think it’s out of their control. A study published in Science in January 2015 seemed to support that view. It tried to explain why some tissues lead to cancer more often than others. It found a strong correlation between the number of times a cell divides in the course of a lifetime and the risk of developing cancer.
+对于癌症，人们似乎往往并不这样看，而是认为自己无法控制它。一项于2015年1月发表在《科学》杂志(Science)上的研究，似乎为这种观点提供了支撑。它试图解释，为什么相比之下，某些组织更容易发展出癌症。文中发现，细胞在一生当中的分裂次数与罹患癌症的风险之间存在很强的相关性。
+In other words, this study argued that the more times DNA replicates, the more often something can go wrong. Some took this to mean that cancer is much more because of “bad luck” than because of other factors that people could control.
+换句话说，该研究认为，DNA复制次数越多，出问题的可能性就越大。有人据此认为，带来癌症的主要是“坏运气”，远超其他一些人为可控的因素。
+Unfortunately, this simple explanation is not really what the study showed. Lung cells, for instance, divide quite rarely, and still account for a significant amount of cancer. Cells in the gastrointestinal tract divide all the time and account for many fewer cancers. Some cancers, like melanoma, were found to be in the group of cancers influenced more by intrinsic factors (or those we can’t control), when we clearly know that extrinsic factors, like sun exposure, are a major cause.
+不幸的是，这个简单的解释并非该研究真正表明的东西。举例来说，肺部细胞很少分裂，但肺癌在癌症中占有很大的比重。胃肠道的细胞时时都在分裂，那里生癌的几率却要小得多。有些癌症，比如黑色素瘤，被发现属于受内在因素影响更大的一类癌症（也就是我们无法控制的那种）；与此同时我们也清楚地知道，一些外在因素，比如阳光暴晒，是它的一大诱因。
+Further, this study was focused more on the relative risks of cancer in one type of tissue versus another. What we really care about is how much we can reduce our own risk of cancer by changing our behavior.
+此外，该研究更为关注的是，一类组织与另一类组织相比，生癌的相对风险有多大。而我们真正关心的是，通过改变自己的行为，我们可以在多大程度上降低罹患癌症的风险。
+A more recent study published in Nature argues that there is a lot we can do. Many studies have shown that environmental risk factors and exposures contribute greatly to many cancers. Diet is related to colorectal cancer. Alcohol and tobacco are related to esophageal cancer. HPV is related to cervical cancer, and hepatitis C is related to liver cancer.
+发表在《自然》杂志(Nature)上的一项更为近期的研究称，我们能做的事其实很多。许多研究表明，环境风险因素及风险暴露会大大促进许多种癌症的发生。节食与大肠癌有关。酒精和烟草与食道癌有关。人乳头瘤病毒(HPV)与宫颈癌有关。丙型肝炎与肝癌有关。
+And you’d have to be living under a rock not to know that smoking causes lung cancer and that too much sun can lead to skin cancer.
+只要不是与世隔绝的人应该都知道，吸烟会导致肺癌，日晒过多可能会导致皮肤癌。
+Using sophisticated modeling techniques, the researchers argued that less than 30 percent of the lifetime risk of getting many common cancers was because of intrinsic risk factors, or the “bad luck.” The rest were things you can change.
+通过使用精密的建模技术，研究人员提出，罹患癌症的终生风险有不到30%由内在因素导致，或说“坏运气”。其他的都属于你可以改变的东西。
+Most recently, in JAMA Oncology, researchers sought to quantify how a healthful lifestyle might actually alter the risk of cancer. They identified four domains that are often noted to be related to disease prevention: smoking, drinking, obesity and exercise.
+最近，在《美国医学会期刊·肿瘤学》(JAMA Oncology)上发表的论文显示，研究者试图量化健康的生活方式可以如何实质性地改变罹患癌症的风险。他们找出了四个经常被指出与疾病预防有关的因素：抽烟、喝酒、肥胖和运动。
+They defined people who engaged in healthy levels of all of these activities as a “low risk” group. Then they compared their risk of getting cancer with people who weren’t in this group. They included two groups of people who have been followed and studied a long time, the Nurses’ Health Study and the Health Professionals Follow-up Study, as well as national cancer statistics.
+他们把在这四个方面保持健康水平的人列为“低风险”人群，然后把他们患癌症的风险与不在此列的人作比较。其中包括被追踪和研究了很长时间的两组人，即护士健康研究(Nurses’ Health Study)和医药卫生从业人员随访研究(Health Professionals Follow-up Study)的参与者，还参考了全美的癌症数据。
+Of the nearly 90,000 women and more than 46,000 men, 16,531 women and 11,731 men fell into the low-risk group. For each type of cancer, researchers calculated a population-attributable risk, which is the percentage of people who develop cancer who might have avoided it had they adopted low-risk behaviors.
+总共有将近9万名女性和逾4.6万名男性参与者，其中16531名女性和11731名男性属于低风险人群。研究人员计算了每种癌症的人群归因风险——即当初如果采取低风险行为模式，或许本可以避免患上癌症的病人的比例。
+About 82 percent of women and 78 percent of men who got lung cancer might have prevented it through healthy behaviors. About 29 percent of women and 20 percent of men might have prevented colon and rectal cancer. About 30 percent of both might have prevented pancreatic cancer. Breast cancer was much less preventable: 4 percent.
+当初如果秉承健康的生活方式，大约82%的女性肺癌病人和78%的男性肺癌病人或许可以避免患上这种疾病。大约29%的女性和20%的男性或许本可以避免罹患结直肠癌。大约30%的男性和30%的女性或许本可以避免罹患胰腺癌。原本或许可以避免患上乳腺癌的病人比例要低得多，只有4%。
+Over all, though, about 25 percent of cancer in women and 33 percent in men was potentially preventable. Close to half of all cancer deaths might be prevented as well.
+不过，总体而言，大约25%的女性癌症病人和大约33%的男性癌症病人或许本可以把癌症拒之门外。此外，所有死于癌症的人中，大约有一半或许本可以避免这种结局。
+No study is perfect, and this is no exception. These cohorts are overwhelmingly white and consist of health professionals, who are not necessarily like the population at large. But the checks against the national data showed that if anything, these results might be underestimating how much cancer is preventable by healthy behaviors.
+没有哪项研究是完美的，该研究也不例外。这些参与者均为医护专业人员，而且大多数都是白人，这和人口的整体结构有所不同。但与全国数据比对显示，如果这有什么影响的话，那就是：上述结论或许低估了通过采取健康的行为模式预防癌症的成功率。
+As we talk about cancer “moonshots” that will most likely cost billions of dollars and might not achieve results, it’s worth considering that — as in many cases — prevention is not only the cheapest course, but also the most effective.
+我们在谈论癌症“登月计划”这一极有何能耗费数十亿美元资金，但却可能一无所获的项目之际，有必要考虑一下——在许多情况下——预防不仅仅是最便宜的解决方案，而且是最有效的。
+Simple changes to people’s behaviors have the potential to make sure many cancers never occur. They have a side benefit of preventing health problems in many other areas, too. Investment in these efforts may not be as exciting, but it may yield greater results.
+人们只要改变自己的行为方式，就有可能永远把癌症拒之门外。这样做还有附带的好处：可以让其他许多领域的健康问题得到预防。对这些预防工作的投资或许没有那么令人振奋，但却可能带来更大的回报。

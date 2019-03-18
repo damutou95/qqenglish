@@ -1,0 +1,32 @@
+SAN FRANCISCO — Officially, it’s Apple versus Samsung Electronics in another tech patent face-off in a San Jose courtroom this week. But there is another company with a lot at stake in the case — Google.
+旧金山——表面上看，这是苹果(Apple)与三星电子(Samsung Electronics)本周在一间圣何塞法庭启动的又一场技术专利对决。但此案的成败却对另一家公司至关重要：谷歌(Google)。
+In a lawsuit, Apple is seeking about $2 billion in damages from Samsung for selling phones and tablets that Apple says violate five of its mobile software patents. Samsung, meanwhile, says Apple violated two of its patents.
+在一起诉讼中，苹果称三星销售的移动电话和平板电脑侵犯了苹果移动软件的五项专利，要求三星赔偿20亿美元(约合124亿元人民币)的损失。与此同时，三星也说苹果侵犯了它的两项专利。
+Some features in Samsung devices that Apple objects to are part of Google’s Android operating system, by far the most popular mobile operating system worldwide, running on more than a billion devices made by many manufacturers. That means that if Apple wins, Google could have to make changes to critical Android features, and Samsung and other Android phone makers might have to modify the software on their phones.
+苹果所诉三星设备中的一些特性其实是谷歌Android操作系统的组成部分。Android操作系统是迄今为止全球范围内使用人数最多的移动操作系统，运行在由众多厂家生产的超过10亿台设备上。这就意味着，一旦苹果胜诉，谷歌就必须针对关键的Android特性做出改变，三星等Android手机制造商可能也不得不调整它们手机上的软件。
+“Google’s been lurking in the background of all these cases because of the Android system,” said Mark P. McKenna, a professor who teaches intellectual property law at Notre Dame. “Several people have described the initial battle between Samsung and Apple as really one between Apple and Google.”
+“因为Android系统，谷歌一直都潜伏在所有这些案子的背后，”在圣母大学(Notre Dame)教知识产权法的教授马克·P·麦克纳(Mark P. McKenna)说。“一些人称，三星和苹果的这场首战实为苹果与谷歌之间的战争。”
+Representatives for Apple, Samsung and Google declined to comment.
+苹果、三星和谷歌的代表都拒绝置评。
+The current case, which begins on Monday with jury selection, is the second major court battle over patents between Apple and Samsung, which rode the success of Android to become the biggest handset maker in the world. Samsung lost the first case in 2012, and it was ordered to pay $930 million in damages.
+目前的这起诉讼始于周一的陪审团挑选，是苹果和三星之间就专利权进行的第二场法庭大战。三星借助Android的成功，成为了世界上最大的手机制造商。2012年三星输掉了第一起案件，法院下令由它做出9.3亿美元的损失赔偿。
+That amount is pocket change for Apple, one of the richest companies in the world. And it hardly interfered with Samsung’s ability to sell phones: The company, which is based in South Korea, shipped 314 million handsets last year, according to the research firm IDC.
+苹果是世界上最富有的企业之一，这对它来说不过是一笔小钱。它对三星的手机销售能力也不构成太大的妨碍：研究公司国际数据公司(IDC)提供的数据显示，总部位于韩国的三星去年共计出货3.14亿部手机。
+So this second fight has to be about more than money, said James Bessen, a law lecturer at Boston University. He said that if Apple just wanted money, it would have already agreed to settle.
+波士顿大学(Boston University)法学讲师詹姆斯·贝森(James Bessen)说，所以这第二场战役就不应该只是为了钱。他说，如果苹果就是想要钱，它早就同意调解了。
+Still, going after Google by attacking Samsung is difficult, Mr. Bessen said. Both Google and Samsung could alter features to avoid infringing on patents. And by the time the trial and appeals are finished, newer devices will have supplanted the products in question.
+贝森说，但借攻击三星来瞄准谷歌，这并不容易。谷歌和三星都可以对特性进行调整，来避免专利侵权。并且等到审判和上诉程序全部完成，新一代的产品也已经取代问题产品。
+“To kill Android with a half-dozen patents,” Mr. Bessen said, “just seems like a long shot.”
+“用六、七项专利来灭掉Android，”贝森说，“这看起来希望渺茫。”
+Long shot or not, combating Google’s Android system was a cherished goal of Steve Jobs, Apple’s co-founder and chief executive, who died in 2011. He called Android a knockoff of the iPhone and told his biographer, Walter Isaacson, that he was willing to go to “thermonuclear war” just to kill Android.
+不论有多大希望，对抗谷歌的Android系统都是苹果联合创始人、于2011年去世的首席执行官史蒂夫·乔布斯(Steve Jobs)极其重视的一项使命。乔布斯称Android是对iPhone的拙劣抄袭，还对自己的传记作者沃尔特·艾萨克森(Walter Isaacson)说，他愿意发动一场“热核战”，就为了能消灭Android。
+He also told Mr. Isaacson that Apple’s past patent lawsuit against HTC, another Android handset maker, was about Google all along.
+他还对艾萨克森说，苹果以往向另一家Android手机制造商HTC发起的专利权诉讼，目标也都是谷歌。
+“I’m going to destroy Android, because it’s a stolen product,” Mr. Jobs was quoted as saying in Mr. Isaacson’s book “Steve Jobs.”
+“我要毁了Android，因为它是一件偷来的产品，”艾萨克森在他写作的《史蒂夫·乔布斯传》(Steve Jobs)一书中引用乔布斯的话说。
+In the case set to open this week, Apple’s legal complaint aims at some of the features that Google, not Samsung, put in Android, like the ability to tap on a phone number inside a text message to dial the number. And although Google is not a defendant in this case, some of its executives are expected to testify as witnesses.
+在定于本周启动的这起案件中，苹果的法律诉讼目标并非三星，而是针对谷歌置于Android中的一些特性，例如按住短信中的一个电话号码来拨号。虽然谷歌并非本案的被告，但人们预计它的一些高管将会出庭作证。
+Apple has a long history of choosing battles against what it views as copycats. In 1988, the company sued Microsoft and Hewlett-Packard, claiming that software programs sold by the two companies, including Windows, infringed on Apple’s copyrights on how information was presented on the Macintosh operating system. After a four-year legal struggle, Apple lost on nearly all its claims.
+苹果一直以来都会选择被它视为仿冒者的一些公司进行战斗。1988年，苹果起诉微软(Microsoft)和惠普(Hewlett-Packard)，称这两家公司出售的包括Windows在内的软件侵犯了苹果的版权，抄袭了麦金塔(Macintosh)操作系统的信息呈现方式。经过为时四年的法律大战，苹果几乎输掉了每一项诉讼要求。
+Apple filed its latest complaint against Samsung over two years ago in the Federal District Court in San Jose, accusing Samsung of infringing on software patents involving both the iPhone and iPad, including the “slide-to-unlock” feature for logging in, and universal search, the ability to look up items across the device and on the Internet at the same time.
+两年多以前，苹果在圣何塞的联邦地区法院向三星提起最近的那起法律诉讼，指责三星侵犯其iPhone和iPad上的软件专利权，包括登录时的“滑动解锁”特性，以及通用搜索——能够同时搜索设备内和互联网。

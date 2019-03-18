@@ -1,0 +1,48 @@
+Since the triumph of the moon landings more than four decades ago, presidents have made grand pronouncements about the next adventure for NASA astronauts, one that would culminate with humans on Mars. But each time, those ambitions faded, unfulfilled.
+自从四十多年前成功登陆月球以来，多任总统均对国家航空航天局(NASA)宇航员的下一次探险许下了豪言壮语。宇航员们下一轮探险的高潮将是在火星上留下人类的足迹。但每一次，这些宏图大志都会逐渐消散，未被实现。
+Now a panel of experts is warning that the same fate may be in store for President Obama’s declaration that NASA astronauts would reach Mars in the 2030s.
+现在，一个专家组警告称，奥巴马总统针对NASA宇航员将在本世纪30年代登陆火星的宣言可能会遭遇同样的命运。
+In a 285-page review of the human spaceflight program, the experts, convened by the National Research Council at the request of Congress, found that NASA had not detailed a viable strategy for getting there and that its budgets were too small to succeed.
+在对这个人类航天计划所做的一份285页的评估报告中，这些专家发现，NASA并未详述可行的火星登陆战略，而且它的预算太少，根本不会成功。他们是国家研究委员会(National Research Council)应国会的请求召集在一起的。
+“There is not a believable plan for getting there in a finite period of time,” said Jonathan I. Lunine, a Cornell astronomer and a co-chairman of the committee.
+“我们没有一个在有限期限内登陆火星的可信计划，”康奈尔大学天文学家、该委员会的联合主席乔纳森·I·卢宁(Jonathan I. Lunine)说。
+The panel recommended that NASA set specific intermediate milestones — what it called “steppingstones” — on the way to Mars, which it said would help solidify public and political support.
+该委员会建议NASA为登陆火星制定一些具体的中间里程碑，即所谓的“垫脚石”，并称这有助于巩固公众和政界的支持。
+But at the moment, there is little consensus about what NASA should do after it completes its current project to develop a heavy-lift rocket to carry equipment for deep-space missions, with a first, unmanned launching scheduled in 2017 and a second launching, with astronauts, in 2021.
+但目前，对于NASA在完成当前的项目后应该如何行事鲜有共识。其当前的项目是开发一款大载重火箭，为外太空任务运载设备。按计划，首枚无人火箭将于2017年发射，第二枚载人火箭将于2021年发射。
+The Obama administration has proposed a robotic mission that would capture a small asteroid and transport it to an orbit high above the moon, where it would be easier for astronauts to reach and study. The robotic spacecraft would also test technologies like electric propulsion systems that could be used for a Mars mission. Then a crew of astronauts would rendezvous with the asteroid to examine it.
+奥巴马政府提议进行一项机器人太空任务，这项任务会捕捉到一颗小行星，并将其带到位于月球上空的轨道上，宇航员去月球进行研究会更容易。这种自动控制的宇宙飞船还能检验电力推进系统等火星任务可能会用到的技术。然后，宇航员团队可以登陆那颗小行星，对其进行研究。
+Some in Congress have pushed for NASA to instead head back to the moon.
+但国会的一些人则在推动NASA回归月球的项目。
+Even during the 1960s, as NASA was putting together the Apollo moon missions, the public viewed human spaceflight positively, but was not overwhelmingly enthusiastic. Only after the successful landing of Apollo 11 in July 1969 did public approval swing very high.
+即便是在上世纪60年代，当NASA在制定阿波罗登月计划时，公众对载人航天计划也只是积极看待，却并没有巨大热情。当“阿波罗11号”于1969年7月成功登陆月球后，公众的认可才跳升至高点。
+Dr. Lunine said that with steppingstones, people would look back positively at what had already been accomplished and be more likely to continue supporting a Mars program.
+卢宁博士表示，有了垫脚石，人们便会乐观地回头看已经取得的成就，也更可能继续支持火星计划。
+The panel did not recommend a best path to Mars, but it evaluated three possibilities. One would follow the asteroid mission with astronauts visiting Phobos and Deimos, Mars’s moons, before landing on Mars itself. A second approach would send astronauts for a stay on Earth’s moon, providing a place to test humans’ ability to live on a hostile surface. The third would in effect combine the two.
+该委员会未就登陆火星的最佳方式给出建议，但它对三种可能性进行了评估。第一种办法是接受小行星太空任务的建议，让宇航员在登陆火星之前先去火星的卫星火卫一和火卫二。第二种方式是将宇航员送去月球待一段时间，让他们有地方考验人类在一个条件恶劣的地表生活的能力。第三个办法实际上是将前两种方法结合起来。
+The panel said the moon path would provide more technologies that could be applied to Mars than the asteroid route.
+该委员会称，相比于涉及小行星的那个办法，月球选项会提供更多可用于火星的技术。
+Greg Williams, deputy associate administrator for policy and plans in NASA’s human exploration and operations mission directorate, said the agency would evaluate options over the summer and a more detailed strategy could begin to emerge by the end of the year.
+NASA人类探索与行动任务部门负责政策和计划事务的副局长格雷格·威廉斯(Greg Williams)表示，NASA会在今夏评估这些可选方案，到今年年底，一项更具体的战略可能会开始浮出水面。
+The panel said that a clearer strategy would also be helpful in guiding NASA’s investments in research and development. If some critical technologies are to be ready in two decades, it continued, work on them needed to begin right away.
+该委员会称，战略更清晰也有助于指导NASA对研发的投入。该委员会接着表示，如果一些关键技术要在二十年内准备好，相关工作必须立刻开始。
+Dr. Lunine was supportive of a NASA project in Hawaii to develop ways to land bigger spacecraft on Mars. A test, originally scheduled for last week, has been repeatedly postponed because of weather, but it could get off the ground this week.
+卢宁博士对NASA在夏威夷的一个项目持支持态度，该项目旨在想办法让更大的宇宙飞船在火星降落。因为天气原因，原定于上周的一次测试被一再推迟，不过测试可能会在本周开始。
+For robotic probes like the Mars Curiosity rover, NASA has employed parachutes, rocket engines, air bags and an elaborate winch system. But Curiosity is only the size of a car; those methods would fail for something much larger and heavier.
+对于像“好奇号”(Curiosity)火星探测车这样的机器人探测器，NASA使用了降落伞、火箭发动机、气囊和一个精密的卷扬系统。但“好奇号”只有一辆汽车大小；对于远比它更大、更重的设备，这些办法可能都会失败。
+In NASA’s project, the Low-Density Supersonic Decelerator, a saucer-shaped vehicle, will be lifted by helium balloon to 120,000 feet, before a rocket engine propels it to nearly four times the speed of sound at 180,000 feet, the stratosphere providing conditions similar to those entering the Martian atmosphere.
+在NASA的项目中，氦气球会将形状像碟子的低密度超声减速器(Low-Density Supersonic Decelerator)抬升到12万英尺（约合3.7万米）的高空，然后火箭发动机会将其推进到18万英尺的高空，并让它达到近乎四倍于音速的速度。此时，平流层提供的环境类似于进入火星大气层的环境。
+It will then inflate like a puffer fish to a bigger disk 20 feet wide, providing a bigger atmospheric brake. “This is the kind of research that NASA should be doing more of,” Dr. Lunine said.
+之后减速器会像河豚一样膨胀起来，变成一个更大号的、宽20英尺的碟子，提供更强大的气动式制动。卢宁说，“NASA应该多做做这一类研究。”
+But he questioned the value of a prototype lunar lander called Morpheus, currently being tested at the John F. Kennedy Space Center in Florida, because NASA currently has no plans to land on the moon.
+不过，他质疑名为“睡神号”(Morpheus)的月球着陆器原型机有多大的价值，因为NASA目前没有登陆月球的计划。目前，这个原型机正在佛罗里达州约翰·F·肯尼迪航天中心(John F. Kennedy Space Center)接受测试。
+“This is exactly the kind of problem that occurs without a pathway approach to human space exploration,” Dr. Lunine said.
+卢宁说，“这正是人类缺乏探索太空的路径式战略时会发生的那类问题。”
+In addition, the panel said NASA’s annual budget — $17.5 billion, a figure that is expected to remain roughly the same in coming years — was insufficient to pay for such an ambitious endeavor. The criticism echoes a common admonition of spaceflight advocates: “No bucks, no Buck Rogers.” Just allowing spending to rise at 2.5 percent a year to offset inflation would open possibilities, the panel said.
+不仅如此，委员会表示，NASA的年度预算为175亿美元（约合1090亿元人民币），预计今后几年的预算会维持在大致相当的水平，而这笔钱不足以支撑如此雄心勃勃的壮举。卢宁的指责和航天飞行提倡者的普遍告诫“没有钱，就没有航天英雄”相呼应。委员会说，只要把每年的支出提高2.5%，来抵消通货膨胀，就能开辟多种可能。
+The National Research Council report is unlikely to resolve disagreements over the direction of NASA, undercutting another of its conclusions: To succeed, NASA needs a consensus commitment from political leaders stretching over two or three decades.
+国家研究委员会的报告不太可能解决NASA的发展路线分歧， 报告的另一个结论也因此被削弱了，即NASA若想取得成功，必须要得到政治领导人连贯一致的承诺，这份承诺要能维持20年或30年。
+But the impasse between the Obama administration’s advocacy of the asteroid mission and those pushing for the moon in Congress could continue until the next president takes office in 2017.
+然而，在下届总统2017年上任之前，支持小行星任务的奥巴马政府，和推动登月的国会议员之间的僵局可能会一直持续下去 。
+“I think that is highly likely,” said John M. Logsdon, a former director of the Space Policy Institute at George Washington University. “Verging on certain.”
+乔治·华盛顿大学(George Washington University)空间政策研究所前所长约翰·M·洛格斯登(John M. Logsdon)说，“我认为，极有可能出现这种情况。我几乎可以肯定。”

@@ -1,0 +1,14 @@
+At the Salk Institute in La Jolla, California, scientists are trying to get time to run backward.
+在加利福尼亚州拉霍亚的索尔克研究所(Salk Institute)，科学家们正试图让时光倒流。
+Biological time, that is. In the first attempt to reverse aging by reprogramming the genome, they have rejuvenated the organs of mice and lengthened their life spans by 30 percent. The technique, which requires genetic engineering, cannot be applied directly to people, but the achievement points toward better understanding of human aging and the possibility of rejuvenating human tissues by other means.
+这里说的是生物时间。在通过对基因组重新编程来逆转老化的首次尝试中，科学家令小鼠的器官变得更有活力，并使它们的寿命延长了30％。这种基因工程技术不能直接应用于人类，但是其成果为更好地理解人类衰老，以及通过其他方式令人体组织恢复活力的可能性指出了方向。
+The aging process is clocklike in the sense that a steady accumulation of changes eventually degrades the efficiency of the body’s cells. In one of the deepest mysteries of biology, the clock’s hands are always set back to zero at conception: However old the parents and their reproductive cells, a fertilized egg is free of all marks of age.
+老化的过程如同时钟一般，一系列变化会稳定地积累起来，最终降低身体细胞的效率。生物学最深奥的谜团之一就是对于受精卵来说，这一时钟的指针总会归零：不管父母处于什么年纪，他们的生殖细胞有多老，受精卵上总是没有年龄的所有迹象。
+Ten years ago, the Japanese biologist Shinya Yamanaka amazed researchers by identifying four critical genes that reset the clock of the fertilized egg that are so powerful they will reprogram even the genome of skin or intestinal cells back to the embryonic state.
+十年前，日本生物学家山中伸弥(Shinya Yamanaka)确定了四个重置受精卵时钟的关键基因，它们非常强大，甚至可以为皮肤或肠道细胞的基因组重新编程，令其回到胚胎状态，这令研究人员大为震惊。
+But at the Salk Institute, Juan Carlos Izpisua Belmonte had been contemplating regeneration, the phenomenon in which certain animals, like lizards and fish, can regenerate lost tails or limbs. The cells near the lost appendage revert to a stage midway between an embryonic cell, which is open to all fates, and an adult cell, which is committed to being a particular type of cell, before rebuilding the missing limb.
+但在索尔克研究所，胡安·卡洛斯·伊斯皮苏亚·贝尔蒙特(Juan Carlos Izpisua Belmonte)一直考虑的是再生问题，就是某些动物，比如蜥蜴和鱼，可以令失去的尾巴或肢体再生的现象。在重建缺失的肢体之前，失去部分附近的细胞可以恢复到介于胚胎细胞与成年细胞之间的状态――胚胎细胞有发展为各种细胞的可能性，而成年细胞则已成为某种特定类型的细胞。
+This partial reprogramming suggested to him that reprogramming is a stepwise process, and that a small dose of the Yamanaka factors might rejuvenate cells without the total reprogramming that converts cells to the embryonic state.
+这种基因组的部分重新编程让他想到，重新编程是一个逐步进行的过程，并且少量的“山中因子”可能令细胞恢复活力，但不会令基因组彻底重新编程，导致细胞恢复到胚胎状态。
+The Salk team worked first with mice that age prematurely, so as to get quick results. “What we saw is that the animal has fewer signs of aging, healthier organs, and at the end of the experiment we could see they had lived 30 percent longer than control mice,” Izpisua Belmonte said.
+索尔克团队首先以衰老较早的小鼠作为研究对象，以便快速获得结果。“我们所看到的是，接受实验的动物的的老化迹象更少，器官更健康，并且在实验结束时，我们可以看到他们的寿命比对照组小鼠长30％，”伊斯皮苏亚·贝尔蒙特说。

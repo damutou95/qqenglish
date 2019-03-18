@@ -1,0 +1,38 @@
+One company used sensors to read body movements. Another recommended TV programs. Several others offered location and mapping services.
+一家公司使用传感器来读取身体动作，另一家公司推荐电视节目，还有其他几家公司提供的是位置和地图服务。
+All of them had at least one thing in common: They were among the more than 20 relatively small companies Apple says it has bought within the last 15 months.
+这些公司至少有一个共同点：苹果(Apple)表示已在过去15个月内收购了20多家相对较小的公司，它们都在其中。
+As fellow tech giants have reached billion-dollar deals in recent years to add significant new arms to their businesses — like Facebook buying WhatsApp for as much as $19 billion, and Microsoft buying Nokia’s handset business for more than $7.1 billion — Apple has ventured down a different path.
+近年来，其他科技巨头已经达成了数十亿美元的交易，为自身业务增添了重要的新实力——比如Facebook以190亿美元（约合1157亿元人民币）天价买下WhatsApp，微软斥资逾71亿美元收购诺基亚手机业务——而苹果则选择了一条不同的道路。
+The company has avoided jaw-dropping takeovers in favor of a series of smaller deals, using the companies to buttress or fill a gap in products that already exist or are in development.
+苹果没有采取令人瞠目结舌的大额收购行动，而是选择了一系列规模较小的交易，利用这些公司来支撑或者填补现有产品或正在开发的产品的需要。
+Still, in the past few years, Apple has gradually increased its overall spending on these acquisitions. In the last quarter, for instance, Apple spent $525 million on acquisitions, nearly double what it spent in the same period a year ago.
+尽管如此，在过去的几年中，苹果公司进行这种收购的整体开支也在逐步增加。比如上个季度，苹果的收购支出达5.25亿美元，较上年同期翻了将近一番。
+And while the deals may be small — particularly given Apple’s nearly $160 billion cash hoard — they offer a window into where the secretive company is headed and which products and services it is trying to build or improve.
+虽然这些交易的规模可能不大——尤其是考虑到苹果的现金储备接近1600亿美元——但它们提供了一个窗口，让人一窥这个神秘的公司打算走向何方，以及试图创建或改善哪些产品和服务。
+Apple’s biggest acquisition last year was PrimeSense, a company with about 150 employees that Apple bought for $300 million to $350 million, according to reports. PrimeSense developed sensors that helped Microsoft let Xbox owners control games using body movements, and some analysts say Apple could eventually apply PrimeSense’s skills and technology to a television set. Apple also bought Matcha.tv, a service that recommended things to watch on TV, another acquisition that signals its strong interest in the living room.
+据报道，苹果去年最大的一笔收购是PrimeSense，它大约有150名员工，苹果的收购价在3亿到3.5亿美元之间。PrimeSense公司开发的传感器让用微软Xbox玩游戏的人可以利用身体动作来控制游戏，一些分析师说，苹果可能最终会把PrimeSense的技术和能力运用到电视机上。苹果还收购了电视节目推荐服务Matcha.tv，这宗交易也显示出苹果对客厅产品拥有浓厚的兴趣。
+And Apple’s purchase of location data services like Locationary, HopStop and Embark suggests a steadfast interest in Internet services — especially mapping, where Apple has been harshly criticized for lacking the competence of its competitors Google and Nokia.
+苹果收购位置数据服务Locationary、HopStop和Embark，显示了它对互联网服务坚定不移的兴趣——尤其是地图服务；苹果在地图服务领域饱受诟病，人们说它的竞争力落后于对手谷歌和诺基亚。
+“They’re pre-emptively investing in areas where they think there are opportunities to grow,” said Ben Bajarin, a consumer technology analyst for Creative Strategies who follows Apple. “Without doubt Apple is a bit more focused and lean in their approach and disciplined about the things they buy.”
+“苹果以先发制人的姿态投资了一些他们认为存在发展机会的领域。”创意策略(Creative Strategies)公司追踪苹果发展的消费者技术分析师本·巴加林(Ben Bajarin)说。“毫无疑问，苹果的收购方式侧重性更强，更加俭省，选取收购对象时也更有节制。”
+But as the growth of Apple’s profit has slowed in the past couple of years, some pundits and analysts have called for the company to break into other markets and create new revenue streams through a game-changing deal. Investors and analysts have suggested that Apple should buy Tesla to build cars, Facebook to get into advertising, Netflix to get deeper into the entertainment industry, and even Yahoo to get into the search business.
+但是，随着苹果利润增速在过去几年放缓，一些学者和分析人士呼吁该公司开展一个可以带来巨大变化的收购行动，以便进军其他市场，创造新的收入流。投资者和分析师建议苹果收购特斯拉(Tesla)进军汽车业，收购Facebook进军广告业，收购Netflix进一步深入娱乐业，甚至是收购雅虎进入搜索业务。
+Apple declined to comment for this article, but none of those possibilities appear close to coming true.
+苹果公司拒绝对此置评，但这些建议似乎都不大可能成真。
+Still, Timothy D. Cook, the company’s chief executive, has said in the past that Apple would have no problem paying billions for another company if it would help Apple make more high-quality products.
+不过，苹果首席执行官蒂莫西·D·库克(Timothy D. Cook)过去也曾表示，如果收购另一家公司能帮助苹果推出更优质的产品，该公司支付数十亿美元也不成问题。
+Apple has kept the stakes low in recent years. Several of the companies it has bought had as few as one or two people, like SnappyLabs, a one-man developer of a camera app. The founder, John Papandriopoulos, an electrical engineer, had developed an app to make the iPhone’s camera take high-resolution photos at a faster frame rate than Apple’s built-in camera software. Apple bought the company this year and made Mr. Papandriopoulos a software engineer.
+最近几年，苹果的收购规模一直相对较小。其中一些买下的公司仅有一两个人，比如摄像头应用SnappyLabs就是由一名开发者独立运作的。此人名叫约翰·帕潘德里波勒斯(John Papandriopoulos)，是一名电气工程师，使用他开发的这个应用，iPhone摄像头可以用快于苹果内置摄像头软件的帧率拍摄高清照片。苹果今年收购了该公司，帕潘德里波勒斯也成为了苹果的软件工程师。
+These tiny acquisitions, made in large part to add the skills of an individual as much as the company, are known as acquihires in Silicon Valley. Most other major tech companies make them frequently as well. Facebook has been especially keen about buying small companies, like when it acquired Beluga, a group messaging app, to improve Facebook’s messaging services, and when it bought Push Pop Press, a digital book maker, to make its newsreader Paper.
+这种小型收购在硅谷被称为“购雇”(acquihires)，很大程度上既是为了收购公司，也是为了招揽人才。大多数其他知名科技公司也经常进行“购雇”。Facebook特别热衷于购买小公司，比如它收购了短信群发应用Beluga来改进自身的讯息服务，收购数字图书制作公司Push Pop Press来打造自己的新闻阅读器Paper。
+When Apple buys a start-up with more than a couple of people, it is often looking for groups with specific skills who work well together as a team, according to a person who worked at a start-up Apple acquired last year, who spoke on the condition of anonymity because he was not authorized to speak to the press. Apple then takes these small teams and assigns them to new projects or pairs them with older teams at Apple.
+一名曾在苹果去年收购的一家初创公司工作过的人说，当苹果收购一家拥有一定人数的员工的初创公司时，它往往想要的是拥有特定专长且能够开展良好团队合作的一群人。由于没有授权与媒体对话，此人要求匿名。随后，苹果会为这些小团队分配新的项目，或者让他们与苹果原有的团队进行合作。
+“Maps was a place where they did a lot of acquisitions, and that was a product that came out very flat,” said Maynard Um, a financial analyst for Wells Fargo. “They had the option to invest organically to get that product up to speed or go out and acquire other things.”
+富国银行(Wells Fargo)的金融分析师梅纳德·乌姆(Maynard Um)说，“苹果在地图领域实施了大量收购，但他们的地图产品却表现平平，他们可以用有机的方式投资，让产品获得提升，或者走出去收购其他类型的公司。”
+But just as those acquisitions suggest areas where the company is trying to catch up, others offer strong hints about new areas where the company is aiming to be a leader.
+这些收购显示出苹果正努力在哪些领域追上对手，与此同时，另外一些收购交易则暗示了，这家公司正打算在哪些领域成为领导者。
+One of those deals was reached with PrimeSense, the chip maker that makes 3-D sensors. Although the company’s technology has so far been used mostly for applications on a TV, and Apple would likely look into similar uses, Mr. Bajarin of Creative Strategies said he expected Apple to look far and wide for other uses of the technology. Possible options, he said, could include things like turning the iPhone’s camera into a 3-D scanner, which could send images to be reproduced by a 3-D printer, for instance.
+其中一笔交易是与制作3D传感器的芯片制造商PrimeSense达成的。尽管该公司的技术迄今为止主要应用于电视机上，苹果可能会探索类似的更多用途。创意策略的巴加林说，他预计苹果将不遗余力地寻找该技术的其他用途。他说，比如说，可能的选项包括把iPhone摄像头变成一台3D扫描仪，这种3D扫描仪能够把需要复制的物品图像发送给3D打印机。
+“Apple has historically never done anything because someone told them to do something,” Mr. Um said. “They do what they think is right and they go down that path.”
+乌姆说，“迄今为止，还没有哪件事是苹果因为别人的要求才去做的。他们只做自己认为正确的事，并且沿着那条路一直走下去。”

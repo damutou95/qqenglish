@@ -1,0 +1,14 @@
+Archaeologists have long studied the ancient, crumbling temples of Angkor in Cambodia as sites of worship and gathering. But how Angkor functioned as a city remained unknown.
+柬埔寨吴哥的那些寺庙古老而破败，长期以来，考古学家一直把它们当做礼佛和集会场所进行考察。然而，吴哥作为一个城市是如何运作的，仍是个谜。
+Now, the airborne laser-scanning technology called lidar has helped fill those gaps, producing maps that reveal remnants of a highly engineered urban landscape hidden beneath a blanket of jungle and rice fields.
+现在，被称作激光雷达的机载激光扫描科技已帮助填补了这些空白：它能生成一些地图，展示出在大片丛林和稻田掩盖之下，存在一座设计水平颇高的城市的遗迹。
+“In 20 hours of flying we achieved what may have taken decades of ground surveys,” said Damian Evans, an archaeologist at the University of Sydney in Australia.
+澳大利亚悉尼大学(University of Sydney)的考古学家达米安·埃文斯(Damian Evans)说，“在持续20小时的飞行中，我们获得了可能需要数十年地面调查才能获得的成果。”
+Dr. Evans and an international team of researchers analyzed data from about 140 square miles surrounding three ancient Khmer sites: Angkor, Phnom Kulen and Koh Ker. From helicopters, lidar (light detection and ranging) bombards the ground with millions of laser pulses, some of which find their way to the forest floor through gaps in vegetation. It measures the distance between the instrument and the ground, allowing researchers to create high-precision elevation maps.
+埃文斯博士和一个研究者组成的国际团队，分析了取自约140平方英里区域的数据，这些区域覆盖了三个高棉国古代遗址：吴哥、荔枝山以及贡开。从直升机上，激光雷达（光探测和测距）朝地面发射了数以百万计的激光脉冲，其中一些通过森林植被之间的空隙投射到地面上。它能够测量设备和地面之间的距离，让研究者能够制作出非常精准的高程图。
+Researchers have greatly underestimated the breadth of urban landscapes that once surrounded the famous temples, the team concludes in a paper to be published in The Proceedings of the National Academy of Sciences. Roads crisscrossed the region and formed urban grids that extended far beyond the enclosed walls of Angkor Wat. Water management systems allowed a dense, formally planned downtown core to thrive.
+在一篇将在《美国国家科学院院刊》(The Proceedings of the National Academy of Sciences)发表的论文中，该研究团队总结道，研究人员此前大大低估了那些环绕着著名寺庙的城市景观的面积。该地区的道路曾纵横交错，形成一张城市网络，其覆盖面积远远超出了吴哥窟的外墙。那里的用水管理系统支撑了一个人口密集、规划严谨的市中心，让它得以繁荣发展。
+The intensity of these developments may have contributed to the Khmer Empire’s undoing in the 15th century. The lidar suggests that deforestation accompanied urban growth, perhaps increasing the civilization’s vulnerability to the elements.
+也许，正是发展的强度在一定程度上造成了高棉帝国在15世纪的毁灭。激光雷达显示，随着城市发展，森林遭采伐，这或许让该文明在面对自然灾害时更加脆弱。
+“We’re increasingly coming to the conclusion that these environmental factors played a role in the demise of the city of Angkor,” Dr. Evans said. 
+“我们越来越接近这样的结论，即环境因素在吴哥城的消亡中扮演了一定角色，”埃文斯博士说。

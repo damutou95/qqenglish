@@ -1,0 +1,16 @@
+WASHINGTON — WikiLeaks on Tuesday released thousands of documents that it said described sophisticated software tools used by the CIA to break into smartphones, computers and even Internet-connected televisions.
+华盛顿——维基解密(WikiLeaks)周二发布了数千份文件，称这些文件涉及中央情报局(CIA)用以入侵智能手机、电脑乃至联网电视的尖端软件工具。
+If the documents are authentic, as appeared likely at first review, the release would be the latest coup for the anti-secrecy organization and a serious blow to the CIA, which maintains its own hacking capabilities to be used for espionage.
+如果这些文件是真实的——经过初步查验似乎的确是这样——那么将其公之于众便是该反秘密组织的最新一次胜利，也是对CIA的沉重打击，后者自身一直拥有用于间谍活动的网络入侵能力。
+The initial release, which WikiLeaks said was only the first part of the document collection, included 7,818 web pages with 943 attachments, the group said. The entire archive of CIA material consists of several hundred million lines of computer code, it said.
+维基解密称，最初公布的这些包括7818个网页及943个附件的文件只是文件集的第一部分。它表示，CIA资料的整个档案由几亿行计算机代码构成。
+Among other disclosures that, if confirmed, would rock the technology world, the WikiLeaks release said that the CIA and allied intelligence services had managed to bypass encryption on popular phone and messaging services such as Signal, WhatsApp and Telegram. According to the statement from WikiLeaks, government hackers can penetrate Android phones and collect “audio and message traffic before encryption is applied.”
+维基解密公布的文件包含这样一条信息：CIA及其联盟情报机构已经成功绕过了Signal、WhatsApp和Telegram等广受欢迎的电话和讯息服务的加密系统。此事如果得到确认，将对科技界造成巨大冲击。维基解密发声明称，政府的黑客可以入侵安卓手机，并搜集“尚未加密的音频和讯息传输数据”。
+The source of the documents was not named. WikiLeaks said the documents, which it called Vault 7, had been “circulated among former U.S. government hackers and contractors in an unauthorized manner, one of whom has provided WikiLeaks with portions of the archive.”
+文件来源未被公布。将这批文件命名为“七号保险库”(Vault 7)的维基解密称，它们“曾在为政府工作过的黑客和承包商中间以未经授权的方式流传，其中一人把部分档案提供给了维基解密。”
+WikiLeaks said the source, in a statement, set out policy questions that “urgently need to be debated in public, including whether the CIA’s hacking capabilities exceed its mandated powers and the problem of public oversight of the agency.” The source, the group said, “wishes to initiate a public debate about the security, creation, use, proliferation and democratic control of cyberweapons.”
+维基解密在一份声明中称，文件提供者提出了“亟待公众讨论”的政策问题——其中包括CIA的网络入侵能力是否超出了其权责范围——以及该机构接受公众监督的问题。维基解密称，文件提供者“希望引发公众关于网络武器的安全、创建、使用、扩散和民主控制的讨论。”
+The documents, from the CIA’s Center for Cyber Intelligence, are dated from 2013 to 2016 and WikiLeaks described them as “the largest ever publication of confidential documents on the agency.” One former intelligence officer who briefly reviewed the documents on Tuesday morning said some of the code names for CIA programs, an organization chart and the description of a CIA hacking base appeared to be genuine.
+这批文件来自CIA网络情报中心(Center for Cyber Intelligence)，标注的日期在2013年至2016年之间，维基解密称之为“迄今披露的数量最大的一批CIA机密文件”。一名于周二早上简要审核过文件的前情报官员称，某些CIA项目代号、一张组织结构图以及对一个CIA黑客基地的描述似乎是真实的。
+A CIA spokesman, Dean Boyd, said, “We do not comment on the authenticity or content of purported intelligence documents.”
+CIA发言人迪安·博伊德(Dean Boyd)说，“我们对所谓的情报文件的真实性或内容不予置评。”

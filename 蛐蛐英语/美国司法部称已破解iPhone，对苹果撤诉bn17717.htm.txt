@@ -1,0 +1,18 @@
+SAN FRANCISCO — The Justice Department said Monday that it had found a way to unlock an iPhone without help from Apple, allowing the agency to withdraw its legal effort to compel the company to assist in a mass-shooting investigation.
+旧金山——美国司法部(Justice Department)周一表示，它已经找到解锁iPhone的办法，无需苹果公司的帮助，因此该机构就可以撤销对苹果公司的诉讼，不再用法律方式迫使公司协助它调查一桩大规模枪击案。
+The decision to drop the case — which involved demanding Apple’s help to open the iPhone used by Syed Rizwan Farook, a gunman in the December shooting in San Bernardino, Calif., that killed 14 people — ends a standoff between the government and the world’s most valuable public company. The case had become increasingly contentious as the company refused to help authorities, citing privacy issues.
+政府在该案中要求苹果公司帮助解锁枪手赛义德·里兹万·法鲁克(Syed Rizwan Farook)用过的手机，此人参与的加州圣贝纳迪诺枪杀案导致14人遇害。撤诉该案的决定结束了政府和世界上市值最高的上市公司之间的对峙。苹果公司以隐私问题为由，拒绝为当局提供帮助。这个案子的争议性已经在与日俱增。
+“The government has now successfully accessed the data stored on Farook’s iPhone and therefore no longer requires the assistance from Apple,” the Justice Department said in a filing on Monday.
+“政府现在已经成功访问了存储在法鲁克iPhone上的数据，因此不再需要苹果公司提供协助，”司法部在周一的文件中表示。
+Yet law enforcement’s ability to unlock an iPhone through an alternative method raises new uncertainties, including questions about the strength of Apple’s security on its devices. The development also creates potential for new conflicts between the government and Apple. Lawyers for Apple have previously said that the company would want to know the method used to crack open the device. The government may make that method classified.
+然而，执法机构可以采用另一种方法来解锁iPhone，也带来了新的不确定性，包括苹果保证其设备安全性的能力问题。这也为政府和苹果之间产生新的冲突创造了可能性。苹果的律师之前已经表示，公司想知道政府用什么方法破解了这部设备。而政府可能会对该方法保密。
+“From a legal standpoint, what happened in the San Bernardino case doesn’t mean the fight is over,” said Esha Bhandari, a staff attorney at the American Civil Liberties Union. She noted that the government generally goes through a process whereby it decides whether to disclose information about certain vulnerabilities so that manufacturers can patch them.
+“从法律的角度来看，圣贝纳迪诺枪击案调查的进展并不意味着战斗的结束，”美国公民自由联盟(American Civil Liberties Union)的法务专员依莎·班达里(Esha Bhandari)说。她指出，政府通常会有一个考虑的过程，决定是否披露和漏洞有关的信息，便于厂商打补丁。
+“I would hope they would give that information to Apple so that it can patch any weaknesses,” she said, “but if the government classifies the tool, that suggests it may not.”
+“我希望他们把这些信息提供给苹果，便于它打补丁，”她说，“但如果政府对这个工具保密，就表明它可能不会那么做。”
+Melanie Newman, a spokeswoman for the Justice Department, said in a statement that authorities had “successfully retrieved the data stored on the San Bernardino terrorist’s iPhone” and that the F.B.I. is currently reviewing the information.
+司法部发言人梅拉妮·纽曼(Melanie Newman)在一份声明中说，当局已“成功地提取了存储在圣贝纳迪诺恐怖案相关iPhone中的数据”，联邦调查局(FBI)目前正在检查这些信息。
+“It remains a priority for the government to ensure that law enforcement can obtain crucial digital information to protect national security and public safety, either with cooperation from relevant parties, or through the court system when cooperation fails,” she added. “We will continue to pursue all available options for this mission, including seeking the cooperation of manufacturers and relying upon the creativity of both the public and private sectors.”
+“确保执法机构可以获得关键性的数字信息，以保护国家和公共安全，依然是政府的一个优先要务，无论这需要与有关各方合作，还是在合作失败的时候走法律途径，”她说。“我们将继续探求各种可选的方式来达成这一使命，包括寻求厂家合作，以及依靠公共和私营部门的创造力。”
+Apple did not immediately respond to calls for comment.
+苹果没有立即回应记者请求置评的电话。

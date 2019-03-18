@@ -1,0 +1,26 @@
+In what could prove to be a ruling with serious implications for the on-demand economy, the California Labor Commission has ruled that an Uber driver should be classified as an employee, not an independent contractor.
+加州劳工委员会(California Labor Commission)裁定，优步(Uber)司机应属于员工，而不是独立的承包商。该裁定可能会对按需经济造成重大影响。
+The ruling, made June 3, came to light after Uber filed an appeal Tuesday. The ruling ordered the company to reimburse Barbara Ann Berwick, a former Uber driver, $4,152.20 in expenses and other costs for the period when Berwick worked as a driver.
+这项裁定是在6月3日做出的，在优步本周二提起上诉后才受到外界关注。该裁定要求该公司偿付芭芭拉·安·贝里克(Barbara Ann Berwick)担任优步司机期间发生的4152.20美元（约合2.5万元人民币）开支和费用。
+Uber has long positioned itself as a “logistics company,” an app that drivers and passengers use merely to facilitate private transactions and not a transportation fleet with tens of thousands of employee drivers. The company argued it did not exert any control over the hours its drivers worked and did not require drivers to complete a minimum number of trips, according to the court filing.
+优步对自己的定位不是一个有数万员工的运输车队，而是一家“后勤公司”，司机和乘客使用其应用，仅仅是为了便于私人交易。法庭文件显示，该公司认为它对司机的工作时长没有进行任何控制，也没有要求司机完成最低的载客次数。
+But the Labor Commission cited many instances in which it said Uber acted more like an employer. The ruling noted that Uber provided drivers with phones and had a policy of deactivating its app if drivers were inactive for 180 days.
+但劳工委员会列举了很多实例，来说明优步的行为更像是一个雇主。这项裁定指出，优步为司机配备了手机，并制定了一个政策：如果司机连续180天没有提供服务，公司就会停用其账号。
+“Defendants hold themselves out as nothing more than a neutral technological platform, designed simply to enable drivers and passengers to transact the business of transportation,” the ruling states. “The reality, however, is that defendants are involved in every aspect of the operation.”
+“被告坚称自己无非是一个中立的技术平台，目的只是为了让司机和乘客进行运输业务交易，”裁决写道。“但实际情况是，被告参与了交易的各个方面。”
+In a statement, Uber said “the California Labor Commission's ruling is nonbinding and applies to a single driver.” The California Labor Commission did not immediately respond to phone and email requests for comment.
+在一份声明中，优步说“加州劳工委员会的裁定是没有约束力的，仅适用于具体的某个司机”。加州劳工委员会没有立即回应请求置评的电话和电邮。
+Uber, valued at $40 billion and in talks to raise money at about a $50 billion valuation, has become the symbol of the on-demand economy. These online services and apps act as virtual labor marketplaces for people willing to use their own possessions — cars, homes, even parking spaces — to provide services to the public at the touch of a smartphone button.
+优步是一家估值40亿美元的公司，正在准备以50亿美元左右的估值筹集资金，它已经成为按需经济的象征。这些在线服务和应用提供了虚拟的就业市场，如果你愿意通过智能手机，用自己的财产——汽车、住房，甚至停车位——为他人提供服务，在智能手机上就可以做到。
+The category of on-demand companies has exploded. Venture capitalists have invested more than $9.4 billion into such startups since 2010, according to data from CB Insights, a venture capital analysis firm, spawning on-demand laundry services and on-demand hair primpers, among others.
+经营按需经济的企业出现了爆炸式增长。风险资本分析公司CB Insights的数据显示，自2010年以来，已经有超过94亿美元的风投资金注入了这类初创公司，大量催生了按需洗衣、按需修饰仪容等诸多服务。
+Given that Uber has disrupted entrenched taxi and transportation industries, the company, which is based in San Francisco and led by Travis Kalanick, has often run into regulatory hurdles worldwide. In China, local authorities have raided Uber offices in two cities over questions about whether its service is legal because drivers are not licensed. In the United States, cities including Portland, Oregon, have claimed that Uber operated an “illegal, unregulated transportation service.”
+优步总部设在旧金山，首席执行官是特拉维斯·卡兰尼克(Travis Kalanick)。该公司颠覆了树大根深的出租车和交通行业，因此经常在全球各地遇到监管障碍。在中国的两个城市，地方政府质疑其服务的合法性，对该公司的办公室进行了突击检查，原因是优步司机没有服务许可证。在俄勒冈州波特兰等城市，有人称优步在经营“不受监管的非法运输服务”。
+Classifying Uber's drivers as employees may turn out to be an even bigger roadblock to the company's business than regulatory changes because it could change Uber's cost structure, requiring it to offer health insurance and other benefits, as well as paying salaries. On-demand companies have been premised on the idea that people who find piecemeal work through these online marketplaces are freelancers, not employees entitled to costly benefits.
+相对于监管政策的变化，将优步司机归类为员工可能会给该公司的业务带来更大的阻碍，因为这可能会改变优步的成本结构，要求其向司机提供健康保险和其他福利，并且支付工资。而按需公司经营的前提是，人们通过这些网上市场找到零碎的工作，他们是自由职业者，不是员工，因此不享受福利待遇，增加公司成本。
+Uber's driver ranks have swelled globally. At a presentation this month celebrating Uber's five-year anniversary, Kalanick said the company had 26,000 drivers in New York City alone, 15,000 in London, 22,000 in San Francisco, 10,000 in Paris and 20,000 in Chengdu, China. The company is now operating its service in more than 300 cities across six continents.
+在全球范围内，优步的司机人数大幅增加。本月是优步诞生五周年纪念，卡兰尼克表示，该公司在在纽约有2.6万名司机，在伦敦有1.5万，旧金山2.2万，巴黎1万，成都2万。该公司目前在六个大洲的300多个城市经营业务。
+“Every single month, Uber is adding hundreds of thousands of drivers around the world,” Kalanick said at the presentation.
+“每个月，优步在全球的司机人数都会增加几十万，”卡兰尼克在做报告时提到。
+Uber has faced legal action in the past over the status of its workers. Drivers have filed class-action lawsuits against the company, including in U.S. District Court in San Francisco, saying they were misclassified as independent contractors.
+在优步工作者的身份问题上，该公司以前也遇到过法律诉讼。司机向旧金山的联邦地区法院以及其他法院提起过集体诉讼，称该公司将他们归类为独立承包商是错误的。

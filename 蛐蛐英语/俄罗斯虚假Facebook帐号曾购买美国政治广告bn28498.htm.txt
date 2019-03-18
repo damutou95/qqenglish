@@ -1,0 +1,22 @@
+SAN FRANCISCO — Hundreds of fake Facebook accounts and pages apparently operated out of Russia bought $100,000 in political ads on Facebook during the presidential campaign last year, the company disclosed Wednesday.
+旧金山——Facebook周三透露，在去年的总统竞选期间，数百个似乎源自俄罗斯的虚假Facebook帐号和页面购买了10万美元（约合65万元人民币）的政治广告。
+The revelations about ads on the social network can only add to the continuing political skirmishing in Washington over Russia’s role in the election. Robert Mueller, the special counsel, and the Senate and House intelligence committees are all investigating the matter, including the possibility that someone with ties to President Donald Trump’s campaign worked with Russia.
+此番社交网络广告的爆料，只会加剧华盛顿围绕俄罗斯在去年大选中的角色持续上演的政治冲突。特别检察官罗伯特·穆勒(Robert Mueller)和参众两院的情报委员会都在调查此事，包括某个和唐纳德·特朗普(Donald Trump)的竞选团队有关系的人和俄罗斯合作的可能性。
+Facebook officials said the fake accounts and pages had been connected to a shadowy Russian company called the Internet Research Agency, which is known for using “troll” accounts to post on social media and comment on news websites.
+Facebook的管理层表示，虚假帐号和页面与俄罗斯一家名为互联网研究机构(Internet Research Agency)的神秘公司有关系。后者因为利用“钓鱼”帐号在社交媒体上发帖和在新闻网站上发表评论而出名。
+Most of the 3,000 ads did not refer to particular candidates but instead focused on divisive social issues such as race, gay rights, gun control and immigration, according to a Facebook post by Alex Stamos, the company’s chief security officer. The ads violated Facebook’s policies, and the company said it had shut down the 470 pages and accounts associated with them.
+据Facebook首席安全官亚力克斯·斯塔莫斯(Alex Stamos)发帖称，这3000条广告中大部分没有提到特定的候选人，侧重的是种族、同性恋权利、枪支管控和移民等容易引起争议的社会问题。这些广告违反了Facebook的政策，该公司表示已关闭和它们有关的470个页面和帐号。
+Stamos said Facebook is cooperating with the investigations.
+斯塔莫斯说，Facebook正在配合调查。
+Facebook, which offers a sophisticated level of targeting to advertisers, has been in the center of a storm over the role that it played in propagating fake news and other misleading information during the campaign.
+因为竞选期间在宣传虚假新闻和其他误导信息中所扮演的角色，向广告商提供精准定位的Facebook一直处在一场风暴的中心。
+In its review of election-related advertising, Facebook said it had also found an additional $50,000 in potential political ad spending from other accounts connected with Russia.
+在就和选举有关的广告撰写的一份报告中，Facebook还表示，发现了来自其他和俄罗斯有关的帐号的另外五万美元潜在政治广告费用。
+In a January report, the FBI, CIA and National Security Agency concluded that the Russian government was responsible for hacking Democratic targets and leaking thousands of emails and other documents in an attempt to hurt Hillary Clinton’s campaign.
+在1月的一份报告中，联邦调查局(FBI)、中央情报局(CIA)和国家安全局(National Security Agency)断定，俄罗斯政府应为对民主党目标发起黑客袭击和泄露数以千计的电子邮件和其他文件，试图以此打击希拉里·克林顿(Hillary Clinton)的竞选团队负责。
+The report also found that Russian “trolls,” or paid social media users, had posted anti-Clinton messages. But it did not address the question of advertising.
+这份报告还发现，俄罗斯的“钓鱼帖子”，或付费社交媒体用户，发表反对希拉里·克林顿的言论。但报告没有提到广告问题。
+One question underlying the investigation of possible collusion between the Trump campaign and Russia is whether Russia-sponsored operators would have needed any guidance from American political experts. Facebook said that some of the ads linked to Russian accounts had targeted particular geographic areas, which may raise questions about whether anyone had helped direct such targeting.
+在对特朗普竞选团队和俄罗斯可能存在的共谋进行的调查中，一个根本问题是，俄罗斯资助的操作人员会否需要美国政治专家的指导。Facebook称，一些和俄罗斯的帐号有关的广告把目标对准了特定的地理区域，这可能会引发对是否有人帮助引导了这种目标定位的疑问。
+Trump has often dismissed the Russian hacking story as “fake news” and bristled at any implication that the Russian president, Vladimir Putin, had helped him win. To date, while news reports have uncovered many meetings and contacts between Trump associates and Russians, there has been no evidence proving collusion in the hacking or other Russian activities.
+特朗普经常对俄罗斯黑客袭击的说法不屑一顾，称其是“假新闻”，并对任何有关俄罗斯总统弗拉基米尔·普京(Vladimir Putin)帮助他赢得大选的暗示大为光火。迄今为止，尽管新闻报道揭露了特朗普的助手和俄罗斯方面的诸多会面和往来，但尚没有证据证明在黑客袭击或俄罗斯的其他活动中存在合谋。

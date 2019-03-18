@@ -1,0 +1,40 @@
+As NASA’s Juno spacecraft closes in for its Monday arrival at Jupiter, many other eyes are also staring at the solar system’s largest planet.
+美国宇航局(NASA)的“朱诺号”探测器将于周一抵达木星。随着这一天的临近，其他很多双眼睛也在盯着太阳系最大的行星木星。
+Data from about 25 observatories — including some of the largest on Earth, like the W. M. Keck Observatory in Hawaii, and in orbit around Earth, like the Hubble Space Telescope — will aid scientists in interpreting the data that Juno is expected to gather as it swoops close to the cloud tops of Jupiter over the next 20 months.
+接下来的20个月里，“朱诺号”预计会在从空中接近木星的表面云层时收集相关数据。来自大约25个观测点——包括地球上最大的一些天文台，如位于夏威夷的W·M·凯克天文台(W. M. Keck Observatory)，以及绕地轨道上的望远镜，如哈勃太空望远镜(Hubble Space Telescope)——的数据，将协助科学家对“朱诺号”收集到的数据进行解读。
+It has taken Juno nearly five years to reach this point in its journey.
+“朱诺号”用了近五年时间，才到达这个位置。
+“In just a few days, we’re about to arrive at Jupiter, and it’s hard to believe,” Scott Bolton, the mission’s principal investigator, said at a NASA news conference on Thursday.
+“几天后我们就要到达木星了，真是难以置信，”此次任务的首席研究员斯科特·博尔顿(Scott Bolton)周四在NASA的新闻发布会上说。
+Around last Friday, Juno crossed from interplanetary space into the magnetic bubble surrounding Jupiter that deflects the stream of particles from the sun known as the solar wind. “Inside that magnetosphere is Jupiter’s domain that’s filled with its particles,” Dr. Bolton said. “It has blocked out the sun’s particles.”
+“朱诺号”于上周五前后穿过星际空间，进入包围木星的磁泡。磁泡使来自太阳的粒子流，即太阳风发生偏转。“那个磁力圈里便是木星的领地，充满了粒子，”博尔顿说。“它挡住了太阳的粒子。”
+One of Juno’s instruments measures radio emissions from the charged particles, and those radio waves are easily converted into sound waves, which sharply changed in tone as the spacecraft crossed the “bow shock,” where Jupiter’s magnetic field plows through the solar wind.
+“朱诺号”携带的其中一台仪器，是用来测量带电粒子的无线电发射的。那些无线电波容易被转化成声波。探测器穿过“弓形激波”，即木星的磁场费力地穿过太阳风时形成的激波时，声波的音调发生巨变。
+“Just the sound of it can tell you it’s nontrivial to go into Jupiter,” Dr. Bolton said, as NASA released the recording of it.
+“单是它的声音就表明进入木星不简单，”博尔顿在NASA公布录音时说。
+A couple of days ago, the propulsion system was pressurized in preparation for the firing of the spacecraft’s engine, which will take 35 minutes on Monday. On Thursday, the last set of instructions before the arrival was sent to Juno.
+几天前，为了准备探测器发动机在周一的点火，推进系统进行了加压。点火过程将需要35分钟。周四当天，抵达木星前的最后一组指令已被发送给“朱诺号”。
+“Then it’ll be hands-off from the team,” said Edward Hirst, the mission manager. “The spacecraft is on its own, and it’s designed to take care of itself.”
+“然后就没任务团队的事了，”任务主管爱德华·赫斯特(Edward Hirst)说。“探测器独自行动，设计时就考虑了它自行运转的能力。”
+When in orbit, Juno’s instruments will be able to peer deep into Jupiter, but only for a narrow swath. The faraway observations by telescopes will “fill in the blanks to get the big-picture story,” Leigh Fletcher, of the University of Leicester in England, said in an interview. “We’ll have the best observational data set of Jupiter that we’ve ever had.”
+进入轨道后，“朱诺号”上的仪器将能深入探测木星，不过只能看到一小片地区。英格兰莱斯特大学(University of Leicester)的利·弗莱彻(Leigh Fletcher)在接受采访时表示，望远镜的远距离观察“将填补空白，让我们有一个总体的了解。我们将获得有史以来最好的木星观测数据。”
+This week, Dr. Fletcher and his colleagues released infrared photographs of Jupiter seemingly on fire. “You can see the internal glow of Jupiter coming out,” Dr. Fletcher said. “Those clouds are colder and are absorbing in the infrared.”
+本周，弗莱彻博士和同事公布了几张红外照片，照片上的木星像是着火了一样。“能看到从木星内部散发出来的光，”弗莱彻说。“那些云的温度要低一些，正在吸收红外线。”
+Once Juno begins orbiting Jupiter, each time that the spacecraft zips in close, the team will take similar photographs using the European Southern Observatory’s Very Large Telescope in Chile “to place the Juno close-up observations in their broader spatial context.”
+一旦“朱诺号”开始绕木星运转，探测器每次接近木星时，任务团队都会利用欧洲南方天文台(European Southern Observatory)设在智利的甚大望远镜(Very Large Telescope)拍摄类似的照片，“将‘朱诺号’的近距离观察置于更大范围的空间背景中。”
+For example, Dr. Fletcher said he wanted to piece together Juno’s measurements of ammonia and water — key constituents of Jupiter’s clouds — with the weather patterns seen in the Very Large Telescope pictures.
+比如，弗莱彻说他希望把甚大望远镜观测到的天气规律，和“朱诺号”测量到的氨和水——木星云层的关键成分——数据放在一起。
+With Juno providing the first good look at Jupiter’s poles, Dr. Fletcher is curious as to whether huge hurricane-like storms rage, similar to what has been observed in Saturn’s polar regions. The auroras — glowing patterns powered by charged particles slamming into the atmosphere — might also affect the weather.
+“朱诺号”将让人们首次有机会好好观察木星的两极。弗莱彻博士想知道，是否会出现像飓风一样的暴风雨，就像在土星的两极地区观察到的那样。极光——带电粒子撞向大气层时产生的发光现象——可能也会影响天气。
+To gain more data on the auroras, the Hubble Space Telescope has been staring at Jupiter for 45 minutes every day for the past month. At Earth, auroras light up when solar wind particles slam into molecules of air near the polar regions. At Jupiter, the charged particles come mostly from a different source: the volcanos of Io. Jupiter’s powerful magnetic fields then accelerate the particles into the planet’s atmosphere.
+过去一个月里，为了获取更多有关极光的数据，哈勃太空望远镜每天都要盯着木星看45分钟。在地球上，当太阳风粒子与两极地区附近的大气中的分子相撞时，会发生极光现象。在木星上，带电粒子主要来自另一个来源：木卫一上面的火山。然后，木星强大的磁场促使粒子加速进入木星的大气层。
+At times, the auroras are subdued. At other times, they are “almost like fireworks going off in the ionosphere of Jupiter,” said Jonathan Nichols, a University of Leicester scientist who is leading the Hubble study.
+有时候，极光颇为柔和。但其他时候，它们“几乎像是木星电离层里燃放的烟花，”领导哈勃研究的莱斯特大学科学家乔纳森·尼克尔斯(Jonathan Nichols)说。
+One of the things that is unknown is how much the solar wind contributes to Jupiter’s auroras. “We’ll be working on that over the next few weeks and months,” Dr. Nichols said.
+迄今尚待解答的其中一个问题是，太阳风对木星极光的影响有多大。“我们将在接下来的几周和几个月里研究这个问题，”尼克尔斯说。
+On Earth, auroras appear over an area about as large as the United States. Jupiter’s auroras, like everything else on Jupiter, are vastly larger, about as wide as five Earths.
+在地球上，能看到极光的地区在面积上大约和美国相当。木星的极光区，就像木星上的所有事物一样，都会大得多，大约相当于地球的五倍。
+“But we’ve never been able to get up close and really observe these processes,” Fran Bagenal, a professor of astrophysical and planetary sciences at the University of Colorado and one of the mission scientists, said at the news conference. “So we can then compare them with what we see at Earth, what we seen at Saturn.”
+“但我们一直无法接近并真正观察这些过程，”科罗拉多大学(University of Colorado)研究天体物理和行星科学的教授、参与“朱诺号”探测任务的科学家之一弗兰·巴格纳尔(Fran Bagenal)在新闻发布会上说。“因此，我们便能把它们和我们在地球和土星上看到的情况进行比较。”
+Dr. Bagenal said scientists were curious about whether Jovian auroras were simply larger versions of Earth’s auroras. “Or do we have to really go back to the fundamental physics and work out what’s really going on here?” she asked.
+巴格纳尔表示，科学家好奇木星上的极光是否只是放大版的地球极光。“还是说我们必须真的回到基础物理学，弄清楚它到底是怎么回事？”她问道。

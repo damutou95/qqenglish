@@ -1,0 +1,68 @@
+I like to plan ahead; that much I knew about myself before I plunged into exploring my genetic code. I’m a healthy 28-year-old woman, but some nasty diseases run in my family: coronary heart disease, rheumatoid arthritis, Alzheimer’s and breast cancer.
+我喜欢未雨绸缪；在我接受遗传密码检测之前，我对自己已经有了相当的了解。我是一名健康的28岁女性，但在我的家族中出现过一些烦人的疾病：冠心病、类风湿关节炎、阿尔茨海默病以及乳腺癌。
+So I decided to read the tea leaves of my DNA. I reasoned that it was worth learning painful information if it might help me avert future illness.
+因此我决定从我的DNA中寻找线索。在我看来，只要有助于避免未来的疾病，即使要提前获知某些可能令我痛苦不安的信息也值得一试。
+Like others, I turned to genetic testing, but I wondered if I could trust the nascent field to give me reliable results. In recent years, a handful of studies have found substantial variations in the risks for common diseases predicted by direct-to-consumer companies.
+与其他人一样，我将希望寄托于基因检测，但我很好奇：这一新兴领域能否为我提供可信可靠的结果？近年来，有少数研究发现，直接面向消费者的公司所预测的常见疾病风险之间存在着重大差异。
+I set out to test the tests: Could three of them agree on me?
+于是我决定对这些检测进行一番测试：我选择了其中的三家公司，想看看他们提供的检测结果是否一致。
+The answers were eye-opening — and I received them just as one of the companies, 23andMe, received a stern warning from the Food and Drug Administration over concerns about the accuracy of its product. At a time when the future of such companies hangs in the balance, their ability to deliver standardized results remains dubious, with far-reaching implications for consumers.
+这些答案真令人大开眼界——而且，就在我收到检测结果的同时，其中一家公司，23andMe公司因其产品的准确度问题受到美国食品药品监督管理局（Food and Drug Administration，简称FDA）的严厉警告。在这些公司前途未卜之时，他们提供标准化结果的能力依然令人心存疑虑，而这会给消费者带来深远的影响。
+My experiment ran into hurdles from the start. After I ordered 23andMe’s saliva test kit, which for $99 promised a report on more than 240 health conditions and traits, it turned out that I could not legally send it in; the New York State Health Department forbids any labs that lack a state permit to accept specimens from a health-related test. Luckily, my in-laws mailed it from their home in New Jersey.
+我的实验出师不利。23andMe公司的唾液检测试剂盒售价99美元，承诺提供关于240多种健康状况和性状的报告。然而，我在订购了该产品后，才发现它无法通过合法手段送达；因为纽约州卫生局(New York State Health Department)严令禁止任何不具备本州许可的实验室接受健康相关检测的标本。幸运的是，我的公婆从他们位于新泽西州的家中把该产品邮寄给了我。
+Then I learned that the other two companies I planned to approach were no longer offering genetic testing. Additional research led me to two more: Genetic Testing Laboratories and Pathway Genomics. G.T.L. charged $285 for a report on 25 disease risks, and required a professional sample collector to draw blood; Pathway charged $399 for a report on 24 disease risks. (In 2010, Pathway planned to sell its saliva test kit at Walgreens, but abandoned the idea after the F.D.A. challenged the sales. Now Pathway requires a doctor to order a kit on a patient’s behalf.)
+然后我了解到，我计划接洽的其他两家公司已经不再提供基因检测了。经过进一步的研究，我又选择了两家别的公司：基因检测实验室（Genetic Testing Laboratories，简称GTL）和路径基因公司(Pathway Genomics)。GTL收取的费用为285美元，提供关于25种疾病风险的报告，并需要使用专业的样品采集器来抽血；路径基因公司收费399美元，提供关于24种疾病风险的报告。（2010年，路径基因公司曾计划在美国沃尔格林公司[Walgreens，美国的一家药品、食品零售连锁企业]出售其唾液检测试剂盒，但在受到FDA的质疑后，他们放弃了这个念头。现在，路径基因公司需要由医生代表病人订购试剂盒。）
+After my tests had been sent, I braced myself for the revelations about my DNA. It took about two months to receive all the results, and when I did, the discrepancies were striking.
+在递送出我的检测标本后，我抖擞精神，等待DNA携带的启示揭晓。大约两个月后，我终于收到了所有的检测结果，其间的差异非常惊人。
+23andMe said my most elevated risks — about double the average for women of European ethnicity — were for psoriasis and rheumatoid arthritis, with my lifetime odds of getting the diseases at 20.2 percent and 8.2 percent. But according to Genetic Testing Laboratories, my lowest risks were for — you guessed it — psoriasis (2 percent) and rheumatoid arthritis (2.6 percent).
+23andMe公司认为，我罹患银屑病和类风湿关节炎的风险升高最为显著——相对于欧洲裔女性的平均水平约增加了一倍，具体来说，我此生发生这两种疾病的机率分别为20.2%和8.2%。但是，根据基因检测实验室的结果，我患病风险最低的两种疾病恰恰是——你猜的没错——银屑病(2%)和类风湿关节炎(2.6%)。
+For coronary heart disease, 23andMe and G.T.L. agreed that I had a close-to-average risk, at 26 to 29 percent, but Pathway listed my odds as “above average.”
+在冠心病方面，23andMe公司和GTL一致认为，我的风险与平均水平相近，在26%至29%之间，但路径基因公司则认为我的患病机率“高于平均水平”。
+In the case of Type 2 diabetes, inconsistencies on a semantic level masked similarities in the numbers. G.T.L. said my risk was “medium” at 10.3 percent, but 23andMe said my risk was “decreased” at 15.7 percent. In fact, both companies had calculated my odds to be roughly three-quarters of the average, but they used slightly different averages — and very different words — to interpret the numbers. In isolation, the first would have left me worried; the second, relieved.
+至于2型糖尿病，报告在语义层面上的不一致掩盖了其在数字层面上的相似性。GTL认为我的患病风险为10.3%，属于“中等”，但23andMe公司则认为我的患病风险为15.7%，“有所下降”。事实上，这两家公司都计算出我的患病机率约为平均水平的四分之三，但他们使用了略有不同的平均值——以及大相径庭的语句——来解读这些数字。单看这些语句，第一种答案会令我担忧，第二种却会让我长长松一口气。
+Medical ethicists and other experts have a different kind of worry about results like these: a lack of industry standards for weighing risk factors and defining terminology.
+这些检测结果在权衡风险因素及术语定义等方面均缺乏行业标准，医学伦理学家和其他专家们对此均忧心忡忡。
+“The ‘risk is in the eye of the beholder’ standard is not going to work,” said Arthur L. Caplan, director of medical ethics at the New York University Langone Medical Center. “We need to get some kind of agreement on what is high risk, medium risk and low risk.”
+“‘风险因人而异’这一标准已经不再管用，”纽约大学朗格尼医学中心(New York University Langone Medical Center)的医学伦理学主任阿瑟·L·卡普兰(Arthur L. Caplan)说。“我们需要就高风险、中度风险和低风险的定义达成共识。”
+Several other problems may account for my discrepancies. The genetic testing that these three companies offer is premised on reading segments of DNA called SNPs (pronounced snips), for single nucleotide polymorphisms. But these segments, which have been linked to diseases in research studies, vary among people.
+此外，其他的一些问题或许也可以解释这些差异。这三家公司进行基因检测的基础均为阅读名为SNPs（即单核苷酸多态性）的DNA片段。研究表明，这些片段与很多疾病之间都存在关联，但它们在不同的人群中也有所不同。
+Scientists have identified about 10 million SNPs within our three billion nucleotides. But an entire genome sequencing — looking at all three billion nucleotides — would cost around $3,000; the tests I took examined fewer than a million SNPs.
+科学家们已经从我们的30亿对核苷酸中识别出了约1000万个SNPs。但全基因组测序——检查所有这30亿对核苷酸——约需要花费3000美元；而我接受的检测仅检查了不到100万个SNPs。
+“Imagine if you took a book and you only looked at the first letter of every other page,” said Dr. Robert Klitzman, a bioethicist and professor of clinical psychiatry at Columbia. (I am a graduate student there in his Master of Bioethics program.) “You’re missing 99.9 percent of the letters that make the genome. The information is going to be limited.”
+“试想一下，你拿起一本书，却只看了每一页的第一个字母，”哥伦比亚大学的生物伦理学家和临床精神病学教授罗伯特·克里茲曼(Robert Klitzman)博士说。（他在该校开办了生物伦理学硕士[Master of Bioethics]课程，我在那里念研究生。）“你遗漏了组成基因组的99.9%的核苷酸。所得的信息当然十分有限。”
+Companies choose which SNPs to read. By comparing the technical reports provided with my results, I found that my tests sometimes relied on different SNPs to assess the same condition, like coronary heart disease. Each test studied four to 15 markers, with almost zero overlap, though two tests reached similar conclusions about my odds.
+各家公司自行选择要阅读哪些SNPs。通过比较与检测结果一同提供的技术报告，我发现在评估相同的疾病（如冠心病）时，不同公司的检测时常依赖于不同的SNPs。每项检测分别研究了四至15种遗传标记，其间几乎完全没有重叠——尽管有两项检测就我的患病机率得出了相似的结论。
+In the case of rheumatoid arthritis, though, the tests examined the same five markers, plus a few others, and delivered contradictory interpretations.
+然而，关于类风湿关节炎，虽然这些检测检查了相同的五个标记，然后又分别结合了其他的一些标记，却得出了彼此矛盾的解读结果。
+J. Craig Venter, chief executive of his namesake institute and of Synthetic Genomics, was a pioneer in sequencing the human genome in 2000. Though he issued recommendations to genetic testing companies four years ago to help them improve their predictions, he remains skeptical of their clinical value.
+J·克雷格·文特尔(J. Craig Venter)是其同名研究所以及合成基因组公司(Synthetic Genomics)的首席执行官，他是2000年人类基因组测序工作中的先驱之一。虽然四年之前他曾对基因检测公司提出了一些建议来帮助它们改善预测水平，但他仍对其临床价值持怀疑态度。 
+“Your results are not the least bit surprising,” he told me. “Anything short of sequencing is going to be short on accuracy — and even then, there’s almost no comprehensive data sets to compare to.”
+“你的检测结果不足为奇，”他告诉我。“测序量未达到一定水平的东西必定精度不佳——即便满足了这一要求，我们仍缺乏全面的数据集来与之比较。”
+Another source of variation was in the estimates of average risks. For example, 23andMe listed the typical odds of obesity at 59 percent, while G.T.L. listed them at 30 percent.
+检测结果差异的另一个来源在于对平均风险的估计。举例来说，23andMe公司将发生肥胖的典型患病机率定在59%，而GTL则将其定为30%。
+But the major issue, experts say, is that the causes of most common diseases remain unknown. Genes account for just 5 to 20 percent of the whole picture.
+但是专家们表示，最主要的问题在于：很多最常见疾病的原因仍然不为人们所知。基因只占所有致病原因中的5%到20%。
+“Even if they are accurately looking at 5 percent of the attributable risk, they’ve ignored the vast majority of the other risk factors — the dark matter for genetics — because we as a scientific community haven’t yet identified those risk factors,” said Dr. Wendy Chung, an associate professor of pediatrics and medicine and the director of clinical genetics at Columbia.
+“即使这些公司能够准确地检查这5%的归因风险，他们仍然忽略了绝大部分其他风险因素，因为我们科学界尚未识别它们，这些风险因素对遗传学而言就像是不可见的暗物质，”哥伦比亚大学的儿科学和医学副教授、临床遗传学主任钟蔚(Wendy Chung)博士如是说。
+Environmental factors play a role. A study published in 2007 demonstrated this link: After pregnant mice were exposed to various levels of a chemical, their genetically identical offspring were born obese and yellow or small and brown.
+环境因素在其中也发挥了一定作用。2007年发表的一项研究证实了这一关联：在孕鼠暴露于各种不同水平的化学物质之后，它们的后代尽管拥有完全相同的基因，却生就呈现出黄色肥胖或棕色瘦小两种不同的表型。
+There are only 23 diseases that start in adulthood, can be treated, and for which highly predictive tests exist. All are rare, with hereditary breast cancer the most common. “A small percentage of people who get tested will get useful information,” Dr. Klitzman said. “But for most people, the results are not clinically useful, and they may be misleading or confusing.”
+目前只有23种在成年发病的疾病既可以治疗，又可以通过具有高度准确性的检测来预测。这些疾病全都非常罕见，其中以遗传性乳腺癌最为常见。“在接受检测的人群当中，有一小部分人可以获得有用的信息，”克里茲曼博士说。“但对于大多数人，检测结果没什么临床指导性，且它们可能造成误导或引起迷惑。”
+23andMe declined to comment for this article. Jim Bentley, the chief operating officer of General Genetics Corporation, which owns G.T.L., said test results should be interpreted with professional guidance: “Because of the complexity of genetic testing results and other factors that have a role in determining the long-term potential health risks a person may face, such as environmental conditions and personal health habits, G.G.C. requests its customers provide information that would allow us to send the results of our predisposition test to a physician.”
+23andMe公司拒绝对本文置评。而旗下拥有GTL的通用遗传公司（General Genetics Corporation，简称GGC）的首席运营官吉姆·本特利(Jim Bentley)表示，应在专业指导下解读检测结果：“由于基因检测的结果具有复杂性，且其他因素，如环境条件和个人的卫生习惯等，对一个人可能面临的长期潜在的健康风险也具有一定决定作用，GGC要求客户提供有关信息，以供我们将‘倾向检测’的结果发给医生。”
+The chief medical officer of Pathway, Dr. Michael Nova, said: “Pathway Genomics is accredited by the College of American Pathologists, and accredited in accordance with the U.S. Health and Human Services’ Clinical Laboratory Improvement Amendments of 1988. As such, we are held to a higher standard for report accuracy than our unaccredited competitors.”
+路径基因公司的首席医务官迈克尔·诺瓦(Michael Nova)博士指出：“路径基因公司已经美国病理学家协会(College of American Pathologists)认证，并根据美国卫生与公众服务部(U.S. Health and Human Services)在1988年颁布的临床实验室改进法案(Clinical Laboratory Improvement Amendments)获得了认证。因此，与未经认证的竞争对手相比，我们遵循着更高的报告准确度标准。”
+To be sure, my tests did provide some beneficial information. They all agreed that I lack markers associated with an increased risk of breast cancer and Alzheimer’s.
+诚然，我的检测结果确实提供了一些有益的信息。它们一致认为，我不具备与乳腺癌和阿尔茨海默病风险增加相关的遗传标记。
+That said, they were testing for only a small fraction of the genetic risks for these diseases, not for rare genetic variants that confer much of the risk. I could still develop those diseases, of course, but I don’t have reason to pursue aggressive screenings as I age.
+即便如此，它们也只检测了这些疾病的遗传风险中的一小部分，却没有检测造成绝大多数风险的罕见性遗传变异。当然，我仍然有可能罹患这些疾病，但随着年龄的增长，我也没有必要过分殷勤地进行相关筛查。
+In June, the Supreme Court prohibited the patenting of genes that exist in nature. But the ban did not apply to DNA created in the laboratory, leaving the door open to additional patents in the field. That will encourage the industry to gather big bio-banks of people’s genomes — the more, the better.
+今年6月，美国最高法院(Supreme Court)禁止了对存在于自然界中的基因申请和持有专利。但该禁令并不适用于在实验室中新创造出来的DNA，为该领域中的其他专利留下了一线生机。这将鼓励该产业去尽可能地收集人类基因组并组建大型的生物基因库——越多越好。
+In the wake of the F.D.A. warning, 23andMe has stopped providing data on health risks, and a class-action lawsuit alleges that the company’s results are “meaningless.” The company’s supporters have launched a petition to protest the warning.
+伴随FDA警告，23andMe已经停止提供有关健康风险的数据，一场集体诉讼指控，23and的检测Me结果“没有意义”。而该公司的支持者已经进行申诉，抗议FDA的警告。
+Until and unless the predictive science improves, experts advise consumers to take most of their results with a grain of salt.
+专家们提醒消费者，在预测科学取得进一步的进步之前，应对绝大部分检测结果采取保留态度。
+The tests “may be interesting as a kind of entertainment,” Dr. Caplan said, “but do not take them seriously yet in driving your health care or your lifestyle.”
+卡普兰博士说，基因检测“或许十分有趣——如果你把它当做一种娱乐活动的话”，“但目前还请不要太把它们当回事儿，也不要因此就改变你的保健或生活方式。”
+He added: “If you want to spend money wisely to protect your health and you have a few hundred dollars, buy a scale, stand on it, and act accordingly.”
+他补充道：“如果你既想维护自己的健康，又希望把你的几百块钱花在刀刃上，那我建议你去买一个体重秤，往上一站，然后根据读数采取相应的行动。”

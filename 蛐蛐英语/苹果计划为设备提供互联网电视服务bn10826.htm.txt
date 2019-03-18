@@ -1,0 +1,30 @@
+Apple has held talks with a number of leading television groups to offer an Internet-based TV service for its iPhone, iPad and Apple TV set-top box, according to people briefed on the company’s plans.
+了解苹果(Apple)公司计划的人表示，公司与一些重要的电视集团进行了谈话，打算为其iPhone、iPad和Apple TV机顶盒提供基于互联网的电视服务。
+The service, which could be announced later this year, would offer a bundle of channels that is smaller and cheaper than the bloated catalog of offerings in a typical cable subscription, said these people, who discussed the incomplete plans on the condition of anonymity.
+这些人要求在文中匿名，在谈及这些尚未完成的计划时，他们称该服务可能会在今年晚些时候宣布，它将提供一个比传统有线电视订阅的繁杂目录更简洁、更廉价的频道套餐。
+The plan would potentially offer networks owned by the television groups Disney, Fox, CBS and Discovery, the people said Tuesday. That could include the broadcast networks ABC, CBS and Fox, along with a lineup of other cable networks, such as ESPN and Discovery Channel.
+他们在周二表示，该计划可能会提供迪士尼(Disney)、福克斯(Fox)、CBS和探索电视集团(Discovery)所有的电视网。其中可能包括广播电视网ABC、CBS和福克斯，以及ESPN和探索频道(Discovery Channel)等其他一系列电视网。
+The total number of networks to be offered is yet to be determined. Apple is not including all of the networks owned by each of the TV groups, signaling yet another fraying of the traditional cable bundle. No deal has been reached yet, the people said.
+公司最终提供的电视网数目目前还有待确定。苹果不会把每家电视集团拥有的所有网络都纳入其中，表明传统有线电视捆绑计划将面临又一次的剥离。前述知情人士称，目前尚未达成任何协议。
+Pricing details remain unclear. One person pegged the rate for a monthly subscription at $20 to $25, while another said that it would be in the $30 range. The final price point will probably depend on which networks are offered and negotiations with television groups, the people said.
+具体定价仍不清楚。一人认为，每月的订阅费大概在20到25美元，另一人则表示，价格可能会达到30多美元。知情人士表示，最终的价格点可能还要取决于公司会提供哪些电视网，以及他们与电视集团的协商情况。
+News of Apple’s plans for a web-TV service follows an announcement last week that it had formed an exclusive partnership with HBO to offer the premium cable network’s new digital TV service, called HBO Now.
+上周，在苹果计划提供网络电视服务的消息传来前，苹果刚宣布已与HBO达成独家合作伙伴关系，届时将提供这家付费有线电视网新推出的数码电视服务“HBO Now”。
+A flood of media, telecom and tech companies are introducing digital TV services this year, trying to appeal to a generation of viewers willing to pay for Internet access but not traditional TV cable subscriptions.
+面对更愿意为互联网而非传统电视网络订阅服务付费的新一代观众，众多媒体、通讯和科技公司都纷纷在今年开始引入数码电视服务。
+Dish Network, the satellite provider, recently started a web-based service called Sling TV that includes ESPN and other popular cable networks for $20 a month. On Tuesday, the company announced a series of updates, including availability of the service on the Xbox One console and the addition of A&E Network channels by the end of March. Sling TV also offers extra packages, priced at $5 a month, for a mini-bundle of lifestyle or news networks, for instance.
+卫星电视供应商迪什网络公司(Dish Network)，最近开始提供基于网络的电视服务Sling TV，用户可以每月花20美元观看ESPN和其他热门有线电视网络的节目。周二，该公司宣布了一系列的更新，比如Xbox One游戏机可以使用这项服务，以及会在3月底前添加A&E电视网频道。Sling TV还会提供每月收费5美元的附加服务包，例如关于时尚生活或新闻电视网的迷你捆绑套餐。
+CBS and Sony also are starting Internet-only subscription plans.
+CBS和索尼也启动了仅供网络订阅的服务计划。
+Apple will heavily market its new streaming service, which the company has pitched to networks as “better than the best-of-class cable products,” one person said. Potential features would include on-demand functionality and the ability to stream live and on-demand television to an array of devices, another person said.
+有一个人称，苹果将大力推销新的流媒体服务，该公司标榜这一服务“比最好的有线电视产品还要好”。另一个人表示，该服务可能包括以下功能——点播功能，以及向各种设备传送直播和点播电视节目的功能。
+The Wall Street Journal reported news of the Apple TV service on Monday, after an initial report in Recode last month.
+继Recode在上个月最先曝出有关Apple 互联网电视服务的新闻后，《华尔街日报》(Wall Street Journal)在本周一做出了相关报道。
+Apple declined to comment on the potential new service.
+苹果公司拒绝就这项可能推出的新服务置评。
+One major entertainment company not involved in the latest round of discussions is Comcast and its NBCUniversal entertainment group, the people said. If Apple and Comcast do not come to terms on a deal, the new service will not include the broadcaster NBC or the cable networks it owns, such as Bravo and Syfy.
+上述知情人士表示，大型娱乐公司康卡斯特(Comcast)及旗下的NBC环球公司(NBCUniversal)没有参加最新一轮协商。如果苹果和康卡斯特无法就交易达成一致，新服务不会涉及美国全国广播公司(NBC)或它所拥有的有线电视网，比如精彩电视台(Bravo)和科幻频道(Syfy)。
+Comcast could be forced to come to a deal with Apple because of the conditions that it agreed to with regulators when it acquired NBCUniversal in 2011. Under those agreements, an online video provider like Apple could demand that NBCUniversal make its programming available if Apple has signed deals with other television groups.
+康卡斯特可能会被迫与苹果公司达成协议，因为它在2011年收购NBC环球公司时接受了监管机构提出的条件。这些协议规定，苹果等网络视频供应商可以要求NBC环球公司提供节目，前提是苹果与其他电视集团签订了协议。
+Apple has been rumored to be planning an online TV service for more than five years. But the company’s approach so far has been to work with distributors like Time Warner Cable and Walt Disney Company on offering apps with access to their content for the Apple TV set-top box.
+五年多来，一直有关于苹果计划提供网络电视服务的传言。但公司到目前为止只是与时代华纳有线电视公司(Time Warner Cable)、沃尔特·迪士尼公司(Walt Disney Company)等经销商开展合作，提供应用程序，让顾客可以通过Apple TV机顶盒观看它们的节目。

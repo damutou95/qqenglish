@@ -1,0 +1,42 @@
+Scientists reported Wednesday that they had taken a significant step toward altering the fundamental alphabet of life — creating for the first time an organism with DNA containing artificial genetic code.
+本周三，科学家们表示，在改变生命的基本字母表方面，他们已经迈出了重大一步——第一次用含有人工遗传密码的DNA生成了有机体。
+The accomplishment might eventually lead to organisms that can make medicines or industrial products that cells with only the natural genetic code cannot.
+在这个成果的基础上，科学家有望最终培养一些有机体，用它们来制作仅含自然遗传密码的细胞所无法制作的药物或工业品。
+The scientists behind the work at the Scripps Research Institute have already formed a company to try to use the technique to develop new antibiotics, vaccines and other products, though a lot more work needs to be done before this is practical.
+这项研究是斯克里普斯研究院(Scripps Research Institute)的科学家们开展的，他们已经组建了一家公司，希望使用这种技术来开发新的抗生素、疫苗等产品，虽然在这变得真正可行之前，还有很多工作要做。
+The work also gives some support to the concept that life can exist elsewhere in the universe using genetics different from those on Earth.
+该项研究也在某种程度上支持了这样一个假说：宇宙的其他地方可能有生命存在，它们的遗传方式与地球上的不同。
+“This is the first time that you have had a living cell manage an alien genetic alphabet,” said Steven A. Benner, a researcher in the field at the Foundation for Applied Molecular Evolution in Gainesville, Fla., who was not involved in the new work.
+“这是第一次有了一个活的细胞，可以使用‘外来’遗传字母表。”佛罗里达州盖恩斯维尔的应用分子进化基金会研究所（Foundation for Applied Molecular Evolution，简称FAME）的史蒂芬·A·本纳(Steven A. Benner)说，他也是该领域的研究人员，但没有参与这项新研究。
+But the research, published online by the journal Nature, is bound to raise safety concerns and questions about whether humans are playing God. The new paper could intensify calls for greater regulation of the budding field known as synthetic biology, which involves the creation of biological systems intended for specific purposes.
+但在《自然》(Nature)杂志网站上发表的这项研究，势必会引发人们对安全的担忧，并且带来“人类是否正在扮演上帝”的问题。这篇论文发表后，要求对这个科学领域加强监管的呼声可能会趋于强烈。该领域名为合成生物学(synthetic biology)，涉及为特定目的创建生物系统，目前还处于萌芽状态。
+“The arrival of this unprecedented ‘alien’ life form could in time have far-reaching ethical, legal and regulatory implications,” Jim Thomas of the ETC Group, a Canadian advocacy organization, said in an email. “While synthetic biologists invent new ways to monkey with the fundamentals of life, governments haven’t even been able to cobble together the basics of oversight, assessment or regulation for this surging field.”
+“假以时日，这种前所有未的‘外来’生命形式可能会在伦理、法律和监管方面产生深远影响。”加拿大权益倡导组织ETC集团(ETC Group)的吉姆·托马斯(Jim Thomas)在一封电子邮件中说。“这个领域正在风起云涌，合成生物学家发明了玩弄生命基本元素的新方法，而政府连监督、评估、监管该领域的基本对策都还没有准备好。”
+Despite the great diversity of life on Earth, all species, from simple bacteria to human beings, use the same genetic code. It consists of four chemical units in DNA, sometimes called nucleotides or bases, that are usually represented by the letters A, C, G and T. The sequence of these chemical units determines what proteins the cell makes. Those proteins in turn do most of the work in cells and are required for the structure, function and regulation of the body’s tissues and organs.
+尽管地球上的生命千差万别，但是从简单的细菌到人类，所有物种使用的遗传密码都是相同的。它由DNA中的四个化学单位组成。这些化学单位有时也被称为核苷酸或碱基，通常用字母A、C、G和T来表示，它们决定了细胞生成哪些蛋白质。而这些蛋白质又反过来完成细胞在机体组织和器官的结构、功能和调节方面需要进行的绝大部分工作。
+The Scripps researchers chemically created two new nucleotides, which they called X and Y. They inserted an X-Y pair into the common bacterium E. coli. The bacteria were able to reproduce normally, though a bit more slowly than usual, replicating the X and Y along with the natural nucleotides.
+斯克里普斯研究院的研究人员使用化学方法，生成了两个新的核苷酸，称为X和Y。他们把一对XY导入常见的大肠杆菌中。结果细菌可以正常地复制，虽然速度比平常稍慢一点，但确实可以像复制天然的核苷酸一样复制X和Y。
+In effect, the bacteria have a genetic code of six letters rather than four, perhaps allowing them to make novel proteins that could function in a completely different way from those created naturally.
+因此，这个细菌的遗传密码有六个字母，而不是原来的四个，而细菌生成的新的蛋白质，可能会以完全不同于自然生成的蛋白质的方式发挥作用。
+“If you have a language that has a certain number of letters, you want to add letters so you can write more words and tell more stories,” said Floyd E. Romesberg, a chemist at Scripps who led the work.
+“这就如同你有一种语言，拥有一定数目的字母，你想再添加一些字母，以便写出更多的词，讲述更多的故事，”斯克里普斯研究所的化学家弗洛伊德·E·罗姆斯伯格(Floyd E. Romesberg)说，他是这项研究的负责人。
+Dr. Romesberg dismissed concern that novel organisms would run amok and cause harm, saying the technique was safe because the synthetic nucleotides were fed to the bacteria. Should the bacteria escape into the environment or enter someone’s body, they would not be able to obtain the needed synthetic material and would either die or revert to using only natural DNA.
+罗姆斯伯格博士说人们不用担心新生物失控并造成危害，他表示这项技术是安全的，因为合成的核苷酸被导入到了细菌中。如果这些细菌逃逸到了环境中，或者进入某种生物体内，它们将无法获得合成活动所需的原料，因此要么死亡，要么恢复到只使用天然DNA的状态。
+“This could never infect something,” he said. That is one reason the company he co-founded, Synthorx, is looking at using the technique to grow viruses or bacteria to be used as live vaccines. Once in the bloodstream, they would conceivably induce an immune response but not be able to reproduce.
+“永远不会有别的东西被感染，”他说。这也是他参与创办的Synthorx公司正在考虑采用该技术来培养一些病毒或细菌，让它们成为活疫苗的一个原因。活疫苗进入血液之后，可能会诱发免疫反应，但却不会复制。
+One possible use of an expanded genetic alphabet is to allow cells to make new types of proteins.
+扩大后的遗传字母表的一个可能用途是让细胞生成新型蛋白质。
+Combinations of three nucleotides in DNA specify particular amino acids, which are strung together to make proteins. The cell, following those instructions, strings amino acids together to form proteins. With rare exceptions, living things use only 20 amino acids.
+蛋白质是由氨基酸串在一起形成的，DNA中三个核苷酸的组合方式，确定了氨基酸的种类。细胞根据这些指令，把氨基酸串在一起，从而形成蛋白质。除了极少数例外情况，生命体只使用20种氨基酸。
+But there are many amino acids that could possibly be used in proteins, potentially adding new functions. Ambrx, a San Diego company that has filed to go public, is incorporating novel amino acids into certain proteins that are used as drugs in an effort to make the drugs more potent in killing tumors or make treatments last longer in the bloodstream.
+但也有很多氨基酸，如果用在蛋白质中，可能会产生新的功能。Ambrx公司正在尝试把新的氨基酸导入某些蛋白质。这些蛋白质可被用在制药领域，让药物更加有效地杀灭肿瘤，或者使有效成分在血液中停留的时间更长。Ambrx公司位于圣地亚哥，目前已经提交到上市申请。
+The bacteria described in the Nature article each contained only a single X-Y pair. It is not yet known whether a cell would function if it contained many such pairs. It is also not clear how long the bacteria would survive and retain the foreign code. The article mentions growing them for only about 24 replications over 15 hours.
+《自然》那篇文章提到的细菌，每一个中只有一对XY核苷酸。目前还不知道一个细胞里能不能含有很多对这样的XY核苷酸。也不清楚细菌携带这种外来遗传密码能够生存多久。文章提到，在15小时里，只完成了大约24次复制。
+Most important, the researchers have not yet demonstrated that the artificial nucleotides can actually be used by the cell to make proteins. That will require more genetic engineering of the bacteria, though work by others has suggested how it might be done.
+最重要的是，研究人员还没有证实，人工核苷酸可以真的被细胞用来生成蛋白质。那需要对细菌进行更多的遗传工程改造，尽管其他人之前的研究显示这有可能办到。
+Dr. Benner in Florida is trying to engineer cells genetically so they can make their own nonnatural nucleotides. That would allow the cells to survive on their own and be more useful, he said.
+佛罗里达的本纳博士正在尝试对一些细胞进行基因工程改造，让细胞能够自己生成非天然核苷酸。如果成功的话，细胞就能自主生存下去，并且变得更加有用，他说。
+But Dr. Romesberg and colleagues took a shortcut of sorts. Chloroplasts in plants have the ability to import nucleotides from the surrounding tissue, and other researchers have figured out what genes are responsible for this. The Scripps researchers spliced an algae gene into E. coli, giving the bacteria the ability to take up the X and Y nucleotides from the medium in which they grew.
+但罗姆斯伯格博士及其同事采用了一个较为简便的办法。由于植物中的叶绿体可以从周围组织导入核苷酸，而其他研究人员已经找到了控制这种能力的基因，所以斯克里普斯研究所把一个海藻基因植入大肠杆菌，让细菌可以从它们生长的培养基中吸取X和Y核苷酸。
+“It took some clever problem-solving to get where they got,” said Eric T. Kool, a professor of chemistry at Stanford who is also doing research in the area. “It is clear that the day is coming that we’ll have stably replicating unnatural genetic structures.”
+“他们想出了一些相当聪明的办法，取得了现在的成果，”斯坦福大学的化学教授埃里克·T·库尔(Eric T. Kool)说，他也是这个领域的研究者。“很显然，非自然遗传结构有一天可以稳定地复制下去，而这一天正在到来。”

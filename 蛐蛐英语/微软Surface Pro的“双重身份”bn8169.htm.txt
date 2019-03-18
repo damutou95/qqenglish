@@ -1,0 +1,56 @@
+For decades, Microsoft has subsisted on the milk of its two cash cows: Windows and Office. The company’s occasional ventures into hardware generally haven’t ended well: *cough* Zune, Kin Phone, Spot Watch *cough*.
+数十年来，微软(Microsoft)一直在靠它的两棵摇钱树生存：Windows操作系统和Office办公软件。该公司偶尔进军硬件领域的冒险通常都没什么好结果，比如，咳咳，媒体播放器Zune、Kin手机、Spot手表（spot是smart personal objects technology的缩写，意为智能个人设备技术——译注），咳咳。
+But the new Surface Pro tablet, which goes on sale Saturday, seemed to have more going for it than any Microsoft hardware since the Xbox.
+但是将于周六面市的新Surface Pro平板电脑，似乎比Xbox以后的任何微软硬件设备都更有希望。
+Everybody knows what a tablet is, right? It’s a black touch-screen slab, like an iPad or an Android tablet. It doesn’t run real Windows or Mac software — it runs much simpler apps. It’s not a real computer.
+每个人都知道平板电脑是什么，对吧？它是一个黑色的触摸屏平板状物体，就像iPad和Android平板电脑一样。它并不运行真正的Windows或Mac软件，只运行简单许多的应用程序。它并非真正的电脑。
+But with the Surface Pro ($900 for the 64-gigabyte model, $1,000 for a 128-gig machine), Microsoft asks: Why not?
+但是轮到Surface Pro（64G机型售价900美元[约合5608元人民币]，128G机型售价1000美元），微软问道：为什么不呢？
+The Surface Pro looks like a tablet. It can work like a tablet. You can hold it in one hand and draw on it with the other. It even comes with a plastic stylus that works beautifully.
+Surface Pro的外观很像平板电脑。它也能像平板电脑那样使用。你可以用一只手拿着它，用另一只手在上面写写画画。它还附有一支灵巧的塑料尖笔。
+But inside, the Pro is a full-blown Windows PC, with the same Intel chip that powers many high-end laptops, and even two fans to keep it cool (they’re silent). As a result, the Pro can run any of the four million Windows programs, like iTunes, Photoshop, Quicken, and, of course, Word, Excel and PowerPoint.
+但是从内部来看，Surface Pro确实一台配置齐全的Windows电脑，配有为很多高端笔记本电脑提供驱动的英特尔(Inter)芯片，还装有两台风扇来提供散热（声音很小）。所以，Surface Pro可以运行适用于Windows的所有400万个程序，比如iTunes、Photoshop、Quicken，当然还有Word文档、Excel电子表格和PowerPoint幻灯片。
+The Surface Pro is beautiful. It’s clad in matte-black metal, beveled at the edges like a Stealth helicopter. Its connectors immediately suggest its post-iPad capabilities, like a memory-card slot for expanded storage. The screen is bright and beautiful, with 1080p high-definition resolution (1,080 by 1,820) — but when you connect the tablet to a TV or desktop monitor, it can send out an even bigger, sharper picture (2,550 by 1,440). There’s one USB 3.0 jack in the tablet, and a second ingeniously built into the power cord, so you can charge your phone as you work. Or you can connect anything you’d connect to a PC: external drives, flash drives, keyboard, mouse, speakers, cameras and so on.
+Surface Pro外表美观。它外面包裹着哑光黑色金属，边缘向内倾斜，就像隐形直升机一样。它的接口清楚地表明了它超越iPad的功能，这些接口包括用于扩展容量的储存卡槽。它的屏幕鲜亮而美观，拥有1080p的高清分辨率(1080×1820)——但是如果你把它连接到电视机或台式监视器上，它就能输出更大、更清晰的图像(2550×1440)。这台平板电脑上配有一个USB 3.0的接口，另一个则被巧妙地装在了电源适配器上，所以你就能在工作的同时给手机充电了。或者，你也可以把任何可以连接到电脑上的东西连接到它上面，比如外置光驱、闪存盘、键盘、鼠标、音箱、摄像头等等。
+Are you getting it? This is a PC, not an iPad.
+你明白了吗？这是一台电脑，不是iPad。
+As though to hammer home that point, Microsoft has endowed the Surface Pro with two unusual extras that complete the transformation from tablet to PC in about two seconds.
+似乎为了强调这一点，微软为Surface Pro设置了两个不同寻常的额外功能，它能在大约两秒内，完成从平板电脑到普通电脑的转变。
+First, this tablet has a kickstand. It’s a thin metal flap that disappears completely when closed, but holds the tablet at a nice angle when you’re working or watching a movie.
+首先，这台平板电脑有个支架。这个薄薄的金属板合上的时候是隐形的，能在你工作或是看电影的时候，把平板电脑支撑在一个非常舒适的角度。
+Second, you can buy Microsoft’s now-famous keyboard cover. There are two models, actually. One is about as thick as a piece of cardboard. You can type on it — slowly — but you’re tapping drawings of keys, not actual keys. It’s called the Touch Cover ($100 with Surface purchase).
+另外，你还可以购买现在已经非常有名的微软键盘罩。现在实际上有两款。一种几乎与硬纸板一样厚。你可以在上面打字——速度很慢——但你敲打的是键位的图像，而不是真正的键。它叫做触控键盘罩（Touch Cover，购买Surface后另花100美元购买）。
+The other keyboard, the Type Cover ($130) is thicker — a quarter-inch — but its keys really travel, and it has a trackpad. You can really type on this thing.
+另一种键盘是稍厚的实体键盘罩（Type Cover，售价130美元），厚度约为0.25寸（约6.35毫米），但是它的键真实可动，而且还配有一个触控板。你可以真正用它打字。
+Either keyboard attaches to the tablet with a powerful magnetic click. For tablet use, you can flip either keyboard around to the back; it disables itself so you don’t type gibberish by accident.
+伴随磁铁贴合的响声，上述两种键盘就可以被连接到平板电脑上了。如果你想把它当作平板电脑使用，就可以把键盘翻到屏幕背后；它会自动失去输入功能，这样你就不会不小心输入一些乱七八糟的东西。
+Now, when I wrote a first-look post on my blog last month, I was surprised by the reader reactions. Over and over, they posted the same argument:
+上个月，我在博客中写了一篇第一印象测评文章，我对读者的反应感到吃惊。其实，他们是在反复发表一些同样的看法：
+“For that money, I could buy a very nice lightweight laptop with a dedicated keyboard and much more storage. Why should I buy Surface Pro when I can have more for less?”
+“用这笔钱，我能买一台非常好的轻型笔记本电脑，它将有专用的键盘和更大的储存量。既然我可以花更少的钱买到更多东西，我为什么要买Surface Pro呢？”
+Why? Because the Surface Pro does things most laptops can’t do. Like it weighs two pounds, with touch screen. Or work in portrait orientation, like a clipboard. Or remain comfortable in one hand as you make medical rounds, take inventory or sketch a portrait. Or stay in a bag through airport security (the TSA says tablets are O.K. to stay in).
+为什么？因为Surface Pro能做到大多数笔记本电脑无法做到的事。比如，它的重量为两磅（约0.9千克），还是触摸屏的。它可以竖着工作，就像带纸夹的笔记板。你在巡视病房、盘点存货或是作画的时候，都可以舒适地用一只手拿着它。而且，你还能把它装在包里通过机场安检（美国运输安全管理局［TSA］说平板电脑不必取出）。
+So it’s true: for this much money, you could buy a very nice laptop. You could also buy a five-day cruise, a Gucci handbag or 250 gallons of milk. They just happen to be different beasts.
+毫无疑问，用这么多钱，你可以购买一台非常不错的笔记本电脑。你还可以把这笔钱用来进行邮轮五日游、购买一只古驰(Gucci)手袋或是250加仑（约1138升）牛奶。只不过，它们都是完全不同的东西。
+All right then: the Surface Pro is fast, flexible and astonishingly compact for what it does; that much is unassailable. But in practice, there are some disappointments and confusions.
+好吧，Surface Pro运行速度快、灵活而且就其性能而言，它的简洁程度令人吃惊；这些都不容置疑。然而实际上，它还是存在一些令人失望和困惑的地方。
+CONFUSION 1 The Surface Pro runs Windows 8, which is two operating systems in one. You get a tablet operating system, whose Home (Start) screen is filled with colorful tiles that represent apps and real-time information. (Since Microsoft refuses to give this environment a name, let’s go with TileWorld.)
+困惑1，Surface Pro搭载Windows 8系统，该系统融合了两套操作系统。其中之一是平板操作系统，它的主页(Start)上堆满五颜六色的应用和实时信息的磁贴。（由于微软没有给这种操作环境命名，我们就称之为磁贴世界[TileWorld]吧。）
+TileWorld has been jarringly stapled to the regular Windows desktop underneath it. You wind up with two Web browsers, two control panels, two Mail programs, two completely different looks.
+磁贴世界一直会很不和谐地出现在普通Windows系统的桌面下方。结果你就有两个网页浏览器、两个控制面板、两个邮件程序、两种完全不同的风格。
+CONFUSION 2 There are two Surface tablets. One came out a few months ago. It’s called the Surface (not Pro), it costs $500, it weighs 1.5 pounds and it’s 0.4 inches thick. It runs only TileWorld apps, which is not very compelling. If you’re going to buy a tablet that doesn’t run real software, why not just get an iPad and enjoy its library of 300,000 apps?
+困惑2， Surface平板电脑有两款。一款是几个月前上市的Surface（不是Pro）。它的售价为500美元，重1.5磅，厚0.4英寸。这款平板上面只运行磁贴世界的应用，并不怎么吸引人。如果你要买一个不能运行真正软件的平板电脑，那为什么不买个iPad去享受苹果多达30万个的应用呢？
+The Surface Pro is thicker and heavier (just over half an inch thick, and 2 pounds). But — glory be — it runs both TileWorld apps and all those traditional Windows programs, which makes it fantastically versatile.
+相比之下，Surface Pro更厚，也更重（厚度超过半英寸、重达两磅）。但是它伟大之处在于，可以运行磁贴世界的程序以及所有常规的Windows程序，这让它变得非常灵巧实用。
+Unfortunately, the confusion isn’t the only dent in this Surface. The speakers aren’t especially strong. The screen and keyboard are both slightly smaller than what you’d get on a real laptop. Attaching the power cord is a flummoxing operation.
+不幸的是，这些困惑并不是这款Surface仅有的缺点。它的音箱功效不是特别强大。屏幕和键盘都比真正的笔记本略小。连接电源线的操作简直令人头痛。
+You should also realize that of the base model’s 64 gigabytes of storage, only 23 are available for your use. A full 65 percent of your storage is eaten up by Windows itself. Ouch.
+你应该知道，基本款的64G内存中只有23G可用。Windows系统自己就占用了整个内存的65%！哎呦。
+The real heartbreaker, though, is the battery. Microsoft says the Pro will get about half the battery life of the non-Pro Surface, which would mean about 4.5 hours. I say, you’ll get 4.5 if you’re lucky; I barely got 3.5 hours from a charge.
+但最让人伤心的却是电池。微软称，Surface Pro的电池续航时间只是Surface的一半，也就是约4.5小时。我想说的是，如果你能用上4.5小时，就算幸运了；我充一次电只能撑过3.5个小时。
+Guess that’s why there aren’t many other two-pound, half-inch-thick laptops with Intel i5 processors.
+我猜这也许就是为什么没有很多拥有Intel i5处理器，两磅重、半英寸厚的笔记本电脑的原因吧。
+So in the end, the Surface Pro isn’t for everyone, it isn’t all it seemed at first, and it isn’t all it could be.
+所以最归根结底，Surface Pro并不适合每个人，它完全不是一开始看上去的那样，也并未发挥所有潜力。
+Even so, there’s a lot to admire in Microsoft’s accomplishment. The Surface Pro is an important idea, almost a new category, and it will be the right machine for a lot of people. You can use this thing on a restaurant table without looking obnoxious (much). You can hold it in one hand to read a Kindle book while you’re standing in line.
+尽管如此，微软的成绩还是有很多值得称赞之处。Surface Pro是个重要的理念，它几乎是一种全新类别的产品，也将会是适合很多人的设备。你可以在餐馆的餐桌上使用它，而不会让人觉得讨厌（起码不会那么令人讨厌）。你可以在排队的时候用一只手拿着它阅读Kindle版的书籍。

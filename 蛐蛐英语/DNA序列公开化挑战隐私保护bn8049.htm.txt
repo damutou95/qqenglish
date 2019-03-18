@@ -1,0 +1,36 @@
+The genetic data posted online seemed perfectly anonymous — strings of billions of DNA letters from more than 1,000 people. But all it took was some clever sleuthing on the Web for a genetics researcher to identify five people he randomly selected from the study group. Not only that, he found their entire families, even though the relatives had no part in the study — identifying nearly 50 people.
+在网上发布的遗传数据，那些来自1000多人的长达几十亿个DNA字母的串子，看似是完全匿名的。但仅仅靠一些网上的聪明侦探手段，一位遗传学研究者就把从研究对象组中随机选出的5个人的身份确定了出来。不仅如此，他还找到他们的整个家族，确定了近50个人的身份，虽然这些亲属与研究一点也不沾边。
+The researcher did not reveal the names of the people he found, but the exercise, published Thursday in the journal Science, illustrates the difficulty of protecting the privacy of volunteers involved in medical research when the genetic information they provide needs to be public so scientists can use it.
+这位研究者并未公布他所发现的人的姓名，但这项发表在周四的《科学》(Science)杂志上的工作表明，保护参加医学研究的志愿者的隐私不是一个简单的事情，因为他们提供的遗传信息需要公开，以便科学家使用。
+Other reports have identified people whose genetic data was online, but none had done so using such limited information: the long strings of DNA letters, an age and, because the study focused on only American subjects, a state.
+曾有其他报告也确认过基因数据在网上的人，但还没有用如此有限的信息确定出身份的报道，这里用的数据只是长串的DNA字母、年龄，以及由于该工作仅限于美国的研究对象，他们所在的州。
+“I’ve been worried about this for a long time,” said Barbara Koenig, a researcher at the University of California in San Francisco who studies issues involving genetic data. “We always should be operating on the assumption that this is possible.”
+加州大学(University of California) 旧金山分校的研究人员芭芭拉·凯尼格(Barbara Koenig) 从事与遗传数据有关的工作，她说，“我很长时间以来一直担心这个问题。我们总应该把这件事可能发生做为操作假设。”
+The data are from an international study, the 1000 Genomes Project, that is collecting genetic information from people around the world and posting it online so researchers can use it freely. It also includes the ages of participants and the regions where they live. That information, a genealogy Web site and Google searches were sufficient to find complete family trees. While the methods for extracting relevant genetic data from the raw genetic sequence files were specialized enough to be beyond the scope of most laypeople, no one expected it to be so easy to zoom in on individuals.
+这些数据来自一项国际研究项目——千人基因组计划(1000 Genomes Project)，该项目搜集来自世界各地的人的基因信息，并在网上公布，以便研究人员可以自由使用。公布的数据还包括参与者的年龄和居住地区。用这些信息，加上宗谱网站和谷歌(Google)搜索，就足以发现完整的家谱。虽然从原始的基因序列文件中提取相关基因数据的方法非常专业，超出了大部分外行人的能力，但没有人预料到能如此容易地找到个体信息。
+“We are in what I call an awareness moment,” said Eric D. Green, director of the National Human Genome Research Institute at the National Institutes of Health.
+美国国家卫生研究院（National Institutes of Health，简称NIH）下属的国家人类基因组研究所(National Human Genome Research Institute)所长埃里克·D·格林(Eric D. Green)说，“我们现在正处在我所称之为意识觉醒的时刻。”
+The project was the inspiration of Yaniv Erlich, a human genetics researcher at the Whitehead Institute, which is affiliated with M.I.T. He stresses that he is a strong advocate of data sharing and that he would hate to see genomic data locked up. But when his lab developed a new technique, he realized he had the tools to probe a DNA database. And he could not resist trying.
+该项工作的灵感来自附属于麻省理工学院(MIT)的怀特海德研究所(Whitehead Institute)的人类遗传学研究者亚尼维·埃尔利赫(Yaniv Erlich)。他强调说，他极力主张数据共享，不想看到基因组数据被封锁。但当他的实验室研发了一种新技术后，他意识到自己拥有探查DNA数据库的工具。他忍不住进行了尝试。
+The tool allowed him to quickly find a type of DNA pattern that looks like stutters among billions of chemical letters in human DNA. Those little stutters — short tandem repeats — are inherited. Genealogy Web sites use repeats on the Y chromosome, the one unique to men, to identify men by their surnames, an indicator of ancestry. Any man can submit the short tandem repeats on his Y chromosome and find the surname of men with the same DNA pattern. The sites enable men to find their ancestors and relatives.
+这个工具让他能够迅速找到一种DNA模式，这个模式看上去象是人类DNA的几十亿个化学字母中口吃的小片段，这些被称为短串联重复序列的小片段是遗传的。宗谱网站用男性独有的Y染色体上的重复序列，来确定这些男性的姓氏，姓氏与祖先有关。任何男性都可以递交他们Y染色体上的短串联重复序列，来寻找有相同DNA模式的男性的姓氏。这些网站使男性可以找到自己的祖先和亲戚。
+So, Dr. Erlich asked, could he take a man’s entire DNA sequence, pick out the short tandem repeats on his Y chromosome, search a genealogy site, discover the man’s surname and then fully identify the man?
+因此，埃尔利赫提出一个问题：能否用一名男性的整个DNA序列，找出他Y染色体上的短串联重复序列，拿到宗谱网站上去搜索，从而发现这名男性的姓氏，然后完整地确定他的身份？
+He tested it with the genome of Craig Venter, a DNA sequencing pioneer who posted his own DNA sequence on the Web. He knew Dr. Venter’s age and the state where he lives. Bingo: two men popped up in the database. One was Craig Venter.
+他用克雷格·文特尔(Craig Venter)的基因组测试了这个思路。文特尔是DNA测序的先驱，他把自己的DNA序列发布到了网上。埃尔利赫知道文特尔的年龄和他所生活的州。瞧：数据库中出现了两名男性，其中一位是克雷格·文特尔。
+“Out of 300 million people in the United States, we got it down to two people,” Dr. Erlich said.
+埃尔利赫说，“在美国的3亿人中，我们找到了两个人。”
+He and his colleagues calculated they would be able to identify, from just their DNA sequences, the last names of approximately 12 percent of middle class and wealthier white men — the population that tends to submit DNA data to recreational sites like the genealogical ones. Then by combining the men’s last names with their ages and the states where they lived, the researchers should be able to narrow their search to just a few likely individuals.
+埃尔利赫和他的同事计算出，他们用这个方法，能确定约12%的中产阶级和更富裕的男性白人的姓氏，这个群体通常愿意把DNA数据递交给宗谱网站之类的消遣网站。然后，通过将这些男性的姓氏与他们的年龄及所在州结合起来，研究者们应该能够把他们的搜索范围缩小到几个可能的人。
+Now for the big test. On the Web and publicly available are DNA sequences from subjects in the 1000 Genomes Project. People’s ages were included and all the Americans lived in Utah, so the researchers knew their state.
+下面要做的是对思路的更大检验。参加千人基因组计划的研究对象的DNA序列在网上有而且能公开获取，这些人的年龄也包括在数据库里。而且，所有的美国研究对象都住在犹他州，所以研究者也知道这些人的所在州。
+Dr. Erlich began with one man from the database. He got the Y chromosome’s short tandem repeats and then went to genealogy databases and searched for men with those same repeats. He got surnames of the paternal and maternal grandfather. Then he did a Google search for those people and found an obituary. That gave him the family tree.
+埃尔利赫从数据库里的一个人开始。他得到了其Y染色体的短串联重复序列，随后到宗谱数据库中去搜索有同样重复序列的男性。他找到了一些祖父和外祖父的姓氏。然后在谷歌上搜索这些人，找到一条讣告，讣告给了他这个人的家谱。
+“Now I knew the whole family,” Dr. Erlich said. And it was so simple, so fast.
+埃尔利赫说，“现在我知道了整个家族。”而且是如此简单、快捷。
+“I said, ‘Come on, that can’t be true.’” So he probed and searched and checked again and again.
+“我说，‘得了吧，这怎么能是真的呢。’”所以他又调查、搜索，并核查了一遍又一遍。
+“Oh my God, we really did this,” Dr. Erlich said. “I had to digest it. We had so much information.”
+“我的天啊，我们真的做到了，”埃尔利赫说，“我不得不接受这一点。我们有如此之多的信息。”
+He and his colleagues went on to get detailed family trees for other subjects and then visited Dr. Green and his colleagues at the N.I.H. to tell them what they had done.
+他和同事继而得到了其他研究对象的详细家谱，然后他们去拜访了NIH的格林及其同事，告知了他们所做的事。

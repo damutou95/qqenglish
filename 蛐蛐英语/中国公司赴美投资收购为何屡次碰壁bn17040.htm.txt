@@ -1,0 +1,48 @@
+As growth slows at home, more and more Chinese companies are looking to do deals in the United States. And they are increasingly running smack into the American national security apparatus.
+随着国内经济增长放缓，越来越多的中国企业试图在美国做交易。但他们正在越来越频繁地撞上美国国家安全机器的南墙。
+Such scrutiny will have implications for United States and China relations, as well as for mergers and acquisitions more broadly.
+这种严苛的审核将会对美中关系形成冲击，并对更广泛的并购活动造成影响。
+The latest Chinese deal to feel the chill from Washington was a planned $3.78 billion investment by the Tsinghua Unisplendour Corporation of China in the American hard disk drive maker Western Digital. On Tuesday, Tsinghua said it was abandoning the purchase of a 15 percent stake in Western Digital, citing a decision by the Committee on Foreign Investment in the United States to review the deal.
+感受到华盛顿这股寒意的最新一宗中美交易，是中国公司清华紫光投资美国硬盘驱动生产商西部数据(Western Digital)37.8亿美元的计划。本周二，清华紫光表示将放弃收购西部数据15%的股份，援引的理由是美国外国投资委员会(Committee on Foreign Investment in the United States)决定对该交易进行审核。
+What is this government body that holds such power?
+是什么样的政府机构拥有这样的权力呢？
+The committee, better known by the acronym Cfius, has a long history, going back to the Exon-Florio amendment of 1988. At that time, there were concerns about Japanese acquisitions in the United States, a fear whose legacy is several mediocre movies like “Rising Sun,” a tale about Japanese corporate corruption, and the comedy “Gung Ho,” which starred Michael Keaton as an executive at a car plant struggling under Japanese ownership.
+该委员会的缩写Cfius更为常见。它的历史比较悠久，可以追溯到1988年的埃克森-弗罗里奥修正案(Exon-Florio)。当时，日本企业在美国的收购行为引起了人们的担心。这种忧虑催生了几部平庸的电影，比如描述日本企业腐败现象的《旭日》(Rising Sun)，还有喜剧《超级魔鬼干部》(Gung Ho)。迈克尔·基顿(Michael Keaton)在后一部片子里扮演日本汽车厂的高管，在日本老板手下苟延残喘。
+Since then, Cfius has grown increasingly powerful. In 2006, an uproar erupted over DP World of Dubai’s acquisition of the Peninsular and Oriental Steam Navigation Company, a British company that owned ports in the United States. Washington lawmakers from both parties attacked the deal, choosing to ignore that the United Arab Emirates is an ally of the United States. Congress again acted to give Cfius even broader reach. DP World soon sold the American P.&O. ports.
+从那时起，Cfius的权力越来越大。2006年，迪拜环球港务集团(DP World)准备收购在美国拥有多座港口的英国企业铁行轮船公司(Peninsular and Oriental Steam Navigation Company)，引发了一片哗然。华盛顿的两党议员均对这宗交易进行了抨击，选择性地忽略阿联酋是美国盟友的事实。国会再次采取行动，授予Cfius更大的权限。迪拜环球港务集团很快就出售了铁行轮船在美国的港口。
+Last week, Cfius issued its annual report for actions in 2014. The interagency body — it includes representatives from the Treasury, Justice and Defense Departments — is a bit secretive. All its filings are confidential, it doesn’t have a building in Washington and it lags an entire year in reporting figures.
+上周，Cfius发布了2014年度的行动报告。这个跨机构的组织由财政部、司法部和国防部的代表组成，行事有点遮遮掩掩。所有的申请都是保密的，它在华盛顿没有办公楼，公布的数据滞后了整整一年。
+Potential foreign acquirers make a filing for a national security review. In 2014 there was a record high of 147 filings, up from 97 in 2013. The increase in 2014 was mainly a result of acquisitions in manufacturing, primarily technology. The most filings were by China with 24. Next was Britain with 21, and after that was Canada with 15. (Yes, even our closest allies are subject to Cfius review.)
+国家安全审查申请由潜在的外国买家提出。2014年，Cfius共收到147份申请，创历史新高，而2013年为97份。2014年的增长大多是制造业收购案所致，主要是科技制造业。提出申请最多的国家是中国，有24份，其次是英国的21份，然后是加拿大的15份。（是的，即使我们最亲密的盟友也受到Cfius的审核。）
+Once a filing is made, the committee can decide to do nothing or investigate further to see if the transaction presents a national security problem. In 2014, there was a record high of 51 investigations, fully a third of all filings.
+接到申请后，Cfius可以决定什么也不做，或展开进一步调查，以确定这项交易是否存在国家安全隐患。2014年，该委员会创下历史新高，对51项申请展开了调查，占所有申请的三分之一。
+After an investigation, if Cfius finds that the transaction has a national security issue, it will make a recommendation to the president, who can then decide to block the deal.
+调查结束后，如果Cfius发现交易存在国家安全问题，就会给美国总统提出建议，后者可以决定阻止这项交易。
+But Cfius rarely gets that far. There has been only one presidential action to block a transaction in the last five years. That was the 2012 acquisition of a wind farm by a Chinese company. Why would a wind farm implicate national security? Well, it was too close to a military base.
+但Cfius很少会走到那一步。过去五年，只出现过一次由美国总统采取行动来阻止交易的情况。那是在2012年，当时有一家中国公司试图收购美国一座风电场。风电场怎么会和国家安全扯上关系？这个嘛，原因是它太靠近一座军事基地。
+Instead, what typically happens is that Cfius signals to the acquirer that it will recommend against the transaction. In that case the acquirer will withdraw the transaction to avoid the public stain of a full presidential action.
+实际上，更常见的情况是，Cfius给收购方发出信号，表示它会建议否定这项交易。此种情况下，收购方会主动撤回收购意向，以避免被美国总统采取阻止交易的行动，留下人尽皆知的污点。
+This is what happened in the case of Western Digital. Similarly, Cfius has acted to block an acquisition of a gold mine by a Chinese company because it too was too close to a military base. Philips withdrew the sale of its lighting subsidiary last year under similar concerns.
+清华紫光对西部数据的收购申请就是遭遇了这种情况。类似的，Cfius因一座金矿太靠近军事基地而阻止一家中国公司对它进行收购。出于同样的原因，飞利浦(Philips)去年撤销了出售旗下一家照明产品子公司的计划。
+Some pending deals are coming into Cfius’s cross hairs. The biggest is China National Chemical Corporation’s $43 billion acquisition of Syngenta, a Swiss giant in farm chemicals and seeds with big operations in the United States.
+有一些悬而未决的交易正在进入Cfius的瞄准范围。其中最大的一宗是中国化工集团公司收购先正达(Syngenta)的计划，价值430亿美元。这家瑞典公司是农用化肥和种子生产领域的巨头，在美国有多处大型分支机构。
+It may seem odd that an agriculture company would become a matter for national security, but this is all about food technology. The market is betting that Cfius is almost certainly going to require divestitures or restrictions on access of the Chinese company to Syngenta’s American operations and technology.
+这看似有些奇怪，一家农业公司会牵涉国家安全，但它关乎的其实是食品技术问题。市场猜测，Cfius几乎肯定会要求进行资产剥离，或者限制这家中国公司得到先正达在美国的分支机构和技术。
+But it is not just food technology. Chongqing Casin Enterprise Group’s agreement to acquire the Chicago Stock Exchange has been met with heated protest. Forty-five members of Congress have sent a letter to Cfius asking the committee to block the deal on “transparency” concerns, namely that the Chinese economy and buyer are opaque and that providing access to American market and trading technology might harm the United States.
+然而，不是只有食品技术才会如此。重庆财信企业集团收购芝加哥证券交易所(Chicago Stock Exchange)的申请就遭到了强烈的抗议。45位议员给Cfius发了一封联名信，要求该委员会阻止这项交易，原因是有关“透明度”方面的顾虑，即中国经济和买家是不透明的，给他们提供进入美国市场和进行技术交易的机会，有可能会给美国造成伤害。
+Expect tensions to get worse. Chinese companies are desperate to get dollars out of China in anticipation of a further slide in its currency. Foreign acquisitions are an easy solution, since they are encouraged by the Chinese government. And American sellers are willing to take the risk. Indeed, pending now is Tianjin Tianhai’s $6 billion deal for the technology distributor Ingram Micro, which would be the largest Chinese acquisition of an American technology company.
+这种摩擦还会加剧。中国企业目前急于将资金放到中国以外的地方，因为他们预计本国的货币还会进一步贬值。海外并购是个比较容易的解决办法，因为中国政府对这种行为持鼓励态度。美国卖家也愿意承担其中的风险。实际上，中国航运集团天津天海即将达成的以60亿美元收购技术分销商英迈(Ingram Micro)的交易，将会是中国在美国进行的最大的一宗科技企业收购。
+To be sure, Cfius actually approves most acquisitions, even the Chinese ones. For example, it approved the acquisition of Smithfield Foods and the battery maker A123 despite some protest.
+当然，Cfius 实际上通过了大部分的交易申请，甚至包括中国公司提出的那些。比如，尽管有人提出抗议，它还是批准了对史密斯菲尔德食品公司(Smithfield Foods)和对电池生产商A123的收购。
+These types of national security reviews also occur in other countries, including China, and can sometimes take on an absurdist flavor. Canada, for example, reviewed Burger King’s acquisition of Tim Hortons, its national coffeehouse chain, on national security grounds. France famously stated that it would not allow the acquisition of Danone, since the yogurt maker was a national champion.
+其他国家也有这类针对国家安全的审核，包括中国，而且有时候还会显得有些荒诞。比如，加拿大就以国家安全为由，对汉堡王(Burger King)收购该国咖啡连锁店蒂姆-霍顿斯(Tim Hortons)一事进行了审核。法国曾出了名地表示，它不会允许外国公司收购达能(Danone)，因为这家酸奶生产商是国宝。
+But we are entering into a new phase with Chinese acquisitions. The United States’ national security service, never considered a transparent process, is going to have to grapple with how far it can allow these Chinese companies to go. When is food technology important? Is a stock market really something that needs protection, particularly one that is dying?
+不过，在中国企业的收购申请方面，我们正进入一个新的阶段。一直被认为不透明的美国国家安全审核，将要面对在多大程度上给中国企业放行的难题。食品技术什么时候成了重要的问题？证券交易所真的需要保护吗，尤其是那么一家快要倒闭的？
+If you want to know how heated these debates can become, think about what is going on with Apple now and the controversy over whether it should be forced to unlock an iPhone. Then imagine a foreign company is substituted for Apple.
+如果你想知道这些争论未来会激烈到什么程度，可以想想眼下苹果正在经历的事，想想就是否该强迫苹果公司解锁一部iPhone产生的争议。然后想象一下，把其中的苹果替换成一家外国企业。
+Would it be better to let the money in, as we did with the Japanese, and watch them overspend and mismanage? After all, even in the best of times foreign acquisitions are difficult. And it may just be that this money and new viewpoint will make American companies better.
+让外国资金进来，然后看他们超支和管理不善，会是更好的选择吗？就像我们以前对待日本人那样。毕竟，就算是在经济形势最好的时候，外资收购也并不容易。而且，情况也可能是，这些钱和新的视角会让美国企业变得更好。
+And ultimately, there is the issue of xenophobia and commerce. These acquisitions create value for the United States. Is blocking them based on rationality, or simply on fear?
+最根本的，还存在着这是排外还是商业考量的问题。这些收购交易能为美国创造价值。我们是基于理性判断在阻止它们，还是只是出于恐惧？
+Deal-making, particularly cross-border deal-making, is always hard, but it is about to get much harder over the next few years as the United States decides how vigorous its national security review process will be. This will be a debate that will primarily be about China.
+达成交易，尤其是跨国交易，总是很难的，但在接下来的几年里，它会变得更难。美国会决定它就国家安全问题进行的审核会严格到什么程度，而这方面的争议将主要和中国有关。

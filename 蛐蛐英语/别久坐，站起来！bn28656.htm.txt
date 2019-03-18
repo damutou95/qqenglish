@@ -1,0 +1,40 @@
+Too much time spent in a chair could shorten our lives, even if we exercise, according to a study that uses objective measures to find the links between lengthy sitting time and death among middle-aged and older adults.
+一项研究发现，即便有锻炼身体的习惯，坐在椅子上太长时间也会导致寿命缩短，该研究使用客观的度量办法寻找中老年人久坐与死亡之间的关联。
+More hopefully, the study also suggests that we might be able to take steps to reduce our risks by taking steps every half-hour or so.
+好消息是，研究还表明，我们或许可以采取措施降低自身面临的风险：每隔半小时左右就站起来走走。
+Most of us almost certainly have heard by now that being seated and unmoving all day is unhealthy. Many past epidemiological studies have noted that the longer people sit on a daily basis, the likelier they are to develop various diseases, including obesity, diabetes and heart disease. They also are at heightened risk for premature death.
+时至今日，我们大多数人几乎一定听说过，一整天坐在那里不动弹不利于健康。此前的很多流行病学研究都表明，人们每天坐得越久，就越有可能得各种各样的病，包括肥胖、糖尿病和心脏病。他们还面临着更高的过早死亡的风险。
+This association between sitting and ill health generally remains, the past science shows, whether people exercise or not.
+以往的科学研究表明，一般来说，不论人们是否锻炼，久坐和糟糕的健康状况之间都存在这种关联。
+But most of these studies have relied on people’s memories of how they spent their time on any given day, and our recall about such matters tends to be notoriously unreliable. The studies also usually have focused on the total number of hours that someone sits each day. Some scientists have begun to wonder whether our patterns of sitting — how long we sit at a stretch and whether, when, and how often we stand up and move — might also have health implications. And they have questioned whether gender, race or weight might alter how sitting affects us.
+但此类研究大多要靠人去回忆自己的某一天是如何度过的，而我们关于这些事情的记忆往往非常不可靠。这类研究还常常聚焦于一个人每天总共坐多长时间。一些科学家已经在想，坐的规律——每次坐多长时间，何时站起来走动以及站起来走动的频率——是否也会影响健康。他们还希望澄清坐对我们的影响是否与性别、种族或体重有关。
+So for the new study, which was published this week in Annals of Internal Medicine, scientists from Columbia University in New York City and many other institutions turned to an extensive database of existing health information about tens of thousands of Caucasian and African-American men and women 45 or older who were part of a study of stroke risk.
+因此，于本周发表在《内科医学年鉴》(Annals of Internal Medicine)上的这项新研究中，来自纽约市哥伦比亚大学(Columbia University)以及其他很多机构的科学家选择了一个详尽的数据库，里面有数万名年龄在45岁或以上的白人和非裔美国男女的既有健康信息，这些人都参与过一项关于中风风险的研究。
+The participants had undergone a battery of health tests and about 8,000 of them also had worn accelerometers for a week to track their daily movements.
+参加者进行了一系列健康测试，其中约8000人还佩戴速度计一周，以追踪他们的日常活动。
+Accelerometers are, of course, an objective measure of how much and often someone sits, exercises or otherwise moves about. They do not hedge about those hours you spent sprawled on the couch binge-watching “30 Rock.”
+速度计测量的当然是佩戴者坐、锻炼或以其他方式运动的时间和频率。它们无法限制你花多长时间瘫在沙发上一集接一集地观看《我为喜剧狂》(30 Rock)。
+The scientists pulled the records for the accelerometer group.
+科学家提取了佩戴速度计组的记录。
+They then stratified these participants into various groups, depending on how many hours per day each person had sat, as well as how long each of the bouts of sitting had continued, uninterrupted — 10 minutes? 30 minutes? 60 minutes? more? — and how much time, if any, they had spent exercising (mostly with walks).
+然后，他们依据每人每天坐几小时，每次会持续不间断地坐多长时间——10分钟？30分钟？60分钟？更多？——以及如果锻炼的话会花多长时间（主要是散步），将这些参与者分成不同的小组。
+Finally, they checked these records against mortality registries, looking for deaths that had occurred within about four years of the participants having worn the accelerometers and completed other health tests.
+最后，他们将这些记录与死亡登记数据对照，研究佩戴速度计并完成其他健康测试的参加者在大约四年之内的死亡情况。
+Even in this short time frame, there were deaths. About 5 percent of the participants of all ages had died during the follow-up period. (The scientists discarded any data from people who had died within a year of their testing, since they might have had an underlying illness that increased their fatigue and prompted them to sit often.)
+即使在这么短的时间内，也有人死去。在所有年龄段的参加者中，大约有5％的人在这段随访期内死亡。（科学家放弃了测试一年内死亡者的数据，因为他们可能患有潜在疾病，令他们更加疲劳，所以他们经常坐着）。
+The scientists then found strong statistical correlations between sitting and mortality. The men and women who sat for the most hours every day, according to their accelerometer data, had the highest risk for early death, especially if this sitting often continued for longer than 30 minutes at a stretch. The risk was unaffected by age, race, gender or body mass.
+科学家们发现，久坐和死亡率之间有很强的统计学相关性。根据速度计数据，每天坐着时间最长的男性和女性死亡风险最高，特别是如果每次持续坐着的时间经常超过30分钟。该风险不受年龄、种族、性别或体重影响。
+It also was barely lowered if people exercised regularly.
+就算定期锻炼，这一风险也几乎没有降低。
+But interestingly, the risk of early death did drop if sitting time was frequently interrupted. People whose time spent sitting usually lasted for less than 30 minutes at a stretch were less likely to have died than those whose sitting was more prolonged, even if the total hours of sitting time were the same.
+但有趣的是，如果坐着的时间经常被打断，早死的风险确实会出现下降。和持续坐着的时间通常不超过30分钟的人相比，久坐时间更长的人死亡率更高，即便每天坐着的总时间相同。
+In essence, the data showed that “both the total hours spent sitting each day and whether those hours are accrued in short or long bouts” of physical stillness influenced longevity, says Keith Diaz, an assistant professor of behavioral medicine at Columbia University, who led the new study.
+领导这项新研究的哥伦比亚大学(Columbia University)行为医学副教授基思·迪亚兹(Keith Diaz)说：实质上，数据表明，“每天坐着的总时间，”以及这些时间是由“每次持续多久的身体静止状态”构成，都会对寿命有影响。
+The results also indicate that if you must be chair-bound for much of the day, moving every 30 minutes or so might lessen any long-term deleterious effects, he says, a finding that adds scientific heft to the otherwise vague suggestion that we all should sit less and move more.
+研究结果还表明，如果你每天必须花费大部分时间坐在椅子上，那么每隔30分钟左右活动一下，就有可能减轻一切可能的长期有害影响，他说，关于人们应当少坐多动的建议本来是很模糊的，这一发现增加了它在科学上的份量。
+This study was, however, associational. It cannot prove that too much sitting undermines health, only that the two were linked. It also used data about deaths from any cause, which might have included automobile or other accidents unlikely to have been affected by sedentary time. And the accelerometers could not readily distinguish between sitting and standing, Dr. Diaz says, so the “breaks” in sitting time in this study always involved walking about and not merely standing up.
+然而，这只是一项相关性研究，不能证明久坐会损害健康，只能证明二者之间存在关系。它使用的死亡资料是把所有原因都包括在内的，其中可能包括车祸或其他不太可能受久坐影响的事故。迪亚兹还说，速度计尚无法区分坐姿和站立，所以在这个研究中，久坐的“间隔期”都是指走动，而不仅仅是站起来。
+In future randomized experiments, Dr. Diaz and his colleagues hope to better parse how often and how much people need to move during breaks in order to lessen sitting’s risks, and whether standing by itself is effective or we must move about.
+在未来的随机实验中，迪亚兹和他的同事们希望能够更好地分析，为了减少久坐的风险，人们需要间隔多长时间起来活动一次，需要活动多久，以及站立是否有效，还是必须行走才可以。
+In the meantime, consider setting an alert on your phone or computer to ping every half-hour and remind you that now would be a good time to get up and move. You might try to time your stand-up breaks as a chance to do something you wanted to do anyway — get a cup of coffee, grab something from the printer, or simply walk across the room to talk to a colleague face-to-face.
+在此期间，请考虑在手机或电脑上设置半小时一次的提醒，告诉你现在最好起来活动一下。你可以试着利用这段起来休息的时间做一点想做的事——喝杯咖啡，去打印机那里拿东西，或者只是到房间另一头与一个同事面对面地交谈。

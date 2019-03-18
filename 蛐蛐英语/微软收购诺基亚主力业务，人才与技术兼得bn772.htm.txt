@@ -1,0 +1,46 @@
+Microsoft said it has reached an agreement to acquire the handset and services business of Nokia for about $7.2 billion, in an audacious effort to transform Microsoft’s business for a mobile era that has largely passed it by.
+微软(Microsoft)表示，已经和诺基亚(Nokia)达成协议，以大约72亿美元（约合440亿元人民币）的价格收购诺基亚的手机和服务业务，这是一项大胆的举措，目的是转变微软的业务，以迎合把微软抛在身后的移动时代。
+Late Monday night, Microsoft and Nokia said 32,000 Nokia employees will join Microsoft as a result of the all-cash deal, which will turn the Finnish mobile phone pioneer into the engine for Microsoft’s mobile efforts.
+周一晚间，微软和诺基亚表示，这单全现金交易的一个结果是，诺基亚的3.2万名员工将加入微软，该交易将把芬兰移动手机的先驱企业，变成微软移动业务的引擎。
+Stephen Elop, the former Microsoft executive who was running Nokia until the deal was signed, will rejoin Microsoft after the transaction closes, setting him up as a potential successor for Steven A. Ballmer, Microsoft’s chief executive. Mr. Ballmer has said he will retire from the company within 12 months.
+在这单交易签署之前，微软前高管斯蒂芬·埃洛普(Stephen Elop)一直执掌着诺基亚，交易完成后，他将重新加入微软，这让他成为微软首席执行官斯蒂文·A·鲍尔默(Steven A. Ballmer)的潜在接班人。鲍尔默已经表示，未来12个月内，他将从公司退休。
+“This agreement is really a bold step into the future for Microsoft,” Mr. Ballmer said in an telephone interview from Finland. “We’re excited about the talent capabilities it will bring to Microsoft.”
+在一次电话采访里，鲍尔默在芬兰表示，“这桩协议绝对是微软迈向未来的大胆一步。我们对它给微软带来的人才资源感到激动。”
+Nokia was once the mightiest company in the mobile phone business, but it has lost much of its luster as the industry shifted to the era of the smartphone. Samsung and Apple divide nearly all of the profits in the global smartphone business now.
+诺基亚曾是手机行业最强大的公司，不过，随着该行业向智能手机时代转变，它丧失了大部分荣光。目前，三星(Samsung)和苹果(Apple)几乎瓜分了全球智能手机业务的所有利润。
+A megadeal between Nokia and Microsoft of the sort announced Monday night is something that pundits and analysts have speculated about for years, after Mr. Elop joined Nokia and signed a pact with Microsoft in Feb. 2011 to standardize on the software company’s Windows Phone operating system.
+自埃洛普于2011年2月加入诺基亚，和微软签订协议，把微软的Windows Phone操作系统改成统一标准之后，多年以来，业内人士和分析人士一直揣测着，诺基亚和微软之间可能会达成于周一晚间宣布的这种特大交易。
+The fortunes of the two companies in the mobile business have become closely intertwined since that agreement, but it has done little to turn either company into a leader in the mobile business. Windows Phone accounted for only 3.7 percent of smartphone shipments in the second quarter, according to the technology research firm IDC.
+自该协议签订后，这两家公司在手机业务的资产已经紧密地交织在一起，不过，对于把两家公司中的任意一家变成手机行业的领导者，这份协议的收效甚微。根据科技研究公司国际数据公司(IDC)的数据，今年第二季度，Windows Phone只占智能手机出货量的3.7%。
+Nokia remains the second-largest shipper of mobile phones in the world after Samsung, but that is largely because of lower-end feature phones, from which consumers are moving away. Nokia is no longer among the top five makers of smartphones.
+诺基亚依然是世界上仅次于三星的第二大手机制造商，但这主要是因为低端手机的缘故，而现在低端市场的消费者正在流失。诺基亚已不在排名前五的智能手机生产商之列。
+A big question is whether Microsoft and Nokia will succeed as one company where they have not as close partners. Mr. Ballmer said Microsoft and Nokia have not been as agile separately as they will be jointly, citing how development could be slowed down when intellectual property rights were held by two different companies. “There’s friction,” he said.
+一个大问题是微软和诺基亚合并之后在未来是否能取得成功，它们在以前的密切合作中并不如意。鲍尔默说，微软和诺基亚联合后将比之前各自单独运营更加灵活，他指的是两家不同公司在知识产权上的纠葛可能会阻碍发展。他说，“其中存在分歧。”
+Carolina Milanesi, an analyst at Gartner, says she believes the deal could help the companies respond more quickly to the dynamism of the mobile market. “They need to move faster,” she said.
+高德纳公司(Gartner)的分析师卡罗来娜·米拉内西(Carolina Milanesi)说，她认为这笔交易会让两家公司能更迅速地对移动市场中的变化做出反应。她说，“它们需要动作快一点。”
+Large acquisitions are fraught with peril, especially in the technology business, where there are challenges to integrating employees from different backgrounds into a coherent whole.
+大笔收购总是危险重重，特别是在技术行业，收购面临着要将不同背景的员工整合成一个统一体的诸多挑战。
+The Nokia deal echoes Google’s $12.5 billion deal to acquire Motorola Mobility, which gave control of a trove of mobile patents and a handset business that has yet to shine under Google’s ownership.
+这次收购诺基亚的交易类似于谷歌花125亿美元收购摩托罗拉移动公司(Motorola Mobility)的举动，摩托罗拉移动公司让出了对一系列移动专利和需要借谷歌所有权来提高价值的手机业务的控制权。
+While Microsoft still has enormous stockpiles of cash from its lucrative software business, there has been widespread speculation about how long Nokia could make it as an independent company, given how the spoils of the industry have gravitated to companies like Apple and Samsung. For Microsoft, there was risk that Nokia could have ended up as an acquisition target for another company, creating uncertainty around the future of their earlier business partnership.
+虽然微软依然有从利润丰厚的软件行业中赚取的大笔现金，但在当前该行业市场已被像苹果和三星这样的公司瓜分的情况下，很多人怀疑诺基亚作为一个独立的公司，还能支持多久。微软还面临着诺基亚最终会沦为其他公司收购目标的风险，这为这两家公司早前合作关系的前景制造了不确定性。
+Microsoft will pay about $5 billion for Nokia’s devices and services business and $2.18 billion to license Nokia’s patents. After it sells its high profile handset operations, Nokia will be left with three primary businesses: network infrastructure and services; mapping and location services; and a technology development and licensing unit.
+微软将支付50亿美元收购诺基亚的设备以及服务业务，支付21.8亿美元获得诺基亚的专利许可。诺基亚将著名的手机业务转让出去后，将只剩下三方面主要业务：网络基础和服务；地图和定位服务；以及技术发展和许可部门。
+The company will continue to do business as Nokia, licensing the Nokia name to Microsoft for use on its mobile phones for 10 years. “For Nokia today, it’s a moment of reinvention,” Risto Siilasmaa, the chairman of Nokia’s board, said in an interview.
+该公司将继续以诺基亚之名进行运营，授权微软在10年内拥有在其移动手机上使用诺基亚名字的权力。诺基亚董事会主席里斯托·西拉斯玛(Risto Siilasmaa)在采访中说，“对今天的诺基亚来说，这是一次重生。”
+Mr. Siilasmaa also assumed the title of interim chief executive. Since Mr. Elop plans to join Microsoft after the deal is closed, which is expected to happen in the first quarter of 2014, he resigned as chief executive and relinquished his Nokia board seat to avoid conflicts of interest. He has become a Nokia executive vice president, reporting to Mr. Siilasmaa.
+西拉斯玛还担任临时首席执行官的一职。自从埃洛普计划在这笔交易完成后就加入微软时起，他就辞去了首席执行官一职，并取消了自己在诺基亚董事会的席位以避免利益冲突，这一收购交易计划在2014年第一季度完成。目前他已经是诺基亚的一名执行副总裁，在西拉斯玛手下任职。
+Mr. Ballmer declined to say whether Mr. Elop, considered a leading contender to be his successor because of his familiarity with Microsoft and the importance of mobile to Microsoft’s future, will be considered for the job. “Our board is running an open succession process, considering internal and external candidates,” he said.
+鲍尔默没有对埃洛普是否会接替他的职位这一说法进行评论，由于埃洛普对微软十分熟悉，以及移动业务对微软未来的重要性，他被认为是接替鲍尔默的主要竞争者。鲍尔默说，“我们的董事会正在进行公开交接程序，会同时考虑内部和外部的候选人。”
+“I think it strengthens his potential for C.E.O.,” said Ms. Milanesi, the Gartner analyst. “It makes perfect sense.”,
+高德纳公司的米拉内西说，“我认为这增强了他成为CEO的潜力。完全说得通。”
+Mr. Elop, a native of Canada whose family still lives in the Seattle area, said in an interview that he believes the industry is at a “tipping point” where a third mobile phone ecosystem, based on Windows Phonewill emerge as a more vibrant alternative to the iPhone and devices running Google’s Android operating system.
+埃洛普是加拿大人，他的家人现在依然生活在西雅图地区，他在一次采访中说，他认为这个行业正处在一个“分叉点”，第三种基于Windows手机(Windows Phone)的移动生态系统将会成为iPhone和谷歌安卓操作系统手机的一个更强的替代选择。
+In a sign of how vital Nokia’s partnership has become to Microsoft, Mr. Ballmer said the first calls he made outside Microsoft to discuss his retirement and succession planning at the company were to Mr. Elop and Mr. Siilasmaa.
+鲍尔默说，他在微软外最先打电话去讨论自己退休和公司继任者的人是埃洛普和西拉斯玛，这显示出与诺基亚的合作对微软公司是多么重要。
+Mr. Ballmer said his conversations with Nokia about an acquisition “heated up in the last several months,” but started during a mobile industry conference in Barcelona in late February.
+鲍尔默说他与诺基亚关于收购交易的谈话“在过去几个月里开始热烈起来”，但是这最初却始于2月份在巴塞罗那召开的一次移动行业大会期间。
+For Microsoft, there is also an attractive financial dimension to the deal. Because Nokia is based in Finland, Microsoft can use a portion of its foreign-held cash to pay for the acquisition, allowing it to avoid hefty taxes it would otherwise pay to bring the cash back to the United States. Microsoft took a similar approach to its $8.5 billion deal to acquire Skype, the largest deal in its history.
+这笔交易对微软来说还具有经济层面的吸引力。由于诺基亚在芬兰，因此微软可以利用一部分在国外的现金来支付收购交易，这样就能避开将现金转回美国再支付时要缴的大笔税收。微软在其历史上最大一次收购案例，用85亿美元收购Skype时，也采用了类似方式。
+The plan to buy Nokia is likely to upset the other companies that use Microsoft’s Windows Phone operating system on their devices, notably HTC and, to a lesser extent, Samsung. But there is little business there for Microsoft to lose. Mr. Ballmer said that Nokia’s phone currently counts for more than 80 percent of the Windows Phones sold.
+收购诺基亚的计划很可能让其他那些在设备上使用微软Windows Phone操作系统的公司不满，比如HTC和三星（从某种更小的范围上来说）。但是微软在这一方面几乎没什么损失。鲍尔默说，目前已经售出的Windows Phone，诺基亚手机所占比例超过80%。

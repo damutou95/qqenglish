@@ -1,0 +1,24 @@
+In the television show Extreme Home Makeover, people go away for a nice quiet weekend with their family and return to discover that their house has been completely renovated. Their favorite old, ragged, puffy couch has now replaced with a sleek designer slab of gray foam. Their favorite lamp has been swapped out for an obscure designer lighting system. Usually, it’s a shocking transition.
+在电视节目《家装改头换面》(Extreme Home Makeover)中，人们合家外出度过了一个安静愉快的周末，回家时发现房子已经完全重新装修过了。他们心爱的、蓬松的老旧沙发，被换成了时髦的、灰色材质制作的设计师沙发。他们最喜欢的灯具，也被一套来自小众设计师的照明系统所取代。通常情况下，这种变化会让人瞠目结舌。
+This is what it may feel like when you upgrade to iOS 7, Apple’s latest version of its mobile operating system, on your iPhone and iPad. What was once skeuomorphic is now flat. Textured bookshelves have been replaced with white space. Icons that were round and bubble-shaped look like pancakes.
+把iPhone和iPad升级到苹果移动操作系统的最新版本iOS 7，你可能也会有同样的感觉。曾经的“拟物化”(skeuomorphic)设计变得扁平了。白色空间取代了有纹理的书架。之前圆圆的、气泡状图标现在看起来就像是薄饼。
+If you want a good chuckle go, to Twitter and search “what happened to my iPhone?” You will be greeted by a stream of people who have updated to iOS 7 and been completely caught off guard by the changes. Some seem to be in complete shock.
+如果你想好好笑一场，不妨到Twitter上搜索“我的iPhone怎么了？”你会看到很多人升级到iOS 7后对这些变化猝不及防的反应，有些人似乎彻底惊呆了。
+So if you haven’t made the switch yet, or have but don’t know how to deal with the changes, here are a few tips to help you manage the transition.
+所以，如果你还没有升级，或者已经升级，但还不知道如何应对这种变化，下面这些小建议可以帮助你去适应它。
+1. Breathe.
+1. 呼吸。
+2. Breathe again.
+2. 再呼吸。
+3. Compared with iOS 6, which had a lot of dark colors and heavy icons, the new iOS 7 design is extremely light. Blacks have been replaced with white or muted gray. To increase the contrast of the phone again, try picking a very dark background image for your home screen. You can even go with flat black to start, then gradually change it to something more interesting, and lighter, as you become accustomed to the new design.
+3. iOS 6大量采用繁复的暗色图标，相比之下，iOS 7的设计显得极为轻巧。黑色改成了白色或哑光灰。如果你想重新提高手机的对比度，可以给主屏挑选一幅颜色非常暗沉的背景图片，甚至可以从哑黑色开始，然后随着你开始适应iOS 7，再逐渐更改为更有趣、更明亮一些图片。
+4. Studies by Dr. Gary Small, director of the Longevity Center at the University of California, Los Angeles, and author of “iBrain: Surviving the Technological Alteration of the Modern Mind,” found that our brains take up to seven days to rewire themselves when learning something new.
+4. 盖瑞·斯默尔(Gary Small)博士是洛杉矶加利福尼亚大学寿命中心(Longevity Center)主任，也是《大脑革命：数字时代如何改变了人们的大脑和行为》(iBrain: Surviving the Technological Alteration of the Modern Mind)一书的作者，他在研究中发现，我们的大脑在学习新东西的时候，需要7天时间来进行自我调适。
+The placement of the apps of your smartphone is wired into your brain at this point. You don’t have to think about what the icons look like or decode them. You just put your thumb in the top right corner to open the camera. When you install the new iOS 7, it will move some of your icons around as it places Music in the top left corner and drops the new compass app onto your phone. Before you do anything, put everything back the way you had it before the upgrade. Cognitively, this will help you become accustomed to the new design.
+目前，应用在你智能手机上的位置已经铭记在了你的脑海中，你不必去想图标的模样，也不必想它们是什么应用，直接用拇指按手机右上角就能打开相机。而安装iOS 7后，一些图标的位置会发生变化，比如音乐应用会在左上角，新的指南针应用会出现在界面上。你可以一开始就把所有应用都放回到升级之前的位置上，以帮助你习惯iOS 7的新设计。
+5. Dr. Small and other neuroscientists have found that you can speed up the brain’s learning by performing little exercises. Try doing this every few minutes to help rewrite the way you used to use your phone. For example, rather than pressing the home button to search for something, in iOS 7 you go the middle of the screen and flick downward. Do this over and over to train yourself that this is the new behavior.
+5. 斯默尔博士和其他神经科学家发现，人们可以借由小练习来加快大脑的学习进程。你不妨试试每隔几分钟就做个小练习，帮助自己调整到新的操作方式上。例如，在iOS 7里，搜索东西时不要按home键，而是将手指放在屏幕中部并向下滑动。一遍遍重复这么做，培养自己新的操作习惯。
+While some are shocked by the design changes of iOS 7, my colleague Brian X. Chen wrote on Thursday that most consumers who have jumped to the new operating system seem to be enjoying the new design.
+虽然iOS 7设计上的变化让一些人感到惊诧，我的同事布莱恩·X·陈(Brian X. Chen)在周四的一篇文章中指出，大多数已经升级到iOS 7的用户似乎很喜欢它的新设计。
+Of course, if none of these tips work and you’re in complete disarray after your upgrade, there is one more option you can try: turn off your phone and go away for a nice quiet weekend with your family.
+当然，如果前文所述的这些小技巧都没有奏效，iOS 7让你完全乱了阵脚，你还可以试试另一个方法：关掉手机，与家人出行，共度一个静谧的周末。

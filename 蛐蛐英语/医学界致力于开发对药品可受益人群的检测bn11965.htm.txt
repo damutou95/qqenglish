@@ -1,0 +1,54 @@
+New drugs that boost the immune system’s ability to fight tumors may be one of the greatest medical advances in years, cancer doctors say, pulling some patients from death’s door and keeping them in remission for years.
+增强免疫系统对抗癌细胞能力的新型药物有可能是近年来最大的医学进步之一，癌症医生说，它能将病人从鬼门关上拉回来，延长数年的寿命。
+But the truth is that this happens for only a minority of patients. Now, doctors say, there is a new imperative to develop a test that will identify in advance which patients will benefit, sparing others the cost and possible side effects.
+但事实是，这种情况只会发生在一小部分病人身上。现在，医生说，开发一项能提前鉴定出哪些病人能受益的检测是当务之急，它能省去其他病人大笔的费用和可能出现的副作用。
+The drugs currently cost about $150,000 a year per patient — even more for higher doses used in some cases — and the health system is eventually expected to spend billions or even tens of billions of dollars on the drugs each year.
+目前，这种药物每个病人每年要花费约15万美元——在一些需要更大剂量的病例中甚至更多——预计医疗体系最终每年将在这种药物上投入数十亿、甚至是上百亿美元资金。
+“We don’t want to give these to 100 percent of the patients if only 59 percent or 20 percent will benefit,” said Dr. David R. Gandara, a professor and lung cancer specialist at the University of California, Davis. Being able to test for a biomarker that could predict the drugs’ efficacy “would make this new class of drugs easier on the wallet, the national health wallet,” he said.
+“如果只有59%或者20%的病人能从中受益，我们不希望将这种药物开给100%的病人，”加州大学戴维斯分校的教授、肺癌专家大卫·R·甘德拉医生(Dr. David R. Gandara)说。如果有一项技术可以通过检测生物标志物来展示药物有效与否，“将使这种新型药物对钱包造成的压力减小，我说的是国家医疗体系的钱包。”他说。
+But developing such a test has proved tricky so far, for ethical as well as scientific reasons. Some doctors said it would be unfair to withhold the new drugs from patients based on a test if there was still even a slight chance that the drugs would help.
+但迄今为止，出于道德伦理和科学技术的原因，对这样一种检测手段的开发一直步履维艰。一些医生认为，哪怕只存在一丝这种药物发挥作用的机会，仅因为一项检测就不把药物给予病人都是不公平的。
+“We don’t want to be wrong, because these medicines have an effect that, in some cases, is durable for years,” said Dr. Jedd D. Wolchok, chief of the melanoma and immunotherapeutics service at the Memorial Sloan Kettering Cancer Center. “We don’t want to have an imperfect biomarker.”
+“我们不想犯错，因为这些药物在某些病例中，药效会持续数年，”纪念斯隆-凯特琳癌症中心(Memorial Sloan Kettering Cancer Center)黑色素瘤和免疫疗法服务部(melanoma and immunotherapeutics service)负责人杰德·D·沃夏克博士（Dr.Jedd D. Wolchok）说。“我们不希望有一个不完美的生物标志物。”
+The need for such biomarkers is illustrated in a study led by Dr. Wolchok that is to be presented on Sunday in Chicago at the annual meeting of the American Society of Clinical Oncology. The study is being published online by the New England Journal of Medicine.
+沃夏克领导的一项研究说明了对于这样的生物标志物的需求，研究将在芝加哥周日的美国临床肿瘤学会(American Society of Clinical Oncology)年度会议上获得展示。《新英格兰医学期刊》(New England Journal of Medicine)也将在其网站上发表这项研究。
+The 945-patient study shows that the combination of two immune-boosting drugs from Bristol-Myers Squibb — Opdivo and Yervoy — is more effective than either drug alone in treating advanced melanoma. Patients treated with both drugs went a median of 11.5 months before their disease worsened, a longer reprieve than the 6.9 months for those who received only Opdivo and 2.9 months for those who took Yervoy.
+这项覆盖945名病人的研究表明，两种来自百时美施贵宝(Bristol-Myers Squibb)的提高免疫力的药物——纳武单抗(Opdivo)和伊匹单抗(Yervoy)——搭配在一起，在治疗晚期黑色素瘤中比任意一种更有效。同时使用这两种药物的病人在病情恶化前有平均11.5个月的时间，相较只使用纳武单抗的6.9个月和只使用伊匹单抗的2.9个月，病人获得了更长的寿命。
+But the combination also caused serious side effects like diarrhea and colitis in 55 percent of patients, compared with only 16.3 percent for Opdivo alone and 27.3 percent for Yervoy alone.
+但药物搭配在一起也导致了严重的副作用，如55%的病人出现腹泻和结肠炎，而只使用纳武单抗的病人中这一比例只有16.3%，只使用伊匹单抗的病人中这一比例只有27.3%。
+Dr. Antoni Ribas, a melanoma specialist at the University of California, Los Angeles, who was not involved in the study, said Opdivo alone might be just as good as the combination for many patients, with far fewer side effects, but that a biomarker test was needed.
+加州大学洛杉矶分校的黑色素瘤专家安东尼·瑞巴斯医生(Dr. Antoni Ribas)没有参与到这项研究当中，他说，对于许多病人来说，只使用纳武单抗的疗效也许和药物组合一样好，它远没有那么多副作用，只是需要一项生物标志物检测。
+“The combination is outstanding, but we have to figure out who needs the combination as opposed to the single agent,” he said.
+“药物组合很出色，但我们必须搞清楚哪些病人需要它们，而不是只需要某一种药物。”他说。
+The main test being explored is for PD-L1, a protein produced by cancer cells that, in effect, orders the immune system to stand down and not attack.
+现在正在研发的主要检测针对的是PD-L1，一种由癌细胞产生的蛋白质，它能使免疫系统“解除戒备”、不攻击癌细胞。
+The Merck drug Keytruda, Opdivo and other similar treatments work by keeping this “stand down” order from being received by the immune cells. So it makes sense that the drugs work best against tumors that are issuing such an order and that they may not work at all against tumors that are not issuing the order.
+纳武单抗和默克(Merck)的Keytruda等类似药物，通过阻止免疫细胞接收到“解除戒备”的命令来发挥作用。因此一种合情合理的想法是，这类药品最擅长对抗发布这类指令的肿瘤，而不是那些不会发出相关指令的肿瘤。
+Studies by Bristol-Myers and Merck as well as Roche, which is also developing such a drug, have shown that there was a much greater success rate using the drugs to treat tumors that were positive for PD-L1.
+百时美施贵宝、默克与罗氏(Roche)等研发此类药物的公司的研究显示，此类药物在治疗PD-L1呈阳性的肿瘤时有着大得多的成功率。
+Still, at least a small number of patients whose tumors do not produce meaningful amounts of PD-L1 also seem to benefit from these drugs. So some doctors say it is wrong to withhold the drugs from patients whose tumors test negative for PD-L1.
+然而，仍有少数体内肿瘤甚少释放PD-L1的患者可以受益于此类药物，因此一些医生表示，不应拒绝给出这些药物，不让PD-L1呈阴性反应的患者用药。
+In the melanoma study, patients whose tumors were positive for PD-L1 did as well on Opdivo alone as with the combination, as measured by the delay before their cancer worsened. One implication might be that those patients should get only Opdivo, while others should get the combination.
+针对黑色素瘤的研究中，就延迟癌症恶化时间这个标准而言，PD-L1呈阳性反应的病患在只服用纳武单抗时，与服用药物组合效果相同。这可能显示这些病患应当单独使用纳武单抗治疗，其他病患则服用药物组合。
+But Dr. Michael B. Atkins, deputy director of the Georgetown Lombardi Comprehensive Cancer Center in Washington, said that even for PD-L1-positive tumors, the combination was better at shrinking the abnormalities.
+但乔治城大学隆巴底综合癌症中心(Georgetown Lombardi Comprehensive Cancer Center)的副主任迈可‧B‧埃特金斯博士(Dr. Michael B. Atkins)表示，即便是PD-L1呈阳性反应的肿瘤，药物组合在缩小肿瘤上的表现仍然更佳。
+“The biomarker isn’t good enough to make any decisions on it,” said Dr. Atkins, who was not involved in the study.
+“这个生物标志物不足以成为治疗决策的根据，”未参与研究的埃特金斯博士表示。
+PD-L1 is not the only possible biomarker. Scientists are finding that the drugs work best against tumors with lots of mutations. Researchers reported on Friday that a genetic signature could identify a small subset of patients with colorectal and other types of cancer who would be likely to benefit from Keytruda.
+PD-L1不是唯一可能带来帮助的生物标志物。科学家发现，这些药物在对抗有着多种突变的肿瘤时效果最好。研究者周五公布，一种标记基因可以指认出一小部分结肠癌及可能会受益于药物Keytruda的其他癌症类型。
+Dr. Ribas and colleagues suggest examining tumor samples to see if immune cells are present. The drugs appear to work best when immune cells are already in or near the tumor, ready to attack when the “stand down” order is lifted by a drug. If the immune cells are not present, then merely lifting the order may not be enough.
+瑞巴斯博士及同僚指出，需要检验肿瘤样本中是否存有免疫细胞。如果免疫细胞已经位于肿瘤内或邻近部位，可以在“解除戒备”的指令被移除时进行攻击，这些药物就能达到最佳效果。倘若免疫细胞不存在，那移除指令也很难产生效果。
+Merck is working with a diagnostic company, NanoString Technologies, to develop a test that measures activity levels in genes associated with immune response.
+默克正在与诊断技术公司“奈米序列科技(NanoString Technologies)合作，研发一种测试，用以测量与免疫反应相关的基因的活跃程度。
+A downside for drug companies is that a test can narrow the market for a drug.
+对制药公司不利的是，测试会缩减一种药物的市场。
+Shares of Bristol-Myers fell nearly 7 percent on Friday based on what would seem to be positive clinical trial results showing that Opdivo could prolong the lives of patients with the most common form of lung cancer.
+百时美施贵宝的股票在周五下跌了近百分之七，尽管一项临床实验结果似乎带来了好消息，显示纳武单抗可以延长罹患主要类型肺癌的病患的生命。
+But there was a big survival difference in patients with PD-L1-positive tumors and patients whose tumors test negative for the protein. For those with PD-L1-negative tumors, there was no real difference between Opdivo and the generic chemotherapy drug docetaxel. This information dashed investors’ hopes that Opdivo might be used by all patients with that form of lung cancer.
+但PD-L1这种蛋白质呈阳性与否意味着患者存活时间上的很大差异。对于PD-L1呈阴性的肿瘤患者而言，纳武单抗与化疗仿制药多西他赛(docetaxel)的效果无异。投资者曾希望此类肺癌的所有病患都会使用纳武单抗，但这个消息让他们希望破灭。
+Opdivo did cause fewer side effects than docetaxel, but insurers might not be willing to pay so much more for that reason alone.
+纳武单抗的副作用仍比多西他赛要少，但保险业者并不愿意仅为这个理由支付其高额费用。
+Docetaxel costs $6,000 for six cycles of treatment; Opdivo used for the same length of time costs about $60,000, said Dr. Patrick W. Cobb, an oncologist in Billings, Mont.
+蒙大拿州比灵斯的肿瘤科医生派崔克‧W‧柯布(Partrick W. Cobb)表示，多西他赛六次疗程要价6千美元（约合3万7千人民币），同样时长疗程的纳武单抗则需6万美元。
+“The cost of treating these patients will be far higher than in the past,” Dr. Cobb said on a webinar sponsored by Kantar Health, a consulting firm. “We really need a way of determining which patients are likely to benefit from these agents.”
+“治疗这些病患的支出会远超以往，”柯布医生在由咨询公司坎达健康(Kantar Health)赞助的网络研讨会中表示。“我们真的需要找到一个方法，来分辨哪些病患可能从这些药物获得益处。”

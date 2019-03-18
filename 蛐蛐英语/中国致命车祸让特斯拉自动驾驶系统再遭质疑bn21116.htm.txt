@@ -1,0 +1,40 @@
+Tesla Motors came under renewed questioning about the safety of its Autopilot technology after news emerged on Wednesday of a fatal crash in China that may have occurred while the automated driver-assist system was operating.
+周三，中国出现一起致命车祸的新闻，随后，特斯拉汽车(Tesla Motors)自动驾驶技术的安全性再次受到质疑。事故可能是在自动的驾驶员辅助系统运行期间发生的。
+The crash took place on Jan. 20 and killed Gao Yaning, 23, when the Tesla Model S he was driving slammed into a road sweeper on a highway near Handan, a city about 300 miles south of Beijing, according to a report broadcast on Wednesday by the Chinese government news channel CCTV.
+中国政府的新闻机构中央电视台周三报道，事故发生的时间是1月20日，地点在北京以南约480公里处的城市邯郸附近的一段高速公路。报道称，一辆特斯拉Model S撞向一辆道路清扫车，导致23岁的驾车人高雅宁死亡。
+The report includes in-car video looking through the windshield as the car travels in the left lane at highway speed just before ramming into a parked or slow-moving orange truck. The video, apparently shot by a camera mounted on the rearview mirror, recorded no images, sounds or jolts that would suggest the driver or the car hit the brakes before impact. At that point, the in-car video ends.
+央视的报道中出现了一段在车里透过挡风玻璃拍摄到的视频。视频显示，就在撞向一辆停着或正在缓慢移动的橘黄色卡车前，特斯拉汽车正在以高速公路的限速行驶在左侧车道上。这段视频似乎是由一个安放在后视镜上的摄像头拍摄的。视频未记录下任何画面、声音或震动能表明驾驶员或特斯拉汽车在撞车有刹车动作。视频停在了撞车那一瞬间。
+“When it was approaching the road sweeper, the car didn’t put on the brake or avoid it,” a police officer said in the CCTV report. “Instead, it crashed right into it.”
+“白色特斯拉轿车在遇到前方正在施工作业的这个道路清扫作业车时，没有采取任何紧急制动和躲避措施，”一名警察在央视的报道中说。“直接与其相撞。”
+In an emailed statement, Tesla said on Wednesday that it had not been able to determine whether Autopilot was active at the time of the Handan accident. The company declined to say when it learned of the fatality in China, or whether it had reported the crash to United States safety officials, who are investigating a fatal accident in Florida on May 7 in which Autopilot was engaged.
+周三当天，特斯拉在一份通过电子邮件发出的声明中表示，尚无法断定邯郸那起事故发生时，自动驾驶系统是否处于激活状态。该公司拒绝透露是何时得知发生在中国的这起致命事故的，以及公司是否已向美国的安全事务官员汇报此事。相关官员正在调查5月7日发生在佛罗里达州的一起致命事故。在那起事故中，自动驾驶系统处于使用状态。
+So far, that Florida accident is the only confirmed death involving a Tesla with Autopilot turned on. In that accident, there was no sign that the driver or Autopilot had applied the brakes before the car collided at high speed with a tractor-trailer that had turned in front of it.
+迄今为止，佛罗里达州那起事故是唯一一起得到证实的，涉及打开了自动驾驶系统的特斯拉汽车的致命案例。在那起事故中，没有迹象表明在那辆特斯拉汽车与前方一辆转弯的牵引式挂车高速相撞前，驾驶员或自动驾驶系统采取了刹车措施。
+Although Tesla learned of the Florida accident a few weeks after it happened, it did not publicly disclose it until late June, when the National Highway Traffic Safety Administration announced it was investigating the crash.
+特斯拉尽管在佛罗里达州那起事故发生几周后便知道了事故情况，但直到6月末美国国家公路交通安全局(National Highway Traffic Safety Administration)宣布正在进行调查时，才公开披露此事。
+News of the Chinese crash will renew questions about when the company should disclose information about accidents in cars equipped with Autopilot and what information should be shared.
+对于公司应该何时公布配备自动驾驶系统的车辆的事故，以及具体应该分享哪些信息，此前早有质疑，此次中国的车祸消息传出后，人们再次提出这一问题。
+“Because of the damage caused by the collision, the car was physically incapable of transmitting log data to our servers, and we therefore have no way of knowing whether or not Autopilot was engaged at the time of the crash,” a Tesla spokeswoman, Alexis Georgeson, said in the company’s statement. “We have tried repeatedly to work with our customer to investigate the cause of the crash, but he has not provided us with any additional information that would allow us to do so,” she said of the car’s owner, Mr. Gao’s father.
+“碰撞给车身造成的损坏，会导致事故车辆无法将记录下来的数据传输到我们的服务器上，因此我们无从得知事故发生时，是否使用了自动驾驶，”特斯拉的发言人亚历克西丝·乔治森(Alexis Georgeson)在公司声明中说。“我们多次试图与顾客合作，调查事故原因，但他未提供任何能允许我们这么做的额外信息，”她说到那辆特斯拉的所有者，也就是高雅宁的父亲时说。
+She said Tesla was saddened to learn of the death of Mr. Gao. “We take any incident with our vehicles very seriously and immediately reached out to our customer when we learned of the crash,” she said.
+乔治森表示，得知高雅宁的死讯，特斯拉感到悲伤。“我们非常重视和我们的车辆有关的任何事故，获悉撞车事故后，我们立即与顾客取得了联系，”她说。
+Tesla and Autopilot have been under scrutiny since the disclosure of the May fatality. That crash killed Joshua Brown, 40, whose 2015 Model S was traveling 74 miles per hour when it collided with a tractor-trailer that had turned left and was crossing a highway near Williston, Fla. Autopilot’s radar and cameras failed to recognize the white truck against a bright sky.
+自从5月那起致人死亡的事故被公开后，特斯拉和自动驾驶一直备受关注。那起事故导致40岁的约书亚·布朗(Joshua Brown)死亡。与一辆牵引式挂车相撞时，布朗驾驶的2015年产Model S正以74英里的时速行驶。那辆挂车已完成左转，正要穿过佛罗里达州威利斯顿附近的一条公路。在能见度很高的情况下，自动驾驶系统的雷达和摄像头未能识别那辆白色的卡车。
+News of the China crash comes just three days after Tesla’s chief executive, Elon Musk, outlined changes planned for Autopilot that he said would have prevented Mr. Brown’s accident and that he contended would make the Model S one of the safest cars on the road.
+就在有关中国这起事故的新闻出现的三天前，特斯拉首席执行官埃隆·马斯克(Elon Musk)简要介绍了自动驾驶的调整计划。他说相关变化能够防止发生布朗遭遇的那一类事故，并宣称它们会让Model S成为路面上最安全的汽车之一。
+The changes include refinements in Autopilot’s radar that improve its ability to spot and identify obstacles down the road and additional warnings to force drivers to keep their hands on the steering wheel and eyes on the road while the system is active.
+这些变化包括对自动驾驶系统的雷达进行多处改进。这些改进能够提升雷达发现并识别路面障碍的能力，此外还会发出警告，迫使驾驶员在使用自动驾驶系统期间将双手放在方向盘上，并注意路面情况。
+Tesla has said Autopilot is not meant to take over completely for a human driver. When Autopilot is turned on, drivers are given audio and text warnings to remain alert and engaged while using it.
+特斯拉表示，自动驾驶系统不是为了彻底取代驾驶员。打开自动驾驶后，驾驶员会收到语音和文字警告，让其在使用自动驾驶系统期间保持警惕，注意车辆行驶情况。
+In August, Reuters reported that Tesla removed a Chinese term for “self-driving” from its China website after a driver in Beijing had a nonfatal crash while Autopilot was engaged. That driver later complained that the carmaker had oversold Autopilot’s capability.
+路透社(Reuters)在8月报道，北京的一名驾驶员在使用自动驾驶系统期间发生车祸后，特斯拉在其中文网站中去掉了“自动驾驶”这个词。那起事故未造成人员伤亡。后来，那名驾驶员抱怨称特斯拉夸大了自动驾驶系统的能力。
+The video of the January accident indicates the type of unexpected problem that can crop up at highway speeds. Critics of Autopilot say a driver can be lulled into complacency, leaving too little time to take back control of the vehicle.
+在1月那起事故中保留下来的视频，表明了汽车在高速公路上行驶时可能会出现的意想不到的问题。对自动驾驶持批评态度的人认为，驾驶员可能会错误地产生一种自信，导致其几乎没有时间重新控制汽车。
+Mr. Gao was traveling in the left lane of a three-lane highway with another car ahead of him. When the car ahead moved into the center lane, it revealed the orange truck, which was straddling the road’s left shoulder. Mr. Gao’s car never slowed before plowing into the truck.
+邯郸那起事故发生时，高雅宁正行驶在一段三车道高速路的左侧车道上，另一辆车在他前面。前车并入中间车道后，那辆橘黄色的卡车显露了出来。它的车身跨上了左侧路肩。撞向那辆卡车时，高雅宁的车丝毫没有减速。
+Police investigators concluded that Mr. Gao was responsible for the accident, CCTV reported. But in July his family sued the dealer who had sold the Tesla.
+央视报道称，警方调查人员认定高雅宁对事故负主要责任。但7月，高雅宁的家人把卖出那辆特斯拉的经销商告上了法庭。
+The driver’s father, Gao Jubin, told CCTV he thought his son had been relying on Autopilot to drive the car and so was not watching the road when the crash took place.
+高雅宁的父亲高巨斌对央视表示，他认为自己的儿子一直依赖自动驾驶，因此在事故发生时未观察路面情况。
+The lawsuit was filed “to let the public know that self-driving technology has some defects,” the family’s lawyer said in the report. “We are hoping Tesla, when marketing its products, will be more cautious. Don’t just use self-driving as a selling point for young people.”
+高雅宁家人的代理律师在央视的报道中表示，提起诉讼是为了“让公众知道，这种自动驾驶技术有缺陷”。他说，“希望特斯拉公司能够在宣传的过程中，在产品营销过程中，要有一个慎重的态度。不要把自动驾驶作为一个吸引年轻人的卖点。”

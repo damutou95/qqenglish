@@ -1,0 +1,44 @@
+Aaron Swartz, a wizardly programmer who as a teenager helped develop code that delivered ever-changing Web content to users and who later became a steadfast crusader to make that information freely available, was found dead on Friday in his New York apartment.
+周五，天才程序设计员阿龙·斯沃茨(Aaron Swartz)被发现在纽约的家中死亡。他十几岁的时候，就协助编写了能够把实时更新的网络内容传输给读者的代码，后来，成了一名让人们能够随时随地免费分享网络信息的坚定倡导者。
+An uncle, Michael Wolf, said that Mr. Swartz, 26, had apparently hanged himself, and that a friend of Mr. Swartz’s had discovered the body.
+斯沃茨的叔叔迈克尔·沃尔夫(Michael Wolf)说，26岁的斯沃茨应该是上吊自杀的。斯沃茨的一个朋友发现了他的尸体。
+At 14, Mr. Swartz helped create RSS, the nearly ubiquitous tool that allows users to subscribe to online information. He later became an Internet folk hero, pushing to make many Web files free and open to the public. But in July 2011, he was indicted on federal charges of gaining illegal access to JSTOR, a subscription-only service for distributing scientific and literary journals, and downloading 4.8 million articles and documents, nearly the entire library.
+斯沃茨14岁的时候，就协助创造了“丰富站点摘要”（Rich Site Summary，简称RSS），这种工具几乎无处不在，能够让用户订阅网络信息。之后，他成了一名互联网平民英雄，致力于使大量网络文件成为免费公开的资源。然而，2011年7月，联邦政府指控他非法进入JSTOR（这是一个发布科学和人文期刊的网站，只提供付费服务），并下载了480万篇文章和文件，几乎是这个网络图书馆的全部内容。
+Charges in the case, including wire fraud and computer fraud, were pending at the time of Mr. Swartz’s death, carrying potential penalties of up to 35 years in prison and $1 million in fines.
+该案的指控包括电信欺诈和网络欺诈。在斯沃茨死亡之时，这些指控尚未正式提出。他有可能面临35年的监禁和100万美元的罚款。
+“Aaron built surprising new things that changed the flow of information around the world,” said Susan Crawford, a professor at the Cardozo School of Law in New York who served in the Obama administration as a technology adviser. She called Mr. Swartz “a complicated prodigy” and said “graybeards approached him with awe.”
+“阿龙创造的新技术令人惊讶，这些东西改变了信息在世界上的流通方式，”曾担任奥巴马政府科技顾问的纽约卡多佐法学院(Cardozo School of Law)教授苏珊·克劳福德(Susan Crawford)说。她称斯沃茨是个“难以捉摸的天才”，还说“计算机业的前辈们对他都会满怀敬畏”。
+Mr. Wolf said he would remember his nephew, who had written in the past about battling depression and suicidal thoughts, as a young man who “looked at the world, and had a certain logic in his brain, and the world didn’t necessarily fit in with that logic, and that was sometimes difficult.”
+沃尔夫说他会永远铭记自己的侄子。过去，斯沃茨曾经写下了与抑郁和自杀想法作斗争的经历。沃尔夫说，这个孩子“面对着这个世界，自己的大脑中存在一定的逻辑，而世界并不一定符合这个逻辑，所以这有时会很难。”
+The Tech, a newspaper of the Massachusetts Institute of Technology, reported Mr. Swartz’s death early Saturday.
+麻省理工学院(Massachusetts Institute of Technology)的报纸《科技人》(The Tech)在上周六凌晨报道了斯沃茨过世的消息。
+Mr. Swartz led an often itinerant life that included dropping out of Stanford, forming companies and organizations, and becoming a fellow at Harvard University’s Edmond J. Safra Center for Ethics.
+斯沃茨的人生富于传奇色彩，他曾从斯坦福大学(Stanford University)退学，创办了多家公司和各种机构，还成了哈佛大学(Harvard University)埃德蒙·J·萨夫拉伦理研究中心(Edmond J. Safra Center for Ethics)的研究员。
+He formed a company that merged with Reddit, the popular news and information site. He also co-founded Demand Progress, a group that promotes online campaigns on social justice issues — including a successful effort, with other groups, to oppose a Hollywood-backed Internet piracy bill.
+他成立的一家公司，最后与著名新闻和信息网站Reddit合并。他还参与创办了针对社会公平问题发动网络运动的“要求进步组织”(Demand Progress)，该组织与其他组织共同发起了一次成功的运动，抵制好莱坞支持的一个网络盗版法案。
+But he also found trouble when he took part in efforts to release information to the public that he felt should be freely available. In 2008, he took on PACER, or Public Access to Court Electronic Records, the repository for federal judicial documents.
+他认为有些信息应该是人们能够免费获取的，但是，当他致力于向公众发布这些信息时，却遇到了麻烦。2008年，他向法院电子档案公共存取系统（Public Access to Court Electronic Records，简称PACER，储存联邦司法文件的数据库）发起了挑战。
+The database charges 10 cents a page for documents; activists like Carl Malamud, the founder of public.resource.org, have long argued that such documents should be free because they are produced at public expense. Joining Mr. Malamud’s efforts to make the documents public by posting legally obtained files to the Internet for free access, Mr. Swartz wrote an elegant little program to download 20 million pages of documents from free library accounts, or roughly 20 percent of the enormous database.
+这个数据库的文件每页收费10美分（约合0.63元人民币）；一直以来，公共资源组织(public.resource.org)的创始人卡尔·马拉默德(Carl Malamud)等活动人士认为，这种文件应该是免费的，因为它们原本就是用公费创建的。马拉默德为了公开这些文件，把通过合法手段获取的文件放到网上免费共享，而斯沃茨则编写了一个简洁的小程序，能够让用户通过免费的图书馆账户下载2000万页文件，大概相当于那个巨大数据库20%的内容。
+The government shut down the free library program, and Mr. Malamud feared that legal trouble might follow even though he felt they had violated no laws. As he recalled in a newspaper account, “I immediately saw the potential for overreaction by the courts.” He recalled telling Mr. Swartz: “You need to talk to a lawyer. I need to talk to a lawyer.”
+政府强制关闭了免费的文库程序，虽然马拉默德并不认为他们违反了任何法律，但他还是担心会惹上官司。他在一家报刊的报道中回忆道，“我当时立即感觉，法院有可能会做出过度反应。”他记得曾经告诉斯沃茨：“你必须找律师谈谈。我也要和律师谈谈。”
+Mr. Swartz recalled in a 2009 interview, “I had this vision of the feds crashing down the door, taking everything away.” He said he locked the deadbolt on his door, lay down on the bed for a while and then called his mother.
+斯沃茨在2009年的采访中回忆称，“我预见到，联邦政府工作人员将会破门而入，带走一切。”他说，他把门上的栓子锁好了，在床上躺了一会儿，之后打了个电话给母亲。
+The federal government investigated but did not prosecute.
+联邦政府对此事进行了调查，但没有起诉。
+In 2011, however, Mr. Swartz went beyond that, according to a federal indictment. In an effort to provide free public access to JSTOR, he broke into computer networks at M.I.T. by means that included gaining entry to a utility closet on campus and leaving a laptop that signed into the university network under a false account, federal officials said.
+但根据一份联邦起诉书，2011年，斯沃茨的行动更进了一步。联邦官员称，为了使人们免费使用JSTOR，他入侵了麻省理工学院的计算机网络，使用的手段包括进入校园内一个放置设备的柜子，并将一台以假名登录校园网的手提电脑留在柜子里。
+Mr. Swartz turned over his hard drives with 4.8 million documents, and JSTOR declined to pursue the case. But Carmen M. Ortiz, a United States attorney, pressed on, saying that “stealing is stealing, whether you use a computer command or a crowbar, and whether you take documents, data or dollars.”
+斯沃茨上交了他的几个移动硬盘，其中有480万份文件，不过JSTOR拒绝追究。但是一位美国联邦检察官卡门·M·奥尔蒂斯(Carmen M. Ortiz)却不放弃，她说“偷窃就是偷窃，不管你用的是计算机指令还是一根撬棍，也无论你偷的是文件、数据还是钱。”
+Founded in 1995, JSTOR, or Journal Storage, is nonprofit, but institutions can pay tens of thousands of dollars for a subscription that bundles scholarly publications online. JSTOR says it needs the money to collect and to distribute the material and, in some cases, subsidize institutions that cannot afford it. On Wednesday, JSTOR announced that it would open its archives for 1,200 journals to free reading by the public on a limited basis.
+期刊存储网JSTOR创建于1995年，是一个非营利组织，但机构可能需要支付数十万美元订阅，除了订阅内容，订户还可以在线阅读学术期刊。JSTOR说，它需要这些钱来收集、传播这些材料，有时还需要补贴付不起钱订阅的机构。周三，JSTOR宣布，它将有限地开放1200份期刊档案供大众免费阅读。
+Mr. Malamud said that while he did not approve of Mr. Swartz’s actions at M.I.T., “access to knowledge and access to justice have become all about access to money, and Aaron tried to change that. That should never have been considered a criminal activity.”
+马拉默德说，虽然他不赞成斯沃茨在麻省理工学院的行为，“但如今，能否获得知识和正义，完全取决于是否有钱，阿龙试图改变这一现状。他的这种行为不应该被视作犯罪。”
+Mr. Swartz did not talk much about his impending trial, Quinn Norton, a close friend, said on Saturday, but when he did, it was clear that “it pushed him to exhaustion. It pushed him beyond.”
+奎因·诺顿(Quinn Norton)是斯沃茨的一位密友。她说斯沃茨从未多谈即将到来的那场审判，但每次他说到的时候，毫无疑问“这件事已让他精疲力竭，超过了他的承受能力。”
+Recent years had been hard for Mr. Swartz, Ms. Norton said, and she characterized him “in turns tough and delicate.” He had “struggled with chronic, painful illness as well as depression,” she said, without specifying the illness, but he was still hopeful “at least about the world.”
+诺顿说，斯沃茨近年来经历种种困难。她说他“有时坚强有时脆弱”。“他患有痛苦的慢性病，还有抑郁症，”她说，但没有说明是何种疾病。但他“至少对这个世界”仍充满希望。
+In a talk in 2007, Mr. Swartz described having had suicidal thoughts during a low period in his career. He also wrote about his struggle with depression, distinguishing it from sadness.
+在2007年的一次访谈中，斯沃茨描述了他在事业低谷时曾有自杀的念头。他还写到过如何与自己的抑郁症斗争，他说这种病和悲伤不同。
+“Go outside and get some fresh air or cuddle with a loved one and you don’t feel any better, only more upset at being unable to feel the joy that everyone else seems to feel. Everything gets colored by the sadness.”
+“外出、呼吸新鲜空气，或者拥抱爱人，都不会感到有一丝好转，而只会感到更难受，因为无法体会到其他人所能感觉到的快乐。悲伤浸染了一切。”

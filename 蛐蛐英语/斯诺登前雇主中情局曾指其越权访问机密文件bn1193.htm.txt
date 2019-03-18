@@ -1,0 +1,42 @@
+WASHINGTON — Just as Edward J. Snowden was preparing to leave Geneva and a job as a C.I.A. technician in 2009, his supervisor wrote a derogatory report in his personnel file, noting a distinct change in the young man’s behavior and work habits, as well as a troubling suspicion.
+华盛顿——2009年，正当爱德华·J·斯诺登(Edward J. Snowden)准备离开日内瓦，不再在中情局(CIA)担任技术人员时，他的上司在他的人事档案中写了一篇负面的报告，指出这名年轻人的行为和工作习惯发生了明显变化，而且还表达了令人不安的疑虑。
+The C.I.A. suspected that Mr. Snowden was trying to break into classified computer files to which he was not authorized to have access, and decided to send him home, according to two senior American officials.
+两名美国高级官员透露，中情局怀疑斯诺登曾试图破解自己并无访问权限的机密计算机文件，并决定把他打发回家。
+But the red flags went unheeded. Mr. Snowden left the C.I.A. to become a contractor for the National Security Agency, and four years later he leaked thousands of classified documents. The supervisor’s cautionary note and the C.I.A.’s suspicions apparently were not forwarded to the N.S.A. or its contractors, and surfaced only after federal investigators began scrutinizing Mr. Snowden’s record once the documents began spilling out, intelligence and law enforcement officials said.
+但是这个危险信号并没有受到重视。斯诺登离开中情局后，成了美国国家安全局（National Security Agency，简称NSA）承包商的雇员；4年后，他泄露了数千份机密文件。情报官员和执法人员称，斯诺登上司的警告和中情局的怀疑显然没有报告给NSA或其承包商，直到相关文件开始向外泄露，联邦调查人员开始审查斯诺登的记录后才浮出水面。
+“It slipped through the cracks,” one veteran law enforcement official said of the report.
+一名资深执法人员在提到关于斯诺登的报告时说：“因为疏漏，没人注意到。”
+Spokesmen for the C.I.A., N.S.A. and F.B.I. all declined to comment on the precise nature of the warning and why it was not forwarded, citing the investigation into Mr. Snowden’s activities.
+关于上述警告的准确性质，以及为何未向其他部门通报，中情局、NSA和联邦调查局(FBI)的发言人都以斯诺登的活动正在受到调查为由拒绝置评。
+Half a dozen law enforcement, intelligence and Congressional officials with direct knowledge of the supervisor’s report were contacted for this article. All of the officials agreed to speak on the condition of anonymity because of the continuing criminal investigation.
+本文采访了对斯诺登上司的报告有直接了解的6名执法、情报和国会官员。由于相关刑事调查仍在继续，所有官员都要求在匿名的前提下发言。
+In hindsight, officials said, the report by the C.I.A. supervisor and the agency’s suspicions might have been the first serious warnings of the disclosures to come, and the biggest missed opportunity to review Mr. Snowden’s top-secret clearance or at least put his future work at the N.S.A. under much greater scrutiny.
+官员称，回过头看，中情局上司的报告以及中情局的怀疑，或许是对将要发生的泄密事件的第一个严肃警告，也是他们所错过的检查斯诺登接触最高机密的权限，或至少使他将来在NSA的工作受到更严格监控的最大机会。
+“The weakness of the system was if derogatory information came in, he could still keep his security clearance and move to another job, and the information wasn’t passed on,” said a Republican lawmaker who has been briefed on Mr. Snowden’s activities.
+了解斯诺登活动的一名共和党议员说：“这个体系的薄弱之处在于，如果负面信息传来，他仍然能保留权限，转而从事另一份工作，而相关的信息却不会传达给其他部门。”
+Mr. Snowden now lives in Moscow, where he surfaced this week for the first time since receiving temporary asylum from the Russian government over the summer. On Wednesday night, he met with four American whistle-blowers who have championed his case in the United States and who presented him with an award they said was given annually by a group of retired C.I.A. officers to members of the intelligence community “who exhibit integrity in intelligence.”
+斯诺登目前住在莫斯科，自今年夏天从俄罗斯政府获得临时庇护以来，本周他才首次现身。周三晚间，他与4名在美国为他的案件积极活动的人士见了面。这4人都是美国的揭秘者，他们还给斯诺登递交了一个奖项，他们说这个一年一度的奖项是由一群中情局退休官员颁发的，对象是“在情报工作中展现出正直的”情报工作者。
+It is difficult to tell what would have happened had N.S.A. supervisors been made aware of the warning the C.I.A. issued Mr. Snowden in what is called a “derog” in federal personnel policy parlance.
+中情局给斯诺登的评价，在联邦人事政策术语中称作“负评”(derog)。很难猜想如果NSA的管理者得知这份“负评”里的警告，之后会发生什么。
+“The spectrum of things in your personnel file could be A to Z,” said Charles B. Sowell, who until June was a top official in the Office of the Director of National Intelligence working on improving the security clearance process. “There’s a chance that that information could be missed and might not be surfaced.”
+“人事档案的内容几乎无所不包，”查尔斯·B·索厄尔(Charles B. Sowell)说，“那条讯息可能会被漏掉，然后再也不会有人注意到。”直到今年6月，索厄尔还是国家情报总监办公室(Office of the Director of National Intelligence)的高层官员，致力于改进安全权限控制程序。
+Mr. Sowell, now a senior vice president at Salient Federal Solutions, an information technology company in Fairfax, Va., emphasized that he left the government before Mr. Snowden’s disclosures became public.
+索厄尔目前在弗吉尼亚州费尔法克斯的信息技术公司突出联邦解决方案(Salient Federal Solutions)担任高级副总裁，他强调自己在斯诺登泄密事件公开前就离开了政府。
+Intelligence and law enforcement officials say the report could have affected the assignments Mr. Snowden was given, first as an N.S.A. contractor with the computer company Dell in Japan and later with Booz Allen Hamilton in Hawaii, as well as the level of supervision he received.
+情报和执法官员称，这份报告本应影响到斯诺登的工作（首先是作为NSA承包商雇员在日本为戴尔[Dell]工作，随后是作为博思艾伦公司[Booz Allen Hamilton]员工在夏威夷工作），以及他受监督的级别。
+The electronic systems the C.I.A. and N.S.A. use to manage the security clearances for its full-time and contracted employees are intended to track major rule-based infractions, not less serious complaints about personal behavior, a senior law enforcement official said. Thus, lesser derogatory information about Mr. Snowden was unlikely to have been given to the N.S.A. unless it was specifically requested. As a result of Mr. Snowden’s case, two law enforcement officials said, that flaw has since been corrected and such information is now being pushed forward.
+一名高级执法官员说，中情局和NSA用来管理其全职工作人员与合同雇员安全权限的电子系统是用来追踪重大违规行为，而不会考察程度较轻的针对个人行为的投诉。所以，除非有特殊请求，否则关于斯诺登的程度较轻的负面讯息就不太可能会被提交给NSA。两名执法官员说，由于斯诺登一案，这个纰漏已得到了纠正，类似的信息现在就会被提交出去。
+The revelation of the C.I.A.’s derogatory report comes as Congress is examining the process of granting security clearances, particularly by USIS, a company that has performed 700,000 yearly security checks for the government. Among the individuals the company vetted were Mr. Snowden and Aaron Alexis, who the police say shot and killed 12 people at the Washington Navy Yard last month.
+随着国会审查安全权限的授予过程，特别是USIS进行的权限授予，中情局这份负面报告得到了披露。USIS每年要为美国政府进行70万次安全审核。公司调查过的个人包括斯诺登和阿龙·亚历克西斯(Aaron Alexis)。警方称亚历克西斯上个月在华盛顿海军造船厂射杀了12人。
+“We have a compelling need to monitor those trusted with this sensitive information on a more regular basis and with broader sets of data,” said Kathy Pherson, a former C.I.A. security officer who belongs to an intelligence industry task force that is expected to issue a report on the matter by year’s end.
+“我们迫切需要对那些受信任掌握了敏感讯息的人进行监察，必须更频繁，数据必须更丰富，”前中情局安全雇员凯茜·弗森(Kathy Pherson)说。她现在效力于一个情报行业的特别工作小组，该小组预计将于年底前就此事发布一份报告。
+While it is unclear what exactly the supervisor’s negative report said, it coincides with a period of Mr. Snowden’s life in 2009 when he was a prolific online commenter on government and security issues, complained about civil surveillance and, according to a friend, was suffering “a crisis of conscience.”
+尽管目前还不清楚这位主管在负面报告中究竟说了什么，但当时，也就是2009年，斯诺登在网上对政府和安全问题发表了大量评论，他抱怨过公民监视项目，据一个朋友说，他当时正经历着一场“良心上的危机”。
+Mr. Snowden got an information technology job at the C.I.A. in mid-2006. Despite his lack of formal credentials, he gained a top-secret clearance and a choice job under State Department cover in Geneva. Little is known about what his duties were there.
+2006年年中，斯诺登在中情局得到了一个信息技术方面的职位。尽管没有正规的资质认证，他仍然获得了接触最高机密的权限，并在国务院工作人员的身份掩护下被派到日内瓦工作。他在日内瓦的职责是什么目前还不得而知。
+Mavanee Anderson, who worked with Mr. Snowden in Geneva and also had a high security clearance, said in an article in The Chattanooga Times Free Press of Tennessee in June that when they worked from 2007 through early 2009, Mr. Snowden “was already experiencing a crisis of conscience of sorts.”
+马瓦妮·安德森(Mavanee Anderson)曾在日内瓦与斯诺登共事，接触机密信息的权限也很高。他今年6月份在田纳西州《查塔努加时报自由新闻》(Chattanooga Times Free Press)的一篇文章中说，在他们从2007年到2009年初的工作期间，斯诺登“已经在经历某种良心上的危机”。
+“Anyone smart enough to be involved in the type of work he does, who is privy to the type of information to which he was privy, will have at least moments like these,” she said.
+她说：“任何一个聪明到能够参与他做的这种工作、能够接触到他能接触到的信息的人，都会遇到这样的时刻。”
+Later, Mr. Snowden would tell the newspaper The Guardian that he was shocked and saddened by some of the techniques C.I.A. operatives in Geneva used to recruit sources. “Much of what I saw in Geneva really disillusioned me about how my government functions and what its impact is in the world,” he told The Guardian. “I realized that I was part of something that was doing far more harm than good.”
+斯诺登后来告诉《卫报》(The Guardian)，中情局驻日内瓦特工招募线人的手段让他感到震惊和悲哀。他对《卫报》说：“我在日内瓦看到的很多事情，真的让我对政府的运作方式和它对世界的影响感到幻灭。我意识到，我所参与的工作所造成的危害远远大于益处。”

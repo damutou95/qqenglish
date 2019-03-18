@@ -1,0 +1,22 @@
+The average American commuter spent 50 hours in traffic last year. As a nation, we spent eight billion hours sitting in our cars, waiting for lights to change, for the driver ahead to sneak into that parking spot, for an accident to be cleared.
+去年，美国通勤者在路上等待的时间平均为50小时。全体美国人总共花了80亿小时坐在车里，等待红灯变绿灯，等待前车司机驶入停车位，等待交通事故被处理。
+That’s not much more time than many Europeans spend in cars. According to Inrix, a roadway and traffic analytics company, drivers and passengers in Belgium spent 44 hours in traffic last year; in Germany, 39 hours.
+这并不比许多欧洲人等在车里的时间多出多少。交通路况分析公司Inrix称，比利时的司机和乘客去年等在路上的平均时间为44小时；德国人为39小时。
+Wherever it happens, new research suggests that all that sitting and waiting is exposing us to more pollutants than we’d take in if were we cruising along.
+新研究显示，不论在什么地方，比起一路畅行无阻，坐在车里等待会让我们暴露于更多污染物之下。
+According to a study published Thursday in Environmental Science: Processes & Impacts, pollution levels inside cars at red lights or in traffic jams are up to 40 percent higher than when traffic is moving.
+根据上周四发表在《环境科学：过程与影响》(Processes & Impacts)上的一项研究，等红灯或者堵在路上之际，车内污染物的含量比交通顺畅时高出40%。
+Air quality is already a problem outside of cars: More than 80 percent of people living in cities where pollution is tracked are exposed to air quality levels below World Health Organization limits. The W.H.O. has estimated that poor air quality is responsible for the deaths of 3.7 million people younger than 60 in 2012.
+车外的空气质量已经成问题了：污染水平受到追踪的那些城市的居民，超过80%暴露在质量未达世界卫生组织（World Health Organization，简称WHO）所设限值的大气中。据WHO估计，2012年，糟糕的空气质量是导致370万不满60岁的人死亡的原因。
+Researchers at the University of Surrey in England took to the streets of Guildford, “a typical English town,” to look at the effects of traffic on concentrations of polluting particles. They also analyzed how ventilation settings changed those concentrations inside of cars.
+英国萨里大学(University of Surrey)的研究人员走上“典型英式城镇”吉尔福德的街头，研究交通堵塞对颗粒污染物浓度的影响。他们还分析了通风设置会如何改变车内污染浓度。
+The scientists took their measurements inside a car as it traveled on a six-kilometer loop, passing through 10 traffic intersections. They tracked the concentrations of different-size particles of air pollution — ranging from course to fine — at each intersection.
+这些科学家让车辆沿一条六公里长的环路行驶，途经10个交通路口，同时在车内进行测量。他们在每一个路口追踪了从粗到细不同尺寸的颗粒污染物的浓度。
+In a car stuck in traffic, shutting all the windows and turning off the fan or heat reduced concentration doses of the smallest, most hazardous particles by up to 76 percent.
+塞车时，关闭所有车窗、关掉风扇或暖气，会让车内危害性最强的最小颗粒物的浓度降低至多76%。
+The researchers also found an increase in smaller particles inside the vehicle compared with larger ones when the heat was off and fans were on full blast, drawing in air from outside. Those findings suggest that the ventilation system was more effective at filtering out larger particles than smaller ones while stopped at intersections, reducing the concentration doses of those particles up to 68 percent, they said.
+研究人员还发现，当关闭暖气并把风扇开到最大档来吸入外部空气的时候，车内较小颗粒物的浓度与较大颗粒物相比有所增加。他们说，这些结果表明，车辆停在路口之际，通风系统能够更有效地过滤较大颗粒物而非较小颗粒物，让前者的浓度下降至多68%。
+And while they were only at traffic intersections for about 7 percent of total commuting time on average, the time accounted for as much as 10 percent of their exposure to harmful particles. The exposure was more than six times greater in cars with open windows than for pedestrians at three- or four-way intersections.
+尽管在路口停留的时间平均只占总通勤时间的大约7%，但研究人员在这段时间里接触到的有害颗粒物，却相当于总接触量的10%。在丁字路口或十字路，在窗户打开的车里接触到的有害颗粒物浓度比行人高六倍多。
+So when you’re stopped at an intersection, roll up the windows, and breathe easier.
+因此，停在路口时，请把窗户关上，呼吸也要更轻一点。

@@ -1,0 +1,50 @@
+SAN FRANCISCO — Get ready for the mobile map wars.
+旧金山——手机地图大战即将开幕。
+For many people, phones have become an important way to navigate the world, and mobile maps are at the core of the journey. They are often the critical element in commerce, socializing and search. So far, Google has reigned supreme in the mobile map world, with its maps on every iPhone sold so far — and, of course, on every phone based on its own Android operating system.
+对很多人来说，手机已经成了他们通行世界的一个重要工具，而手机地图，则是其中的核心功能。在商务、社交和搜索信息的过程中，手机地图发挥着关键作用。目前，谷歌在手机地图领域独占鳌头，苹果公司卖出的每一部手机上，都装有谷歌的地图， 每一部使用谷歌安卓操作系统的手机，当然也是如此。
+Last week, though, Apple gave notice it would enter the battle, announcing that in the fall, its phones would no longer carry Google maps, but instead would have Apple’s own map service built in, part of its new mobile operating system. Maps are simply too important to be left to a rival.
+但是，苹果公司上周宣布，将进军手机地图市场，从今年秋季开始，苹果手机将不再安装谷歌地图，而是自带一个苹果自己的地图软件，作为苹果新的操作系统内置的一个功能 。地图服务至关重要，不能拱手让给竞争者。
+The question is: Can Apple build a map service that does as good a job, or a better one, than Google has?
+问题是：苹果的地图服务能像谷歌地图一样好用，甚至比谷歌更好吗？
+If Apple slips up, consumers in the highly competitive smartphone market may have a good reason to turn to Android phones. If Apple succeeds, Google will be under pressure at a time when it already has to deal with other competitors in map services.
+如果苹果公司失手，在竞争激烈的智能手机市场上，消费者将更有理由转向安卓手机。如果它成功，则谷歌将面临更大的压力。在地图服务领域，谷歌已经要面对多个竞争对手了。
+“It makes Apple more valuable and denies Google a lot of user data, and a brand presence, on the iPhone,” said Ben Bajarin, an analyst with the technology research firm Creative Strategies. If Apple cannot meet or exceed Google’s maps, he added, “it will irk their power users,” who are the most valuable customers.
+“这将提升苹果公司的价值，而且可以阻止谷歌获取很多用户信息，减弱其在 iPhone 手机上的品牌存在，”科技咨询公司创意策略（Creative Strategies）分析师本·巴扎林（Ben Bajarin）如是说。而如果苹果不能达到，或是超越谷歌地图的水平，他继续说，“那么它就会让那些高级用户不高兴，”而这些人恰恰是最有价值的客户。
+Apple’s move into maps was not exactly a surprise. It has bought a few companies that make mapping features, like three-dimensional visualizations, and has secured rights to data like the names and layouts of streets in over 100 countries from TomTom, a big digital map company based in the Netherlands.
+苹果进军地图服务并非意料之外。此前，它已经收购了一些研发三维可视技术等地图服务的公司，还从荷兰的电子地图公司TomTom那里得到了数据使用权，包括100多个国家的街道名称和布局的信息 。
+But making digital maps is not easy. Google has spent years working on its services, pouring all kinds of resources into the effort, including its Street View project to photograph and map the world. It will be hard to duplicate that depth and breadth.
+但是，制作电子地图并不容易。多年来，谷歌投入了各种资源进行地图研发，包括它的“街景”，在世界各地进行拍照，绘制地图 。这种研发的深度和广度别人很难做到。
+“Apple has gotten into a place that is very technical, quite a challenge, and like nothing they’ve done before,” said Noam Bardin, chief executive of Waze, a mapping service that provides real-time traffic information by tracking the movement of phones.
+“苹果公司已经达到了一个前所未有的高度技术化的程度，这是一个不小的挑战，”Waze公司的首席执行官诺曼·巴丁（Noam Bardin） 说。Waze是一个通过追踪手机运动来提供实时交通信息的地图服务公司。
+Still, it would be foolish to underestimate Apple, said John Musser, editor of ProgrammableWeb, an online service that follows mobile application development.
+尽管如此，低估苹果的实力将是不明智的，追踪手机应用程序开发的网站ProgrammableWeb的编辑约翰·马瑟（John Musser）认为。
+“Apple so far has close to nothing in maps, because they never had a product before,” Mr. Musser said. “But they are hardly empty-handed.”
+“苹果目前在地图方面还几乎一无所有，因为它以前从未做过这种产品，”马瑟说。“但他们也不是两手空空。”
+Mapping technology is a growing field that draws on everything from aerial photography to the movement of the continents, to individual comments on Web sites about a favorite hiking trail or a bad dining experience. ProgrammableWeb counts 240 mapping-related services that people building mobile map applications can draw from. That is up 73 percent from a year ago, and 243 percent from 2009.
+地图技术是个发展壮大中的领域，我们生活中的方方面面，从航拍到大陆漂移，从旅行路线的在线点评到大众饮食评论，都与它有关。ProgrammableWeb 网站统计到240项和地图相关服务，都可以供手机地图应用程序的研发者利用，比去年多了73％，和2009年相比，则增长了243%。
+Apple has offered few details about its plans for the map service, which is part of the new operating system, iOS 6, that was unveiled at the company’s annual developer conference in San Francisco. Some of the features may come from companies that it now owns. Apple may buy other features — like store locations and hours, and information about walking paths, landmarks and public transportation — from data companies, independent developers and consumer information services like Yelp.
+关于它的地图服务计划，苹果公司透露的很少。苹果在旧金山研发人员年会上揭晓了它的新一代操作系统 iOS 6，地图服务就包含在这个新系统之内 。其中一部分功能可能来自苹果已经收购的公司，另外的功能，比如商店位置和营业时间、步行路线信息、路标和公共交通等，苹果也可能会从数据公司、独立软件开发人以及像Yelp这样的客户信息服务公司购买 。 
+Apple can expect to pay a lot of money for this information. Google declined to comment on what it spends on its map business, but others in the industry estimate that the figure is $500 million to perhaps $1 billion annually, equal to a fifth of its budget for research and development.
+苹果公司将为此投入大量资金。谷歌拒绝透露它在地图方面的投入，但业内人士估计，这个数字在每年5亿，甚至10亿美元之间，相当于谷歌总的研发预算的五分之一。
+For consumers, an important part of the Apple service is likely to be the apps that support and enhance it. This week, Apple is set to widely release its instructions, known as a software development kit, to guide developers in designing these apps.
+对消费者来说，苹果地图服务最重要的方面，可能在于其他应用软件是否能支持、强化其服务。本周，苹果将大范围发布一套称为软件开发包的说明书，指导应用程序的开发者设计他们的应用软件。
+Those instructions are important to hundreds of independent software developers like Scott Rafer, whose start-up is making user-friendly walking directions for maps, based on things like landmarks and street views. He hopes to produce an app that is a hit in the app store, or even wins Apple’s eye as it looks for more partners.
+这套说明书对很多像斯科特·雷弗（Scott Rafer） 这样的独立软件开发人来说至关重要。他的创业公司正在研制一个方便的指路工具，利用地标和街景在地图给出步行路线 。他希望能研发出受欢迎的应用，最好是可以赢得正在物色合作伙伴的苹果公司的青睐。
+“We’re all trying to figure out the next 100 days” before Apple releases the operating system to consumers, Mr. Rafer said. “Does Apple want gorgeous features, or do they want ubiquity?”
+在苹果向消费者推出它的新操作系统之前，“还有100天时间，我们都在试图摸清，苹果想要的是非常精彩的特色功能，还是追求无处不在？” 雷弗说。
+Once Apple releases its new service, iPhone users will still be able to reach Google maps through the browser in their phone. But in practice most people go with the default map. Even if you do go to the browser for a Google map, you would not have any of the associated services, like connecting directly to a map location from an address written in an e-mail.
+苹果推出新服务之后，苹果手机的用户仍然可以通过手机浏览器访问谷歌地图。但是现实中，多数人都使用默认地图。即便你可以用浏览器访问谷歌地图，很多相关服务也不会再有了，比如从邮件中出现的一个地址直接连到地图上相应的位置。 
+For Google, losing the maps spot on the iPhone is no small matter. According to the research firm comScore, in March, people with iPhones spent, on average, 35 percent more time using the maps on their devices than Android users did, although over all there are far more Android owners using maps. The maps feature is the second most popular one on the iPhone, comScore says, after iTunes.
+对谷歌来说，自己的地图业务被苹果手机弃用绝非小事。根据研究公司comScore的数据，三月份苹果手机用户使用手机地图的时间比安卓用户平均多35%，尽管总体来说使用地图的安卓用户人数要多很多。该公司的调查还显示，地图功能是苹果手机上的第二大最受欢迎的应用，仅次于iTunes。
+By losing the maps spot, Google will lose data about iPhone users’ locations, destinations and driving and shopping habits — information that is useful to a company selling ads. It also helps Google provide local search information, an area Apple has already moved into with Siri, its voice-activated search tool.
+如果失去地图业务，谷歌也将失去苹果手机用户的位置、目的地以及开车和购物习惯等方面的数据。这些数据对谷歌的广告业务非常重要，也可以为谷歌提供本地搜索信息。而在这方面，苹果已经通过声控搜索工具Siri有所涉足 。
+“Being in maps and getting that data affects Google’s revenue from things like sponsored links, and it affects search quality,” Mr. Bajarin said. “People could move from saying ‘Google it’ to ‘Ask Siri.’ ”
+“占据了地图服务，并从而获得相关数据，这关系到谷歌从赞助商链接方面获得的收益，还会影响搜索质量，”巴扎林称。“人们可能不再说‘谷歌一下’，而会说‘问问Siri’吧。”
+Google has other rivals in the mapping business as well. Microsoft is coming out with its own new mobile operating system at about the same time, using its Bing Maps service. Yahoo Maps, also popular, relies primarily on maps from Navteq, which is owned by Nokia. Bing Maps and MapQuest also use Navteq maps.
+在地图服务领域，谷歌还有其他竞争对手。微软几乎在同时也发布了新手机操作系统，系统使用了它的必应 (Bing) 地图服务。雅虎地图也很受欢迎， 它主要依靠诺基亚旗下的Navteq地图。必应地图和MapQuest地图也都是Navteq地图的用户。
+There are even rumors that Amazon, whose Kindle reader runs a version of Android, will revamp its comparison shopping app in time for Christmas, in a new mobile device. That could also require maps.
+甚至还有传言，说亚马逊也要赶在圣诞节前在一个新款的移动设备上重新设计自己的比价购物应用软件。这也需要用到地图。 亚马逊的Kindle阅读器使用的是安卓系统。
+None of the four companies would discuss the details of their plans for mobile maps.
+这四家公司均拒绝透露各自关于手机地图的详细计划。
+Google initially relied on outside sources for map information, as Apple will at first, but it now pays for its own planes, cars, bicycles, snowmobiles, hikers, satellite data and geographers, among other things, to produce comprehensive online maps. A few days before Apple’s announcement, Google held a news conference with little news but lots of details that underlined how much Apple would be paying to play this game.
+谷歌最初是利用外部资源来支持地图信息，苹果一开始也将如此。但现在谷歌生成综合在线地图所需的一切，包括飞机、汽车、自行车、雪地摩托、徒步旅行者、卫星数据乃至地理学家，都是公司自有的 。就在苹果发布消息的前几天，谷歌举行了一次新闻发布会，会上发布的新闻很少， 大部分内容是强调苹果加入这场游戏，需要的投入会有多么大。

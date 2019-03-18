@@ -1,0 +1,58 @@
+Even as Volkswagen embarks on the task of fixing the emissions systems it disabled on almost 500,000 of its diesel vehicles in the United States, the automaker faces another hurdle: persuading owners to make the repair at all.
+汽车制造商大众公司(Volkswagen)正着手修复美国近50万辆柴油车上被其关闭的排放系统，但即便在此时，他们也还要面临又一个障碍：说服车主返修车辆。
+That’s because the software that allowed Volkswagen to fool federal emissions tests also lowered the car’s performance and fuel economy while the device was turned on. So for owners, the prospect of having a car’s emissions cleaned up, only to have the car perform worse — whatever the pollution — is not sitting well.
+这是因为，大众用来在联邦排放测试中作弊的软件开启时，柴油车的性能和节油性就会降低。所以，为了减少汽车的尾气排放，结果是使汽车性能下降（不管污染程度怎样），对车主来说，这可不是理想结果。
+“If we take a 10 percent hit in our gas mileage, I can live with that, but I won’t be happy,” said Patrick Downs, who lives in Port Angeles, Wash., and owns a 2013 Jetta TDI.
+“如果油耗增加了10%，我可以接受，但肯定是不高兴的，”帕特里克·当斯(Patrick Downs)说，他住在华盛顿安吉利斯港，是一辆2013年款捷达TDI车主。
+“If it is 25 percent or more and the performance is degraded to the point where the car has a lot less torque and pickup, that is going to make me very unhappy,” he added. “That is going to make me consider not getting the fix.”
+“如果是25%或更多，性能下降到了扭矩和加速能力都大幅降低的程度，我会很不高兴，”他说。 “那样我就会考虑不去返修了。”
+It was well known among owners of Volkswagen diesels that the cars’ advertised fuel economy — as shown on the window sticker — was almost always lower than their real-world performance.
+大众柴油车车主几乎都知道，车窗贴纸上宣传的节油性，几乎总是比现实使用中低。
+Michael Horn, head of Volkswagen’s American unit, told a congressional panel this month that the repairs he outlined — which will take years and require significant new equipment — might result in a slightly lower top speed in the cars. But he was careful to say that the cars’ fuel economy would not be lower than the rating on the window sticker.
+本月初，大众汽车公司美国区负责人迈克尔·霍恩(Michael Horn)告诉一个国会小组，他提出的维修方案将花费几年时间，并需要使用大量新设备，它可能会导致柴油车的最高速度稍有降低。但他谨慎地说，这些车的节油性不会比窗户贴纸上的数字低。
+That’s not satisfactory, said Jeff Hinton, the owner of a 2013 Passat diesel.
+这并不让人满意，2013款帕萨特柴油车车主杰夫·亨顿(Jeff Hinton)说。
+“Every TDI owner will tell you, ‘I get much better numbers, miles to the gallon, than any number that is on that Monroney sticker,’” Mr. Hinton, 36, said in a telephone interview from Morrisville, N.C., using a term for the window sticker.
+“每个TDI车主都会告诉你，‘实际数字，每加仑柴油跑的英里数，比窗户贴纸标注的数字要高得多，”36岁的亨顿在北卡罗来纳州莫里斯维尔通过电话表示。 
+“On recent trips, 500 miles plus, I’ve gotten 52 to 55 miles per gallon,” Mr. Hinton said. The Environmental Protection Agency rating on the window sticker of his Passat is 40 miles per gallon on the highway.
+“最近跑了500多英里，每加仑柴油跑52到55英里，”亨顿说。他的帕萨特窗户贴纸标注的美国环境保护局（Environment Protection Agency，简称EPA）评测是在高速公路上每加仑柴油行驶40英里。
+“I wouldn’t want my car recalled or reprogrammed or retrofitted in any way if it is going to hurt the performance, because that is not what I paid for,” he said.
+他说，“如果会影响车的性能的话，我不希望我的车被以任何方式召回或重新编程或改装，因为我花钱买的不是这样的车。”
+The E.P.A. cannot force owners to repair their vehicles, said Julia Ortiz, a spokeswoman for the agency.
+EPA女发言人茱莉亚·奥尔蒂斯(Julia Ortiz)表示 ，该机构无法迫使车主返修车辆。
+Automakers also cannot require owners to carry out the emissions recall, just as they cannot force owners to take their vehicles in to complete a safety recall.
+汽车制造商也无法要求车主实施排放召回举措，就像它们无法迫使车主让车接受彻底安全性召回一样。
+Some states require vehicles to pass emissions tests before they can be registered each year. But those tests are far less sophisticated than the E.P.A.’s, and the Volkswagens that are not repaired are sure to pass them, said John German, a senior fellow at the International Council on Clean Transportation, which played a crucial role in discovering the automaker’s deceit.
+国际清洁交通委员会(International Council on Clean Transportation)资深成员约翰·杰曼(John German)表示，一些州要求车辆在每年进行注册之前通过排放测试。但这些测试远不如EPA那么精密。没有经过修理的大众汽车肯定能通过这种测试。该委员会在发现该汽车制造商的欺骗行为的过程中发挥了重要作用。
+That loophole means the air pollution consequences of Volkswagen’s action — at least on a small scale — are irreparable if enough owners refuse to have their vehicles fixed.
+这个漏洞意味着，如果很多车主拒绝返修车辆，大众汽车的行为——至少在小范围内——造成的空气污染后果将是无法挽回的。
+Despite their small size, the Volkswagen diesels are producing a large amount of nitrogen oxide pollutants, Mr. German said, up to 40 times what is allowed under the Clean Air Act. The Passat sedan is emitting an amount of nitrogen oxides similar to that of a modern, medium-duty truck, he said, while the Jetta — and its sibling the Golf — have emissions similar to those of a typical modern 18-wheeler, he said. The Jetta and Golf use a different emissions system than the Passat.
+杰曼说，尽管大众柴油车体积不大，却产生了大量氮氧化物污染物，比《清洁空气法》(Clean Air Act)的要求高40倍。他说帕萨特轿车的氮氧化物排放量类似于如今的一辆中型卡车，而捷达——及其姊妹车型高尔夫——的排放量与现今典型的18轮卡车相当。捷达和高尔夫使用的排放系统与帕萨特不同。
+Volkswagen must come up with an incentive plan to make repairing the engines irresistible, said Dan Becker, the director of the Safe Climate Campaign at the Center for Auto Safety.
+汽车安全中心(Center for Auto Safety)的安全气候活动主管丹·贝克尔(Dan Becker)表示，大众汽车必须拿出一个激励计划，让车主无法抗拒修复引擎的吸引力。
+“Volkswagen made this disaster; it is its responsibility to fix it,” he said in a telephone interview. “We need to recognize that consumers may need to have an incentive to do what the law requires.”
+“大众汽车制造了这场灾难；解决问题是它的责任，”他在接受电话采访时说。“我们必须认识到，要让消费者去做法律要求的事情，可能需要有一些激励因素才行。”
+Some states already try to address the issue of owners who do not comply with air pollution recalls.
+一些州已经尝试解决车主不愿配合因空气污染而需召回的问题。
+New Jersey has a law requiring owners to have emissions recalls carried out on their vehicles and to provide proof in order to register them. But it has never been used and it would be “premature and speculative” to discuss how that law might apply to Volkswagen, said Mairin Bellack, a spokeswoman for the state’s Motor Vehicle Commission.
+新泽西州有一部法律要求车主在车辆因排放被召回时必须执行，并且在注册时要提供相关证明。但该州机动车委员会(Motor Vehicle Commission)女发言人麦林·贝拉克(Mairin Bellack)表示，这部法律从未施行，现在讨论该法律如何适用于大众汽车的案例还“为时过早，纯粹属于推测”。
+California also requires owners to have their vehicles repaired, said Stanley Young, a spokesman for the California Air Resources Board. The automaker has until Nov. 20 to submit a remedy to California regulators, which must then be approved.
+加州大气资源委员会(California Air Resources Board)发言人斯坦利·扬(Stanley Young)表示，加州也要求车主返修。车辆制造商需要在11月20日前，向加州监管机构提交补救计划，该计划到时候一定要获得批准。
+“If it turns out that there is not enough of a response, we do have in California the option of putting a block on registration until the fix is done,” he said. “But that is only as a last resort.”
+“如果最终没有获得足够的响应，我们在加州确实可以选择限制注册，直到车辆完成修复，”他说。“但这是最后才会考虑的手段。”
+Federal regulators have said the automaker installed software that signaled the emissions system to work during the E.P.A. emissions tests, but then at least partly disabled it during routine driving.
+联邦监管机构曾表示，该汽车制造商安装的软件在EPA进行排放测试时向排放系统发出工作信号，但在日常驾驶过程中至少会部分关闭该软件。
+Even the motivation is unclear.
+这样做的动机尚不清楚。
+“Fuel economy could be a factor but it need not be the factor,” said Arvind Thiruvengadam, research professor at West Virginia University, which helped uncover VW’s cheating. “Meeting lower emissions means it is also a lot of burden on other components of the vehicle.”
+“节油性可能是一个因素，但不一定就是它，” 西弗吉尼亚大学( West Virginia University)研究教授阿尔温德·斯鲁文格达姆(Arvind Thiruvengadam)说。“达到较低排放标准意味着，这对汽车的其他部件也造成很多负担。”该大学参与了揭露大众作弊行为的行动。
+Part of the strategy, then, could have been to minimize mechanical wear and tear, he said.
+那么，他认为将机械磨损降到最低程度可能是其中一个考虑。
+Mr. German at the International Council on Clean Transportation said that what all this meant to diesel owners would not be clear until Volkswagen provided far more information.
+国际清洁交通委员会成员杰曼表示，在大众公司提供更多信息之前，无法确定这对柴油车车主来说意味着什么。
+He said there might be a loss in fuel economy, although he would be surprised if it was significant. “It shouldn’t be, like eight miles per gallon or anything like that,” he said.
+他表示，节油性可能会降低，但如果降幅很大，他会很吃惊。“不应该出现每加仑八英里这种程度的降幅。”
+Consumer Reports tested two Volkswagen diesels, with and without the cheating software activated. In one of the cases, a 2015 Jetta TDI got 53 m.p.g. without the modification used to cheat, compared with 50 m.p.g. with it. The advertised fuel economy was 45 miles per gallon.
+《消费者报告》(Consumer Reports)对两辆大众柴油车进行了测试，其中一辆激活了作弊软件，另一辆没有。在其中一个案例中，一辆2015年款捷达TDI经过改装作弊时每加仑燃料可以跑到50英里，没有改装时每加仑跑53英里。标称油耗为每加仑45英里。
+Mr. German said he would be surprised if the smooth delivery of power without hesitation or surges was a major problem because vehicles today have advanced fuel-injection systems and sophisticated computers.
+杰曼表示，动力是否在没有停滞或猛增的情况下得到流畅的传递，并不会构成很大的影响，因为现在的车辆都装有先进的燃料喷射系统和精密的电脑系统。

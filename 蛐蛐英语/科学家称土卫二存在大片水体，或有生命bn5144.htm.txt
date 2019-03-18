@@ -1,0 +1,28 @@
+Inside a moon of Saturn, beneath its icy veneer and above its rocky core, is a sea of water the size of Lake Superior, scientists announced on Thursday.
+科学家周四宣布，土星的一颗卫星内部存在一个与苏必利尔湖大小相当的水体，夹在这颗卫星的冰冷外壳与岩石内核之间。
+The findings, published in the journal Science, confirm what planetary scientists have suspected about the moon, Enceladus, ever since they were astonished in 2005 by photographs showing geysers of ice crystals shooting out of its south pole.
+发表于《科学》杂志的前述发现确证了一些行星科学家自2005年以来对土卫二“恩瑟拉多斯”(Enceladus)的猜想。那一年，有照片显示这颗卫星的南极存在冰晶间歇喷涌的现象，这些科学家对此深感震惊。
+“What we’ve done is put forth a strong case for an ocean,” said David J. Stevenson, a professor of planetary science at the California Institute of Technology and an author of the Science paper.
+“我们的发现为海洋的存在提供了强有力的证据，”加州理工学院(California Institute of Technology)的行星科学教授、前述《科学》论文的作者之一戴维·J·史蒂文森(David J. Stevenson)说。
+For many researchers, this tiny, shiny cue ball of a moon, just over 300 miles wide, is now the most promising place to look for life elsewhere in the solar system, even more than Mars.
+在许多研究人员看来，这颗体积小、表面光滑、直径略微超过300英里（约合483公里）的白色卫星已经成了太阳系里最有可能找到地外生命的地方，其可能性甚至超过了火星。
+“Definitely Enceladus,” said Larry W. Esposito, a professor of astrophysical and planetary sciences at the University of Colorado, who was not involved in the research. “Because there’s warm water right there now.”
+“绝对是恩瑟拉多斯，”科罗拉多大学(University of Colorado)天体物理学和行星科学教授拉里·W·埃斯坡西托(Larry W. Esposito)说。“因为那里现在就有温暖的水体。”拉里没有参与前述研究。
+Enceladus (pronounced en-SELL-a-dus) is caught in a gravitational tug of war between Saturn and another moon, Dione, which bends its icy outer layer, creating friction and heat. In the years since discovering the geysers, NASA’s Cassini spacecraft has made repeated flybys of Enceladus, photographing the fissures (nicknamed tiger stripes) where the geysers originate, measuring temperatures and identifying carbon-based organic molecules that could serve as building blocks for life.
+恩瑟拉多斯受到土星和土卫四狄俄涅(Dione)的引力作用，引力使它的冰冻表层发生扭曲,产生了摩擦和热量。自从发现间歇喷涌的冰晶以来，美国国家航空航天局(NASA)的卡西尼(Cassini)航天器一再对恩瑟拉多斯进行近距离观测，给冰晶涌出的裂缝（俗称虎纹断裂带）拍照、测量温度，同时寻找可以构成生命的碳基有机分子。
+Cassini has no instruments that can directly detect water beneath the surface, but three flybys in the years 2010-12 were devoted to producing a map of the gravity field, noting where the pull was stronger or weaker. During the flybys, lasting just a few minutes, radio telescopes that are part of NASA’s Deep Space Network broadcast a signal to the spacecraft, which echoed it back to Earth. As the pull of Enceladus’s gravity sped and then slowed the spacecraft, the frequency of the radio signal shifted, just as the pitch of a train whistle rises and falls as it passes by a listener.
+卡西尼没有配备能直接探测卫星表面下方是否有水的工具，2010年至2012年的三次近距离观测都是为了绘制一幅显示重力场的图，指明各处引力的强弱。在为时只有几分钟的近距离观测中，NASA深空网络(Deep Space Network)的无线电天文望远镜会向航天器发射一个讯号，航天器再把讯号发回地球。由于恩瑟拉多斯的引力作用，航天器会经历加速再减速的过程，无线电讯号的频率也会随之改变，就像火车经过人们面前时，汽笛声也会时高时低一样。
+Using atomic clocks on Earth, the scientists measured the radio frequency with enough precision that they could discern changes in the velocity of Cassini, hundreds of millions of miles away, as minuscule as 14 inches an hour.
+科学家们利用地球上的原子钟测量无线电讯号的频率，精确度非常高，足以让他们看出数百亿英里之外的卡西尼号的速度变化，即便是每小时14英寸的微小变化。
+They found that the moon’s gravity was weaker at the south pole. At first glance, that is not so surprising; there is a depression at the pole, and lower mass means less gravity. But the depression is so large that the gravity should actually have been weaker.
+他们发现，这颗卫星的引力在南极要弱一些。乍看起来，这一点不足为奇，因为南极有一个低气压带，质量比较小，引力本来就应该弱。然而，那片低气压带非常大，引力应该比实际观测结果还要弱。
+“Then you say, ‘A-ha, there must be compensation,’ ” Dr. Stevenson said. “Something more dense under the ice. The natural candidate is water.”
+“所以你会说，‘啊哈，肯定有什么东西形成了补偿，’”史蒂文森博士说。“冰层下面有某种密度较大的物质。合理的推测就是水。”
+Liquid water is 8 percent denser than ice, so the presence of a sea 20 to 25 miles below the surface fits the gravity measurements. “It’s an ocean that extends in all directions from the south pole to about halfway to the equator,” Dr. Stevenson said.
+液态水的密度比冰大8%，这样一来，地表下面20至25英里处存在海洋的发现就与重力测量结果相符。史蒂文森说，“这片海洋从南极向各个方向延伸，大约延伸到了与南和赤道距离相等的位置。”
+The underground sea is up to six miles thick, much deeper than a lake. “It’s a lot more water than Lake Superior,” Dr. Stevenson said. “It may even be bigger. The ocean could extend all the way to the north pole.”
+这片地下海最深可达六英里，深度远远大于湖泊。“它的水量比苏必利尔湖大得多，”史蒂文森说。“还可能（比现在认为的）更大。这片海洋可能一直延伸到了北极。”
+The conclusion was not a surprise, said Christopher P. McKay, a planetary scientist at NASA Ames Research Center in Mountain View, Calif., who studies the possibility of life on other worlds, but “it confirms in a really robust way what has been sort of the standard model.”
+NASA艾姆斯研究中心(Ames Research Center)研究地外生命可能性的行星科学家克里斯多弗·P·麦凯(Christopher P. McKay)表示，这个结论并不出乎意料，不过，“它以一种非常有说服力的方式确证了一件多少属于标准模型的事情。”该中心位于加州山景市。
+It also makes Enceladus a more attractive destination for a future mission, especially one that would collect samples from the plumes and return them to Earth to see if they contain any microbes.
+这也使恩瑟拉多斯成为了一个更具吸引力的未来任务目的地，特别是以下任务——从羽状水蒸气中收集样本，然后送回地球，看它们是否包含微生物。

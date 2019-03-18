@@ -1,0 +1,34 @@
+SAN FRANCISCO — California is not quite ready to let self-driving cars hit the road on their own.
+旧金山——加州还没完全准备好让自动驾驶汽车上路！
+The state’s Department of Motor Vehicles on Wednesday issued a draft of potential regulations for putting regular people behind the wheel of autonomous vehicles. The draft is a big step toward legal recognition of self-driving technology, but it comes with significant requirements.
+加州机动车管理局星期三公布了一部草拟的法规，规定自动汽车驾驶盘后得坐着一个真正的人。这个草案是向法律承认自动驾驶技术迈进的一大步，可是门槛很高。
+The D.M.V. proposal would mandate that autonomous vehicles be operated by a licensed driver who could take over if necessary. That driver would also be on the hook for traffic violations.
+机动车管理局的草案是：规定自动汽车在必要的时候应该转由持证的驾驶人操控，该驾驶人也难逃交通违规之责。
+The manufacturers of self-driving cars would have to subject their vehicles to a third-party safety test. And they would apply for three-year permits that would allow them to lease but not sell self-driving cars to the public.
+自动驾驶汽车的制造商必须将汽车交由第三方做安全测试。他们必须申请为期三年的许可证，许可出租车辆而不能卖给公众。
+Manufacturers would also have to regularly report accidents, come up with security measures to prevent hackers from taking over cars, and tell passengers what kind of data, beyond whatever information is needed to safely run the car, the companies are collecting about them.
+制造商也得定期报告车祸，设计出安全措施以避免骇客掌控车辆，得告知乘客除了安全驾车所需数据之外，汽车公司还收集了乘客的哪些资料。
+Self-driving cars are already a common sight around California, particularly in Mountain View, where Google is based and often tests the vehicles. But outside of press events and other private showings, regular people have yet to operate them.
+自动驾驶汽车在加州已经是个常见的景象，尤其是在山景市，因为是谷歌总部所在，自动汽车经常在此测试。可是除了新闻发布和私人展示以外，一般人很少开这类车。
+Google’s self-driving-car project is focused on producing a fully autonomous car, and its prototype does not have pedals or a steering wheel, though Google does add a steering wheel and other controls when it tests the vehicles on public roads.
+谷歌的自动驾驶汽车设计重点在生产一种全自动车，设计原型甚至没有脚踏板或驾驶盘，虽然在公路上测试的时候谷歌还是加上了驾驶盘和其他的控制机件。
+While the draft released Wednesday does not directly address vehicles like the Google prototype, the D.M.V. said it believed that “manufacturers need to obtain more experience in testing driverless vehicles on public roads prior to making this technology available to the general public.”
+星期三公布的草案并不是针对谷歌自动车原型，但是机动车管理局说他们坚信“在提供这项产品给公众之前，制造商得先在公路上测试无人车以获取更多经验。”
+“The department will address the unique safety, performance and equipment requirements associated with fully autonomous vehicles without the presence of a driver in subsequent regulatory packages,” the draft read.
+这份草案说：“管理局在随后的规章中会论及无人全自动车独特的安全、性能和装备标准。”
+Google’s autonomous vehicle effort is part of the X division of Alphabet, a holding company formed in August to separate Google’s search and advertising businesses from more speculative projects.
+谷歌自动汽车项目属于字母公司X部门的一部分。字母公司是8月成立的一家控股公司，把谷歌的研究与广告业务跟风险项目分开。
+But self-driving cars are likely to be spun off into their own division soon. In September, Alphabet hired John Krafcik, an auto industry veteran, to be chief executive of the division, at which point the company said the self-driving-car unit, while not yet a stand-alone company, was “a good candidate to become one at some point in the future.”
+可是自动驾驶汽车很可能不久就会转入谷歌自己的部门。9月时，字母公司聘用了汽车工业的老手约翰·克拉夫奇为这个部门的首席执行官，当时字母公司宣称自动汽车部门虽然还不是成绩斐然，但是“将来很可能脱颖而出。”
+Astro Teller, head of the X division, has on several occasions said that the company’s tests show humans to be a poor fallback, because once they learn to trust self-driving technology they ignore the road and therefore are not well equipped to take over in the event of an emergency.
+亚斯特洛·特里尔，X部门的主任，在许多场合多次表示，公司的測试显示，配备驾驶人其实并非高招，因为真人一旦信赖自动驾驶技术，就往往忽略路况而不宜在紧急情况下接手。
+Not to mention that the big pitch behind autonomous driving technology is to help people who cannot or do not want to drive because they are disabled, drunk or just too busy doing other things.
+再说，发展自动驾驶技术的初衷是帮助不能或不想驾驶的人，如残疾、醉酒或忙于其他事务的人。
+“Safety is our highest priority and primary motivator as we do this,” said Courtney Hohne, a Google spokeswoman, in an emailed statement. “We’re gravely disappointed that California is already writing a ceiling on the potential for fully self-driving cars to help all of us who live here.”
+谷歌的发言人柯特妮·贺恩在一个电子邮件声明中说：“安全是我们最优先也是最主要的考量。”“我们极度失望，加州居然对这个有助于所有人的全自动驾驶汽车设了限。”
+A number of other Bay Area companies are investing in self-driving-car technology, including the electric-car company Tesla Motors and the ride-hailing service Uber Technologies. Google is one of 11 companies — along with Tesla, Honda Motor, BMW and Ford Motor — with a permit to test the vehicles on California roads.
+湾区也有些其他公司投资自动驾驶技术的研发，包括电动车Tesla Motors和叫车服务Uber Technologies。谷歌与其他共11家如Tesla, Honda Motor, BMW 和Ford Motor 等公司都拥有在加州路试的许可证。
+The D.M.V.’s draft is basically a starting point for two workshops — one in Sacramento, another in Los Angeles — where regulators and manufacturers will talk about rules for allowing ordinary people to operate self-driving cars.
+机动车管理局的草案基本上是为两个研讨会提供讨论平台，一个在Sacramento，另一个在 Los Angles，管理机构与制造商会共同商讨有关一般人驾驶自动汽车的一些规定。
+Three years ago, California enacted a law that required the D.M.V. to adopt new vehicle, performance and safety regulations for putting autonomous cars on public roads. The first milestone was last September, when the D.M.V. introduced a series of guidelines that allowed companies like Google and others to start testing self-driving cars on California roads.
+三年前，加州颁布了一项法规，要求机动车管理局制定关于新车、性能与安全的规章以便自动汽车上路。第一个划时代创举便是9月时，管理局出台了一系列准则，允许谷歌和其他公司开始在加州公路上测试自动驾驶车辆。

@@ -1,0 +1,22 @@
+Here’s a quiz for you: Who makes more money, a median American household or an intern at Facebook? If you guessed the latter, the tech company, you’re right.
+给你出一道小测验：美国一个处于中位数收入水平的家庭和Facebook的一个实习生，哪个挣钱更多？如果选择后者，即Facebook这家科技公司的实习生，你就答对了。
+According to a report released on Friday by Glassdoor, an online jobs and career company, some of the highest paying companies pay their interns more than $75,000 a year. This is more than the median household income in the United States, which according to the Census Bureau, is $53,046 a year.
+在线就业和职业公司Glassdoor周五发布的一份报告显示，部分薪资最高的公司给实习生发放的年薪超过7.5万美元（约合46万元人民币）。这个数字高于美国家庭收入的中位数。人口普查局(Census Bureau)的数据显示，美国家庭收入的中位数为53046美元。
+It shouldn’t come as much of a surprise that many of the companies on the list are tech-based. Glassdoor said that companies in the San Francisco Bay Area dominated the list of highest paid, representing 18 of the top 25 companies profiled.
+上榜的许多公司都是科技公司这一点应该不会让人觉得意外。Glassdoor称，在薪酬最高的公司名单中，旧金山湾区的公司占大多数，在名单前25家公司中占了18家。
+Palantir, the computer software and services company, was at the top of the list, paying interns a whopping $7,012 a month. Assuming the intern works an entire year, that means an annual salary of $84,144.
+计算机软件和服务公司Palantir拨得头筹。该公司给实习生支付的月薪高达7012美元。这意味着，假如一个实习生工作一整年，其年薪可达84144美元。
+Social media giants pay their interns better than most traditional tech start-ups, according to the report. Twitter interns came in third on the list, with a monthly salary of $6,791. LinkedIn was right behind with at $6,230 each month, followed by Facebook at $6,213 a month.
+这份报告称，社交媒体巨头付给实习生的薪资高于大部分传统科技创业公司。Twitter的实习生以6791美元的月薪名列排行榜第三位。紧随其后的是LinkedIn和Facebook，这两家公司的实习生月薪分别为6230美元和6213美元。
+You can be sure these interns aren’t just getting coffee and using photocopiers — assuming that these companies even have photocopy machines.
+可以肯定的是，这些实习生的工作不只是泡咖啡和复印资料——假设这些公司真有复印机的话。
+“You will ship code used in production, you can have a say in virtually all company decisions,” a software engineering intern at Twitter wrote, describing his duties at the company.
+“你要编写产品使用的代码，几乎可以对公司所有决策发言，”Twitter的一名软件工程实习生在描述自己的工作职责时写道。
+Glassdoor said the report was calculated by collecting salary information on its site from companies with at least 20 interns. The data was collected over two years from Jan. 24, 2012 to Jan. 23, 2014.
+Glassdoor表示是通过在自己的网站上收集薪资信息才制成这份报告的，而且相关公司都至少有20个实习生。数据的收集工作持续了两年，始于2012年1月24日，截至2014年1月23日。
+The report is a stark comparison to some traditional media companies, which in recent years have been sued or publicly criticized for underpaying interns.
+这份报告与一些传统的媒体公司形成了鲜明对比。近年来，这些公司因付给实习生的报酬过低而被起诉或受到公开批评。
+Last year, Condé Nast, whose publications include The New Yorker, Vanity Fair and Vogue, said it was closing down its internship program after two formers interns sued the company, claiming they had been paid below minimum wage for the summer jobs at W Magazine and The New Yorker.
+去年，旗下拥有《纽约客》(The New Yorker)、《名利场》(Vanity Fair)和《Vogue》等出版物的康泰纳仕集团(Condé Nast)称，将关闭自己的实习生项目，因为在那之前，两名前实习生将该公司告上了法庭，称自己暑期在《W》杂志(W Magazine)和《纽约客》工作时获得的薪酬低于最低工资。
+The Glassdoor list also included Amazon.com, which pays its interns $5,631 a month, Nvidia, $5,446 a month, Yahoo, $5,039 a month and Intel, $4,648 a month.
+Glassdoor的这份名单还包括亚马逊(Amazon.com)、Nvidia、雅虎(Yahoo)和英特尔(Intel)，这几家公司给实习生开出的月薪分别为5631美元、5446美元5039美元和4648美元。

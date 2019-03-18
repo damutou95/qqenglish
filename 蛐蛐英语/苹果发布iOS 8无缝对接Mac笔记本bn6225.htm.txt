@@ -1,0 +1,32 @@
+SAN FRANCISCO — Apple on Monday introduced new operating systems for its Mac computers and mobile devices, including a series of changes intended to help Macs work more seamlessly with iPhones and iPads.
+旧金山——苹果于周一推出了用于Mac电脑和移动设备的新操作系统，其中包括一系列意在帮助Mac电脑与iPhone、iPad进一步无缝匹配的变化。
+The new Mac system, called Yosemite, includes a new design that streamlines the toolbar for using the computer’s calendar, clock and calculator. It also includes new icons. The new mobile system, iOS 8, adds functions like a smarter keyboard and new features for emails and text messages.
+名为Yosemite的新Mac系统包括了全新的设计，简化了使用电脑日历、时钟和计算器的工具栏。新系统还包括一些新图标。而新的移动操作系统iOS 8则增加了更智能的键盘以及新的邮件和短信功能。
+The announcements were made at the company’s annual software developer conference here. Apple also introduced a system called Continuity, which makes it easier to juggle content across different devices. For example, a user can connect a Mac and an iPad, making it possible to compose an email on a Mac, and then swipe up on the iPad screen to resume writing the same email. A phone conversation on an iPhone can be transferred to a Mac, too.
+苹果公司在这里的年度软件开发者大会上推出了这些新系统。此外公司还推出了一个名为Continuity的系统，该系统让内容在不同设备之间的转移更轻松。比如，用户可以把Mac和iPad连接在一起，在Mac上写邮件，然后在iPad屏幕上滑动图标，继续编辑同一封邮件。在iPhone上的通话也可以被转移到Mac上。
+The company’s iCloud online storage service received some attention, too. The company said it was adding a new feature called iCloud Drive, which allows users to store files online and access them across different devices, similar to the service offered by Dropbox, a start-up in San Francisco.
+苹果的iCloud在线存储服务也受到了一些关注。该公司称正在增添一项名为iCloud Drive的新功能，该功能允许用户在线存储并在不同设备上打开文件，类似于旧金山创业公司Dropbox提供的服务。
+“Apple engineers platforms, devices and services together,” Timothy D. Cook, Apple’s chief executive, said in front of thousands of software developers at Moscone Center. “We do this so we can create a seamless experience for our users that is unparalleled in the industry.”
+“苹果是平台、设备和服务同时构制的，”苹果首席执行官蒂莫西·D·库克(Timothy D. Cook)在莫斯克尼中心(Moscone Center)当着数千名软件开发者说，“正因为这样，我们才能为用户创造业内无与伦比的无缝式体验。”
+In iOS 8, the mobile device keyboard has been expanded to improve what is called predictive-typing suggestions. When a user is typing, the keyboard tries to predict the next word the user will type to help save time. It can also predict responses to incoming messages — for example, if a spouse asked, “Do you want to go to dinner or a movie?” the messaging app will provide potential responses to pick from: Dinner, a movie, or “I don’t know.”
+在iOS 8中，移动设备的键盘得到了扩展，以改善所谓的联想输入建议。用户输入时，键盘会尝试预测用户接下来要输入的词，以节省时间。它还能预测对收到的短信的回复——比如，如果夫妻中一人问，“你想去吃饭还是看电影？”这款通讯应用会提供可能的回复供选择：看电影、吃饭或“我不知道”。
+Apple also updated the messaging system to make it quicker to respond to text messages. When a text arrives, the message will pop up on the top of the screen; the user can simply swipe down to type a response rather than open the texting app.
+苹果还更新了短信系统，可以更快地回复短信。收到短信时，信息会弹至屏幕上方。用户只需下滑便可输入回复，不用打开短信应用。
+The company also announced a new health-monitoring app for iOS 8, HealthKit. The app logs statistics like a user’s footsteps, heart rate and sleep activity. The app will be able to pull data from third-party fitness and health-monitoring hardware.
+苹果公司还宣布了一款面向iOS 8的新健康监测应用HealthKit。该应用会记录用户的脚步、心率、睡眠活动等数据，还能导入第三方健身和健康监测硬件上的数据。
+Apple said it would allow makers of health-monitoring apps to integrate tightly with HealthKit. For example, the Mayo Clinic has retooled its app so that if a patient’s vital signs, like blood pressure, seem concerning, HealthKit can notify the hospital proactively so that a doctor can reply to the patient.
+苹果说它将允许健康监测应用与HealthKit密切结合。例如，梅奥诊所(Mayo Clinic)对自己的应用进行了重新设计，一旦病人的血压等重要指标出现异常，HealthKit就能主动通知医院，这样医生就可以对病人进行答复。
+The introduction of HealthKit was low-key compared to Apple’s other announcements. But the software is likely a precursor to Apple’s coming smart watch, which has a strong focus on health monitoring, according to multiple people briefed on the project, who asked not to be named because the plans were private.
+与苹果的其他产品发布相比，HealthKit的介绍比较低调。但是这个软件很可能是苹果即将生产的智能手表的先导。介绍这个项目的多位人士表示，苹果的智能手表将尤其关注健康监测。由于属于保密计划，这些人要求匿名。
+The new Mac system and iOS 8 will release as free updates in the fall.
+新的Mac系统和iOS 8将于秋季发布，供用户免费更新。
+Fans and customers anticipating new iPhones or a smart watch will have to wait — Apple did not introduce any new hardware on Monday. The company has traditionally reserved fall and winter for its biggest product announcements to target the back-to-school and holiday shopping seasons.
+期待新款iPhone或智能手表的粉丝与客户只能继续等待——苹果周一并未推出任何新硬件。一般来看，公司都会针对返校和假期购物季，在秋冬季节进行最重要的产品发布。
+Still, Apple has not been shy about building hype around its coming products. Eddy Cue, the company’s senior vice president of Internet software and services, said at the Code conference last week that the products that Apple is poised to release this year were part of “the best product pipeline” he has seen in his 25 years at the company. New iPhones with larger screens, iPads and a smart watch are expected for release later this year.
+然而，苹果也毫不避讳大肆宣传其即将推出的产品。负责互联网软件和服务的苹果高级副总裁埃迪·库埃(Eddy Cue)在上周的编程大会上说，苹果今年准备发布的产品，是他在苹果25年来见过的“最好的产品线”的一部分。配备更大屏幕的新款iPhone、新款iPad和一款智能手表，有望在今年晚些时候推出。
+On Monday, the focus was more on developers, and Mr. Cook told them that they would be getting new tools to “make things they haven’t dreamed of and to push to a whole new level.”
+周一的重点更多的是开发商，库克告诉他们，他们将获得一些新工具，这些工具能“让他们制造出一些他们从未想象过的东西，并把这些东西提高到一个全新的水平”。
+App developers will now be able to take advantage of the fingerprint sensor on the latest iPhones for things like letting people log into their apps. Craig Federighi, the company’s senior vice president of software engineering, who delivered most of the keynote presentation, said that developers would not gain access to the fingerprints themselves — a user’s fingerprints will remain securely stored inside the iPhone’s processor, he said.
+苹果开发者现在将能够利用最新款iPhone上的指纹传感器，这些传感器能让人们登录它们的应用程序。公司软件工程高级副总裁克雷格·费代里吉(Craig Federighi)负责了大部分的主题陈述，他说开发商不会获得指纹本身——用户的指纹将被安全地保存在iPhone的处理器内。
+Apple also introduced HomeKit, a set of tools for developers to make iPhones more tightly integrated with the so-called smart home, or wirelessly controlled home appliances like light bulbs, thermostats or door locks. One tool will allow Apple’s voice assistant, Siri, to communicate with these devices — saying “Get ready for bed” could dim the lights, close the garage door and lower the thermostat, for example.
+苹果还推出了HomeKit。开发商可以通过这套工具，让iPhone与所谓的智能住所——即灯泡、恒温器或门锁等遥控家用器具——更密切地结合起来。有个工具能使苹果的语音助手Siri与这些设备进行交流，比如用户说“准备睡觉”，灯光就会变暗、关闭车库大门、调低恒温器温度等等。

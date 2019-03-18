@@ -1,0 +1,24 @@
+LONDON – Google will announce by the end of the month a mechanism for consumers to request that links to information about them be removed from the company’s search engine, a leading European regulator said on Thursday. It was one of the first signs that Google was working through how to operate after a court ruling said consumers could make such requests.
+伦敦——谷歌将在本月底推出一种方法，供用户向该公司提出申请，以删除其搜索引擎提供的有关他们个人信息的链接，一个主要的欧洲监管机构本周四表示。这是在欧盟法院做出裁决，表示消费者可以提出这种要求之后，谷歌开始着手行动的最初迹象之一。
+Ulrich Kühn, ​head of the technical department at Hamburg’s data protection regulator, one of Germany’s leading data protection agencies, said that the details of the mechanism still had to be finalized. But a basic online tool for people to ask Google to take down potentially harmful links would be in place in about two weeks, he said.
+这个位于汉堡的数据保护监管机构是德国主要的数据保护机构，其技术部门负责人乌尔里希·库恩(Ulrich Kühn)表示，相关细节仍有待最后确定。但谷歌可能会在大约两周后推出一款基本的在线工具，让人们向该公司申请删除可能存在不良影响的链接，他说。
+“They are trying to come up with something that users can use to lodge complaints about specific links,” Mr. Kühn said. “It will be rolled out across Europe for all citizens.”
+“他们正在尝试设计一种方法，用户可以用它来提出针对具体链接的投诉，”库恩说，“该工具将被推广到全欧洲，供所有公民使用。”
+Google would not comment on when the mechanism would be online or how the tool would work.
+谷歌不愿对该工具的上线时间和工作机制予以置评。
+In a statement, the company said the ruling on Tuesday by the Court of Justice of the European Union would have implications for how the company handles requests for information to be taken down.
+在一份声明中，该公司表示，欧盟法院本周二的这项裁决将影响谷歌处理信息删除申请的方式。
+“This is logically complicated,” Google said in a statement. “As soon as we have thought through exactly how this will work, which may take several weeks, we will let our users know.”
+“从逻辑上说，这很复杂，”谷歌在一份声明中表示，“对它的工作机制进行周详的策划大概需要花几周时间，这方面的工作一结束，我们就会告知用户。”
+The decision by Europe’s top court to allow individuals to demand that Google take down links in certain instances has been seen as a landmark case in the Continent’s push toward increased data privacy.
+根据欧盟法院的这项裁决，个人可以要求谷歌在某些情况下撤除链接；人们已经将这视为欧洲大陆推进数据隐私保护的一个具有里程碑意义的案件。
+The court’s ruling centered on the so-called right to be forgotten, which would allow people to ask Google to remove links to certain online information about themselves. Unlike the United States, Europe places almost equal emphasis on the right to privacy and the right of freedom of expression.
+法院的这项裁决聚焦在“被遗忘权”上，人们可以据此要求谷歌删除关于自己的某些网络信息的链接。不同于美国，欧洲对隐私权和言论自由权给予了几乎同等程度的重视。
+The judges ruled that search engine is a “controller” of individuals’ data within the European Union, which means that the search engine must comply with the Continent’s privacy rules. Previously, the company had been viewed as a mere “processor” of online data, which allowed it to circumvent local data protection laws.
+法官裁定，在欧盟范围内，谷歌是个人数据的“控制者”，这就意味着该搜索引擎必须遵守欧洲大陆的隐私保护规则。此前，该公司仅仅被视为一个针对网上数据的“处理者”，所以那时它可以规避当地的数据保护法。
+European data protection authorities say that since the ruling on Tuesday, the number of complaints from people seeking ways to take down online links to their past activities has increased.
+一些欧洲数据保护机构表示，本周二的裁决发布后，人们要求撤下网上链接的投诉数量有所增加，这些链接与他们过去的活动有关。
+Mr. Kühn said his office had received almost 20 complaints from Germans since Tuesday. On average, two people had contacted the authority each week before the Google court decision.
+库恩说，本周二以来，他的办公室已收到近20宗来自德国的投诉。而在这项裁决发布之前，平均每周只有两个人就此联系该机构。
+“The ruling took us by surprise,” said Mr. Kühn, who contacted Google on Wednesday to find out how it would adjust to the court’s decision. “The court has cemented the right to be forgotten into European law.”
+“这项裁决出乎我们的意料，”库恩说。本周三他联系了谷歌，以了解该公司将根据法院的裁决采取哪些措施。“法院已将‘被遗忘权’完全纳入了欧洲法律之中。”

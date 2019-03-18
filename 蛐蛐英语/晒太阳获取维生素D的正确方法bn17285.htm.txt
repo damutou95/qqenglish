@@ -1,0 +1,20 @@
+Q. On these cold yet sunny winter days, can a person absorb vitamin D by sitting inside next to a sunny window?
+问：在寒冷但阳光明媚的冬日里，室内的人坐在朝阳的窗边能否吸收维生素D？
+A. Sunbathing on the wrong side of a window does not lead to more vitamin D in the body, for several reasons.
+答：在室内晒日光浴无法增加人体中的维生素D，原因如下：
+First of all, the vitamin is not actually absorbed from the sunlight, but rather is made by the body when certain wavelengths of light activate a chemical called 7-dehydrocholesterol within the skin.
+首先，其实人体并不能从日光中吸收维生素，而是特定波长的光（中波紫外线，UVB）可以激活皮肤内一种叫做7-脱氢胆固醇的化学物。
+Second, ordinary window glass blocks these useful wavelengths, which are in the ultraviolet-B range.
+第二，普通的窗玻璃会阻隔这些有用的UVB。
+Third, even if the window were wide open to the sunlight, the angle at which the sun’s rays hit the planet in northern latitudes in the winter means that it is hard, if not impossible, for many Northerners to get enough winter sunshine to meet their vitamin D requirements, even with prolonged exposure.
+第三，即使敞开朝阳的窗口，冬季日光照射地球北纬地区的角度使得北方人哪怕长时间接受日光浴，也基本无法得到足以满足他们维生素D需求的光照。
+While the useful wavelengths are blocked by window glass, ultraviolet-A wavelengths associated with skin cancer easily pass through the glass. It has even been suggested that fair-skinned indoor workers may show a higher risk of melanoma for this reason.
+虽然日光中有用的那部分波段被窗玻璃阻断了，但与皮肤癌相关的长波紫外线(UVA)却很容易穿过玻璃。甚至有人提出，这个原因导致了皮肤白皙的室内工作者发生黑色素瘤的风险较高。
+Luckily, a vitamin D deficit can be made up through some foods (especially oily fish), fortified foods and supplements.
+幸运的是，维生素D的不足可以通过某些食品（尤其是富含脂肪的鱼）、强化食品和补充剂来弥补。
+The most valuable ultraviolet-B wavelengths of sunlight, 290 to 320 nanometers, are plentiful in summer. Because of the skin cancer risks associated with all ultraviolet radiation, getting vitamin D through sunbathing is a balancing act.
+日光中对人最有价值的UVB波长在290至320纳米，夏季较为充足。由于皮肤癌风险与所有波段的紫外线辐射都相关，通过晒太阳获得维生素D是一个需要权衡的行为。
+For fair-skinned people, short exposure to the summer sun twice a week for the face, arms, hands or back — less time than it takes to turn the skin pink — is enough to get the vitamin D benefits. Dark-skinned people need much longer exposure because of the higher levels of the protective pigment melanin.
+要增加维生素D，皮肤白皙者每周两次将脸部、手臂、手部或背部短期暴露在夏阳下（时间要短于会将皮肤晒红的时间）就足够了。皮肤较黑者需要晒更长时间的太阳，因为他们皮肤中起保护作用的黑色素水平较高。
+Some other factors that affect levels of sunshine vitamin D are the use of sunscreen and protective clothing; the amount of skin exposed; and age, with synthesis levels dropping sharply in older people.
+影响日晒合成维生素D的其他一些因素有：使用防晒霜和防晒衣；皮肤暴露在日光下的面积；年龄（老年人中维生素D的合成会急剧下降）等。

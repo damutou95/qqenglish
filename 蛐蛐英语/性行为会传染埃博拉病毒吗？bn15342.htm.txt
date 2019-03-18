@@ -1,0 +1,32 @@
+Question: Why hasn’t it been publicized and become a public health warning that male Ebola survivors can harbor Ebola virus in their semen for several months after recovery?
+问：为何埃博拉出血热的男性幸存者在康复后数月内精液中仍携带埃博拉病毒这一点没有被公之于众？为什么没有就此发布公共卫生警告？
+Answer: From the first Ebola outbreak in 1976 until this year, most experts believed the virus was never sexually transmitted because there had never been a documented case.
+答：从1976年的第一次埃博拉疫情到今年为止，大多数专家都认为该病毒不会通过性传播，因为从来没有记录在案的此类病例。
+That was true even though there was one known precedent. In 1967, lab workers in Marburg, Germany, and other European cities fell seriously ill after dissecting African green monkeys imported from Uganda; seven people died. Their disease, now known as Marburg hemorrhagic fever, is caused by a filovirus like Ebola. Six weeks after one worker recovered, his wife fell ill. Genetic matches were not possible then, but sex with him was her only known risk factor, according to Dr. Daniel G. Bausch of the World Health Organization, who has studied virus levels in victims and survivors.
+这话没错，不过，其实也算是有一个广为人知的先例存在的。1967年，德国马尔堡市和欧洲其他城市的实验室工作人员在解剖从乌干达进口的非洲绿猴后就患上了重病，最后七人死亡。这种病如今被称为马尔堡出血热(Marburg hemorrhagic fever)，由一种很像埃博拉病毒的丝状病毒引起。在其中一名工作人员康复六周后，他的妻子病倒了。当年尚不可能做基因比对，但她唯一的已知风险因素就是与他发生过性行为，世界卫生组织(World Health Organization, W.H.O.)的丹尼尔·G·鲍施(Daniel G. Bausch)博士说，他研究了病亡者和幸存者的病毒水平。
+But there is now one clear-cut case of Ebola transmission through semen — first reported this spring and recently detailed in The New England Journal of Medicine — and other possible cases. As a result, the W.H.O. and the Centers for Disease Control and Prevention have changed their guidelines. The changes got relatively little publicity because fear of Ebola waned after cases fell sharply.
+然而，现在已经有明确的病例表明埃博拉病毒可通过精液传播（今年春天首次报道，最近在《新英格兰医学杂志》[The New England Journal of Medicine]详细报道），还出现了其他的疑似病例。因此，WHO和美国疾病控制和预防中心(Centers for Disease Control and Prevention, CDC)修订了有关指南。但由于埃博拉病例锐减后人们的恐惧也随之减弱，上述修订并没有得到充分的宣传。
+In the documented case, Ruth Tugbah, a 44-year-old food seller in Liberia’s capital, Monrovia, developed Ebola and died. Before she fell ill, Liberia had detected no new infections for three weeks.
+在上述第一例有记载的病例中，患者名叫露丝·图格巴(Ruth Tugbah)，44岁，是利比里亚首都蒙罗维亚的一名食品销售商，因埃博拉出血热而死亡。在她发病之前，利比里亚已有三周未检出新发感染了。
+Investigators eventually concluded that she had been infected by her boyfriend, who had been released from an Ebola treatment center months before. Genetic matching showed that his virus and hers were so closely related that he must have been the source, and traces of viral genetic material were still in his semen 175 days after he first fell ill. (He had a second sex partner shortly before Ms. Tugbah, a 45-year-old woman whom he did not infect, according to a C.D.C. report.)
+调查人员最终得出的结论是：她被她几个月前从埃博拉治疗中心出院的男朋友给感染了。基因比对的结果显示，他俩感染的病毒具有密切的亲缘关系，且他必定是她的感染源，在她发病175天后，在他的精液中仍能检出痕量的病毒遗传物质（根据CDC的报告，在图格巴女士前不久，他还有第二名性伴侣，不过这位45岁的女性没有被他感染）。
+Last month, a study of 93 male survivors in Sierra Leone found that nearly half had viral genetic material in their semen. The amounts tended to decline as time passed, but several still had it nearly nine months later. It is not known whether the men were actually infectious as the test detected only viral fragments and whole virus was not grown out in cell cultures.
+上个月，一项研究调查了塞拉利昂的93名男性幸存者后发现，他们中近一半人的精液中带有病毒的遗传物质。随着时间的推移，该数量呈下降趋势，但仍有若干人在近九个月后依然携带病毒。目前尚不能确定这些男性是否确实具有传染性，因为测试仅检测到了病毒的片段，且在细胞培养中未培养出完整的病毒。
+For these reasons, the C.D.C. and W.H.O. now advise male survivors to use condoms every time they have sex for at least six months and possibly indefinitely. They can safely stop only after their semen is found to be virus-free in two tests taken a week apart.
+基于这些原因，如今，CDC和WHO提醒男性幸存者在每次做爱时都需要使用安全套，至少维持六个月，可能的话，最好能一直保持下去。除非他们在至少两次检测（其间需间隔一周）中精液均呈病毒阴性才能安全地停止使用安全套。
+There is no known case of a female survivor infecting anyone through sex.
+尚无女幸存者通过性生活感染男性的已知病例。
+Experts currently believe that only male survivors present a threat of Ebola transmission through sex. Men who are newly infected and just developing the symptoms of fever, nausea and diarrhea will have high loads of virus in their blood, vomit and feces, but not in their semen.
+专家们目前认为，只有男性幸存者才会造成性传播埃博拉病毒的威胁。新发感染，刚刚出现发烧、恶心和腹泻症状的男性在其血液、呕吐物和粪便中都存在较高的病毒载量，但在精液中并无病毒。
+That is because some parts of the body, including the eyes, the brain and the testes, are “immunologically privileged.” Protected by membranes and bathed in their own special fluids, they are harder for viruses and bacteria to invade. But, once their defenses are breached and the pathogen is inside, it often takes the body longer to clear it out there than to clear the same invader from blood, tissue and most other organs.
+这是因为身体的某些部位，包括眼睛、脑部和睾丸，都是“免疫豁免区”。受到膜的保护，且沐浴在各自的特殊液体中，这些器官比较不容易被病毒和细菌入侵。但是，一旦防线被突破，病原体入侵其中，身体要清除这些病原体，就往往需要花上比从血液、组织和大多数其他器官中清除相同病原体更长的时间。
+Scientists do not know whether the bulk of the virus hides in the testicles, which produce sperm, or the prostate, which produces semen.
+科学家们尚不清楚这大量的病毒是潜藏在睾丸（产生精子）还是前列腺（产生精液）中。
+Female survivors are not thought to infect others through sex. While growing fetuses are somewhat immunologically privileged, vaginal walls and fluids are not.
+一般认为，女幸存者不会通过性渠道传染他人。虽然发育中的胎儿也有一定的免疫豁免，但阴道壁及其中的液体都没有。
+There are now about 17,000 survivors of the West Africa Ebola outbreak that began in 2013. The new studies have added to stigma and discrimination, particularly against the men.
+截止目前，西非地区的这场开始于2013年的埃博拉疫情约有1.7万名幸存者。新的研究加重了对他们的羞辱和歧视，尤其是针对男性。
+“The rumor that survivors infect women is a huge problem,” Dr. Bausch said.
+鲍施博士说：“幸存者感染妇女的传闻是一个巨大的问题。”
+At the same time, he said, “a fair number” of male survivors are having problems getting or keeping erections. There is no official estimate of erectile dysfunction among survivors, he said, but men “frequently report it” in private discussions with doctors. It is less common than joint pain, which at least 80 percent of all survivors report, and uveitis, or inflammation inside the eye, which is reported by 20 to 50 percent of survivors in different studies.
+与此同时，他也表示，“相当数量”的男性幸存者在勃起或保持勃起方面存在问题。关于存在勃起功能障碍的幸存者数量，尚无官方估计值，他说，但是男性患者在与医生的私下讨论中“频频报告该症状”。不过，相比于至少80%的幸存者报告关节疼痛，在不同研究中20%到50%的幸存者报告葡萄膜炎或眼内炎症，它较不常见。

@@ -1,0 +1,48 @@
+For nearly two centuries, scholars have debated whether some 325 lines in the 1602 quarto edition of Thomas Kyd’s play “The Spanish Tragedy” were, in fact, written by Shakespeare.
+将近两个世纪以来，学界一直在争论，托马斯·基德(Thomas Kyd)的剧作《西班牙悲剧》(The Spanish Tragedy)1602年的四开本版本里，是否有325行出自莎士比亚(Shakespeare)之手。
+Last year, the British scholar Brian Vickers used computer analysis to argue that the so-called Additional Passages were by Shakespeare, a claim hailed by some as the latest triumph of high-tech Elizabethan text mining.
+去年，英国学者布莱恩·维克斯(Brian Vickers)依据计算机分析提出观点认为，这些所谓的“增补段落”的确是莎翁作品。这一论点得到了一些人的赞许，被誉为利用高科技考据英格兰伊丽莎白一世时期文本的一大最新突破。
+But now, a professor at the University of Texas says he has found something closer to definitive proof using a more old-fashioned method: analyzing Shakespeare’s messy handwriting.
+不过目前，德克萨斯大学(University of Texas)的一名教授称，他作出的发现更接近确凿证据，靠的却是更为老派的办法：分析莎士比亚潦草的笔迹。
+In a terse four-page paper, to be published in the September issue of the journal Notes and Queries, Douglas Bruster argues that various idiosyncratic features of the Additional Passages — including some awkward lines that have struck some doubters as distinctly sub-Shakespearean — may be explained as print shop misreadings of Shakespeare’s penmanship.
+在期刊《札记与问答》(Notes and Queries)9月号即将发表的一篇长仅四页、言简意赅的论文里，道格拉斯·布拉斯特(Douglas Bruster)提出，“增补段落”中的多处异常特征——包括令一些质疑者感到远逊于莎翁水准的别扭台词——或许可以解释为印刷作坊对莎士比亚手迹的误读。
+“What we’ve got here isn’t bad writing, but bad handwriting,” Mr. Bruster said in a telephone interview.
+“我们发现，这些地方并非作者写作水平低下，而是糟糕的书法所致，”布拉斯特在电话采访中说道。
+Claiming Shakespeare authorship can be a perilous endeavor. In 1996, Donald Foster, a pioneer in computer-driven textual analysis, drew front-page headlines with his assertion that Shakespeare was the author of an obscure Elizabethan poem called “A Funeral Elegy,” only to quietly retract his argument six years later after analyses by Mr. Vickers and others linked it to a different author.
+判断作品出自莎翁手笔，这是一项艰苦的探索。1996年，计算机文本分析领域的先行者唐纳德·福斯特(Donald Foster)引来了各家报纸头条的关注，因为他宣称，莎士比亚创作了伊丽莎白时代一首生僻的诗歌《葬礼挽歌》(A Funeral Elegy)，结果却是在六年后悄无声息地撤回了他的论点，因为维克斯等人的分析已将该作品和别的作者联系了起来。
+This time, editors of some prestigious scholarly editions are betting that Mr. Bruster’s cautiously methodical arguments, piled on top of previous work by Mr. Vickers and others, will make the attribution stick.
+这回，一些享有盛誉的学术版本编辑强烈地认为，布拉斯特慎重而有理有据的推论，加上维克斯等人之前的研究工作，能将这些段落的作者身份确定为莎翁本人。
+“We don’t have any absolute proof, but this is as close as you can get,” said Eric Rasmussen, a professor at the University of Nevada, Reno, and an editor, with Jonathan Bate, of the Royal Shakespeare Company’s edition of the complete Shakespeare.
+“我们并无绝对意义上的证明，但现有这些已是最接近确证的了，”内华达大学雷诺分校(University of Nevada, Reno)的教授埃里克·拉斯穆森说。他和乔纳森·贝特(Jonathan Bate)同为英国皇家莎士比亚剧团(Royal Shakespeare Company)版莎翁作品全集的编辑。
+“I think we can now say with some authority that, yes, this is Shakespeare,” Mr. Rasmussen said. “It has his fingerprints all over it.”
+“我认为，现在可以比较权威地表示：是的，这的确是莎士比亚的手笔，”拉斯穆森说。“莎士比亚的特征在其中随处可见。”
+Mr. Rasmussen and Mr. Bate are including “The Spanish Tragedy” in the Royal Shakespeare Company’s new edition of Shakespeare’s collaboratively authored plays, to be published in November.
+拉斯穆森和贝特打算将《西班牙悲剧》引入皇家莎士比亚剧团新版的莎士比亚合著剧作集，该版本计划于11月面世。
+If embraced by the broader world of Shakespeareans, the Additional Passages would become the first largely undisputed new addition to the canon since Shakespeare’s contributions to “Edward III” — another play that some have attributed to Kyd — began appearing in scholarly editions in the mid-1990s.
+如果能得到更广大的莎士比亚研究者群体的接受，这些“增补段落”将成为多年来对莎翁正典首次广受认可的增订。上一次的增订还是在1990年代中期，当时莎士比亚为《爱德华三世》(Edward III)创作的部分开始在学术类版本中出现（该剧也被一些学者归于基德名下）。
+Acceptance is by no means assured. Tiffany Stern, a professor of early modern drama at Oxford University, praised the empirical rigor of Mr. Bruster’s paper, but said that some new attributions were driven less by solid evidence than by publishers’ desire to offer “more Shakespeare” than their rivals.
+不过，该论点并没有十足把握得到普遍认同。牛津大学(Oxford University)早期现代戏剧教授蒂法妮·斯特恩(Tiffany Stern)对布拉斯特论文实事求是的严谨性表示称赞，但她也表示，某些增补莎翁名下作品的举动不完全是基于确凿证据，而是受到了出版商的欲望的驱使，他们希望比竞争对手推出“更多莎士比亚作品”。
+“The arguments for ‘The Spanish Tragedy’ are better than for most” putative Shakespeare collaborations, Ms. Stern said. “But I think we’re going a bit Shakespeare-attribution crazy and shoving a lot of stuff in that maybe shouldn’t be there.”
+“就论据而言，《西班牙悲剧》要强于大多数其他疑似莎翁合著作品，”斯特恩说。“不过我还是认为，我们将各种作品归于莎士比亚，有些热情过度了，或许我们把很多不该纳入其中的东西都一股脑地堆在了莎翁名下。”
+Elizabethan theater was intensely collaborative, with playwrights often punching up old plays or working with other dramatists to cobble together new ones, in the manner of Hollywood script doctors. The 1602 Additional Passages to “The Spanish Tragedy,” inserted more than a decade after Kyd wrote the original, updated the bloody revenge play with a bit of psychological realism, which had become fashionable. (It is not known whether Kyd, who died in 1594, ever met Shakespeare.)
+伊丽莎白一世时期的戏剧界有很强的协同创作风气，当时的编剧时常将老剧翻新，或是同他人一道写作，凑出新点子来，就像今天的好莱坞剧本写手一样。1602年版《西班牙悲剧》的“增补段落”添加于基德创作原剧十余年之后，它给这部血腥的复仇剧增添了现实主义内心戏的成分，这在当时变得相当流行。（目前尚不知1594年去世的基德是否曾与莎士比亚谋面。）
+The idea that Shakespeare may have written the Additional Passages — which include a “Hamlet”-like scene of a grief-maddened father discoursing on the death of his son — was first broached in 1833 by Samuel Taylor Coleridge. But that claim remained a distinctly minority position well into the 20th century, even as scholars began using sophisticated computer software to detect subtle linguistic patterns that seemed to link the passages to Shakespeare’s other work.
+莎士比亚有可能创作了“增补段落”——其中包括一段《哈姆雷特》(Hamlet)式的场景，由一位因悲致狂的父亲讲述其子之死——这种想法在1833年由塞缪尔·泰勒·柯勒律治(Samuel Taylor Coleridge)首先提到。但一直到20世纪，它还只是一种十分小众的观点，尽管学者那时已经开始用精密的计算机软件来识别细微的语言模式，并似乎发现这段文字和莎士比亚其他作品之间存在联系。
+Mr. Bruster said he himself was a skeptic until he read Mr. Vickers’s 2012 article, which presented voluminous circumstantial historical evidence alongside linguistic patterns unearthed by software designed to uncover student plagiarism.
+布拉斯特称，他自己也曾一度质疑这个观点，直到他读了维克斯2012年的论文。这篇文章里展示了卷帙浩繁的历史旁证，与之并列的是反作弊软件发掘出的语言模式。
+Mr. Bruster turned to perhaps the most literal source of authority: Shakespeare’s own pen.
+布拉斯特则专注于可能是最名副其实的权威证据：莎士比亚的亲笔手迹。
+In his paper, Mr. Bruster identifies 24 broad spelling patterns — including shortened past tenses (like “blest” for “blessed”) and single medial consonants (like “sorow” instead of “sorrow”) — that occur both in the Additional Passages, for which no known manuscript survives, and the Shakespeare handwriting sample in the British Library. He also cites nine textual “corruptions” (like “creuie” instead of “creuic,” modernized as “crevice”) that he believes can be explained as misreadings of Shakespeare’s handwriting.
+在他的论文里，布拉斯特指出，有24种主要的拼写特性——包括过去式缩短（如用“blest”而非“blessed”）和音节间的辅音字母单写（如写成“sorow”而非“sorrow”）——既出现于原稿已散佚的“增补段落”，又出现于大英图书馆(British Library)收藏的莎士比亚手稿。他还点出九处文本“讹误”（如写成“creuie”而非正确的“creuic”，现代拼写为“crevice”），并认为它们可以解释成误读莎士比亚原稿字迹的后果。
+These irregularities, considered individually, are not necessarily unique to Shakespeare. But taken together, Mr. Bruster argues, they strongly suggest that the Additional Passages were set in type from pages written, in the most literal sense, by Shakespeare.
+单看每一处异常文本，都不能说是莎翁特色。但布拉斯特论述道，综合观之，它们就很有力地启示我们，所谓“增补段落”可能不仅仅是莎士比亚“写作”的，更是直接由莎士比亚亲手“书写”的文稿付印而成。
+“What I’m getting at is the DNA of Shakespeare’s words themselves, the way he formed those words with his pen on the page,” he said.
+“我正在一步步发现的，是莎士比亚语言文字中的DNA，是他本人把这些文字用笔写在纸页上的方式。”
+A printer’s misreading, Mr. Bruster argues, may also explain a particularly clumsy and nongrammatical stretch in the Additional Passages.
+布拉斯特还提出，印刷匠的误读或许也能解释“增补段落”里一些特别笨拙而不合语法规则的段落。
+Mr. Bruster once counted himself among the many scholars who have thought the passage in the quarto was simply too poorly written to be Shakespeare. “But once you realize that it’s Shakespeare’s handwriting that’s responsible for the misreading, it’s no longer a bad line,” Mr. Bruster said. “It’s actually a gorgeous passage.”
+很多学者认为四开版基德剧作中的增补段落水平太低、不可能出自莎士比亚，布拉斯特也曾是持此观点的学者之一。“可你一旦意识到，恰恰是莎士比亚亲笔手迹导致了误读，这些段落就不再是拙劣的句子了，”布拉斯特说。“它实乃神笔。”
+Finding some of Shakespeare’s lines embedded in another writer’s plays may not carry the frisson of announcing the discovery of a previously unknown poem entirely by Shakespeare. But Mr. Bruster’s paper reflects current scholarly interest in Shakespeare as a playwright who frequently collaborated with others — including, Mr. Vickers has controversially argued, on plays we think of as coming solely from his own pen.
+找出莎士比亚镶嵌在他人剧作中的台词，比起宣称发现一整首前所未知的莎士比亚诗作，造成的轰动要小得多。不过布拉斯特的文章仍然反映出，当前学界对莎士比亚作为一名经常与人合作的剧作家这种身份抱有浓厚兴趣。按照维克斯曾经引发争议的说法，这当中也包括我们一直以为是他独自创作的剧本。
+“Shakespeare wasn’t a solitary genius, flying above everyone else,” Mr. Vickers said. “He was a working man of the theater. If his company needed a new play, he’d get together with someone else and get it done.”
+“莎士比亚不是一个高处不胜寒的孤僻天才，”维克斯说道。“他是剧场里的实干家。如果他的剧团需要一出新戏，他会很乐意找人一道完成。”

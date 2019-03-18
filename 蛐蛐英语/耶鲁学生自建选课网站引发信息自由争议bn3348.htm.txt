@@ -1,0 +1,32 @@
+The idea did not seem controversial at first: Peter Xu and Harry Yu, twin brothers who are seniors at Yale University, set out to build a better, more user-friendly version of the university’s online course catalog. But as Mark Zuckerberg found when he decided to build a better version of Harvard’s undergraduate student directory, these things can take on a life of their own.
+起初，这个主意看起来并没有什么争议性：耶鲁大学(Yale University)的大四学生、孪生兄弟彼得·徐（Peter Xu，音译）和哈里·余（Harry Yu，音译）开始创建一个更好、更方便用户的在线课程目录。然而，就像马克·扎克伯格(Mark Zuckerberg)在决定为哈佛大学创建一个更好的本科生目录时发现的那样，这些事情有可能超出人的控制。
+Yale shut down the brothers’ website last week, helping to turn a local campus issue into something of a civil rights cause. Now, after a few days of controversy, a similar tool is up and running, and it appears to be Yale that has gotten a schooling.
+耶鲁大学上周关闭了这对兄弟创建的网站，促使一个局部的校园问题转变成了某种程度上的公民权利问题。如今，经过几天的争论之后，一个类似的工具启动并运行了，而受到教训的似乎是耶鲁校方。
+The brothers said they were tired of the university’s “clunky” online catalog, which made it hard to see how students from previous semesters had evaluated courses. So in December 2012, Mr. Xu and Mr. Yu, both computer science majors, came up with their own version.
+这对兄弟表示，他们厌倦了学校“繁杂的”在线目录，它让人很难看到往届学生如何评价课程。因此，攻读计算机科学的彼得·徐和哈里·余在2012年12月推出了自己的版本。
+They called it Yale Blue Book +, or YBB+, a reference to the Yale Blue Book, a course selection website that other students had developed and sold to the school a couple of years ago.
+他们称之为Yale Blue Book+或YBB+。早前曾有学生开发选课网站“耶鲁蓝皮书”(YBB)，并在几年前把它卖给了学校。
+“We wanted it to be faster to use,” Mr. Xu said. On his site, he continued, “You can click on a course, you can see its description, you can see what other students have said about it — all in a few clicks.” In particular, students could sort courses by numerical ratings given by students in previous semesters, and see what courses their Facebook friends were looking at.
+“我们想让它用起来更快，”彼得·徐说。他在自己的网站上继续说，“你可以点击一门课程，可以看到它的描述，还可以看到其他学生是怎样评价它的——只需要几次点击就行。”特别值得一提的是，学生可以根据往届学生的评分来查找课程，还可以看到他们Facebook上的朋友都在关注哪些课程。
+It was a success: Last semester, 1,840 students — more than a third of the undergraduate student body — used it to choose their courses, the brothers said. Which is why they were shocked when they got a letter on Jan. 7 from the registrar describing YBB+ as “a big problem.”
+这个版本非常成功。这对兄弟说，上个学期，共有1840名学生——超过耶鲁本科生总数的三分之一——使用它选择课程。正是由于这个原因，当他们在1月7日收到注册负责人称YBB+是个“大问题”的信件时，他们才感到十分震惊。
+University administrators said they were concerned that the site was available to people who were not Yale students, that it gave undue prominence to the numerical ratings without including the descriptive evaluations that went with them, and that it infringed on Yale trademarks. Mr. Xu and Mr. Yu wrote to the registrar offering to fix those three things, along with “4. Anything else you want.”
+校方称，他们之所以担心，一是因为非耶鲁大学学生的人也能登陆这个网站，二是因为它会让数字评分显得过分重要，而不显示附带的描述性评价，三是因为它侵犯了耶鲁的商标权。彼得·徐和哈里·余写信给注册负责人，表示自己愿意改进以上三条，此外还可以多满足一条要求：“4. 你们的任何要求。”
+But Yale opted for more decisive action: It shut the site down.
+不过，耶鲁选择采取更为果断的行动：直接封禁了网站。
+To Mr. Xu and Mr. Yu, that seemed like a violation of free speech — a right held dear by both academics and Internet activists, many of whom rallied to the brothers’ cause as The Yale Daily News, The Washington Post and other news organizations reported on the shutdown.
+在兄弟二人看来，这似乎违反了言论自由。学者与互联网活动人士均珍视这项权利，随着《耶鲁每日新闻》(The Yale Daily News)和《华盛顿邮报》(The Washington Post)等多家新闻机构对封网问题的报道，他们当中有许多人团结到了兄弟二人的周围。
+Brad Rosen, a lecturer in Yale’s computer science department who teaches “Law, Technology and Culture,” said the debate got at a central tension of contemporary life. “Different stakeholders have different assumptions about how information is going to flow,” he said.
+耶鲁计算机科学系的讲师布拉德·罗森(Brad Rosen)教授《法律、技术与文化》(Law, Technology and Culture)课程。他表示，这场辩论触及了当代生活的核心矛盾。“不同的利益相关方对信息应如何流动有着不同的理解，”他说。
+As petitions circulated, Sean Haufler, another senior in computer science, built a workaround that made the administration’s disapproval effectively irrelevant.
+随着请愿活动的扩散，计算机科学专业的另一名大四生肖恩·豪夫勒(Sean Haufler)找到了一种变通方案，使得校方的反对变得毫无意义。
+Over the course of 12 hours, Mr. Haufler figured out how to give users of the older Yale Blue Book all the same functions that YBB+ offered — in a way that the university had no power to block. While he was at it, he wrote a blog post that began, “I hope I don’t get kicked out of Yale for this.” The post went viral. Since then two advocacy groups, the Foundation for Individual Rights in Education and the Electronic Frontier Foundation, have posted messages of support on Twitter, as have officials at Harvard, Columbia and M.I.T., among others.
+在12个小时内，豪夫勒想出办法，让耶鲁蓝皮书网站的老用户享用了YBB+的全部功能，而其方式让学校无权封禁。在着手做这件事的时候，他写了一篇博客文章，开门见山地说，“我希望不会因为这件事被踢出耶鲁。”文章迅速走红。维权组织个人教育权基金会(Foundation for Individual Rights in Education)与电子前沿基金会(Electronic Frontier Foundation)在Twitter上发表了声援帖，其他支持者还包括哈佛、哥伦比亚和麻省理工等机构的管理者。
+On Monday evening, Yale backed down.
+周一傍晚，耶鲁软化了立场。
+“In retrospect,” Mary Miller, the dean of Yale College, wrote in an open letter to the Yale community, “I agree that we could have been more patient in asking the developers to take down information they had appropriated.”
+耶鲁本科学院(Yale College)的院长玛丽·米勒(Mary Miller)在面向全校的公开信中写道：“回想起来，我认同一种看法，即我们本应更为耐心地要求开发者去掉他们挪用的信息。”
+She said that Yale had not violated anyone’s free speech, but “questions of who owns data are evolving before our very eyes. Just this weekend, we learned of a tool that replicates YBB+’s efforts without violating Yale’s appropriate-use policy, and that leapfrogs over the hardest questions before us. What we now see is that we need to review our policies and practices.”
+她还表示，耶鲁没有侵犯任何个体的言论自由，不过，“谁拥有数据的问题是不断变化的。在刚刚过去的周末，我们得知，有一种工具复制了YBB+的功能，却没有违反耶鲁的正当使用政策，从而跳过了摆在我们面前的那些最难以应对的问题。我们现在认为，有必要对校方的政策与实践进行审查。”
+Mr. Haufler said the experience had been unexpectedly educational. After graduation, he intends to work at a start-up. As for what project he has in mind, that is one idea he is keeping under his hat.
+霍夫勒认为，整个经历具有预料之外的教育意义。毕业后，他准备投身初创企业。至于脑子里浮现的是什么项目？他目前要对自己的想法保密。

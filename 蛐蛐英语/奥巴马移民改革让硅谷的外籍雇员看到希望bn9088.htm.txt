@@ -1,0 +1,40 @@
+SAN FRANCISCO — Silicon Valley’s constant stream of new apps and services depends on hundreds of thousands of foreign-born engineers to help create them. So the technology industry has been pushing for changes to the nation’s immigration policy for more than a decade to allow more skilled workers into the country.
+旧金山——硅谷正源源不断地贡献出新的应用和服务，而这有赖于数十万出生于外国的工程师的帮助。因此，十多年来，科技行业一直在推动美国改革移民政策，以便允许更多具备技能的员工入境。
+President Obama’s executive action on immigration last week falls well short of what both immigrants and industry leaders were seeking. The most vexing issues they face, like speeding up the process for obtaining permanent residency and getting more visas for high-skilled technology work, would require an act of Congress.
+然而，奥巴马总统上周宣布的移民方面的政令未能达到移民与业界领袖的期许。他们面临的一些最棘手问题，必须要国会采取行动才能加以应对，例如加快获取永久居留权的进程，以及为高技能科技业员工拿到更多的签证名额。
+Nonetheless, some immigrants working in technology were heartened by the president’s actions and said they could potentially make life and work in the United States easier.
+尽管如此，科技行业的一些外来人员表示，总统采取的行动让他们颇为振奋，并且表示这些举措或许会让他们在美国的生活和工作更轻松。
+One of Mr. Obama’s initiatives, for example, would give entrepreneurs starting a company a special founder’s visa, provided that they raise outside funding. That appeals to Laks Srini, a founder of the San Francisco start-up Zenefits.
+比如，奥巴马提出的计划中，有一项将给予创业人士一种特殊的创始人签证，前提条件是从外部获得融资。这对旧金山初创企业Zenefits的联合创始人拉克斯·斯里尼(Laks Srini)来说，就颇具吸引力。
+Right now, the law is so Kafkaesque that Mr. Srini, who is from India, had to get his American co-founder, Parker Conrad, to officially hire him as Zenefits’ database administrator simply to transfer his visa from his previous employer so they could create the company.
+眼下的情况是，相关方面的法律规定十分荒诞不经。来自印度的斯里尼不得不让自己的美国籍联合创始人帕克·康拉德(Parker Conrad)正式聘请他担任数据库管理员，而目的只是将他的签证从之前的雇主那里转出来，从而让创建Zenefits成为可能。
+In less than two years, the two of them have built Zenefits, an online service that helps companies manage their employee benefits, into a company with 450 employees.
+这家公司提供协助企业管理员工福利的在线服务。在不到两年的时间里，二人就令它成长为拥有450名员工的企业。
+But Mr. Srini, the chief technology officer, still has not been able to upgrade his visa to a more flexible type that reflects his role at the company. He is applying for a visa for people of extraordinary talent — nicknamed the “I am awesome” visa because it essentially requires applicants to meet about a dozen requirements to prove eminence in their fields.
+可是，首席技术官斯里尼还是没能把签证升级为更为灵活的类别，从而与自己在公司发挥的作用相匹配。他正在申请被人戏称为“我好棒”的杰出人才签证。之所以有这样的称呼，是因为它实质上要求申请者符合十多项要求，以证明自己在领域内表现突出。
+Zenefits plans for now to divert some potential San Francisco jobs to Vancouver, where Canadian immigration laws make it much easier to bring in foreign engineers.
+Zenefits目前计划，将一些本来会设在旧金山的工作岗位转去渥太华，因为加拿大的移民法对从国外聘请工程师的规定要宽松许多。
+He said that immigration was a “gnarly problem” but one thing the politicians fighting in Washington don’t understand is that for every foreign engineer Zenefits hires, it also hires more than 10 American citizens or permanent residents to do various jobs.
+斯里尼表示，移民是个“棘手问题”，不过在华盛顿打来打去的政客们不明白的是，Zenefits每聘请一名外国工程师，就会同时雇佣10名以上的美国公民或永久居民来从事各项工作。
+Two of the Obama administration’s other proposals could help Zenefits and other Silicon Valley companies with their recruiting.
+奥巴马政府提出的计划中，还有两项可能有益于Zenefits这样的硅谷企业的招聘工作。
+One would extend the amount of time that someone who has earned an American science or technology degree could work at a company after graduation. Currently the limit for such “optional practical training” is 29 months. Mr. Obama has directed immigration officials to begin a formal process to set more permissive rules for the program.
+首先是延长在美获得理工科学位的人士毕业后在一家公司工作的时间限制。眼下，这类“选择性实习”的期限为29个月。奥巴马已指示移民机构的官员启动正式程序，从而为这一项目设定更宽容的规定。
+A longer training period would help companies hire more workers than the current annual cap of 85,000 new H-1B visas allows.
+新H-1B签证目前的年度名额为8.5万人，而延长时限将有助于企业聘请更多的员工。
+Mr. Srini said provisions that would allow spouses of high-tech visa holders to work would also help. Zenefits has lost promising overseas job applicants because they had wives who did not want to give up the ability to work so that their husbands could take jobs in the United States.
+斯里尼称，允许高科技签证持有者的配偶工作的条款也会有所帮助。Zenefits流失了一些申请公司岗位的海外人才，因为他们的妻子不愿放弃工作让丈夫赴美工作。
+Glynn Morrison, a Scotsman on an H-1B visa who was one of Zenefits’ earliest employees, said his wife, a South Korean citizen, is still unable to work after nearly two years in the United States. She wants to be an accountant, but cannot legally work even as a basic bookkeeper. Although she has a bachelor’s degree, she is considering a second degree just to get a work permit, he said.
+持有H-1B签证的苏格兰人格林·莫里森(Glynn Morrison)是公司最早的员工之一。他表示，自己的妻子是韩国公民，来美近两年后还是没法工作。她想当会计，但是就连成为基本的簿记员也是不合法的。莫里森说，尽管妻子取得了学士学位，但她正在考虑单单为了取得工作许可而再拿一个学位。
+“It doesn’t make sense to have so many people in America not working,” Mr. Morrison said. “You want them to pay taxes.”
+“让这么多在美国的人口不去工作，实在不合理，”莫里森说。“你需要他们交税。”
+While Mr. Srini and Mr. Morrison will most likely find ways to stay in the United States for the long term, the future is more hazy for Charlotte Brugman, a Dutch citizen who is working at Samahope, a small San Francisco nonprofit that provides medical services in developing countries.
+斯里尼和莫里森很可能会找到办法长期待在美国，而荷兰公民夏洛特·布鲁格曼(Charlotte Brugman)的未来就没那么光明了。她在旧金山的一家小型非营利机构Samahope工作，而这家组织的工作是为发展中国家提供医疗服务。
+Ms. Brugman said that she and her Swiss husband, an M.B.A. student at the University of California, Berkeley, were trying to figure out what Mr. Obama’s proposals meant for them.
+布鲁格曼的丈夫是瑞士人，在加州大学伯克利分校(University of California, Berkeley)念工商管理硕士。她说二人正在努力搞清楚奥巴马的计划对他们来说到底意味着什么。
+Ms. Brugman’s ability to work is tied to the visa of her husband, Johannes Koeppel, who is on a Fulbright scholarship that entitles him to a more permissive visa. The spouses of other foreign students at the Berkeley business school cannot work at all.
+布鲁格曼的工作权与丈夫约翰内斯·科佩尔(Johannes Koppel)的签证相关联。作为富布赖特奖学金(Fulbright)获得者，科佩尔的签证具有更多权限。伯克利分校商学院其他外国学生的配偶根本无法工作。
+Although Mr. Koeppel is also building an online travel start-up with two American co-founders, when he finishes his business degree next year, it’s unclear how much longer he and his wife can stay in the country. Without a change in visa status, they would have to leave after 18 months.
+虽然科佩尔正在与两名美国联合创始人创建一个网络旅行初创公司，但是当他明年完成商业学位的学习时，不知道他与妻子还能在美国待多久。在不改变签证状态的情况下，他们必须在18个月之后离开。
+Mr. Koeppel is hoping to qualify for the founder’s visa that Mr. Obama has proposed. But based on the details released so far, he may be in a Catch-22: It’s difficult to get that visa without raising money from investors, and it’s difficult to raise money if the investors don’t know if the founder can stay in the country.
+科佩尔希望自己能满足奥巴马所提出的创始人签证的标准。不过，根据目前发布的具体信息，他或许陷入了类似“第二十二条军规”(Catch-22)的两难境地：如果不能从投资者那里筹集资金，他就很难拿到签证；而如果投资者不知道创始人是否能留在美国，资金的筹集也将难以进行。

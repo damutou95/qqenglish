@@ -1,0 +1,52 @@
+The patient didn't overdose on medication. She overdosed on grapefruit juice.
+病人并未用药过量，而是饮用了过多的西柚汁。
+The 42-year-old was barely responding when her husband brought her to the emergency room. Her heart rate was slowing, and her blood pressure was falling. Doctors had to insert a breathing tube, and then a pacemaker, to revive her.
+当丈夫把42岁的妻子带到急诊室时，她基本上已经不省人事了。她的心率在放缓，血压也在下降。为了挽救她的生命，医生不得不给她插入了人工气道，然后装上了起搏器。
+They were mystified: The patient's husband said she suffered from migraines and was taking a blood pressure drug called verapamil to help prevent the headaches. But blood tests showed she had an alarming amount of the drug in her system, five times the safe level.
+医生们对此感到费解：病人的丈夫说她患有偏头痛，正在服用名为异搏定(verapamil)的降压药来帮助控制头痛。但是血检显示，她体内的药物浓度已经达到了警戒值，是安全水平的5倍。
+Did she overdose? Was she trying to commit suicide? It was only after she recovered that doctors were able to piece the story together.
+是她用药过度了吗？还是她想自杀？直到她康复之后，医生们才了明白了个中缘由。
+"The culprit was grapefruit juice," said Dr. Unni Pillai, a nephrologist in St. Louis, Mo., who treated the woman several years ago and later published a case report. "She loved grapefruit juice, and she had such a bad migraine, with nausea and vomiting, that she could not tolerate anything else."
+密苏里州圣路易斯尤尼·皮赖(Unni Pillai)医生在几年前是这位女士的主治医生，事后他发表了一篇病例报告。他说：“凶手是西柚汁。她爱喝西柚汁。她的偏头痛很严重，还伴有恶心呕吐，其他的东西她都吃不进去。”
+The previous week, she had been subsisting mainly on grapefruit juice. Then she took verapamil, one of dozens of drugs whose potency is dramatically increased if taken with grapefruit. In her case, the interaction was life-threatening.
+来医院的前一周，她主要靠西柚汁度日，之后她服用了异搏定。在与西柚汁相互作用后，这种药物的药效会大幅提升。与西柚发生类似反应的药物有几十种，而对于她来说，这种反应危及到了生命。
+Last month, Dr. David Bailey, a Canadian researcher who first described this interaction more than two decades ago, released an updated list of medications affected by grapefruit. There are now 85 such drugs on the market, he noted, including common cholesterol-lowering drugs, new anticancer agents, and some synthetic opiates and psychiatric drugs, as well as certain immunosuppressant medications taken by organ transplant patients, some AIDS medications, and some birth control pills and estrogen treatments. (The full list is online; your browser must be configured to handle PDF files.)
+加拿大研究人员大卫·贝利博士(David Bailey)在20多年前第一次对这一现象进行了阐述。上个月，他公布了一份最新的清单，上面列明了会和西柚汁相互作用的药品。他指出目前市场上有85种类似药品会跟西柚汁发生反应，包括普通的降胆固醇药、新的抗癌药剂、部分合成镇静剂和精神类药物、器官移植病人所服用的免疫抑制剂、部分艾滋病药物、部分避孕药以及雌激素类药物。（网络上有完整的清单；你的电脑浏览器需要安装阅读PDF文件的软件。）
+"What drove us to write this paper was the number of new drugs that have come out in the last four years," said Dr. Bailey, a clinical pharmacologist at the Lawson Health Research Institute, who first discovered the interaction by accident in the 1990s.
+劳森健康研究所(Lawson Health Research Institute)临床药理学家贝利博士说，“发表这篇报告的初衷在于，过去的四年中有很多新药面世。”在上个世纪90年代，他在无意间首次发现了这种反应。
+How often such reactions occur, however, and how often they are triggered in people consuming regular amounts of juice is debated by scientists. Dr. Bailey believes many cases are missed because doctors don't think to ask if patients are consuming grapefruit or grapefruit juice.
+然而，对于反应发生的频率以及正常饮用西柚汁的人发生这种反应的概率，科学家们仍未有定论。贝利博士认为，很多病例都被遗漏了，因为医生们没有想到去问病人是否吃了西柚或喝了西柚汁。
+Even if such incidents are rare, Dr. Bailey argued, they are predictable and entirely avoidable. Many hospitals no longer serve juice, and some prescriptions carry stickers warning patients to avoid grapefruit.
+贝利博士表示，即使这类事件不常见，但它可以被预测而且完全是可以避免的。很多医院不再提供果汁，而且一些处方上还贴有警告病人不要食用西柚的标签。
+"The bottom line is that even if the frequency is low, the consequences can be dire," he said. "Why do we have to have a body count before we make changes?"
+他说，“总之，就算反应的发生概率较低，但后果可能不堪设想。为什么我们不在问题出现之前就做好准备？”
+For 43 of the 85 drugs now on the list, consumption with grapefruit can be life-threatening, Dr. Bailey said. Many are linked to an increase in heart rhythm, known as torsade de pointes, that can lead to death. It can occur even without underlying heart disease and has been seen in patients taking certain anticancer agents, erythromycin and other anti-infective drugs, some cardiovascular drugs like quinidine, the antipsychotics lurasidone and ziprasidone, gastrointestinal agents cisapride and domperidone, and solifenacin, used to treat overactive bladders.
+贝利博士说，名单上的85种药品当中，有43种药物在与西柚一起服用后可能会带来生命危险。在很多情况下，二者联合服用会使心跳加速，即发生所谓尖端扭转型室性心动过速，而这可能会危及性命。即便病人没有心脏病，这种情况也可能会发生，而且服用其他药物的病人也曾出现过这种反应，这些药物包括某些抗癌药剂、红霉素和其他抗感染类药物、一些心血管疾病药物比如奎尼丁(quinidine)、抗精神病药鲁拉西酮(lurasidone)和齐拉西酮(ziprasidone)、胃肠病药物西沙必利(cisapride)和多潘立酮(domperidone)，以及膀胱过度活动症药物索利那新(solifenacin)。
+Taken with grapefruit, other drugs like fentanyl, oxycodone and methadone can cause fatal respiratory depression. The interaction also can be caused by other citrus fruits, including Seville oranges, limes and pomelos; one published case report has suggested that pomegranate may increase the potency of certain drugs.
+而包括芬太尼(fentanyl)、羟考酮(oxycodone)和美沙酮(methadone)在内的其他药物与西柚混合服用后可能会产生严重的呼吸抑制反应。其他柑橘类的水果也可能会导致这一反应，包括酸橙、柠檬和柚子；一篇已发表的病例报告指出，石榴也可能会提升某些药物的药效。
+Older people may be more vulnerable, because they are more likely to be both taking medications and drinking more grapefruit juice. The body's ability to cope with drugs also weakens with age, experts say.
+老年人更容易发生这种反应，因为他们同时服用药物和西柚的可能性更大。专家们说，身体对药物的适应力会随着年龄的增长而下降。
+Under normal circumstances, the drugs are metabolized in the gastrointestinal tract, and relatively little is absorbed, because an enzyme in the gut called CYP3A4 deactivates them. But grapefruit contains natural chemicals called furanocoumarins, that inhibit the enzyme, and without it the gut absorbs much more of a drug and blood levels rise dramatically.
+在正常情况下，药物会在肠道中被代谢掉，而被吸收的只有少部分，因为肠道中有一种名为CYP3A4的酶会使药物成分失效。但是西柚含有一种名为呋喃香豆素的天然化学物质，它可以抑制这种酶的活性，而失去了这种酶的肠道会大量吸收药物，因此血液中的药物浓度也会大幅提升。
+For example, someone taking simvastatin (brand name Zocor) who also drinks a small 200-milliliter, or 6.7 ounces, glass of grapefruit juice once a day for three days could see blood levels of the drug triple, increasing the risk for rhabdomyolysis, a breakdown of muscle that can cause kidney damage.
+例如，服用辛伐他汀（simvastatin，药品名舒降之[Zocor]）的人如果每天饮用200毫升，即6.7盎司的少量西柚汁，其血液中的药物浓度可能会上升两倍，而这会增加病人患横纹肌溶解的风险，该病会导致肌肉分解，并造成肾脏损伤。
+Estradiol and ethinyl estradiol, forms of estrogen used in oral contraceptives and hormone replacement, also interact with grapefruit juice. In one case in the journal Lancet, a 42-year-old woman taking the birth control pill Yaz developed a very serious clot that threatened her leg several days after she started eating just one grapefruit a day, said Dr. Lucinda Grande, a physician in Lacey, Wash., and an author of the case report.
+用作口服避孕药和激素替代治疗的雌二醇和乙烯雌二醇是两种不同类型的雌激素，它们也可以与西柚汁相互作用。华盛顿州莱西市医师露辛达·格兰蒂(Dr. Lucinda Grande)说，医学期刊《柳叶刀》(Lancet)所刊登的一则病例显示，一位服用避孕药悦姿锭(Yaz)的42岁女性在开始每天食用一个西柚几天后，她的腿部出现了严重的血栓。格兰蒂博士是该病例报告的作者之一。
+But Dr. Grande also noted that the patient had other risk factors and the circumstances were unusual. "The reason we published it as a case report was because it was so uncommon," she said. "We need to be careful not to exaggerate this."
+但是格兰蒂同时注意到，病人还拥有一些其他的风险因素，而且情况比较特别。她说：“我们将此事作为病例报告的原因在于这一现象十分罕见。但为了避免夸大这一不良反应，我们有必要谨慎对待这一病例。”
+Some drugs that have a narrow "therapeutic range" - where having a bit too much or too little can have serious consequences - require vigilance with regard to grapefruit, said Patrick McDonnell, clinical professor of pharmacy practice at Temple University. These include immunosuppressant agents like cyclosporine that are taken by transplant patients to prevent rejection of a donor organ, he said.
+天普大学(Temple University)临床医学教授帕特里克·迈克唐奈尔(Patrick McDonnell)说，一些药物的“疗剂范围”较窄，稍有不足或过量可能会导致严重的后果，因此在服用时应避免食用西柚。他还说，接受器官移植的病人会服用抗排异反应的免疫抑制剂，比如环孢霉素，这些病人也应注意这一点。
+Still, Dr. McDonnell added, most patients suffering adverse reactions are consuming large amounts of grapefruit. "There's a difference between an occasional section of grapefruit and someone drinking 16 ounces of grapefruit juice a day," he said.
+然而，迈克唐奈尔博士补充道，多数发生这种不良反应的病人往往摄入了大量的西柚。他说，“偶尔吃一片西柚和每天喝16盎司的西柚汁还是有区别的。”
+And, he cautioned, "Not all drugs in the same class respond the same way." While some statins are affected by grapefruit, for instance, others are not.
+同时，他警告说，“在同类药品中，并不是所有的药物都会出现这种现象。”例如，有些他汀类药物会与西柚相互作用，有些则不会。
+Here is some advice from experts for grapefruit lovers:
+以下是专家们对西柚爱好者的建议：
+If you take oral medication of any kind, check the list to see if it interacts with grapefruit. Make sure you understand the potential side effects of an interaction; if they are life-threatening or could cause permanent injury, avoid grapefruit altogether. Some drugs, such as clopidogrel, may be less effective when taken with grapefruit.
+在服用任何口服药物之前，请参照该清单核对该药是否会与西柚相互反应。务必确保你已了解这种相互反应可能会产生的副作用；如果这种副作用会带来生命危险或永久性伤害，请避免在服用药物时食用西柚。而对于氯吡格雷(clopidogrel)这一类的药物来说，西柚可能会降低它们的药效。
+If you take one of the listed drugs a regular basis, keep in mind that you may want to avoid grapefruit, as well as pomelo, lime and marmalade. Be on the lookout for symptoms that could be side effects of the drug. If you are on statins, this could be unusual muscle soreness.
+如果你在经常性地服用清单上的药品，请记住，最好是避免食用西柚、柚子、柠檬和橘子果酱。也请注意药物本身副作用可能会带来的症状。例如，服用他汀类药物可能会有异样的肌肉酸痛感。
+It is not enough to avoid taking your medicine at the same time as grapefruit. You must avoid consuming grapefruit the whole period that you are on the medication.
+不仅不能在服药的同时食用西柚，也不能在整个服药期间食用西柚。
+In general, it is a good idea to avoid sudden dramatic changes in diet and extreme diets that rely on a narrow group of foods. If you can't live without grapefruit, ask your doctor if there's an alternative drug for you.
+总之，避免餐饮上的大幅变化总是好的，而且我们也要避免养成仅依赖于几种食物的极端饮食习惯。如果你真的无法离开西柚，请向医生咨询是否可以换药。

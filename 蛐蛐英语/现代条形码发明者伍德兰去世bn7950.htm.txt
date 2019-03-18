@@ -1,0 +1,56 @@
+N. Joseph Woodland, who six decades ago drew a set of lines in the sand and in the process conceived the modern bar code, died on Sunday at his home in Edgewater, N.J. He was 91.
+60年前，N·约瑟夫·伍德兰(N. Joseph Woodland)在沙地上划出一组线条，并由此产生现代条形码的创意。上周日他在新泽西州埃奇沃特的家中逝世，享年91岁。
+His daughter Susan Woodland confirmed the death.
+他的女儿苏珊·伍德兰(Susan Woodland)证实了他的死亡。
+A retired mechanical engineer, Mr. Woodland was a graduate student when he and a classmate, Bernard Silver, created a technology — based on a printed series of wide and narrow striations — that encoded consumer-product information for optical scanning.
+伍德兰生前是一名退休的机械工程师，在他还是研究生时，他和一名叫伯纳德·西尔弗(Bernard Silver)的同学发明一种技术：借助一组打印的宽窄条纹，对消费产品信息进行编码，以便光学扫描。
+Their idea, developed in the late 1940s and patented 60 years ago this fall, turned out to be ahead of its time. But it would ultimately give rise to the universal product code, or U.P.C., as the staggeringly prevalent rectangular bar code is officially known.
+他们的创意在上世纪40年代末形成，并在60年前那一年的秋季获得专利。该技术在当时超前于时代，但最终带来通用产品代码（Universal Product Code，简称UPC），即当今普遍得惊人的矩形条形码。
+The code now adorns tens of millions of different items, scanned in retail establishments around the world at the rate of more than five billion a day.
+这种条形码现在被印制在数千万不同商品上，每天在世界各地的零售场所被扫描逾50亿次。
+The bar code would never have developed as it did without a chain of events noteworthy even in the annals of invention etiology:
+如果没有下列的一系列事件，条形码的发展就不会是这样；即便是在发明起源的编年史中，这一系列事件也可圈可点：
+Had Mr. Woodland not been a Boy Scout, had he not logged hours on the beach and had his father not been quite so afraid of organized crime, the code would very likely not have been invented in the form it was, if at all.
+假如伍德兰不曾是一名童子军；假如他不曾在海滩上耗费大量时间；假如他的父亲不曾对有组织犯罪如此恐惧，那么条形码的发明经过就很可能不是这样（如果它仍能得到发明的话）。
+Norman Joseph Woodland was born in Atlantic City on Sept. 6, 1921. As a Boy Scout he learned Morse code, the spark that would ignite his invention.
+诺曼·约瑟夫·伍德兰于1921年9月6日出生于大西洋城。作为一名童子军，他学会了摩尔斯电码(Morse code)，这将成为点燃他发明的火花。
+After spending World War II on the Manhattan Project at Oak Ridge National Laboratory in Tennessee, Mr. Woodland resumed his studies at the Drexel Institute of Technology in Philadelphia (it is now Drexel University), earning a bachelor’s degree in 1947.
+第二次世界大战期间，他在田纳西州橡树岭国家实验室(Oak Ridge National Laboratory)参与了曼哈顿计划（Manhattan Project，即研制原子弹的项目——译注）。战后，伍德兰回到费城的爵硕技术学院(Drexel Institute of Technology)继续学业，并在1947年获得学士学位。这所学院就是现在的爵硕大学(Drexel University)。
+As an undergraduate, Mr. Woodland perfected a system for delivering elevator music efficiently. His system, which recorded 15 simultaneous audio tracks on 35-millimeter film stock, was less cumbersome than existing methods, which relied on LPs and reel-to-reel tapes.
+作为一名大学毕业生，伍德兰完善了一个高效率播放电梯音乐的系统。他的系统是把15道同步音轨录制在35毫米胶片上，比采用黑胶唱片和盘式磁带的原有方法更加轻便。
+He planned to pursue the project commercially, but his father, who had come of age in “Boardwalk Empire”-era Atlantic City, forbade it: elevator music, he said, was controlled by the mob, and no son of his was going to come within spitting distance.
+他想要把这个设计推向市场，但遭到了父亲的禁止，他的父亲在电视剧《海滨帝国》(Boardwalk Empire)所描述的上世纪早期的大西洋城长大。他父亲说，电梯音乐是由黑社会控制的，他的儿子应该远远避开。
+The younger Mr. Woodland returned to Drexel for a master’s degree. In 1948, a local supermarket executive visited the campus, where he implored a dean to develop an efficient means of encoding product data.
+伍德兰回到爵硕去读硕士学位。1948年，一家当地超市的高管拜访了校园，恳求一名系主任开发一种高效率的对产品数据进行编码的方法。
+The dean demurred, but Mr. Silver, a fellow graduate student who overheard their conversation, was intrigued. He conscripted Mr. Woodland.
+系主任对此敷衍了事，但伍德兰的同学西尔弗在不经意间听到了这番交谈，由此产生兴趣。他把伍德兰拉了进来。
+An early idea of theirs, which involved printing product information in fluorescent ink and reading it with ultraviolet light, proved unworkable.
+他们早期的构想之一，是用荧光墨水印制产品信息，然后用紫外光读取，但这被证明不可行。
+But Mr. Woodland, convinced that a solution was close at hand, quit graduate school to devote himself to the problem. He holed up at his grandparents’ home in Miami Beach, where he spent the winter of 1948-49 in a chair in the sand, thinking.
+但伍德兰确信解决方法必定近在咫尺，于是他从研究生院退学，去专心研究这一问题。他把自己关在迈阿密海滩上的祖父母家里。1948年到1949年的那个冬天，他长时间坐在一把沙滩椅上沉思。
+To represent information visually, he realized, he would need a code. The only code he knew was the one he had learned in the Boy Scouts.
+他意识到，要以视觉形式呈现信息，就必须有一种编码。而他知道的唯一编码，是在童子军里学到的那种。
+What would happen, Mr. Woodland wondered one day, if Morse code, with its elegant simplicity and limitless combinatorial potential, were adapted graphically? He began trailing his fingers idly through the sand.
+一天，海伍德想到，假如优雅简约、组合无限的摩尔斯电码被改编成图形，会怎么样呢？他开始无所事事地在沙子上划动自己的手指。
+“What I’m going to tell you sounds like a fairy tale,” Mr. Woodland told Smithsonian magazine in 1999. “I poked my four fingers into the sand and for whatever reason — I didn’t know — I pulled my hand toward me and drew four lines. I said: ‘Golly! Now I have four lines, and they could be wide lines and narrow lines instead of dots and dashes.’ ”
+“我接下来将告诉你的事听起来像个童话，”海伍德在1999年对《史密森尼》杂志(Smithsonian)表示，“我把四根手指插入沙子，不知为何向着自己划出四条线。当时我说，‘天哪！现在我有四条线，它们可宽可窄，可以代替点和线。’”
+That transformative sweep was merely the beginning. “Only seconds later,” Mr. Woodland continued, “I took my four fingers — they were still in the sand — and I swept them around into a full circle.”
+这一启示性的划线之举只不过是个开始。“仅仅几秒钟之后，”伍德兰继续道，“我用仍在沙子里的四根手指，划出一个整圆。”
+Mr. Woodland favored the circular pattern for its omnidirectionality: a checkout clerk, he reasoned, could scan a product without regard for its orientation.
+伍德兰青睐圆形图案的全向性。他的推理是，这样的话，收银员在扫描一件商品时就无需顾虑其指向。
+On Oct. 7, 1952, Mr. Woodland and Mr. Silver were awarded United States patent 2,612,994 for their invention — a variegated bull’s-eye of wide and narrow bands — on which they had bestowed the unromantic name “Classifying Apparatus and Method.”
+1952年10月7日，伍德兰和西尔弗的发明获得了美国 2612994号专利，他们给这种由粗细不同的条纹组成的圆形线条带，起了一个很朴实的名字：“分类装置和方法”(Classifying Apparatus and Method)。
+But that method, which depended on an immense scanner equipped with a 500-watt light, was expensive and unwieldy, and it languished for years.
+但这种方法必须依靠一台装有一盏500瓦灯的大型扫描仪，昂贵而使用不便，因此多年打不开局面。
+The two men eventually sold their patent to Philco for $15,000 — all they ever made from their invention.
+最后，这两个人将这项专利以1.5万美元卖给了飞歌公司(Philco)，这是他们从自己的发明赚到的全部的钱。
+By the time the patent expired at the end of the 1960s, Mr. Woodland was on the staff of I.B.M., where he worked from 1951 until his retirement in 1987.
+上世纪60年代末这项专利过期时，伍德兰在IBM公司工作，他在那里从1951年一直做到1987年退休。
+Over time, laser scanning technology and the advent of the microprocessor made the bar code viable. In the early 1970s, an I.B.M. colleague, George J. Laurer, designed the familiar black-and-white rectangle, based on the Woodland-Silver model and drawing on Mr. Woodland’s considerable input.
+随着时间的推移，激光扫描技术和微型处理器相继问世，使条形码成为可行的解决方案。上世纪70年代早期，IBM的一名同事，乔治·J·劳雷尔(George J. Laurer)，在伍德兰-西尔弗模型的基础上，设计了如今无所不在的黑白矩形，在此过程中汲取了伍德兰的很多建议。
+Thanks largely to the work of Alan Haberman, a supermarket executive who helped select and popularize the rectangular bar code and who died in 2011, it was adopted as the industry standard in 1973.
+得益于超市经理阿兰·哈伯曼(Alan Haberman)采用并推广这种矩形条形码，这种技术在1973年被采纳为行业标准。哈伯曼在2011年去世。
+Mr. Woodland, who earned a master’s in mechanical engineering from Syracuse University in the 1950s, received the National Medal of Technology and Innovation in 1992. Last year, he was inducted into the National Inventors Hall of Fame. (Mr. Silver, who died in 1963, was inducted posthumously along with him.)
+1992年，伍德兰获得国家技术创新奖(National Medal of Technology and Innovation)，他在上世纪50年代从雪城大学(Syracuse University)获得机械工程硕士学位。去年，他被列入美国发明家名人堂(National Inventors Hall of Fame)。（1963年去世的西尔弗也和他一起被列入名人堂。）
+Besides his daughter Susan, Mr. Woodland is survived by his wife, the former Jacqueline Blumberg, whom he married in 1951; another daughter, Betsy Karpenkopf; a brother, David; and a granddaughter.
+除了女儿苏珊外，伍德兰去世后还留下妻子，原名为杰奎琳·布隆伯格(Jacqueline Blumberg)，他们在1951年结婚；还有另一个女儿贝奇·卡彭考福特(Betsy Karpenkopf)；兄弟戴维(David)；以及一个外孙女。

@@ -1,0 +1,48 @@
+WASHINGTON — The French economist Jean Tirole, a student of imperfect markets, has spent decades dissecting the many industries where competition does not fulfill the textbook promise that prices will be low and quality will be high.
+华盛顿——研究不完全市场的法国经济学家让·梯若尔(Jean Tirole)花了数十年的时间对很多产业进行仔细分析，在这些产业中，市场竞争并没有像课本中的理论那样，促使价格降低、质量提高。
+Mr. Tirole’s work has helped governments to improve cable television service, to restrict credit card fees and to crack down on harmful monopolies.
+梯若尔的研究工作曾帮助政府改善有线电视服务，限制信用卡费，打击有害的垄断行为。
+And on Monday, it won him the Nobel Memorial Prize in Economic Science.
+周一，梯若尔凭借这些研究成果赢得了诺贝尔经济学奖。
+Mr. Tirole’s work has clarified “what sort of regulations do we want to put in place so large and mighty firms will act in society’s interest,” Tore Ellingsen, the chairman of the selection committee, said after the announcement ceremony.
+诺贝尔奖评委会主席图勒·埃林森(Tore Ellingsen)在宣布仪式结束后表示，梯若尔的研究工作阐明了“我们应该采用哪种监管举措，才能让力量很强的大公司在经营时符合社会的利益”。
+The choice of Mr. Tirole, a professor at the Toulouse School of Economics, comes after the 2008 financial crisis revealed shortcomings in the regulation of banks and other financial firms, and with increasing scrutiny, particularly in Europe, about the market power of technology companies like Google and Apple.
+在图卢兹经济学院(Toulouse School of Economics)担任教授的梯若尔获得此奖的背景是，2008年的金融危机揭露了银行及其他金融企业监管方面的缺陷，而且谷歌(Google)、苹果(Apple)等科技企业的市场支配力目前受到日益严格的关注，特别是在欧洲。
+It is also the second consecutive year that the committee has honored an economist whose work essentially assumes that markets are often inefficient, challenging a widely held view in academia long associated with the University of Chicago economics department.
+这是诺贝尔奖评委会连续第二年将经济学奖颁发给持下述观点的经济学家：他们的研究成果实质上假定市场经常缺乏效率。这对长期受芝加哥大学(University of Chicago)经济学系影响的学术界的普遍观点提出了挑战。
+“Jean Tirole, along with others, established a good theoretical foundation for the non-Chicago view of things that markets fail in various ways,” said John Kwoka, a professor of economics at Northeastern University in Boston who specializes in competition and regulation. “It’s important to think hard about the reasons that they fail and it’s important to think hard about the consequences.”
+“让·梯若尔及其他研究人员为非芝加哥学派的观点打下了良好的理论基础，这种观点认为市场在很多方面是失灵的，”西北大学(Northeastern University)研究竞争与监管的经济学教授约翰·夸克(John Kwoka)说。“认真思考市场失灵的原因及其后果是非常重要的。”
+Monopolies or a few companies dominate many markets. They hold the power to keep prices artificially high, and they often lack incentives to innovate or improve quality. Cable and electric companies are ready examples in the United States.
+垄断企业，或者少数的企业，掌控着许多市场。它们有人为抬高价格的影响力，这些公司通常缺乏创新或提高质量的动力。美国的有线电视公司及电力公司就是现成的例子。
+Economists have long recognized that government regulation of such markets could produce better outcomes for society. Mr. Tirole, 61, is a pioneer in the application of mathematics, including game theory, to devising those rules. His work is largely theoretical, yet it has translated easily to practical use.
+经济学家很早就认识到，政府对此类市场的监管，能够为社会带来更好的效果。61岁的梯若尔是运用数学，包括博弈论，来制定监管规则的先锋。他的研究成果主要是理论上的，但这些理论很容易转化为实际应用。
+His work is also wide ranging. A description of his influence published by the prize committee cited more than 60 papers, an unusually large number.
+梯若尔的研究涉及很多领域。评委会在介绍他的影响时，引用了60多篇论文——数量相当大。
+Mr. Tirole’s achievement was in “writing prolifically, thinking creatively, covering a lot of territory and adding important nuance in a lot of areas,” said Lawrence J. White, a professor of economics at New York University.
+纽约大学(New York University)经济学教授劳伦斯·J·怀特(Lawrence J. White)表示，梯若尔的成就在于“写了很多文章，进行创造性思考，涉猎诸多领域，给很多领域带来重要的微妙变化”。
+His work, beginning in the 1980s, was in part a response to the need for new rules as governments in Europe divested state monopolies, seeking to encourage investment and innovation while preventing windfall profits.
+梯若尔的研究始于20世纪80年代。当时欧洲国家的政府正在从国有垄断企业中撤资，既想促进投资和创新，又想避免企业大发横财，因而需要制定新的规则。梯若尔的研究在一定程度上就是对这种需求的回应。
+Mr. Tirole did not offer a single set of new rules. Rather, he applied a set of general principles to the circumstances of each industry to suggest appropriate policies, often reflecting a nuanced balancing of costs and benefits.
+梯若尔没有提出一套新规则，而是将一系列通用的原则应用到各个行业的情况中，提出适当的政策建议。这些建议通常反映了成本与收益的微妙平衡。
+Joshua Gans, an economist at the University of Toronto, compared Mr. Tirole with Louis Pasteur as the rare example of a laureate whose work has both advanced theoretical understanding and directly affected daily life.
+多伦多大学(University of Toronto)经济学家乔舒亚·甘斯(Joshua Gans)将梯若尔与路易·巴斯德(Louis Pasteur)相提并论，称他是少有的既推动了理论理解，又直接影响日常生活的获奖者。
+Mr. Gans pointed in particular to Mr. Tirole’s work on the deregulation of communications networks. Homes are generally connected to networks by a single line, owned by a single company. Governments seeking to foster competition can make that company sell access to its rivals. But the price is crucial. Too high, and consumers will see little competition. Too low, and the company itself will be unable to serve customers at a profit. In effect, if a company sells both iron and goods made from iron, the question is how much it should charge for the iron.
+甘斯特别提到了梯若尔在放松通讯网络监管方面的研究成果。各个家庭通常通过一家公司的单一线路接入网络，力图促进竞争的政府可以让那家公司将入口出售给其竞争对手。但价格非常关键。价格太高，用户就看不到竞争。价格太低，公司自身就无法通过为用户提供服务来获利。实质上相当于，如果一家公司同时出售铁及铁制品，问题就是公司对铁的定价应该是多少。
+The pricing model developed by Mr. Tirole and a now-deceased collaborator, Jean-Jacques Laffont, is the basis of current law in Europe, New Zealand, Australia and other countries. But not in the United States. Mr. Gans said the difference explained why consumers in those other countries generally enjoyed lower prices and better service.
+梯若尔与已故的合作者让-雅克·拉丰(Jean-Jaques Laffont)制定的定价模型，是欧洲、新西兰、澳大利亚及其他国家现行相关法律的依据。但这其中不包括美国。甘斯说，这个区别解释了为什么其他国家的消费者往往能够享受到更低的价格和更好的服务。
+“The alternative is what happens in the U.S. where Comcast doesn’t give access to its competitors so Time Warner has to decide whether to build over the top of Comcast or just to stay out of their markets,” Mr. Gans said. “Had there been access regulation, maybe Time Warner and Comcast would be competing more directly.”
+“美国出现的是另一种情况，康卡斯特(Comcast)不会把入口提供给竞争者，因此时代华纳(Time Warner)必须决定，是在康卡斯特之外建立新的网络，还是远离这一市场，”甘斯说。“如果有入口方面的监管，或许时代华纳和康卡斯特就能够更直接地竞争。”
+The United States has taken Mr. Tirole’s work on antitrust enforcement more seriously. Beginning in the 1970s, many courts and regulators rejected the idea that companies could increase market power by buying their suppliers. A car company couldn’t squeeze consumers by buying a parts maker, the theory went, because it still would face the same competition from other carmakers.
+美国已经开始更加重视梯若尔在反垄断执法方面的研究成果。从上世纪70年代开始，许多法院和监管机构都拒绝承认，企业可以通过收购供应商来提高市场势力。这种理论认为，汽车公司收购零部件制造商，不会压榨消费者，因为它面对的来自其他汽车制造商的竞争没有变。
+Mr. Tirole’s work “successfully challenged” this view, the Nobel Prize committee said on Monday. He brought together evidence that such deals could have negative consequences and articulated a unifying theory that has proved influential.
+梯若尔的研究成果“成功地挑战了”这个观点，诺贝尔奖委员会周一称。他收集了证据，证明此类交易可能会产生负面影响，还阐述了一个普遍的理论，其理论后来产生了很大影响。
+“So now, when there is a major merger that involves important vertical relationships, the authorities take a more nuanced view,” said Mr. White, who served as chief economist of the antitrust division of the Justice Department in the early 1980s. “And we have Tirole in part to thank.”
+“所以，现在发生大型并购，并且涉及重要的纵向关系时，官方就会采取更为审慎的态度，”上世纪80年代初曾在司法部反垄断部门担任首席经济学家的怀特说，“我们在一定程度上要感谢梯若尔。”
+Mr. White said a recent example came in 2011, when the government conditioned Comcast’s acquisition of NBCUniversal on the terms of a deal that made NBCUniversal’s content available to Comcast’s rivals.
+怀特说，最近的一个例子是在2011年，康卡斯特收购NBCUniversal的尝试。政府设定的条件是，要让康卡斯特的竞争对手可以获得NBCUniversal的内容。
+Mr. Tirole’s work also served as the basis for the European Union’s regulation of credit card interchange fees, and it has informed investigations by European regulators of the pricing policies of technology companies.
+梯若尔的研究成果也是欧盟信用卡交换费的监管依据，并且为欧洲监管机构针对科技公司定价政策的调查活动提供了启发。
+“We owe Jean Tirole so much,” Joaquín Almunia, the European Commission official responsible for competition, said in a statement Monday. Mr. Almunia has pressed investigations of Google’s market power and of bank pricing practices.
+“我们亏欠让·梯若尔的太多了，”欧盟负责竞争事务的委员华金·阿尔穆尼亚(Joaquín Almunia)周一在一份声明中说。阿尔穆尼亚曾推动对谷歌的市场势力和银行的定价行为开展调查。
+The economics prize is the newest Nobel, created in 1969 to celebrate the 300th anniversary of the Bank of Sweden, the world’s first central bank. It is the first time since 1999 an American did not number among the winners.
+经济学奖是设立时间最短的诺贝尔奖，始于1969年，当时是为了纪念世界上第一家中央银行瑞典银行(Bank of Sweden)成立300周年。这是1999年以来，首次出现美国人在经济学奖中颗粒无收的情况。

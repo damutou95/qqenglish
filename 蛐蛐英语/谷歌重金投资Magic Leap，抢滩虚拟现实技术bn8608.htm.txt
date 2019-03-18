@@ -1,0 +1,52 @@
+If Google has its way, hammerhead sharks will swim through your office, elephants will fit in the palm of your hand and dragons will fly among the birds.
+如果事情遂了谷歌(Google)的心愿，那么双髻鲨就可以在你的办公室里游动，大象可以站在你的手心里，龙也会和群鸟一起飞翔。
+These fanciful visions are being dreamed up by Magic Leap, a start-up making augmented-reality technology. On Tuesday, it landed Google as its biggest investor.
+这些奇幻景象，是增强现实技术领域的初创企业Magic Leap的一些设想。本周二，谷歌成了该公司的最大投资者。
+Valuing Magic Leap at about $2 billion, the $542 million cash infusion from Google and other investors immediately vaulted the shadowy start-up into the upper echelons of young technology companies.
+Magic Leap以20亿美元左右（约合120亿元人民币）的估值，从谷歌和其他投资者那里筹集到5.42亿美元的现金，立刻让这个默默无闻的初创公司跻身于年轻技术公司中佼佼者的行列。
+But as is so often the case with tech start-ups, Magic Leap’s soaring valuation is based on little more than an ambitious vision and some nascent code. Magic Leap, which is based far from Silicon Valley in the suburbs of Miami, has no revenue — and no products currently on the market.
+但是，Magic Leap估值的飙升，基本上就是依托于一个​​雄心勃勃的愿景和一些尚未成熟的代码，除此之外别无他物。在科技产业的初创公司里，这样的情况也很常见。Magic Leap远离硅谷，坐落在迈阿密郊区，没有营收——而且也没有已经面世的产品。
+“Until we see the device, you have to be a little skeptical,” said Brian Blau, an analyst at Gartner who has worked with virtual reality for two decades.
+“在看到设备之前，肯定会有点怀疑，”高德纳(Gartner)的分析师布莱恩·布劳(Brian Blau)说，他在虚拟现实领域有20年的经验。
+Details about Magic Leap’s plans remain sketchy. The company declined requests for an interview on Tuesday. On its website, the company has a few videos and images that depict rich animations displayed over what people see with the naked eye. Seahorses float above children in a schoolroom. A yellow submarine hovers near an outdoor promenade. An astronaut walks through a train station.
+Magic Leap制定的计划，在细节上仍然很粗略。本周二，该公司拒绝了采访请求。Magic Leap的官方网站上，有几个视频和图片，内容是人们可用裸眼看到的丰富动画：教室里，海马漂浮在孩子们的头上；户外的步行街附近，一艘黄色潜水艇在盘旋；火车站里，一名宇航员在行走。
+So-called augmented reality technology already exists, but remains primitive. Google itself has gone further than any other company to bring this concept to market with Google Glass, its interactive spectacles.
+业界所说的“增强现实”(augmented reality)技术其实已经存在，只是仍然处于原始阶段。在把这个概念推向市场的过程中，谷歌本身就走在了其他所有公司前面，它推出了交互式设备谷歌眼镜(Google Glass)。
+But Magic Leap appears to have significantly broader aims, describing an ambitious vision for displaying rich interactive graphics alongside what people see naturally, using what it calls a dynamic digitized lightfield signal.
+但Magic Leap的目标似乎要宽泛得多，它勾勒了一个雄心勃勃的愿景：使用它所说的“动态数字化光场信号”技术，把丰富的交互式图形，和人们本来就可以看到的东西一并展示出来。
+“Current technologies we use to access the digital world limit, or even take us away, from the real world,” Magic Leap’s website reads.
+“我们目前使用的走向数字世界的技术，会限制我们与现实世界的接触，甚至让我们脱离现实世界，”Magic Leap的网站上写道。
+Google’s role as the lead investor is significant as it jockeys for position in a rapidly shifting technology industry.
+谷歌牵头进行的这轮投资有重要的意义，因为它正在一个快速变化的科技行业中抢占滩头。
+Just seven months ago, Facebook stunned Silicon Valley with the $2 billion acquisition of Oculus, a virtual reality company. Though the social network’s interest in the maker of a virtual reality headset was a surprise to many, Facebook believes Oculus can be a new sort of operating system as people continue to find new ways to interact with computers.
+就在七个月前，Facebook斥资20亿美元收购了虚拟现实技术公司Oculus，震惊了硅谷。虽然Facebook对于这个虚拟现实头戴设备制造商的兴趣，出乎很多人的意料，但Facebook认为，在人们不断寻找新的方法来与计算机交互的时候，Oculus可以成为一种新的操作系统。
+Google views Magic Leap in much the same way, according to people briefed on the company’s thinking. As people become more comfortable with wearable technology, technologies like Magic Leap are likely to become more commonplace.“Magic Leap is going beyond the current perception of mobile computing, augmented reality and virtual reality,” Magic Leap’s founder and chief executive, Rony Abovitz, said in a statement. “We are transcending all three, and will revolutionize the way people communicate, purchase, learn, share and play.”
+谷歌对Magic Leap的看法也大致相同，一些了解该公司思路的人透露。随着人们越来越习惯可穿戴技术，像Magic Leap这样的技术就会变得更加普遍。“Magic Leap超越了人们目前对移动计算、增强现实和虚拟现实的看法，”Magic Leap创始人兼首席执行官罗尼·阿伯维茨(Rony Abovitz)在一份声明中说。“我们正在这三个方面进行超越，这将会彻底改变人们的沟通、购物、学习、分享和玩游戏的方式。”
+Bing Gordon, a partner at Kleiner Perkins Caufield & Byers, another investor in Magic Leap, said that augmented reality could become a new platform — one that he argued could outstrip mobile devices in popularity. He compared the potential advancements to the rise of cinema: a new way of seeing the world. In this case, the start-up’s technology allows highly realistic graphics to appear alongside real-life objects.
+凯鹏华盈(KPCB)是Magic Leap的另一位投资者，该公司合伙人宾·戈登(Bing Gordon)说，增强现实将成为一个新的平台，他认为，这种平台的人气有可能超越移动设备。戈登把增强现实的潜在影响和电影院的兴起相提并论，认为它们都提供了一种看世界的新方式。在Magic Leap的例子中，该公司是用技术，让​极为逼真的图形和现实生活中的物体一起出现。
+The difference, according to Mr. Gordon, is that Magic Leap is better coordinated with how the human eye and brain process images, making the computer graphics feel, and move, more naturally.
+不同之处在于，戈登说，Magic Leap能更好地协调人眼和大脑处理图像的方式，让电脑图形的运动更自然，看起来也更自然。
+Augmented reality could obviously be used to enhance video games, something that Mr. Gordon, as a former executive of the game company Electronic Arts, is familiar with. But he argued that the technology could be applied to an array of other applications, creating a real-life equivalent to the magical newspaper from the “Harry Potter” books.
+很显然，增强现实技术可以用于改善电子游戏，戈登曾是游戏公司艺电(Electronic Arts)的高管，对这个领域很熟悉。但他认为，这项技术还可以有其他一系列用途，比如创造出《哈利·波特》(Harry Potter)小说中那种魔法报纸似的东西。
+“For a while, we thought it was technically impossible, and then financially impossible,” he said. “Now it’s technically and financially possible.”
+“有一段时间，我们认为这在技术上不可能办到，因此在经济上也是一条死路，”他说。“现在它在技术和经济上都是可能的。”
+With more than $60 billion in the bank, Google cannot seem to find enough ways to invest its money. Google Ventures, the company’s venture capital arm, has invested in diverse companies including Blue Bottle Coffee and Uber, the on-demand taxi service.
+谷歌有超过600亿美元的现金，多到似乎找不到足够多的方法来投资手里的钱。谷歌风投(Google Ventures)是谷歌的风险投资部门，负责把资金投给各种公司，包括蓝瓶咖啡(Blue Bottle Coffee)和按需租车服务Uber。
+Google X, the company’s research division, is the hatchery for all kinds of “moonshots” including self-driving cars, a drone-based delivery service called Project Wing and, perhaps most notably, Google Glass.
+谷歌的研究部门Google X负责孵化各种奇思妙想，比如无人驾驶汽车、无人机配送服务Project Wing，其中最引人瞩目的也许就是谷歌眼镜。
+The tech giant has spent much of the last two years trying to gain entry to essentially everything with an Internet connection, through projects including the Open Automotive Alliance, intended to bring its Android operating system to cars, and its acquisition of Nest, a maker of Internet-connected thermostats and smoke alarms.
+在过去两年中，这个科技巨头花了很多时间，要让几乎各种东西都连接到互联网上，它开展的项目包括“开放汽车联盟”(Open Automotive Alliance)，目的是将其Android操作系统搭载到汽车上，它还收购了联网温控器和烟雾报警器制造商Nest。
+But the investment in Magic Leap comes from Google Inc., not one of its investment arms. This suggests that it is less concerned with the near-term business prospects of augmented reality than in forging a long-term strategic relationship with Magic Leap. Sundar Pichai, Google’s senior vice president for Android, Chrome and apps, will join the Magic Leap board.
+但Magic Leap获得的投资来自谷歌总公司，而不是它旗下的投资部门。这表明，谷歌不太关心的增强现实的短期业务前景，而是更重视与Magic Leap形成长期的战略合作关系。谷歌负责Android、Chrome和应用业务的高级副总裁桑达尔·皮查伊(Sundar Pichai)将加入Magic Leap董事会。
+The investment represents a huge bet by Google and its consortium of investors. But such wagers are quickly becoming the norm for the likes of Google and Facebook, two companies not content to rest on their already hugely profitable existing business models.
+在这轮融资中，谷歌和其他投资者押下了一个巨大的赌注。但对于谷歌和Facebook这样的公司来说，这样的赌注正迅速成为常态；谷歌和Facebook都不满足于自身已经利润丰厚的现有业务模式。
+“They’re willing to take risks on the belief that their business will not be around forever,” Mr. Gordon said. “The great tech C.E.O.s are all simultaneously maxing out their current model while also looking around at future models and placing big bets.”
+“它们愿意承担风险，因为它们相信，自己的业务模式不可能一直不变，”戈登说。“杰出的技术公司CEO都在一边尽可能地靠现有模式取得更多收益，一边四处寻找未来的模式，并且押下大笔赌注。”
+Other investors in Series B, or the second major financing round, include Qualcomm Ventures, Legendary Entertainment, the private equity firm KKR, Vulcan Capital, Kleiner Perkins, Andreessen Horowitz and Obvious Ventures.
+这次是Magic Leap的第二轮重大融资，其他投资者包括高通风险投资公司(Qualcomm Ventures)、传奇娱乐公司(Legendary Entertainment)、私募股权公司KKR、火神资本(Vulcan Capital)、凯鹏华盈、安德森·霍洛维茨(Andreessen Horowitz)，以及Obvious Ventures。
+The group, a consortium of some of the biggest names in venture capital and private equity, are all betting big money on “an eclectic group of visionaries, rocket scientists, wizards and gurus from the fields of film, robotics, visualization, software, computing and user experience,” as Magic Leap describes itself on its website.
+风险投资和私募股权界的一些大牌汇聚一堂，押下大笔资金，支持一群“不拘一格的空想家、火箭科学家、巫师，以及电影、机器人、可视化、软件、计算机和用户体验领域的大师”，Magic Leap在自己的网站上写道。
+So far, however, augmented reality and virtual reality have remained more the stuff of science fiction than of the everyday Internet.
+但是迄今为止，增强现实和虚拟现实仍然更多地出现在科幻小说中，而不是我们日常使用的互联网上。
+Google’s Glass, which essentially places a tiny computer screen on an eyeglass lens, is available for $1,500 in “open beta,” a public test of the device. Oculus does not have a product ready for buyers yet.
+谷歌眼镜实际上是在眼镜片上放置了一个微小的电脑屏幕，它的“公测版”售价为1500美元，Oculus公司还没有推出任何可供购买的产品。

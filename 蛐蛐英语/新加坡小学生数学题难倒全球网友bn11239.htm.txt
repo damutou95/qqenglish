@@ -1,0 +1,40 @@
+A couple of months ago, it was a color-changing dress that blew out the neural circuits of the Internet. Though it may not have quite the mass appeal, this week it is a math problem that is making bushels of brains hurt.
+几个月前，一条颜色有争议的裙子引爆了网民的神经回路。本周则是一个数学问题损害了大量脑细胞，虽然它对大众的吸引力可能没那么强烈。
+It started with a posting on Facebook, by Kenneth Kong, a television host in Singapore.
+起因是新加坡电视主播江坚文(Kenneth Kong)发在Facebook上的一个帖子。
+From there, people around the world have been trying to figure out Cheryl’s birthday, or at least wondering why she couldn’t just save everyone a lot of trouble and be more direct with Albert and Bernard.
+帖子在世界各地疯传，大家试图弄清谢丽尔(Cheryl)的生日是哪天，至少想知道她为什么不直接把答案告诉阿尔伯特(Albert)和伯纳德(Bernard)，帮大家省下许多麻烦。
+The wording of the problem is terrible, so here is a clearer version, which makes some of the assumptions more obvious but which does not change any of the underlying logic of the problem:
+原帖的措辞不太清楚，所以下面更清晰地描述一下问题，让一些假设变得更加明显，但是对相关的基本逻辑没有做任何改变：
+Albert and Bernard just met Cheryl. “When’s your birthday?” Albert asked Cheryl. 
+阿尔伯特和伯纳德刚刚结识谢丽尔。“你的生日是什么时候呢？”阿尔伯特问谢丽尔。
+Cheryl thought a second and said, “I’m not going to tell you, but I’ll give you some clues.” She wrote down a list of 10 dates:
+谢丽尔想了一下之后说，“我不会告诉你们的，但我会提供一些线索给你们猜一猜，”她写下一张清单，上面有10个日期：
+May 15 — May 16 — May 19
+5月15日-5月16日-5月19日
+June 17 — June 18
+6月17日-6月18日
+July 14 — July 16
+7月14日-7月16日
+August 14 — August 15 — August 17
+8月14日-8月15日-8月17日
+“My birthday is one of these,” she said.
+“我的生日就是其中一天，”她说。
+Then Cheryl whispered in Albert’s ear the month — and only the month — of her birthday. To Bernard, she whispered the day, and only the day. 
+然后谢丽尔凑到阿尔伯特的耳边，低声告知了自己生日的月份——但只有月份。之后又小声告诉了伯纳德自己生日是哪一天，但没有讲月份。
+“Can you figure it out now?” she asked Albert.
+“你们现在能猜出来了吗？”她问阿尔伯特。
+Albert: I don’t know when your birthday is, but I know Bernard doesn’t know, either.
+阿尔伯特：我不知道你的生日是几月几日，但我知道伯纳德也不知道。
+Bernard: I didn’t know originally, but now I do.
+伯纳德：本来我不知道，但是现在我知道了。
+Albert: Well, now I know, too!
+阿尔伯特：嗯，现在我也知道了！
+When is Cheryl’s birthday?
+那谢丽尔的生日是几月几日呢？
+Originally, Mr. Kong said this was a problem inflicted on fifth-graders, leading to hand-wringing that Singapore children were way better at math than the everyone else in the world and worries that Singapore children were being mentally abused with convoluted logic at a young age.
+江坚文在原帖里说，这是个扔给五年级学生的问题，因此一些人展开论战，觉得新加坡孩子在数学上远超世界上的其他人，并感到担心，新加坡儿童在童年阶段需要解答如此令人费解的逻辑题目，这是一种精神虐待。
+It turned out the problem actually came from a math olympiad test for math-savvy high school-age students.
+实际上，这个问题出自一个数学奥林匹克竞赛测试，针对的是对数学悟性高的高中生。
+How would you fare in a room full of adolescent math competitors in Singapore?
+如果你在新加坡，要和满屋子的青春期孩子开展数学竞赛，你的表现会如何？

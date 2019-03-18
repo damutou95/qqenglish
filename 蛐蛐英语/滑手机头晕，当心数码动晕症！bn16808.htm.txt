@@ -1,0 +1,50 @@
+If you are watching computer-generated mayhem in the latest action film or scrolling rapidly on your smartphone, you may start to feel a little off. Maybe it is a dull headache or dizziness or creeping nausea.
+如果你正在观看最新的动作片中由电脑特效制作出来的混乱场面或者快速滚动智能手机的屏幕，你可能会开始觉得有点不舒服：或许是隐隐的头痛，又或许是头晕或者犯恶心。
+And no, it is not something you ate.
+不，这并不是你吃了什么不对劲的东西的缘故。
+A peculiar side effect of the 21st century is something called digital motion sickness or cybersickness. Increasingly common, according to medical and media experts, it causes a person to feel woozy, as if on a boat in a churning sea, from viewing moving digital content.
+这只是21世纪的一个奇特的副作用，叫做数码动晕症(digital motion sickness)，通俗地称之为“晕屏幕”(cybersickness)。医学和媒体专家称，这种人因为观看活动的数码媒体内容而感到头昏眼花，有如乘船在大海上颠簸的现象正越来越普遍。
+“It’s a fundamental problem that’s been kind of been swept under the carpet in the tech industry,” said Cyriel Diels, a cognitive psychologist and human factors researcher at Coventry University’s Center for Mobility and Transport in England. “It’s a natural response to an unnatural environment.”
+“这个重要的问题可以说在高新技术产业一直被掩盖，”英格兰考文垂大学(Coventry University)交通及运输中心(Center for Mobility and Transport)的认知心理学家和人为因素研究员西里尔·迪尔斯(Cyriel Diels)说。“它是对不自然环境的一种自然反应。”
+Digital motion sickness, known among medical professionals as visually induced motion sickness, stems from a basic mismatch between sensory inputs, said Steven Rauch, medical director of the Massachusetts Eye and Ear Balance and Vestibular Center and professor of otolaryngology at Harvard Medical School.
+马萨诸塞州眼耳平衡和前庭中心(Massachusetts Eye and Ear Balance and Vestibular Center)的医务主任、哈佛医学院(Harvard Medical School)的耳鼻咽喉科教授史蒂文·劳赫(Steven Rauch)表示，在医学专业人士看来，数码动晕症是一种由视觉诱发的动晕症，其根源在于感官输入信号之间不匹配。
+“Your sense of balance is different than other senses in that it has lots of inputs,” he said. “When those inputs don’t agree, that’s when you feel dizziness and nausea.”
+“平衡感不同于其他感觉，它可以有很多输入途径，”他说。“当这些输入信号不一致时，你就会感到头晕和恶心。”
+In traditional motion sickness, the mismatch occurs because you feel movement in your muscles and joints as well as in the intricate coils of your inner ear, but you do not see it. That is why getting up on the deck of a ship and looking at the horizon helps you feel better.
+在传统的动晕症中，矛盾感来源于你的肌肉、关节以及内耳错综复杂的半规管系统都感觉到你正在运动，但你的眼睛却报告给你相反的结果。这也就是为什么你站到船的甲板上眺望地平线能改善你晕船症状的原因。
+But with digital motion sickness, it is the opposite. You see movement — like the turns and twists shown in a movie or video game car chase — that you do not feel. The result is the same: You may have sensory conflict that can make you feel queasy.
+数码动晕症则恰恰相反。你明明看到自己在运动——例如你看到电影或视频游戏中的飞车追逐和转弯——可你的其他感官完全没有运动的感受。其结果与普通动晕症相同：感觉的冲突会让你觉得恶心。
+It can happen to anyone, even if you are someone who is not prone to motion sickness in cars, boats or airplanes. Various studies indicate it can affect 50 percent to 80 percent of people, depending on the fidelity of the digital content and how it is presented.
+任何人都可能发生这种情况，哪怕你平素并不容易晕车、晕船或晕机。众多研究表明，人群中晕屏幕者的比例高达50%到80%，具体取决于数码内容的保真度及其呈现方式。
+Studies show that women are more susceptible than men, as are those with a history of migraines or concussion. Anecdotally, researchers say that people with traits associated with the “Type A” personality — such as perfectionism or ambition — also seem to be more vulnerable. Nobody knows exactly why this might be, but one theory is that people with these traits may also have a tendency to be more alert and reactive to sensory inputs, similar to people who get migraines.
+研究显示，女性比男性更容易出现数码动晕症，有偏头痛或脑震荡史者对此也较为敏感。有趣的是，研究人员称，带有“A型”人格特质的人，如完美主义或雄心勃勃的人似乎也更可能出现这种症状。目前尚没有人确切地知道为什么会是这样，但有一种理论认为，具备这些特质的人可能对感觉输入信号更为警觉，反应也更大，这与偏头痛患者类似。
+Often symptoms are subtle. As a result, many people with digital motion sickness do not quite know what is causing their discomfort, typically chalking it up to stress, stomach upset, eyestrain or vertigo.
+数码动晕症的症状往往难以捉摸，所以很多患者都搞不清楚到底是什么原因造成了他们的不适感，而常常将其归咎于压力、胃不舒服、眼睛疲劳或眩晕等。
+None of this is news to the military, which has long known about the sickness that even seasoned pilots can feel in flight simulators. And the problem has only gotten worse as simulators have gotten better with virtual reality and 3D imagery.
+不过，这在军队里倒算不上什么稀奇事，人们早就知道，在使用飞行模拟器时，就算是经验丰富的飞行员也可能会感觉恶心。随着模拟器的改进，虚拟现实和三维图像的实现，这个问题正变得越来越糟糕。
+It is the same sort of mind-bending artistry that is now pervading television and film and that even underlies the way the icons seem to float on your smartphone’s home screen. Quick cuts, rapid panning and first-person-view camera angles intensify the effect.
+与此相类似的还有在当下影视中十分常见的令人激动的技巧，甚至让你错觉智能手机上的图标是漂浮在主屏幕上的也是这类的把戏。飞速切换、快速平移和第一人称视角的镜头都会强化这种效应。
+“The idea is to get audiences to feel like participants in the action rather than outside observers of the action,” said Jonathan Weinstein, a former film producer and now a professor at the Kanbar Institute for Film and Television at New York University’s Tisch School of the Arts. “It makes viewers more connected to the story — or it makes them hurl because in a film there’s really no horizon to look at.”
+“我们想让观众感觉自己正身临其境，亲身参与，而不仅仅是作壁上观的局外人，”曾经的电影制片人，如今的纽约大学(New York University)Tisch艺术学院(Tisch School of the Arts)Kanbar影视研究院(Kanbar Institute for Film and Television)教授乔纳森·温斯坦(Jonathan Weinstein)说。“它让观众更容易融入故事当中——又或者说，更容易让你头晕目眩，毕竟电影里可没有‘地平线’来帮你调适。”
+Indeed, there is a website called MovieHurl.com that rates movies on how likely they are to make you feel sick. And mobile device and gamer forums are full of postings looking for advice on how to engage with the latest operating systems and interfaces without throwing up.
+事实上，还真有一个叫做MovieHurl.com的网站按照各部电影致人头晕恶心的程度给它们做了排名。而移动设备和玩家的论坛上也充斥着询问如何在玩转最新操作系统和界面的同时又不至于呕吐的求助帖。
+Apple had to add extra accessibility settings to its mobile operating system to allow users to tone down the visual stimuli. And executives at Oculus V.R., makers of the much-anticipated virtual reality headset Oculus Rift (the company was purchased by Facebook last year for $2 billion), have said digital motion sickness is one of their biggest hurdles.
+苹果公司(Apple)不得不在其移动操作系统中额外添加了辅助功能设置，以降低对用户的视觉刺激。万众期待的虚拟现实耳机Oculus Rift的制造商Oculus VR公司（该公司已于去年被Facebook以20亿美元的价格收购）的高管表示，数码动晕症是令他们头痛不已的最大障碍之一。
+“The more realistic something is, the more likely you are going to get sick,” said Thomas Stoffregen, professor of kinesiology at the University of Minnesota, who has done extant research on digital motion sickness. “No one got sick playing Pac-Man.”
+“一个东西显得越真实，就越有可能让你感到恶心，”明尼苏达大学(University of Minnesota)的运动学教授，数码动晕症的研究者托马斯·施托夫雷根(Thomas Stoffregen)说。“谁都不会因为玩吃豆人而恶心”。
+Balance specialists said the problem can often be improved with habituation — watching, say, a chaotically cut film or playing a virtual reality game in short spurts just until the onset of mild symptoms, then recovering and repeating at specified intervals.
+平衡专家表示，这个问题一般可以通过习惯化来改善——比如，短时间地观看剪辑得乱七八糟的影片或者玩虚拟现实游戏，在你产生轻微症状之前就停下来，休息一下，然后再重复，如此以特定的时间间隔反复。
+“People usually respond well if we have them do it in a very controlled, conservative way,” said Lisa Heusel-Gillig, a physical therapist and neurological clinical specialist at the Emory Dizziness and Balance Center in Atlanta.
+“在以高度可控且非常保守的方式来进行上述习惯化训练时，人们通常反应不错。”亚特兰大Emory眩晕和平衡中心(Emory Dizziness and Balance Center)的物理治疗师及神经科临床专家莉莎·休塞尔-吉利格(Lisa Heusel-Gillig)说。
+But some experts wonder whether it is a good idea to train your brain to ignore conflicting sensory stimuli because it might inhibit your ability to react appropriately in the real world.
+但也有部分专家质疑训练大脑去忽视矛盾的感官刺激未必是个好主意，因为这可能会抑制你在现实世界中做出适当反应的能力。
+“There are certainly concerns, particularly when it comes to long term exposure,” said Kay Stanney, a human factors researcher in Orlando, Fla., who consults with the military and businesses on the design and use of virtual reality and other immersive technologies.
+“这样肯定会产生隐患，尤其是涉及长期接触的时候，”佛罗里达州奥兰多市的人为因素研究员凯·史丹尼(Kay Stanney)说。她是军方和企业在虚拟现实和其他沉浸式技术（immersive technologies，又译身临其境技术）的设计和使用领域的顾问之一。
+Dr. Stanney said her team has tested more than a thousand subjects in virtual reality sessions and has seen that the magnitude of aftereffects can be strong and long lasting. When study subjects returned to the real world,they had trouble with visual focusing, tracking images and hand-eye coordination.
+史丹尼博士称，她的团队利用虚拟现实片段测试了一千多名受试者，发现其后遗症的效果强大且持久。当研究受试者返回现实世界时，他们在视觉聚焦、图像跟踪和手眼协调等方面都出现了问题。
+Dr. Stanney said her team also measured a fundamental shift in people’s postural stability.
+史丹尼博士补充说，她的团队还发现这些人的姿态稳定性发生了根本性的转变。
+The worry is that a teenager, after several hours of playing a virtual reality game, might get behind the wheel of a car and have balance and vision impairments similar to being drunk. Lengthy viewing of high-definition televisions or scrolling wildly on a phone might also somehow alter people’s sense of equilibrium, making them more likely to trip and fall.
+最令人担忧的是，青少年很可能在玩了几个小时的虚拟现实游戏后接着就去开车，此时他很可能出现醉酒般的平衡和视觉障碍。长时间观看高清电视或快速滚动手机屏幕也可能以某种方式改变人们的平衡感，使他们更容易绊倒和摔跤。
+“Long-term studies need to be done to understand the full impact,” Dr. Stanney said. “In the military you can be grounded for up to 12 hours after a simulator session because they understand the aftereffects are real.”
+“想要全面地了解这些影响需要进行长期的研究，”史丹尼博士说。“在军队里，飞行员在模拟器训练后最长会被停飞12个小时，因为他们都清楚这些副作用可不是唬人的。”

@@ -1,0 +1,42 @@
+In 1977, a University of Oxford statistician named Richard Peto pointed out a simple yet puzzling biological fact: We humans should have a lot more cancer than mice, but we don’t.
+1977年，牛津大学(University of Oxford)的统计学家理查德·皮托(Richard Peto)指出了一个简单却令人费解的生物学现象：照理说，我们人类应该远比小鼠更容易患癌症才对，可事实却并非如此。
+Dr. Peto’s argument was beguilingly simple. Every time a cell divides, there’s a small chance it will gain a mutation that speeds its growth. Cells that accumulate several of these mutations may become cancerous. The bigger an animal is, the more cells it has, and the longer an animal lives, the more times its cells divide. We humans undergo about 10,000 times as many cell divisions as mice — and thus should be far more likely to get cancer.
+皮托博士的理论依据乍一看似乎很简单。细胞每次分裂时都有极小的几率会产生可以加速其生长的突变。如果此类突变累积到一定程度，细胞就可能癌变。动物的体型越大，它身上的细胞就越多；动物的寿命越长，其细胞分裂次数也就越多。我们人类一生中要经历的细胞分裂次数约为小鼠的1万倍，因此患癌症的风险也应比小鼠高得多。
+Yet humans and mice have roughly the same lifetime risk of cancer, a circumstance that has come to be known as Peto’s paradox.
+然而，事实上，人类与小鼠的癌症终生风险却大致相同，这一现象被称为“皮托悖论(Peto’s paradox)”。
+A number of scientists have speculated that large, long-lived animals must evolve extra cancer-fighting weapons. And if that’s true, they reason, then the biggest, longest-lived animals should have an especially big arsenal. Otherwise, these species would go extinct.
+许多科学家推测，体型较大、寿命较长的动物必定是演化出了其他的武器来抗击癌症。如果事实果真如此，那么，体型最大、寿命最长的动物就应该拥有一个超大号的抗癌军火库，要不然这些物种早就该灭绝了。
+“Every baby elephant should be dropping dead of colon cancer at age 3,” said Dr. Joshua D. Schiffman, a pediatric oncologist at the Huntsman Cancer Institute at the University of Utah.
+拿大象这个物种来说，如若没有这样一种机制，“小象们在3岁前就会因为结肠癌而夭折殆尽。”犹他大学(University of Utah)亨斯迈癌症研究所(Huntsman Cancer Institute)的小儿肿瘤学家乔舒亚·D·希夫曼(Joshua D. Schiffman)如是说。
+Writing Thursday in The Journal of the American Medical Association, Dr. Schiffman and his colleagues report that elephants appear to be exceptional cancer fighters, using a special set of proteins to kill off damaged cells.
+希夫曼博士及其同事在10月8日的《美国医学协会杂志》(Journal of the American Medical Association)上报告，大象是杰出的抗癌斗士，它们可以利用一组特殊的蛋白质杀死受损的细胞。
+Working independently, Vincent J. Lynch, an evolutionary biologist at the University of Chicago, and his colleagues have come to the same conclusion. Those researchers posted a draft of their paper on Wednesday on the bioRxiv server. It is currently in review at the journal eLife.
+独立工作的另一组科学家——芝加哥大学(University of Chicago)的演化生物学家文森特·J·林奇(Vincent J. Lynch)及其同事也得出了相同的结论。这些研究人员10月6日在生物学预印网站bioRxiv的服务器上发布了他们的论文草稿，《eLife》期刊正在对该论文进行审稿。
+Dr. Schiffman and his colleagues found in their research that elephants have a remarkably low rate of cancer. They reviewed zoo records on the deaths of 644 elephants and found that less than 5 percent died of cancer. By contrast, 11 percent to 25 percent of humans die of cancer — despite the fact that elephants can weigh a hundred times as much as we do.
+希夫曼博士和他的同事们在研究中发现，大象中的癌症发生率非常低。他们审查了644头动物园大象的死亡报告，发现其癌症死亡率还不到5%。相比之下，尽管人类的体重只有大象的百分之一，却有11%至25%因癌症丧命。
+To understand the elephants’ defenses, the scientists investigated a gene that is crucial for preventing cancer, called p53. The protein encoded by the gene monitors cells for damage to the DNA they contain. In some cases, it triggers the cells to repair the genes. In other cases, p53 stops cells from dividing further. And in still other cases, it even causes the cells to commit suicide.
+为了了解大象的癌症防御机制，科学家们研究了一个对预防癌症非常关键的基因——p53。由该基因编码的蛋白质可监视细胞内的DNA损伤。某些情况下，它会促使细胞修复受损的基因；另外一些情况下，p53会阻止细胞进一步分裂；还有一些情况下，它甚至会引起细胞自杀。
+One sign of how important p53 is for fighting cancer is what happens to people born with a defective copy of the gene. This condition, known as Li-Fraumeni syndrome, creates a lifetime risk of cancer of more than 90 percent. Many people with Li-Fraumeni syndrome get cancers as children and can have several types of cancer over their lifetimes.
+下面我们通过一个实例来阐释p53对于抵御癌症的重要意义：如果人生来p53基因就有一个拷贝存在缺陷，就会患上李-佛美尼综合征(Li-Fraumeni syndrome)，患者的癌症终生风险高达90%以上。许多李-佛美尼综合征患者在童年时就开始患癌症，而且一生中还可能患有多种不同类型的癌症。
+Dr. Schiffman and his colleagues found that elephants have evolved new copies of the p53 gene. While humans have only one pair of p53 genes, the scientists identified 20 pairs in elephants.
+希夫曼博士和同事们发现，大象的p53基因演化出了数对新的拷贝——人类只有一对p53基因，在大象的细胞内，科学家们却发现了20对这种基因！
+Dr. Lynch and his colleagues also found these extra genes. To trace their evolution, the researchers made a large-scale comparison of elephants to other mammal species — including extinct relatives like woolly mammoths and mastodons whose DNA remains in their fossils.
+林奇博士及其同事也发现了这些额外的p53基因。为了追溯它们的演化过程，研究人员对大象和其他哺乳动物（包括猛犸象和乳齿象等虽然已经灭绝，但DNA在化石中得到保存的现代象的“亲戚们”）的基因组进行了大规模的比对。
+The small ancestors of elephants, Dr. Lynch and his colleagues found, had only one pair of functional p53, like other mammals. But as they evolved to bigger sizes, they steadily evolved extra copies of p53.
+林奇博士和同事们发现，大象的体型较小的祖先们与其他哺乳动物一样，只有一对有功能的p53基因。然而，当它们随着演化体型不断增大后，就开始不断地出现额外的p53基因拷贝。
+“Whatever’s going on is special to the elephant lineage,” Dr. Lynch said.
+林奇博士说：“这些都是大象这个谱系所特有的。”
+To see whether these extra copies of p53 made a difference in fighting cancer, both teams ran experiments on elephant cells. Dr. Schiffman and his colleagues bombarded elephant cells with radiation and DNA-damaging chemicals, while Dr. Lynch’s team used chemicals and ultraviolet rays.
+研究人员们想知道这些多出来的p53基因拷贝是否在抗癌方面发挥了什么作用，于是两个研究团队都对大象的细胞进行了实验。希夫曼博士及其同事使用辐射和可造成DNA损伤的化学物质来处理大象的细胞，而林奇博士的团队使用的是化学品和紫外线。
+In all these cases, the elephant cells responded in the same way: Instead of trying to repair the damage, they simply committed suicide. Dr. Schiffman saw this response as a unique — and very effective — way to block cancer. “It’s almost as if they said, ‘We’re elephants — we’ve got plenty more cells where those came from,’ ” Dr. Schiffman said.
+虽然处理方法各有不同，大象的细胞做出的应对却完全相同：它们并未尝试修复损伤，而是直接就自杀了。希夫曼博士认为这种反应是一种独特而且非常有效的阻断癌症的方式。他说：“这基本上就像是在宣称：‘我们大象才不怕这点损失——还有很多很多细胞可以补充上来呢。’ ”
+Patricia Muller, an oncologist at the MRC Toxicology Unit at the University of Leicester who was not involved in the studies, said the results, though compelling, didn’t firmly establish exactly how elephants use p53 to fight cancer. One possibility is that the extra copies don’t actually cause cells to commit suicide. Instead, they may act as decoys for enzymes that destroy p53 proteins. As a result, elephants can have higher levels of p53 than other animals. “All in all, it’s interesting, but the mechanism needs to be properly investigated,” she said.
+未参与上述任一研究的莱斯特大学(University of Leicester)英国医学研究委员会毒理学部(MRC Toxicology Unit)肿瘤学家帕特里夏·马勒(Patricia Muller)表示，这些研究结果非常吸引人，但她也指出，它们并没有明确阐释大象是如何利用p53来对抗癌症的。一种可能性是额外的基因拷贝其实并不会导致细胞自杀。相反，它们只是充当了诱饵，消耗掉了破坏p53蛋白的酶，结果，大象体内的p53水平就会高于其他的动物。“总而言之，”她说，“这很有趣，但仍需要对个中机制进行适当的研究。”
+Dr. Muller said it was especially important to understand precisely how elephants fight cancer before trying to mimic their strategies with drugs for humans. Experiments in which mice get extra amounts of p53 have shown that the molecule has a downside: It can accelerate aging. “It has to be kept under tight control,” Dr. Muller said.
+马勒博士指出，在试图用药物模仿大象的抗癌策略并应用于人类之前，准确地认识其中的原理尤其重要。在小鼠实验中，额外的p53显示出该分子具有一个缺点：它会加速衰老。“它必须受到严格的控制，”马勒博士说。
+Dr. Schiffman is now investigating how to translate the new findings on elephants into cancer treatments for people. But he said it would be useful to look at other big or long-lived animals as well. Naked mole rats, for example, live up to 30 years without ever getting cancer. One weapon they use is a protein that arrests the growth of fast-dividing cells. It senses when these cells bump into other cells and brings their division to a halt.
+希夫曼博士目前正在研究如何将从大象身上得到的新发现转化为可造福于人类的癌症新疗法。但他也表示，考察下其他大型或长寿的动物应该也会很有用。例如，裸鼹鼠可以活到30岁而从不患癌症。它们使用的抗癌武器是一种蛋白质，可以遏止快速分裂的细胞的生长，这些细胞碰上其他细胞就会让它们停止分裂。
+That is an entirely different solution from the one elephants appear to have evolved. And elephants are the only animals yet found that fight cancer with extra p53 genes. So Dr. Schiffman speculates that parrots, tortoises and whales may all have special longevity tactics of their own.
+这是对大象的演化历程的一个截然不同的解释。而且，鉴于大象是迄今为止发现的唯一一种通过额外的p53基因拷贝来抵御癌症的动物，希夫曼博士推测，鹦鹉、乌龟和鲸鱼很可能都有各自独特的长寿策略。
+“The war on cancer was going on long before there were humans,” he said. “So let’s look at nature’s strategies.”
+“对抗癌症的战争早在人类诞生之前就久已打响了，”希夫曼博士说。“那么，就让我们来看看大自然的战术吧。”

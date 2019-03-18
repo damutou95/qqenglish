@@ -1,0 +1,46 @@
+HONG KONG — In China, some of the most successful cyberthreats are frighteningly simple.
+香港——在中国，一些最成功的网络诈骗通常都极其简单。
+One recent viral mobile message offered free Golden Retriever puppies to lure users into giving away personal information. Another online scam took thousands from a woman who wired money to an impostor she thought was her son’s teacher.
+最近出现的一条手机病毒短信声称免费赠送金毛幼仔，从而诱使用户提供个人信息。另一个网络骗局则导致一名女性给谎称是儿子老师的骗子汇去了数千元。
+A current favorite of Chinese cybercriminals, according to Pei Zhiyong, the senior security researcher of the antivirus company Qihoo 360 Technology, is to simply program malicious code that asks users to disable their antivirus software.
+杀毒软件公司奇虎360的高级安全研究员裴智勇表示，中国网络罪犯目前最青睐的方式是，直接编写恶意代码，让用户关闭杀毒软件。
+“It will say their security program is incompatible with whatever they’re trying to do,” he said. “We call it a ‘Candy Trojan Horse,’ and 30 percent of users will actually respond by turning off their antivirus system.”
+“它会弹出一个提示窗，用很萌的口吻提示说，用户电脑上正在运行的安全软件，与他们即将要启动的这个程序之间存在冲突，”他说。“我们把这种病毒程序称之为‘卖萌木马’，而30%的用户会听从这个提示而关闭自己的防病毒系统。”
+Over the last decade, the Internet has gone mainstream in China. More than 600 million residents regularly go online, and China is also the world’s largest smartphone market. And domestic companies like the Alibaba Group are among the largest Internet companies in the world.
+在过去十年中，互联网在中国流行开来，经常上网的人口超过了六亿。中国同时还是世界上最大的智能手机市场。阿里巴巴集团等中国公司已经跻身世界最大的互联网企业之列。
+In its early days, China’s Internet market was plagued by malware and viruses. Popular free antivirus software offered by many companies has since helped stem that problem, but has led to a new one: Many PC users have become so comfortable that they are now easy prey to attacks that involve simply tricking them, instead of having their accounts breached by complex software. At Chinese companies, experts say, awareness lags that of their counterparts in developed nations.
+在发展的早期，中国的互联网市场饱受恶意软件及病毒的侵扰。多家公司提供的广受欢迎的免费杀毒软件帮助阻止了这一问题的蔓延，但同时也带来了一个新问题：不少个人电脑用户过于放松警惕，很容易成为攻击目标，陷入简单骗局，根本不需要罪犯通过复杂的软件来破解他们的账户。专家表示，中国企业的网络安全意识也落后于发达国家。
+In 2013, cybercrime cost Chinese companies and individuals $37 billion, according to a research report by the security firm Norton, putting the nation second behind the United States at $38 billion, and well ahead of the $13 billion that cybercrime cost Europe or the $1 billion for Russia.
+网络安全公司诺顿(Norton)发布的一份研究报告显示，2013年，网络犯罪给中国企业和个人造成了370亿美元（约合2300亿元人民币）的损失，仅次于美国的380亿美元，但远超欧洲的130亿美元和俄罗斯的10亿美元。
+Security analysts offer many reasons for this, but top among them is the naïveté of China’s myriad new Internet users, as well as government policies that have emphasized the growth of the Internet industry above all else.
+安全方面的分析人士对此给出了很多解释，但其中最主要的原因在于，中国无数的新网民还太不成熟，以及政府在互联网行业方面的政策强调增长高于一切。
+At the same time, many businesses have no consistent approach to ensure employees do not inadvertently compromise corporate networks. Companies also are often reluctant to pay for security software.
+与此同时，很多企业没有采取周密的举措来防止员工无意间危害公司网络。它们通常也不愿花钱来购买安全软件。
+And the prevalence of pirated software in the country — and the back doors and other security holes in those programs — makes many businesses, and individuals, unwittingly vulnerable.
+存在后门等安全漏洞的盗版软件在中国非常盛行，使得很多公司及个人不知不觉中成为易受攻击的目标。
+Beijing maintains strict control of the flow of information online and closely tracks many users. But it has focused far less on stopping cybercrime or punishing companies that enable or encourage attacks. As a result, China’s companies tend to focus on attracting users above all else, and therefore a consensus among Chinese Internet companies on mitigating attacks has been slow to emerge.
+政府一直在严格控制网络信息的传播，并且密切跟踪不少用户的活动，但不太关注如何阻止网络犯罪，以及惩罚允许或鼓励攻击活动的公司。结果，中国企业往往将吸引用户当做首要任务，因此国内的互联网公司迟迟没有就降低受攻击的风险达成一致。
+“The Internet companies assume everyone is going to play dirty, so that’s how they approach it,” said Mark Natkin, managing director of China tech research firm Marbridge Consulting. “The Dudley Do-Rights get chopped off at the knees, so instead of trying to clean things up, they get scrappy.”
+“互联网企业默认大家都会使用肮脏的手段，这就是他们的态度，”中国科技业调研公司迈博瑞咨询的执行董事马克·纳特金(Mark Natkin)说。“傻乎乎照章办事的会死得很难看，所以他们不去设法整治，而是全都变得好斗起来。”
+Things could get worse for China as new users take to the web on smartphones. According to the Norton report, 75 percent of Chinese smartphone users have experienced mobile cybercrime in the 12 months leading up to the 2013 survey, compared with a global average of just 38 percent.
+随着新一代用户开始利用智能手机上网，情况可能会变得更糟。诺顿的报告显示，中国75%的智能手机用户在过去12个月中遭遇过手机网络犯罪，而全球平均水平仅为38%。
+A 2013 study by the Data Center of China’s Internet showed that 35 percent of China’s most popular 1,400 apps tracked user data that had no connection to the function of the application.
+DCCI互联网数据中心2013年的一项研究表明，在中国最受欢迎的1400个应用中，有35%都会追踪与应用的功能无关的用户数据。
+When customers then bring their phones into work, the situation becomes dangerous for companies as well, Mr. Sentonas said.
+森托纳斯说，当用户使用手机工作时，他们的公司也会陷入危险。
+The huge cost of attacks on companies has led to growing awareness among executives, though analysts say many companies still lack a high-level executive charged with security. Efforts by companies to ensure that employees do not inadvertently compromise corporate networks have ranged from negligence to draconian measures, according to Thomas Parenty, the head of the information security firm Parenty Consulting.
+网络攻击给企业造成的巨大损失提高了高管们的警觉性，但分析人士表示，许多公司仍然缺乏负责网络安全的高层管理人员。信息安全公司帕朗蒂咨询(Parenty Consulting)的负责人托马斯·帕朗蒂(Thomas Parenty)称，为了防止员工不小心使公司网络陷入危险，企业的应对五花八门，有些采取了严厉措施，另有一些则显得粗心大意。
+In one instance, Mr. Parenty recalled how a manager of a Shenzhen company set up employee computers so they all faced the front of the room. He then set up his desk on a raised dais at the back of the room, giving him a view of employees’ screens so he could track online activity.
+帕朗蒂一直记得深圳一家公司的经理的做法。这位经理规定了工作人员电脑的位置，让它们全都对着房间的前面。然后，他把自己的办公桌放在房间后部的一座高台上，这样就能看到所有员工的屏幕，知道他们在网上干什么。
+“It was like Oliver Twist,” he said.
+“就跟《雾都孤儿》(Oliver Twist)似的，”他说。
+At times, it is company policy, not employees, that leads to problems. Many Chinese companies have a tendency to spurn costly software, instead opting to use pirated copies of programs like Microsoft Windows and Adobe Photoshop, leaving them open to security holes in the software. There are many companies and organizations that use entirely unpaid-for copies of Windows, Mr. Parenty said.
+有时候，问题出在公司政策方面，而非员工身上。很多中国企业会放弃昂贵的软件，而采用盗版的微软Windows和Adobe Photoshop，使公司暴露在这些盗版软件的安全漏洞面前。帕朗蒂称，不少企业和机构上上下下全部使用不花钱的Windows盗版。
+At one organization Mr. Parenty said he discovered that “each employee computer’s disk was entirely full of bootleg software and downloaded movies.” His firm “had to strip each desktop to the bare metal and then buy legitimate software and put in controls so they couldn’t just download pirated copies of everything Adobe has ever made,” he said.
+帕朗蒂表示，他在一家机构发现，“每台员工电脑的硬盘里都装满了盗版软件和下载的电影。”他的公司“不得不把每台机器清理得什么都不剩，然后购买正版软件并安装控制程序，这样他们就无法下载各种Adobe产品的盗版了。”
+To keep employees happy, he then set up a “tea break computer” not connected to the company’s network, where workers could sign onto popular Chinese chat, gaming and social media programs.
+为了让员工开心，他随后设置了一台未连入公司网络的“茶歇电脑”，让他们可以用来使用中国流行的聊天、游戏和社交媒体程序。
+Recognizing that few companies will spend for security software, the most successful security firms in China offer software free. One of China’s largest antivirus companies, Qihoo 360, provides a suite of antivirus programs without charge, making money on advertisements and other promotions it pipes through its products.
+由于意识到很少有企业愿意花钱购买安全软件，中国最成功的网络安全公司都在免费提供软件。奇虎360是中国最大的反病毒公司之一，它就是免费提供一整套杀毒程序，然后通过产品附带的广告等促销手段来赚钱。
+The company had 495 million monthly active users for its PC-based products in September, according to the company’s recent earnings report. Still, analysts argue it has more vulnerabilities than most purchased services and isn’t ideal for protecting companies.
+奇虎360最近的盈利报告表明，9月，公司旗下适用于个人电脑的产品拥有4.95亿的月活跃用户。不过，分析人士认为，它的漏洞还是要比大多数需要花钱购买的服务更多，对于保护企业而言并不理想。

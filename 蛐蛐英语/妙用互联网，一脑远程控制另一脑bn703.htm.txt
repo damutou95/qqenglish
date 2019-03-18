@@ -1,0 +1,14 @@
+Researchers at the University of Washington have successfully connected two human brains over the Internet.
+华盛顿大学(University of Washington)的研究者成功地通过互联网将两个人脑联接起来。
+In an experiment called “Direct Brain-to-Brain Communication in Humans,” the scientists involved in the research were able to send a brain signal through the Internet to control the way another researcher, seated in a separate area of the university campus, moved his hand.
+这项实验被称为“人类脑对脑直接交流”(Direct Brain-to-Brain Communication in Humans)。参与研究的科学家们通过互联网传输一个大脑信号，以此控制坐在校园其他区域的另一名研究员做出手部动作。
+The two researchers involved in the project, Rajesh Rao and Andrea Stocco, connected their brains by slipping on a hat that included a “magnetic stimulation coil,” which can read and stimulate the brain. Mr. Rao then sent a signal to Mr. Stocco’s brain, forcing him to move his right index finger to hit the “fire” button in a computer game.
+参与项目的两名研究员为拉杰什·拉奥(Rajesh Rao)与安德烈亚·斯托科(Andrea Stocco)。两人头部各戴一顶帽子，里面装有可解读并刺激大脑的“磁刺激线圈”，从而将两个大脑联接起来。拉奥随后向斯托科的大脑发出了一个信号，迫使他移动右手食指点击一个电脑游戏中的“开火”按钮。
+As I’ve reported in my Disruption column, scientists have been building technologies that will allow people to interact with our computers using their brains, or control or even communicate with other human beings, just by thinking about it.
+我在“纷扰”专栏(Disruption)中曾经报道，科学家们一直在研发相关技术，希望能允许人类通过大脑与计算机互动，或是仅仅通过思维就做到控制其他人脑，甚至是进行交流。
+Technologists have been working for years to create brain-computer interfaces, which will allow us to interact with our smartphones and computers simply by using our minds. There are gadgets that exist today that can read our thoughts and allow us to do things like dodge virtual objects in a computer game.
+多年来，技术人员一直在研究如何创造出人脑与计算机之间的界面，从而允许我们仅通过思维与智能手机及电脑互动。如今已有一些设备可以解读我们的想法，让我们脑中念头一动，就能做些诸如在电脑游戏中躲闪虚拟物件的事情。
+Earlier this year, Dr. Miguel A. Nicolelis, a neuroscientist at Duke University, successfully connected the brains of two rats over the Internet, allowing them to communicate with their minds so when one rat pressed a lever, the other did the same. Scientists at Harvard Medical School have also created a brain-to-brain interface in a lab that enabled a human to move a rat’s tail just by thinking about it.
+今年早些时候，杜克大学(Duke University)的神经科学家米格尔·A·尼科利斯博士(Miguel A. Nicolelis)成功地通过互联网把两只大鼠的脑子联接起来，让它们能够交流思想，这样，一只大鼠压杆的时候，另一只也照做。哈佛大学医学院(Harvard Medical School)的科学家们也在实验室中打造了一个脑对脑界面，让人类能够仅通过脑中的念头来移动大鼠的尾巴。
+The University of Washington’s researchers used electroencephalography, or EEG, to record brain activity noninvasively and then “stimulated” the brain using a technology called transcranial magnetic.
+华盛顿大学的研究人员采用了脑电图技术（Electroencephalography，简称EEG）来从外部记录脑部活动，然后用一种名为“经颅磁刺激”(Transcranial Magnetic)的技术来“刺激”大脑。

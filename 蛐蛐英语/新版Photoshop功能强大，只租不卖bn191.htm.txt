@@ -1,0 +1,50 @@
+There’s a new reason for Photoshop to be famous.
+Photoshop的显赫声名又多了一个理由。
+Yes, it’s still the program that just about every photographer and designer on earth uses to retouch or even reimagine photos. It’s still the only program whose name is a verb.
+没错，它依然是这个星球上几乎所有摄影师和设计师在修饰甚至再造照片时选用的软件。它依然是唯一一个名称被当作动词用的软件。
+But now, Photoshop is also the biggest-name software that you can’t actually buy. You can only rent it, for a month or a year at a time. If you ever stop paying, you keep your files but lose the ability to edit them.
+而现在Photoshop又加入了不能买的软件之列，成为其中最大牌的一个。你只能租它，一次租一个月或一年。一旦停止缴费，你的文件还在，但是就不能编辑了。
+You have to pay $30 a month, or $240 a year, for the privilege of using the latest Photoshop version, called Photoshop CC. Or, if you want to use the full Adobe suite (Illustrator, InDesign, Premiere and so on), you’ll pay $600 a year.
+要享有使用最新版Photoshop的尊贵特权，即所谓的Photoshop CC，你得支付每月30美元（约合183元人民币）或每年240美元的费用，要想用上完整的Adobe套件（Illustrator、InDesign、Premiere等等），你每年得付600美元。
+The price list is stunningly complex. The fees may be higher or lower depending on how many programs you rent, whether you already own an existing version and which one, whether you commit to a full year or prefer to rent one month at a time. There are also discounted first-year teaser rates, student/teacher rates and a 30-day free trial.
+价目表复杂得吓人。收费有高有低，要看你租用软件的种类多寡、是否有旧版、有的话是哪一版，以及打算一次性签一整年还是按月租用。此外还有第一年促销折扣、学生/教师优惠价和30天免费试用。
+But you get the point: the dawn of Software as a Subscription is now upon us.
+但是，你知道这意味着什么：软件作为会费制服务的时代已经到来了。
+Microsoft is conducting a similar experiment with the latest version of Office. An Office 365 subscription is $100 a year. But there’s a big difference: renting Office is optional. You can still buy it outright if you prefer.
+微软(Microsoft)也在用最新版Office作类似的实验。Office 365的会费是每年100美元。但是两者有很大区别：租用Office是一个选项。如果你想一次性买下还是可以的。
+It should be obvious why Adobe is enthusiastic about rental software. First, it’s big money.
+Adobe对软件租赁的热情应该不难理解。首先，这里面可以赚大钱。
+Not everybody will pay more than before under the new plan. If you use three or more Adobe programs and you upgrade to the latest versions every year, you’ll save money by renting.
+在这份新方案中，不是所有人都得负担比以前更高的价钱。如果你要用三款或更多的Adobe软件，而且每年都升级到最新版，那么通过租用你可以少花钱。
+But if you use only one or two programs, you’ll pay much more by renting — especially if you were in the habit of upgrading only every other year, for example. Here’s the math: Photoshop CC alone will cost $240 a year. In the old days, buying the annual upgrade cost $200, and you didn’t have to upgrade every year. In three years, you might have spent $200 or $400; now you’ll pay $720.
+但如果你只用一两款软件，你的租赁费用会比购买费用高出很多——尤其是如果你通常隔一年升一次级。这笔账是这么算的：单独的Photoshop CC是每年240美元。在以前，年度的升级版售价是200美元，而且你不用每年都升级。你在三年里可能只花了200或400美元；现在得花720美元。
+And Adobe could raise the rental prices at any time. Every year, if it chooses.
+而且Adobe随时可以提高租金。只要它愿意，可以每年都涨价。
+Adobe also benefits because a rental plan helps it cut down on software piracy. Despite its name (CC stands for Creative Cloud), the new software versions are not, in fact, stored online. You still download Photoshop, Illustrator and the other programs and run them from your computer. But the downloaded software checks in with the mother ship every 30 days, over the Internet, to make sure the subscription is up to date. If not, you’re locked out.
+租用方案给Adobe带来的另一个好处是可以减少软件盗版。虽然叫CC（CC是Creative Cloud[意为“创意云”——译注]的缩写），但最新版的软件实际上不是存储在网上的。你还是得下载Photoshop、Illustrator等等软件，在你自己的电脑上运行它们。但是这些软件被下载后每30天会通过互联网跟母舰联络，确保租金是如期缴纳的。如若不然，你就要被锁在外面了。
+Finally, Adobe benefits because it’s no longer committed to a difficult, relentless annual release cycle. There will no longer be a big new version of each Adobe program each year. Instead, Adobe says that it will regularly slip in new features as soon as they’re ready. The company hasn’t decided whether it will ever use numbers again (Photoshop CS4, CS5, CS6), but for now, the name is simply Photoshop CC.
+最后Adobe还有一点好处，它不用再守着每年发布一个新版这个困难而无休止的周期了。用不着每年为每款Adobe软件发布一个大幅升级版。Adobe说，他们会经常性地悄悄加入一些新特性，做好了就加。公司还没决定要不要继续用数字版本号(Photoshop CS4、CS5、CS6)，但眼下软件的名字就叫Photoshop CC了。
+So far, the switch to a rental-only plan may sound like a rotten deal for many creative people, especially small operators on a budget. And, indeed, many of them are horrified by the switch. A touching but entirely hopeless petition (j.mp/1aynMtK) has 35,000 signatures so far. (“We want you to restart development for Adobe Creative Suite 7 and all future Creative Suites,” it says. “Do it for the freelancers. For the small businesses. For the average consumer.”)
+目前看来，转向只供租用的方案对许多创意人士来说是笔糟糕的买卖，尤其是预算有限的小经营者。的确，他们中很多人都被这次转变吓到了。有人发起了一场感人但毫无希望的请愿活动(j.mp/1aynMtK)，至今已经拿到3.5万个签名。（“我们希望你们重启Adobe Creative Suite 7和所有未来Creative Suites的开发，”请愿书说，“这是为了自由职业者。为了小企业。为了普通消费者。”）
+Adobe, however, points out that rental customers gain vast advantages over the old “you buy it” system. The big one, of course, is that perpetual refinement principle. You’ll always be up to date with software that’s constantly improving.
+而Adobe指出，相比老式的“你出钱买”制度，租赁消费者能得到很多实惠。其中最大的一个好处当然就是永久改进的准则。你总是能用上一个不断改进的软件的最新版。
+Adobe also points out that subscribing to Photoshop gets you more than just the right to download the software. The subscription comes with access to Behance, an online portfolio where you can display your Adobe-created documents and read admiring comments from fellow creative types. You also get 20 gigabytes of online storage for files, Dropbox style, so you can work on them wherever you happen to be.
+Adobe还指出，成为Photoshop付费用户得到的不只是软件的下载权。会员还能用上在线作品集Behance，可以用来展示自己用Adobe软件制作的文件，并能看到创意同仁留下的赞美之词。此外，你可以得到20GB的Dropbox式在线存储空间，可以随时随地投入工作。
+Another perk: As before, you can use your rented programs simultaneously on two computers — but now, one can be a Mac and one can be a Windows machine.
+还有一个好处：和以前一样，你可以同时在两台电脑上使用租来的软件——但现在你可以同时在一台Mac和一台Windows电脑上用。
+Finally, what you get by subscribing is a whole new version of Photoshop (and whatever other programs you use). And there’s no doubt about it: Adobe is introducing CC with a powerful, well-designed, polished suite.
+最后，你交费得到的是一个全新的Photoshop（或你用的任何其他软件）。有一点毫无疑问：Adobe正在推出的CC是一个功能强大、设计精良、精雕细琢的套件。
+Photoshop looks lovely. It’s still staggeringly complicated, but it’s about as well designed as any program with well over 500 menu commands can be. It requires a high-horsepower, newish computer (Mac OS X 10.7 or Windows 7 and later), but it opens faster than before.
+Photoshop看上去很棒。它还是复杂得让人目瞪口呆，但是一个提供了超过500个菜单命令的程序，大概也只能设计到这个程度了。它需要有马力更强、更新的电脑（Mac OS X 10.7或Windows 7以及更高版本），但是打开速度比以前快了。
+The most talked-about new feature is Shake Reduction, which is intended to fix photos that were blurry because the camera moved slightly during the exposure. Shake Reduction can’t help pictures that are blurry because the subject was moving. And even in camera-shake pictures, it doesn’t always work well, or at all. But every now and then, it performs real magic.
+说得最多的一个新特性是“抖动消除”(Shake Reduction)，用来修正因曝光时发生轻微抖动而变模糊的照片。由于被摄物体在运动而产生的模糊，使用抖动消除功能是无效的。即使是相机抖动的情况下，它也不见得总是能见效。不过偶尔会出现一些魔术般的神奇表现。
+Photoshop is now even more impressive when it comes to resizing an image. It’s much easier to shrink one — and amazingly good at enlarging, or “uprezzing” one. In essence, it creates pixels where none existed, turning (for example) a 2-megapixel photo into a 4-megapixel one, without degrading the image as much as you’d expect.
+改变图片大小的功能比以前还要强悍。缩小图片更方便了——放大图片，或者“提升分辨率”(uprezzing)的时候，表现极为出色。本质上这个功能是凭空创造出像素，比如它会把一张200万像素的照片变成400万像素，画质降低的幅度之小超出你的想象。
+In other words, the software improvements are welcome. The new pricing may not be.
+换句话说，软件的改进是受认可的。新定价就不好说了。
+There are alternatives to Photoshop, of course. They include ACDSee, PaintShop Pro, Pixelmator and Adobe’s own easier-to-use but less powerful Photoshop Elements. (Elements and Lightroom remain buyable, by the way.)
+当然，Photoshop是有一些替代选项的。其中包括ACDSee、PaintShop Pro、Pixelmator和Adobe自己的Photoshop Elements，更易用，但功能不及Photoshop强大。（对了，Elements和Lightroom还是可以买的。）
+But let’s face it: most professionals think they need Photoshop. So Adobe’s incentive to keep improving these programs isn’t exactly life or death. Nobody knows what improvements Adobe plans to add, how many, how often, or what the subscription rates will be next year or the year after that. Adobe is just saying, “Trust us.”
+不过咱们面对现实吧：大多数专业人士都认为他们需要Photoshop。所以Adobe改进这些软件的动力并不能说是巨大无比的。谁也不知道Adobe会做出什么改进，有多少改进，有多频繁，或者明年、后年的费用会是多少。Adobe就说了一句“相信我们。”
+Whether you do or not, there’s no denying that the big picture has changed. From now on, you won’t just cut monthly checks for your mortgage, your electric bill and your cable TV. Now, you’ll be cutting one more — for your software.
+不管你信不信，大环境已经改变是无可争辩的事实。从今往后，你每月要交的不只是房贷、电费和有线电视费了，还要再加上一项——你的软件费。

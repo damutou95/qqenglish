@@ -1,0 +1,64 @@
+Early on the morning of Sept. 26, 1983, Stanislav Petrov helped prevent the outbreak of nuclear war.
+1983年9月26日上午，斯坦尼斯拉夫·彼得罗夫(Stanislav Petrov)帮助避免了一场核战争的爆发。
+A 44-year-old lieutenant colonel in the Soviet Air Defense Forces, he was a few hours into his shift as the duty officer at Serpukhov-15, the secret command center outside Moscow where the Soviet military monitored its early-warning satellites over the United States, when alarms went off.
+他是苏联空军上校，时年44岁，在莫斯科城外的秘密指挥中心Serpukhov-15工作，那天他当班几个小时之后，苏军监视美国的早期预警卫星警报突然响起来了。
+Computers warned that five Minuteman intercontinental ballistic missiles had been launched from an American base.
+计算机警告说，美国一个基地发射了五枚“民兵”(Minuteman)洲际弹道导弹。
+“For 15 seconds, we were in a state of shock,” he later recalled. “We needed to understand, ‘What’s next?’ ”
+“有15秒钟的时间里，我们处于震惊状态。”他后来回忆说。“我们需要明白‘下一步怎么办？’”
+The alarm sounded during one of the tensest periods in the Cold War. Three weeks earlier, the Soviets had shot down a Korean Air Lines commercial flight after it crossed into Soviet airspace, killing all 269 people on board, including a congressman from Georgia. President Ronald Reagan had rejected calls for freezing the arms race, declaring the Soviet Union an “evil empire.” The Soviet leader, Yuri V. Andropov, was obsessed by fears of an American attack.
+警报响起的时候，正是冷战最紧张的时期之一。三周前，大韩航空的一个商业航班在进入苏联领空后被击落，造成269人死亡，机上还有一名美国乔治亚州的众议员。罗纳德·里根(Ronald Reagan)总统拒绝了冻结军备竞赛的呼吁，声称苏联是一个“邪恶帝国”。苏联领导人尤里·V·安德罗波夫(Yuri V. Andropov)极为担心美国会发起攻击。
+Colonel Petrov was at a pivotal point in the decision-making chain. His superiors at the warning-system headquarters reported to the general staff of the Soviet military, which would consult with Mr. Andropov on launching a retaliatory attack.
+彼得罗夫上校处在这个决策链的关键位置上。他在警戒系统总部的上司向苏军总参谋部汇报了情况，而总参谋部将与安德罗波夫商量是否要发动报复性袭击。
+After five nerve-racking minutes — electronic maps and screens were flashing as he held a phone in one hand and an intercom in the other, trying to absorb streams of incoming information — Colonel Petrov decided that the launch reports were probably a false alarm.
+经过极为紧张的5分钟——电子地图和屏幕在闪烁，他一手拿着电话，一手拿着对讲机，试图厘清状况——彼得罗夫上校判定，这个发射报告可能是一个假警报。
+As he later explained, it was a gut decision, at best a “50-50” guess, based on his distrust of the early-warning system and the relative paucity of missiles that were launched.
+后来他解释说，这是他的直觉，最多只算是一个“五五开”的猜测，根本原因是他对预警系统不太信任，而且发射的导弹数量也相对较少。
+Colonel Petrov died at 77 on May 19 in Fryazino, a Moscow suburb, where he lived alone on a pension. The death was not widely reported at the time. It was confirmed by his son, Dmitri, according to Karl Schumacher, a political activist who, after learning in 1998 of Colonel Petrov’s Cold War role, traveled to Russia to meet him and remained a friend. The cause was hypostatic pneumonia.
+彼得罗夫上校今年5月19日在莫斯科郊区弗里亚济诺去世，他独自住在那里，靠养老金生活。他的过世当时没有获得广泛报道。根据政治活动家卡尔·舒马赫(Karl Schumacher)的说法，彼得罗夫之死得到了他儿子德米特里(Dmitri)的证实。舒马赫在1998年得知彼得罗夫上校在冷战中的角色后，前往俄罗斯与他见面，之后两人一直是朋友。彼得罗夫死于坠积性肺炎。
+Stanislav Yevgrafovich Petrov was born on Sept. 7, 1939, near Vladivostok, Russia. His father had been a fighter pilot during World War II; his mother was a nurse. He studied at the Kiev Higher Engineering Radio-Technical College of the Soviet Air Force.
+斯坦尼斯拉夫·叶夫格拉福维奇·彼得罗夫(Stanislav Yevgrafovich Petrov)1939年9月7日出生在俄罗斯的符拉迪沃斯托克附近。他的父亲是二战期间的战斗机飞行员，母亲是护士。他曾就读于苏联空军的基辅高级工程无线电技术学院。
+After joining the Air Defense Forces, he rose quickly through the ranks; he was assigned to the early-warning system at its inception in the early 1970s.
+加入空军后，他晋升很快。1970年代初，他在预警系统创建初期就调到了那里。
+Historians who have analyzed the episode say that Colonel Petrov’s calm analysis helped avert catastrophe.
+分析这一事件的历史学家说，彼得罗夫上校的冷静分析帮助避免了一场灾难。
+As the computer systems in front of him changed their alert from “launch” to “missile strike,” and insisted that the reliability of the information was at the “highest” level, Colonel Petrov had to figure out what to do.
+当他面前的计算机系统将警戒级别从“发射”变为“导弹袭击”，并一直显示信息的可靠性处于“最高”级别时，彼得罗夫上校必须想清楚该怎么办。
+The estimate was that only 25 minutes would elapse between launch and detonation.
+在发射和引爆之间大约只有25分钟的时间。
+“There was no rule about how long we were allowed to think before we reported a strike,” he told the BBC. “But we knew that every second of procrastination took away valuable time, that the Soviet Union’s military and political leadership needed to be informed without delay. All I had to do was to reach for the phone; to raise the direct line to our top commanders — but I couldn’t move. I felt like I was sitting on a hot frying pan.”
+“没有规定说在上报导弹袭击之前，我们可以思考多长时间。”他告诉英国广播公司(BBC)说。“但是我们知道，每拖延一秒都是在浪费宝贵的时间，需要立即通知苏联的军事和政治领导层。我要做的事情就是拿起电话，拨通我们最高指挥官的直线——但是我不能。我觉得我坐在一个烧热的煎锅上。”
+As the tension in the command center rose — as many as 200 pairs of eyes were trained on Colonel Petrov — he made the decision to report the alert as a system malfunction.
+随着指挥中心的紧张状态加剧——多达200双眼睛注视着彼得罗夫上校——他做出了上报系统故障的决定。
+“I had a funny feeling in my gut,” he told The Washington Post. “I didn’t want to make a mistake. I made a decision, and that was it.”
+“我心里有一种奇怪的感觉，”他对《华盛顿邮报》说。“我不想犯错误。我做出了决定，就是这样。”
+Colonel Petrov attributed his judgment to both his training and his intuition. He had been told that a nuclear first strike by the Americans would come in the form of an overwhelming onslaught.
+彼得罗夫上校将这个判断归功于他受的训练和他的直觉。他被告知，美国人会以全面打击的形式发动核袭击。
+“When people start a war, they don’t start it with only five missiles,” he told The Post.
+他说：“如果有人发动战争，他们不会一开始只发射五枚导弹。”
+Moreover, Soviet ground-based radar installations — which search for missiles rising above the horizon — did not detect an attack, although they would not have done so for several minutes after launch.
+此外，苏联的地面雷达装置——可以搜寻在地平线以上的导弹——并没发现有袭击，尽管在发射后几分钟内它们也发现不了袭击。
+Colonel Petrov was at first praised for his calm, but in an investigation that followed, he was asked why he had failed to record everything in his logbook. “Because I had a phone in one hand and the intercom in the other, and I don’t have a third hand,” he replied.
+彼得罗夫上校最开始因为冷静获得了称赞，但在接下来的调查中，他被问到为什么没有在日志中记录下一切。“因为我一只手拿电话，一只手拿对讲机，我没有第三只手，”他回答。
+He received a reprimand.
+他遭到训斥。
+The false alarm was apparently set off when the satellite mistook the sun’s reflection off the tops of clouds for a missile launch. The computer program that was supposed to filter out such information had to be rewritten.
+假警报似乎是在卫星错把太阳在云层顶端的反射当作导弹发射时触发的。本应过滤掉这类信息的计算机程序不得不重写。
+Colonel Petrov said the system had been rushed into service in response to the United States’ introduction of a similar system. He said he knew it was not 100 percent reliable.
+彼得罗夫说，该系统仓促投入使用是因为美国引入了一个类似的系统。他说他知道那个系统不是百分之百可靠。
+“We are wiser than the computers,” he said in a 2010 interview with the German magazine Der Spiegel. “We created them.”
+“我们比计算机聪明，”他在2010年接受德国杂志《明镜》周刊(Der Spiegel)的采访时说。“我们创造了它们。”
+Cold War tensions persisted. In November 1983, NATO carried out Able Archer 83, a big military exercise simulating a coordinated nuclear attack. The exercise, alongside the arrival in Europe of Pershing II nuclear missiles, led some in the Soviet leadership to believe that the United States was using it as a cover for war; the Soviets placed air units in East Germany and Poland on alert. (Able Archer is the backdrop for the recent television series “Deutschland ’83.”)
+冷战的紧张局势持续存在。1983年11月，北约进行了模拟协调核袭击的大型军事演习“优秀射手83”(Able Archer 83)。这场演习，连同“潘兴二型”(Pershing II)核导弹抵达欧洲，促使苏联领导层中的一些人认为，美国是在用它作为战争的幌子。苏联下令东德和波兰境内的空军部队处于戒备状态。（最近的电视连续剧《德国83年》[Deutschland ’83]即以“优秀射手”军演为背景。）
+Colonel Petrov retired from the military in 1984. He got a job as a senior engineer at the research institute that had created the early-warning system, but retired to care for his wife, Raisa, who had cancer. She died in 1997.
+1984年，彼得罗夫从军队退役。他在研发上述预警系统的研究所获得了高级工程师的工作，但却为了照顾患癌的妻子蕾莎(Raisa)而退休。1997年，蕾莎去世。
+In addition to his son, Dmitri, Colonel Petrov is survived by a daughter, Yelena, and two grandchildren.
+除儿子德米特里外，彼得罗夫身后的亲人还包括女儿叶连娜(Yelena)和两个孙辈。
+Colonel Petrov had largely faded into obscurity — at one point he had been reduced to growing potatoes to feed himself — when his role in averting nuclear Armageddon came to light in 1998 with the publication of the memoir of Gen. Yuriy V. Votintsev, the retired commander of Soviet missile defense.
+彼得罗夫上校在一段时间里基本上已变得默默无闻——一度不得不自己种土豆过活——直到1998年已退役的苏联导弹防御指挥官尤里·V·沃京采夫(Yuriy V. Votintsev)将军的回忆录出版，他在防止核决战中的角色才大白于天下。
+The book brought Colonel Petrov a measure of prominence. In 2006, he traveled to the United States to receive an award from the Association of World Citizens, and in 2013 he was awarded the Dresden Peace Prize. He was the subject of a 2014 hybrid documentary-drama, “The Man Who Saved the World.”
+这本书给彼得罗夫带来了一定程度的声望。2006年，他去美国接受了世界公民总会(Association of World Citizens)的颁奖。2013年，他被授予德累斯顿和平奖(Dresden Peace Prize)。2014年的纪实片《世界存亡一指间》(The Man Who Saved the World)讲述的就是他的故事。
+Jakob Staberg, the producer of the film, said in a phone interview on Monday that he had tried to contact Colonel Petrov by phone and email for the last several weeks, hoping to discuss the film’s Russia release, scheduled for February. He said he had not thought much of the delay because Colonel Petrov often traveled.
+该片制片人雅各布·斯塔贝里(Jakob Staberg)周一接受电话采访时说，他在过去几周试图通过电话和电子邮件联系彼得罗夫，希望讨论明年2月在俄罗斯发行该片的相关事宜。他自称没有对彼得罗夫的不及时回复想太多，因为后者经常外出旅行。
+Colonel Petrov’s role in the film brought him into contact with American celebrities like the actors Kevin Costner and Robert De Niro, but he did not embrace the spotlight. “I was just at the right place at the right time,” he says in the film.
+彼得罗夫在该片中的角色让他与美国演员凯文·科斯特纳(Kevin Costner)和罗伯特·德尼罗(Robert De Niro)等美国名流有了往来。但他不喜欢外界的关注。“我只是在正确的时间待在了正确的地方，”他在该片中说。

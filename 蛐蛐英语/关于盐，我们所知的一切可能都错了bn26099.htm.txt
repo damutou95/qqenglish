@@ -1,0 +1,70 @@
+The salt equation taught to doctors for more than 200 years is not hard to understand.
+两百多年来一直被教授给医生的水盐平衡，并不是个难理解的理论。
+The body relies on this essential mineral for a variety of functions, including blood pressure and the transmission of nerve impulses. Sodium levels in the blood must be carefully maintained.
+人类的身体依赖这种必不可少的矿物质实现各种机能，包括血压和传递神经脉冲。我们必须小心地维持血液中的钠浓度。
+If you eat a lot of salt — sodium chloride — you will become thirsty and drink water, diluting your blood enough to maintain the proper concentration of sodium. Ultimately you will excrete much of the excess salt and water in urine.
+如果你食用了很多盐——氯化钠——就会口渴，会喝水，这样就会稀释你的血液，使之保持适当的钠浓度。最终你会通过尿液排出大部分多余的盐和水。
+The theory is intuitive and simple. And it may be completely wrong.
+这个理论直观简单。但它或许完全是错误的。
+The research, published recently in two dense papers in The Journal of Clinical Investigation, contradicts much of the conventional wisdom about how the body handles salt and suggests that high levels may play a role in weight loss.
+一项研究否定了有关身体如何处理盐分的许多传统认知，并表明高浓度的盐分或许对减肥有帮助。该研究最近通过在《临床调查杂志》(The Journal of Clinical Investigation)上的两篇复杂的论文得到发表。
+The findings have stunned kidney specialists.
+这些结果令肾脏专家感到震惊。
+“This is just very novel and fascinating,” said Dr. Melanie Hoenig, an assistant professor of medicine at Harvard Medical School. “The work was meticulously done.”
+“实在太新奇、太惊人了，”哈佛医学院(Harvard Medical School)医学助理教授梅拉妮·霍尼格(Melanie Hoenig)说。“研究做得十分严谨。”
+Dr. James R. Johnston, a professor at the University of Pittsburgh, marked each unexpected finding in the margins of the two papers. The studies were covered with scribbles by the time he was done.
+匹兹堡大学(University of Pittsburgh)教授詹姆斯·R·约翰斯顿(James R. Johnston)在两篇文章的页边标出了每一个让他意想不到的发现。结果两篇论文都被他涂满了。
+“Really cool,” he said, although he added that the findings need to be replicated.
+“的确很酷”，他说。不过他也提到，这些发现需要重复验证。
+The new studies are the culmination of a decadeslong quest by a determined scientist, Dr. Jens Titze, now a kidney specialist at Vanderbilt University Medical Center and the Interdisciplinary Center for Clinical Research in Erlangen, Germany.
+这些新发现是科学家延斯·蒂策(Jens Titze)几十年坚持不懈研究的结果，他现在是范德堡大学医学中心(Vanderbilt University Medical Center)和德国埃朗根临床研究跨学科中心(Interdisciplinary Center for Clinical Research in Erlangen)的肾脏专家。
+In 1991, as a medical student in Berlin, he took a class on human physiology in extreme environments. The professor who taught the course worked with the European space program and presented data from a simulated 28-day mission in which a crew lived in a small capsule.
+1991年，还是一名柏林医学生的蒂策，上了一门有关极端环境下人体生理的课程。这门课的教授与欧洲太空计划合作，展示了一项为期28天的模拟飞行任务的数据。在这项任务中，全体宇航员都生活在一个小太空舱里。
+The main goal was to learn how the crew members would get along. But the scientists also had collected the astronauts’ urine and other physiological markers.
+这项任务的主要目标是了解宇航员们会如何相处。但科学家们也收集了他们的尿液和其他生理指标。
+Titze noticed something puzzling in the crew members’ data: Their urine volumes went up and down in a seven-day cycle. That contradicted all he’d been taught in medical school: There should be no such temporal cycle.
+蒂策在这些数据中注意到了一些令人困惑的地方：宇航员们的尿量以七天为一个周期上下波动。这与他在医学院学到的东西是完全矛盾的：不应该有这样的时间周期。
+In 1994, the Russian space program decided to do a 135-day simulation of life on the Mir space station. Titze arranged to go to Russia to study urine patterns among the crew members and how these were affected by salt in the diet.
+1994年，俄罗斯太空计划决定在和平号(Mir)空间站进行为期135天的生命模拟实验。蒂策设法去了俄罗斯，研究宇航员的尿液变化规律，以及饮食中的盐如何影响这些变化。
+A striking finding emerged: a 28-day rhythm in the amount of sodium the cosmonauts’ bodies retained that was not linked to the amount of urine they produced. And the sodium rhythms were much more pronounced than the urine patterns.
+结果他有了一个惊人的发现：宇航员身体中的纳浓度以28天为周期进行变化，而且这些变化与他们的尿量多少无关。此外，钠浓度的变化规律也比尿样变化更加显著。
+The sodium levels should have been rising and falling with the volume of urine. Although the study wasn’t perfect — the crew members’ sodium intake was not precisely calibrated — Titze was convinced something other than fluid intake was influencing sodium stores in the crew’s bodies.
+纳浓度本应随着尿量变化而增减。尽管这项研究不够完美——宇航员的钠摄入量没有经过精确的校准——但蒂策确信，有液体摄取之外的其他东西在影响船上宇航员体内的纳存储。
+The conclusion, he realized, “was heresy.”
+他意识到，这样的结论是“异端邪说”。
+In 2006, the Russian space program announced two more simulation studies, one lasting 105 days and the other 520 days. Titze saw a chance to figure out whether his anomalous findings were real.
+2006年，俄罗斯太空计划又宣布了两项模拟研究，一项持续105天，另一项520天。蒂策看到一个机会，可以让他搞清楚这些异常的发现是否是真的。
+In the shorter simulation, the cosmonauts ate a diet containing 12 grams of salt daily, followed by 9 grams daily, and then a low-salt diet of 6 grams daily, each for a 28-day period. In the longer mission, the cosmonauts also ate an additional cycle of 12 grams of salt daily.
+在时间较短的那个模拟项目中，宇航员最初的饮食每天摄入12克盐，之后是每天9克，然后变成每天6克的低盐饮食，每个阶段持续28天。在时间更长那个任务里，宇航员们也会多一个每天摄入12克盐的饮食周期。
+Like most of us, the cosmonauts liked their salt. Oliver Knickel, 33, a German citizen participating in the program who is now an automotive engineer in Stuttgart, recalled that even the food that supplied 12 grams a day was not salty enough for him.
+跟我们大多数人一样，这些宇航员也喜欢吃咸的。33岁的德国人奥利弗·克尼克尔(Oliver Knickel)如今是斯图加特一名汽车工程师，当年参加了那个项目。据他回忆，即使是每天提供12克盐的食物对他来说也不够咸。
+When the salt level got down to 6 grams, he said, “It didn’t taste good.”
+他说，当盐含量下降到每天6克时，“就不怎么好吃了。”
+The real shocker came when Titze measured the amount of sodium excreted in the crew’s urine, the volume of their urine, and the amount of sodium in their blood.
+真正让人震惊的事情发生在蒂策测量全体宇航员尿液中的纳含量、他们的尿量，以及血液中的纳浓度时。
+The mysterious patterns in urine volume persisted, but everything seemed to proceed according to the textbooks. When the crew ate more salt, they excreted more salt; the amount of sodium in their blood remained constant, and their urine volume increased.
+诡异的尿量变化规律依然存在，但一切似乎都是和教科书是一致的。当宇航员摄入更多盐，就在尿液中排出更多盐；血液中的钠含量保持不变，但他们的尿量会增加。
+“But then we had a look at fluid intake, and were more than surprised,” he said.
+“但接着我们看了他们的液体摄入量，结果大吃一惊，”他说。
+Instead of drinking more, the crew were drinking less in the long run when getting more salt. So where was the excreted water coming from?
+长时间看，当宇航员摄入更多盐分时，他们并没有摄入更多液体，反倒喝得更少。那他们排泄出去的水是从哪里来的？
+“There was only one way to explain this phenomenon,” Titze said. “The body most likely had generated or produced water when salt intake was high.”
+“只有一种办法可以解释这种现象，“蒂策说。“当盐摄入量增加时，身体很可能自己生成或制造了水分。”
+To get further insight, Titze began a study of mice in the laboratory. Sure enough, the more salt he added to the animals’ diet, the less water they drank. And he saw why.
+为了有进一步的了解，蒂策开始在实验室里用小鼠做研究。果然，他在这些动物的饮食中添加越多的盐，它们的饮水量就会越小。他找到了其中的原因。
+The animals were getting water — but not by drinking it. The increased levels of glucocorticoid hormones broke down fat and muscle in their own bodies. This freed up water for the body to use.
+这些动物是在获得水分——但不是通过饮用。糖皮质激素水平增高，促使体内脂肪和肌肉分解，由此释放出水分，供身体使用。
+But that process requires energy, Titze also found, which is why the mice ate 25 percent more food on a high-salt diet. The hormones also may be a cause of the strange long-term fluctuations in urine volume.
+但蒂策也发现，这个过程需要消耗能量，所以小鼠在高盐分饮食期间进食量增加了25%。这些激素或许也是导致尿量从长期看出现异常波动的一个原因。
+Scientists knew that a starving body will burn its own fat and muscle for sustenance. But the realization that something similar happens on a salty diet has come as a revelation.
+科学家们知道，饥饿的身体会燃烧自己的脂肪和肌肉来维持生命。但意识到采用高盐饮食也会出现类似的情况，给人带来启示。
+People do what camels do, noted Dr. Mark Zeidel, a nephrologist at Harvard Medical School who wrote an editorial accompanying Titze’s studies. A camel traveling through the desert that has no water to drink gets water instead by breaking down the fat in its hump.
+哈佛医学院肾病学家马克·泽德尔(Mark Zeidel)撰写了一篇社论，与蒂策的论文一起发表，其中指出人类的做法和骆驼是一样的。骆驼要穿越没水的沙漠，作为替代，它分解驼峰中的脂肪来获得水分。
+One of the many implications of this finding is that salt may be involved in weight loss. Generally, scientists have assumed that a high-salt diet encourages a greater intake of fluids, which increases weight.
+在这个发现带来的诸多启示中，有一个是我们也许可以利用盐来减肥。科学家们通常认为高盐饮食会促使身体摄入更多液体，进而令体重增加。
+But if balancing a higher salt intake requires the body to break down tissue, it may also increase energy expenditure.
+但如果平衡更高的盐分摄入会促使身体分解组织，那它或许也能增加能量消耗。
+Still, Titze said he would not advise eating a lot of salt to lose weight. If his results are correct, more salt will make you hungrier in the long run, so you would have to be sure you did not eat more food to make up for the extra calories burned.
+不过，蒂策表示他不会建议通过摄入很多盐来减肥。如果他的结果是正确的，那么从长期看，摄入更多的盐会让你感觉更加饥饿，所以你必须确保自己不会吃更多的食物，不然就把额外燃烧的卡路里抵消掉了。
+And, Titze said, high glucocorticoid levels are linked to such conditions as osteoporosis, muscle loss, Type 2 diabetes and other metabolic problems.
+蒂策还提到，高糖皮质激素水平与骨质疏松症、肌肉损失、2型糖尿病等代谢问题存在关联。

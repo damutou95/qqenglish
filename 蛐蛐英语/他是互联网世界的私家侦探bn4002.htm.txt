@@ -1,0 +1,42 @@
+SAN FRANCISCO — In the last year, Eastern European cybercriminals have stolen Brian Krebs’s identity a half dozen times, brought down his website, included his name and some unpleasant epithets in their malware code, sent fecal matter and heroin to his doorstep, and called a SWAT team to his home just as his mother was arriving for dinner.
+旧金山——过去一年，东欧的网络罪犯六次窃取了布雷恩·克雷布斯(Brian Krebs)的身份，搞垮了他的网站，在他们的恶意软件代码中写入了他的名字和一些令人不快的字眼，把粪便和海洛因送到他家门口，还打电话把特警队叫到了他家，当时，他的母亲正好到他家吃晚饭。
+“I can’t imagine what my neighbors think of me,” he said dryly.
+他说，“我无法想象邻居是如何看我的。”
+Mr. Krebs, 41, tries to write pieces that cannot be found elsewhere. His widely read cybersecurity blog, Krebs on Security, covers a particularly dark corner of the Internet: profit-seeking cybercriminals, many based in Eastern Europe, who make billions off pharmaceutical sales, malware, spam, frauds and heists like the recent ones that Mr. Krebs was first to uncover at Adobe, Target and Neiman Marcus.
+41岁的克雷布斯在努力写一些别处看不到的文章。他的网络安全博客“克雷布斯论安全”(Krebs on Security)读者众多，关注的是互联网世界里极其黑暗的一个角落：唯利是图的网络犯罪。这些罪犯很多在东欧，通过医药销售、恶意软件、垃圾邮件、诈骗和盗窃捞取了数十亿财富，克雷布斯最近率先揭露的Adobe、塔吉特百货公司(Target)和尼曼·马库斯百货公司(Neiman Marcus)网络窃案就是其中几例。
+He covers this niche with much the same tenacity of his subjects, earning him their respect and occasional ire.
+他对这个角落的报道如此执拗，和他的报道对象的执拗程度都不相上下了，这让他赢得了对方的尊重，偶尔也会有愤怒。
+Mr. Krebs — a former reporter at The Washington Post who taught himself to read Russian while jogging on his treadmill and who blogs with a 12-gauge shotgun by his side — is so entrenched in the digital underground that he is on a first-name basis with some of Russia’s major cybercriminals. Many call him regularly, leak him documents about their rivals, and try to bribe and threaten him to keep their names and dealings off his blog.
+克雷布斯曾是《华盛顿邮报》(The Washington Post)的一名记者，他利用在跑步机上锻炼的时间自学了俄语，他写博客时身旁放一把12号霰弹枪，他对地下数字世界的报道如此深入，以至于他和一些主要的俄罗斯网络罪犯都有了直呼名字的交情。有许多人会定期给他打电话，向他泄露对手的文件，设法贿赂他和恐吓他，好让他别在自己的博客里曝光他们的名字和交易。
+His clean-cut looks and plain-speaking demeanor seem more appropriate for a real-estate broker than a man who spends most of his waking hours studying the Internet’s underbelly. But few have done more to shed light on the digital underground than Mr. Krebs.
+他棱角分明的五官和直截了当的言谈似乎更适于当一名房地产经纪人，而不是每天一睁眼就把大部分时间用于研究互联网阴暗面。然而，他在揭露地下数字世界上的贡献很少有人能及。
+His obsession with hackers kicked in when he was just another victim. In 2001, a computer worm — a malicious software program that can spread quickly — locked him out of his home computer. “It felt like someone had broken into my home,” Mr. Krebs recalled in an interview. He started looking into it. And he kept looking, learning about spam, computer worms and the underground industry behind it.
+刚开始对黑客着迷时，他仅仅是一个普通的受害者。2001年，一种电脑蠕虫让他无法登录自家的电脑，这是一种能迅速传播的恶意软件程序。克雷布斯在一次采访中回忆说，“那感觉就像是某个人闯进了我家。”他开始调查此次袭击。他不断地调查，了解垃圾邮件、电脑蠕虫和它们背后的地下产业。
+Eventually, his anger and curiosity turned into a full-time beat at The Post and then on his own blog.
+最终，他的愤怒和好奇心转化成了在《华盛顿邮报》的全职报道领域，之后又成为他的博客主题。
+“I realized that if security breaks down, the technology breaks down,” Mr. Krebs said.
+克雷布斯说，“我意识到，如果安全完蛋了，科技也会完蛋。”
+Today, he maintains extensive files on criminal syndicates and their tools. Some security experts readily acknowledge that he knows more about Russia’s digital underground than they do.
+今天，他手里保存着和犯罪团伙及其作案手段有关的大量文件。一些安全专家欣然承认，他对俄罗斯地下数字世界的了解，比他们还要多。
+“I would put him up against the best threat intelligence analyst,” said Rodney Joffe, senior vice president at Neustar, an Internet infrastructure firm. “Many of us in the industry go to him to help us understand what the Eastern European criminals are doing, how they work with each other and who is doing what to whom.”
+互联网基础设施公司中立星公司(Neustar)高级副总裁罗德尼·约弗(Rodney Joffe)说，“我敢说他跟最好的风险情报分析员有一拼。我们当中的许多业内人士都会找他帮忙，有助于我们了解东欧的罪犯正在干什么，他们之间是如何合作的，谁正在对谁干些什么。”
+That proved the case in December when Mr. Krebs uncovered what could be the biggest known Internet credit-card heist. That month, he had been poking around private, underground forums where criminals were bragging about a fresh haul of credit and debit cards.
+去年12月的情况就是这样，当时，克雷布斯揭露了一起互联网信用卡信息失窃案，它也许是此类案件中已知的规模最大的一桩。那个月，他一直在私密的地下论坛中暗访，那里的罪犯正在吹嘘他们新到了大批信用卡和借记卡赃物。
+In the following weeks, Mr. Krebs discovered breaches at Neiman Marcus; Michaels, the arts and crafts retailer; and White Lodging, which manages franchises for major hotel chains like Hilton, Marriott and Starwood Hotels.
+接下来的几周，克雷布斯揭露了尼曼·马库斯百货公司支付卡数据泄密案；艺术品和工艺品零售商迈克尔斯公司(Michaels)信用卡数据泄密案；怀特住宿服务公司(White Lodging)信用卡数据泄密案，后者管理着希尔顿(Hilton)、万豪(Marriott)和喜达屋(Starwood Hotels)等主要的连锁酒店集团。
+It is still unclear whether the attacks were related, but at least 10 other retailers may have been hit by the same hackers that hit Target and are reluctant to acknowledge it.
+目前还不清楚，这些攻击是否存在关联，不过，至少有其他10家零售商可能已经受到攻击塔吉特百货公司的同一批黑客的攻击，这些零售商均不愿承认受到了攻击。
+That is where Mr. Krebs comes in. Unlike physical crime — a bank robbery, for example, quickly becomes public — online thefts are hushed up by companies that worry the disclosure will inflict more damage than the theft, allowing hackers to raid multiple companies before consumers hear about it.
+这正是克雷布斯发挥作用的地方。和抢劫银行等迅速公开化的实体犯罪不同，由于担心曝光案情会使公司蒙受比失窃还重的损失，一些公司对网络盗窃案掩口不语，这使黑客们得以在消费者获悉实情前，袭击多家公司。
+“There’s a lot going on in this industry that impedes the flow of information,” Mr. Krebs said. “And there’s a lot of money to be made in having intelligence and information about what’s going on in the underworld. It’s big business but most people don’t want to pay for it, which explains why they come to someone like me.”
+克雷布斯说，“这个行业里，有很多事情是阻挠信息的流动的。靠着关于地下世界动向的情报和信息能挣到很多钱。这个行业的规模巨大，可是大部分人不想为此付费，这解释了为什么他们会来找像我这样的人。”
+Mr. Krebs is “doing the security industry an enormous favor by disseminating real-time threat information,” said Barmak Meftah, chief executive of AlienVault, a threat-detection service. “We are only as strong as our information. Unless we are very specific and effective about exchanging threat data when one of us gets breached, we will always be a step behind the attackers.”
+克雷布斯“散布实时威胁信息的做法帮了安全行业的大忙，”网络威胁探测服务公司AlienVault的首席执行官巴尔马克·梅夫塔(Barmak Meftah)说，“我们有多坚强，取决于我们的信息有多坚强。除非我们之中的某家公司受到侵害时，能详细而有效地交换威胁数据，否则，我们就会总是被攻击者领先一步。”
+The tally of victims from the breaches at Target, Neiman Marcus and others now exceeds one-third of the United States population — a grim factoid that may offer Mr. Krebs a strange sense of career vindication.
+有超过三分之一的美国人是塔吉特百货公司、尼曼·马库斯百货公司和其他公司的信息被盗案的受害者——这个琐碎而惊人的事实，也许会给克雷布斯一种古怪的事业成就感。
+Mr. Krebs’s readership is growing. In December, 850,000 readers visited his blog, mostly to learn more about the breach at Target. Though he will not disclose figures, Mr. Krebs says the salary he now makes from advertising, occasional speaking engagements and consulting work is a “nice bump” from what he earned at The Post.
+克雷布斯的读者在增长。去年12月，有85万名读者访问了他的博客，其中大部分人是为了了解塔吉特百货公司信息泄密案。克雷布斯不愿公布具体数字，不过他说现在从广告业务、偶尔的演讲活动和咨询业务中挣到的工资，比他在《华盛顿邮报》时的工资“高了一大截”。
+But there are risks implicit to being a one-man operation. “The work that he’s done exposing Eastern European hackers has been seminal,” said Tom Kellermann, vice president for cybersecurity at Trend Micro, a computer security company. “But Brian needs a bodyguard.”
+不过，独来独往是要承担风险的。电脑安全公司趋势科技(Trend Micro)计算机安全事务副总裁汤姆·凯勒曼(Tom Kellermann)表示，“他揭秘东欧黑客的工作一直是开创性的。不过，布雷恩需要一名保镖。”
+Russian criminals routinely feed Mr. Krebs information about their rivals that they obtained through hacks. After one such episode, he began receiving daily calls from a major Russian cybercriminal seeking his files back. Mr. Krebs is writing a book about the ordeal, called “Spam Nation,” to be published by Sourcebooks this year.
+俄罗斯罪犯经常会给布雷克斯提供他们通过黑客攻击窃取到的对手的信息。有一次，在发生了类似事件后，他开始每天都接到一名主要的俄罗斯网络罪犯的来电，后者企图把自己的文件要回去。克雷布斯正在写书细述这些磨难，书名是《垃圾邮件之国》(Spam Nation)，将由Sourcebooks出版社在今年出版。

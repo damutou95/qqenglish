@@ -1,0 +1,34 @@
+In a sign of the rising export ambitions of the Chinese mobile phone industry, a smartphone maker called Xiaomi said Thursday that it had hired a top executive away from Google to lead its international expansion plans.
+智能手机制造商小米公司在周四宣布，该公司已从谷歌公司(Google)挖来一名高管，出任拓展其国际业务计划的带头人，这是中国手机行业出口雄心勃勃的一个迹象。
+The executive, Hugo Barra, is one of the highest-profile Westerners to join a Chinese technology company, analysts said. At Google, he has served as vice president for Google’s Android mobile operating system, which is used by the vast majority of smartphones in China.
+分析人士称，雨果·巴拉(Hugo Barra)是加入中国技术公司的知名度最高的西方管理者之一。在谷歌公司时，他曾任负责谷歌Android移动操作系统的副总裁，中国绝大多数智能手机使用的都是Android操作系统。
+“He’s a significant figure in the industry, a significant figure at Google,” said Pete Cunningham, an analyst at Canalys, a research firm. “It underlines the trend we’re seeing in the market. The Chinese vendors are going to play a big part in shaping the future of the industry.”
+研究公司Canalys的分析师皮特·坎宁安(Pete Cunningham)说，“他是这个行业里的一个大人物，是谷歌的一个重要人物。这突显了我们现在在手机市场上看到的一个趋势。中国制造商在塑造这一行业的未来上正起着很大的作用。”
+Xiaomi is one of a number of Chinese smartphone makers that have been gaining market share in China against foreign rivals like Apple and Nokia. Until recently, these Chinese companies seemed happy with their rising sales in China, the biggest smartphone market, but now companies like Xiaomi, Lenovo and Huawei seem intent on expanding internationally.
+几家中国智能手机制造商正在从诸如苹果公司(Apple)和诺基亚公司(Nokia)等外国对手的竞争中逐渐增加自己的市场份额，小米公司是其中之一。直至最近，这些中国公司似乎满足于自己在中国这个最大的智能手机市场上的销售量不断增长的趋势，但是现在像小米、联想和华为这样的公司似乎都有意拓展其国际业务。
+Xiaomi controlled 5 percent of the smartphone market in China in the second quarter, according to Canalys. That put it well behind the leader, Samsung Electronics of South Korea, which had an 18 percent share, but slightly ahead of Apple, with 4.8 percent.
+根据Canalys的数据，今年第二季度小米公司在中国智能手机市场上占有5%的市场份额，远落后于该行业的领军者韩国三星电子公司(Samsung Electronics)，三星公司的市场份额为18%，但比占有市场4.8%的苹果公司略微领先。
+Despite selling mostly in the domestic market, Chinese smartphone brands already account for about one-fifth of sales worldwide, according to Canalys. Including smartphones made in Chinese factories for foreign brands like Apple, however, Chinese production accounts for a majority of global sales.
+Canalys数据显示，尽管中国智能手机品牌的主要销售市场在国内，但它们约占世界市场销售量的五分之一。然而，如果算上像苹果这样的外国公司在中国制造的智能手机的话，中国的产量则占全球销售量的大多数。
+Mr. Barra said in a statement posted on a Google social networking service that he intended to help Xiaomi “expand their incredible product portfolio and business globally.”
+巴拉在谷歌社交媒体上发帖称，他有意帮助小米公司“将其极好的产品系列及业务向全球拓展”。
+“I’m really looking forward to this new challenge, and am particularly excited about the opportunity to continue to help drive the Android ecosystem,” he wrote.
+他写道，“我非常期待这个新挑战，尤其是为有机会继续帮助推动Android生态系统感到兴奋。”
+A main selling point for Chinese smartphones has been price. Xiaomi sells phones ranging from about $180 to $300, according to Counterpoint Technology Market Research. That is less than half the price of high-end phones from Samsung or Apple, though slightly higher than comparably equipped devices from many other Chinese brands.
+中国智能手机的一个主要卖点是价格。根据Counterpoint 技术市场研究公司(Counterpoint Technology Market Research)的数据，小米手机的售价从180美元到300美元不等，不到三星或者苹果公司高端手机售价的一半，但与很多有类似配置的其他中国品牌的手机相比，价格略高。
+“The phones are not necessarily superior, but they have created a lot of buzz,” said Tom Kang, an analyst at Counterpoint. “They’ve realized that the differentiation you can do now with hardware or software is very marginal, and that the future will be about marketing.”
+Counterpoint公司的分析师汤姆·康(Tom Kang)说，“小米手机不一定更好，但他们制造了很大的声势。他们已经意识到，如今靠硬件或者软件上的差异来区分产品的空间很小，未来主要靠市场营销。”
+The chief executive of Xiaomi, Lei Jun, has taken a page from the marketing playbook of Steven P. Jobs, the late Apple co-founder, organizing flashy, on-stage product introductions at which he appears in jeans and black shirts.
+小米公司总裁雷军已经从苹果公司已故的共同创始人史蒂夫·P·乔布斯(Steven P. Jobs)的销售策略中学到一手，为产品组织炫目的舞台推介，他身穿牛仔裤和黑色T恤出现在这种场合。
+Mr. Lei welcomed Mr. Barra to China in a microblog posting in which he wrote: “Hugo Barra will indeed join Xiaomi in early October, and he’ll take charge of expanding international business.”
+雷军以一则微博贴子对巴拉的加盟表示欢迎，他写道，“雨果·巴拉的确将于十月初加盟小米，负责小米国际业务拓展。”
+While Xiaomi phones bear physical resemblances to iPhones, they are different in at least one significant way: they run on a customized version of Android. Though Google pulled much of its business out of mainland China three years ago, its Android software is used on more than 90 percent of smartphones in the country.
+虽然小米手机在外型上和iPhone手机相似，但它们至少有一处实质性的不同：小米手机使用的是Android操作系统的一个定制版本。虽然谷歌公司在三年前已经从中国大陆撤走了其大部分业务，但中国90%以上的智能手机使用的是该公司的Android软件。
+The hiring of Mr. Barra is part of an effort to move Xiaomi beyond selling phones and to widen its scope, said Lu Shan, a technology industry analyst.
+技术行业分析师卢山说，雇佣巴拉是小米公司拓展手机销售以外业务的努力的一部分。
+“Xiaomi, if they remain a hardware company in the future, they’ll always be undervalued,” Mr. Lu said. “So I think in the future they will do more development and expansion on the software and applications side.”
+卢山说，“如果小米公司在未来依然只制造硬件的话，其市场价值将永远会被低估。所以我认为他们在未来会在软件和应用方面有更多发展和拓展。”
+Xiaomi recently upgraded its sales forecast, saying it aimed to sell 20 million smartphones this year, up from a previous estimate of 15 million. Mr. Lei said this month that the company had raised new funding from outside investors in a deal that gave Xiaomi a valuation of $10 billion.
+最近小米公司将销售预期上调，称预计今年的销售目标为2000万台智能手机，而此前的预计数量为1500万台。雷军在本月说，小米公司已经从外部投资者中筹集到新的资金，这笔交易对小米公司的估值为100亿美元。
+“We wish Hugo Barra the best,” Google said in a statement. “We’ll miss him at Google and we’re excited that he is staying within the Android ecosystem.”
+谷歌公司在一则声明中表示，“我们祝愿雨果·巴拉一切顺利。我们将怀念他的谷歌的时光，我们也为他能留在安卓生态系统内感到兴奋。”

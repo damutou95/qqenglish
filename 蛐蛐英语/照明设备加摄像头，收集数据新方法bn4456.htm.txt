@@ -1,0 +1,24 @@
+Visitors to Terminal B at Newark Liberty International Airport may notice the bright, clean lighting that now blankets the cavernous interior, courtesy of 171 recently installed LED fixtures. But they probably will not realize that the light fixtures are the backbone of a system that is watching them.
+来到纽瓦克自由国际机场(Newark Liberty International Airport)B航站楼的人可能会注意到，大厅内部全都覆盖着明亮清晰的灯光，而这要感谢近期安装的171盏LED照明装置。不过，他们大概不会意识到，这些照明设备也是监控系统的核心部件。
+Using an array of sensors and eight video cameras around the terminal, the light fixtures are part of a new wireless network that collects and feeds data into software that can spot long lines, recognize license plates and even identify suspicious activity, sending alerts to the appropriate staff.
+布满航站楼的照明设备中带有一系列的传感器以及八个视频摄像头，是一套新的无线网络的一部分。这个网络搜集数据，并将其输入软件中，进而探测出长队、识别车牌，乃至确认可疑活动，最后向相关人员发出警告。
+The project is still in its early stages, but executives with the Port Authority of New York and New Jersey, which operates the airport, are already talking about expanding it to other terminals and buildings.
+项目仍处于初级阶段，但负责这座机场运营工作的纽约与新泽西港口事务管理局(Port Authority of New York and New Jersey)的高层已经在谈论，把它安装到其他航站楼和建筑中去。
+To customers like the Port Authority, the systems hold the promise of better management of security as well as energy, traffic and people. But they also raise the specter of technology racing ahead of the ability to harness it, running risks of invading privacy and mismanaging information, privacy advocates say.
+在港务局这样的客户看来，此类系统有望更好地管理安全、能源、交通和人流问题。不过，隐私维权人士认为，它们同时又让人担心技术会超越人类的掌控能力，带来侵犯隐私及信息管理不善的风险。
+Fred H. Cate, director of the Center for Applied Cybersecurity Research at Indiana University, described the potential for misuse as “terrifying.”
+印第安纳大学应用网络安全研究中心(Center for Applied Cybersecurity Research at Indiana University)的主任弗雷德·H·卡特(Fred H. Cate)称，滥用的可能性相当“骇人”。
+What began as a way to help governments and businesses save energy by automatically turning lights on and off has become an expanding market for lights, sensors and software capable of capturing and analyzing vast amounts of data about the habits of ordinary citizens.
+一开始，它只是通过自动开关灯光来帮助政府和企业节约能源的一种方式，如今却已成为一个不断扩张的市场，囊括了灯具、传感器，以及可以普通民众习惯相关的海量数据进行采集和分析的软件。
+The light fixtures are outfitted with special chips and connect to sensors, cameras and one another over a wireless network. Data that is collected — say, a particular car pulling up to the terminal — can then be mined and analyzed for a broad range of applications. Systems like the Port Authority’s, developed by a company called Sensity Systems, could soon be more widely available. Under a recent agreement, Amerlux, a leading lighting manufacturer, will start using the technology in its LED fixtures.
+这种照明设备配备了特殊芯片，通过无线网相互关联，并接上传感器和摄像头。搜集到的数据——比如某辆车即将停靠在航站楼——可以通过多种应用来进行挖掘和分析。港务局的系统由一家名为Sensity系统(Sensity Systems)的公司研发。类似的系统或许很快就能推广开来。按照近期达成的一项协议，在业内领先的照明设备生产商Amerlux将开始在自家的LED设备中采用这种技术。
+“We are opening up an entirely new area in lighting applications and services,” said Chuck Campagna, Amerlux’s chief executive, “including video-based security and public safety, parking management, predictive maintenance and more.”
+Amerlux首席执行官查克·坎帕尼亚(Chuck Campagna)称，“我们正在开拓一个照明应用及服务的全新领域，其中包括以视频为基础的安保与公共安全、停车管理，以及预见性养护等。”
+Other companies, including giants like Cisco Systems and Philips, are racing to grab a share of that market.
+其他一些企业，比如行业巨头思科系统(Cisco Systems)和飞利浦(Philips)，也在竞相抢占市场份额。
+Las Vegas is testing a street lighting system that can broadcast sound, and plans to use it mainly to control lighting and play music or to issue security alerts at a pedestrian mall.
+拉斯维加斯正在测试一种可以播放声音的街道照明系统，并且计划主要用于控制照明、播放音乐，以及在商业步行街发出安全警报。
+Copenhagen is installing 20,000 streetlamps as part of a system that could eventually control traffic, monitor carbon dioxide levels and detect when garbage cans are full. Other government agencies and businesses have begun replacing thousands of lighting fixtures with LEDs, mainly to cut costs.
+哥本哈根正在安装2万盏路灯。路灯所属的这个系统最终将能够控制交通、监测二氧化碳水平，并检测垃圾箱是否已满。其他一些政府机构和企业则已经开始用LED替换数千台照明设备，这样做主要是为了节省开支。
+Some cities already have more targeted sensors, like the ShotSpotter gunshot location system in use by more than 70 American cities, including Boston, Milwaukee and San Francisco. But the Sensity network can bring them together through existing light fixtures.
+一些城市已经有了目标更明确的传感器，比如波士顿、密尔沃基和旧金山等70多座美国城市正在使用的ShotSpotter枪击定位系统。但是，Sensity公司的网络能够通过已有的照明设备把它们联系起来。

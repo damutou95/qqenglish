@@ -1,0 +1,54 @@
+I’m sorry. I was wrong.
+对不起，我错了。
+This apology is for the bespectacled student at my talk in Cleveland, and the lady in the red dress in Florida, and anyone else who’s recently asked me about the future of the BlackBerry. I told all of them the same thing: that it’s doomed.
+这次道歉的对象是我在克利夫兰演讲时那位戴眼镜的学生、佛罗里达州那位身着红裙的女士，以及所有最近问过我黑莓(BlackBerry)未来命运的人。我给所有人的答案都一样：黑莓注定厄运难逃。
+That wasn’t an outrageous opinion. Once dominant, the BlackBerry has slipped to a single-digit percentage of the smartphone market. The company’s stock has crashed almost 90 percent from its 2008 peak. In the last two years, the BlackBerry’s maker, Research in Motion, released a disastrous tablet, laid off thousands of employees and fired its C.E.O.’s. The whole operation seemed to be one gnat-sneeze away from total collapse.
+这个想法并不奇怪。曾经占主导地位的黑莓，如今在智能手机市场上所占的百分比已经跌到了个位数。与2008年巅峰时期相比，黑莓公司的股票几乎下跌了90%。在过去两年间，黑莓的制造商Research in Motion(RIM)发布了一台糟糕的平板电脑，裁减了数千名员工，解聘了首席执行官。整个业务状况离全面崩溃似乎只是一线之隔。
+The company — which changed its name on Wednesday to simply BlackBerry — kept saying that it had a miraculous new BlackBerry in the wings with a new operating system called BlackBerry 10. But it was delayed and delayed and delayed. Nobody believed anything the company said anymore. Besides — even if there were some great phone, what prayer did BlackBerry have of catching up to the iPhone and Android phones now? Even Microsoft, with its slick, quick Windows Phone, hasn’t managed that trick.
+RIM公司于本周三更名黑莓，它一直表示将发布一部不可思议的新黑莓手机，将采用名为黑莓10的新操作系统。但这一发布却被一而再，再而三地推迟。没人再相信这家公司说的任何话了。此外，即便它的确推出了一些不错的手机，黑莓手机现在又有什么希望能赶上iPhone和Android手机呢？微软(Microsoft)的Windows Phone外观新潮、处理速度块，但就连它都没能做到这一点。
+Well, BlackBerry’s Hail Mary pass, its bet-the-farm phone, is finally here. It’s the BlackBerry Z10, and guess what? It’s lovely, fast and efficient, bristling with fresh, useful ideas.
+好吧，黑莓的救命稻草、这部让黑莓孤注一掷的手机终于问世了。它就是黑莓Z10(BlackBerry Z10)。你猜怎样？这部手机外观迷人、速度快、高效，充满了新鲜而实用的想法。
+And here’s the shocker — it’s complete. The iPhone, Android and Windows Phone all entered life missing important features. Not this one; BlackBerry couldn’t risk building a lifeboat with leaks. So it’s all here: a well-stocked app store, a music and movie store, Mac and Windows software for loading files, speech recognition, turn-by-turn navigation, parental controls, copy and paste, Find My Phone (with remote-control lock and erase) and on and on.
+令人震惊的是，它功能齐全。iPhone、Android和Windows Phone手机在问世时都缺少一些重要功能，但这部手机却非如此；黑莓绝不会冒险建造一艘有裂缝的救生艇。所以，它什么都有：内容丰富的应用商店、一个音乐和电影商店、加载文件所需的苹果和微软软件、语音识别、分段导航功能、家长控制、复制和粘贴、“手机查找”功能（Find My Phone，带有遥控锁定和擦除功能）等。
+The hardware is all here, too. The BlackBerry’s 4.2-inch screen is even sharper than the iPhone’s vaunted Retina display (356 pixels per inch versus 326). Both front and back cameras can film in high definition (1080p back, 720p front).
+它的硬件也很齐全。黑莓手机4.2英寸的屏幕甚至比iPhone鼓吹的Retina显示屏还要清晰锐利（每英寸356像素对比Retina的326像素）。前后两个摄像头都能拍摄高清视频（后置摄像头能够拍摄1080p视屏，前置的为720p）。
+The thin, sleek, black BlackBerry has 16 gigabytes of storage, plus a memory card slot for expansion. Its textured back panel pops off easily so that you can swap batteries. It will be available from all four major U.S. carriers, and Verizon said it would charge $200 with a two-year contract.
+纤薄、光滑、黑色的黑莓手机拥有16G存储空间，还有一个可供扩展的储存卡槽。它的背板触感良好，也很容易打开，方便电池更换。美国的四家主要运营商都将提供这款黑莓手机，威瑞森(Verizon)称该公司两年的合约价为200美元（约合1256元人民币）。
+Some of BlackBerry 10’s ideas are truly ingenious. A subtle light blinks above the screen to indicate that something — a text, an e-mail message, voice mail, a Facebook post — is waiting for you. Without even pressing a physical button, you swipe up the screen; the Lock screen lifts like a drape as you slide your thumb, revealing what’s underneath. It’s fast and cool.
+“黑莓Z10”的很多想法真的很有创意。当屏幕上方的亮度适中的指示灯开始闪烁时，就是告诉你有些事情在等你处理，有可能是短信、电子邮件、语音留言或Facebook信息。不用按任何实体键，你就能滑开屏幕；用大拇指一扫，屏幕锁就会像窗帘一样打开，进入手机界面。又快又酷。
+There are no individual app icons for Messages or Mail. Instead, all communication channels (including Facebook, Twitter and phone calls) are listed in the Hub — a master in-box list that appears at the left edge when you swipe inward. Each reveals how many new messages await and offers a one-tap jump into the corresponding app. It’s a one-stop command center that makes eminent sense.
+短信和邮件都没有单独的应用图标。取而代之的是，所有交流渠道（Facebook、Twitter和电话）都包括在Hub（即“中心”——译注）中，这是一个收件箱管理列表，向内滑动屏幕，它就会出现在左部边缘。每一个都会告诉你有多少条新信息在等待，只需轻轻一按就能跳到对应的程序。这种一站式的控制中心非常合理。
+The BlackBerry’s big selling point has always been its physical keyboard. The company says it will, in fact, sell a model with physical keys (and a smaller screen) called the Q10.
+黑莓手机的最大卖点一直都是它的实体键盘。公司称，它实际上还将出售一款带有实体键盘（及较小屏幕）的机型Q10。
+But you might not need it. On the all-touch-screen model, BlackBerry has come up with a mind-bogglingly clever typing system. Stay with me here:
+但是，也许你不会需要它。黑莓在全触摸屏机型上使用了一个极其聪明的输入系统。跟我往下看：
+As you type a word, tiny, complete words appear over certain on-screen keys — guesses as to the word you’re most likely to want. If you’ve typed “made of sil,” for example, the word “silicone” appears over the letter I key, “silver” over the V, and “silk” over the K. You can fling one of these words into your text by flicking upward from the key — or ignore it and keep typing.
+当你输入单词时，屏幕上特定按键的上方就会出现细小的完整单词，是手机猜测的你最可能想要的单词。比如，如果你输入了“made of sil”，则I、V、K三个键的上方分别会出现“silicone”、“silver”和“silk”这三个词。轻轻将键位上方的单词往上一挑，这个单词便放进你的文本了，或者你也可以不管它，继续输入。
+How well does it work? In this passage, the only letters I actually had to type are shown in bold. The BlackBerry proposed the rest: “I’m going to have to cancel for tonight. There is a really good episode of Dancing With the Stars on.”
+它的运行到底有多棒？在下面这段话里，加粗的字母是我实际输入的，剩下的都是黑莓推荐的：“I’m going to have to cancel for tonight. There is a really good episode of Dancing With the Stars on.”（意为：我不得不取消今晚的安排。因为要播出一集特别好看的《与星共舞》[Dancing With the Stars，美国真人秀节目]。）
+I type 20 characters; it typed 61 for me.
+我输入了20个字母，手机替我输入了61个字母。
+But wait, there’s more. The more you use the BlackBerry, the more it learns your way of writing. When I tried that same passage later, I typed only one letter: the I in “I’m.” Thereafter, the phone predicted each successive word in those sentences, requiring no letter-key presses at all. Freaky and brilliant and very, very fast.
+不过等等，还有呢。你用黑莓的次数越多，它就越了解你的书写方式。当我后来再次尝试输入那同一段话时，我只输入了一个字母，I'm里的I（意为“我”）。随后，手机推测出了那两个句子里接下来的每一个单词，完全不需要再按任何字母键。很惊人、很棒，速度非常非常快。
+There’s speech recognition, too. Hold in the Play/Pause key to get the Z10’s Siri-like assistant. Siri-like in concept, but it’s slower, less accurate and far narrower in scope. You can also speak to type, but the accuracy is so bad, you won’t use it.
+还有语音识别。按住播放/暂停键便能连接到黑莓Z10上类似于Siri的助手。只是在概念上和Siri类似，实际上比Siri慢，准确程度不及Siri，服务范围也更小。你还能通过语音来输入，但准确率非常低，你不会用这个功能的。
+The BlackBerry 10 neatly solves a huge problem for corporate techies: how to keep employees’ work phones secure in a world where people also use their phones for personal things. If a company has BlackBerry’s corporate software suite, separate worlds can be created on each phone: personal and work, with distinct calendars, address books, wallpaper and even app collections. They appear together — but without the work password, only the personal stuff is visible.
+黑莓10巧妙地解决了企业技术人员面临的一个很大的问题：当今世界，人们的手机同时具有私人用途，在这种情况下，如何保护雇员工作手机的安全。如果一家公司使用黑莓的企业软件套装，便能在每部手机上创设不同的分区：个人区域和工作区域，每个区域各自都有不同的日程安排、通讯录、墙纸乃至应用程序集合。它们看起来是在一起的，但如果没有工作密码，便只能看到用户的私人信息。
+When the employee leaves the company, one stroke deletes the whole corporate or personal half.
+当员工离开公司时，只要一下，便能将手机上所有公司或个人的那一半删除掉。
+There are some missteps. There’s no physical silencer switch (only a software function). In the Mail app, you can’t move from one message to the next without returning to the in-box in between. The calendar views don’t rotate when you turn the phone, and you can’t drag appointments to reschedule them. When you’ve used the faux Siri to dictate a message or e-mail, you can’t edit it, even manually. And the battery barely makes it through a day.
+但也有一些失策的地方。手机上没有实体的静音开关（只有一款软件有这个功能）。在邮件应用程序里，你无法直接从一封邮件切换到下一封，必须要先回到收件箱。当你旋转手机时，日历视图不能随之旋转，你也无法通过拖拽预约计划来对它们进行重新安排。当你使用这款仿制Siri来口授讯息或邮件时，你不能对它进行编辑，哪怕是手动也不行。电池也基本上撑不到一天。
+But the usual Achilles’ heel for a new type of smartphone is the apps. Who could catch up with the 750,000 apps available for iPhone or Android? (The BlackBerry Z10 doesn’t run older BlackBerry apps.)
+但对一款新的智能手机来说，致命的弱点通常是应用。谁能赶上iPhone或Android，供它们使用的应用有75万个。（黑莓Z10不用较老的黑莓手机应用。）
+Incredibly, BlackBerry says that there will be 70,000 apps available on Day 1. The company shrewdly wrote a utility program that can convert Android apps, making it simple for programmers to adapt their wares.
+难以置信的是，黑莓称手机上市第一天，就会有7万个应用可用。公司狡猾地写了一个实用程序，这个程序可以对Android的应用程序进行转换，使得程序设计员能轻松地对自己的产品进行调整。
+Most of the big-name apps are already there, but a few important ones are still missing. Those apps will surely materialize if BlackBerry 10 is a success. The question is, Will it be one?
+大部分知名的应用都到位了，但有几个重要的还没有。如果黑莓10大获成功，这些应用程序肯定会出现。问题是，黑莓10会成功吗？
+The software is simple to master, elegantly designed and surprisingly complete. It offers features nobody else offers, some tailored to the corporate world that raised BlackBerry aloft in its glory days.
+软件很容易掌握、设计典雅、功能非常完善。它提供的一些功能是其他手机所没有的，其中一些更是为企业界量身定制的，在曾今的辉煌岁月里，正是企业应用让黑莓得以成为业界翘楚。
+Remember, too, that 80 million people still carry BlackBerrys, and many have a deep love for the BlackBerry Way.
+还要记住，黑莓仍拥有8000万用户，而且还有许多人深爱着《黑莓之路》(BlackBerry Way)这首歌。
+On the other hand, wow, is this horse late to the race. The BlackBerry music, movie and app stores are just getting under way. If you choose BlackBerry over iPhone or Android, you give up some very attractive ecosystems, like the way Apple synchronizes your calendar, messages, and photos on all your gadgets. Or, for Android, the similar conveniences of Google Voice and Google Maps.
+但在另一方面，这匹赛马的起步有些晚了。黑莓的音乐、电影和应用程序商店才刚开始。如果你放弃iPhone或Android而选择了黑莓，那么你就放弃了一些非常有吸引力的生态系统，比如，苹果会在你所有的设备上同步你的日程安排、讯息和照片，而Android系统则会为你提供相似的便利服务：谷歌语音(Google Voice)和谷歌地图。
+These days, excellence in a smartphone isn’t enough. Microsoft’s phone is terrific, too, and hardly anyone will touch it.
+如今，卓越已不足以使智能手机成功。微软(Microsoft)的手机也很棒，但基本上没人会用。

@@ -1,0 +1,80 @@
+STARTING in February, Jeffrey G. Katz grew increasingly anxious as he watched the steady decline of online traffic to his company’s comparison-shopping Web site, Nextag, from Google’s search engine.
+从2月份起，杰弗里·G·凯茨(Jeffrey G. Katz)发现他公司旗下的比较购物网站Nextag来自谷歌搜索引擎的访问量不断下降，因此越来越担心。
+In a geeky fire drill, engineers and outside consultants at Nextag scrambled to see if the problem was its own fault. Maybe some inadvertent change had prompted Google’s algorithm to demote Nextag when a person typed in shopping-related search terms like “kitchen table” or “lawn mower.”
+Nextag的工程师和外聘顾问赶紧展开了一次怪异的救火演练，想知道问题是否出在网站自身。或许是网站上某个无意的改动导致谷歌算法降低了Nextag的排名，这样一来，当人们在谷歌中输入“餐桌”或“割草机”等和购物相关的搜索名词时，该网站的排名会比较靠后。
+But no, the engineers determined. And traffic from Google’s search engine continued to decline, by half.
+然而工程师发现，问题并非出在网站自身。与此同时，来自谷歌搜索引擎的访问量继续下降，降幅达50%。
+Nextag’s response? It doubled its spending on Google paid search advertising in the last five months.
+怎么办？Nextag的对策就是，在过去五个月内，它将用于谷歌付费搜索广告的开支增加了一倍。
+The move was costly but necessary to retain shoppers, Mr. Katz says, because an estimated 60 percent of Nextag’s traffic comes from Google, both from free search and paid search ads, which are ads that are related to search results and appear next to them. “We had to do it,” says Mr. Katz, chief executive of Wize Commerce, owner of Nextag. “We’re living in Google’s world.”
+此举代价高昂，但却是留住顾客的必要措施。凯茨说，因为Nextag的访问量约有60%来自谷歌，包括自由搜索和付费搜索广告，后者与搜索结果相关，就出现在搜索结果旁边。“我们必须这么做，”凯茨说，“因为我们生活在谷歌的世界里。”凯茨是Nextag的母公司Wize Commerce的首席执行官。
+Regulators in the United States and Europe are conducting sweeping inquiries of Google, the dominant Internet search and advertising company. Google rose by technological innovation and business acumen; in the United States, it has 67 percent of the search market and collects 75 percent of search ad dollars. Being big is no crime, but if a powerful company uses market muscle to stifle competition, that is an antitrust violation.
+谷歌在网络搜索和广告业务中占据主导地位，美国和欧洲的监管机构正在对它开展广泛的调查。谷歌的崛起得益于其科技创新能力和敏锐的商业嗅觉；在美国，谷歌占据了搜索市场份额的67%，其搜索广告收入也占整个市场的75%。公司规模大并不违法，但如果一个大公司利用其市场影响力来压制竞争，这就违反了反垄断法。
+So the government is focusing on life in Google’s world for the sprawling economic ecosystem of Web sites that depend on their ranking in search results. What is it like to live this way, in a giant’s shadow? The experience of its inhabitants is nuanced and complex, a blend of admiration and fear.
+因此，政府正在关注谷歌世界中各个网站的运营状况，在这个蔓延的经济生态系统中，它们的生存依赖于在谷歌搜索结果当中的排名。生活在巨人的阴影之下，这是一种怎样的状态呢？这些网站的体验各不相同，颇为复杂，总的说来是混合着敬意和惶恐。
+The relationship between Google and Web sites, publishers and advertisers often seems lopsided, if not unfair. Yet Google has also provided and nurtured a landscape of opportunity. Its ecosystem generates $80 billion a year in revenue for 1.8 million businesses, Web sites and nonprofit organizations in the United States alone, it estimates.
+谷歌与网站、出版商和广告商之间的关系经常都显得不平衡，甚至是不公平。但是，谷歌也为它们提供并培育了一个充满机会的平台。据谷歌估计，仅在美国，它掌控下的经济生态系统便为180万个企业、网站和非营利性组织创造了800亿美元（约合元4988亿元人民币）的年收入。
+The government’s scrutiny of Google is the most exhaustive investigation of a major corporation since the pursuit of Microsoft in the late 1990s.
+政府对谷歌的调查十分彻底。自20世纪90年代末对微软的调查以来，这是对大公司开展的最为详尽的调查。
+The staff of the Federal Trade Commission has recommended preparing an antitrust suit against Google, according to people briefed on the inquiry, who spoke on the condition they not be identified. But the commissioners must vote to proceed. Even if they do, the government and Google could settle.
+一些获悉调查内情的人士不具名透露，美国联邦贸易委员会（Federal Trade Commission，简称FTC）的工作人员已经建议有关方面准备对谷歌发起反垄断诉讼。但是，此建议还需要FTC的委员们投票通过。即使通过，政府和谷歌也可以达成和解。
+Google has drawn the attention of antitrust officials as it has moved aggressively beyond its dominant product — search and search advertising — into fields like online commerce and local reviews. The antitrust issue is whether Google uses its search engine to favor its offerings like Google Shopping and Google Plus Local over rivals.
+谷歌大张旗鼓地突破自己主导的搜索及搜索广告产品领域，挺进电子商务和本地点评之类的领域，由此引起了反垄断官员的注意。要判定谷歌是否违反了反垄断法，关键在于谷歌有没有利用其搜索引擎来压制竞争对手，为谷歌购物(Google Shopping)和谷歌+本地(Google Plus Local)等旗下产品提供优势。
+For policy makers, Google is a tough call.
+对于政策制定者来说，谷歌十分棘手。
+“What to do with an attractive monopolist, like Google, is a really challenging issue for antitrust,” says Tim Wu, a professor at Columbia Law School and a former senior adviser to the F.T.C. “The goal is to encourage them to stay in power by continuing to innovate instead of excluding competitors.”
+“如何应对一个像谷歌这样极具吸引力的垄断公司，的确是反垄断领域的一大难题，”哥伦比亚大学法学院(Columbia Law School)教授、前FTC高级顾问蒂姆·吴(Tim Wu)说。“反垄断的目标是激励企业通过持续创新而不是压制竞争对手来保持主导地位。”
+SPEAKING at a Google Zeitgeist conference in Arizona last month, Larry Page, the company’s co-founder and chief executive, said he understood the government scrutiny of his company, given Google’s size and reach. “There’s very many decisions we make that really impact a lot of people,” he acknowledged.
+上个月（本文最初发表于2012年11月4日——编注），在亚利桑那州的谷歌时代精神(Google Zeitgeist)会议上，谷歌的联合创始人及首席执行官拉里·佩奇(Larry Page)表示，考虑到谷歌的规模和影响力，他理解政府所进行的调查。“我们做的很多决定都实实在在地影响到了很多人，”他说。
+The main reason is that Google is continually adjusting its search algorithm — the smart software that determines the relevance, ranking and presentation of search results, typically links to other Web sites.
+问题的主要原因在于，谷歌一直在不停调整其搜索算法——该智能软件决定着搜索结果的相关性、排名和呈现方式，这些搜索结果通常是导向其他网站的链接。
+Google says it makes the changes to improve its service, and has long maintained that its algorithm weeds out low-quality sites and shows the most useful results, whether or not they link to Google products.
+谷歌说，调整算法是为了改善服务。而且，长期以来，谷歌一直坚称其算法淘汰了低质量的网站，呈现的都是最有用的结果，不论它们是否导向谷歌的产品。
+“Our first and highest goal has to be to get the user the information they want as quickly and easily as possible,” says Matt Cutts, leader of the Web spam team at Google.
+“我们的首要和最高目标必须是，以尽可能快捷便利的方式为用户提供他们想要的信息，”谷歌反网络垃圾小组负责人马特·卡茨(Matt Cutts)说。
+But Google’s algorithm is secret, and changes can leave Web sites scrambling.
+然而，谷歌算法处在保密状态，算法调整往往会让其他网站手忙脚乱。
+Consider Vote-USA.org, a nonprofit group started in 2003. It provides online information for voters to avoid the frustration of arriving at a polling booth and barely recognizing half the names on the ballot. The site posts free sample ballots for federal, state and local elections with candidates’ pictures, biographies and views on issues.
+想想创立于2003年的非营利性组织Vote-USA.org吧。该网站为选民提供网上信息，以免他们到了投票站之后才沮丧地发现，选票上的名字几乎有一半都不认识。网站免费提供联邦、州和地方选举的样本选票，上面有候选人的照片、个人信息以及在相关问题上的立场。
+In the 2004 and 2006 elections, users created tens of thousands of sample ballots. By 2008, traffic had fallen sharply, says Ron Kahlow, who runs Vote-USA.org, because “we dropped off the face of the map on Google.”
+在2004和2006年的选举中，用户创建了数万张样本选票。Vote-USA.org的经营者罗恩·卡洛(Ron Kahlow)说，到了2008年，网站的流量却急剧下降，原因是“我们从谷歌世界的地图上掉了下来”。
+As founder of a search-engine optimization company and a recipient of grants that Google gives nonprofits to advertise free, Mr. Kahlow knows a thing or two about how to operate in Google’s world. He pored over Google’s guidelines for Web sites, made changes and e-mailed Google. Yet he received no response.
+卡洛是一个搜索引擎优化公司的创始人，还享受了谷歌给非营利性组织提供的免费广告优惠政策，他对谷歌世界里的生存之道有所了解。他仔细研究了谷歌关于网站的指导手册，对自己的网站做出了一些改变，然后给谷歌发了邮件。然而，他没有得到任何回复。
+“I lost all donations to support the operation,” he said. “It was very, very painful.”
+“我失去了支撑网站运行的全部捐赠来源，”卡洛说。“当时的情况非常非常艰难。”
+A breakthrough came through a personal connection. A friend of Mr. Kahlow knew Ed Black, chief executive of the Computer & Communications Industry Association, whose members include Google. Mr. Black made an inquiry on Mr. Kahlow’s behalf, and a Google engineer investigated.
+私人关系给事情带来了转机。卡洛的一个朋友认识计算机和通信行业协会(Computer & Communications Industry Association)的首席执行官埃德·布莱克(Ed Black)，而谷歌也是该协会的会员。布莱克帮卡洛询问了情况，谷歌的一位工程师便进行了调查。
+The problem, Mr. Kahlow learned, was that the site’s state Web pages also had information for national candidates — reasonable to a person seeking voting information at one digital location. But to Google’s algorithm, duplicate content on a site suggests a shady shortcut to try to make a site look bigger than it is.
+卡洛后来得知，问题在于自家网站的州选举页面上也列有国家级候选人的信息——对于在单一数字位置搜寻选举信息的人来说，这样的安排十分合理。但是，谷歌算法会把网站上的重复内容看做网站试图让自身规模看上去比实际更大的取巧伎俩。
+Mr. Kahlow fixed that, so that someone on a state page must go to another page to see the ballot and information about national candidates. Vote-USA.org quickly moved off Google’s black list, and during this election season people have been viewing 333,000 pages a day.
+卡洛解决了这个问题，这样一来，浏览州选举页面的用户就必须打开另外一个网页才能看到国家级候选人的选票和信息。很快，Vote-USA.org被谷歌撤出了黑名单，在这个选举季期间，该网站的日访问量一直高达33.3万。
+Google will not comment on its relations with specific Web sites. But a person briefed on its interactions with Vote-USA.org said Google had found additional duplication, like Michigan candidates showing up on the Iowa Web site. The person also said that hardly any other Web sites linked to Vote-USA.org, one of the most important elements in the algorithm.
+谷歌对自己和具体网站的关系不予置评。然而，一个获悉谷歌和Vote-USA.org互动情况的人说，谷歌也在后者的网站上发现了其他的重复内容，比如说，有关爱荷华州选举的页面上出现了密歇根候选人的信息。该知情人士还说，几乎没有任何其他网站导向Vote-USA.org，而链接情况也是谷歌算法中最重要的衡量因素之一。
+EARLY last year, operators of small local news sites nationwide found that their number of readers had plummeted. Why? Their Web sites had disappeared from Google News, which in many cases was their No. 1 source of traffic.
+去年年初，全国各地小型地方新闻网站的运营者都发现，自家网站的读者数量骤降。这是为什么呢？原来，他们的网站已经从谷歌新闻(Google News)上消失了，而后者往往是它们最主要的访问量来源。
+Their owners wrote e-mail messages to Google and scoured online forums, to no avail.
+这些网站的所有者给谷歌写了邮件，搜遍了所有的网上论坛，但却无济于事。
+“There was no explanation why or place you could go for more information,” says Hal Goodtree, editor and publisher of CaryCitizen, a local news site in Cary, N.C.
+“没有任何解释，也不知道去哪儿了解更多的信息，”北卡罗来纳州凯里的地方新闻网站“凯里公民”(CaryCitizen)的主编和出版人哈尔·古德特里(Hal Goodtree)说。
+Google News, he says, brings traffic and credibility. “You’re legit if you’re on Google News,” he explains, “so it was painful.”
+古德特里说，谷歌新闻可以为网站带来访问量和可信度。“如果能出现在谷歌新闻的搜索结果中，你就是可信的，”他解释道，“所以，当时的日子很不好过。”
+Lance Knobel, co-founder of Berkeleyside, a local news site in Berkeley, Calif., complained about the problem on Twitter, and a Berkeleyside reader who was a Google engineer eventually saw it. He promised Mr. Knobel he would look into it, unofficially.
+加利福尼亚州伯克利的地方新闻网站Berkeleyside的联合创始人兰斯·克诺贝尔(Lance Knobel)在Twitter上抱怨了这件事。身为谷歌工程师的一个Berkeleyside读者最终看到了这条信息，并且向克诺贝尔承诺，他将私下调查这个问题。
+Twelve hours later, Berkeleyside reappeared in Google News. Google said dropping the site was an error.
+12个小时后，Berkeleyside重新出现在了谷歌新闻当中。谷歌表示，撤走该网站是个错误。
+In North Carolina, Mr. Goodtree heard nothing for months about what had happened. In June, he received an e-mail from Google saying it was “unable to provide specifics” about why the site had been dropped.
+而在北卡罗来纳州，几个月的时间里，古德特里一直都不知道到底发生了什么。6月，他收到了来自谷歌的一封邮件，邮件里说，关于网站遭到撤除的原因，谷歌“无法提供具体细节”。
+Then, in August, Google wrote, “We recently reviewed your site again and have decided to add it to Google News once more.” No further explanation was given. Traffic to CaryCitizen jumped 24 percent. Mr. Knobel, in California, says of Google: “It’s a totally opaque corporation.”
+到了8月，谷歌又写邮件说，“最近，我们再次审查了你们的网站，并决定把它重新放到谷歌新闻上。”谷歌没有给出进一步的解释。“凯里公民”的访问量提高了24%。说到谷歌的时候，加利福尼亚的克诺贝尔表示：“这是一个完全不透明的公司。”
+Mr. Cutts of Google says it is impossible for the company to respond individually to every Web site owner with a question, because of sheer scale; there are 240 million domain names and people search Google more than 3.3 billion times a day.
+谷歌的卡茨表示，公司不可能就每个网站所有者的问题一一作答，因为问题太多；总共有2.4亿个域名，人们每天使用谷歌搜索的次数超过了33亿。
+Yet Google is trying to do more, he says. Last year, it started hosting video chats for Web site owners to ask questions. It has also started publishing blog posts about changes in the algorithm and broadcast eight minutes of a top-secret meeting about it.
+卡茨说，尽管如此，谷歌还是在努力改进。去年，它开始启动和网站所有者的视频对话，回答相关问题。谷歌也开始发表博文，解释自己的算法调整，并且播放了一段时长8分钟的内容，内容来自一次关于算法调整的绝密会议。
+“We try very hard to make sure we communicate with Webmasters,” Mr. Cutts says. For instance, he says, he reassured Gawker Media that it would remain in search results after Hurricane Sandy caused it to crash.
+“我们十分努力，确保和网站管理员之间的沟通，”卡茨说。他还举例说，在飓风“桑迪”导致Gawker媒体公司(Gawker Media)瘫痪之后，他就向该媒体保证，它仍会出现在谷歌搜索结果中。
+Google does not compete with sites like CaryCitizen and Berkeleyside in the labor-intensive chore of reporting and writing local news. But local news sites, notes Mr. Knobel of Berkeleyside, do compete in their way with Google for local advertising.
+地方新闻报道和写作是一个劳动密集型的琐碎领域，谷歌并不与“凯里公民”和Berkeleyside之类的网站在这一领域形成竞争关系。然而，Berkeleyside的克诺贝尔指出，在地方广告业务方面，地方新闻网站确实以自己的方式成为了谷歌的竞争对手。
+As the company builds up Google Plus Local, its local business listing and review service, Mr. Knobel says Google’s search engine could give the Internet giant “a tremendous advantage.” That would result, he says, if a person seeking information about a local business is steered to Google Plus Local rather than to small sites like Berkeleyside or sizable services like Yelp.
+克诺贝尔说，在创建自己的当地企业名录和点评服务提供者谷歌+本地的过程当中，谷歌搜索引擎可以给这个网络巨头带来“巨大优势”。他说，结果就是，谷歌会把寻找当地企业信息的用户引向谷歌+本地，而不是Berkeleyside之类的小网站或者Yelp之类的大型网站。
+Google's overriding goal, Mr. Page suggests, is continual improvement of its product, which, he says, means adding more services that collect and parse data. Some competitors may suffer. But, he adds, “our job is to serve users.”
+佩奇表示，谷歌最重要的目标就是不断完善自己的产品，这意味着公司需要增加收集和解析数据的服务项目。它的一些竞争对手可能要遭殃了。但是，他补充道，“我们的工作是为用户服务。”

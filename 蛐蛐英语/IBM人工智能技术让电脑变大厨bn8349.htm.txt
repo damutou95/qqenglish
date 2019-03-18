@@ -1,0 +1,40 @@
+I.B.M.’s Watson beat “Jeopardy” champions two years ago. But can it whip up something tasty in the kitchen?
+两年前，IBM的超级电脑沃森(Watson)曾在智力问答节目《危险边缘》(Jeopardy)中击败了该节目的冠军。但它能在厨房里大显身手吗？
+That is just one of the questions that I.B.M. is asking as it tries to expand its artificial intelligence technology and turn Watson into something that actually makes commercial sense.
+这也正是IBM在考虑的问题之一。IBM正在努力拓展该公司的人工智能技术，让沃森产生实实在在的商业意义。
+The company is betting that it can build a big business by taking the Watson technology into new fields. The uses it will be showing off to Wall Street analysts at a gathering in the company’s Almaden Research Center in San Jose, Calif., on Thursday include helping to develop drugs, predicting when industrial machines need maintenance and even coming up with novel recipes for tasty foods. In health care, Watson is training to become a diagnostic assistant at a few medical centers, including the Cleveland Clinic.
+IBM相信，将沃森技术应用到新的领域可以创造巨大商机。周四，IBM将在该公司位于加州圣何塞的阿尔马登研究中心(Almaden Research Center)，向在那里开会的华尔街分析人士展示沃森技术的用途，这些用途包括：协助研发药物、预测工业机械的维护时间，甚至设计美味的新食谱。在医疗领域，包括克利夫兰诊所(Cleveland Clinic)在内的一些医疗中心，正在训练沃森成为诊断助手。
+The new Watson projects — some on the cusp of commercialization, others still research initiatives — are at the leading edge of a much larger business for I.B.M. and other technology companies. That market involves helping corporations, government agencies and science laboratories find useful insights in a rising flood of data from many sources — Web pages, social network messages, sensor signals, medical images, patent filings, location data from cellphones and others.
+沃森技术的一些新项目即将商业化，而其他一些还处在研究阶段。在IBM和其他科技企业关注的一个更大的商业领域中，新的沃森项目处于领先地位。这个市场包括帮助企业、政府部门和科学实验室更好的处理来自各种来源的大量数据：网页信息、社交网络上的留言、传感器信号、医学图像、专利材料、手机定位信息，等等。
+Advances in several computing technologies have opened this opportunity and market, now called Big Data, and a key one is the software techniques of artificial intelligence like machine learning.
+计算机技术在若干领域的进步，已经开启了这种现在称为“大数据”(Big Data)的机遇和市场。其中关键的一项技术进步，就是人工智能软件技术，比如会学习的机器。
+I.B.M. has been building this business for years with acquisitions and internal investment. Today, the company says it is doing Big Data and analytics work with more than 10,000 customers worldwide. Its work force includes 9,000 business analytics consultants and 400 mathematicians.
+数年来，IBM一直在通过并购和内部投资打造这项业务。该公司称，目前正在为全世界1万多个客户开展大数据和分析工作。从事这项业务的人员有9000名商业分析顾问和400名数学家。
+I.B.M. forecasts that its revenue from Big Data work will reach $16 billion by 2015. Company executives compare the meeting in San Jose to one in 2006, when Samuel J. Palmisano, then chief executive, summoned investment analysts to I.B.M.’s offices in India to showcase the surging business in developing markets, which has proved to be an engine of growth for the company.
+IBM预测，到2015年，该公司从大数据业务中获得的收入将达到160亿美元（约合998.48亿元人民币）。公司高管将这次在圣何塞举行的会议与2006年的一次会议相提并论。当时的首席执行官彭明盛(Samuel J. Palmisano)把投资分析人士召集到IBM位于印度的办公室，向他们展示发展中市场涌现出的商机，而事实证明发展中市场已经成了带动该公司增长的引擎。
+I.B.M. faces plenty of competitors in the Big Data market, ranging from start-ups to major companies, including Microsoft, Oracle, SAP and the SAS Institute. These companies, like I.B.M., are employing the data-mining technology to trim costs, design new products and find sales opportunities in banking, retailing, manufacturing, health care and other industries.
+在大数据市场上，IBM面临着许多对手的竞争，其中既有创业企业也有大公司，包括微软(Microsoft)、甲骨文(Oracle)、SAP公司和SAS软件研究所(SAS Institute)。这些公司和IBM一样，也在利用数据挖掘技术来降低成本、设计新产品，并在银行、零售、制造、医疗和其他行业寻找销售机会。
+Yet the Watson initiatives, analysts say, represent pioneering work. With some of those applications, like suggesting innovative recipes, Watson is starting to move beyond producing “Jeopardy” style answers to investigating the edges of human knowledge to guide discovery.
+但是，分析人士称，沃森的计划具有开创性。沃森的一些应用，比如设计新食谱，已经超越了回答《危险边缘》节目中的问题，进而开始探索人类认知的边缘，从而为新的创造发明提供指导。
+“That’s not something we thought of when we started with Watson,” said John E. Kelly III, I.B.M.’s senior vice president for research.
+IBM公司负责研究的高级副总裁约翰·E·凯利三世(John E. Kelly III)称，“这是我们开始沃森的研究时所没有想到的。”
+I.B.M.’s Watson projects are not yet big money makers. But the projects, according to Frank Gens, chief analyst for IDC, make the case that I.B.M. has the advanced technology and deep industry expertise to do things other technology suppliers cannot, which should be a high-margin business and give I.B.M. an edge as a strategic partner with major customers. And the new Watson offerings, he said, are services that future users might be able to tap into through a smartphone or tablet.
+IBM的沃森计划还没有带来丰厚回报。但IDC首席分析师弗兰克·金斯(Frank Gens)表示，这些计划能够表明IBM拥有尖端技术和深厚的产业专长，能够做到其他科技供应商做不到的事。这应该会是一项高利润业务，能使IBM更容易获得与大客户成为战略伙伴的机会。而且他说，沃森提供的新服务，用户未来或许可以在智能手机或平板电脑上使用。
+That could significantly broaden the market for Watson, Mr. Gens said, as well as ward off potential competition if question-answering technology from consumer offerings, like Apple’s Siri and Google, improve.
+金斯说，这将极大地拓宽沃森的市场，而且，如果面对消费者的问题解答技术（比如苹果的Siri和谷歌）将来取得进步，这也能帮助沃森避免一些潜在竞争。
+“It will take years for these consumerized technologies to compete with Watson, but that day could certainly come,” Mr. Gens said.
+金斯说，“这些消费者技术要想与沃森竞争，还需要很多年，但那一天肯定会到来。”
+John Baldoni, senior vice president for technology and science at GlaxoSmithKline, got in touch with I.B.M. shortly after watching Watson’s “Jeopardy” triumph. He was struck that Watson frequently had the right answer, he said, “but what really impressed me was that it so quickly sifted out so many wrong answers.”
+葛兰素史克(GlaxoSmithKline)负责科技的高级副总裁约翰·巴尔多尼(John Baldoni)在观看了沃森在《危险边缘》中取胜的节目后不久，就与IBM取得了联系。沃森总是得到正确的答案，这让他感到惊奇。他说，“但真正让我印象深刻的是，它能这么快地过滤掉那么多错误答案。”
+That is a huge challenge in drug discovery, which amounts to making a high-stakes bet, over years of testing, on the success of a chemical compound. The failure rate is high. Improving the odds, Mr. Baldoni said, could have a huge payoff economically and medically.
+这在发现新药的过程中是一个巨大的挑战，研制新药需要经过多年的试验去赌一种化合物能否成功，赌注极高，失败率也很高。巴尔多尼说，如果能提高成功率，无论在经济上还是在医疗上，都能产生极大的收益。
+Glaxo and I.B.M. researchers put Watson through a test run. They fed it all the literature on malaria, known anti-malarial drugs and other chemical compounds. Watson correctly identified known anti-malarial drugs, and suggested 15 other compounds as potential drugs to combat malaria. The two companies are now discussing other projects.
+葛兰素史克与IBM的研究人员，让沃森进行了一次试运行。研究人员将所有关于疟疾，以及治疗疟疾的已知药物和其他化合物的文献，输入沃森。沃森正确地找出了已知的抗疟疾药物，还建议了15种可能成为治疗疟疾的药物的化合物。这两家公司正在讨论共同开展其他项目。
+“It doesn’t just answer questions, it encourages you to think more widely,” said Catherine E. Peishoff, vice president for computational and structural chemistry at Glaxo. “It essentially says, ‘Look over here, think about this.’ That’s one of the exciting things about this technology.”
+“它不仅能解答问题，还能鼓励你拓展思路，”葛兰素史克负责计算化学和结构化学的副总裁凯瑟琳·E·佩肖夫(Catherine E. Peishoff)说。“它仿佛是在说，‘看这里，考虑考虑这个。’这就是这种技术令人激动的特点之一。”
+In San Jose, I.B.M. plans to serve the assembled analysts a breakfast pastry devised by Watson, called a “Spanish crescent.” It is a collaboration of Watson’s software and James Briscione, a chef instructor at the Institute of Culinary Education in Manhattan.
+在圣何塞，IBM打算为召集来的分析人员奉上一款由沃森构思的、名叫“西班牙牛角包”的早餐甜点。这款甜点是曼哈顿烹饪教育学院(Institute of Culinary Education)的厨师讲师詹姆斯·布里斯安(James Briscione)和沃森软件合作的产物。
+I.B.M. researchers have watched and talked to Mr. Briscione as he works, selecting ingredients and building out dishes. Watson has read those notes, 20,000 recipes, data on the chemistry of food ingredients, and measured ratings of flavors people like in categories like “olfactory pleasantness.”
+在布里斯安挑选食材、制作糕点的工作过程中，IBM的研究人员就在一旁观察，并与他交谈。沃森读取了大量笔记、2万份食谱、原材料的化学成分数据，还测算了人们对不同口味各项指标（比如“嗅觉愉悦度”）的喜爱程度。
+Watson’s assignment has been to come up with recipes that are both novel and taste good. In the case of the breakfast pastry, Watson was told to come up with something inspired by Spanish cuisine, but unusual and healthy. The computer-ordered ingredients include cocoa, saffron, black pepper, almonds and honey — but no butter, Watson’s apparent nod to healthier eating.
+沃森的任务是构想出一份食谱，做出来的食品既新颖又美味。做早餐的点心时，研究人员让沃森从西班牙菜肴那里取得灵感，构想出一种超乎寻常而又健康的食品。电脑选出来的食材包括可可、藏红花、黑胡椒、杏仁和蜂蜜，但没有黄油。似乎沃森赞同更健康的饮食。

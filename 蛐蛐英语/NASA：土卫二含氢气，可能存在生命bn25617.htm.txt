@@ -1,0 +1,56 @@
+Could icy moons like Saturn’s Enceladus in the outer solar system be home to microbes or other forms of alien life?
+在土星的恩塞拉多斯（Enceladus，通称土卫二。——编注）等被冰层覆盖的外太阳系卫星上，会有微生物或其他外星生命存在吗？
+Intriguing new findings from data collected by NASA’s Cassini spacecraft suggest the possibility.
+美国航天局(NASA)的卡西尼号(Cassini)太空船收集的数据带来的引人入胜的新发现显示，的确存在这种可能性。
+Plumes of gas erupting out of Enceladus — a small moon with an ocean of liquid water beneath its icy crust — contain hydrogen. Scientists infer a lot from that: that there are hydrothermal chemical reactions similar to those that occur at hot fissures at the ocean bottoms on Earth.
+从恩塞拉多斯冒出的一缕缕气体中含有氢，那是一颗有冰层覆盖大片液态水海洋的小卫星。科学家们由此做出诸多推断：那里存在与地球海洋底部的热裂缝里发生的类似的热液化学反应。
+On Earth at least, hydrothermal vents thrive with microbial life, offering up the potential that icy moons far from Earth — called “ocean worlds” by NASA — could be habitable.
+有热液排放的地方会产生大量微生物——至少在地球上是如此——这让人不由得推想，被NASA称为“海洋世界”、远离地球的多个冰冷卫星有可能是适于居住的。
+“That’s just going to be a tremendous opportunity to test our theories and see if there’s life there,” said James L. Green, director of planetary science at NASA.
+“这将是我们检验理论的一个难得的机会，看看那里是不是真的有生命存在，”NASA行星科学部主任詹姆斯·L·格林(James L. Green)说。
+This is the latest discovery by Cassini, which is heading into its final months after 13 years of exploring Saturn, its moons and rings. On April 22, Cassini begins a journey that will take it between the planet and its rings for 22 orbits before its mission finally ends with a crash into Saturn’s atmosphere in September.
+这是卡西尼号的最新发现，这艘飞船对土星、它的卫星和土星环的探索已经进行了13年，还有几个月就将结束。4月22日，卡西尼号将开启一趟旅程，在土星和土星环之间穿行22次，然后在9月坠入土星的大气层，由此结束自己的使命。
+Cassini’s findings also show that levels of carbon dioxide, hydrogen and methane measured in the Enceladus plume were out of equilibrium, an imbalance that could provide an energy source that organisms could tap into for food, according to a paper published Thursday in the journal Science.
+据周四发表在《科学》(Science)期刊上的一篇论文分析，卡西尼号的发现还显示，在恩塞拉多斯排放的气体中测量出的二氧化碳、氢和甲烷的水平并不均衡，这种不平衡可以提供一种能量源，令有机物从中获得养分。
+“It indicates there is chemical potential to support microbial systems,” said J. Hunter Waite Jr., program director for the space science and engineering division at the Southwest Research Institute in San Antonio and lead author of the Science paper.
+“它表明那里有支持微生物系统的化学势，”发表在《科学》的那篇论文的主要作者、位于圣安东尼奥的西南研究院(Southwest Research Institute)的太空科学与工程部项目主管小J·亨特·韦特(J. Hunter Waite Jr.)说。
+In a separate paper published Thursday in The Astrophysical Journal Letters, another team of researchers, using the Hubble Space Telescope, once again spotted what appears to be a similar plume rising from Europa, one of Jupiter’s big moons that also possesses an ocean beneath an icy exterior.
+在周四发表于《天体物理期刊通讯》(Astrophysical Journal Letters)的另一篇论文中，另一组研究人员用哈勃太空望远镜(Hubble Space Telescope)又一次观测到木星的大型卫星之一欧罗巴(Europa)似乎也在释放类似的气体，这个卫星也有包裹在冰冻外层之下的海洋。
+Cassini had earlier found that there are seas of methane on Saturn’s largest moon, Titan, a discovery that has inspired some scientists to suggest sending a boat there.
+早些时候，卡西尼号曾发现土星最大的卫星泰坦(Titan)上存在大片的甲烷，这促使一些科学家提议派一艘太空船前去探测。
+At a mere 310 miles wide, Enceladus was considered too small to be geologically interesting; scientists suspected that its interior had frozen solid long ago. But 11 years ago, Cassini spotted plumes rising from the south pole region, one of the biggest, most surprising discoveries of the mission.
+之前，只有310英里（约合499公里）宽的恩塞拉多斯因体积太小，不曾引发科学家的地质探测兴趣；他们怀疑它的内部早已冻结成固体。但是在11年前，卡西尼号发现了从南极地区冒出的烟缕，那是这项太空探测任务最大、最让人意外的发现之一。
+The tidal forces of Saturn pulling and squeezing Enceladus appear to generate enough heat to melt the ice. From additional Cassini observations, scientists concluded that not only is there a pool of water near the south pole of Enceladus to generate the plumes, but a global ocean that lies beneath the moon’s ice.
+土星的潮汐力拉扯和挤压恩塞拉多斯，似乎产生了足够的热量，由此融化了冰层。科学家们还依据卡西尼号的另一项观测结果得出结论，称不止是恩塞拉多斯靠近南极地区的部分有一大片水产生烟缕，这颗卫星表面冰层下隐藏的一整片海洋都是如此。
+In October 2015, Cassini swooped to within 30 miles of the surface of Enceladus, and one of its instruments collected and identified particles in the plume spray. It was mostly water molecules, but Dr. Waite and his colleagues also found hydrogen molecules, up to 1.4 percent by volume.
+2015年10月，卡西尼号俯冲到距离恩塞拉多斯表面不足30英里的地方，它的一台仪器在那里收集和辨认了烟雾中的粒子。其中大部分为水分子，但韦特和他的同事们也发现了氢分子，其体积占比达到1.4%。
+While hydrogen is the most common element in the universe, it was not expected to be found in any quantity on a moon as small as Enceladus, where the gravity is too slight to hold on to the gas for long.
+尽管氢是宇宙中最常见的元素，但没人料到会在恩塞拉多斯这么小的卫星上发现它——不管是多是少——因为这个卫星重力太小，难以长时间留住气体。
+“Just finding hydrogen was a surprise,” said Christopher R. Glein, a geochemist at the Southwest Research Institute and another author of the Science paper.
+“单单发现氢就已经是个意外，”发表在《科学》杂志那篇论文的另一位作者、西南研究院地球化学家克里斯托弗·R·格莱茵(Christopher R. Glein)说。
+After considering a variety of ways that could continually generate hydrogen, the scientists concluded that hydrothermal reactions offered the most likely explanation for producing that much of the gas. Each water molecule consists of two hydrogen atoms and one oxygen atom. Geophysical models indicated that as hot water flows past the rocks, minerals in the rocks were grabbing the oxygen atoms and releasing hydrogen, the scientists reported.
+在考虑了持续产生氢的多种可能性后，科学家们得出结论，称最有可能导致那里产生那么多气体的因素是热液反应。每个水分子都包含两个氢原子和一个氧原子。科学家们表示，依据地球物理模型，当热水流过岩石，岩石中的矿物质会吸取其中的氧原子，释放氢气。
+There appeared to be enough energy to support microbes. “This is the first time we’ve been able to make a calorie count of an alien ocean,” Dr. Glein said. Asked what that calorie count was, Dr. Glein said it was the equivalent of 300 pizzas per hour.
+那里似乎有足够的热量支持微生物生存。“这是我们第一次能够从一个外太空海洋得到卡路里读数，”格莱茵说。在被问到卡路里测量的结果时，格莱茵表示每小时产生的热量相当于300个披萨的卡路里。
+“This is a great result for the habitability of Enceladus,” said Christopher P. McKay, a planetary scientist at the NASA Ames Research Center in Mountain View, Calif., who was not involved with the research.
+“对衡量恩塞拉多斯的可居住性而言，这是个很不错的结果，”与这项研究无关的加州山景市NASA艾姆斯研究中心(Ames Research Center)行星科学家克里斯托弗·P·麦凯(Christopher P. McKay)说。
+Dr. McKay said the hydrogen levels are far above what microbes need.
+麦凯表示，其中的氢含量远高于微生物生存所需的水平。
+Still, the presence of hydrogen does not prove that life exists on Enceladus. It might suggest the opposite.
+不过，氢的出现并不代表恩塞拉多斯一定存在生命。情况或许正好相反。
+At hydrothermal vents on Earth, the hydrogen is quickly gobbled up by microbes. That so much hydrogen is rising through Enceladus’s ocean and reaching space could mean there is no life on the little moon to take advantage of it. At a department meeting, say, “if you have those stacks of pizzas, they disappear,” said Mary A. Voytek, head of NASA’s astrobiology program.
+在地球上的热液排放处，氢很快就会被微生物吸收。有那么多氢从恩塞拉多斯的海洋中产生、升至太空，有可能意味着这个小卫星上没有生命体可以利用这些氢气。比方说，在开部门会议时，“你叫了很多的披萨，它们便会被消灭掉”，NASA天体生物项目负责人玛丽·A·沃伊泰克(Mary A. Voytek)说道。
+Or life could exist, but is limited by other factors. “If there is biology there, it isn’t very active,” Dr. Voytek said.
+又或许生命的确存在，但却被其他因素抑制了。“就算那里有生物存在，也不是很活跃，”沃伊泰克博士说。
+Scientists will not get any more data for a long time.
+在很长时间里，科学家们将无法得到更多的数据。
+Cassini will make no more close flybys of Enceladus. The spacecraft is low on fuel, and the mission will come to a close in September. For the last few months, Cassini has shifted to a different orbit that will allow it to probe the interior properties of Saturn and take a close look at the inner part of its rings.
+卡西尼号不会再做近恩塞拉多斯飞行。这艘太空船的燃料即将用尽，这项任务也会在9月结束。在最后的几个月里，卡西尼号会转入不同的轨道，对土星的内部属性进行探测，近距离观察土星环的内部情况。
+NASA has at present no plans to return to Saturn or Enceladus. But it is currently soliciting proposals for a mission with a price tag of up to $850 million, and one of the areas in which NASA specified an interest is a mission to explore Enceladus and Titan.
+NASA目前没有重返土星或恩塞拉多斯的计划。但它正在为一项费用高达8.5亿美元的任务征求建议，NASA在其中明确表示出兴趣的一个领域是一项勘察恩塞拉多斯和泰坦的任务。
+The Enceladus findings also aid the design of Europa Clipper, NASA’s next big planetary mission, which is to launch in the 2020s to study Europa.
+恩塞拉多斯的发现也会对NASA下一个重要行星飞行任务欧罗巴快船(Europa Clipper)的设计有所帮助，后者将于本世纪20年代发射，对欧罗巴卫星进行探测。
+In the new Astrophysical Journal Letters paper, researchers led by William B. Sparks of the Space Telescope Science Institute in Baltimore report on a Hubble Space Telescope observation in 2016 that revealed a likely plume of water vapor rising from the same spot on Europa where the researchers saw a similar plume two years earlier.
+在发表于《天体物理期刊通讯》的那篇新论文中，由巴尔的摩太空望远镜科学研究所(Space Telescope Science Institute)的威廉·B·斯巴克斯(William B. Sparks)领导的研究团队报告了他们2016年用哈勃太空望远镜观测到的情况，其中显示卫星欧罗巴上有类似水蒸气的东西升起，地点就在研究人员两年前看到类似烟缕的地方。
+In addition, NASA’s Galileo spacecraft in the 1990s found that this location on Europa was unusually warm, and scientists would not be surprised to find hydrothermal vents there, too. “The geophysics is similar everywhere,” Dr. Voytek said.
+此外，NASA上世纪90年代的发射的伽利略太空船曾发现，欧罗巴上的那个地方异常温暖，如果在那里也发现热液排放，科学家们不会感到意外。“地球物理学在哪里都差不多，”沃伊泰克说。

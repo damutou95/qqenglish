@@ -1,0 +1,42 @@
+What is Yahoo?
+雅虎(Yahoo)到底是家什么公司？
+That straightforward question has so far baffled the people who run the company.
+到目前为止，这个直白的问题一直都难倒了这家公司的经营者。
+I got a taste of the fuzziness when I visited Carol Bartz, then the chief executive, back in 2010. She was funny, profane and articulate, except on the question of what the company is. After five minutes of listening to her I still had no idea. Seventeen years after the company was founded, you still have to wonder whether the frothy trademark Yahoo! should be replaced with Yahoo? to convey the uncertainty of purpose.
+2010年，我拜访雅虎时任首席执行官卡罗尔·巴茨(Carol Bartz)的时候，亲身感受到了这种模糊性。巴茨幽默风趣、平易近人、善于表达，除了在回答一个问题的时候：雅虎到底是家什么公司。听她讲了五分钟之后，我仍然毫无头绪。在雅虎成立17年后，你仍然得质疑，为了表明公司目标的不确定性，它浮华的商标Yahoo！是否应该换成Yahoo?
+Now that question falls to Marissa Mayer, who was named the new chief executive last week. Anybody who has followed tech knows she has remarkable credentials and savvy — she embodied much of Google’s intellectual charisma — but her tenure will be a pass/fail test based on answering that single question.
+如今，这个问题落到了上周任命的新任首席执行官玛丽莎·梅耶尔(Marissa Mayer)头上。任何关注科技新闻的人都知道，她能力非凡、聪慧博学，带有谷歌公司(Google)那种知性的魅力。但是，她的任期将面临一个成王败寇的测试，通不通过仅取决于她对这一个问题的回答。
+I’m going to take a whack at it and say that Yahoo is a media company, mostly by accident (more on that in a bit). Yes, its headquarters in Silicon Valley are filled with technologists and have the familiar trappings of a digital enterprise — foosball, anyone? — but for most Americans, Yahoo is where they get news.
+我准备大胆一试，说雅虎是一家媒体公司，而且大抵是偶然为之（后文再详述）。诚然，雅虎在硅谷的总部塞满了技术人员，而且有着大家熟悉的数码企业标配设备：桌上足球，有人想玩吗？但是，对大多数美国人而言，雅虎是获取新闻的地方。
+In business, people will tell you that everything else is secondary to being first. And Yahoo, despite its tattered reputation, is No. 1 in 10 content categories, according to the measurement service comScore, including news, finance, sports, entertainment and real estate. Yahoo reaches more than 75 percent of the total Internet audience in the United States. On any given day, 30 million or more people stop by. Globally, about 700 million people visit the site in 30 languages every month.
+做生意的时候，大家都会告诉你，除了争当第一，其他都是次要的。而对雅虎来说，尽管声誉渐微，但根据数据服务机构comScore的测算，却在10个内容领域排名第一，其中包括新闻、金融、体育、娱乐和房地产等领域。雅虎覆盖了美国75%的互联网用户，任意一天都有3000万或以上的美国人登陆该网站。全球范围内，每月约有七亿人访问雅虎网站的30种语言版本。
+What they get, more often than not, is carefully selected and displayed commodity news drawn from a variety of sources, but they also can read smart proprietary reporting from one of the 300 journalists — that’s a huge newsroom these days — who work for Yahoo.
+多数情况下，这些用户看到的是从各种新闻源购买,并经过精心挑选的新闻，但他们也能读到雅虎300位记者的原创报道。如今，300人算得上是个规模巨大的新闻编辑部了。
+It is worth remembering when people start talking about poor, feckless Yahoo that the company suffers from a severe contextual handicap. No, it is not Google or Facebook, but it isn’t nothing, either. Second-quarter earnings announced last week reflected a slide of 4.4 percent from the year before, but the company had $1.22 billion in revenue and earned $226.6 million. Display advertising was actually up, to $534.9 million, compared with $523.5 million from the year before.
+当人们开始谈论可怜无能的雅虎为强势对手所困扰的时候，这一点尤其值得铭记。确实，雅虎不是谷歌或者Facebook，但它也不是一无是处。上周发布的第二季度盈利比去年同期下滑了4.4%，但是公司营收达到12.2亿美元，净利润达到2.266亿美元。实际上显示广告收入还有所上升，达到5.349亿美元，而去年同期的水平则为5.235亿美元。
+So Ms. Mayer may be taking over a stagnating company, but it is not a collapsing one. Yahoo has what all media companies want, which is a large audience. The company just doesn’t know what to do with it.
+因此，梅耶尔接手的公司也许是停滞不前，但并非濒临崩溃。雅虎拥有所有媒体公司渴求的东西：一大群观众。只是雅虎不知道该拿这来干什么。
+When Ms. Mayer starts poking around under the hood of the news operation, she will find a home page that has the kind of traffic that can melt servers when it points to another site.
+当梅耶尔仔细审视自己的新闻部门，她将发现，雅虎主页的流量如此巨大，如果转到其他任何网站上去的话，可以导致他们的服务器瘫痪。
+The secret sauce of Yahoo’s front page is more clicky than sticky: the slide show of news that runs at the top is not very deep, but it is difficult to resist. Editors have real-time analytics on click-through rate and can adjust the presentation on the fly; underperformers are quickly dumped or reconfigured. Yahoo uses a combination of technological and human curators to feed a robust audience. (Lest you think that’s easy, compare the home page to that of AOL, another legacy portal. Yahoo smashes AOL flat.)
+雅虎主页的秘方是更多的可点击性，而不是粘连度：顶部幻灯片展示的新闻不是很有深度，但是让人难以抗拒。编辑们实时分析点击率，并能随时做出页面调整；表现不佳的内容很快就被遗弃或是进行重整。雅虎还利用技术和人工策划相结合的方式，来迎合挑剔读者的口味。（为免你认为这很容易办到，请比较另一家老牌门户网站AOL的主页。雅虎完胜AOL。）
+On Friday, news of the shooting in Aurora, Colo., was mashed up on Yahoo’s home page with an article about a Taiwanese teenager who had died after 40 hours of video gaming and a picture of a Burger King employee standing on tubs containing lettuce about to be served to customers. But that was juxtaposed with a thoughtful, original take on why the New York Knicks had not signed Jeremy Lin.
+周五的时候，在雅虎的主页上，科罗拉多州奥罗拉枪击案的新闻，混搭了一篇台湾少年连续40小时玩视频游戏之后猝死的文章，以及一张汉堡王(Burger King)员工站在生菜筐里的照片，这些生菜即将拿去给顾客享用。同时并列的还有一篇深刻的原创文章，分析纽约尼克斯队(New York Knicks)为何没有与林书豪(Jeremy Lin)签约。
+Yahoo did not set out to be in the news business — it ended up there by default. It was delivering useful apps to consumers long before there was an iPad. Early excellence in search and e-mail generated a huge realm of users. Its ability to help consumers use data led to remarkable success in its finance and fantasy sports portals, which generated huge, loyal comment groups.
+雅虎并没有计划进入新闻行业，而是无意中来到了这里。远在iPad诞生之前很久，雅虎就已经向客户提供了一些很有用的应用程序。其早期在搜索和电子邮件业务上的卓越表现使其聚集了一大批用户。雅虎帮助客户使用数据的能力又让它的金融和虚拟体育板块取得了非凡的成功，吸引到巨大的忠实评论用户群。
+Eventually, Yahoo began feeding its audience bare headlines on news it bought from The Associated Press. It added pictures and began making other content-sharing agreements, while adding its own journalists over time.
+最终，雅虎开始从美联社(The Associated Press)购买新闻，配上简单的大标题，并将它们提供给自己的用户。然后雅虎加上了配图，开始签署其他一些内容共享协议，并且随时间推移增设了自己的记者团队。
+Yahoo Sports was the prototype for what the company hoped would be a broader play in proprietary news. The money from fantasy sports bought must-read bloggers doing timely work in various verticals, deep investigative projects and big-name columnists.
+雅虎期望在原创新闻中有更大的作为，而雅虎体育(Yahoo Sports)当时被视作这种尝试的原型。从虚拟体育板块中赚到的钱被用来购买各垂直类网站上必读博主的时效性文章、深度调查报告、以及大牌专栏作家的作品。
+But sports turned out to be the exception. Because Yahoo’s journey to being a news site was somewhat inadvertent, there was no comprehensive policy for developing content. Yahoo became a series of editorial fiefs with little cooperation or standardization among them. And when you have that much internal traffic to play with, any harebrained programming idea can look like genius just because it received some love from the giant home page.
+但是，雅虎体育的成功被证明是个列外。由于雅虎成为新闻网站有点无心插柳的意味，因此它在发展内容方面没有全面统一的政策。雅虎变成了编辑各自为政的一系列独立王国，他们之间鲜有合作和统一标准。而且，当公司有那么多的站内流量的时候，任何傻帽项目的想法都可能看似很天才。其实，它们仅仅是受益于一个宏大的主页。
+Chris Lehmann was hired as a deputy editor (then promoted to managing editor) to bring original voices to Yahoo News through a series of news blogs in 2010, but he left in 2011, frustrated by yet another change in strategy.
+克里斯·莱曼(Chris Lehmann)2000年曾受雇为副编辑（后来提升为执行主编），他的工作是通过一系列新闻博客给雅虎新闻(Yahoo News)带来原创的声音。但他2011年离开了公司，理由是对又一次的战略转变感到沮丧。
+“News is an activity, a verb, really,” Mr. Lehmann said, “and we would end up mired in these endless conference calls where you would learn a lot about what buzzwords were gaining currency and very little about how we were going to cover the events of the day.”
+莱曼说，“新闻真的是一种活动，一个动词。那时我们会陷入没完没了的电话会议不能自拔，会上可以学到哪些流行词汇正在变得更加热门，但是很少涉及我们打算如何报道当天的重要事件。”
+“They backed into an audience and had no idea what it would take to build a real news operation,” said John Cook, a news blogger for Yahoo who is now at Gawker. 
+“他们无意间获得了观众，却不知道打造一家真正的新闻机构要做些什么，”约翰·库克(John Cook)这样说道。他是雅虎的新闻博主，如今在Gawker网站工作。
+I exchanged a dozen e-mails aimed at setting up a chat with Mickie Rosen, a senior executive in charge of media and commerce, to get Yahoo’s take on the matter. But the interview was canceled just before it was supposed to occur.
+我和雅虎主管媒体与商务的高管米基·罗森(Mickie Rosen)通了十几封电子邮件，意图约好一次面谈，讨论雅虎在这个问题上的看法。但是，访谈在即将到来的最后一刻取消了。
+It is possible, of course, that Ms. Mayer will choose code over content, treating news as just the skin on a technology enterprise. But in that space, Yahoo is not No. 1 in anything. It yielded search to Google, flailed at social media and let its messaging product languish.
+当然，梅耶尔有可能选择代码，而非内容，将新闻仅仅看成是一家科技企业的外壳。但是在那个领域，雅虎没有任何方面位居第一。雅虎的搜索业务不敌谷歌，社交媒体上惨遭失败，并任由其通讯产品自生自灭。

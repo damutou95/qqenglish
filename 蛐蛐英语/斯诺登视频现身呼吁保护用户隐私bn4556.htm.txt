@@ -1,0 +1,34 @@
+Edward J. Snowden wants the technology industry to get serious about protecting the privacy of its users and customers.
+爱德华·J·斯诺登(Edward J. Snowden)希望科技业认真对待用户和客户隐私的保护问题。
+“When we think about what is happening at the N.S.A. for the last decade, the result has been an adversarial Internet,” Mr. Snowden told a crowd of developers and entrepreneurs at the South by Southwest conference here on Monday, speaking by videoconference.
+“想一想过去十年国安局(NSA)发生的事情，我们看到有两方势力在互联网上较量，”斯诺登本周一在“西南以南”大会（South by Southwest，简称SXSW）上通过视频会议对开发者和创业者们说。
+“They are setting fire to the future of the Internet,” he added. “You guys are all the firefighters. We need you to help us fix this.”
+“他们是在放火焚烧互联网的未来，”他补充说。“你们就是消防员。我们需要你们的帮助来解决这个问题。”
+Mr. Snowden, the former National Security Agency contractor who leaked classified documents that revealed a vast network of government surveillance, told the audience that they “can enforce our rights for technical standards.”
+斯诺登是前国安局承包商的员工，他泄露的机密文件曝光了政府庞大的监控网络。斯诺登向与会者表示，他们“可以保障人们对技术标准的权利”。
+Mr. Snowden said he chose the conference, known as SXSW, to speak directly to people with the skills to make mass surveillance significantly more expensive for government agencies — if not impossible. For the past decade, Mr. Snowden said, the N.S.A. had been given free rein to make the Internet less secure by engaging in large-scale sweeps of data.
+斯诺登说，他决定在SXSW大会上直接面向一些人讲话，这些人拥有的技能可以让政府机构监督公众的成本大幅增加——甚至可能导致无法监控。斯诺登说，过去十年中，政府放任NSA对数据进行大规模收集，削弱了互联网的安全性。
+Mr. Snowden fled the United States last summer and is living at an undisclosed location in Russia, where he has been granted temporary asylum. He faces charges in the United States of violating the Espionage Act.
+斯诺登去年夏天逃离美国，俄罗斯为他提供了临时庇护，现在他住在该国的一处秘密居所。美国指控他触犯了《反间谍法》(Espionage Act)。
+Mr. Snowden appeared remotely at the conference with Christopher Soghoian, the principal technologist of the American Civil Liberties Union, and Ben Wizner, director of the A.C.L.U.’s Speech, Privacy and Technology Project and Mr. Snowden’s legal adviser, both of whom were on site in Austin. The event was a rare live interview for Mr. Snowden, conducted by Mr. Wizner.
+斯诺登远程出席了这个活动，跟他同台发言的还有美国公民自由联盟(American Civil Liberties Union)首席技术专家克里斯托弗·索戈延(Christopher Soghoian)，以及该组织的言论、隐私与技术项目主管兼斯诺登的法律顾问本·维茨纳(Ben Wizner)，两人均亲临奥斯汀会场。这个活动对斯诺登进行了罕见的实况采访，由维茨纳主持。
+Using technology to mask his whereabouts, Mr. Snowden appeared through a Google Plus videoconference — the irony of which was not lost on Mr. Snowden or others, who joked about the fact that Google was involved in many of Mr. Snowden’s revelations.
+斯诺登利用技术手段来掩盖行踪，​通过Google Plus的视频会议服务出席了这个活动——他和其他人捕捉了其中蕴含的讽刺意义，对此开了一些玩笑，因为他曝光的很多内幕都涉及谷歌。
+Appearing before a green screen that had been programmed to display the American Constitution, Mr. Snowden addressed a rapt audience that often broke into applause and cheers. Hundreds packed into an exhibition hall to hear him speak and those who could not find seats stood along the wall or sat on the floor.
+斯诺登出现在一块按照设定显示了《美国宪法》(American Constitution)的绿屏前面，对全神贯注的观众们讲话，大家常常爆发出热烈的掌声和欢呼声。数百人挤在一个展厅内听他发言，那些找不到座位的人沿着墙壁站立，或是坐在地板上。
+At various points during the event, the Internet access in the convention center buckled under the burden of all the people trying to use their devices to tweet or go online. And at times, Mr. Snowden’s connection dropped, in part because of the anonymity software he used to mask his location.
+这个活动进行的过程中，由于很多人同时试图用设备发Twitter消息或是上网，互联网接入服务几度崩溃。斯诺登的连线也断了几次，部分是他用来掩饰自己位置的匿名性保护软件造成的。
+Mr. Snowden said he hoped to raise a call to arms to developers, cryptographers and privacy activists to build better tools to protect the privacy of technology users. The goal, he said, was that encryption would ultimately be considered as a necessary, basic protection, and not something easily dismissed as an “arcane black art.”
+斯诺登说，他希望向开发者、密码学者和隐私权益活动者发出战斗号召，呼吁他们开发更好的工具来保护技术用户的隐私。他说，这样做的目的是让大家最终把加密视为一种必要的基本保障，而不是简单地斥之为一种“神秘的黑魔法”。
+Ultimately, Mr. Snowden said, that will “allow us to reclaim the open and trusted Internet.”
+斯诺登说，最终这会“让我们重新拥有开放的、可信的互联网”。
+He was referring to the many digital encryption protections that are cheap and widely available, but exceedingly difficult for people to use properly.
+他谈到很多价格便宜、随处可得的数字加密保护技术，但普通人要正确地使用它们却非常困难。
+Mr. Snowden noted that encryption services like Pretty Good Privacy, or PGP software, and anonymity services, like Tor, are available, but are not as easy to use as Google’s Gmail service or Chrome browser.
+斯诺登指出，用户可以找到像Pretty Good Privacy或PGP软件这样的加密服务，以及Tor等匿名性保护服务，但它们不像谷歌的Gmail或Chrome浏览器那样方便易用。
+He also praised services like Open WhisperSystems, a suite of applications that aims to make secure communications tools usable, and commonly use.
+他还赞扬了一些服务，比如应用程序套件Open WhisperSystems，它旨在让用户可以使用安全通讯工具，并且广泛地使用它们。
+Ultimately, the tech industry can help fix the problem of security, Mr. Soghoian said. “Most regular people are not going to download some obscure security app,” he said. “They’re going to use the tools they already have,” like Google, Facebook and Skype.
+索戈延说，高科技业最终可以帮助公众解决安全问题。他说，“普通人往往不会去下载那些令人费解的安全应用，而是会使用手里已经有的工具”，比如谷歌、Facebook和Skype等。
+Mr. Snowden repeatedly emphasized that he didn’t want to block government agencies from doing their job to protect citizens, but was instead concerned about unwarranted surveillance. He said that if the American government and its technology industry are not held accountable for unwarranted oversight, foreign companies and agencies might feel free to adopt similar mass surveillance tactics and policies.
+斯诺登反复强调，他并不想阻碍政府机构开展保护公民的工作，他担心的只是那些没有获得许可的监控活动。他说，如果美国政府及该国科技业不因滥施监控被问责，那么外国公司和机构可能也会觉得可以随便采取类似的监控手段和政策。

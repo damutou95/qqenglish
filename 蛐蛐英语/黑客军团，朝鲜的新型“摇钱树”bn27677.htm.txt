@@ -1,0 +1,32 @@
+SEOUL, South Korea —North Korea’s state-sponsored hackers are increasingly going after money rather than secrets, according to a report published on Thursday by a South Korean government-backed institute.
+韩国首尔——韩国政府资助的一家机构周四发布报告称，朝鲜官方支持的黑客越来越把目标指向钱，而非机密。
+Cybersecurity experts have noticed a shift in the hacking attacks they suspected were mounted by North Korea. Formerly, most such attacks appeared intended to cause social disruption or purloin secret data, and the targets were generally the computer networks of government agencies or media companies in countries it considered hostile. The best-known example was a 2014 attack on computers at Sony Pictures Entertainment.
+网络安全专家已经注意到，那些令人怀疑是由朝鲜发起的黑客攻击出现了变化。以前，这类攻击似乎大多是为了引起社会混乱或窃取机密数据，目标通常是被其认为怀有敌意的国家的政府机构或媒体公司的计算机网络。最著名的例子是2014年对索尼电影娱乐公司(Sony Pictures Entertainment)发起的一场攻击。
+That kind of attack is still occurring, but in the last few years, North Korean hackers seem to have become more interested in stealing cash, the Financial Security Institute said in its report on Thursday.
+这类攻击依然在发生，但韩国金融安全研究所(Financial Security Institute)周四在其报告中说，过去几年里，朝鲜黑客对盗取资金的兴趣似乎增加了。
+The report said North Korean-linked hackers were behind the recent digital theft of $81 million from Bangladesh’s central bank. The North Koreans also tried to breach Polish banks, leaving traces that led anti-hacking experts to believe the hacking group also planned to steal money from more than 100 other organizations around the world.
+该报告称，和朝鲜有关联的黑客是不久前通过数字手段从孟加拉国央行盗走8100万美元（约合5.5亿元人民币）一事的幕后黑手。朝鲜黑客还试图侵入波兰的银行。他们留下的痕迹促使反黑客专家认为，该黑客组织还计划盗取全球其他100多个组织的资金。
+North Korea is isolated, impoverished and desperately short of foreign currency to pay for imports. Even so, it has trained a large army of hackers, originally as an inexpensive means of espionage, sabotage and propaganda, but now also as a moneymaker.
+朝鲜与世隔绝、一贫如洗，并且极其缺乏用来进口的外汇。即便如此，该国还是训练了一支黑客大军。他们起初是作为一种廉价的间谍、破坏和宣传手段，现在还充当着赚钱的工具。
+The Russian cybersecurity firm Kaspersky Lab has identified a hacking group called Bluenoroff that it says is to blame for attacks on foreign financial institutions, like those in Poland and Bangladesh. Bluenoroff is said to be an offshoot of Lazarus, the North Korea-linked hacking group implicated in earlier attacks.
+俄罗斯网络安全公司卡巴斯基实验室(Kaspersky Lab)也发现了一个名为Bluenoroff的黑客组织，称其应为波兰和孟加拉国等国的金融机构遭受的攻击负责。Bluenoroff据说是Lazarus的一个分支。后者是一个和朝鲜有关联的黑客组织，和早前的多起攻击有牵连。
+The new report identified another Lazarus spinoff, which it named Andariel, and said that group was responsible for at least seven hacking attacks on banks, defense contractors and other businesses in South Korea over the last two years. (The names Lazarus and Andariel apparently refer to characters in a video game called Diablo.)
+新发布的报告指出了另一个被其命名为Andariel的Lazarus分支，称其应为过去两年里韩国的银行、国防承包商和其他企业受到的攻击负责（Lazarus和Andariel这两个名字似乎源自一个名为Diablo的视频游戏里的角色）。
+”Bluenoroff and Andariel share their common root,” the report said. “If Bluenoroff has attacked financial firms around the world, Andariel focuses on businesses and government agencies in South Korea using methods tailored for the country.”
+“Bluenoroff和Andariel的根源相同，”报告写道。“如果是Bluenoroff攻击了全球的金融公司，那么Andariel的重点就是韩国的企业和政府机构，所采取的方式是专门针对韩国设计的。”
+The report said the Andariel group had increasingly shifted from destructive attacks on computer networks to crimes like stealing bank-card data and using it to draw cash from bank customers’ accounts or selling the data on the black market. The group also used malware to cheat at online poker and on other gambling websites.
+报告称，Andariel越来越多地从针对计算机网络的破坏性攻击，转向窃取银行卡信息，并利用它们从银行客户的账户取现，或者是把窃取的信息拿到黑市出售。该组织还利用恶意软件在网络扑克游戏和其他一些赌博网站作弊。
+“Andariel is believed to focus on earning hard currency,” the report said.
+“据信，Andariel的重点是赚取硬通货，”报告写道。
+The Financial Security Institute, which is financed by the South Korean government, cautioned that the report was partly conjectural and did not represent an official view.
+由韩国政府资助的金融安全研究所告诫，该报告在一定程度上只是推测，不代表官方意见。
+North Korea, a country that is cut off from much of the global economy and allows only a tiny portion of its population to have access to the internet, has been building up its cyberattack capabilities since the early 1990s, selecting teenagers and teaching them to be hackers, according to South Korean officials and defectors from the North. South Korean cybersecurity officials began detecting attacks attributed to North Korean hackers around 2009.
+朝鲜脱离于全球经济的大部分领域之外，只允许很少一部分人访问互联网。但据韩国官方和脱北者称，朝鲜自90年代初便开始挑选青少年，训练他们成为黑客，构建起网络攻击实力。2009年左右，韩国负责网络安全的官员开始察觉到朝鲜黑客发起的攻击。
+North Korea is now believed to have 1,700 state-sponsored hackers, aided by more than 5,000 supervisors, trainers and other support staff, South Korean officials estimate. The hackers typically do their work abroad, taking legitimate software programming or other jobs in China, Southeast Asia or Europe and waiting for instructions from Pyongyang to mount an assault, they said.
+韩国官员估计，朝鲜现在据信有1700名官方支持的黑客，还有5000多名管理员、培训师和其他支持人员。他们说，这些黑客往往在国外发起行动，一边在中国、东南亚和欧洲承接合法的软件编程或其他工作，一边等着平壤发出攻击命令。
+Going abroad is a rare privilege for North Koreans, and those who are allowed to work outside the country are required to send the government a quota of foreign currency every year, according to North Korean defectors.
+对朝鲜人来说，出国是一项罕见的特权。据脱北者称，获准在国外工作的人每年要向政府缴纳定额的外汇。
+North Korea has been accused of illicit moneymaking schemes to pay for its huge military, its nuclear weapons program and its leaders’ luxurious lifestyle, including gunrunning, drug trafficking and counterfeiting. As the United Nations has tightened sanctions and made those avenues more difficult, cyberattacks have loomed larger as a source of cash. Some hacking experts suspect North Korean involvement in the recent wave of global ransomware attacks.
+朝鲜被控通过非法的赚钱方式，包括走私军火、贩卖毒品和制造假币的方式，支付其庞大的军队、核武器计划和领导人奢侈生活方式的开销。随着联合国收紧制裁导致这些途径的难度增加，网络攻击成了一个更大的资金来源。一些黑客专家怀疑，朝鲜参与了最近这波全球勒索软件攻击。
+North Korea has denied any involvement in hacking attacks, accusing South Korea and the United States of slander.
+朝鲜否认参与黑客攻击，指责韩国和美国诽谤。

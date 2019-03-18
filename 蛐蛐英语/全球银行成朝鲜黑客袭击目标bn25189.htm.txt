@@ -1,0 +1,58 @@
+When hackers associated with North Korea tried to break into Polish banks late last year they left a trail of information about their apparent intentions to steal money from more than 100 organizations around the world, according to security researchers.
+据安全研究人员透露，去年年底，与朝鲜有关的黑客试图闯入多家波兰银行时留下了一些信息，显示他们企图从全球100多个机构窃取资金。
+A list of internet protocol addresses, which was supplied by the security researchers and analyzed by The New York Times, showed that the hacking targets included institutions like the World Bank, the European Central Bank and big American companies including Bank of America.
+安全研究人员提供了一张互联网协议地址的清单，《纽约时报》对其进行了分析，清单显示黑客目标包括世界银行(World Bank)、欧洲中央银行等机构，以及美国银行(Bank of America)这样的大企业。
+While some of the Polish banks took the hackers’ bait, the scheme was detected fairly quickly, and there is no evidence that any money was stolen from the intended targets. Yet security researchers said the hit list, found embedded in the code of the attack on more than 20 Polish banks, underlines how sophisticated the capabilities of North Korean hackers have become. Their goals have now turned financial, along with efforts to spread propaganda and heist data and to disrupt government and news websites in countries considered enemies.
+虽然有一些波兰银行中了黑客的诱饵，但阴谋很快被识破，没有任何证据表明黑客从预定的目标那里窃取了资金。然而安全研究人员表示，从攻击这20多家波兰银行的代码中，他们发现了一份攻击清单，它表明了朝鲜黑客能力的长进。除了进行宣传鼓吹和窃取数据，以及扰乱敌国的政府和新闻网站之外，他们的目标现在还转向了资金。
+The list of targets, which has not been previously reported, is part of a growing body of evidence showing how North Korea, a country that is cut off from much of the global economy, is increasingly trying to use its cyberattack abilities to bring in cash — and making progressively bolder attempts to do so.
+攻击目标清单以前从来没有被报道过，但这样的证据正在越积越多，表明朝鲜这个被全球大部分经济体所孤立的国家胆子越来越大，正在越来越多尝试利用其网络攻击能力来获取现金。
+North Korea’s hacking network is immense, encompassing a group of 1,700 hackers aided by more than 5,000 trainers, supervisors and others in supporting roles, South Korean officials estimate. Because of the country’s poor infrastructure, the hackers typically work abroad, in places like Southeast Asia and Europe. Like other North Koreans allowed to work abroad, the hackers are constantly monitored by minders for possible breaches in allegiance to the government.
+据韩国官员估计，朝鲜拥有一个巨大的黑客网络，拥有1700名黑客，并由5000多名培训师、主管和其他人员做后援。由于该国的基础设施不佳，黑客通常在国外工作，比如东南亚和欧洲等。像其他朝鲜人一样，在国外工作时，黑客也经常受到监督者的监视，防止他们有不忠于政府之举。
+The security firm Symantec said it believed that the hackers behind the Poland attack were also behind two other major breaches: the theft of $81 million from the central bank of Bangladesh and a 2014 attack on Sony Pictures, which rocked the film industry.
+安全公司赛门铁克(Symantec)说，波兰袭击事件背后的黑客还参与了另外两个大的行动：从孟加拉国央行盗窃了8100万美元，以及2014年对索尼影业进行攻击，该事件震惊了电影业。
+“We found multiple links, which gave us reasonable confidence that it’s the same group behind Bangladesh as the Polish attacks,” said Eric Chien, a researcher at Symantec, which studied both attacks.
+赛门铁克的研究员埃里克·钱(Eric Chien)说：“我们发现了多条链路，因此我们相信攻击波兰的这伙黑客很有可能就是攻击孟加拉国的那一伙人。”
+The firm has not traced the attacks to a specific country’s government, but American officials have blamed North Korea for the Sony attack, partly based on intelligence that came from American breaches of North Korea’s computer systems.
+该公司并还没有将这些攻击和特定的国家政府联系起来，但美国官员指责朝鲜是索尼袭击案的背后黑手，部分依据来自于美国攻破朝鲜计算机系统获得的情报。
+The list of targets uncovered in the Polish attack — including big American financial institutions like State Street Bank and Trust and the Bank of New York Mellon — is illuminating for its ambition, Mr. Chien added. “It’s one thing to go after Bangladesh,” he said, “but it’s a whole other thing to take on the U.S.”
+埃里克·钱还说，波兰袭击事件暴露的目标清单——包括道富银行(State Street Bank and Trust)以及纽约梅隆银行(Bank of New York Mellon)等大型美国金融机构——显示了朝鲜的勃勃雄心。“袭击孟加拉国是一回事，”他说，“针对美国完全就是另一回事了。”
+United States prosecutors are investigating North Korea’s possible role in the Bangladesh heist, according to a person briefed on the inquiry, who asked to remain anonymous because the details are confidential. And on Tuesday, Richard Ledgett, a deputy director of the National Security Agency, said that research linked the Sony Pictures attack to the Bangladesh heist. He also affirmed that he believed nation states were now robbing banks.
+一个知情人士说，美国检察官正在调查朝鲜在孟加拉国被盗案中可能扮演的角色。因为细节保密，此人不愿具名。周二，国安局副局长理查德·莱吉特(Richard Ledgett)表示，研究发现，索尼影业遭受的袭击与孟加拉国那次袭击有联系。他还表示，他相信一些民族国家现在在干抢银行的事情。
+All of this represents a troubling new front in cyberwarfare, Mr. Ledgett said at an event sponsored by the Aspen Institute. “That is a big deal,” he said.
+这一切代表了网络战争中一个令人担忧的新前线，莱德特在阿斯彭学会(Aspen Institute)主办的一个活动上说。“这是一件大事，”他说。
+North Korea has denied involvement in the attacks on Sony and others, instead accusing South Korea of disrupting its websites. North Korea’s population is cut off from the internet except for a handful of state-run sites filled with propaganda.
+朝鲜否认参与对索尼等机构的袭击，反而指责韩国破坏其网站。除了一些充满宣传的官办网站，朝鲜人与互联网隔绝。
+The Polish episode provides a case study of how North Korean cyberattack goals have escalated.
+波兰事件为我们研究朝鲜网络攻击目标的升级提供了一个机会。
+The attack began around October when the hackers planted a virus on the website of the Polish financial regulator — then waited for banks to inadvertently download it when they visited the site.
+此次攻击始于去年10月前后，当时，黑客在波兰金融监管机构的网站上植入了一种病毒——然后等待银行在访问该网站期间不经意地下载它。
+The perpetrators used what is called a watering-hole attack — named after the way predators ambush prey by lazing around a high-traffic spot — to go after the banks; in this case, the “watering hole” was the financial regulator’s website. When the visitors on the list landed on the page, they would be redirected to software that would attempt to download malware. The list of targets extended beyond Poland, investigators said, because the group intended to carry out similar attacks elsewhere.
+攻击者对银行展开的是所谓的水坑攻击——得名于攻击者在目标经常出没之处进行伏击的做法；这个案例中，“水坑”是金融监管机构的网站。当名单上的银行访问该网站时，它们会被重定向至会试图下载恶意软件的软件。调查人员称，登上攻击目标名单的不只是波兰的银行，因为这伙黑客还打算在别的地方进行类似的攻击。
+“This was a global list, but they hadn’t gotten around to making a watering hole for all these country banks,” Mr. Chien said, adding that the hackers appeared to have created watering-hole sites in Mexico and Uruguay, too. Symantec said it had blocked 14 attacks against computers in Mexico and 11 in Uruguay.
+“这是一份全球性名单，但他们没来得及针对所有这些国家的银行构建水坑，”埃里克·钱说。他还表示，黑客们似乎还把墨西哥和乌拉圭的相关网站变成了水坑。赛门铁克称，它在莫斯科和乌拉圭分别拦截了14次和11次对计算机的攻击。
+The fact that the hackers were able to attack a specific site showed that their capabilities had improved, Mr. Chien said. The group also used its own modifications of code and exploits more broadly shared by cybercriminals, whereas before it had mostly built its own tools — another indication of evolution.
+埃里克·钱说，这伙黑客可以攻击特定网站，表明其能力有所提高。他们还对一些在网络罪犯中广泛流传的代码和漏洞加以修改后使用，不像以前大多使用自行开发的工具——这是另一个进化的迹象。
+While Polish banks were the most numerous targets, the second-largest number was in the United States, including the American arm of Deutsche Bank. CoBank, which lends to agriculture and rural projects, was targeted, too. The central banks of Russia, Venezuela, Mexico, Chile and the Czech Republic were on the list.
+目标名单上，波兰银行的数量最多，紧随其后的则是美国的银行，其中包括德意志银行美国分行。为农业和农村项目提供贷款的CoBank也被列为攻击目标。俄罗斯、委内瑞拉、墨西哥、智利和捷克的央行都在名单上。
+North Korea has been carefully cultivating its cyberattack capabilities since the early 1990s, according to South Korean officials. Generally, the country selects young computer prodigies and trains them as hackers, according to people who have attended the South Korean government’s discussions of the North’s hacking operations. South Korean cybersecurity officials began detecting attacks attributed to North Korean hackers around 2009.
+韩国官员称，自从1990年代以来，朝鲜一直在认真培育自身的网络攻击能力。参与过韩国政府关于朝鲜黑客行动的讨论的一些人士称，一般而言，朝鲜会挑选出年轻的计算机天才，对其进行黑客培训。韩国的网络安全官员在2009年左右开始发现被归咎于朝鲜黑客的网络攻击。
+Working overseas is a huge incentive for young hackers, since many North Koreans have little chance to leave their impoverished, isolated country. As long as the hackers meet their government-set targets, they are allowed to live abroad and often get the added perk of running illegal gambling sites online, generating profits they can share with supervisors.
+对年轻的黑客而言，在海外工作是一个巨大的诱惑，因为很多朝鲜人都没什么机会离开贫穷而又孤立的祖国。这些黑客一旦达到本国政府设定的目标，便可获准住在国外，而且常常会通过运营非法赌博网站获得额外的好处——他们可以和上级分享源自此类网站的利润。
+While North Korea lags developed countries in hacking capabilities, it has occasionally startled observers in South Korea. In 2011, investigators found that a South Korean bank had been hit by malware when an infected computer used by a maintenance-company employee was briefly hooked into the bank’s server network.
+朝鲜在网络攻击能力方面落后于发达国家，但它有时会让韩国的观察人士感到震惊。2011年，调查人员发现，某网络维护公司雇员使用一台感染了病毒的电脑短暂接入了韩国一家银行的服务器，导致银行遭到恶意软件的攻击。
+South Korean hackers who forensically analyzed the attack were impressed not so much by the malware, but by the fact that North Korean hackers had been so constantly on alert, apparently for hours or days on end, waiting for the short window during which the infected computer was connected to the bank’s servers so that they could activate the virus.
+让负责对此次攻击进行痕检分析的韩国黑客感到惊讶的不是恶意软件，而是朝鲜黑客可以一直保持警惕——他们似乎一连坚守了很多个小时或很多天，只为等待一个短暂的时机，在感染了病毒的电脑连上银行的服务器之际激活病毒。
+While the Pentagon has recently warned that North Korea’s hacking abilities could be a cost-effective way of conducting military operations, the attacks on banks shows the country’s more prosaic goal of getting money.
+五角大楼近来警告称，朝鲜拥有的网络攻击能力，会让它以更具成本效率的方式开展军事行动。但针对银行的攻击突显了朝鲜的一个较为寻常的目标：赚钱。
+“In the past, North Korean hackers usually attacked government websites with the goal of destroying systems and triggering social confusion,” said Kim Seung-joo, a professor at the Graduate School of Information Security at Korea University in Seoul, who is an adviser for the South Korean government’s cybersecurity division.
+“过去，朝鲜黑客攻击政府网站通常是以破坏系统和引发社会混乱为目的，”首尔高丽大学(Korea University)信息安全研究生院(Graduate School of Information Security)的教授、韩国政府网络安全部门顾问金升洲（Kim Seung-joo，音）说。
+“Now they have shifted to making money, attacking banks and private companies, apparently because the North’s other means of raising foreign currency are increasingly blocked under United Nations sanctions,” Mr. Kim said.
+“现在他们开始转向赚钱，攻击银行和私人企业，这似乎是因为在联合国的制裁下，朝鲜获取外汇的其他方法受到了限制，”金升洲说。
+North Korean hackers have also begun using ransomware — viruses that encrypt all data in an infected computer or smartphone — to make money. The hackers demand a ransom, usually in Bitcoin, in return for providing victims with a decryption code.
+为了赚钱，朝鲜黑客还开始使用勒索软件——一种对被感染的计算机或智能手机中的所有数据进行加密的病毒。黑客们会让受害者支付赎金——通常是比特币——以换取解密密码。
+In July, the South Korean police said North Korea’s main intelligence agency had stolen the personal data of more than 10 million customers of Interpark, an online shopping mall in South Korea. Interpark did not learn about the breach until it received an anonymous message threatening to publicize the leak of personal data unless it paid the equivalent of $2.7 million in Bitcoin.
+去年7月，韩国警方称，朝鲜主要情报机构窃取了韩国购物网站Interpark超过1000万名客户的个人信息。Interpark原本还蒙在鼓里，直至收到一条信息。发信人威胁说，Interpark需支付价值270万美元的比特币，否则客户个人信息遭泄露一事便会被公诸于众。
+South Korea attributed the attack to hackers belonging to North Korea’s Reconnaissance General Bureau, its main spy agency.
+韩国认为开展攻击的是隶属于朝鲜主要间谍机构侦查总局(Reconnaissance General Bureau)的黑客。
+In the end, no Bitcoin changed hands. Instead of paying the ransom, Interpark reported the attack to the police.
+最终比特币没有送出。Interpark没支付赎金，而是把遭受攻击一事报告给了警方。

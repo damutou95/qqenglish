@@ -1,0 +1,50 @@
+Cash is unlikely to go away soon. Coins and paper currency remain the most popular ways to pay for things in most countries. But longer term, cash appears to be in a losing battle with electronic payment methods.
+现金不太可能太早被淘汰。硬币和纸钞仍是大多数国家最受欢迎的购物支付方式。但长期来说，现金在与电子支付方式的对抗中似乎处于下风。
+There are few corners of the world where electronic transactions are not growing faster than cash. The consulting firm Capgemini recently estimated that electronic payments will grow about 10.9 percent a year between 2015 and 2020.
+世界上几乎没有什么地方的电子交易增长速度不及现金。凯捷(Capgemini)咨询公司最近估计，电子支付在2015年至2020年间年增长率约为10.9％。
+But the movement away from cash is happening in very different ways and at varying paces around the world.
+但在全球各地，这场摆脱现金的运动发生的方式和速度却不尽相同。
+Scandinavian countries are already well along the road toward cashless societies. Many banks in Sweden no longer have cash on hand, and consumers can make instant transfers directly from their bank accounts.
+斯堪的纳维亚国家已经稳步迈向无现金社会。瑞典的许多银行不再拥有现金，消费者可以直接从银行账户进行即时转账。
+In Kenya, the local mobile phone company Safaricom, not the banks or the government, has pushed the envelope. Safaricom created a system, known as M-Pesa, that allows customers to make payments directly from their phones.
+在肯尼亚，推动革新的并非银行或政府，而是当地的移动电话公司Safaricom。Safaricom创造了一个名为M-PESA的系统，让消费者能直接从他们的手机付款。
+China is the most talked-about location in the battle between cash and electronic payments. PayPal-like wallets created by Chinese online giants Alibaba and Tencent have become the most popular ways to pay for things online.
+在这场现金与电子支付间的对抗中，中国是人们谈论得最多的国家。由中国在线巨人阿里巴巴和腾讯创造出的类似PayPal的手机钱包，已经成为网络购物最受欢迎的付款方式。
+The benefits of moving away from cash have been trumpeted by economists like Kenneth Rogoff, who wrote “The Curse of Cash,” about how paper money enables crime and tax evasion.
+肯尼思·罗格夫(Kenneth Rogoff)这样的经济学家一直在鼓吹摆脱现金的好处。罗格夫著有《现金的诅咒》(The Curse Of Cash)，内容是有关纸币如何使犯罪和逃税成为可能。
+But the critics of cash have been met by their own critics, who argue that electronic payments can disenfranchise poor people who lack easy access to bank accounts and the internet and can make it much easier for governments and corporations to monitor a person’s every step.
+但是批评现金的人自身也面临批评者，后者认为电子支付会剥夺不易获得银行账户及使用互联网的穷人的权利，并且可以使政府和企业更容易监控人的一举一动。
+In the end, though, the future of money is less likely to be determined by these arguments than to be shaped by the success of technologists making it easier for you to pay for your lunch or morning coffee without pulling out your wallet.
+但最终，金钱的未来不太可能被这些争论所左右，而是更多取决于技术人员的成功，他们能够让你更容易地为午餐或早上的咖啡付账，而不用拿出你的钱包。
+Sweden
+瑞典
+Sweden has been one of most visible leaders in the war on cash. In recent years, the biggest innovation has been not in bank cards but in a phone app known as Swish, which enables instant bank transfers.
+瑞典是现金战争中最显著的领导者之一。近年来，最大的创新并不是银行卡，而是一项名为Swish的电话应用程序，它能够进行即时银行转账。
+Germany
+德国
+Germany has been slower than other European countries to move away from cash. Germans have a preference for debit cards over credit cards because of a cultural dislike of debt. (Not coincidentally, the German word for debt, schuld, also means guilt).
+相比其他欧洲国家，德国摆脱现金的速度更慢。由于该国在文化上不喜欢债务，德国人更偏好使用借记卡而非信用卡。 （并非巧合的是，德文中表示债务的单词“schuld”也意味着内疚。）
+United States
+美国
+The United States has lagged behind many wealthy countries in moving away from cash. American banks have been slow to make instant bank transfers possible — most still take at least day. Debit and credit cards remain the most popular payment methods.
+美国在摆脱现金方面落后于许多富裕国家。美国银行在实现即时银行转账方面进展缓慢，大多数转账仍至少需要一天时间。借记卡和信用卡仍然是最受欢迎的付款方式。
+Japan
+日本
+Payment cards have become popular in Japan, but it has been slower to give up cash than most other rich countries. The government has initiatives to speed up the transition but consumers have been hesitant to leave cash behind.
+支付卡在日本已经很流行，但该国放弃现金的速度比其他大多数富裕国家慢。即使政府实施了加快转型的举措，但消费者一直犹豫不决。
+South Korea
+韩国
+As part of its war on corruption, South Korea has pushed hard to move its financial system away from cash. Companies refusing to take electronic payments have been penalized, and the South Korea central bank has called for a “cashless society” by 2020.
+作为反腐败斗争的一部分，韩国一直在努力推动其金融体系摆脱现金。拒绝电子支付的公司已经受到惩罚，韩国央行在2020年之前呼吁实现“无现金社会”。
+Kenya
+肯尼亚
+Kenya is a model for how electronic payments can evolve without banks. M-Pesa, introduced in 2007 by the largest Kenyan mobile phone provider, Safaricom, allows people without bank accounts to send money electronically. Most Kenyans are using the service.
+肯尼亚是电子支付如何在没有银行的情况下发展的典范。肯尼亚最大的手机供应商Safaricom于2007年推出M-Pesa服务，允许没有银行账户的人以电子方式汇款。大多数肯尼亚人正在使用这项服务。
+China
+中国
+In the last few years China has led the charge into the cashless future. Internet giants like Alibaba and Tencent have created their own online payment methods. Alipay and Tenpay have rapidly become the most popular ways to pay.
+在过去的几年里，中国领导着这个无现金的未来。阿里巴巴和腾讯这样的互联网巨头已经创建了自己的在线支付方式。支付宝和财付通迅速成为最受欢迎的付款方式。
+India
+印度
+India has been slow to move away from cash. But last year it took the largest cash bills out of circulation as part of an anti-corruption campaign. Companies like Facebook and Alipay hope the move will provide an opening for electronic payment systems.
+印度摆脱现金的速度缓慢。但在去年，该国把市面上流通的最大面额现钞废除，以此作为打击腐败行动的一部分。 Facebook和支付宝等公司希望这一举措将为电子支付系统提供一个开放的平台。

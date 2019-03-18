@@ -1,0 +1,34 @@
+JAKARTA, Indonesia — Indonesians have long loved BlackBerry devices. When the company introduced a new phone two and a half years ago, a crowd at shopping mall here became so unruly — in part because of a half-price offer for the first 1,000 buyers — that riot police were rushed in to stand by.
+印尼雅加达——长期以来，黑莓公司(BlackBerry)的设备在印尼一直很受追捧。两年半前，该公司在该国的某个购物商场里推出一款新手机时，购机人群变得变得异常骚动不安——这部分上是由于前一千名购机者可以享受半价优惠——以至于防暴警察匆忙赶到现场，以防发生不测。
+But even in Indonesia, BlackBerry’s fortunes have changed. Last week, when the company started selling the Z3, a smartphone it made specifically for this market, consumers reacted with a collective shrug.
+但即便是在印尼，黑莓的命运也发生了转变。上周，当公司开始发售专门针对印尼市场打造的Z3智能手机时，消费者普遍反应冷淡。
+Nevertheless, the arrival of the Z3, a touch-screen device mainly notable for its budget-friendly $190 price, signals a new path for the struggling company. BlackBerry, like most phone makers, has long contracted out the manufacturing of its phones, but the Z3 has also been designed and distributed by Foxconn Technology Group, the Taiwanese manufacturer.
+然而，对于这家陷入困境的公司来说，Z3的推出代表了一条新的路径。Z3是一款触屏手机，最引人瞩目的是其190美元（约合人民币1200元）的亲民价格。像绝大多数手机制造商一样，黑莓也长期外包其手机的制造环节，但Z3的设计和分销环节也是由台湾制造商富士康科技集团(Foxconn Technology Group)承担的。
+BlackBerry’s partnership with Foxconn, a company perhaps best known as a builder of iPhones and iPads, comes at a critical time for BlackBerry. Although sales of the company’s devices have plummeted globally in recent years, the revenue from the phone business remains vital as John S. Chen, BlackBerry’s chairman and chief executive, tries to shift the organization’s focus to services and software.
+富士康最广为知之的身份可能是iPhone和iPad的代工厂。黑莓与该公司的这种合作关系，是在一个对黑莓而言颇为关键的时期达成的。尽管近几年来，黑莓设备在全球销量暴跌，但在董事长兼首席执行官程守宗(John S. Chen)试图把公司重心转移到服务和软件上之际，手机业务的营收对该公司仍然至关重要。
+By reaching a deal with Foxconn, Mr. Chen may have bought himself some time — if only a little.
+与富士康达成这项协议，可能为程守宗争取了一些时间——就算只争取了一点点。
+“John Chen is just sustaining the handset business as he sorts out the way ahead,” said Nick Spencer, an analyst with ABI Research in London.
+“在厘清前进道路的时候，程守宗对手机业务采取的仅仅是维持态度，”伦敦研究机构ABI Research的分析师尼克·斯宾塞(Nick Spencer)说。
+“But at these low volumes, you wonder about BlackBerry’s viability. Consumer electronics is about scale,” he added.
+“但是，在这样小的规模上，你想知道黑莓如何能生存下去。消费电子产品的关键在于规模大小，”他说。
+During its last quarter, the company sold 1.3 million phones, compared with six million during the same period a year earlier. But without the phone business, BlackBerry would be a significantly smaller company. In the last quarter, the ailing hardware business still generated 37 percent of BlackBerry’s $976 million in revenue. A year earlier, phones accounted for 61 percent of $2.7 billion in sales.
+上个季度，该公司售出了130万部手机，而去年同期的销量为600万部。但是，如果没有手机业务，黑莓的规模就会大大缩水。上个季度，黑莓总营收为9.76亿美元，疲软的硬件业务仍然为其贡献了37%的份额。而一年前，手机业务占到了其27亿美元销售额的61%。
+Two representatives for Foxconn declined to comment directly on its relationship with BlackBerry. “We are focused on supporting our customers by providing services such as research and development, design, manufacturing and logistics support,” the company said in a statement. “Moving up the value chain to provide a full suite of services has been our ongoing strategy.”
+富士康的两名负责人拒绝对该公司与黑莓的关系直接置评。“我们专注于通过提供研发、设计、制造及物流保障等服务来为客户提供支持。”该公司在一份声明中表示，“在价值链中向上移动，提供全方位服务，是我们的一贯策略。”
+Michael J. Palma, an electronics manufacturing services analyst at IDC, said that by no longer sourcing parts by itself, BlackBerry will benefit from Foxconn’s buying power while having a clearer idea of the final cost of handsets from the outset. “I think that’s smart,” he added.
+国际数据公司(IDC)的电子制造服务分析师迈克尔·J·帕尔马(Michael J. Palma)表示，由于无需再自行采购零配件，黑莓可以从富士康的购买力中受益，而且从一开始就可以对手机的最终成本有个更清楚的概念。“我认为这是个聪明之举，”他补充说。
+Foxconn will also help BlackBerry shorten development cycles. BlackBerry has a long history of being slow to develop new products — BlackBerry 10, its most recent flagship product, was repeatedly delayed.
+富士康也有助于黑莓缩短开发周期。长期以来，新产品开发缓慢都是黑莓的一条软肋——该公司最近一段时间的旗舰产品黑莓10，其开发进度就一再拖延。
+Mr. Chen said BlackBerry employees handled the software development for the Z3 and supervised Foxconn’s work on its hardware in a process that took four months. “This is probably the fastest in the industry,” he said.
+程守宗说，黑莓员工为Z3开发软件，并监督富士康在硬件方面的工作，整个过程花了四个月的时间。“可能是这个行业中的最快速度，”他说。
+(Mr. Palma said although Apple typically takes a year to develop new iPhones, many companies now turn around new models in three to six months. Also, Indonesian wireless carriers are faster to approve new models than their American counterparts.)
+（帕尔马表示，尽管苹果通常需要一年时间来开发新iPhone，现在很多公司推出新机型只需三至六个月时间。此外，印尼无线运营商批准新机型的速度也比其美国同行快。）
+It also is a fortuitous time for Foxconn. Mr. Palma said BlackBerry was dealing with a Foxconn subsidiary, Foxconn International Holdings, which is known in the industry as F.I.H. The subsidiary, however, has been struggling. In the past, the subsidiary’s main client was Nokia, another company whose phones have fallen out of favor with consumers. (Nokia is now part of Microsoft.)
+对于富士康来说，与黑莓达成这种合作的时间也很不错。帕尔马说，黑莓正在和富士康的一家子公司FIH打交道。该公司全名为富士康国际控股(Foxconn International Holdings)，它在经营方面正面临困境。FIH之前的主要客户诺基亚(Nokia)也是一个已经失去消费者青睐的手机品牌。（诺基亚现已成为微软旗下的一家公司。）
+Mr. Palma said F.I.H. had since turned mainly to small phone companies in China for its business. “BlackBerry becomes a nice add-on,” he added.
+帕尔马表示，自那之后，FIH主要是面向中国的小型手机公司开展业务。“对它来说，黑莓是个很不错的新客户，”他说。
+The Z3 may be less costly than previous BlackBerry offerings, but that may not be enough. Ruby Alamsyah, an independent technology analyst in Jakarta, said that Android phones now are sold in Indonesia for as little as the equivalent of $88, less than half the price of the Z3.
+Z3可能比以前的黑莓手机便宜，但可能便宜得还不够多。雅加达独立科技分析师鲁比·阿兰亚(Ruby Alamsyah)表示，现在印尼市场上的Android手机售价可以低至88美元，还不到Z3价格的一半。
+“I think the Z3, with the optional engraving of ‘Jakarta’ on the back, is only a marketing gimmick,” he said. “They still want to recover in the Indonesian market but I don’t think they’ll get it back if the price is still higher than most cheap Androids.”
+“我认为，可以选择在后盖刻上‘Jakarta’（雅加达）字样只是Z3的一个营销噱头而已，”他说。“该公司仍然希望在印尼市场上东山再起，但我觉得，如果它的价格还是高于大多数廉价Android手机，这个希望就实现不了。”

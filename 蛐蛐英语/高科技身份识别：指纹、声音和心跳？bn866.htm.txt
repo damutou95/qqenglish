@@ -1,0 +1,40 @@
+How does a machine verify the identity of a human being? Irises, heartbeats, fingertips and voices, for starters.
+机器怎么验证人类的身份呢？虹膜、心跳、指纹、声音，不一而足。
+Authentication has been a tough nut to crack since the early days of the Web. Now comes a batch of high-tech alternatives, some straight from science fiction, as worries grow about the security risks associated with traditional user name and password systems.
+打从互联网时代早期，身份验证就一直是块难啃的骨头。到了今天，随着人们对用户名加密码的传统验证方式蕴含的安全风险越来越担忧，出现了一批高科技的替代方式，其中一些简直是直接取自科幻作品。
+Apple on Tuesday introduced two new iPhones, including for the first time a model with a fingerprint sensor that can be used instead of a passcode to open the phone and buy products. The new feature is part of a trove of authentication tools being developed for consumers, and not just for phones.
+本周二，苹果推出了两款新iPhone，其中一款机型首次带有指纹识别传感器，可以取代密码来解锁手机并购买产品。这项新功能属于一大批正在开发的供消费者使用的身份验证工具之列，而且它们的使用范围可不止在手机上。
+Some of these, like the fingerprint sensor, involve the immutable properties humans are encoded with, while others turn our phones into verification devices.
+部分工具，比如指纹识别传感器，利用的是人类自身不可变更的特征，而另外一些工具则将手机变身为验证设备。
+Among the most novel — and also somewhat unsettling — of biometric authentication tools is a new wristband developed by cryptographers at the University of Toronto. It contains a voltmeter to read a heartbeat.
+新出现的一种腕带就属于最新奇的生物特征验证工具之一，不过它也多少会令人感到不安。这种腕带由多伦多大学(University of Toronto)的密码专家研发，其中包含解读心跳的心电仪。
+“You put it on. It knows it’s you. It communicates that identity securely to everything around you,” said Karl Martin, one of its creators.
+腕带的发明者之一卡尔·马丁(Karl Martin)说，“把它戴上，它就知道是你本人，然后会把这个身份信息安全地传给你身边的所有东西。”
+Security is a primary selling point of the wristband, Nymi. While a heart can be broken, Mr. Martin promises that a heartbeat cannot.
+这款腕带名为Nymi，安全性是它的主要卖点。尽管人会心碎，但马丁保证，心跳不会。
+These new technologies arrive against the backdrop of mounting concerns over security and privacy, as the old ways of verifying identity online have been exposed as risky. Buckets of user names and passwords have been stolen from a variety of popular sites, and last month, it was discovered that even passwords as long as 55 characters could be broken.
+这些新技术的出现正值人们对安全和隐私的担忧日益加强，因为大家发现，网上验证身份的老办法存在风险。众多热门网站都出现了大量用户名和密码信息被盗的情况，上个月更是曝出，长达55个字符的密码也可以被破解。
+The start-up OneID, based in Redwood City, Calif., offers a single sign-on that can be used on various Web sites and devices. In a video, an engineer at OneID, Jim Fenton, demonstrated how he used OneID to open his garage door at home.
+位于加利福尼亚州雷德伍德城的初创企业OneID提供了一种可用于多个网站及设备的一次性注册解决方法。公司工程师吉姆·芬顿(Jim Fenton)通过视频演示了如何利用OneID来开启家里的车库大门。
+The Achilles’ heel of many new Internet-connected devices, Mr. Fenton said in an interview, is protecting secure access.
+芬顿接受采访称，许多新型联网设备的致命伤在于保证联接安全。
+“If you connect all these things to the Internet, you need to have good ways — good from a security standpoint and a convenience standpoint — good ways to control access to things,” he said. “Having user names and passwords is not a good solution for every device.”
+“如果把所有东西都联网，就需要好办法来控制联接，而且得是既安全又方便的好办法，”他说。“用户名加密码并非适用于所有设备的好解决方案。”
+Biometric authentication tools, like fingerprint readers, have already been put in devices like laptops, but they have not always worked correctly. It remains to be seen how well Apple’s new fingerprint sensor will work, and whether users will adopt it.
+目前，指纹阅读器等生物特征识别工具已经被应用到了笔记本电脑等设备之上，但是它们并不总是能正确运转。苹果的新指纹传感器效果如何以及用户是否会接受它，这些都尚待观察。
+At the same time, biometric sensors raise questions of security. When Apple’s sensor was announced on Tuesday, a flurry of skepticism and privacy concerns erupted online even though Apple said users’ fingerprints would be stored only on the phone — not sent to online servers or made available to app developers.
+同时，生物特征传感器还引起了安全方面的问题。周二，当苹果宣布在新产品中使用了传感器时，人们纷纷在网上表示质疑和对隐私的担忧，尽管苹果表示，用户的指纹只会被储存在手机上——而不会被发送到网络服务器或者供应用开发者利用。
+Another problem: Nymi, OneID and other start-ups in this field will struggle to attract consumers without high adoption rates among sites.
+另一个问题是：Nymi、OneID及其他该领域的初创企业将很难吸引顾客，因为网站对它们的技术的采用率并不高。
+A more fantastical solution is being developed in a lab at the University of California, Berkeley. Computer scientists there say a simple and cheap headset will be able to read your brain waves to verify your thoughts — and save you the work of typing in a password.
+加州大学伯克利分校(University of California, Berkeley)的一个实验室找到了一种更奇特的解决法案。那里的计算机科学家说，可以用一种简单而廉价的头戴设备来读取你的脑电波，进而核实你的思维——这样就省得输入密码了。
+Technologists say just one trick is unlikely to unlock the problem of authentication. One set of tools may verify identity on Web sites; another may unlock cars; still another could grant access to bank accounts.
+技术人员说，一套密码工具似乎不太可能解决身份验证的问题。在网站上验证身份可能需要一套工具，解锁汽车需要另外一套，而进入银行账户则又需要其他工具。
+A coalition of hardware and software companies, calling itself the Fido Alliance, is working on a set of specifications for password alternatives that the industry can rally around. Its guidelines are expected to be released at the end of the year. Companies affiliated with Fido are already testing products, like fingerprint readers and software that recognizes faces and voices. One day, users might be able to log into a favorite e-commerce site by speaking into a computer and buy something with a gaze at a mobile PayPal app.
+硬件和软件公司组成了一个自称为线上快速身份验证联盟（Fido Alliance，简称Fido）的组织。该组织正在着手研究一套关于密码替代物的准则，以便为整个行业提供指导。准则的大纲预计将于年底公布。与Fido有关的公司已经对指纹阅读器，以及能够进行面部和声音识别的软件展开了测试。将来，用户或许通过对电脑说话就能登录自己最喜欢的电商网站，通过凝视贝宝(Paypal)的移动应用程序就能购买东西。
+Johnathan Nightingale, a vice president of engineering at Mozilla, said the emergence of Internet-connected devices all around us brought a new urgency to the need to develop alternatives to passwords.
+谋智(Mozilla)的工程副总裁乔纳森·奈廷格尔(Johnathan Nightingale)说，现在我们身边到处都是联网设备，所以研发密码替代物的需求也变得更加迫切。
+“The idea that all the things around us are going to be intelligent is great, but they don’t all have screens and keyboards and password managers,” he said. “They can’t always count on 12 uppercase letters, three lowercase letters, two punctuation marks and a percent symbol.”
+“把我们身边的一切都变智能的想法非常好，但是并非所有东西都有屏幕和键盘或密码管理器，”他说。“不是所有这些东西都能使用由12个大写字母、3个小写字母、两个标点符号和一个百分号所组成的密码。“
+He regretted that his tech colleagues had been stymied by the problem for so long. “We tell ourselves as a group we are predicting the future,” he said. “Mostly we are hoping for the future.”
+他对他的技术团队被这个问题困扰了如此之久感到遗憾。“我们告诉自己，作为一个团队，我们正在预测未来，”他说。“其实，我们基本是在憧憬未来。”

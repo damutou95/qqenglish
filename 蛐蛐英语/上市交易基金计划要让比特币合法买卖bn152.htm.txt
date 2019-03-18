@@ -1,0 +1,44 @@
+Bitcoin has been promoted as an alternative crypto-currency that exists outside the realms of governments and central banks. Now, two backers of the digital money are seeking to bring bitcoin into the investing mainstream — if they win the approval of the United States government.
+比特币(bitcoin)已经被奉为一种存在于政府和中央银行以外的替代性加密货币。现在，这种数字货币的两个支持者正在寻求把比特币拉进投资的主流，但前提是他们要能赢得美国政府的批准。
+Cameron and Tyler Winklevoss, the twins best known for their part in the history of Facebook, filed a proposal with securities regulators on Monday that would allow any investor to trade bitcoins, just as if they were stocks. The plan involves an exchange-traded fund, which usually tracks a basket of stocks or a commodity, but in this case would hold only bitcoins.
+卡梅伦(Cameron)和泰勒·文克尔沃斯(Tyler Winklevoss)兄弟，周一向证券监管部门提交了一项让任何投资者像买卖股票那样交易比特币的计划。这对双胞胎兄弟最为人熟知的是与Facebook的历史有些关系。这项计划中包括一只上市交易基金（exchange-traded fund，简称ETF），这种基金通常会追踪一揽子股票或一项大宗商品，但在这里，持有的只是比特币。
+It is part of a broader effort to remove the stigma hovering over bitcoin and other online money endeavors, which have faced a barrage of regulatory questions and enforcement actions. Recently the world’s largest trading exchange for bitcoins, Mt.Gox, filed with the Treasury Department to register itself as a money services business and comply with money-laundering laws.
+比特币和其他在线货币项目一直都难以摆脱坏名声，一度面临大量的监管问题和执法行动。这一举措是为在线货币洗脱污名的更广泛努力的一部分。最近，世界最大的比特币交易平台Mt. Gox向美国财政部(Treasury Department)申请登记为货币服务企业，并遵守反洗钱法律。
+The proposal from the twins, who already have sizable bitcoin holdings, is an audacious one: the Winklevoss Bitcoin Trust could send digital money from the realm of computer programmers, Internet entrepreneurs and a small circle of professional investors like themselves into the hands of retail investors — virtually anyone with a brokerage account.
+文克尔沃斯兄弟已经持有了可观的比特币资产，他们的提议野心勃勃：文克尔沃斯比特币信托基金(Winklevoss Bitcoin Trust)可以将数字货币从电脑程序员、互联网创业者、还有像他们这样的为数不多的职业投资者手中，转售到散户投资者手中，几乎任何一个有经纪账户的人都能购买。
+“The trust brings bitcoin to Main Street and mainstream investors to bitcoin,” said Tyler Winklevoss, co-founder of Math-Based Asset Services, which would operate the proposed fund. “It eliminates the friction of buying and reduces the risks associated with storing bitcoin while offering similar investment attributes to direct ownership.”
+数学基础资产服务公司(Math-Based Asset Services)联合创始人泰勒·文克尔沃斯说，“这个基金可以把比特币介绍给普通百姓，也可以让主流投资者接受比特币。”提议要建立的比特币基金将由这家公司经营。“它能削减购买时的摩擦，还能减少与存储比特币相关的风险，同时还具备类似于直接所有权的投资属性。”
+Their proposal has the advantage of coming from the desk of Kathleen Moriarty, a lawyer at Katten Muchin, who played a leading role in the creation of the first exchange-traded fund and popular gold- and silver-backed E.T.F.’s.
+他们的提议所具有的一项优势是，它出自凯腾律师事务所(Katten Muchin)律师凯瑟琳·莫里亚蒂(Kathleen Moriarty)之手。她在创造首只上市交易基金，以及很受欢迎的金银担保ETF中，扮演了主要角色。
+But it is far from certain that securities regulators will approve. Even if they do, such a fund would face major challenges, including the current bottlenecks that stop bitcoins from being easily bought and sold.
+然而证券监管部门是否会批准仍远不能确定。即使官方批准，这样一只基金也会面临重大的挑战，包括当前比特币无法轻松购买和出售的瓶颈。
+“There are so many ways it could go wrong,” said Ugo Egbunike, a senior specialist in exchange-traded funds at the data company Index Universe.
+数据公司“指数宇宙”(Index Universe)上市交易基金高级专员乌戈·艾格本尼克(Ugo Egbunike)说，“有很多地方可能会出问题。”
+On Monday, several market participants suggested that the proposal was a long shot that was merely an attempt to legitimize the digital currency. But Cameron Winklevoss expressed confidence that regulators would bless the new investment.
+周一，数位市场人士表示，这项提议得到批准的可能性不大，不过是在尝试让这种数字货币名正言顺。但卡梅伦·文克尔沃斯却表示，相信监管部门会批准这项新的投资。
+“We have assembled a team that has successfully launched novel products before, and we firmly believe in the chances of success for this product,” he said.
+他说，“我们已经组建了一个团队，这个团队此前就成功推出过新产品。我们也坚定地相信这个产品成功的机会很大。”
+The filing is the latest eye-catching development in bitcoin’s history since it was founded by an anonymous hacker, or hackers, in 2009.
+这是比特币从2009年被一个（或一群）匿名黑客创造出来以来，最新也最引人注目的发展。
+Unlike traditional money, bitcoins exist in no physical form and are not backed by a central bank. Instead, the coins are created by a network of users who solve complex mathematical problems — a method known as “mining” — to generate bitcoins. Only a finite number of bitcoins can be created — 21 million — with the current count at about 11 million. A limited number of stores and Web sites are accepting bitcoin as payment, but for now it is primarily a vehicle for speculators.
+比特币不像传统的货币，它不以实体形态存在，没有中央银行担保。它是一个由用户组成的网络创造的，这些用户通过计算复杂的数学问题（这种方法成为“采矿”）来生成比特币。只能创造出有限数量的比特币，共2100万枚，目前的总数约有1100万枚。有限的一些商店和网站接受比特币付款，但现在它主要是投机者的工具。
+“The value of bitcoins is determined by the value that various market participants place on bitcoins through their transactions,” the brothers’ filing says.
+文克尔沃斯兄弟提交的文件中写道，“比特币的价值是由各种市场参与者在交易中为其赋予的价值所决定的。”
+The currency grabbed the attention of global markets in April when the value of a single bitcoin spiked to more than $250 from $110, before plummeting. While there were questions about the survival of the currency, the value of a bitcoin has recently hovered around $100, making the total market worth about $1 billion.
+今年4月比特币吸引了全球市场的注意，当时一枚比特币的价值从110美元飙升到250美元，之后又大幅下跌。尽管对于这种货币是否能够生存还存在疑问，比特币的价值最近仍在100美元左右徘徊，总市值约有10亿美元。
+During the April swoon, the Winklevosses went public with their own bitcoin hoard, amounting to about 1 percent of all outstanding coins, or about $10 million.
+在4月的热潮中，文克尔沃斯兄弟将自己持有的比特币规模公之于众，总计占全部流通比特币的1%，约合1000万美元。
+Bitcoins can currently only be bought and sold on informal computer networks and on online marketplaces that require substantial technological savvy and are far more complicated than traditional exchanges. The inaccessibility, and the limited quantity of bitcoins, appeal to users who are skeptical of governments and central banks. But it has made the system vulnerable at times to hackers and technology flaws.
+目前比特币只能在非正式的电脑网络上买卖，进行交易的在线市场需要对技术相当了解才能操作，而且远比传统交易所要复杂得多。这种难以掌握的特性，以及比特币有限的数量，吸引了对政府和中央银行心存怀疑的用户。但这有时也会让整个系统容易因黑客袭击和技术缺陷而受到破坏。
+An exchange-traded fund would make it significantly easier to gain exposure to bitcoins, just as commodities-based funds have made investing in gold, silver and other precious metals more accessible.
+上市交易基金能使持有比特币变得容易很多，就像大宗商品基金使投资黄金、白银和其他贵金属变得更便捷一样。
+The Winklevoss fund would buy one bitcoin for every five shares, making the value of a single share worth about a fifth of a single bitcoin. Regulated trading desks would have to handle the daily buying and selling of the shares. The company operated by the Winklevosses would have a proprietary method for storing the fund’s bitcoin holdings and would charge an annual management fee, which is not specified in the filing.
+文克尔沃斯基金每五股相当于一枚比特币，因此一股的价值大约相当于五分之一枚比特币。受监管的交易平台将需要处理日常的股票买卖事宜。文克尔沃斯兄弟经营的公司将会通过专有方法存储该基金的比特币资产，并收取管理年费，不过提交的文件没有对此进行详细说明。
+Monday’s submission comes at a precarious time for digital money. In May, the operators of another online currency, Liberty Reserve, were indicted on charges that they facilitated billions of dollars of money-laundering. Both before and after that, state and federal regulators were scrutinizing many players in the growing bitcoin economy, including the largest place to buy and sell the coins, the Tokyo-based Mt.Gox.
+在他们于周一提交文件时，数字货币正在经历多事之秋。今年5月，另一种网络货币的运营商自由储备银行(Liberty Reserve)遭受起诉，罪名是协助洗钱，数额高达几十亿美元。在此前后，州级和联邦监管部门都在密切关注在不断发展的比特币经济中运作的公司，其中包括世界最大的比特币交易平台、总部在东京的Mt.Gox。
+Before Mt.Gox registered with the Treasury Department’s Financial Crimes Enforcement Network, some of its accounts in the United States were frozen. The company temporarily stopped its American customers from cashing out while it said it was “making improvements.”
+在美国财政部金融犯罪执法局(Financial Crimes Enforcement Network)登记前，Mt.Gox在美国的一些账户受到冻结。该公司暂时停止了美国客户提现，称正在“进行改进”。
+Mt.Gox’s difficulties highlight the risks that could confront the owner of shares in a bitcoin fund. The securities filing made Monday has 18 pages of “risk factors,” noting, among other concerns, the heavy presence of speculators and “an uncertain regulatory landscape.”
+Mt.Gox遇到的困难突显了比特币基金的股东可能面临的风险。周一提交的证券报批文件共列出了18页的“风险因素”，其中指出了投机者过多及“监管环境不确定”等令人担忧的问题。
+Mr. Egbunike said regulators may hesitate to approve the proposal because of the questions surrounding bitcoins and recent scrutiny of exchange-traded funds more broadly. While such funds have made the buying and selling of commodities and other complicated financial assets easier for retail investors, they have given these investors access to products that they may not understand. For current bitcoin aficionados, an E.T.F. could diminish the currency’s free-spirited appeal.
+艾格本尼克表示，监管部门可能不愿批准这一提议，因为比特币存在很多问题，而且ETF最近也受到了更广泛的密切关注。尽管这些基金能让散户投资者更方便地买卖大宗商品及其他复杂的金融资产，但它们也让散户接触到了他们并不理解的产品。对于目前的比特币爱好者来说，比特币ETF会减少这种货币所特有的充满自由精神的吸引力。

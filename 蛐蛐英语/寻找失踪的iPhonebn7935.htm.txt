@@ -1,0 +1,26 @@
+On Monday night, I was taking the Amtrak train home from a "Nova" shoot in Philadelphia - exhausted, but happy to have power and Wi-Fi for my laptop.
+周一晚上，在费城完成“新星(Nova)”节目的拍摄后，我搭乘美国铁路公司的列车回家。我感到疲惫，但高兴的是，我的笔记本电脑还有电量，也有Wi-Fi供我上网。
+As the train was about to pull into Bridgeport, Conn., my stop, I checked my pockets - and my iPhone was gone. I was baffled; I hadn't even stirred from my seat except to get something from the cafe car, and I was sure to take my phone with me for that mission. Maybe I was pickpocketed. Maybe I'd set it down to pay for the food. I don't know.
+火车即将驶进我的目的地——康涅狄格州的布里奇波特港，我翻了一下自己的包，发现iPhone不见了。我感到很困惑，自己根本就没离开过座位，除了去咖啡间买过一次吃的，但我确信自己去咖啡间时也带着手机。或许我被人扒窃了，或许我在付钱买食物时把它随手放在某处了。我毫无头绪。
+But now my phone was missing. The Amtrak conductor held the train for about two minutes and helped me search around my seat - nowhere. She dialed it from her own phone, too - no ringing sound, and nobody answered. As the train pulled away, I used the Apple app, Find My iPhone, on my laptop to see where the phone was. It said that the phone was "offline." In other words, somebody had my phone -- it wasn't lying under a seat somewhere - and had turned it off.
+但我的手机确实不见了。列车检票员让列车停留了两分钟左右，帮我在座位四周找寻手机——无处可寻。她用自己的手机拨我的号码，但没有铃声响起，电话也没人接听。列车驶离之后，我立即在电脑上使用苹果的一款应用程序“查找我的iPhone(Find My iPhone)”，想知道手机的下落。该程序说手机已经“下线”。换言之，我的手机在别人手里，并且处于关机状态，而不是躺在座位下的某个地方 。
+Anyway, I spent three days going through the five stages of phone loss - denial, anger, bargaining, depression and kicking myself. Then, suddenly Thursday, Find My iPhone sent me an e-mail, saying that the phone was back online and had been located. It was in Seat Pleasant, Md., which my Twitter followers informed me is a rough neighborhood. The app created a map so I could see the house where my phone was supposedly sitting.
+不管怎样，我在三天时间里经历了丢失手机的五个阶段——否认、愤怒、交涉、抑郁、踢自己。等到周四，“查找我的iPhone”突然给我发了一封邮件，说我的iPhone已重新上线，而且已被定位，现在的位置在马里兰州的西特普里仁特。据我的推特粉丝所说，这是一个混乱的地区。该应用程序还为我生成了一幅地图，上面显示了我的iPhone理应所在的房屋位置。
+Now what? I contacted the Prince George's County police department. And I posted the map of the house to my 1.4 million Twitter followers, who have never let me down.
+现在干什么呢？我联系了乔治王子县的警察局，还在推特上向我的140万粉丝（他们从未让我失望）发布了房屋的地图。
+To my astonishment, the "find Pogue's phone" quest went instantly viral. Gizmodo.com investigated the area and posted street photos of the house. Local twitterites contacted the Prince George's County police department themselves. All manner of Web sites picked up the quest. "The @Pogue Stolen iPhone Saga is the future of entertainment. Day off is being spent glued to @Gizmodo reading updates," tweeted one person.
+让我惊讶的是，“查找波格（作者的姓——编者注）的手机”行动立马传开了。Gizmodo.com网站调查了这一区域并发布了房屋所在的街景照片。当地的推特用户还亲自联系了乔治王子县的警局。各种各样的网站都在为我寻找iPhone。“@波格的失窃iPhone传奇正是娱乐的未来。我把休息日都用于密切关注@Gizmodo上的更新，”某人在推特上写道。
+Every now and then the phone would seem to move - from the driveway into the house, for example. Had somebody come home and rescued it from a parked car? Or was this just the general imprecision of GPS, giving me a different reading?
+手机似乎时不时地在移动，例如从车道进入了屋内。难道有人回家之后把手机从停着的车里面解救了出来？抑或只是因为全球定位系统(GPS)大体上并不精准，从而出现了不同的显示？
+By the end of the day, the local police were actually at the house, with me on the phone. Find My iPhone has a great feature: From the iCloud.com Web site, you can make the phone ping, very loudly, for two minutes, even if its ringer is switched off. Over and over and over, I pinged the phone, so that the officer might hear it as he toured the house. My heart was in my throat; it was a cat-and-mouse game of GPS versus possible Bad Guy. I just kept hitting Refresh on the Find My iPhone screen, over and over again, in case the phone moved again.
+当天晚上，当地的警察实际上已经来到了该住所前，并且和我保持着通话状态。“查找我的iPhone”程序有一个强大的功能：你可以通过iCloud.com网站来使手机发出很大的声音，且长达两分钟，即使手机铃声已被关闭。我一次又一次地让手机发声，以便警官在巡查房子时能够听到声音。我的心悬在了嗓子眼，这是GPS和可能的坏家伙之间的猫鼠游戏。我只是一次又一次地点击“查找我的iPhone”界面上的刷新键，以防手机再次转移。
+Over an hour he spent searching. The backyard. The next-door house. The driveway. He never heard it, and he never found the phone. Near the end of his search, the phone went offline again. Either its battery died, or somebody got smart and shut it down so I couldn't track it anymore.
+警官花了一个多小时进行搜寻：后院、邻屋、车道。他没有听到手机发出的声音，也没有找到手机。在搜寻快结束时，手机再次下线。可能是手机没电了，或者那人变聪明了，把手机一关了之，使我无法进行追踪。
+I wasn't worried about the data. The phone is password-protected, and of course the app lets me remotely wipe it clean of any data at any time. I was just bummed to lose a very expensive phone.
+我并不担心手机上的数据。手机受到密码保护，当然，该应用程序还可以让我随时远程清除任何数据。我只是因为丢失了一个很昂贵的手机而十分不快。
+The police kept searching the area indicated by Find My iPhone - and eventually they found the phone in the backyard, in the grass, safe and sound.
+警官继续按照“查找我的iPhone”指示的区域进行搜寻，最终就在后院的草丛里找到了手机。手机毫发无损。
+When the police questioned the homeowner, he confessed to having taken the phone from the train--and to tossing it in the yard when the police arrived. I decided not to press charges; I just wanted the phone back.
+警方对房主进行了质问，他坦白自己在列车上拿走了手机，在警方到来的时候则把手机扔到了院子里。我决定不对他提起诉讼，因为我只是想找回我的手机。
+What an unbelievable story, a story of social media and the Web, teaming up with law enforcement, following a tip from the Find My iPhone feature - to reclaim my lost phone five hours after I tweeted about it.
+这是一个多么难以置信的故事：社交媒体和网络与执法力量携手行动，按照“查找我的iPhone”给予的提示，在我发布推文五小时之后就找回了我丢失的手机。

@@ -1,0 +1,30 @@
+Global warming caused by human emissions of greenhouse gases is having clear effects in the physical world: more heat waves, heavier rainstorms and higher sea levels, to cite a few.
+人类排放温室气体导致的全球变暖，正在对现实世界产生明显的影响：热浪更多、暴雨更大、海平面更高，而这些只是众多变化中的少数几例。
+In recent years, though, social scientists have been wrestling with a murkier question: What will climate change mean for human welfare?
+但近年来，社会科学家一直在努力解答一个更复杂的问题：气候变化对人类的健康意味着什么？
+Forecasts in this realm are tricky, necessarily based on a long chain of assumptions. Scientific papers have predicted effects as varied as a greater spread of tropical diseases, fewer deaths from cold weather and more from hot weather, and even bumpier rides on airplanes.
+这个领域的预测很难，必须建立在一长串假设的基础上。科学论文预言的相关影响多种多样，包括热带病更广泛的传播、寒冷天气导致的死亡减少、炎热天气导致的死亡增加，乃至飞行旅途变得更加颠簸。
+Now comes another entry in this literature: a prediction that in a hotter world, people will get less sleep.
+现在，这类文献中又多了一条：预测气候变暖后，人类的睡眠会减少。
+In a paper published online Friday by the journal Science Advances, Nick Obradovich and colleagues predicted more restless nights, especially in the summer, as global temperatures rise. They found that the poor, who are less likely to have air-conditioning or be able to run it, as well as the elderly, who have more difficulty regulating their body temperature, would be hit hard.
+在期刊《科学前沿》(Science Advances)周五发表在网上的一篇论文中，尼克·奥布拉多维奇(Nick Obradovich)和同事预测，随着全球气温升高，烦躁不安的夜晚会增加，尤其是夏季。他们发现，拥有或有钱使用空调的可能性较小的穷人，以及更难调节自身体温的老人，也许会受到严重影响。
+If global emissions are allowed to continue at a high level, the paper found, then additional nights of sleeplessness can be expected beyond what people normally experience. By 2050, for every 100 Americans, an extra six nights of sleeplessness can be expected every month, the researchers calculated. By 2099, that would more than double, to 14 additional nights of tossing and turning each month for every 100 people, in their estimation.
+这篇论文发现，如果允许全球排放继续保持在高位，预计不眠之夜的增加会超出人们正常的经历。根据研究人员的计算，到2050年，每100名美国人一个月预计会增加六个不眠之夜。据他们估计，到2099年，这个数字会翻倍还不止，每100人一个月辗转难眠的夜晚会增加到14个。
+Researchers have long known that being too hot or too cold at night can disturb anyone’s sleep, but nobody had thought to ask how that might affect people in a world grown hotter because of climate change.
+研究人员早就知道晚上太热或太冷都可能影响一个人的睡眠，但没人想到要去问，气候变化带来的全球变暖可能会给人类在这方面带来什么影响。
+Dr. Obradovich is a political scientist who researches both the politics of climate change and its likely human impacts, holding appointments at Harvard and the Massachusetts Institute of Technology. He started the research while completing a doctoral degree at the University of California, San Diego.
+奥布拉多维奇博士是一名政治学者，研究的领域是气候变化政治及其可能会对人类造成的影响。现供职于哈佛和麻省理工(Massachusetts Institute of Technology)的他，是在加州大学圣迭戈分校(University of California, San Diego)攻读博士学位期间开始相关研究的。
+He got the idea for the study while enduring a 2015 heat wave in an apartment in San Diego with no air-conditioner in the bedroom.
+2015年，在圣迭戈一套卧室没有安装空调的公寓里，奥布拉多维奇在热浪的煎熬中想到了这个研究思路。
+“I wasn’t sleeping,” he recalled. “My friends weren’t sleeping. My colleagues weren’t sleeping. The levels of grumpiness were higher than normal.”
+“我睡不着，”他回忆说。“我的朋友睡不着，同事也睡不着。脾气暴躁的程度高出了正常水平。”
+To calculate the effect of warmer temperatures in the future, he turned to data collected by the Centers for Disease Control and Prevention, which asks people in a survey to recall their sleep patterns in the previous month. Sure enough, he found a correlation between higher temperatures in particular cities and disturbed sleep as reported by their residents. To make forecasts, he drew on computer estimates of how hot particular places will get if greenhouse emissions continue at a high level.
+为了计算未来气温升高的影响，他求助于美国疾病控制与预防中心(Centers for Disease Control and Prevention)收集的数据。该中心在一项调查中让人们回忆前一个月的睡眠情况。果然，他在某些城市发现了气温升高和民众反映的睡眠受到干扰之间的关联。为了进行预测，他利用了计算机来演算温室气体排放继续保持在高位的情况下，某些地方会变得多热。
+Dr. Obradovich acknowledged that a survey about sleep over the previous month was subject to the vagaries of memory. More definitive research would involve putting lots of people in a sleep laboratory and manipulating the temperature to see what happened. “Those ideal data don’t exist and would be prohibitively expensive to collect,” he said.
+奥布拉多维奇承认，对前一个月的睡眠情况进行的调查会受记忆力变化的影响。更权威的研究需要把很多人放在一个睡眠实验室里并控制温度，以便观察发生的情况。“这些理想数据根本不存在，它们的收集费用高得吓人，”他说。
+A bigger weakness in the study, perhaps, is that it is impossible to know what human society will look like 100 years from now. How many people will be without air-conditioning in that world?
+这项研究更大的缺陷或许在于，我们不可能知道100年后的人类社会是什么样子。在那个世界里，没有空调的人会有多少？
+Jerome M. Siegel, head of a sleep laboratory at the University of California, Los Angeles, who was not involved in the study, said the assumptions and data limitations gave him pause.
+没有参加这项研究的加州大学洛杉矶分校(University of California, Los Angeles)睡眠实验室主任杰罗姆·M·西格尔(Jerome M. Siegel)说，相关假设和数据上的局限性让他陷入了思考。
+“It’s sort of a nice exercise — yes, this is something that might affect people,” Dr. Siegel said. “But this would be way down on my list of things to worry about with climate change, even though I’m a sleep researcher.”
+“在一定程度上是一种很好的练习，确实，这可能会影响人类，”西格尔说。“但在我因为气候变化而担心的事情目录上，它可能排在后面，尽管我自己是研究睡眠的。”

@@ -1,0 +1,50 @@
+The large mutual funds that helped fuel rapid growth in developing countries have begun hastily retreating from those investments, contributing to the recent sharp decline in global markets.
+大型共同基金曾帮助推动了发展中国家的快速增长，现在它们开始从这些投资中匆匆撤离，加剧了全球市场近期的大幅下跌。
+In the last week alone, investors pulled $2.5 billion from emerging-market bond funds, the largest withdrawal since January 2014.
+仅在上周，投资者就从新兴市场的债券基金撤走了25亿美元，这是自2014年1月以来规模最大的一次撤资。
+The world’s fastest-growing economies — led by China — have been propelled by soaring commodity prices, robust currencies and access to cheap loans, primarily through the sale of high-yield, high-risk bonds. But China’s decision to devalue its currency has set off a chain reaction of panicked selling around the world that contributed to the biggest one-week loss on Wall Street since 2011, sending the Dow Jones industrial average into correction territory (10 percent below its recent peak). The index was down 531 points on Friday and nearly 6 percent for the week.
+以中国为首的世界上增长最快的一些经济体，受惠于飙升的大宗商品价格、强劲的货币，以及低息贷款，这主要是通过出售高收益率、高风险的债券实现的。但是，中国让本国货币贬值的做法，导致世界各地出现了恐慌抛售的连锁反应，造成了华尔街自2011年来的最大单周损失，道琼斯(Dow Jones)工业平均指数进入了回调期（较此前的峰值下挫10%）。该指数上周五跌531点，整周跌幅达6%。
+The currency devaluation increased concerns that growth in China was slowing and that other countries might follow with their own devaluations. The notion unnerved bond investors, who began to retreat out of fear they would not be repaid. General uneasiness about a global economic slowdown spread to stocks, which many have believed to be overvalued and due for a decline.
+货币贬值加剧了人们对中国经济增长放缓，其他国家可能也会跟风贬值货币的担忧。这令债券投资者们感到不安，他们因为担心收不回投资，于是开始离场。对全球经济放缓的普遍担忧蔓延到了股市，很多人认为股市此前受到高估，到了进行调整的时候。
+“The growth rates for many of these countries were vastly overstated,” said Dani Rodrik, a professor at the Harvard Kennedy School of Government who has studied the impact of foreign capital flows in developing economies. “It was all very unsustainable.”
+“很多国家的增长率都被大大高估了，”达尼·罗德里克(Dani Rodrik)说，“这一切都是非常不可持续的。”罗德里克是哈佛大学肯尼迪政府学院(John F. Kennedy School of Government)教授，研究过外国资本流入发展中经济体所产生的影响。
+The selling spree has raised concerns among regulators and economists about a broader contagion that could make it difficult for individual investors to withdraw money from their mutual funds.
+抛售热潮让监管机构和经济学家感到担忧。如果情况进一步蔓延，个人投资者要想从共同基金中撤出资金就会很困难。
+While these funds do not use borrowed money, as did the banks that failed during the mortgage crisis, they have invested large sums in a wide variety of high-yielding bonds and bank loans that are not easy to sell — especially in a bear market.
+虽然这些基金与次贷危机中倒闭的银行不同，没有使用借来的钱，但它们在各种高收益率债券和银行贷款中投入了大笔资金，这些投资不容易售出，特别是在熊市中。
+If investors ask to be repaid all at once — as happened in 2008 — a run-on-the-bank scenario could unfold because funds would have difficulty meeting the demands of people wanting their cash back.
+如果投资者同时要求偿还资金，就像2008年发生的那样，那么就很可能出现银行挤兑的情形，因为它们难以满足人们返还现金的需求。
+During previous global investment booms and busts, large commercial banks were the dominant overseas lenders. These institutions were just as prone to making bad lending decisions as bond investors, but they also tended to have longer-term relationships with their borrowers and were less likely to cut and run.
+在以往全球投资繁荣和萧条的周期中，面向海外的贷款机构主要是大型商业银行。虽然它们像债券投资者一样，也同样容易做出错误的贷款决定，但它们往往与借款人保持着长期的关系，撤资逃离的可能性很低。
+Because large global banks suffered significant losses during the financial crisis and were forced to rein in their lending, more nimble — and fickle — bond investors stepped in.
+由于大型的全球性银行在金融危机期间损失惨重，不得不对贷款活动加以控制，因此更为灵活也更加善变的债券投资者参与了进来。
+In January, economists at the Bank for International Settlements, or B.I.S., a clearinghouse for global central banks, published a study that highlighted how fast dollar-based lending to companies and countries outside the United States had increased since the financial crisis — doubling to over $9 trillion.
+国际清算银行（Bank for International Settlements，简称BIS）是全球央行之间的结算机构。该机构的经济学家今年1月公布的一项研究突显出，自金融危机以来，提供给美国境外的企业和国家，以美元计价的贷款增速很快，自那时起总额已经翻了一番，突破9万亿美元。
+What struck the authors most was that this growth was coming not from global banks but from American mutual funds buying the bonds of emerging-market issuers.
+最让该研究作者惊讶的是，这种增长并非来自全球性银行，而是来自买入新兴市场债券的美国共同基金。
+Large fund companies like BlackRock, Franklin Templeton and Pimco and have been inundated with money from investors eager to invest in the high-yielding bonds of emerging-market corporations and countries.
+一些投资者热衷于新兴市场国家的企业和政府发行的高收益率债券。他们的钱源源不断地涌向了贝莱德(BlackRock)、富兰克林邓普顿(Franklin Templeton)和太平洋投资管理公司(Pimco)这样的大型基金公司。
+For example, Pimco’s Total Return bond fund, which last year suffered the loss of its star manager, William H. Gross, and is a mainstay for investors with fairly conservative investment goals, has 21 percent of its $101 billion in assets invested in emerging-market bonds and derivatives.
+例如，对于投资目标相当保守的投资者来说，Pimco的“完全回报”(Total Return)债券基金是首选之一。这只基金的1010亿美元资产中，有21%都投资于新兴市场债券及衍生品。明星基金经理威廉·H·格罗斯(William H. Gross)去年离开了该基金。
+Among the many beneficiaries of this largess were commodity-driven borrowers such as the state-owned oil companies Petrobras in Brazil and Pemex in Mexico, the Russian state-owned natural gas exporter Gazprom, and real estate developers in China.
+这些资金的受益者，很多都是业绩受到大宗商品推动的借款人，比如巴西国有的石油企业Petrobras、墨西哥国有的石油企业Pemex、俄罗斯国有的天然气出口商Gazprom，以及中国的房地产开发商。
+One of the more extreme cases of this bond market frenzy was Mongolia. In 2012, with expectations high that the relatively tiny economy would reap the benefits from China’s ceaseless appetite for raw materials, the government sold $1.5 billion worth of bonds, with demand from investors reaching $10 billion.
+债券市场狂热中一个比较极端的案例是蒙古国。蒙古国经济规模相对较小，2012年时，投资者对它怀有很高的预期，认为该国将受益于中国对原材料无穷无尽的需求。当年蒙古国政府出售了15亿美元的债券，而投资者的需求达到了100亿美元。
+That meant, in effect, that the country was in a position to borrow an amount twice the size of its $4 billion gross domestic product.
+也就是说，该国实际上可以借到的资金，是其40亿美元的国内生产总值(GDP)的两倍多。
+Three years later, the International Monetary Fund is warning that Mongolia may not be able to make good on these loans — 14 percent of which are owned by Franklin Templeton, according to Bloomberg data — and the yields have shot up to about 9 percent from 4 percent.
+三年后，国际货币基金组织(IMF)警告称，蒙古国可能无力偿还这些贷款，而债券收益率从4%飙升至约9%。彭博社的数据显示，这些债券的14%由富兰克林邓普顿持有。
+Of course, a Mongolian bond deal gone bust does not spell disaster. But it illustrates the risks global mutual fund investors were willing to take on in their desire to load up on high-yielding securities.
+当然，投资蒙古国债券亏损并不会带来灾难。但它显示出，全球共同基金的投资者，在购买高收益率债券时，愿意承担怎样的风险。
+Mongolia, which was able to sell an additional $500 million in bonds this spring, was not the only dubious borrower to attract cash from global bond investors. Russian train companies easily sold dollar bonds, despite the fact that their revenues were earned in rubles. Even Ecuador, a country that defaulted in 2008, was able to raise $2 billion last year.
+蒙古国今年春天又成功售出了另外一笔5亿美元的债券。在吸引全球债券投资者现金的浪潮中，它并非唯一引人疑虑的借款国。俄罗斯铁路公司很轻松就售出了美元债券，尽管它的营收都是卢布。就连曾在2008年出现过违约的厄瓜多尔，去年也筹集到了20亿美元。
+Brazil, China, Malaysia, Russia, Turkey and others have sold more than $2 trillion in bonds, mostly to American mutual fund companies, since 2009. As this money flowed into their countries, financing skyscrapers in Istanbul and oil exploration in Brazil, economies and currencies strengthened.
+自2009年以来，巴西、中国、马来西亚、俄罗斯、土耳其等国，已经出售了逾2万亿美元的债券，美国共同基金公司是其主要买家。随着这批资金流入这些国家，为伊斯坦布尔的摩天大楼和巴西的石油勘探提供融资，这些国家的经济和货币都走强了。
+Now the reverse is occurring, led by a slowing Chinese economy, and as that money heads for safety, local currencies are plunging.
+现在，在中国经济放缓的牵引下，事情正在朝相反的方向运行，随着资金开始寻求避险，这些国家的货币急剧贬值。
+In a follow-up paper this month, B.I.S. economists warn of the consequences if bond investors sell these positions in a panic at more or less the same time. And they point out that because bond funds have become so large and own so many of the same securities (many of which tend to be hard to sell), a bond-selling panic can spread quickly.
+BIS的经济学家在本月发表的后续文章中警告说，如果债券投资者在大致相同的时间出售债券，就可能会导致恐慌。他们指出，由于债券型基金的规模变得如此之大，并且持有如此之多同样的证券（其中很多都不容易出售），债券抛售恐慌可能会迅速蔓延开来。
+Ricardo Adrogue, an emerging-markets-debt investor at Babson Capital in Boston, says it is the extreme declines in the currencies of Malaysia, Mexico, Russia and Turkey that worry him — not so much the Chinese devaluation.
+波士顿巴布森资本(Babson Capital)的新兴市场债券投资人里卡多·阿德罗格(Ricardo Adrogue)说，主要让他担心的是马来西亚、墨西哥、俄罗斯和土耳其货币的大幅贬值，而不是中国货币的贬值。
+“People are saying, ‘I want out,’ ” he said. “It is difficult to see the bottom with all these depreciating currencies.”
+“大家都想离场，”他说。“因为这些货币在贬值，很难看到底线在哪里。”

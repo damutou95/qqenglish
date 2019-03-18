@@ -1,0 +1,34 @@
+Plant geneticists say they have discovered an answer to a near-universal question: Why are tomatoes usually so tasteless?
+“为何番茄吃起来都没什么味道？”植物遗传学家说，对于这一普遍存在的问题，他们已经找到了答案。
+Yes, they are often picked green and shipped long distances. Often they are refrigerated, which destroys their flavor and texture. But now researchers have discovered a genetic reason that diminishes a tomato’s flavor even if the fruit is picked ripe and coddled.
+你也许会认为，不好吃是因为它们还没长熟就采摘，还经过了长途运输。运输过程中番茄往往需要冷藏，这也破坏了它的味道和口感。但现在，研究人员发现即使番茄在成熟后采摘并妥善保存，味道也不会有所改善，根源跟基因有关。
+The unexpected culprit is a gene mutation that occurred by chance and that was discovered by tomato breeders. It was deliberately bred into almost all tomatoes because it conferred an advantage: It made them a uniform luscious scarlet when ripe.
+这个让人意想不到的罪魁祸首，竟然是番茄身上曾经偶然出现的一种基因变异，蕃茄种植者发现这种变异能带来一大好处：它会使番茄成熟时看上去无一例外地红润。于是种植者将这种变异的番茄跟几乎所有品种的番茄进行了嫁接。
+Now, in a paper published in the journal Science, researchers report that the very gene that was inactivated by that mutation plays an important role in producing the sugar and aromas that are the essence of a fragrant, flavorful tomato. And these findings provide a road map for plant breeders to make better-tasting, evenly red tomatoes.
+近日，在一篇发表于《科学》(Science)期刊的论文中，研究人员报告称遭变异破坏的这种基因，在产生糖分和香味的过程中起到了重要作用，正是这种基因让蕃茄芳香而又可口。取得了这些发现，人们就找到了方法，可以培育出味道更好、色泽更均匀的番茄。
+The discovery “is one piece of the puzzle about why the modern tomato stinks,” said Harry Klee, a tomato researcher at the University of Florida in Gainesville who was not involved in the research. “That mutation has been introduced into almost all modern tomatoes. Now we can say that in trying to make the fruit prettier, they reduced some of the important compounds that are linked to flavor.”
+佛罗里达大学盖恩斯维尔分校(University of Florida in Gainesville)的番茄研究人员哈利·克里(Harry Klee)说，这一发现“解答了番茄为何不好吃的原因”，不过他本人并未参与此项研究。“该变异已引介到几乎所有的番茄品种中。现在我们可以得出结论，为了使番茄的外观看起来更漂亮，他们减少了与口味相关的重要复合物。”
+The mutation’s effect was a real surprise, said James J. Giovannoni of the United States Department of Agriculture Research Service, an author of the paper. He called the wide adoption of tomatoes that ripen uniformly “a story of unintended consequences.”
+该篇论文的作者之一、美国农业研究所(United States Department of Agriculture Research Service)的詹姆斯·J·乔凡诺尼(James J. Giovannoni)说，该变异的影响的确很令人惊奇。他将这个促使番茄统一成熟的常用技术称作“一个结果让人始料不及的故事”。
+Breeders stumbled upon the variety about 70 years ago and saw commercial potential. Consumers like tomatoes that are red all over, but ripe tomatoes normally had a ring of green, yellow or white at the stem end. Producers of tomatoes used in tomato sauce or ketchup also benefited. Growers harvest this crop all at once, Dr. Giovannoni said, and “with the uniform ripening gene, it is easier to determine when the tomatoes are ripe.”
+种植者在大约70年前无意间发现了这种变异基因，并看到了它的商业价值。消费者喜欢全红的番茄，但是成熟的番茄靠近果蒂那一头通常有一圈绿色、黄色或白色。用番茄生产番茄沙司或番茄酱的生产者也从中受益。种植者可一次采摘所有成熟作物。乔凡诺尼博士说，“有了可统一成熟的基因，就很容易决定番茄何时成熟。”
+Then, about 10 years ago, Ann Powell, a plant biochemist at the University of California, Davis, happened on a puzzle that led to the new discovery.
+之后，大约十年前，加州大学戴维斯分校(University of California, Davis)的植物生化学家安·鲍威尔(Ann Powell)，无意间遇到了一个谜题，令她有了这个新的发现。
+Dr. Powell, a lead author of the Science paper, was studying weed genes. Her colleagues had put those genes into tomato plants, which are, she said, the lab rats of the plant world. To Dr. Powell’s surprise, tomatoes with the genes turned the dark green of a sweet pepper before they ripened, rather than the insipid pale green of most tomatoes today.
+鲍威尔博士是《科学》杂志上这篇论文的第一作者，从事杂草基因的研究。她的同事们将杂草基因移植到番茄中，用鲍威尔的话来说，这些蕃茄是植物世界的小白鼠。令鲍威尔惊喜的是，移植了这些基因的番茄在成熟前，表皮变成了甜椒般的深绿色，而不是如今大多数番茄所呈现出的看起来没有食欲的浅绿色。
+“That got me thinking,” Dr. Powell said. “Why do fruits bother being green in the first place?” The green is from chloroplasts, self-contained energy factories in plant cells, where photosynthesis takes place. The end result is sugar, which plants use for food. And, Dr. Powell said, the prevailing wisdom said sugar travels from a plant’s leaves to its fruit. So chloroplasts in tomato fruit seemed inconsequential.
+“这使我去思考一个问题，”鲍威尔说，“为何番茄首先会变绿呢？”果实中的绿色来自植物细胞中进行光合作用、能够自给养分的叶绿体。而最终决定食物是否可食的是糖分因素。鲍威尔博士说，传统认为糖分是从植物的叶子传输到果实当中去的，所以番茄中的叶绿体多了会影响口感的说法似乎不合逻辑。
+Still, she said, the thought of dark green tomatoes “kind of bugged me.” Why weren’t the leaves dark green, too?
+尽管如此，她说，深绿色的番茄还是会给我一些困惑。为何深绿色番茄的叶子不是深绿色的呢？
+About a year ago, she and her colleagues, including Dr. Giovannoni, decided to investigate. The weed genes, they found, replaced a disabled gene in a tomato’s fruit but not in its leaves. With the weed genes, the tomatoes turned dark green.
+大约一年后，她和她的同事，包括乔凡诺尼博士决定就此问题展开调查。他们发现，杂草的基因取代了番茄中被破坏的基因，但对叶子没有起作用。由于有了杂草基因，番茄便呈现出了深绿色。
+The reason the tomatoes had been light green was that they had the uniform ripening mutation, which set up a sort of chain reaction. The mutation not only made tomatoes turn uniformly green and then red, but also disabled genes involved in ripening. Among them are genes that allow the fruit to make some of its own sugar instead of getting it only from leaves. Others increase the amount of carotenoids, which give tomatoes a full red color and, it is thought, are involved in flavor.
+番茄呈现出淡绿色的原因是含有一种统一成熟的变异基因引起的连锁反应。这种变异基因不仅使番茄同时变绿，又同时变红，还破坏了促使番茄成熟的基因。被破坏的这些基因包括能够使番茄自给糖分而不仅仅靠从叶子中获得糖分的基因，以及能够促使番茄变红和改善口味的类胡萝卜素。
+To test their discovery, the researchers used genetic engineering to turn on the disabled genes while leaving the uniform ripening trait alone. The fruit was evenly dark green and then red and had 20 percent more sugar and 20 to 30 percent more carotenoids when ripe.
+为验证自己的发现，研究人员利用基因工程技术排除促使番茄统一成熟的变异基因，并激活受损基因。结果，成熟后的番茄呈现出均匀的深绿色然后转红，并且增加了百分之二十的糖分以及百分之二十至百分之三十的类胡萝卜素。
+But were the genetically engineered tomatoes more flavorful? Because Department of Agriculture regulations forbid the consumption of experimental produce, no one tasted them.
+但是，这种通过基因技术生产出的番茄味道是否更可口呢？由于农业部规定禁止食用实验农产品，所以还没人尝过。
+And, Dr. Giovannoni says, do not look for those genetically engineered tomatoes at the grocery store. Producers would not dare to make such a tomato for fear that consumers would reject it.
+乔凡诺尼博士说，蔬菜店没有这些通过基因技术生产出的番茄。生产者怕消费者拒绝这种番茄，所以根本不敢生产。
+But, Dr. Powell said, there is a way around the issue. Heirloom tomatoes and many wild species do not have the uniform ripening mutation. “The idea is to get the vegetable seed industry interested,” Dr. Powell said.
+但是，纯种番茄和野生品种没有这种统一成熟的变异基因。鲍威尔博士说，有一个办法可以解决这一问题，“就是让蔬菜种子行业对纯种番茄和野生品种感兴趣。”

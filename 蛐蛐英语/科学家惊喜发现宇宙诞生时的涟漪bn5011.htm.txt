@@ -1,0 +1,46 @@
+CAMBRIDGE, Mass — When scientists jubilantly announced last week that a telescope at the South Pole had detected ripples in space from the very beginning of time, the reverberations went far beyond the potential validation of astronomers’ most cherished model of the Big Bang.
+马萨诸塞州坎布里奇——上周，科学家们喜悦地宣布，位于南极的一架望远镜在太空中侦测到了宇宙诞生最初时发出的涟漪。这次发现可能印证了天文学家最珍视的“宇宙大爆炸”(Big Bang)模型，但其影响远不仅限于此。
+It was the second time in less than two years that ideas thought to be radical just decades ago had been confirmed (at least so the optimists think) by experiment.
+这是过去两年里，第二次出现，仅仅几十年前还被认为激进的想法，得到了实验证实的情况（至少乐观者是这么想的）。
+The first was the discovery of the Higgs boson, associated with an energy field that gives mass to other particles, announced in July 2012; physicists have said they will be studying the Higgs for the next 20 years at the Large Hadron Collider in Europe and perhaps at successor machines, hoping for a clue that will lead them beyond the Standard Model, which has ruled physics for the last half-century.
+第一次是2012年7月宣布的，发现希格斯玻色子(Higgs boson)的消息，这种粒子与一种向其他粒子赋予质量的能量场相关。物理学家们曾说，他们会在未来20年里一直用位于欧洲的大型强子对撞机(Large Hadron Collider)研究希格斯玻色子，或许也会利用后继型号的机器，希望找到一条线索让他们走出标准模型(Standard Model)。该模型在过去半个世纪里一直统治着物理学。
+Now the South Pole telescope team, led by John M. Kovac of the Harvard-Smithsonian Center for Astrophysics, has presented physicists with another clue from what the Russian cosmologist Yakov B. Zeldovich once called the poor man’s particle accelerator — the universe itself.
+现在，由哈佛-史密森天体物理中心(Harvard-Smithsonian Center for Astrophysics)的约翰·M·科瓦克(John M. Kovac)领导的南极望远镜研究团队向物理学家们又呈现了另一条线索。这条线索的来源正是宇宙本身，俄罗斯宇宙学家雅可夫·B·泽尔多维奇(Yakov B. Zeldovich)曾形容，宇宙本身就是穷人的粒子加速器。
+The ripples detected by the telescope, Bicep2, were faint spiral patterns from the polarization of microwave radiation left over from the Big Bang. They are relics from when energies were a trillion times greater than the Large Hadron Collider can produce.
+名为Bicep2的望远镜观测到的涟漪，是宇宙大爆炸遗留下来的微波辐射偏振所产生的微弱螺旋图案。这些涟漪仿佛古迹，产生这些辐射的能量比大型强子对撞机的能量高出一万亿倍。
+These gravitational waves are the long-sought markers for a theory called inflation, the force that put the bang in the Big Bang: an antigravitational swelling that began a trillionth of a trillionth of a trillionth of a second after the cosmic clock started ticking. Scientists have long incorporated inflation into their standard model of the cosmos, but as with the existence of the Higgs, proving it had long been just a pipe dream.
+这种引力波是一种被称为“暴胀”(inflation)的理论中，研究人员长期寻求的标记，它就是让“大爆炸”理论中的“爆炸”发生的力量。在宇宙的时钟启动之后的一万亿亿亿分之一秒后，这种反引力的爆发就开始了。科学家长久以来就把暴胀理论纳入了他们标准的宇宙模型里，然而就像希格斯玻色子的存在一样，证明这种理论却一直只是一个遥不可及的梦想。
+Astronomers say they expect to be studying the gravitational waves from mountaintops, balloons and perhaps satellites for the next 20 years, hoping to gain insight into mysteries like dark matter and dark energy.
+天文学家说，他们预计会在未来20年里，在山巅、气球上，甚至利用卫星研究引力波，以期对暗物质、暗能量等奥秘有更多了解。
+The cosmic Kahuna that now dangles before astronomers and physicists is understanding what caused inflation. What is this stuff that “turns gravity on its head” — as Alan Guth of M.I.T., a founder of inflation theory, has put it — and blew up the universe?
+现在摆在天文学家和物理学家面前的宇宙级课题是，理解到底是什么导致了暴胀。麻省理工学院(MIT)的阿伦·古斯(Alan Guth)是暴胀理论的一个开创者，他问道，那种“让引力掉了个”，把整个宇宙炸开的东西到底是什么？
+Antigravity may sound like a crazy science-fiction idea, but Einstein himself introduced the notion into physics. For him it was a fudge factor, known as the cosmological constant, that he inserted into his equations to account for the fact that the universe didn’t collapse.
+“反引力”的概念仿佛是科幻小说里的狂想，但把这种概念引入物理学界的正是爱因斯坦本人。对他而言，它就是为了反映宇宙没有坍缩这一事实，而在自己的公式中插入的一种被称为“宇宙常数”的容差系数。
+He later abandoned the cosmological constant, calling it a mistake, but it was resurrected 15 years ago when astronomers discovered that the expansion of the universe was speeding up because of the mysterious force called dark energy. As with inflation, the repulsion is part of space itself: The bigger the universe gets, the more powerfully it pushes apart, resulting in an exponential runaway expansion.
+他后来抛弃了宇宙常数，称它是一个错误。然而15年前，天文学家发现宇宙的膨胀正在因为一种叫作暗能量的神秘力量而加速，于是宇宙常数得以正名。与暴胀一样，斥力也是宇宙的组成部分，宇宙变得越大，排斥的力量就越大，于是就导致了指数式的向外膨胀。
+The recently discovered Higgs field could also behave in this way. It was by playing mathematically with a version of the Higgs field in 1979 that Dr. Guth stumbled on the concept of inflation.
+最近发现的希格斯场也可以像这样运动。古斯就是1979年在对一个版本的希格斯场随意进行数学运算时，偶然发现了暴胀的概念。
+If the chain of evidence and reasoning holds up, however, the Bicep2 waves do bear witness to the most fervently hoped-for unification of all, or what John A. Wheeler of Princeton once called “the fiery marriage” of Einstein’s gravity, which shapes the universe, and quantum theory, which governs the behavior of atoms inside it. The discovery suggests that that gravity, too, might ultimately be described by the same weird quantum rules as those that describe the other forces.
+然而，如果证据链和推理都能成立，那么Bicep2发现的引力波的确显示了研究人员最渴盼的一种统一。用普林斯顿大学教授约翰·A·惠勒(John A. Wheeler)的话形容，就是爱因斯坦的引力与量子理论的“火爆联姻”——前者塑造宇宙，后者指导其内部原子的运动。这项发现显示，引力最终也可能像其他的力一样，用量子力学的同一套诡异规则来描述。
+According to inflation theory, the Bicep2 waves are magnified images of the hypothetical particles called gravitons that would transmit gravity in quantum theory.
+根据暴胀理论，Bicep2发现的波形，正是假设的粒子“引力子”(graviton)的放大图像。在量子理论中，引力子会传导引力。
+Imprinted on the cosmos when it was a subatomic quantum speck, they have been blown up a trillion trillion times and spread across the sky for inspection.
+它们最初烙印在次原子级量子大小的宇宙上，被炸了一亿亿亿次之后，遍布整个天空，可供人们观测。
+It would take a thousand trillion Large Hadron Colliders to make one in the lab, but the poor man’s particle accelerator has done it free of charge.
+我们需要一千万亿个大型强子对撞机才能在实验室里制造一颗这种粒子，然而穷人的粒子加速器却能免费生产。
+“The universe does what we can’t do,” said the physicist Lawrence M. Krauss of Arizona State, who recently wrote a paper on this with Frank Wilczek, a Nobel laureate and physics professor at M.I.T.
+亚利桑那州立大学(Arizona State)物理学家劳伦斯·M·克劳斯(Lawrence M. Krauss)说，“宇宙能做到我们不能做的事。”克劳斯最近与诺贝尔奖得主、MIT物理学教授弗兰克·维尔切克(Frank Wilczek)合著了一篇关于这个主题的论文。
+While some theorists have questioned whether quantum theory can ever be applied to gravity, Dr. Wilczek said last week that the new discovery “means gravity is quantized.”
+尽管一些理论专家疑问，量子理论能否适用于引力，但是维尔切克上周说，新的发现意味着“引力已经量子化了”。
+This telegram from the past does not give any details about what might be the right quantum gravity theory. One well-known effort, verging on old age and lacking experimental proof, is string theory.
+这则来自过去的“电报”并没有给出任何细节来判断哪种量子引力理论是正确的。一项广为人知的理论努力是弦理论，但它年代已久，而且缺乏实验证据支撑。
+But, as they say, there is more.
+但正像人们所说的，还有更多理论。
+The gravitons themselves, theory says, are produced by the same process by which black holes leak. It is known as Hawking radiation, after Stephen Hawking of Cambridge University, the renowned black hole theorist, best-selling author and avatar of cosmic mystery who discovered it in a prodigious calculation in 1973.
+理论称，产生引力子的过程与黑洞“泄漏”的过程相同。这叫作“霍金辐射”，得名于牛津大学(Cambridge University)著名黑洞理论家斯蒂芬·霍金(Stephen Hawking)。霍金也是畅销书作者和神秘宇宙的代表人物，他在1973年通过天才的计算发现了“霍金辐射”。
+Shortly thereafter, William Unruh, now at the University of British Columbia, showed that you didn’t need black holes to see this radiation, just acceleration in space. In this case, the role of the black hole you can’t get out of is played by the rapidly retreating horizon you can’t reach in the inflating universe.
+之后不久，威廉·盎鲁(William Unruh)证明，不需要有黑洞也能见到这种射线，只需要在太空中加速即可。在这种情况下，我们在膨胀的宇宙中无法抵达的快速后退的地平线，就扮演了无法从中摆脱的黑洞的角色。盎鲁现供职于不列颠哥伦比亚大学(University of British Columbia)。
+Hawking radiation has been part of the physics firmament for decades; it’s the best-known prediction of quantum gravity.
+几十年来，霍金辐射一直是物理学的一部分，它也是对量子引力最为人熟知的预测。
+“Now it seems that Hawking and Unruh were right!” said Max Tegmark, a cosmologist at M.I.T., noting that some physicists had wondered whether gravity obeyed the dice-playing quantum principles that Einstein had disdained. “Now we know that gravity is indeed quantized, involving graviton particles,” he added.
+MIT宇宙学家马克斯·泰格马克(Max Tegmark)说，“现在看来，霍金和盎鲁似乎是对的！”泰格马克提到，一些物理学家曾畅想过，引力是否会遵守爱因斯坦所鄙视的掷骰子式的量子原则。他说，“现在我们知道，引力的确量子化了，其中牵扯到引力子。”

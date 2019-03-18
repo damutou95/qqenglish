@@ -1,0 +1,44 @@
+HONG KONG — Scientists may have been overestimating China’s emissions of carbon dioxide, the main greenhouse gas driving global warming, by more than 10 percent, because of inaccurate assumptions about the country’s coal-burning, according to a study published on Wednesday.
+香港——周三公布的一项研究显示，由于对中国燃煤的假设不准确，科学家可能一直将中国的二氧化碳排放量高估了逾10%。二氧化碳是导致全球变暖的主要温室气体。
+The study’s finding, published in the journal Nature, does not mean that the total level of greenhouse gases in the atmosphere is any lower than scientists had thought. That accumulation is measured independently. Rather, the finding may affect discussions of how much responsibility China bears for global warming, compared with other nations.
+《自然》(Nature)杂志公布的研究成果并不意味着大气中温室气体的总体水平低于科学家们的估量。总量是单独计量的。不过，这项研究结果可能会影响相关讨论，即与其他国家相比，中国应为全球变暖负多少责任。
+“This doesn’t change the fact that China is still the largest emitter in the world,” said Dabo Guan, a professor of climate-change economics at the University of East Anglia in England who is one of the paper’s two dozen authors, in a telephone interview from Beijing. “But it shows we need to know a more accurate base line for emissions, not only for China but also for the other emissions giants.”
+“这没有改变中国仍是世界最大排放国的事实，”英国东安格利亚大学(University of East Anglia)气候变化经济学教授关大博在北京接受电话采访时说。“但这说明我们需要知道更加准确的排放基准数据，不只是中国的，还有其他排放大国。”该论文共有20多名作者，关大博是其中之一。
+The study looked in detail at the coal used as fuel in China, and found that it is generally less rich in carbon and is burned less efficiently than scientists had assumed. That means that each ton of burned coal yields less carbon dioxide than had been thought (as well as less energy, and more ash).
+该论文详细地研究了中国作为燃料使用的煤，发现其中的碳含量通常没那么多，而且燃烧效率低于科学家们的假设。这意味着每吨煤燃烧产生的二氧化碳少于科学家们的估量。（产生的能量也较少，灰较多。）
+China’s proposed commitments to curtail its emissions of greenhouse gases are crucial to a new international agreement on global warming, which governments hope to reach in Paris late this year. Climate change is also expected to figure in talks between President Obama and his Chinese counterpart, Xi Jinping, when Mr. Xi visits the United States next month.
+中国承诺减少温室气体排放量，这对于达成有关全球变暖的新国际协议至关重要，各国政府希望在今年晚些时候在巴黎达成协议。气候变化也将成为中国国家主席习近平下个月访问美国时与奥巴马总统的讨论话题。
+Mr. Xi promised last year that China’s emissions of carbon dioxide would stop growing by about 2030. Yet uncertainty surrounds just how much of the gas is billowing now from China’s power plants, boilers, motor vehicles and industrial plants.
+习近平去年承诺，中国的二氧化碳排放量将大致在2030年前停止增长。但中国的发电站、锅炉、机动车辆及工厂目前的二氧化碳排放量尚不明确。
+The scientists behind the new study said they analyzed more detailed information about China’s coal quality, combustion performance across industries and total energy consumption than had previously been used.
+开展这项新研究的科学家们表示，与之前的估量相比，他们分析了有关中国煤炭质量、煤炭在各个工业的燃烧性能以及总耗能量的更加详细的信息。
+“We measured thousands of samples of coal from mines across China, and found that the carbon content of the coal being burned in China is actually much lower than what has been assumed in previous estimates of emissions,” Steven J. Davis, a greenhouse gas scientist at the University of California, Irvine, and one of the authors, said in emailed answers to questions.
+“我们对来自中国各地煤矿的数以千计的煤炭样本进行测量，发现中国燃烧的煤的碳含量少于之前估量排放量时假设的含量，”加州大学欧文分校(University of California, Irvine)温室气体学家史蒂文·J·戴维斯(Steven J. Davis)回复邮件称，他也是该论文的作者之一。
+Estimating a country’s carbon dioxide emissions entails some scientific detective work. Researchers start with information about fossil fuel consumption, and then assess how much carbon is contained in those fuels and what fraction of that carbon is actually combusted and ends up in the atmosphere.
+要估量一个国家的二氧化碳排放量，需要开展一些科学的调查工作。研究人员从有关化石燃料消耗的信息入手，然后估算这些燃料的碳含量，以及实际上燃烧且排入大气中的碳的比例。
+China does not publish official data on annual greenhouse-gas emissions, so “international organizations have to make larger assumptions” than are required for other major countries, said another author of the study, Glen Peters, a senior researcher at the Center for International Climate and Environmental Research-Oslo.
+论文的另一作者、奥斯陆国际气候与环境研究中心(Center for International Climate and Environmental Research)高级研究员格伦·彼得斯(Glen Peters)表示，中国没有公布有关每年温室气体排放量的官方数据，因此与研究其他排放大国相比，“国际组织需要做出更大程度的假设。”
+Those assumptions often rely on coal carbon content and combustion data collected in the United States and Europe, said Zhu Liu, a postdoctoral research fellow at Harvard University and another of the paper’s authors. But China’s rapidly growing economy mainly uses cheaper, less pure coal from local mines, often burned in less efficient furnaces and boilers than are typical in the West, Dr. Liu said.
+哈佛大学(Harvard University)博士后研究员、该论文作者之一刘竹表示，这些假设通常是依据煤炭的碳含量及在美国及欧洲收集的燃烧数据做出的。但刘竹表示，中国在快速发展经济的过程中主要使用当地煤矿产出的煤炭，价格便宜，纯度也较低，燃烧煤炭的熔炉和锅炉的效率低于西方国家通常使用的装置。
+“Basically, this is the first time we’ve applied real measurement of the coal quality on a national scale in China,” Dr. Liu said. “The quality is not as good as developed countries, so if we use the same amount of coal, we overestimate the carbon content of the coal, and so we overestimate the carbon emissions.”
+“基本上，这是我们首次对中国全国范围内的煤炭质量进行实际测量，”刘竹说。“中国煤炭的质量不如发达国家，因此如果对数量相同的煤炭进行估量，我们会过高估计煤炭的碳含量，也会高估碳排放量。”
+The researchers found that, on average, each lump of coal in China was 40 percent less potent as a source of carbon dioxide emissions than the default figure used for coal by the United Nations’ scientific panel on climate change.
+研究人员发现，与联合国气候变化科学小组使用的有关煤炭的默认数据相比，作为二氧化碳排放的来源，中国的一块煤的效力平均要低40%。
+This made the researchers’ estimate for China’s total emissions markedly lower than those reached previously by monitoring projects financed by the United States government and the European Commission. The scientists reckon that in 2013, China produced 9.1 billion metric tons of carbon dioxide from fossil fuels and cement production, “which is 14 percent lower than the emissions reported by other prominent inventories,” the study said.
+因此，研究人员对中国总排放量的估量远低于之前由美国政府及欧盟委员会(European Commission)资助的监控项目得出的数据。根据科学家们的估算，中国在2013年因为燃烧化石燃料和生产水泥产生了91亿公吨的二氧化碳，该论文称，这个数字“比其他重要排放清单给出的排放量少14%。”
+That was despite another finding in the study, that official Chinese figures understated the country’s overall energy consumption by about 10 percent from 2000 to 2012.
+而该论文的另一项发现指出，在2000年至2012年间，中国的官方数据将该国能源消耗总量少报了约10%。
+China’s appetite for coal has dulled in the past few years. As economic growth has slowed, new sources of power have come online and the government has shut some smaller, dirtier boilers and furnaces to reduce air pollution. But China still accounts for about half the world’s coal consumption, and experts say that the country’s dependence on coal is unlikely to wane for many years.
+过去几年里，中国对煤炭的需求有所减少。随着经济增长放缓，新能源的启用，政府关闭了一些较小、较脏的锅炉和熔炉，以减少空气污染。但中国的煤炭消耗量依然约占全世界的一半，并且专家称，在未来多年里，中国对煤炭的依赖不太可能降低。
+Frank Jotzo, the director of the Center for Climate Economics and Policy at the Australian National University in Canberra, said it was “good news” that Chinese coal was yielding less carbon dioxide, “but it does not change the fundamentals, nor the challenge that China faces in getting away from coal.” Mr. Jotzo was not involved in the new study.
+堪培拉的澳大利亚国立大学气候经济学与政策中心(Center for Climate Economics and Policy at the Australian National University)主任弗兰克·乔佐(Frank Jotzo)表示，中国消耗的煤炭产生的二氧化碳没那么多是“好消息，但这并没改变基本形势，以及中国在摆脱煤炭这一点上面临的挑战”。乔佐并未参与前述研究。
+The study looked at Chinese emissions up to 2013, so it does not reflect China’s most recent efforts to curb pollution from fossil fuels. But the authors said those efforts would not significantly change their findings.
+该研究调查了中国截至2013年的排放情况，因此中国最近为控制化石燃料产生的污染而采取的努力，未在其中得到反映。但文章作者称，那些努力不会让研究结果发生明显的变化。
+“The carbon content of coal is what it is,” said Dr. Davis of the University of California, Irvine. “The gap between our estimates and previous ones may vary, depending on how much of the burned coal is coming from this mine or that mine in a given year, but as long as most of the coal being burned is from domestic sources, it probably won’t have narrowed much.”
+“煤炭中的碳含量是一定的，”加州大学欧文分校的戴维斯说。“我们的估值和之前的估值之间的差距可能不尽相同，这要看某一年消耗的煤里面有多少来自这座矿或是那座矿，但只要消耗的煤炭大部分来自国内，差距也许不会缩小太多。”
+He said the study might prompt new questions about how accurately scientists have been estimating other countries’ emissions, and whether the world’s forests have been absorbing as much carbon from the air as they think.
+他表示，这项研究可能带出新的问题，即科学家在估计其他国家的排放情况时有多准确，以及全世界的森林吸收的碳是否和他们想象中的一样多 。
+Dr. Liu of Harvard said that accurate data would be needed if a new international treaty on global warming, including national commitments to reduce greenhouse gas emissions, was to succeed.
+哈佛大学的刘竹说，要让就全球变暖问题新签的国际条约，包括各国减少温室气体排放的承诺落到实处，就需要有准确的数据。
+“If you don’t have the exact numbers, all of the political promises are just some kind of numbers game,” he said. “China has a plan, the U.S. has a plan, different countries have plans. But all of these plans are based on very broad data that has a lot of uncertainty.”
+“如果没有确切的数字，所有的政治承诺都只是某种数字游戏，”他说。“中国有自己的计划，美国也有，不同国家都有各自的计划。但所有这些计划都是基于非常宽泛的数据，这类数据存在很大的不确定性。”

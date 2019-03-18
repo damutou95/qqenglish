@@ -1,0 +1,52 @@
+You don’t have to be a technophile to know a few things about compatibility. VHS tapes don’t play on a laptop, iPhone apps don’t run on your microwave and a CD won’t play in a toaster.
+并非只有技术爱好者，才懂得一点兼容性的事情。VHS录像带不能在笔记本电脑上放，iPhone应用不能在微波炉上运行，而CD也无法在烤面包机上播放。
+Most people probably assume you also can’t use Mac or Windows programs on an iPad. The iPad, the world’s most popular tablet, runs its own flavor of software.
+大多数人想必也认定你无法在iPad上使用Mac或Windows的程序。世界最受欢迎的平板电脑iPad运行的是定制的软件。
+Which is a shame, really. All kinds of programs would be useful to have on your lovely, lightweight tablet: Quicken. Photoshop. iTunes. The full-blown Word, Excel, PowerPoint. AutoCAD.
+这实在是个遗憾。如果你可爱的轻巧平板电脑能使用所有种类的程序就好了，例如Quicken、Photoshop、iTunes、全功能Word、Excel、PowerPoint、AutoCAD等等。
+I’m pleased to report that such a thing is possible, thanks to a remarkable new app, Parallels Access. Parallels, the company, has a good deal of experience running incompatible programs on popular computers; its best-known product lets you run Windows on a Mac.
+现在我要高兴地告诉大家，归功于一个了不起的新应用——Parallels Access，这已经成为可能。在广受欢迎的电脑上运行不兼容的程序，Parallels公司在这一领域经验丰富，其最知名的产品让你能在Mac上运行Windows系统。
+Access is not some miracle adapter that runs Mac and PC programs on the iPad itself. Instead, it’s a glorified porthole into the screen of a real Mac or PC back at your home or office. You see everything on your distant computer remotely; you can click, type and drag in the programs there, even listen to audio and watch videos. The iPad becomes like a detached touch screen for a Mac or PC that’s thousands of miles away.
+Access并非一种能够自己在iPad上运行Mac和PC程序的奇迹适配器。它其实是一扇了不起的舷窗，让你能够看到家中或办公室里的一台真正Mac或PC的屏幕。你能看到你的远程计算机上的一切；你可以在那里的程序里点击、打字和拖动，甚至收听音频和观看视频。iPad成了数千英里之外的一台Mac或PC的分离式触摸屏。
+It’s not just about running desktop software, either. This setup also means you can get access to the far greater storage and horsepower of your computer. And you can work with files you left behind. The one catch: It requires an Internet connection. Access works over slower connections — like 3G cellular — but barely.
+这样做的意义不仅仅关乎桌面电脑软件的运用。这一设置也意味着，你可以动用电脑那大得多的存储空间和运转性能。你还能够使用留在远方电脑里的文件。唯一的问题是：需要互联网连接。Access也可以通过较慢的网速使用，例如3G蜂窝网络，但效果极差。
+To make this come to pass, you set up Access on both ends. You install one app on your iPad, and another on your Mac or PC (Mac OS X 10.8 or later, Windows 7 or later). You also create a free account at Parallels.com.
+为了实现这种操作，你得在两端都安装Access。你需要在iPad上安装一个应用，在你的Mac或PC（Mac OS X 10.8及Windows 7或更高版本）上安装另一个。你还得在Parallels.com上创建一个免费账户。
+From now on, whenever you want to operate your Mac or PC by remote control, you open the Access app on the iPad. You tap the picture of the computer whose brain you want to enter; there’s nothing to stop you from setting up two or hundreds of Macs and Windows machines to connect.
+从现在开始，每当你想通过远程控制操作你的Mac或PC，你得打开iPad上的Access应用。你点击想要操纵的电脑的图片，想要建立两台乃至数百台Mac和Windows电脑的连接都没问题。
+When you first connect, you see a launcher: an iPad-style screen full of icons. In this case, they represent your Mac or PC programs. Tap one to open it. This launchpad starts out showing only the icons of your most frequently used Mac or Windows programs, but you can tap a “+” button to add other icons.
+在你第一次连接时，你会看到一个启动栏：一个iPad风格的屏幕，上面满是图标。这些图标代表着你的Mac或PC程序。点击其中一个可以打开它。这个启动栏开始只显示你最常用的Mac或Windows程序的图标，但你可以点击“＋”键来添加其他图标。
+Parallels Access is not the first product that gives you access to your Mac or PC remotely. Many iPad apps do that, bearing names like VNC Viewer and Screens. They cost $10 or $20. Corporate tech workers adore them. From wherever they happen to be, they can see, operate and troubleshoot the computer back at headquarters from the screen of a single iPad, without having to put on pants and drive to the office.
+Parallels Access并不是第一款让你可以远程访问Mac或PC的产品。许多iPad应用都能做到这一点，例如VNC Viewer和Screens。它们的价格为10或20美元，受到企业技术人员的热爱。不论人在哪里，他们都可以从一部iPad的屏幕上看到和操作总部的电脑或排除故障，而无需穿上裤子并开车去办公室。
+But Parallels Access is superior, for many reasons.
+但Parallels Access更加优秀，原因有许多。
+First, VNC apps are extremely technical to set up. Here’s an excerpt from steps for VNC Viewer, one of the best reviewed apps: “By default, VNC Server listens on port 5900. You can listen on a new port, providing no other service or program is doing so. Note you will have to specify the new port when connecting, and you may need to reconfigure firewalls and routers.” O.K. then!
+首先，VNC应用需要很高的技术才能建立连接。下面是评价最高的应用之一VNC Viewer连接步骤的一段摘录：“默认情况下，VNC Server侦听端口5900。你可以侦听一个新端口，前提是没有任何其他服务或程序在这样做。注意，你必须在连接时指定新的端口，并且你可能需要重新配置防火墙和路由器。”到此为止吧！
+Parallels Access requires no fiddling with routers, firewalls or port numbers. You fill in your Parallels name and password, and boom: the connection is made, with 256-bit AES encryption (translation: “very securely”).
+在使用Parallels Access时，无需摆弄路由器、防火墙或端口数字。你填入Parallels用户名和密码即可，然后连接就建立好了，带有256位AES加密（意思是：很安全）。
+Second, VNC apps display the entire computer’s screen on the iPad. Icons, toolbars and buttons wind up about the size of subatomic particles.
+第二，VNC应用把整个电脑屏幕显示在iPad上。图标、工具栏和按钮变得就像原子颗粒那么大。
+Access, on the other hand, “appifies” the Mac or Windows program; the document you’re editing fills the screen. All the iPad touch-screen gestures work to operate the remote program, too — drag with one finger to scroll, for example. Tap to “click the mouse.” Tap with two fingers to “right-click.” Pinch or spread two fingers to zoom out or in. No matter what the Mac or PC program is, it behaves as if it is an iPad app.
+而另一边，Access会把Mac或Windows程序“应用化”，你所编辑的文档会充满整个屏幕。所有的iPad触屏手势也都能用来操作远程程序，例如滑动一根手指来滚动屏幕，点击屏幕来“单击鼠标”，以两根手指点击来“点右键”，两根手指捻起或张开来缩小或放大。不管是什么Mac或PC程序，它运作起来就像是一个iPad应用。
+Access is filled with additional touches that VNC-type programs generally lack, which further adapt mouse-and-keyboard software to a touch screen.
+Access充满了VNC类程序通常缺乏的额外功能，这把“鼠标与键盘类”软件进一步转化到触摸屏上。
+You can highlight, copy and paste text and graphics using the familiar iPad conventions; for example, once you’ve selected some words, the usual iPad row of black buttons (Cut, Copy, Select All and so on) shows up. When you need a keyboard, you can tap a button on the unobtrusive, hideable Access toolbar, and a big on-screen keyboard appears, with all the traditional Mac or Windows keys (Esc, Tab, Ctrl, Alt, F1, Home, End, arrow keys and so on).
+你可以使用熟悉的iPad操作方式来高亮、复制和粘贴文本和图形；例如，在选择一些字词之后，通常的iPad黑色按钮选项（剪切、复制、全选等）就会出现。当你需要一个键盘时，你可以点击Access工具栏上的一个按钮，iPad屏幕上就会出现一个大键盘，传统的Mac或Windows按键在上面应有尽有（ Esc、Tab、Ctrl、Alt、F1、Home、End，箭头键等等）。这个Access工具栏并不让人觉得碍事，可以隐藏。
+The iPad’s text-entry features still work, even though you’re typing into a program on the other side of the world. For example, you can speak to dictate, or you can use the iPad’s non-English keyboards, or even the iPad’s little character-drawing sketch pad for Chinese character recognition.
+即使你正在往世界另一端的某个程序中输入内容，iPad的文字输入功能仍可以正常工作。例如，你可以使用语音命令，也可以使用iPad的非英语键盘，或者甚至在iPad的小型手写区里输入汉字，让它识别出来。
+In short, Access does a lot more than just blast your computer’s screen onto the iPad’s. It truly does “appify” your computer’s programs. It creates a smooth, logical hybrid of iPad and “real” computer, in a way that the VNC apps do not. It works amazingly well.
+总之，Access不仅仅是把你的电脑屏幕搬到了iPad屏幕上，它可以真正把你的计算机程序“应用化”。它可以流畅地、合乎逻辑地把iPad和“真正”的电脑混合为一个设备，这是VNC应用无法办到的。它的效果非常之好。
+I do, however, have complaints.
+但是，它也有让我不满意的地方。
+First, your Mac or PC has to remain on and awake. If it ever goes to sleep, your iPad’s “call” will go unanswered. From an environmental and cost standpoint, that’s not a great situation. You have the same problem with VNC apps.
+首先，Mac或PC必须保持在开启和唤醒状态。如果它进入休眠状态，你的iPad“呼叫”就会无人接听了。从环保和成本的角度来看，这可不太妙。使用VNC应用也有同样的问题。
+You should know, too, that when your iPad is connected, nobody can use the Mac or PC. The iPad takes over its soul.
+而且你要知道，当iPad连接到Mac或PC上时，就没有人能用这台Mac或PC了。iPad控制了它的灵魂。
+The bigger concern, though, is the price: $80 a year. That’s right: Access requires a subscription.
+但是，更大的问题是在价格上：每年需要支付80美元（约合490元人民币）。没错，Access是一个需要定期付费的服务。
+The problem here isn’t the $80. It’s the “a year.” Subscriptions make sense when a company provides you with some good or service month after month. Electricity, cable TV, Internet, magazines, fruit in a box. Fine.
+这里的问题不是80美元，而是“每年”。当公司按月为你提供服务时，定期付费才有意义，比如电力、有线电视、互联网、杂志、盒装水果。这都没问题。
+Parallels says that it is providing a service — your connection from iPad to computer goes through its secure servers. But those VNC apps cost a one-time $10 or $20. No, they’re not as good, but they also don’t saddle your life with yet another eternal subscription. Eighty dollars a year, forever, seems steep.
+Parallels说，它提供了一个服务，就是你的iPad跟电脑之间的连接通过了它的安全服务器，但那些VNC应用的成本是一次性支付10或20美元。它们的效果虽然差一些，但却不会给你的生活带来另一个无休止的定期付费负担。80美元一年，年复一年，价格真的有点高。
+Otherwise, wow. Parallels Access is quick to set up, simple to understand, almost limitless in potential. It brings millions of full-powered, high-sophistication Mac and Windows programs to the screen of the humble iPad — backed by the full speed, storage and memory of those Macs and Windows machines. If $80 a year seems worth it to you, then guess what? Another great wall of incompatibility has just fallen.
+除此之外，它确实很棒。Parallels Access设置容易，操作简单，潜力几乎深不可测。它把运算性能优越，高度复杂的Mac和Windows程序带到了小小的iPad屏幕上，并以这些Mac和Windows设备的全部运行速度、存储空间和内存为后盾。如果每年80美元的价格你觉得还值，你猜怎么着？不兼容的高墙就又倒塌了一座。

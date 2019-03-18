@@ -1,0 +1,32 @@
+SAN FRANCISCO — Google is still pulling in money hand over fist, but Wall Street is hungry for the company’s next act.
+旧金山——谷歌(Google)的利润还在大幅增长，但华尔街仍然迫切期待着它能推陈出新。
+On a conference call with analysts on Thursday, after Google reported its third-quarter earnings, the questions came fast and furious: How will Google match Apple’s new payment system? Can YouTube topple television? Is Google serious about trying to challenge Amazon on same-day delivery?
+周四在与分析师的电话会议上，当谷歌公布了三季度财报之后，问题接踵而至：谷歌将如何与苹果(Apple)新的支付系统竞争？YouTube能颠覆电视吗？谷歌是否真的打算在“当日送达”业务上挑战亚马逊(Amazon)？
+The problem was that in the earnings report, the Internet giant showed signs that its ultraprofitable business in search advertising was starting to slow.
+问题在于，在这份财报中，这家互联网巨头呈现出了一些迹象，显示利润极其丰厚的搜索广告业务已经开始放缓。
+In almost every way, Google has become a victim of its own success. Its search engine remains dominant in desktop computers and mobile phones, and businesses like YouTube and the Google Play store are growing quickly. The company churns out billions in quarterly profit and has a $60 billion cash hoard.
+几乎从各个层面来讲，谷歌的问题都源于自身的成功。它的搜索引擎仍然在台式电脑和手机上占主导地位，YouTube和Google Play商店等业务也在迅速增长。公司的季度利润达数十亿美元，现金储备则达到600亿美元（约合3670亿元人民币）。
+The thing that worries investors, though, is that the company’s golden goose — its search engine — is showing signs of age. Paid clicks on advertisements increased 17 percent in the third quarter compared with the same quarter last year. But in the second quarter, paid clicks were up 25 percent from a year earlier.
+不过，令投资者感到担忧的是，公司的摇钱树——搜索引擎——正呈现出衰落的迹象。广告的付费点击数三季度同比增长了17%。而在二季度，付费点击数的同比增幅则为25%。
+“Google’s core search business is the best Internet business model ever created,” said Jordan Rohan, founder of Clearmeadow Partners, a strategic advisory firm focused on Internet companies. “Every other business Google is in looks pedestrian by comparison.”
+“谷歌的核心搜索业务是有史以来最好的互联网商业模式，”专注于互联网公司的战略咨询企业Clearmeadow Partners的创始人乔丹·罗恩(Jordan Rohan)说。“相比之下，谷歌的所有其他业务都显得平淡无奇。”
+Another concern for analysts is the cost per click, the average price the company is paid each time a user clicks on an ad. The cost-per-click measurement has fallen for several years as people spend more time on mobile phones, which have smaller screens and are harder to place ads on.
+分析师的另一个担忧是点击费用，即广告客户为用户每次点击广告支付的平均价格。随着人们把更多时间花在手机上，点击费用这项指标连续几年呈下降趋势。手机的屏幕较小，因此更加难以投放广告。
+In the third quarter, the cost-per-click measure again fell, down 2 percent year over year and flat from the second quarter.
+三季度的平均点击费用再次下滑，同比降幅为2%，与二季度持平。
+Google executives grow annoyed with analysts’ fixation on clicks and cost per click. Mobile advertising is still pretty new, they point out. It accounts for about 11 percent of ad spending in the United States, according to the research firm eMarketer. Even mighty Google is trying to figure it out.
+分析师们对点击次数和平均点击费用的问题揪住不放，这让谷歌的高管们有些恼火。他们指出，移动广告仍然是很新的业务。根据研究公司eMarketer的数据，移动广告在美国的广告支出中占了约11%。即使是无所不能的谷歌也仍在摸索之中。
+“I think we just need to keep innovating and experimenting here to get it right,” said Omid Kordestani, Google’s chief business officer.
+“我认为，我们只是需要不断创新和尝试，就能找到正确的方法，”谷歌的首席商务官奥米德·柯德斯塔尼(Omid Kordestani)说。
+Google does not release figures for mobile ad revenue separately from desktop ad revenue, so it is hard to know exactly how Google is doing in this area.
+谷歌不单独公布台式电脑广告营收之外的移动广告营收，因此很难确切得知谷歌在这方面做得如何。
+Mobile is likely to be one of Mr. Kordestani’s chief business problems. During the conference call, the company announced that Mr. Kordestani, a longtime Google executive who stepped into the role after the departure of Nikesh Arora for SoftBank, will be in the job permanently.
+移动业务很可能是柯德斯塔尼需要面对的主要业务问题之一。在这次的电话会议上，谷歌宣布，柯德斯塔尼正式接掌首席商务官一职。柯德斯塔尼是谷歌的资深高管，在尼克什·阿罗拉(Nikesh Arora)跳至软银(SoftBank)之后，接替了他的工作。
+Despite its challenges, Google remains a fast-growing business. Third-quarter revenue increased 20 percent, to $16.5 billion.
+尽管面临着重重挑战，谷歌仍是一家增长迅速的公司。三季度营收增长了20%，至165亿美元。
+And the company is making money in many new kinds of ways. Google reported that “other revenue,” a large portion of which is Google’s Play Store, increased 50 percent from the same quarter of last year, to $1.8 billion.
+此外，谷歌还在通过许多新的途径实现盈利。谷歌称，“其他营收”——其中很大一部分来自谷歌的Play Store——同比增长了50%，至18亿美元。
+But research-and-development costs have soared, to $2.7 billion from $1.8 billion from the same quarter a year ago.
+不过，公司的研发成本飙升，从去年同季度的18亿美元增长到了27亿美元。
+“People are certainly concerned about the expenses,” said Ben Schachter, an analyst with Macquarie Securities. “Revenue growth is slowing while the company continues to hire a significant number of engineers. As long as the core business holds up, that’s fine, but if the core slows dramatically, that’s a problem.”
+“人们毫无疑问会对成本感到担忧，”麦格理证券(Macquarie Securities)的分析师本·沙克特(Ben Schachter)说。“营收增长正不断放缓，与此同时，公司仍在雇佣大量工程师。只要核心业务保持良好态势，就没问题，但如果核心急剧放缓，那就有麻烦了。”

@@ -1,0 +1,46 @@
+SHANGHAI — There is an audacious economic experiment happening in China.
+上海——中国正在进行一场大胆的经济实验。
+It has nothing to do with debt, infrastructure spending or the other major economic topics du jour. It has to do with cash — specifically, how China is systematically and rapidly doing away with paper money and coins.
+它与债务、基础设施支出或其他热门的主要经济议题无关。它和现金有关——具体来说，就是中国如何系统、快速地终结了纸币和硬币的使用。
+Almost everyone in major mainland Chinese cities is using a smartphone to pay for just about everything. At restaurants, a waiter will ask if you want to use WeChat or Alipay — the two smartphone payment options — before bringing up cash as a third, remote possibility.
+在中国大陆的城市里，几乎所有人都在使用智能手机支付各种费用。在餐厅，服务员会问你是用微信还是支付宝埋单——这是两种智能手机付款方式——然后才说可以用现金，把它当作第三种付款方式，感觉顾客使用现金的可能性比较小。
+Just as startling is how quickly the transition has happened. Only three years ago there would be no question at all, because everyone was still using cash.
+同样令人吃惊的是，这种转变发生的速度有多快。仅仅三年前，根本就不存在这种情况，因为每个人都用现金。
+“From a tech standpoint, this is probably one of the single most important innovations that has happened first in China, and at the moment it’s only in China,” said Richard Lim, managing director of venture capital firm GSR Ventures.
+风险投资公司金沙江创投(GSR Ventures)的董事总经理林仁俊(Richard Lim)说：“从科技的角度来看，这可能是率先在中国发生的最重要的创新之一，目前只在中国有。”
+What’s happening with cash in China is similar. For the past three years, I have been outside mainland China covering Asian technology from Hong Kong, which has a very different internet culture from the mainland. I knew that smartphone payments were taking over in China, as the statistics were stark: In 2016, China’s mobile payments hit $5.5 trillion, roughly 50 times the size of America’s $112 billion market, according to consulting firm iResearch.
+在现金方面，中国的情况也很类似。过去三年里，我住在大陆以外地区，从香港报道亚洲的科技新闻，而香港与大陆的互联网文化截然不同。我知道智能手机支付已经席卷了中国，从统计数据来看，这很明显：2016年，中国移动支付金额达到5.5万亿美元，是美国1120亿美元市场规模的50倍左右。
+Even so, the attendant cultural shift was graspable only in person. I recently moved to Shanghai and felt the change with cash acutely because my first few weeks in the metropolis of more than 20 million were spent cut out of the system. Because of an issue with my bank, I couldn’t immediately link my account to WeChat, which has become a virtual wallet for so many.
+即使如此，只有亲自体验，你才能感受到随之而来的文化转变。我最近搬到了上海，对现金使用上的变化感触很深，因为我在这个2000多万人口大都市里度过的前几个星期，完全被隔绝在了手机支付系统之外。这是因为我的银行出了个问题，让我无法立即将银行帐户与微信绑定，而微信已经成为了很多人日常活动中的虚拟钱包。
+That meant I had to navigate China the way I would have three years ago: with a stack of red 100-renminbi notes.
+这意味着我不得不以三年前的方式在中国生活：使用一叠红色的人民币。
+At coffee shops and restaurants, I held up lines as I fumbled out my wallet and peeled off the bills to give the cashier. If I was hungry I had to go outside and find a restaurant, while bowls of noodles, groceries and coffee materialized at our office, ordered by my colleagues and paid for on the phone. If I had to get somewhere, I couldn’t use my phone to unlock one of the ubiquitous bicycles that are a part of China’s bike-sharing craze.
+在咖啡店和餐馆，我摸索钱包，拿出钞票递给收银员时，减慢了收款队伍移动的速度。如果我饿了，就只能去外面找一家餐馆，而在我们的办公室，同事已经用手机付款购买了面条、各种杂物和咖啡。如果需要去某个地方，我无法使用手机解锁自行车——在中国的共享单车热潮中，这种自行车遍地都是。
+Even the buskers were apparently ahead of me. Enterprising musicians playing on the streets of a number of Chinese cities have put up boards with QR codes so that passers-by can simply transfer them tips directly.
+就连街头艺人似乎也把我甩在了后面。在一些中国城市街头表演的艺人挂出了二维码，这样路人就可以直接用手机打赏。
+“It has become the default way of life now,” said Shiv Putcha, an analyst with the research firm IDC. “Literally every business and brand in China is plugged into this ecosystem.”
+“现在这已经成为了默认的生活方式。”市场研究公司IDC分析师希夫·普恰(Shiv Putcha)说：“中国的每一个企业和品牌都接驳到了这个生态系统上。”
+Some Scandinavian countries have also weaned themselves from cash but still use cards frequently. In China, the change has been to phones. One friend didn’t realize how reliant she had become on mobile payments until her bank called her. She had left her A.T.M. card in the machine three weeks earlier and had not noticed its absence.
+一些斯堪的纳维亚国家也在减少现金的使用，但仍然需要经常使用银行卡。在中国，这个变化转向手机。一位朋友在接听了银行打来的电话后，才意识自己对移动支付系统的依赖度有多高。原来她三周前把银行卡忘在了自动取款机里，自己一直没有发现。
+In practical terms, this means Tencent and Alibaba’s financial affiliate, Ant Financial, the two Chinese internet companies that run WeChat and Alipay, respectively, are sitting atop a gold mine of staggering proportions. Both companies can make money off the transactions, charge other companies to use their payment platforms and all the while collect the payments data to be used in everything from new credit systems to advertising.
+实际上，这意味着腾讯和阿里巴巴旗下的财务机构蚂蚁金服——这两家中国互联网公司分别是微信和支付宝的经营者——正坐在一个金矿上面，各自占据了很大的份额。它们都可以从交易中赚钱，向其他公司收取使用其支付平台的费用，同时也可以收集付款数据，运用到从信用系统到广告的各种服务中。
+Mr. Lim said that according to recent data, Ant Financial and Tencent were set to surpass Visa and Mastercard in total transactions per day in the coming year. The key is that both companies are able to provide payments on the cheap, partly by allowing smaller vendors to make use of a simple printout of a QR code or their phone, instead of an expensive card reader. A back-end system that stores a record of user accounts, instead of having to communicate with a bank, also keeps costs down.
+林仁俊表示，最新数据显示，在未来一年里，蚂蚁金服和腾讯的每天交易总额将超过维萨(Visa)和万事达卡(Mastercard)。关键在于，这两家公司能够以低廉的价格提供付款服务，部分原因是允许小型供应商使用简单的二维码打印件或手机，无需昂贵的读卡器。它们还用后台系统来存储用户的帐户记录，不需要与银行进行通信，这也有助于降低成本。
+While Tencent does not break out what it makes from mobile payments, in the fourth quarter of 2016 the “other services” item in its earnings almost tripled from a year earlier to 6.4 billion renminbi, or $940 million, driven largely by mobile payments.
+虽然腾讯没有具体列出从移动支付中赚了多少钱，但在该公司2016年第四季度的财报中，“其他服务”一项的营收较上年增长了近两倍，达64亿人民币，这主要就来自移动支付。
+There are some potential problems with China’s sweeping embrace of online payments. As the country builds its entire consumer economy around two private smartphone payment platforms, it is slowly locking out people unable to get onto those networks, and locking itself into those companies.
+中国网络支付的广泛普及也存在一些潜在的问题。随着中国围绕着两个私人智能手机支付平台来打造整个消费型经济，无法进入这两个平台的人就逐渐被关在了外面，而且它也把自己锁定在了这些公司上。
+At the simplest level, that makes life difficult for tourists and business travelers who are unlikely to open a bank account in China and so will find it hard to turn their phones into wallets.
+从最简单的层面上说，游客和商务旅客不太可能在中国开设银行账户，所以他们难以将手机变成钱包。
+More broadly, it means things could get harder for foreign and local businesses alike. Foreign companies hoping to sell to Chinese consumers now must deal with Alibaba and Tencent or risk being unable to take payments. Likewise, Chinese companies reliant on Alibaba and Tencent have to build out separate structures to deal with the world of Facebook, Google and credit cards that still dominate elsewhere.
+从更广泛的角度看，这意味着对外国和本土企业来说，经营会变得更加困难。企图向中国消费者出售产品的外国公司现在必须和阿里巴巴或腾讯打交道，否则就有可能无法收款。同样，依赖阿里巴巴和腾讯的中国企业也必须建立一个独立的机构，来和Facebook、谷歌和信用卡占主导的其他地区做生意。
+There is a corollary for what could happen in China. In Japan in the early 2000s, flip phones could do everything from stream cable TV to pay at stores. But because the phones were so advanced, Japan was slow to adopt smartphones, and it went from tech giant to tech laggard in 15 years.
+对于中国可能会发生的事情，有这样一个推测。在2000年代初的日本，翻盖手机可以做很多事情，无论是观看有线电视，还是在商店里付款。但正是由于这些手机如此先进，日本向智能手机转移的速度就比较缓慢，结果15年后，日本从科技巨头沦为了落后者。
+Now in Japan those flip phones, which are still being used, are called Galápagos phones because they evolved perfectly for an isolated environment.
+眼下在日本，这些仍在被使用的翻盖式手机被称作加拉帕戈斯手机(Galápagos phones)，因为它们完美地演变成了一个孤立的环境。
+No doubt aware of this, Alibaba and Tencent are pushing to expand beyond China to ensure their newest innovation doesn’t go the way of the dinosaurs.
+阿里巴巴和腾讯无疑意识到了这一点，正在向国外扩张，以确保它们最新的创新不会步恐龙的后尘。
+“The million-dollar question is: Will Western firms decide to build a system and compete?” Mr. Lim of GSR Ventures said. “The answer is probably yes.”
+“一个重要问题是：西方公司会不会决定打造一个系统，参与竞争？”金沙江创业投资基金的林仁俊说。“答案很可能是肯定的。”
+Until then, new arrivals like me have to deal with being locked out.
+在这一天到来之前，像我这样新来者必须应对被拒之门外的困境。

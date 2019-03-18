@@ -1,0 +1,48 @@
+Behind the hellish Ebola epidemic ravaging West Africa lies an agent that fittingly embodies the mad contradictions of a nightmare. It is alive yet dead, simple yet complex, mindless yet prophetic, seemingly able to anticipate our every move.
+在埃博拉疫情侵袭西非的背后有一个恰好能体现一场噩梦矛盾之处的载体。它活着但已经死了，简单而又复杂，盲目而又具先知性，似乎能够预见我们的每一个举动。
+For scientists who study the evolution and behavior of viruses, the Ebola pathogen is performing true to its vast, ancient and staggeringly diverse kind. By all evidence, researchers say, viruses have been parasitizing living cells since the first cells arose on earth nearly four billion years ago.
+对于研究病毒演变及行为的科学家来说，埃博拉病原体的本质与数量庞大、历史悠久、形态各异的各种病毒并无不同。研究人员称，所有的证据都显示，自大约40亿年前地球上出现第一批细胞开始，病毒就一直寄生在活细胞当中。
+Some researchers go so far as to suggest that viruses predate their hosts. That they essentially invented cells as a reliable and renewable resource they could then exploit for the sake of making new viral particles.
+一些研究人员甚至表示，病毒先于宿主出现。它们基本上创造了细胞，并将其当做可靠的、可延续的资源，日后可以用来产生新病毒。
+It was the primordial viral “collective,” said Luis P. Villarreal, director of the Center for Virus Research at the University of California, Irvine, “that originated the capacity for life to be self-sustaining.”
+加州大学欧文分校(University of California, Irvine)病毒研究中心(Center for Virus Research)主任路易斯·维拉里尔(Luis P. Villarreal)说，“生命的自我维持能力源于”原始的病毒“团体”。
+“Viruses are not just these threatening or annoying parasitic agents,” he added. “They’re the creative front of biology, where things get figured out, and they always have been.”
+“病毒不仅仅是危险的、令人讨厌的寄生体，”他还说。“它们还处于生物学的创新前沿，为问题的解决做着贡献，它们也一直都是这样的。”
+Researchers are deeply impressed by the depth and breadth of the viral universe, or virome. Viruses have managed to infiltrate the cells of every life form known to science. They infect animals, plants, bacteria, slime mold, even larger viruses. They replicate in their host cells so prodigiously and stream out into their surroundings so continuously that if you collected all the viral flotsam afloat in the world’s oceans, the combined tonnage would outweigh that of all the blue whales.
+病毒世界的深度与广度给研究人员留下了深刻的印象。病毒已成功侵入科学界已知的每一种生命形式的细胞中。它们会感染动物、植物、细菌、粘液菌，甚至是较大的病毒。它们在宿主细胞中大量复制，不断涌入周围环境。如果将全球海洋里漂浮的所有病毒性物质收集起来，总重会超过所有蓝鲸的重量。
+Not that viruses want to float freely. As so-called obligate parasites entirely dependent on host cells to replicate their tiny genomes and fabricate their protein packages newborn viruses, or virions, must find their way to fresh hosts or they will quickly fall apart, especially when exposed to sun, air or salt.
+病毒并非想要四处漂泊。由于所谓的专性寄生物完全依赖宿主细胞复制它们极小的基因组及合成蛋白，因此新产生的病毒或病毒粒子必须找到新宿主，否则它们就会迅速崩溃，特别是暴露在太阳、空气或盐中的时候。
+“Drying out is a death knell for viral particles,” said Lynn W. Enquist, a virologist at Princeton.
+普林斯顿大学(Princeton University)病毒学家林恩·W·恩奎斯特(Lynn W. Enquist)说，“对于病毒粒子来说，干燥的环境意味着死亡。”
+How long shed virions can persist if kept moist and unbuffeted — for example, in soil or in body excretions like blood or vomit — is not always clear but may be up to a week or two. That is why the sheets and clothing of Ebola patients must be treated as hazardous waste and surfaces hosed down with bleach.
+目前并不是十分清楚，如果保持潮湿且不受打击，例如在土壤或血液、呕吐物等人体排出的物质中，分离的病毒粒子能够维持多长时间，但可能最多是一两周。因此，埃博拉患者的床单和衣服必须被当作危险废物处理，表面都得用漂白剂冲洗。
+Viruses are masters at making their way from host to host and cell to cell, using every possible channel. Whenever biologists discover a new way that body cells communicate with one another, sure enough, there’s a virus already tapping into exactly that circuit in its search for new meat.
+病毒善于通过一切可能的途径，从一个宿主进入另一个宿主，从一个细胞进入另一个细胞。每当生物学家发现身体细胞交换信息的新方式后，果然就已经有病毒在利用这个通道，寻找新目标。
+Reporting recently in Proceedings of the National Academy of Sciences, Karla Kirkegaard, a professor of microbiology and genetics at Stanford University School of Medicine, and her colleagues described a kind of “unconventional secretion” pathway based on so-called autophagy, or self-eating, in which cells digest small parts of themselves and release the pieces into their surroundings as signaling molecules targeted at other cells — telling them, for example, that it’s time for a new round of tissue growth.
+最近，斯坦福大学医学院(Stanford University School of Medicine)微生物学及基因学教授卡拉·柯克加德(Karla Kirkegaard)和同事在《国家科学院院刊》(Proceedings of the National Academy of Sciences)发表文章描述了一种基于所谓的自噬的“非传统分泌”途径，即细胞消化一部分自身细胞质，然后将它们释放到周围的环境中，充当针对其他细胞的信号分子，比如，告诉它们，现在是进行新一轮组织生长的时候了。
+The researchers determined that the poliovirus can exploit the autophagy conduit to cunning effect. Whereas it was long believed that new polio particles could exit their natal cell only by bursting it open and then seeking new cells to infect, the researchers found that the virions could piggyback to freedom along the autophagy pathway.
+研究人员断定，小儿麻痹症病毒能够非常巧妙地利用这条自噬途径来达成目的。从前，人们一直以为，新的小儿麻痹症病毒粒子脱离产生这些病毒的细胞的唯一方式就是冲破细胞，寻找并感染新细胞，而研究人员发现病毒粒子能够在自噬的过程中搭便车，从而获得自由。
+In that way, the virus could expand its infectious empire without destroying perfectly good viral factories en route. The researchers suspect that other so-called naked or nonenveloped viruses (like the cold virus and the enteroviruses that have lately plagued children in this country and Asia) could likewise spread through unconventional secretion pathways.
+如此一来，病毒可以在不破坏完美的病毒工厂的情况下扩大传染范围。研究人员推测，其他所谓的裸病毒或无包膜病毒（比如最近困扰美国及亚洲儿童的感冒病毒和肠道病毒）同样能够通过非传统分泌途径传播。
+For their part, viruses like Ebola have figured out how to slip in and out of cells without kicking up a fuss by cloaking themselves in a layer of greasy lipids stolen from the host cell membrane, rather as you might foist a pill down a pet’s throat by smearing it in butter.
+埃博拉等病毒已经知道如何在从宿主细胞的细胞膜中盗取的一层脂质的掩护下悄悄进入、脱离细胞，就像你用抹上黄油的药片去喂食宠物一样。
+According to Eric O. Freed, the head of the virus-cell interaction section at the National Cancer Institute, several recent technological breakthroughs have revolutionized the study of viruses.
+美国国家癌症研究所(National Cancer Institute)病毒与细胞互动部门的主管埃里克·O·弗里德(Eric O. Freed)表示，最近几项技术突破使病毒研究发生了巨大变革。
+Advances in electron microscopy and super-resolved fluorescence microscopy — the subject of this year’s Nobel Prize in Chemistry — allow scientists to track the movement of viral particles in and between cells, and to explore the fine atomic structure of a virus embraced by an antibody, or a virus clasped onto the protein lock of a cell.
+电子显微镜和超高分辨率荧光显微镜的发展使得科学家能够追踪病毒粒子在细胞内及细胞间的活动，了解被抗体包围的病毒或细胞蛋白结合位上的病毒的精细原子结构。今年的诺贝尔化学奖就颁发给了对超高分辨率荧光显微镜发展做出贡献的科学家。
+Through ultrafast gene sequencing and targeted gene silencing techniques, researchers have identified genes critical to viral infection and drug resistance. “We’ve discovered viruses we didn’t even know existed,” Dr. Freed said. And that could prove important to detecting the emergence of a new lethal strain.
+研究人员已经通过快速基因测序及靶基因沉默技术，确定了对病毒感染及抗药性至关重要的基因。弗里德博士说，“我们发现了之前不知道的病毒。”事实可能会证明，这对新的致命病毒的探测非常重要。
+Viruses are also notable for what they lack. They have no ribosomes, the cellular components that fabricate the proteins that do all the work of keeping cells alive.
+病毒还有一个显著特点，它们缺少一些东西。它们没有核糖体——合成蛋白的细胞器，而蛋白是维持细胞存活的物质。
+Instead, viruses carry instructions for co-opting the ribosomes of their host, and repurposing them to the job of churning out capsid and other viral proteins. Other host components are enlisted to help copy the instructions for building new viruses, in the form of DNA or RNA, and to install those concise nucleic texts in the newly constructed capsids.
+但病毒会携带利用其宿主核糖体的指令，改变它们的用途，使它们合成大量衣壳及其他病毒蛋白。宿主细胞的其他部分则被用于帮助复制发展新病毒的指令——其形式表现为DNA或RNA，并将这些简单的核素安置在新合成的衣壳中。
+“Viruses are almost miraculously devious,” Dr. Freed said. “They’re just bundles of protein and nucleic acid, and they’re able to get into cells and run the show.”
+“病毒极其狡诈，”弗里德博士说。“虽然它们只不过是一堆蛋白和核酸，它们却能侵入细胞，控制细胞。”
+“On the one hand, they’re quite simple,” Dr. Enquist said. “On the other hand, they may be the most highly evolved form of genetic information on the planet.”
+“一方面，它们非常简单，”恩奎斯特博士说。“另一方面，它们可能是地球上进化程度最高的遗传信息形式。”
+Viruses also work tirelessly to evade the immune system that seeks to destroy them. One of the deadliest features of the Ebola virus is its capacity to cripple the body’s first line of defense against a new pathogen, by blocking the release of interferon.
+病毒还坚持不懈地躲避着试图摧毁它们的免疫系统。埃博拉病毒能够阻碍干扰素的释放，突破人体防御新病菌的第一道防线，这也是该病毒最致命的特征之一。
+“That gives the virus a big advantage to grow and spread,” said Christopher F. Basler, a professor of microbiology at Mount Sinai School of Medicine.
+西奈山医学院(Mount Sinai School of Medicine)微生物学教授克里斯托弗·F·巴斯勒(Christopher F. Basler)说，“这给了这种病毒巨大的优势，有助于它的增长和传播。”
+At the same time, said Aftab Ansari of Emory University School of Medicine, the virus disables the body’s coagulation system, leading to uncontrolled bleeding. By the time the body can rally its second line of defense, the adaptive immune system, it is often too late.
+埃默里大学医学院的(Emory University School of Medicine)的阿夫塔卜·安萨里(Aftab Ansari)表示，与此同时，病毒破坏了人体凝血系统，导致人体不可控制地出血。等到人体筑起第二道防线——适应性免疫系统时，通常为时已晚。

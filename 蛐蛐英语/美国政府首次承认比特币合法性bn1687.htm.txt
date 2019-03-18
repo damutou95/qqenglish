@@ -1,0 +1,38 @@
+The virtual currency bitcoin took a big step toward the mainstream on Monday as federal authorities signaled their willingness to accept it as a legitimate payment alternative.
+周一，联邦官员表示愿意接受比特币作为合法支付手段，这意味着这种虚拟货币朝主流迈进了一大步。
+A number of federal officials told a Senate hearing that such financial networks offered real benefits to the financial system even as they acknowledged that new forms of digital money had provided avenues for money-laundering and illegal activity.
+许多联邦官员都在参议院的听证会上表示，这种金融网络会给金融系统带来实在的好处，尽管他们也知道，新形式的数码货币会给洗钱和非法活动提供途径。
+“There are plenty of opportunities for digital currencies to operate within existing laws and regulations,” said Edward Lowery, a special agent with the Secret Service, which is tasked with protecting the integrity of the dollar.
+特勤局(Secret Service)特工爱德华·洛厄里(Edward Lowery)说，“在现存的法律和规定的范围内，数码货币也有大量的运营机会。”洛厄里的任务是维护美元的地位。
+Signs that the government would not stand in the way of bitcoin’s development, even as it has been cracking down on criminal networks that use the digital money, stoked a strong rally in the price of the crypto-currency.
+虽然政府一直在打击使用这种数码货币的犯罪团伙，种种迹象却表明它不会阻挠比特币的发展，比特币的币值也由此出现大幅上升。
+By Monday evening, the value of a bitcoin unit soared past $700 on some exchanges. The total outstanding pool of bitcoin — which is created by a network of users who solve complex mathematical problems — is now worth more than $7 billion.
+周一晚，比特币的币值在一些交易所突破了700美元（约合4266元人民币）。目前，市面流通的所有比特币的总币值已经超过70亿美元。比特币的创造者是一群解决复杂数学问题的用户。
+The Senate hearing Monday afternoon was the clearest indication yet of the government’s desire to grapple with the consequences of this growth, and the recognition that bitcoin and other similar networks could become more lasting and significant parts of the financial landscape.
+参议院周一下午的听证会是迄今最明确的一个信号，表明政府愿意应对这种增长所带来的影响，而且承认比特币和其他类似网络有可能成为金融体系中一个更持久、更重要的部分。
+“The decision to bring virtual currency within the scope of our regulatory framework should be viewed by those who respect and obey the basic rule of law as a positive development for this sector,” said Jennifer Shasky Calvery, the director of the Treasury Department’s Financial Crimes Enforcement Network. “It recognizes the innovation virtual currencies provide, and the benefits they might offer.”
+“对于那些尊重和遵守基本法律制度的人而言，把这种虚拟货币纳入我们监管框架的决定应该会被视作这个领域的一种积极发展，”财政部(Treasury Department)金融犯罪执法局(Financial Crimes Enforcement Network)局长珍妮弗·沙斯基·卡尔韦里(Jennifer Shasky Calvery)说。“它认可了虚拟货币带来的创新和潜在好处。”
+Ms. Shasky Calvery and the other officials at the hearing did say that basic questions still had to be answered about virtual currencies, including whether they can actually be considered currencies or whether they are more properly categorized as commodities or securities. The distinction will determine which agencies regulate the networks and how they are treated under tax law.
+沙斯基·卡尔韦里和参与听证会的其他官员确曾表示，关于虚拟货币的一些基本问题仍然没有答案。这些问题包括，是否能实实在在地把它们当做货币，还是把它们当做商品或证券更合适。这个区别将决定它们由哪个机构来管理，以及如何用税法来约束它们。
+Ms. Shasky Calvery said that the Internal Revenue Service was “actively working” on its own rules for bitcoin.
+沙斯基·卡尔韦里说，美国国税局(Internal Revenue Service)正在“积极制定”关于比特币的税则。
+Bitcoin has experienced a remarkable ascent since it was created in 2009 by an anonymous programmer or collective known as Satoshi Nakamoto. The money, which is not tied to any national currency, has been popular with technophiles who are skeptical of the world’s central banks. Only a finite amount of bitcoin will ever be created — 21 million units. Users have bid up the price on Internet exchanges, betting that the currency will be more widely used in the future.
+自从人称中本聪(Satoshi Nakamoto)的一名或一群匿名程序员于2009年创造比特币以来，比特币便迅速崛起。这种货币不与任何国家货币挂钩，深受技术爱好者的欢迎，他们对世界各国的中央银行持怀疑态度。比特币的发行量有限，只有2100万个。用户在互联网交易中抬高了它的价格，确信这种货币在未来会获得更广泛的使用。
+There are significant questions about the wisdom of the digital money as an investment, given that bitcoin has no intrinsic value and has proved to be vulnerable to hackers. Many money managers have recommended that unsophisticated investors stay away.
+鉴于比特币没有固有价值，事实还证明它很容易受到黑客攻击，将这种电子货币当做投资手段是否明智就成了重要的问题。很多资金管理者都建议，经验尚浅的投资者不要投资比特币。
+Recently, though, bitcoin has been catching fire around the world, with exchanges in China particularly active. A growing number of prominent American investors have also bought stakes, including Michael Novogratz, a principal at the private equity and hedge fund giant Fortress Investment Group, as well as the Winklevoss twins, Cameron and Tyler.
+但最近，比特币在世界范围内激发热情，中国的比特币交易尤其活跃。越来越多的美国知名投资人也购买了比特币，比如私募股权及对冲基金巨头城堡投资集团(Fortress Investment Group)的首席投资官迈克尔·诺沃格拉茨(Michael Novogratz)，以及文克尔沃斯(Winklevoss)兄弟、卡梅隆(Cameron)和泰勒(Tyler)。
+The increasingly widespread ownership of bitcoin has shifted attention away from the criminal enterprises that have used digital money, but it was a focus at the Senate hearing.
+越来越多的人拥有比特币，转移了大家对那些曾使用电子货币的犯罪企业的关注，然而，这却是参议院听证会关注的重点。
+Last month, the online marketplace Silk Road, where bitcoin was the primary form of payment, was shut down and its founder arrested after authorities accused it of being used to buy and sell drugs, weapons and pornography. The chairman of the Senate committee, Thomas R. Carper, Democrat of Delaware, said that a few days after the arrest, a similar site sprang up.
+上个月，相关机构指控丝路(Silk Road)在线市场被用来买卖毒品、武器及色情制品，该网站随即遭到关闭，其创始人也被逮捕，比特币是该网站的主要支付形式。参议院委员会主席、特拉华州民主党人托马斯·R·卡珀(Thomas R. Carper)表示，该网站创始人被捕几天之后，就出现了一个类似的网站。
+It can be harder to track criminals who use bitcoin, law enforcement officials said at the hearing, because they operate across international borders and often do not use established financial institutions that report transactions.
+执法官员在听证会上表示，追踪使用比特币的罪犯会更难，因为他们跨国界操作，往往不通过那些会报告交易情况的正式金融机构。
+But Mythili Raman, an assistant attorney general at the Justice Department, also said that because every bitcoin transaction was recorded on a public ledger, it was possible for investigators to trace the movement of money between accounts.
+不过，司法部(Justice Department)助理部长米斯里·拉曼(Mythili Raman)表示，由于每一笔比特币交易都在一个公共账簿上留下了记录，调查人员能够追踪资金在账户之间流动的情况。
+“It is not in fact anonymous. It is not immune from investigation,” Ms. Raman said.
+拉曼说，“事实上这不是匿名交易，无法逃避调查。”
+All the officials at the hearing said that crime had been an issue during the early days of credit cards and online payment systems like PayPal, and should not be a reason to limit innovation.
+参加听证会的官员都表示，在信用卡及贝宝(PayPal)等在线支付系统投入应用的初期，犯罪也是一个问题，这不应该是限制创新的理由。
+“It is our duty as law enforcement to stay vigilant while recognizing that there are many legitimate users of those services,” Ms. Raman said.
+拉曼说，“在承认这些服务有很多合法用户的同时保持警惕，是我们执法人员的职责。”

@@ -1,0 +1,50 @@
+Most companies are reluctant to open themselves to outside inspection. Yet Apple is even resisting someone who was appointed by a court to do exactly that, leading to an unusual public feud between the world’s biggest technology company and the Justice Department.
+多数公司都不愿敞开大门，任由外人检查。然而苹果公司(Apple)就连法院委派的检查人员都会阻挠，这引发了一场不同寻常的公开冲突：一方是世界最大的科技公司，另一方则是美国司法部(Justice Department)。
+In recent weeks, Apple has been campaigning aggressively against Michael R. Bromwich, a Washington lawyer who was appointed by a federal judge in October. His task was to make sure that Apple complied with antitrust laws after the company was found last summer to have conspired with five publishers to fix prices for e-books.
+最近几周，苹果公司一直在极力反对一位联邦法官去年10月份指定的华盛顿律师迈克尔·R·布拉米奇(Michael R. Bromwich)。去年夏天，法庭认定，苹果公司与五家出版商串通操纵电子书定价，而布拉米奇的任务就是确认，苹果公司如今的运作符合反垄断法。
+Apple argues that Mr. Bromwich is intruding with its daily operations by demanding interviews with board members and with senior executives, even the chief executive, Tim Cook. Apple’s court papers compare the monitor with an unchecked “independent prosecutor.”
+苹果公司声称，布拉米奇要求与董事，以及与包括首席执行官蒂姆·库克(Tim Cook)在内的高层管理人员谈话，这已经干扰了公司的日常运营。苹果公司向法院提交的文书将这位监管员比作不受任何限制的“独立检察官”。
+And it says that Mr. Bromwich, who is charging $1,100 an hour for his services, is using his appointment to embark on an inquisition to generate high fees for himself and his Washington consulting firm.
+苹果公司还说，布拉米奇利用这项任命盘问不休，是为他自己和他在华盛顿的咨询公司敛财。布拉米奇为自己的服务收取每小时1100美元（约合6600元人民币）的费用。
+The monitor, Apple says, will get in the way of the company’s ability to innovate and develop new technologies.
+苹果公司表示，这位监管员将妨碍公司创新和研发新技术的能力。
+Such resistance is not completely surprising. Silicon Valley technology companies routinely keep a tight wrap on their products and operations. But even among its peers, Apple, whose best-known products are the iPhone and the iPad, stands out for its level of secrecy.
+这样的抗拒并非全然意外。硅谷的科技公司通常都会严守与自身产品和运营有关的信息。但就算在这些公司中，苹果保守秘密的程度也是异乎寻常的。苹果公司最著名的产品是iPhone和iPad。
+At Apple headquarters, some unreleased products are kept draped in black cloth. And employees are prohibited from sharing details about the products they are working on with anyone outside their own team. Even their own family members can’t know. Those caught leaking information about Apple’s plans have been fired. But the judge who appointed the monitor has now taken issue with Apple’s arguments.
+在苹果公司的总部，一些还未发布的产品总是会用黑布遮盖。公司也禁止员工与团队以外的任何人分享他们参与研发的产品细节，就连他们的家人也不能知道。那些被发现泄露苹果公司工作计划的员工都已被解雇。但那位指定监管员的法官已经驳斥了苹果公司的说法。
+At a hearing Monday afternoon in United States District Court in Lower Manhattan, the judge, Denise Cote, said if there were problems with Mr. Bromwich, the company needed to work them out with the monitor and lawyers from the Justice Department, which sued Apple in 2012, accusing the company of price-fixing in the market for e-books.
+周一下午，在曼哈顿下城美国联邦地区法院的一次审理中，法官丹尼丝·科特(Denise Cote)表示，如果苹果公司与布拉米奇有什么问题，就应该与布拉米奇以及司法部的律师共同解决这些问题。2012年，司法部向苹果公司提起诉讼，指控该公司操纵电子书市场的定价。
+The judge said that after several months of delay and objections to Mr. Bromwich’s requests for interviews and documents to review, Apple needed to “restart” its relationship with the monitor.
+这位法官表示，苹果公司已经拖延数月，还曾拒绝布拉米奇提出的谈话和文件审阅要求，现在该公司需要“重启”它与监管员的关系。
+That is not likely to happen anytime soon, however. The hearing ended with Apple’s lawyer telling Judge Cote that the company intended to continue its fight to unseat Mr. Bromwich with an appellate court.
+然而，这不太可能很快发生。在审理结束之前，苹果公司的律师告诉科特法官，公司有意继续抗争，会向联邦上诉法院提出罢免布拉米奇的申请。
+The appointment of monitors are not uncommon in litigation that results in rulings that are intended to change a company’s behavior. In pleading guilty to securities fraud charges last November, for example, the hedge fund SAC Capital Advisors is being required to hire an outside monitor to oversee some of its operations for a period of time.
+一些诉讼最终裁决的目的是希望改变一家公司的行为，在这种情况下，指定监管员并非罕见。例如，去年11月，对冲基金SAC资本顾问公司(SAC Capital Advisors)对证券欺诈指控表示认罪，法院于是要求它从外部雇佣一名监管员，在一定时间内监督它的经营。
+In the case of Apple, the very arrangement of a monitor is at issue. The company contends that it should not be forced to open its door to a court-appointed monitor as a way of proving to Judge Cote that it is changing its ways.
+在苹果公司一案中，双方在安排监管员这件事上就无法达成一致。公司坚称，它不应被迫向法院指定的一名监管员敞开大门，以此来向科特法官证明，它的经营行为做出了改变。
+On Monday, the judge said she had been reluctant to appoint a monitor but decided it was necessary to make sure the company did not engage in price fixing again. The judge said she was sensitive to not interfering with Apple’s business, which is why she rejected the Justice Department’s request to put a monitor in place for 10 years. But she said the move was already having a positive impact, noting that Apple has retained outside lawyers to put in place procedures for ensuring the company complies with antitrust principles.
+周一，这位法官表示，她并不愿意指定一位监管员，但最终确信，为了确保苹果公司不会再次参与价格操纵，有必要这么做。科特法官说，她很清楚不应干涉苹果公司的业务，所以她才拒绝了司法部主张的，让监管员在苹果公司监督十年的要求。但她说这一举措已经产生了积极影响，提出苹果公司已经聘用了外部律师，并启动程序来确保公司符合反垄断法的原则。
+Judge Cote reminded Apple and its lawyers that it did not have much bargaining room when it came to the role of the monitor.
+科特法官提醒苹果公司和它的律师，对于监管员担负的职责，苹果公司和它的律师没有多少讨价还价的余地。
+“Apple is no position to define the scope of the monitor’s duties,” said Judge Cote.
+“苹果公司无权划定监管员的职责范围，”科特法官说道。
+It is not clear how Apple will fare at the appellate level. The company is not only appealing the judge’s decision to appoint Mr. Bromwich; it also seeks to stop him or any other monitor from doing any work until the appeal on the legality of Judge Cote’s decision is determined.
+至于苹果公司在上诉阶段将会如何表现，尚不得而知。苹果公司在上诉案中，不仅将挑战科特法官任命布拉米奇的决定；它还希望在上诉法院对科特法官判决的合法性做出裁决之前，阻止布拉米奇或其他任何监管员继续开展工作。
+Apple contends that given the length of time it can take an appellate court to rule, it is unfair for the company to continue to pay Mr. Bromwich’s salary. In court filings, Apple has made much of the $1,100 hourly fee charged by Mr. Bromwich, who runs his own consulting firm and is also a litigation partner with Goodwin Procter.
+苹果公司提出，上诉法院会需要一段时间才能做出裁决，让它继续给布拉米奇支付薪水是不公平的。法庭文件显示，苹果公司已为布拉米奇提供的时薪1100美元的服务支付了许多费用。布拉米奇有自己的咨询公司，也是高赢律师事务所(Goodwin Procter)的诉讼合伙人。
+The company points to the $138,432 legal bill Mr. Bromwich submitted for his first two weeks of work as evidence he is using his appointment to run an unwieldy and unfair investigation.
+苹果公司指出，布拉米奇为他头两周的法律服务开出的账单高达138432美元，这就证明了他在利用这项任命来进行一项复杂而不公平的调查。
+But Judge Cote observed on Monday that “lawyers get paid a lot of money.”
+但科特法官周一评论道“律师就是收入很高”。
+She also pointed to a recent article in The National Law Journal that said it was not uncommon for top lawyers at a large law firm to bill clients at a rate of $1,000 an hour. Judge Cote noted that one lawyer at Gibson Dunn, one of the firms representing Apple, billed at a rate of $1,800 an hour.
+她还引述了最近发表在《国家法律期刊》(The National Law Journal)上的一篇文章。文章说，大型律师事务所的顶级律师向客户收取1000美元的时薪不算少见。科特法官指出，吉布森律师事务所(Gibson Dunn)的一位律师收费为每小时1800美元。吉布森是苹果公司聘请的一家律师事务所。
+The company especially took issue with Mr. Bromwich, a former federal prosecutor who has served as court appointed monitor on three previous occasions, with moving too quickly to request interviews and meeting with some of Apple’s board members and senior executives. The company pointed to his repeated insistence on interviewing former Vice President Al Gore, an Apple board member. The company argued that board members like Mr. Gore had little involvement with the company’s pricing policies.
+苹果公司对布拉米奇太快就要求与公司的某些董事及高管约谈和开会尤为不满。布拉米奇担任过联邦检察官，曾三次由法院指定担任监管员。苹果公司指出，他一再提出要约谈担任公司董事的前副总统阿尔·戈尔(Al Gore)。公司提出，像戈尔那样的董事，极少参与公司的定价政策。
+For his part, Mr. Bromwich said in a court filing that Apple was providing him with “far less access” and cooperation than he had received in previous monitoring experiences.
+而布拉米奇则在一份法庭文件里表示，与之前担任监管员的经历相比，苹果公司给予他的自由和合作都“少得多”。
+Mr. Bromwich, who has a son who is a news assistant with The New York Times, was not available for comment and did not attend Monday’s hearing.
+布拉米奇未能对本文发表评论，也没有参加周一的庭审。他的一个儿子在《纽约时报》担任新闻助理工作。
+During the proceeding, Lawrence Buterman, a Justice Department lawyer, told Judge Cote that Apple’s attacks on Mr. Bromwich were consistent with the company not wanting to work with any monitor.
+在庭审过程中，司法部律师劳伦斯·巴特曼(Lawrence Buterman)对科特法官表示，苹果公司对布拉米奇的攻击，符合它一贯不与任何监管员合作的作风。
+“They don’t want anyone checking their work,” Mr. Buterman said.
+巴特曼说，“他们不想让任何人检查他们的工作。”

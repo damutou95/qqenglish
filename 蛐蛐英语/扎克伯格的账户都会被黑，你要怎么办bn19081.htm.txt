@@ -1,0 +1,36 @@
+There are several lessons to be learned from a data breach in which hackers gained access to Mark Zuckerberg’s social media accounts, but chief among them is probably this: Quit using the same password for multiple websites.
+你可以从马克·扎克伯格(Mark Zuckerberg)社交媒体密码被盗、数据泄露的事件中汲取好几条教训，但最重要的一条是：不要在多个网站上使用相同的密码。
+It may be annoying and time-consuming, but following this simple rule can help you avoid the public pwning, or account takeover, that befell Mr. Zuckerberg, the billionaire owner of Facebook and Instagram.
+使用不同密码可能既烦人，又费时间，但是只要遵循这个简单的规则，你就可以避免像Facebook和Instagram的掌门人扎克伯格那样账户被盗，当众出糗。
+A collective that calls itself OurMine boasted that it had broken into a handful of his social media accounts, including LinkedIn, Twitter and Pinterest. Screengrabs posted by Engadget showed the hackers notifying Mr. Zuckerberg of the breach using his own Twitter account. Bold move.
+一个自称OurMine的团伙吹嘘，他们已经攻破了扎克伯格的几个社交媒体账户，包括领英(LinkedIn)、Twitter和Pinterest。Engadget的截图显示，黑客用扎克伯格自己的Twitter帐号来通知了他这件事。很有胆量。
+“We are just testing your security,” the tweet read.
+“我们只是在测试你的安全措施，”这条Twitter消息说。
+In a statement released on Monday, LinkedIn said that it had found and removed a fake profile that had been created of Mr. Zuckerberg.
+领英周一发布声明，称他们已发现并清除了一份假冒的扎克伯格个人资料。
+“We were alerted of this takeover attempt and have taken action to remove the false profile on LinkedIn,” the statement read.
+“我们收到了有人试图盗号的提醒，已经采取行动，移除在领英上的虚假个人资料，”声明写道。
+The company declined to address whether the hack was the result of a larger data breach in 2012 that compromised over 100 million accounts. LinkedIn has taken steps to invalidate passwords from older accounts, but the breach against Mr. Zuckerberg shows that some accounts, especially those that are old or dormant, remain at risk.
+该公司拒绝讨论这次入侵是否是2012年那次更大的数据被盗案的后果，当时有逾一亿个账户的资料遭到泄露。 领英已采取措施，将旧账户的密码作废，但扎克伯格帐号被盗事件显示，一些账户依然面临着风险，尤其是那些老账户，或处于休眠状态的账户。
+In a statement emailed by a spokesman on Monday, Facebook said that Mr. Zuckerberg’s Facebook and Instagram accounts had not been breached.
+Facebook一名发言人本周一发送电邮声明，称扎克伯格的Facebook和Instagram帐户未被盗取。
+“No Facebook systems or accounts were accessed. The affected accounts have been re-secured using best practices,” the statement read.
+“Facebook系统或账户很安全。受影响的帐户已经重新添加了最严密的保护措施，”声明说。
+(Facebook’s security systems are now designed to thwart suspicious logins, but Mr. Zuckerberg’s account has not always been immune to breaches: In 2013, a blogger hacked the executive’s page to exploit what he said was a security flaw on the social network.)
+（从设计上说，Facebook的安全系统可以阻止可疑登录，但扎克伯格的账户并不总是固若金汤：2013年，一个博客作者利用他所说的Facebook的一个安全漏洞，入侵了扎克伯格的页面。）
+You should check to see if your email account has been compromised. The website Have I Been Pwned? provides a useful service: Plug in your email address, and the website will reveal if your data has been leaked or manipulated by hackers.
+读者应该检查一下，看自己的电子邮件账户是否被入侵了。网站“我被入侵了吗？”提供一项有用的服务：输入电子邮件地址，网站会显示你的数据是否已被黑客泄露或操纵。
+If your account has been compromised, change your password. And we’ll say it again: Using the same password for multiple accounts is a cardinal sin in the security world, so make sure you mix it up, even with accounts you rarely use.
+如果账户被入侵，请改密码。再次强调：在安全界，多个账户使用同一个密码是大忌，因此务必使用不同的密码，即便是不常使用的账号。
+Graham Cluley, an online security expert and consultant, said that using the same passwords was a likely reason for the Zuckerberg hack. (According to the website The Hacker News, OurMine tweeted that Mr. Zuckerberg’s password was “dadada,” and was used across multiple accounts. OurMine’s Twitter account has since been suspended.)
+在线安全专家、顾问格雷厄姆·克卢利(Graham Cluley)表示，用相同的密码可能是扎克伯格账号被入侵的原因。（据“黑客新闻”[The Hacker News]网站称，OurMine发推文称，扎克伯格的密码是“dadada”，且多个账户都用的是这个密码。OurMine的Twitter账号已被封。）
+“It shows it can happen to anyone — even geeks,” Mr. Cluley said. “The problem is that even if you have adopted sensible password practices now, your past mistakes may come back to haunt you.”
+“此事表明，这种事情可能会发生在任何人身上，哪怕是极客，”克卢利说。“问题是，即便现在采取了妥当的密码做法，过去犯下的错误有一天还是会让你吃苦头。”
+Mr. Cluley suggested obtaining a password manager, like LastPass, to keep track of your login information. He also said that wherever possible, you should enroll in two-step verification, which sends an authorization code to the user’s phone before the account can be opened. Most social platforms vulnerable to hacking, including LinkedIn, Twitter and Gmail offer it.
+克卢利建议用LastPass这样的密码管理器，记录自己的登录信息。他还说，只要有可能，就应该申请两步验证。它会向用户的手机发送授权码，之后才能打开账户。大部分易受黑客攻击的社交平台，包括领英、Twitter和Gmail，都提供这种服务。
+Troy Hunt, an online security expert and the creator of Have I Been Pwned?, reiterated that a password manager was the most reliable way to stay safe.
+在线安全专家、“我被入侵了吗”网站创始人特洛伊·亨特(Troy Hunt)重申，密码管理器是最可靠的保持安全的方式。
+“Without this, we risk exposing sensitive data in a way that it can put other accounts at risk, particularly via a data breach of one site, which is becoming an alarmingly common occurrence,” he said.
+“没有密码管理器，我们的敏感数据就可能遭到泄露，并导致其他账户面临风险，特别是在某个网站的数据被泄露的情况下，这正在成为经常发生的事情，令人担忧，”他说。
+In a statement to its users on Monday, LinkedIn echoed the suggested tactics: “All members should take care to manage and change passwords across other sites, avoid reuse, leverage advanced security features, and update often.”
+周一向用户发表声明时，领英重复了建议的策略：“所有用户都应谨慎管理和更改不同网站的密码，避免使用相同的密码，采用先进的安全措施，并经常更新。”

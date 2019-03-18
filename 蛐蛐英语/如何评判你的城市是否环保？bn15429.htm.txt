@@ -1,0 +1,54 @@
+Some cities consume energy with admirable efficiency. Others are more profligate. Gauging which is which involves more than just reading a meter. And it depends who’s doing the judging.
+一些城市的能源利用效率让人钦佩，而另一些城市却挥霍无度。评估一个城市的能源利用情况，不是看一个读数那么简单。而且还取决于是谁在做评判。
+Various lists of winners and sinners tend to contain the same names. The usual winners include wealthy, white-collar American cities, such as San Francisco and Seattle, and Nordic ones like Copenhagen and Oslo.
+在各类环保城市和污染城市的排名中，有的城市在两边都有出现。通常的环保城市包括富裕的白领美国城市，比如旧金山和西雅图，以及哥本哈根、奥斯陆这样的北欧城市。
+The two European capitals held prominent positions within the region on the Siemens Green City index, a compilation of cities lauded for using innovative methods to minimize their impact on the environment. Singapore and, perhaps surprisingly, the Brazilian city of Curitiba were the leaders for Asia and Latin America.
+这两个欧洲首都在西门子绿色城市指数(Siemens Green City index)中名列前茅。该指数表扬一批通过创新方法尽可能减少对环境影响的城市。新加坡是亚洲的领先城市，可能让人吃惊的是，巴西的库里奇巴是拉丁美洲的领先城市。
+San Francisco and Seattle, along with New York and Los Angeles, ranked among the top 10 in a 2008 Brookings Institution study of the 100 largest American cities with the lowest carbon emissions per resident. Seattle was the only one of these four cities that did not also finish in the top 10 in the latest annual ranking of energy efficiency compiled by the United States Environmental Protection Agency.
+布鲁金斯学会(Brookings Institution)在2008年对美国100个大城市的人均碳排量进行了调查，结果旧金山、西雅图、纽约和洛杉矶进入了人均碳排量最低的前十名。其中，只有西雅图未能进入美国环保署(United States Environmental Protection Agency)最新的能源效率年度排名前十。
+Some of these cities deserve their praise, such as Copenhagen, with its offshore wind turbines and ubiquitous bicycles, and Curitiba, which has implemented conservation and sustainability programs since the 1970s in a part of the world where environmental concerns often get short shrift in the quest to lift economic growth. Other cities are often beneficiaries of accidents of geography or history.
+这些城市中确实有值得赞扬的，比如哥本哈根的离岸风力涡轮机和无处不在的自行车。自20世纪70年代以来，库里奇巴所在地区常常以牺牲环境为代价追求经济增长，而库里奇巴却实施了环保和可持续发展计划。其他城市往往受惠于地理或历史的偶然。
+San Francisco, for instance, sits on a small peninsula in a prime location, ensuring that its population would be packed tightly together and be amenable to using public transportation. It also catches a break because it developed as a center of finance and other service industries for people in urban centers that are somewhat messier than San Francisco, but support the city in its cushy, albeit energy-efficient, lifestyle.
+以旧金山为例，它坐落在一个位置绝佳的狭小半岛上，这导致旧金山的人口分布紧凑，人们愿意使用公共交通。另一方面，旧金山还得益于金融中心和其他服务产业的定位。市中心虽然较为混杂，但是这里的居民却以崇尚轻松愉快、高能效的生活方式，支持城市的绿色发展。
+Experts in urban planning and related fields acknowledge that there are many ways to measure energy efficiency — or energy intensity, an idea that encompasses the quantity and quality of energy consumed — and that any assessment must include a degree of subjectivity. Some surveys adjust the measurement of a city’s energy intensity to include not just how much its residents consume but also how much others consume on their behalf.
+城市规划相关领域的专家承认，测量能源效率或单位产值能耗——它涵盖了能源消耗的数量和质量——有多种途径，而且任何评估方式都会带有一定程度的主观性。一些调查会调整城市的单位产值能耗，不仅包括该城市居民消耗的能源，还包括其他地方代替该城市消耗的能源。
+“It’s awfully hard to find one metric to declare who’s the winner,” said Clinton Andrews, a professor of urban planning and policy development at Rutgers University.
+“要找到一个衡量标准来判定谁最环保是非常困难的，”罗格斯大学(Rutgers University)城市规划和政策发展研究教授克林顿·安德鲁斯(Clinton Andrews)说。
+“One way is to count all greenhouse emissions within your city boundaries, from car exhausts, chimneys, power plants, industrial facilities,” he said. “A lot of people think that’s not a good accounting scheme and propose that wherever electricity is generated, you’re responsible for those emissions.”
+“一种方法是计算城市内包括汽车尾气、烟囱、发电厂和工业设施在内的所有温室气体的排放量。”他说，“但是很多人认为这种计算方法不好，他们提出不论所用的电力源自哪里，你都应该对发电所排放的温室气体负责。”
+That includes fuel burned to transport food to the table or to take residents to far-flung locales for vacations or business meetings. They also get the bill for energy spent elsewhere to make goods that are consumed in some cities.
+这就包括把食物运输到餐桌以及居民前往遥远的地方度假或开会所消耗的燃料。在别处生产、在本地消费的商品也算作本地的能源消耗。
+“It can add up to a much larger carbon footprint,” Mr. Andrews said. “If you’re a rich city, you’re going to be responsible for a lot of consumption. San Francisco and New York start to not look so good.”
+“一旦这些数字相加，碳足迹就大了很多，”安德鲁斯说，“富裕的城市会消耗大量的能源。这样看来，旧金山和纽约的情况就不那么好了。”
+New York looks considerably worse in a study released this spring in the Proceedings of the National Academy of Sciences that assessed the world’s 27 largest metropolitan areas, or “megacities,” on energy, water use and solid waste production per capita. New York was the worst in all three categories.
+美国国家科学院院刊(Proceedings of the National Academy of Sciences)今年春季发布了一项对全世界27个超级城市的人均能耗、用水和固体垃圾的研究。其中，纽约的表现相当糟糕，三个类别均垫底。
+Evaluations of energy intensity often adjust for differences in economic development, industrial bases, climates, population density and other factors to make a more equal comparison.
+为了公平评估单位产值能耗，常常需要根据以下因素进行调整：经济发展水平、工业基础、气候、人口密度等等。
+The drawback then is that “every city ends up being the same,” said Christopher Kennedy, a professor of civil engineering at the University of Toronto and the lead author on the megacities study.
+缺点是“结果每个城市都一样，”多伦多大学(University of Toronto)土木工程教授、超级城市研究的主要作者克里斯托弗·肯尼迪(Christopher Kennedy)说道。
+Another way to compare cities is one economic or social segment at a time, such as transportation or industry, said Anu Ramaswami, a professor of science, technology and public policy at the Humphrey School of Public Affairs of the University of Minnesota.
+另一种比较的方法是一次只比较经济或社会的一个层面，比如运输或工业。明尼苏达大学(University of Minnesota)亨弗里公共事务学院(Humphrey School of Public Affairs)科学、技术和公共政策教授阿努·拉马斯瓦米(Anu Ramaswami)说。
+“It’s better to talk about energy intensity by sector — how much is used per household or to produce so much” economic output “or industrial goods or to move people,” Ms. Ramaswami said. Taking such an approach, she added, “New York consistently comes out as more efficient on all measures.”
+“根据行业来讨论单位产值能耗较为合理——每个家庭使用了多少能源，或达到一定产值、生产一定数量的商品和转移人员各需要消耗多少能源，”拉马斯瓦米说。此外她还说，如果采取这种方法，“纽约在各衡量标准上都显得更有效率了。”
+Among the 27 megacities, Mr. Kennedy admires Paris and Rio de Janeiro. Both cities have little heavy industry and use electricity from cleaner sources: nuclear in Paris and hydroelectric and ethanol from sugar cane in Rio.
+在27个超级城市中，肯尼迪推崇巴黎和里约热内卢。这两个城市几乎没有重工业，它们的电力也来自较为清洁的能源：巴黎使用核能，而里约热内卢用水力发电，并把甘蔗制成酒精。
+“One way to reduce pollution is to reduce use of energy,” he said. “Another is to reduce the carbon intensity of the electricity you use. I think that’s the easier way.”
+“减少污染的一种途径是减少使用能源，”他说，“另一种方式是减少电的碳强度。我觉得这是更加简单的一种方式。”
+Shanghai is at the other end of the spectrum. It burns a lot of a coal for residential and industrial consumption. In Mr. Kennedy’s view, it’s a city that “needs a lot of work.”
+上海则处于另一个极端。家庭和工业通过燃烧大量的煤炭来获得能源。根据肯尼迪的观点，这样的城市“还有很长的路要走”。
+An inefficient city that is not “mega” is Denver. It derives electricity from high-carbon sources, is spread over a wide area and has cold winters, Mr. Kennedy said.
+丹佛虽然不是超级城市，但却是低效的。肯尼迪说它的电力严重依赖煤炭资源，分布区域宽广，冬天还非常寒冷。
+Mr. Andrews tends to find greater energy efficiency among “modest-sized cities that still have crops growing nearby and where you can walk to school or work,” such as San Luis Obispo, Calif., Saratoga Springs, N.Y., and the Dutch town of Delft.
+安德鲁斯发现，“附近种着庄稼，人们走路上学、上班的中等规模的城市，”其能源使用效率较高，例如加利福尼亚州的圣路易斯-奥比斯保、纽约州萨拉托加斯普林斯以及荷兰的小镇代尔夫特。
+A larger city that fits the bill for him is Philadelphia, with its pedestrian-friendly downtown, well-functioning mass transit and nearby farms.
+符合他这种要求的一座较大都市是费城。那里的城区适合步行，公共交通运行良好，农场就在不远处。
+It also has chemical plants in the vicinity, Mr. Andrews said. “They’re living with their industrial past and present,” he said. “But they’re finding ways to make the city livable and perform well, even if it’s not the most economically vibrant city.”
+不过安德鲁斯表示，费城附近也有化工厂。“他们在消化自身的工业历史和现实，”他说。“但他们在想方设法让费城宜居、表现良好，虽说那里并不算很有经济活力的城市。”
+His candidates for least energy-efficient locales include Guangzhou, the southeast Chinese industrial city where coal generates much of the power and where buildings and road systems are poorly designed. He offered similar criticism of Lagos, the Nigerian capital. “They have achieved all the costs of agglomeration without all the benefits of it,” he said.
+他挑选的能效最低的地方包括中国东南部的工业城市广州。那里的能源有很大一部分来自煤炭，建筑和道路系统也设计糟糕。他对尼日利亚首都拉各斯有类似的批评。“他们付出了集中带来的所有代价，这方面的好处却一点也没有享受到。”
+Two inefficient American cities that he highlighted are Houston, where downtown high-rises are hard to air-condition and where driving is essential for work or recreation, and San Jose, about which he said: “It’s all there. Just try to get to any of it.”
+他指出了两座能效低的美国城市，一是休斯顿、二是圣何塞。休斯顿的城区高楼大厦难以调节室内温度，居民的通勤和休闲活动都必须开车。至于圣何塞，他说：“那里什么都有。就是去哪里都不容易。”
+What many efficient, low-energy-intensity cities have in common is that the factors contributing to their benign profiles produce other benefits, making the cities pleasant places to live, Mr. Andrews said.
+安德鲁斯称，许多能源效率高、强度低的城市有一个共同点，那就是令它们在这方面表现良好的一些因素也会带来其他益处，让那里适宜生活。
+“If you stop burning coal in inefficient power plants, you’re going to improve air quality, and if you do urban design so you can walk places, you’re going to be healthier and you won’t burn lots of gas,” he said. “A lot of what improves energy efficiency improves quality of life.”
+“如果停止在低能效的发电厂烧煤，就会改善空气质量。如果把城市设计成利于步行，就会让人更健康，也不用烧很多汽油，”他说。“改进能效的很多方面也会改进生活质量。”

@@ -1,0 +1,50 @@
+Kimmo Kalliola knows the feeling that thousands of Finns have been dealing with over the last couple of years. He spent more than a decade working on geolocation positioning at Nokia, a highly technical job, but the Finnish tech giant hit hard times. In late 2012, Mr. Kalliola and 10,000 others at the company were laid off.
+科莫·卡里拉(Kimmo Kalliola)了解成千上万的芬兰人在过去几年里的感受。他在诺基亚(Nokia)做了十多年科技含量很高的地理定位工作，但这家芬兰科技巨头陷入了困境。在2012年下半年，该公司解雇了1万人，卡里拉就名列其中。
+“I remember those sleepless nights,” said Mr. Kalliola, 42, who holds a Ph.D. in radio engineering.
+“我记得那些不眠之夜，”42岁的卡里拉说。他拥有无线电工程博士学位。
+Troubles at Nokia, once a source of national pride for Finns, have hardly slowed. Last year, the company sold its once-dominant mobile phone business to Microsoft. Within three months, Microsoft announced 18,000 layoffs, many of them in Finland. Further job cuts are now underway; Microsoft said it would reduce its Finnish work force by up to 2,300 employees, or roughly two-thirds of its local work force. Nokia now focuses almost entirely on its telecom infrastructure business.
+诺基亚曾是芬兰人的骄傲，如今它的麻烦并未减少。去年，公司将曾经叱咤风云的移动电话业务出售给了微软。不到三个月，微软就宣布裁员1.8万人，其中许多都在芬兰。裁员仍在继续，微软表示，它会削减最多2300名芬兰雇员，相当于芬兰雇员总数的三分之二。诺基亚的业务现在几乎完全集中在了电信基础设施上。
+This fast influx of unemployed tech workers like Mr. Kalliola into the Finnish economy has left policy makers with a headache — one that many of their counterparts elsewhere would most likely welcome.
+像卡里拉这种失业的技术工作者快速增加，让芬兰经济政策制定者很是头疼——其他很多地区的经济政策制定者，或许会欢迎这种现象。
+With the skyrocketing growth of smartphones, apps and the mobile Internet, governments worldwide are angling to train and attract more highly skilled developers and engineers to meet the needs of their quickly digitizing economies. British politicians are investing heavily in computer training for teenagers, French policy makers are pushing coding as a potential solution to the country’s economic problems, and many Americans are rebooting their careers to tap into the growing number of tech-based jobs.
+随着智能手机、应用和移动互联网的高速增长，很多国家的政府都在积极培养和吸引更多高素质的开发人员和工程师，从而满足本国快速实现经济数字化的需要。英国政界在青少年计算机培训上大举投资，法国政策制定者在大力推动编程，期望让它成为该国经济问题的一个潜在解决方案。很多美国人也正在重新开始自己的事业，投身就业岗位越来越多的科技业。
+Yet Finland — whose population is roughly the same as Minnesota’s — has almost the opposite problem: a surplus of these workers, who were left jobless after a series of layoffs at Nokia and Microsoft. How to solve this problem has left policy makers and tech companies trying to turn Nokia’s and Microsoft’s pain into Finland’s gain.
+芬兰的人口大约相当于明尼苏达州，它面临的问题几乎与其他国家完全相反：在诺基亚和微软进行了一系列裁员后，该国出现了大量失业的技术人员。为了解决这一问题，决策者和科技公司试图把诺基亚和微软带来的苦难，变成芬兰的潜力。
+Some workers in Finland may be struggling to find a good job, but many have already started their own businesses or have been recruited by tech companies moving to Finland. Mr. Kalliola, for example, started Quuppa, a company that provides precise indoor geolocation positioning, employing skills he learned and connections he made while at Nokia.
+在芬兰，一些技术人员可能很难找到好工作，但很多人都已经开始自己创业，而且前往芬兰开设分部的外国科技企业也聘用了一些人。卡里拉就利用自己在诺基亚学到的技能和建立的人脉，创办了Quuppa公司，提供室内的精确定位技术。
+In part, the relatively soft landing among workers is a result of efforts by the Finnish government. Just as Nokia began to lay off its employees, politicians started providing government grants, entrepreneurship programs and other training to help the thousands of laid-off tech workers start their own companies. In addition, companies outside Finland have opened offices there, lured by the available workers.
+技术人员相对实现了“软着陆”，这部分上是芬兰政府努力的结果。诺基亚刚开始裁员的时候，芬兰政界开始提供政府拨款、创业计划，以及其他培训项目，帮助数以千计的下岗技术人员创办自己的公司。此外，一些外国公司也被这里的富余人才吸引，在芬兰开设了办事处。
+Finnish politicians have also forced Nokia — and are putting pressure on Microsoft — to support former employees’ re-entry into the labor market. The help includes one-off grants for new business ventures and allowing former employees to use some of the companies’ intellectual property, like unwanted patents, almost free of charge.
+芬兰政界也迫使诺基亚为前雇员重新进入劳动力市场提供支持，现在他们也正在对微软施加这种压力。这类支持包括为初创企业提供一次性的拨款，以及同意前雇员几乎免费地使用公司的某些知识产权，比如公司的多余专利。
+“Both Nokia and Microsoft have shown substantial responsibility in mitigating the impact of the layoffs,” Olli Rehn, the country’s minister of economic affairs, said in an interview. “Finland remains a stronghold for the global tech industry.”
+“在减轻裁员的影响方面，诺基亚和微软都表现出了高度的责任感，”芬兰负责经济事务的部长奥利·瑞恩(Olli Rehn)在接受采访时称。“芬兰依然是全球科技业的坚强阵地。”
+Because of these efforts, the unemployment rate for the country’s tech workers is several percentage points lower than Finland’s current 10 percent unemployment rate, according to government officials and national statistics.
+从政府官员的介绍及全国性的统计数据来看，因为有了这些努力，科技行业从业人员的失业率，比芬兰当前10%的整体失业率低几个百分点。
+One of the individuals helping to lower this number is Risto Kivipuro, who was 58 and a lifelong Nokia employee when his team was scrapped in 2012.
+在帮助降低这个数字的人里，就包括里斯托·基维普罗(Risto Kivipuro)。2012年，整个职业生涯都在诺基亚工作的基维普罗所在的团队被撤销时，他58岁。
+A group of younger former colleagues persuaded him to join a fledgling company, Piceasoft, which is based on the mobile data-transferring technology they built at Nokia. Through a government-sponsored program, the small team licensed the software — almost free — from Nokia and received tens of thousands of dollars from their former employer to fund their start-up.
+一群比基维普罗年轻的前同事，说服他加入了初创公司Piceasoft。该公司的基础，是他们还在诺基亚时开发出来的移动数据传输技术。通过政府赞助的一个项目，这个小团队几乎是免费从诺基亚得到了相关软件的授权，并从他们的前雇主那里得到了数万美元，为自己的初创公司提供资金。
+By tapping into the wide diaspora of former Nokia sales employees — many of whom had also recently lost their own jobs — they have been able to sign up mobile operators as clients from Germany, across Central Europe and even Russia.
+借助曾为诺基亚效力的大量外籍销售人员——其中的很多人最近也失业了——他们已经能让德国、中欧各国甚至俄罗斯的移动运营商，成为了自己的签约客户。
+“At 58, no one was going to hire me,” Mr. Kivipuro said. “If I had known that running my own business was so fun, I would have left Nokia a lot earlier.”
+“58岁的年纪，谁都不会雇我的，”基维普罗说。“如果知道经营自己的企业这么有意思，我早就离开诺基亚了。”
+Several of the Finnish cities most affected by the big job cuts have pushed to attract other tech companies, using the available local tech talent as a major selling point.
+受大规模裁员影响最大的几个芬兰城市，都在把当地可以利用的科技人才作为主要卖点，争取吸引其他科技企业。
+ARM Holdings, the British designer of digital products, and MediaTek, the Taiwanese semiconductor company, have recently set up research and development facilities in Oulu — in the far north of Finland — hiring teams of former Nokia engineers.
+最近，英国数字产品设计公司ARM Holdings和台湾半导体公司联发科技(MediaTek)，都在位于芬兰北部的奥卢成立了研发基地，雇佣了过去诺基亚的工程师团队。
+“If you need to find a complete development team, then there are probably people in Oulu who can do that for you,” said Juha Ala-Mursula, director of economic development for the city of Oulu, where Nokia manufacturing and design teams were severely hit by the company’s multiple rounds of layoffs.
+“如果需要找一个完整的开发团队，那么奥卢这里可能就有人帮你做到这一点，”奥卢市经济发展事务负责人朱安·阿拉-穆尔苏拉(Juha Ala-Mursula)说。诺基亚位于该市的制造和设计团队，在多轮裁员中受到了极大的冲击。
+“It’s sad to see what happened at Nokia,” he added. “But when a large tree falls, you need to plant a lot of small ones to take its place.”
+“看到诺基亚发生的情况令人痛心，”他接着说。“但一棵大树倒下后，你需要栽很多小树替代它。”
+Some Finnish investors and entrepreneurs, though, express doubts about former Nokia employees’ entrepreneurial skills. Creating a new company, they say, is far different than being a valuable worker at a large established one.
+然而，芬兰的一些投资者和创业者，却对诺基亚前员工的创业技能表示怀疑。他们称，建立新公司和在一家大型老牌企业里当一名重要的员工远远不同。
+A new generation of Finnish entrepreneurs has already created some successful start-ups, particularly in mobile gaming — Rovio, the company behind Angry Birds, is based in Espoo, Finland. But these companies have often passed on hiring former Nokia employees in favor of recent tech graduates from local universities.
+新一代的芬兰创业者已经建立了一些成功的初创企业，特别是在移动游戏领域。《愤怒的小鸟》(Angry Birds)的出品公司Rovio总部就位于芬兰的埃斯波。但这些公司通常青睐从当地大学毕业不久的科技专业学生，而不是诺基亚前员工。
+Others say former Nokia workers struggle with the fewer available resources after leaving a large international company. Antti Saarnio, chairman of Jolla — a Finnish company that is developing a former Nokia mobile phone operating system to compete with the likes of Google’s Android — says he often has to rein in his almost 100 developers (mostly former Nokia employees) in Helsinki when they ask for things beyond the realms of what is available at a start-up.
+其他一些人表示，离开大型跨国公司后，诺基亚前员工难以适应可用资源减少的现实。芬兰公司Jolla正在开发一个曾属于诺基亚的移动手机操作系统，意在同谷歌的Android系统等竞争，公司在赫尔辛基有近100名开发人员，大部分是诺基亚前员工。Jolla董事长安蒂·萨尔尼奥(Antti Saarnio)表示，当员工提出的要求，超出这家初创公司的能力范围之外时，他就不得不严格控制。
+“Nokia wasn’t a school for entrepreneurship,” Mr. Saarnio said. “Most people have a lot to learn.”
+“诺基亚不是创业者的学校，”萨尔尼奥说。“大部分人都有很多东西需要学习。”
+Yet for Pekka Väyrynen, who after leaving Nokia co-founded an industrial design company that makes mobile devices, the chance to take control of his career outweighed any perks offered in his former corporate position.
+但对佩卡·维吕内恩(Pekka Väyrynen)来说，有机会掌控自己的事业，胜过了以前在诺基亚的职位提供的任何福利。离开诺基亚后，他和人合作，成立了一家生产移动设备的工业设计公司。
+“In the final days at Nokia, it took so long to make any decision,” said Mr. Väyrynen, 54, whose company, Creoir, recently helped design a smartphone for Marshall, the renowned amplifier manufacturer. “We’re now making our own choices. It’s exciting.”
+“在诺基亚的最后时期，做任何决定都要花很长时间，”54岁的维吕内恩说。他的公司叫Creoir，最近刚帮著名的放大器生产商Marshall设计了一款智能手机。“我们现在自己做决定，令人兴奋。”

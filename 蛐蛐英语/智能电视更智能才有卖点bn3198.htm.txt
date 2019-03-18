@@ -1,0 +1,48 @@
+They all looked the same. Rectangular, thin, bright and blaring.
+它们看上去都一样。矩形、轻薄、明亮、大声。
+I’m talking about the televisions on display at the International CES in Las Vegas last week.
+我说的是上周在拉斯维加斯的国际消费电子展(CES)上展出的电视机。
+Sure, some of these TVs were curved, some were (unnecessarily) large and some had brighter screens than others. But they all shared the same basic traditional attributes of televisions from the past.
+是的，其中有几款是曲面的，有几款很（毫无必要地）大，有的屏幕比别的屏幕亮。但是它们都有和以前的电视相同的基本传统属性。
+The halls of the CES showed once again that TV makers don’t understand — still — that it is not the shape and size of the screen that is a selling point, but how much help consumers need navigating the content they watch on TVs.
+CES的展厅再一次表明，电视机生产商——依然——不明白，电视屏幕的形状和大小不是卖点，如何帮助消费者在电视上找到他们所需的内容才是。
+In other words, it’s about the software.
+换句话说，要看软件。
+“It’s no longer the hardware that matters,” James L. McQuivey, an analyst at Forrester, wrote in an email. “It’s the experience — a lesson TV makers have yet to learn.”
+“硬件已经不是重点了，”弗雷斯特研究公司(Forrester Research)分析师詹姆斯·L·麦奎维(James L. McQuivey)在一封电子邮件中说。“要紧的是体验，可电视生产商还没有吸取这个教训。”
+New TVs on display at the CES were considered “smart TVs,” with apps, DVR functionality and some snippets of social integration, but the execution was still very clunky. And often, these new interfaces still require a traditional remote, and for the most part look like variations of the traditional TV guide.
+CES上展示的新款电视机被认为是配备了应用、数字录像功能和一些社交整合摘录的“智能电视”，但最终实现的效果却让人感觉非常笨拙。而且这些新的界面经常还是需要传统的遥控器，多数时候给人感觉就是传统电视导览的某些变种。
+TVs are still notoriously difficult to navigate, and sales could be suffering as a result.
+电视内容的导引依然是出了名的困难，而销量可能因此受到拖累。
+According to IHS, a business research firm, worldwide manufacturing of consumer electronics, including televisions and set-top boxes, is expected to fall to $250 billion in 2014, down 2 percent from $255.7 billion in 2013. IHS said that would be the fourth consecutive year of decline for this segment of the consumer electronics market.
+据商业研究机构IHS预计，包括电视机和机顶盒在内的全球消费电子产品的产值在2014年会降至2500亿美元，相比2013年的2557亿美元下降2%。IHS说这是消费电子市场的这个版块连续四年发生下滑。
+Taking the place of those electronics is a rise in wireless devices, including smartphones and tablets, where people are continuing to consume more video, the research firm said.
+这家研究机构说，取代这些电子产品的是无线设备，包括智能手机和平板电脑，人们继续在这些设备上消费视频。
+And we all know that youth these days love watching video on those mobile devices.
+另外我们都知道，如今的年轻人非常喜欢在那些移动设备上看视频。
+A study released last year by Voxburner, a British research firm that tracks how youth consume media, found that the majority of young adults and teens now prefer to watch video content on their computers, and smartphones over televisions.
+英国研究机构沃克斯博纳(Voxburner)的一项研究对青年人的媒体消费进行追踪，发现多数年轻成年人和少年更喜欢在他们的电脑和智能手机上看视频内容，而不是电视机。
+“I hardly ever watch a genuine television anymore,” said one of the young participants in the study.
+“我基本上已经不会看真正的电视了，”一名参与研究调查的年轻人说。
+One of the virtues of consuming video on a smartphone or computer is that it is much easier to navigate and find the best content.
+在智能手机或电脑上消费视频的其中一个优点就是，浏览和发现最佳内容要容易的多。
+Would you rather pull out an old television remote and laboriously click through endless channels until you find something worth watching? Or, would you prefer to find out which videos your friends are sharing on Facebook, Twitter or YouTube with a few quick prods of your finger on a touchscreen?
+你是愿意找出电视遥控器，累死累活地在无数电视频道中翻找，直到找到一些想看的东西？还是愿意用手指在一块触摸屏上点击几下，看到你的朋友在Facebook、Twitter或YouTube上分享的视频？
+I’d prefer the latter — and often do, watching most of my video content on my tablet and even my iPhone.
+我倾向于后者，往往也会这么做，大多数视频内容都是在我的平板甚至iPhone上看的。
+It seems I’m not alone. According to Ooyala, a mobile research firm that collects data on the viewing habits of 200 million online video watchers, video consumption on smartphones and tablets continued to rise rapidly through 2013. The company said that mobile video streaming and downloading accounted for 13 percent of all online video viewing by June 30, 2013, up from 8 percent at the end of 2012.
+看起来像我这样的不在少数。移动研究公司乌亚拉(Ooyala)对2亿在线视频观众的观看习惯进行了数据收集，发现智能手机和平板上的视频消费在整个2013年持续快速上升。公司称截止2013年6月30日，移动视频流和下载在所有在线视频观看中占据了13%，相比之下2012年末的占比为8%。
+There is one consumer electronics company out there that seems to understand the importance of software, and it’s actually the one that doesn’t even make a television.
+有一家公司看起来是理解软件的重要性的，而它其实至今一台电视机都没生产过。
+As I reported in late 2011, Steven P. Jobs, co-founder of Apple, discussed the problem with televisions while being interviewed by his biographer, Walter Isaacson, specifically talking about the difficulties of navigating content. While it is unclear where Apple stands with the development of a stand-alone television, the company is still exploring the software of video, continually updating the Apple TV set-top box.
+我在2011年底曾报道，苹果(Apple)联合创始人史蒂文·P·乔布斯(Steven P. Jobs)在接受他的传记作家沃尔特·艾萨克森(Walter Isaacson)采访时谈到了电视机的问题，尤其讨论了浏览内容的困难。苹果公司对开发独立的电视机持何种打算目前还不清楚，但公司仍在探索视频软件，不断更新Apple TV机顶盒。
+So where does all of this leave those poor televisions?
+那么那些可怜的电视机现在处境如何呢？
+“Many television hardware makers have only focused on hardware, and now they are just watching the market decline, and decline, and decline,” said Mr. McQuivey “It’s probably is too late for most of them.”
+“很多电视硬件生产商只关心硬件，现在眼睁睁看着市场不断下滑、下滑、再下滑，”麦奎维说。“它们中的大多数可能已经来不及做些什么了。”
+There are some television makers that could save themselves by doubling down on experience, Mr. McQuivey added, including Sony, LG and Samsung.
+麦奎维说，如果在体验上加倍投入，有些电视机生产商可能还有机会自救，这其中包括索尼(Sony)、LG和三星(Samsung)。
+At the CES, LG showed off a TV with WebOS, which is the start of exploring software, and Samsung hinted that it might explore a Samsung-specific operating system in the future.
+LG在CES上展示了一款使用WebOS系统的电视机，这是公司在软件探索上的开始，三星则暗示他们在将来可能会尝试一种三星专用的操作系统。
+But all of these manufacturers better hurry. If they can figure out how to help people find great content, they might be able to persuade customers to stop looking down at their smartphones to watch video, and start looking up at their televisions again.
+不过，所有这些制造商都得加快脚步了。要是能找到帮助人们寻找好内容的办法，它们也许可以说服消费者别老低头在智能手机上看视频，重新抬起头来看一看他们的电视机。

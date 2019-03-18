@@ -1,0 +1,38 @@
+PHILADELPHIA — Imagine pointing your phone at China’s ancient terracotta warriors to arm them with spears and bows, weapons that disintegrated long ago.
+费城——想像一下，用手机对着中国古代的兵马俑，就能给它们配上长矛和弓箭这些解体已久的武器。
+For many people, the Franklin Institute’s new exhibition, “Terracotta Warriors of the First Emperor,” will be the only chance to see a small subset of the approximately 8,000 clay soldiers and other figures that were discovered beneath a Chinese persimmon orchard in 1974. Some 2,200 years ago, they were built by the emperor Qin Shihuangdi in a massive public works project that lasted about 30 years.
+对很多人来说，富兰克林研究所(Franklin Institute)的新展“始皇兵马俑”(Terracotta Warriors of the First Emperor)将是唯一一个机会，能够一睹1974年在中国一个柿子园下面发现的大约8000个泥塑士兵和其他人物中的一小部分的风采。在大约2200年前，它们由秦始皇下令制作，属于一场持续了大约30年的大型公共工程项目。
+While some of these 10 warriors have been exhibited elsewhere, the institute is enhancing the experience with augmented reality technology to digitally recreate weapons and other objects that were originally held by the statues. The original artifacts crumbled and vanished as earthen walls and roof timbers collapsed during the warriors’ long occupancy of three underground pits.
+尽管这10个兵马俑中部分已在其他地方展出过，但富兰克林研究所正在利用增强现实技术，以数字的方式再现这些雕塑原本拿着的武器和其他器具，提升观展体验。在被埋在三个大坑的漫长岁月里，随着土墙和屋顶的木料坍塌，这些武士起初携带的那些物件毁坏消失了。
+Three-dimensional images of the objects and the statues have been developed using photogrammetry, a process based on taking thousands of photographs.
+这些东西和塑像的三维图像已经用摄影测量法制作出来了。这个过程是在拍摄了成千上万张照片的基础上进行的。
+Technology experts worked with curators to digitally recreate objects like swords and spears that were held by the warriors. They did the same with the two nonmilitary figures in the show – a civil official and a musician – to represent objects that they would have held or stood next to.
+技术专家与策展人携手，用数字的方式再现这些武士手持的剑和长矛。他们对展出的两名非军人雕塑——一名文官和一名乐师——也进行了同样的处理，以体现他们应该拿着的或身边应该有的物品。
+The technology is available to museumgoers through an app that they can download to their smartphones when they book tickets or arrive at the museum. Visitors can activate the digital images of the warriors’ weapons by holding their phones in front of a two-dimensional “target” that’s fixed to the interpretive display with each statue.
+在订票或抵达博物馆时，游客可在智能手机上下载一款应用，然后通过该应用便能使用这项技术了。游客只需把手机放到固定在每一尊塑像上的解说展示牌上的二维“目标”前面，便可激活这些武士所携武器的数字图像。
+Once a “missing” object like a spear appears on the viewer’s phone, it can be manipulated to allow the user to see features such as shape and color.
+一旦手机上出现“消失”的物品，如长矛，游客便可对其进行操作，查看它的形状和颜色等特征。
+Technologists ensured the historical accuracy of the images by drawing on the expertise of museum staff.
+技术专家借助博物馆工作人员的专业知识，确保了这些图像在历史上的准确性。
+“The curators worked with the developers on what type of metal this would be, what type of wood this would have been, so it really takes you back in time to see the weapons as they would have been originally made,” said Susan Poulton, the institute’s chief digital officer. “When you see the pits, you really don’t see them really holding all their weaponry, and this gives you a chance to see how they would have stood in the original pit.”
+“策展人和开发人员合作，决定是什么金属，应该是什么木材，因此真的会让你回到从前，看到武器最初的样子，”该研究所首席数字官苏珊·波尔顿(Susan Poulton)说。“看到那些大坑时，你会发现他们其实没有拿武器，而这次展览让你有机会看到他们刚站在那里时的样子。”
+In coming weeks, the Institute will upgrade the technology so that visitors can activate the augmented reality simply by pointing their phones at the statues themselves.
+在接下来的几周，富兰克林研究所将对技术进行升级，这样游客只用把手机对着雕塑，便能激活增强现实技术了。
+Ms. Poulton said the adoption of technology recognizes that many museumgoers, especially millennials and their children, want to be able to use their phones to enhance the museum experience.
+波尔顿说，采用技术手段是因为意识到很多去博物馆参观的人，尤其是千禧一代和他们的孩子，希望能够用手机增强参观体验。
+“It’s not that they think it’s a distraction,” she said. “They expect to be able to experience this exhibit through their phone. And that’s only going to grow as millennials have kids. How do we meet the visitors where they are technologically instead of trying to bring them to where we want them to be?”
+“他们并不认为这会分散他们的注意力，”她说。“他们希望能够通过自己的手机去体验这场展览。而且随着千禧一代有了孩子，这种需求只会增加。我们怎么通过技术手段满足参观者的需求，而不是试图把他们带到我们想让他们去的地方？”
+The process of discovery using technology mirrors the recreation of the warriors themselves, all of which were in pieces when they were found, broken by the deterioration of their underground home over two millenniums.
+利用科技的这个发现过程，反映了这些武士本身重见天日的过程。发掘的时候，因为在长达两千年的时间里位于地下的家条件恶化，他们都成了碎片。
+The exhibition, which also includes hundreds of associated artifacts from museums around China, aims to tell the story not only of how the emperor created his enormous retinue for the afterlife but how the figures were rebuilt despite the absence of any guide or template.
+一同展出的还有数百件来自中国全国各地的博物馆的相关藏品。此次展览的目的，不仅是讲述秦始皇如何为往生后创造规模庞大的随从人员的故事，还有如何在没有任何指导和模板的情况下重新组装这些塑像的故事。
+“They needed to sort the pieces of the armored officer from the pieces of the archer that might have been standing beside him, and they were all mixed together,” said Karen Elinich, the exhibition’s co-curator. “This is a monumental feat of archaeology and conservation.”
+“他们需要从也许原本站在旁边的弓箭手的碎片中，捡出一些放在一名装甲兵身上，都混在一起了，”此次展览的联合策展人卡伦·伊利尼奇(Karen Elinich)说。“这是考古学和遗产保护的巨大成就。”
+Even though objects such as spears and swords had disappeared from the warriors’ grasp long before they were unearthed, scholars have been able to infer what the figures would have been carrying by drawing conclusions based on rank and function, and by examining the position of the figures’ hands, Ms. Elinich said.
+伊利尼奇说，尽管早在被发掘之前，长矛和剑等物品就已经从武士们的手中消失了，但学者依然能够通过根据级别和职责得出结论，并研究他们的手势，来推断他们本应该拿着什么东西。
+Archers, for example, would have held crossbows, while cavalrymen would have been made with one hand holding a horse’s reins, leaving the other free to hold a spear. In each case, scholarship has been used to inform the creation of the digital images.
+比如，弓箭手拿的应该是弩，而骑兵起初应该是一手握着缰绳，空下另一只手拿长矛。每次制作数字图像时，都会用到学术研究。
+It’s the first time the museum has used augmented reality, to engage more visitors. The technology is part of a process that will eventually include Artificial Intelligence (AI), said Larry Dubinski, the institute’s president.
+这是该博物馆首次利用增强现实吸引更多参观者。馆长拉里·杜宾斯基(Larry Dubinski)说，这项技术是一个最终将包括人工智能(Artificial Intelligence)的进程的一部分。
+“Our goal is not only to show what this technology can do, but also what visitors can learn from it,” he said.
+“我们的目标不仅是表现这项技术能做什么，还包括参观者能从中学到什么，”他说。

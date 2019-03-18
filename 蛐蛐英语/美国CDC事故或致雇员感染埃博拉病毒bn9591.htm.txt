@@ -1,0 +1,42 @@
+A laboratory mistake at the Centers for Disease Control and Prevention in Atlanta may have exposed a technician to the deadly Ebola virus, federal officials said on Wednesday. The technician will be monitored for signs of infection for 21 days, the incubation period of the disease.
+联邦官员周三称，位于亚特兰大的疾病控制与预防中心（Centers for Disease Control and Prevention，简称CDC）实验室的一个失误，可能已使一名技术人员接触到致命的埃博拉病毒。这名技术人员将在21天的病毒潜伏期内接受观察，看是否有感染的迹象。
+Other employees who entered the lab — fewer than a dozen — where the mistake occurred are being examined for possible exposure. So far, it appears that none of them were exposed, said Thomas Skinner, a C.D.C. spokesman.
+还有不到12名工作人员进入过出现失误的实验室。他们正在接受体检，以确定是否接触了病毒。CDC的发言人托马斯·斯金纳(Thomas Skinner)称，目前来看，他们似乎都没有接触到病毒。
+The samples were properly contained and never left the disease centers, so there is no risk to the public, officials said.
+联邦官员称，这些样本已经被妥善封存，从来没有带到CDC之外的地方，因而不会对公众构成风险。
+The error occurred on Monday, when a high-security lab at the C.D.C., working with Ebola virus from the epidemic in West Africa, sent samples that should have been killed to another C.D.C. laboratory, down the hall.
+此次失误发生在本周一。当时，一间负责处理来自西非疫区的埃博拉病毒的安全级别较高的CDC实验室，打算把一些灭活的病毒样本送到位于走廊另一头的另一间CDC实验室。
+But the first lab sent the wrong samples — ones that may have contained the live virus. The second lab was not equipped to handle live Ebola. The technician who worked with the samples wore gloves and a gown, but no face shield, and may have been exposed.
+但是，第一间实验室送错了样本——里面可能包含活病毒。第二间实验室并没有处理活病毒的装备。经手这些样本的那名技术人员戴了手套，穿了大褂，但没有戴面罩，因此可能接触到了病毒。
+The mixup of the samples was discovered on Tuesday, Dr. Stuart Nichol, chief of the C.D.C.'s Viral Special Pathogens Branch, said in an interview. He ascribed it to human error.
+CDC病毒性特殊病原体部门的主任斯图尔特·尼科尔博士(Stuart Nichol)接受采访时称，这次样本混淆事件于周二浮出水面。他将责任归咎于人为失误。
+The accident is especially troubling because dangerous samples of anthrax and flu were similarly mishandled at the C.D.C. just months ago, eroding confidence in an agency that has long been one of the most highly respected scientific research centers in the world.
+这起事故格外令人不安，因为就在几个月前，CDC对炭疽和流感危险样本的处理也出现过类似的失误，影响了人们对这家长期以来在全世界广受赞誉的科研机构的信心。
+The C.D.C. promised last summer to improve its safety procedures and chose a panel of outside experts to advise it on how to do so.
+今年夏天，CDC承诺改善安全流程，并挑选了一个外部专家小组提供相关建议。
+“I’m working on it until the issue is resolved,” the agency’s director, Dr. Thomas R. Frieden, said in an interview in July.
+“我将付出努力，直到这个问题得到解决，”CDC主任托马斯·R·弗里登博士(Thomas R. Frieden)7月接受采访时说。
+Under harsh questioning from members of Congress that month, Dr. Frieden admitted that the errors at C.D.C. labs were not isolated mishaps, but rather part of a broad pattern of unsafe practices. He called one of the episodes a “tipping point” that had forced agency officials to realize they needed to take action.
+也是在那个月，在国会议员的强烈质疑下，弗里登承认，CDC实验室的失误不是孤立的偶然事件，而是更大范围的不安全操作倾向的一部分。他表示，其中一起事件是迫使机构官员意识到必须采取行动的“引爆点”。
+Reacting to the latest accident, safety experts expressed outrage. Richard H. Ebright, a molecular biologist at Rutgers University and an expert on biological weapons, said: “They did not learn. They do not learn. They seem incapable of learning.”
+安全专家们表达了对这起最新事故的愤怒。罗格斯大学(Rutgers University)的分子生物学家与生物武器专家理查德·H·埃布赖特(Richard H. Ebright)说：“他们以前不吸取教训，现在也没有，似乎就是无法得到教训。”
+He said the errors were inexcusable. Labs that produce samples of killed virus should test to make sure they are dead, he said, and labs receiving those samples should test them before working with them.
+他认为，这些失误不可宽恕。实验室在送出灭活样本之前应该进行检测，确保它们已经失活，而接收这些样本的实验室在处理之前也应该进行检测。
+The previous incidents occurred last spring and summer. In June, C.D.C. scientists sent anthrax samples, supposedly killed, to laboratories that were not equipped to handle dangerous pathogens. But the bacteria turned out to be live, because a deactivating technique too weak to wipe out anthrax spores had been used. Dozens of employees were offered antibiotics and anthrax vaccine; none became infected.
+此前的几次失误发生在今年春天和夏天。6月，CDC的科学家将本以为已经被灭活了的炭疽样本，送至多家未配备处理危险病原体设备的实验室。但后来证明，这些细菌还是活的，因为之前使用的灭活技术力度不够，未能消灭炭疽孢子。数十名雇员摄入了抗生素并注射了炭疽疫苗，不过没人被感染。
+The head of the laboratory that shipped the bacteria resigned a few weeks after the mistakes came to light. Although C.D.C. officials gave no reason for his resignation and said it was voluntary, they had previously indicated that they feared workers in that laboratory had grown careless because of lax supervision.
+事故曝光几周后，送出了炭疽细菌的那家实验室的负责人辞职。尽管CDC的官员未透露他辞职的原因，并称其属于自愿，但他们之前曾表示，担心该实验室的工作人员因为监管不严而变得粗心大意。
+In another blunder, a C.D.C. lab accidentally contaminated a relatively benign flu sample with a dangerous H5N1 bird flu strain that can be fatal in humans, and then shipped it to a laboratory at the Department of Agriculture. Scientists at the receiving lab detected the error, and no one was harmed.
+在另一个重大失误中，一家CDC实验室不小心让危险的H5N1禽流感毒株污染了一份相对良性的流感样本，后又将其送到了农业部的一家实验室。接收样本的那家实验室的科学家发现了错误，无人受到感染。H5N1禽流感对人体是致命的。
+Although the incident occurred in May, senior C.D.C. officials were not told about it until July 7, and Dr. Frieden did not hear about it until two days after that. He said in an interview in July that he was “stunned and appalled” by the incident.
+尽管事故是5月发生的，但CDC的高级官员直到7月7日才被告知此事，而弗里登本人则是在那之后两天才听说。他在7月接受采访时称，自己对该事故感到“震惊和错愕”。
+The mistakes led the C.D.C. to appoint a panel of outside safety experts in July to advise Dr. Frieden on how to correct sloppy procedures at government laboratories. The C.D.C. temporarily closed its flu and bioterrorism laboratories, and halted shipments of all infectious agents from its high-security labs until those labs could pass muster with a newly formed safety panel within the agency.
+这些失误促使CDC在7月任命了一个由外部安全专家组成的委员会，就如何纠正政府实验室马虎的程序为弗里登提供咨询意见。CDC曾短暂地关闭了下属的流感和生物恐怖主义实验室，并中止从安全级别较高的实验室运送一切致病原，直到这些实验室能得到CDC内部新成立的一个安全委员会的认可。
+In August, the special pathogens branch — where the Ebola accident occurred on Monday — received permission to start sending out infectious agents again.
+今年8月，特殊病原体部门——周一埃博拉事故的发生地——获得许可，重新开始送出致病原。
+Dr. Nichol said that the high-security lab where the mistake occurred had prepared two sets of fluid samples from guinea pigs infected with Ebola. The fluid was handled as if it contained live virus, though it is not certain that the virus was present.
+尼科尔称，出现失误的这家安全级别较高的实验室准备了两组液体样本，均采自感染了埃博拉的豚鼠。这些液体被当做含有活病毒接受了处理，但实验室并不确定其中是否真有病毒。
+One set of samples was to remain in the high-security lab so that researchers could try to isolate the virus from it. The other was to be treated with a solution that would kill the virus and then be sent to a lower-level laboratory where a technician would try to extract genetic material from it.
+按照计划，一组样本将留在这间高安全级别的实验室，以便研究人员能尝试将病毒从液体中分离出来。另一组样本中，将加入一种能杀死病毒的溶液，然后再被送到级别较低的一间实验室。那里的技术人员将尝试提取其中的遗传物质。
+Somehow, the samples were switched: The ones with killed virus stayed in the high-security lab, and the ones that may have contained live virus were sent to the lower-level lab and processed there.
+不知何故，这两组样本被调换了：已灭活的那一组样本留在了高级别实验室，而可能含有活病毒的那一组则被送到了低级别实验室，并在那里接受了处理。

@@ -1,0 +1,44 @@
+Just about one year ago, Microsoft gave us two new operating systems.
+就在大约一年前，微软(Microsoft)拿出了两套新操作系统。
+One was a new version of Windows: the one for use with mouse and keyboard, the one whose desktop at this moment lights up hundreds of millions of screens, the one with a software library of four million programs.
+一个是Windows的新版本：它需要配合鼠标和键盘使用；它的桌面此时此刻点亮了上亿个屏幕；它的软件库里拥有400万个程序。
+The other was a new operating system for tablets. It was modeled on Microsoft’s lovely tiled Home screen for Windows Phones: colorful, clear, elegant, filled with fluid touch gestures. You can’t run Photoshop or iTunes or Quicken on it; this new system requires a whole new type of app. Since Microsoft doesn’t have a name for this OS (it abandoned the names Metro and Modern), I call it TileWorld.
+另一个则是针对平板电脑的新操作系统。它的模版是微软为Windows Phone打造的可爱的磁帖界面：多彩、清爽又雅致，充满了流畅的触摸手势。但是，你不能在上面运行Photoshop、iTunes或Quicken；新系统要求的是全新的应用。由于微软没有给这款操作系统命名（Metro和Modern都被弃用），我称之为“磁贴世界”(TileWorld)。
+All of this might have been fine, except for one tragic miscalculation: Microsoft mashed these two new operating systems together into something called Windows 8.
+本来这样也挺好，只是出现了一项悲剧性的误判：微软把这两套操作系统揉到了一起，变成了所谓的Windows 8。
+Now you have two Web browsers to learn. Two completely different Help systems. Two (actually three) control panels. Two kinds of programs: the traditional ones, which have menus and overlapping windows, and TileWorld apps, which don’t have either of those things.
+于是你得学习如何使用两个网络浏览器、两套截然不同的帮助体系、两个（实际上是三个）控制面板，以及两种程序：一种是传统程序，带有菜单和层叠窗口；另一种则是磁贴世界的应用，里面看不到这两样东西。
+Reviewers and PC fans gave Microsoft quite a swat on the nose. PC World wrote that Windows 8 is “not worthwhile” for desktop computer users. PC Magazine: “Too drastic for some.” InformationWeek: “A big flop. Its Frankenstein interface combines two fundamentally incompatible operating systems.”
+评测人和PC迷对微软好一阵劈头盖脑的批评。《PC世界》(PC World)写道，Windows 8对桌面电脑用户而言“不值当”。《PC杂志》(PC Magazine)称：“对一些人来说变化太大。”《信息周刊》(InformationWeek)评价：“一大败笔。科学怪人般的界面拼凑了两个完全不兼容的操作系统。”
+PC sales plunged 14 percent in the months after Windows 8’s release. The executive who masterminded Windows 8 abruptly left the company.
+Windows 8发布后的几个月里，PC的销售额猛跌了14%。负责Windows 8项目的那名高管突然离职。
+Microsoft, licking its wounds, spent a year trying to fix Windows 8. On Thursday, you can download the result: Windows 8.1. It’s free to anyone who already has Windows 8, and it will come preinstalled on new computers. Full disclosure: I have written a how-to book on Windows 8 and will be updating it for Windows 8.1.
+疗伤中的微软花了一年时间来努力修补Windows 8。本周四，大家就可以下载成品了，也就是Windows 8.1。Windows 8的全部用户可以免费下载，而且新电脑上也会预装这一系统。充分披露一下：我写了一本Windows 8指南，并将在新版本中更新Windows 8.1的相关内容。
+The changes to TileWorld are nearly endless — and terrific. The anemic, pared-down starter apps, like Photos and Mail, have matured. Now you can edit photos in Photos (not just look at them) and drag e-mail messages into folders. The muddled Music app has been redesigned, smartly and handsomely. A suite of utility programs is there now, right where they should have been the first time around: Alarms, Calculator and Sound Recorder. There are also all-new apps, too, like Food and Drink, Health and Fitness and Reading List. It lets you save Web pages, e-mail messages and Twitter posts for use when you have no Internet connection.
+磁贴世界的变化数不胜数，而且都棒极了。简陋无趣的照片(Photos)和邮件(Mail)等入门级应用变得完善起来。现在你可以在照片应用中编辑图片（而不只是浏览它们），以及把电子邮件拖入文件夹中。乱糟糟的音乐(Music)应用被设计一新，智能而美观。一批上回就该有的应用程序也恰好出现了：闹钟(Alarms)、计算器(Calculator)和录音机(Sound Recorder)。还有一些全新的应用，比如美食(Food and Drink)、健康(Health and Fitness)和阅读列表(Reading List)。阅读列表可以将网页、邮件和Twitter帖子保存下来，供没有网络的时候调用。
+You have more options to tailor your desktop, Start screen and Lock screen in Windows 8.1. For example, you can make your Lock screen a slide show, so that your tablet is a photo frame whenever you’re not working.
+在Windows 8.1里，有更多的选择来打造自己的桌面、开始页面及锁屏页面。比如，可以设置幻灯片锁屏，这样，不工作的时候平板就会变身为相框。
+The Help system in Windows 8 was practically nonexistent; in many apps, it was completely nonexistent. “If Windows 8 isn’t easy enough to understand without reading Help screens, then we’ve failed,” a product manager told me at the time. Well, hate to tell you this, but....
+Windows 8里的帮助系统基本不存在；在许多应用里，干脆是完全不存在。“如果Windows 8不能易用到无需阅读帮助页面就能明白的地步，就算是我们的失败，”一名产品经理当时告诉我。好吧，我不想跟你们讲，但是……
+In any case, there’s now a full-blown Help and Tips app for TileWorld, which is clear, concise and crisp. The first time you use Windows 8.1, moreover, huge billboards with arrows pointing to the corners of the screen help you understand the four secret places to click. Each opens a different useful panel, like recently used apps or common settings.
+不管怎么说，磁贴世界里如今有了一个完整的帮助与提示(Help and Tips)应用，清晰、简洁又明了。而且，首次进入Windows 8.1时，会出现巨大的向导页面，上面的箭头指向屏幕的几个角落，帮助用户明白可以点击的四个隐蔽地方。每个地方会打开一个独特用途的面板，比如最近进入的应用或是通用设置。
+These are all wonderful and welcome changes. What you may have noticed, however, is that virtually all of them are changes in TileWorld. All of them are designed for touch screens. These changes are solely for the benefit of people who’ve bought Windows 8 tablets and touch-screen laptops — all nine of them.
+以上都是非常好的、受欢迎的变化。不过，大家可能已经注意到了，这些基本都是磁贴世界里的改进，全部是为了触摸屏设计的。只有那些购买了Window 8平板电脑和触摸屏笔记本的人才能享受这些好处，而这样的产品仅有九款。
+On the other hand, almost nothing has changed for people who use the real Windows, the desktop Windows.
+另一方面，对于那些使用真正的Windows系统，也就是Windows桌面操作系统的人来说，几乎没有什么改变。
+And none of the changes listed above address the elephant in the room: the jarring juxtaposition of TileWorld and the traditional Windows behind it.
+而且，上述改进完全没有处理一个无法忽视的问题：磁贴世界与传统Windows的不和谐共存。
+Fortunately, Microsoft has taken a few steps toward reconciling these two wildly different worlds.
+幸运的是，微软已经采取了一些举措，努力调和这两个迥异的世界。
+The big news is that the Start button is back at the desktop, in the lower-left corner. Yet incredibly, despite the wails of the masses, clicking it still doesn’t open the Start menu. Instead, it just takes you back to TileWorld.
+一大新闻是，开始按钮回到了桌面的左下角。不过，难以置信的是，尽管大家都在高声抱怨，点击这个按钮仍然弹不出开始菜单，而只能让你回到磁贴世界。
+Microsoft’s logic: You’re supposed to think of TileWorld’s Start screen as an expanded, tile-based version of the Start menu. It’s the same items, just spread across your screen. So clicking the Start button does, in a way, take you to your Start menu items. (If you prefer the real Start menu, you can still install Classic Menu or another free app that brings it back.)
+微软的理由是：应该把磁贴世界的开始页面当作开始菜单的磁贴扩展版。它们本质相同，只不过是扩展到了整个屏幕上。因此，某个角度看来，点击开始按钮确实算是让你进入了开始菜单。（如果你更喜欢真正的开始菜单，可以安装经典菜单[Classic Menu]等能够恢复原版菜单的免费应用。）
+The fundamental problem with Windows 8 hasn’t changed: you’re still working in two operating systems at once. You’re still leaping from one universe into another — the color schemes, fonts and layouts all change abruptly — and it still feels jarring. There are still too many duplicate programs and settings, one in each environment. And you still can never live entirely in one world or the other.
+Windows 8的根本问题一成不变：目前还是在同时运行两套操作系统。你仍然要在两个世界里来回跳转——它们的配色方案、字体和布局都截然不同——依然感觉冲突不断。两套系统中仍有太多重复的程序和设置，各管一个世界。而且，还是不能完全只使用一个系统。
+The more you work with Windows 8, the more screamingly obvious the solution becomes: Split it up. Offer regular Windows on regular computers, offer TileWorld on tablets. That way, everyone has to learn only one operating system, and each operating system is suited to its task.
+Windows 8使用得越多，解决办法就越发明显得不得了：分离两个操作系统。为普通电脑提供普通的Window系统，为平板提供磁贴世界系统。如此一来，大家只需熟悉一种操作系统，而两套系统也各司其职。
+There’s a reason Microsoft mostly ignored the traditional Windows desktop world in Windows 8.1; the company is betting that all computers will someday have touch screens. Maybe Microsoft actually believes that someday, the mouse, keyboard, menus and windows will go away. In that case, the lovely, fluid, vastly improved TileWorld will be all anybody needs.
+微软的Windows 8.1基本上忽略了传统的Windows桌面系统，这是因为公司押宝，有朝一日，所有的电脑都会拥有触摸屏。或许微软当真以为，有一天，鼠标、键盘、菜单和窗口都会消失。那样的话，美好、流畅、获得极大改善的磁贴世界将会是大家唯一需要的系统。
+Unfortunately for that vision, reality seems to have other ideas.
+遗憾的是，现实似乎并不符合这种想象。

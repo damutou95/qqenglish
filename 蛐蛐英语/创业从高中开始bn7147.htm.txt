@@ -1,0 +1,36 @@
+PALO ALTO, Calif. — Like many young entrepreneurs here in Silicon Valley, Matthew Slipper knows that success does not come easy. His first start-up, an online education venture, flopped. His second, a video-sharing app for the iPhone, has sold only 20 copies.
+加利福尼亚州帕洛阿尔托——和许多硅谷的年轻企业家一样，马修·斯利珀(Matthew Slipper)知道成功来之不易。他第一次创业建立的在线教育企业以失败告终，第二次，他为iPhone开发的视频分享应用程序只卖出了20份拷贝。
+But Mr. Slipper is optimistic. He should be. He’s just 18, a founding member of the Paly Entrepreneurs Club, an extracurricular group at the local high school that sprang into existence last September — the brainchild of about a dozen students committed to inventing the future.
+但斯利珀很乐观，而且有理由乐观。他才18岁，是帕洛阿尔托高中企业家俱乐部(Paly Entrepreneurs Club)的创始人之一。这家俱乐部是这所当地高中去年9月成立的课外活动小组，创意来自10来个致力于创造未来的学生。
+“I want to build something that is tied to what is happening next,” he said.
+斯利珀说：“我想做和新趋势紧密相连的东西。”
+While budding moguls in high school clubs like the Future Business Leaders of America invest make-believe money in the stock market or study the principles of accounting, the Entrepreneurs Club members have a distinctly Silicon Valley flavor: they want to create start-ups.
+在像“美国未来商业领袖”(Future Business Leaders of America)这样的高中俱乐部里，初露头角的佼佼者们用虚拟货币投资股市或研究财务原理，这个企业家俱乐部的成员则对硅谷有着异乎寻常的兴趣：他们想要自己创业。
+They have met weekly during the school year to discuss their ventures and ideas, explore matters like money-raising strategies and new markets, and host guest speakers. Once, they held a Skype chat with a software engineer in Sweden who described the intricacies of running an online music business.
+学年里，他们每周都要开会讨论他们的企业和想法，探讨筹资战略和新市场之类的事宜，并邀请发言嘉宾。有一次，他们通过Skype（翻译注：网络电话）和瑞典的一名软件工程师进行会谈。这名工程师向他们描述了运营在线音乐业务的复杂之处。
+Founding a company in high school is “a great opportunity,” said Vincent Gurle, 18. Later in life, “if you fail at business you might have to go live with your parents,” he said. “But we’re already doing that.”
+18岁的文森特·格勒(Vincent Gurle)说，在高中时开创公司“机会巨大”。他说，在今后的生活里，“如果你的生意失败了，你可能被迫跑回去和父母同住，而我们本来就和父母住在一起。”
+Mr. Gurle, who will attend the University of California, Santa Cruz in the fall, started a business last year aimed at supplying students to companies as software testers. It sputtered when he could not find enough companies interested in buying the service. He counts the effort a success anyway, he told the club at a recent meeting, figuring that the people he met will remember him when he returns with his next idea.
+格勒今年秋天将到加州大学圣克鲁斯分校(University of California, Santa Cruz)学习。去年，他开始经营把学生安排到公司做软件测试员的业务。因无法找到足够多的有兴趣购买服务的公司，这项业务最终夭折。在最近的俱乐部会议上，他说他认为自己的努力还是成功的，因为下次，如果他带着别的创意回访曾约见的人，那些人会记得他。
+Now he is learning how to program for Microsoft’s new mobile operating system.
+现在他正在学习如何为微软的新手机操作系统编程。
+Club members have been working on projects like a social network to help teenagers quickly organize study groups and a trading network for Bitcoin, a virtual currency. They have brainstormed ideas for mobile geolocation games and new kinds of grocery store scanners.
+俱乐部成员做过的项目包括建立一个社交网络来帮助青少年快速组织学习小组，以及为虚拟货币Bitcoin建立交易网络。他们还集思广益，为手机地理定位游戏和新型杂货店扫描仪研究新点子。
+At a recent meeting, about a dozen boys gathered in an empty economics classroom at Palo Alto High, known as Paly. The demographic somewhat reflects Silicon Valley, too; there were no girls, though all the boys say they wish some would join their club.
+在最近的一次会议上，十几名男孩聚在了帕洛阿尔托高中（通常被称为Paly）一个空闲的经济学教室里。这个聚会的人口学统计数据也和硅谷遥相呼应；俱乐部里没有女孩，虽然所有的男孩都说，他们希望能有一些女孩加入进来。
+There also were few laptops or even tablets in the room, befitting a post-PC world. All the boys had their work on paper or smartphones. They passed these around to show off their latest concepts.
+房间里几乎没有笔记本电脑，甚至也没有平板电脑，与后电脑时代的世界非常般配。所有的男孩都用纸张或智能手机工作，然后就传来传去地展示自己的最新创意。
+Mr. Slipper, who plans to attend the University of California, Santa Barbara in January after a stint in R.O.T.C. boot camp, demonstrated his video-sharing app, speaking quickly so as to leave time for everyone to talk about their ideas before the lunch bell rang.
+斯利珀计划先到后备军官训练队海军训练营(R.O.T.C boot camp)服役，之后前往加州大学圣巴巴拉分校(Universityof California, Santa Barbara)学习。他一边展示自己的视频分享应用软件，一边飞快的做讲解，以便留出足够的时间，让所有成员在午餐铃响之前完成他们的创意演讲。
+“The syntax wasn’t hard,” he said, explaining the coding involved. “Objective C in the iOS framework took me about two weeks to learn. I’ve modeled the business on Instagram, leveraging speed and ease of loading.” Sympathetic young heads nodded.
+解释相关的编码时，斯利珀说：“句法并不难，我只花了大约两周时间来学习iOS平台（译者注：iOS是苹果公司为iPhone开发的操作系统）的C语言。我模拟了Instagram的照片分享业务，平衡了速度，缓解了流量。”其他的年轻企业家同情的点点头。
+“How will you protect your intellectual property?” asked Aaron Bajor, 18, one of the group’s founders. He was waiting to discuss a diagram of his own project, a social network for entrepreneurs entering college.
+18岁的阿龙·巴约尔(Aaron Bajor)也是俱乐部的创始人之一。他问斯利珀：“你如何保护你的知识产权呢？”巴约尔在等着大家对他自己的项目图表进行讨论，他的项目是一个帮助这些企业家进军大学校园的社交网络。
+“Someone can always copy your idea, but that will be half-baked,” Mr. Slipper said confidently. “It’s not theirs.”
+斯利珀充满信心地回答：“别人可以复制你的想法，但复制的东西总是半生不熟，这个想法毕竟不是他们的。”
+James Maa, another club founder, was up next to discuss his project, the study group social network.
+下一位，轮到俱乐部的另一位创立者詹姆斯· 马(James Maa)讨论他的项目，一个学习小组社交网络。
+“We’re not out in public yet,” he said, apologetically. Mr. Maa, 18, plans to study computer science at the University of California, Berkeley in the fall. His social life, which included attending many events for start-ups, had gotten in the way of building the network, which he calls Bubble.
+马颇为抱歉地说：“我们的社交网络还没有对外开放。”18岁的马计划今年秋天到加州大学伯克利分校(Universityof California, Berkeley)学习计算机科学。马参加了众多社会活动，其中包括许多创业活动，这些活动妨碍了他创建这个被他称作“泡泡”(Bubble)的网络。
+Not everyone had a project to present, and that was acceptable.
+并非所有人都带来了可供展示的项目，没带也可以接受。

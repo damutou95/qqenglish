@@ -1,0 +1,56 @@
+DETROIT — Somewhere inside the two-inch ignition switch from the 2005 Chevrolet Cobalt was the clue that Mark Hood was seeking.
+底特律——在2005款雪佛兰Cobalt型汽车两英寸长的点火开关里，藏着马克·胡德(Mark Hood)想要寻找的线索。
+Mr. Hood, an engineer in Florida, had photographed, X-rayed and disassembled the device in the fall of 2012, focusing on the tiny plastic and metal switch that controlled the ignition. But even after hours of testing, Mr. Hood was at a loss to explain why the engine in Brooke Melton’s Cobalt had suddenly shut off, causing her fatal accident in 2010 in Georgia.
+胡德是佛罗里达州的一名工程师。2012年秋天，他曾给这个装置拍了照片，用X光进行探查，并拆解了它。他把全部精力都放在了这个用塑料和金属制成的、控制点火的小开关上。但在测试了几个小时后，胡德仍然无法解释布鲁克·梅尔顿(Brooke Melton)的Cobalt汽车突然熄火的原因。2010年在乔治亚州发生的那场交通事故夺去了梅尔顿的生命。
+It was no small matter to her family, which had hired Mr. Hood for their lawsuit against General Motors.
+这对她的家人来说是一次重大打击。为了起诉通用汽车(General Motors)，他们聘请了胡德。
+Then he bought a replacement for $30 from a local G.M. dealership, and the mystery quickly unraveled. For the first time, someone outside G.M., even by the company’s own account, had figured out a problem that it had known about for a decade, and is now linked to 13 deaths.
+然后，他从当地的通用汽车特许经销商那里花30美元买来了一个点火开关，谜底很快解开了。胡德是通用公司以外第一个弄清楚这个问题的人，该公司自己也承认这一点。此前的10年，通用汽车公司对这个问题一直心知肚明。该问题目前与13人的死亡有关。
+The discovery was at once subtle and significant: Even though the new switch had the same identification number — 10392423 — Mr. Hood found big differences. A tiny metal plunger in the switch was longer in the replacement part. And the switch’s spring was more compressed. And most important, the force needed to turn the ignition on and off was greater.
+这个发现既细微，又至关重要：即使新的开关拥有相同的型号——10392423号，胡德仍然发现了两个开关之间的巨大区别。旧开关上有一个很小的金属柱塞，新开关的要更长一些。新点火开关上的弹簧也更紧。最重要的是，打开和关闭新点火开关需要更大的力。
+“There was a substantial increase in the torque of the switch,” Mr. Hood said. “We took measurements. And they were very different.”
+“开关的扭矩大幅增加了，”胡德说，“我们进行了多次测量。两个开关的差别很大。”
+So began the discovery that would set in motion G.M.’s worldwide recall of 2.6 million Cobalts and other cars, and one of the gravest safety crises in the company’s history.
+由此开始的发现后来促使通用汽车在全球召回了260万辆Cobalt车型和其他型号的汽车，引发了该公司历史上最严重的安全危机之一。
+Mr. Hood came to realize that G.M., and the supplier that made the part, Delphi, had quietly changed the switch sometime in 2006 or early 2007, making it less likely that an unsuspecting driver could bump the ignition key and cause the car to cut off engine power and deactivate its air bags. The change was made so quietly that G.M. hired outside consultants last year to help identify which Cobalt model years contained the original switch.
+胡德意识到，通用汽车以及制造了这个零件的供应商德尔福(Delphi)在2006年或2007年初的某个时间悄悄地改变了这个开关的设计，改变之后，不知情的司机就不太可能撞到点火开关钥匙，进而导致汽车切断引擎动力，使气囊失效。这个改变如此不留痕迹，以至于通用汽车去年甚至聘请了外部顾问，让他们帮助找到哪些年的Cobalt车型使用的是旧开关。
+Now, the details behind the change have become critical issues in determining whether the automaker intentionally concealed a safety defect. Next week, G.M.’s chief executive, Mary T. Barra, and the nation’s top auto safety regulator, David Friedman, will testify before the House and Senate about events leading up to the wide-ranging recall.
+如今，这个修改背后的细节已经成为判定这家汽车制造商是否刻意隐瞒安全缺陷的关键所在。下周，通用汽车的首席执行官玛丽·T·芭拉(Mary T. Barra)和美国汽车安全监管当局的最高官员戴维·弗里德曼(David Friedman)将就引发了大范围车辆召回的一系列事件在参众两院作证。
+Mr. Hood’s work in the Melton case was a turning point in solving the mystery of the faulty switches, and led to the first depositions by G.M. engineers that confirmed years of internal studies of ignition problems in the Cobalt. G.M. settled the wrongful-death suit brought by the Melton family last year.
+在解开失灵开关谜团的过程中，胡德在梅尔顿案中的发现成为了一个转折点，引发了第一批通用工程师的证词，这些证词证实，多年以来，通用汽车公司一直在对Cobalt的点火问题进行内部研究。通用汽车去年在梅尔顿家人提出的过失致死诉讼中与对方达成和解。
+“It was obvious they changed the switch, and we showed G.M. that,” said Lance Cooper, the Georgia lawyer who represented the Melton family.
+梅尔顿家人的代理律师兰斯·库珀 (Lance Cooper)说，“他们显然更换了开关，我们已经向通用汽车证明了这一点。”
+It was hardly a straight path to Mr. Hood’s finding. After taking the case in 2011, Mr. Cooper first hired a mechanic to see if the crash was related to a power steering problem that was the subject of a G.M. recall at the time.
+胡德得出结论的过程并非一帆风顺。在2011年接手这个任务之后，库珀首先聘请了一名技工，调查车祸是否与动力转向问题有关。通用汽车当时因为这一问题召回了一批汽车。
+But data taken from the car’s black box pointed to ignition failure — and Mr. Hood, a veteran investigator of the engineering of airplanes, cars, trains and medical devices, was given the task of analyzing it.
+但汽车黑匣子中的数据指向了点火问题，于是，胡德接到了分析这些数据的任务。胡德是一名资深的调查员，他的调查对象包括飞机、汽车、火车和医疗设备的工程设计。
+Mr. Hood zeroed in on how the switch functioned. He learned that the small plastic-and-metal component at one end controlled whether the car’s engine was in the on, off, or accessory position. The accessory position allows certain electronics, like the radio, to run.
+胡德把注意力集中到了点火开关的工作原理上。他得知位于一端的这个小型塑料金属元件，控制着车内引擎是处于开、关状态，还是处于辅助状态。在辅助状态下，收音机等某些电子设备仍可运转。
+Once he determined that the original part from Ms. Melton’s car differed from the store-bought replacement, Mr. Hood began combing junkyards, acquiring more switches from Cobalts — 18 in all.
+胡德在认定梅尔顿车上的原部件和商店买来的替代部件并不相同之后，就立刻开始搜索废车场，他从Cobalts车上获取了更多点火开关，总共有18个。
+By the time Mr. Cooper started taking depositions from G.M. engineers in April 2013, Mr. Hood had documented the change in the part so thoroughly that the company could not escape the facts.
+2013年4月，库珀开始从通用的工程师那里获得证词，截至那时，胡德已极为详细地记录下了点火开关的变化，以至于该公司都无从逃避事实。
+In one deposition, Mr. Cooper confronted Raymond DeGiorgio, the head switch engineer on the Cobalt, with the differences between the original switch and the replacement. While Mr. DeGiorgio said he saw the differences, he could not explain why the part had been changed without a corresponding change in its identification number.
+在一份证词中，库珀和Cobalt车型的点火开关首席工程师雷蒙德·德乔治(Raymond DeGiorgio)就原始开关和替换件之间的差异展开了正面交锋。德乔治说，他看到了二者之间的差异，不过他无法解释，为何部件发生了变化，相应的标号却没有做出改动。
+“I was not aware of a detent plunger switch change,” he said. “We certainly did not approve a detent plunger switch change.”
+他说，“我并不了解制动柱塞开关的变化。我们肯定没有批准对制动柱塞开关的更改。”
+But in federal filings for the recall in February, G.M. said that an unnamed engineer had in fact signed a document in April 2006 approving design changes in the switch suggested by Delphi.
+不过，在今年2月向联邦当局提交的召回文件中，通用表示，某个未透露姓名的工程师实际上已在2006年4月签署了一份文件，批准了德尔福公司所建议的点火开关设计改动。
+In the same filing, the automaker also acknowledged that Mr. Hood’s detective work on the switch changes was the first time an outsider had “observed and documented” the switch change.
+在同一份提交文件中，通用还承认，胡德对点火开关的核查是一名局外人首次对点火开关变动做出了“观察和记录”。
+Government investigators have requested that G.M. provide any documents chronicling the switch change and who within the company approved it.
+政府调查人员已要求通用提供记录了点火开关变动的所有文件，并要求通用澄清是哪名内部人士批准了这些变动。
+The change of a basic part on a high-volume vehicle like the Cobalt is unusual, and correspondence between G.M. and Delphi on the switch could be seen as evidence that the automaker knew the original part was defective.
+对像Cobalt这样高销量的车型来说，基本零件发生变动非比寻常，通用和德尔福之间有关点火开关的联络记录，可以被视作证据，证明前者已经知道原始部件存在缺陷。
+It was not just the Cobalt that contained the switch. In addition to the 2005-7 Cobalt, G.M. also recalled the 2007 Pontiac G5, the 2003-7 Saturn Ion; the 2006-7 Chevrolet HHR and Pontiac Solstice; and the 2007 Saturn Sky. On Friday, G.M. added 971,000 later model Cobalts and other cars to the recall. Late Friday, G.M. raised the number of deaths linked to the faulty switches from 12 to 13, after confirming an additional fatality related to an ignition-switch accident in Canada.
+此外，不是只有Cobalt车型才装配了有缺陷的点火开关。除了2005年到2007年款的Cobalt之外，通用还召回了2007年款的Pontiac G5，2003年到2007年款的土星Ion(Saturn Ion)；2006年到2007年款的雪佛兰HHR和Pontiac Solstice；2007年款的土星天空(Saturn Sky)。上周五，通用又在召回令里添加了之后出厂的97.1万辆Cobalt汽车和其他汽车。周五晚间，通用承认，在加拿大还有一桩和点火开关有关的死亡事故，该公司随后把与点火开关缺陷有关的死亡事故数从12宗提升到了13宗。
+Mr. Hood’s research could also play a part in class-action suits filed against G.M. covering all owners of Cobalts and other vehicles in the recall.
+胡德的调查还可能有助于车主向通用提出集体诉讼，此类诉讼将覆盖所有Cobalt车主和召回令涉及的其他车型的车主。
+The newer, improved switch has now gone back into production at a Delphi plant in Mexico. Ms. Barra said two shifts of workers were making the switch, with a goal of having initial shipments ready for dealers by early April.
+在位于墨西哥的德尔福公司某工厂，经过改良的新型点火开关目前已经恢复生产。芭拉说，工人们在两班倒地生产这种开关，以求能在4月初准备好第一批货。
+G.M. has said it will replace the old switch with the new one, at no charge to vehicle owners. In the interim, Ms. Barra told customers in a video on a company website that the recalled cars were safe to drive, as long as there were no objects attached to the ignition key.
+通用已经表示，会为车主免费拆卸老开关和更换新开关。在公司网站上发布的一段视频中，芭拉对顾客们说，在此期间，只要点火钥匙上不附带任何物体，那么将被召回的车辆就可以安全地行驶。
+The moment that will linger for Mr. Hood is when he removed the switch from the ignition assembly salvaged from Ms. Melton’s car. He then replaced it with the store-bought part, and realized how much better the entire part worked.
+从梅尔顿车上回收的点火总成上拆下开关的那一刻，将让胡德难以忘怀。他随后用从店里买来的部件换下了被拆下的点火开关，他意识到，之后整个总成的运转顺当多了。
+“It’s satisfying to me because I’m working on behalf of the Meltons,” he said. “It won’t bring their daughter back, but if it goes toward a better understanding of the problem, it might save someone else.”
+他说，“我感到满意，因为我在为梅尔顿一家工作。我的调查没法令他们的女儿死而复生，可是它让我们更透彻地了解到问题所在，这也许能挽救其他人的生命。”

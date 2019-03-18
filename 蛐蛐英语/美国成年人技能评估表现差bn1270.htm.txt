@@ -1,0 +1,30 @@
+American adults lag well behind their counterparts in most other developed countries in the mathematical and technical skills needed for a modern workplace, according to a study released Tuesday.
+据周二公布的一项研究显示，美国成年人对于现代职场中所需的数学和技术才能的掌握程度要远逊于大多数其他发达国家的成年人。
+The study, perhaps the most detailed of its kind, shows that the well-documented pattern of several other countries surging past the United States in students’ test scores and young people’s college graduation rates corresponds to a skills gap, extending far beyond school. In the United States, young adults in particular fare poorly compared with their international competitors of the same ages — not just in math and technology, but also in literacy.
+作为同类研究里可能是最详细的一项，该研究显示有丰富资料证明，其他几个国家在学生考试成绩和年轻人大学毕业率方面远远超过了美国，而这个差距又与学校之外的技能差距相关。美国年轻成年人和他们的外国同龄人相比差距尤其明显——不仅是数学与科技，语言文字掌握方面也是同样落后。
+More surprisingly, even middle-aged Americans — who, on paper, are among the best-educated people of their generation anywhere in the world — are barely better than middle of the pack in skills.
+更令人惊讶的是，甚至连中年美国人——从理论上说，他们在全世界的同一辈人中受到的教育应该是最好的——也并不比其他国家的中年人在技能方面上好多少。
+Arne Duncan, the education secretary, released a statement saying that the findings “show our education system hasn’t done enough to help Americans compete — or position our country to lead — in a global economy that demands increasingly higher skills.”
+美国教育部长阿恩·邓肯(Arne Duncan)发表了一个声明，声称这些发现“表明在这样一个越来越需要高级技能的全球经济之中，我们的教育系统没有足够好地帮助美国人进行竞争——或者说将我们的国家定位在领先位置。”
+The study is the first based on new tests developed by the Organization for Economic Cooperation and Development, a coalition of mostly developed nations, and administered in 2011 and 2012 to thousands of people, ages 16 to 65, by 23 countries. Previous international skills studies have generally looked only at literacy, and in fewer countries.
+这项研究是首项基于由经济合作与发展组织(Organization for Economic Cooperation and Development)发布的新评估所进行的调查研究。该组织由最为发达的一些国家组成，在2011年和2012年组织了来自23个国家数以万计的16岁至65岁民众参加了这一评估。过去的国际技能研究都只是着重于阅读能力，参加考试者所来自的国家数量也少于此次评估。
+The organizers assessed skills in literacy and facility with basic math, or numeracy, in all 23 countries. In 19 countries, there was a third assessment, called “problem-solving in technology-rich environments,” on using digital devices to find and evaluate information, communicate, and perform common tasks.
+考试组织者们在所有的23个受评估国家都进行了文字与基础数学方面的考试。在其中的19个国家中，还有第三项考试，叫作“在科技发达环境之下解决问题”，内容为使用电子设施来寻找以及评价信息、交流以及解决常见问题。
+In all three fields, Japan ranked first and Finland second in average scores, with the Netherlands, Sweden and Norway near the top. Spain, Italy and France were at or near the bottom in literacy and numeracy, and were not included in the technology assessment.
+在所有的三项考试中，日本的平均分排名首位，芬兰位居次席，荷兰、瑞典与挪威紧跟其后。西班牙、意大利与法国在语言与数学方面的表现都处在垫底的位置，这三国并未参与技术考试。
+The United States ranked near the middle in literacy and near the bottom in skill with numbers and technology. In number skills, just 9 percent of Americans scored in the top two of five proficiency levels, compared with a 23-country average of 12 percent, and 19 percent in Finland, Japan and Sweden.
+美国在语言部分位居中游，而数学与科技方面则接近于最末的位置。在数学技巧方面，只有9%的美国人得到了5级评分系统的前两级评分，与之形成对比的是23个国家的整体平均数据是12%，芬兰、日本与瑞典则为19%。
+“The first question these kinds of studies raise is, ‘If we’re so dumb, why are we so rich?’ ” said Anthony P. Carnevale, director of the Georgetown University Center on Education and the Workforce. “Our economic advantage has been having high skill levels at the top, being big, being more flexible than the other economies, and being able to attract other countries’ most skilled labor. But that advantage is slipping.”
+“这些研究所引发的第一个问题是，‘如果我们这么愚蠢，那为什么我们这么富有？’”安东尼·卡内瓦莱(Anthony P. Carnevale)说，他是乔治城大学(Georgetown University)教育与人力中心的主管。“我们的经济优势一直都让我们的技能水平处于世界巅峰，相比其他经济体要灵活得多，也能够吸引其他国家技术水平最高的劳动力前来。但这个优势正在逐渐消失殆尽。”
+In several ways, the American results were among the most polarized between high achievement and low. Compared with other countries with similar average scores, the United States, in all three assessments, usually had more people in the highest proficiency levels, and more in the lowest. The county also had an unusually wide gap in skills between the employed and the unemployed.
+从几个方面来说，美国人在考试中的表现是最为两极分化的。与拥有相近平均分的其他国家相比，在所有的三个考试中，美国在最高级别得分的人数总是会更多，在最低级别得分的人也是如此。在已工作与无业这两个人群的技能表现上面，美国人之间的差距也是非同寻常得大。
+In the most highly educated population, people with graduate and professional degrees, Americans lagged slightly behind the international averages in skills. But the gap was widest at the bottom; among those who did not finish high school, Americans had significantly worse skills than their counterparts abroad.
+在受教育程度最高的人群中，也就是拥有本科以及职业学位的人们中，美国人的技能略微落后于国际平均水平。但在排名末尾的那一部分人中，差距要遥远得多；在没能完成高中学业的人群中，美国人的技能要比其他国家的同等人群糟糕得多。
+“These kinds of differences in skill sets matter a lot more than they used to, at every level of the economy,” Dr. Carnevale said. “Americans were always willing to accept a much higher level of inequality than other developed countries because there was upward mobility, but we’ve lost a lot of ground to other countries on mobility because people don’t have these skills.”
+“对经济的每个层次来说，这些在技能考试中显现的不同要比过往更为重要，”卡内瓦莱博士说，“与其他发达国家相比，美国人总是愿意接受一个更为明显的不公平状态，因为存在着向上的流动可能，但现在我们在流动的空间方面已经落于人后了，因为人们并不拥有这些技能。” 
+Among 55- to 65-year-olds, the United States fared better, on the whole, than its counterparts. But in the 45-to-54 age group, American performance was average, and among younger people, it was behind.
+在55岁至65岁的人群中，美国人在总体上比其他国家的人表现得更好。但是在45岁至54岁的群体中，美国人的表现处于平均水平，而年轻人的表现则落在后面。
+American educators often note that the nation’s polyglot nature can inhibit performance, though there is sharp debate over whether that is a short-run or long-run effect.
+美国的教育者经常指出，这个国家的多语言环境会对人们的成绩有负面影响，不过，对于这个影响是短期作用还是长期作用，存在着激烈争论。
+The new study shows that foreign-born adults in the United States have much poorer-than-average skills, but even the native-born scored a bit below the international norms. White Americans fared better than the multicountry average in literacy, but were about average in the math and technology tests.
+这个新研究表明，在国外出生的美国成年人的技能要远远落后于平均水平，但即使是本土出生的美国人得分也要比国际平均线要略低一些。白种美国人在语言文字方面的表现要好于国际平均线，但在数学与技术方面也只有中等水平。

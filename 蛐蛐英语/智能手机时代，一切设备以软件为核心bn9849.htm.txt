@@ -1,0 +1,46 @@
+Technology fanatics descend every January on Las Vegas for the International CES, a colossal gathering of gadgetry and geekery where some of the world’s largest companies show off their best ideas for the future.
+每年1月，科技迷们来到拉斯维加斯参加国际消费者电子产品展(International CES)。世界上最大的一些公司会在这个电子设备狂和极客的大集会上展示他们对未来的最佳畅想。
+This year, as in every recent year, the show has been burdened by existential angst, with many tech writers saying they planned to skip an event no longer seen as vital. It has been ages since anything momentous was unveiled at CES.
+今年，和过去几年的每一次那样，这个展览因为是否有存在的必要而受到焦虑感的困扰。许多科技业写手表示，他们打算跳过这个已经不被重视的事件。好多年过去了，CES再也没有推出任何具有里程碑意义的产品。
+But the travails of CES are a symptom of a larger transformation in tech. The era dominated by consumer electronics — what most of us call gadgets — is in turmoil.
+但是，CES的挣扎在更宏观的层面上体现了科技领域的变迁。消费电子产品——大多数人称之为电子设备——所主导的时代，正在发生剧变。
+One reason is that many devices have been superseded by a single, all-powerful tool: the smartphone. Today, just about everything that once required a small, dedicated electronic device — from cameras to portable game consoles to GPS navigators to music players to too many others to name — works better as an app on a phone.
+其中一个原因是，许多设备已被一种单一的全能工具所取代，那就是智能手机。如今，几乎所有曾经需要一台小型专用设备的东西——相机、便携式游戏机、GPS导航仪、音乐播放器等许许多多东西——作为手机的一个应用程序，能有更好的表现。
+At the same time, smartphones have created new categories of capabilities that have eclipsed gadgets as the tech industry’s center of energy and innovation.
+与此同时，智能手机还创造了新的功能类别，成了科技产业活力与创新的中心，令过去的设备黯然失色。
+I’m talking about photo apps like Instagram, messaging companies like WhatsApp and Snapchat, transportation systems like Uber and Lyft, and Apple Pay, the wireless payment system created by a company best known for its hardware.
+这里说的是Instagram等图片应用、WhatsApp和Snapchat等即时通讯服务、Uber和Lyft等交通应用，以及以硬件出名的苹果公司所推出的移动支付系统Apple Pay。
+These services, powered by smart software, use our phones’ constant connection to the cloud, and their powers to connect us with one another, to create tech experiences that wouldn’t have been possible with the gadgets of yesteryear. None of them would ever have graced a stage at CES, because none of these things are really gadgets; they’re way more exciting than that.
+这些以智能软件为载体的服务，利用手机与云的持续连接，以及让我们与彼此产生联系的力量，创造了昔日的设备所无法带来的科技体验。它们当中没有哪个会在CES的展台上荣耀登场，因为它们都不是真正的设备；但它们要激动人心得多。
+Here’s the important lesson for consumer electronics companies: The future of tech may not be in flashier, more powerful hardware, but instead in services enabled by clever software. The gadgets matter, but only if they allow for software that can create useful, perhaps groundbreaking services that work across all our gadgets.
+对于消费性电子产品公司而言，这里有个重要的教训：科技的未来或许不在于更炫酷、更强大的硬件，而在于通过智能软件来实现的服务。只有能使用软件——能带来有用的、或许具有开创性的服务的软件（而且这些服务能适用于所有设备）——这些设备才有意义。
+“Today, what every customer expects is for their device to be a platform,” said John MacFarlane, the chief executive of the connected-speaker company Sonos, referring to a design practice in which the machine’s intelligence and user interface are built out of flexible software rather than baked into the hardware — thus enabling future improvements through updates.
+“现在，每位顾客都希望自己的设备能变成一个平台，”智能扬声器公司Sonos的首席执行官约翰·麦克法兰(John MacFarlane)说。他这里提到了一种设计原则，即机器的智能和用户界面都来自灵活的软件，而非焊入硬件——从而能通过更新来实现未来的改进。
+Sonos, which was founded in 2002, was one of the first hardware start-ups to design its products this way.
+成立于2002年的Sonos，是最早以这种方式设计产品的硬件初创公司之一。
+Sonos’s speakers offer the best example of why a design that is intended to be flexible can be so useful.
+Sonos的扬声器极好地说明了为何灵活的设计会如此有用。
+In 2005, when Sonos sold its first multiroom music system, the units played music stored on a computer, and they had to be controlled by the company’s own touch-screen remote control. But the company believed that anyone who bought its speakers would keep them for a long time, probably a decade or more, so the device would have to be able to live through unpredictable tech changes.
+2005年，当Sonos售出第一个多房间音乐系统时，该系统播放的是储存在一台电脑上的音乐，而且必须用公司自己的触屏遥控器来进行控制。但公司认为，购买其扬声器的人会把它们保留很长一段时间，或许10年，或许10年以上，所以这个设备必须能够经受住不可预知的科技变革。
+So early in its design process, Sonos decided to make sure the software brains of its devices could be regularly updated. Every few months, the device would check in with the home base and acquire new capabilities.
+所以，在设计之初，Sonos就决定要确保其设备的软件核心能够定期更新。每隔几个月，该设备就与总部取得联系，并获得新的功能。
+“Did we know there would be an iPhone?” Mr. MacFarlane said. “No, we didn’t know Apple was working on one. And we certainly didn’t foresee tablets. But we made a decision to put the user experience on any device that was close to you, like your phone or P.D.A.”
+“我们知道会出现iPhone吗？”麦克法兰说。“不，我们并不知道苹果公司当时在研究iPhone。当然，我们更没有预见到平板电脑的产生。但是，我们决定把用户体验放在与人们关系密切的所有设备之上，比如手机或掌上电脑。”
+As a result, in the years since, Sonos’s speakers have gained a range of new powers. They can be controlled by a smartphone app, play music from dozens of streaming music services and connect to a home-automation system, allowing the system to read you the weather report when you step into your kitchen for breakfast. If you bought those 2005-era Sonos speakers, you would have noticed something almost unheard-of in consumer tech, not to mention in life: The older the speakers got, the more they seemed capable of doing.
+结果，这些年来，Sonos的扬声器获得了一系列新功能。它们既可以通过智能手机应用程序来控制，可以播放数十个流音乐服务上的曲子，还能够与家庭自动化系统相连接——这样一来，当你走进厨房吃早餐时，这个系统就能为你朗读天气预报。如果你买的是2005年那个年代的Sonos扬声器，你就会发现消费科技领域——更不用说日常生活中——前所未闻的东西：扬声器的使用年代越久，它们似乎就拥有越来越多的功能。
+Sonos was a pioneer, but a range of hardware start-ups have embraced a philosophy that prizes flexible software as the heart of gadgetry.
+Sonos是一个先锋，但是一系列硬件领域的创业公司也在其研发的设备当中，融入了重视软件灵活性的理念。
+Nest transformed the previously staid market for home thermostats by creating a model that leverages software connected to the Internet. In the same vein, firms like Dropcam made software-powered cameras, and companies like Fitbit and Jawbone made connected fitness gadgets.
+Nest创造的一款设备利用了接入互联网的软件，进而转变了过去古板的家用恒温器市场。Dropcam这样的企业也以同样的思路，制造了用软件来增强功能的摄像头，Fitbit和Jawbone这样的企业则推出了联网的健康设备。
+Benedict Evans, an analyst at the venture capital firm Andreessen Horowitz, noted that a lot of these novel devices might not have been possible without the rise of smartphones. Not only do apps function as the user interface for many of these devices, but the phone industry has also created a supply chain of cheap computing components like processors and motion sensors that are used in many new connected devices.
+风险投资公司安德森·霍洛维茨(Andreessen Horowitz)的分析师贝内迪克特·埃文斯(Benedict Evans)提到，如果不是智能手机的兴起，很多这样的新设备或许根本不可能出现。这些设备中，不仅有许多以app作为用户界面，而且手机产业也催生了廉价计算元件，如微处理器、动作感应器的供应链，许多新出现的联网设备都用到了这些元件。
+“If you sit and count how many devices have been destroyed by the smartphone, you may end up with a dozen categories — but you may also end up with two or three dozen new things that become possible thanks to the smartphone,” said Mr. Evans, the author of “Mobile Is Eating the World,” an examination of how smartphones have roiled the traditional tech business.
+埃文斯说，“如果你坐下来算一算有多少种设备被智能手机毁掉了，可能会数出十几个类别，但可能也会发现二十几种、三十几种因为智能手机才可能问世的新设备。”埃文斯撰写的《手机正在吞噬世界》(Mobile Is Eating the World)详细讲述了智能手机是怎样搅乱传统科技产业的。
+Still, these forward-thinking manufacturers must take pains to keep their devices one step ahead of the advance of smartphones, which are always gaining new, gadget-destroying capabilities. Consider the market for basic fitness trackers — for instance, devices like the Fitbit Zip, a thumb-size, $60 device that hooks to your belt and counts your steps as you move.
+不过，这些具有前瞻性的制造商必须要竭尽全力，才能让自己的设备领先于智能手机的发展，因为后者一直在添加足以摧毁某种设备的新功能。考虑一下基本款健康追踪设备的市场，比如像Fitbit Zip这样的小东西。这款拇指大小、价值60美元的设备扣在腰带上，能在你运动时帮你计步。
+Such a tracker, which connects to a phone to sync its data, might have made sense a few years ago, when people weren’t as hooked to their phones. But as people carry their phones around with them more often — and as our phones become capable of better measurement, including elevation — will people still need a basic activity tracker? After all, today’s top phones, including the iPhone and Samsung’s new devices, have built-in apps that track your motion.
+几年前，买这样一款需要连接到手机来同步数据的设备或许还说得通，那时候人们还不像现在这样如此离不开手机。然而随着人们越来越频繁地带着手机到处走，而且手机也具有了更好的测量功能（还能测出海拔），人们还需要基本款的运动追踪设备吗？毕竟，今天的高端手机，包括iPhone和三星(Samsung)的新型号，都有内置的app可以记录用户的运动。
+It’s precisely because of this risk of being displaced by phones that gadget makers ought to think of their hardware as a platform for software.
+正是因为有这种被手机替代的风险，电子设备的制造商才需要将自己的硬件理解为软件的载体平台。
+In that world, a basic activity tracker that was rendered superfluous by a phone might acquire new capabilities for some other use. Maybe it could be converted, via software, into an activity tracker for pets? Or perhaps it could become part of a home automation system.
+在那样的情况下，新手机问世后就显得很多余的基本款运动追踪设备，或许还能获得新的功能，用于别的什么用途。比如可以通过软件，转变为宠物活动的追踪器，再比如成为家用自动化系统的一部分。

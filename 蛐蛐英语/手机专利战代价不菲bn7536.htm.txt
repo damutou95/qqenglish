@@ -1,0 +1,42 @@
+The smartphone in your hand is a marvel of innovation, packing sophisticated computing and communications technologies into a sleek digital device.
+你手中的智能手机是一个创新的奇迹。它将精密的计算机与通讯科技融入到一个光滑的数字设备里。
+It is also a litigation magnet.
+同时，它也是一块诉讼磁铁。
+In the last few years, the companies in the smartphone industry have spent billions of dollars buying patents and hundreds of millions suing one another. On Friday, that battle reached a peak with the decision by a federal jury in San Jose, Calif., to award Apple $1.05 billion in damages from Samsung for infringing on just six patents.
+最近几年，智能手机行业的公司在购买专利上砸进了几十亿美元，而在对彼此的起诉上也花费了数亿美元。周五，随着加利福尼亚州圣何塞的一个联邦陪审团做出裁定，三星(Samsung)因侵犯了苹果(Apple)的六项专利，要向后者赔付10.5亿美元损失费，这场专利大战到达了高潮。
+The case underscores how dysfunctional the patent system has become. Patent litigation has followed every industrial innovation, whether it is steam engines, cars, phones or semiconductors, but the smartphone wars are bigger, global and unusually complex.
+这起案件显示出，专利制度已经变得相当失调。专利诉讼会伴随着每一项产业创新而来，不管是蒸汽机、汽车、电话还是半导体，但智能手机领域的专利诉讼战规模却更大、更国际化，而且是非同寻常地复杂。
+And it is the courts, rather than the patent office, that are being used to push companies toward a truce. In the end, consumers may be the losers.
+此外，法院，而非专利局，成为了让各公司达成停战的途径。到最后，输家可能是消费者。
+“It is hard not to see all the patent-buying and patent lawsuits as a distortion of the role of patents,” said Josh Lerner, an economist and patent expert at Harvard Business School. “They are supposed to be an incentive for innovation.”
+“很难不把所有的专利购买和专利诉讼看成是对专利所起作用的扭曲，”哈佛商学院(Harvard Business School)经济学家、专利专家乔希·勒纳(Josh Lerner)说。“它们本该是对创新的一种激励。”
+By one estimate, as many as 250,000 patents can be used to claim ownership of some technical or design element in a smartphone. Each patent is potentially a license to sue.
+有人估计，涉及智能手机的专利多达25万项，凭借专利可以要求占有一部智能手机上的某项技术或设计元素。其中每一项专利都可能成为发起一场诉讼的依据。
+Samsung says it will challenge the jury’s decision, which covered design basics like the shape of the iPhone itself and its array of small on-screen icons. So the courtroom conflict could continue for years, and even then, the case is but one of dozens of suits and countersuits in 10 countries between Apple and Samsung, the world’s two leading smartphone makers.
+三星表示，将就陪审团的决议进行上诉。陪审团的判决涉及诸如iPhone自身的形状及其屏幕小图标等基本设计元素。因此，法庭上的争端可能持续数年。而且即便如此，这也只是苹果和三星这两家全球领先的智能手机生产商在10个国家展开的数十桩诉讼和反诉讼案件中的一起。
+But Apple has more than Samsung in its sights in its litigation campaign against the Korean electronics giant. Samsung is the leader among companies using Google’s Android mobile operating system. So while Apple may be suing Samsung in courtrooms from Germany to Australia, the real enemy is up the road from Apple’s headquarters in Cupertino, Calif., at the Googleplex in Mountain View.
+然而，在这场针对韩国电子业巨头的诉讼战中，苹果的目标不仅仅局限于三星。在使用谷歌(Google)的Android操作系统的公司中，三星是领头羊。所以，当苹果可能在从德国到澳大利亚的法庭上起诉三星时，其真正敌人就在山景市的谷歌总部，离加利福尼亚州库比蒂诺的苹果总部并不远。
+Ultimately, the Apple-Samsung roadshow is just the main attraction in the global smartphone patent wars. The roster of litigants includes Microsoft, Nokia, HTC, Google’s Motorola Mobility subsidiary and others.
+最终，苹果三星之间的巡回诉讼不过是全球智能手机专利大战中的主要组成部分而已。微软(Microsoft)、诺基亚(Nokia)、宏达电(HTC)以及谷歌旗下的摩托罗拉移动公司(Motorola Mobility)都包括在这个诉讼当事人花名册中。
+In a recent case between Apple and Motorola, Judge Richard A. Posner, a prominent federal appeals court judge in Chicago, said in court that the use of patents in the smartphone industry showed a system in “chaos.” In June, Judge Posner dismissed the case, chastising both sides. He heaped scorn on Apple’s broad claims for its user-experience patents and on Motorola’s claim that Apple should pay a rich royalty on its basic communications patents. Both companies have appealed.
+在涉及苹果和摩托罗拉的最近一起案件中，芝加哥的著名联邦上述法院法官理查德·A·波斯纳(Richard A. Posner)在法庭上表示，智能手机行业里的专利使用状况显示，这个制度“一团糟”。6月，波斯纳法官驳回了该案，并对双方进行了训斥。不论是苹果对其用户体验专利提出的宽泛主张，还是摩托罗拉称苹果应为其基本的通信专利支付高额专利费，双方的请求都未获支持。两家公司均已提起上诉。
+The disputes are fueled, legal experts say, by companies rushing to apply for patents as both defensive and offensive weapons, and by overburdened government examiners granting patents too easily.
+法律专家称，随着很多公司争相申请专利权来作为防御和攻击武器，纠纷愈演愈烈。而业务过度繁忙的相关政府结构太过轻易地批准了各种专利申请，这也加剧了目前的问题。
+“The smartphone patent battles are enabled by lots of trivial patents that never should have been granted in the first place,” said James E. Bessen, a patent expert and lecturer at the Boston University School of Law. “That’s where Judge Posner was coming from in his ruling.”
+“智能手机专利战是由很多一开始就不应该被批准的小专利引发的，”波士顿大学法学院(Boston University School of Law)讲师、专利专家詹姆斯·E·贝森(James E. Bessen)称。“这就是波斯纳法官在判决时想表达的。”
+To the winners of the patent wars, the rewards will be rich. Mobile computing, or smartphones and tablets, is the most lucrative and fastest-growing market in business. It has made Apple the most valuable company in the world. As Samsung passed Apple in the last year to become the largest smartphone maker, its profits surged along with its sales.
+专利战中的获胜者都将会得到大笔补偿金。移动计算设备或智能手机与平板电脑的市场最有利可图，也是发展最快的。苹果已因此成为世界上最有价值的公司。随着三星在去年超过苹果成为最大的智能手机制造商，其利润和销售一起出现激增。
+Despite the hostilities, experts say the smartphone patent wars will eventually end in an industrial armistice.
+虽然竞争激烈，专家称，智能手机战最终将以全行业达成停战协定的结果终结。
+The California court decision, if it holds up on appeal, could have that effect. “This ruling sends a message to all the handset makers that you have to make truly differentiated products that look different,” said Colleen V. Chien, an assistant professor at the Santa Clara University School of Law. “And that’s the message Apple wanted to send with its litigation.”
+如果获得上诉法院的支持，加利福尼亚法庭的决议将具有这个效果。“这个判决结果向所有手机制造商传递了一个消息：要生产看上去很不同的，有真正区别的产品，” 圣克拉拉大学法学院(Santa Clara University School of Law)助理教授科琳·V·钱(Colleen V. Chien)称。“这就是苹果诉讼时想要传达的信息。”
+Most legal experts thought Apple would have the most trouble winning infringement judgments on its design patents, which are generally considered weaker than engineering patents for hardware or software, known as utility patents.
+大多数法律专家认为， 在苹果侵权案中，设计专利最难获得支持。因为设计专利通常比硬件或软件的工程性专利要更脆弱，即我们所说的实用专利。
+But the jury found that Samsung infringed on three of the four design patents in the case. The fourth was a patent for shape of a tablet computer — a rectangle with rounded corners.
+但是陪审团发现，三星侵犯了这桩官司中四项设计专利中的三项，第四项是矩形圆角的平板电脑形状专利。
+“This could open up a whole new front in the patent wars, as companies race to file applications for design patents,” said Kevin G. Rivette, a Silicon Valley consultant and former vice president of intellectual property strategy for I.B.M.
+“随着公司争相申请设计专利，这可能会引发另一轮新的专利战，”IBM前知识产权战略副总裁、硅谷咨询专家凯文·G·里韦特(Kevin G. Rivette)称。
+Yet Mr. Rivette is convinced that the smartphone patent wars will subside and an accommodation will be reached. The sheer number of smartphone patents and the speed of innovation in product development undermine the power of the patents. That is very different than the role patents play in an industry like pharmaceuticals, where a blockbuster drug may be covered by a single patent or a few. In chemistry, the molecule is the patentable idea.
+但是，里韦特相信，智能手机专利战将会平息下来，各企业最终会达成和解。智能手机专利的数量本身，以及产品研发创新的速度削弱了专利的力量。这与像制药等行业的专利是不一样的。在制药行业，一个轰动一时的药品中可能只有一项专利或者不多的几项。在化工行业，一个分子就可以成为申请一个专利的基础。
+Smartphones are very different. An infringement ruling can slow a rival down for a few months, but not block it. Samsung engineers, for example, have already devised an alternative to one of the patents found to have been infringed upon in the California decision — the “bounce” feature. Pull a finger from the top of the iPhone’s touch screen to the bottom and the page bounces. On the newest Samsung smartphones, the same downward finger stroke brings a blue glow at the bottom on the touch screen, not a bounce.
+智能手机则完全不同。一次侵权的判决可以让对手慢下来几个月，但却不能完全阻止它。比如，三星的工程师已经为在加利福尼亚被判侵权的其中一项专利——“弹跳”功能，设计了替代品。手指在iPhone 手机的触摸屏上从上往下拉到底，页面就会弹跳。在三星最新的智能手机上，同样向下拉手指的动作会在屏幕下方产生蓝光，而不再是弹跳。

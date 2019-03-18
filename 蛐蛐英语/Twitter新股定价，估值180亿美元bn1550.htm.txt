@@ -1,0 +1,62 @@
+SAN FRANCISCO – Twitter, long protected in its Silicon Valley nest, is about to venture into the more unforgiving world of Wall Street.
+旧金山——长期以来一直在硅谷的安乐窝中逍遥的Twitter即将进入一个更为残酷的世界探险，那就是华尔街。
+But as it makes the transition to a publicly traded company, attracting and retaining users has become one of its biggest challenges.
+在向上市公司转型的过程中，如何吸引并留住用户已经成为Twitter面临的一大挑战。
+Twitter’s interface can be daunting to newcomers. A user has to invest a lot of time to figure out the right accounts to follow and to understand the unique jargon of the service.
+Twitter的界面可能会让新用户望而却步。他们必须花很多时间才能学会应该关注哪些账号，并理解这个平台独有的一套习惯用语。
+And its fundamental design — every 140-character tweet is delivered in chronological order, no matter how important or trivial — means that compelling information can be lost in a sea of babble.
+Twitter最基本的设计——根据时间顺序显示最多140个字符的消息，无论这些信息多么重要，或是无关紧要——意味着，最有趣的信息很可能被淹没在了碎碎念的海洋里。
+“You see the stream of posts coming at you, and it’s really overwhelming,” said Debra Aho Williamson, a principal analyst who studies Twitter and other social media for eMarketer, a research firm. “It’s all jumbled.”
+来自研究公司eMarketer的首席分析师德布拉·阿霍·威廉姆森(Debra Aho Williamson)专注于Twitter等社交媒体的研究，他说，“你看到源源不断的消息涌来，让你应接不暇。所有信息都混杂在一起。”
+On Wednesday, Twitter set the price of its initial public offering at $26 a share, valuing the company at $18.1 billion. Twitter shares are set to begin trading on Thursday on the New York Stock Exchange.
+周三，Twitter将发行价设定为每股26美元（约合158元人民币），公司估值为181亿美元。Twitter的股票将于本周四开始在纽约证券交易所(New York Stock Exchange)公开交易。
+With 70 million shares sold in the offering, Twitter raised $1.8 billion. The I.P.O.’s price, the subject of debate between the board and its underwriters until late on Wednesday afternoon, was above an already heightened price range, reflecting the strong demand for the company’s stock.
+Twitter股票的首次公开发行规模为7000万股，募集资金18亿美元。董事会和承销商对IPO定价的讨论一直持续到周三傍晚。这个定价超出了本来就已经很高的价格区间，反映了市场对这家公司股票的强劲需求。
+Seven and a half years after its founding, the service has become an influential public forum, used by world leaders, dissidents, celebrities, megacorporations, small businesses and tens of millions of regular people who want to listen or join in the conversation.
+在创办七年半之后，Twitter已经成为了一个有影响力的公共平台，其用户包括世界各国领袖、异见人士、明星、大公司、小企业和数千万想要聆听或参与对话的普通人。
+But rethinking the design of the service to reach a broader audience has been a lower priority for Twitter’s leadership team. Instead, the company has focused more on the technical challenges of running the service and on creating sources of revenue, according to current and former Twitter employees. At the same time, the company has no obvious product visionary like the former Apple chief executive Steve Jobs to reimagine what the service could or should be to attract new users.
+不过，对于Twitter的领导团队来说，重新思考平台的设计以吸引更多用户并不是那么重要。据Twitter现在的员工和前员工说，公司目前更专注于运营这一平台的技术挑战，以及如何创造更多收入来源。与此同时，公司里没有一位像苹果公司前CEO史蒂夫·乔布斯(Steve Jobs)那样有远见卓识的产品设计师，可以去重新思考，Twitter为了吸引新用户能够或者应该变成什么样。
+Richard Greenfield, an analyst with BTIG Research, said Twitter drew people during breaking news events, like Monday night’s shooting at a New Jersey mall, but needed to do a better job helping people find topics they were interested in so they would return frequently.
+BTIG研究公司(BTIG Research)的分析师理查德·格林菲尔德(Richard Greenfield)说，Twitter在突发的新闻事件发生时能吸引用户的关注，比如周一晚间新泽西一家商场发生的枪击事件，但是要想让人们经常性地回来，Twitter需要更好地帮助他们找到感兴趣的话题。
+“The challenge is to prevent that person from waiting for the next event to come back,” Mr. Greenfield said. “How do you move that dormant user to every day, or multiple times a day, or every minute?”
+格林菲尔德说，“Twitter的挑战是，不要让人们等到下一次发生重大事件时才回到网站上来。怎样才能让沉睡的用户每天回来一次或多次，甚至每分钟都到Twitter上来？”
+The company’s slowing user growth, as well as its rising losses, has made for unfavorable comparisons with Facebook, the world’s largest social network, where about 1.2 billion people used the service at least once a month in the third quarter.
+Twitter的用户增长在放缓，亏损与日俱增，这与Facebook的境况形成了鲜明对比。Facebook是世界最大的社交网络，在今年第三季度，大约有12亿人每月至少使用一次Facebook。
+Twitter had 232 million monthly users during the same period. That was up just 14 million, or 6.4 percent, from the previous quarter — a much slower growth rate than Facebook had when it was the same size.
+在同一时期，Twitter拥有2.32亿每月活跃用户，仅比上一季度增长了1400万人，即6.4%，远低于Facebook在同等规模时的每月活跃用户增速。
+Twitter, which is based here in San Francisco, declined to make any executives available for interviews, citing regulatory restrictions on public statements around the I.P.O.
+总部位于旧金山的Twitter公司拒绝让高管接受采访，理由是监管机构限制就IPO事宜发表公开言论。
+Unlike Facebook, which is constantly adjusting its interface to make it easy to share and “like” things, Twitter is proudly, almost defiantly, geeky.
+Facebook一直在不断地调整界面，让分享和点赞变得更容易操作。Twitter则完全不同，它骄傲地、几乎是目空一切地保持着特立独行的作风。
+Users see an unfiltered flow of text messages, most recent first, many filled with @ and # symbols and abbreviations like RT, MT and HT. Everything is treated the same: a tornado alert from the Weather Channel, a joke from Jerry Seinfeld and a recipe shared by a friend down the street.
+Twitter的用户们看到的是未经筛选的文本信息流，时间最近的在最上面，许多信息中间夹杂着@和#符号，以及RT、MT 和HT等缩写。所有的信息都受到同样的待遇：无论是天气频道的龙卷风警报、杰瑞·宋飞(Jerry Seinfeld)的段子，还是街上的朋友分享的一个菜谱。
+And the conventions of the service can make reading tweets like deciphering code. Twitter fans love such feats of information compression, but many people find it off-putting.
+这个平台的惯例让阅读Twitter消息像是在解码。Twitter迷们喜欢这样的信息压缩杰作，但是许多人觉得这很讨厌。
+A large percentage of new Twitter users give up on the service within the first three days, according to a former employee familiar with the data, who spoke on the condition of anonymity because the company considers it confidential.
+了解相关数据的前Twitter员工说，Twitter新用户有很大一部分会在头三天放弃该服务。这位前员工要求匿名，因为公司认为这是保密信息。
+Although Twitter acknowledges that it needs to do more to help casual and new users navigate the service, the company’s leadership team has been grappling with other issues.
+尽管Twitter承认需要采取更多行动帮助不受拘束的新用户熟悉其服务，公司的领导团队一直在专注于处理其他问题。
+Dick Costolo, who in 2010 became the company’s third chief executive, focused initially on stabilizing Twitter after its early turmoil under its co-founders Evan Williams and Jack Dorsey.
+迪克·科斯特罗(Dick Costolo)2010年成为了公司的第三位首席执行官，由于公司早期在联合创始人埃文·威廉姆斯(Evan Williams)和杰克·多尔西(Jack Dorsey)的管理下陷入了混乱，因此他上任之初专注于让Twitter趋于稳定。
+Under Mr. Costolo, Twitter also developed its first advertising formats, most notably what it calls promoted tweets, bringing in $422 million in revenue for the first nine months of this year and establishing the cash flow that has made the I.P.O. possible.
+在科斯特罗的领导下，Twitter还开发了自己的广告模式，最引人注目的是Twitter所谓的“推广消息”(promoted tweets)，这个服务在今年头九个月带来了4.22亿美元的收入，由此建立起来的现金流构成了本次IPO的前提。
+The company’s engineers rebuilt the site’s architecture so that it no longer crashes regularly, as it did during its first few years of rapid growth.
+公司的工程师们重建了网站的架构，使网站不再经常性地崩溃。网站崩溃的状况在头几年快速增长的时期经常出现。
+The site’s interface, however, has seen little change since the last big overhaul in 2011.
+不过，Twitter网站的界面自从2011年大改版之后就几乎没有变过。
+Twitter executives have avoided tinkering with the simplicity that has been central to the service since the beginning.
+Twitter的高管们一直在避免破坏网站的简单，这种特性从一开始就是Twitter服务的核心。
+In its prospectus for investors and comments made before the I.P.O. process got under way, Twitter argues that the unfiltered, public nature of its service is a unique advantage because it gives everyone a chance to be heard, from an anonymous Egyptian protesting in Tahrir Square to the president of the United States.
+在面向投资者的招股说明书以及启动IPO程序之前的言论中，Twitter表示这种不经筛选的、公开的特性是一个独一无二的优势，因为它让每一个人的声音都有机会被听到，无论是在开罗解放广场(Tahrir Square)抗议的不知名的民众，还是美国总统。
+“There is an incredible leveling of the playing field that gives every voice the ability to echo around the world instantly,” Mr. Costolo says in a video pitching the stock to prospective investors.
+在向潜在投资者宣传公司股票的视频中，科斯特罗说，“这个平台用一种不可思议的方式消除了差别，让每一个声音都可以立即传遍全世界。”
+In contrast to Twitter’s give-them-everything approach to its users’ information feeds, Facebook adjusts its software to try to highlight the most relevant material.
+Twitter把所有信息都呈现给用户的做法，跟Facebook截然不同，后者对软件进行调整以突出显示最切题的内容。
+A hot Facebook post from a friend that is generating a lot of comments moves closer to the top, as do posts from people and brands with whom a user frequently interacts. More distant acquaintances only make the cut with big life news, such as the birth of a baby. Although the company originally had a Twitter-like feed showing all posts in reverse chronological order, Facebook says users interact more with the service when the feed is curated.
+如果一个朋友的Facebook帖子获得了很多评论，那么就可以被置顶，最常和用户互动的人和品牌的发帖也是如此。关系相对疏远的熟人只有在发生大事时才能显示在突出位置，比如生了孩子。Facebook起初有一个类似Twitter的消息栏，可以按时间倒序显示所有消息，但公司说，当页面上显示的是经过筛选的消息时，用户和服务就会有更多的互动。
+Bulls on Twitter’s stock say it will take time for people to learn how to use Twitter and for word to spread, just as people had to learn new technologies in the early days of personal computers and the web.
+看好Twitter的人士说，人们将需要时间来学习如何使用Twitter，而口碑的形成也需要时间，就像在个人电脑和网络的早期，人们不得不学习新技术一样。
+And Twitter can always adjust course and make bigger changes to draw users, fans say.
+粉丝们说，Twitter总是可以为了吸引用户而调整路线，做出更大的改变。
+“Is it that hard to fix? No,” said David Sze, senior managing partner at Greylock Partners, which was an early investor in Facebook, LinkedIn and several smaller social networks. “The fact that they are so vibrant despite it suggests their potential.”
+Greylock Partners的资深执行合伙人大卫·斯泽(David Sze)说，“这很难改吗？不是。”Greylock Partners是Facebook、LinkedIn和几家小型社交网络的早期投资者。“尽管有这样的问题，Twitter仍然如此有活力，这个事实就凸显了他们的潜力。”

@@ -1,0 +1,48 @@
+PASADENA, Calif. — By today’s standards, the spacecraft’s technology is laughable: it carries an 8-track tape recorder and computers with one-240,000th the memory of a low-end iPhone. When it left Earth 36 years ago, it was designed as a four-year mission to Saturn, and everything after that was gravy.
+加利福尼亚州帕萨迪纳——按照今天的标准，这架航天器的技术可谓十分可笑：它载有一台8通道磁带记录仪和一台存储空间只有低端iPhone的二十四万分之一的电脑。36年前，当它离开地球的时候，它要完成的只是为期4年的土星之旅，而之后的一切都属于额外收获。
+But Voyager 1 has become — thrillingly — the Little Spacecraft That Could. On Thursday, scientists declared that it had become the first probe to exit the solar system, a breathtaking achievement that NASA could only fantasize about back when Voyager was launched in 1977, the same year “Star Wars” was released.
+但旅行者1号( Voyager 1)已经成了一艘无所不能的飞船，这让人感到兴奋。周四，科学家宣布，旅行者1号已经成为首个离开太阳系的探测器。美国国家航空航天局(NASA)于1977年，也就是《星球大战》(Star Wars)上映的那一年，发射了旅行者航天器，对于当时的NASA来说，现在这个令人激动的成就只能是一个幻想。
+“I don’t know if it’s in the same league as landing on the moon, but it’s right up there — ‘Star Trek’ stuff, for sure,” said Donald A. Gurnett, a physics professor at the University of Iowa and the co-author of a paper published Thursday in the journal Science about Voyager’s feat. “I mean, consider the distance. It’s hard even for scientists to comprehend.”
+“我不敢说这个成就与登陆月球一样重要，但它的重要性毋庸置疑，很像《星际迷航》(Star Trek)的感觉，这点毫无疑问，”艾奥瓦大学(University of Iowa)物理学教授唐纳德·A·吉尔特(Donald A. Gurnett)说。“我的意思是，想想距离有多远吧。甚至连科学家都很难搞清楚。”周四，《科学》(Science)杂志发表了一篇吉尔特与人合写的有关旅行者探测器的成就的论文。
+Even among planetary scientists, who tend to dream large, the idea that something they built could travel beyond the Sun’s empire and keep grinding away is impressive. Plenty of telescopes gaze at the far parts of the Milky Way, but Voyager 1 can now touch and feel the cold, unexplored region in between the stars and send back detailed dispatches about conditions there. It takes 17 hours and 22 minutes for Voyager’s signals to reach NASA’s Jet Propulsion Laboratory here.
+就连对于那些往往心怀远大梦想的行星科学家来说，他们建造的某个东西能够在太阳系之外漫游，而且仍处在工作状态，这样的想法也十分令人赞叹。很多望远镜都可以看到银河系深处的地方，但旅行者1号现在能触碰、感受星体之间从未被探索过的冰冷太空，并传回一些有关这块空间的情况的细节信息。旅行者1号发出的信号需要17小时22分钟才能到达NASA位于帕萨迪纳的喷气推进实验室(Jet Propulsion Laboratory)。
+“This is historic stuff, a bit like the first exploration of Earth, and we had to look at the data very, very carefully,” said Edward C. Stone, 77, NASA’s top Voyager expert, who has been working on the project since 1972. He said he was excited about what comes next. “It’s now the start of a whole new mission,” he said.
+NASA负责旅行者项目的首席专家爱德华·C·斯通(Edward C. Stone)表示， “这是历史性的事件，有点像对地球的首次探索，我们需要非常、非常小心地查看数据。”斯通自1972年以来一直参与该项目的工作。斯通表示，他对接下来发生的事情感到非常兴奋。他说，“这是一个全新任务的开端。”
+The lonely probe, which is 11.7 billion miles from Earth and hurtling away at 38,000 miles per hour, has long been on the cusp, treading a boundary between the bubble of hot, energetic particles around the solar system and the dark region beyond. There, in interstellar space, the plasma, or ionized gas, is noticeably denser.
+这架孤独的探测器距离地球117亿英里（约合188亿公里），以每小时3.8万英里的速度飞行，远离地球。它长时间以来一直处于一个边界地带，向着分界线前行，一边是太阳系周围由充满能量的炙热粒子组成的“气泡”，另一边则是一片黑暗。在星际空间里，等离子体（即电离气体）的密度明显大一些。
+Dr. Gurnett and his team have spent the past few months analyzing their data, trying to nail down whether what they were seeing was solar plasma or the plasma of interstellar space. Now they are certain it was the latter, and have even pinpointed a date for the crossing: Aug. 25, 2012.
+吉尔特和他的团队花了几个月的时间分析数据，试图确定他们所看到的是太阳系等离子体，还是星际空间的等离子体。现在，他们确定那是星际空间的等离子体，甚至还明确了出现这种变化的日期：2012年8月25日。
+At a news conference on Thursday, NASA scientists were a bit vague about what they hope to get from Voyager 1 from now on. The answer, to some extent, depends on what instruments continue to function as the power supply dwindles. Dr. Stone expects Voyager 1 to keep sending back data — with a 23-watt transmitter, about the equivalent of a refrigerator light bulb — until roughly 2025.
+在周四的新闻发布会上，NASA的科学家没有明确说明他们希望旅行者1号从现在起能给他们带来什么。在某种程度上，这个答案取决于随着电力供应的减少，哪些仪器还能继续运作。斯通博士认为，旅行者1号大约在2025年前，能不断地通过一个功率为23瓦——相当于冰箱灯泡的功率——的发射器传回数据。
+One hope is that Voyager 1’s position will allow scientists to more accurately study galactic cosmic rays, which are high-energy particles that originate outside the solar system. They would use the information to make judgments about what interstellar space is like at even greater distances from Earth.
+他们希望旅行者1号的位置能使科学家对银河宇宙射线（来自太阳系以外的高能粒子）开展更为精确的研究。他们将利用这些信息判断与地球相隔很远的星际空间的情况。
+In its heyday, Voyager 1 pumped out never-before-seen images of Jupiter and Saturn. But it stopped sending home pictures in 1990, to conserve energy and because there was no longer much to see. A companion spacecraft, Voyager 2, also launched in 1977, has stopped sending back images as well. Voyager 2 is moving in a different direction but is also expected to exit the solar system.
+在其辉煌时期，旅行者1号向人类传回了前所未见的木星和土星的图像。然而在1990年，旅行者1号为了节省能源停止了向地球发送图像，而且因为当时已经没有多少可看的奇景了。另一艘同样在1977年发射升空的飞船旅行者2号也停止了发送图像。旅行者2号航向不同，但根据预期也会脱离太阳系。
+Eventually, NASA said, the Voyagers will pass other stars, coasting and drifting and being pulled by gravity. The next big encounter for Voyager 1, in around 40,000 years, is expected to be a dwarf star dispassionately known as AC+793888 in the constellation of Camelopardalis.
+NASA表示，两艘旅行者飞船最终将会从其他恒星之间穿过，掠过其他星体，在引力的作用下飘飘荡荡。旅行者1号下一次遇到大型星体会在大约4万年后发生，对方是一颗名字平平无奇的矮星，它叫作AC+793888，位于鹿豹座。
+But already, Voyager 1 has achieved what Dr. Gurnett called “the holy grail of heliosphere research.”
+然而旅行者1号已经取得了吉尔特所说的“太阳圈研究的圣杯”。
+Voyager 1 left the solar system the same month that Curiosity, NASA’s state-of-the-art rover, landed on Mars and started sending home gorgeous snapshots. Curiosity’s exploration team, some 400 strong, promptly dazzled the world by driving the $2.5 billion robot across a patch of Martian terrain, a feat that turned the Red Bull-chugging engineers and scientists of Building 264 of the Jet Propulsion Laboratory campus into rock stars. By comparison, the Voyager mission looked like a Betamax in the era of Bluetooth.
+旅行者1号脱离太阳系的那个月，NASA尖端的探测车“好奇号”(Curiosity)也在火星着陆，开始向地球发送美丽的图像。在约有400余人的好奇号探索团队驾驶着价值25亿美元的机器人在火星的一块地面上行驶的时候，整个世界立刻瞪大了眼睛。这幅景象让喷气推进实验室园区264号楼里，那些猛灌红牛(Red Bull)工程师和科学家，一下子成了大明星。相比较而言，旅行者的任务看起来倒像是蓝牙(Bluetooth)时代的Betamax录像带。
+The 12-person Voyager staff was long ago moved from the Jet Propulsion Laboratory campus to cramped quarters down the street, next to a McDonald’s. In an interview last month at Voyager’s offices, Suzanne R. Dodd, the Voyager project manager, said that when she attended meetings in Building 264, she kept a low profile in deference to the Mars team.
+由12人组成的旅行者团队很久以前就搬出了喷气推进实验室园区，搬到了不远处一栋拥挤的建筑物里，紧挨着麦当劳(McDonald’s)。上个月在旅行者号办公室接受采访时，旅行者的项目主管苏珊·R·陶德(Suzanne R. Dodd)表示，她到264号楼参加会议时，为了表示对火星团队的尊重会保持低调。
+“I try to stay out of the elevator and take the stairs,” Ms. Dodd said. “They’re doing important work there, and I’ll only slow them down.”
+“我尽量不进电梯，而是走楼梯，”陶德说。“他们在这里做着重要的工作，我只会放慢他们的脚步。”
+At 52, Ms. Dodd is a relative newcomer to Voyager, first working on the mission in 1984. Now she and her team seem poised to return to the spotlight.
+今年52岁的陶德在旅行者团队工作的时间相对较短，1984年开始在这个项目工作。现在，她和她的团队似乎即将再次受到公众的关注。
+As the solar system’s edge grew tantalizingly close, NASA asked the Voyager scientists to increase the amount of data collection. The problem: the 8-track data recorders from 1977 were not exactly bursting with extra space. Could Ms. Dodd even find anyone who specialized in that piece of technology and could coax it to record more?
+距离太阳系的边缘越来越近时，NASA要求旅行者团队的科学家们增大数据采集量。但问题是，1977年的8通道数据记录仪上的存储空间，并没有猛然间扩大。陶德还能找到任何专门研究这种技术的人，让这台机器记录更多数据吗？
+“These younger engineers can write a lot of sloppy code, and it doesn’t matter, but here, with very limited capacity, you have to be extremely precise and have a real strategy,” she said.
+她说，“本来，这些年轻的工程师马马虎虎地写出一大堆代码也没关系，但在这里，存储空间十分有限，就必须要极为精炼，要真的有策略才行。”
+She was able to find her man: Lawrence J. Zottarelli, 77, a retired NASA engineer. He came up with a solution. But would it work?
+她最终找到了合适的人选，77岁的NASA退休工程师，劳伦斯·J·左塔雷利(Lawrence J. Zottarelli)。左塔雷利想出了一个办法，但他的办法能管用么？
+Mr. Zottarelli waited at Voyager mission control one afternoon last month to find out. The first of the newly programmed data dumps was set to come down. Ms. Dodd, Dr. Stone and Mr. Zottarelli watched two old Sun Microsystems computers like children watching for a chick to peck through an egg. “Nine, eight, seven,” Dr. Stone counted down.
+上个月的一天下午，左塔雷利在旅行者号的任务控制中心等着看结果。通过最新编写的程序获取的首个数据包马上就要出来了，陶德、斯通、左塔雷利都盯着两台老旧的太阳微系统(Sun Microsystems)电脑，就像小朋友在盯着小鸡啄破蛋壳。“九、八、七，”斯通博士倒数着。
+“Everything’s fine,” said Mr. Zottarelli, flashing a thumbs up. “You’re on your own now.”
+“一切正常，”左塔雷利伸出大拇指说。“剩下的你们自己来吧。”
+The relief was written all over Ms. Dodd’s face. “It’s not easy flying an old spacecraft,” she said.
+陶德脸上满是放松的表情。她说，“驾驶一架老旧的飞行器可并不容易。”
+Her eyes moved to Dr. Stone, who was peering at a computer through his trifocals.
+她的目光转到斯通身上，斯通正在透过他的三焦点眼镜盯着一台电脑。
+“There are lots of old missions,” he responded with a sly smile. “But not many are doing exciting new things.”
+“老项目很多，”他带着一丝狡黠的微笑回答道。“可是能做激动人心的新事情的却不多。”

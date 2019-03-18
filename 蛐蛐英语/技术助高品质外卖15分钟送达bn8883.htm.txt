@@ -1,0 +1,14 @@
+The options for people who have no time to cook and don’t want to go out to eat every night can be disappointing. A group of entrepreneurs, including David Chang of the Momofuku restaurants, is starting a company that plans to make high-quality restaurant food that it expects to deliver in as little as 15 minutes.
+没时间在家烹饪又不想天天晚上出门吃饭的人可能没有多少选择。于是Momofuku餐馆的大卫·张(David Chang)等几位创业者筹划开办一家公司，提供高质量的15分钟餐馆外卖。
+The secret, the group says, is technology.
+他们说，秘密在于技术。
+The partners, along with Mr. Chang, are Caleb Merkl, Akshay Navle and William Gaybrick, all of whom have experience in delivery, mobile technology and finance. Their company, called Maple, is intended to be in operation next year.
+除了张先生，其他合作伙伴还有卡勒布·默克尔(Caleb Merkl)、阿克谢·纳维尔(Akshay Navle)和威廉·盖布里克(William Gaybrick)，他们有物流、移动技术和金融领域的工作经验。公司名叫“梅普尔”(Maple)，计划于明年开业。
+Mr. Merkl said he and Mr. Navle came up with the idea out of frustration with existing food delivery systems. “Restaurants don’t focus on home delivery,” he said.
+默克尔说，他和纳维尔对目前的食品外卖系统感到不满，于是就想出了这个主意。“餐馆不重视家庭外卖，”他说。
+With Maple, they plan to create smarter routing systems and better packaging and choices of dishes, issues that restaurants do not necessarily address when it comes to delivery. Algorithms that efficiently work out who orders what and where, and how to fulfill the orders, will be part of the system.
+他们计划通过梅普尔建立更加智能的外送路线系统，以及更好的包装和更多食品选择，这些问题都是其他餐馆外卖并不需要特别考虑的。系统使用算法高效地处理顾客点了什么，送到哪里，以及如何满足订单等问题。
+Mr. Merkl said that Mr. Chang was enthusiastic from the beginning and that Momofuku became one of the investors. Maple’s initial funding is $4 million.
+张是公司的厨艺执行官，他将列出纽约其他厨师的专长，还有农场等食品供应商的信息，在此基础上创立菜谱。梅普尔的菜谱会每天更换。一般一道菜大概在12到15美元，含税、小费和外送费。
+Mr. Chang is the chief culinary officer, and he will enlist the expertise of other New York chefs, along with food suppliers like farmers, to create the menus. Maple’s menus will change daily. A typical dish may run $12 to $15, including tax, tip and delivery.
+顾客可以使用app点菜。来自相关供应厨房的食品可以根据制定好的计划，尽快到达顾客家中，并保持新鲜和温度。“我们的目标是15分钟送达，”默克尔说。这听上去有点像一个曼哈顿白日梦。要知道，没有交通堵塞的情况下，15分钟内也只能从中心城赶到14街。“我们的外送区非常严密，”他说。

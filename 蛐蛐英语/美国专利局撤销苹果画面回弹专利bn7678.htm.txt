@@ -1,0 +1,26 @@
+The United States Patent and Trademark Office has decided that one of the smartphone patents at the center of the legal dispute between Apple and Samsung Electronics — which resulted in a jury award to Apple of $1.05 billion — should never have been granted.
+美国专利商标局(United States Patent and Trademark Office)裁定，成为苹果公司(Apple)和三星电子公司(Samsung Electronics)之间法律纠纷焦点的一项智能手机专利，本来不应当被授予。苹果和三星纠纷的结果是陪审团判决三星向苹果公司支付10.5亿美元赔偿。
+The patent office decision is an initial ruling, in a document dated Oct. 15, and filed electronically on Monday, and probably will be challenged by Apple. It affects the patent for Apple’s “rubber-banding” or “bounce” feature, which makes the digital page bounce when a user pulls a finger from the top of the touch screen to the bottom.
+专利局作出的是一项初步裁定。这份文件的签署日期是今年10月15日，文件的电子版本在本周一发布，估计苹果会对此裁定提出异议。这项裁决影响的是涉及苹果的“橡皮筋反弹”(rubber-banding)，亦即“画面回弹”(bounce)功能的专利权，即当用户用手指在触摸屏上从顶部向下拖拽页面时，画面会回弹。
+If the patent office ruling withstands challenges by Apple, it could be used to roll back the $1.05 billion in damages in the California case and strengthen Samsung’s hand in settlement talks with Apple, said James E. Bessen, a lecturer at the Boston University School of Law. The patent office’s action, patent specialists say, shows that the office, and not only courts around the world, will be an important front in the smartphone patent wars. These legal clashes mainly pit Apple against companies that use Google’s Android software for smartphones, including Samsung, HTC and Motorola Mobility, which Google acquired last year.
+波士顿大学法学院(Boston University School of Law)的讲师詹姆斯·E·贝森(James E. Bessen)说，如果专利局的裁决不会被苹果的上诉推翻，三星就可以利用这项裁决撤销加利福尼亚州案件中10.5亿美元赔偿判决，也会使三星在与苹果的和解谈判中更为有利。专利专家们称，专利局的这一举动，表明除了世界各地的法院之外，专利局也将成为智能手机专利战的一条重要战线。这些法律冲突主要在苹果与使用谷歌(Google)的Android软件的智能手机生产商之间展开，后者包括三星、HTC，以及去年被谷歌收购的摩托罗拉移动公司(Motorola Mobility)。
+The patent office ruling was first reported Tuesday by Florian Müeller, a patent analyst and blogger based in Germany.
+专利局的裁决最早是在本周二，由德国的专利分析师、博客作者弗洛里安·穆勒(Florian Müller)曝出的。
+The decision to invalidate the Apple patent was made under longstanding procedures for re-examining previously granted patents.
+取消苹果专利的裁定，是通过重审已授予专利的程序作出的。这种重审程序过去就存在。
+Under the America Invents Act, which was passed last year, the post-grant review process is being strengthened and applies to patent re-examination requests filed after Sept. 16.
+根据去年通过的《美国发明法案》(America Invents Act)，专利授予后的重审程序得到了加强，且适用于今年9月16日之后提交的专利重审申请。
+Patent specialists say the new rules will make it more likely that courts will wait until the patent office has finished studying whether a patent should be invalidated. And the new law gives the director of the patent office the power to order that a patent be re-examined.
+专利专家们称，新规则实行后，法院会更倾向于等到专利局研究结束，确定是否应当取消这项专利后再作出判决。新的法案也授予了专利局局长决定重审一项专利的权力。 
+“The patent office now has the opportunity to actually take the lead rather than following the courts,” said Arti K. Rai, a professor at Duke University School of Law and a former external affairs administrator at the patent office. “This has the potential to be a really important way to try to curb the problems with existing patents.”
+“专利局现在有机会扮演主角，而不是跟在法院后面了。”专利局前外事负责人、杜克大学法学院(Duke University School of Law)教授阿尔蒂·K·拉伊(Arti K. Rai)说。“对于抑制现有专利的问题来说，这可能会成为一种非常重要的方式。”
+A major problem, according to patent specialists, is that the patent office grants patents too easily in the first place. That is particularly the case, they say, with certain kinds of patents, including those on software. Unlike pharmaceuticals, where a single clearly defined molecule can be the patented invention, software patents often describe digital concepts carried out in code. In software, the boundaries are less clear, and innovation tends to be step-by-step, building on years, sometimes decades of work.
+专利专家们表示，一个主要的问题是，专利局授予专利太容易了。他们说，这个问题对于某些类型专利尤其明显，包括软件专利。制药业受专利保护的发明可以是一个清晰定义的分子，而软件中的专利常常只是一些由代码执行出的数字概念。在软件业里，各种界限变得越来越不清晰，创新往往是一步一步积累起来的，需要几年甚至几十年的工作。
+Big technology companies, patent specialists say, have exploited the complexity and uncertainty of software to amass large portfolios of patents.
+专利专家们说，一些大型科技公司都利用软件的复杂性和不确定性，积累了大量的专利。 
+Frontline patent examiners, working under tight time pressure, they say, tend to be outmatched by wealthy companies when patents are filed. But post-grant review affords another, more painstaking look.
+他们表示，那些一线专利审查员们需要在严格的时间压力下工作，于是财力雄厚的公司在申请专利时往往更有优势。但授予专利后的重审，能够再提供一次更加仔细的审查。
+The patent office’s re-examination team issued its invalidation decision on patent 7,469,381. It was one of the six patents that formed the basis of the jury verdict against Samsung in a federal court in San Jose, Calif. Upon review, the patent office determined that the idea and the bounce feature had been invented earlier, even if the pointing device was not a finger on a touch screen.
+专利局的重审小组对7469381号专利发布了失效裁定。加州圣何塞一个联邦法院的陪审团，在作出不利于三星的判决时所依据的六项专利就包括这项专利。根据复审，专利局认定画面回弹的功能和想法早先就已经发明出了，尽管当时的指向设备并不是触碰屏上的手指。
+Before the California trial, Samsung had made a change to sidestep the Apple patent on its newest smartphones. The same finger stroke brings a blue glow at the bottom of the screen, not a bounce.
+在加州的庭审举行之前，三星已经在其最新的智能手机上做了改动，来回避苹果的专利。同样的手指动作，会使屏幕底部出现一道蓝色光晕，而不是回弹。

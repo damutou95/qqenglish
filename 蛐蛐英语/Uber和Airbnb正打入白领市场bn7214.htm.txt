@@ -1,0 +1,22 @@
+The Silicon Valley scene is often known for its shabby-chicness, like a chief executive clad in a hoodie and sneakers.
+硅谷(Silicon Valley)的景象通常以邋遢时髦的风格著称，比如一名身穿卫衣、脚蹬运动鞋的首席执行官。
+But consumer start-ups are setting their sights at the white-collar world.
+但消费类初创公司正在瞄准白领世界。
+Uber, the on-demand car service, is the latest company to target the corporate crowd, as the company debuted its Uber For Business initiative on Tuesday morning.
+周二上午，打车服务公司Uber首次推出Uber商务用车(Uber For Business)服务，成为最新的一家面向企业人群的公司。
+The new program is essentially an appeal to professionals who hate dealing with expense accounts. After a company agrees to participate in the program, employees can use Uber’s car service and then bill their rides directly to the companies they work for. Company administrators can keep track of the amount of money employees are spending on Uber rides.
+这个新项目基本上吸引的是那些不喜欢应付报销账目的职场人士。如果公司同意参与该项目，员工们可以使用Uber打车服务，然后将乘车费用直接计入公司账单。公司行政可以跟踪员工使用Uber的费用。
+Further, Uber has also formed a partnership with Concur, the expense account and travel booking management company which already has relationships with more than 20,000 corporate clients. This will allow employees who use the car service to link their Uber and Concur accounts, giving them the ability to send e-receipts directly to their expense accounts.
+此外，Uber还与费用管理及差旅预订公司Concur建立合作关系，该公司已经与两万多家公司客户开展合作。使用打车服务的员工可以将Uber账号与Concur账号对接，将电子收据直接发送至报销账户中。
+If this sounds familiar, it should. Airbnb, the home-sharing start-up, introduced a similar program this week, complete with a partnership with Concur. And TaskRabbit, the on-demand labor service, has also dabbled in the space.
+如果感觉这很耳熟，那就对了。租房类初创公司Airbnb本周与Concur联手推出了类似的服务。跑腿服务公司TaskRabbit也涉猎这一领域。
+The move to business class is a natural one for Uber, whose smartphone app-based service has traditionally targeted more affluent demographics with its luxury car service, Uber Black. The company also offers UberX, an entry-level option that Uber touts as “cheaper than a taxi.” But for Airbnb, the new focus on businesses takes the company somwhat upstream, because it has has typically aimed for world travelers and those going on vacations who want to skip staying at large hotel chains.
+对于Uber来说，进军商务用车领域是一个自然而然的选择，它的服务基于智能手机应用，传统上是向比较富裕的人群提供豪车服务——尊荣Uber(Uber Black)。公司还提供菁英Uber(UberX)服务，宣称这个低级别服务的费用比“出租车便宜”。但对于Airbnb来说，进入商务领域在某种程度上算是逆流而上的选择，因为该公司通常针对世界各地的游客，以及那些度假时不想入住大型连锁酒店的人。
+In some ways, though, the new focus is a risky maneuver for both Uber and Airbnb, two booming start-ups. Regulators have grown increasingly interested in how the services have upended the hospitality and transportation industries, and how these services may aid drivers and home-owners in breaking state laws.
+但在某些方面，新业务对于Uber和Airbnb这两大迅速发展的初创公司来说都是一种冒险行动。监管机构越来越关注这些服务对酒店及交通运输业构成了怎样的冲击，以及它们如何促使司机和私房房主违反州法律。
+In May, Airbnb was forced to hand over anonymized data on customers who may be breaking the law to the New York State Attorney General’s office. Uber, too, has faced stiff battles with transportation officials in New York and Washington D.C.
+今年5月，Airbnb被迫将可能违反州法律的顾客的匿名化资料交给了纽约州总检察长(New York State Attorney General)办公室。Uber在纽约和华盛顿也面临与交通官员的激烈斗争。
+And for some, like TaskRabbit, the companies may not see a demand for their services from corporate clients at all.
+TaskRabbit等公司可能根本看不到公司客户对他们的服务有什么需求。
+But it could also serve to bring Uber and Airbnb, which both initially focused on servicing San Francisco, to the corporate mainstream. Both companies, which have raised a combined total of more than $2 billion in venture capital, are fighting to expand internationally; Uber has recently focused on Southeast Asia, while Airbnb has spent the last two years gaining ground in Australia and Europe.
+然而，将Uber和Airbnb这两家起初主要在旧金山发展业务的公司引向企业主流，也可以是有益处的。两大公司获得的风投总额超过了20亿美元（约合123亿元人民币），它们都在努力扩展国际业务；Uber最近主攻东南亚市场，而Airbnb则在过去两年中在澳大利亚和欧洲大获成功。

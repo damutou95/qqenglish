@@ -1,0 +1,26 @@
+Takata, the Japanese supplier linked to faulty airbags in millions of cars, widened the scale of potential recalls in the United States on Tuesday to 34 million vehicles.
+周二，与数以百万计的汽车上的问题气囊有关的日本供应商高田公司(Takata)，把美国市场上可能需要召回的汽车数量扩大到了3400万辆。
+The supplier made the announcement with federal safety regulators at the National Highway Traffic Safety Administration, which had been prodding the company since late last year to say that the airbags were defective. Takata had fought these demands, even asserting at one point that the agency could not force it to issue a recall.
+高田与国家公路交通安全局(National Highway Traffic Safety Administration)的联邦安全监管部门共同发出了这项声明。自去年底以来，安全局一直在敦促高田承认气囊存在问题。高田始终不愿遵从这些要求，甚至一度宣称安全局无权强迫它召回。
+Airbag inflaters made by Takata can explode violently when they deploy, spraying metal fragments into the passenger compartment. Six deaths and more than 100 injuries have been linked to the flaw.
+高田生产的气囊增压泵在弹出时可能会猛然迸裂，导致金属碎片飞向车内。该问题被认为与六人的死亡、100多人的受伤有关。
+“From the very beginning, our goal has been simple: a safe airbag in every vehicle,” said Mark R. Rosekind, administrator of the safety agency since December. “The steps we’re taking today represent significant progress toward that goal.”
+“从一开始，我们的目标就很简单：每辆车都配有安全的气囊，”自12月起担任安全局局长的马克·罗斯金德(Mark Rosekind)说。“我们今天采取的举措，代表着我们朝这个目标迈进了一大步。”
+But the agency said it did not have a final breakdown yet of all the makes and models the expanded recall encompasses, and that it will not for several days until it coordinates with automakers. The final number of defective cars may shift downward as more tests are performed, Mr. Rosekind said. He acknowledged that the repairs could take several years to complete, but he said that consumers could still drive their cars in the meantime.
+但是，安全局表示，目前尚未最后敲定这次扩大的召回覆盖的所有汽车品牌和型号，而是需要几天时间来与汽车生产商进行协调。罗斯金德说，经过更多实验以后，问题汽车的最终数量可能会减少。他承认，修理工作可能需要几年时间才能完成，但他表示，与此同时，消费者仍然能够开车。
+“Yes, people need to drive their cars,” Mr. Rosekind said, adding that they should be checking with their dealers often “to ensure it gets replaced as soon as possible.”
+“对，人们需要开车，”罗斯金德说。他还表示消费者应该经常与经销商联系，“从而保证能及时得到替换”。
+Even now, Takata and automakers continue to search for the root cause of the inflater defect, but it still remains unclear. But in new filings with the safety agency, Takata went further than it had previously in admitting wider, structural problems with its airbag inflaters.
+即使是现在，高田和汽车生产商也还在继续寻找增压泵问题的根本原因，但仍不清楚问题究竟在哪。不过，在提交给安全局的新备案文件中，高田承认其气囊增压泵存在更广泛的结构性问题，比以前的立场更进了一步。
+“Up until now Takata has refused to acknowledge that their airbags are defective,” said Anthony Foxx, the transportation secretary. “That changes today.”
+“在此之前，高田公司一直拒绝承认旗下的安全气囊有缺陷，”运输部部长安东尼·福克斯(Anthony Foxx)说。“这种情况今天发生了改变。”
+In its filings, dated Monday, Takata said that the propellant in the airbag inflaters — the explosive material that generates the gases to inflate the airbag — could degrade over time if exposed to high humidity and changes in temperature, making it prone to “over-aggressive combustion.”
+在标注日期为本周一的备案文件中，高田公司称，气囊增压泵里的推进剂——产生填充安全气囊的气体的爆炸物——如果暴露在高湿度和温度波动的环境中，可能会在一段时间后降解，从而容易发生“过于剧烈的燃烧”。
+Former Takata engineers told The New York Times last year that they had raised concerns over a decade ago that the explosive material Takata uses — ammonium nitrate — was sensitive to moisture and temperature swings. But those concerns went unheeded, they said.
+曾受聘于高田公司的几名工程师去年对《纽约时报》说，他们十多年前就提出了对公司使用的爆炸物——硝酸铵——对湿度和气温波动过于敏感的担忧。但他们称，这些担忧没有引起重视。
+Takata’s patents also document how the company’s engineers for years struggled to stabilize the ammonium nitrate in its propellant.
+高田公司的专利文件的记录还显示，他们的工程师多年以来一直难以稳定推进剂里的硝酸铵。
+And for the first time, Takata also acknowledged problems with leaks in its airbag inflaters. Tests had revealed that some of its airbag inflaters were found to have leaks in the seals that are supposed to keep them air tight.
+这一回，高田公司还首次承认了气囊增压泵的漏气问题。测试显示，一些气囊的增压泵的密封垫有漏气现象，而这些密封垫本应该把气体严严实实地封住。
+Last week, a former Takata consultant said that tests he carried out on prototype Takata airbags in the early 2000s showed that they contained leaks. He urged the company to use a different leak testing method, one that he devised, he said, but his advice went unheeded.
+上周，高田公司的一名前顾问表示，他在本世纪初对公司的原型安全气囊进行的测试就显示，它们存在漏气现象。他敦促公司使用一种不同的漏气检测方法，也就是他设计的方法。但他说，自己的建议没有被采纳。

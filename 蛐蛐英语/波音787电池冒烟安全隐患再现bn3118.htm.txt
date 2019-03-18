@@ -1,0 +1,22 @@
+Nearly a year after Boeing’s 787 Dreamliners were grounded for three months because of hazards from their lithium-ion batteries, Japan Airlines said on Tuesday that one of its 787s vented smoke when a battery failed.
+日本航空(Japan Airlines)周二表示，该公司的一架787客机在电池失效后出现了冒烟的情况。大约一年之前，波音(Boeing)787梦想客机(Dreamliner)曾因锂离子电池隐患停飞三个月。
+The episode occurred Tuesday afternoon at Narita Airport in Tokyo as engineers prepared the jet for a flight to Bangkok. No passengers were onboard.
+冒烟事件发生在周二下午，当时工程师正在东京成田机场(Narita Airport)为飞往曼谷的航班准备飞机。飞机上没有乘客。
+Boeing said the problem was contained by a new protective system designed to prevent smoke or fire from the volatile batteries from putting a plane at risk. It was the first time a battery cell had failed since the 787 was recertified to fly last April.
+波音公司表示，这个问题已通过一个新的保护系统得到了解决，该系统可以阻止不稳定电池冒出的烟或火对飞机造成危险。自787客机于去年4月重新获得飞行认证以来，这是该机型首次出现电池失效的情况。
+The latest episode could provide clues to investigators still puzzling over what happened last January to a pair of 787 batteries that overheated. Investigators have not determined what caused short circuits in those batteries, but Boeing has added insulation and a vent tube to keep a short from endangering a plane.
+前述最新事件能够为调查人员提供线索，后者依然为去年1月发生的事故感到困惑，当时有一对787客机电池出现过热状况。调查人员尚未确定那对电池短路的原因，但波音公司已经增添了绝缘装置和排气管，以防电池短路危及飞机。
+Analysts said that Boeing and its customers seemed to have accepted that they may not get to the bottom of the battery problem. But this also means that the promising new plane — which is made of lightweight carbon composite and has new engines that cut fuel costs by 20 percent — might not pay off as handsomely as expected.
+分析人士表示，波音公司及其客户似乎已经接受以下事实，即他们可能无法找到电池问题的根源。但是，这也意味着这种前景美好的新飞机带来的收入可能不会像预想的那么丰厚。这种新飞机由轻量碳纤维复合材料制成，飞机上的新型引擎能将燃料成本降低20%。
+“For me, this is almost as much an economics issue as a safety one,” said Richard L. Aboulafia, an analyst at the Teal Group in Fairfax, Va. “If you don’t get to the root cause of what is going on and choose to contain and isolate risk, it still happens, and you have to take jets off-line and repair the damage and bear that expense. And all your assumptions about reliability and repair costs go out the window.”
+“在我看来，这既是一个经济问题，也是一个安全问题，”位于弗吉尼亚州费尔法克斯的蒂尔集团(Teal Group)分析师理查德·L·阿布拉菲亚(Richard L. Aboulafia)说。“如果不查明根本原因，只是控制或隔离风险，这种问题就会继续发生，然后你就必须让飞机停飞，修理损坏部件，承担相关损失。你对可靠性和修理成本的所有预期就会落空。”
+Japan Airlines reported that maintenance workers in the jet’s cockpit saw white smoke wafting outside, and that warning lights pointed to a possible fault with the plane’s main battery and its charger. The relief valve on one of eight battery cells opened up, as it is designed to do if pressure mounts, and sprayed liquid inside the battery’s main container.
+日本航空公司(Japan Airlines)报称，飞机驾驶舱里的维修工看见外面升起了白色烟雾，警示灯显示飞机的主电池和充电器可能出了问题。8枚电池当中有一枚的安全阀开了，根据设计，如果压力增加，电池的安全阀就会打开，把液体洒进电池的主容器。
+“The improvements made to the 787 battery system last year appear to have worked as designed,” Boeing said in a statement.
+波音在声明中表示，“去年对787电池系统所做的改进似乎发挥了预期的作用。”
+Concerns about the batteries first arose when one of them caught fire on a JAL plane parked at Logan International Airport in Boston in January 2013. A few days later, another jet, operated by All Nippon Airlines, made an emergency landing after smoke entered the cockpit, prompting a worldwide grounding of the first 50 787s.
+2013年1月，停在波士顿洛根国际机场(Logan International Airport)的日航787飞机有一枚电池起火，首次引发了人们对这种电池的担心。几天后，全日空航空公司(All Nippon Airlines)运营的另一架787飞机在烟雾进入驾驶舱后紧急迫降，致使首批的50架787飞机在全世界停飞。
+Boeing’s fix includes steel boxes to encase the two batteries on each plane to keep any fire from spreading, and titanium tubes to vent any smoke outside. The battery itself is largely unchanged
+波音的改进措施包括在飞机上安装钢盒，将每架飞机上的两组电池包裹起来，以防火势扩散，以及安装用于排烟的钛制管道。电池本身基本没有任何改变。
+Sixteen airlines now fly a total of 115 787s, averaging 200 flights a day. Since returning to service, the 787s have made more than 38,000 flights.
+目前运营的787飞机共有115架，分属十六家航空公司，平均每天有200个使用该机型的航班。自重新开始飞行以来，787飞机已经飞行了3.8万多次。

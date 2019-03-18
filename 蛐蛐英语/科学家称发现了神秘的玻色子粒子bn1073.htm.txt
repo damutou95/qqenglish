@@ -1,0 +1,44 @@
+Dr. Higgs, I presume?
+我猜，是希格斯博士吗？
+A team of physicists gathered in a room at CERN on Friday to begin crunching new data from the Large Hadron Collider this year. And they will be at it all week.
+上周五，一群物理学家聚集到欧洲核子研究中心(CERN)的一个房间里，开始处理大型强子对撞机(Large Hadron Collider)今年产出的数据。这项工作将持续一周时间。
+What they are seeing nobody knows.
+没人知道他们将会看到什么。
+What they are looking for is the beginning to the end of the longest and most expensive manhunt in the history of physics, one that has involved several generations of larger and larger particle accelerators: the spoor of a hypothetical particle that endows other elementary particles with mass. Known as the Higgs boson, it is the cornerstone of modern physics, but confirmation of its existence has eluded scientists for 40 years.
+他们希望找到的东西，将拉开物理学史上耗时最长、耗资最大的追踪活动的最后阶段。参与这场追踪的几代粒子加速器越变越大，试图搜寻到一种理论上赋予其他基本粒子以质量的假想粒子的踪迹。该粒子就是希格斯玻色子(Higgs boson)。它奠定了现代物理学的基础，但在过去的40年里，科学家们一直未能确认它的存在。
+In December, scientists went into a qualified tizzy when two teams of physicists working on the Large Hadron Collider at CERN, outside Geneva, reported hints — but only hints — of a bump in their data that could be the boson.
+去年12月，在位于日内瓦郊外的CERN操作大型强子对撞机的两组物理学家汇报说，他们数据中的一个小波动，可能代表的是玻色子的迹象——仅仅是迹象。这就让科学家们有了充分的理由欣喜若狂。
+The new data will show whether that was a fluke or whether they are really on the road to discovering the long-lost boson, physicists say. They are racing to make a deadline to report the results at the International Conference on High Energy Physics, or Ichep, in Melbourne, Australia, starting July 4.
+物理学家们表示，新数据将会表明，要么那次只是一个侥幸的发现，要么他们真的步入了正轨，踏上了发现久未现身的玻色子之路。物理学家们正在加紧赶工，争取在国际高能物理大会(International Conference on High Energy Physics，Ichep)上的汇报成果。Ichep将于7月4日在澳大利亚墨尔本开幕。
+This, all agree, is the boson’s last stand. If the December signal fades, it probably means that the Higgs boson, at least as physicists have envisioned it for the past 40 years, does not exist, and that theorists have to go back to their drawing boards.
+大家都认为，这是证明玻色子存在的最后机会。尽管在过去的40年里，科学家们一直想象希格斯玻色子是存在的，但如果去年12月发现的信号消失了，很可能意味着答案是否定的。那样的话，理论物理学家们也将不得不回到原点，从头开始构想新的理论。
+If the signal is still there, the work is just beginning. In order for it to be certified as a “discovery,” there has to be less than one chance in 3.5 million that it is a fluke background fluctuation. Last fall’s signals were at the level of one chance in a thousand, which sounds good, but you would not board an airplane that crashed every thousand flights.
+如果那个信号仍然存在，那么真正的工作才刚刚开始。为了能让玻色子被认可为一项“发现”，它作为背景误差出现的几率必须小于三百五十万分之一。去年秋天的信号水平是千分之一，虽然听上去还不错，但是，你不会愿意登上一架每飞行一千架次就坠毁一次的飞机。
+For now, the whole physics world is waiting and wondering.
+眼下，整个物理学界都在等待，在猜想结果。
+Nobody who has seen the new data is talking, except to say not to believe the blogs, where a rumor of an enhanced signal has ricocheted around, and to warn that even if the signal is real, it may require much more data and analysis to establish that it actually acts like the Higgs boson and not an impostor.
+那些看过新数据的人中，没人对外发表言论，只是说不要相信博客。来自博客的谣言称出现了一个增强的信号。这个谣言已经传开了。他们还警告说，即使这个信号是真的，要确定它的确表现得像希格斯玻色子而非冒牌货，可能还需要更多的数据和分析。
+“Please do not believe the blogs,” Fabiola Gianotti, the spokeswoman for the team known as Atlas, after its huge detector, pleaded in an e-mail.
+“请不要相信博客的说法，” Atlas小组的女发言人法比奥拉·吉亚诺蒂(Fabiola Gianotti)在一封电子邮件中请求说。 该小组用他们的大型探测器来命名，是两个研究小组之一。
+For what it is worth, however, on the market prediction Web site Intrade, the price of a bet that the Higgs will be found before the end of this year zoomed over the weekend.
+不过，不管是真是假，在市场预测网站Intrade上，今年年底之前发现希格斯的赔率在周末飞速上升。
+Right now, most of the physicists doing the work do not even know what they have. In order to avoid bias, the physicists involved avoided looking at most of the crucial data until last week, when they “unblinded” it. About 500 physicists on each team are analyzing eight different ways a Higgs boson, once produced in the collider, might decay and leave its signature.
+现在，处理数据的物理学家中的大多数甚至都不知道自己掌握的是什么。为了避免偏差，在上周之前，参与这项工作的物理学家都避免观看大部分的关键数据。直到上周，这些数据才被“揭盲”。一旦对撞机中产生了希格斯玻色子，它可能会以八种不同的方式衰减并留下痕迹。两个小组中各约500名科学家正在分析这八种方式。
+They all have to sign off on the final results, making for a very tight timetable.
+他们都必须要在最后的结果报告上签字认可，所以时间非常紧迫。
+“Our final Ichep results will not be even seen by the collaboration before the last day of June and then will require the usual final cosmetics for presentation,” wrote Joe Incandela of the University of California, Santa Barbara, spokesman for the team known as CMS, in an e-mail.
+“在6月最后一天之前，甚至我们两个合作团队都看不到要在Ichep上提交的最终结果。然后就对报告进行惯常的最后美化工作”来自加州大学圣芭芭拉分校(University of California, Santa Barbara)的乔·英坎德拉(Joe Incandela)是第二个研究小组CMS的发言人，他在一封邮件中这样写道。
+The particle is named for the University of Edinburgh scientist Peter Higgs, who was one of six physicists who suggested that a sort of cosmic molasses pervading space is what gives particles their heft. Particles trying to wade through it gather mass the way a bill moving though Congress gains riders and amendments, becoming more and more ponderous.
+该粒子以爱丁堡大学(University of Edinburgh)的科学家彼得·希格斯(Perter Higgs)命名。有六位科学家提出，空间中弥漫着一种类似“宇宙蜜糖”(cosmic molasses)的场，赋予了粒子以质量。彼得·希格斯便是其中一位科学家。就像一项进入国会审批程序的法案会被添加进一些附加条款和修正案一样，当粒子试图通过这层“蜜糖”时，会变得越来越重，从而获得质量。
+It was Dr. Higgs who pointed out that this cosmic molasses, normally invisible and, of course, odorless, would produce its own quantum particle if hit hard enough, by the right amount of energy, and so the branding rights went to him.
+正是彼得·希格斯提出，在适量能量的强烈撞击下，这种通常无形、当然也是无味的“宇宙蜜糖”本身会产生出量子粒子。正因为如此，这种粒子以他的名字命名。
+The current run of the Large Hadron Collider, which accelerates protons to energies of four trillion electron volts around a 17-mile underground racetrack at CERN, the European Organization for Nuclear Research, before banging them together into tiny fireballs of primordial energy, was designed to get the two experiments enough data so that they could each independently decide by the end of the year whether the Higgs boson exists.
+在CERN，即欧洲核子研究中心(European Organization for Nuclear Research)的这台大型强子对撞机，能够在17英里长的地下隧道里将质子加速到4万亿电子伏特的能量，然后让这些高能质子对撞，形成具有巨大原始能量的小火球。这台对撞机目前进行的对撞，旨在为两个研究小组进行的实验提供足够的数据，以便各组能够在年底之前独立得出希格斯玻色子是否存在的结论。
+Another possible hangup is that the two groups disagreed slightly last fall on the mass of the putative particle. The Atlas group put it at 124 billion electron volts, while the CMS group came up with 126 billion electron volts, in the units of mass and energy favored by physicists. By comparison, a proton weighs in at one billion electron volts and an electron at half a million.
+还有一个可能的障碍是： 关于这种假定存在的粒子的质量，去年秋天两组科学家之间还有小小的分歧。Atlas小组把它定在了1240亿电子伏特，而CMS小组的结论是1260亿电子伏。电子伏特是物理学家们通常采用的质量和能量单位。相比之下，一个质子的质量为10亿电子伏，而一个电子的质量为50万电子伏。
+If the discrepancy persists, it could undermine attempts to reach that statistical rigor.
+如果上述差异在本轮实验中继续存在，可能会危及为了达到数据严谨而付出的各种努力。
+Failure to find the Higgs would not be the end of the theory in which it is embedded, known as the Standard Model, which has passed every test for 30 years. But it would require physicists to go back to their blackboards for another method of imputing mass to particles.
+希格斯玻色子理论，包含在标准模型理论(Standard Model)中，后者通过了过去30年中的所有测试。若未能发现希格斯玻色子，并不意味着标准模型理论的终结，不过它将会要求物理学家们回到黑板前，想出另外一种赋予粒子质量的方法。
+Without such a mechanism, said Steven Weinberg of the University of Texas in Austin, who won a Nobel for using the Higgs theory to unify the electromagnetic and weak nuclear forces, the universe would be bleak. Elementary particles like quarks and electrons would be massless. “Atomic nuclei would still exist, but electrons would be massless, and so there would be no atoms,” he said. “And of course no life. Not even physicists.”
+得克萨斯大学奥斯汀分校(University of Texas in Austin)的史蒂文·温伯格(Steven Weinberg)表示，如果不存在这样一种物质，宇宙将一片荒凉。他曾利用希格斯理论统一了电磁力和弱相互作用力，并因此获诺贝尔奖。像夸克、电子这样的基本粒子都失去了质量。“原子核可能还是存在的，但是由于电子可能会失去质量，因此原子也就不存在了，”他说道。“当然也就不存在生命了，更别谈物理学家了。”

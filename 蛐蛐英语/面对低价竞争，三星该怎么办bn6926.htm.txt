@@ -1,0 +1,46 @@
+What goes up must come down. That principle seems to be coming true for Samsung Electronics, the world’s top cellphone maker, whose profit is falling in part because of pressure from its price-cutting rivals in China.
+有起必有落。这个原则似乎正在全球最大的手机制造商三星电子(Samsung Electronics)身上应验，该公司的利润处于下滑之中，原因之一是，在中国的竞争对手低价销售手机，给它带来了压力。
+Samsung, a South Korean company, said last week that profit in the last quarter was expected to be 25 percent lower than in the period a year earlier.
+这家韩国公司上周表示，三星上季度的利润预计比上年同期低25%。
+Among other factors, Samsung blamed intense competition from Chinese manufacturers for the decline. Companies like Xiaomi and Huawei have quickly increased market share in China over the last year with the help of handsets they sell at a break-even price.
+三星称，来自中国制造商的激烈竞争是其利润下滑的原因之一。过去一年中，小米和华为等公司在中国的市场份额迅速增加，部分上是因为他们几乎以零利润的价格出售手机。
+Chinese companies have swooped into many other industries, including personal computers and solar energy, to produce products less expensively. This strategy has traditionally been used after a market matures, at which point the Chinese companies find a way to make and sell products nearly at cost, building market share and eating into the profit of the incumbents.
+在个人电脑和太阳能等很多其他行业，中国企业也异军突起，生产出价格较低的产品。一直以来，中国企业总在某个市场成熟后采用这种策略：设法以接近成本的价格制造和销售产品，攫取市场份额，蚕食老牌公司的利润。
+Investors and analysts are now wondering whether Samsung will choose to cut prices or push innovation harder in order to fight back.
+投资者和分析师现在想知道的是，三星的反击方式是降低价格，还是更努力地推动创新。
+“How does Samsung compete against players that price at cost?” said Adnaan Ahmad, an analyst for Berenberg Bank in London, in a research note. “Investors should question where the growth is.”
+“三星如何与那些以成本价销售产品的公司竞争呢？”贝仑贝格银行(Berenberg Bank)驻伦敦的分析师阿德南·艾哈迈德(Adnaan Ahmad)在一份研究报告中表示。“投资者应该追问增长点在哪里。”
+Samsung’s response to its predicament could shape the entire smartphone market. If Samsung aggressively cuts prices to improve sales, it could pressure other competitors like Nokia, HTC and Motorola Mobility to lower prices, too. That could lead to lower-quality products or even slimmer margins for the smartphone business as a whole. Already, in many recent financial quarters, only Samsung and Apple have made a profit from smartphones.
+三星应对这种困境的方式有可能会改变整个智能手机市场的面貌。如果三星为了提高销量，大刀阔斧地降低价格，就可能会迫使诺基亚(Nokia)、HTC和摩托罗拉移动(Motorola Mobility)等竞争对手也进一步降低售价。对于整个智能手机行业来说，这可能会导致产品走向低质化，让已然微薄的利润率进一步降低。在最近多个财季中，从智能手机业务中实现盈利的公司已经只剩下三星和苹果(Apple)。
+The low-end market is not Samsung’s only worry. At the high end, its main rival is Apple, which has continued to improve iPhone sales. T. Michael Walkley, a Canaccord Genuity analyst, said Apple could find even more success if the company releases phones with larger screens this year, as is widely expected.
+三星担心的还不只是低端市场。在高端市场，三星的主要竞争对手是苹果，其iPhone销量一直在提升。加通贝祥(Canaccord Genuity)分析师T·迈克尔·沃克利(T.Michael Walkley)表示，如果苹果今年像人们广泛预期的那样，推出屏幕更大的手机，该公司可能会取得更大的成功。
+Samsung has shown no signs that it wants to go down the price-cutting path. It declined to make an executive available for an interview, but in a written statement, the company said it would continue to compete through a diverse set of products that fulfill consumer needs.
+三星没有表现出采取降价策略的任何迹象。该公司拒绝让其高管接受采访，但是却发表了一份书面声明，称将继续提供满足消费者所需的多样化产品，以此来与其他公司竞争。
+“We also will strengthen our product competitiveness by reinforcing our premium brand reputation, powerful product lineup and cutting-edge technology,” the company said.
+“三星拥有高端品牌的声誉，强大的产品阵容，以及尖端技术，我们将通过继续巩固这些优势，来增进三星产品的竞争力，”该公司表示。
+In other words, Samsung, at least for now, plans to keep doing what it is already doing: offering a large variety of mobile products at a wide range of prices.
+换句话说，至少就目前而言，三星打算沿用以前的策略：在较大的价格区间内提供种类繁多的移动产品。
+But it remains unclear whether that will be enough.
+但目前还不清楚，采取这样的做法是否足以应对形势。
+Ben Bajarin, a consumer technology analyst for Creative Strategies, said the competitive dynamic among devices running Google’s Android system, like most of Samsung’s and the inexpensive handsets made by Chinese manufacturers, was starting to shift.
+创意策略公司(Creative Strategies)的消费科技分析师本·巴加林(Ben Bajarin)表示，在搭载谷歌Android系统的设备中，竞争形势已开始发生变化。这个范围涵盖了三星的大部分产品，以及中国厂商生产的廉价手机。
+Because all Android smartphones work similarly, he said, hardware does not make a device stand out. Software and Internet services, like video streaming or messaging, will set the devices apart.
+因为所有Android智能手机的工作方式都很相似，他说，设备无法靠硬件脱颖而出。像在线视频播放或收发消息这样的软件和互联网服务，才是设备之间的差异所在。
+Xiaomi, the rising Chinese electronics brand, is a chief example of that. The company makes several models of Android smartphones, including handsets that have many of the same features as top phones from Apple and Samsung, but cost less than half the price.
+正在崛起的中国电子品牌小米就是一个重要的例子。该公司生产多个型号的Android智能手机，其中一些拥有许多与苹果和三星的顶级手机相同的功能，但售价还不到它们的一半。
+But the hardware and low price are just a small part of what gives Xiaomi its advantage. To lure customers and keep them loyal, the company offers a special version of Android, called Miui. Fans can help design Miui by giving feedback online, and the company releases a new version of the operating system every Friday to keep fans excited.
+但在小米的优势中，硬件和低廉的价格只占了一小部分。为了吸引顾客并维持其忠诚度，该公司提供一个定制的Android版本，名为MIUI。粉丝可以通过在线反馈来帮助改进MIUI的设计，而该公司每个周五都会发布新的MIUI版本，从而维持粉丝群的兴奋度。
+Xiaomi’s business model is unique among Android phone vendors. It sells phone models for about the same amount it costs to buy and assemble the materials. But it sells the phones for up to a year and a half, giving time for the components’ price to fall. Xiaomi also makes money from selling apps, games, special Android themes and Internet services.
+在Android手机商中，小米的商业模式是独一无二的。它出售手机的价格，与物料成本加装配费用大致相当，但它销售手机的时间可长达一年半，这期间手机部件的价格会下降。同时小米也会从销售应用、游戏、特别的Android主题，以及互联网服务中赚钱。
+Making money off Internet services will be Xiaomi’s core business strategy, the company has said.
+小米的核心商业策略是从互联网服务中赚钱，该公司称。
+“Cellphones are really just like PCs were 20 years ago,” Lin Bin, one of Xiaomi’s founders, said at a business conference last year. “They generated big profit margins in the beginning. But those margins are in the single digits now. The same thing is beginning to happen to smartphones. So rather than focus on devices where margins will decline, we’re focusing on services.”
+“手机真的就像是20年前的个人电脑，”小米公司的联合创始人林斌去年在一场商业会议上表示。“最开始时，利润空间很大，但现在利润率已经降低到了个位数。智能手机领域也开始出现同样的状况了。因此我们没有把重心放在利润会下降的硬件上，而是放在了服务上。”
+But Samsung’s smartphone business is still reliant on selling hardware. While the company also offers specially customized versions of the Android system for its smartphones and tablets, its software has been widely panned by reviewers and customers. And in Internet services like maps and online messaging, Samsung is virtually irrelevant.
+但是，三星的智能手机业务仍然是依赖于硬件销售。虽然该公司也提供了为其智能手机和平板电脑专门定制的Android版本，其软件却普遍受到了评测者和用户的差评。而在地图和在线消息等互联网服务方面，三星基本上是个无足轻重的角色。
+Samsung has been working with Intel and other companies on a new mobile operating system called Tizen. But Mr. Ahmad of Berenberg predicted Tizen would fail as other competing software systems have before, like Palm’s WebOS and BlackBerry’s latest software system, BlackBerry 10.
+三星一直在与英特尔(Intel)等公司开发一款新的移动操作系统，名为Tizen。但贝仑贝格银行的艾哈迈德预计，Tizen会像此前的一些系统一样遭遇失败，比如Palm的WebOS以及黑莓(BlackBerry)最新的系统BlackBerry 10。
+In the end, he said, the company will probably resort to cutting its prices, sacrificing profit margins even more.
+他说，三星最终可能会采取降低产品价格的做法，进一步牺牲利润率。
+“Samsung has had a knack historically of playing the price game if its market share is under any pressure,” Mr. Ahmad said. “Why should history not repeat itself for its high-end portfolio?”
+“三星过去在市场份额遭遇任何压力时，往往会运用过价格策略，”艾哈迈德说。“为什么在高端产品中，历史就不会重演呢？”

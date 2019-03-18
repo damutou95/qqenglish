@@ -1,0 +1,50 @@
+Toyota discovered a braking defect, Honda a power steering flaw and Nissan a problem that could lead drivers to lose control of their cars. Ford found that wires in some cars could melt, General Motors that some airbags might fail to deploy, and Chrysler that some of its Jeeps could burst into flames.
+丰田(Toyota)和本田(Honda)分别发现了旗下产品刹车和动力转向方面的缺陷，而日产(Nissan)找到的一个问题可能会导致司机失去对车辆的控制。福特(Ford)则发现，部分车辆内部的金属线可能会熔化。通用汽车(General Motors)和克莱斯勒(Chrysler)发现的问题分别是，气囊可能无法弹出，以及部分吉普(Jeep)或许会突然起火。
+The automakers unearthed the problems years ago, reported them to regulators and conducted safety recalls.
+数年前，这些汽车生产商就发现了相关问题，报告给了监管机构并发起了安全召回。
+But those recalls happened outside the United States.
+但这些召回都发生在美国以外的地方。
+The automobile industry has been under a microscope this year, recalling a record number of vehicles, more than 58 million in the United States alone. “They’re cleaning out their closets,” David J. Friedman, who has been leading the National Highway Traffic Safety Administration, the nation’s top car safety agency, told Congress last month.
+今年，汽车业备受关注，被召回的车辆数量突破了历史记录，仅在美国就超过了5800万辆。“他们正在进行整顿，”在美国负责汽车安全问题的最高机构国家公路交通安全局(National Highway Traffic Safety Administration)任一把手的戴维·J·弗里德曼(David J. Friedman)上月告诉国会。
+But in dozens of instances over the last decade, problems that prompted recalls or other safety-related actions in foreign countries have not been treated with the same urgency in the United States, a review of more than 500 international recalls by The New York Times found.
+不过，《纽约时报》对500多宗国际召回事件进行了研究后发现，在过去十年的几十宗案例中，在别国引发了召回或其他安全相关行动的一些问题，在美国却未能触发同样的紧急处理。
+Automakers are required by law to notify safety regulators in the United States within five days of learning of a safety defect in a car to start the process of a recall. But the seven top automakers in the United States — G.M., Ford, Chrysler, Toyota, Honda, Nissan and Hyundai— have reported instances to federal regulators when they did not recall cars, even though the vehicles contained the same problematic components as their recalled counterparts abroad, according to regulatory filings since 2004.
+法律规定，汽车生产商须在获悉车辆安全隐患后的五天之内告知美国的安全监管机构，以便启动召回程序。但2004年以来的监管备案文件显示，美国市场上的七大汽车生产商——通用、福特、克莱斯勒、丰田、本田、日产和现代(Hyundai)——均曾出现过向联邦监管机构汇报了情况却并未进行召回的案例，尽管在其他国家，那些使用了同样的问题零部件的车辆已被召回。
+In none of the instances — at least 42 in all — did the National Highway Traffic Safety Administration immediately compel the companies to take stronger action, The Times found.
+时报发现，在总计至少42宗这类召回中，国家公路交通安全局均未立即勒令相关公司采取更有力的行动。
+Asked about foreign recall practices, the automakers said they had disclosed their decisions to the safety agency. “I believe that this process is common across the industry,” said Chris Martin, a spokesman for Honda.
+当被问及在国外的召回措施时，相关汽车生产商称，已向安全局披露了自己的决定。“我认为，这套程序在整个行业很普遍，”本田的发言人克里斯·马丁(Chris Martin)说。
+When presented with The Times’s findings, the safety agency emphasized the different recall laws and practices around the world and said the sample was relatively small.
+在时报拿出研究结果时，国家公路交通安全局强调世界各地的召回法律和操作惯例不尽相同，并表示时报的样本数比较小。
+“The foreign recalls identified by The New York Times represent 3 percent of all total international recall submissions,” said a representative for the agency, citing the nearly 1,300 submissions filed by all automakers since 2004. “We are constantly evaluating large volumes of data — including foreign recall submissions — that are screened against U.S. data to assess whether action is justified domestically.”
+“《纽约时报》指出的海外召回，在所提交的国际召回备案总数中所占比例为3%，”安全局的一名代表说。此人援引的数据是，自2004年以来，各大汽车生产商提交了近1300份备案文件。“我们不断地在评估大量数据，包括涉及其他国家的召回备案文件。我们会根据美国的情况来对这些数据进行筛查，从而评估在国内采取的行动是否合理。”
+The agency, nonetheless, said it would re-evaluate the cases and take action if warranted.
+尽管如此，该机构称将重新评估相关案例，并会在有根有据的情况下采取行动。
+The Times found that the auto companies conducted at least 33 safety actions in foreign countries that never fully led to American recalls. The defects involved such critical parts as airbags, brakes and steering and electrical systems.
+时报发现，至少有33次，车企在海外采取了安全行动，却未彻底在美国进行召回。相关缺陷涉及气囊、刹车与转向，以及电子系统等关键部件。
+In one case, the safety agency opened an investigation into a power steering problem in Toyota models in November 2006, but closed it the following March, despite having found three crashes potentially tied to the problem and more than 100 related warranty claims.
+其中一次是，安全局在2006年11月启动了对丰田部分车型的动力转向问题的调查。尽管发现三起撞车事故可能与这个问题有关，且有100多起相关保修申请，该机构还是在第二年3月结束了调查。
+In its closing report on the inquiry, the agency said it would “continue to monitor complaints and other information relating to the alleged defect.” A year and a half later, Toyota recalled the vehicles in China and cited the National Highway Traffic Safety Administration’s closed investigation as evidence that an American recall was unnecessary.
+在调查的结案报告中，该机构表示将“继续关注与这个被指为缺陷的问题相关的投诉及其他信息”。一年半后，丰田在中国召回了这些车型，并以国家公路交通安全局结束了的调查为证据，声称不必在美国发起召回。
+The Times identified at least nine additional foreign actions by the automakers that did result in full recalls in the United States, but well after the period during which they were required by law.
+时报还发现，有时候，汽车生产商在海外采取了行动后，的确也致其在美国进行了全面召回，但在时间上却远远迟于法定期限。这样的情况至少有九次。
+One foreign recall conducted by Honda was followed by an American recall more than five years later. G.M. issued two United States recalls in 2014 that followed Canadian recalls from 2012. In one of those, the company had recalled models of the Chevrolet Aveo and Pontiac G3 in 67 countries for a corrosion problem that could cause brakes to stop working properly, but recalled the American cars only last July.
+本田在美国进行的一宗召回，距公司在其他国家发起的召回已过去了五年多时间。2012年，通用汽车在加拿大发起的两宗召回，在美国拖到了2014年才进行。在其中一宗里，因为一个可能导致刹车停止正常工作的腐蚀问题，通用汽车在67个国家召回了雪佛兰爱唯欧(Chevrolet Aveo)和庞蒂亚克G3(Pontiac G3)。但在美国，公司直到今年7月才召回这些车型。
+“If cars are unsafe in Canada, they’re unsafe here,” said Rosemary Shahan, president of Consumers for Auto Reliability and Safety, an advocacy group, when told of The Times’s findings. “It’s not believable that suddenly you cross a border into Maine and suddenly your car is safe.”
+“车如果在加拿大不安全，那么在这里也不安全，”在维权组织汽车可靠性与安全性消费者协会(Consumers for Auto Reliability and Safety)任会长的罗斯玛丽·沙汉(Rosemary Shahan)在得知时报的调查发现时说。“穿过边境进入缅因州后，你的车突然就安全了吗，这根本不可信。”
+In some cases, auto companies sent less urgent alerts, known as technical service bulletins, to American dealers — and on rare occasions, customers, too — instead of ordering recalls, even though those notices are not supposed to be used to correct serious safety problems.
+有时候，车企会向美国的经销商——极少数情况下也会向消费者——发出不那么紧迫的警报，即“技术服务公告”，而非下令召回，尽管这种通告本不应该用来纠正严重的安全问题。
+In other cases, the companies said that recalls were unnecessary because of different weather or road conditions in the United States — or, even when the safety problem was relevant to conditions in the United States, because the occurrence was relatively lower than abroad.
+在其他一些案例中，汽车公司宣称因为美国的天气或路况不同，所以不必召回。当涉及的安全问题适用于美国的情况时，它们又称因为美国的出事频率比国外更低，所以不必召回。
+Chrysler recalled three model years of its Jeep Wrangler in China in November 2011 for a flaw that could lead to fires. The automaker saw that risk as unique to China, citing the “harsh environment, overly aggressive driving and extreme neglect,” it said in a statement to The Times. The company recalled only one of the three model years in the United States, six months later. The company said it needed that time to determine if the defect existed in the United States.
+2011年11月，因为一个可能会导致起火的缺陷，克莱斯勒在中国召回了三个年份的吉普牧马人(Jeep Wrangler)车型。公司在发给时报的声明中称，克莱斯勒认为仅中国存在这种危险，原因是那里“恶劣的环境、过于野蛮的驾驶和极度的疏忽”。半年后，克莱斯勒在美国进行了召回，但仅涉及其中一个年份的车型。公司宣称，需要用半年时间来确定这一缺陷在美国是否存在。
+Chrysler said the model years that were not recalled had a different design and that the Chinese government had pressured the automaker to issue a broader recall.
+克莱斯勒称，未召回的另外两个年份的车型设计不同，而公司发起更广泛的召回是因为受到了中国政府的压力。
+A centerpiece of the so-called Tread Act of 2000 was that automakers were required to tell regulators about recalls or safety-related actions in other countries that involve cars with “substantially similar” counterparts in the United States.
+2000年的《加强交通工具召回、归责和备案法案》(Tread Act)的核心是，如果在其他国家进行的召回或安全相关行动涉及的车辆，与美国国内的车型“大体类似”，车企须向监管机构进行汇报。
+Congress added the provision to the law after a wave of highway rollovers in Ford Explorers with Firestone tires, a problem that was eventually linked to 271 deaths. Ford had refrained from recalling the cars in the late 1990s, even after conducting safety actions in Saudi Arabia and other countries.
+国会之所以让这一条款成为法律，是因为使用凡士通(Firestone)轮胎的福特探险者(Ford Explorers)在公路上发生了一系列的翻车事故。这个问题最后被认定和271人的死亡有关联。上世纪90年代末，即便已在沙特阿拉伯和其他一些国家采取了安全行动，福特也一直不愿在美国进行召回。
+Almost 15 years later, United States regulators now regularly receive that information, but industry habits have persisted. In several filings to the National Highway Traffic Safety Administration, reviewed by The Times, automakers noted that the safety agency had agreed that American recalls were not required and that technical service bulletins, sometimes called customer satisfaction or product update campaigns, would suffice.
+时间已过去近15年，美国监管机构如今会时常收到相关信息，但业界积习难改。在时报查阅的提交给国家公路交通安全局的几份备案文件中，车企指出，安全局早前已同意对美国的召回不作要求，并称有技术服务公告就足够了。技术服务公告有时又称作“消费者满意行动”或“产品更新行动”。
+The Times examined more than 500 regulatory filings on foreign recalls and other safety actions issued since 2004 in more than 70 countries by G.M., Ford, Chrysler, Toyota, Honda, Nissan, Hyundai and Volkswagen, the top eight automakers in the United States by sales.
+时报查阅了自2004年以来，通用汽车、福特、克莱斯勒、丰田、本田、日产、现代和大众(Volkswagen)这八家在美销量排名最靠前的车企，针对在别国发起的召回和其他安全行动提交给监管机构的500多份备案文件。

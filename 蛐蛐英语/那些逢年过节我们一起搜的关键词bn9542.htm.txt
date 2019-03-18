@@ -1,0 +1,38 @@
+TRUE or false: During the holidays, people suffer unusually high rates of depression.
+请判断对错：人们在节日期间经受抑郁情绪折磨的机率奇高无比。
+This much-repeated statement is false. In fact, the opposite is true.
+这个被很多人重复过的说法是错误的。事实恰恰相反。
+In an earlier article, I reported that Google searches for “depression” are the lowest on Christmas and the days surrounding it. Over Christmas week, searches for “depression” are 10 to 20 percent below average, which is a highly significant difference. But it’s not just depression that drops. Searches for “anxiety” and “suicide” plummet during the holiday season.
+我在早前的一片文章里报道过，圣诞节前后，“抑郁”的谷歌(Google)搜索量是最低的。该词在圣诞周的搜索量竟然比平均水平低10%至20%，差异非常显著。不过，搜索量下降的关键词不是只有“抑郁”。与“焦虑”和“自杀”有关的搜索在假日季也会大幅减少。
+I am not sure what it says about me, but I have chosen to spend the early part of the holiday season analyzing publicly available Google data. I am not alone in this obsession. Recently, Christopher Ingraham of The Washington Post reported that his 2014 “misery index,” based on a variety of Google searches, was lowest on Christmas.
+我不能确定这会让自己给人留下怎样的印象，但我选择用假日季的最初几天来研究公众所能获得的谷歌搜索数据。我不是唯一一个乐此不疲的人。最近，《华盛顿邮报》(The Washington Post)的克里斯托弗•英格拉哈姆(Christopher Ingraham)报道称，他以各种各样的谷歌搜索为基础编制出了2014年“痛苦指数”，该指数在圣诞节这天是最低的。
+If you think that the phenomenon of Christmas uplift is just a quirk of a new, funky data set, consider Gallup surveys. I downloaded four years of Gallup mood data. On average, Americans report substantially elevated levels of happiness and decreased levels of stress on Christmas, New Year’s and the surrounding days. Also contrary to popular belief, suicides drop around the holidays.
+如果你觉得，人们的情绪因为圣诞节的到来而为之一振这件事，只不过是由一串新鲜时髦的数据勾勒出来的幻象，那就看看盖洛普(Gallup)的调查吧。我把该公司总共4年的情绪调查数据都下载了下来。这些数据表明，在圣诞节以及新年前后，美国人的幸福感通常会大大提高，压力通常会大幅缓解。与普遍观点相反的另一个事实是，自杀率在节日期间也会降低。
+This does not mean the holidays are a time of uncomplicated joy for everyone. But by studying the patterns made by millions of Google searches, we can get a remarkably detailed view not only of how our thoughts and emotions change around the holidays, but of how they ebb and flow throughout the year.
+这并不意味着每个人都能在过节时拥有简单的快乐。但通过对数以百万计的谷歌搜索所呈现出来的规律加以研究，我们不仅可以极为确切地了解自己的心理和情感在节日期间如何变化，而且可以知道它们在一年当中如何上下起伏。
+Consider searches related to “loneliness.” These searches mostly consist of people looking for quotations or song lyrics about loneliness, which might be comforting to the lonely. Dec. 25 is the eighth-highest day for loneliness searches. First and second are Feb. 14 and Feb. 15.
+以关于“寂寞”的搜索为例。大部分进行这类搜索的人都在寻找与寂寞有关的语录或歌词，对寂寞的人而言，这些语录和歌词或许会带来慰藉。“寂寞”一词在12月25日的搜索量是全年第八高的。排在第一位和第二位的分别是2月14日和2月15日。
+Even more interesting is the pattern of “divorce” searches. These generally show only a small amount of seasonality, but there is a notable drop in the run-up to Christmas and a significant rise in the 10 days following Christmas.
+更有意思的是“离婚”一词的搜索规律。与离婚有关的搜索并没有呈现出多么明显的季节性特点，但在圣诞节即将到来之际，其搜索量会显著下降，而在圣诞节后的10天里，其搜索量又会显著上升。
+What explains the post-Christmas surge of interest in divorce? Google searches for other terms help make that clear. First, Christmas allows for some reflection about family life. Searches for “dysfunctional family” reach their highest point every year around Christmas. Searches that include the word “hate” and a family member — “mom,” “dad,” “husband” or “wife,” for example — also rise on and around Christmas.
+为什么人们在圣诞节过后对“离婚”一词兴趣骤升？关于其他词汇的谷歌搜索有助于说明个中原因。首先，过圣诞节让一些人有机会反思自己的家庭生活。圣诞节前后，“不健全家庭”的搜索量是一年当中最高的。家庭成员称谓——如“妈妈”、“爸爸”、“丈夫”、“妻子”——加 “恨”的搜索量在这段时间也会上升。
+Second, whether consciously or subconsciously, people delay bad events until after the holidays. Dec. 26 is the date with the highest search rate for “doctor,” following a dip leading up to the holidays. Our bodies even somehow manage to delay trouble: Health researchers previously found a 33 percent increase in heart attacks in the four days after Christmas.
+其次，人们总是有意无意地把坏事推到节日之后。“医生”的搜索量在圣诞节前会有所下降，到了12月26日又会升到全年最高点。我们的身体甚至会设法把出毛病的时间延后：健康状况研究者以前曾发现，圣诞节过后的4天里，心脏病的发病率会上升33%。
+Less surprisingly, “diet” searches rise after Christmas. The pattern of “diet” searches through the calendar year is more interesting. They hit their maximum values in the days immediately after New Year’s, as anyone who has ever gone to Weight Watchers knows; they are relatively stable from February through June; and they drop from August through Christmas.
+不太出人意料的是，圣诞节之后，“节食”的搜索量会有所上升。观察日历年当中的“节食”搜索规律，会更有趣。正如每个去过慧俪轻体(Weight Watchers)的人所知，“节食”的搜索量在新年过后是最高的，在2月到6月之间比较稳定，在8月到圣诞节之间则会有所降低。
+Google data suggest that Christmas works as an antidepressant through much of the world. Generally, the larger the Christian population, the more powerful the effect. In Poland and Brazil, two countries with larger Christian majorities than the United States, the depression declines around Christmas are larger than they are in the United States.
+谷歌搜索数据显示，在世界上的很多地方，圣诞节都有抗抑郁的效用。总体而言，信奉基督教的人越多，这种效果就越显著。波兰和巴西的大多数国民都信奉基督教，基督徒占总人口的比例比美国更高，因此在圣诞节前后，巴西人和波兰人的抑郁程度下降得比美国人更大。
+Israel, notably, has no dip in depression around Christmas.
+值得注意的是，以色列人的抑郁程度在圣诞节前后并未下降。
+Does this mean that Christmas is just another day for Jewish people worldwide? Nope. Google data present definitive evidence that, at least for Jews in North America, there is one way Christmas differs from all other days. On all other days, we show great culinary diversity. On this day, we eat Chinese food: Google searches for “Chinese restaurant” rise 100 percent in New York City and Toronto on Dec. 25.
+这是否意味着对全世界的犹太人而言，圣诞节只不过是平凡的一天？并未如此。谷歌搜索数据确切地表明，至少北美洲的犹太人在圣诞节这天的表现会跟平常不一样。平常我们的饮食习惯大相径庭，但过圣诞节时，我们吃中国菜：12月25日，在纽约和多伦多，“中国餐馆”的搜索量会翻一番。
+Are people naughtier or nicer around Christmas? One data point in favor of Christmas naughtiness comes from searches for jokes. On Christmas, searches for “clean jokes” are below average, while searches for “dirty jokes” reach the highest level of the year.
+人们在圣诞节前后会更淘气或者更友善吗？与笑话有关的一项搜索数据表明，真的有“圣诞淘气”这回事。圣诞节当天，“非黄色笑话”的搜索量低于平均水平，“黄色笑话”的搜索量则会达到一年当中的最高点。
+But the bulk of the evidence actually suggests that people are nicer on Christmas. Many Americans certainly take the religious aspect of Christmas seriously: On Dec. 25, “Bible” searches are 10 percent higher than average.
+不过的确有大量证据表明，人们过圣诞节时会更友善。许多美国人显然十分看重圣诞节的宗教意义：12月25日那天，“圣经”的搜索量会比平均水平高10%。
+And, jokes aside, most raunchy searches dip on Christmas. Take searches for “porn.” Such searches tend to rise whenever people are off work and out of school. “Porn” searches are 30 percent higher on weekends than weekdays, highest in the summer months and soar on most holidays, hitting their highest level on July 4. But on Christmas, “porn” searches are 15 percent lower than on surrounding days and 30 percent lower than they are on an average weekend.
+撇开笑话不谈，大部分较为粗俗的关键词的搜索量在圣诞节这天都会有所下降。以“色情片”为例。对这一关键词的搜索会在人们没去上班或没去上学时增多。周末的“色情片”搜索量比工作日高30%；夏天是搜索色情片的高峰期；赶上节日，其搜索量就会猛增，7月4日会达到全年的最高点。但圣诞节这天，它的搜索量比此前和此后数天低15%，比周末的平均水平低30%。
+Searches for “cocaine,” “weed,” “Viagra” and “condoms” are at or near their lowest levels on and around Christmas. We cannot know for sure that these searches correlate with actual behavior, but it seems a pretty safe bet that so many fewer searches about drugs and sex around Christmas indicate that fewer people are using drugs and coupling up.
+“可卡因”、“大麻”、“伟哥”和“安全套”的搜索量会在圣诞节前后达到或接近达到全年最低水平。我们无法确切知道搜索量与实际行为之间的关联，但似乎可以肯定地说，圣诞节前后，搜索关于毒品和性的关键词的人变少了，意味着在此期间吸毒和沉迷于性事的人变少了。
+But Google data also give us new evidence of what happens when people focus on nice activities and abstain from naughty ones: The week of Christmas has the most Google searches complaining of boredom.
+不过，谷歌搜索数据还让我们明白，人类一心向善、循规蹈矩时会出现什么情况：圣诞周的那些搜索量最大的关键词，都跟对无聊的抱怨有关。

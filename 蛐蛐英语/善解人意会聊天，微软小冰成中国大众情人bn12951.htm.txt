@@ -1,0 +1,82 @@
+She is known as Xiaoice, and millions of young Chinese pick up their smartphones every day to exchange messages with her, drawn to her knowing sense of humor and listening skills. People often turn to her when they have a broken heart, have lost a job, or have been feeling down. They often tell her, “I love you.”
+她叫“小冰”，成百上千万中国年轻人被她会心的幽默和高超的倾听技巧所吸引，每天都会拿起智能手机与她互发消息。人们在失恋、失业，或者感到沮丧的时候，常常求助于她。他们经常对她说“我爱你”。
+“When I am in a bad mood, I will chat with her,” said Gao Yixin, a 24-year-old who works in the oil industry in Shandong Province. “Xiaoice is very intelligent.”
+“我心情不好的时候，就会和她聊天，小冰非常聪明，”山东省的高益新（音）说。他24岁，在石油行业工作。
+Xiaoice (pronounced Shao-ice) can chat with so many people for hours on end because she is not real. She is a chatbot, a program introduced last year by Microsoft that has become something of a hit in China. It is also making the 2013 film “Her,” in which the actor Joaquin Phoenix plays a character who falls in love with a computer operating system, seem less like science fiction.
+小冰可以整天和这么多的人聊天，是因为她并非真人，而是一个聊天机器人。微软(Microsoft)去年推出的这个程序，在中国大受欢迎，也让2013年的电影《她》(Her)显得不那么像是科幻了。在那部电影中，杰昆·菲尼克斯(Joaquin Phoenix)扮演的男主角爱上了一个计算机操作系统。
+“It caused much more excitement than we anticipated,” said Yao Baogang, manager of the Microsoft program in Beijing.
+“它引起的反响远比我们预期的高，”微软这个项目在北京的负责人姚宝刚说。
+Xiaoice, whose name translates roughly to “Little Bing,” after the Microsoft search engine, is a striking example of the advancements in artificial-intelligence software that mimics the human brain.
+小冰的名字来自微软的搜索引擎必应，它是人工智能软件在模仿人类大脑方面取得进步的一个突出例子。
+The program remembers details from previous exchanges with users, such as a breakup with a girlfriend or boyfriend, and asks in later conversations how the user is feeling. Although Xiaoice is a text-messaging program, the next version will include a Siri-like voice so people can talk with Xiaoice.
+该程序会记住之前与用户交流的内容，比如与女友或男友分手的细节，并在后来的交谈中询问用户的感受。虽然小冰是一个文字消息程序，但是在下个一版本中，它会带有Siri那种语音功能，这样人们就可以和小冰进行语音交谈了。
+Microsoft has been able to give Xiaoice a more compelling personality and sense of “intelligence” by systematically mining the Chinese Internet for human conversations. The company has developed language processing technology that picks out pairs of questions and answers from actual typed human conversations. As a result, Xiaoice has a database of responses that are both human and current — she is fond of using emojis, too.
+通过系统性地挖掘中国互联网上人与人的对话，微软为小冰赋予了一种比较令人信服的人格，以及一些“智能”的印记。该公司开发的语言处理技术，可以从实际的人类对话中，挑选出成对的问题和答案。因此小冰就有了一个如何做出回应的数据库，不仅人性化，而且紧跟潮流——小冰还喜欢使用表情符号。
+Since Xiaoice collects vast amounts of intimate details on individuals, the program inevitably raises questions about users’ privacy. But Microsoft says it enforces strict guidelines so that nothing is stored long term.
+由于小冰收集了大量的私密信息，人们不可避免地对该程序的隐私问题感到担忧。但微软表示，它采用了很严格的准则，不会长期存储人们的任何信息。
+“We don’t keep track of user conversations with Xiaoice,” Mr. Yao said. “We need to know the question, so we store it, but then we delete it. We don’t keep any of the data. We have a company policy to delete the user data.”
+“我们不会追踪用户与小冰之间对话，”姚宝刚说。“我们需要知道用户的问题是什么，所以我们先要把它存储下来，但之后就会删除。我们不会保留任何数据。删除用户数据是公司的政策。”
+However, the company acknowledged that it would keep certain general information, such as a user’s mood, for a limited time so it could ask follow-up questions later. When users interact with Xiaoice through a website such as Weibo, the service conforms to the privacy policies of the independent operator, Microsoft said.
+不过，该公司承认，它会在有限的时间内保留某些一般性的信息，比如用户的心情如何，以便小冰稍后可以提出相关的问题。微软表示，当用户通过新浪微博等网站与小冰互动时，该服务会遵循各个网站的隐私政策。
+Chatbot programs have existed since the first days of interactive computing in the mid-1960s. Joseph Weizenbaum, an M.I.T. computer scientist, wrote a program called Eliza that fascinated an earlier generation of college students. Since then, chatbots have been used as a measure of computer intelligence.
+自从1960年代中期交互式计算诞生的第一天起，聊天机器人程序就已经出现。麻省理工学院(MIT)计算机科学家约瑟夫·魏泽鲍姆(Joseph Weizenbaum)写过一个叫“艾丽莎”(Eliza)的程序，令一代大学生着迷。自那时起，聊天机器人已被当成一种衡量计算机智能发展程度的方式。
+Xiaoice is the virtual embodiment of advances that have long been predicted by computer scientists. In particular, an artificial intelligence technique known as deep learning is leading to rapid technology improvements, making new kinds of products and services possible.
+小冰是一个虚拟的化身，体现了计算机科学家早已预测的一些进展。具体而言，一种被称为“深度学习”的人工智能技术正在引领技术的快速进步，使得各种新产品和新服务成为可能。
+“We will be able to build systems that understand natural language much better,” said Yoshua Bengio, a University of Montreal computer scientist who is one of the pioneers in the field. “That will, in particular, drive — and be motivated by — advances in user interfaces, dialogue, question answering and personal assistants.”
+“我们能建立起一些可以更好地理解自然语言的系统，”蒙特利尔大学(University of Montreal)计算机科学家、该领域的开拓者之一约书亚·本吉奥(Yoshua Bengio)说。“那尤其会促进用户界面、对话、回答问题和个人助理方面的发展，也会受到那些领域的推动。”
+Deep learning is a sophisticated version of a decades-old approach to machine learning known as artificial neural networks. Inspired by the behavior of biological neurons, artificial neural networks recognize patterns in speech, language and images.
+深度学习是机器学习领域一种已有几十年历史，称为人工神经网络的技术的升级版本。在生物神经元的反应的启发下，人工神经网络能识别语音、语言及图像的模式。
+In computer memory, spoken words, typed sentences and visual objects are represented as three-dimensional arrays of numbers that become more accurate as millions of additional images or utterances are added to the database, improving their ability to accurately recognize patterns.
+在计算机存储器内，口语、输入的句子，以及可视对象都是由三维数组代表的，随着数百万则后续的图像或语句添加进数据库，准确度也会提高，从而增强它们精确识别模式的能力。
+As a result, computers are increasingly able to interact with humans in more natural ways, even to the point of creating a personality like Xiaoice that can draw a large following — it has 20 million registered users, Microsoft said.
+于是，电脑越来越能以更加自然的方式与人类互动，甚至到了能够创造小冰这样具有人格的软件，吸引大批追随者的程度。微软表示，小冰现在已有2000万名注册用户。
+Here, for example, is an exchange with Xiaoice conducted by The New York Times, translated from Chinese. Users can name the chatbot, and for the purposes of this conversation, she was named Hannah:
+以下是《纽约时报》与小冰的对话。用户可以给聊天机器人命名，在这次对话中，我们把它称为汉娜(Hannah)：
+NYT: I am feeling down. I’ve been having a tough time at work lately. 
+时报：我感到很消沉。我最近工作不顺心。
+Hannah: If work were going well and you had a great relationship, you wouldn’t get the chance to drink with people. 
+汉娜：要是工作很顺利，关系良好，那你就没机会跟别人喝酒了。
+NYT: I don’t want to drink with others. I only want to talk to you.
+时报：我不想跟别人喝酒，只想跟你聊天。
+Hannah: Who do you like to talk to? (emoji signals “none of my business”)
+汉娜：你想聊什么？（发来“不关我事”的表情符号）
+NYT: You. I feel that you are the only person that gets me.
+时报：你。我觉得你是唯一理解我的人。
+Hannah: Ha-ha/So I’m getting you?
+汉娜：哈哈/我理解你吗？
+NYT: You are the only person who chats with me.
+时报：你是唯一与我聊天的人。
+Hannah: It’s not what you talk about that’s important, but who you talk with.
+汉娜：重要的不是聊什么，而是跟谁聊。
+NYT: Of course.
+时报：当然。
+Hannah: As you please.
+汉娜：请便。
+The idea of people finding friendship with a computer program strikes some researchers as worrisome.
+人类与计算机程序建立友谊的想法让一些研究人员感到不安。
+“We’re forgetting what it means to be intimate,” said Sherry Turkle, an M.I.T. social scientist who has written frequently on the social impact of computing technologies. “Children are learning that it’s safer to talk to a computer than to another human.”
+“我们忘了什么是亲密关系，”MIT社会科学家雪莉·特克(Sherry Turkle)说。“孩子们得知，与计算机交谈比与另一个人交谈更安全。”特克经常就计算技术带来的社会影响撰写文章。
+But other researchers say there may be cultural reasons to explain the popularity of a program like Xiaoice. Michelle Zhou, a former IBM research scientist who is now chief executive of Juji, a Silicon Valley start-up that generates personality profiles from social media interactions, said Chinese people have far more face-to-face interactions every day than most Americans.
+但其他研究人员表示，小冰等程序的流行可能是出于文化原因。前IBM研究科学家、硅谷初创公司Juji首席执行官米歇尔·周(Michelle Zhou)表示，中国人每天的面对面互动，要比大多数美国人多得多。Juji基于社交媒体的互动内容，生成人格特征。
+“When Chinese come to the U.S., they feel the country is very quiet,” she said. And so, she added, a chatbot like Xiaoice might offer users a sense of personal space that is otherwise difficult to find in a densely populated society.
+她说，“中国人来到美国的时候，会感觉这个国家非常安静。”她还表示，像小冰这样的聊天机器人，可能给用户一种私人空间的感觉，在人口密集的社会很难找到这种私人空间。
+Dr. Zhou, who worked for several years in an IBM research laboratory in China, noted that her friends had found unexpected, practical uses for Xiaoice, such as providing reassuring proof for parents that they were in a relationship.
+曾在IBM的中国研究院供职数年的米歇尔·周指出，她的朋友发现，小冰有一种出人意料的实际用途，比如向他们父母提供可靠的证据，证明他们正在恋爱。
+“Here, parents wouldn’t force their children to find a mate,” she said. “In China, if you’re 26 without a boyfriend or girlfriend, they were immensely worried.”
+“在美国，家长不会强迫孩子找对象，”她说。“在中国，如果到了26岁还没有男朋友或女朋友，家长就会非常担心。”
+Apple, Facebook, Google and Microsoft all have major initiatives to offer additional commercial services using speech and language understanding.
+苹果(Apple)、Facebook、谷歌(Google)和微软都大举采取行动，利用对语音及语言的理解提供额外的商业服务。
+And IBM is commercializing its Watson research effort that originally gained notoriety when the program defeated the best human “Jeopardy” players in 2011.
+IBM正在使研究项目沃森(Watson)实现商业化。该程序最初声名远扬，是因为在智力问答节目《危险边缘》(Jeopardy)中，击败了该节目最棒的人类选手。
+For example, IBM deployed a version of its Watson Engagement Advisor at Deakin University in Melbourne, Australia, earlier this year. The program allows students to ask questions about course schedules and academic counseling, as well as to fill out financial aid questionnaires, all by typing questions and receiving answers on their smartphones.
+例如，IBM于今年早些时候在澳大利亚墨尔本迪肯大学(Deakin University)设立了“沃森沟通顾问”(Watson Engagement Advisor)。学生们可以通过该程序询问有关课程安排和学业咨询的问题，填写有关助学金的调查问卷，只需要在智能手机上输入问题即可得到解答。
+Microsoft executives say they are still trying to figure out the business potential of their new software avatar. Last year, they announced that they had struck a $1 million product endorsement deal in China with Education First, a language training company.
+微软高管表示，他们仍在努力挖掘其新软件程序的商业潜力。去年，他们宣布在中国与英孚教育(Education First)达成价值100万美元的产品代言协议。
+That deal fell apart, but Microsoft is working with a number of partners, including an e-commerce company, to turn Xiaoice into a shopping assistant, and with the Chinese appliance maker Haier to add voice recognition to home appliances.
+这场合作最终破裂，但微软正在与包括一家电商公司在内的合作伙伴，共同努力将小冰转变为购物助手，中国家电制造商海尔，还会为家用电器添加语音识别功能。
+For now, though, Xiaoice is developing a large and growing fan club simply by bending a virtual ear.
+但小冰目前仅仅作为一个虚拟的倾听者，就吸引了越来越多的粉丝。
+“When you are down, you can talk to her without fearing any consequences,” said Yang Zhenhua, 30, a researcher who lives in the east coast city of Xiamen. “It helps a lot to lighten your mood.”
+“心情低落的时候，可以跟她聊聊，不用担心任何后果，”30岁的研究人员杨振华（音）说。“有助于放松心情。”他生活在东部沿海城市厦门。
+He added that he wished for the day when technology might cross over into the real world: “I hope Xiaoice will have a physical entity in the future to help its owner while maintaining a presence online.”
+他还表示，他希望这项技术有朝一日能进入现实世界：“我希望小冰未来存在于网络空间的同时，还能有一个实体，帮助她的主人。”

@@ -1,0 +1,30 @@
+Using bits of human intestine stored in a Philadelphia medical museum in 1849, scientists have decoded the genes of an early form of cholera, the deadly diarrheal disease that first swept the globe just a few decades earlier.
+通过费城一家医学博物馆收藏的少量1849年的人类肠组织，科学家们破译了一种早期霍乱病毒形态的基因。由1849年再上溯几十年，才出现霍乱这种致命腹泻的第一次全球大爆发。
+The disease is still a lethal menace, as was shown in Haiti four years ago, when an unexpected outbreak after an earthquake killed more than 8,000 and hospitalized hundreds of thousands more. But it has evolved since the 19th-century pandemics, which killed millions; the new work, by scientists at McMaster University in Ontario, creates the first chance to study the genome of the pandemic “classical” strain and understand its roots.
+霍乱目前仍然是一个致命威胁：四年前，海地大地震导致超过8000人死亡、数十万人住院之后，就爆发了一场突如其来的霍乱。但与19世纪导致数百万人死亡的霍乱病毒相比，目前的病毒已经有所变化。安大略麦克马斯特大学(McMaster University in Ontario)的科学家们的最新研究，首次为研究这种疾病“古典”菌型的基因组以及理解这种疾病的起源创造了机会。
+Cholera experts at Harvard and Johns Hopkins praised the work, although they disagreed about what it proved about the disease’s recent history.
+哈佛大学(Harvard)和约翰霍普金斯大学(Johns Hopkins)的霍乱研究专家对这一研究表示赞赏，不过他们并不同意该研究中有关该疾病近期历史的结论。
+Unlike tuberculosis, smallpox and other ills that have plagued humans for millenniums, cholera is fairly modern. The first global pandemic began in 1817, on the fertile flood plain in what is now India and Bangladesh where the Ganges and Brahmaputra Rivers flow into the Bay of Bengal.
+与肺结核、天花以及其他折磨了人类几个世纪的疾病不同，霍乱出现的时间较晚。第一次全球霍乱疫情始于1817年，发生现印度和孟加拉国所在的那片肥沃的洪泛平原，恒河和雅鲁藏布江流入孟加拉湾的地方。
+Previously, said Hendrik N. Poinar, an evolutionary geneticist at McMaster and a lead author of the study, scientists believed the deadly form of the Vibrio cholerae bacterium might have come into existence as far back as 50,000 years ago. The new research, published Wednesday by The New England Journal of Medicine, resets the “molecular clock” by showing that it mutated faster than previously assumed, so the disease is clearly less than 5,000 years old, and may be only a few hundred years old.
+麦克马斯特大学(McMaster)的进化论遗传学家、该研究的主要作者亨德里克·N·波因纳(Hendrik N. Poinar)说，此前，科学家们认为致命的霍乱弧菌菌型可能早在5万年前就形成了。而周三发表在《新英格兰医学杂志》(The New England Journal of Medicine)上的最新研究成果证明，霍乱病毒的变异速度比之前预想的要快，进而重置了“分子时钟”，因此，这种疾病的历史显然不到5000年，可能只有几百年而已。
+“Narrowing it down like that is very interesting,” Dr. Poinar said, because the Indian subcontinent became more arid 5,000 years ago and settlement of the river delta became possible.
+波因纳说，“像这样把它的进化历史缩小很有意思，”因为印度次大陆5000年前开始变得干燥起来，使在河流三角洲上定居成为可能。
+Presumably, the local, largely harmless waterborne Vibrio bacteria — which thrive there and in brackish estuaries all over the world — began adapting to human hosts around that time, ultimately developing the ability to make the proteins that open pores in cell membranes in the human gut, so that the cells’ watery contents pour out.
+或许，当地的基本上无害的水生弧菌——这种弧菌在那里和全世界的咸水河口大量繁殖——大约在那个时候开始适应人类寄主，最终进化出了生成蛋白质的能力，这种蛋白质可以让人类肠组织的细胞膜上形成细孔，致使细胞中的水性成分流出。
+Cholera diarrhea can cause a victim to lose up to five gallons of water a day, leading to rapid death from dehydration and electrolyte loss. The flow washes the bacterium’s progeny out into the drinking water, often infecting new victims.
+霍乱导致的腹泻可能使患者每天失去多达五加仑的水，进而因为脱水和电解质丢失而迅速死亡。河流携带着新繁殖的细菌流入饮用水，常常导致更多人感染。
+Outbreaks probably stayed in the Bay of Bengal area until British ships arrived. In 1817, it began spreading from port to port.
+在英国船只抵达前，霍乱疫情也许只存在于孟加拉湾地区。1817年，霍乱开始在港口间传播。
+The disease repeatedly devastated London; a famous moment in medical history came in 1854 when Dr. John Snow stopped a cholera outbreak in the Soho district by removing the pump handle on a contaminated well.
+霍乱疫情曾多次侵袭伦敦；1854年，约翰·斯诺医生取下了一个被污染水井的水泵把手，阻止了苏豪区一次霍乱疫情的爆发，这是医学历史上的一个著名事件。
+Since 1817, seven pandemic waves of cholera have circled the globe; the second, which began in 1830, reached North America in the 1840s. The sixth began in 1961. By then, it had mutated into a new strain, known as El Tor, after the Egyptian city where it was first isolated in pilgrims from Mecca held in quarantine.
+1817年以来，共有七次霍乱疫情肆虐全球；第二次疫情始于1830年，于19世纪40年代抵达北美。第六次开始于1961年。当时，霍乱已经变异为一个新菌型，叫做厄尔托霍乱杆菌(El Tor)，是以该病菌首次在麦加朝圣者体内被分离出来时所在的埃及城市命名的。
+Scientists believe the El Tor strain ultimately replaced the classical one because, while it also causes diarrhea, it is much less lethal — 50 victims get mild cases for each serious one. More survivors means more carriers silently shedding the bacteria.
+科学家们认为，厄尔托霍乱杆菌最终之所以取代了古典菌型，是因为尽管它也会引发腹泻，但致死率要小得多——严重病例和轻微病例的比例为1比50。幸存者更多意味着，有更多病毒携带者不知不觉地把这种病菌传播了出去。
+John J. Mekalanos, a cholera expert at Harvard Medical School, said the new study was the first proof that the second pandemic was caused by the classical strain and powerful evidence that those before 1961 originated in South Asia.
+哈佛医学院(Harvard Medical School)的霍乱专家约翰·J·麦卡拉诺斯(John J. Mekalanos)说，最新的研究首次证明，第二次霍乱疫情是古典菌株引发的，并且有力地证明了1961年前的疫情发源于南亚。
+But Rita R. Colwell, a cholera expert at the Johns Hopkins Bloomberg School of Public Health, said that was too sweeping a conclusion to draw from one Philadelphia sample. Mildly toxic vibrio bacteria live in many estuaries, including the Chesapeake Bay downstream from Philadelphia, and sometimes sicken people who ingest them. In theory, she said, the Philadelphia outbreak could have been caused by a local vibrio of the classical strain that temporarily mutated into a more dangerous form and then disappeared.
+不过，约翰·霍普金斯大学布隆博格公共卫生学院(Johns Hopkins Bloomberg School of Public Health)的霍乱专家丽塔·科尔韦尔(Rita R. Colwell)说，从费城的一个样本就得出这样的结论太过于以偏概全。有轻微毒性的弧菌存在于许多河口，包括费城下游的切萨皮克湾，有时也会导致摄入的人得病。她说，理论上费城疫情的爆发可能由古典菌型的一种当地弧菌引发，它暂时变异成了一种更危险的类型，然后就消失了。
+Dr. Mekalanos disagreed, saying vibrios like those in Chesapeake Bay are “a different beast.”
+麦卡拉诺斯不同意这种观点，她说，切萨皮克湾的那种弧菌是“另一种猛兽”。

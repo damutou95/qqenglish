@@ -1,0 +1,54 @@
+Hurricane Sandy hit the East Coast in October 2012 while I lived in New York and juggled three jobs. Along with working at a restaurant and a news agency on nights and weekends, I spent my weekdays commuting from Brooklyn to a media company in Manhattan. When the hurricane made landfall, it crippled the city’s public transportation system for weeks, leaving me all but severed from office headquarters.
+2012年10月，当我还居住在纽约、打三份工的时候，飓风“桑迪”(Sandy)袭击了东海岸。除了晚上和周末在一家餐馆与新闻机构上班，工作日白天的时候我每天从布鲁克林通勤至一家位于曼哈顿的媒体公司。当飓风来袭时，整个城市的公共交通系统瘫痪了数周，切断了我与办公室总部的联系。
+More than 8.1 million people in the region were without electricity in the days that followed. Yet in my Bedford-Stuyvesant apartment we had power, internet, and plumbing. This fortune came with another price: Those of us who were able to worked remotely.
+接下来数天，该地区有超过810万人经历了停电。但在我位于贝德福德-斯图文森区(Bedford-Stuyvesant)的公寓里，我们有电、网络，上下水通畅。这一幸运还伴随着另一个好处：我们这些人可以远程工作。
+In the calm days following the storm, I woke up each morning, rolled across my sheets, reached for my laptop, logged into various tools — Google Chat, Basecamp, Trello — and got to work. My roommate would bring me coffee from the bodega, and I would not leave my bed until my shift ended (eight hours later), around which time I would shower and hike to a nearby bar for dinner. As the city fought to restore power, there was a candlelight afterglow wherever I walked. That first week I told myself, “I could get used to this.”
+在风暴过后的平静日子里，我每天早上醒来，从床单里滚出来去拿电脑，登陆各种办公软件开始工作。我的室友会给我弄来咖啡。直到下班前（也就是八个小时以后），我都不会离开床。下班后我才会去洗澡，然后走到附近的一个酒吧里吃晚饭。第一周我对自己说，“我还真能习惯这个。”
+Then things soured. I began to loathe working remotely. I felt unkempt and dirty, lonely and disconnected, malnourished and unhealthy. Turns out in my hasty jump into remote work, I had fallen for the most common pitfalls. More than five years later, I’m now a regular from-afar employee — whether it be from an apartment in Brooklyn, a cabin in upstate New York, or my tiny home in Maine — and I can comfortably and productively contribute a solid day’s work from almost anywhere.
+然后情况就变得不太好了。我开始厌恶远程上班。我觉得自己邋遢又肮脏，孤独又与人疏离，营养失调又不健康。原来在我匆忙开始远程办公的时候，我掉进了最为常见的陷阱。五年多以后的今天，我成为了一个常规在家办公的雇员——无论是从布鲁克林的公寓、纽约北部的小木屋，还是我在缅因州的小家，而且我已经可以舒适、卓有成效地从几乎任何地方为一天的工作作出贡献。
+There are many things that contribute to becoming a successful work-from-home employee. As more companies across nearly every industry accommodate an increasing number of employees wishing to forego the morning commute and office pantry footfall, remote work has become an increasingly easy and breathlessly viable option for many who seek it.
+想成为一名成功的在家办公的员工，有很多因素。几乎在每个行业中，都有着大批想要放弃早上通勤的员工，远程办公也已变得愈发简单，对不少希望这么做的人来说，可行性变得更高。
+Here is a modest guide to becoming a successful remote employee, a culmination of what I’ve learned along the way.
+这里是一份成为成功的远程办公员工的简易指南，是我远程办公一路走来所学到的。
+Get Dressed for the Day
+为这一天穿戴整齐
+Don’t wake up to the blue hue of your smartphone and immediately start working. Place it across the room, or better yet, in an adjacent one, and force yourself up and out of bed to turn off your alarm each morning. When the alarm does go off, get up and prepare for your day as you would for an office job: take a shower, and get dressed.
+别一被手机吵醒就立刻开始工作。把它放在房间另一端，更好的做法是放在隔壁房间里，每天早上强迫你自己离开床去关掉闹钟。然后像要去办公室一样做准备：洗澡，穿戴整齐。
+Don’t Sleep Where You Work
+别在工作的地方睡觉
+Whether it’s a rented office space or a den converted into a home office or a cabin in the woods for that matter, find a space away from your bedroom to work. (Then again, F. Scott Fitzgerald did most of his work while lying in bed.) Worst case, toss your laptop in your bag, grab a pair of headphones and head to a local coffee shop that has Wi-Fi or even a quiet spot at your local library to set up shop and get things done. Just be courteous if you plan to make a public space your office — be sure that coffee shop is O.K. with people working there for long hours, and make your all-day presence at one of their tables worthwhile by buying food and drinks.
+无论是租的办公室、改装而来的家庭办公室，还是森林里的小屋（然而，F·司各特·菲茨杰拉德[F. Scott Fitzgerald]的大部分作品是在床上写就的）。最不济你也得把笔记本扔进背包里，拿起耳机冲向当地有着无线网络的咖啡店或是当地图书馆的安静一角，来完成工作。如果你想把公共空间当作自己的办公室，要有礼貌——确认咖啡馆对人们在那里长时间工作没有意见，还要确保你在那里点单的食物和饮料的价值是和你待一整天的时间相符的。
+Set Yourself Up
+给自己设置好一切
+Before divorcing completely from the office, check with your corporate IT department and your manager to see if you are equipped with the programs and applications necessary to work remotely. Security first: If you connect to your company’s internal systems or email through a Virtual Private Network or other secure tunnel, make sure you’ve tested it and that it functions from where you plan to work. Also, have a backup plan in the event your connection experiences disruptions.
+在完全脱离办公室之前，和你公司的IT部门及你的经理核实一下是否已安装好了用于远程工作的各种程序和应用。首先是安全方面的：如果你通过虚拟专用网络（virtual private network，简称VPN）或其他安全渠道接入公司的内部系统或接收邮件，要确保你已经对其进行过测试，能从任何你想远程工作的地方连得上。此外，当你的链接遭遇干扰的时候，要有一个后备计划。
+The same advice applies to internet connectivity. I make sure that if the wireless internet in my home office fails, I can still connect seamlessly through my smartphone, set up as a Wi-Fi hot spot.
+这一建议也同样适用于网络连接。我确保一旦家庭办公室的无线网络无法连接上，就能无缝转换到手机上设置的热点。
+Communicate Often
+要常沟通
+The ability to communicate quickly and reliably is the most priceless attribute a remote employee needs to succeed. Update your manager or boss frequently. Most offices use some group chat service, like Slack, to communicate with each other during the day, and tools like Google Hangouts or Skype for video calls and meetings. Make sure they’re installed and you know how to use them, and make your presence known to your colleagues (especially your boss) when you are available and working.
+能够快速有效地进行沟通，是远程工作的员工想要成功最为无价的特质。要经常和你的经理或老板报告你的情况。大多数公司都会使用像Slack这样的群组聊天服务来与彼此交流，还会使用像Google Hangouts或Skype这样的工具来进行视频会议或开会。要确保你安装了这些软件，以及自己知道该如何使用它们，还要确保当你在工作的时候，同事们（尤其是你的老板）知道你的存在。
+Find out which of those platforms are the most convenient for the people with whom you frequently communicate. If you’re not working and are out on a walk or a lunch date, don’t ignore that message from a co-worker seeking clarification or assistance. Follow up, and be sure that while you are on the clock, you remain as available as if you were seated right beside them, even if it’s just to say “I’m away from my desk, but I’ll let you know as soon as I’m back.”
+要找出哪种平台对于和你共事的人来说最方便。如果你没在工作，出去走了走或者和人吃了个午饭，也不要忽视来自同事寻求帮助或确认事情的信息。要跟进，确保你在上班时间出去的时候，还是一样可以被找到，就像坐在他们旁边一样，即使只是说一句“我现在不在电脑前，但我回来会立刻回复你。”
+Get Into Your Groove
+进入状态
+Set goals. Make a list of things that need to be tackled today, this week, and this month.
+要制定目标。列出一个清单，写上需要在今天、本周和本月解决的事情。
+Follow the S.M.A.R.T. goal approach: Make sure your to-do list for the day includes tasks that are specific, measurable, achievable, realistic and time-bound.
+按照这个明智的制定目标的方式来做：确保你今天的待办事项里的任务明确、可行、现实并且是带有时限的。
+Plan Against Distractions
+做好应对干扰的计划
+Block out disturbances. Set (and enforce) boundaries if you’re working at home by explaining to family members or children that your work area is off limits, and they should avoid interrupting unless it’s important.
+摒除干扰。如果你在家办公，要设定（并且执行）好界限，要向你的家人和孩子解释自己的工作区域是不能碰的，他们应当避免打扰你，除非事情很重要。
+Get Out
+出门
+Find time to go for short walks to help inspire productivity and creativity. One of the blessings of working remotely is the opportunity to live a more active lifestyle instead of being deskbound, but it’s important to make activity a habit. Otherwise you’ll fall into the inertia of sitting at your desk all day and never leaving the house at night.
+要找出时间短暂走一走，帮助激发生产力和创造力。远程办公的一个好处就是能过上更为积极的生活方式的机会，而不是整天被绑在办公桌前。让活动变成习惯很重要，不然你就会变得懒惰，整天坐在桌子前，晚上也不出门。
+It’s important to socialize to combat the inherent loneliness and isolation you’ll feel while out of a traditional office setting. I’ve found that chatting with the owner of my corner store or other local establishment gives my days a light, communal routine, similar to what I would get in an office environment.
+通过社交来打败远程工作本身自带的孤独感和疏离感很重要。我发现与我家附近店铺老板聊天能让我这一天有一种轻松、公共的日常感，类似在一个办公环境里的感受。
+If you are more secluded, brisk bike rides or short hikes elevate endorphins and sharpen focus the same as a quick tour of your neighborhood. Worst case, make plans to get out of the house with family or friends when the workday is over.
+如果你比较与世隔绝，轻快的骑车或短暂的徒步都能提升安多芬和增强注意力，迅速在你的街区里转一圈也是一样。最差也要在下班后和家人或朋友一起出去转转。
+When You’re Off Work, Separate Entirely
+下班了，就完全把工作和生活分开
+Separating your technology from the place where you come to recharge and disconnect at the end of the day is invaluable to the discipline needed for working remotely. Just as you should wake up in a room absent of technology, you should return to one once you’ve completed a day’s work. When you log off for the day, log off. Close your work chat programs and emails and consider yourself “out for the day,” and “home now.”
+要把给自己充电和结束一天的工作、下线后使用的科技分开，这一点对远程工作所需要的纪律来说，重要性无可估量。就像你应当在一间不带有科技的房间里醒来一样，结束了一天的工作后，你也应该这么做。当你这一天下线后，就要真的下线。关掉工作聊天软件和邮件，就当你自己这一天是“外出”的，如今“在家”了。

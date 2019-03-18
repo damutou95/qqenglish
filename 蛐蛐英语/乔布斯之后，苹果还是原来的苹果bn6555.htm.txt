@@ -1,0 +1,46 @@
+When Steven P. Jobs led Apple, he created a core principle for the company’s designers and engineers: stay fully focused on making great products.
+史蒂芬·P·乔布斯(Steven P. Jobs)领导苹果时，他要求公司的设计师和工程师恪守一个核心理念：全心全意专注于研发伟大的产品。
+That philosophy continues to guide Apple, even under its new chief executive, Timothy D. Cook, says Jonathan Ive, the company’s head of design. Mr. Ive, who rarely speaks publicly, said in an recent interview for an article about Apple under Mr. Cook that the company’s design processes remained unchanged, vibrant and healthy. An edited transcript of the interview follows.
+即使在新首席执行官蒂莫西·D·库克(Timothy D. Cook)的领导下，这个理念也一直引领着苹果，乔纳森·艾夫(Jonathan Ive)说。艾夫是苹果的设计主管，平时很少公开发表言论。最近，为了一篇关于库克领导下的苹果的文章，艾夫接受了采访。他说，苹果公司的设计流程一如既往，仍然充满活力且行之有效。以下是经过编辑的采访实录。
+Q. What does innovation culture look like at Apple under Tim Cook? How has it changed, if at all?
+问:在库克的领导下，苹果公司的创新文化是怎样的？和以前相比，有什么变化吗？
+A. Innovation at Apple has always been a team game. It has always been a case where you have a number of small groups working together. The industrial design team is a very small team. We’ve worked together, most for 15 or 20 years.
+答:创新在苹果向来是一个团队游戏。它一直是由若干个小团队共同实现的。工业设计团队规模很小，我们大多数人已经合作15到20年了。
+That’s a fairly typical story here: Creative teams are small and very focused. One of the underlying characteristics is being inquisitive and being curious. Some of those personal attributes and hallmarks haven’t changed at all.
+创意团队通常规模较小且目标明确——这在苹果公司相当典型。这些团队的特点之一是好奇和钻研。有些个性和特质完全没变。
+Often when I talk about what I do, making isn’t just this inevitable function tacked on at the end. The way we make our products is certainly equally as demanding and requires so much definition. I design and make. I can’t separate those two.
+通常，说到我自己的工作，制造并不仅仅是一个在最后才附加上去的必不可少步骤。制造产品的过程中，要求同样是很高的，也需要做出同样多的定义。我的工作既有设计又有制造，两者是不可分割的。
+This is part of Steve’s legacy. Deep in the culture of Apple is this sense and understanding of design, developing and making. Form and the material and process – they are beautifully intertwined – completely connected. Unless we understand a certain material — metal or resin and plastic — understanding the processes that turn it from ore, for example – we can never develop and define form that’s appropriate.
+这种理念是史蒂夫留下的部分遗产，这种对设计、研发、制造的理解，深深植根于苹果的文化中。外形、材料和流程三者完全联系在一起，美妙地相互交织。除非我们了解某种材料，无论它是金属、树脂，还是塑料，例如了解它从矿石转化而来的过程，我们永远无法研发并界定出合适的外形。
+Steve established a set of values, and he established preoccupations and tones that are completely enduring – and he established those principles with a small team of people. I’ve been ridiculously lucky to be part of it. But Tim was very much part of that team – for that last 15 or 20 years.
+史蒂夫建立了一套价值观，他确立了重点和基调，它们完全延续了下来。这些观念是他与极少的一些人共同建立的，我超级幸运地成了当中的一分子。而蒂姆也一直是那个团队中的一员，在过去的15到20年间都是。
+I remember clearly a time when we made plastic portable computers, and Steve and Tim and I sat down and said we wanted to build an incredibly thin and light portable computer. There was a whole range of challenges from an engineering point of view: How it worked in a new material, titanium. That meant we had to completely redesign and discover new partners to work with, hire a whole new organization.
+我记得很清楚，当我们还在制造塑料手提电脑的时候，史蒂夫、蒂姆和我坐在一起，谈到我们想要设计一款超薄、轻便的手提电脑。从工程角度来说，那可是真的充满了一连串的挑战︰要如何使用钛这种新材料进行设计呢？也就是说，我们的设计要从头再来、寻找新合作伙伴，并雇佣一个全新的团队。
+I’ve worked for the last 15 or 20 years on the most challenging, creative parts of what we do. I would love to talk about future stuff – they’re materials we haven’t worked in before. I’ve been working on this stuff for a few years now. Tim is fundamentally involved in pushing into these new areas and into these materials.
+在我们的工作里，我负责最具有挑战性和创意的部分已有15到20年。我特别喜欢谈论一些未来的东西，一些我们以前没有用过的材料，现在我在这方面的工作已经数年了。蒂姆完全参与了进来，把我们推进新领域、让我们使用新材料。
+Over years you develop a process – we, a team, develop a process – that process is incredibly vibrant and healthy and continues to grow and evolve.
+随时间流逝，你会形成一个流程，我们作为一个团队会形成一个流程——它充满活力，状况良好，并会持续成长、演变。
+Q. You recently assumed leadership of software interface design. Has this altered the company’s design process?
+问︰你最近履新，开始领导软件界面设计了，这有否改变公司的设计流程？
+A. I provide some leadership and direction in terms of user interface – a subset of software. Just as I work, I’m working in the same way with the user interface team. Just geographically, we’ve always been close. The core creative community is very small but is also very close – there’s been changes there, but the change isn’t perhaps as dramatic as you might assume.
+答︰用户界面是软件的一部分，我目前担任一些领导工作，并提供方向性指导。一如我此前的工作，我以同样的方式与用户界面的团队合作。在工作环境上，我们一直都很亲密。核心的创意团队人数很少，彼此之间关系非常紧密——当然也曾经有过变动，只是那些变动可能并没有你想象中的那么大。
+One of the values of things I learned absolutely directly from Steve was the whole issue of focus. What are we focusing on: focus on product. I wish I could do a better job in communicating this truth here, which is when you really are focused on the product, that’s not a platitude. When that truly is your reason for coming into the studio, is just to try to make the very best product you can, when that is exclusive of everything else, it’s remarkable how insignificant or unimportant a lot of other stuff becomes. Titles or organizational structures, that’s not the lens through which we see our peers.
+我最直接地从史蒂夫身上学到的一个价值观，就是要把握重心，抓住焦点。我们的焦点在哪里？就是产品。我真希望自己能再把这个道理表达得好一些，就是你要真的全神贯注于你的产品之上，这不是老生常谈。当你来到工作室时只抱着一个目的，就是要尽力设计出最好的产品，除此之外没有一丝杂念，你会惊讶地发现，很多其他事物都微不足道。官衔、在组织架构里的位置，这些都不是我们看待同事的标准。
+Q. What is it like working with Mr. Cook? Can you give us any examples or anecdotes that demonstrate his leadership?
+问︰与库克一起工作是什么感觉？可以给我们说些例子或轶事，讲讲他如何展示领导才能吗？
+A. We meet on average three times a week. Sometimes those meetings are over in his space, sometimes here in the design studio. We all see the same physical object. Something happens between what we objectively see and what we perceive it to be. That’s the definition of a designer – trying to somehow articulate what contributes to the way we see the object.
+答︰我们平均每星期见三次面，有时候会去他工作的地方，有时候会在这个设计工作室。我们都看到同样的东西。在客观所见与我们的理解之间，会有些不同。这就是对设计师的定义︰努力阐释是哪些因素促成了我们看待事物的方式。
+Heading on for two decades working with Tim, one of the things I have always admired is the quiet consideration he gives to trying to understand how he perceives something. He will take the time. I think that testifies to the fact that he knows it’s important.
+与蒂姆合作近20年了，其中一件事一直让我非常敬佩，那就是他愿意默默去尝试理解自己对某些事物的感受。他乐于花时间做到这一点。我想这可以证明他明白这很重要。
+Q. Is it hard to be patient with yourselves while investors and fans alike are clamoring for the next iThing?
+问︰当投资者与粉丝们都嚷着要苹果推出新产品时，是不是很难保持耐性？
+A. It is hard for us all to be patient. It was hard for Steve. It is hard for Tim. At any point in time, working on something, it’s always hard to just keep focusing on the product. One of the things different between us and some of our competitors is we just focus on the product, developing good products.
+答︰我们所有人都很难做到保持耐性，对史蒂夫来说很难，对蒂姆来说也是如此。在任何时候，当你正在埋首于一项设计时，往往都很难只专注于产品之上。但我们与一些竞争对手的一个不同之处，就是我们只专注于产品，开发好的产品。
+Honestly, I don’t think anything’s changed. People felt exactly the same way when we were working on iPhone. The iPhone was broadly dismissed. The iPod was broadly dismissed. The iPad was probably more copiously written off as a large iPod.
+老实说，我不觉得有任何东西发生了改变。我们在研发iPhone时，人们的感受和如今一样。很多人当时对iPhone嗤之以鼻，很多人当时对iPod嗤之以鼻。对iPad的批评之声可能更大，人们觉得那就是放大了的iPod。
+My focus is incredibly narrow. I can’t talk with any authority other than design and development of product. When I look back over the last 20 years, you have this sense that, you’re working on something that’s incredibly hard, when you’re working on it, you don’t know whether it’s going to work out or not.
+我的专注领域极为有限。除了产品的设计和研发，我谈论任何话题都没有底气。回顾过去的20年，我会感到自己一直在做一件极为艰难的事，当你在做这件事的时候，你根本不知道结果会怎样。
+The benefit of hindsight is we only really talk about those things that did work out. You have this sense that you’re working on something incredibly hard. When working on projects, you have this determination. You just keep going. If doing anything new, you’re very used to having insurmountable obstacles. At some point you have to make a call — at some point you have to say, “We’ve stretched this and we’ve come up against laws of physics, which we cannot change.”
+回顾过去的好处是，我们真的只会谈论那些做成了的事。你会觉得自己所做的都十分艰巨。在进行项目时，你会很有决心，一直努力地向前。在面对新挑战时，你已经习惯了应对那些难以克服的障碍。有时，你要做出决定——到了某个节点，你会不得不说: “我们已经竭尽所能了，达到物理定律的极限了，而我们无法改变定律。”
+When that’s your day to day, you’re so consumed by the products and the problems and the challenges, that it’s actually quite easy to be impatient.
+如果你天天都要面对难题，精力都被产品、问题以及挑战所耗尽了，那么很容易就会感到不耐烦。

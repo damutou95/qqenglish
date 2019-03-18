@@ -1,0 +1,26 @@
+The crash of a German passenger jet in the French Alps has once again raised the question of whether commercial airplanes should transmit flight information in real time.
+发生于法国境内阿尔卑斯山脉的德国客机坠毁事故，再一次提出了民航飞机是否应该实时传送飞行信息的问题。
+Investigators in France are trying to figure out why the pilots of the Germanwings Airbus A320 jet remained silent for nearly 10 minutes as their plane descended from its cruising altitude of 37,000 feet and crashed into a mountain on Tuesday. All 144 passengers and six crew members died, according to local authorities. 
+法国调查人员正在试图弄清，周二当飞机从37000英尺（约合11300米）的巡航高度下降，直至撞击山脉的过程中，为何德国之翼(Germanwings)的这架空客A320飞机的驾驶员，有将近10分钟时间完全保持沉默。据当地政府称，144名乘客和6名机组成员全部丧生。
+Investigators also said that the memory card from the plane’s other so-called black box, the flight data recorder, was missing, leaving them without reliable information, for now, on the plane’s altitude, speed and location.
+调查人员还表示，这架飞机的另一个“黑匣子”飞行数据记录仪的存储卡尚未找到，导致目前没有关于飞机飞行高速、速度及位置的可靠信息。
+The crash comes as the aviation industry, regulators and pilots have been grappling with the question of real-time flight monitoring, particularly since the disappearance last year of Malaysia Airlines Flight 370. In 2009, the crash of Air France Flight 447 in the Atlantic highlighted the shortcomings of the existing technology after it took search teams two years to locate the plane’s black boxes.
+这场空难发生之际，航空业、监管机构及飞机驾驶员正在为实时航班监控问题争执不休，这个问题自去年马航370航班失踪以来尤其受到了关注。2009年，法航447航班在大西洋坠毁后，搜救队花了两年时间才找到飞机的黑匣子，突显了现有技术的缺陷。
+Regulators and airlines are weighing whether the cost of the extra technology needed for such monitoring would be justified given the fact that airline crashes have become increasingly rare. Last year was the safest year on record for commercial flight.
+由于飞机坠毁事故越来越少见，监管机构和航空公司正在权衡，这类监控所需的附加技术的成本是否合理。去年是有记录以来，民航飞行最安全的一年。
+Still, the crash Tuesday has revived the question of whether pilots should be videotaped during flight.
+然而，周二的空难再次提出了一个问题：飞行期间是否应该对驾驶员录像？
+This year, the National Transportation Safety Board endorsed the use of cockpit videos as one of eight recommendations to help investigators and emergency medical workers react faster to accidents.
+今年，作为八项旨在帮助调查人员和急救工作者更快应对事故的建议之一，驾驶舱录像得到了美国国家运输安全委员会(National Transportation Safety Board)的支持。
+The safety agency said that all flight data and cockpit voice recorders should have a tamper-resistant mode to broadcast to a ground station enough information to establish a crash site within about seven miles. In practice, this could include either a recorder that would eject at impact or some form of data streaming.
+运输安全委员会表示，所有飞行数据和驾驶舱声音记录装置，都应该有一种防破坏模式，向地面接收站传送足够多的信息，从而确定失事地点，并将误差控制在方圆7英里（约合11公里）以内。在实际操作中，要么需要包含一个受到撞击时弹出的记录仪，要么需要发出某种形式的数据流。
+It also called for low-frequency devices that can broadcast their location for 90 days; such “pings” are already embedded in two black boxes, but their batteries are required to last only 30 days and their range is limited.
+委员会还呼吁，装配能播报地点长达90天的低频设备。发射这种“ping信号”的信标已经嵌入了两个黑匣子，但现有规章只要求其电池续航30天，而且其信号覆盖范围也有限。
+Airlines have argued, however, that real-life monitoring and the transmission of thousands of flight parameters would be too onerous given the number of flights a day and the volume of data that would have to be collected.
+然而，航空公司辩称，考虑到每天航班的数量及需要收集的数据量，实时监控和传送几千个飞机参数的工作量将过于繁重。
+While modern planes often have sophisticated satellite communications equipment, they are not required to broadcast their position in real time to air traffic controllers. In these cases, airlines require pilots to send satellite messages or radio their position at set periods.
+现代飞机虽然通常配备精密的卫星通讯设备，但不需要向空中交通管制实时播报位置。在这种情况下，航空公司要求驾驶员定期发送卫星信息，或用无线电通讯汇报位置。
+But this also means that planes flying over oceans or in areas where radar coverage is scarce can vanish from view. This explains why finding Air France Flight 447 was so challenging. Few in the industry expected that another plane would ever disappear entirely and never be found, as has been the case with the Malaysian jet.
+但这同时意味着，位于大洋上空或雷达覆盖稀少区域的飞机可以从视野中蒸发。这就解释了为什么寻找法航447航班的过程如此艰难。业内少有人预料到，另一架飞机会完全消失，再也无法找到，失踪的马航客机就是这样。
+The Air Line Pilots Association, the largest pilot union in the country, is opposed to the use of “cockpit image recorders,” saying that they are an invasion of privacy and that existing technology provides ample information about what happens on a plane.
+航空公司飞行员协会(Air Line Pilots Association)——该国最大的飞行员工会——反对使用“驾驶舱图像记录仪”，称它们侵犯隐私，并称现有技术已提供了足够多的信息记录飞机上发生的事情。

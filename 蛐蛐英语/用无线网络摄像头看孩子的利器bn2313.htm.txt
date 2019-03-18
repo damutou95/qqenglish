@@ -1,0 +1,40 @@
+I still remember the baby monitor my parents had — my friends and I used as a primitive walkie-talkie.
+我还记得父母买的婴儿监护器——我和小伙伴们把它当成原始的对讲机来玩。
+It was very basic: One boxy unit went in the baby’s room near the crib. It had a microphone so if the baby made a sound you’d hear it on the other unit, at the end of a long wire. You could even send your voice back up the wire to lull the little one back to sleep.
+它很简单：一个方方正正的装置，放在婴儿房的童床旁边。它内置了麦克风，如果宝宝发出声音，你就可以通过一条长长的传输线在另一端的装置上听到。你甚至可以把自己的声音传送回去，哄小宝宝继续睡觉。
+Needless to say, our games were limited by that wire.
+不用说，小伙伴们的对讲机游戏受到了那根传输线的限制。
+Technology has improved quite a bit since my childhood, of course, a point made ridiculously clear by the newly released Dropcam Pro.
+当然，自我孩提时代以来，技术已经出现了不小的进步。在新近发布的Dropcam Pro上，这一点表现得实在是再明显不过了。
+Dropcam Pro is a $200 wireless webcam with two-way audio and night-vision capabilities. It’s an upgrade over the previous model, simply named Dropcam. The size-imaging sensor in the new unit is twice as big, which means the camera captures much more light and can deliver a better picture with more zoom capability.
+Dropcam Pro是带有双向语音传输和夜视功能的无线网络摄像头，价格为200美元（约合1210元人民币）。作为上代产品Dropcam的升级款，它的成像传感器尺寸增大了一倍，因此摄像头可以捕捉更多的光线，通过更强的变焦能力提供更好的成像效果。
+Plus, it has a 130-degree field of view, bigger than the previous 107 degrees. What does this mean? In my case, it means that after standing the camera on a shelf in my children’s room it can see a lot of the floor, a bit of the ceiling, the window, the door and their beds from about six feet away. All in up to 1080p, HD video detail, even at night.
+另外，它的可视角度达130度，超越了上代产品的107度。这意味着什么呢？拿我家来说，这意味着把它放在孩子们房间的架子上时，我可以看到很大面积的地板、一点点天花板、整扇窗户、房门，以及大约6英尺（约合1.83米）外的多张儿童床。即便在夜间，它也可以拍摄1080p的高清视频细节。
+The camera unit itself is a sturdy, plain, hockey-puck-shaped device, and it clips into a similarly sturdy and plain metal stand. The stand can be placed on a flat surface, and you can turn it left and right and tilt the camera up and down. This stand can also be clipped into a plastic mount that can be screwed to a wall or ceiling for a more permanent installation.
+摄像头本身牢固结实、质朴无华，形状类似于冰球，卡在一个同样结实而质朴的金属座上。你可以把金属座放在任何一个平面上，左右旋转它，或者让摄像头上下倾斜。你也做长久一些的打算，在墙壁或天花板上安装一个塑料支架，然后把金属座卡在支架上。
+The main limitation: you need to be within about 10 feet of a power socket, because that’s the length of the cable that comes with it.
+它的主要局限：跟电源插座的距离不能超过10英尺，这是它本身附带的电线的长度。
+Over the years, my wife and I have tried a number of baby monitors, but they’ve either been unreliable or tricky to set up and maintain. This seems to be the situation the team at Dropcam has tried to avoid. Installing, then setting Dropcam up and using it via a web-based control from a computer or an app on an iOS or Android device couldn’t be simpler.
+多年来，我和妻子已经使用过一些婴儿监视器，但它们要么不牢靠，要么设置和维护起来很麻烦。而这似乎正是Dropcam团队着力避免的问题。安装Dropcam Pro，设置它，然后通过计算机网页控制界面或iOS、Android应用程序来使用它，整个过程都简单至极。
+Although I’ve introduced Dropcam Pro as a baby monitor, you can imagine it’s capable of much more. The wide-screen camera, night vision and movement or sound alerts make it handy as a home or small business security monitor. But you’re hardly going to be watching around the clock.
+虽然我是把Dropcam Pro作为一个婴儿监视器来介绍，但你也可以想象出它拥有大量其他用途。有了广角摄像头、夜视、动作或声音警报，把它当作家庭或小型企业安全监控设备也很方便。但你不大可能整天整夜地盯着它。
+That’s where Dropcam’s secure, cloud-recording service comes in handy. It encrypts the video feed in the camera and constantly records it on the company’s servers. Then it streams it back to your home using security like your bank’s website.
+而这也就是Dropcam的安全云录制服务派上用场的地方了。它会加密摄像头的视频，连续不断地在公司服务器上录制。然后，它通过类似于银行网站的安全机制，把视频传回到你的家里。
+To view the feed at any point over the previous few days, you click on the corresponding point on the timeline in the Dropcam app. A graphic above this timeline shows you when the camera detected movement or noise alerts. Clicking here brings up a camera feed at that moment, so you can see what caused the alert.
+要查看几天前某个时候的视频，只需点击Dropcam应用程序上时间轴的相应时间点即可。时间轴上面有一张图，显示摄像头在何时侦测到了位置移动或声音变化。点击它，你可以看到摄像头在该时刻拍摄的视频，这样你就可以具体查看究竟是什么事情触发了提醒。
+To keep the recording, you click on the “make clip” button, which changes the interface to allow you to select a few seconds or minutes of video from the timeline. This clip is saved to the company’s servers as a file you can share via Twitter or YouTube. You can also email it to yourself or download it.
+要保存记录，只需点击“制作剪辑”按钮，就会出现另一个界面，这时你可以从时间轴上选择保存几秒或者几分钟长的视频。选中的剪辑保存在公司服务器上，你可以用Twitter或YouTube分享它，也可以用电子邮件发送给自己或者直接下载。
+Cost is a big downside to all this functionality. While you can always watch your Dropcam Pro feed free, the secure recording system is costly. On monthly billings, it costs $9.95 to record a seven-day video loop, or $29.95 for 30-day loops. On annual billings, the prices are $99 a year or $299 for seven-day or 30-day video loops.
+要想使用上述这些这些功能，成本是一个很大的问题。虽然你可以随时免费观看自己的Dropcam Pro实时视频，但安全可靠的录制系统是需要花大价钱的。录制7天一个周期的视频每月费用为9.95美元，30天一个周期每月费用为29.95美元。如果包年，费用则分别为99美元和299美元。
+That can add up over time, particularly if you have more than one camera (though you can get half-price discounts for extra cameras).
+时间一长，这笔费用累积起来就很可观了，特别是在你有不止一个摄像头的情况下（虽然第二个以上摄像头可以获得半价优惠）。
+Now for my quibbles: There is no way to change where the camera is pointing in real time. That could limit your options if you want to use it as a security device. There’s also a perceptible lag in the video feed, which means your baby may have been crying for five or six seconds before you hear the sound through your phone or PC.
+接下来就是我不满的地方了：首先，你无法实时改变摄像头的方向。如果你想把它当作安全装置来使用，这个问题就会限制你的选择余地。视频传输中会出现感知滞后现象，这意味着你的宝宝可能已经哭了五六秒钟之后，你才在手机或电脑上听到哭声。
+It takes another couple of seconds for your voice to be sent back. The audio quality of the Pro is said to be much better than the original Dropcam, but I found that it was hard to hear really quiet noises over the feed.
+要把你的声音传送回去，又要花上几秒钟时间。据说Pro的音质比前一代Dropcam好得多，但我发现，在视频中很难听到真正没有噪声的声音。
+If you’re planning to use one of these systems as a security monitor, placing it where it can get an excellent wireless signal is going to be a priority.
+如果你用这样的系统来进行安全监控活动，首先要注意的一点，就是把它放在无线信号好的地方。
+Finally, there’s an experimental, motion-recognition system in the system’s Web interface. In theory, you could use this to teach your camera to ignore the movement of a door that’s used often but to send an alert if a window is opened. I found the interface to control this opaque, and even with a good deal of tinkering I couldn’t master it.
+最后，在Dropcam Pro的网页界面上，还有一个实验性的动作识别系统。从理论上讲，你可以用它教摄像头无视经常都会发生的开关门的动作，但是如果有一扇窗户打开了，它就会发送提醒。我发现控制这个功能的界面很难理解，琢磨了好一阵子还是不知道怎么用。
+But Dropcam Pro is a great camera that can work as a child monitor or as a security system. Its setup is remarkably simple and its interface is excellent, but it is not without quirks. And if you want to use it as a surveillance system, the cost of snooping is going to get steep.
+但Dropcam Pro的摄像头很不错，可以作为婴儿监视器或安全装置使用。它设置起来非常简单，界面也相当出色，但是仍然存在一些小毛病。如果你想把它当作一个监控系统来使用，费用可能会有些高昂。

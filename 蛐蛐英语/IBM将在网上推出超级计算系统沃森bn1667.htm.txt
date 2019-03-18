@@ -1,0 +1,38 @@
+LAS VEGAS — Welcome to the age of supercomputing for everyone.
+拉斯维加斯——欢迎来到全民超级计算的时代。
+On Thursday IBM will announce that Watson, the computing system that beat all the humans on “Jeopardy!” two years ago, will be available in a form more than twice as powerful via the Internet.
+周四，IBM宣布将在网上推出曾在两年前的智力问答节目《危险边缘》(Jeopardy!)中击败了所有人的计算系统沃森(Watson)，而且这个版本的性能是原来的两倍多。
+Companies, academics and individual software developers will be able to use it at a small fraction of the previous cost, drawing on IBM’s specialists in fields like computational linguistics to build machines that can interpret complex data and better interact with humans.
+企业、学者和个人软件开发者都将能使用它，而费用只是原来的零头，这多亏了IBM计算机语言学等领域的专家为了研制出能够解释复杂数据并且与人类进行更好互动的机器所作的努力。
+IBM’s move to make its marquee technology more widely available is the latest effort among big technology companies to make the world’s most powerful computers as accessible as the Angry Birds video game.
+如今，大型科技公司都希望能使世界上最强大的计算机能像《愤怒的小鸟》(Angry Birds)一样普及，IBM扩大其标志性技术使用范围的做法就是其中最新的举动。
+It is also an indication of how quickly the technology industry is changing, from complex systems that cost millions to install to pay-as-you-go deals that provide small companies and even individuals access to technology that just a few years ago only the largest companies could afford.
+这也显示出科技行业的变化速度之快，从需要耗资数百万美元来安装的复杂系统到现买现付的交易。仅仅几年前，还只有那些规模最大的公司才能承担这种费用，而现在连小公司乃至个人都有使用这项技术的机会。
+“The next generation will look back and see 2013 as a year of monumental change,” said Stephen Gold, vice president of the Watson project at IBM.
+IBM负责沃森项目的副总裁斯蒂芬·戈尔德(Stephen Gold)说，“下一代人在回顾过去的时候，会觉得2013年是发生历史性改变的一年。”
+“This is the start of a shift in the way people interact with computers.”
+“它代表着人类与计算机的互动方式开始改变。”
+IBM is wielding Watson in a fight to control the world of cloud computing — huge collections of computer servers connected over the Internet — with other big technology companies like Amazon.com, Google and Microsoft. It is no coincidence that IBM discussed its Watson news the same week Amazon was hosting clients at a conference here to pitch its own computing cloud, called Amazon Web Services or A.W.S.
+为了取得云计算——大量计算机服务器通过互联网相互连接领域的控制权，IBM正在与亚马逊(Amazon.com)、谷歌(Google)和微软(Microsoft)等大型科技公司展开竞争，而沃森就是IBM的武器。在IBM谈论沃森相关讯息的同一周，亚马逊也把客户召集到拉斯维加斯参加会议，推出了被称作亚马逊网络服务（Amazon Web Services，简称AWS）的云计算系统，这绝非偶然。
+The competition is still young, but its impact will be significant.
+尽管这场竞争仍然处于初期阶段，但它必将产生巨大的影响。
+“Companies, governments and people will struggle to figure out what to do with all this,” said Jamie Popkin, an analyst with the research company Gartner. “It means there is going to be a new pace and velocity, making people rethink when humans make decisions, while machines make other decisions.”
+“各家公司、各国政府和个人都将努力弄清楚应该如何从中获得好处，”调研公司高德纳(Gartner)的分析师杰米·波普金(Jamie Popkin)说。“这意味着新的步伐和速度即将出现，人们需要重新思考，什么时候由人类作出一些决定，由机器来作出另外一些决定。”
+Watson, a project on which IBM spent 14 years, is an artificial learning system that digests large volumes of information to find hidden meanings. Initial uses — besides besting humans on game shows — include examining medical patients and records to find an unexpected diagnosis, a bit like the genius portrayed in the television show “House.” Other uses include an online personal shopper and a virtual health aide that tailors exercises by asking questions.
+IBM在沃森项目上花了14年时间；它是一种人工学习系统，能够消化大量信息并从中找出隐藏含义。除了在游戏节目中打败人类以外，它的最初用途还包括检查病人和医疗记录，以获得出人意料的诊断结果，有点像电视剧《豪斯医生》(House)里的那个天才。它还可以被用来进行个性化网络购物，以及充当虚拟健康助手，通过提问来为人量身定制锻炼计划。
+IBM is opening Watson to more people in part to see what additional businesses might be created.
+IBM之所以会向更多人开放沃森的使用，也是想看看它还能创造什么商机。
+Watson is prominent, but similar projects are being run by other companies. On Tuesday, a company appearing at the Amazon conference said it had run in 18 hours a project on Amazon’s cloud of computer servers that would have taken 264 years on a single server.
+虽然沃森很出色，但其他公司也拥有类似的项目。周二，参加亚马逊大会的一家企业说，它在亚马逊的云计算服务器上运行一个项目花了18小时，而一台单独的服务器运行这个项目将需要264年。
+The project, related to finding better materials for solar panels, cost $33,000, compared with an estimated $68 million to build and run a similar computer just a few years ago. Akin more to conventional supercomputing than Watson’s question-and-answer cognitive computing, the project was the first of several announced at the Amazon conference.
+这个项目与寻找更好的太阳能组件材料有关，花销是3.3万美元（约合20万元人民币）。相比之下，仅仅几年前，打造并运行一台类似的计算机估计要花上6800万美元。比起沃森的问答认知计算，该项目更像是传统的超级计算。亚马逊大会上宣布了数个项目，这是第一个。
+“It’s now $90 an hour to rent 10,000 computers,” the equivalent of a giant machine that would cost $4.4 million, said Jason Stowe, the chief executive of Cycle Computing, the company that did the Amazon supercomputing exercise, and whose clients include The Hartford, Novartis, and Johnson & Johnson. “Soon smart people will be renting a conference room to do some supercomputing.”
+进行这项亚马逊超级计算测试的公司名为循环计算(Cycle Computing)，它的客户包括哈特福德(The Hartford)、诺华(Novartis)和强生(Johnson & Johnson)。公司首席执行官贾森·斯托(Jason Stowe)说，“现在的价格是每小时90美元租1万台计算机”，相当于价值440万美元的一台巨型机。“很快聪明人就会租一间会议室来做些超级计算的事情。”
+While revenues of Amazon’s cloud business are still small enough that the company does not have to disclose them, Amazon officials say Jeff Bezos, the company’s chief executive, believes A.W.S. could eventually dwarf Amazon’s businesses in books and merchandise, enterprises with $51 billion in revenue. This year, Gartner calculated that A.W.S. had five times the computing power of 14 other cloud computing companies, including IBM, combined.
+虽然亚马逊云服务的收入规模尚小，没有义务对外披露，但亚马逊高层表示，公司首席执行官杰夫·贝佐斯(Jeff Bezos)认为，AWS可能最终会让亚马逊的图书与商品生意相形见拙，而这两项业务的年收入有510亿美元。今年，高德纳做出估算，AWS的计算能力是其他14家云计算公司加起来的五倍，其中包括IBM。
+Since then, IBM has spent an estimated $2 billion to acquire a cloud company called SoftLayer and has reconfigured Watson as a cloud product. It also hired buses that drove around the A.W.S. conference in Las Vegas, sporting ads that said they showed its superiority in cloud computing.
+自那之后，IBM花了约20亿美元来收购一家名为SoftLayer的云公司，并且将沃森转型为云产品。公司还租了一些大巴车在拉斯维加斯的AWS大会场外转悠，到处打广告，宣称IBM在云计算领域拥有超群实力。
+Besides bragging rights and a much bigger customer base, IBM may be accelerating the growth of Watson’s power by putting it in the cloud. Mr. Gold said that Watson would retain learning from each customer interaction, gaining the ability to do things like interacting in different languages or identifying human preferences. IBM has taken steps to keep these improvements for its own benefit, by retaining rights in user agreements that customers are required to sign.
+除了可以四处夸耀和获得大得多的用户群，IBM或许还在通过将沃森放入云端来加速它的成长。戈尔德表示，沃森会从与每个客户的互动中不断学习，获取诸如用不同的语言互动或识别人类喜好的能力。IBM还采取了一些措施来保证这些进步为己所用，方法是要求客户签署用户协议，从而保障该公司的相关权利。
+What is not yet clear is IBM’s plan to make money from taking Watson to the computing cloud. The company is experimenting with charging for data storage, or selling computing on a metered basis, like water or electricity. “There is no question the model will change,” Mr. Gold said. “You have to have flexibility to handle the breadth of cases we expect to see.”
+至于IBM如何从放到云端的沃森那里赚钱，这一点尚不明朗。公司正在尝试为数据存储收费，或是像水和电那样按照流量出售计算能力。“毫无疑问，模式会转变，”戈尔德说。“得有一定的灵活度来应对我们将会看到的各种不同情况。”

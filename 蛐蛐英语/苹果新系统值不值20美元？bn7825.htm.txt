@@ -1,0 +1,56 @@
+A new version of Windows is a big, big deal. Big changes, big price, big installation.
+Windows每有新版问世总是一个大事件。大改动、大价钱，安装也要费大功夫。
+Apple takes a different approach with its OS X software for the Mac. It intends to offer a modest new version every year. Installation is a 15-minute, one-click operation, and the price is piddling. For OS X 10.8, Mountain Lion, which came out Wednesday, Apple wants $20 — and you can install one copy on as many Macs as you have.
+苹果公司(Apple)对Mac电脑上的OS X操作系统采取了不同的策略。它每年都提供一个改动不多的新版本。安装耗时15分钟、一键操作，而且价格微不足道。周三发布的OS X 10.8，也就是Mountain Lion，苹果的要价为20美元，而且一套系统想装多少台Mac电脑都可以。
+If you’re a Mac owner, then, here’s the question: Is Mountain Lion worth $20? (A note: I have written a how-to manual to Mountain Lion for an independent publisher; it was neither commissioned by nor written in cooperation with Apple.)
+如果你有Mac电脑，那么，问题来了：Mountain Lion值20美元吗？（说明：我还为另一家出版商写了个Mountain Lion应用指南；该指南不是苹果委托的，也没有与苹果合作。）
+There’s only one precise way to answer that, of course: assign a dollar value to each new feature.
+当然，有一种精确的计算方法可以回答这个问题：对每一个新功能都用美元去估价。
+Now, Apple claims “over 200 new features.” But some of them are tiny tweaks (Safari checks for software updates every day! Ooh!) or techie-only treats (“Xsan, the high-performance cluster file system”). Fifteen are improvements for Chinese customers, which is great for Apple’s world-domination plans but irrelevant to non-Chinese speakers.
+苹果宣称拥有“200多项新功能”，不过有一些只是微小的调整（Safari每天检查更新！）；有的只对技术狂有用（“Xsan，高性能簇文件系统”）。15项改进针对的是中文用户，这对苹果的领先全球计划很有帮助，不过对非中文用户来说就没什么用。
+So how many are real steps forward?
+那么有多少是真正的进步呢？
+Mountain Lion continues to put velvet handcuffs on people who own iPhones, iPads and other Macs. For example, three iPhone/iPad apps are now on the Mac, too: Notes (a yellow pad, now with formatting and graphics), Reminders (a to-do list); and Game Center (lets you play against people on their Macs, iPhones and iPads, although few compatible games exist yet).
+Mountain Lion继续给iPhone、iPad和其他Mac设备的用户戴上华丽的镣铐。比如，三个iPhone兼iPad的应用程序现在也登陆了Mac电脑：备忘录（Notes，黄色记事簿，如今加上了格式设置和图像功能）、事项提醒（Reminders，待办事宜列表）和Game Center（让你与Mac电脑、iPhone和iPad上的人一起玩，尽管目前兼容的游戏还很少）。
+All of these sync with other Apple machines wirelessly, courtesy of Apple’s free, increasingly sophisticated iCloud service. The new apps join Mail, Calendar and Contacts, which already sync with your iGadgets. Change a phone number on your phone, and it’s instantly updated on your tablet and computer; set up a reminder on your Mac, and your phone will chirp at the appointed time or even place.
+所有这些都能通过苹果日益成熟的免费iCloud服务实现与其他苹果设备的无线同步。此前，邮件(Mail)、日历(Calendar)和通讯录(Contacts)已经能与你的其他苹果设备同步，现在又多了这三个应用程序。在手机中修改一个电话号码，立即就能更新到iPad和电脑中去；在Mac电脑中创建一个提醒事项，手机就会在规定的时间甚至是地点滴滴作响。
+It’s all useful and a bit magical — if you own more than one Apple device. Clearly, the company wants to keep you a happy prisoner inside its beautiful walled garden.
+这都很有用，还有点神奇——如果你有不止一台苹果设备的话。很明显，苹果想让你一直待在它四面高墙的漂亮花园里，做一个快乐的囚徒。
+So what’s the value for these new syncing apps? Well, if phone apps cost $1 or $2, and computer shareware $20 or $30, then these new apps are probably worth about $7.
+那么，这些能进行同步的新应用程序价值几何？如果手机应用程序花费1或2美元，电脑共享软件20到30美元的话，那么这些新应用程序很可能价值约7美元。
+The new Notification Center is also modeled on an iPhone/iPad feature. It’s a dark gray panel that slides onto the screen when you drag two fingers onto your trackpad. Here are all the nags, messages and alerts that your programs have issued, consolidated into one tidy, customizable list: today’s appointments, incoming messages, and so on.
+新的通知中心(Notification Center)也模仿了iPhone和iPad的功能。它是一块深灰色的面板，在触摸板上用两指拖拽的时候会呈现在屏幕上。这里有所有程序发出的通知、信息和提醒，都整合到一个可设置的简洁列表中：今日约会、收到的信息等。
+They tie into Mountain Lion’s new alert system, in which each incoming alert bubble slides quietly into the corner of your screen. It’s like a butler who tiptoes into your room with lunch, sees that you’re busy, and sets the tray down on the side table before quietly withdrawing.
+它们与Mountain Lion的新提醒系统整合在一起，每一个新的通知都悄无声息地滑入屏幕的角落。就像是一管家，踮脚进入你的房间，看见你正忙着，就在边桌上放下餐盘，然后悄然退出。
+But being bombarded with bubbles would be a big bummer. So the Mail app’s new V.I.P. feature lets you designate certain people whose messages you never want to miss — your spouse, your boss, the cable guy. You can set it up so that alert bubbles appear only when those people write. That’s so smart. Notification Center: easily worth $3.50.
+但是不断被各种提醒信息骚扰的话也会让人很心烦。因此，邮件应用程序的新V.I.P.功能可以让你指定一些特定的人，他们的信息你绝不想错过，比如配偶、老板、有线电视维修人员。你可以设置成只有V.I.P.写来邮件的时候才显示通知。这一点很智能。通知中心：至少值3.5美元。 
+Dictation has come to the Mac, too. When you double-tap the Fn button on your keyboard, you can speak to type.
+Mac电脑还增加了口授功能。双击键盘上的Fn键，就能进行语音输入。
+It’s exactly the same recognition technology as the iPhone’s. So it requires no voice training, but it requires an Internet connection. And the accuracy is not quite what you see in the Martin Scorsese Apple commercials for Siri. Still, dictation fast and useful, to the tune of $5.75.
+它采用的是与iPhone相同的识别技术，因此无需进行语音训练，但是需要有互联网连接。不过它的准确度不及马丁·斯科塞斯(Martin Scorsese)给Siri做的广告中那么好。尽管如此，口授功能还是快速有用，价值5.75美元。
+The new Share button is a keeper, too. It pops up everywhere and lets you transmit whatever you’re looking at: a photo, document, link, video, file. You can post something to Twitter, send it as an e-mail or text message, post a photo or video to Flickr or Vimeo, and so on. All without having to open a special app or load a certain Web page. (In a free update this fall, Facebook will appear in the Share menu, too.)
+新的“分享”(Share)按钮也是个好东西。它可以在任意地方出现，任何你浏览的内容：图片、文档、链接、视频或文件，都可以用它来发送。你能在Twitter上进行更新，以电子邮件或短信的方式传给他人，或者发布照片、视频到Flickr和Vimeo上，等等。所有操作都不需要打开一个专门的应用程序或加载某一个网页，就能做到所有这些事。（今年秋季的免费更新将使Facebook也出现在分享菜单中。）
+This Share menu is a clever step-saver that you’ll use often. It’s easily worth $10.
+这个智能的分享菜单能够省略步骤，你一定会频繁使用。该功能至少值10美元。
+Maybe the most routine-changing enhancement is Power Nap, a feature for Apple’s latest hard-driveless laptops. It lets the laptop update Internet data even while it’s closed and asleep.
+大概最改变常规的改善要属Power Nap了，它适用于苹果最新的闪存笔记本电脑。这项功能让笔记本可以在合上的休眠状态下更新互联网数据。
+Once an hour, it wakes itself — without activating any fans or lights — long enough to check for mail, download updates, run backups. When you wake the laptop later, you’ll be delighted to find that it’s completely up to date, with new e-mail waiting and all of your iCloud programs (Notes, Reminders, Calendar and so on) freshly synced.
+它每小时自动启动一次——不会开启风扇或亮灯——启动的时间足够用来接收邮件、下载更新和进行备份。当你再唤醒笔记本的时候，你会高兴地发现电脑完全是更新好的：新邮件正等待处理，而且所有的iCloud程序（备忘录、提醒事项、日历等）都成了最新的同步。 
+Apple says that the battery hit is very slight. But if you’re concerned, you can tell Power Nap not to kick in except when the laptop is plugged in. Awesome. Worth $11.
+苹果说，这项功能的电池耗费量非常小。但是，如果有这方面的担忧的话，可以设置Power Nap只在笔记本连上外接电源的时候运行。很棒。值11美元。
+Messages, the former iChat chat program, has been enhanced to handle iMessages, which are basically Internet-borne text messages that cost you nothing. Whenever you converse with fellow iCloud members, the conversation appears simultaneously on all of your gadgets (and theirs). Start a chat on your phone when you’re out and about, and you’ll find its transcript in progress in Messages on your Mac. It’s freaky, somewhat confusing, but worth $3.35.
+信息(Messages)，也就是之前的iChat聊天工具，加强成为iMessage，基本上是一款基于互联网的免费短信交流工具。不管是何时与其他iCloud用户交谈，对话将同时出现在你（和对方）的所有设备上。当你在外面用手机和人聊天的时候，会发现正在进行的聊天信息将同时显示在你的Mac电脑上。够神奇的，也有点乱，但是值3.35美元。 
+AirPlay mirroring requires an Apple TV ($100), but lets you perform a real miracle: With one click, you can send whatever is on your Mac’s screen — sound and picture — to your TV. Wirelessly.
+AirPlay镜像功能需要一台Apple TV（100美元）的配合，但能让你实现一个真正的奇迹：轻轻一点，Mac电脑屏幕上的任何画面——声音和图像——就会出现在电视上。还是无线传输的。
+You can send photo slide shows to the big screen. Or present lessons to a class. Or play online videos. And for boardroom PowerPoint pitches, you can carry the tiny Apple TV instead of a $1,500 projector. A great feature, worth $12.87 — probably more to frequent PowerPointers.
+你将能传输照片幻灯片至大屏幕，或者面对全班讲课，或者播放在线视频。向董事会进行PowerPoint推介时，你只需携带小型Apple TV设备，而不是1500美元的投影仪。很好的功能，价值12.87美元——对经常使用PowerPoint的人来说，大概值得更多。
+Not everything is a step forward, however. Apple has tried to refine last-year’s baffling AutoSave feature. It has restored the “Save As” and “Revert to Save” functions; alas, the result is almost more confusing than before. Subtract $3.25.
+尽管如此，也不是每项功能都算进步。苹果试图调整去年莫名其妙的自动保存功能，于是恢复了“另存为”(Save As)和“恢复保存”(Revert to Save)的功能。哎，结果是比以前更乱了。倒扣3.25美元。
+Apple’s continued push to bring multitouch gestures from the iPad to the Mac’s trackpad isn’t wholly convincing, either. You swipe upward with three fingers to open the Mission Control app, spread four fingers to view the desktop, swipe sideways with four fingers to move between full-screen apps ... you’re going to remember all this? I’m deducting $1.77 for that well-intentioned silliness.
+苹果一直致力于将iPad的多点触控功能移植到Mac电脑的触摸板上，这种努力也不能完全令人信服。三指向上轻扫来开启Mission Control应用程序、四指开合来浏览桌面，四指横向轻扫来切换全屏应用程序……这些你都记得住吗？这种功能，动机很好但是很傻，扣去1.77美元。
+Keep in mind, too, that Mountain Lion is available exclusively as a download. That’s a big “tough rocks” to people who don’t have high-speed Internet. Subtract $1.20.
+也请记住，Mountain Lion仅能用下载的方式获得。对那些没有高速互联网连接的人来说，这是个大大的“绊脚石”。倒扣1.20美元。
+Finally, I found the usual assortment of minor first-release bugs. Apple confirmed them and says they’ll be exterminated shortly. That’s a 35-cent penalty.
+最后，我还发现了一些初次发布通常有的小漏洞。苹果对此予以了证实，称他们将马上补救。为此要扣去35美分。 
+So by my highly scientific accounting, Mountain Lion costs $20 but nets $46.90 worth of enhancements. And that’s not even counting the other 170 features: the Preview app (now lets you fill in checkboxes and blanks in PDF forms), Gatekeeper (blocks evil software), new screen saver slide shows, the unified address bar/search bar in Safari, and so on.
+因此，根据我非常科学的计算，Mountain Lion标价20美元，但是增强的功能净值为46.90美元。这还没有算上其他170项功能：“预览”应用程序（现在允许你在PDF表格中填写复选框和空白项）、Gatekeeper（阻止恶意软件）、全新屏保幻灯片显示、Safari中统一的地址栏和搜索框等等。

@@ -1,0 +1,54 @@
+Cyberloafing – engaging in non-work online activities while “on the clock” – is a modern form of counterproductive workplace behaviour. Rather than stealing company goods, the modern work environment with its various digital devices easily allows many employees to essentially steal company time.
+网络闲逛（Cyberloafing）指的是在工作时间从事与工作无关的网络活动，这是现代社会的一种降低工作效率的形式。现在很少有员工盗窃公司的财物，但由于工作环境中有各种各样的数字设备，让很多员工可以盗窃公司的时间。
+Cyberloafing can lack malicious intent, but not always. In fact, in our study, we found cyberloafing can be associated with everyday levels of “dark” personality traits and a perceived ability to get away with it.
+网络闲逛或许并非恶意，但也并不总是如此。事实上，我们在研究中发现，网络闲逛可能与日常的"黑暗"人格特征，以及自以为可以逃脱惩罚的能力有关。
+So who is likely to cyberloaf, and why?
+那么，哪些人更容易出现网络闲逛？原因何在？
+Taking advantage
+占便宜
+We had 273 employees complete an anonymous online survey measuring cyberloafing and everyday levels of “dark” personality traits.
+共有273名员工完成了我们的在线匿名调查，以此衡量他们的网络闲逛情况和日常的"黑暗"人格特征。
+These traits are considered to be a socially exploitative dark triad, characterised by callous and parasitic self-interest (psychopathy), manipulativeness (Machiavellianism), and arrogant superiority (narcissism), and are found in varying levels among the general population.
+这些特征被视作具有社会破坏性的黑暗三人格，表现为麻木无情和寄生性利己主义（精神病态）、操控性（马基雅维利主义，Machiavellianism），以及傲慢优越（自恋），而且不同程度地存在于普通大众群体。
+We expected that because of their willingness to pursue gains at the expense of others, among comparative feelings of entitlement, individuals with higher levels of dark triad traits would be more likely to engage in cyberloafing.
+我们预计，由于我们愿意牺牲其他利益而追求某些东西，在可以相互比较的情感权利中，黑暗三人格较为严重的人更有可能出现网络闲逛。
+We also examined the extent to which people believe they can get away with things at work (their perceived ability to deceive). Unsurprisingly, given the feelings of superiority associated with the dark triad, these individuals tend to feel very capable of outsmarting others.
+我们还研究了人们在多大程度上认为自己能在工作中侥幸逃脱（他们自认为的欺骗能力）。不出所料，具备与黑暗三人格有关的优越感的人，往往感觉自己比别人更聪明。
+Among our participants, we found that psychopathy, Machiavellianism, and narcissism were associated with cyberloafing behaviours through their relationships with perceived ability to deceive. In other words, higher levels of dark triad traits led to a greater belief in the ability to get away with things, which in turn was related to higher levels of cyberloafing.
+在参与调查的人中，我们发现，精神病态、马基雅维利主义和自恋都通过它们与自认为的欺骗能力之间的关系，与网络闲散行为建立联系。换句话说，黑暗三人格程度较高会导致人们更相信自己可以逃脱惩罚，从而与较高的网络闲逛有关。
+Our findings suggest that individuals high in subclinical psychopathy will engage in some cyberloafing behaviours regardless of their perceived ability to deceive. This fits with the nature of psychopathy: individuals high in psychopathic traits tend to lack remorse and don’t feel guilty, and perhaps are not too concerned with getting caught.
+我们的发现表明，无论自认为的欺骗能力高低与否，亚临床精神病态程度较高的人可能都会从事一些网络闲逛行为。这符合精神病态的特征：精神病态特征较高的人往往缺乏懊悔心，不会感到内疚，而且有可能不太担心被人发现。
+More research is needed, given that our study was self-reporting and favoured female participants, but the results raise some interesting questions for workplaces and their ability to handle this behaviour.
+考虑到我们的调查都采用自诉形式，而且以女性为主，所以还需要进行更多研究。但研究结果还是引发了一些有趣的问题，涉及到职场和他们处理这种行为的能力。
+Should the boss be concerned?
+老板应该担心吗？
+The organisational consequences of cyberloafing can range from brief employee distraction to more serious drain on company resources or security (for example, slower network performance or computer viruses).
+网络闲逛对组织层面造成的影响多种多样，例如，可能导致员工的精力暂时分散，还有可能给公司的资源或安全造成严重破坏（例如，降低网络性能或感染计算机病毒）。
+Our study suggests that if an employer wants to reduce cyberloafing, strategies that counter employees’ perceived ability to deceive could be useful. Stressing accountability could act as a deterrent.
+我们的研究表明，如果雇主想要减少网络闲逛情况的发生，采取措施来应对员工自认为的欺骗能力就会很有帮助。加强问责机制可以起到一定的震慑作用。
+Employees could be informed that all web-based activity will be monitored, but surveillance runs the risk of invading employee privacy and creating an unpleasant work environment.
+雇主可以告诉员工，所有的上网活动都会被监控，但这种方式也有可能侵犯员工隐私，营造令人不悦的工作环境。
+Fortunately, cyberloafing is not a purely negative workplace behaviour. Internet browsing can have a positive impact on employees’s emotions, allowing a measure of stress release. It can also boost productivity in some circumstances by providing employees with a short break so they can recover their concentration.
+幸运的是，网络闲逛并不是一种完全负面的职场行为。上网浏览也会对员工情绪产生积极影响，成为一种释放压力的方法。这还能提高某些情况下的生产力，让员工可以通过短暂的休息恢复专注力。
+Hyperconnectivity is also an issue
+全时间在线
+While employees slip personal online activities into their work time, their work may also be encroaching on their personal lives.
+当员工把个人的在线活动融入工作时间的同时，他们的工作或许也会蚕食个人生活空间。
+Devices and online tools encourage 24-7 connectivity to the workplace. One study suggests that employees who receive company-provided smartphones feel expected to be constantly connected and responsive to work at all times.
+上网设备和在线工具鼓励我们全天候与职场联系起来。有一项研究表明，获得公司提供的智能手机后，员工就会感觉要时刻与职场保持联系，并作出响应。
+For employers, this is both good and bad news. The perception of being “on call” might increase the volume of work they get from their employee. However, constant connection might lead to exhausted, burnt-out workers.
+对雇主来说，这可谓喜忧参半。随时待命的观念可能增加员工的工作量。但全天候联系也有可能让员工感觉筋疲力尽。
+Employees have traditionally sought to find “work-life balance”, but for some people this line is now blurred.
+员工历来都希望寻求"工作与生活之间的平衡"，但对某些人来说，二者之间的界限已经非常模糊。
+Cyberloafing and hyper-connectivity can be seen as two sides of the same coin. People are engaging in personal online activities while in the workplace, and work activities while at home.
+网络闲逛和全时间在线可以被当成同一枚硬币的两面。现在的人需要在工作中处理个人在线活动，回到家后也要处理各种工作。
+A new definition of ‘balance’?
+"平衡"的新定义？
+Some studies suggest that the terminology should evolve, with employees now seeking “work-life flexibility”, where an employee controls the amount of time they dedicate to work and life, integrating the two as necessary.
+有研究认为，这种说法也应该与时俱进，因为员工现在寻求的是"工作与生活的灵活性"，让员工可以控制他们投入到工作和生活中的时间，并在必要的时候将二者结合起来。
+For example, you might take a work call while watching your child’s soccer match, but duck out of work to post your best friend’s birthday present. The key point is that the employee feels they have the ability to handle competing demands.
+例如，你观看孩子的足球比赛时可能会接到一个工作电话，但也会在工作时间给最好的朋友寄送生日礼物。关键在于，员工要感觉自己有能力处理相互竞争的需求。
+Exploratory research indicates that home-work boundary flexibility is associated with higher job satisfaction. The same study suggests that for those with a permeable work boundary (that is, the ability to do personal tasks at work), there was less time-based work and family conflict. However for those with a permeable home boundary (allowing work tasks to be done during personal time), there was more time-based work and family conflict.
+探索性的研究表明，家庭与工作边界的灵活性与较高的工作满意度有关。同样的研究也显示，对于拥有可渗透性工作边界的人（也就是能在工作中处理私人事务的人）来说，有时效性的工作和家庭冲突都更少。然而，对于那些拥有可渗透性家庭边界的人（也就是允许占用私人时间来处理工作的人），有时效性的工作和家庭冲突也更多。
+Our study suggests that a worker’s perceived ability to take advantage of an employer is a key part of cyberloafing. But it’s a two-way street: employers need to think about whether they are also taking advantage of their hyper-connected workers.
+我们的研究表明，员工是否自认为有能力占雇主的便宜是网络闲逛的关键所在。但这也是双向的：雇主也需要思考，他们是否也占了那些处于"全时间在线"状态的员工的便宜。

@@ -1,0 +1,46 @@
+HELENA, Mont. — On a warm morning not long ago on the shore of a small prairie lake outside this state capital, Bob Martinka trained his spotting scope on a towering cottonwood tree heavy with blue heron nests. He counted a dozen of the tall, graceful birds and got out his smartphone, not to make a call but to type the number of birds and the species into an app that sent the information to researchers in New York.
+蒙大拿州赫勒拿——不久前一个温暖的早晨，蒙大拿州首府外的大草原上，一片小湖泊的岸边，鲍勃·马丁卡(Bob Martinka)把他的鉴识望远镜对准了一棵高耸的棉白杨，树上筑满了大蓝鹭(blue heron)的巢。他数到12只这种高大而姿态优雅的鸟，拿出了他的智能手机，但不是为了打电话，而是把鸟群的数目和种类输入一个应用，它会将输入的信息传送给位于纽约的研究人员。
+Mr. Martinka, a retired state wildlife biologist and an avid bird-watcher, is part of the global ornithological network eBird. Several times a week he heads into the mountains to scan lakes, grasslands, even the local dump, and then reports his sightings to the Cornell Lab of Ornithology, a nonprofit organization based at Cornell University.
+马丁卡是该州一名退休的野生生物学家，也是热忱的观鸟爱好者。他是全球鸟类学网络eBird的成员。每个星期，他都会进山区几次，仔细考察湖泊、草原、甚至当地的垃圾场，然后将他的所见汇报给康奈尔鸟类学实验室(Cornell Lab of Ornithology)，它是设在康奈尔大学(Cornell University)的一家非营利组织。
+“I see rare gulls at the dump quite frequently,” Mr. Martinka said, scanning a giant mound of bird-covered trash.
+“在垃圾场，我能颇为频繁地见到稀有的鸥类，”马丁卡一边观察着大堆鸟群站满的垃圾一边说。
+Tens of thousands of birders are now what the lab calls “biological sensors,” turning their sightings into digital data by reporting where, when and how many of which species they see. Mr. Martinka’s sighting of a dozen herons is a tiny bit of information, but such bits, gathered in the millions, provide scientists with a very big picture: perhaps the first crowdsourced, real-time view of bird populations around the world.
+数以万计的观鸟者现在成为了该实验室所称的“生物传感者”(biological sensors)，通过报告他们所见鸟类的地点、时间、数目和种类，将其所见转化为数字资料。马丁卡目击的12只鹭不过是一份微量的信息，但集腋成裘，数百万份这样的信息会为科学家绘出一幅巨大的全景图：或许这是第一个“众包”(crowdsource)所造就的全球鸟类种群实时直观图。
+Birds are notoriously hard to count. While stationary sensors can measure things like carbon dioxide levels and highway traffic, it takes people to note the type and number of birds in an area. Until the advent of eBird, which began collecting daily global data in 2002, so-called one-day counts were the only method.
+鸟类计数是出了名的困难。虽然静置的传感器能测量二氧化碳浓度和公路交通流量这类数值，但记录一定区域内鸟的种类和数量，这样的工作只能靠人去做。eBird问世并于2002年开始采集全球数据，在这之前，所谓的当日计数(one-day count)是唯一的办法。
+While counts like the Audubon Christmas Bird Count and the Breeding Bird Survey bring a lot of people together on one day to make bird observations across the country, and are scientifically valuable, they are different because they don’t provide year-round data.
+像奥杜邦学会圣诞节鸟类计数(Audubon Christmas Bird Count)和鸟类繁殖调查(Breeding Bird Survey)这样的计数活动，虽然能召集全美各地的许多人在同一天进行鸟类观测，而且有丰富的科学价值，但还是和eBird有所不同，因为它们无法提供全年的数据。
+And eBird’s daily view of bird movements has yielded a vast increase in data — and a revelation for scientists. The most informative product is what scientists call a heat map: a striking image of the bird sightings represented in various shades of orange according to their density, moving through space and time across black maps. Now, more than 300 species have a heat map of their own.
+eBird每天的鸟类活动观察已经产生了巨量的数据增长——这还让科学家收获了一项重大启示。应运而生的最能提供有用信息的产品则是科学家所称的“热度图”(heat map)：观察到的鸟类按照其密度的不同显示为各种深浅不一的橙色，形成极具震撼力的画面，在一张背景为黑色的地图上，这些色块在不同的时间和空间移动。现在，超过300种鸟类已经有了各自的热度图。
+“As soon as the heat maps began to come out, everybody recognized this is a game changer in how we look at animal populations and their movement,” said John W. Fitzpatrick, director of the Cornell Lab. “Really captivating imagery teaches us more effectively.”
+“热度图一经面世，大家就意识到它会彻底改变我们观察动物种群及其迁移的方式，”康奈尔鸟类实验室的主任约翰·W·菲茨帕特里克(John W. Fitzpatrick)说道。“如此夺目的图景，能更高效地把知识教给我们。”
+It was long believed, for example, that the United States had just one population of orchard orioles. Heat maps showed that the sightings were separated by a gap, meaning there are not one but two genetically distinct populations.
+举例来说，长期以来人们认为美国只有一个圃拟鹂(orchard oriole)种群。热度图则显示，这种鸟的目击分布被一道间隙隔开了。这说明存在的不止是一个，而是两个遗传学上相互独立的种群。
+Moreover, the network offers a powerful way to capture data that was lost in the old days. “People for generations have been accumulating an enormous amount of information about where birds are and have been,” Dr. Fitzpatrick said. “Then it got burned when they died.”
+更重要的是，eBird网络提供了十分有效的方式，让我们捕捉旧时丢失的数据。“很多代人积攒了大量的鸟类行踪信息，它们现在在哪里，又去过何处，”菲茨帕特里克博士说道，“而他们去世时这些记录都付之一炬了。”
+No longer: eBird has compiled 141 million reports, or bits, and the number is increasing by 40 percent a year. In May, eBird gathered a record 5.6 million new observations from 169 countries. (Mr. Martinka’s sighting of 12 herons at once, for example, is considered one species observation, or bit.)
+现在就不会了：eBird已经积累了1.41亿份报告，这一数字还在以每年40%的速度增长。5月份，eBird创纪录地从169个国家收集了560万份新观测。（例如，马丁卡一次见到12只鹭的记录，就算作一次物种观测，也就是一“份”数据。）
+The system also offers incentives for birders to stay involved, with apps that enable them to keep their life lists (records of the species they have seen), compare their sightings with those of friends (and rivals), and know where to look for birds they haven’t seen before.
+这一系统还为观鸟爱好者持续参与提供了激励措施，它提供的应用能帮参与者编制自己的“生物榜”（即曾经见到过的物种记录），与他们的朋友（还有竞争对手）对比目击记录，以及查看在哪里能见到之前未曾观察到的鸟类。
+“When you get off the plane and turn your phone on,” Dr. Fitzpatrick said, “you can find out what has been seen near you over the last seven days and ask it to filter out the birds you haven’t seen yet, so with a quick look you can add to your life list.”
+“当你一下飞机、打开手机的时候，”菲茨帕特里克博士说，“你就能查到过去7天内附近出现了何种鸟类，还可以让它筛选出哪些是你还没见过的鸟类，这样可以一目了然，很快地将这些鸟纳入你的‘生物榜’。”
+The system is not without problems. Citizen scientists may not be as precise in reporting data as experienced researchers are, like the ones in the Breeding Bird Survey. Cornell has tried to solve that problem by hiring top birders to travel around the world to train people like Mr. Martinka in methodology. And 500 volunteer experts read the submissions for accuracy, rejecting about 2 percent. Rare-bird sightings get special scrutiny.
+这个系统也并非没有问题。和鸟类繁殖调查参与者那样经验丰富的研究人员相比，公民科学家汇报数据也许做不到那么准确。为了尽可能解决这个问题，康奈尔雇用了顶级观鸟高手，让他们周游世界，为的是给马丁卡这样的人提供方法指导。还有500名专家志愿者为上报数据的精确性把关，约2%的报告会被拦下来。珍稀鸟类的目击报告会得到特殊审核。
+The engine that makes eBird data usable is machine learning, or artificial intelligence — a combination of software and hardware that sorts through disparities, gaps and flaws in data collection, improving as it goes along.
+让eBird数据具备可用性的工具是机器学习，或称人工智能——这是一种软件和硬件的组合，它能整理出数据中的不一致之处、漏洞和缺陷，并在这运行过程中自我改进。
+“Machine learning says, ‘I know these data are sloppy, but fortunately there’s a lot of it,’ ” Dr. Fitzpatrick said. “It takes chunks of these data and sorts through to find patterns in the noise. These programs are learning as they go, testing and refining and getting better and better.”
+“机器学习是说，‘我明白，这些数据挺粗糙的，所幸的是数据量却很大，’”菲茨帕特里克博士说。“它把数据条块分割，并通盘整理，以求从杂乱的数据中找出规律。这些程序一边运行，一边学习、测试、调整，变得愈发完善。”
+Still, some experts question eBird’s validity. John Sauer, a wildlife biologist with the United States Geological Survey, says that bird-watchers’ reports lack scientific rigor. Rather than randomness, he said, “you get a lot of observations from where people like to go.” And he doubts that Cornell has proved the reliability of its machine learning efforts.
+不过仍有一些专家质疑eBird的有效性。美国地质调查局(United States Geological Survey)的野生生物学家约翰·索尔(John Sauer)称，观鸟爱好者的报告缺乏科学的严谨性。他指出，这样得到的数据不是来自随机采样，而是“有大量观测出自人们喜欢去的那些地方”。他还质疑康奈尔是否验证了其机器学习工作的可靠程度。
+Still, the information has promise, he said, “and it’s played a powerful role in coordinating birders for recording observations, and encouraging bird-watching.”
+即便如此，它收集到的信息仍有潜在价值，他说道。“并且，它在协调观鸟者进行观测记录方面发挥了强大的作用，还激发了观鸟的热情。”
+And the data are being used by a wide array of researchers and conservationists.
+而且这些数据正在一大批研究人员和生物保护人士手中派上用场。
+Cagan H. Sekercioglu, a professor of ornithology at the University of Utah who has used similar bird-watching data in his native Turkey to study the effects of climate change on birds, called eBird “a phenomenal resource” and said that it was “getting young people involved in natural history, which might seem slow and old-fashioned in the age of instant online gratification.”
+犹他大学(University of Utah)的鸟类学教授卡根·H·塞克西奥格鲁(Cagan H. Sekercioglu)曾在他的故乡土耳其，利用类似的观鸟数据来研究气候变化对鸟类的影响。他称eBird是“出类拔萃的资源”，还表示“在这样一个追求在线即时满足的年代，它正让青年人参与自然博物学这种看似慢吞吞、老套的工作”。
+Data about bird populations can help scientists understand other changes in the natural world and be a marker for the health of overall biodiversity. “Birds are great indicators because they occur in all environments,” said Steve Kelling, the director of information science at the Cornell bird lab.
+鸟类种群的相关数据能帮助科学家认识自然界其他方面的变化，它还是整体生物多样性健康程度的标志。“鸟类是很好的指示物，因为它们存在于各种环境中，”康奈尔鸟类实验室的信息科学部门主任史蒂夫·克林(Steve Kelling)说道。
+A decline in Eastern meadowlarks in part of New York State, for example, suggests that their habitat is shrinking — bad news for other species that depend on the same habitat. In California, eBird data is being used by some planners to decide where cities and towns should steer development.
+比方说，纽约州部分地区东草地鹨(Eastern meadowlark)数量的下降，向我们提示着它们的栖息地在缩减——这对依赖同一栖息地的物种都是坏消息。在加利福尼亚，一些城市规划人员正将eBird数据用于决定城市和小城镇应向何处发展。
+For bird-watchers, the eBird project has given their pastime a new sense of purpose. “It’s a really neat tool,” Mr. Martinka said. “If you see one bird or a thousand, it’s significant.”
+对观鸟爱好者而言，eBird项目给他们的业余爱好平添了新的目标感。“这工具真棒”，马丁卡说。“无论你看到一只还是一千只鸟，都很有意义。”

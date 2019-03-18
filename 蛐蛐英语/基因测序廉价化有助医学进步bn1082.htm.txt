@@ -1,0 +1,54 @@
+MOUNTAIN VIEW, Calif. — In Silicon Valley, the line between computing and biology has begun to blur in a way that could have enormous consequences for human longevity.
+在硅谷，计算科学和生物学已经在某种程度上开始融合，这可能会对人类寿命产生深远影响。
+Bill Banyai, an optical physicist at Complete Genomics, has helped make that happen. When he began developing a gene sequencing machine, he relied heavily on his background at two computer networking start-up companies. His digital expertise was essential in designing a factory that automated and greatly lowered the cost of mapping the three billion base pairs that form the human genome.
+完整基因（Complete Genomics）公司的光学物理学家比尔·班雅（Bill Banyai）是这种趋势的推动者之一。当他刚开始研发基因测序机器时，主要依赖之前在两家电脑网络创业公司的工作背景。在设计一套可以对人类基因组中的三十亿个碱基对进行自动测绘并大幅降低其成本的体系时，他在数字领域的专长起到了关键作用。
+The promise is that low-cost gene sequencing will lead to a new era of personalized medicine, yielding new approaches for treating cancers and other serious diseases. The arrival of such cures has been glacial, however, although the human genome was originally sequenced more than a decade ago.
+希望在于：廉价的基因测序技术将会带来一个全新的个性化医疗时代，并且能为癌症及其他疑难杂症提供新的治疗方法。虽然人类基因组的首次测序早在十多年前就已经完成，基因疗法却一直进展缓慢。
+Now that is changing, in large part because of the same semiconductor industry manufacturing trends that opened up consumer devices like the PC and the smartphone: exponential increases in processing power and transistor density are accompanied by costs that fall at an accelerating rate.
+现在这种状况正在发生改变，这与个人电脑、智能手机等消费产品的问世一样，大大得益于半导体制造业的发展趋势：在数据处理能力和晶体管密度以指数级增长的同时，价格在加速下降。
+As a result, both new understanding and new medicines will arrive at a quickening pace, according to the biologists and computer scientists.
+生物学家和计算机科学家们都认为，新的知识和药物会因此而加速出现。
+“For all of human history, humans have not had the readout of the software that makes them alive,” said Larry Smarr, director of the California Institute of Telecommunications and Information Technology, a research center that is jointly operated by the University of California, San Diego, and the University of California, Irvine, who is a member of the Complete Genomics scientific advisory board. “Once you make the transition from a data poor to data rich environment, everything changes.”
+加州电子通信与信息科技研究院（由加州大学圣地亚哥分校与欧文分校合办的一个研究中心）院长拉里·斯马尔（Larry Smarr）是完整基因公司的科学顾问委员会成员之一。他说：“在整个人类历史上，人们都没能解读出让我们得以生存的软件程序。一旦你从数据匮乏状态转到丰富状态后，一切都改变了。”
+Complete Genomics, based in Mountain View, is one of more than three dozen firms hastening to push the cost of sequencing an entire human genome below $1,000. The challenge is part biology, part chemistry, part computing, and in Complete Genomics’ case, part computer networking.
+除了位于加州山景城的完整基因公司之外，还有将近40家公司正在加速推动将人类全基因组测序的费用降至1000美元以下。他们需要解决的难题涵盖生物、化学和计算领域，而对于完整基因公司来说，还要面对计算机网络领域的挑战。
+Complete Genomics is a classic Silicon Valley start-up story. Even the gene sequencing machines, which are housed in a 4,000-square-foot room bathed in an eerie blue light, appear more like a traditional data center than a biology lab.
+完整基因是一个典型的硅谷创业公司案例。就连存放在一间4000平方英尺（约371.6平方米）大小、笼罩着幽幽蓝光的房间里的基因测序仪器，看起来也更像传统的数据中心，而不像一个生物实验室。
+In 2005 ,when Clifford Reid, a successful Silicon Valley software entrepreneur, began to assemble his team, he approached Dr. Banyai and asked if he was interested in joining a gene sequencing start-up. Dr. Reid, who was also trained in physics and math, had spent a year as an entrepreneur-in-residence at the Massachusetts Institute of Technology, where he had become a convert to bioinformatics, the application of computer science and information technologies to biology and medicine.
+2005年，硅谷软件行业成功人士克利福德·雷德（Clifford Reid）开始组建他的基因测序创业团队，并邀请班雅博士加入。雷德博士也具有物理和数学的学术背景，并在麻省理工学院做过一年的驻校企业家。在那里，他开始转而关注生物信息学，即计算科学和信息技术在生物和医药学方面的应用。
+Dr. Banyai had even less experience in biology.
+班雅博士在生物学方面的经验则更少。
+Formerly with the Internet networking start-ups GlimmerGlass and Silicon Light Machines, he in turn began by reading a pioneering 2005 article in the journal Science in which a group of researchers in George Church’s genetics laboratory at Harvard describe a new technique intended to speed gene sequencing.
+他曾供职于闪光玻璃（Glimmer Glass）和硅光机器（Silicon Light Machines）这两家互联网网络创业公司。他进入这个领域是从阅读《科学》杂志在2005年发表的一篇先驱性论文开始的。那篇论文由哈佛大学乔治·丘奇（George Church）领导下的遗传实验室的一组研究人员所撰写，描述了一种旨在提高基因测序速度的新技术。
+Today Dr. Banyai is finishing the second generation of a machine that blends robotics, chemistry, optics and computing. It is emblematic of the serendipitous changes that take place when a manufacturing process is transformed: performance increases and cost falls at an accelerating rate.
+如今，班雅博士正在对他的第二代测序机器进行收尾工作。这台机器将机器人学、化学、光学和计算科学融为一体，标志着制造过程的革新所带来的意外变化：性能加速上升，而成本加速下降。
+“Genomes are now being sequenced incredibly cheaply,” said Russ B. Altman, who is a founder of Personalis, a start-up based in Palo Alto, Calif., that is developing software to interpret genomes. “On the discovery and science side we will be able to do clinical trials. We’ll be able to check the entire genome.”
+加州创业公司Peronalis致力于开发能解释基因组测序结果的软件，其创始人之一鲁斯·阿尔特曼（Russ B. Altman）说：“现在测序费用便宜得令人难以置信。从科学探索方面来说，我们可以用它来进行临床试验。我们将能够检测整个基因组。”
+Recently, on the company’s Web site, Dr. Reid predicted that the cost of gene sequencing could eventually be as low as that of a blood test: “I believe that the impact on the medical community of whole human genome sequencing at a cost comparable to a comprehensive blood test will be profound, and it will raise a host of public policy issues (privacy, security, disclosure, reimbursement, interpretation, counseling, etc.), all important topics for future discussions,” he wrote.
+最近，雷德博士在公司网站上预测，基因测序的费用最终会下降到与血检价格相当的水平。他写道：“我相信，完整的人类基因组测序价格下降到与一次综合血检的价格差不多后，会对医学界产生深远影响。这也会带来许多公共政策方面的问题——隐私、安全、信息披露、偿付、解读、咨询等所有可供在将来进行探讨的重要话题。”
+Dr. Banyai said he had found that Silicon Valley start-up ideas tracked well. “There is this remarkable thing that happens in start-ups. You make up this plan and then you step off a cliff and magically a little bridge appears,” he noted, as new technologies appear in the nick of time.
+班雅博士说，他发现硅谷创业公司的想法与时俱进。他注意到，“在创业公司中有一件值得注意的事，那就是你拟定了一个计划，然后迈下悬崖，却又发现一座小桥神奇地出现在前面”，因为新技术总会在关键时刻亮相。
+In the case of Complete Genomics, the company is riding in part on big advances being made in industrial digital cameras that are capable of capturing the fluorescent molecules that are used to “read” small sequences of DNA.
+比如，完整基因公司就部分得益于工业用数码相机技术的巨大进展。这种相机能够拍摄用于“读取”DNA微小序列的荧光分子。
+In the last half-year, a new generation of cameras, more frequently used for factory inspection systems, has made it possible to speed up the Complete Genomics sequencing process tenfold. That, the company has said, will drive its capacity to 100,000 genomes annually from 10,000.
+在过去的半年里，新一代相机让完整基因公司得以将测序过程所用时间减少到原来的十分之一，从而使其测序能力从每年的一万个基因组提高到十万个。而这种相机之前更多是用于工厂检验系统。
+The parallels between the evolution of the nascent gene sequencing industry and the Valley’s chip makers are striking. By placing more circuits on a silicon wafer at an exponentially increasing pace since the early 1960s, the semiconductor industry transformed the cost of computing. As a result, today the world’s most powerful supercomputer from the 1980s nestles comfortably in your hand and costs several hundred dollars.
+新生的基因测序行业的演进与硅谷芯片制造业的平行发展关系非常显著。从1960年代早期以来，半导体行业以指数级增长的速度在硅芯片中植入更多电路，从而改变了计算过程的价格。其结果是，如今你只需花费几百美元，就能将1980年代全世界最强大的超级计算机轻松握于手中。
+Complete Genomics’ competitors are also exploiting designs to drive costs down. For example, Life Technologies, based in Carlsbad, Calif. uses a direct approach to read the bases in the genome from an array of sensors on the surface of a semiconductor chip. As more sensors are packed onto each successive generation of technology, the cost of sequencing will also fall sharply.
+完整基因的竞争对手们也在利用设计来降低成本。例如，位于加州的生命技术公司（Life Technologies）从半导体芯片表面的感应器阵列中直接读取基因组中的碱基对。随着每一代新技术都能在同样的面积上加入更多的感应器，测序价格也会随之急剧下降。
+Last month, Oxford Nanopore Technologies created an industry sensation when it introduced a machine that sequenced genes using an alternative approach called nanopore sequencing, in which a strand of DNA is read as it is pulled through a microscopic hole.
+2月份，牛津纳米孔技术公司（Oxford Nanopore Technologies）推出的测序仪器引起了业界轰动。这种仪器采用一种名为“纳米孔测序”的新方法，使DNA链从用显微镜才能看到的孔中穿过，同时读取其序列。
+The system is scheduled to be available later this year. However, it has an error rate much higher than that of the Complete Genomics system, which has independently been given high marks for accuracy.
+他们计划在今年晚些时候开始出售这种测序系统。然而，这种方法的错误率远高于完整基因公司的系统，后者的准确率在独立评定中得到了很高评价。
+Because there is no clear winner yet, all of the companies are pushing hard to get down the cost curve as fast as possible
+因为尚无明显赢家，所有的公司都在努力尽快降低成本。
+In 2011, Complete Genomics became one of the market leaders. This year, it has produced more than 3,000 sequences at a cost of about $5,000 each. Dr. Banyai’s higher capacity second generation system is now being installed and will begin production during the first half of this year. A third generation design has been completed.
+2011年，完整基因成为基因测序市场的领先者之一。今年以来，该公司已经以约5000美元的单价完成了3000多个基因组的测序。班雅博士的第二代系统目前正在安装过程中，它具有更强大的测序能力，将在今年上半年开始工作。第三代系统的设计也已经完成。
+What initially set Complete Genomics apart from the field was its strategy of offering gene sequencing as a service, rather than selling a machine to laboratories. More recently, Illumina, one of its crucial competitors, has also begun offering sequencing as a service, in addition to selling its machines.
+完整基因一开始就采用了与众不同的策略，提供基因测序服务而不是向实验室出售测序仪。最近，他们的主要竞争对手之一Illumina公司也开始在出售仪器之外提供测序服务。
+“Our competitors have to supply kits that can be executed by a graduate student rolling out of bed with a hangover,” said Dr. Reid. “We don’t live with that standard, and that can be tremendously liberating. Ours can be horrifically complex as long as it can be executed by a robot.”
+“我们的竞争对手必须提供连宿醉后刚起床的研究生都能使用的测序套装。”雷德博士说，“我们不需要这样的标准，因此有非常大的自由度。只要机器人能操作，我们的方法多复杂都没关系。”
+The company also began with the business intent of sequencing only the human genome, rather than those of other species, too — a strategy that was heresy in 2005, when the founders set out to raise money. At that time, only two human genomes had been sequenced. However, Complete Genomics founders argue that focusing just on the human genome has given them a leg up.
+此外，该公司的商业目的从一开始就是只进行人类基因组测序，而不涉及其他物种——这种策略在2005年公司创始团队开始募集资金时就显得很另类。那时，只有两个人类基因组完成了测序。不过，完整基因公司的创始人们认为，专注于人类基因组给他们带来了很大帮助。
+“You make a whole bunch of decisions that don’t work well for corn or bacteria, but they work very well for humans,” Dr. Reid said.
+雷德博士说：“我们做的大量决策对玉米或细菌都不适用，却十分适合人类。”

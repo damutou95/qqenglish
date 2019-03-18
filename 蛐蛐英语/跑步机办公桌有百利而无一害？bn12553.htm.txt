@@ -1,0 +1,40 @@
+Treadmill desks are popular, even aspirational, in many offices today since they can help those of us who are deskbound move more, burn extra calories and generally improve our health.
+由于跑步机办公桌可以帮助我们这些整天伏案工作的人多做运动，燃烧多余的热量，全面改善健康状况，如今它在许多办公室都深受欢迎，很多人都想要一张。
+But an interesting new study raises some practical concerns about the effects of walking at your workspace and suggests that there may be unacknowledged downsides to using treadmill desks if you need to type or think at the office.
+然而，一项有趣的新研究指出了在办公区域中步行的一些实际问题，并提出如果你的工作需要打字或思考，使用跑步机办公桌可能会造成一定的负面影响。
+The drumbeat of scientific evidence about the health benefits of sitting less and moving more during the day continues to intensify. One study presented last month at the 2015 annual meeting of the American College of Sports Medicine in San Diego found that previously sedentary office workers who walked slowly at a treadmill desk for two hours each workday for two months significantly improved their blood pressure and slept better at night.
+越来越多的科学证据表明，在日间少坐多动有益于健康。上个月在圣地亚哥举行的美国运动医学会(American College of Sports Medicine)2015年年度会议上发表的一项研究发现，久坐的上班族在每个工作日使用跑步机办公桌慢走两小时并持续两个月后，他们的血压显著改善，夜间的睡眠质量也有所提高。
+But as attractive as the desks are for health reasons, they must be integrated into a work setting so it seems sensible that they should be tested for their effects on productivity. But surprisingly little research had examined whether treadmill desks affect someone’s ability to get work done.
+尽管跑步机办公桌的健康效益十分吸引人，但毕竟它们是要在办公环境中使用，检测一下它们对工作效率的影响想来是合理的要求。令人惊讶的是，很少有研究调查过跑步机办公桌是否会影响人完成工作的能力。
+So for the new study, which was published in April in PLOS One, researchers at Brigham Young University in Provo, Utah, recruited 75 healthy young men and women and randomly assigned them to workspaces outfitted with a computer and either a chair or a treadmill desk.
+于是，在今年4月发表在《公共科学图书馆：综合》杂志(PLOS One)上的这项新研究中，杨百翰大学（Brigham Young University，B.Y.U，位于美国犹他州普若佛市）的研究人员招募了75名健康的青年男性和女性，并将他们随机分配到配备电脑加椅子或电脑加跑步机办公桌的两种不同的工作区中。
+The treadmill desk was set to move at a speed of 1.5 miles per hour with zero incline.
+跑步机办公桌的移动速度设定为每小时1.5英里（约合2.4千米），倾斜度为零。
+None of the participants had used a treadmill desk before, so they received a few minutes of instruction and practice. Those assigned a chair were assumed to be familiar with its use.
+所有参与者此前均未使用过跑步机办公桌，因此他们接受了几分钟的指导和练习。分配到椅子组的参与者则被认为熟悉椅子的使用。
+Then the volunteers were asked to complete a series of tests of their manual and mental dexterity.
+然后，研究人员对志愿者们进行了一系列手脑灵活性测试。
+The manual task was simple enough, consisting of using the keyboard to type words that flashed onto the computer screen as quickly and accurately as possible while the volunteer either sat or slowly walked.
+手部测试任务很简单，要求志愿者在坐着或慢走时尽可能迅速而准确地用键盘键入计算机屏幕上闪现的单词。
+The cognitive tests were more demanding, designed to measure practical aspects of cognition, such as working memory and delayed recall, and the ability to concentrate, all of which are important in performing office work. In one of these tests, volunteers had to learn and later recall lists of words; in another, they were asked to juggle lists of numbers and add them up in their heads even as new numbers were added to the list, possibly triggering unsettling flashbacks to high school algebra exams.
+认知测试要求较高，旨在测量认知的实践层面，如工作记忆、延迟回忆以及集中注意的能力等，所有这些对于执行办公室工作都非常重要。在其中一项测试中，志愿者需要学习一连串单词并在稍后回忆出来；在另一项测试中，他们被要求记下一串不断增加的数字并用心算把它们加起来——这可能会勾起他们在高中参加代数考试时的那段不太舒服的记忆。
+The results, when the researchers compared the treadmill walkers with the people sitting at their desks, substantially favored sitting. The people who had walked during the testing performed worse on almost all aspects of thinking, including the ability to concentrate and remember, compared with those who had been seated.
+研究人员比较了在跑步机上步行与坐在桌前的参与者的测试结果，发现基本上来说后者的成绩较好。与一直坐着的参与者相比，在测试过程中步行者在几乎所有关乎思考方面的测试（包括注意力和记忆力）中的表现都比较差。
+And they were much worse at typing, being substantially slower and more error prone than the sitting group.
+他们的打字测试成绩也比坐着的那组差得多，大体上速度都比较慢，也更容易出错。
+No one should be surprised by this deterioration of typing ability while using a treadmill desk, said Michael Larson, a professor of psychology and neuroscience at B.Y.U. who led the study. “You’re not stationary,” he said. Even if the oscillation in your body position is slight, you are moving first closer to and then farther from your keyboard. “It’s like typing while rowing,” he said.
+该研究的负责人，B.Y.U的心理学和神经科学教授迈克尔·拉森(Michael Larson)说，使用跑步机办公桌时打字能力会下降，这样的结果一点也不令人惊讶。“（因为）你不是静止的，”他说。即使你身体的摆动十分轻微，你相对于键盘的位置也是忽远忽近的。“这就像是一边划船一边打字一样。”
+But the lower cognitive scores among the treadmill walkers, compared with people in chairs, were unexpected, Dr. Larson said. Most studies of the effects of physical activity on cognition show that moving improves thinking.
+不过，拉森博士表示，跑步机步行者的认知评分低于坐椅子的参与者，却出乎他意料之外。大多数涉及身体活动对认知能力影响的研究都表明活动可以提高思维能力。
+Dr. Larson noted that those studies generally had focused on the effects of thinking after someone had walked or otherwise moved around, not on how well people think while actually moving.
+拉森博士指出，这样的研究一般都侧重于在步行或以其他方式运动后思维能力受到的影响，而不是实际运动时的情况。
+In the current study, he said, it appears that using a treadmill desk sopped up some of the volunteers’ available cognitive resources. By devoting a portion of their thinking to keeping themselves balanced on the treadmill, they became marginally less able to reason and remember.
+拉森博士说，他们的研究显示，使用跑步机办公桌占用了志愿者的一部分认知资源。由于他们需要把一部分思维放在维持自己在跑步机上的平衡上，他们的推理和记忆能力受到了轻微的削弱。
+This was a very limited, one-time test of people’s performance while using a treadmill desk or staying seated. It is extremely likely, Dr. Larson said, that if people repeatedly use a treadmill desk, they become accustomed to its effects and get better at walking, typing and thinking simultaneously.
+该研究只是一项探讨人在使用跑步机办公桌或坐在座位上时的表现的一次性测试，有很大的局限性。拉森博士说，很有可能，在人们反复使用跑步机办公桌后会习惯于它的影响，在行走时打字和思考的能力也就会随之改善。
+It is also worth emphasizing, Dr. Larson said, that the cognitive performance of the treadmill-desk volunteers, while worse than that of the people in chairs, “remained within what would be considered normal” on all of the tests. They didn’t forget how to add. They just weren’t quite as adept as people who sat.
+拉森博士补充道，还有一点值得强调：使用跑步机办公桌的志愿者的认知能力虽然比做椅子者略差，但所有测试的结果“仍在正常范围之内”。他们并没有忘记如何做加法，只不过不像坐椅子的那些人那样娴熟罢了。
+The upshot, Dr. Larson said, is that someone considering a treadmill desk should plan on a period of adjustment and might have to deal with lingering effects on typing and possibly even thinking.
+拉森博士说，研究结果表明，如果你考虑使用跑步机办公桌，那么，你需要安排出一段时间来适应它，并需要应对在使用期间它可能对打字甚至思维的延续性影响。
+But even with that caveat, he said, he believes that the health benefits of a treadmill desk should outweigh any declines in productivity and, in fact, he plans to buy one for himself.
+但即便给出了如上警告，他说他仍相信跑步机办公桌对健康的益处应该会超过其对工作效率的不良影响，事实上，他自己也计划添置一台。

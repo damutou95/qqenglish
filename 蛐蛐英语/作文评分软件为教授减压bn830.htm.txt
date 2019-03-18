@@ -1,0 +1,48 @@
+Imagine taking a college exam, and, instead of handing in a blue book and getting a grade from a professor a few weeks later, clicking the “send” button when you are done and receiving a grade back instantly, your essay scored by a software program.
+设想参加一次大学考试，做完试题后不是上交考卷并在几个星期后拿到教授给出的分数，而是点击“发送”按钮并立即收到一个分数——一个由软件程序为你的作文所打的分数。
+And then, instead of being done with that exam, imagine that the system would immediately let you rewrite the test to try to improve your grade.
+然后，设想考试不是就此结束，而是系统迅速给出反馈，让你重新答题以便取得更好的成绩。
+EdX, the nonprofit enterprise founded by Harvard and the Massachusetts Institute of Technology to offer courses on the Internet, has just introduced such a system and will make its automated software available free on the Web to any institution that wants to use it. The software uses artificial intelligence to grade student essays and short written answers, freeing professors for other tasks.
+EdX——由哈佛大学(Harvard University)和麻省理工学院(Massachusetts Institute of Technology)共同成立的一家提供在线课程的非营利性机构——就引入了这样一个系统，并会在网上推出它自己的免费自动化软件，任何想用的机构都可以使用。该软件采用人工智能对学生的作文和简答题进行评分，从而将教授解脱出来以从事其他工作。
+The new service will bring the educational consortium into a growing conflict over the role of automation in education. Although automated grading systems for multiple-choice and true-false tests are now widespread, the use of artificial intelligence technology to grade essay answers has not yet received widespread endorsement by educators and has many critics.
+这一新的服务将会在教育界引起有关自动化在教育中所扮演角色的更激烈的争论。虽然现在针对选择题和是非题的自动评分系统已经非常普遍，但利用人工智能技术对作文进行评分却尚未得到教育工作者的广泛认可，而且批评声也很多。
+Anant Agarwal, an electrical engineer who is president of EdX, predicted that the instant-grading software would be a useful pedagogical tool, enabling students to take tests and write essays over and over and improve the quality of their answers. He said the technology would offer distinct advantages over the traditional classroom system, where students often wait days or weeks for grades.
+EdX总裁、电气工程师阿南特·阿加瓦尔(Anant Agarwal)预测说，即时评分软件将会是一个有益的教学工具，可以让学生反复测试和写作，并促使他们提高答案的质量。他表示，相比于传统的课堂系统——学生通常要等数天乃至数周的时间才能拿到分数，该技术有着明显的优势。
+“There is a huge value in learning with instant feedback,” Dr. Agarwal said. “Students are telling us they learn much better with instant feedback.”
+“学习中的即时反馈有着巨大价值，”阿加瓦尔博士说，“学生告诉我们说即时反馈会提高学习成效。”
+But skeptics say the automated system is no match for live teachers. One longtime critic, Les Perelman, has drawn national attention several times for putting together nonsense essays that have fooled software grading programs into giving high marks. He has also been highly critical of studies that purport to show that the software compares well to human graders.
+但怀疑人士表示，自动化系统比不上活生生的老师。莱斯·佩雷尔曼(Les Perelman)就是一位长期的批评者，并曾多次引起全国关注，原因是他将文理不通的作文组合在一起，而软件评分程序不明就里，给出了很高的分数。此外，对于有关软件评分优于人力评分的研究，他也持强烈的批评态度。
+“My first and greatest objection to the research is that they did not have any valid statistical test comparing the software directly to human graders,” said Mr. Perelman, a retired director of writing and a current researcher at M.I.T.
+“对于这类研究，首要的和最大的反对理由就是它们没有任何有效的关于软件评分和人力评分直接比较的统计检验数据，”已退休的写作课程主任、现为麻省理工学院研究员的佩雷尔曼说。
+He is among a group of educators who last month began circulating a petition opposing automated assessment software. The group, which calls itself Professionals Against Machine Scoring of Student Essays in High-Stakes Assessment, has collected nearly 2,000 signatures, including some from luminaries like Noam Chomsky.
+从上个月起，由教育工作者组成的一个团体开始散发反对自动化评估软件的诉求传单，而他就是其中的参与者之一。该团体自称为“反对高风险评估中学生作文机器评分的专业人士团体”(Professionals Against Machine Scoring of Student Essays in High-Stakes Assessment)，现已征集到了近2000个签名，其中也包括一些知名人士如诺姆·乔姆斯基(Noam Chomsky)等。
+“Let’s face the realities of automatic essay scoring,” the group’s statement reads in part. “Computers cannot ‘read.’ They cannot measure the essentials of effective written communication: accuracy, reasoning, adequacy of evidence, good sense, ethical stance, convincing argument, meaningful organization, clarity, and veracity, among others.”
+“让我们面对自动化作文评分的事实，”该团体在其声明中写道，“计算机不能‘阅读’。它们无法衡量有效书面沟通的基本要素：准确性、推理、充足的论据、良好的判断力、伦理立场、令人信服的论证、有目的的组织架构、清晰性和真实性等等。”
+But EdX expects its software to be adopted widely by schools and universities. EdX offers free online classes from Harvard, M.I.T. and the University of California, Berkeley; this fall, it will add classes from Wellesley, Georgetown and the University of Texas. In all, 12 universities participate in EdX, which offers certificates for course completion and has said that it plans to continue to expand next year, including adding international schools.
+但EdX期望它的软件能够为学校和大学广泛采用。EdX提供来自哈佛大学、麻省理工学院和加州大学伯克利分校(University of California, Berkeley)的免费在线课程；今年秋天，它还将增加卫尔斯利学院(Wellesley College)、乔治城大学(Georgetown University)和得克萨斯大学(University of Texas)的课程。目前，参与EdX的大学共有12所；EdX提供结业证书，并表示它计划在明年继续扩大规模，其中包括增加国际学校等。
+The EdX assessment tool requires human teachers, or graders, to first grade 100 essays or essay questions. The system then uses a variety of machine-learning techniques to train itself to be able to grade any number of essays or answers automatically and almost instantaneously.
+EdX评估工具需要实实在在的老师或评分者首先评判100份作文或问答题。然后，该系统会利用多种机器学习技术进行自我培训，以便以一种近乎即时的方式对众多作文或答案进行自动评分。
+The software will assign a grade depending on the scoring system created by the teacher, whether it is a letter grade or numerical rank. It will also provide general feedback, like telling a student whether an answer was on topic or not.
+该软件会基于老师所创建的评分系统给予一个分数，这可能是一个字母分数也可能是一个数字分数。此外，它还会提供一般反馈，比如说告诉学生其答案是否切题等。
+Dr. Agarwal said he believed that the software was nearing the capability of human grading.
+阿加瓦尔博士表示，他认为该软件已经接近人力评分的能力。
+“This is machine learning and there is a long way to go, but it’s good enough and the upside is huge,” he said. “We found that the quality of the grading is similar to the variation you find from instructor to instructor.”
+“这是机器学习，我们还有很长的路要走，但它已经足够好了，而且它带来的好处是巨大的，”他说，“我们发现它的评分质量同指导老师之间的评分大致相当。”
+EdX is not the first to use automated assessment technology, which dates to early mainframe computers in the 1960s. There is now a range of companies offering commercial programs to grade written test answers, and four states — Louisiana, North Dakota, Utah and West Virginia — are using some form of the technology in secondary schools. A fifth, Indiana, has experimented with it. In some cases the software is used as a “second reader,” to check the reliability of the human graders.
+EdX并不是最先使用自动化评估技术的机构，这种技术可追溯到20世纪60年代的早期大型计算机。目前，一系列公司已经推出了书面阅卷的商用程序，而且四个州——路易斯安那、北达科他、犹他和西弗吉尼亚——已经在中学使用某种形式的技术。第五个州——印第安纳州已经开始试行。在有些情况下，该软件充当了“第二阅卷者”的角色，用来检查人力评分的可靠性。
+But the growing influence of the EdX consortium to set standards is likely to give the technology a boost. On Tuesday, Stanford announced that it would work with EdX to develop a joint educational system that will incorporate the automated assessment technology.
+但随着EdX联盟影响力的增加，其所设定的标准可能会推进这一技术的应用。周二，斯坦福大学(Stanford University)宣布它将会与EdX合作开发一个联合教育系统，并将会把自动化评估技术融入其中。
+Two start-ups, Coursera and Udacity, recently founded by Stanford faculty members to create “massive open online courses,” or MOOCs, are also committed to automated assessment systems because of the value of instant feedback.
+此外，近期成立的Coursera和Udacity也承诺采用自动化评估系统，它们看重的是即时反馈的价值。Coursera和Udacity是斯坦福大学教职人员为创建“大型公开在线课程”（massive open online courses，简称MOOCs）而设立的两家新兴机构。
+“It allows students to get immediate feedback on their work, so that learning turns into a game, with students naturally gravitating toward resubmitting the work until they get it right,” said Daphne Koller, a computer scientist and a founder of Coursera.
+“它会对学生的功课做出即时反馈，这样一来，学习就会变成一种游戏，学生会自然而然地反复提交他们的作业，直到满意为止，”计算机科学家、Coursera公司创始人达芙妮·科勒(Daphne Koller)说。
+Last year the Hewlett Foundation, a grant-making organization set up by one of the Hewlett-Packard founders and his wife, sponsored two $100,000 prizes aimed at improving software that grades essays and short answers. More than 150 teams entered each category. A winner of one of the Hewlett contests, Vik Paruchuri, was hired by EdX to help design its assessment software.
+去年，休利特基金会(Hewlett Foundation)——由惠普公司(Hewlett-Packard)创始人之一及其妻子设立的捐赠型组织——赞助了两个金额各为10万美元的奖项，旨在对作文和简答题评分软件进行改进。每个奖项的入围团队都超过150个。此次休利特竞赛的获胜者之一维克·帕鲁丘里(Vik Paruchuri)被EdX聘去帮助设计评估软件。
+“One of our focuses is to help kids learn how to think critically,” said Victor Vuchic, a program officer at the Hewlett Foundation. “It’s probably impossible to do that with multiple-choice tests. The challenge is that this requires human graders, and so they cost a lot more and they take a lot more time.”
+“我们的重点之一是帮助孩子学会批判性思考，”休利特基金会项目官员维克托·乌奇克(Victor Vuchic)说，“选择题测试不可能达到这种效果。挑战在于，这需要人力评分，所以成本很大，而且耗费的时间也很多。”
+Mark D. Shermis, a professor at the University of Akron in Ohio, supervised the Hewlett Foundation’s contest on automated essay scoring and wrote a paper about the experiment. In his view, the technology — though imperfect — has a place in educational settings.
+阿克伦大学(University of Akron)教授马克·D·谢尔米斯(Mark D. Shermis)是休利特基金会作文自动评分竞赛的监督者，而且还就这次试验写过一篇论文。在他看来，这一技术虽然存在瑕疵，但在教育设置中还是占有一席之地的。
+With increasingly large classes, it is impossible for most teachers to give students meaningful feedback on writing assignments, he said. Plus, he noted, critics of the technology have tended to come from the nation’s best universities, where the level of pedagogy is much better than at most schools.
+他说，随着班级规模的不断扩大，大多数老师都不太可能就学生的作文给出有意义的反馈。另外，他还指出，关于该技术的批评多来自全美顶尖大学，那里的教学水平要比大多数学校高得多。
+“Often they come from very prestigious institutions where, in fact, they do a much better job of providing feedback than a machine ever could,” Dr. Shermis said. “There seems to be a lack of appreciation of what is actually going on in the real world.”
+“通常，他们也都来自声誉很高的机构，他们给出的反馈的确优于机器的反馈，”谢尔米斯博士说，“但对于现实世界中的真实情况，他们似乎缺乏了解。”

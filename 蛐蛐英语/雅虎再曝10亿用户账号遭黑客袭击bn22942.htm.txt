@@ -1,0 +1,30 @@
+SAN FRANCISCO — Yahoo, already under a cloud from its summertime disclosure that 500 million user accounts had been hacked in 2014, disclosed Wednesday that another attack a year earlier had compromised more than 1 billion Yahoo accounts.
+旧金山——因为在今夏曝光5亿用户的账号在2014年遭到黑客袭击而名誉扫地的雅虎，周三再度批露2013年发生的一次黑客袭击危及10亿多雅虎账号。
+The newly disclosed attack involved more sensitive user information, including unencrypted security questions. Yahoo is forcing all of the affected users to change their passwords and it is invalidating the security questions.
+新披露的袭击涉及更多敏感的用户信息，包括没有加密的安全问题。雅虎正在让这些安全问题失效，同时强行要求所有受影响的用户修改自己的密码。
+Yahoo had agreed to sell its core businesses to Verizon Communications for $4.8 billion. Verizon said that it might seek to renegotiate the terms of the transaction after the first hacking was disclosed. It’s unclear how the newest information will affect its view of the purchase.
+雅虎已经同意以48亿美元的价格将自己的核心业务出售给为韦里孙通信(Verizon Communications)。在第一次的袭击信息披露后，韦里孙表示可能要重新协商交易条款。目前还不清楚最新的泄露信息会如何影响该公司对这场交易的看法。
+Yahoo has made a steady trickle of disclosures about the 2014 hacking, which it has been investigating with the help of federal authorities. The company said Wednesday that it now believes the attacker in that breach, which it says was sponsored by a government, found a way to forge credentials to log in to some users accounts without a password.
+在联邦当局的协助下，雅虎一直在对2014年的袭击进行调查，并一点点地将调查结果公开。雅虎周三表示，它现在认为那次袭击是由某政府资助的，袭击者通过造假证明文件，无需密码便登陆了一些用户的账户。
+Bob Lord, Yahoo’s chief information security officer, said in a statement that the state-sponsored actor in the 2014 attack had stolen Yahoo’s proprietary source code. Outside forensics experts working with Yahoo believe that the state-sponsored hackers used Yahoo’s code to access Yahoo user accounts without their passwords by creating forged “cookies,” short bits of text that a website can store on a user’s machine. By forging these cookies, attackers were able to impersonate valid users, gaining information and performing actions on behalf of their victims.
+雅虎首席信息安全官鲍勃·洛德(Bob Lord)在一份声明中表示，在2014年受政府资助实施袭击的参与者盗取了雅虎的专有源代码。与雅虎协作的外部鉴定专家认为，这些由政府资助的黑客利用雅虎的代码，无需密码便进入了雅虎用户的邮箱。其方式是伪造“网络标记”，即网站在用户的机器上存储的小段字节。通过伪造这些网络标记，袭击者可以冒充有效用户获取信息，还能以这些受害者的身份进行操作。
+Security has taken a back seat at Yahoo in recent years, compared to Silicon Valley competitors like Google and Facebook. Yahoo’s security team clashed with top executives, including the chief executive, Marissa Mayer, over the cost and customer inconvenience of proposed security measures.
+相比于谷歌(Google)和Facebook等硅谷竞争对手，雅虎最近几年把安全问题放在了不太重要的位置上。在拟议中的安全措施的成本和给客户带来的不便等问题上，雅虎的安全团队与包括首席执行官玛丽莎‧梅耶尔(Marissa Mayer)在内的高管产生了分歧。
+Security experts also say the time it has taken Yahoo to uncover the breach disclosed on Wednesday is a signal that the company’s security and monitoring technologies areinadequate.
+安全专家也表示，雅虎花那么长时间才发现周三披露的这次袭击，表明这家公司的安全和监控技术不太合格。
+“What’s most troubling is that this occurred so long ago, in August 2013, and no one saw any indication of a breach occurring until law enforcement came forward,” said Jay Kaplan, the chief executive of Synack, a security company. “Yahoo has a long way to go to catch up to these threats.”
+“最让人感到不安的是，这次袭击发生在2013年8月那么早以前，而且在执法主动介入之前没人发现任何被袭的迹象，”安全公司Synack的首席执行官杰伊·卡普兰(Jay Kaplan)说。“要赶上这些威胁的技术水平，雅虎还有很长的路要走。”
+In July, Yahoo agreed to sell its core businesses to Verizon Communications for $4.8 billion. Verizon said in October that it might seek to renegotiate the terms of the transaction because of the hacking, which had not been disclosed to Verizon during the original deal talks.
+今年7月，雅虎同意以48亿美元的价格将自己的核心业务出售给韦里孙通信。韦里孙在今年10月表示，考虑到黑客袭击因素，它可能要重新协商交易条款。在最初进行交易谈判期间，韦里孙没有被告知雅虎遭黑客入侵的信息。
+After the latest disclosure Wednesday, a Verizon spokesman, Bob Varettoni, essentially repeated that position.
+在周三这次最新的信息披露之后，韦里孙发言人鲍勃·瓦雷东尼(Bob Varettoni)基本重申了这一立场。
+“As we’ve said all along, we will evaluate the situation as Yahoo continues its investigation,” he said. “We will review the impact of this new development before reaching any final conclusions.”
+“就像我们一直讲的，在雅虎继续展开调查的同时，我们会对情况进行评估，”他说。“在得出最后结论之前，我们会重新审视新进展的影响。”
+Mr. Lord said Yahoo had taken steps to harden Yahoo’s systems following these attacks. The company encouraged its users to change passwords associated with their Yahoo account and any other digital accounts tied to their Yahoo email and account.
+洛德表示，雅虎已经采取行动，增强跟踪这类袭击的系统。公司鼓励用户修改与其雅虎账户有关联的密码，以及与雅虎邮箱和账户绑定的任何数字账户的密码。
+In the hacking disclosed Wednesday, Mr. Lord said Yahoo believed an “unauthorized third party” managed to steal datafor one billion Yahoo user accounts. Mr. Lord said that Yahoo had not been able to identify how the hackers were able to breach Yahoo’s systems, but that the company believed the incident occurred in August 2013.
+洛德在周三披露遭黑客袭击的信息时表示，雅虎认为是一个“未经许可的第三方”设法盗取了10亿雅虎用户的账户信息。洛德称，雅虎目前还无法确认袭击者是如何入侵了雅虎的系统，但公司认为这次袭击发生在2013年8月。
+Changing Yahoo passwords will be just the start for many users. They will also have to comb through other services to make sure passwords used on those sites are not too similar to what they were using on Yahoo. And if they were not doing so already, they will have to treat everything they receive online, such as email, with an abundance of suspicion, in case hackers are trying to trick them out of even more information.
+对很多用户来说，修改雅虎账号密码只是个开始。他们还必须彻底检查其他服务项目，以确保在这些网站上使用的密码与他们之前在雅虎的密码不会太接近。如果他们还没有做到这一点，则必须带着极大的怀疑态度应对自己在网上收到的任何东西，比如邮件，以防黑客试图从他们那里骗取更多信息。
+Yahoo recommended that its customers use Yahoo Account Key, an authentication tool that verifies identity using a mobile phone and eliminates the need to use a password on Yahoo altogether.
+雅虎建议用户使用雅虎账户密钥，这是一种验证工具，用户可以通过它使用手机验证自己的身份，再也不必通过输入密码登陆雅虎账户。

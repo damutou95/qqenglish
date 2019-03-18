@@ -1,0 +1,46 @@
+HONG KONG — It is either the first step in the largest takeover of an American company by a Chinese one or a new chapter in the emerging technological cold war between the two countries.
+香港——这要么是中国企业收购美国企业金额最大的一宗行动中的第一步，要么是美中两国日益加剧的技术冷战中的新的一章。
+Tsinghua Unigroup, a state-owned company that is China’s top chip maker, is preparing a $23 billion bid for Micron Technology, the United States maker of memory chips, according to a person briefed on the matter. The bid would dwarf the price of the closest such deal, the $4.7 billion paid by Shuanghui International Holdings of China to take over the American pork producer Smithfield Foods in 2013.
+知情人士透露，清华紫光集团准备以230亿美元（约合1400亿元人民币）的出价收购美光科技(Micron Technology)。国有的紫光集团是中国顶尖的芯片生产商，美光则是制造存储芯片的美国企业。此次收购要约的金额远远超出了最为接近的类似并购案，即中国企业双汇国际控股有限公司在2013年以47亿美元收购美国猪肉生产商史密斯菲尔德(Smithfield)的金额。
+Yet obstacles abound to any takeover of Micron by Tsinghua Unigroup. In a report released on Tuesday, Credit Suisse said the deal was “highly unlikely to get past U.S. regulators who are increasingly viewing semiconductors as a strategic industry.” Credit Suisse said a trade war was brewing between the United States and China over the production of chips, which serve as the brains of the billions of computers, phones and other devices.
+不过清华紫光试图收购美光的任何尝试，都会遭遇很多阻碍。在周二发布的一份报告中，瑞信(Credit Suisse)称，这宗交易“得到美国监管部门批准的可能性极低。美国监管部门越来越多地认为半导体是一个战略性产业。”瑞信还称，美国与中国之间围绕芯片生产正在酝酿一场贸易战。芯片的作用相当于数亿台电脑、手机和其他设备的大脑。
+The political difficulties that could hurt any deal highlight a growing wariness by both China and the United States of technology produced by the other, and illustrate how critical to security even ordinary electronics have become.
+任何交易都可能面对重重政治障碍，这突显了中美双方对于彼此的技术产品疑虑日益加强，此外也说明，即使是对普通的电子产品而言，安全问题也变得愈发关键。
+Memory chips are where data resides in between computational tasks. While Micron is best known for bulk memory products that go into mobile phones and personal computers, the company, based in Boise, Idaho, also contributes to advanced systems for global data centers, high-performance computing and flash memory, considered essential for speedy analysis of tasks as varied as placing web ads and maintaining jet engines.
+存储芯片的用途是在计算任务执行期间贮存数据。总部位于爱达荷州博伊西的美光最著名的业务是为移动电话和个人电脑提供大规模存储产品。该公司也为全世界的数据中心提供先进系统、高性能计算技术和闪存。这些产品被认为有至关重要的意义，可用于对各种任务开展高速分析，包括投放网络广告和维护喷气机引擎。
+Micron sells chips with wires just 16 nanometers across, which is near the smallest width now commercially available and would probably be considered a leading-edge process technology by United States regulators. Micron is the last United States-based maker of such memory chips, with facilities in the United States and across Asia, but relatively little production in China. The loss of the ability to make advanced memory chips could even affect American security, according to some analysts.
+美光销售的芯片中包含的电路宽度只有16纳米。这与市面有售的最小宽度相距不远，因而很可能会被美国监管部门认为是一种顶尖的加工技术。美光是总部在美国的最后一个生产此类存储芯片的企业。公司在美国和亚洲各地都有生产厂，但在中国大陆的产能相对较小。一些分析人士认为，如果失去制造先进存储芯片的能力，甚至会对美国的安全造成影响。
+When reached over the phone for comment, Tsinghua Unigroup’s chairman, Zhao Weiguo, said, “I can only say we are interested in working with Micron.”
+在接到请求置评的采访电话时，清华紫光董事长赵卫国说，“我只能说我们很有兴趣与美光合作。”
+“Micron does not comment on rumor or speculation,” a company spokesman, Daniel Francisco, wrote in an email.
+“美光不会就传言或揣测发表评论，”该公司发言人丹尼尔·弗朗西斯科(Daniel Francisco)在电子邮件中写道。
+Another problem could be the size of the bid. Nam Hyung Kim, a memory analyst at the research group Arete, said it was too low and could indicate that the Chinese company was simply feeling out prices for companies that produce chips and memory. Micron was worth more than $23 billion just a few weeks ago, and about $35 billion late last year. The stock has been under pressure, partly from low consumer demand for PCs ahead of the release of Microsoft’s new Windows operating system this month.
+另一个问题可能在于收购要约的规模。研究集团Arete的存储行业分析师金南衡（Nam Hyung Kim，音）称出价太低，可能说明这家中国企业只是在试探生产芯片和存储设备的各家企业的要价。就在几周前，美光市值还曾超过230亿美元，去年年底时该公司市值为350亿美元。该公司股价之所以承受压力，部分原因在于微软(Microsoft)将于本月发布新版Windows操作系统，此时消费者对个人电脑的需求较低。
+“I’m not sure they are even serious” about the price, he said.
+“我不确定”他们的开价“到底是不是认真的，”他说。
+“Yesterday a major shareholder said the company should be worth more than $40 billion,” Mr. Kim said, referring to a note distributed on Monday by David Einhorn, the activist investor who heads Greenlight Capital and has built up a stake in Micron. “Given that, and the fact that Micron has good technology with a strong fundamental outlook, the price is way too low for them to even consider, from my view.”
+“昨天，美光的一位大股东表示，公司价值应该超过400亿美元，”金南衡说。“考虑到这一点，加上美光有先进的技术，基本面前景也很好，在我看来，这个出价实在太低了，他们连考虑都不会考虑。”金南衡引述的是维权投资者戴维·艾因霍恩(David Einhorn)于周一发布的一则通告。他是绿光资本(Greenlight Capital)的负责人，并逐步在美光持有了一定股份。
+Simply by proposing a deal, Tsinghua Unigroup stands to gain status. Last September, Intel invested $1.5 billion in the company. Making Intel-type chips does not help Tsinghua much in manufacturing memory chips, which would require different, or vastly retooled, facilities.
+单单是提出要约，清华紫光就可以提升声望。去年9月，英特尔(Intel)向该公司投资15亿美元。然而，生产英特尔那种芯片，对于存储芯片的制造并不会起到多大帮助，后者需要不同的生产设施，或是做出大幅改造。
+If a deal was rejected by American regulators, it would enable Beijing to claim that United States policies are restrictive to Chinese investment — undercutting complaints by the United States about blocks against American technology companies’ operations in China.
+如果美国监管机构否决这笔交易，北京方面就可以宣称，美国对中国投资采取了限制性的政策——进而回击美国政府的抱怨。美国表示，中国对美国科技企业在华的经营加以阻挠。
+Willy C. Shih, a professor of technology and operations management at Harvard Business School, said an acquisition would save China years in catching up with industry leaders, like Samsung.
+哈佛商学院(Harvard Business School)的科技和经营管理教授史兆威(Willy C. Shih)表示，收购一家企业，可以让中国在追赶三星(Samsung)等业界领袖的过程中节省多年时间。
+“The question is, if you’re China and you want to have this capability, one of the ways to do it is to buy it,” Mr. Shih said. “Tsinghua Unigroup has the cash because it’s basically government money, so that’s one way to do it.”
+“问题是，如果你是中国，而你想取得这种能力，那么一种方式就是收购，”史兆威说。“清华紫光有现金，因为那基本上是政府的钱，所以这就是其中的一种方式。”
+Ye Ming, a spokesman for Tsinghua Unigroup, said on Tuesday that the company had no official announcement. The news was first reported by The Wall Street Journal.
+清华紫光的发言人叶铭周二表示，公司并未发布官方通告。最先报道该消息的是《华尔街日报》(Wall Street Journal)。
+If it materializes, the plan would be the strongest indication yet of the aggressiveness with which Beijing is pushing to build China’s semiconductor industry. Partly because of export restrictions on the sophisticated tools and machines required to produce semiconductors, China’s companies have lagged behind the global leaders. In 2013, China imported $232 billion of semiconductor materials, more than it spent on petroleum.
+如果消息属实，该计划将是中国迄今发出的极力推动构筑半导体产业的最强信号。中国企业与全球领先厂商之间存在差距，部分原因在于生产半导体所需的精密工具和机械有出口限制。2013年，中国进口了2320亿美元的半导体材料，比进口石油的花费还多。
+To address the imbalance, Beijing has vowed to spend big. Vice Premier Ma Kai heads a group with the task of making China’s chip industry a global leader by 2030, and he is equipped with about $170 billion in government money to spend over the next decade, according to a report last year by McKinsey & Company.
+为了应对这种不平衡，北京承诺开展巨额投资。副总理马凯牵头了一个工作组，目标是到2030年让中国的芯片产业领先全球。麦肯锡(McKinsey & Company)去年发布的一份报告称，他未来十年可以支配的政府资金约合1700亿美元。
+The push has also raised security concerns. Leaks by the former National Security Agency contractor Edward J. Snowden revealed how the United States used hardware produced outside China to snoop on the Chinese.
+这番努力也引起了安全方面的担忧。美国国家安全局前承包商雇员爱德华·J·斯诺登(Edward J. Snowden)披露的文件显示，美国政府使用在中国之外生产的硬件窥探中国。
+Over the last two years, Tsinghua Unigroup has emerged as a leader in China’s semiconductor effort. As a subsidiary of Tsinghua Holdings, which controls companies spun off from China’s top universities, it is closely connected to the government.
+过去两年里，清华紫光在中国推动半导体产业的努力中成了一家领军企业。作为清华控股的子公司，紫光与政府关系密切。清华控股控制着从中国的顶尖大学剥离出来的多家企业。
+All of that means the bid for Micron is likely to stir up scrutiny from American regulators, and in particular could prompt a review by the Committee on Foreign Investment in the United States, which reviews company acquisitions that could pose a threat to American security. Even though the technology is not directly related to the military, the deal might receive scrutiny because it would effectively eliminate the last major American company to make memory chips.
+所有这些都意味着，收购美光的要约大概会引起美国监管机构的关注，尤其可能会招致美国外国投资委员会(Committee on Foreign Investment in the United States)的审核。该委员会负责审核可能对美国安全构成威胁的企业并购行为。尽管相关技术与军方没有直接联系，但是由于它实际上会消除最后一家制造存储芯片的美国大型企业，所以仍然可能受到严密审核。
+“I think the U.S. should be concerned,” said Mr. Shih, the Harvard professor. “One could say that maybe the Chinese want to keep Micron in Idaho. If they buy them, they’ll likely be wanting to move the tech to China. So to me it just represents the loss of another U.S. capability.”
+“我想美国应该感到不安，”哈佛教授史兆威表示。“有人会说，或许中国人想让美光留在爱达荷州。但既然买了，他们就可能想把技术转移到中国。所以在我看来，那的确代表着美国损失又一项实力。”
+The huge bid is also unusually aggressive for a Chinese state-run company, and analysts say it may shine a spotlight on how China uses a state-backed industrial policy to increase the technological capabilities of its companies.
+对于中国国有企业来说，这次巨额的收购要约也显得异乎寻常地激进。分析人士表示，或许可以从中看出，中国会怎样运用国家支持的产业政策来增强本国企业的技术实力。

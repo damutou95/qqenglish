@@ -1,0 +1,38 @@
+SEOUL, South Korea — Ending what was billed as the match of the century, a Google computer program defeated a South Korean master of Go, an ancient board game renowned for its complexity, in their last face-off on Tuesday.
+韩国首尔——在周二进行的最后一盘棋中，谷歌(Google)的一个计算机程序打败一名韩国围棋大师，结束了这场被称为世纪之战的对决。围棋是一种以复杂著称的古老棋类游戏。
+The program AlphaGo’s 4-1 victory was a historic stride for computer programmers and artificial intelligence researchers trying to create software that can outwit humans in board games.
+对于试图创造在棋类游戏上胜过人类的软件的计算机程序和人工智能研究人员而言，AlphaGo以4比1取胜，是一个历史性的跨越。
+“It made me question human creativity. When I saw AlphaGo’s moves, I wondered whether the Go moves I have known were the right ones,” the human competitor, Lee Se-dol, 33, said during a postmatch news conference. “Its style was different, and it was such an unusual experience that it took time for me to adjust.”
+“它让我质疑人类的创造性。看到AlphaGo下的棋，我开始在心里琢磨，自己以前了解的招数是否就是正确的，”代表人类参赛的棋手、33岁的李世石(Lee Se-dol)在赛后的新闻发布会上说。“它的风格不一样，这种对弈和我以往的经验截然不同，所以我需要时间来适应。”
+“AlphaGo made me realize that I must study Go more,” said Mr. Lee, one of the world’s most accomplished players.
+“AlphaGo让我意识到，我必须在围棋方面进行更多的学习，”身为世界顶尖围棋选手的李世石表示。
+Go is a two-person game of strategy said to have been created in China more than 3,000 years ago. The players compete for territory by placing black and white stones on intersections of a board of 19 horizontal and 19 vertical lines.
+围棋是一种由两名棋手对弈的策略型棋类游戏，据说在3000多年前由中国发明。棋手通过将白色和黑色棋子放在棋盘交叉处占地盘的方式博弈，而棋盘横竖各有19条线。
+The game has been the last remaining great hurdle for computer programmers attempting to make software more adept than humans at board games since the I.B.M.-developed supercomputer Deep Blue routed the world chess champion Garry Kasparov in 1997.
+对于试图研发出能在棋类游戏上超越人类的软件的计算机程序员来说，自IBM开发的超级计算机深蓝(Deep Blue)在1997年完败国际象棋世界冠军加里· 卡斯帕罗夫(Garry Kasparov)之后，围棋一直是他们面临的最后一道巨大的障碍。
+Artificial intelligence experts had predicted that a computer program needed at least 10 more years of development before it would be able to beat Go masters like Mr. Lee.
+人工智能专家曾经预言，计算机程序还需要至少10年的开发，才能打败李世石这样的围棋大师。
+But AlphaGo, created by Google’s artificial intelligence company DeepMind, had already surprised the Go community when it trounced the three-time European Go champion Fan Hui in October, 5-0. It then challenged Mr. Lee, a far stronger opponent with 18 international titles under his belt.
+不过，由谷歌旗下的人工智能公司DeepMind研发的AlphaGo之前就已经让围棋界吃了一惊。在去年12月，它以5比0的比分，完败欧洲三连冠选手樊麾。接着，它就向李世石发出挑战。这是一个比樊麾强大得多的对手，曾拿过18次国际赛事冠军。
+AlphaGo quickly decided the best-of-five series, winning the first three matches. (Google has said it plans to donate the $1 million prize to Unicef and other charities.)
+AlphaGo一上来就连胜三盘，很快敲定了这场五盘三胜制比赛的胜负。（谷歌已经表示，计划将100万美元的奖金捐给联合国儿童基金会等慈善机构。）
+But Mr. Lee staged a dramatic comeback and demonstrated a human resilience on Sunday, when he defeated AlphaGo in the fourth game.
+然而在周日，李世石上演了一出颇具戏剧性的反击战。他在第四盘棋中让AlphaGo投子认负，展示出人类的调适能力。
+Millions of Go fans in Northeast Asia, where the game is especially popular, watched intently during the match on Tuesday. It lasted the longest of the series: five hours.
+在围棋尤其受欢迎的东北亚地区，上千万围棋爱好者聚精会神地观看了周二进行的最后一盘棋。在整场比赛中，这一盘延续时间最长，达五个小时。
+Although many viewers did not understand the intricate play, the tension was clearly acute toward the end of the game. Each player was given one minute to deliberate and foresee complex moves and countermoves before placing a stone.
+尽管许多观众看不懂那错综复杂的棋局，但在比赛读秒阶段，场上情绪显然十分紧张。落子之前，每位选手仅有一分钟时间可以权衡和预想接下来的几步自己和对手分别会走什么棋。
+During a postmatch ceremony, Hong Seok-hyun, head of the Korean national Go association, awarded the AlphaGo team the certificate of an honorary Go degree of Nine Dan, the highest granted. Mr. Lee also holds that degree.
+在赛后举行的颁奖仪式上，韩国棋院院长洪锡炫(Hong Seok-hyun)给AlphaGo团队颁发了名誉九段证书。这是围棋选手所能获得的最高头衔，李世石也是九段棋手。
+Demis Hassabis, the chief executive of Google DeepMind, said playing Mr. Lee had exposed several weaknesses of AlphaGo that his team would try to address. Computer algorithms used for AlphaGo “one day can be used in all sorts of problems, from health care to science,” he said.
+谷歌旗下DeepMind公司的首席执行官戴米斯·哈萨比斯(Demis Hassabis)表示，和李世石的对弈暴露出AlphaGo的几个弱点，而他的团队会努力应对这些问题。AlphaGo使用的计算机算法，“有一天将能被用于解决从医疗到科学领域的各种问题，”他说。
+More than 100 million people had watched the AlphaGo-Lee matches, Mr. Hassabis said. He said he hoped that the attention would encourage more people to learn Go, the “most profound game humankind has devised.”
+哈萨比斯称，总共有超过1亿人观看了AlphaGo和李世石的对决。他表示，希望这种关注会鼓励更多人学习围棋，它是“人类发明的最为深奥的棋类游戏”。
+Mr. Lee said AlphaGo was unlike any human opponent he had faced.
+李世石表示，AlphaGo与他以前碰到过的所有人类棋手都不同。
+“It remained unfazed psychologically and stayed focused,” he said. “In that regard, I don’t think humans can beat it, even though I hesitate to admit that AlphaGo is above humans in Go skills yet.”
+“它可以始终保持心理平静和精神专注，”他说。“就这方面而言，我觉得人类比不过它，尽管我还不大愿意承认，AlphaGo在棋艺上胜过人类。”
+Until the matches with AlphaGo, Mr. Lee said he had begun wondering whether he was enjoying the game anymore. But he said the games had renewed his enthusiasm for Go, which he began playing professionally at age 12.
+李世石表示，在和AlphaGo比赛之前，他一度开始怀疑自己是否还享受下围棋这件事——李世石从12岁就开始以职业棋手的身份下棋。但他说，这次对弈重新唤起了他对围棋的热情。
+“I have some regrets about the matches I have played against AlphaGo,” he said. “But I could not have enjoyed them more.”
+“在和AlphaGo进行的比赛中，我有一些遗憾，”他说。“但我极为享受这个过程。”

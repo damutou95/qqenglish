@@ -1,0 +1,32 @@
+The golden lion tamarin, a one-pound primate that lives in Brazil, is a stunningly monogamous creature. A male will typically pair with a female and they will stay close for the rest of their lives, mating only with each other and then working together to care for their young.
+金狮狨是一种生活在巴西的灵长目动物，体重约一磅（约合0.45千克），它们遵循着一种令人吃惊的单一配偶制生活。通常情况下，一只雄性金狮狨和一只母狨配对后，它们会一直生活在一起，只与对方交配，还一起抚养幼兽。
+To biologists, this deeply monogamous way of life — found in 9 percent of mammal species — is puzzling. A seemingly better evolutionary strategy for male mammals would be to spend their time looking for other females with which to mate.
+在哺乳动物中，有9%的动物过着这种严格的单一配偶制生活，这让生物学家困惑。因为从表面上看，对雄性哺乳动物来说，更好的进化战略是花时间寻找其他可与交配的雌性动物。
+“Monogamy is a problem,” said Dieter Lukas of the University of Cambridge in a telephone news conference on Monday. “Why should the male keep to one female?”
+剑桥大学(University of Cambridge)的迪特尔·卢卡斯(Dieter Lukas)周一（7月29日——编注）在电话新闻发布会中说，“单一配偶是个问题。为什么雄性动物会只与一只雌性动物厮守呢？”
+The evolution of monogamy has inspired many different ideas. “These hypotheses have been suggested for the past 40 years, and there’s been no resolution of the debate,” said Kit Opie of the University College London in an interview.
+单一配偶制的进化，催生了很多不同的观点。伦敦大学学院(University College London)的基特·奥佩(Kit Opie)在采访中说，“过去40年里提出了各种假设，但是辩论一直没有结果。”
+On Monday, Dr. Opie and Dr. Lukas each published a large-scale study of monogamy that they hoped would resolve the debate. But they ended up coming to opposing conclusions, which means the debate over monogamy continues.
+奥佩和卢卡斯本周一分别发表了对单一配偶制进行大规模研究的论文，各自希望能一劳永逸地解决这场辩论。但是，他们的结论却截然相反，这意味着关于单一配偶制的辩论将会继续下去。
+Dr. Lukas, co-author of a paper in the journal Science with Tim Clutton-Brock of Cambridge, looked at 2,545 species of mammals, tracing their mating evolution from their common ancestor some 170 million years ago.
+卢卡斯博士与剑桥大学的蒂姆·克拉顿-布罗克(Tim Clutton-Brock)一起在《科学》(Science)杂志上发表了一篇论文。他们对2545个哺乳动物物种进行了研究，从大约1.7亿年前它们共同的祖先开始，追踪它们的交配进化史。
+The scientists found that mammals shifted from solitary living to monogamy 61 times over their evolution. They then searched for any factors that these mammals had in common. They concluded that monogamy evolves when females become hostile with one another and live in ranges that do not overlap. When females live this way, they set up so much distance between one another that a single male cannot prevent other males from mating with them. Staying close to one female became a better strategy. Once males began doing so, they sometimes evolved to provide care to their offspring as well.
+他们发现，哺乳动物在进化过程中出现了61次从独居向单一配偶制生活的转变。随后，他们搜寻了这些哺乳动物存在的共同之处。最后得出结论，当雌性动物不能彼此和谐相处，开始生活在不重叠的区域中时，单一配偶制就会进化而成。由于雌性这样生活时彼此相距较远，一只雄性动物不能阻止其他雄性动物与雌性交配。这样，与某一只雌性动物厮守便成了一种更好的战略。一旦雄性动物开始这样做，他们有时也会进化出抚养幼兽的能力。
+For his study, Dr. Opie and his colleagues examined 230 primate species, because monogamy is especially high in that group. They came down in favor of a different hypothesis: the threat of infanticide drove the evolution of monogamy.
+奥佩博士及其同事则在其研究中考察了230个灵长目物种，因为灵长目里的单一配偶制比例尤其高。他们的结论倾向于另一种假说：杀子的威胁推动了向单一配偶制的进化。
+“What we found was a very neat pathway for primates to evolve monogamy,” Dr. Opie said.
+奥佩博士说，“我们发现的是灵长目动物向单一配偶制进化的一条非常干净的路径。”
+In many species of mammals, males will sometimes kill the young offspring of other males. Scientists have proposed that they do so because nursing females do not ovulate. By killing a female’s offspring, a male then gains the chance to have offspring of his own with her.
+许多哺乳动物的雄性有时会杀掉其他雄性的年轻后代。科学家提出，他们这样做是因为哺乳期雌性不会排卵。通过杀死雌性的后代，雄性就有机会让雌性生下自己的后代。
+In The Proceedings of the National Academy of Sciences, Dr. Opie and his colleagues argue that in many primate species, males responded to the threat of infanticide by sticking with females after they gave birth.
+奥佩博士及其同事的文章发表在《美国国家科学院院刊》(The Proceedings of the National Academy of Sciences)上。他们在文中提出，在许多灵长目物种中，雄性对杀子威胁的回应，就是在雌性生产后继续与其在一起。
+Dr. Opie offered possible explanations for why his team and Dr. Lukas’s came to different conclusions. It is possible that the forces driving the evolution of monogamy in primates are different than in other mammals. Dr. Opie also noted that he and his colleagues had used a more powerful type of statistics, known as Bayesian probability, to reconstruct the evolution of monogamy.
+奥佩博士还对自己的团队与卢卡斯博士的团队结论不一致提出了可能的解释。一种可能性是，灵长目向单一配偶制进化背后的驱动力不同于其他哺乳动物。奥佩博士还指出，他的团队使用了更强大的统计工具，也就是“贝叶斯概率”来重构单一配偶制的进化。
+“They don’t use the latest methods, which is a bit of a pity,” Dr. Opie said.
+“他们没有采用最新的方法，有点可惜，”奥佩博士说。
+But Jacobus Boomsma of the University of Copenhagen, who was not involved in either study, found Dr. Lukas’s paper to be superior. “It makes perfect sense to me,” he said.
+不过，没有参加这两项研究的哥本哈根大学(University of Copenhagen)的雅各布斯·博姆斯马(Jacobus Boomsma)表示，卢卡斯博士的论文更胜一筹。“在我看来，它非常有道理，”他说。
+Sergey Gavrilets, an evolutionary biologist at the University of Tennessee, also favored Dr. Lukas’s conclusions. But he also noted that neither study tested all of scientists’ proposed explanations, like monogamy’s benefits in lowering the risk of sexually transmitted diseases or the possibility that females chose to mate with males who repeatedly brought them food.
+美国田纳西大学(University of Tennessee)的进化生物学家谢尔盖·加夫里拉什(Sergey Gavrilets)也更青睐卢卡斯的结论。但他也指出，两项研究都没有检验科学家提出的所有解释，比如单一配偶制在降低性传播疾病风险方面的好处，还有雌性选择与反复带给其食物的雄性交配的可能性。
+“It is still unknown how these other scenarios fare,” Dr. Gavrilets said.
+“还不清楚这些情景起到了什么作用，”加夫里拉什博士说。

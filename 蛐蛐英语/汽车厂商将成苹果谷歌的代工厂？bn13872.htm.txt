@@ -1,0 +1,70 @@
+FRANKFURT — WHETHER or not Apple’s secretive car project ever leads to an actual automobile, the technology company has already had a profound effect on the vehicle business.
+法兰克福——不管苹果公司藏而不露的汽车研发项目未来是否真的会让它生产某款汽车，这家科技公司都已经对汽车行业产生了深远的影响。
+The mere knowledge that Apple has a team of several hundred people working on car designs changed the conversation this week at the Frankfurt International Motor Show. Along with Google, Apple has focused the minds of auto executives on the challenge posed by new technologies that have the potential to disrupt traditional auto industry hierarchies.
+仅仅是知道苹果有一个几百人的团队在做汽车设计方面的研发，就足以改变人们在本周举行的法兰克福国际车展(Frankfurt International Motor Show )上谈论的话题。苹果，再加上谷歌，让汽车公司的高管们把注意力都放在了新技术带来的挑战上，这些新技术有可能会打破汽车行业的传统实力格局。
+This year, “connectivity” has supplanted “horsepower” or “torque” as the prevailing buzzword in Frankfurt. The talk is of self-driving cars, battery-powered cars and information technology designed to link cars with data networks to make driving safer and more efficient.
+今年，“连通性”已经取代“马力“或“扭矩”，成为法兰克福车展的热门词汇。人们谈论的是自驾车、电动汽车，以及将汽车和数据网络连接起来以提高驾驶安全性和效率的信息技术。
+Even though neither Apple nor Google is close to mass-producing a vehicle, nervousness about their intentions — which remain cloaked in mystery — is understandable.
+虽说苹果和谷歌都离批量生产汽车还很远，但汽车行业依然为两家公司不为外界所知的研发意图而紧张，这不难理解。
+As cars increasingly become rolling software platforms, Apple and Google have depths of tech expertise that the carmakers would have trouble duplicating. And those Silicon Valley companies have financial resources that dwarf those of even behemoth companies like Daimler and Volkswagen. Google, which began working on self-driving cars in 2009, is valued by the stock market at more than five times the worth of either of those carmakers. Apple is worth eight times as much. That gives them an advantage in a business that requires huge investment in research and development.
+随着汽车越来越多地成为装上车轮的软件平台，汽车制造商却很难复制苹果和谷歌所拥有的强大技术专长。而且即便是奔驰和大众这样的汽车业巨头，其财力与这两家硅谷公司相比，也会相形见绌。从2009年开始研发自驾车的谷歌，在股票市场上的估值已经是上述两家汽车厂商中任一家的五倍还要多。苹果的估值则是它们中任一家的八倍。在一个需要在研发上进行巨额投入的行业里，这让谷歌和苹果显得更具优势。
+The main risk for carmakers is probably not so much that an Apple car would destroy Mercedes-Benz or BMW the way the iPhone gutted Nokia, the Finnish company that was once the world’s largest maker of mobile phones. Rather, the risk is that Apple and Google would turn the carmakers into mere hardware makers — and hog the profit.
+汽车生厂商面临的主要风险，也许并非苹果汽车(Apple car)有可能会摧毁奔驰或宝马汽车的市场，如同iPhone击溃了曾经是世界第一大手机厂商的芬兰公司诺基亚(Nokia)那样。而是说，苹果和谷歌有可能将汽车厂商变成纯粹的硬件制造者，进而独占这个行业的利润。
+Carmakers say they are determined to resist that danger by maintaining control of the software that is proliferating inside vehicles.
+汽车厂商们表示，他们决心对正在激增的汽车内置软件保持掌控，以对抗这种风险。
+“What is important for us is that the brain of the car, the operating system, is not iOS or Android or someone else but it’s our brain,” Dieter Zetsche, the chief executive of Daimler, the maker of Mercedes vehicles, told reporters at the car show. IOS is Apple’s operating system for mobile devices.
+“对我们来说比较重要的是，作为汽车大脑的操作系统不能是iOS、安卓或其他系统，它得是我们自己的，”奔驰汽车的制造商戴姆勒公司(Daimler)的首席执行官迪特·蔡澈(Dieter Zetsche)在车展上对记者表示。iOS是苹果为其移动设备研发的操作系统。
+“We do not plan to become the Foxconn of Apple,” Mr. Zetsche said, referring to the Chinese company that manufactures iPhones.
+“我们不打算做苹果的富士康(Foxconn)，”蔡澈说道，他指的是为苹果生产iPhones的中国公司。
+Even without competition from Apple and Google, the carmakers are under extreme pressure to change the way they build cars. Regulators in Europe and the United States are demanding that cars emit less carbon dioxide, a culprit in global warming. The only way the automakers can meet increasingly stringent emissions standards is by selling more hybrid vehicles, and eventually all-electric cars. Both technologies require more software than gasoline or diesel engines.
+即便没有来自苹果和谷歌的竞争，汽车厂商们也面临着极大的压力，需要改变生产汽车的方式。欧洲和美国监管机构要求汽车厂商进一步降低汽车碳排放量，因为汽车排放是导致全球变暖的原因之一。而满足越来越严格的排放标准的唯一方式，就是销售更多混合动力汽车，最终实现只销售电动汽车。这两种技术都更加依赖软件研发，而非汽油或柴油发动机。
+Technology that links cars to data networks, so-called connectivity, also plays a role in reducing emissions and satisfying regulators. Systems that help drivers quickly find a parking space or avoid traffic jams, besides being convenient, help limit unnecessary driving and save fuel. But the new technologies are expensive, and car buyers are not necessarily willing to pay. Electric cars account for a sliver of the market so far.
+将汽车与数据网络相连的技术，即所谓的连通性，对于实现更少碳排放和让监管机构满意，也很重要。帮助司机快速找到停车位或避开交通拥堵的系统，除了方便之外，也有助于减少驾驶时长和节省燃料。但新技术相当昂贵，汽车购买者未必愿意为之买单。目前电动汽车的销售量只占整个市场很小一部分。
+Those pressures have been building for several years, but they have intensified since word leaked out early this year that Apple was studying whether to build a car.
+对汽车厂商而言，这些压力过去几年一直在增加，但今年年初苹果就是否生产汽车的问题进行研究的消息传出后，他们的压力更是瞬间加剧。
+“What has been an evolution is going to be a revolution,” said Stephan Winkelmann, the chief executive of Lamborghini, the Italian maker of super sports cars that is part of the Volkswagen group.
+“原先在不断演进的过程，如今要成为革命性巨变了，”兰博基尼(Lamborghini)首席执行官斯特凡·温克尔曼(Stephan Winkelmann)说，这家意大利顶级跑车企业是大众汽车集团的子公司。
+“Starting from sustainability, going over to digitalization, and ending up at autonomous driving — these three big things are really something that is a game changer for the automotive industry,” Mr. Winkelmann said in an interview. “Everybody has to tackle these challenges.”
+“从可持续性，到数字化，再到最终的自动驾驶，这是未来会真正改变汽车行业游戏规则的三件大事，”温克尔曼在接受采访时说道。“所有汽车企业都必须应对这些挑战。”
+Volkswagen, previously regarded as a laggard in vehicle electrification, said in Frankfurt this week that it would introduce 20 new plug-in hybrid or all-electric models by 2020, and it introduced a battery-powered Porsche concept car. At the company’s preshow extravaganza for the media Monday night at a repurposed basketball arena, there was nary a mention of internal combustion. Instead, Martin Winterkorn, the Volkswagen chief executive, spoke of cars that would park themselves and eventually run completely on autopilot.
+之前被认为在汽车电气化方面落后于其他公司的大众集团，本周在法兰克福推出了一款保时捷电动概念车，并表示至2020年大众集团将陆续推出20款新的插电式混合动力或全电动车型。周一晚上，该集团在一个重新布置的篮球馆举行了声势浩大的展前发布会。在会上，无人提起内燃机之类的词汇。大众集团首席执行官文德恩(Martin Winterkorn)转而谈到了可以自动停车以及最终可以完全自动驾驶的汽车。
+“By the end of this decade we will have transformed all of our new cars into smartphones on wheels,” he said.
+“截至2020年，大众所有新款车型都将转变成带轮子的智能手机，”他说。
+It is not only the European carmakers closely watching Apple and Google. Anthony Foxx, the United States transportation secretary, in Frankfurt for a meeting on Thursday with his counterparts from other G7 nations, said conventional automakers were trying to roll out technology as fast as they can, while some in Silicon Valley were aiming to leap straight to self-driving cars.
+不是只有欧洲汽车厂商在密切关注苹果和谷歌的动向。美国运输部部长安东尼·福克斯(Anthony Foxx)周四在法兰克福与来自其他G7国家的运输交通部长召开会议。他表示，传统汽车厂商正在尽可能快地推出新技术，而硅谷的科技公司则想一步到位地推出自动驾驶汽车。
+“There is an interesting dialogue between Detroit and Silicon Valley on this,” Mr. Foxx said during a meeting with several reporters. “There is probably some tension there, but maybe that is good creative tension.”
+“在这方面，底特律和硅谷之间形成了有趣的互动，”福克斯在会见几位记者时讲道。“他们之间可能存在一些紧张情绪，但或许这是有益创造性的紧张情绪。”
+One of the main guessing games at the auto show was whether Apple or Google would ever build a car. Both companies have met with German car companies as well as suppliers. Google executives have said the company will not become a carmaker.
+在车展上，大家猜测比较多的是一个问题是，苹果或谷歌是否会生产汽车。两家公司都和一些德国汽车公司和供应商见过面。谷歌的高管已经表示，它不会做汽车厂商。
+“Google is not a car manufacturer and does not intend to become one,” John Krafcik, a former Ford and Hyundai executive who runs Google’s self-driving car program, said in Frankfurt.
+“谷歌不是汽车制造商，也不打算成为这样的角色，”之前曾担任福特(Ford)和现代(Hyundai)汽车公司高管、现为谷歌自驾车项目负责人的约翰·克拉夫茨克(John Krafcik)在车展上表示。
+But it was not clear yet whether he meant that Google would license self-driving technology to traditional carmakers, or use contract manufacturers to build a vehicle. A Google spokesman declined to elaborate.
+但此话是否代表着谷歌会将其自驾车技术授权给传统汽车厂商，或通过签约汽车厂商生产汽车，还不清楚。一位谷歌发言人拒绝透露这方面的详细信息。
+Apple’s intentions are murkier. As is customary for Apple, the company has provided no information. But Timothy D. Cook, the Apple chief executive, reportedly visited a factory in Leipzig, Germany, last year where BMW manufactures the i3, an all-electric sedan with a carbon fiber body.
+苹果的意图更加模糊。如其一贯作风，苹果不曾透露过这方面的任何信息。但据说苹果首席执行官蒂莫西·D·库克(Timothy D. Cook)去年曾拜访德国莱比锡市的一家工厂，那是宝马公司生产拥有碳纤维车身的全电动小轿车宝马i3的地方。
+“We are not quite sure what Apple is prepared to do,” Friedrich Eichiner, the chief financial officer of BMW, said during a meeting with a group of reporters in Frankfurt. He said he thought Apple was still trying to understand the implications of getting into the car business.
+“我们不太确定苹果准备做什么，”宝马集团首席财务官弗里德里希·埃希纳(Friedrich Eichiner)在法兰克福接受记者群访时说。他说，他认为苹果还在努力弄清楚自己进入汽车行业有可能产生的结果。
+“Financially they are very strong,” Mr. Eichiner said. “They could do it.”
+“就财力而言，他们很强，”埃希纳说。“生产汽车没问题。”
+Luca de Meo, head of sales and marketing at Audi, another Volkswagen unit, said it would be out of character for Apple not to build its own vehicle, if it decides to get into the car business. “The Apple style is the ability to do software and hardware at the same time,” Mr. de Meo said in an interview.
+大众集团另一子公司奥迪(Audi)的销售与市场总监卢卡·德·梅奥(Luca de Meo)表示，如果苹果决定进入汽车行业，不生产自己的汽车的做法不符合它一贯的风格。“苹果的优势就在于同时集成软硬件的能力，”德·梅奥在接受采访时讲道。
+The traditional carmakers’ big advantage is that they have already mastered the formidable complexity of manufacturing vehicles that are reliable, comfortable and safe. But it is becoming more feasible for a newcomer to outsource vehicle manufacturing the same way that Apple outsources production of iPhones. And the outsourcer wouldn’t necessarily be in China.
+传统汽车厂商的一大优势是，他们已经掌握了生产可靠、安全和舒适的汽车所需的极其复杂的工艺。但是对于进入这一行业不久的企业来说，像苹果外包iPhones的生产那样将汽车生产业务外包出去，正在变得愈发可行。而汽车生产外包商不一定来自中国。
+One company already working with Google is ZF, a large German auto components supplier that in May completed an acquisition of TRW, a company based in Michigan that provides auto electronics such as airbag systems. TRW has been working on sensors and other hardware for self-driving cars.
+德国的大型汽车配件供应商ZF已经和谷歌展开合作，该公司在今年5月收购了位于密歇根的TRW，后者是一家生产安全气囊装置等汽车电子元件的企业，一直在研发和生产用于自驾车的传感器和其他硬件。
+Stefan Sommer, the chief executive of ZF, said the company would be able to produce a Google-branded car along with two or three other partners supplying components that ZF can’t, such as sheet metal body parts. “We would be a partner in that, for sure,” Mr. Sommer said in an interview.
+ZF公司首席执行官斯特凡·佐默(Stefan Sommer)表示，只要有两三个提供配件的合作企业与之相配合，该公司未来就可以生产谷歌牌汽车，合作企业可以为之供应包括金属板车身在内的ZF无法生产的汽车部件。“作为合作伙伴，我们肯定会参与谷歌汽车的生产，”佐默在接受采访时讲。
+But he said ZF could not work with Apple under the conditions it now imposes on suppliers. ZF sees itself as an innovator, not just a supplier. In Frankfurt, it displayed a car with electrically powered wheels that allow the car to turn 360 degrees almost on its own axis. ZF could not agree to demands by Apple for exclusive rights to such inventions, Mr. Sommer said.
+但他也表示，ZF无法按照苹果目前强加于其供应商的要求与之合作。因为ZF将自身看作创新企业，而不只是供应商。在法兰克福，该公司展示了一款配备电动车轮、几乎可以360度自转的汽车。佐默表示，ZF无法同意将这类创新技术独家授权给苹果。
+While Apple and Google pose a threat to traditional automakers, the mood in Frankfurt is not gloomy. Not long ago, analysts were predicting that the auto industry faced long-term decline. Surveys showed that younger people were less interested than their parents in cars and driving. But if Apple and Google are interested in the car industry, auto executives reason, cars and driving must be cool again.
+尽管苹果和谷歌给传统汽车厂商带来了威胁，但法兰克福车展上并非愁云密布。不久前，分析师们预测汽车业将面临长期的业绩下降。不少问卷调查也显示，更年轻的一代对汽车和驾驶的兴趣，比他们的父母辈一代要少。但汽车公司高管们推断，如果苹果和谷歌对汽车行业感兴趣，汽车和驾驶肯定会再度变酷。
+“It’s confirmation that we are working in a future industry,” said Ola Källenius, head of marketing and sales for Mercedes-Benz cars.
+“这证明，我们从事的是一个拥有未来的行业，”奔驰的市场和销售总监奥拉·凯伦纽斯(Ola Källenius)说。
+Apple and Google have given the car industry a jolt. Now the question is whether carmakers can respond quickly enough.
+苹果和谷歌已经给汽车行业带来冲击。现在的问题是，汽车厂商们能否足够快地予以应对。
+And they are trying to raise their games. Daimler, for example, reorganized its factories around the world last year, eliminating plant managers and giving control over production to the executives in charge of different model lines. The change allowed Mercedes to introduce a new variant of its popular C-Class at four factories, on four continents, in six months — about half of what it would have taken earlier, said Markus Schäfer, head of production at Mercedes.
+他们正努力改善自身的现状。比如，奔驰在去年重组了它分布于全球的工厂，裁掉工厂经理，将生产的控制权交给负责各个产品线的高管。该公司的生产总监马库斯·舍费尔(Markus Schäfer)表示，这让他们可以在6个月内在位于4个大陆的4家工厂开工生产备受欢迎的C-Class的一个新款车型，而在此前这样的工作大约需要花费一年的时间。
+“This enables us to be more competitive in a world where new competitors come to the table,” Mr. Schäfer said.
+“在一个有新竞争对手开始入场的世界里，这会让我们更具竞争力，”舍费尔说。
+“We created the automobile,” he said, “and we will not be a hardware provider to somebody else.”
+“我们发明了汽车，”他说，“我们不会沦为其他企业的硬件供应商。”

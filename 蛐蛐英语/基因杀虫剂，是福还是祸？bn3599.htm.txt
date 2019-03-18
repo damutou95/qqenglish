@@ -1,0 +1,42 @@
+Scientists and biotechnology companies are developing what could become the next powerful weapon in the war on pests — one that harnesses a Nobel Prize-winning discovery to kill insects and pathogens by disabling their genes.
+科学家和生物技术公司正在开发的一种技术，有可能成为人类与害虫战争中的下一个强大武器。这项技术应用了一个获得诺贝尔奖的发现，可以通过让害虫和病原菌的基因失效来杀灭它们。
+By zeroing in on a genetic sequence unique to one species, the technique has the potential to kill a pest without harming beneficial insects. That would be a big advance over chemical pesticides.
+通过打击某个物种的一个独特基因序列，该技术具有既杀灭害虫，又不伤害益虫的潜力。相对于化学农药而言，这是一个巨大的进步。
+“If you use a neuro-poison, it kills everything,” said Subba Reddy Palli, an entomologist at the University of Kentucky who is researching the technology, which is called RNA interference. “But this one is very target-specific.”
+“如果使用神经毒素，它会不分益虫害虫全部杀死，”肯塔基大学(University of Kentucky)昆虫学家沙巴·瑞迪·帕利(Subba Reddy Palli)说，他正在研究这项被称为“RNA干扰”(RNA interference)的技术。“但是，这项技术却可以精准打击目标。”
+But some specialists fear that releasing gene-silencing agents into fields could harm beneficial insects, especially among organisms that have a common genetic makeup, and possibly even human health. The controversy echoes the larger debate over genetic modification of crops that has been raging for years.
+但是一些专家担心，把基因失效剂施放到农田里，可能不利于益虫，特别是具有共同基因组成的益虫，而且甚至有可能影响人类健康。这种争议呼应了已经持续多年的转基因作物大辩论。
+“To attempt to use this technology at this current stage of understanding would be more naïve than our use of DDT in the 1950s,” the National Honey Bee Advisory Board said in comments submitted to the E.P.A. before the meeting, at the agency’s conference center in Arlington, Va.
+“我们现在对它还不了解，在这个阶段就试图使用这种技术简直比在20世纪50年代使用滴滴涕(DDT)更加莽撞，”美国蜜蜂顾问委员会(National Honey Bee Advisory Board)在会议前提交给国家环境保护局(EPA)的意见中说。国家环境保护局的会议中心位于弗吉尼亚州阿灵顿。
+RNA interference is of interest to beekeepers because one possible use, under development by Monsanto, is to kill a mite that is believed to be at least partly responsible for the mass die-offs of honeybees in recent years.
+孟山都(Monsanto)正在开发的“RNA干扰”技术让蜂农很感兴趣，因为它可能用来杀灭一种特定害虫，人们认为这种害虫对近年来蜂群的大规模死亡至少负有部分责任。
+Monsanto has applied for regulatory approval of corn that is genetically engineered to use RNAi, as the approach is called for short, to kill the western corn rootworm, one of the costliest of agricultural pests. In another project it is trying to develop a spray that would restore the ability of its Roundup herbicide to kill weeds that have grown impervious to it.
+孟山都已经向监管部门申请批准该公司的一种转基因玉米，这种玉米使用一种简称为RNAi的技术进行基因工程改造，以便杀灭西部玉米食根虫(western corn rootworm)，它是造成经济损失最大的农业害虫之一。孟山都还在开发一种喷剂，用来恢复其“农达”(Roundup)除草剂的除草效力，灭除已经对“农达”产生了免疫力的杂草。
+Some bee specialists submitted comments saying they would welcome attempts to use RNAi to save honeybees. Groups representing corn, soybean and cotton farmers also support the technology.
+一些蜜蜂专家递交的测评声称，他们欢迎使用RNAi技术来挽救蜜蜂。代表玉米、大豆和棉花种植户的组织也支持这种技术。
+“Commercial RNAi technology brings U.S. agriculture into an entirely new generation of tools holding great promise,” the National Corn Growers Association said.
+全国玉米种植者协会(National Corn Growers Association)表示，“RNAi商用技术将为美国农业带来全新一代的工具，它前途无量。”
+Corn growers need a new tool. For a decade they have been combating the rootworm by planting so-called BT crops, which are genetically engineered to produce a toxin that kills the insects when they eat the crop.
+玉米种植户需要新工具。过去10年，他们一直通过种植所谓的BT作物来抗击玉米根虫，BT作物是一种转基因作物，它能产生一种毒素，在根虫啃食玉米时杀死这种昆虫。
+Or at least the toxin is supposed to kill them. But rootworms are now evolving resistance to at least one BT toxin.
+或者，至少这种毒素理应能杀死根虫。不过现在，根虫进化出了能够抵御至少一种毒素的抗体。
+RNA interference is a natural phenomenon that is set off by double-stranded RNA.
+RNA干扰是一种由双链RNA引发的自然现象。
+DNA, which is what genes are made of, is usually double stranded, the famous double helix. But RNA, which is a messenger in cells, usually consists of a single strand of chemical units representing the letters of the genetic code.
+构成基因的脱氧核糖核酸(DNA)通常是双链的，也就是著名的双螺旋结构。然而，细胞的信使RNA，通常由代表基因码字符的单链化学单位组成。
+So when a cell senses a double-stranded RNA, it acts as if it has encountered a virus. It activates a mechanism that silences any gene with a sequence corresponding to that in the double-stranded RNA.
+因此，当一个细胞感觉到了双链的RNA，它就会做出好似遇到病毒的反应。它会启动一种机制，抑制与双链RNA序列同源的任何基因。
+Scientists quickly learned that they could deactivate virtually any gene by synthesizing a snippet of double-stranded RNA with a matching sequence.
+科学家们迅速了解到，他们几乎能关闭任何基因，方法是用相匹配的序列合成双链RNA片段。
+Various genetically engineered crops already harness RNAi to silence genes in the crop itself. These include soybeans with more healthful oil and a nonbrowning apple that appears close to federal approval. The technique has also been used to genetically engineer virus resistance into crops like papaya.
+多种转基因作物已经利用RNAi来自行抑制作物的基因。其中包括能产出更健康的豆油的大豆和一种不会变成褐色的苹果，后者看来已接近获得联邦政府的批准。这项技术还被用于通过转基因来让木瓜等作物产生病毒抗体。
+But generally those crops had been developed using methods to modify DNA that were known to work but were not understood at the time to involve RNAi. Monsanto’s new rootworm-killing corn is one of the first in which the crop has been engineered specifically to produce a double-stranded RNA, in this case to inactivate a gene called Snf7 that is essential for moving proteins around in the rootworm. Monsanto, which is based in St. Louis, hopes to have the corn, which it calls SmartStax Pro, on the market late this decade.
+但是一般情况下，这些农作物都是利用改变DNA的手段来发展出来的。人们知道这种办法有用，只是当时还不知道它与RNAi技术有关。孟山都能杀死根虫的新玉米品种，是首批通过改变基因来产生双链RNA的农作物之一。有了双链RNA，就可以使一种叫做Snf7的基因停止活动，这种基因对于根虫体内的蛋白质运输至关重要。孟山都总部位于圣路易斯，它希望能在2020年前把这种叫做SmartStax Pro的玉米推向市场。
+Some scientists are calling for caution, however, In a paper published last year, two entomologists at the Department of Agriculture warned that because genes are common to various organisms, RNAi pesticides might hurt unintended insects.
+然而，有些科学家也呼吁人们应该提高警惕。农业部的两位昆虫学者在去年发表的论文中说，因为很多生物体都有同样的基因，所以RNAi杀虫剂可能会对其他虫类造成伤害。
+One laboratory study by scientists at the University of Kentucky and the University of Nebraska, for instance, found that a double-stranded RNA intended to silence a rootworm gene also affected a gene in the ladybug, killing that beneficial insect.
+例如，肯塔基大学(University of Kentucky)和内布拉斯加大学(University of Nebraska)的科学家通过实验室研究发现，旨在使一种根虫类的基因失效的双链RNA也对瓢虫的基因造成了影响，并造成了这种益虫的死亡。
+Concerns about possible human health effects were ignited by a 2011 paper by researchers at Nanjing University in China. They reported that snippets of RNA produced naturally by rice could be detected in the blood of people and mice who consumed the rice and could even affect a gene that regulates cholesterol. Such a “cross kingdom” effect would be extraordinary and was met with skepticism. At least three studies subsequently challenged the findings.
+中国南京大学2011年的一篇论文也引起了人们对它给人类健康所造成的影响的关注。他们表示，从食用过某种大米的人类和老鼠的血液中，可以检测出这种米自然产生的RNA成分，这种成分甚至还会对控制胆固醇的基因产生影响。这种交叉影响相当令人不可思议，因而受到了怀疑。随后至少有三项研究对这些结果进行了挑战。
+In a paper prepared for Tuesday’s meeting, E.P.A. scientists said RNAi presented “unique challenges for ecological risk assessment that have not yet been encountered in assessments for traditional chemical pesticides.”
+国家环境保护局的科学家在为周二的会议准备的论文中说，RNAi体现了“生态风险评估所面临的独特挑战，这些挑战是传统化学杀虫剂评估所不曾遇到的”。

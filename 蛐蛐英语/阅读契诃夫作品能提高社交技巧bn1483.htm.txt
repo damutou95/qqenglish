@@ -1,0 +1,56 @@
+Say you are getting ready for a blind date or a job interview. What should you do? Besides shower and shave, of course, it turns out you should read — but not just anything. Something by Chekhov or Alice Munro will help you navigate new social territory better than a potboiler by Danielle Steel.
+假如你现在正在为相亲或工作面试做准备，你应该做些什么？当然，你得好好洗个澡，刮刮胡子什么的。除此之外，你还应该进行阅读——但不是读什么都奏效，契诃夫(Chekhov)或艾丽斯·门罗(Alice Munro)的作品可以帮助你在新的社会领域里游刃有余，相对而言，丹妮尔·斯蒂尔(Danielle Steel)的烂俗之作恐怕就没这么给力。
+That is the conclusion of a study published Thursday in the journal Science. It found that after reading literary fiction, as opposed to popular fiction or serious nonfiction, people performed better on tests measuring empathy, social perception and emotional intelligence — skills that come in especially handy when you are trying to read someone’s body language or gauge what they might be thinking.
+这是周四发表在《科学》(Science)杂志上的一项研究得出的结论。该研究发现，与通俗小说或严肃的非小说类作品相反，人们在阅读文学性小说之后，在衡量移情作用、社会认知和情商（这些技能在你试图解读他人的身体语言或揣度他人心意的时候大有用场）的测试中往往能取得较好的成绩。
+The researchers say the reason is that literary fiction often leaves more to the imagination, encouraging readers to make inferences about characters and be sensitive to emotional nuance and complexity.
+研究人员表示，其原因在于文学性小说经常给人留下较为广阔的想象空间，鼓励读者对人物的性格和命运做出推理，并敏感地体察情绪的细微差别及其复杂性。
+“This is why I love science,” Louise Erdrich, whose novel “The Round House” was used in one of the experiments, wrote in an e-mail. The researchers, she said, “found a way to prove true the intangible benefits of literary fiction.”
+“这就是我喜欢科学的原因，”路易丝·厄德里奇（她的小说《圆屋》[The Round House]曾用于其中一项实验）在一封电子邮件中写道。研究人员“找到了一种方法，可以证明文学性小说确实能带来无形的收益，”她说。
+“Thank God the research didn’t find that novels increased tooth decay or blocked up your arteries,” she added.
+“感谢上帝，研究没发现小说会增加蛀牙或阻塞动脉，”她补充道。
+The researchers, social psychologists at the New School for Social Research in New York City, recruited their subjects through that über-purveyor of reading material, Amazon.com. To find a broader pool of participants than the usual college students, they used Amazon’s Mechanical Turk service, where people sign up to earn money for completing small jobs.
+该研究由美国纽约市社会研究新学院(New School for Social Research in New York City)的社会心理学家们主持，他们通过阅读资料的超级供应商——亚马逊网上购物商城(Amazon.com)招募了受试者。为了寻找比普通大学生更广泛的参与者群体，他们使用了亚马逊的“土耳其机器人” (Mechanical Turk)服务。该服务提供了完成小件工作的机会，报名、从竞争中胜出并圆满完成工作的人就可以得到一定数量的报酬。
+People ranging in age from 18 to 75 were recruited for each of five experiments. They were paid $2 or $3 each to read for a few minutes.
+研究人员为五项实验均招募了年龄在18岁到75岁的参与者，并分别向他们支付了2到3美元，要求他们进行数分钟的阅读。
+Some were given excerpts from award-winning literary fiction (Don DeLillo, Wendell Berry). Others were given best sellers like Gillian Flynn’s “Gone Girl,” a Rosamunde Pilcher romance or a Robert Heinlein science fiction tale.
+其中一些参与者阅读了获奖文学性小说（如唐·德里罗[Don DeLillo]、温德尔·贝里[Wendell Berry]的作品）的节选。其他人则阅读了畅销书，如吉莉恩·弗林(Gillian Flynn)的《失踪女孩》(“Gone Girl”)、罗扎蒙德·皮尔彻(Rosamunde Pilcher)的言情小说或者罗伯特·海因莱因(Robert Heinlein)的科幻故事之类。
+In one experiment, some participants were given nonfiction excerpts, but we’re not talking “All the President’s Men.” To maximize the contrast, the researchers — looking for nonfiction that was well-written, but not literary or about people — turned to Smithsonian Magazine. “How the Potato Changed the World” was one selection. “Bamboo Steps Up” was another.
+在一项实验中，一些参与者阅读了非虚构类作品的节选，但请注意，这里我们说的可不是《惊天大阴谋》(All the President’s Men)这类的作品。为了最大限度地增大对比，研究人员试图寻找写得很精彩，却又不具备文学性也不以人为主题的非虚构类作品，于是他们选择了《史密森尼杂志》(Smithsonian Magazine)。另外，《马铃薯改变世界》(How the Potato Changed the World)  和《竹子加油》(Bamboo Steps Up)也不赖。
+After reading — or in some cases reading nothing — the participants took computerized tests that measure people’s ability to decode emotions or predict a person’s expectations or beliefs in a particular scenario. In one test, called “Reading the Mind in the Eyes,” subjects did just that: they studied 36 photographs of pairs of eyes and chose which of four adjectives best described the emotion each showed.
+在完成阅读（以及在某些个例中，参与者并没有阅读任何材料）之后，参与者们接受了计算机化的测试，以衡量他们在特定情况下解读他人情绪的能力，以及预测他人期望或观点的能力。在一项名为“察言观色(Reading the Mind in the Eyes)”的测试中，受试者需要完成以下任务：研究36张眼睛的特写照片，并从四个形容词中选择最恰当的一个来描述每双眼睛所表达的情感。
+Is the woman with the smoky eyes aghast or doubtful? Is the man whose gaze has slivered to a squint suspicious or indecisive? Is she interested or irritated, flirtatious or hostile? Is he fantasizing or guilty, dominant or horrified? Or annoyed that his tech stock dropped half a percent on the Nasdaq in a round of late trading after news from the Middle East? (Just kidding — that last one isn’t on the test.)
+这名化烟熏妆的女性是惊恐还是疑惑？那名将眼睛眯成一条线的男性是在猜疑还是犹豫不决？她看起来是兴致勃勃、怒发冲冠、风情万种还是充满敌意？他呢？是在做白日梦还是心存愧疚？是居于主导地位还是惊骇万分？或者，他正因中东过来的消息传开后，他的科技股在纳斯达克(Nasdaq)的一轮逾时交易中下跌了半个百分点而恼火不已？（开个玩笑——最后一条不是真正的测试内容。）
+The idea that what we read might influence our social and emotional skills is not new. Previous studies have correlated various types of reading with empathy and sensitivity. More recently, in a field called “theory of mind,” scientists have used emotional intelligence perception tests to study, for example, children with autism.
+我们阅读的内容可能影响我们的社交和情感技能，这并非什么新鲜的想法。既往的研究已经将多种不同类型的阅读资料与移情作用和体贴他人的能力相关联。例如，最近在一个名为“心理理论”(theory of mind)的领域中，科学家们就利用情绪智力认知测试对自闭症患儿进行了研究。
+But psychologists and other experts said the new study was powerful because it suggested a direct effect — quantifiable by measuring how many right and wrong answers people got on the tests — from reading literature for only a few minutes.
+但是，心理学家和其他专家指出，之前所述的新研究具有很强的说服力，因为它清楚地表明：仅仅数分钟的文学阅读也可以带来显著的直接效果，且该效果的程度还可以通过人们在测试中正确和错误答案的数量来量化。
+“It’s a really important result,” said Nicholas Humphrey, an evolutionary psychologist who has written extensively about human intelligence, and who was not involved in the research. “That they would have subjects read for three to five minutes and that they would get these results is astonishing.”
+“这真是非常重要的发现，”曾就人类的智慧撰写了大量专著，但并没有参与这项研究的进化心理学家尼古拉斯·汉弗莱(Nicholas Humphrey)说。“受试者在阅读三到五分钟后就可以达到这样的效果，相当令人惊叹。”
+Dr. Humphrey, an emeritus professor at Cambridge University’s Darwin College, said he would have expected that reading generally would make people more empathetic and understanding. “But to separate off literary fiction, and to demonstrate that it has different effects from the other forms of reading, is remarkable,” he said.
+汉弗莱博士是剑桥大学达尔文学院(Cambridge University's Darwin College)的名誉教授，他表示，之前他已经预料到一般来说，阅读可以使人变得更有同情心且善解人意。“但将文学性小说与其他形式的阅读资料分别视之，并证明其效果之间存在显著差异，意义非同凡响，”他说。
+Experts said the results implied that people could be primed for social skills like empathy, just as watching a clip from a sad movie can make one feel more emotional.
+专家们指出，该研究结果表明，可以通过观看容易使人变得更加感性的悲情电影片断等方式，来促进人们的移情作用及其它社交技能。
+“This really nails down the causal direction,” said Keith Oatley, an emeritus professor of cognitive psychology at the University of Toronto who was not involved in the study. “These people have done not one experiment but five, and they have found the same effects.”
+“这就板上钉钉地确定了因果关系的方向，”未参与这项研究的科学家、多伦多大学(University of Toronto)的认知心理学名誉教授基思·奥特利(Keith Oatley)说。“研究人员们不仅做了一个实验，他们做了五个！而且所有实验都显示了相同的效果。”
+The researchers — Emanuele Castano, a psychology professor, and David Comer Kidd, a doctoral candidate — found that people who read literary fiction scored better than those who read popular fiction. This was true even though, when asked, subjects said they did not enjoy literary fiction as much. Literary fiction readers also scored better than nonfiction readers — and popular fiction readers made as many mistakes as people who read nothing.
+研究人员——心理学教授埃马努埃莱·卡斯塔诺(Emanuele Castano)和博士生戴维·科默·基德(David Comer Kidd)发现，阅读文学性小说的人比阅读通俗小说的人测试得分要高。即使受试者在接受询问时表示自己并不怎么热衷文学性小说，这种效果依然存在。文学性小说读者的得分也优于非虚构类作品的读者，而通俗小说读者的错误率与未阅读任何材料的人大体相当。
+There is much the study does not address: How long could such effects last? Would three months of reading Charles Dickens and Jane Austen produce larger or smaller effects, or have no impact? Are the differences in scores all attributable to the type of material read? Would the results hold if the same person read all of the types? And would it matter if the literary fiction was particularly difficult? (Nobody was asked to read James Joyce or Thomas Pynchon.)
+不过，这项研究还留下了许多尚未解决的问题，比如，这种效果可以持续多久？坚持阅读查尔斯·狄更斯(Charles Dickens)或简·奥斯汀(Jane Austen)的作品三个月后，效果会变大还是变小，或者，完全没有影响？受试者们得分上的差异能否完全归因于阅读资料的类型不同？如果同一个人阅读了所有类型的资料，研究结果是否会保持不变？此外，如果文学性小说特别晦涩艰深，会不会造成重大影响？（研究人员还没有尝试要求任何人去阅读詹姆斯·乔伊斯[James Joyce]或托马斯·品钦[Thomas Pynchon]的作品。）
+The study’s authors and other academic psychologists said such findings should be considered by educators designing curriculums, particularly the Common Core standards adopted by most states, which assign students more nonfiction.
+该研究的作者和其他心理学学术人士表示，教育工作者在设计教学大纲，尤其是大多数州都会采用的《共同核心州立标准》（Common Core standards，该标准给学生布置了较多的非虚构类作品——译注）时，应将上述研究结果纳入考量。
+“Frankly, I agree with the study,” said Albert Wendland, who directs a master’s program in writing popular fiction at Seton Hill University. “Reading sensitive and lengthy explorations of people’s lives, that kind of fiction is literally putting yourself into another person’s position — lives that could be more difficult, more complex, more than what you might be used to in popular fiction. It makes sense that they will find that, yeah, that can lead to more empathy and understanding of other lives.”
+“坦率地说，我赞同这项研究的观点，”斯腾山大学(Seton Hill University)通俗小说写作课硕士课程的导师阿尔伯特·文德兰(Albert Wendland)说。“阅读描写他人波澜起伏、丰富而又漫长的人生探索经历的小说，类似于将你自己代入了那个人的位置——他的生活可能比你在通俗小说中体会到的更加艰难，也更加复杂。因此，我们很自然就能理解，为什么这类作品可以让人们更通情达理，更容易设身处地为他人考虑。”
+He added: “Maybe popular fiction is a way of dealing more with one’s own self, maybe, with one’s own wants, desires, needs.”
+他补充道：“也许，通俗小说更多地涉及了人们自己与自己的要求、欲望和需求相协调的方式。”
+In popular fiction, said Mr. Kidd, one of the researchers, “really the author is in control, and the reader has a more passive role.”
+身为研究人员之一的基德先生表示，在通俗小说里，“实际上是作者在控制大局，而读者只担任了较为被动的角色。”
+In literary fiction, like Dostoyevsky, “there is no single, overarching authorial voice,” he said. “Each character presents a different version of reality, and they aren’t necessarily reliable. You have to participate as a reader in this dialectic, which is really something you have to do in real life.”
+而在文学性小说，如陀思妥耶夫斯基(Dostoyevsky)的作品里，“你听不到作者发出的唯一的、压倒一切的声音，”他说。“每个人物所展现的，都只是现实的一个侧面，却未必是 ‘现实’真正的面貌。你必须以读者的身份参与这场辩证游戏，就像你在现实生活中要做的一样。”
+Dr. Castano added that, in many cases, “popular fiction seems to be more focused on the plot.”
+卡斯塔诺博士补充道，在许多情况下，“通俗小说似乎更注重情节。”
+“Characters can be interchangeable and usually more stereotypical in the way they are described,” he said.
+“不同人物之间可以互换，描述人物的方式通常也比较刻板，”他说。
+Ms. Erdrich, the author, said the study made her feel “personally cheered.”
+小说作者厄德里奇女士表示，这项研究使她“个人感到欢欣鼓舞。”
+“Writers are often lonely obsessives, especially the literary ones. It’s nice to be told what we write is of social value,” she said. “However, I would still write even if novels were useless.”
+“作家们往往都是孤独的强迫症患者，文学作品的作者尤其如是。很高兴有人告诉我，我们写的东西具有社会价值，”她说。“然而，哪怕人们说小说百无一用，我也会继续写下去。”

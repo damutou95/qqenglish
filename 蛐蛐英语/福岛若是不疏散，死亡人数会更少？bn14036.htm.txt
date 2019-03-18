@@ -1,0 +1,50 @@
+This spring, four years after the nuclear accident at Fukushima, a small group of scientists met in Tokyo to evaluate the deadly aftermath.
+今年春天，也就是福岛核事故的四年后，一小群科学家在东京会晤，旨在评估该事故造成的致命性后果。
+No one has been killed or sickened by the radiation — a point confirmed last month by the International Atomic Energy Agency. Even among Fukushima workers, the number of additional cancer cases in coming years is expected to be so low as to be undetectable, a blip impossible to discern against the statistical background noise.
+一个月前，国际原子能机构(International Atomic Energy Agency)证实，此次事件中无人因辐射患病或死亡。即使是在福岛核电站的工作人员中，预计未来几年增加的癌症病例数也极少，难以与统计学背景噪音相区分。
+But about 1,600 people died from the stress of the evacuation — one that some scientists believe was not justified by the relatively moderate radiation levels at the Japanese nuclear plant.
+然而，却有约1600人因疏散带来的压力死亡。与会的一名科学家认为，以日本核电站相对中等的辐射暴露水平，出现如此多的死亡案例并不合理。
+Epidemiologists speak of “stochastic deaths,” those they predict will happen in the future because of radiation or some other risk. With no names attached to the numbers, they remain an abstraction.
+流行病学家提出了“随机死亡”一说，他们预测，因为辐射或其他危险，未来会发生这种情况。1600这个数字没有对应的名字，他们只是一个抽象的概念。
+But these other deaths were immediate and unequivocally real.
+但这些死亡案例是切切实实发生的事实。
+“The government basically panicked,” said Dr. Mohan Doss, a medical physicist who spoke at the Tokyo meeting, when I called him at his office at Fox Chase Cancer Center in Philadelphia. “When you evacuate a hospital intensive care unit, you cannot take patients to a high school and expect them to survive.”
+我前往费城拜访在东京会议上发过言的医学物理学家莫汉·多斯(Mohan Doss)博士，在他的办公室里，他告诉我：“当时政府基本上已经慌了手脚。你把患者撤离了医院重症监护病房并转移到高中里，总不能指望他们还能活得好好的。”
+Among other victims were residents of nursing homes. And there were the suicides. “It was the fear of radiation that ended up killing people,” he said.
+类似的受害者还有住在养老院的人。此外还有自杀者。多斯博士表示：“可以说，是对辐射的恐惧最终造成了人们的死亡。”
+Most of the fallout was swept out to sea by easterly winds, and the rest was dispersed and diluted over the land. Had the evacuees stayed home, their cumulative exposure over four years, in the most intensely radioactive locations, would have been about 70 millisieverts — roughly comparable to receiving a high-resolution whole-body diagnostic scan each year. But those hot spots were anomalies.
+其实，大部分的放射性沉降物都已经被东风清扫到海上去了，剩下的那些在扩散作用下，单位土地上的浓度也已经降到很低。倘若那些被疏散的人员留在家里，即使是在辐射最强的地区，他们四年受到的累积辐射暴露剂量大约也只有70毫西弗，大致相当于每年接受一次高分辨率全身扫描诊断。需要注意的是，这些核热点地区还都是异常环境。
+By Dr. Doss’s calculations, most residents would have received much less, about 4 millisieverts a year. The average annual exposure from the natural background radiation of the earth is 2.4 millisieverts.
+根据多斯博士的计算，在不撤离的情况下，大部分居民受到的辐射应该也少得多，约为每年4毫西弗。而地球的年平均天然本底辐射就有2.4毫西弗。
+How the added effect of the fallout would have compared with that of the evacuation depends on the validity of the “linear no-threshold model,” which assumes that any amount of radiation, no matter how small, causes some harm.
+要比较放射性沉降物与疏散行动这两者的附加影响，依赖于“线性无阈值模型”的有效性，而该模型假定，任何剂量的辐射——哪怕它非常非常小——都会造成一定的危害。
+Dr. Doss is among scientists who question that supposition, one built into the world’s radiation standards. Below a certain threshold, they argue, low doses are harmless and possibly even beneficial — a long-debated phenomenon called radiation hormesis.
+该假设是构成全球防辐射标准的组成部分之一，但多斯博士等科学家对它提出了质疑。他们认为，只要低于某一特定的阈值，低剂量的辐射就是无害的，甚至还可能是有益的，这就要说到一种长期饱受争议的现象，称为辐射兴奋效应(radiation hormesis)。
+Recently he and two other researchers, Carol S. Marcus of Harbor-U.C.L.A. Medical Center in Los Angeles and Mark L. Miller of Sandia National Laboratories in Albuquerque, petitioned the Nuclear Regulatory Commission to revise its rules to avoid overreactions to what may be nonexistent threats.
+最近，多斯博士和其他两名研究人员：加州大学洛杉矶分校港口医疗中心（Harbor-U.C.L.A. Medical Center，位于洛杉矶）的卡罗尔·S·马库斯(Carol S. Marcus)以及桑迪亚国家实验室（Sandia National Laboratories，位于阿尔伯克基市）的马克·L·米勒(Mark L. Miller of Sandia)一同上书美国核能管理委员会(Nuclear Regulatory Commission)，要求修订有关法规，已避免人们对可能并不存在的威胁反应过度。
+The period for public comments is still open, and when it is over, there will be a mass of conflicting evidence to puzzle through.
+目前仍处于公开征求意见期间，等这一阶段结束后，还有一大堆相互矛盾的证据有待探讨和研究。
+A full sievert of radiation is believed to eventually cause fatal cancers in about 5 percent of the people exposed. Under the linear no-threshold model, a millisievert would impose one-one thousandth of the risk: 0.005 percent, or five deadly cancers in a population of 100,000.
+一般认为，一个西弗的辐射最终会引起5%的受暴露者中发生致命性癌症。在线性无阈值模型中，辐射剂量每增加一毫西弗，就会将该风险相应提高千分之一，也就是0.005%，换句话说，每10万人中将增加5例致命性癌症。
+About twice that many people were evacuated from a 20-kilometer area near the Fukushima reactors. By avoiding what would have been an average cumulative exposure of 16 millisieverts, the number of cancer deaths prevented was perhaps 160, or 10 percent of the total who died in the evacuation itself.
+从福岛反应堆方圆20公里范围内疏散的人数约有20万。按照上面的计算，规避了该地区平均16毫西弗的累积暴露辐射剂量后，可防止160人因癌症死亡，只占疏散行动本身造成的总死亡人数的1/10。
+But that estimate assumes the validity of the current standards. If low levels of radiation are less harmful, then the fallout might not have caused any increase in the cancer rate.
+而且上述估算值还是在假设当前标准有效的前提下做出的。倘若低水平的辐射危害性低于预设，那么这些放射性沉降物很可能根本不会引起癌症患病率的增加。
+The idea of hormesis goes further, proposing that weak radiation can actually reduce a person’s risk. Life evolved in a mildly radioactive environment, and some laboratory experiments and animal studies indicate that low exposures unleash protective antioxidants and stimulate the immune system, conceivably protecting against cancers of all kinds.
+辐射兴奋效应的概念又进一步提出，微弱的辐射反而会降低个人的风险。生命的演化本来就是在轻度的放射性环境中发生的，还有一些实验室实验和动物研究表明，低水平的辐射暴露可激发保护性抗氧化剂并刺激免疫系统，据此可以相信这对多种癌症都有预防作用。
+Epidemiological studies of survivors of Hiroshima and Nagasaki have been interpreted both ways — as demonstrating and refuting hormesis. But because radiation regulations assume there is no safe level, clinical trials testing low-dose therapy have been impossible to conduct.
+在关于广岛和长崎核爆幸存者的流行病学研究中，支持和反驳辐射兴奋效应的解读皆有之。但防辐射法规假定并不存在“安全的辐射水平”，使得人们无法进行测试低剂量辐射疗法的临床试验。
+One experiment, however, occurred inadvertently three decades ago in Taiwan after about 200 buildings housing 10,000 people were constructed from steel contaminated with radioactive cobalt. Over the years, residents were exposed to an average dose of about 10.5 millisieverts a year, more than double the estimated average for Fukushima.
+一次意外事故却给研究者带来了一个实验的机会。三十年前，台湾约200栋楼房的建筑钢筋受到了放射性钴的污染，涉及1万名居民。多年来，他们的年平均辐射暴露剂量约为10.5毫西弗，是福岛居民平均估计值的两倍以上。
+Yet a study in 2006 found fewer cancer cases compared with the general public: 95, when 115 were expected.
+但2006年的一项研究发现，与普通民众相比，这些居民中的癌症病例反而减少了（预期为115例，实际为95例）。
+Neither the abstract of the paper nor of a second one published two years later mention the overall decrease. (The authors speculated that the apartment dwellers may have been healthier than the population at large.) The focus instead was on weaker results suggesting a few excess leukemia and breast cancer cases — and on a parsing of the data showing an overall increased cancer risk for residents exposed before age 30.
+该论文的摘要及两年后发表的第二篇论文都没有提到总共减少了多少病例。（作者推测，这些公寓居民可能比普通民众更为健康）相反，这些论文将重点放在了一些说服力较弱的结果之上：白血病和乳腺癌病例略有增加，还有一项数据分析显示，总体而言，在30岁前受到辐射的居民中癌症风险有所增加。
+More recently, a study of radon by a Johns Hopkins scientist suggested that people living with higher concentrations of the radioactive gas had correspondingly lower rates of lung cancer. If so, then homeowners investing in radon mitigation to meet federal safety standards may be slightly increasing their cancer risk. These and similar findings have also been disputed.
+最近，约翰斯·霍普金斯大学(Johns Hopkins)的科学家进行了一项关于氡气的研究，结果表明，生活在较高浓度的这种放射性气体中的人肺癌的发生率相对较低。如果是这样的话，出资设法降低氡气浓度以满足联邦安全标准的业主们可能正好适得其反——反倒稍微增加了自己的癌症风险。只是，诸如此类的研究结果也一直存在着争议。
+All research like this is bedeviled by “confounders” — differences between populations that must be accounted for. Some are fairly easy (older people and smokers naturally get more cancer), but there is always some statistical wiggle room. As with so many issues, what should be a scientific argument becomes rhetorical, with opposing interest groups looking at the data with just the right squint to resolve it according to their needs.
+所有这些研究都受到“混杂因素”的困扰，也就是说，他们必须考虑到人群之间的某些差异。有些混杂因素相当简单（老年人和吸烟者自然更容易得癌症），不过，在统计学上对此也往往留有校正的余地。由于存在这许多问题，原本应该是科学争论的东西变成了文字游戏，对立的利益集团从自己的需要出发，只看那些有利于自己的数据，却刻意忽视了其他。
+There is more here at stake than agonizing over irreversible acts, like the evacuation of Fukushima. Fear of radiation, even when diluted to homeopathic portions, compels people to forgo lifesaving diagnostic tests and radiotherapies.
+与其去纠结福岛疏散行动等不可逆的行为，眼下还有更多利害攸关的事。人们对辐射——哪怕是稀薄到顺势疗法的那种极低水平的辐射也满怀恐惧，以至于放弃了可以挽救生命的诊断测试和放射治疗。
+We’re bad at balancing risks, we humans, and we live in a world of continual uncertainty. Trying to avoid the horrors we imagine, we risk creating ones that are real.
+人类并不擅长在风险与我们自己之间权衡，更何况，我们还生活在一个充满了不确定性的世界里。为了躲避想像中的危机，我们往往宁愿甘冒风险，哪怕此举会酿出真正的祸事来。

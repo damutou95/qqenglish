@@ -1,0 +1,46 @@
+SAN FRANCISCO — When the Federal Trade Commission decided last week to close its antitrust investigation of Google without charges, one important factor, though hardly mentioned, was just beneath the surface: the mobile revolution.
+旧金山——上周，美国联邦贸易委员会（Federal Trade Commission，简称FTC）决定停止谷歌的反垄断调查，不予起诉。但是事件表面的背后隐藏着一个重要的因素，却几乎没有被提及，那就是移动技术革命。 
+Google has repeatedly made the argument — and the commission agreed — that the speed of change in the technology industry made it impossible for regulators to impose restrictions without stalling future innovations.
+谷歌一再强调，而且FTC也同意：由于科技产业的变化日新月异，监管者的任何限制措施都不可能不阻碍到未来的创新。
+Exhibit A is the mobile device. Nowhere has technology changed as rapidly and consumer behavior as broadly. As people abandon desktop computers for mobile ones, existing tech companies’ business models are being upended and new companies are blooming.
+第一个证据便是移动设备产业。这是被技术改变最快，消费者行为变化最广的领域。人们放弃了台式电脑，转而选择移动设备，现有科技公司的商业模式被颠覆了，新公司也纷纷崛起。
+“Mobile is very much a moving target,” said Herbert Hovenkamp, a professor of antitrust law at the University of Iowa who has been a paid adviser to Google. “This is a market in which new competitors come in a week’s time.”
+艾奥瓦大学(University of Iowa)反垄断法教授赫伯特·赫芬坎姆(Herbert Hovenkamp)说，“移动设备市场就像一个移动靶盘。在这个市场上，每周都有新竞争者出现。”赫芬坎姆已经成为谷歌的有偿顾问。
+When the commission began its investigation 19 months ago, for instance, the iPhone did not have the Siri voice search, Apple did not have its own mapping service and Yelp’s mobile apps had no ads. By the time the inquiry concluded, all of that had changed. Google had new competitors on all sides trying to chip away at its hold on the mobile search and advertising market.
+例如，19个月前，当FTC开始对谷歌的反垄断调查时，iPhone还不具备苹果语音助手(Siri)搜索功能，苹果还没有自己的地图服务，Yelp的移动应用软件上还没有广告。调查结束时，这一切都变了。谷歌的四面八方新对手环伺，都想动摇谷歌在移动搜索领域和广告市场上的地位。
+Still, Google is even more dominant on mobile phones than on desktop computers. It has 96 percent of the world’s mobile search market, according to StatCounter, which tracks Web use. It collects 57 percent of mobile ad revenue in the United States, while Facebook, its nearest competitor, gets just 9 percent, according to eMarketer.
+尽管如此，谷歌仍在移动电话领域一枝独秀，其主导地位远高于在台式电脑领域。跟踪网页使用状况的StatCounter称，谷歌占有全球移动搜索市场的96%。eMarketer称，谷歌占有美国移动广告收入的57%，而谷歌最强劲的竞争者Facebook只占9%。
+But, analysts say, as people change their search habits on mobile devices — bypassing Google to go straight to apps like Yelp’s, for example — that dominance could wane, or a competitor could swoop in and knock Google off its perch.
+但是，分析人士称，随着人们的移动设备搜索习惯发生改变，例如绕过谷歌直接使用Yelp这样的应用软件，谷歌的主导地位可能会式微。或者某个竞争对手乘虚而入，把谷歌拉下马。
+“It’s important to recognize that many mobile apps are really vertical search engines,” said Rebecca Lieb, a digital media analyst at the Altimeter Group. “It is impossible to really say anyone dominates a section of mobile in a secure way right now.”
+奥特米特集团(Altimeter Group)的数字媒体分析师丽蓓卡·利布(Rebecca Lieb)说，“许多移动应用软件都是垂直搜索引擎，认识到这一点很重要。现在真的不可能肯定的说谁稳稳占据了移动市场的某个领域。 ”
+On cellphones or tablets, for instance, people increasingly skip Google altogether in favor of apps like Flixster for movie times or Kayak for flights.
+例如，人们使用手机及平板电脑时，越来越多地绕过谷歌，选择应用软件。比如用Flixster查电影时间，用Kayak查询航班。
+Apple is taking on mobile search with Siri on the iPhone, which can answer questions about the weather or search for nearby restaurants. With its new mapping service, Apple has also entered local search.
+通过iPhone上的苹果语音助手，苹果也涉足移动搜索领域。这个软件可以回答人们有关天气及附近餐馆的问题。苹果也凭借其新地图服务进入本地搜索领域。
+On Friday, Blekko, a search start-up, introduced an app called Izik for Apple and Android devices. It tries to make searching more tablet-friendly by showing images instead of just links, and making it easier to swipe through many pages of results with a finger.
+周五，创业型搜索企业Blekko推出供苹果及安卓设备使用的应用软件Izik。该软件力求让搜索更适合在平板电脑上完成，不仅显示链接，还显示图像，而且让用户用一根手指就能轻松浏览多个页面。
+On mobile devices, said Rich Skrenta, chief executive of Blekko, “the user experience is so different that we think it opens things up. On your desktop, if it doesn’t look like Google, you think that’s not a search engine. On a tablet, it’s just vastly different.”
+Blekko的首席执行官利奇·斯克雷塔(Rich Skrenta)称，在移动设备上，“用户的体验如此不同以往，我们认为，他开启了一片新天地。在台式机上，如果搜索引擎看起来不像谷歌，人们就觉得那不是个搜索引擎。但是在平板电脑上，完全不是那么回事儿。”
+Jon Leibowitz, chairman of the F.T.C., said at a news conference Thursday that the speed of change in the tech industry meant that “you want to be careful before you apply sanctions.”
+上周四，FTC主席乔恩·莱博维茨(Jon Leibowitz)在一次新闻发布会上说，鉴于科技产业的变化速度，“你在进行制裁前，需要谨慎。”
+The commission also considered Google’s partnerships with cellphone makers like Samsung and HTC that license Google search on phones, so that a search box shows up on the home screen. In the end it decided not to take action against Google.
+FTC还考虑了谷歌与三星及HTC等手机生产商的伙伴关系，最后决定不对谷歌采取制裁。这些手机生产商给与谷歌许可，在手机主页面上显示谷歌的搜索框。
+Some Google critics said that even though the competitive landscape is different on mobile devices, it should not have influenced the government’s analysis of Google’s behavior on the desktop Web.
+一些批评谷歌的人士称，尽管移动设备领域的竞争局势已经今非昔比，但是这不该影响政府对于谷歌在台式机网络上行为的判断。
+“There’s no doubt that mobile applications, including Yelp’s, give consumers the ability to bypass the major search engines and go directly to the best provider of the service they’re looking for,” said Vince Sollitto, vice president for government relations at Yelp. Still, he added, “I don’t see how that impacts how someone is acting anticompetitively on the desktop.”
+Yelp的政府关系副总裁文斯·索利托(Vince Sollitto)说，“毫无疑问，由于有了包括Yelp软件在内的移动应用软件，用户能够绕开主要搜索引擎，直接找到他们所需服务的最佳提供者。但是，我看不出这和某些人在台式机网络上的反竞争行为有何关系。”
+(One of Google’s concessions to the federal agency, that it would allow other Web companies to ask Google not to show their content in its own vertical search products — a chief complaint of Yelp’s — applies to mobile as well.)
+（谷歌对FTC做出的妥协之一，是将允许其他网络公司对谷歌提出要求，让它不在自己的垂直搜索产品中显示他们的内容。这是Yelp表示不满的一个主要问题。这个妥协的改变也使用于移动产品。）
+But others said antitrust enforcement in the 21st century needs to be more agile.
+但是其他人说，在21世纪，反垄断执法应该动作更快。
+“It’s no good if you have a 10-year investigation and then you say, ‘They’re guilty,’ and the company is already dead,” said Tim Wu, a law professor at Columbia who worked as an adviser to the commission until last summer, including on the Google case.
+哥伦比亚大学(Columbia)法学教授蒂姆·吴(Tim Wu)说，“进行了10年调查之后说，‘他们有罪’，到那时这个公司已经不复存在了。这样不行。”他在FTC做顾问直至去年夏天，也参与了谷歌调查案。
+One of the main targets of the commission’s investigation was Google’s practice of pulling information from the Web and showing it on search results pages, so people do not have to click on links to get what they want. Search for Barack Obama’s birthday or the local weather, for instance, and Google shows you the answer above search results.
+FTC调查的主要问题之一是，谷歌在网页上抽取信息，展示在搜索结果页面上，人们因此无需再点击链接以获得所需信息。例如，搜索巴拉克·奥巴马的生日，或者当地天气，谷歌在搜索结果前面就给出了答案。
+That is even more important on mobile devices, where people do not have the space or patience to click on several links, said Amit Singhal, senior vice president for search at Google.
+负责搜索业务的谷歌高级副总裁阿米特·辛格尔(Amit Singhal)说，这一点在移动设备上尤为重要，因为屏幕上没有空间，用户也没有耐心点击数个链接。
+The latest Google search apps for Android and Apple devices let people search by talking, and then offer spoken answers. And Google now shows its so-called knowledge cards — with answers to trivia questions or photos and details about people and places — on mobile devices.
+谷歌有用于安卓及苹果设备的最新搜索应用软件，可以让人们用语音搜索，然后提供语音答案。现在谷歌在移动设备上推出了所谓的知识卡片，提供琐碎问题的答案，或者某人某地的照片及细节信息。
+Other companies are also trying to more seamlessly provide information on mobile devices.
+其他公司也试图在移动设备上更加顺畅地提供信息。

@@ -1,0 +1,22 @@
+For the second time in a matter of weeks, a group of researchers reported a link between the food people eat and bacteria in the intestines that can increase the risk of heart attacks.
+几周之内，同一批研究者第二次报告：人们吃的食物和肠道内的细菌可能会提高心脏病风险。
+Two weeks ago, the investigators reported that carnitine, a compound found in red meat, can increase heart disease risk because of the actions of intestinal bacteria. This time they reported that the same thing happens with lecithin, which is abundant in egg yolks.
+两周前，他们说：基于肉毒碱——红肉中的一种物质——对肠道细菌的作用，它会让人更可能患心脏疾病。这一次，他们又称：蛋黄中大量存在的卵磷脂亦有同样效果。
+The lecithin study, published Wednesday in The New England Journal of Medicine, is part of a growing appreciation of the role the body’s bacteria play in health and disease. With heart disease, investigators have long focused on the role of diet and heart disease, but expanding the scrutiny to bacteria adds a new dimension.
+这项卵磷脂研究发表在4月24日的《新英格兰医学杂志》(New England Journal of Medicine)上；它体现了人们对体内细菌是如何影响健康和疾病的关注正日益增长。长期以来，科学家都关注着饮食习惯在心脏病中的作用；而将视野扩大至细菌则为研究拓开了一片新天地。
+“Heart disease perhaps involves microbes in our gut,” said the study’s lead researcher, Dr. Stanley Hazen, chairman of the department of cellular and molecular medicine at the Cleveland Clinic Lerner Research Institute.
+“我们肠道中的微生物也许和心脏病有关。” 该项目的第一研究者、克利夫兰医学中心勒纳研究所(Cleveland Clinic Lerner Research Institute)细胞与分子医学系主任斯坦利·黑曾(Stanley Hazen)博士说。
+In the case of eggs, the chain of events starts when the body digests lecithin, breaking it into its constituent parts, including the chemical choline. Intestinal bacteria metabolize choline and release a substance that the liver converts to a chemical known as TMAO, for trimethylamine N-oxide. High levels of TMAO in the blood are linked to increased risk of heart attack and stroke.
+我们吃掉鸡蛋后，一系列的事件自身体消化卵磷脂开始。卵磷脂被降解为其组成部分，包括一种叫做胆碱的化学物质。肠道内细菌代谢胆碱，释放出一种可被肝脏转化成氧化三甲胺(TMAO)的物质。血液中高水平的氧化三甲胺是与心肌梗塞和脑卒中有关联的。
+To show the effect of eggs on TMAO, Dr. Hazen asked volunteers to eat two hard-boiled eggs. They ended up with more TMAO in their blood. But if they first took an antibiotic to wipe out intestinal bacteria, eggs did not have that effect.
+为证明鸡蛋能影响氧化三甲胺水平，黑曾博士让志愿者吃掉两只煮熟的鸡蛋——他们血液中的氧化三甲胺随即增高。但如果志愿者事先服用抗生素，清除了肠道内细菌，再吃鸡蛋就不产生类似效果了。
+To see the effects of TMAO on cardiovascular risk, the investigators studied 4,000 people who had been seen at the Cleveland Clinic. The more TMAO in their blood, the more likely they were to have a heart attack or stroke in the ensuing three years.
+为观察氧化三甲胺与心血管疾病的关系，研究者研究了4000名曾在克利夫兰医学中心看过病的病人：血液中氧化三甲胺越多的人，越有可能在随后3年患心肌梗塞或脑卒中。
+Carnitine — the red meat chemical — and lecithin are chemically related, Dr. Hazen said. As with lecithin, when carnitine is digested, choline is released and can be acted on by intestinal bacteria.
+黑曾博士说，红肉中的肉毒碱与卵磷脂在化学上类似。就像卵磷脂一样，肉毒碱被消化后，胆碱释放出来，然后被肠道细菌利用。
+The results of the new studies, though, do not directly prove that reducing TMAO protects against heart disease. That would require large studies following people who lowered their TMAO levels, which should be possible with a vegetarian or high-fiber diet.
+不过，新研究并没有直接证明降低氧化三甲胺能阻止心脏病的发生。这需要大范围地研究体内氧化三甲胺水平降低的人群，应该可以在素食者和有高纤维饮食习惯的人群中展开。
+Dr. Hazen said that people who are worried about heart attacks may want to consider reducing lecithin and choline in their diet, which would require eating less of foods high in fat and cholesterol. Dr. Hazen said it also may be wise to avoid supplements or vitamins with added choline.
+黑曾说，担心自己患心肌梗塞的人可以考虑在饮食中减少卵磷脂和胆碱的量，也就是少吃高脂肪和高胆固醇食物；也应该尽量不要吃添加胆碱的营养补充剂或维生素。
+In an accompanying editorial, Dr. Joseph Loscalzo of Brigham and Women’s Hospital in Boston suggested that in the future there may be other ways to reduce blood levels of TMAO. People might take probiotics to help grow bacteria that do not lead to an increase in TMAO. Or perhaps drugs could squelch the synthesis of TMAO. Those probiotics and drugs, though, do not yet exist, and even the specific bacteria responsible for the increase in TMAO are not yet identified.
+在一篇相关社论中，波士顿布莱根妇女医院(Brigham and Women’s Hospital)的约瑟夫·洛斯卡尔佐(Joseph Loscalzo)医生认为，以后也许有其他降低血中氧化三甲胺水平的办法。比如让人们服用益生菌，促进不会导致氧化三甲胺水平提高的细菌增长；或服用抑制合成氧化三甲胺的药物。不过，这类益生菌和药物尚不存在——即便是那群特别能提高氧化三甲胺的细菌也还没被甄别出来呢。

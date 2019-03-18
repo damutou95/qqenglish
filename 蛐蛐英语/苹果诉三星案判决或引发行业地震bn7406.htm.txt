@@ -1,0 +1,36 @@
+SAN JOSE, Calif. — This week, nine jurors are expected to hunker down in a federal courthouse here to decide a case that could change how the world’s smartphones and tablet computers look and work.
+加利福尼亚州圣何塞——本周，九名陪审员预计将在这里的一家联邦法院对一起案件作出裁决。这起案件可能会改变全球智能手机和平板电脑的外形和运行方式。
+After nearly a month of testimony in the legal dogfight between Apple and Samsung over patents, the two parties are expected to make their closing arguments on Tuesday. It will then be up to jurors to hash out which Apple patents, if any, Samsung stepped on when it created devices that compete with the iPhone and iPad. Apple is seeking $2.5 billion in damages from Samsung, while Samsung has asked for $422 million in a countersuit against Apple.
+在苹果公司(Apple)和三星(Samsung)围绕专利进行的法律混战中，经过近一个月的举证后，双方将在周二作出结案陈词。之后，将由陪审员经讨论后裁决，三星在设计iPhone和iPad的竞争产品时，有没有侵犯苹果的专利，如果侵犯了，那么侵犯的是哪些专利。苹果向三星索赔25亿美元，而三星在一宗反诉中则要求苹果向其支付4.22亿美元。
+But the effects of the case are likely to be felt far beyond these two companies. If Apple prevails, experts believe Samsung and other rivals in the market will have a much stronger incentive to distinguish their smartphone and tablet products with unique features and designs to avoid further legal tangles.
+然而，这起诉讼影响到的，可能远不止苹果和三星这两家公司。专家认为，如果苹果胜诉，会让三星等竞争者产生更强烈的动机，为各自的智能手机和平板电脑产品赋予独特的功能和设计，从而避免今后遭遇法律纠纷。
+“I think what we’ll see is a diversification of designs in the marketplace if Apple wins,” said Christopher V. Carani, an intellectual property lawyer for McAndrews, Held & Malloy in Chicago.
+供职于芝加哥McAndrews, Held & Malloy律师事务所的知识产权律师克里斯托弗·V·卡拉尼(Christopher V. Carani)说，“我认为，如果苹果胜诉，我们会将在市场上看到多样化的产品设计。”
+And if the jury finds in favor of Samsung, its decision could have the opposite effect, creating a consensus around Apple-like designs for years to come. “Expect to see an awful lot of Apple knockoffs without fear of retribution,” said Michael Gartenberg, an analyst at Gartner, the technology research firm.
+如果陪审团的裁定有利于三星，案件的裁决结果将产生相反的作用，会让竞争对手一致采用与苹果相似的设计。“在不怕处罚的情况下，我们可能会看到一大堆山寨苹果产品，”科技研究公司高德纳(Gartner)分析师迈克尔·加藤伯格(Michael Gartenberg)说道。
+Although Apple sued Samsung, the outcome of the case has broader implications for other companies that create devices based on Google’s Android operating system, along with Google itself.
+尽管是苹果起诉三星，但对其他制造基于谷歌Android操作系统的电子设备的公司，包括谷歌(Google)本身，本案的判决会产生更为广泛的影响。
+Apple wants an order permanently barring Samsung, the largest maker of Android smartphones, from selling products in the United States that violate its patents. A legal victory against Samsung could give Apple extra ammunition in lawsuits it has filed against other Android makers.
+苹果希望能获得禁令，永久禁止三星在美国销售侵犯其专利的产品。目前，三星是最大的Android智能手机制造商。苹果也对其他Android产品制造商提起了诉讼，如果能在起诉三星的案件中胜诉，苹果就能在其他案件中赢得优势。
+Apple is facing a major challenge from Android in the smartphone market, where Google’s operating system powered 64.1 percent of the smartphones shipped worldwide during the second quarter this year, according to Gartner. The iPhone’s share was 18.8 percent.
+在智能手机市场上，苹果正面临着Android产品的巨大挑战。根据高德纳的数据，在今年第二季度全球智能手机出货量中，有64.1%使用的是谷歌的Android操作系统，iPhone所占的比例仅为18.8%。
+As part of the case, Apple has accused Samsung of copying patented features in the iPhone and iPad — like the rectangular shape and rounded edges of the iPad’s case and the bounce-back effect when an iPhone user tries to scroll beyond the end of a list or Web page.
+作为案件的一部分，苹果还控告三星抄袭iPhone和iPad上受到专利保护的设计，如iPad的长方外形和圆滑边角设计，以及iPhone用户在滚动列表或页面时，滚动到边缘时的回弹效果。
+Apple presented copious amounts of evidence during the trial, including internal Samsung documents and e-mails, to bolster its argument that Samsung had imitated its products. At the least, the evidence showed the galvanizing effect that the iPhone had on Samsung.
+苹果称三星模仿了自己的产品，为了支持这个主张，苹果在庭审中出示了数量巨大的证据，其中包括三星的内部文件和电子邮件。这些证据至少表明iPhone对三星产生的一定的激励作用。
+The iPhone set off a “crisis of design” at Samsung, J. K. Shin, Samsung’s president of mobile communications, said in 2010, according to an internal memo. It also quoted him as saying that the difference in the experience of using the iPhone and Samsung phones was akin to “that of Heaven and Earth.”
+一份内部备忘录显示，三星移动通讯部门总裁申宗均(J.K. Shin)曾在2010年表示，iPhone在三星引发了一场“设计危机”。备忘录中还引用申宗均的话说，iPhone和三星手机在使用体验方面有着“天壤之别”。
+Apple presented a 132-page internal Samsung strategy document from 2010, in which the company conducted detailed side-by-side comparisons of the iPhone interface with that of a Samsung phone. In one e-mail, a Samsung manager passed on to colleagues criticisms from Google saying a Samsung phone was “too similar to Apple.”
+苹果公司向法庭提交了三星公司2010年一份长达132页的内部战略文件，三星公司在文中左右并排，对iPhone和三星手机的界面进行了细致的对比。谷歌公司曾指出一款三星手机“太像苹果了”，三星公司一名管理人员在一份电子邮件中，将谷歌提出的批评转达给了同事。
+“My impressionistic sense is that Samsung has been on the defensive for most of the trial,” said Mark A. Lemley, a law professor at Stanford.
+斯坦福大学(Stanford)法学院教授马克·A·莱姆利(Mark A. Lemley)说，“在我的印象里，三星在这次审判中，多数时间都比较被动。”
+Rather than mount a full-throated effort to undermine Apple’s claims of imitation, Samsung’s lawyers in the trial argued that many of Apple’s patents were invalid because of earlier technologies that either looked or operated similarly to Apple’s products.
+三星公司的律师在出庭时，并没有全力驳斥苹果提出的模仿指控，而是辩解，因为一些更早的技术要么与苹果产品外观相似，要么操作方式相似，所以苹果公司的许多专利是无效的。
+As the trial was winding down last week, Samsung’s legal team also argued that the method Apple used to come up with its figure of $2.5 billion in damages was flawed, inflating the number.
+上周，随着庭审接近尾声，三星的法律团队还提出，苹果估算出25亿美元赔偿金额的方法存在缺陷，夸大了应有的数字。
+Simply being inspired by Apple’s products is not illegal, said Jorge Contreras, an associate professor of law at American University. He says that Apple’s claims of Samsung infringement on its design patents, a class of inventions related to the exterior look of the iPhone and iPad, are weaker than its arguments for its “utility patents” in the case, which protect various software functions.
+美国大学(American University)法学院副教授豪尔赫·孔特雷拉斯(Jorge Contreras)说，只是从苹果得到灵感，并不违法。他说，在这个案件中，苹果提出的三星侵犯外观设计专利的主张，比“实用性专利”的主张更弱。前者涉及与iPhone和iPad产品的外观设计相关的发明，后者则保护各种软件功能。
+Mr. Contreras predicts a “mixed result” in the case, with Apple winning on some of its claims, losing on others and getting nowhere near the amount it is demanding. “Even if Apple wins on a few of its claims, it’s not a market-defeating victory here,” he said.
+孔特雷拉斯估计，这起案件的判决会有“好坏参半的结果”，苹果的一些主张能够得到支持，另一些则不会，而且赔偿金额也远远达不到苹果提出的索赔。他说，“即使苹果能够在它提出的主张中部分胜出，也不会是击败竞争对手的巨大胜利。”
+For now, the only clear victors are the large squads of lawyers who have been busy on the case. More than a dozen members of each side’s legal team have packed the courtroom of Judge Lucy Koh.
+目前看来，唯一能够确定的赢家，就是为这起案件忙碌的律师队伍。双方法律团队各有十多名律师，在法官露西·高(Lucy Koh)主持的法庭里挤得满满当当。

@@ -1,0 +1,38 @@
+Anyone who can watch you will watch you.
+有能力监控你的人必然会监控你。
+In technology, that is one of the big lessons of 2013. The National Security Agency and who knows who else have been tracking this or hacking that. China has been breaking into our computers. Google has been sifting through our home networks. Facebook has been tinkering with its privacy settings.
+在技术方面，这是2013年的一大教训。美国国家安全局（National Security Agency，简称NSA）还有其他不知什么人，一直在到处搞追踪和入侵电脑系统。中国一直在攻击我们的电脑。谷歌(Google)一直在筛查我们的家用网络。Facebook一直在对其网站的隐私设置动手脚。
+No wonder outfits like Snapchat have exploded onto the scene. They seem to go against the grain, holding out the promise that all those selfies, texts and emails will simply vanish.
+于是，Snapchat这样的服务突然遍地开花也就不足为奇了。它们似乎反其道而行之，给出了这样的承诺：所有那些自拍照、短信和邮件都会消失得无影无踪。
+Whisper, an “it” app for teens, supposedly lets people share secrets anonymously via smartphone. Telegram is being pitched as the adult version of Snapchat.
+青少年常用的大热应用Whisper据说能让用户通过智能手机匿名分享秘密。Telegram则被包装成为成人版的Snapchat。
+But the fact is, many services that claim to offer that rarest of digital commodities — privacy — don’t really deliver. Read the fine print.
+然而事实是，许多服务标榜能提供最稀缺电子商品——隐私，但它们并不能真正做到这一点。阅读一下用户协议里小字号的细则就知道了。
+“Just because information is unavailable to you and you don’t see it doesn’t mean that it is not being captured, stored, or even seen by someone else in transit,” said Edward W. Felten, a professor of computer science and public affairs at Princeton.
+“仅仅因为你接触不到或看不到信息，并不意味着它在传输过程中没有被截获、储存，甚至被别人查阅，”普林斯顿大学计算机科学与公共事务教授爱德华·W·费尔滕(Edward W. Felten)说。
+Snapchat’s privacy page explains that private images are stored on someone’s phone — and on its own servers. “Forensically, even after they are deleted,” Snapchat says, those images can be retrieved. Whisper’s privacy page says the company owns the intellectual property, both images and text, that people post; Whisper reserves the right to sell that stuff to third parties. And Telegram, while seemingly less innocuous with its claims, nonetheless leaves out something you might want to know: someone can just take a screenshot or picture of that “private” conversation.
+Snapchat的隐私政策页面上解释道，私人图片不仅储存在某人的手机里，还储存在公司的服务器上。Snapchat称，“在刑事侦查中，即使在删除后”，这些图片也可以检索。Whisper的隐私政策页面上则写着，用户上传的东西的知识产权归该公司所有，图片和文字均包括在内；公司还保留了向第三方出售这些东西的权利。尽管Telegram的条款看起来更善良，却也回避了人们或许想知道的事情：别人能直接对着“私人”对话截屏或拍照。
+“Even if there are all sorts of technical barriers that the disappearing messaging services put up there, someone can just take a picture of the phone,” said Kurt Opsahl, a lawyer with the Electronic Frontier Foundation, a civil liberties organization. “If they can see it with their eyes, they can see it with a camera.”
+“就算阅后即焚式的通讯服务设置了种种技术障碍，别人还是可以直接拍下手机的照片，”公民自由组织电子前沿基金会(Electronic Frontier Foundation)的律师库尔特·奥普萨尔(Kurt Opsahl)说。“只要他们能用眼睛看到，就能用相机拍到。”
+In most instances, your Internet service provider or cellphone carrier gets to watch over your shoulder with every click.
+多数情况下，你点击的每一下，互联网服务商和手机运营商都在身后看着。
+Even when these messaging apps aren’t tracking your chats, the N.S.A. and other government agencies are. They’re everywhere. Even people who play fantasy video games like World of Warcraft are being watched, according to documents leaked by Edward J. Snowden.
+即使这些通讯应用没有在追踪你的聊天，NSA及其他政府机构也在监控。它们无孔不入。从爱德华·J·斯诺登(Edward J. Snowden)泄露的文件看来，就连玩《魔兽世界》(World of Warcraft)这种奇幻游戏的人都在受到监控。
+Worse, the snooping doesn’t just happen on our desktops and laptops. In our mobile-centric world, it happens everywhere. Through our mobile phone, our locations are being corralled and calculated. The N.S.A. can even figure out who we are with by triangulating phones’ previous locations.
+更糟糕的是，这种窥探并不局限于电脑。在一个围绕着移动设备构建的世界里，它无处不在。我们的位置信息可以通过手机被搜集和计算，通过三角测算手机的历史位置，NSA甚至能判断出我们到底是谁。
+Don’t have a smartphone yet? They still know where you are and where you’ve been. The American Civil Liberties Union released a report this year that found that technologies that let governments scan license plates are being used to build databases of vehicle locations across the United States.
+如果不用智能手机呢？他们还是知道你现在和过去到过哪里。美国公民自由联盟(American Civil Liberties Union)今年发表的一份报告发现，政府用来扫描车牌号的技术，现在已被用于建立全美机动车的位置数据库。
+The N.S.A. didn’t respond to a request for comment, but the argument by some companies and government groups is that if you’re not doing anything wrong and have nothing to hide, then you have nothing to worry about.
+NSA没有回应置评请求，不过一些企业与政府机构提出的理由是，如果你没做过什么错事，也没什么需要隐瞒的，那你就没什么好担心的。
+Privacy experts strongly disagree. A new book by Harvey Silverglate, a lawyer in Massachusetts, titled “Three Felonies a Day,” claims the average professional in the United States commits at least three crimes every day. How? While academics, lawyers and even government officials don’t actually know how many laws exist in today’s judicial system, it’s estimated that there are from 10,000 to 300,000 federal regulations that could be enforced criminally.
+隐私专家强烈反对这种说法。来自马萨诸塞州的律师哈维·希尔维格雷特(Harvey Silverglate)写了一本名为《每日三罪》(Three Felonies a Day)的新书。书中宣称，美国普通的专业人士平均每天至少犯罪三次。怎么会这样？尽管学界、律师乃至政府官员都不知道如今的司法体系中到底存在多少条法律，不过据估算，有1万到30万项联邦法规适用于刑事执法。
+Mr. Opsahl said we all probably break some of those laws online every day, too. “There is a tremendous amount of information that is available about every person online, and the practical ability for government and private surveillance has never been greater,” he said.
+奥普萨尔说，我们也很可能每天都在网上违反其中一些法规。他说，“可以从网上获取关于每个人的海量数据，而政府和私人监控的实践能力又前所未有的强大。”
+So if you can’t find privacy in a game with trolls and goblins, on a Sunday drive with your family or inside a messaging app with disappearing chats, what can you do?
+那么，如果你在游戏里打怪时、周末与家人开车出去玩时，或者在阅后即焚型聊天应用里都没有隐私，又能怎么办？
+“What’s clear is that tracking technologies have outpaced democratic controls,” said Ben Wizner , the director of the Speech, Privacy and Technology Project at the A.C.L.U. “What we’ve learned this year is that agencies are determined to conduct surveillance on us, and there’s not a whole lot we can do about it.”
+“明显可以看出，追踪技术的发展速度已经超出了民主的管控，”美国公民自由联盟的言论、隐私与技术项目主管本·维茨纳(Ben Wizner)说。“我们今年得知，许多政府机构下定决心要监控我们，而我们几乎无可奈何。”
+But there is one thing that Mr. Wizner said can and should happen. Technologists are capable of building tools that can prevent such snooping — things that go beyond disappearing messaging apps and that could protect everyone’s privacy.
+维茨纳认为，有一件事我们能做也应该去做。技术专家有能力创造阻止此类窥探的工具——超越阅后即焚型的通讯应用并能保护每个人隐私的东西。
+“This may be one of those once-in-a-generation moments when we recalibrate the powers of the citizens and the state,” Mr. Wizner said. “And that change can happen on the technological side, where the technologists that are disillusioned by the incessant tracking will use their skills to make surveillance more costly.”
+“这或许属于一代人中仅有一次的时刻，让我们有机会重新调整公民与国家的权力，”维茨纳说。“这种变革可以在技术层面实现，那些因为无休止的追踪而幻想破灭的技术专家，将运用自己的技能提高实施监控的成本。”

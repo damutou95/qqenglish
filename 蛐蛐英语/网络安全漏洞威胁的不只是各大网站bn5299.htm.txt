@@ -1,0 +1,34 @@
+When the Heartbleed bug was disclosed on Monday, the attention focused on the fallout for major Internet companies like Yahoo and Amazon. But security experts said the potential for harm could extend much further, to the guts of the Internet and the many devices that connect to it.
+当“心脏出血”(Heartbleed)漏洞在上周一被发现之后，人们的注意力主要集中在该漏洞给像雅虎(Yahoo)和亚马逊(Amazon)这样的互联网大公司带来的后果上。但是，安全专家称，这一漏洞的潜在危害涉及的范围可能更广，影响到互联网的核心以及许多联网的设备。
+By Thursday, some of the companies that make those devices began revealing whether they had been affected.
+周四，一些设备制造商开始披露他们的设备是否受到影响。
+Cisco Systems, the dominant provider of gear to move traffic through the Internet, said its big routers and servers, as well as its online servers — a big business — were not affected. If they had been, that would have had a significant impact on virtually every major company that connects to the Internet.
+思科系统(Cisco Systems)是一家主要的互联网通讯设备制造商，该公司称，公司生产的大路由器和服务器、及其在线服务业务(这是公司的一大业务)都没有受影响。假如它们受到了影响的话，就将会对几乎所有接入互联网的大公司带来巨大的影响。
+Certain products the company makes were affected, it said — some kinds of phones that connect to the Internet, a kind of server that helps people conduct online meetings, and another kind of device used for office communications. Cisco also posted a list of products it had examined for the vulnerability, which it was updating as it continued inspecting its equipment.
+思科称，公司生产的部分产品受到这一漏洞的影响，这些设备包括：某些连接在互联网上的电话、一种帮助人们举行在线会议的服务器，以及另一种用于办公通信的设备。思科还发布了一个产品清单，列出了已经过漏洞检查的设备，并随着公司继续检查设备，不断更新这一清单。
+A Cisco rival, Juniper Networks, also said its main products were not affected. The only problem it found was in a kind of device for creating private communications on the Internet.
+思科的一个竞争对手瞻博网络公司(Juniper Networks)也表示，其主要产品未受到影响。这家公司只在一种让人们在互联网之上建立私人通信的设备上发现了问题。
+“Besides one product, the exposure for our customers is minimal, if any,” said Michael Busselen, vice president of corporate communications at Juniper.
+瞻博网络公司企业通信部门副总裁迈克尔·布赛林(Michael Busselen)说，“除了一种产品外，我们客户受到的影响，如果有的话，也是最小的。”
+Chuck Mulloy, a spokesman for Intel, said his company had been looking through its products for vulnerabilities for several days and so far had found nothing. He said, however, that the search was not yet done.
+英特尔公司(Intel)发言人查克·马洛伊(Chuck Mulloy)说，英特尔公司过去几天一直在对产品的易遭攻击性进行检查，迄今并未发现问题。但是他说，检查工作还没有做完。
+Qualcomm, a maker of mobile technology, said it was still checking its products.
+移动技术制造商高通公司(Qualcomm)称，公司仍在检查其产品。
+The Heartbleed flaw was found in the method known as OpenSSL that helps encrypt information on the Internet.
+“心脏出血”漏洞是在名为OpenSSL的方法中发现的，这是一种帮助给互联网上的信息加密的工具。
+For most people, the web — with sites like Facebook and Google — is the most visible part of the Internet. But hardware like home routers and printers is also connected to the Internet, and OpenSSL is built into some of this hardware.
+对大多数人来说，像Facebook和谷歌(Google)这样的网站是互联网上最看得见的部分。但是，诸如家庭路由器和打印机等硬件设备也在互联网上，某些这类设备将OpenSSL做在硬件里。
+“That’s why this is so nasty,” said George Kurtz, chief executive of CrowdStrike, a security firm. “OpenSSL goes far beyond just websites. It’s implemented in email protocols and all kinds of embedded devices.”
+“这就是问题很糟糕的原因，”安全公司Crowdstrike公司的首席执行官乔治·库尔茨(George Kurtz)说，“OpenSSL远远超出网站的范围，也包含在电子邮件协议以及各种嵌入式设备中。”
+Most of the equipment made by Cisco and Juniper was unaffected because the companies did not use OpenSSL for their encryption.
+思科系统和瞻博网络公司制造的大部分设备都没有受到影响，因为这两家公司的数据加密没有使用OpenSSL。
+Security experts say personal home routers often incorporate OpenSSL, which could make them vulnerable. But they note that because many home routers are configured to block outside traffic, the risk of a hacker using the Heartbleed bug to lift data like passwords to online banking and email accounts is low. This is particularly so, they said, when there are still thousands of vulnerable websites where this data could be pulled from much more easily.
+安全专家称，私人家庭路由器经常包含OpenSSL，这会让这类设备容易受到攻击。但他们表示，由于很多家庭路由器有阻挡外部通讯进入的设置，因此黑客能利用“心脏出血”漏洞窃取网上银行和电子邮件账户密码等数据的风险很低，特别是因为仍有成千上万可轻而易举地盗取数据的易受攻击网站存在。
+Nevertheless, Mr. Kurtz said, users would be wise to check with their home router manufacturers to upgrade their devices if they want to be absolutely secure.
+但是库尔茨说，如果想绝对放心的话，用户可以联系家庭路由器制造商，来做设备升级，这是明智的做法。
+Security researchers say that while hackers have been posting lists of vulnerable websites, there does not appear to have been an increase in black market sales of sensitive data, like passwords.
+研究网络安全的人士称，尽管黑客发布过易受攻击的网站名单，但在黑市上出售像密码这样的敏感数据的活动似乎并没有增加。
+Security experts say that upgrading and cleaning up those systems, if they are affected, could take years.
+安全专家说，升级和清理所有易受攻击设备的工作需要数年时间。
+“It’s one thing to get all of these servers at Yahoo, Google and everyone else fixed, but it’s a whole other thing to get these embedded devices fixed up,” Mr. Kurtz said. “I don’t see them getting updated any time soon.”
+库尔茨说，“修补雅虎、谷歌和其他大公司服务器的漏洞是一码事，但是修补所有嵌入式设备的漏洞则完全是另一码事。我看不出来这些嵌入式设备会马上升级。”

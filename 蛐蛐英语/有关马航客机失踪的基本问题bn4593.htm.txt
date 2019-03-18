@@ -1,0 +1,28 @@
+The disappearance of Malaysia Airlines Flight MH370 has left investigators, aviation experts and the authorities in several countries at a loss to explain what happened. As the search and inquiry continue, Matthew L. Wald, a correspondent for The New York Times, answers a few basic questions:
+马来西亚航空(Malaysia Airlines)MH370航班的消失让多个国家的调查人员、航空专家和政府机构不知该如何解释发生了什么事情。搜救和调查仍在继续之际，《纽约时报》记者马修·L·瓦尔德(Matthew L. Wald)回答了一些基本的问题：
+Q. How could a Boeing 777 simply vanish? Aren’t they always tracked by radar or satellites?
+问：一架波音(Boeing)777怎么能彻底消失不见呢？不是一直有雷达或卫星追踪它们吗？
+A. Radar coverage is not universal, especially over water. In areas without radar, pilots are generally required to radio in their positions at fixed intervals, mostly to assure that air traffic controllers can keep aircraft out of one another’s way. Between intervals, something could go wrong.
+答：雷达并不能覆盖所有地方，尤其是水域上空。按照规定，在雷达覆盖不到的区域，飞行员通常需要隔一段时间就通过无线电报告一次所在位置，这么做主要是为了让空中交通管理人员确保飞机不进入其他飞机的航线。报告位置的时间间隔是固定的，间隔期间可能会出问题。
+Planes like the 777 also have automatic systems that send out data on engine performance and other technical functions. Those signals go to a maintenance base, not to air traffic control. Air France used those signals to help determine what happened when its Flight 447 disappeared over the equatorial Atlantic. Investigators may be doing something similar in Kuala Lumpur.
+像777这样的飞机还配有自动化系统，能发送关于引擎性能及其他一些技术功能的数据。这些信号会被发送到某个维修基地，而不是空中交通控制中心。法航(Air France)447航班在大西洋赤道水域上空消失后，这种数据就为该公司判断到底发生了什么提供了帮助。吉隆坡的调查人员可能正在做类似的事情。
+Q. Plane crashes most often happen on landing or takeoff, but this flight vanished almost an hour after takeoff when it was cruising. What could cause a plane to crash at that point in a flight?
+问：坠机通常都发生在飞机降落或起飞的时候，这架飞机却是在起飞后近一个小时的巡航状态下消失的。什么情况可能会导致飞机在这种时候发生坠机？
+A. In three crashes at sea in the last few years, the aircraft’s speed-sensing systems have malfunctioned. In two of those cases, crews failed to diagnose and cope with the problem. (In the third, there was probably nothing they could have done.) A deliberate act by a pilot, terrorism or an attack in the cockpit could be other causes.
+答：过去几年的三起飞机坠海事件都是因为飞机的速度感应系统出了故障。在其中两起事件中，机组成员未能发现并处理这个问题。（在第三起事件中，他们可能无力回天。）飞行员的故意行为、恐怖主义行动或发生在驾驶员座舱内的袭击也可能导致坠机。
+Q. Shouldn’t the signals from transponders or “black boxes” have pinpointed the aircraft by now?
+问：到了现在，异频雷达收发机或“黑匣子”发出的信号应该已经准确地指出了飞机的位置，不是吗？
+A. If the black boxes are in water, “pingers,” which emit a tone, are activated. But these are audible only in a limited area. And the plane may not be in the water.
+答：如果黑匣子在水里，会发出声音的“声波发射器”就会被激活。但这些声音只在有限的区域里能听见。而且，飞机可能不在水里。
+Q. Why would the authorities not have found debris after so many hours of searching?
+问：搜救进行了这么长的时间，为什么当局依然没找到残骸？
+A. They may not be looking in the right place. The plane flies at 10 miles a minute, and no one knows exactly when it crashed, or whether it departed its assigned track before doing so.
+答：他们搜救的地方可能不对。飞机的飞行速度是每分钟10英里（约合16公里），而且没人确切地知道飞机是何时坠毁的，也没人知道飞机坠毁前是否偏离了预定航线。
+Q. How far from its last known location could the aircraft have strayed?
+问：飞机可能偏离最后的已知位置多远?
+A. While we know where the last radio contact was, we do not know how long after that the airplane crashed, so it is hard to say. A jetliner cruising at 35,000 feet could glide as far as 80 or 90 miles after losing engine power if the pilots still had control.
+答：我们虽然知道最后的无线电联络信号来自哪里，却不知道飞机在发出信号多久之后才坠毁，所以很难判断偏离的距离。在3.5万英尺巡航的喷气客机在动力尽失的情况下还能滑行80到90英里（约合130-144公里），前提是驾驶员依然控制着飞机。
+Q. Are there any signs that terrorism might have been involved?
+问：是否有任何迹象显示，飞机可能遭遇了恐怖袭击？
+A. No group is known to have claimed to have destroyed the plane. Beyond that, not enough is known to speculate.
+答：据悉还没有任何组织声称摧毁了这架飞机。而且，目前还没有足够的依据来进行推测。

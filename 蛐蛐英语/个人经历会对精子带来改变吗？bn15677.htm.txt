@@ -1,0 +1,50 @@
+In 2013, an obese man went to Hvidovre Hospital in Denmark to have his stomach stapled. All in all, it was ordinary bariatric surgery — with one big exception.
+2013年，一名肥胖男子来到丹麦的哈维德夫医院(Hvidovre Hospital)接受胃旁路手术。总的来说，这是一次普通的减肥手术——只有一点例外。
+A week before the operation, the man provided a sperm sample to Danish scientists. A week after the procedure, he did so again. A year later, he donated a third sample.
+手术前一周、术后一周以及术后一年，该男子分别向丹麦的科学家们提供了精子样本。
+Scientists were investigating a tantalizing but controversial hypothesis: that a man’s experiences can alter his sperm, and that those changes in turn may alter his children.
+科学家们正在调查的是一个诱人但饱受争议的假设：男性的经历能够改变他的精子，而这些变化反过来将会改变他的后代。
+That idea runs counter to standard thinking about heredity: that parents pass down only genes to their children. People inherit genes that predispose them to obesity, or stress, or cancer — or they don’t. Whether one’s parents actually were obese or constantly anxious doesn’t rewrite those genes.
+这与遗传学“常识”背道而驰——过去人们一直认为，父母只将基因遗传给自己的孩子。人们继承到的基因致使他们容易/或不易肥胖、紧张或是患癌症。无论这个人的父母实际上是否肥胖或经常焦虑都不会改写这些基因。
+Yet a number of animal experiments in recent years have challenged conventional thinking on heredity, suggesting that something more is at work.
+然而，近年来的大量动物实验表明，还有一些其他的东西参与了遗传，这对上述传统观念提出了挑战。
+In 2010, for example, Dr. Romain Barres of the University of Copenhagen and his colleagues fed male rats a high-fat diet and then mated them with females. Compared with male rats fed a regular diet, those on the high-fat diet fathered offspring that tended to gain more weight, develop more fat and have more trouble regulating insulin levels.
+例如，2010年，哥本哈根大学的罗迈因·巴雷斯(Romain Barres)博士和他的同事们以高脂肪饮食饲喂雄性大鼠，然后让其与雌性交配。与饲喂正常饮食的雄性大鼠相比，饲喂高脂肪饮食的大鼠的后代往往更容易增重，更容易合成脂肪，在调节胰岛素水平方面也存在更多的问题。
+Eating high-fat food is just one of several experiences a father can have that can change his offspring. Stress is another. Male rats exposed to stressful experiences — like smelling the odor of a fox — will father pups that have a dampened response to stress.
+食用高脂肪食物只是一个例子，除此之外，还有一些父亲的经历会给后代带来改变，譬如，压力。暴露于应激环境（比如闻到狐狸的气味等）的雄性大鼠的后代对压力的反应有所降低。
+To find the link between a father’s experiences and his offspring’s biology, scientists have taken a close look at sperm. A sperm cell delivers DNA to an egg, of course. But those genes are regulated by swarms of molecules, so-called epigenetic factors.
+为了寻找父亲的经历与其后代的生物学性状之间的联系，科学家们仔细研究了父亲们的精子。我们都知道，精子将父亲的DNA带进了卵细胞。但这些基因会受到众多的分子，即所谓的表观遗传学因素的调节。
+These molecules can respond to environmental influences by silencing some genes and activating others as needed. Some studies suggest the changes in epigenetic factors can be handed down to offspring via sperm.
+这些分子可对环境的影响作出应答，根据需要令一些基因沉默，并激活其他基因。一些研究表明，表观遗传因素的变化可以通过精子传给后代。
+When Dr. Tracy L. Bale, a neuroscientist at the University of Pennsylvania, and her colleagues looked at the sperm of stressed male rats, for example, they found unusual levels of epigenetic molecules called microRNAs.
+例如，宾夕法尼亚大学(University of Pennsylvania)的神经科学家特蕾西·L·贝尔(Tracy L. Bale)博士和她的同事们在观察了应激状态下的雄性大鼠的精子后，发现名为microRNA（微小RNA）的表观遗传学分子水平异常。
+They created a cocktail of microRNAs and injected them into embryos from mellow fathers. As Dr. Bale and her colleagues reported recently, the embryos developed into rats with altered stress responses.
+他们制造了这些microRNA的混合物，并将其注射入成熟雄鼠授精产生的胚胎中。贝尔博士和她的同事们最近报告称，这些胚胎发育而来的大鼠的应激反应也发生了改变。
+The notion that environmental responses might influence human health in similar ways has huge implications. But scientists have only started to investigate the epigenetics of fatherhood. As is often the case when scientists turn from animal experiments to humans, the results have been provocative but hardly clear-cut.
+环境很可能也是在以类似的方式影响人类的健康，这个概念的提出具有深远的意义。不过，科学家们对父亲表观遗传学因素的调查才刚刚起步。当实验从动物转向人类，常常能获得令人振奋的结果，却几乎都不明确。
+In 2013, Adelheid Soubry, a molecular epidemiologist at KU Leuven University in Belgium, and her colleagues studied 79 newborn children. They found epigenetic differences between children with obese fathers and those with lean ones.
+2013年，比利时荷语天主教鲁汶大学(KU Leuven University)的分子流行病学家阿德尔海德·苏布赖(Adelheid Soubry)和她的同事们研究了79名新生儿。他们发现，肥胖父亲与精瘦父亲的后代之间存在着表观遗传学差异。
+Are changes like these actually caused by men’s obesity? Dr. Barres and his colleagues set out to investigate that potential link in two ways.
+但这些变化确实是由他们父亲的肥胖引起的么？巴雷斯博士和同事们以两种方式调查了其间的潜在关联。
+First, they collected sperm from 10 obese Danish men and 13 lean ones. They found numerous epigenetic differences. One type of epigenetic factor they looked at involved molecular caps that are placed on DNA in a process called methylation. Dr. Barres and his colleagues found more than 9,000 genes in which the methylation pattern differed between lean and obese men.
+首先，他们收集了10名肥胖的丹麦男性和13名精瘦的丹麦男性的精子，发现其间存在很多表观遗传学差异。其中一种表观遗传学因素涉及甲基化过程中被加在DNA上的“分子帽子”。巴雷斯博士和同事们发现，精瘦男性与肥胖男性间有9000多个基因的甲基化模式都有所不同。
+Then the scientists recruited six obese men getting bariatric surgery to see how losing weight changed these methylation patterns. In a report published on Thursday in the journal Cell Metabolism, Dr. Barres and his colleagues identified more than 3,900 genes that were methylated differently a year after surgery.
+其后，科学家们招募了六名将要接受减肥手术的肥胖男子，以调查减肥会给这些甲基化模式带来怎样的改变。在12月3日发表在《细胞-代谢》(Cell Metabolism)杂志上的文章中，巴雷斯博士及其同事报告，他们发现在手术后一年，有3900多个基因的甲基化发生了变化。
+Among the genes that are epigenetically altered are those that affect such behaviors as appetite control. But the new study does not show whether those changes have any effect on a father’s children, Dr. Barres said.
+在这些发生了表观遗传学改变的基因中，有一些可以影响食欲控制等行为。不过，该研究并没有显示这些变化是否会影响他们的孩子，巴雷斯博士说。
+“I don’t want to speculate whether it’s positive or negative in the following generation,” he said.
+“我不想去妄加揣测这对下一代会有正面还是负面的作用。”他说。
+Dr. Barres and his colleagues are now expanding on the study by comparing epigenetic patterns in the sperm of obese fathers with the patterns in the blood cells of their offspring. “We’re going to try to see if there’s something transmitted all the way down,” Dr. Barres said.
+巴雷斯博士和同事们现在正进一步深化研究，对肥胖父亲与其后代的血细胞中的表观遗传学模式进行比较。巴雷斯博士说：“我们想要看看有没有什么东西遗传了下来。”
+Other scientists had mixed views about the study. On one hand, they agreed that the researchers used sophisticated methods to survey epigenetic differences in the sperm. But they were wary of drawing broad conclusions.
+其他科学家对该研究的看法不一。一方面，他们都认同研究人员采用了周密的方法来调查精子中的表观遗传学差异。但另一方面，他们也表示应慎下结论。
+Dr. John M. Greally, an epigenetics expert at the Albert Einstein College of Medicine, said it was possible that genetic differences between the men were mostly to blame for the differences seen in their sperm.
+阿尔伯特·爱因斯坦医学院(Albert Einstein College of Medicine)的表观遗传学专家约翰·M·格里历(John M. Greally)博士说，在这些男子的精子中发现的差异可能是他们之间的遗传差异造成的。
+He also shared a concern with Dr. Bale and Dr. Soubry that the study involved too few men. The differences in such a small sample might have occurred randomly.
+此外，他与贝尔博士以及苏布赖博士都认为，该研究的被试过少。这么小的样本量，差异可能是随机产生的。
+“Honestly, I think a lot of what they have is noise,” Dr. Greally said.
+“说实话，我觉得其中很多都是噪音，”格里历博士说。
+That doesn’t mean that Dr. Greally thinks the Danish scientists are wrong, but rather that pinning down the epigenetic effects that fathers pass to their children will take much more work.
+但这并不代表格里历博士认为丹麦科学家们的观点是错误的，他只是认为，要证实父亲遗传给孩子们的这些表观遗传学效应，还需要进行更多的工作。
+“I’d say, let’s do a study of hundreds of people,” Dr. Greally said. “It’s doable. It just requires that we’re bold about doing these things.”
+“我想说，让我们来做一个纳入几百名被试的研究吧，”格里历博士说。“这应该是可行的，只要我们大胆去做就好。”

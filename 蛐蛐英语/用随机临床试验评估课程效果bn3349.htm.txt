@@ -1,0 +1,76 @@
+What works in science and math education? Until recently, there had been few solid answers — just guesses and hunches, marketing hype and extrapolations from small pilot studies.
+科学和数学教育的运作机理是什么？直到最近，这个问题鲜有坚实的答案——只是猜测、预感、营销炒作，以及源自小规模试点研究的推断。
+But now, a little-known office in the Education Department is starting to get some real data, using a method that has transformed medicine: the randomized clinical trial, in which groups of subjects are randomly assigned to get either an experimental therapy, the standard therapy, a placebo or nothing.
+但现在，一家鲜为人知，隶属于美国教育部(Education Department)的机构正在收集一些真实的数据。它所使用的是一种已经改变了医学的方法：随机临床试验。在试验中，一组组受试者被随机分配，以接受实验性治疗、标准治疗、使用安慰剂或不接受治疗。
+The findings could be transformative, researchers say. For example, one conclusion from the new research is that the choice of instructional materials — textbooks, curriculum guides, homework, quizzes — can affect achievement as profoundly as teachers themselves; a poor choice of materials is at least as bad as a terrible teacher, and a good choice can help offset a bad teacher’s deficiencies.
+研究人员说，试验结果或将产生变革性力量。比如，一个新的研究结论是，教材的选择——课本、课程指南、作业和小测验等——能够像教师那样，深刻地影响教学成果；差教材至少跟一位差劲的教师同样糟糕，而好教材则可以帮助弥补一位差教师的不足之处。
+So far, the office — the Institute of Education Sciences — has supported 175 randomized studies. Some have already concluded; among the findings are that one popular math textbook was demonstrably superior to three competitors, and that a highly touted computer-aided math-instruction program had no effect on how much students learned.
+到目前为止，这家名为教育科学研究院(Institute of Education Sciences)的政府机构支持了175项随机研究，其中一些已经产生结论。这些研究结论包括，某本流行的数学课本确实优于三本与之竞争的教科书，某个备受吹捧的计算机辅助数学教学课程并未对学生掌握的知识多寡产生影响。
+Other studies are under way. Cognitive psychology researchers, for instance, are assessing an experimental math curriculum in Tampa, Fla.
+其他研究正在进行中。例如，认知心理学研究者正在评估佛罗里达州坦帕市实施的一个实验性数学课程。
+The institute gives schools the data they need to start using methods that can improve learning. It has a What Works Clearinghouse — something like a mini Food and Drug Administration, but without enforcement power — that rates evidence behind various programs and textbooks, using the same sort of criteria researchers use to assess effectiveness of medical treatments.
+教育科学研究院为学校提供它们需要的数据，以帮助其启用那些能够改善学习状况的教学方法。这家研究院成立的有效教育策略资料中心(What Works Clearinghouse)类似于一个小型的食品和药物管理局(Food and Drug Administration)，但它没有执法权。该中心使用类似于研究人员用来测评医疗方案有效性的标准，以评估各种课程和教科书背后的证据。
+Without well-designed trials, such assessments are largely guesswork. “It’s as if the medical profession worried about the administration of hospitals and patient insurance but paid no attention to the treatments that doctors gave their patients,” the institute’s first director, Grover J. Whitehurst, now of the Brookings Institution, wrote in 2012.
+如果没有精心设计的试验，这种评估在很大程度上只是猜测。“这就好像医学界担心医院和病人保险的管理情况，但不关注医生给病人开具的治疗方案一样，”教育科学研究院首任院长，现供职于布鲁金斯学会(Brookings Institution)的格罗弗·怀特赫斯特(Grover J. Whitehurst)在2012年写道。
+But the “what works” approach has another hurdle to clear: Most educators, including principals and superintendents and curriculum supervisors, do not know the data exist, much less what they mean.
+但“有效教育策略”方式面临另一个需要清理的障碍：大多数教育工作者，包括校长、督学和课程视导员，并不知道这类数据的存在，更不用说它们蕴含的意义了。
+A survey by the Office of Management and Budget found that just 42 percent of school districts had heard of the clearinghouse. And there is no equivalent of an F.D.A. to approve programs for marketing, or health insurance companies to refuse to pay for treatments that do not work.
+管理和预算办公室(Office of Management and Budget)开展的一项调查发现，仅有42％的学区听说过有效教育策略资料中心。此外，目前还没有一个相当于食品和药物管理局批准药物营销方案，或者医疗保险公司拒绝承担无效治疗费用的机制。
+Nor is it clear that data from rigorous studies will translate into the real world. There can be many obstacles, says Anthony Kelly, a professor of educational psychology at George Mason. Teachers may not follow the program, for example.
+同样不清楚的是，源自严谨研究的数据将如何转化到现实世界。乔治梅森大学( George Mason University)教育心理学教授安东尼·凯利(Anthony Kelly)认为，这种转化可能面临许多障碍。比如，教师也许不会遵从相关课程安排。
+“By all means, yes, we should do it,” he said. “But the issue is not to think that one method can answer all questions about education.”
+“通过一切手段，是的，我们应该这样做，”他说。“但问题是，我们不能认为一个方法能够解决教育实践中的所有问题。”
+In this regard, other countries are no further along than the United States, researchers say. They report that only Britain has begun to do the sort of randomized trials that are going on here, with the assistance of American researchers.
+研究人员表示，在这方面，其他国家并未取得比美国更进一步的进展。他们报告称，只有英国，在美国研究人员的协助下，开始从事类似于美国正在进行的随机试验。
+As Peter Tymms, the director of the International Performance Indicators in Primary Schools center at Durham University in England, wrote in an e-mail: “The wake-up call was a national realization, less than a decade ago,” that all the money spent on education reform “had almost no impact on basic skills.” Suddenly, scholars who had long argued for randomized trials began to be heard.
+正如英国达勒姆大学(Durham University)国际小学绩效指标研究中心(International Performance Indicators in Primary Schools)主任彼得·蒂姆斯(Peter Tymms)在一封电邮中所述：“不到十年前，警钟就已敲响，全美各界必须意识到，”所有花费在教育改革方面的资金，“几乎没有对学生的基本技能产生影响。”长期呼吁推行随机试验的学者们突然发现，他们的意见终于产生了回响。
+In the United States, the effort to put some rigor into education research began in 2002, when the Institute of Education Sciences was created and Dr. Whitehurst was appointed the director.
+在美国，向教育研究注入一些精确性的努力肇始于2002年。彼时，教育科学研究院成立，怀特赫斯特博士被任命为院长。
+“I found on arriving that the status of education research was poor,” Dr. Whitehurst said. “It was more humanistic and qualitative than crunching numbers and evaluating the impact.
+怀特赫斯特博士说：“履新伊始，我就发现教育研究的状态不佳。它更倾向于人文和定性分析，而不是处理数字，评估影响。”
+“You could pick up an education journal,” he went on, “and read pieces that reflected on the human condition and that involved interpretations by the authors on what was going on in schools. It was more like the work a historian might do than what a social scientist might do.”
+“你随便翻阅一本教育杂志，就可以看到许多反思人类境况的文章，还有一些作者撰文解释学校的动态。这更像是历史学家的工作，而不是社会科学家可能会做的事情。”他继续说道。
+At the time, the Education Department had sponsored exactly one randomized trial. That was a study of Upward Bound, a program that was thought to improve achievement among poor children. The study found it had no effect.
+当时，教育部恰好已经赞助了一个随机试验。它研究的是一个名为“向上跳跃”(Upward Bound)，被认为有助于提高贫困儿童成绩的教学课程。研究人员最终发现，该课程其实没有产生任何效果。
+So Dr. Whitehurst brought in new people who had been trained in more rigorous fields, and invested in doctoral training programs to nurture a new generation of more scientific education researchers. He faced heated opposition from some people in schools of education, he said, but he prevailed.
+于是，怀特赫斯特博士引入了一些已接受过严密学科训练的人才，并投资建设博士培训项目，以期培育新一代更具科学精神的教育研究人员。他说，尽管此举招致一些教育界人士的激烈反对，但他最终占了上风。
+The studies are far from easy to do.
+这种研究工作绝对不是一件简单的事情。
+“It is an order of magnitude more complicated to do clinical trials in education than in medicine,” said F. Joseph Merlino, president of the 21st Century Partnership for STEM Education, an independent nonprofit organization. “In education, a lot of what is effective depends on your goal and how you measure it.”
+“在教育领域从事临床试验的复杂程度，要比医学领域高出一个数量级，”21世纪STEM学科教育伙伴计划(21st Century Partnership for STEM Education)总裁约瑟夫·莫里诺(F. Joseph Merlino)表示。“在教育领域，教学方法是否有效在很大程度上取决于你的目标和衡量方式。”
+Then there is the problem of getting schools to agree to be randomly assigned to use an experimental program or not.
+另一个问题是，如何让学校接受随机分配，从而启动一项试验课程。
+“There is an art to doing it,” Mr. Merlino said. “We don’t usually go and say, ‘Do you want to be part of an experiment?’ We say, ‘This is an important study; we have things to offer you.’  ”
+莫里诺说：“这项工作需要讲究艺术。我们通常不会走上前去说，‘你想加入一个试验吗？’我们需要说，‘这是一项重要的研究；我们会给你一些回报。’”
+As the Education Department’s efforts got going over the past decade, a pattern became clear, said Robert Boruch, a professor of education and statistics at the University of Pennsylvania. Most programs that had been sold as effective had no good evidence behind them. And when rigorous studies were done, as many as 90 percent of programs that seemed promising in small, unscientific studies had no effect on achievement or actually made achievement scores worse.
+宾夕法尼亚大学(University of Pennsylvania)教授罗伯特·博鲁奇(Robert Boruch)表示，随着教育部过去十年来的持续努力，一个模式变得清晰起来。大多数一直被宣扬为有效的课程并未留下很好的证据。严谨的研究发现，在被一些小规模、不科学的研究视为大有前途的课程中，有多达九成并未对教学成果产生影响，有的甚至导致学生成绩恶化。
+For example, Michael Garet, the vice president of the American Institutes for Research, a behavioral and social science research group, led a study that instructed seventh-grade math teachers in a summer institute, helping them understand the math they teach — like why, when dividing fractions, do you invert and multiply?
+例如，由行为和社会学科研究团体美国研究学会(American Institutes for Research)副会长迈克尔·加雷特(Michael Garet)领衔的一项研究，举办了一个指导七年级数学老师的暑期研讨班，帮助这些老师理解他们所教的数学知识——比如，在除分数时，你为什么要先将其变为倒数，然后相乘？
+The teachers’ knowledge of math improved, but student achievement did not.
+老师的数学知识确实提高了，但学生的成绩并未改观。
+“The professional development had many features people think it should have — it was sustained over time, it involved opportunities to practice, it involved all the teachers in the school,” Dr. Garet said. “But the results were disappointing.”
+“这个专业发展项目具有人们认为它应该具备的许多特征，不仅持续了一段时间，有实践的机会，而且学校老师全员参与，但结果令人失望。”加雷特博士说。
+The findings were added to the What Works Clearinghouse.
+这些发现已被有效教育策略资料中心收录。
+“There was a joke going around that it was the ‘What Doesn’t Work’ Clearinghouse,” said John Easton, the current director of the Institute of Education Sciences.
+“坊间流传一个笑话，说我们应该叫‘无效教育策略资料中心’，”教育科学研究所现任所长约翰·伊斯顿(John Easton)这样说道。
+Jon Baron, the president of the Coalition for Evidence-Based Policy, a nonprofit, nonpartisan organization, said the clearinghouse “shows why it is important to do rigorous evaluations.”
+非营利性超党派组织循证政策联盟(Coalition for Evidence-Based Policy)总裁乔恩·巴伦(Jon Baron)表示，有效教育策略资料中心“表明进行严格评估为什么如此重要。”
+“Most programs claim to be evidence-based,” he said, but most have no good evidence that they work.
+他说：“大多数课程都声称，它们是基于证据的，”但绝大多数都没有好的证据显示它们确实有效。
+Now, though, with a growing body of evidence on what works, researchers wonder how they can get educators and the public to pay attention.
+现在，尽管有越来越多的证据为有效的教学方案提供支持，但研究人员不知道他们如何才能让教育工作者和公众关注这些方案。
+“It’s fascinating what a secret this is,” said Robert Slavin, director of the Center for Research and Reform in Education at Johns Hopkins University.
+约翰霍普金斯大学(Johns Hopkins University)研究和教育研究中心(Center for Research and Reform in Education )主任罗伯特·斯莱文(Robert Slavin)表示，“很有意思的是，这竟然成了一个秘密。”
+“If you talk to your seatmate on an airplane,” he continued, “100 times out of 100 they will not have heard of it. Invariably they will have loads of opinions about what schools should or shouldn’t do, and they are utterly unaware and uninterested in the idea that there is actual evidence.”
+“如果你在飞机上和你的邻座交谈，他们百分之百没有听说过这档事。他们总是对学校应该或不应该做什么持有大量看法，很多人全然不知切实的证据这一理念，或者根本不感兴趣。”
+Educators often are not much better, Dr. Slavin said. Too often, they are swayed by marketing or anecdotes or the latest fad. And “invariably,” he added, “folks trying to sell a program will say there is evidence behind it,” even though that evidence is far from rigorous.
+斯莱文博士说，教育工作者往往也好不到哪里去。很多时候，他们被营销、道听途说或最新时尚所左右。“通常情况下，那些试图兜售某项课程的人会说，这项课程是有证据支持的，”尽管所谓的证据远远谈不上严密。
+Dr. Merlino agreed. “A lot of districts go by the herd mentality,” he said, citing the example of a Singapore-based math program now in vogue that has never been rigorously compared with other programs and found to be better. “Personal anecdote trumps data.”
+莫里诺博士认同这种观察。他说：“许多学区都受到了从众心理驱使。”比如，一个由新加坡开发的数学课程目前甚是流行，但它并未与其他课程进行严密的比较，也并未发现它能够产生更好的效果。“个人耳闻完胜坚实数据。”
+There are solutions, Dr. Slavin said. The federal government or states could require school districts to use programs that work — when sufficient data are available — or forfeit funds. But “there is very little political drive for that to happen,” he said.
+斯莱文博士说，这种情势的解决之道是存在的。联邦或州政府可以要求各学区使用行之有效，有足够数据支持的课程，否则就撤回拨款。但“推动这一幕发生的政治动机几近于无，”他说。
+Yet he retains a grain of optimism because the Obama administration — as well as the Bush administration, which established the Institute of Education Sciences — says its goal is to enable schools to use programs that have been shown to work.
+然而，他依然抱有一丝希望，因为奥巴马政府——包括此前成立教育科学研究所的小布什政府——声称，其教育改革的目标是推动学校使用已被证明有效的课程。
+“Sooner or later,” Dr. Slavin said, “this has to become consequential.”
+斯莱文博士表示，“这一愿景迟早将变成现实。”

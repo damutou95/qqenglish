@@ -1,0 +1,46 @@
+LET me hazard a guess that you think a real person has written what you’re reading. Maybe you’re right. Maybe not. Perhaps you should ask me to confirm it the way your computer does when it demands that you type those letters and numbers crammed like abstract art into that annoying little box.
+让我来猜猜看，你认为你所阅读的内容是由一个真实存在的人写的。你可能是对的，也可能是错的。或许你应该让我确认这种说法，就像你的电脑要求你将抽象艺术般的字母和数字输入那个令人厌烦的小盒子一样。
+Because, these days, a shocking amount of what we’re reading is created not by humans, but by computer algorithms. We probably should have suspected that the information assaulting us 24/7 couldn’t all have been created by people bent over their laptops.
+因为，目前有相当多的阅读内容不是由人类编写的，而是由计算机算法完成的。我们可能应该会猜想，每天24小时向我们袭来的信息可能不完全是由人类俯在笔记本电脑前编写的。
+It’s understandable. The multitude of digital avenues now available to us demand content with an appetite that human effort can no longer satisfy. This demand, paired with ever more sophisticated technology, is spawning an industry of “automated narrative generation.”
+这是可以理解的。人类的努力已经无法满足我们现在能够使用的各种数字渠道对内容的需求。这种需求，再加上更加成熟的技术，滋生了一个“文本自动生成”产业。
+Companies in this business aim to relieve humans from the burden of the writing process by using algorithms and natural language generators to create written content. Feed their platforms some data — financial earnings statistics, let’s say — and poof! In seconds, out comes a narrative that tells whatever story needs to be told.
+该领域中的公司旨在利用算法和自然语言生成器编写内容，使人类摆脱写作过程中的负担。将一些数据——比如金融收益数据——输入它们的平台，然后“嗖”的一声！几秒钟之内就会产生一些内容，提供人们需要的各种报道。
+These robo-writers don’t just regurgitate data, either; they create human-sounding stories in whatever voice — from staid to sassy — befits the intended audience. Or different audiences. They’re that smart. And when you read the output, you’d never guess the writer doesn’t have a heartbeat.
+这些机器人写手并不只是重复数据；它们以适合目标受众的风格——从古板到活泼——写出看起来像是人类编写的报道。它们非常聪明。当你阅读这些报道时，你绝不会猜到这个作者没有心跳。
+Consider the opening sentences of these two sports pieces:
+看看这两篇体育报道的开篇语句。
+“Things looked bleak for the Angels when they trailed by two runs in the ninth inning, but Los Angeles recovered thanks to a key single from Vladimir Guerrero to pull out a 7-6 victory over the Boston Red Sox at Fenway Park on Sunday.”
+“周日，天使队(Angels)在第九局中落后两分时，情况看起来不妙，但凭借弗拉迪米尔·葛雷诺(Vladimir Guerrero)赢得的关键一分，洛杉矶天使队挽回败局，在芬威球场(Fenway Park)以七比六的比分击败波士顿红袜队(Boston Red Sox)。”
+“The University of Michigan baseball team used a four-run fifth inning to salvage the final game in its three-game weekend series with Iowa, winning 7-5 on Saturday afternoon (April 24) at the Wilpon Baseball Complex, home of historic Ray Fisher Stadium.”
+“周六下午（4月24日），密歇根大学(University of Michigan)棒球队在威尔彭棒球场(Wilpon Baseball Complex)——具有历史意义的雷·费舍尔体育场(Ray Fisher Stadium)的所在地，通过赢得四分的第五局比赛，扭转局势，最终以七比五的比分赢得了与爱荷华棒球队在周末举行的三场比赛中的最后一场。”
+If you can’t tell which was written by a human, you’re not alone. According to a study conducted by Christer Clerwall of Karlstad University in Sweden and published in Journalism Practice, when presented with sports stories not unlike these, study respondents couldn’t tell the difference. (Machine first, human second, in our example, by the way.)
+如果你无法分辨哪一篇是由人类写的，那你不是唯一一个。瑞典卡尔斯塔得大学(Karlstad University)的克里斯特·克莱瓦尔(Christer Clerwall)开展了一项研究，并在《新闻实践》(Journalism Practice)上发表了相关论文。研究显示，当看到类似的体育报道时，调查对象无法辨别其中的区别。（顺便说一下，在我们提供的例子中，第一篇是机器写的，第二篇是人写的。）
+Algorithms and natural language generators have been around for a while, but they’re getting better and faster as the demand for them spurs investment and innovation. The sheer volume and complexity of the Big Data we generate, too much for mere mortals to tackle, calls for artificial rather than human intelligence to derive meaning from it all.
+算法和自然语言生成器已经存在了一段时间，但随着对它们的需求刺激了投资和创新，它们变得越来越好，越来越快。我们产生海量的大数据(Big Data)，而且很复杂，凡人难以处理，需要人工智能，而不是人类智能，来从中获取有意的信息。
+Set loose on the mother lode — especially stats-rich domains like finance, sports and merchandising — the new software platforms apply advanced metrics to identify patterns, trends and data anomalies. They then rapidly craft the explanatory narrative, stepping in as robo-journalists to replace humans.
+将之应用于大量资源，特别是在金融、体育和销售规划等数据繁多的领域，这种新的软件平台就会应用先进的度量标准，去确认模式、趋势和反常数据。然后，它们会迅速产生解释性文本，成为代替人类的机器人记者。
+The Associated Press uses Automated Insights’ Wordsmith platform to create more than 3,000 financial reports per quarter. It published a story on Apple’s latest record-busting earnings within minutes of their release. Forbes uses Narrative Science’s Quill platform for similar efforts and refers to the firm as a partner.
+美联社(The Associated Press)每季度利用自动化洞察力公司(Automated Insights)的Wordsmith平台撰写3000多篇金融报道。他们在苹果(Apple)公司公布最新创纪录收益几分钟之后，就发表了一篇报道。福布斯(Forbes)利用叙述科学公司(Narrative Science)的Quill平台撰写类似报道，并称该公司是他们的合作伙伴。
+Then we have Quakebot, the algorithm The Los Angeles Times uses to analyze geological data. It was the “author” of the first news report of the 4.7 magnitude earthquake that hit Southern California last year, published on the newspaper’s website just moments after the event. The newspaper also uses algorithms to enhance its homicide reporting.
+然后又出现了Quakebot，《洛杉矶时报》(The Los Angeles Times)利用这种算法分析地质数据。它是第一篇有关南加利福尼亚州去年发生的4.7级地震的新闻报道的“作者”。地震发生后，该报立即在其网站了发表了这篇报道。该报还利用算法加强命案报道。
+But we should be forgiven a sense of unease. These software processes, which are, after all, a black box to us, might skew to some predicated norm, or contain biases that we can’t possibly discern. Not to mention that we may be missing out on the insights a curious and fertile human mind could impart when considering the same information.
+如果我们对此感到一丝不安，这也是可以理解的。这些软件程序毕竟对我们来说是一个黑盒子，它们可能偏向于一些特定的基准，或包含我们可能无法辨别的倾向性。更不用说，我们可能会错失一个好奇的、具有创造力的人类在思考相同的信息时所能产生的那种洞见。
+The mantra around all of this carries the usual liberation theme: Robo-journalism will free humans to do more reporting and less data processing.
+这一切所表达的呼声，包含着常见的解放主题——机器新闻将会解放人类，使人类能够更多地进行报道，减少数据处理工作。
+That would be nice, but Kristian Hammond, Narrative Science’s co-founder, estimates that 90 percent of news could be algorithmically generated by the mid-2020s, much of it without human intervention. If this projection is anywhere near accurate, we’re on a slippery slope.
+这不失为一件美事。但是，据叙述科学联合创始人克里斯蒂安·哈蒙德(Kristian Hammond)估计，到本世纪20年代中期，将有90%的新闻由计算机算法生成，其中大多都无需人工干预。倘若这个预测接近事实，那么我们就会处在一个滑坡之上。
+It’s mainly robo-journalism now, but it doesn’t stop there. As software stealthily replaces us as communicators, algorithmic content is rapidly permeating the nooks and crannies of our culture, from government affairs to fantasy football to reviews of your next pair of shoes.
+目前，机器新闻已经占据主导，但它并未就此止步。随着软件悄悄取代我们成为传播者，从政府事务到梦幻足球，再到对你下一双鞋子的评价，算法生成的内容也在迅速向我们文化中的各个角落和缝隙渗透。
+Automated Insights states that its software created one billion stories last year, many with no human intervention; its home page, as well as Narrative Science’s, displays logos of customers all of us would recognize: Samsung, Comcast, The A.P., Edmunds.com and Yahoo. What are the chances that you haven’t consumed such content without realizing it?
+自动化洞察力公司指出，其软件去年一共创作了10亿个报道，许多都没有人工干预；它和叙述科学公司的主页上，展示着我们耳熟能详的客户标志：三星(Samsung)、康卡斯特(Comcast)、美联社、Edmunds.com和雅虎(Yahoo)。所以你极有可能在没有意识的情况下消费了这种内容。
+Books are robo-written, too. Consider the works of Philip M. Parker, a management science professor at the French business school Insead: His patented algorithmic system has generated more than a million books, more than 100,000 of which are available on Amazon. Give him a technical or arcane subject and his system will mine data and write a book or report, mimicking the thought process, he says, of a person who might write on the topic. Et voilà, “The Official Patient’s Sourcebook on Acne Rosacea.”
+机器人还在写书。来看看法国的欧洲工商管理学院(Insead)管理科学教授菲利普·M·帕克(Philip M. Parker)的作品：他的专利算法系统已经生成了超过100万本图书，其中有10万多本在亚马逊上销售。他说，给他一个技术性或晦涩难懂的话题，他的系统就能模仿可能就此题目进行写作的人的思维过程，挖掘数据，撰写一本书或一篇报告。比如，《红斑痤疮患者官方资料》(The Official Patient’s Sourcebook on Acne Rosacea)。
+Narrative Science claims it can create “a narrative that is indistinguishable from a human-written one,” and Automated Insights says it specializes in writing “just like a human would,” but that’s precisely what gives me pause. The phrase is becoming a de facto parenthetical — not just for content creation, but where most technology is concerned.
+叙述科学声称它可以创作“与出自人类的作品分毫不差的文本”。自动化洞察力则称它的专长是“像一个人一样”写作，但这正是让我担忧的地方。这种说法事实上已经成为一段插入语——不只是对内容创作，而且对于大多数科技都是如此。
+Our phones can speak to us (just as a human would). Our home appliances can take commands (just as a human would). Our cars will be able to drive themselves (just as a human would). What does “human” even mean?
+我们的手机可以（像一个人一样）和我们说话。我们的家用电器能够（像一个人一样）接受指令。我们的汽车将能（像一个人一样）自行驾驶。那么，“人”究竟是什么意思？
+With technology, the next evolutionary step always seems logical. That’s the danger. As it seduces us again and again, we relinquish a little part of ourselves. We rarely step back to reflect on whether, ultimately, we’re giving up more than we’re getting.
+在科技的帮助下，下一个革命性的进展似乎总显得顺理成章。这就是危险所在。鉴于它反复引诱我们，我们就会放弃一小部分自己。我们很少会后退一步，反思我们最后放弃的东西是否比得到的更多。
+Then again, who has time to think about that when there’s so much information to absorb every day? After all, we’re only human.
+再者，当每天都有这么多信息需要吸收的时候，谁还有时间去思考这那个问题？毕竟，我们只是人类。

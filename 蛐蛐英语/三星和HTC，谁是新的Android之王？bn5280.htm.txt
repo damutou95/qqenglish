@@ -1,0 +1,50 @@
+In a rare bit of cosmic alignment, two Android phone stars drop into orbit at the same time this week.
+宇宙天体的运行出现了罕见的一刻，两台Android手机巨星本周同时进入了轨道。
+The HTC One M8 and the Samsung Galaxy S5 arrive in stores by Friday, and choosing between the two is a matter of emotion versus logic.
+HTC One M8和三星(Samsung)Galaxy S5均在周五面市，从这两款手机之间做出选择是情绪和逻辑的权衡。
+The HTC phone inspires something like love with its gorgeous design, underdog story and elegant simplicity. But when I use my mind instead of my heart, it is clear to me that the Galaxy S5 is ultimately the better phone: a powerhouse of features and capability, a slightly better camera and a rugged yet lightweight design. Both the HTC One M8 and the Galaxy S5 have top-of-the-line, quad-core, Qualcomm Snapdragon 801 processors that support faster 4G LTE, faster Wi-Fi and faster processing images compared with their predecessors. The chip also allows for beefy graphics processing for games and video, and aggressive power management for better battery life.
+HTC的手机能激发起某种类似爱意的情感，它有漂亮的设计、雅致简洁，而且该公司也身处逆境。可是当我使用理智而非情感之时，我明显地意识到Galaxy S5最终是一款更好的手机：功能特性十分强大，摄像头略好，设计粗糙但更轻巧。HTC One M8和Galaxy S5都有市面顶尖的四核高通(Qualcomm)Snapdragon 801处理器，支持速度更快的4G LTE、更快的Wi-Fi，与旧款手机相比处理图片的速度也更快。这款芯片也能为游戏和视频应用提供强劲的图像处理能力，并具有得力的耗电管理，可以更好地延长电池寿命。
+The phones also feature almost the same size display: 5 inches for the HTC One M8 and 5.1 inches for the Galaxy S5, with identical 1920 x 1080 resolutions. And both run the latest version of Google’s Android operating system with their own custom touches on top.
+这两款手机的显示屏尺寸几乎相同，HTC One M8的屏幕有5英寸，Galaxy S5的屏幕为5.1英寸，而分辨率完全相同，都是1920 x 1080。两款手机均运行谷歌(Google)最新版本的Android操作系统，并在其基础上添加了自身的特性。
+The two are also the same price: Both retail unlocked at $650, but the real cost will depend on your carrier and contract.
+两款手机的价格也相同，无锁版零售价为650美元（约合4000元人民币），不过实际费用取决于你的运营商及合约套餐。
+The primary difference centers on the cameras — and that’s good, since camera and battery life are just about the only reasons to upgrade a smartphone anymore.
+主要的差别在摄像头上。这一点很棒，因为现在要是想升级智能手机，唯一的理由恐怕就是摄像头和电池寿命了。
+The One M8 has a 4-megapixel camera with HTC’s UltraPixel technology, which uses larger pixels to capture more light and produce better photos. The Galaxy S5 has a 16-megapixel camera with Samsung’s Isocell technology, which ekes better image quality from a multitude of smaller pixels.
+HTC One M8配有400万像素的摄像头，并具有HTC的UltraPixel技术，利用更大的像素捕捉更多光线，从而拍出更棒的照片。Galaxy S5配有1600万像素的摄像头，并提供三星的Isocell技术，它可以利用大量更小的像素产生出更好的画质。
+The HTC One M8 produced some beautiful images, but pictures also look oversaturated in some cases and disappointingly dark and shadowy in others. Photos are better in bright light, but if the light is too bright, they end up blown out.
+HTC One M8拍出了一些漂亮的图片，但在一些情况下照片看起来饱和度过高，而另一些时候又太昏暗模糊，让人失望。在明亮的光线下，其照片效果更好，但如果光线太强，照片又会过曝。
+The Galaxy S5’s camera is excellent; I’ve seen too many blurry Samsung photos over the years, and this phone finally fixes that complaint. Colors are vibrant and true to life, and focus and shutter speed are fast enough for children’s sports.
+Galaxy S5的摄像头很出色；这些年来，我看过太多三星手机拍出来的模糊照片，而这部手机终于修补了这个不足。其照片色彩鲜艳，栩栩如生，对焦和快门速度快到可以抓拍在运动中的孩子。
+The headline camera feature on both phones is the ability to refocus images after the fact. The HTC One M8 accomplishes this with its Duo Camera — a second camera lens on the back of the phone that captures dimensional information about an image.
+两部手机共有的主要功能是可以在拍照后再次对焦。这个功能在HTC One M8上是通过双镜头实现的，背面的第二个镜头捕捉了图片的景深信息。
+The results can be remarkable, although the feature is slightly hidden. Take photos in automatic mode, then when you’re viewing them after the fact in your photo gallery, tap Edit. You’ll see Effects and an option called UFocus.
+这点可以带来很棒的结果，不过该功能藏得有点深。在自动模式下拍照，之后在相册里回看的时候，点击“编辑”。然后你会看到“效果”和另一个叫做UFocus的选项。
+Select UFocus and the phone automatically chooses the closest item in the image to focus on; tap anywhere else to refocus. If your subject is far enough away from the background, you can get great results, and then apply fun filters like Foregrounder, which can put the foreground image in color and the background in pencil-sketch black and white, among other things.
+选择UFocus之后手机会自动选取图片上最近的物体对焦；点击其他任何地方就可以重新对焦。如果你选择的物体距离背景足够远，就能得到非常好的效果，之后还可以添加有趣的滤镜，比如Foregrounder，它的一个功能是在前景使用彩色图片，将背景画面转化为黑白的素描风格。
+I love Duo Camera; it’s the M8’s best feature. Unfortunately for HTC, the Galaxy S5 can also do this — or something like it.
+我很喜欢双镜头，它是M8最棒的功能。但HTC并不走运，Galaxy S5也能干这个，至少效果跟这个很像。
+On the Galaxy S5, the feature is called Selective Focus, and it uses onboard image processing rather than a second camera lens. You must enable Selective Focus before you shoot, but the button is prominently placed at the top of the camera screen. You could leave it on all the time, but not every photo demands it.
+在Galaxy S5上，这一功能叫做“选择式对焦”(Selective Focus)，而且使用的是内建的图像处理，而不是第二个镜头。必须在拍照前开启“选择式对焦”的模式，但这一按键醒目地放在了拍照屏幕上方。你可以把它一直开着，但并不是所有照片都需要这一功能。
+The camera is a little fussy about which images will work: the closest object must be less than about a foot from the lens to create enough depth for editing, and you’ll occasionally get an error message that says the focus can’t be applied even though the photo is saved. But the on-screen guidance means your pictures will come out better in the end. Once you’ve taken the photo and view it in your gallery, you’ll see a specific icon that means you can edit focus. You then choose near, far or pan focus.
+相机在使用上述功能时，对处理的照片有点挑剔：最近的物体必须距离镜头不大于1英尺，才能有足够的景深用来编辑，而且偶尔弹出错误消息说焦点不能调整，尽管照片已经保存。不过拍照屏幕上的指示意味着，你的照片最终会更好地呈现。照片拍完后，在相册里浏览时，可以看到一个专门的图标告诉你可以编辑对焦点，之后便可以选择近景、远景或者全景对焦。
+Samsung’s Selective Focus is less flexible than Duo Camera, but it’s so obvious and user-friendly that I imagine people will use it much more often.
+三星的“选择式对焦”不如双镜头灵活，但更容易找到，对用户也更友好，我想人们会更经常地使用。
+The HTC One M8 does please selfie fans with a 5-megapixel front-facing camera to the Galaxy S5’s 2.1. The Galaxy S5, though, shoots ultra high-definition, or 4K, video recording compared with the One M8’s 1080p video. That video feature won’t appeal to everyone, but it does make the Galaxy S5 that much more future-proof.
+HTC One M8的确更对自拍迷的胃口，它装有500万像素的前置摄像头，而Galaxy S5则为210万像素。不过Galaxy S5可以拍出超高清，或4K的视频，而One M8拍摄的视频则是1080p。摄像功能不会对所有人都具有吸引力，但这的确让S5更加面向未来。
+The HTC One M8 is the obvious aesthetic winner, but not the usability king. The back is slippery, and its newly rounded edges make it even more prone to disasters. It’s also heavier than the Galaxy S5, enough that it gets tiresome with one-handed use.
+HTC One M8在美学上明显占优，但易用性上并未称王。它的背面爱打滑，新的圆形边角更是让它容易遭灾。还有，它比Galaxy S5重，单手操作的时候会让人累得慌。
+The Galaxy S5 looks much more conventional, even a bit bland, but it gets the job done and it’s a lot easier to hang onto.
+Galaxy S5的外形更墨守成规，甚至是有点乏味，不过它能完成任务，也更易于上手。
+Both phones promise improved battery life and generally deliver. Their power management modes are most impressive. The HTC One M8 automatically kicks into “power saver” mode when you get to 5 percent battery life, and the Galaxy S5 lets you specify either power saving mode or “ultra” power saving mode, which puts the display into grayscale, restricts background data, and allows only low-power communication like texting and calling.
+两款手机都承诺改善了电池待机时间，也都基本做到了这一点 。他们的电量管理模式非常优秀。HTC One M8在剩5%电量时会自动开启“省电”模式，Galaxy S5则让你指定是采用省电模式还是“超级”省电模式。在后一种模式中，屏幕将变为黑白显示、后台数据受到限制，并且只允许低耗电量的交流方式，比如短信和电话。
+Ultimately, in the very close showdown between these two phones, it’s the extras that put the Galaxy S5 over the top.
+最后，在这两部异常接近的手机一决胜负的时候，Galaxy S5的附加功能让它力压对手。
+The Galaxy’s user interface is simplified and easy to use, and the phone has the Samsung S Health app preinstalled. The program includes a pedometer, exercise tracker, heart rate sensor (a neat trick using the camera flash on the back of the phone) and food tracker. These are popular features with or without a wearable fitness band, and I liked having them.
+Galaxy S5的用户界面简单易用，并且预安装了三星S Health应用。这一程序包括计步器、运动追踪器、心率感应器（巧妙地采用背后的相机闪光灯）和饮食记录。不管有没有穿戴式健身臂带，这些都是很受欢迎的功能，我很喜欢它们。
+Little things won me over, too, like the ability to search the graphically appealing Settings menu. The Galaxy S5’s keyboard is far superior to the HTC One M8’s, which is oddly narrow and unresponsive. Its interface is also just a hair snappier. But the fingerprint sensor on the Galaxy did not impress me, because it is slow and finicky — though the fingerprint sensor on the iPhone 5S doesn’t impress me, either.
+它的小细节同样打动了我，比如可以搜索图形美观的设置菜单。Galaxy S5的键盘也远比HTC One M8出色。后者的键盘狭窄，而且反应迟钝，相当怪异。Galaxy S5的界面也略微简洁一些。不过，它的指纹感应器乏善可陈，又慢又繁琐——当然了，iPhone 5S的指纹感应器也乏善可陈。
+But what really sealed the deal, so to speak, is the Galaxy S5’s dust- and water-resistant design. A rubberized strip inside the case and a cover over the charging port help keep out moisture, meaning the phone can survive the rain, sitting in a sweaty armband, or maybe a dip in a shallow puddle.
+不过，说到真正让我盖棺定论的，是Galaxy S5的防尘防水设计。它的外壳里有一圈橡胶，充电接口处有遮盖，可以隔绝湿气。这就意味着，它能扛得住雨水，可以放在汗津津的臂带上，或许还不怕掉进浅水洼里。
+There really aren’t many watershed innovations left in smartphones. For me, the Galaxy S5 won a war of attrition and either phone will make you happy in different ways. And with the LG G3 phone still around the corner, the true Android winner may still be circling our star system.
+在智能手机领域，的确没有太多转折性创新可以出现了。对我来说，Galaxy S5赢得的是一场消耗战，这两款手机也都能在不同的方面取悦用户。LG G3即将上市，真正的Android之王或许还在天上飞呢。

@@ -1,0 +1,40 @@
+Striking the largest technology takeover ever, the computer maker Dell and the investment firm Silver Lake confirmed on Monday that they would acquire EMC for about $67 billion.
+电脑制造商戴尔(Dell)和投资公司银湖集团(Silver Lake)达成了科技产业规模最大的收购案，本周一双方证实，将斥资约670亿美元收购EMC。
+The buyout of EMC will be the latest stage in Dell’s evolution from a pioneering manufacturer of personal computers to a provider of services for businesses. The acquisition of EMC brings Dell one of the biggest names in computer data storage, adding to existing offerings like network servers, corporate software and mobile devices.
+戴尔正在从顶尖的个人电脑制造商转型为企业服务供应商，收购EMC是其转型的最后一个阶段。戴尔现有的产品包括网络服务器、企业软件和移动设备等，收购EMC之后，数据存储领域的一个大品牌也被纳入了戴尔旗下。
+“The combination of Dell and EMC creates an enterprise solutions powerhouse bringing our customers industry-leading innovation across their entire technology environment,” said Michael S. Dell, who will lead the combined company as chairman and chief executive. “Our new company will be exceptionally well positioned for growth in the most strategic areas of next-generation I.T.”
+“戴尔与EMC合并后将形成一个企业解决方案巨头，为我们的客户提供横跨整个科技环境的一流创新。新公司将在下一代信息技术中最重要的战略领域里占据一个极其有利的位置，”迈克尔·S·戴尔(Michael S. Dell)说。他将领导合并后的公司，担任董事长兼首席执行官。
+Under the terms of the deal, Dell will pay $24.05 a share in cash to EMC shareholders and shares of a tracking stock tied to EMC’s 81 percent stake in VMware, which makes so-called virtualization software. VMware would continue to be a publicly traded company. The stock component would give EMC shareholders a total of roughly $33.15 a share, a premium of nearly 28 percent to EMC’s stock price on Wednesday, before news reports emerged of the talks between the two companies.
+根据交易条款，戴尔将向EMC股东支付每股24.05美元的现金，由于EMC持有虚拟化软件厂商VMware公司81%的股份，戴尔还会向股东提供一些追踪股。VMware将继续作为上市公司存在。综合来看，EMC股东可以获得每股约33.15美元的价格，与EMC上周三的股价相比，溢价近28%，当时这两家公司谈判的消息尚未报道。
+Shares of EMC were up 1 percent in midday trading, at $28.19.
+EMC股价午盘上涨1%，达28.19美元。
+The deal resolves much of the uncertainty about EMC, which over its 36-year history has grown from data storage into a collection of businesses, including network security and content management for corporate clients. The company has struggled over the last decade as the cost of data storage has plummeted, and as additional acquisitions failed to reverse its fortunes.
+这宗交易消除了关于EMC的很多不确定性。该公司有36年的历史，最初是一家数据存储厂商，后来拓展了多种业务，包括为企业客户提供网络安全和内容管理服务。但在过去十年中，随着数据存储的成本大幅下降，EMC步履维艰，它采取的一些收购行动也未能扭转其命运。
+More recently it has been under pressure from Elliott Management, a $25 billion hedge fund known for shaking up companies it believes are underperforming.
+最近，它处在了埃利奥特资本管理公司(Elliott Management)的压力之下。这是一个250亿美元规模的对冲基金，擅长重组其认为表现不佳的公司。
+After Elliott called for a radical shift in EMC’s strategy, the company brokered a truce in January by adding two new directors. Yet as months went by with no movement — and a standstill agreement barring the hedge fund from speaking publicly expired last month — the activist investor pressed for updates.
+埃利奥特呼吁，EMC应在战略上做出重大调整。之后，该公司在今年1月增加了两名新董事，双方以这种方式达成了休战。然而几个月过去了，EMC没有采取任何行动，而一份禁止该对冲基金公开发言的维持现状协议已于上个月到期，于是这家行动派投资机构施加压力，要求EMC有所行动。
+Monday’s deal appeared to satisfy Elliott’s concerns, however; the hedge fund declared the transaction acceptable. (The firm expects to turn a profit from its investment, according to people briefed on the matter.)
+周一的协议似乎满足了埃利奥特的要求，该对冲基金宣布交易可以接受。（据了解情况的人士透露，该公司预计会从投资中获利。）
+“This is a terrific outcome,” Jesse Cohn, Elliott’s head of equity activism in the United States, said in a telephone interview. “As activist shareholders, it’s hard to find any fault in this process.”
+“这个结果很棒，”埃利奥特负责美国境内股权行动的杰西·科恩(Jesse Cohn)在接受电话采访时说。“作为行动派股东，很难找到程序上的错误。”
+Taking EMC private could afford that company the same sort of breathing room Dell has enjoyed.
+让EMC私有化可以让该公司享有和戴尔公司一样的喘息空间。
+The deal will be financed with new equity from Mr. Dell; his family office, MSD Partners; Silver Lake; and Temasek, a Singapore state-owned investment company.
+协议涉及的资金将来自迈克尔·S·戴尔、他的家族公司MSD合伙公司(MSD Partners)、银湖(Silver Lake)及新加坡国有投资公司淡马锡(Temasek)注入的新股本。
+Still, the takeover is an ambitious bet on a number of fronts. While the rapid pace of big mergers and acquisitions has not stopped, Dell, in buying EMC, would acquire a huge amount of debt. Credit Suisse and JPMorgan Chase are coordinating the global financing effort.
+此次收购反映出戴尔对诸多战线寄予厚望。迅速开展大规模并购的步伐尚未停下来，戴尔在收购EMC的同时，会背上巨额债务。瑞信(Credit Suisse)和摩根大通(JPMorgan Chase)正在协调全球的融资行动。
+But that money would be borrowed before an expected rise in interest rates.
+不过借这笔钱时，市场预期的加息可能还不会实施。
+And it would mean making Dell even bigger at a time when companies of all stripes believe smaller is better. Many huge tech companies have announced plans to break themselves into their components, each devoted to a particular part of the market.
+这意味着在各种企业均认为规模越小越好的时候，戴尔公司的规模会变得更大。很多大型科技公司已宣布打算分拆，让各分支专注于特定的市场。
+Moving away from the conglomerate model, proponents contend, means that each business will have greater focus from both management and from shareholders, hopefully resulting in a higher stock price for the new companies.
+支持者称，放弃大型企业集团的模式，意味着管理层和股东会更关注各家企业，也有望带来新公司股价的上涨。
+Tech companies have been no exception. Hewlett-Packard, for instance, is close to completing a split of its enterprise services business from its personal computer arm. EBay spun off its PayPal payments business from its core e-commerce market division earlier this year.
+科技公司也不例外。比如，惠普(Hewlett-Packard)把企业服务业务从个人电脑部门拆分出来的行动已接近完成。今年早些时候，eBay也把PayPal支付业务从核心的电子商务平台剥离。
+EMC itself has been criticized by investors for its so-called federation, a collection of businesses that range from data storage to networking to content management, though its management has largely rebuffed calls for a total breakup of the company.
+EMC因其整合式的经营模式，即囊括从数据存储到网络再到内容管理的一系列业务，而备受投资者的批评。不过该公司的管理层总体上回绝了彻底拆分公司的呼声。
+Yet Mr. Dell and his counterpart at EMC, Joe Tucci, argue that sticking with the one-stop-shop business model would help it draw corporate customers eager to buy servers.
+迈克尔·S·戴尔和EMC的CEO乔·图奇(Joe Tucci)称，坚持一站式购物的商业模式，有助于吸引急需购买服务器的企业客户。
+Dell’s headquarters will remain in Round Rock, Tex., and the headquarters of the combined enterprise systems business will be in EMC’s hometown, Hopkinton, Mass. Mr. Tucci will continue as chairman and chief executive of EMC until the transaction closes.
+戴尔公司的总部仍将留在德克萨斯州朗德罗克，合并后的企业系统业务总部将位于EMC的家乡，即马萨诸塞州霍普金顿。图奇将继续担任EMC的董事长和首席执行官，直到交易完成。

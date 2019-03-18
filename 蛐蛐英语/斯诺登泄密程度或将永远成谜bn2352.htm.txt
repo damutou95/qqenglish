@@ -1,0 +1,48 @@
+WASHINGTON — American intelligence and law enforcement investigators have concluded that they may never know the entirety of what the former National Security Agency contractor Edward J. Snowden extracted from classified government computers before leaving the United States, according to senior government officials.
+华盛顿——奥巴马政府高级官员表示，美国情报和执法调查人员已得出结论，他们可能永远都无法知道，美国国家安全局（National Security Agency，简称NSA）前承包商雇员爱德华·J·斯诺登(Edward J. Snowden)在离开美国前，从机密的政府计算机中提取的所有资料具体都是什么。
+Investigators remain in the dark about the extent of the data breach partly because the N.S.A. facility in Hawaii where Mr. Snowden worked — unlike other N.S.A. facilities — was not equipped with up-to-date software that allows the spy agency to monitor which corners of its vast computer landscape its employees are navigating at any given time.
+调查人员们仍无法掌握数据的泄漏程度，这是因为斯诺登工作过的NSA夏威夷基地和NSA的其他基地有所不同，当时没有配备最新的软件，因而不允许NSA随时监督雇员们究竟在其庞大的计算机网络中的哪一个角落进行操作。
+Six months since the investigation began, officials said Mr. Snowden had further covered his tracks by logging into classified systems using the passwords of other security agency employees, as well as by hacking firewalls installed to limit access to certain parts of the system.
+相关调查已经开展了6个月。官员们表示，斯诺登在窃取资料时还采取了进一步措施，来掩盖自己的踪迹，那就是通过使用其他安全局雇员的密码登录机密的计算机系统，以及破解用来限制进入系统部分区域的防火墙。
+“They’ve spent hundreds and hundreds of man-hours trying to reconstruct everything he has gotten, and they still don’t know all of what he took,” a senior administration official said. “I know that seems crazy, but everything with this is crazy.”
+“他们已经花了成百上千个工时，努力重现他提取的所有资料，但他们还是无法掌握他所拿走的全部资料，”奥巴马政府一位高级官员表示。“我知道，这听上去不可思议，但和此事有关的一切都是不可思议的。”
+That Mr. Snowden was so expertly able to exploit blind spots in the systems of America’s most secretive spy agency illustrates how far computer security still lagged years after President Obama ordered standards tightened after the WikiLeaks revelations of 2010.
+斯诺登能够如此熟练地穿行于美国最机密情报机构的计算机系统之中，利用其盲点，这显示出计算机安全措施依然十分落后，尽管几年前奥巴马总统就曾在2010年的维基解密(WikiLeaks)泄漏事件之后要求提高安全标准。
+Mr. Snowden’s disclosures set off a national debate about the expansion of the N.S.A.’s powers to spy both at home and abroad, and have left the Obama administration trying frantically to mend relations with allies after his revelations about American eavesdropping on foreign leaders.
+斯诺登的泄密引发了一场有关NSA监控权在国内外扩张的全国大讨论，在他揭露出美国监听外国领导人的行动后，也让奥巴马政府不得不竭尽全力修补与盟友们的关系。
+A presidential advisory committee that has been examining the security agency’s operations submitted its report to Mr. Obama on Friday. The White House said the report would not be made public until next month, when Mr. Obama announces which of the recommendations he has embraced and which he has rejected.
+一个检查NSA运行情况的总统顾问委员会周五向奥巴马提交了报告。白宫表示，报告在下个月以前不会对外公布，届时，奥巴马会宣布其中哪些建议他已接受，哪些没接受。
+Mr. Snowden gave his cache of documents to a small group of journalists, and some from that group have shared documents with several news organizations — leading to a flurry of exposures about spying on friendly governments. In an interview with The New York Times in October, Mr. Snowden said he had given all of the documents he downloaded to journalists and kept no additional copies.
+斯诺登将他手上的文件交给了几位记者，这几位记者中又有人将文件与几家新闻机构共享，这引发了对美国政府监视友好政府行动的一系列曝光。在10月与《纽约时报》的一次采访中，斯诺登说，他已将下载的所有文件交给了记者，自己并没有保留任何备份。
+In recent days, a senior N.S.A. official has told reporters that he believed Mr. Snowden still had access to documents not yet disclosed. The official, Rick Ledgett, who is heading the security agency’s task force examining Mr. Snowden’s leak, said he would consider recommending amnesty for Mr. Snowden in exchange for those documents.
+最近，一位NSA高级官员告诉记者，他相信斯诺登依然掌握着一些文件尚未公布。这位官员是里克·莱吉特(Rick Ledgett)，他正带领着NSA的一个特别工作组调查斯诺登泄密事件，他表示，自己会考虑建议赦免斯诺登，以换取这些文件。
+“So, my personal view is, yes, it’s worth having a conversation about,” Mr. Ledgett told CBS News. “I would need assurances that the remainder of the data could be secured, and my bar for those assurances would be very high. It would be more than just an assertion on his part.”
+“所以，我个人的观点是，没错，这事值得好好谈谈，”莱吉特对CBS新闻频道(CBS News)表示。“我需要得到保证，剩下的资料能确保安全，而我所说的保证的标准很高，不是仅仅做出口头保证就行的。”
+Mr. Snowden is living and working in Russia under a one-year asylum. The Russian government has refused to extradite Mr. Snowden, who was indicted by the Justice Department in June on charges of espionage and stealing government property, to the United States.
+斯诺登获得了俄罗斯为期一年的避难许可，目前正在该国生活工作。6月，美国司法部(Justice Department)以间谍罪和盗窃政府财产罪向斯诺登提起诉讼，但俄罗斯政府已拒绝向美国引渡斯诺登。
+Mr. Snowden has said he would return to the United States if he was offered amnesty, but it is unclear whether Mr. Obama — who would most likely have to make such a decision — would make such an offer, given the damage the administration has claimed Mr. Snowden’s leaks have done to national security.
+斯诺登已表示，如果获得特赦，他会返回美国。但外界却不确定，在美国政府宣称斯诺登的泄密行为给国家安全带来如此重大的破坏以后，奥巴马是否会特赦他。而总统很可能不得不就此做出一个决定。
+Because the N.S.A. is still uncertain about exactly what Mr. Snowden took, government officials sometimes first learn about specific documents from reporters preparing their articles for publication — leaving the State Department with little time to notify foreign leaders about coming disclosures.
+由于NSA尚不确定斯诺登到底拿走了哪些文件，政府官员有时最先从准备发表相关文章的记者那里了解到泄漏的具体文件，这让国务院(State Department)没有什么时间来通知外国领导人即将公布的泄密信息。
+With the security agency trying to revamp its computer network in the aftermath of what could turn out to be the largest breach of classified information in American history, the Justice Department has continued its investigation of Mr. Snowden.
+事实最后也许证明，这可能是美国历史上最大的一次机密信息泄露事件。此事发生后，NSA一直在努力改进其计算机网络，与此同时，司法部展开了对斯诺登的调查。
+According to senior government officials, F.B.I. agents from the bureau’s Washington field office, who are leading the investigation, believe that Mr. Snowden methodically downloaded the files over several months while working as a government contractor at the Hawaii facility. They also believe that he worked alone, the officials said.
+政府高级官员透露，美国联邦调查局(FBI)华盛顿办公室的探员正主持此项调查，他们相信，斯诺登作为承包商雇员在夏威夷基地工作期间，有条不紊地在几个月时间里下载了那些文件。这些官员表示，探员们相信，他没有任何帮手。
+But for all of Mr. Snowden’s technical expertise, some American officials also place blame on the security agency for being slow to install software that can detect unusual computer activity carried out by the agency’s work force — which, at approximately 35,000 employees, is the largest of any intelligence agency.
+但就算斯诺登精通技术，一些美国官员也责怪安全局没能及时安装相关软件，来识别安全局员工在计算机网络内进行的异常活动。据估算，NSA约有3.5万名员工，是所有情报机构中最多的。
+An N.S.A. spokeswoman declined to comment.
+一位NSA女发言人拒绝就此事置评。
+After a similar episode in 2010 — when an Army private, Chelsea Manning, gave hundreds of thousands of military chat logs and diplomatic cables to the antisecrecy group WikiLeaks — the Obama administration took steps intended to prevent another government employee from downloading and disseminating large volumes of classified material.
+2010年曾出现过一次类似事件，一等兵切尔西·曼宁(Chelsea Manning)向反保密组织维基解密提供了数以十万计的军事通话记录和外交电报。那次事件之后，奥巴马政府已采取措施，防止再次出现政府雇员下载大量机密文件并加以传播的行为。
+In October 2011, Mr. Obama signed an executive order establishing a task force charged with “deterring, detecting and mitigating insider threats, including the safeguarding of classified information from exploitation, compromise, or other unauthorized disclosure.” The task force, led by the attorney general and the director of national intelligence, has the responsibility of developing policies and new technologies to protect classified information.
+2011年10月，奥巴马签署了一项行政命令，建立一个特别行动小组，担负起“震慑、识别和减小内部威胁的任务，包括保护机密信息不被利用、泄漏，并且不在未经许可的状态下遭到公布”。这一行动小组由司法部长和国家情报总监领导，负责制定政策和新技术来保护机密信息。
+But one of the changes, updating computer systems to track the digital meanderings of the employees of intelligence agencies, occurred slowly.
+但其中更新计算机系统以追踪情报机构雇员的数字足迹的改革却开展地十分缓慢。
+“We weren’t able to flip a switch and have all of those changes made instantly,” said one American intelligence official.
+“我们没法按一个开关就让所有这些改变立即实现，”一位美国情报官员说道。
+According to a former government official who spoke recently with Gen. Keith B. Alexander, the N.S.A. director, the general said that at the time Mr. Snowden was downloading the documents, the spy agency was several months away from having systems in place to catch the activity.
+最近与NSA局长基思·B·亚历山大上将(Gen. Keith B. Alexander)有所交流的前政府官员表示，这位上将说，在斯诺登下载机密文件的时候，NSA距离设施到位，能够捕捉此类活动，不过数月之遥。
+As investigations by the F.B.I. and the N.S.A. grind on, the State Department and the White House have absorbed the impact of Mr. Snowden’s disclosures on America’s diplomatic relations with other countries.
+就在联邦调查局和NSA的调查继续开展的同时，国务院和白宫已经化解了斯诺登泄密事件给美国与其他国家外交关系带来的影响。
+“There are ongoing and continuing efforts by the State Department still to reach out to countries and to tell them things about what he took,” said one senior administration official. The official said the State Department often described the spying to foreign leaders as “business as usual” between nations.
+“国务院还在持续不断地努力与各国进行沟通，告诉它们斯诺登所获资料的相关情况，”奥巴马政府的一位高级官员表示。此位官员还说，国务院常常把监听外国领导人的行为称为国家间的“正常活动”。

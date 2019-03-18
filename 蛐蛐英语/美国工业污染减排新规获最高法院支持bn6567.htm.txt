@@ -1,0 +1,42 @@
+WASHINGTON — In a big win for environmentalists, the Supreme Court on Monday effectively endorsed the Obama administration’s efforts to regulate greenhouse gas emissions from sources like power plants, even as it criticized what it called the administration’s overreaching.
+华盛顿——最高法院(Supreme Court)周一实际上支持了奥巴马政府监管发电厂等机构温室气体排放的举措，这对环保主义者来说是一次重大胜利。但与此同时，最高法院也批评了奥巴马政府的过度监管。
+The decision is one in a recent string of rulings upholding the Environmental Protection Agency’s authority to issue Clean Air Act regulations to curb climate change, and the agency celebrated the decision.
+美国国家环境保护局（Environmental Protection Agency，简称EPA）根据《清洁空气法》(Clean Air Act)的规定实施监管，从而应对气候变化的做法，最近得到了一系列法院判决的支持。周一的这项判决就是其中之一。EPA对该决定表示欢迎。
+But the combative tone of Monday’s ruling, along with its rejection of one of the agency’s principal rationales for the regulations under review, suggest that the road ahead may be rocky for other initiatives meant to reduce carbon emissions.
+但周一的判决中带有些许火药味，它驳回了EPA对案件中涉及的监管举措所提出的一项主要法律原则。这意味着，对于其他旨在降低碳排放的行动，未来的道路可能不会平坦。
+The decision, said Richard J. Lazarus, a law professor at Harvard, “gave the agency a tongue-lashing and suggested the potential for some significant limitations on how the agency chooses to exercise its authority in the future.”
+哈佛大学(Harvard)法学教授理查德·J·拉扎勒斯(Richard J. Lazarus)说，这一判决“对EPA进行了严厉斥责，意味着未来该局在如何行使权力方面，可能会面临严重的限制”。
+In a part of the ruling decided by a 7-to-2 vote, the court said the E.P.A. could regulate sources of greenhouse gases as long as they would already need permits for emitting conventional pollutants. That approach allowed the agency to regulate large, industrial polluters, such as power plants and oil refineries, and exempted millions of the nation’s small-scale carbon emitters, such as schools, apartment buildings and individual businesses like Dunkin’ Donuts or Chipotle.
+这次的判决是以7比2的投票结果通过的。最高法院在判决书的部分内容中写道，对于本来就需要许可才能排放传统污染物的机构，EPA可以对它们的温室气体排放进行监管。这一做法使EPA可以监管大型的工业污染企业，比如发电厂和炼油厂，但免除了美国不计其数的小型碳排放机构，比如学校、公寓大楼，以及像唐恩都乐(Dunkin' Donuts)和Chipotle这样的商户。
+In carving out the small emitters, the court effectively agreed with the agency, which saw such broad regulations as an unwieldy nightmare.
+最高法院允许小型排放企业不受监管的立场，实际上是满足了EPA的心愿。EPA认为，那种普遍监管难以操作，会是大麻烦。
+“E.P.A. is getting almost everything it wanted in this case,” Justice Antonin Scalia said in summarizing the decision. “It sought to regulate sources it said were responsible for 86 percent of all the greenhouse gases emitted from stationary sources nationwide. Under our holdings, E.P.A. will be able to regulate sources responsible for 83 percent of those emissions.”
+“EPA在这个案子中几乎所有愿望都得到了满足，”大法官安东宁·斯卡利亚(Antonin Scalia)在判决总结中说，“EPA寻求监管的固定污染源所排放的温室气体，在全国固定污染源排放的温室气体中占86%。根据我们的裁决，EPA将能够监管这类排放的83%。”
+(“Stationary sources” are buildings like factories and power plants; the agency also regulates tailpipe emissions from cars and trucks.)
+（“固定污染源”指工厂和发电站等建筑物；EPA还监管轿车和卡车的尾气排放。）
+Chief Justice John G. Roberts Jr. and Justices Anthony M. Kennedy, Ruth Bader Ginsburg, Stephen G. Breyer, Sonia Sotomayor and Elena Kagan joined that part of the decision.
+首席大法官小约翰·G·罗伯茨(John G. Roberts Jr.)、大法官鲁思·巴德·金斯伯格(Ruth Bader Ginsburg)、史蒂芬·G·布雷耶(Stephen G. Breyer)、索尼娅·索托马约尔(Sonia Sotomayor)和埃琳娜·卡根(Elena Kagan)认同判决书中的这一部分表述。
+The agency expressed satisfaction with the ruling.
+EPA对判决表达了满意。
+“The Supreme Court’s decision is a win for our efforts to reduce carbon pollution because it allows E.P.A., states and other permitting authorities to continue to require carbon pollution limits in permits for the largest pollution sources,” the agency said in a statement.
+该局在一份声明中说，“最高法院的决定，是我们降低碳排放的努力中的一次胜利，因为它允许EPA、各州和其他有权发放排污许可的机构，继续在许可中对大型污染源的碳排放量进行限制。”
+Another part of Monday’s decision rejected the agency’s primary rationale for the regulations. The agency had contended that it would interpret the Clean Air Act to require regulation of far fewer stationary sources of pollution than the law seemed to require.
+周一的判决书中的另一部分内容，则反驳了EPA对其监管措施所提出的法律依据。EPA此前称，根据该局的解读，《清洁空气法》要求监管的固定污染源，比这部法律表面上要求的要少。
+“An agency has no power to ‘tailor’ legislation to bureaucratic policy goals by rewriting unambiguous statutory terms,” Justice Scalia wrote. Chief Justice Roberts and Justices Kennedy, Clarence Thomas and Samuel A. Alito Jr. joined that part of the decision, which was decided by a 5-to-4 vote.
+斯卡利亚大法官写道，“一家机构无权通过任意解读并不模糊的法律条款，让法律来适应其机构的行政目标。”首席大法官罗伯茨以及大法官肯尼迪、克拉伦斯·托马斯(Clarence Thomas)，以及小塞缪尔·A·阿利托(Samuel A. Alito Jr.)认同判决书的这部分内容，这一部分裁定的投票结果为五票赞成，四票反对。
+The solution was not to require broader regulation, Justice Scalia said. Rather, he said, the practical problems identified by the agency were reason to think it was misreading the statute. “It would be patently unreasonable — not to say outrageous — for E.P.A. to insist on seizing expansive power that it admits the statute is not designed to grant,” Justice Scalia wrote  
+大法官斯卡利亚说，要求更广泛的监管不是解决办法。他说，EPA发现的实际操作问题，让我们有理由认为，它误读了这个法案。“EPA坚持攫取大量自身也承认该法律并未有意授予它的权力，即使不能说是肆无忌惮，也明显是不合理的，”大法官斯卡利亚写道。
+The National Federation of Independent Business, a plaintiff in the case, welcomed what it said was the Supreme Court’s refusal to allow the agency to rewrite the statute.
+美国独立企业联盟(National Federation of Independent Businesses)是本案的一个原告。该团体称，最高法院的判决拒绝向EPA授予改写法律的许可，该团体对此表示欢迎。
+“If this rule had been allowed to stand, small-business owners such as ranchers, farmers, manufacturers, restaurant owners and others would have seen more paperwork, more oversight and fines,” the group said in a statement.
+该团体在一份声明中说，“如果这一规章生效，农场主、农民、制造商、餐馆老板等小企业主，都将面临更多手续、更多监管和罚款。”
+Supporters of Mr. Obama’s climate change agenda said the ruling did not affect the administration’s recently proposed regulations to curb greenhouse gas emissions from coal-fired power plants.
+奥巴马气候变化议程的支持者说，这个裁决对政府最近提出的、旨在遏制煤电厂温室气体排放的计划没有影响。
+“The E.P.A. has just proposed standards to reduce carbon pollution from power plants, and that critical work will move ahead to protect Americans from the worst impacts of climate change,” said David Doniger, director of the clean air and climate change program with the Natural Resources Defense Council, an advocacy group.
+“EPA刚刚提出了一些降低发电厂碳排放的标准，这一关键行动将继续推进，从而保护美国人不会受到气候变化的最严重影响，”倡导机构美国自然资源保护协会(Natural Resources Defense Council)清洁空气和气候变化项目主任戴维·多尼格(David Doniger)说。
+But legal experts said that Monday’s decision also included a warning that the court’s view of the E.P.A.’s regulatory authority has its limits.
+但法律专家们说，周一的判决也发出了警告，即最高法院会对EPA的监管权力加以限制。
+“We are not willing to stand on the dock and wave goodbye as E.P.A. embarks on this multiyear voyage of discovery,” Justice Scalia wrote.
+“在EPA开启这个经年累月的发现之旅时，我们不打算只是站在码头上挥手道别，”大法官斯卡利亚写道。
+That statement was “a warning shot,” said Jody Freeman, a law professor at Harvard. “It suggests that the courts will look skeptically at assertions of authority that are very new and very far-reaching.”
+上述表态是“一个警告”，哈佛大学法学教授乔迪·弗里曼(Jody Freeman)说。“这意味着法院将用质疑的目光审视那些过于新颖、过于广泛的权力主张。”

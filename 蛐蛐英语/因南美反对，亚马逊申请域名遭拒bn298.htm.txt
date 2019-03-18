@@ -1,0 +1,32 @@
+A group of Latin American countries appears to have succeeded in an effort to block Amazon, the online retailer, from using .amazon as a new suffix for Internet addresses.
+一群拉丁美洲国家阻止在线零售商亚马逊公司(Amazon)使用.amazon作为其网址新后缀的努力似乎取得了成功。
+A committee of the Internet Corporation for Assigned Names and Numbers, an international governance group for the Internet, recommended this week that. amazon not be approved for use as a so-called global top-level domain — the letters that follow the dot in Internet addresses.
+国际互联网管理组织互联网名称与数字地址分配机构（Internet Corporation for Assigned Names and Numbers，简称ICANN）的一个委员会在本周建议，.amazon不应被批准作为通用顶级域名，所谓顶级域名是指互联网地址中，句点最后面的字母。
+At a meeting in Durban, South Africa, Icann reviewed applications for new domain suffixes like these in what has been billed as the biggest expansion of Internet addresses. Scores of companies, countries and organizations have applied to use their names or other terms as global top-level domains, alongside the handful of existing ones like .com and .org.
+在南非德班召开的一次会议上，Icann审核了这类新域名后缀的申请，这类新后缀被称为迄今最大的网址扩展。几十个公司、国家和组织申请使用自己的名字或其他词作为通用顶级域名，现有的通用顶级域名只有很少的几个，比如.com和.org。
+While Icann has approved several new dot-terms, including the Chinese word for game and the Russian word for network, English-language brand names derived from geographical locations have proved to be more complicated.
+虽然Icann已经批准了一些新的顶级域名，比如中文词“游戏”和“网络”的俄文词，但是那些来源于地理位置的英语品牌名称的情况看来更加复杂。
+In the run-up to the Durban meeting, a group of Latin American countries, including Brazil, Argentina, Chile, Peru and Uruguay, sent a letter to Icann, in which they argued that .amazon should be rejected because a river runs through it.
+在德班会议召开之前，包括巴西、阿根廷、智利、秘鲁和乌拉圭在内的一群南美洲国家给Icann写了信，他们称辩说，不应批准.amazon这个域名，因为那是一条河流。
+“In particular ‘.amazon’ is a geographic name that represents important territories of some of our countries, which have relevant communities, with their own culture and identity directly connected with the name,” the letter said. “Beyond the specifics, this should also be understood as a matter of principle.”
+封中写道，“具体地说，‘amazon’是个地理名称，它代表着我们这些国家中的重要领土，那里居住着相关的社区，他们的文化和认同与这个名字直接相连。除了这些具体的原因，这也应该被理解为是一个原则问题。”
+The group had also objected to another application, from the outdoor clothier Patagonia, to use its name as an address suffix. That application was withdrawn before the Durban meeting.
+这个群体也对另一个域名申请提出了抗议，户外服装制造商巴塔哥尼亚公司(Patagonia)申请用自己品牌名作为其网址后缀。该申请在德班会议召开前撤销了。
+The decision on. amazon, by the Governmental Advisory Committee of Icann, is not necessarily final. The Icann board could overrule the committee, though in practice it rarely does so.
+Icann政府咨询委员会（Governmental Advisory Committee，简称GAC）对.amazon的决定不是最终的，Icann理事会可以否决该委员会的决定，但实际上极少这样做。
+“We’re reviewing the G.A.C. advice and we look forward to working with Icann and other stakeholders to resolve these issues as the process moves forward,” Amazon said in a statement.
+亚马逊公司在一份声明中说，“我们正在仔细考虑GAC的建议，我们期待着与Icann以及其他利益相关方合作，随着程序的进展，一起来解决这些问题。”
+One thing that remains unclear is why the United States government, represented in the Government Advisory Committee by the National Telecommunications and Information Administration, an arm of the Commerce Department, went along with the decision.
+有一件事情不太清楚，那就是为什么在GAC中代表美国政府的商业部下属的国家通信与信息管理局(National Telecommunications and Information Administration)会同意委员会的这一决定。
+The administration did not immediately respond to a request for comment. Before the meeting, it sent a letter to Icann in which it outlined its support for the use of names like. amazon as Internet suffixes, but added that it would stand aside if other governments objected.
+美国政府没有立即回应置评请求。在德班会议召开之前，政府曾给Icann写信，对支持使用像.amazon这种名字作为网络后缀做了概述，但也补充称，如果其他政府反对，美国将不坚持。
+“The United States affirms our support for the free flow of information and freedom of expression and does not view sovereignty as a valid basis for objecting to the use of terms, and we have concerns about the effect of such claims on the integrity of the process,” the administration said in the letter. “However, in the event the parties cannot reach agreement by the time this matter comes up for decision in the G.A.C., the United States is willing in Durban to abstain and remain neutral.”
+政府在信中写道，“美国申明自己对信息自由流动和言论自由的支持，不认为主权是反对使用某些词的正当理由，我们对这类主张对程序的完整性带来的后果表示关注。但是，如果各方不能在GAC对这一问题进行表决时达成一致，美国愿意在德班会议上投弃权票并保持中立。”
+One analyst said that while the specific reasons the United States government went along with the rejection were unclear, its position on Internet governance issues had been weakened by the recent leaks of information about a vast digital surveillance program by the National Security Agency. Several countries in South America — though not those in the Amazon basin or the Patagonian region — have offered the leaker, Edward J. Snowden, asylum.
+一名分析人士称，虽然美国政府让抵制域名的决定得以通过的具体原因还不清楚，但是，由于最近美国国家安全局(National Security Agency)大规模的数字监听监视项目被曝光，美国在互联网监管问题上的地位被削弱。南美洲有几个国家提出愿意给泄密者爱德华·J·斯诺登(Edward J. Snowden)提供庇护，虽然这些国家不处于亚马孙盆地、或巴塔哥尼亚地区。
+“It is clear that the leaks of sensitive national security information have severely weakened the U.S. government’s ability to fight for our economic interests and have left the U.S. isolated in the G.A.C.,” said Nao Matsukata, chief executive of FairWinds Partners, a Washington-based consulting firm that specializes in domain name strategy.
+总部位于华盛顿、主要研究域名策略的咨询公司费尔温兹合伙人公司(FairWinds Partners)首席执行官松方直(Nao Matsukata)称，“很明显，国家安全敏感信息的泄露，严重地削弱了美国政府争取我们的经济利益的能力，也让美国在GAC中处于孤立。”
+Milton Mueller, a professor at the Syracuse University School of Information Studies, said there might have been an element of horse-trading. By yielding to a broader consensus on the advisory committee, Washington could have been seeking to shore up broader support for Icann, whose control over the Internet address system has long irked the governments of countries like Russia and China.
+雪城大学(Syracuse University)信息研究学院(School of Information Studies)教授米尔顿·缪勒(Milton Mueller)称，其中可能也有政治交易的成分。通过对该咨询委员会中一个较为广泛的一致意见让步，华盛顿可以稳固对Icann的更广泛的支持。Icann对互联网地址系统的控制，长期以来令俄罗斯和中国等国家不满。
+“My hypothesis is that the U.S. government has been scared to death for some time that if G.A.C. doesn’t get enough of what it wants, governments will give up on the whole Icann regime,” Mr. Mueller said.
+米勒称，“我的假设是，一段时间以来，美国政府很担心会发生的事情是，如果GAC不能得到足够多它想要的东西，各国政府就会放弃整个Icann体制。”

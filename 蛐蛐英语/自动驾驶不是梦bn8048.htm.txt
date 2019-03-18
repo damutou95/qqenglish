@@ -1,0 +1,48 @@
+PALO ALTO, Calif. — Driving around a college campus can be treacherous. Bikes and scooters zip out of nowhere, distracted students wander into traffic, and stopped cars and speed bumps suddenly appear. It takes a vigilant driver to avoid catastrophe.
+加利福尼亚州帕洛阿尔托——在大学校园里开车可能会很危险。自行车和小摩托车会不知从哪儿窜出来，心不在焉的学生晃晃悠悠地走到路中间，还会突然遭遇减速带和停着的车。驾驶员要十分小心才能避免发生灾难。
+Jesse Levinson does not much worry about this when he drives his prototype Volkswagen Touareg around the Stanford University campus here. A computer vision system he helped design keeps an unblinking eye out for pedestrians and cyclists, and automatically slows and stops the car when they enter his path.
+杰西·利文森(Jesse Levinson)在斯坦福大学(Stanford University)校园里驾驶着自己的大众途锐(Volkswagen Touareg)原型汽车时，并不太担心这些问题。他参与设计的一个计算机视觉系统，可以不断地观察行人和骑自行车的人，当他们进入汽车行驶路线时便会自动减速或者停车。
+Someday soon, few drivers will have to worry about car crashes and collisions, whether on congested roads or on empty highways, technology companies and car manufacturers are betting. But even now, drivers are benefiting from a suite of safety systems, and many more are in development to transform driving from a manual task to something more akin to that of a conductor overseeing an orchestra.
+技术公司和汽车制造商断言，不久以后，无论是在拥堵的道路上，还是在空旷的高速公路上，没有几个司机需要再去担心撞车的问题了。即便是现在，司机也可以利用一系列安全系统，将驾驶汽车从手动任务，转变成一种类似指挥家指导交响乐团的事情。还有更多此类系统正在开发当中。
+An array of optical and radar sensors now monitor the surroundings of a growing number of cars traveling the nation’s highways, and in some cases even track the driver’s physical state. Pedestrian detection systems, like the one that Mr. Levinson, a research scientist at Stanford’s Center for Automotive Research, has helped design, are already available in luxury cars and are being built into some midrange models.
+现在，有一系列光学和雷达感应器，可以为公路上行驶的越来越多的汽车监控周遭环境，有些情况下甚至还能追踪司机的身体状态。像斯坦福大学汽车研究中心(Center for Automotive Research)的研究科学家利文森参与设计的这种行人监测系统，已经装配到了豪华汽车上，目前也正在一些中档汽车上安装。
+The systems offer auditory, visual and mechanical warnings if a collision is imminent — and increasingly, if needed, take evasive actions automatically. By the middle of this decade, under certain conditions, they will take over the task of driving completely at both high and low speeds.
+如果即将发生撞车，该系统就会发出听觉、视觉以及机械警报，而且在越来越多的情况下，一旦需要，它还会自动采取规避动作。到这个十年的中期，特定的情况下，这一系统还能在高速和低速行驶中，完全取代人来驾驶汽车。
+But the new systems are poised to refashion the nature of driving fundamentally long before completely autonomous vehicles arrive.
+然而，这种新系统已经准备好了，要从根本上改变驾驶行为的本质，尽管完全自动驾驶的汽车很久以后才会出现。
+“This is really a bridge,” said Ragunathan Rajkumar, a computer science professor who is leading a Carnegie Mellon University automated driving research project partly financed by General Motors. “The driver is still in control. But if the driver is not doing the right thing, the technology takes over.”
+“这实际上是座桥梁，”卡内基梅隆大学(Carnegie Mellon University)自动驾驶研究项目负责人、计算机科学教授拉古纳坦·拉杰库马尔(Ragunathan Rajkumar)称。该研究项目的部分资金由通用汽车(General Motors)提供。“司机依然控制着驾驶。但如果司机操作不当，技术就会取代他去操作。”
+Although drivers — at least for now — remain responsible for their vehicles, a host of related legal and insurance issues have already arisen, and researchers are opening a new line of study about how humans interact with the automatic systems.
+尽管至少是现在，司机仍然要为自己的车辆负责，但还是出现了很多法律和保险方面的问题，研究人员已经开辟了新的研究方向，探究人类与自动驾驶系统的互动方式。
+What the changes will mean to the century-old American romance with the car remains to be seen. But the safety systems, the result of rapid advances in computer algorithms and the drastically falling cost of sensors, are a practical reaction to the modern reality of drivers who would rather talk on the phone and send text messages than concentrate on the road ahead and drive.
+对于美国与汽车之间长达一个世纪的罗曼史，这些变化意味着什么，还有待观察。但面对着现代社会驾车者宁愿打电话、发短信，也不愿关注前方道路的现实情况，安全系统作为计算机算法飞速发展和感应器成本急剧下降的产物，的确是切合实际的应对方式。
+Four manufacturers — Volvo, BMW, Audi and Mercedes — have announced that as soon as this year they will begin offering models that will come with sensors and software to allow the car to drive itself in heavy traffic at speeds up to 37 miles per hour. The systems, known as Traffic Jam Assist, will follow the car ahead and automatically slow down and speed up as needed, handling both braking and steering.
+沃尔沃(Volvo)、宝马(BMW)、奥迪(Audi)和梅赛德斯(Mercedes)这四家汽车制造商已经宣布，最早今年，就会开始在一些车型中装配感应器和相应软件，从而使汽车能在十分拥堵的道路上，以每小时最高37英里（约合60公里）的速度自动驾驶。这个叫作“交通堵塞辅助”(Traffic Jam Assist)的系统将会跟随前面的汽车，根据需要自动加速、减速，并操控刹车及转向。
+At faster speeds, Cadillac’s Super Cruise system is intended to automate freeway driving by keeping the car within a lane and adjusting speed to other traffic. The company has not said when it will add the system to its cars.
+凯迪拉克(Cadillac)的超级巡航(Super Cruise)系统，目的是在更高的速度下，通过让汽车在一条车道上行驶，并根据其他交通情况调节车速，来完成在高速公路上自动驾驶的任务。
+Already actions like steering, braking and accelerating are increasingly handled by computer software rather than the driver.
+现在，像转向、刹车和加速这样的操作，已经可以通过计算机软件而不是司机来完成了。
+“People don’t realize that when you step on antilock brakes it’s simply a suggestion for the car to stop,” said Clifford Nass, a director at the Center for Automotive Research at Stanford. How and when the car stops is left to the system.
+斯坦福大学汽车研究中心主任克利福德·纳斯(Clifford Nass)说，“人们意识不到，他们踩下防抱死刹车时，只是在建议汽车刹车。”至于汽车怎样停车、何时停车，则由系统决定。
+The automobile industry has been motivated to innovate by growing evidence that existing technologies like the antilocking braking systems and electronic stability control have saved tens of thousands of lives.
+有越来越多的证据表明，防抱死刹车系统和电子稳定控制系统等现有技术，挽救了成千上万人的生命。受到这些证据的鼓舞，汽车产业一直都热衷于创新。
+In November, the National Transportation Safety Board recommended that all new cars be equipped with collision avoidance technologies, including adaptive cruise control and automatic braking. Two states — California and Nevada — have passed laws making it legal to operate self-driving cars as long as a human being is inside, able to take over.
+去年11月，美国国家运输安全委员会(National Transportation Safety Board)建议，所有新车都装配防碰撞技术，包括自适应巡航控制和自动刹车。有加利福尼亚和内华达两个州通过了法律，规定只要人在车内，能够接管驾驶权，即可操作自动驾驶汽车。
+The National Highway Traffic Safety Administration recently reported that one system, electronic stability control, or E.S.C., which digitally detects the loss of traction and compensates automatically, saved 2,202 lives from 2008 to 2010. Federal safety regulations began phasing in electronic stability control on small trucks and passenger vehicles in 2007.
+美国国家公路交通安全局(National Highway Traffic Safety Administration)最近报告，一种称为电子稳定控制（electronic stability control，简称ESC）的系统，从2008年到2010年挽救了2202人的生命。这种系统能自动检测牵引力损失，并自动补偿。联邦安全法规从2007年开始逐步推动在小型卡车和乘用车上配备电子稳定控制系统。
+“I think E.S.C. is an amazing piece of technology,” said David L. Strickland, the National Highway Traffic Safety administrator. “And I do think there are a number of new technologies that the agency is looking at right now that have tremendous promise.”
+“我觉得ESC是一项很神奇的技术，”国家公路交通安全局局长戴维·L·斯特里克兰(David L. Strickland)说。“而且我的确认为，交通安全局目前正在关注的多种新技术都有巨大的前景。”
+Innovation and deployment of the crash-resistance technologies accelerated after 2010, with news that Google had a secret program to design self-driving cars. Google has not said whether it intends to sell its vehicles. However, the search engine company has actively lobbied for laws in several states legalizing autonomous automobiles.
+2010年，由于有消息称，谷歌正在实行一项设计自动驾驶汽车的秘密计划，防撞技术的创新和装配出现加速。谷歌尚未表态是否会销售这种汽车，然而这家搜索引擎企业已经在几个州积极游说，要求立法允许自动驾驶汽车。
+Ten automakers have advanced research laboratories based in Silicon Valley. The most recent one was established by Ford Motors in Mountain View, Calif., in June.
+有十家汽车制造商在硅谷拥有先进的研发实验室。其中最近一家是福特汽车(Ford Motors)去年6月在加利福尼亚州山景市建立的。
+Also playing a role in the speed with which safety changes are being made are component suppliers like Bosch and Mobileye, an Israeli company that specializes in cameras mounted to look forward from the car’s rearview mirror, and elsewhere on advanced vehicles.
+在快速进行的安全改动当中，博世(Bosch)和Mobileye等零部件制造商也扮演了一定角色。后者是一家以色列公司，专门制造用于安装在高级汽车的后视镜及其他位置上，拍摄前方的摄像头。
+Adaptive cruise control, known as A.C.C., and self driving are now aided by costly radar-based systems, but that will change with the next generation of low-cost video camera technology, said Amnon Shashua, co-founder, chairman and chief technology officer of Mobileye.
+Mobileye公司共同创始人、总裁兼首席技术官阿姆农·沙书亚(Amnon Shashua)说，自适应巡航控制（adaptive cruise control，简称ACC）和自动驾驶功能，目前需要由昂贵的以雷达为基础的系统进行辅助，但下一代低成本摄像头技术会改变这一点。
+“No radar is needed,” said Dr. Shashua, who is also a professor of computer science at Hebrew University. “This could bring A.C.C. to the masses.”
+“不需要雷达，”沙书亚博士说，“这种技术能把ACC带给大众。”他也是希伯来大学(Hebrew University)计算机科学的教授。
+The actions of drivers, too, are being rethought. When drivers are no longer required to maintain a constant vigil on the road ahead at all times, it will still be necessary to reclaim their attention in emergencies. Dr. Nass is establishing an automotive industry consortium to develop new computerized systems that make it safer to switch back and forth from human to computer control.
+驾驶员的举动也正在被重新考虑。驾驶员不再需要时时刻刻关注于前方的道路，但在紧急情况下，仍然需要他们给予注意力。纳斯博士正在建立一个汽车产业联盟，旨在研发新的计算机辅助系统，从而使得在驾驶员操作和电脑控制之间的切换能够更安全。
+Dr. Rajkumar said he suspected that most Americans were not quite ready for a fully autonomous car.
+拉杰库马尔博士表示，他怀疑大多数美国人还没有准备好接受完全自动驾驶的汽车。

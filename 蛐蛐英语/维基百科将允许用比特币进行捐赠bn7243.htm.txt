@@ -1,0 +1,14 @@
+Bitcoin has found another taker.
+比特币找到了又一个接受者。
+On Wednesday, the Wikimedia Foundation, the nonprofit organization that operates Wikipedia, announced that it would allow people to make donations using Bitcoin, becoming the latest adopter of the virtual currency as a payment option.
+周三，维基媒体基金会（Wikimedia Foundation，简称维基媒体）宣布，该组织将允许人们利用比特币进行捐赠，成为最新一家接受虚拟货币作为付款方式的组织。该基金会负责运营维基百科(Wikipedia)。
+“It has always been important to the foundation to make sure donating is as simple and inclusive as possible,” Lisa Gruwell, the chief revenue officer of Wikimedia, wrote in a blog post announcing the move. The foundation said that it had been asked to accept Bitcoin and that those requests, as well as recent guidelines from the Internal Revenue Service, persuaded it to accept the virtual currency.
+维基媒体首席营收官莉萨·格鲁韦尔(Lisa Gruwell)在博客上宣布了这一决定，称“我们一直确保捐赠方式尽可能地简单、全面，这对基金会非常重要。”维基媒体表示一直有人在要求该组织接受比特币，这些要求及美国国税局(Internal Revenue Service)最近提出的指导意见，说服维基媒体接受这种虚拟货币。
+Like many merchants that have adopted Bitcoin, Wikimedia has teamed up with Coinbase, a third-party payment processor that converts customers’ Bitcoins into dollars. Coinbase, which began with $25 million from the investment firm Andreessen Horowitz, is also working with Overstock, the online travel booking website Expedia and the satellite television provider Dish Network to help them accept the virtual currency. About two weeks ago, Dell announced that customers would be able to make purchases on its website using Bitcoin, claiming to be the biggest retailer yet to do so. In all, about 35,000 merchants use Coinbase’s payment tools, according to the company’s website.
+和很多接受比特币的商家一样，维基媒体已与第三方支付系统Coinbase开展合作，通过该公司将客户的比特币兑换为美元。Coinbase最初接受了风险投资公司安德森-霍洛维茨(Andreessen Horowitz)的2500万美元（约合1.54亿元人民币）投资开始创业。该公司还与Overstock、旅行预订网Expedia、卫星电视公司Dish Network开展合作，帮助它们接受虚拟货币。大约两周之前，戴尔(Dell)宣布，顾客将可以使用比特币在其网站上购买商品，该公司自称是采取此类举措的最大零售商。Coinbase网站显示，使用该公司支付工具的商家总共达到了大约3.5万个。
+In a blog post announcing its partnership with Wikimedia, Coinbase said it would waive the processing fees for all registered nonprofit groups. Typically, companies working with Coinbase pay it a 1 percent processing fee after the first $1 million in sales.
+Coinbase发布博客，宣布与维基媒体开展合作，称公司将免除所有登记注册的非营利组织的手续费。与Coinbase合作的公司在首次达到100万美元的销售额后，通常要支付1%的手续费。
+“The Internet has made it easier for nonprofits to operate by enabling them to increase geographic reach and reduce the overhead required to fund-raise,” the company said. “Adding Bitcoin as a donation option is a natural next step for nonprofits.”
+“网络使非营利组织得以扩大覆盖范围，减少募集资金所需要的经常性开支，使它们的运营变得更加容易，”该公司称，“对于非营利组织来说，将来接受比特币作为一种捐赠方式是一个自然而然的选择。”
+Since it was first introduced by a programmer, or group of programmers, in 2009, Bitcoin has gained popularity, particularly among investment firms and venture capitalists. Two weeks ago, New York became the first state to propose regulations for virtual currency companies.
+自2009年由一名程序员或一个程序员团队推出以来，比特币广受欢迎，尤其受到投资公司及风险投资家的青睐。两周之前，纽约州成为第一个提议制定法规管理虚拟货币公司的州。

@@ -1,0 +1,56 @@
+On a busy road in the center of town here, a string of green lights embedded in the bike path — the “Green Wave” — flashes on, helping cyclists avoid red traffic lights.
+在市中心一条繁忙的街道上，一连串嵌入自行车道的绿灯在闪烁，它们被称作“绿波”(Green Wave)，能帮助骑车人避免遇到红灯。
+On a main artery into the city, truck drivers can see on smartphones when the next light will change. And in a nearby suburb, new LED streetlights brighten only as vehicles approach, dimming once they pass.
+在一条城市主干道上，卡车司机可以通过智能手机查看下一个路口的红绿灯何时发生变化。而在附近的一处郊区，新的LED街灯只有在车辆驶近时才会发亮，一旦车辆驶远，它们就会熄灭。
+Aimed at saving money, cutting the use of fossil fuels and easing mobility, the installations are part of a growing wireless network of streetlamps and sensors that officials hope will help this city of roughly 1.2 million meet its ambitious goal of becoming the world’s first carbon-neutral capital by 2025.
+这些装置的目的是为节约金钱，减少矿物燃料的使用，并让车流更加畅通。它们构成了一个由街灯和传感器组成的、日益庞大的无线网络。官员们希望，此网络能够帮助哥本哈根这座人口大约120万的城市实现其宏伟目标：在2025年之前，成为世界上第一个碳中性的首都。
+Eventually, the network will serve other functions, like alerting the sanitation department to empty the trash cans and informing bikers of the quietest or fastest route to their destinations. It’s all made possible through an array of sensors embedded in the light fixtures that collect and feed data into software.
+最终，这个网络还将发挥其他功能，比如提醒环卫部门清空垃圾桶，告诉骑车人走哪条路最安静或最快捷。这一切之所以能够实现，都是因为灯具内嵌入了一系列可以收集数据、并将其反馈至软件的传感器。
+The system, still in its early stages, has put Copenhagen on the leading edge of a global race to use public outdoor lighting as the backbone of a vast sensory network capable of coordinating a raft of functions and services: whether easing traffic congestion, better predicting where to salt before a snowstorm or, to the alarm of privacy advocates, picking up on suspicious behavior on a busy street corner.
+这套系统目前仍处于早期阶段，却已为哥本哈根在一场全球竞争中，确立了领跑者的地位。这场竞争的核心，就是要将公共户外照明当做一个庞大的传感网络中枢，发挥出协调各类功能与服务的职能：比如缓解交通拥堵、更好地预测暴风雪之前在哪里撒盐，监视繁忙街道拐角处的可疑行为（这一点让隐私权的倡导者担忧）。
+Cities worldwide are expected to replace 50 million aging fixtures with LEDs over the next three years, with roughly half of those in Europe. Some are mainly interested in switching from outmoded technologies to one that uses less energy and can last for decades. But many others want to take full advantage of the LED’s electronics, which are more conducive to wireless communication than other types of lighting.
+预计在未来三年内，世界各地的城市将以LED替换掉5000万个老旧灯具，其中大约有半数的城市位于欧洲。其中一些城市，主要是有意淘汰过时的技术，转而采用可以持续几十年的节能技术；但也有很多其他城市，是想要充分利用LED比其他类型照明更利于无线通信的电子优势。
+Los Angeles, for example, has almost completed the switch to outdoor LED lighting and is using sensors embedded in the pavement to detect traffic congestion and synchronize signals.
+比如说洛杉矶吧，这里已经基本完成了户外照明LED化的转型，目前正用嵌入路面的传感器来检测交通拥堵情况和同步信号。
+And other cities are pushing ahead, as hundreds of pilot programs and dozens of larger-scale installations involving LEDs with network control are underway.
+其他城市也在推进革新。一时间，开启了数百个试点项目，还有数十个大型设备安装工程，涉及那些具有网络控制功能的LED。
+“The technology has ramped up, a lot of players are getting involved in network control and the numbers really proliferated from there,” said Jesse Foote, a lighting industry analyst at Navigant, a research and consulting firm.
+“技术已在飞速发展了，进入网络控制这一领域的玩家人数众多，并且确实还在激增。”调研与咨询公司Navigant的照明行业分析师杰西·富特(Jesse Foote)说。
+Seeing the demand, technology and software companies are scrambling to serve the market.
+见此需求，技术和软件公司开始争先恐后地抓住这块市场。
+“It is now or never,” said Munish Khetrapal, who helps lead so-called smart city efforts at Cisco Systems. “If you lose the opportunity, it’s going to take another 20 years.”
+“过了这个村就没这个店了，”穆尼西·海特拉帕尔(Munish Khetrapal)说，他在思科系统(Cisco Systems)帮忙领导所谓的智慧城市项目，“你要是错过这次机会，就得再等20年。”
+Cisco, which has been pursuing smart city applications for years, is working with more than 100 cities, Mr. Khetrapal said. In October, the company entered a partnership with Sensity Systems, which makes the advanced networks to help connect and coordinate the function of disparate agencies in cities as varied as Chicago, Bangalore, India and Barcelona, Spain.
+海特拉帕尔说，思科多年来一直致力于推进智慧城市技术的应用，目前正和100多个城市开展合作。今年10月，公司与Sensity Systems成为合作伙伴。Sensity Systems专攻网络升级，以协助市内各机构实现职能的对接与协调。其合作城市从芝加哥到印度的班加罗尔和西班牙的巴塞罗那，不一而足。
+IBM and Philips are also aggressively pursuing smart city projects along with lesser-known companies like Silver Spring Networks, which provides networking platforms, software and services for critical infrastructure to utilities and cities and is helping design and operate the traffic and street lighting project here in Copenhagen.
+IBM和飞利浦(Philips)也在热烈拥抱智慧城市项目，一些没那么知名的公司也是如此，比如银泉网络公司(Silver Spring Networks)。它专注于为公用事业和市政机构提供网路平台、软件和关键基础设施服务，目前正协助哥本哈根设计、调试交通和街道照明项目。
+Despite all the activity, no one has yet created a fully integrated network, said Hugh Martin, Sensity’s chief executive. But it is coming, executives and officials say, because city managers are eager to improve services while saving money and energy.
+Sensitivity Systems的首席执行官休·马丁(Hugh Martin)表示，尽管参与者非常活跃，但还没人创造出一个充分集成的网络。不过高管和官员们宣称，这一时刻就要来了。因为市政管理者迫切希望，能在提高服务的同时节约资金和能源。
+“The cities are in a race to deploy smart technology, and in the business of building a platform it’s all about how many nodes are out there,” Mr. Martin said, referring to the individual lights and sensors capable of connecting to a larger network. “It’s a land grab.”
+“城市都在竞相部署智能技术。而建立平台成功与否，就取决于其中总共有多少节点，”马丁表示。他所说的节点，指的是那些能够连接到一个更大网络上的单个灯具和传感器。 “这就好比圈地一样。”
+That dynamic is evident in this bustling yet orderly city where the government is aggressively pursing efficiency upgrades and carbon-emission reductions, and dozens of companies have answered the call. For instance, in Albertslund, a suburb, 25 companies are participating in the Danish Outdoor Lighting Lab, a demonstration project to test and show about 50 different networked street lighting systems.
+在这座繁华而又有序的城市里，政府正在为提高能效、减少碳排放慷慨出资，于是，动力很明显。已有数十家公司响应了号召。举个例子，在阿尔贝特斯隆自治市(Albertslund)的一处郊区，有25家公司正在参与“丹麦户外照明实验室”(Danish Outdoor Lighting Lab)这一示范项目，其中测试并展示了大约50种不同联网路灯照明系统。
+The project, organized by a nonprofit called Gate 21 in collaboration with the Technical University of Denmark and the city of Albertslund, has installed arrays of lights along the streets and bike paths that technicians can control and monitor.
+该项目由非盈利性组织Gate 21与丹麦技术大学(Technical University of Denmark)、阿尔贝特斯隆自治市联合组织，已经沿着机动车道和自行车道安装了一排又一排的灯具，这些灯具可由技术人员控制和监测。
+Spread out over an old industrial area, it is a kind of world’s fair meets high tech showroom that lets government officials from cities all over the world examine different systems in action before deciding what might work at home.
+该项目分布在一片老工业区内，有点像是一场高科技展厅版本的世界博览会，可以让世界各地的市政府官员考察不同系统中的实际运转效果，据此决定自己的城市适合采用哪种系统。
+Even the parking lot is part of the program, with glowing examples of self-powered lighting, including a reed-like streetlamp with solar cells along the post and a small wind turbine on top.
+就连停车场也是项目的一部分，其中明显可以看到自供电照明的例子。比如有一个形似芦苇的路灯，利用灯杆上的太阳能电池和顶部的小型风力涡轮机发电照明。
+“We are moving from a stand-alone, very simple technology to a network where you have all the different things talking to each other,” said Kim Brostrom, the chief technology officer of the project.
+“我们正在从非常简单的单一技术，转型为网络的构建。在这类网络当中，各种不同的东西都可以相互对接，”该项目的技术总监金·布罗斯托罗姆(Kim Brostrom)说。
+In the city center, traffic officials are testing a number of approaches, including one aimed at keeping trucks from making stops as they travel the major roads, which would save on fuel. On a recent morning, Lennart Jorgensen, a longtime city driver, slowed and accelerated his truck as he kept an eye on approaching traffic signals and a bar graph on his smartphone that indicated how soon the light would turn red or green.
+在市中心，交通官员正对许多种方法进行测试，其中一种旨在让行驶于主干道上的卡车不必停车，这样可以节省燃油。最近一天早晨，本市的一名老司机伦纳特·约根森(Lennart Jorgensen)在行驶途中时不时放慢或加快着卡车的速度，同时始终观察着路上渐近的交通信号灯，和智能手机上的一个条形图，图上显示了红绿灯何时会发生变化。
+“It’s very smart,” he said of the system, adding that he did not often need to use a feature that allows drivers to send a signal for priority at intersections. “It costs a lot of money to start the truck up — diesel fuel.”
+“它很智能，”他在谈到这个系统时说，又补充道，还有一个功能，允许司机在交叉路口发送信号，请求优先通过，但他并不经常需要用到这个功能。“启动卡车是很费钱的——用的是柴油。”
+The city is also testing systems to prioritize buses or bikes over cars at intersections during certain hours, and has already installed one that flashes a warning to truck drivers in a right-turn lane when cyclists are present.
+该市还在测试一些系统，可在某些时段让公交车或自行车优先通过交叉路口，而汽车则稍后放行。此外，该市已安装了一个系统，可以向卡车司机闪烁灯光，提醒他们在右转弯的车道上有骑车人。
+But the adoption of the networks has raised concerns as well, particularly from privacy advocates, who say that the potential for misuse is high. The availability and the reach of the networks increase the risk that monitoring — for example, pedestrian movement on a street — can cross the line into tracking one person’s actions, the advocates say.
+但是，网络的构建也引起了一些关注。隐私权倡导者对此尤为担忧，称网络被滥用的可能性很大。网络的可用性和覆盖范围之广，加大了监控行为越界的风险，比方说，原本对街上行人活动的监控，会被利用来跟踪一个人的行动。
+So far, though, in this city, where crime is relatively low, residents have expressed little worry that the government will monitor their behavior. And with biking already the preferred means of transportation for almost half the population, the emphasis on improving the ride is welcome.
+只不过，到目前为止，在这个犯罪率相对较低的城市里，居民们表示并不怎么担心政府会监控他们的行为。况且，骑自行车已成为哥本哈根近半数人口首选的交通方式，因此，着重改善骑车体验的举措是受欢迎的。
+Bjorn Klüver, 33, for instance, gave up his car — at least until the weather turns — in favor of an electric bike to make the 26-kilometer commute to work and back. He also took one of the GPS trackers that transportation workers were handing out on the street one day in the hope of helping the city upgrade the system. He said he had no worries about the increasing use of sensors in general or the tag on his bike, which he bought after participating in a Gate 21 pilot program, because the workers did not take any personal information from him.
+举个例子，比约恩·克卢弗(Bjorn Klüver)现年33岁，他放弃了开车上下班——至少到天气变化之前吧，而选择了骑电动自行车往返这26公里的通勤路程。有一天，他看到交通部门的工作人员在街上分发GPS追踪器，就领了一个，希望帮助市政府提升该系统的效用。他表示自己并不担心传感器总体上日渐广泛的应用，也不担心自己这辆车上装的这个，因为工作人员不会从他那里获取任何私人信息。他那辆车，就是参加过一次Gate 21试点项目后买的。
+“I’m helping, basically, giving them data on my travel times,” he said. “All they know is where the bike is.”
+“可以说，我是在帮忙，我给了他们自己出行时的数据，”他说，“他们只知道我的自行车在哪儿。” 
+Others also praised the efforts, especially the green wave, which other cities, including San Francisco and Amsterdam, have adopted as well. Copenhagen is upgrading the green wave to respond to cycling conditions, as well as developing apps for smartphones and a system that can automatically give groups of five or more cyclists right of way at intersections.
+其他人也称赞了这些举措，尤其是“绿波”。此项技术也被运用在了旧金山、阿姆斯特丹等其他城市。哥本哈根正根据本地的骑行条件升级“绿波”，同时也在开发智能手机的应用程序及一个系统。该系统能自动给予五人及以上的自行车队交叉路口的优先通行权。

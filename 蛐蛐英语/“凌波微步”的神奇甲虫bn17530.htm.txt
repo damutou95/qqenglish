@@ -1,0 +1,34 @@
+Many people long to live near water for the pleasures of swimming, boating, fishing, or just to contemplate.
+很多人渴望临水而居，那样就可以享受游泳、划船、钓鱼的乐趣，或者只沉思默想。
+But, says Manu Prakash, a scientist at Stanford with broad interests, the surface of an alluring lake or pond, the boundary where water meets air, can be far less inviting for certain insects.
+斯坦福大学科学家马努·普拉卡什（Manu Prakash）拥有广泛的兴趣，他说：“即便那些湖泊、池塘让人陶醉，但是水面，即水天相接的地方，却并不怎么讨一些昆虫喜爱。”
+Water is about 100 times as viscous as air, and insects that live on its surface must somehow negotiate movement in both realms. Most seem to choose one or the other. Some, like long-legged water striders, maintain a small measure of distance from the water with a cushion of air that lets them skate on the surface. Others, like whirligig beetles, embrace the water and swim.
+水的黏度是空气黏度的100倍左右，所以在水面生存的昆虫须设法越过交界面，在两个领域内活动。大部分的昆虫选择舍弃其一。一些昆虫，比如长腿水黾与水面保持一定距离，利用空气垫在水面滑行。其他像豉虫的昆虫则选择扎入水中，自由地游动。
+The lily pad beetle, which Dr. Prakash and his colleagues report on in The Journal of Experimental Biology, has evolved a unique solution to moving in water and air at the same time.
+普拉卡什博士和他的同事在《实验生物学期刊》上发表报告称，睡莲甲虫已经进化出了同时在水和空气中活动的独特方式。
+It flies, beating its wings for propulsion much as it would if it were taking off into the air. But it remains tethered to the water by claws at the end of its legs that break through the surface and act as anchors so a strong wing beat won’t unexpectedly lift the beetle.
+睡莲甲虫扇动翅膀，由此获得推力，就像准备飞向空中一般。但同时它大腿末端的爪子穿过水面，像锚一般牢牢钳住，使自己贴近水面，以防因翅膀剧烈的扇动而不小心飞入空中。
+The movement is unusual, a bit like windsurfing, except that rather than having a sail to catch the wind, the beetle uses its wings to generate power.
+这一动作不同寻常，有点像帆板运动。唯一的区别就是，甲虫获取风力的工具并非船帆，而是自己的翅膀。
+Dr. Prakash runs a laboratory devoted to projects as varied as economical paper microscopes, water computers and biophysics. He conducted the study of the lily pad beetle with Haripriya Mukundarajan and Dong Hyun Kim at Stanford and Thibaut C. Bardon of the École Polytechnique in Paris. He described the research as “just good old natural history,” with a large dose of physics.
+普拉卡什博士运营的实验室致力于研究各种各样的项目，比如经济型纸质显微镜、控水计算机以及生物物理学。与他一同研究睡莲甲虫的有斯坦福大学的Haripriya Mukundarajan 和 Dong Hyun Kim，以及巴黎综合理工大学（École Polytechnique）的蒂博·巴尔东（Thibaut C. Bardon）。他把该研究描述为大量利用物理学解释的“不错的古博物学”。
+It began some years ago when he saw, on a pond, “something that moved so fast that I couldn’t actually see it.” He stayed for a couple of hours trying to track the culprit down and finally found the beetle, which eats holes in lily pads and zips from one to the other on the water’s surface.
+这一研究源于普拉卡什数年前在池塘边的观察：“不知是什么东西，移动之快，我还没看清。”他在那里呆了好几个小时，就是为了揪出这个“罪魁祸首”。最终他发现了一只睡莲甲虫，它在一个睡莲叶子上咬出几个洞，然后飞快地跃过水面跳到另一个叶子上。
+He thought its technique was a great way to move around and had a hunch that the physics would be intriguing. And he was attracted, he said, to a creature that had “really claimed this harsh environment.”
+他认为睡莲甲虫掌握了极好的移动技巧，并预感到这一物理现象一定会十分有趣。普拉卡什说，这只“在恶劣环境中宣称了自己领地”的小虫子令他着迷。
+With high speed video and mathematical analysis of the movements and forces involved, the team made several discoveries.
+通过使用高速摄像机，并对相关运动和力进行了数学分析，这一团队得到了一些发现。
+The beetle’s legs repel water, which keeps it afloat, except for claws at their tips, which penetrate the surface of the water and tie it to the surface.
+甲虫的腿击打水面，以此获得浮力，而他们腿部末端的爪子却穿透水面，使自己与水面贴近。
+As the beetle flies, or surfs, the up and down force of its wings and the attachment of the claws make the surface of the water bounce up and down like a trampoline. The tips of the wings almost touch the surface of the water, and the beetle copes with aerodynamics, surface tension and another kind of drag that appears only when the insect is moving faster than about nine inches a second. The beetle actually travels close to a foot a second. It’s called capillary wave drag.
+当甲虫起飞或冲浪之际，它扇动翅膀带来的上下两股力量，以及爪子与水的黏合使得水面起伏不定，就像一个蹦床一样。它的翼尖几乎碰到水面，同时它还应对着各种空气动力、表面张力，而当它移动速度超过9英寸/秒时，它还会受到其他阻力。事实上，甲虫移动速度接近1英尺/秒，它面临着一种叫表面张力波的阻力。
+The whole system, Dr. Prakash said, is “right at the edge of chaos,” mathematically speaking. A chaotic system is one so complicated that given the initial conditions, one can’t predict what is going to happen. One way or another, the beetle manages to navigate this environment.
+普拉卡什从数学分析上来评价时，表示这一系列物理现象“接近混乱”。这一混乱的运动方式设置了甲虫移动的初始条件，它如此复杂以致人们没法预测马上会发生什么。但不管怎样，甲虫成功地实现了航行。
+The self-powered surfing actually demands more energy than fully airborne flight, which the beetle can also do. It seems to prefer this sort of locomotion. Dr. Prakash said that may be because it’s a good way to find new food sources, or because predators haven’t figured it out.
+实际上，自动力冲浪相比纯粹在空中飞行（甲虫也可以飞行）来说要更耗能一些。但似乎它更喜欢这种移动方式。普拉卡什博士说或许这样一来它们更容易寻找新的食物来源，又或者他们自己也尚不明白个中缘由。
+He said that he and his colleagues were now turning to a fly that seemed to do something similar but in the sea. There are, of course, ways that one could imagine applying the findings to robotics, but the research really was done, he said, for pure scientific curiosity.
+普拉卡什博士说，他现在和同事将研究目标转向了一种苍蝇，它似乎和睡莲甲虫有着相似的移动方式，只是它生活在海上而非湖泊。当然，正如人们想象，的确有方法能将实验发现运用于机器人身上。但他说，其实这一研究纯粹是出于对科学的好奇。
+One thing the remarkable beetle did not evolve is a braking system. In the lab, it runs into the edge of a dish and just topples over. On a pond, Dr. Prakash said, they seem to stop the same way.
+普拉卡什博士还指出，这种神奇的甲虫有一点没有得到进化，那便是制动系统。在实验室，它径直冲向了盘状物的边缘并将其撞翻；而在池塘，他似乎也是这样做的。
+“They hit the leaf,” he said.
+ “他们撞向叶子。”他说。

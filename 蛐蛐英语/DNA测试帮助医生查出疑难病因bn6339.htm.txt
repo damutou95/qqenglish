@@ -1,0 +1,44 @@
+Joshua Osborn, 14, lay in a coma at American Family Children’s Hospital in Madison, Wis. For weeks his brain had been swelling with fluid, and a battery of tests had failed to reveal the cause.
+14岁的乔舒亚·奥斯本(Joshua Osborn)躺在美国威斯康星州的美国家庭儿童医院(American Family Children’s Hospital)里，昏迷不醒。几个星期以来，他一直脑部水肿，医生们已经进行了一连串的检测，均未能找到病因。
+The doctors told his parents, Clark and Julie, that they wanted to run one more test with an experimental new technology. Scientists would search Joshua’s cerebrospinal fluid for pieces of DNA. Some of them might belong to the pathogen causing his encephalitis.
+医生告诉他的父母,克拉克(Clark)和朱莉(Julie)，他们想要使用一种实验性的新技术再进行一个测试。科学家们将在乔舒亚的脑脊液中搜索DNA片段，期望能从中找到引起乔舒亚发生脑炎的病原体DNA片段。
+The Osborns agreed, although they were skeptical that the test would succeed where so many others had failed. But in the first procedure of its kind, researchers at the University of California, San Francisco, managed to pinpoint the cause of Joshua’s problem — within 48 hours. He had been infected with an obscure species of bacteria. Once identified, it was eradicated within days.
+奥斯本夫妇同意了，但他们对这个测试能否成功抱有很大疑虑，毕竟之前进行的那么多检测都失败了。然而，首次尝试此类程序，加州大学旧金山分校(University of California, San Francisco)的研究人员就成功地在48小时内查明了乔舒亚的病因。原来，他感染了一种鲜为人知的细菌。在识别出细菌的庐山真面目之后，短短几天之内它就被清除得干干净净。
+The case, reported on Wednesday in The New England Journal of Medicine, signals an important advance in the science of diagnosis. For years, scientists have been sequencing DNA to identify pathogens. But until now, the process has been too cumbersome to yield useful information about an individual patient in a life-threatening emergency.
+《新英格兰医学杂志》(The New England Journal of Medicine)在周三（指6月4日——编注）报道了这一病例，它标志着诊断科学的一个重大进步。多年来，科学家们一直通过DNA测序来识别病原体。但直到现在，要获取对于生命危在旦夕的急诊患者有用的信息，这些程序总是显得过于繁琐。
+Diagnosis is a crucial step in medicine, but it can also be the most difficult. Doctors usually must guess the most likely causes of a medical problem and then order individual tests to see which is the right diagnosis.
+诊断是医疗中的关键步骤，但它可能也是最困难的一步。医生们通常需要大致猜测一下造成某一医疗问题的最可能的原因，然后进行各种单个测试，试试看其中哪个才是正确的诊断。
+The guessing game can waste precious time. The causes of some conditions, like encephalitis, can be so hard to diagnose that doctors often end up with no answer at all.
+猜谜游戏会浪费宝贵的时间。而某些疾病，如脑炎的病因很难诊断，以致到了最后医生们往往还是找不到答案。
+“About 60 percent of the time, we never make a diagnosis” in encephalitis, said Dr. Michael R. Wilson, a neurologist at the University of California, San Francisco, and a an author of the new paper. “It’s frustrating whenever someone is doing poorly, but it’s especially frustrating when we can’t even tell the parents what the hell is going on.”
+在脑炎病例中，“约有60%我们都无法做出诊断”，这篇新论文的作者之一，加州大学旧金山分校的神经学家迈克尔·R·威尔逊(Michael R. Wilson)博士说。“看到有人状况糟糕真令人难过，但更令人沮丧的是，我们甚至无法告诉家长到底出了什么问题。”
+For the last decade, researchers at the university have been working on methods for identifying pathogens based on their DNA. In 2003 Dr. Joseph DeRisi, a biochemist at the university, gained wide attention for using a gene chip called a microarray to identify the coronavirus causing SARS.
+在过去的十年中，该大学的研究人员一直致力于研究根据病原体的DNA来对它们加以识别的方法。2003年，那里的生物化学家约瑟夫·德里西(Joseph DeRisi)博士使用名为微阵列的基因芯片识别出了引起SARS的冠状病毒，赢得了广泛的关注。
+The researchers’ latest method is called unbiased next-generation sequencing. To identify a pathogen, the researchers extract every scrap of DNA in a sample from a patient, which might be blood, cerebrospinal fluid or stool. Then they sift the genetic fragments for those belonging to pathogens.
+研究人员们所采用的最新方法名为无偏倚下一代测序。要识别病原体，研究人员需要从患者样本（如血液、脑脊液或粪便等）中提取出每一小片DNA。然后，他们对这些基因片段进行筛选，找出属于病原体的那些片段。
+The technique already has proved valuable for investigating mysterious disease outbreaks, and a number of scientists have begun to hope it can be adapted to the diagnosis of individual patients’ infections. Rather than test for a suspected pathogen, a doctor could simply run a DNA test that could identify the culprit no matter what it is — virus, bacterium, fungus or parasite.
+现已证明，该技术对于调查神秘的疾病爆发很有价值，许多科学家已经开始寄期望于将它应用于单个患者感染的诊断。医生将不再需要针对一种可疑的病原体进行测试，相反，他只需运行一个DNA测试就可以揪出罪魁祸首——不管它是病毒、细菌、真菌还是寄生虫。
+“It could be one test to rule them all,” Dr. DeRisi said in an interview. But such a test would be useful only if it were fast, and sorting through millions of DNA fragments has been an intensive technological challenge. Playing this match game can take weeks.
+“这样，一个测试就可能解决所有问题，”德里西博士在接受采访时说。但只有在能够快速完成时，这种测试才有实用价值，而对数以百万计的DNA片段进行筛选一直是一项严峻的技术挑战。搞定这种DNA的配对游戏很可能需要数周的时间。
+“The problem is that your critically ill patient will be dead by the time you make a diagnosis,” said Dr. Charles Chiu, a pathologist at the university who collaborates with Dr. DeRisi on diagnostic technologies.
+“麻烦在于，搞不好没等你作出诊断，你所要挽救的危重患者就已经死亡了，”该大学的病理学家，与德里西博士合作研究诊断技术的邱华彦(Charles Chiu)博士指出。
+Dr. Chiu and his colleagues have developed software that rapidly compares DNA fragments with genetic sequences stored in online databases. They describe their new strategy in a second paper published on Wednesday in the journal Genome Research.
+邱博士及其同事们开发了可以将DNA片段与存储于网络数据库的基因序列进行快速比对的软件。他们在周三的《基因组研究》杂志上发表了第二篇论文，介绍了他们的新策略。
+Last July, Dr. DeRisi and Dr. Chiu got a chance to put their methods to the test when they received a call from a research collaborator, Dr. James Gern, a pediatrician at the University of Wisconsin School of Medicine. He asked them to help figure out what was wrong with Joshua Osborn.
+去年7月，德里西博士和邱博士得到一个机会来测试他们的方法：他们的研究合作者之一，威斯康星大学医学院(University of Wisconsin School of Medicine)的儿科医生詹姆斯·格恩(James Gern)博士打来电话，请他们帮忙查明乔舒亚·奥斯本的身体究竟出了什么问题。
+Dr. Gern’s team set about preparing samples of Joshua’s cerebrospinal fluid and serum for testing. Dr. DeRisi’s team received the samples on Aug. 21, and by that evening, the lab’s sequencing machines were working on the first batch of DNA.
+格恩博士的团队准备好了乔舒亚的脑脊液和血清样本以供测试。德里西博士的团队在8月21日收到了这些样本，在那天入夜之前，该实验室的测序仪业已开始处理第一批DNA。
+Two days later, the machines had deciphered the sequences of three million fragments of DNA present in Joshua’s samples. With Dr. Chiu’s software, the team set aside the human DNA fragments and began grinding through DNA databases to identify the other genes.
+两天后，测序仪破译了存在于乔舒亚的样本中的300万个DNA片段的序列。使用邱博士的软件，研究团队把其中的人类DNA片段抛在一边，开始从浩如烟海的DNA数据库中上下求索，识别其他的基因。
+After only 96 minutes, the results appeared on a computer monitor. Joshua’s cerebrospinal fluid contained DNA from a potentially lethal type of bacteria called Leptospira. As dangerous as Leptospira can be, it is readily treated with penicillin.
+仅仅96分钟之后，结果就出现在电脑屏幕上。乔舒亚的脑脊液中含有一种具有潜在致命性的细菌——钩端螺旋体(Leptospira)的DNA。钩端螺旋体虽然危险，但它很容易通过青霉素治疗。
+“It was a very exciting phone call to make to Wisconsin,” Dr. Wilson said. “Not only was there an answer, but there was something they could potentially do about it.”
+“给威斯康星打电话时我们非常兴奋，”威尔逊博士说。“不仅是因为我们找到了问题所在，还因为他们可以采取一些措施来解决它。”
+That afternoon, Joshua started getting large doses of penicillin. The swelling in his brain almost immediately started subsiding, and two weeks after the first test results, Joshua was walking.
+当天下午,乔舒亚开始接受大剂量的青霉素治疗。他脑部的肿胀几乎立即就开始消退，在第一个测试结果出来两周后，乔舒亚已经可以下床行走。
+“I don’t have any headaches anymore,” Joshua said in an interview. “It’s almost like a rebirth.”
+“我已经不再头痛了，”乔舒亚在接受采访时说，“这简直就像是一次重生。”
+Dr. Chiu is now leading a project to develop a DNA-based test for diagnosing the causes of encephalitis and other life-threatening conditions. They also hope to apply it more broadly, as a way to quickly diagnose any infection.
+现在，邱博士正在领导一个项目，目的是开发一种基于DNA的，可诊断脑炎及其他危及生命的疾病病因的测试。同时，他们还希望它能够得到更广泛的应用，譬如作为一种对任何感染进行快速诊断的方法。
+“It’s a demonstration that this technology has arrived,” Dr. DeRisi said. “It can make a difference in real time.”
+“这是一个范例，它显示了这项技术已经来到了我们的身边，”德里西博士说，“这种技术可以即刻发挥作用。”

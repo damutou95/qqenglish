@@ -1,0 +1,52 @@
+Lexie Kinder solves problems during math class, earns gold stars from her teacher and jokes with classmates at her elementary school.
+莱茜·金德(Lexie Kinder)可以在小学的数学课上答题，获得老师奖励的金色星星，和同学们嬉闹。
+All without leaving her living room.
+所有这一切，都可以足不出户在家实现。
+Born with a chronic heart disorder that weakened her immune system and made attending school risky, Lexie, 9, was tutored at her home in Sumter for years. But this spring, her family began experimenting with an alternative — a camera-and-Internet-enabled robot that swivels around the classroom and streams two-way video between her school and house.
+今年9岁的莱茜因患有慢性心脏病，免疫力低下，无法去学校上学。多年来，她一直在位于南卡罗莱纳州萨姆特市的家中接受辅导。今年春天，她的家人开始试用具有摄像头和互联网接入功能的机器人，传送家里与学校的双向视频，代替她在教室间来回活动。
+“She immediately loved the robot,” her mother, Cristi Kinder, said, of the device, called a VGo, which Lexie controls from her home computer. Lexie dressed up the robot, which is about the height of her third-grade classmates, in pink ribbons and a tutu, and she renamed it Princess VGo.
+这种机器人叫做VGo，莱茜的母亲克里斯蒂·金德(Cristi Kinder)说：“女儿一眼就喜欢上了这个机器人。”莱茜通过家里的电脑就能控制它。它差不多和莱茜就读的三年级班的同学们一样高，莱茜给它穿上了芭蕾短裙，绑上了粉红丝带，还给它取名叫VGo公主。
+A small but quickly growing number of chronically ill students — at least 50 across the country — now attend school virtually with what are called “remote presence robots.” The technology is still expensive (a VGo costs $6,000, in addition to $1,200 a year for maintenance and other costs) and imperfect (when the robot loses its Internet connection, it goes lifeless and must be pushed).
+尽管使用这种机器人的人数不多，但是增长却很快。目前美国至少有50例长期患病的学生通过这种“远程临场机器人”(remote presence robots)替身来体验校园生活。不过目前这种技术还很昂贵，一台VGo机器人售价6000美元（约合3.6万元人民币），另外每年还需缴付1200美元的维护费用和其他杂费。同时这种技术尚不完善，一旦互联网连线中断，VGo机器人马上就没有声息了，必须由人推动。
+And despite the fantasies of Lexie’s classmates — “I want a robot so I can stay in bed all day,” one 8-year-old said — such robots are mostly last resorts for children restricted to their houses or hospital rooms.
+莱茜一个8岁的同学幻想说：“我想要个这样的机器人，这样我就能整天在家待在床上了。”但是对于那些只能困在家中或是医院病房里学习的孩子来说，VGo机器人是没有办法的办法。
+As Web-based video becomes more prominent as a teaching tool, special education advocates say these robots are valuable alternatives to tutoring. About 23,000 students across the country are homebound or hospitalized each school year. They might not otherwise interact with classmates or could fall farther behind academically, advocates say.
+随着网络视频成为日渐突出的教学工具，特殊教育工作者指出，用VGo机器人来替代家庭辅导是个极好的选择。每年全美大约有2.3万名孩子只能待在家中或者病房里学习，他们可能没有和其他同学互动的机会，也可能在学业上远远落后于其他同学。
+“Soon, these robots should be the price of an inexpensive laptop,” said Maja Mataric, a computer science professor at the University of Southern California, who studies how robots help children with learning disabilities. “They should make access to education much easier for students who are convalescing.”
+南加州大学(University of Southern California)计算机科学教授玛雅·马塔里奇(Maja Mataric)称：“用不了多久，这类机器人的售价就会像笔记本电脑一样便宜。”马塔里奇教授目前的研究方向是如何通过机器人来帮助有学习障碍的孩子们。她说：“对于正在康复中的孩子来说，VGo机器人让他们更容易获得教育机会。”
+Dr. Mataric’s research focuses on using robots to teach social cues to children with autism. Children adapt far more quickly to the technology than adults and treat the machine like another classmate, she says. During a fire drill at one Texas school, students were so worried about the VGo that they insisted on escorting it out of the building to safety.
+马塔里奇博士的研究旨在使用机器人向自闭症儿童教授社交讯息。她说，孩子们比成人更快适应了这种技术，并把这些机器人当成了自己的同学。在德克萨斯一所学校的消防演习中，孩子们非常担心VGo机器人的安危，坚持要把它安全地护送出校舍。
+The VGo is four feet tall, weighs 18 pounds and is shaped like a white chess pawn, with a video screen on its face. Lexie controls its movement with her computer mouse. Video of the classroom at Alice Drive Elementary School appears on her computer screen, and video of her face appears on the robot’s display screen. The robot and Lexie’s computer support two-way voice communication, and Lexie can flash her VGo’s lights to get the teacher’s attention.
+VGo机器人高约4英尺（约合1.22米），重约18磅（约合8.16公斤），脸上设有屏幕，看上去就像国际象棋中的白方小兵。莱茜在家里通过电脑鼠标控制机器人的一举一动。爱丽丝路小学(Alice Drive Elementary School)课堂的实时影像出现在莱茜家中的电脑屏幕上，而莱茜的影像也通过电脑摄像头传送到机器人的显示屏上，莱茜家中的电脑和这款机器人都支持双向语音功能，莱茜还可以让VGo机器人闪灯来引起老师的注意。
+Since 2007, VGo, based in Nashua, N.H., has been selling the robots to company executives who want to keep an eye on employees while traveling and to doctors, who use it to “visit” patients at different hospitals. Two years ago, it realized schools might be a new market. The first classroom model was sold to a school in Knox City, Tex., to be used by a child with an immune deficiency.
+早在2007年，总部设在美国新罕布什尔州纳舒厄的VGo公司出售的机器人还只是被企业高管们买来用于监督员工，以防自己外出公干时员工偷懒；还有一些需要到不同医院查看病患的医生也用VGo来代劳。直到两年前，VGo公司才意识到学校也许是个新市场。第一台用于课堂的VGo机器人卖给了美国德州诺克斯市的一所小学，代替一名有免疫缺陷的孩子到学校上课。
+The company’s big break came during this year’s Super Bowl. Verizon, which provides the LTE wireless connection for the robot, ran a commercial about a student using VGo. Before the ad, VGo had sold about 10 robots to schools. Since then, they have sold about 40.
+在美国本年度超级碗（国家橄榄球联盟总决赛）期间，该公司实现了重大突破。为VGo机器人提供LTE无线连接服务的Verizon公司将学生使用VGo机器人的过程拍摄成广告播出。在此之前，公司大概销售了10台学生用VGo机器人，而自广告播出以来，公司已售出约40台VGo。
+Most robots are bought with state or local money marked for disabled students, but at some schools, parents have held fund-raising events or bought the robot themselves. In Huntsville, Tex., education officials bought five VGos last year and are planning for five more next year. They named the program Morgan’s Angels after a student with cancer who missed school for six months but was able to attend remotely with the robot’s help.
+大部分VGo机器人是由国家或者地方财政出资为残疾学生购买的，但是在一些学校，也有家长们自己举办筹款会或者自行购买VGo机器人。在德州亨茨维尔，教育部门去年购买了五个VGo机器人，并正计划着明年再买五个。他们把这个项目叫做“摩根的天使”(Morgan’s Angels)。此前一个名叫摩根的孩子因患癌症离校半年，但通过VGo机器人实现了远程学习。
+For students like Connor Flanagan, 14, of Tyngsborough, Mass., the main benefit has been social interaction. He does not go to school because of a rare lung condition, but he has stayed in touch with friends while awaiting a transplant.
+对于马萨诸塞州廷斯伯勒14岁的少年康纳·弗拉纳根(Connor Flanagan)来说，VGo机器人最大的好处在于它带来的社交互动。他因为罹患一种罕见的肺部疾病而无法上学，在等待器官移植的同时，康纳一直与朋友们保持着联系。
+“He walks down the hallway kind of like everybody else,” said his mother, Jennifer Flanagan. “The kids — aside the fact that it was a robot — they treated him like Connor. He’d roll through the room, and you’d hear ‘Hey, Connor. Hi, Connor.’ ”
+“在学校走廊，它走路的样子和人差不多，”康纳的母亲詹妮弗·弗拉纳根(Jennifer Flanagan)说，“尽管它是机器人，但是孩子们都把它当作康纳，当它走过教室，你就会听见孩子们说‘嘿，康纳。你好，康纳。’”
+Parents have raised privacy concerns about children using cameras in class. But Ned Semonite, the company’s vice president for marketing and product management, said it was no different from a smartphone or Web camera.
+孩子们在课堂上使用摄像机的这种情况引发了家长们对于隐私的担忧。但是VGo公司负责营销和产品管理的副总裁内德·塞蒙内特(Ned Semonite)说，它就和使用智能手机或者网络摄像头差不多。
+The greatest logistical challenge is maintaining an Internet connection. Lori Gearhart, of Colesburg, Iowa, said her grandson, Aidan Bailey, 9, was able to use the robot after his lung collapsed last year. His science class was studying insects, and Aidan kept a cocoon in his hospital room. He would show classmates videos of its transformation into a butterfly.
+这款机器人使用时最大的难题就是要保持网络连接畅通。来自艾奥瓦州科尔斯堡的罗莉·吉尔哈特(Lori Gearhart)说，她的孙子艾登·贝利(Aidan Bailey)今年9岁，自从去年肺萎陷以来就一直使用VGo机器人。艾登自然课的内容是观察昆虫，他把虫茧放在病房里。通过VGo双向视频功能将蝴蝶破茧成蝶的这一过程展示给同学们看。
+But other times, she said, the robot, which was bought through a community fund-raising effort for Aidan, could not receive enough of a wireless signal. “It ends up where the classmates have to carry the robot down the hall,” she said.
+吉尔哈特通过社区筹款为艾登购买了这款VGo机器人，但是有时候VGo无法获得足够的无线信号。她说：“一旦连线中断，同学们就只能推着它在走廊里走。”
+In Sumter, Shawn Hagerty, the director of special education programs for the school district, bought a robot after seeing Verizon’s commercial. The teachers set aside a day when students could meet and play with the robot.
+在萨姆特市，学校片区特殊教育项目负责人肖恩·哈格蒂(Shawn Hagerty)在看过Verizon公司的广告后，买了一个VGo机器人。老师们特意留出一天时间让学生们与机器人互动。
+Lexie’s robot has its own desk and charging station against a wall. Ivey Smith, her teacher, said the children had embraced the idea of having a robot in the class and screamed with excitement every time it turned on.
+莱茜的机器人有自己的课桌，充电桩紧靠着墙。莱茜的老师艾维·史密斯(Ivey Smith)说，孩子们都很喜欢这个机器人同学，每次一打开，孩子们都会兴奋地尖叫。
+“I was concerned they would be distracted,” she said. “But within a couple days, they acted like it had always been here. They feel special that there’s a robot in their class.”
+“起初我还担心他们听课时会因此分心，”她说，“但是没过几天，孩子们就对它习以为常了，有个机器人在教室里让他们觉得很特别。”
+On a recent day, Ms. Smith’s class was learning about synonyms. She asked every student to think of a word with the same meaning as the word “glassy.” A moment later, the robot’s pink and green lights blinked, and the class shouted, “Lexie!”
+近日，史密斯老师正在课上教同义词。她要求每个学生都想一下“光滑的”(glassy)这个词的同义词。过了一会，VGo机器人身上粉色和绿色的灯开始闪烁，同学们异口同声地喊道：“莱茜！”
+“My word is ‘shiny,’ ” she said through the video screen.
+“我想到的词是‘光亮的’(shiny)，”莱茜在VGo的显示屏中回答道。
+“Yes, very good,” the teacher replied. “Good answer.”
+“对的，很好，”老师表扬说，“说得非常好。”
+Between classes, Lexie guides the robot down the hallway. At day’s end, she rolls it to a charging station. On the way out of class, one child, Hazel Grace Kolb, waved goodbye to the machine.
+课间，莱茜将机器人远程遥控到走廊上，放学后，她将机器人调回到充电站。一个名叫黑兹尔·格蕾丝·库伯(Hazel Grace Kolb)的小女孩在回家前还和VGo挥手道别。
+“See you tomorrow, robot,” she said.
+“明天见，VGo，”她说。

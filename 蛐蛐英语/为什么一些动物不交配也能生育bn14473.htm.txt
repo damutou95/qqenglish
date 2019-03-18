@@ -1,0 +1,12 @@
+Q. I read that some wild snakes gave birth without mating. How does such a “virgin birth” work?
+问：我看到有文章说，一些野生蛇不交配就能生育。这种“处子生育”是怎么回事？
+A. The development of offspring from unfertilized egg cells is called parthenogenesis.
+答：未受精的卵细胞发育成后代叫孤雌生殖。
+It is common in many invertebrate species that have two sexes for reproduction to occur without input from a male representative. Instead of combining with a male germ cell to form a gamete with half of its DNA from each parent, an egg cell gives rise to the gamete and embryo stages on its own.
+这种情况常见于很多无脊椎物种。这些物种本身分两个性别，但不用雄性代表的参与便能进行繁殖。卵细胞不用和雄性生殖细胞结合，形成来自雄性和雌性的DNA各占一半的配子，而是独立形成配子，并进入胚胎期。
+Only since the late 1800s has it become known that such asexual reproduction also occurs in some vertebrates, including snakes, lizards like the endangered Komodo dragon, birds and even sharks.
+直到19世纪末，人们才发现这种单性生殖也存在于一些脊椎动物中，如蛇、包括濒危动物科莫多巨蜥在内的蜥蜴、鸟类甚至鲨鱼。
+Such births were documented only in captive representatives of these species, like zoo specimens and domestic fowl. Although these births have not been seen in the wild, a 2012 study found strong suggestive evidence that they do in fact happen. The report, in the journal Biology Letters, involved two closely related species of snakes, the copperhead and the cottonmouth.
+文献记录下来的这种生育现象，只发生在被圈养的上述物种中，如动物园里的动物和家禽。尽管尚未在野外发现这种生育，但2012年的一项研究发现，有力的证据表明，它们实际上是存在的。发表在《生物学通讯》(Biology Letters)上的该报告涉及两种关系密切的蛇，分别是铜头蛇和棉口蛇。
+The offspring of two pregnant females collected in the wild showed genetic characteristics that were identical to those of the mothers. The likelihood of this happening if mating had occurred, adding paternal DNA identical to the maternal contribution, is “infinitesimally small,” the researchers said. They concluded that their findings represented the first cases of such parthenogenesis found in the wild.
+在野外收集到的这两种怀孕雌蛇的后代所表现出的遗传特征，与它们的母亲一模一样。研究人员称，如果发生过交配，出现加入了和母系DNA一模一样的父系DNA这种情况的可能性“非常非常小”。他们断定自己的研究结果，是最早发现的野外孤雌生殖。

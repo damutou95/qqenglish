@@ -1,0 +1,38 @@
+Raise your hand if you get this whole Amazon drone thing.
+能理解亚马逊(Amazon)的无人机想法的，请举手。
+By now the next bright idea from Jeff Bezos — that tiny drones will one day be whizzing overhead and dropping Amazon packages at America’s doorsteps — has gone through a few turns of the spin cycle. For many, it sounds like a sci-fi fantasy wrapped in public relations hype, or a total nightmare. Maybe both.
+杰夫·贝佐斯(Jeff Bezos)的下一个高招——有朝一日，你的头顶会盘旋着一些小小无人机，将亚马逊包裹空投到美国人的家门口——已经引起了一轮又一轮的热议。在很多人看来，这似乎是包裹在公关炒作里的一个科幻空想，或者是一个彻头彻尾的噩梦。可能两者皆有。
+To which I say: pizza. (Stay with me.)
+对于这种看法，我要说：披萨。（请听我解释。）
+Most of us take it for granted that we can have a pizza delivered to our door in about 30 minutes. But that kind of routine, hyper-convenience usually ends at the edge of the pizza box. Books, clothes, groceries: It usually takes at least 24 hours, and often two to five business days, for goods like those to be delivered.
+等上30分钟左右就能吃上一张披萨，我们大都对此习以为常。但这种家常便饭一般的极度便利性通常只能在披萨外送上实现。图书、衣服、日用百货：送这种商品通常需要至少24小时，很多时候会长达2到5个工作日。
+Like it or not, e-commerce is changing the way the world shops. It is also changing expectations. Two-day delivery was great then, but this is now. Mr. Bezos is not the only one who says technology will continue to reshape the old-school delivery business just as it has reshaped so much else.
+不管你乐不乐意，电子商务正在改变这个世界的购物方式。同时它还在改变对服务的要求。隔日到达在以前很好，但现在不一样了。科技会像重塑其他东西一样，不断重塑老迈的递送行业，持这种看法的不只是贝佐斯一个。
+Why? In no small part because there is money to be made. Worldwide, e-commerce sales topped $1 trillion last year, according to the research firm eMarketer. Sales growth in the double digits will almost certainly continue through at least 2016. There is going to be a lot more stuff to deliver out there. What we buy on our smartphones in seconds we want on our doorstep in minutes.
+为什么？一个重要原因是这里面有利可图。据研究机构eMarketer的数据，去年全球电商销售额突破了1万亿美元。两位数的增长几乎可以肯定至少会持续到2016年。还会有更多的东西需要递送。我们在手机上花几秒钟买下的东西，我们希望在几分钟后送到门口。
+Even the serious technophiles like Mr. Bezos say delivery drones and their ilk are still years away. Many ordinary people probably think the idea sounds dangerous, maybe even a little creepy, given that these drones will have cameras. So far, the Federal Aviation Administration has resisted the idea. Swarms of computer-guided octocopters? As if the F.A.A. doesn’t have enough to do.
+连贝佐斯这样的科技狂热分子都说，快递无人机这一类东西还要过很多年才能成为现实。许多普通人可能会觉得这个想法挺危险的，甚至可能还有点让人发毛，因为这些无人机会配备摄像机。联邦航空管理局（Federal Aviation Administration，简称FAA）目前是抵制这个想法的。漫天的电脑导航八轴飞行器？还嫌FAA不够忙啊。
+But given the explosive growth of e-commerce, some experts say the shipping business is in for big changes. United Parcel Service, which traces its history to 1907, delivers more than four billion packages and documents a year. It operates a fleet of more than 95,000 vehicles and 500 aircraft. The ubiquitous Brown is a $55 billion-plus-a-year business. And, like Amazon, U.P.S. is reportedly looking into drones. So is Google. More and more e-commerce companies are making a point of delivering things quickly the old-fashioned way — with humans.
+然而，根据电商目前的爆炸式增长，一些专家说，递送行业会有巨大变革。联合包裹服务公司（United Parcel Service，简称UPS）的历史可以追溯到1907年，每年要递送超过400万件包裹和文件。公司拥有超过9.5万台车辆和500架飞机。无处不在的UPS褐色车一年能创下550亿美元的收入。据报道，UPS也和亚马逊一样在研究无人机。谷歌(Google)也是。越来越多的电商公司则在努力用老式的方法——人工递送——将东西更快地送到目的地。
+Some of the dreamers in the technology industry are dreaming even bigger. It won’t be just drones, they insist. Robots and autonomous vehicles — think Google’s driverless car — could also disrupt the delivery business.
+科技产业的一些梦想家正在设想更宏伟的东西。他们坚信无人机只是其中一项。机器人和自动驾驶汽车——参考谷歌的无人驾驶汽车——同样可能在递送行业掀起变革。
+“As cities become more automated, you’re going to start to see on-demand delivery systems that look like small delivery vehicles and can bring you whatever you want to wherever you are,” said Bryant Walker Smith, a fellow at the Center for Internet and Society at Stanford Law School and a member of the Center for Automotive Research at Stanford. “Rather than go to the store to buy some milk, a robot or drone will go to a warehouse and get it for you, then deliver it.”
+“城市正越来越自动化，你将看到类似小型递送载具的随选递送系统，可以将任何东西送到任何地方，”斯坦福法学院互联网和社会中心(Center for Internet and Society at Stanford Law School)研究员、斯坦福汽车研究中心(Center for Automotive Research at Stanford)成员布莱恩特·沃克·史密斯(Bryant Walker Smith)说。“不用去商店买牛奶，机器人或无人机会到一个库房去帮你买，然后送过来。”
+Mr. Smith said these delivery vehicles would come in all shapes and sizes. Some might be able to scurry down alleyways and avoid traffic. Others could be refrigerated to store food.
+史密斯说这种递送载具会有各种形状和大小。有的应该可以在小巷子里穿行，避开交通堵塞。还有的能冷藏食物。
+Brad Templeton, a futurist and a member of the board of the Electronic Frontier Foundation, said the current systems for delivery — “with the exception of pizza” — were too cumbersome and expensive for today’s online shoppers. Autonomous vehicles, including drones, promise a faster, cheaper option.
+电子前沿基金会(Electronic Frontier Foundation)董事、未来主义者布拉德·邓普顿(Brad Templeton)说，目前的递送系统——“披萨例外”——对如今的网络购物者来说太过笨拙和昂贵了。包括无人机在内的自行载具可以给出一个更快、更便宜的选择。
+“The cost of use will be pennies on the dollar compared to today’s delivery systems,” Mr. Templeton said. This, he added, could very quickly eat into the business of many delivery companies.
+“使用成本与现在的递送系统比起来就是个零头，”邓普顿说。他还说，这很快会开始吞噬许多快递公司的业务。
+“None of the horse and carriage companies of the past ended up becoming automobile companies today,” said Mr. Templeton, who is also a consultant on the Google team designing a driverless car.
+“过去的马和马车公司，没有哪一家变成了今天的汽车公司，”邓普顿说，他还是谷歌无人驾驶汽车设计团队的一名顾问。
+The roadblocks, real and potential, are significant. Safety is one worry. Another is current technology. Drones like the ones showcased by Amazon are electric and are estimated to be able to carry only small packages weighing less than five pounds. That means they would not work for most online purchases.
+但要实现它，现实和潜在的障碍都是很大的。安全是其中一个顾虑。还有就是当前的技术。亚马逊展示的那种无人机是电动的，估计只能携带小型包裹，重量不超过5磅（约合2.2公斤）。这意味着多数的网购都是不适用的。
+Hal Bennett, a drone researcher, has a possible answer for that. He wants to build drones powered by tiny jet engines rather than electric ones. He says they could carry 50- and 100-pound packages 45,000 feet up at 250 miles an hour. While his drones are still in a research phase, and very much under wraps, Mr. Bennett said the possibilities were endless.
+针对这个问题，无人机研究者哈尔·本内特(Hal Bennett)可能找到了答案。他想把无人机的动力从电动改为喷气式发动机。他说这样的无人机可以携带50到100磅的包裹，在4.5万英尺（约1.3万米）高空以250英里的时速飞行。他的无人机还处在研究阶段，并且高度保密，但本内特说可能性是无穷的。
+“Imagine you’re climbing around in Yosemite and you decided you want a Burger King hamburger. You just order it on your GPS,” Mr. Bennett said.
+“想象一下，你在约塞米蒂爬山，想要吃个汉堡王的汉堡。你在GPS上订购就行了，”本内特说。
+Many people probably don’t want to imagine that. Drones over El Capitan? Delivering, of all things, fast food?
+很多人可能不想去想象这些。无人机飞越酋长峰？送快递，而且，送的还是快餐？
+Then again, American pizzerias really began routine deliveries only in the 1950s, reflecting the rise of another bit of technology: the automobile. Then, in the ’60s, a man who started out with one pizzeria in Ypsilanti, Mich., came along and made quick delivery a priority. His name was Thomas Monaghan. The company: Domino’s.
+可是，美国披萨店的常规递送服务事实上也是20世纪50年代才开始成形的，那是另一项科技崛起的体现：汽车。而后到了60年代，一个人在密西根州伊普斯兰提开了一家披萨店，以快速递送为首要目标。他的名字叫托马斯·莫纳甘(Thomas Monaghan)。公司叫作：达美乐(Domino’s)。

@@ -1,0 +1,54 @@
+For years before North Korea fired its first intercontinental ballistic missile this week, the Pentagon and intelligence experts had sounded a warning: Not only was the North making faster progress, spy satellite coverage was so spotty that the United States might not see a missile being prepared for launch.
+朝鲜本周首次发射洲际弹道导弹。数年前，五角大楼和情报专家就曾发出警告：朝鲜在取得更快速的进步，间谍卫星覆盖又不稳定，美国可能无法探测到一枚准备发射的导弹。
+That triggered an urgent but quiet search for ways to improve the United States’ early-warning ability — and the capability to strike missiles while they are on the launchpad. The most intriguing solutions have come from Silicon Valley, where the Obama administration began investing in tiny, inexpensive civilian satellites developed to count cars in Target parking lots and monitor the growth of crops.
+这引发了一场紧急但秘密的搜寻行动，以寻找能提高美国早期预警能力的方法，以及当导弹还在发射台上时对它们实施打击的能力。最让人感兴趣的解决方案来自硅谷，奥巴马政府当年就开始在那里投资廉价的微型民用卫星，它们原本被用来统计塔吉特(Target)停车场的车辆和监控作物生长。
+Some in the Pentagon accustomed to relying on highly classified, multibillion-dollar satellites, which take years to develop, resisted the move. But as North Korea’s missile program progressed, U.S. officials laid out an ambitious schedule for the first of the small satellites to go up at the end of this year or the beginning of next.
+五角大楼的一些人对这一举措表示反对，他们习惯依赖造价数十亿美元、高度机密的卫星，它们需要数年时间才能研发出来。然而，随着朝鲜的导弹项目取得进步，美国官员制定了颇为紧迫的时间表，要在今年末或明年初发射第一批小型卫星。
+Launched in clusters, some staying in orbit just a year or two, the satellites would provide the coverage necessary to execute a new military contingency plan called “Kill Chain.” It is the first step in a strategy to use satellite imagery to identify North Korean launch sites, nuclear facilities and manufacturing capability and destroy them pre-emptively if a conflict seems imminent.
+这些卫星是成批发射，有些只在轨道上运行一两年，它们足以覆盖相关范围，以供执行名为“杀伤链”(Kill Chain)的新军事应急计划。这是该项战略的第一步，它利用卫星图像辨认朝鲜的发射点、核设施，了解其制造能力，并在冲突迫近时先发制人地摧毁它们。
+The best chance of countering a strike comes when missiles are still on the ground, awaiting launch or shortly after their engines fire. Even a few extra minutes of warning might save the lives of tens of thousands of Americans — and millions of South Koreans and Japanese who already live within range of the North’s missiles.
+抵御一场袭击的最好时机，是导弹仍在地面上等待发射，或其发动机刚启动没多久的时候。哪怕是提前几分钟发出警告，也可能让数以万计的美国人——以及数以百万计已身处朝鲜导弹射程之内的韩国人和日本人——免于丧命。
+“Kim Jong Un is racing — literally racing — to deploy a missile capability,” Robert Cardillo, director of the National Geospatial-Intelligence Agency, which coordinates satellite-based mapping for the government, said in an interview days before North Korea’s latest launch. “His acceleration has caused us to accelerate.”
+“金正恩正疾速启用导弹能力——真正意义上的疾速，”国家地理空间情报局（National Geospatial-Intelligence Agency，简称NGA）局长罗伯特·卡迪罗(Robert Cardillo)在朝鲜最近一次发射导弹几天前接受采访时说。“由于他加速了，我们也得加速。”NGA是为政府协调卫星测绘工作的机构。
+The timeline for getting the satellites in orbit, which defense officials have never discussed publicly, reflects the urgency of the problem. The missile launch Tuesday by North Korea was initiated from a new site, a mobile launcher at the Pang Hyon Aircraft Factory. Capt. Jeff Davis, a Pentagon spokesman, said the missile “is not one we have seen before” but noted that North Korea had increasingly conducted launches from new locales.
+国防官员从未公开讨论过的让这些卫星进入轨道的时间表，反应出问题的紧迫性。朝鲜周二的试射是在一个新地点进行的，导弹发射自芳岘飞机制造厂(Pang Hyon Aircraft Factory)内的一个移动式发射器。五角大楼发言人杰夫·戴维斯上校(Capt. Jeff Davis)说这枚导弹“是我们以前没见过的”，但他指出朝鲜正越来越多地在新地点发射导弹。
+That mobility is the problem that the new satellites, with wide coverage using radar sensors that work at night and during storms, are designed to address. Less than one-third of North Korea is under spy satellite coverage at a given moment.
+这种机动性正是新卫星旨在应对的问题。相关卫星覆盖范围广，使用了可在夜间和风暴中工作的雷达传感器。目前，在某一给定时刻，只有不到三分之一的朝鲜领土处于间谍卫星的覆盖范围内。
+U.S. intelligence analysts detected indications of an impending launch in the days before the missile firing, according to a spokesman for the Defense Intelligence Agency, Cmdr. William Marks. But even after the launch, the Pentagon misjudged what it was looking at. Minutes after its 37-minute flight ended, the U.S. Pacific Command described the missile as an intermediate-range model, often seen.
+美国国防情报局(Defense Intelligence Agency)发言人威廉·马克斯中校(Cmdr. William Marks)称，朝鲜发射这枚导弹若干天前，美国情报分析师发现了即将发射的迹象。但即便是在发射后，五角大楼还曾误判过自己所看到的东西。导弹历时37分钟的飞行结束后不久，美国太平洋司令部(U.S. Pacific Command)将其描绘为一枚颇为常见的中程导弹。
+Hours later, Secretary of State Rex Tillerson issued a very different conclusion: that the North had tested its first intercontinental ballistic missile, able to reach Alaska.
+几小时后，国务卿雷克斯·蒂勒森(Rex W. Tillerson)发布了截然不同的结论：朝鲜测试了自己的首枚洲际弹道导弹，其射程可达阿拉斯加。
+A week before, the head of the Missile Defense Agency, Vice Adm. James D. Syring, had warned Congress that such a moment was coming.
+一周前，五角大楼导弹防御局(Missile Defense Agency)局长、海军中将詹姆士·D·叙林(James D. Syring)曾警告国会，这样一个时刻即将到来。
+“It is incumbent upon us to assume that North Korea today can range the U.S. with an ICBM carrying a nuclear warhead,” he said in testimony. “I would not say we are comfortably ahead of the threat.”
+“我们有必要认清，今天的朝鲜可以把美国置于搭载核弹头的洲际弹道导弹射程之内，”他在听证会上表示。“我没法说我们对这种威胁早有准备。”
+The commercial radar push is one of several new ways the administration is seeking to counter the North Korean threat. President Donald Trump inherited a secret effort to sabotage the North’s missile launches. But its success has been spotty at best, especially of late.
+加紧利用民用雷达是特朗普用以抵御朝鲜威胁的几种新办法之一。唐纳德·特朗普总统此前接手了一个旨在破坏朝鲜导弹发射的秘密项目。但该项目充其量只是取得了零星成功，近期尤其如此。
+The new satellite initiative builds on technology created more for Wall Street than the Pentagon. From an office in an old Defense Department building within view of the Google campus in California, Raj Shah, director of the Defense Innovation Unit Experimental, or DIUx, is already investing in companies that exploit tiny civilian radar satellites in hopes that the Pentagon can use them by the end of the year, or early in 2018.
+这个新的卫星计划所基于的技术，当初更多是为华尔街而非五角大楼打造的。国防创新实验小组（Defense Innovation Unit Experimental，简称DIUx）组长拉吉夫·沙阿(Rajiv Shah)，已经开始把资金投向一些研制微型民用雷达卫星的公司，以期五角大楼可以在今年底或2018年初用上那些卫星。沙阿的办公室位于国防部的一栋老楼里，从那里可以看到谷歌在加利福尼亚的园区。
+“It’s a very challenging target,” said Shah, a former F-16 pilot in Iraq whose extensive experience in Silicon Valley appealed to Defense Secretary Ash Carter, who set up the unit during Obama’s second term and recruited Shah.
+“这是一个非常有挑战性的目标，”曾在伊拉克做过F-16飞行员，以其在硅谷的丰富经验受到国防部长阿什顿·卡特(Ashton Carter)青睐的沙阿说。卡特在奥巴马的第二个任期内组建了DIUx，并招募了沙阿。
+“The key is using technologies that are already available and making the modifications we need for a specific military purpose,” Shah said.
+“关键在于利用已有的技术，并针对我们的特定军事用途做出改进，”沙阿说。
+His unit made an investment to jump-start the development efforts of Capella Space, a Silicon Valley startup named after a bright star. It plans to loft its first radar satellite late this year. The company says its radar fleet, if successfully deployed, will be able to monitor important targets hourly.
+他领导的小组对硅谷初创企业五车二空间(Capella Space)——以一颗亮星的名字命名——进行了投资，以便启动其研发工作。五车二空间计划于今年底发射自己的首颗雷达卫星。该公司表示，其雷达卫星编队如果部署成功，将可以对重要目标进行每小时一次的监控。
+“The entire spacecraft is the size of a backpack,” said Payam Banazadeh, a founder of the company. Born in Iran, he learned satellite design at the University of Texas and NASA’s Jet Propulsion Laboratory, specializing in miniaturization.
+“整个航天器只有一个背包那么大，”该公司创始人帕亚姆·巴纳扎德(Payam Banazadeh)说。出生于伊朗的他，曾在德克萨斯大学(University of Texas)以及美国航空航天局(NASA)的喷气推进实验室(Jet Propulsion Laboratory)学习卫星设计，主攻小型化。
+Once in orbit, the payload, he added, would unfurl its antenna and solar panels.
+他还表示，装载物一旦进入轨道，就会展开天线和太阳能板。
+“Everything is getting smaller,” Banazadeh said of the craft’s parts. “Even the next version of the satellite is getting smaller.”
+“每样东西都变得更小了，”巴纳扎德谈及航天器的部件时说。“而且下一个版本的卫星会更小。”
+Seeing the early fruits of the Pentagon experiment, the National Geospatial-Intelligence Agency is opening its doors to companies that can supply it with satellite radar data in addition to traditional images. Its outpost, set up this year, is in San Jose, the heart of Silicon Valley.
+看到五角大楼开展的试验所取得的初步成果，NGA也开始向除了可以为其提供传统图像，还能提供卫星雷达数据的公司敞开大门。今年它在硅谷的心脏地带圣何塞设了一个办公室。
+Federal officials rarely, if ever, acknowledge the poor reconnaissance coverage of the North from traditional military satellites. But William J. Perry, the former secretary of defense, recently said in Washington that if the North rolled out a missile to hit the United States or its allies, “there’s a good chance we’d never see it.”
+传统军事卫星对朝鲜的覆盖范围非常有限，联邦官员即使承认过这一点，次数也少得可怜。但前国防部长威廉·J·佩里(William J. Perry)最近在华盛顿表示，如果朝鲜亮出一枚用以攻击美国或其盟友的导弹，“它极有可能是我们以前从未见过的。”
+The new generation of tiny, cheap satellites has made that outcome more achievable. Capella plans to loft its first radar satellite late this year and build as many as 36 orbital radars, within the range the congressional report recommended.
+新一代廉价微型卫星，让朝鲜所取得的进展更容易被监测到。五车二空间计划在今年底发射自己的第一颗雷达卫星，并会建造多达36个轨道雷达——在国会报告建议的范围内。
+In addition to Capella, private companies rushing to make and exploit new generations of small radar satellites include Ursa Space Systems in Ithaca, New York; UrtheCast in Vancouver, Canada; and Iceye in Espoo, Finland. Like many new companies seeking to make small satellites, most have strong ties to Silicon Valley.
+除了五车二空间，还有一些私人公司争相研制新一代小型雷达卫星，其中包括纽约州伊萨卡的Ursa Space Systems、加拿大温哥华的UrtheCast，以及芬兰埃斯波的Iceye。像很多致力于制造小型卫星的新公司一样，它们大多和硅谷有着密切的关联。
+The National Geospatial-Intelligence Agency’s initiative, known as the Commercial Geoint Activity, builds on programs in which the agency bought radar-satellite data from Canada, Italy and Germany as part of its evaluation of the new civilian technologies.
+NGA的计划名为“民用地理空间情报行动”(Commercial Geoint Activity)，是以一些项目为基础的：该机构从加拿大、意大利和德国购买了雷达卫星数据，作为它对这类新型民用技术的评估工作的组成部分。
+Cardillo said the new partnerships could help the United States close the gaps in tracking Kim’s rapidly expanding arsenal of threatening missiles.
+卡迪罗说，这种新的伙伴关系可以帮助美国在追踪金正恩手上越来越多的极具威胁性的导弹方面尽快赶上来。
+“If any of these companies, new or old, can help fill those gaps,” he said, “then I’m interested.”
+“如果这些公司中的任何一家，不论是新公司还是老公司，可以帮助弥合这种差距，”他说，“我会很感兴趣。”

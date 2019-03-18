@@ -1,0 +1,38 @@
+LOS ANGELES — With the help of the technology giants Google and Microsoft, Sony Pictures began distributing “The Interview” online Wednesday after a terror threat led the major theater chains to cancel the film’s release.
+洛杉矶——周三，在科技业巨头谷歌(Google)和微软(Microsoft)的帮助下，索尼电影娱乐公司(Sony Pictures)开始在线发行《采访》(The Interview，又译《刺杀金正恩》)。此前，恐怖威胁导致大型连锁影院取消了放映该片的计划。
+Among the Internet services that offered the film were the Google Play store, Google’s YouTube and Microsoft’s Xbox Video. Sony began showing the film on a website of its own, with help from the technology companies Kernel and Stripe. The film was available to rent for $6 and buy for $15.
+提供这部片子的互联网服务平台包括Google Play商店、谷歌旗下的YouTube和微软旗下的Xbox Video。同时，在科技公司Kernel和Stripe的帮助下，索尼也开始在自家的网站上放映该片。影片的租金是6美元（约合37元人民币），售价则为15美元。
+A day earlier, Sony revealed new plans to release “The Interview” on Thursday in about 200 theaters owned by small chains or independent operators. Sony said that number had grown to about 300. In Manhattan, Lincoln Center’s Walter Reade Theater will begin playing it on Friday.
+早前一天，索尼公布了周四在大约200家影院上映《采访》的新计划。这些电影院的所有方均为小型院线或独立运营商。索尼称，上映该片的影院数量后来增至大约300家。在曼哈顿，林肯中心的瓦尔特·里德剧院(Walter Reade Theater)也将于周五开始放映该片。
+Google and Microsoft joined what had become more a campaign to defend free speech against foreign intimidation than a business initiative. The initial theatrical retreat followed a threat — traced by the F.B.I. to the North Korean government — of 9/11-style violence against theaters that showed the lowbrow comedy, which is about the assassination of North Korea’s ruler.
+谷歌和微软加入的这场活动，已经变得与其说是出于商业目的，还不如说是为了不顾外部恐吓而捍卫言论自由。起初，有人威胁电影院，如果放映这部片子，便会对其发起9·11式的暴力活动，院线方面于是退缩了。美国联邦调查局(FBI)进行了追查，认为威胁源自朝鲜政府。《采访》是部粗俗喜剧，讲述的是刺杀朝鲜领导人的故事。
+“It was essential for our studio to release this movie, especially given the assault upon our business and employees by those who wanted to stop free speech,” Michael Lynton, chairman of Sony Pictures, said in a statement on Wednesday.
+“对我们公司来说，放映这部影片至关重要，特别是考虑到那些想阻碍言论自由的人对我们的业务及员工发起的攻击，”索尼电影娱乐公司的董事长迈克尔·林顿(Michael Lynton)周三发表声明称。
+Eric Schmidt, Google’s chairman, personally helped broker the “Interview” deal, according to a person with knowledge of the discussions, who spoke on the condition of anonymity because the talks were private. Senior Microsoft leaders were also quick to align. But both companies needed time to conduct an extensive assessment of their system capacities and security.
+一名知情人士称，谷歌董事会执行主席埃里克·施密特(Eric Schmidt)亲自出面，帮助促成了放映《采访》的协议。因为相关谈判是私下里进行的，这名人士要求不具名。微软的几名高级领导人也很快加入。不过，两家公司需要一些时间，以对各自的系统容量和安全性进行广泛评估。
+The F.B.I. and Sony’s own forensic experts briefed the technology companies on the nature of the digital intrusion on Sony so that Google and Microsoft could ensure they would not be exposed to the same problem, this person said.
+这名人士称，FBI和索尼自己的鉴证专家向这两家科技公司简要介绍了索尼遭受的数字入侵的性质，以便谷歌和微软能够确保自己不会遇到同样的问题。
+The hacker group that attacked Sony had promised further hostile action if the studio cobbled together an alternate release for “The Interview.” As of Wednesday, it did not seem that the revised plan had prompted any new attack, though pirated versions of the film were already appearing online.
+攻击索尼的黑客团体发誓，如果该公司让发行《采访》的替代方案匆忙上阵，就将采取进一步的敌对行动。截至周三，索尼调整后的放映计划似乎并未引发新的攻击，不过网上已经出现了该片的盗版。
+Google wrote in a blog post that Sony contacted it on Dec. 17, when it first became clear that the film’s planned theatrical release would be scrapped and before irate Hollywood stars and President Obama began criticizing the studio for caving. The Google post said that it was “eager to help — though given everything that’s happened, the security implications were very much at the front of our minds.”
+谷歌发表了一篇博客文章，其中写道，当事情刚刚明朗，影片在院线上映的计划将被取消时，索尼就于12月17日联系到了谷歌。那时，愤怒的好莱坞明星和奥巴马总统尚未开始对索尼的妥协提出指责。谷歌的这篇帖子称，自己“迫不及待地想要帮忙——尽管考虑到已经发生的一切，安全问题是我们首先要考虑的。”
+Brad Smith, Microsoft’s general counsel, wrote in a blog post on Wednesday that “a cyberattack on anyone’s rights is a cyberattack on everyone’s rights, and together we need to defend against it.”
+微软的总法律顾问布拉德·史密斯(Brad Smith)则在周三发布的博客文章中写道，“用网络攻击任何一个人的权利，都是在攻击所有人的权利，我们需要合力抵御这种攻击。”
+He added, however, “We’re not endorsing this movie or any other.”
+不过，他也表示，“我们并不是在为这部或其他任何电影背书。”
+After suffering financially from the diminished theatrical release of “The Interview,” Sony will help its bottom line with the online distribution. Studios have been eager to increase on-demand viewing because they keep as much as 75 percent of that revenue. And although contracts vary, studios receive roughly 50 percent of ticket revenue from movie theaters, with the theater owners keeping the other half.
+在《采访》公映范围缩小带来了财务上的打击之后，索尼将通过在线发行这部片子来增加收入。影业公司一直迫切希望能够增加电影的点播观看量，因为它们最多可以获得其中75%的收入。尽管合同的具体内容可能存在差异，但在影院发行中，影业公司一般可以获得约50%的票房收入，剩下的一半则会流入影院所有方的口袋。
+Sony’s hope is that the Google and Microsoft deals, which do not cover viewing abroad, will serve as an icebreaker for other partners. Last week, the movie studio contacted cable and satellite companies to rent “The Interview” but was rebuffed. Apple similarly refused.
+索尼与谷歌和微软的交易不涉及该片的海外发行。索尼希望这些交易将帮助自己打开局面，与更多的伙伴达成协议。上周，索尼联系了一些有线和卫星电视公司，希望他们可以提供租赁《采访》的服务，但吃了闭门羹。苹果也拒绝了索尼的请求。
+Apple has had problems with the security of its iCloud storage system; celebrities’ individual accounts were hacked in late summer.
+苹果的云存储系统曾经出现过安全问题；今年夏末，一些明星的个人账户遭到了黑客的攻击。
+In its statement, Google said it “could not sit on the sidelines and allow a handful of people to determine the limits of free speech in another country (however silly the content might be).” Google also has business interests in play. YouTube is mostly known for free viewing but has offered a video rental service since 2011. “The Interview” and the surrounding attention could give that service a boost.
+谷歌在声明中表示，它“不能坐视不管，任凭另一国的一小撮人来划定言论自由的界限（无论涉及的内容有多么荒唐）。”此外，谷歌也有商业利益牵涉其中。虽然YouTube最出名的是免费视频，但公司从2011年起就推出了视频租赁服务。《采访》及其引发的关注或许能够为这项服务带来助力。
+Google also gets to one-up Apple on a prominent Hollywood matter.
+此外，通过与索尼合作，谷歌还可以在一个备受关注的好莱坞事件中胜过苹果一筹。
+Sony’s alliance with Google runs counter to recent tension with the movie industry. This month, Google’s general counsel, Kent Walker, criticized the Motion Picture Association of America after the disclosure — in Sony emails that the hackers stole — of a plan by the association to revive an antipiracy bill. Google was perhaps the most aggressive opponent of that unsuccessful legislation.
+与索尼和谷歌的结盟形成反差的是，电影行业最近与谷歌关系紧张。本月，谷歌的总法律顾问肯特·沃克(Kent Walker)对美国电影协会(Motion Picture Association of America)进行了谴责，因为此前，被黑客窃取的索尼的电子邮件显示，协会打算重新推动一部反盗版提案。而谷歌可以说是这项不成功立法的最激烈的反对者。
+“One disappointing part of this story is what this means for the M.P.A.A. itself, an organization founded in part ‘to promote and defend the First Amendment and artists’ right to free expression,’ ” Mr. Walker wrote in a blog post. “Why, then, is it trying to secretly censor the Internet?”
+“这件事令人失望的部分在于，它对美国电影协会本身意味着什么。这个组织创立的宗旨之一，就是‘促进和捍卫宪法第一修正案以及艺术家的言论自由权，’”沃克在博客中写道。“那么，它为何又要试图秘密地审查互联网呢？”
+The movie association fired back, “Google’s effort to position itself as a defender of free speech is shameful.”
+美国电影协会进行了反击，“谷歌摆出了言论自由捍卫者的姿态，这种做法是可耻的。”

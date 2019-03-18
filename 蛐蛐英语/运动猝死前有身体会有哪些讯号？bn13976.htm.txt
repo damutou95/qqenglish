@@ -1,0 +1,62 @@
+The recent death of the tech executive Dave Goldberg, reportedly during a treadmill workout on a vacation, has saddened and rattled the fitness community. The death of Mr. Goldberg, the chief executive of SurveyMonkey and husband of Sheryl Sandberg of Facebook, has left many people wondering if the exercise itself might have triggered a serious health event. Was it a heart attack? Another health problem? An unfortunate accident?
+数月前，科技企业高管戴夫·戈德堡(Dave Goldberg)度假期间在跑步机上锻炼时突然去世的消息，令健身圈的人悲痛之余也引发一片慌乱。戈德堡先生是SurveyMonkey公司的首席执行官，太太是Facebook首席运营官雪莉·桑德伯格(Sheryl Sandberg)；他的死亡让许多人开始怀疑运动本身可能引发严重的健康事件。他究竟是死于心梗，还是其他健康问题？又或者，这只是一场不幸的意外事故？
+While the circumstances surrounding Mr. Goldberg’s death are not fully known, the science on exercise and sudden death is both comforting and troubling. Someone who exercises has a much lower risk of dying from heart disease than someone who doesn’t. At the same time, it’s also true that during exercise, a person has a slightly higher risk of having a heart attack than when he or she is just sitting quietly in a chair.
+虽然戈德堡先生的死亡详情并不完全为外人所知，不过，关于运动和猝死的科学中令人安心和不安的信息兼而有之。与不锻炼的人相比，从事体育锻炼者因心脏病死亡的风险要低得多。另一方面，人在运动时发生心肌梗死的风险比安静地坐在椅子上时略高，这也是事实。
+To learn more about the relationship between exercise and heart risk, I spoke with two experts on the topic: Dr. Michael Blaha, the director of clinical research at the Ciccarone Center for the Prevention of Heart Disease at Johns Hopkins Medicine in Baltimore, and Dr. Paul D. Thompson, the chief of cardiology at Hartford Hospital in Connecticut. Here are edited excerpts from our conversation.
+为了进一步了解运动与心脏病风险之间的关系，我与两位专家讨论了这个话题。他们分别是：巴尔的摩约翰斯·霍普金斯医院Ciccarone心脏病预防中心(Ciccarone Center for the Prevention of Heart Disease at Johns Hopkins Medicine)的临床研究部主任迈克尔·布莱哈(Michael Blaha)博士，以及康涅狄格州哈特福德医院（Hartford Hospital）的心脏科主任保罗·D·汤普森(Paul D. Thompson)博士。以下是我们的对话节录。
+Q.
+问：
+How frequent are heart attacks, especially fatal heart attacks, during exercise?
+在运动时，发生心肌梗死，尤其是致命性心肌梗死的可能性有多大？
+A.
+答：
+Dr. Paul Thompson: They’re quite rare. Back in 1982, we published a study in JAMA, among the first on this topic, I think, where we tallied all of the deaths during jogging that had occurred in Rhode Island over a six-year period. We found that there was about one death for every 15,000 joggers. Since then, other studies have shown approximately the same number of deaths per number of joggers.
+保罗·汤普森博士：这两种情况都非常罕见。早在1982年，我们就在《美国医学会期刊》(JAMA)上发表了一项研究，我想这或许是关于这个主题最早的研究之一。在该研究中，我们合计了6年时间罗德岛州所有的慢跑时死亡案例。我们发现，大约每1.5万名慢跑者中就会有1人死亡。此后的其他研究得出的慢跑者中的死亡率与此大致相同。
+Q.
+问：
+But heart attacks during exercise do occur?
+但是，在运动时确实可能发生心肌梗死，对吧？
+A.
+答：
+Dr. Thompson: Yes, obviously they do. There’s no doubt that exercise substantially reduces the risks over all that someone will develop heart disease, but it doesn’t prevent them altogether. It’s important to understand, too, that deaths during exercise among young people are not usually due to atherosclerosis, but to previously undetected, inherited abnormalities, such as an enlarged heart. In older people, especially men, deaths during exercise are generally due to atherosclerosis, or narrowing of the heart arteries.
+汤普森博士：是的，的确会发生。运动毫无疑问能大大降低患心脏病的总体风险，但它并不能杜绝心脏病。此外，大家需要了解的很重要一点是，年轻人在运动中死亡通常不是因为动脉粥样硬化，心脏肥大等此前未被发现的遗传学异常才是主要的死亡原因。而在老年人，尤其是男性中，运动中的死亡一般是动脉粥样硬化，或心脏动脉狭窄造成的。
+Q.
+问：
+Why would exercise lead to a heart attack in someone who’d been exercising? Wouldn’t they and their hearts be accustomed to the exertion?
+为什么即使是在坚持锻炼的人当中运动也会导致心肌梗死？他们和他们的心脏不是应该已经习惯于体力消耗了么？
+A.
+答：
+Dr. Michael Blaha: Exercise is a form of stress, and like any stress, it stimulates reactions in the cardiovascular system that can abruptly overburden that system, even if it’s withstood those stresses before. The same thing can happen if you get too little sleep, or you’re rushing down the hall to make it to a meeting, or you’re under a lot of mental pressure. We had a doctor here, a woman, who was having a very difficult, busy day and started having pain in her left shoulder, which she ignored. It was a heart attack associated with mental stress. It’s not that there’s something unique about exercise that triggers heart attacks. It’s just another kind of stress.
+迈克尔·布莱哈博士：运动是一种应激形式，像任何应激因素一样，它会刺激心血管系统的反应。有时候会突发性地造成心血管系统超负荷——即使之前它可以承受这些应激压力。如果你睡眠太少，或者急匆匆地冲下大厅赶着开会，又或者正承受着很大的精神压力，都可能发生同样的事情。我们这里有一位女医生，有一天她特别辛苦忙碌，还开始觉得左肩疼痛，但她忽略了这一点。结果这正好就是一次与精神压力相关的心肌梗死。并不是运动中有什么特殊的东西会触发心肌梗死，它只是另外一种应激压力罢了。
+Q.
+问：
+Will an exercise stress test pick up heart problems?
+运动负荷试验(exercise stress test)能否发现心脏问题？
+A.
+答：
+Dr. Thompson: The problem with an exercise stress test is that it identifies any narrowing of the arteries that already exists. But most exercise-induced heart attacks occur because a plaque abruptly ruptures, causes a blood clot and blocks the artery at that moment. An exercise stress test won’t predict these kinds of lurking heart problems. The best prevention is to pay attention to what your body is telling you.
+汤普森博士：运动负荷试验的问题在于它只能发现业已存在的动脉狭窄。但运动引发的心肌梗死大多是因为斑块突然破裂，导致临时出现血栓并阻塞动脉。运动负荷试验无法预测这类潜在的心脏问题。最好的预防方法就是多多注意自己身体发出的警讯。
+Q.
+问：
+So what are the symptoms that someone who exercises should be most aware of?
+那么，人在锻炼的时候应该警惕哪些症状呢？
+A.
+答：
+Dr. Blaha: Obviously, chest pain associated with exercise, especially if it’s persistent; any shortness of breath that you haven’t felt that before; numbness or tingling in your left arm or jaw. Those are the easy warning signs. But there are usually subtler signs, too. I’ve had so many patients tell me, “I just couldn’t run the way I could six weeks ago.” They’ll think that they had a cold. But unusual fatigue is a sign you shouldn’t ignore. If you can’t cover the same distance that you could a little while before, see a doctor. You may have a cold. But you also might not.
+布莱哈博士：显然你需要注意与运动相关的胸痛，尤其是持续性胸痛；此外，如果出现了之前从未有过的气短、左侧手臂或下颚麻木、刺痛等，也需要多加小心。这些身体警讯都比较明显，不过，也有些就没那么容易察觉。有很多患者曾跟我说过：“当时，我只是觉得怎么也跑不到六周前那样的水平了。”他们还以为自己感冒了。但是，异乎寻常的疲劳是种不该被忽视的迹象。如果你发现你跑不了之前那么远，请尽快去看医生。你可能是感冒了，但也可能是出了别的问题。
+A.
+答：
+Dr. Thompson: I tell people, if you have discomfort during exercise that develops anywhere from around your earlobe to your belly button, that could be heart disease. It could be something insignificant, too, but it should be checked.
+汤普森博士：我告诉人们，在运动时，上至耳垂附近下至肚脐周围，这之间的任何部位出现不适都可能是心脏病的体征。当然，也可能只是些微不足道的小毛病，但一旦出现这种情况，你就应该去做下检查。
+Q.
+问：
+Is it fair to say, though, that, over all, the benefits of exercise for the heart — and the rest of the body — outweigh the small risk of a heart attack during a workout?
+尽管如此，但我们可以说，运动对心脏以及身体其余部位的益处远远超过了在锻炼过程中出现心肌梗死的小小风险，对么？
+A.
+答：
+Dr. Blaha: Yes, although I’d argue that what’s really important is not exercise, per se, but fitness, meaning your body’s aerobic capacity. We published a study in February showing that there is no upper limit to the mortality benefits of fitness. The more fit you are, the less likely you are to die early — of a heart attack or anything else. Compared to the benefits of being fit, the transient risk of a heart attack during any given session of exercise is very slight. That doesn’t mean it can’t happen. But it is not a reason to avoid exercise.
+布莱哈博士：没错。不过我认为真正重要的并不是运动本身，而是运动可以健身，也就是你身体的有氧代谢能力。我们在2月发表的一项研究表明，运动健身在降低死亡率方面的效益是没有上限的。你的身体素质越好，你因为心肌梗死或任何其它疾病过早死亡的风险就越小。与健身效益相比，在任何一次特定的运动过程中出现心肌梗死的暂态风险可以说是非常小的。这并不意味着它不会发生，只是不能将其作为摒弃运动的理由。
+A.
+答：
+Dr. Thompson: The way I look at it is that exercise is medicine and it’s wonderful medicine, but like any medicine, it has potential side effects. So do most things. Having sex slightly increases the risk of a heart attack compared to not having sex, since it’s a form of exertion. But that doesn’t mean we should avoid sex. I tell people, if you want to live life as safely as possible, stay in bed alone. But who wants that?
+汤普森博士：在我看来，运动就如同是灵丹妙药，不过，就像任何药物一样，它也有潜在的副作用——世界上的大多数事情都是如此。做爱也会让人劳累，所以与不做爱相比，做爱会稍微增加心肌梗死的风险。但这不代表我们都应该禁欲。我是这么跟人说的：如果你想要生活得尽可能安全，就呆在床上别下来好了。但是，有谁会愿意这样生活呢？

@@ -1,0 +1,50 @@
+SAN FRANCISCO — In July, China unveiled a plan to become the world leader in artificial intelligence and create an industry worth $150 billion to its economy by 2030.
+旧金山——中国于7月公布了一项计划，希望成为人工智能领域的全球领军者，到2030年时创造一个价值1500亿美元（约合9500亿元人民币）的产业。
+To technologists working on AI in the United States, the statement, which was 28 pages long in its English translation, was a direct challenge to America’s lead in arguably the most important tech research to come along in decades. It outlined the Chinese government’s aggressive plan to treat AI like the country’s own version of the Apollo 11 lunar mission — an all-in effort that could stoke national pride and spark agenda-setting technology breakthroughs.
+对于美国从事人工智能的技术专家来说，这份英文版长达28页的文件，是对美国未来数十年中可能是最重要的技术研究领域内领导地位的直接挑战。它概述了中国政府一项积极进取、不遗余力的计划，把发展人工智能当作中国的阿波罗11号登月任务——这项计划同样会激发民族自豪感，并引发决定大局的技术突破。
+The manifesto was also remarkably similar to several reports on the future of artificial intelligence released by the Obama administration at the end of 2016.
+这份宣言和奥巴马政府在2016年年底发布的几份有关人工智能未来的报告极为相似。
+“It is remarkable to see how AI has emerged as a top priority for the Chinese leadership and how quickly things have been set into motion,” said Elsa Kania, an adjunct fellow at the Center for a New American Security who helped translate the manifesto and follows China’s work on artificial intelligence. “The U.S. plans and policies released in 2016 were seemingly the impetus for the formulation of China’s national AI strategy.”
+ “值得注意的是，人工智能已经成了中国领导层的重中之重，且各项事务已迅速启动，”新美国安全中心(Center for a New American Security)参与翻译这份宣言并关注中国人工智能发展的副研究员埃尔萨·卡尼亚(Elsa Kania)说。“美国 2016年公布的计划和政策，似乎是促使中国制定国家人工智能战略的因素。”
+But six months after China seemed to mimic that Obama-era road map, AI experts in industry and academia in the United States say the Trump White House has done little to follow through on the previous administration’s economic call to arms.
+当时中国似乎在模仿奥巴马时代的路线图，但六个月之后，美国业内和学术界的人工智能专家说，特朗普领导的白宫几乎没有采取任何行动，以坚持上届政府保卫经济的呼吁。
+“We are still waiting on the White House to provide some direction” on how to respond to the competition, said Tim Hwang, who worked on AI policy at Google and is now director of the Ethics and Governance of AI Initiative, a new organization created by the LinkedIn founder Reid Hoffman and others to fund ethical research in artificial intelligence.
+在如何应对竞争方面，“我们还在等白宫提供一些方向”，曾在谷歌(Google)从事人工智能政策工作的黄泰一(Tim Hwang)说。他现在是人工智能伦理与管理倡议(Ethics and Governance of AI Initiative)的负责人。该机构是领英的(LinkedIn)创始人雷德·霍夫曼(Reid Hoffman)和另一些人新创立的一个组织，旨在为人工智能领域的伦理研究提供资金。
+China’s embrace of AI comes at a crucial time in the development of the technology and just as the lead long enjoyed by the United States has started to dwindle.
+中国拥抱人工智能之际，正值科技发展的关键时刻，美国长期占据的领先地位已开始缩小。
+For decades, artificial intelligence was more fiction than science. In the past few years, however, dramatic improvements have prompted some of the biggest companies in Silicon Valley and Detroit — and China — to invest billions on everything from self-driving cars to home appliances that can have a conversation with a human.
+在数十年时间里，人工智能与其说是科学，不如说是幻想。然而，过去几年，巨大的进步促使硅谷、底特律以及中国的一些巨头都豪掷数十亿美元，投资能够与人对话的一切产品，从自动驾驶汽车到家用电器。
+AI has also become a significant part of national defense policy as military leaders and ethicists debate how much autonomy we should give to weapons that can think for themselves.
+随着军队领导人和伦理学者讨论我们应该给予能够独立思考的武器多少自主权，人工智能也成了国防政策的重要组成部分。
+U.S. companies like Amazon and Google have done more than anyone to turn AI concepts into real products. But for a number of reasons, including concerns that the Trump administration will limit the number of immigrant engineers allowed into the United States, much of the critical research being done on artificial intelligence is migrating to other countries, including tech hot spots like Toronto, London and Beijing.
+亚马逊和谷歌等美国公司在将人工智能概念转化为真实产品方面做得比其他任何公司都多。但由于担心特朗普政府将限制移民到美国的工程师的数量等因素，人工智能的很多关键性研究正在向其他国家转移，包括多伦多、伦敦和北京等科技热点城市。
+To China’s growing tech community, driving the industry’s next big thing — a mantra of Silicon Valley — is becoming a tantalizing possibility.
+对中国日益繁荣的科技界来说，推动实现该行业的下一件大事——“下一件大事”是硅谷的口头禅——正成为一种诱人的可能性。
+“Thanks to the size of the market and the rapid experimentation, China is going to become one of the most powerful — if not the most powerful — AI countries in the world,” said Kai Fu-Lee, a former Microsoft and Google executive who now runs a prominent Chinese venture capital firm dedicated to artificial intelligence.
+“凭借庞大的市场规模和快速实验，中国将成为人工智能强国之一，甚至是最强大的人工智能大国，”前微软和谷歌高管李开复说。他现在经营着一家致力于人工智能的中国知名风险投资公司。
+The 2016 AI reports were shepherded by President Barack Obama’s Office of Science and Technology Policy.
+2016年的人工智能报告是由贝拉克·奥巴马总统的科技政策办公室(Office of Science and Technology Policy)领导撰写的。
+The OSTP, which has overseen science and technology activities across the federal government for more than four decades, is now run by deputy chief technology officer Michael Kratsios. He had worked as a Wall Street analyst before serving as chief of staff for an investment fund run by Peter Thiel, a venture capitalist who supported Trump’s presidential run. The administration has yet to name an office director or fill four other assistant posts.
+四十多年来，该办公室一直负责监管联邦政府的科学和技术活动。现在，该办公室由副首席技术官迈克尔·克拉特西奥斯(Michael Kratsios)管理。此前，他担任过华尔街的分析师，后来担任过彼得·蒂尔(Peter Thiel)运营的投资基金的幕僚长。蒂尔是一位风险投资者，曾支持特朗普竞选总统。特朗普政府尚未任命该办公室的主任，也没有填补其他四名助理的空缺。
+In a recent interview, Kratsios was adamant that any concerns over the administration’s approach to AI were unfounded.
+前不久，克拉特西奥斯在接受采访时坚决表示，对现任政府在人工智能方面的做法的任何担忧都是没有根据的。
+“The key thing to remember is that the front line of AI policy is at the agencies,” he said. “The White House is a convener and a coordinator.”
+“要记住，最重要的是，人工智能政策的前线是在各个政府机构，”他说，“白宫只是召集者和协调者。”
+In an echo of plans laid out by the Obama administration, China’s government said it intended to significantly increase long-term funding for AI research and develop a much larger community of AI researchers.
+作为对奥巴马政府计划的回应，中国政府表示，它计划大幅增加人工智能研究的长期资金，培养一个规模更大的人工智能研究群体。
+There are several ways to do that, according to the Obama administration and China. First, educate more students in these technologies. Second, recruit experts from other countries.
+据奥巴马政府和中国政府称，有几个方法可以帮助实现这个目标。首先，培养更多的学生学习这些技术。第二，从其他国家招募专家。
+At the same time, both policy statements urged companies to share more technology and data. Huge pools of data are needed to “train” AI systems, and in the United States much of this is locked up inside companies like Facebook and Google. Lee said China has an enormous advantage here because its large population will generate more data and its companies are more willing to share.
+与此同时，两国的政策声明都敦促企业分享更多的技术和数据。“训练”人工智能系统需要大量数据，而在美国，很多数据被封锁在Facebook和谷歌等公司的内部。李开复表示，中国在这方面拥有巨大的优势，因为中国庞大的人口将产生更多的数据，而中国企业也更愿意分享。
+Artificial intelligence has been a focus of Chinese technologists for some time. By 2013, China was producing more research papers than the United States in the area of “deep learning,” the key technology driving the rise of AI, according to the Obama reports. Deep learning, which allows machines to learn tasks by analyzing vast amounts of data, is one of the key technologies driving the rise of artificial intelligence.
+人工智能成为中国科技专家关注的焦点已经有一段时间了。根据奥巴马的报告，到2013年，中国在“深度学习”领域发表的研究论文数量超过了美国——深度学习可以让机器通过分析大量数据来进行学习，是推动人工智能崛起的关键技术之一。
+It is unclear how much China as a whole is spending. But one Chinese state has promised to invest $5 billion in AI, and the government of Beijing has committed $2 billion to an AI development park in the city. South Korea has set aside close to $1 billion of its own. Canada, home to many of the top researchers in the field, has committed $125 million to, in part, attract new talent from other countries.
+尚不清楚中国目前在这方面的整体支出是多少。但中国的一个省政府曾承诺在人工智能方面投资50亿美元，北京政府已承诺向该市的一个人工智能开发园区投入20亿美元。韩国向这方面拨款近10亿美元。加拿大是该领域许多顶尖研究人员的所在地，它承诺投资1.25亿美元，部分用于吸引其他国家的新人才。
+It is also difficult to say just how much the U.S. government is spending. Government organizations like the Intelligence Advanced Research Projects Activity, the National Institute of Standards and Technology, and the National Science Foundation continue to fund new research in universities and the private sector. According to an OSTP report, the federal government spent about $1 billion a year in 2015. The Trump administration says spending jumped to $3 billion in 2017. But the current administration said that was not an apples-to-apples comparison to the 2015 tally, because it was not certain how the Obama administration made it calculations.
+很难估量美国政府目前的投资额到底是多少。美国情报高级研究计划署(Intelligence Advanced Research Projects Activity)、美国国家标准与技术研究所(National Institute of Standards and Technology)和美国国家科学基金会(National Science Foundation)等政府机构继续资助大学和私营部门的新研究。根据科技政策办公室的报告，2015年，联邦政府在这方面的支出约为10亿美元。特朗普政府表示，2017年的支出飙升至30亿美元。但本届政府表示，无法与2015年的统计进行可行的比较，因为它不确定奥巴马政府是如何计算的。
+“We may have a bunch of small initiatives inside the government that are doing good, but we don’t have a central national strategy,” said Jack Clark, a former journalist who now oversees policy efforts at OpenAI, the artificial intelligence lab co-founded by Elon Musk, Tesla’s chief executive. “It is confusing that we have this technology of such obvious power and merit and we are not hearing full-throated support, including financial support.”
+“我们可能有些在政府内部行之有效的小型动议，但我们没有一个核心的国家战略，”杰克·克拉克(Jack Clark)曾任新闻记者，现负责监管由特斯拉首席执行官埃隆·马斯克(Elon Musk)参与创立的人工智能实验室OpenAI的政策工作，他说。“令人困惑的是，我们所拥有的技术有着如此显而易见的力量和价值，我们却得不到全力支持，包括资金支持。”
+The Trump administration’s budget for 2018 aims to cut science and technology research funding across the government by 15 percent, according to a report from the American Association for the Advancement of Science.
+据美国科学促进会(American Association for the Advancement of Science)的一份报告显示，特朗普政府2018年的预算将在政府各部门内削减15%的科技研究资金。
+“They are headed in precisely the wrong direction,” said Thomas Kalil, who led OSTP’s Technology and Innovation Division under Obama. “That is particularly concerning given that China has identified this as a strategic priority.”
+“他们正好是在往错误的方向走，”曾在奥巴马手下领导白宫科技政策办公室(OSTP)技术与创新部门的托马斯·哈利勒(Thomas Kalil)说。“鉴于中国已经将其列为战略重点，这就尤其令人担忧了。”

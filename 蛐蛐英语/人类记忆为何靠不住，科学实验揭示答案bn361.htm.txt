@@ -1,0 +1,32 @@
+The vagaries of human memory are notorious. A friend insists you were at your 15th class reunion when you know it was your 10th. You distinctly remember that another friend was at your wedding, until she reminds you that you didn’t invite her. Or, more seriously, an eyewitness misidentifies the perpetrator of a terrible crime.
+人类记忆的错漏百出是众人皆知的。一个朋友会坚持认为，那是你参加的是第15次班级聚会，但你知道那是第10次。你会清楚地记得，另一个朋友出席了你的婚礼，直到她提醒你，你根本没邀请她。或者，更严重点的，目击者错认了一起大案的凶犯。
+Not only are false, or mistaken, memories common in normal life, but researchers have found it relatively easy to generate false memories of words and images in human subjects. But exactly what goes on in the brain when mistaken memories are formed has remained mysterious.
+虚假或错误的记忆不仅在日常生活中很常见，而且研究人员已经发现，在人类受试者身上制造有关言语和画面的虚假记忆相对而言很容易。但错误记忆形成时，大脑究竟发生了什么依然是个迷。
+Now scientists at the Riken-M.I.T. Center for Neural Circuit Genetics at the Massachusetts Institute of Technology say they have created a false memory in a mouse, providing detailed clues to how such memories may form in human brains.
+现在，麻省理工学院（Massachusetts Institute of Technology，简称MIT）理化学研究所—麻省理工学院神经回路遗传研究中心(Riken-MIT Center for Neural Circuit Genetics)的研究人员表示，他们已在小鼠身上制造了虚假记忆，这为类似的记忆是如何在人脑中形成提供了详细线索。
+Steve Ramirez, Xu Liu and other scientists, led by Susumu Tonegawa, reported Thursday in the journal Science that they caused mice to remember being shocked in one location, when in reality the electric shock was delivered in a completely different location.
+周四，利根川进(Susumu Tonegawa)带领的史蒂夫·拉米雷(Steve Ramirez)、刘旭（音译）等科学家在《科学》(Science)期刊上报告称，他们让小鼠记住在一个地方遭受了电击，但事实上却是在一个完全不同的地方进行电击的。
+The finding, said Dr. Tonegawa, a Nobel laureate for his work in immunology, and founder of the Picower Institute for Learning and Memory, of which the center is a part, is yet another cautionary reminder of how unreliable memory can be in mice and humans. It adds to evidence he and others first presented last year in the journal Nature that the physical trace of a specific memory can be identified in a group of brain cells as it forms, and activated later by stimulating those same cells.
+曾因在免疫学领域的贡献而获诺贝尔奖的利根川进博士称，这一发现再次警示我们，小鼠和人类的记忆可以是多么的不可靠。他也是皮考尔学习和记忆研究所(Picower Institute for Learning and Memory)的创始人，理化学研究所-麻省理工学院神经回路遗传研究中心是该所的一部分。去年，他和几位科学家在《自然》(Nature)期刊上公布的证据表明，一项特定的记忆在形成时，它的物理痕迹能在一组脑细胞中找到，而且过后可以通过刺激那些细胞来激活那些痕迹。而新发现再次证实了这一点。
+Although mice are not people, the basic mechanisms of memory formation in mammals are evolutionarily ancient, said Edvard I. Moser, a neuroscientist at the Norwegian University of Science and Technology, who studies spatial memory and navigation and was not part of Dr. Tonegawa’s team.
+挪威科技大学(Norwegian University of Science and Technology)的神经系统科学家爱德华·I·莫泽(Edvard I. Moser)说，尽管小鼠不是人，但从进化角度来说，哺乳类动物基本的记忆形成机制在远古时期便已成型。他是研究空间记忆和导向的，不属于利根川进领导的团队。
+At this level of brain activity, he said, “the difference between a mouse and a human is quite small.” In both, memories form in an area of the hippocampus called the dentate gyrus.
+他说，在这种水平的大脑活动上，“小鼠和人之间的区别非常小”。在小鼠和人身上，记忆都是在海马体中一个叫“齿状回”的区域形成的。
+“What I find fascinating about this,” Dr. Moser said, “is that you actually can point to a physical substrate to memory,” what the researchers call an engram. Neuroscientists have long talked about engrams, but Dr. Moser said the recent research is the closest they have gotten to pointing to a spot in the brain and saying, “That is the memory.”
+“我发现这其中有意思的是，”莫泽博士说，“你实际上可以指出记忆的物理基质”，也就是研究人员所说的记忆痕迹。长期以来，神经系统科学家一直在讨论记忆痕迹，但莫泽博士称，这项最新研究是离他们指着大脑的某个地方说“这就是记忆”最近的了。
+In the research reported Thursday, Dr. Tonegawa’s team first put mice in one environment and let them get used to it and remember it. They identified and chemically labeled the cells in the animals’ brains where that memory was being formed. The mice were not shocked in that environment.
+在周四发布的这项研究中，利根川进博士带领的团队首先把小鼠放在一个环境里，让它们适应并记住这一环境。他们找出了鼠脑中形成记忆的细胞，并用化学方法对它们进行了标记。在这个环境里，小鼠没有受到电击。
+A day later, in a completely different environment, the researchers delivered an electric shock to the mice at the same time that they stimulated the previously identified brain cells to trigger the earlier memory.
+一天之后，研究人员在另一个完全不同的环境中对小鼠进行了电击。与此同时，为了唤起小鼠早先的记忆，他们还刺激了之前标记出来的那些脑细胞。
+On the third day, the mice were reintroduced to the first environment. They froze in fear, a typical and well studied mouse behavior, indicating they remembered being shocked in the first environment, something that never happened. The researchers ran numerous variations of the experiment to confirm that they were in fact seeing the mice acting on a false memory.
+第三天，小鼠又被带到了第一个环境中。它们因为害怕而一动不动，这种小鼠的典型行为已经经过了详实的研究，表明它们记得自己曾在第一天的环境中受过电击，虽然这件事情根本不曾发生过。研究员又以此次试验为基础，进行了大量不同的试验，以确定他们所见到小鼠的反应确实是建立在错误的记忆之上。
+The tools of optogenetics, which are transforming neuroscience, were used to locate and chemically label neurons, as well as make them susceptible to activation by blue light transmitted by a fiber optic cable. With these techniques the researchers were able to identify and label which neurons were involved in forming the initial memory of the first environment, and to reactivate the labeled cells a day later with light.
+光遗传学工具正在改变神经系统科学，研究人员利用这些工具给神经元定位、用化学方法标记神经元，还使神经元易于受到光纤传输蓝光的激活作用的影响。在这些技术的帮助下，研究员能够识别并标记曾在第一个环境中参与形成最初记忆的神经元，并在第二天用光再次激活那些做过标记的细胞。
+Dr. Tonegawa said that because the mechanisms of memory formation are almost certainly similar in mice and humans, part of the importance of the research is “to make people realize even more than before how unreliable human memory is,” particularly in criminal cases when so much is at stake.
+利根川进博士说，因为小鼠和人类的记忆形成机制几乎确定无疑地具有相似性，这项研究的重要性部分就在于“能使人们进一步认识到，人类的记忆是多么不可靠，”尤其是在处理影响重大的刑事案件之时。
+That unreliability, he said, prompts a question about evolution: “Why is our brain made in such a way that we form false memories?”
+他说，这种不可靠性对进化提出了质疑：“为什么人类大脑是这样的，会形成错误的记忆？”
+No one knows, he said, but he wonders if it has to do with the creativity that allows humans to envision possible events and combinations of real and imagined events in great detail. That rich internal experience fuels work in the arts and sciences and other creative activities, he said. “Unless you have that kind of ability, there is no civilization,” he said.
+他说，没人知道，但他猜想，这或许与人类的创造力有关。正是因为这种创造力，人类才能够想象可能出现的事，并且描绘出细节丰富的真实与想象场景的结合。他说，这种丰富的内在体验能够帮助艺术、科学以及其他创造性领域的工作。他说，“如果人类没有这种能力，就不可能产生文明。”
+But it could also provide raw material for false memories — a possible “tradeoff for this tremendous benefit.”
+但是，它也可能会给错误的记忆提供原材料——可能这也是为“这种巨大好处付出的代价”。

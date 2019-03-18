@@ -1,0 +1,34 @@
+NASA said Thursday that its celebrated planet-hunting Kepler spacecraft, which broke down in May when a reaction wheel that controls its pointing failed, could not be fixed and would never again search for planets around other stars.
+美国国家航空航天局(NASA)周四宣布，5月份停运的用于探测行星的开普勒(Kepler)太空望远镜无法修复，再也不能在其他恒星周围寻找行星了。5月，这架著名的太空望远镜上，一个用于固定方向的反作用轮出现故障。
+The disappointing news brings to an end, for now, one phase of the most romantic of space dreams, the search for other Earths among the exoplanets of the Milky Way. NASA has already asked astronomers for ideas on how to use the hobbled spacecraft, whose telescope is in perfect shape.
+在银河系里的太阳系外行星中寻找其他的地球，是人类最浪漫的太空梦，而这个令人失望的消息，会暂时给梦想的一个阶段画上句号。NASA已经要求天文学家献计献策，思考如何使用这座出了故障的宇宙飞船，它的望远镜功能依然完好无损。
+Even as they mourned the end of Kepler, astronomers said its legacy would continue as they worked their way through a trove of data the spacecraft has gathered.
+虽然天文学家们对于开普勒这样的结局深感遗憾，但他们表示，它的遗产将继续发挥作用。天文学家们正在整理研究开普勒所收集的大量数据。
+At last count, Kepler had discovered 3,548 possible planets, and 135 of them — some smaller than the Earth — have been validated by other observations, including earthbound telescopes. But hundreds or thousands more are in the pipeline, said William Borucki of NASA’s Ames Research Laboratory in Mountain View, Calif., Kepler’s originator and principal investigator.
+根据最后一次统计，开普勒在停运之前已发现了3548个可能是行星的目标，其中135个——其中一些比地球小——已通过包括地球望远镜等各种观测手段得以确认。位于加利福尼亚州山景市的NASA艾姆斯研究中心(Ames Research Laboratory)的威廉·博鲁茨基(William Borucki)说，但是天文学家们正在努力确认数百、上千个更多行星。博鲁茨基是开普勒项目的创始人和首席研究员。
+“The most exciting discoveries are going to come in next few years as we search through this data,” Mr. Borucki said on Thursday in a telephone news conference. “In the next few years we’re going to be able to answer the questions that inspired Kepler: Are Earthlike planets common or rare in the galaxy?”
+“仔细研究这些数据，我们将会在未来几年内得到最激动人心的发现，”博鲁茨基周四在一场通过电话举行的新闻发布会上说道。“启发开普勒项目的是这样一个疑问：在银河系，类地行星到底是常见的还是稀有的，而未来几年，我们就能够回答这个问题了。”
+Kepler was launched into an orbit around the Sun in March 2009. Its official mission was to determine the fraction of stars in the galaxy that harbor Earthlike planets by carrying out a survey of some 150,000 stars in the constellations of Cygnus and Lyra, looking for the dips in starlight caused by planets passing, or transiting, in front of their suns.
+2009年3月，开普勒发射升空，环绕太阳运行。它正式的任务是对天鹅座(Cygnus)和天琴座(Lyra)的大约15万颗恒星进行观测，寻找行星掠过所环绕恒星时导致的星光衰减，以便确定拥有类地行星的恒星在银河系中所占比例。
+Three dips, or transits, are considered the criteria for a planet candidate, which means the Earth or a planet in a similar orbit that was habitable would take three years to show up. Accordingly, Kepler was designed to operate for four years, but other sunlike stars turned out to be more jittery in their output than expected, making the detection of Earth analogues more difficult. Since astronomers could learn a lot more from Kepler if it went on collecting data, the decision was made last year to extend the spacecraft’s mission for three more years, until 2016.
+三次星光衰减，或者说“凌日”，会被认为符合行星的标准，这就意味着地球或一个适宜居住并处于相似轨道的行星，需要三年时间才能得到识别。因此，按照设计，开普勒本应运行四年，但其他类日恒星的亮度却没有预期的稳定，使得探寻类地行星更加困难。如果开普勒继续收集数据，天文学家就可以得到更多信息，因此科学家们去年决定将开普勒的运行时间延长三年，到2016年结束。
+Among its finds were a planet nicknamed Tatooine, after the “Star Wars” planet with two suns, otherwise known as Kepler 16b, the first one found that orbits two stars at once. Another was the so-called Styrofoam planet, which is again half as large as Jupiter but so puffed up by the heat of its star that it is only one-tenth as dense.
+在开普勒的所有发现中，有一个被称为“塔图因”(Tatooine)的行星，以《星球大战》(Star Wars)中一颗围绕着两颗恒星运转的行星命名，它还有一个名字叫“开普勒16b”(Kepler 16b)，是迄今为止人类发现的第一颗同时绕两颗恒星运行的行星。还有一个则是所谓的“泡沫塑料”(Styrofoam)行星，它大概有木星的一个半那么大，但由于它环绕的恒星发出的热量而膨胀了起来，密度只有木星的十分之一。
+The closest Kepler has come to finding another Earth was in April, when the team discovered a pair of planets about half again as big as the Earth orbiting a yellow star, now known as Kepler 62, that is 1,200 light years away. Both planets reside in the “Goldilocks” zone where temperatures should be lukewarm and suitable for liquid water and thus life as we imagine it.
+4月，开普勒找到了最接近另一个地球的目标。那时该团队发现了两个行星，大小约为地球的一个半，环绕一颗黄色恒星，该恒星现已称为“开普勒62”(Kepler 62)，距离地球1200光年。两颗行星都位于“适居带”(“Goldilocks” zone)，那里温度适中，适合液态水的存在，因此也适合我们所知生命的存在。
+By then, however, Kepler was already in trouble.
+然而，那时开普勒已经开始出现问题。
+In order to do its job of precisely monitoring starlight, Kepler has to keep pointing accurately enough so that each star in the field of view stays on the same pixel in the detector, equivalent to pinpointing a soccer ball in Central Park as seen from San Francisco.
+为了完成精确监测星光的任务，开普勒必须保持足够精准地指向，以便使视野内的每颗恒星能够停留在探测器的同一像素上，这相当于从旧金山精确指出纽约中央公园里的一只足球。
+Kepler was launched with four reaction wheels, essentially gyroscopes, of which three are needed to keep it pointed. Last summer, one wheel showed signs of too much friction and was shut down. A second wheel failed in May, putting the spacecraft into safe mode and jeopardizing the exoplanet search.
+开普勒发射升空时共有四个反作用轮，也就是陀螺仪。至少需要其中三个才能保持指向功能运作。去年夏天，其中一个轮子显示出了摩擦力过大的迹象而被关闭。今年5月，第二个轮子也出现故障，令开普勒转入安全模式，危及了太阳系外行星的搜索工作。
+Astronomers began to sing dirges. Geoffrey W. Marcy of the University of California, Berkeley, dashed off a poem, which said, in part, “Let jet airplanes circle at night overhead/ Sky-writing over Cygnus: Kepler is dead.”
+天文学家开始唱响挽歌。加州大学伯克利分校(University of California, Berkeley)的杰弗里·W·马西(Geoffrey W. Marcy)飞快地写了一首诗，其中有这样的字句，“在夜晚，让喷气机盘旋在头顶，在天鹅座上用烟雾写下：开普敦已死。”
+NASA engineers spent several months trying to resurrect Kepler’s pointing ability. “We had very little hope it was actually going to be recoverable,” said Charles Sobeck, a Kepler deputy project manager, who compared the problem to a stuck wheel on a supermarket shopping cart.
+NASA工程师花了数月时间尝试修复开普勒的指向功能。“它是否真能修复，我们并不抱什么希望，”开普勒项目副主管查尔斯·索贝克(Charles Sobeck)说。他说这个问题就好像是超市购物车上的轮子卡住了。
+They managed to get both faulty reaction wheels spinning again, but with too much friction. Last week, when they tried to make the spacecraft point, it went into safe mode after a few hours, making it clear that Kepler’s planet-hunting days were over.
+他们设法使两个出故障的反作用轮再次开始转动，但摩擦力太大。上周，当他们试图发出指令让开普勒指向时，在几小时后它进入了安全模式，这表明开普勒的行星探索任务已经结束。
+“I believe they left no stone unturned,” said Paul Hertz, NASA’s director of astrophysics, in the news conference announcing the end of the rescue effort.
+在宣布结束维修的新闻发布会上，NASA的天体物理学主任保罗·赫兹(Paul Hertz)说，“我相信他们已经想尽办法了。”
+When he conceived the mission 20 years ago, Borucki said, no one knew if there were any planets out there in the galaxy. “Now at the completion,” he said, “we know our galaxy is filled to the brim with planets. When you look up at the sky and see it filled with stars, most of those stars have planets.”
+博鲁茨基说，当他在20年前酝酿这一任务时，没人知道银河系里究竟有没有行星。“现在任务结束了，”他说，“我们知道我们的银河系里满是行星。当你仰望星空，看到漫天的恒星时，其中大多数都有行星。”

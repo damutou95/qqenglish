@@ -1,0 +1,92 @@
+Early heart disease ran in Rick Del Sontro’s family, and every time he went for a run, he was scared his heart would betray him. So he did all he could to improve his odds. He kept himself lean, stayed away from red meat, spurned cigarettes and exercised intensely, even completing an Ironman Triathlon.
+早期心脏病一直困扰着里克·德尔松特罗(Rick Del Sontro)的家族。他每次出去跑步时，都担心自己的心脏会出事。因此，他想尽一切办法，想要让自己避免这场厄运。他保持着清瘦的体型，远离红肉，摒弃香烟并进行高强度的锻炼，甚至可以完成铁人三项。
+“I had bought the dream: if you just do the right things and eat the right things, you will be O.K.,” said Mr. Del Sontro, whose cholesterol and blood pressure are reassuringly low.
+“我一直怀有这样的期望：如果只做正确的事，食用正确的食物，就可以保持健康，”德尔松特罗先生如是说。他的胆固醇和血压水平一直很低，这让他十分欣慰。
+But after his sister, just 47 years old, found out she had advanced heart disease, Mr. Del Sontro, then 43, and the president of Zippy Shell, a self-storage company, went to a cardiologist.
+然而，当他年仅47岁的姐姐被查出患有晚期心脏病后，时年43岁、在自助寄存公司Zippy Shell任总裁的德尔松特罗去拜访了心脏病专家。
+An X-ray of his arteries revealed the truth. Like his grandfather, his mother, his four brothers and two sisters, he had heart disease. (One brother, Michael, has not received a diagnosis of the disease.)
+动脉X射线检查结果揭示了他心脏的真实情况。像他的外祖父、母亲、四个兄弟和两个姐妹一样，他也患有心脏病。（他的一个兄弟迈克尔[Michael]则尚未收到该疾病的诊断。）
+Now he and his extended family have joined an extraordinary federal research project that is using genetic sequencing to find factors that increase the risk of heart disease beyond the usual suspects — high cholesterol, high blood pressure, smoking and diabetes.
+如今，他和他的大家族加入了一项特别的联邦研究项目。该项目试图利用基因测序手段，寻找除高血脂、高血压、吸烟和糖尿病等常见因素外，还有哪些因素可增加心脏病风险。
+The aim is to see if genetics can explain why heart disease strikes apparently healthy people. The hope is that a family like Mr. Del Sontro’s could be a Rosetta stone for heart disease — that their arteries’ profound but mysterious propensity to clog could reveal forces that do the same in millions of others.
+该研究旨在尝试通过遗传学来解释为何某些看似健康的人也会心肌梗死发作。人们期望，像德尔松特罗家这样的家族可作为解读心脏病的罗塞塔石碑——认识这些家族中强烈的动脉堵塞倾向，或许可以揭示在数以百万计的其他人体内，造成同样倾向的神秘力量。
+“We don’t know yet how many pathways there are to heart disease,” said Dr. Leslie Biesecker, who directs the study Mr. Del Sontro joined. “That’s the power of genetics. To try and dissect that.”
+“我们并不清楚有多少条途径可能导致心脏病，”德尔松特罗先生参与的研究领导者莱斯利·比泽克(Leslie Biesecker)博士说，“而遗传学的力量，正在于它可尝试剖析这一问题。”
+Researchers have long known that a family history of early death from heart disease doubles a person’s risk independently of any other factors. Family history is defined as having a father or a brother who were given a diagnosis of heart disease before age 55 or a mother or sister before age 65.
+研究人员早就知道，有因心脏病早逝的家族史，可将一个人的风险增加一倍，且该作用独立于任何其他因素。在这里，家族史的定义为：父亲或兄弟在55岁之前，或母亲或姐妹在65岁之前确诊患有心脏病。
+Scientists are studying the genetic makeup of each member of the Del Sontro family, searching for telltale mutations or aberrations in the long sequence of three billion chemicals that make up human DNA.
+目前，科学家们正在研究德尔松特罗家各成员的基因组成，从构成人类DNA的30亿化学物质序列中搜寻具有指示意义的突变或畸变。
+Until very recently, such a project almost certainly would have been futile. Picking through DNA for tiny aberrations was so costly and time-consuming that it was impractical to take on for an entire family.
+直到最近为止，这样的项目基本上是竹篮打水。从漫长的DNA链条上寻觅微小的畸变既昂贵又费时，对整个家族进行这项工作根本不切实际。
+Analyzing the deluge of data would have been overwhelming. But costs have plunged, and data analysis has advanced.
+海量的数据分析也令人不堪重负。但近年来，研究成本已经大幅下跌，在数据分析方面也取得了进步。
+“With the right family, you may need only one family,” said Dr. Robert C. Green of Harvard Medical School who studies genetics and medicine and is not involved in the study.
+ “如果找到了合适的家族，可能只需一个家族就能解决问题，”在哈佛医学院(Harvard Medical School )从事遗传学和医学研究，但并未参与上述德尔松特罗家族研究的罗伯特·C·格林(Robert C. Green)博士表示。
+Beyond Risk Factors
+在风险因素之外
+Control of cardiovascular disease is one of medicine’s great success stories. Over the past 45 years, heart disease death rates have steadily dropped 60 percent from their peak in the 1960s.
+对心血管疾病的控制是医学的众多功绩之一。在过去45年来，心脏病死亡率一直稳步下降。与20世纪60年代的峰值相比，约降低了60%。
+But doctors still rely mostly on risk factors discovered decades ago — cholesterol levels, blood pressure, diabetes, smoking, obesity and a sedentary lifestyle.
+但医生们依然对数十年前就已识别出的风险因素——胆固醇水平、血压、糖尿病、吸烟、肥胖和久坐不动的生活方式等十分依赖。
+“Risk factors are part of the canon now in medicine,” said Dr. Gary H. Gibbons, the director of the National Heart, Lung and Blood Institute. “We use them every day. Still, people arrive at the hospital every day with heart attacks.”
+“在医学界，风险因素分析已经成为经典准则的一部分，”美国国家心脏、肺和血液研究所(National Heart, Lung and Blood Institute)主任加里·H·吉本斯(Gary H. Gibbons)博士说，“我们每天都使用它们。但每天仍不断有人因心肌梗死来医院就诊。”
+And heart disease is still the leading killer of men and women. Each year, nearly 600,000 people in the United States die of heart disease. Though the average age for a first heart attack has steadily risen — it is now 66 for men, and 70 for women — many die much younger. And many had no obvious risk factors. What, researchers ask, are they missing?
+心脏病仍是男性和女性的头号杀手。在美国，每年有近60万人死于心脏病。虽然首次心肌梗死发作的平均年龄已经稳步提升——目前达到男性66岁，女性70岁——但仍有很多人因心脏病早逝，且其中不少人并没有明显的风险因素。研究人员不禁追问：他们究竟遗漏了什么？
+The old method of inquiry into heart disease was to start with basic laboratory research, test a hypothesis in animals, develop a drug and then test it in humans. That approach led to some expensive failures. Researchers now want to use human genetics.
+研究心脏病的老办法是从基础的实验室研究开始，在动物身上对假说进行测试，开发药物，然后进行人体试验。这种方法导致人们很可能在付出了高昂代价后仍然徒劳无功。现在，研究人员希望人类遗传学能派上用场。
+“We need to understand disease biology in humans,” said Dr. Elias Zerhouni, a former director of the National Institutes of Health and now president for global research and development at Sanofi. “The tools are here.”
+“我们需要了解人类中的疾病生物学，”美国国立健康研究院(National Institutes of Health)前主任、赛诺菲(Sanofi)公司全球研发部的现任总裁埃利亚斯·泽古尼(Elias Zerhouni)博士说，“研究工具已经齐备。”
+But the greatest challenge is to figure out how to prevent heart disease in the first place. And that is where the Del Sontro family comes in.
+但是，最大的挑战在于搞明白如何从根本上对心脏病加以预防。这正是德尔松特罗家族的用武之地。
+A Family’s Grim Secret
+一个家族的恐怖机密
+Mr. Del Sontro had been more or less in denial about his family’s heart disease problem until one of his sisters, Robin Ashwood, found out she had it. One Saturday morning about six years ago, she was running on a treadmill when her arms began to feel sore, as if she had done a tough workout with weights. She ended her workout, and the pain went away.
+德尔松特罗先生一直或多或少地否认他的家族存在心脏病问题，直到他的姐妹之一罗宾·阿什伍德(Robin Ashwood)发现自己患有心脏病。那是大约六年前的一个周六的上午，她正在跑步机上跑步，突然感到胳膊酸痛，就好像刚刚做完艰苦的举重锻炼似的。她马上停止了锻炼，疼痛也随之消失。
+But it came back later that day while she was shopping with her younger sister, Tina Del Sontro. Ms. Del Sontro pressed her sister to go to an emergency room, asking “Do you really want to die on the floor of Sam’s Club?”
+但到了那天晚些时候，在她与妹妹蒂娜·德尔松特罗(Tina Del Sontro)一起购物时，疼痛再度袭来。德尔松特罗女士强迫姐姐去看急诊，她这样说：“你该不会想死在山姆会员店(Sam's Club)的地板上吧？”
+The family history of heart disease is dire. Their grandfather had a severe heart attack when he was 35. Their mother started having severe chest pains at 55. And toward the end of their mother’s life, she “was popping nitroglycerin pills like Tic Tacs,” Mr. Del Sontro said. She had open-heart surgery three times and died on the operating table at 69.
+这家人的心脏病家族史非常可怕。他们的外祖父在35岁时遭遇了一次严重的心肌梗死。他们的母亲在55岁时开始出现重度胸痛。当她临终时，“简直像吃糖豆那样大嗑硝酸甘油药片，”德尔松特罗先生回忆道。她接受了三次心脏直视手术，69岁那年死在了手术台上。
+So Ms. Ashwood went to a nearby emergency room. Doctors took her blood pressure. It was elevated, she says, and she was terrified. They did an electrocardiogram. It was normal. They told her she was fine.
+就这样，阿什伍德女士前往附近的急诊室就诊。检查发现，她的血压有所升高，她说，这把她吓坏了。但随后的心电图检查结果正常。医生告诉她，她没事。
+But she recalled that her mother’s electrocardiogram had been fine, too, and she died of the disease.
+但她想起她母亲的心电图也一直都很正常，最后却死于心脏病。
+She called her cardiologist the next day. “But he blew me off,” she said. “He told me it was probably a stomach problem.”
+第二天，她拨通了自己的心脏病专科医生电话。“可他泼了我一头冷水，”她说，“他说这可能是胃有毛病。”
+Still fearful, she cold-called cardiologists, offering to pay for a consultation if a doctor would just look at her medical record and family history.
+这并没有打消她的恐惧。她开始给心脏病专家们打电话，并提出，如果哪位医生愿意看看她的病历和家族史，她愿意支付咨询费用。
+Dr. Leslie R. Fleischer in Pensacola, Fla., where Ms. Ashwood was living at the time, took her on. He threaded a catheter through a blood vessel from her groin to her heart and shot dye into the coronary arteries to make them visible on X-rays. He saw extensive heart disease. One coronary artery was almost completely blocked, and the others were partly blocked.
+那时，阿什伍德女士住在佛罗里达州的彭萨科拉市，当地的莱斯利·R·弗莱舍(Leslie R. Fleischer)博士接待了她。他将一根导管从她的腹股沟处穿入，沿着血管抵达心脏，将染料注入冠状动脉，使其能够在X射线影像中显像。他发现，她存在广泛的心脏病。其中一条冠状动脉几乎完全堵塞，其他冠脉也出现了部分堵塞。
+“I have been doing this for 40 years,” Dr. Fleischer said. “So I am not surprised. I am just sad.”
+“我从业已经40年，”弗莱舍博士说，“所以，我并不感到惊讶。我只是难过。”
+He inserted a stent — a small wire cage — into an artery that was 90 percent blocked. And he warned Ms. Ashwood that all her siblings should get tested.
+他在一条堵塞程度达90%的动脉中安置了支架（一种小型金属丝笼），并警告阿什伍德女士：她的兄弟姐妹都应该接受这种测试。
+Tina Del Sontro went first. She was 38, but tests showed she had heart disease, too. Her doctor told her a heart attack was in her future, saying, she recalls, “It’s not if it is going to happen — it’s when.”
+蒂娜·德尔松特罗率先接受了提议。她当时只有38岁，但检查表明她也患有心脏病。她的医生告诉她，将来她会发生心肌梗死：“这不是会不会发病的问题——而是将在何时发病。”
+So Rick went to a general practitioner who told him he had nothing to worry about.
+于是，里克跑去看全科医生。这名医生声称他完全可以高枕无忧。
+Then his brother Peter, 37 at the time, saw a cardiologist and days later, had emergency double bypass surgery.
+其后，他的弟弟，时年37岁的彼得(Peter)在拜访心脏病专家数日后接受了紧急心脏双搭桥手术。
+Shaken, Rick decided he, too, should see a cardiologist. Dr. Edward Bodurian in Chevy Chase, Md., first suggested a heart scan to look for calcification in his arteries — a sign of blockages. The scan showed potential problems, so Dr. Bodurian performed the same catherization test that had detected Ms. Ashwood’s disease. It revealed the grim news about his blocked arteries.
+里克动摇了，他决定也去听听心脏病专家的意见。美国马里兰州切维蔡斯市的爱德华·博度里安(Edward Bodurian)博士建议他先通过心脏扫描来检查是否存在动脉钙化——堵塞的一种标志。扫描显示出了潜在的问题，因此博度里安博士对他进行了导管测试，即检出阿什伍德女士病情的同一种测试。结果令人沮丧：他的动脉也存在着堵塞。
+Most people who have this test can leave the hospital quickly. Doctors insert a plug in the hole in the groin where the catheter is inserted to stop the bleeding. But Mr. Del Sontro had so little body fat that a plug would not stay in place. So he had to lie flat on his back for hours in Suburban Hospital, which happened to be across the street from the National Institutes of Health.
+大多数人在接受该测试后都可以很快离开医院。医生们会在受检者腹股沟插入导管处塞一个栓子来止血。但德尔松特罗先生的体脂肪过少，栓子无法固定在原位。所以他不得不在市郊医院平躺数个小时。碰巧，这家医院与美国国立卫生研究院只有一街之隔。
+While Mr. Del Sontro was lying there, someone came by — he never got the person’s name — and told him there was a study starting at the National Institutes of Health that “you might find relevant.” It was the one Dr. Biesecker was directing to find new causes of heart disease.
+正当德尔松特罗先生仰卧静待时，一个他始终不知其名的陌生人来访，并告诉他，国立卫生研究院正着手进行的一项研究“可能与你有关”。该研究由比泽克博士领导，致力于探索心脏病的新病因。
+This serendipitous encounter led to his family’s participation in the study.
+这次偶然的相遇使德尔松特罗家族加入了这项研究。
+Dr. Biesecker acknowledged that there was no guarantee of success. He and his colleagues know the gene mutation in the Del Sontro family must be rare. Otherwise, lots of people would have early heart disease but no obvious risk factors. To keep the focus on truly rare mutations, the researchers are excluding those that are present in both members of the Del Sontro family and 3 percent or more of the other study participants. That strategy alone, Dr. Biesecker said, has eliminated the vast majority of candidate genes.
+比泽克博士承认，他们无法保证一定能成功。他和同事们知道，德尔松特罗家族的基因突变必定十分罕见。否则，很多人都将在无明显风险因素的情况下发生早期心脏疾病。为了将研究重点始终集中于真正罕见的基因突变上，研究人员排除了德尔松特罗家族成员与至少3%的其他研究参与者共有的基因突变。比泽克博士表示，仅靠这一策略就排除了绝大多数的候选基因。
+The researchers are now searching for culprits among genes that remain — a search that could take years. Or the change might be in a poorly understood region of DNA that controls genes rather than in a gene itself. Researchers’ ignorance of these control regions and what many of them do might doom the effort. So the researchers are hoping the Del Sontro family’s heart disease is caused by a mutated gene.
+研究人员目前正在其余基因中寻找罪魁祸首，这一过程可能需要数年时间。变异也可能存在于人们知之甚少的DNA区域——这些区域本身并不是基因，但可以控制基因。对这些控制区及其功能的无知很可能使之前的工作全部白费。因此，研究人员寄期望于德尔松特罗家族的心脏病是由一个突变基因造成。
+“Our main job is to find the gene,” Dr. Biesecker said.
+“我们的主要任务是找到这个基因，”比泽克博士说。
+Mr. Del Sontro is all too aware that the cause of his heart disease is a mystery, but he worries that if he fails to eat right and exercise he might make his illness even worse.
+德尔松特罗先生很清楚自己发生心脏病的原因仍是一个谜，但他担心要是没有健康的饮食和锻炼，他的病情可能会进一步恶化。
+So he left for the gym before dawn on a recent chilly morning. He lifted weights, using dumbbells and bars, moving quickly from exercise to exercise. Forty-five minutes later, sweating, he was done.
+于是，最近的一个寒冷的早晨，他在拂晓就前往健身房。他用哑铃和杠铃练习举重，并快速地轮流进行各种锻炼。45分钟后，他完成了预定的锻炼方案，大汗淋漓。
+His disease casts a dark shadow, not just on him, but on his entire family. At dinner one recent evening at their yellow brick townhouse in the Georgetown neighborhood in Washington, his wife, Pura, admitted to worrying, but said, “We don’t talk about it a lot.” She served Indian takeout — saffron rice, tandoori chicken, eggplant. Tall, slender and elegant in skinny jeans and a long beige sweater, she ate sparingly and drank a Coke Zero. Mr. Del Sontro drank only water and took small portions.
+德尔松特罗的病给他和他的整个家庭都蒙上了阴影。近期的一个晚上，我们在他们位于华盛顿乔治城附近的黄砖排屋共进晚餐。他的妻子普拉(Pura)坦承她十分担忧，但她补充道：“关于这一点，我们并没有谈过太多。”晚餐是印度菜外卖——藏红花饭、印度烤鸡和茄子。身材修长苗条，举止优雅，身着紧身牛仔裤和长款米黄色毛衣的普拉进食十分节制，喝的是一罐零度可乐。而里克只喝水，而且是小口小口地分多次饮用。
+Their 9-year-old daughter, Siena, said she was afraid she had inherited her father’s heart problems. He reassured her that scientists would surely have found a treatment by the time she grew up. “I hope it doesn’t hurt,” she told him.
+他们9岁的女儿西恩纳(Siena)说她害怕自己会遗传到父亲的心脏问题。里克向她保证，在她长大之前，科学家们一定会找到治疗的方法。“真希望那不会很疼，”她对他说。
+Her shy 6-year-old brother, Nico, slipped away from the dinner table.
+此时，她害羞的年方6岁的弟弟尼科(Nico)已经从餐桌上溜走了。

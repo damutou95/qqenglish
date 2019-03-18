@@ -1,0 +1,30 @@
+Hackers released a file that they said contained a million identification numbers for Apple mobile devices, claiming that they had obtained it by hacking into the computer of an F.B.I. agent. The F.B.I. said it had no evidence that this was true.
+黑客发布了一个文件，称其中包括上百万个苹果移动设备的用户账号，并说这些信息是他们攻击一个美国联邦调查局(FBI)特工的电脑获得的。FBI则称目前没有证据能够证实这一说法。
+The hacking group, known as AntiSec — a subset of the loose hacking collective known as Anonymous — posted copies of the file on Sunday and claimed to have a total of 12 million numbers for iPhone, iPad and iPod Touch devices, along with some phone numbers and other personal data on their owners. They said their goal in releasing a slice of the data was to prove that the F.B.I. used device information to track people.
+这个黑客组织叫做AntiSec，是松散黑客团体Anonymous的一个分支。AntiSec上周日公布了多份该文件，称里面共有1200万个iPhone，iPad和iPod Touch设备用户账号，此外还有一些用户的手机号码和其他个人信息。他们称，发布部分数据的目的是为了证明F.B.I.在利用设备信息监视个人活动。 
+While the leaked identification numbers appeared to be real, security experts said the release posed little risk. They said that without more information on the devices’ owners — like e-mail addresses or date of birth — it would be hard for someone to use the numbers to do harm.
+尽管被泄露的账户号码似乎是真，但安全专家认为这次信息泄露危险性很小。他们称，没有设备用户的更多信息，比如电子邮箱或者出生日期的话，只有这些账号很难造成危害。
+And the actual source of the file was not clear. The F.B.I. said in a statement that “at this time there is no evidence indicating that an F.B.I. laptop was compromised or that the F.B.I. either sought or obtained this data.”
+而且这个文件的真实来源还不清楚。FBI在一项声明中称，“现在还没有证据显示FBI的电脑曾被攻击，以及FBI是否曾寻求或者获得过这些数据。” 
+The F.B.I. has been a frequent target of so-called hacktivists, hackers who attack for political causes rather than for profit. In February, Anonymous hackers intercepted a call between the bureau and Scotland Yard. But the frequency of such attacks tapered off after several members of Anonymous and a spinoff group, LulzSec, were arrested in March.
+FBI一直是这类所谓黑客活动分子的主要攻击对象，这些黑客发动攻击的目的是出于政治原因而非商业利益。今年2月，Anonymous黑客曾拦截了一通FBI和伦敦警察厅(Scotland Yard)之间的电话。但是3月份Anonymous和从它分离出来的LulzSec组织的一些成员被捕之后，这种攻击的频率逐渐减少。
+Apple’s unique device identifiers — known as U.D.I.D.’s — are 40-character strings of letters and numbers assigned to Apple devices. Last year, Aldo Cortesi, a New Zealand security researcher, demonstrated how in some cases U.D.I.D.’s could be used in combination with other data to connect devices to their owners’ online user names, e-mail addresses, locations and even Facebook profiles.
+苹果独特的设备识别系统，也就是UDID，是由分配给苹果设备的40个字符串组成。去年，新西兰安全研究员奥尔多·科特西(Aldo Cortesi)曾演示过，在一些情况下可以利用UDID和其他数据一起，关联到设备用户的网上用户名、电子邮箱、住址、甚至是Facebook头像。
+“A U.D.I.D. is just a jumble of digits,” said Jim Fenton, the chief security officer of OneID. “It is only powerful when it is aggregated with other information.”
+“UDID只是一组无序字符串，”OneID首席安全官吉姆·芬顿(Jim Fenton)称，“只有配合其他信息，才能发挥巨大作用。”
+Security experts said the identification numbers appeared legitimate, and one number in the file matched that of a New York Times employee’s iPad. “The structure and format of the data indicates this is a real breach,” said Rob Rachwald, director of security at Imperva, a computer security firm. An Apple spokesman did not respond to requests for comment.
+安全专家称，账户号码似乎是真的，而且其中的一个号码与《纽约时报》一名员工的iPad用户号码相符。“数据的结构和形式显示这这次泄漏是真的，”电脑安全公司Imperva的安全部门负责人罗布·拉赫瓦尔德(Rob Rachwald)称。一名苹果公司发言人没有回应采访的请求。 
+The hackers released only U.D.I.D.’s, a separate Apple-specific identifier and the device names that owners give their devices, like “Lori’s iPad.” Only a few identifiers were tied to e-mail addresses, apparently because the device’s owner chose to use an e-mail address when naming it.
+黑客发布的只是UDID，这是苹果独特的识别信息，以及用户设置的设备名称，比如“洛丽(Lori)的iPad”。只有少数的识别信息与电子邮件是绑定的，而这很明显是用户选择用电子邮件给设备命名所致。 
+Apple stopped letting app developers take advantage of device identifiers last year, to make it harder for marketers to track its customers as they moved from app to app.
+去年，苹果公司已经禁止应用程序开发者利用设备识别信息，这样市场营销者在用户从一个应用程序换到另一个应用程序时就更难对顾客进行追踪。
+The hackers claimed to have obtained the file from the computer of Christopher K. Stangl, a supervisory agent of the F.B.I.’s Cyber Action Team. In 2009, Mr. Stangl appeared in a Facebook promotional video titled “Wanted by the FBI: Cyber Security Experts” that encouraged hackers to get involved with the F.B.I.
+黑客称，这个文件是从FBI网络行动小组(Cyber Action Team)的监管特工克里斯托弗·K·施坦格尔(Christopher K. Stangl)的电脑中获取的。2009年，施坦格尔出现在一个Facebook宣传视频中。视频名为“FBI征募：网络安全专家”(Wanted by the FBI: Cyber Security Experts)，鼓励黑客与FBI合作。
+He was also one of 44 law enforcement agents invited to participate in the F.B.I.-Scotland Yard conference call that hackers intercepted.
+曾被黑客拦截的FBI和伦敦警察厅电话会议上被邀请的44名执法特工中，也有他在内。 
+But security experts said the file could have come from a number of places.
+但是安全专家称，这个文件可以从很多地方得到。 
+“There are a million ways this could have happened,” said Marcus Carey, a researcher at Rapid7. “Apple could have been breached. AT&T could have been breached. A video game maker could have been breached. The F.B.I. could have obtained the file while doing forensics on another data breach.”
+“发生这样的事有上百万种可能，”Rapid7公司的研究员马库斯·卡赖(Marcus Carey)称，“被攻击的可能是苹果公司，也可能是AT&T，或者是一家视频游戏制作公司。FBI也可能是在为其他数据泄露案取证时获得的这些信息。”
+In their statement, the hackers said they would not grant any interviews about the breach until a reporter for Gawker, Adrian Chen, posed for his employer’s site, for a full day, in a ballet tutu with a shoe on his head.
+黑客在声明中称，除非Gawker网站记者阿德里安·陈(Adrian Chen)在公司网站上贴一天自己穿着芭蕾舞裙、头上放一只鞋的照片，否则他们不会接受关于这次泄露事件的任何采访。 

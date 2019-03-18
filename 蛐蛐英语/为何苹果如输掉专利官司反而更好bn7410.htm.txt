@@ -1,0 +1,16 @@
+Could it be in Apple's self-interest to lose its bitter court battle with Samsung?
+苹果公司(Apple)如果输掉与三星(Samsung)之间激烈的法庭大战，是不是反而会有利于苹果呢？
+Yes, it could. That is the contrarian point made in a research note from Steve Milunovich, a veteran computer analyst who joined UBS as a managing director in May.
+是的，有可能。这个与主流意见相反的观点，是计算机产业资深分析师史蒂夫·米卢诺维奇(Steve Milunovich)在一份研究报告中提出的。米卢诺维奇今年5月刚刚加入瑞银(UBS)担任董事总经理。
+A courtroom victory against Samsung, in a suit that alleges the Korean company illegally copied Apple's patent designs and user-experience software, might slow down Samsung and other smartphone rivals using Google's Android operating system, Mr. Milunovich writes in a report published Monday.
+在这起案件中，苹果指控三星非法抄袭其专利设计及用户体验软件。米卢诺维奇在周一发布的一份报告中写道，如果苹果在法庭上战胜这家韩国企业，将会给三星及智能手机市场上其他采用谷歌(Google)的Android操作系统的竞争对手构成遏制。
+Competitors would be forced to write work-around software so that their phones have functions similar to Apple, but not too similar, so they do not infringe on Apple patents. That could hold products off the market for months, helping Apple for a while.
+竞争对手会被迫编写软件，规避抄袭指控，使它们生产的智能手机具有与苹果相似的功能，但又不是那么相似，避免侵犯苹果的专利权。这可能会是竞争产品的上市推迟几个月，暂时有利于苹果。
+But the danger for Apple, according to Mr. Milunovich, is that a legal victory could boomerang in the long run, forcing its competitors to think different, to borrow a phrase.
+但米卢诺维奇说，苹果面临的危险是，现在取得法律上的胜利，从长远来看，可能反而会对苹果不利。套用苹果自己的话说，这可能会迫使竞争对手“另辟蹊径”(think different)。
+"It could hurt Apple," he writes, "because the real threat is not a competitor beating Apple at its own game but instead changing the game."
+ “这可能会伤害苹果，”他写道，“因为真正的威胁并不是竞争对手按苹果的游戏规则打败苹果，而是对手改变游戏规则。”
+"The likelihood of Apple being leapfrogged or a rival creating a new category is greater if they have to think outside the box," he adds, "If they just copy Apple, like Coke, Apple can claim to be 'the real thing.'"
+“如果竞争对手被迫另寻思路，那么对手超越苹果，或者创造一个新产品类别的可能性就会增大，”他还说，“如果这些对手只是抄袭苹果，苹果还是可以像可口可乐一样，声称自己才是‘正品’。”
+Perhaps, but Apple's army of well-paid lawyers would surely object.
+或许的确如此，但苹果高薪雇佣的律师团队肯定不会同意。

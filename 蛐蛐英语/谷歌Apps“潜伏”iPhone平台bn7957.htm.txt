@@ -1,0 +1,46 @@
+For many people, smartphone shopping comes down to a choice of Apple’s iPhone or one powered by Google’s Android software.
+对许多人而言，购买智能手机归根到底就是选苹果公司(Apple)的iPhone，还是选装有谷歌公司(Google)Android系统的手机。
+But now consumers can get an iPhone and fill it with Google.
+不过现在，消费者可以买个iPhone，然后给它装满谷歌的产品。
+Google has become one of the most prolific and popular developers of apps for the iPhone, in effect helping its competitor make more appealing products — even as relations between the companies have deteriorated.
+尽管两家公司的关系恶化了，但谷歌已经位居最多产和最畅销的iPhone应用开发商之列，实际上它正帮助自己的竞争对手打造更具吸引力的产品。
+While some of its Internet services were built into the iPhone from the start, Google has stepped up its presence in the last eight months, pumping out major new iPhone apps or improving old ones. It also has expanded efforts to hire developers to make more such apps.
+从一开始，谷歌的某些互联网服务就内置在iPhone中，但最近八个月，谷歌进一步加强了它对iPhone市场的覆盖，不仅大量推出重要的新iPhone应用，而且改进了旧应用。谷歌还加大力量，雇佣了一些开发人员来打造更多的类似应用。
+A maps app Google released in December has been the most downloaded program for the iPhone for much of the last month. The company has cranked out a YouTube app, an iPhone version of its Chrome Web browser and better software for gaining access to its Gmail service. Two dozen iPhone apps from Google are available on Apple’s App Store, with variations for the iPad.
+过去一个月的大部分时间里，谷歌于去年12月发布的地图应用一直是下载次数最多的程序。谷歌还推出了一个YouTube应用、Chrome网络浏览器的iPhone版，以及能更好使用Gmail服务的软件。苹果的App Store里有谷歌开发的20多个iPhone应用，而且还有iPad版本。
+Google’s strategy may look self-defeating at first. But analysts and technology executives say it is simply acknowledging the obvious: that there is an enormous market of avid iPhone users it wants to reach, an audience that is a target for ads and that can yield a bonanza of data that will allow Google to improve the online products that produce much of its profits.
+乍看之下，谷歌的策略似乎是在自我毁灭。但一些分析师和科技业高管称，谷歌不过是在承认一个明显的事实：热情的iPhone用户代表了谷歌想获取的巨大市场，这些客户是广告的目标群体，而且他们产生的大量数据可以让谷歌改进自身的在线产品，而这些产品构成了谷歌大部分的利润。
+Google’s support for the iPhone also looks like a win for Apple, which, after all, makes money when it sells an iPhone that is used to gain access to Google services.
+谷歌对iPhone的支持似乎对苹果来说也是一个胜利。毕竟，每售出一部可以获取谷歌服务的iPhone，苹果也赚了钱。
+But potential risks lie in Google’s growing presence on Apple’s devices, especially when it comes to apps that replace basic functions like Web browsing, maps and e-mail.
+不过，谷歌产品在苹果设备上日益增强的覆盖也会带来潜在的风险，尤其是涉及到那些能替代网络浏览、地图和电子邮件等基本功能的应用时。
+IPhone users who spend much of their time in Google apps could deprive Apple of valuable data it needs to improve its own online services like maps. And those apps could help Google build a deeper connection with users that makes them more likely to switch entirely to Android smartphones later.
+花很多时间在谷歌应用上的iPhone用户可能会剥夺苹果获取宝贵数据的权利，而苹果需要这些数据来改进自身的在线服务，比如地图服务。而且这些应用可能会帮助谷歌与用户建立更深的联系，这样就有更大的可能性他们将来干脆转投Android智能手机的怀抱。
+“The best way to recruit users to those devices is to get them using the services,” said Chris Silva, a mobile analyst at Altimeter Group, a tech industry research business. “Find them where they are, get them using the services and ramp them up so when they have devices equivalent to the iPhone, they are already in the market.”
+科技业研究公司奥特米特集团(Altimeter Group)的移动市场分析师克里斯·席尔瓦(Chris Silva)说，“给这些设备招揽用户的最佳途径就是让他们使用各自的服务。找到他们在哪儿、让他们使用这些服务，并且增加使用的人数，这样的话，等到与iPhone旗鼓相当的设备面世的时候，市场已经培育好了。”
+Early in the iPhone era, Steven P. Jobs, the company’s former chief executive, who died in October 2011, did not want Apple to approve any apps for the device that replaced its core functions, one former senior Apple employee said.
+苹果的一名前高级雇员称，在iPhone上市的早期，2011年去世的公司前首席执行官史蒂文·P·乔布斯(Steven P. Jobs)就不希望苹果批准任何能取代iPhone核心功能的应用。
+Apple executives have long believed that they would need to build up many of the same services that Google offers to compete long-term in the mobile market, according to this person, who did not want to be named to avoid jeopardizing relationships.
+为了避免破坏关系，这名前雇员要求匿名。此人称，苹果高管一直认为，为了在移动市场获得长久的竞争力，苹果必须打造许多与谷歌产品相同的服务。
+Eventually, under scrutiny from federal regulators, Apple softened its stance and began allowing apps for the iPhone, like Web browsers, that competed with important built-in apps.
+最终，在美国联邦监管机构的监督下，苹果公司的立场有所软化，开始允许网络浏览器等与其重要的内置应用形成竞争的iPhone应用的存在。
+Natalie Kerris, a spokeswoman for Apple, declined to comment for this article.
+苹果公司女发言人纳塔莉·克里斯(Natalie Kerris)拒绝就本篇报道发表评论。
+Apple has moved to reduce the presence of Google services in apps that come installed on its phones. Last year it removed the YouTube app — one that Apple created for the earliest iPhones so they would have access to YouTube videos. It also stopped using Google data to power its mapping application.
+苹果已采取措施减少其手机预置的应用中出现的谷歌服务。去年，苹果移除了YouTube应用，这是苹果为头几代iPhone创建的应用，以便用户能够观看YouTube视频。苹果还停止使用谷歌的数据来为地图应用程序提供支持。
+Instead, Apple began using its own maps service, which has been widely criticized for mistakes, including misplaced landmarks and inaccurate addresses. Timothy D. Cook, Apple’s chief executive, issued a rare apology last September for its maps product and later shook up the company’s management ranks, in part because of the problems.
+相反地，苹果开始采用自己的地图服务，但该服务因地标误置和地址不准确等差错而广受批评。去年9月，苹果首席执行官蒂莫西·D·库克(Timothy D. Cook)为其地图产品做出罕见的道歉声明，这也是导致他后来对公司管理团队做出调整的一个原因。
+Apple’s decision to stop including Google’s services on its devices forced Google to quickly ramp up its own software development for Apple’s mobile operating system, iOS.
+苹果停止在其设备上使用谷歌服务的决定迫使谷歌快速提升自身的软件开发进程，推出适用于苹果的手机操作系统iOS的程序。
+Last November there were 11.8 million unique users of a new Google-created YouTube app for the iPhone in the United States, and 6.4 million users of its Google Search app, placing them both in the top 20 list of iPhone apps with the biggest audience, according to Nielsen.
+根据尼尔森咨询公司(Nielsen)的数据，去年11月，有1180万独立用户在美国下载了谷歌新开发的iPhone版YouTube应用，下载谷歌搜索(Google Search)应用的独立用户为640万。在用户最多的iPhone应用排行中，这两款应用都位居前20名。
+In October, Google updated its search application for the iPhone with voice capabilities that more closely resembled those of Siri, the often-maligned virtual assistant included in the iPhone.
+谷歌在去年10月更新了它iPhone的搜索应用，增添了与Siri极其相似的语音功能。Siri是iPhone自带的虚拟助理功能，但饱受诟病。
+Google said it had not changed its strategy on Apple devices, but rather was continuing to build apps for all devices.
+谷歌表示，该公司在苹果设备方面的策略没有改变，只是在继续为所有设备开发应用程序。
+“Our goal is to make a simple, easy-to-use Google experience available to as many people as possible,” said Christopher Katsaros, a Google spokesman. “We’ve developed apps for iOS for some time now, and we’re delighted to see the recent enthusiasm for them.”
+“我们的目标是让尽可能多的人能够体验谷歌提供的简单易用的服务，”谷歌发言人克里斯托弗·卡塔斯罗斯(Christopher Katsaros)说，“现在，我们开发供iOS系统使用的应用已有一段时间，看到它们最近很受欢迎，我们非常高兴。”
+Unlike Apple, Google makes its money not from selling phones but from selling ads that appear on those phones. So it cares less about which phone a consumer uses and more about whether that consumer uses Google apps — and shares data with Google and sees Google ads.
+与苹果不同，谷歌并不是通过出售手机赚钱，而是依靠销售出现在这些手机上的广告赚钱。所以，谷歌不太在乎用户使用哪家的手机，更关心他们是否使用谷歌的应用、是否与谷歌分享数据，以及是否看谷歌的广告。
+When a consumer uses Chrome on the desktop at work, for instance, then opens the same tabs and continues using Chrome on phones elsewhere, Google knows much more about that consumer’s behavior, including the consumer’s location and the searches. The company’s hunger for such data has, of course, raised privacy concerns.
+例如，如果用户在办公室台式电脑上使用Chrome浏览器，然后打开了相同的标签页，并在其他地方继续使用手机上的Chrome浏览器，谷歌对该客户行为的了解就会多得多，包括用户的位置及其搜索活动。当然，谷歌对此类数据的渴望已引发了隐私方面的考虑。

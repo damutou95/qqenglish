@@ -1,0 +1,46 @@
+If Bitcoin is a bubble, as its critics contend, it is showing signs of deflating.
+如果像批评者说的那样，比特币是个泡沫，那么它如今正显示出破裂的迹象。
+A rapid succession of moves by governments around the world has cast doubts on the legitimacy of the virtual currency, and its price fell about 60 percent at one point on Wednesday morning from its high earlier this month. It recovered some as the day went on.
+世界各地的政府快速采取的一连串行动，或许会给这种虚拟货币的合法性带来疑问。周三，它的价格一度此本月早些时候的高点低了60%左右。不过，当天又有所回升。
+The price volatility is underscoring Bitcoin’s sensitivity to decisions by government officials despite its promised status as the first global currency free of government intervention and oversight. Money, it turns out, is still a government prerogative.
+尽管比特币背负着成为首个不受政府干预或监管的全球货币的期许，但价格的剧烈波动突显出比特币极易受到政府决策的影响。事实表明，货币仍然属于政府的特权。
+“This tight regulation is really counter to what a lot of folks thought was going to happen,” said Mark T. Williams, a finance professor at Boston University who has been tracking Bitcoin. “Regulation is the future of e-currency, not decentralization as many had hoped.”
+“严厉的监管的确出乎许多人的意料，”一直关注着比特币的波士顿大学(Boston University)金融学教授马克·T·威廉斯(Mark T. Williams)说。“电子货币的未来取决于监管，而不是很多人期望的去中心化。”
+The most damaging news for the digital currency has come out of China, where the largest Bitcoin exchange, BTC China, said on Wednesday that it would no longer accept deposits in renminbi, the Chinese currency.
+对比特币打击最大的消息来自中国。该国最大的比特币交易平台“比特币中国”(BTC China)周三宣布，不再接受人民币充值。
+“For reasons we all know, BTC China has had to cease renminbi-account charging functions,” the exchange said in a message on its verified account on Weibo, China’s Twitter-like messaging service. It said that it would continue operating and that existing deposits and renminbi withdrawals would not be affected.
+“由于众所周知的原因，比特币中国不得不暂时停止人民币充值功能，”该交易平台在新浪微博的认证账号上称。声明中还表示，它将继续运营，现有的资金和人民币提现不受影响。
+By Wednesday evening, the Shanghai-based BTC was quoting Bitcoins at about 3,200 renminbi, or $530, each. That was a drop of nearly 40 percent from the price on Tuesday and less than half of the peak price of 7,395 renminbi on Dec. 1.
+截至周三傍晚，位于上海的比特币中国公布的行情为1比特币兑3200元人民币上下，比起周二下跌了近40%，不到12月1日峰值7395元的一半。
+The development comes less than two weeks after the Chinese authorities barred mainstream financial institutions from dealing in the virtual currency and a series of moves that followed elsewhere.
+不到两周前，中国当局下令禁止主流金融机构处理虚拟货币的交易，其他地方也随之采取了一系列举措。于是有了这样的行情。
+China had been the fastest-growing part of the Bitcoin world, but it is not the only place where government officials have started to address virtual currency. Over the last week, the European Banking Authority and the authorities in Denmark, Norway, Australia and New Zealand have all raised an alarm about the speculative nature of the new online currencies.
+中国之前一直是比特币世界中增长最快的市场，不过并非政府开始对虚拟货币采取措施的唯一地方。上周，欧洲银行管理局(European Banking Authority)及丹麦、挪威、澳大利亚和新西兰当局均对新型网络货币的投机性提出了警告。
+The Danish Financial Supervisory Authority issued a warning on Tuesday that gave a long list of dangers, including that the “value of your virtual currencies can change very quickly and can in principle fall to zero.”
+丹麦金融监督委员会(Danish Financial Supervisory Authority)周二发布警告，列出了一长串危险，其中包括“虚拟货币的币值会急涨急跌，理论上可以跌至零”。
+The warnings have led to a sharp reversal for Bitcoin after the price of a single coin rose nearly 500 percent in November, fueled by hopes that the currency could serve as a cheaper global payment system.
+今年11月，比特币的价格飙升了近500%。人们期待它成为一种成本更低的全球支付系统，从而起到了推波助澜的作用。然而，种种警告令行情急转直下。
+Bitcoins are created and traded according to an open-source program released in 2009. The decentralized network of computers that runs the system is set to release only 21 million Bitcoins, but they are worth only what someone will pay for them.
+比特币的产生与交易基于的是2009年推出的一个开源程序。这一系统在分散的电脑网络上运行，并且定下了仅产生2100万枚比特币的上限。不过，它的价值只能通过人们为其支付的价格来体现。
+The volatility provides some vindication for critics who have recently been calling Bitcoin a bubble that was sure to pop. Earlier this month, Alan Greenspan, the former Federal Reserve chairman, said on Bloomberg Television that it had no “intrinsic value.”
+一些批评人士最近形容比特币是一个必然会破裂的泡沫。这样剧烈的波动，为那些批评者留下了话柄。本月早些时候，美联储前主席艾伦·格林斯潘(Alan Greenspan)在接受彭博电视(Bloomberg Television)采访时称，比特币没有“固有价值”。
+Professor Williams of Boston University said that Bitcoin had followed the trademark patterns of past asset bubbles, and he predicted that the value would fall to as low as $10 next year.
+波士顿大学的威廉斯教授称，比特币遵循了过去资产泡沫的种种特征，而且他本人预测，明年的币值可能会降至10美元（约合61元人民币）。
+But Bitcoin aficionados are far from accepting that the recent declines spell any sort of long-term trouble for the movement. Users took to Twitter to mount a defense. And the currency has survived swings in value in the past. In April, the value fell 70 percent in a matter of days but eventually recovered fully. Even after the recent declines, the price of Bitcoin is still up 180 percent from where it was in early November. During the day on Wednesday, the price had risen more than 40 percent from its morning low.
+不过，比特币粉丝绝不认同最近的下跌行情预示着这场虚拟货币运动会陷入长期困境。一批用户跑到Twitter上发起了保卫战。而且，比特币过去也经受住了币值的波动。今年4月，它的币值在几天内下跌了70%，但最终还是完全升了回去。就算经过了近期的下跌，比特币的价格目前仍比11月初的时候高180%。周三全天，它也从早间的低点回升了逾40%。
+“If you look at charts going back for the last few years, this happens all the time,” said Greg Schvey, the founder of the Genesis Block, a research firm that follows digital money. “The price is going to fluctuate, but more people know about it, more companies use it and more investment is going into Bitcoin. Bitcoin itself is stronger than it’s ever been.”
+“看一眼过去几年的图表，就会发现这种事情经常发生，”分析电子货币的研究公司创世区块(Genesis Block)的创始人格雷格·施韦(Greg Schvey)说。“价格还会继续波动。可是，更多的人知道了比特币，更多的公司在使用，更多的投资正在流入。比特币本身则前所未有地强大。”
+Some Bitcoin advocates have actually been unhappy with the recent run-up in the price, which has caused many users to hoard their coins rather than spend them. This has led many people to say that Bitcoin cannot rightfully be called a currency.
+部分倡导比特币的人士实际上对近期的币值飙升颇有微词，因为这导致许多用户囤积居奇，而非拿它消费。这一点令许多人宣称，不能把比特币堂而皇之地称为货币。
+Many of the recent announcements from the European authorities have questioned whether virtual currencies live up to their name. A Norwegian official told Bloomberg News last week that Bitcoin could not be called money and would be treated as an investment asset.
+欧洲多个监管机构最近发表的声明中，不少对虚拟货币是否名副其实提出了质疑。挪威的一名官员上周接受彭博新闻(Bloomberg News)采访时称，比特币不能被称为货币，而应被视作投资性资产。
+But the news out of Europe has not been all negative for the future of digital money. The warning from Denmark this week suggested that consumers would be free to use Bitcoins despite the risks. The United States has taken a similarly cautious but accepting attitude toward virtual currencies. Officials with the Treasury Department have indicated that virtual currency exchanges will be allowed to operate as long as they register as money-transmitting operations.
+然而，欧洲传出的消息对电子货币的未来也并不全是负面影响。丹麦本周的警告表明，尽管要承担风险，消费者还是可以自由使用比特币。美国对虚拟货币也采取了类似的谨慎却接受的态度。财政部官员已指出，只要虚拟货币交易平台登记为汇款机构，就可以正常运行。
+But there are questions about how successful a global decentralized currency can be if people in China, the world’s second-largest economy, are shut out.
+可是，如果身处世界第二大经济体的中国人被排除在外，一个所谓的去中心化的全球货币能取得多大的成功？
+According to Chinese news reports, the People’s Bank of China, the central bank, met on Monday with more than 10 of the country’s biggest third-party payment processing companies, ordering them to stop all transactions involving digital currencies. Alibaba’s Alipay service, the country’s biggest processor of online transactions, was among the companies represented at the meeting, according to the reports.
+根据中文媒体的报道，中国的央行人民银行周一约谈了十多家中国最大的第三方支付企业，要求它们关闭电子货币的全部交易通道。阿里巴巴的支付宝是中国最大的在线交易支付平台。据报道，该公司就属于被约谈的企业之列。
+On Dec. 5, the central bank and the four agencies jointly banned dealing in Bitcoin, saying the government was acting to “safeguard the interests and property rights of the public, protect the legal standing of the renminbi, take precautions against the risk of money laundering and maintain financial stability.”
+12月5日，人民银行等五部委联合对比特币相关业务下达了封杀令，称政府之所以这样做，是为了“保护社会公众的财产权益，保障人民币的法定货币地位，防范洗钱风险，维护金融稳定”。
+“Within that region, it’s hit a bit of a hurdle that will have to sort itself out,” Mr. Schvey said.
+“在这个地区，它遇到了一点障碍，得自己想办法解决，”施韦说。

@@ -1,0 +1,8 @@
+A new study, published in Heart, suggests that a higher resting heart rate is an independent predictor of mortality — even in healthy people in good physical condition.
+《心脏》(Heart)杂志刊登的一篇新研究显示，静息心率较高可作为死亡的一项独立预警器——哪怕那是身体状况良好的健康人群。
+Danish researchers gave physical exams to 5,249 healthy middle-aged and elderly men beginning in 1971. In 1985 and 1986, they tracked survivors, of whom there were 3,354. Of these, 2,798 had sufficient data on heart rate and oxygen consumption for the analysis. Researchers followed them through 2011.
+丹麦的研究人员自1971年起，为5249名健康的中年及老年男性进行体检。在1985至1986年，他们回访了3354名仍存活的受试者，在这其中有2798人在心率和耗氧量方面有足够的数据可供分析。研究者对他们进行的回访直至2011年结束。
+After controlling for physical fitness and many other health and behavioral factors, they found that the higher the resting heart rate, the greater the risk for death. Compared with men with rates of 50 beats a minute or less, those at 71 to 80 beats had a 51 percent greater risk. At 81 to 90 beats, the rate of death was doubled, and over 90 it was tripled.
+研究人员发现，在调整了体能和其他健康与行为因素后，静息心率越高，死亡风险越大。跟每分钟心跳少于50次的男性相比，每分钟心跳在71到80次的男性死亡风险升高了51%。心跳达到81到90次时，死亡风险翻番；超过90次则翻两番。
+“If you have two healthy people,” said the lead author, Dr. Magnus Thorsten Jensen, a researcher at Copenhagen University Hospital Gentofte, “exactly the same in physical fitness, age, blood pressure and so on, the person with the highest resting heart rate is more likely to have a shorter life span.”
+研究第一作者麦格努斯·索斯滕·简森(Magnus Thorsten Jensen)博士是哥本哈根大学(Copenhagen University)根措夫特医院(Hospital Gentofte)的研究员，他说：“假如有两个健康的人，他们的体能、年龄、血压等方面完全相同，那么，静息心率较高的那个人可能较为短寿。”

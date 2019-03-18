@@ -1,0 +1,40 @@
+The call went out on Twitter: “For insane profits come and join the pump.”
+Twitter上有人呼吁：“你想数钱数到手抽筋吗，加入我们的炒作行动吧。”
+It was an invitation to a penny stock-style pump-and-dump scheme — only this one involved Bitcoin, the soaring, slightly scary virtual currency that has beckoned and bewildered people around the world.
+这是在邀请人们参与一个垃圾股式的“拉高出货”骗局，只不过这一次涉及的是比特币。这个币值不断飙升、有点吓人的虚拟货币让世界各地的人们既蠢蠢欲动，又迷惑不解。
+While such bid ’em up, sell ’em off scams are shut down in the financial markets all the time, this one and other frauds involving digital money have gone unchecked. The reason: Government authorities do not agree on which laws apply to Bitcoin — or even on what Bitcoin is.
+尽管这样哄抬价格再抛售的伎俩在金融市场上是被禁止的，但是与数字货币有关的上述及其他欺诈行为却从未受过约束。原因在于：比特币应该适用何种法律，甚至比特币究竟是什么的问题，政府各部门仍然莫衷一是。
+The person behind the recent scheme, a trader known on Twitter as Fontas , said in a secure Internet chat that he operated with little fear of a crackdown.
+上述行动的幕后策划者是在Twitter上名为“Fontas”的一名交易员。他通过安全的网络聊天说，他不怎么担心这么做会受到打击。
+“For now, the lack of regulations allows everything to happen,” Fontas said in the chat, where he verified his control of the Twitter account, which has thousands of followers, but did not give his identity. He added that Bitcoin and its users would benefit when someone steps in to police this financial wild west, and would stop his schemes when they do.
+Fontas在网络聊天中说，“就目前而言，缺乏监管的状况允许任何事情发生，”Fontas在聊天中证实，他是这个拥有数千关注者的Twitter账户的管理者，但没有透漏自己的身份。他补充说，如果有人开始监管这个金融领域的法外之地，比特币和它的用户会受益，但如果他们真的这么做了，他的骗局也就结束了。
+Chinese authorities drew attention to the issue on Thursday when they announced that they were barring Chinese banks from making Bitcoin transactions. The same day, the Bank of France issued its own warning about the potential risks. The news sent the price of Bitcoin tumbling, but it quickly bounced back to near its all-time high of around $1,200.
+中国当局周四宣布，禁止银行从事比特币交易，这引发了对这一问题的关注。当天，法兰西银行(Bank of France)也发布了对潜在风险的警告。这些消息让比特币价格暴跌，不过还是很快反弹，并接近1200美元（约合7300元人民币）左右的创纪录高点。
+Bitcoins are little more than computer code — created according to a set algorithm and traded between online wallets using virtual keys. Some people insist that virtual currencies could become a revolutionary new form of payment in the real world. Bank of America became the first Wall Street bank to release research about Bitcoin on Thursday, noting that it could become “a major player in both e-commerce and money transfer.”
+比特币基本上就是根据一套算法编写出来的计算机代码，使用虚拟钥匙在网络钱包之间进行交易。有些人坚持认为，虚拟货币可能会成为真实世界里一种革命性的新支付方式。周四，美国银行(Bank of America)发布了关于比特币的研究报告，成为第一家发布此类研究的华尔街银行，它指出，比特币可能会成为“电子商务和转账交易的一个重要参与者。”
+So far, though, Bitcoin has been driven up primarily by people who are betting it will rise and rise because there is a finite supply. The initial computer program established that only 21 million Bitcoins would ever be created.
+不过，到目前为止，主要是由看多的人推高了它的币值，他们认为，因为供应量有限，比特币会不断升值。最开始的计算机程序规定，比特币的总数不会超过2100万枚。
+Because there are no limits on who can buy Bitcoins, they have attracted investors of all stripes. The value of all the Bitcoins in existence is now more than $12 billion after a volatile surge increased the value by more than 1,000 percent over the last month.
+因为任何人都可以购买比特币，它已经吸引了各种类型的投资者。比特币价值上个月在一次波动后涨了10多倍，现存所有比特币的价值已超出了120亿美元。
+But the excitement over this rapid ascent has obscured the fraud, hacking and outright theft that have become an increasingly regular part of the virtual currency world — even for the most sophisticated, legitimate players — and the lack of any visible response from law enforcement agencies.
+但是，比特币币值暴涨令人兴奋，这掩盖了欺诈、网络黑客和公然偷窃的行为，而这些行为在虚拟货币的世界里正变得尤其常见，即使是最精明、合法的参与者也无法置身事外，而执法机构也没有做出任何切实的回应。
+This has allowed more than 30 episodes in which at least 1,000 Bitcoins — or $1 million at the current rate of exchange — were stolen or transferred illegally, according to a frequently updated list on the most popular online forum for Bitcoin. Of those cases, 10 involved losses of more than 10,000 Bitcoins, or $10 million at the current value. The authorities have only been publicly involved in one of these cases.
+最受欢迎的比特币网络论坛上一个经常更新的列表显示，这样的现状已经滋生了30多起案件，每一件案子中被盗窃或者非法转移的比特币都至少有1000枚——即目前汇率下的100万美元。在这些案件中，有10件的损失超过了1万比特币，即目前汇率下的1000万美元。而政府仅公开介入了其中的一件案子。
+This week, the virtual currency world has been abuzz over a heist in which 96,000 Bitcoins — currently worth about $100 million — were said to be taken from an online marketplace known for selling illegal drugs.
+本周，一次盗窃事件引起了比特币世界的哗然，据称，在这次事件中，9.6万枚比特币——目前价值大约为1亿美元——被从销售毒品的在线市场上偷走。
+The five Chinese agencies that released a notice on Thursday, including the People’s Bank of China, said that citizens of the country would still be allowed to buy and sell digital money, but it warned that participants “assume the risks themselves.”
+周四发布通知的中国五个部委包括中国人民银行，它们表示，中国公民仍然有权购买和出售虚拟货币，但是警告说，参与者需要“自担风险”。
+Authorities in the United States have cracked down on the criminal use of virtual currencies in a few cases, but those have been isolated situations in which the coins have been used for illegal purposes in the real world, like money laundering and trade in illicit goods. The owner of the Silk Road, a website where drugs and weapons could be bought with Bitcoins, was arrested earlier this year.
+美国有关部门已经打击了非法使用虚拟货币的几起案件，但是这些案子都是在真实世界非法使用比特币的彼此孤立的案件，包括洗钱和非法商品交易。“丝绸之路”(Silk Road)是一个可以用比特币购买毒品和武器的网站，其所有者今年早些时候被逮捕。
+But for crimes contained within the Bitcoin network — like thefts from apparently reputable online wallets where Bitcoins are stored — there has been almost no accountability.
+但是，比特币网络内部的犯罪行为——比如从储存比特币的看似有名的网络钱包中盗窃——却几乎还没有任何问责机制。
+The largest Bitcoin payment processor in Europe, BIPS, said last month that it was hacked and that it lost about $1 million worth of Bitcoins, including coins that were in the personal online wallets of customers. The company, which is still in business, said this week that it would be “unable to reimburse Bitcoins lost unless the stolen coins are retrieved.”
+欧洲最大的比特币支付交易处理平台BIPS上个月说，该公司受到了黑客攻击，损失了价值约为100万美元的比特币，包括客户个人网络钱包里的比特币。这家公司仍然在运营，该公司本周表示，将“无法赔偿丢失的比特币，除非被盗的比特币被追回。”
+The company said that the Danish police were examining the case but added that the authorities could “not classify this as a theft due to the current nonregulation of Bitcoin.”
+这家公司说，丹麦警方正在调查此案，但是补充说，有关部门可能“不能将其归类为盗窃案，因为比特币目前处于无监管的状态。”
+Part of the problem is that regulators have not agreed on how to classify Bitcoin. The Securities and Exchange Commission has authority to regulate securities, like stocks, in the United States. This allowed the agency to punish a Bitcoin Ponzi scheme this year because the agreement between the swindler and the victims was considered a security. But so far, the agency has not determined whether Bitcoin itself can be categorized as a security, making it hard for it to crack down on trading fraud.
+部分问题在于，监管机构还没有对比特币的归类达成一致。证券交易委员会(Securities and Exchange Commission)在美国拥有监管股票等证券的权力。这允许该机构今年对一桩比特币庞氏骗局案实施了处罚，因为诈骗者和受害者之间的协议被认定为一种证券。但到目前为止，由于该机构没有对比特币本身是否可以算作证券做出决定，它想要打击交易欺诈就很难。
+Chinese authorities said on Thursday that Bitcoin was a “virtual commodity that does not share the same legal status of a currency.” In the United States, that classification is likely to put Bitcoin under the Commodity Futures Trading Commission. But that agency has not assumed responsibility. In the immediate future, the most likely source of enforcement may be the Federal Bureau of Investigation’s cybersecurity team.
+中国当局周四说，比特币是“一种特定的虚拟商品，不具有与货币等同的法律地位”。在美国，根据这样的定义，比特币很可能要受到商品期货交易委员会(Commodity Futures Trading Commission)的监管。但是该机构还没有承担起这一责任。眼下来看，最有可能实施监管的可能是联邦调查局(Federal Bureau of Investigation)的网络安全团队。
+“It’s becoming something of enough value that these agencies are going to wake up and want to find one of these thieves,” said Patrick Murck, the general counsel at the Bitcoin Foundation, a nonprofit group that promotes virtual currencies. “There is no way that anyone can think this is not a real thing that is not worth going after.”
+推广虚拟货币的非营利组织比特币基金会(Bitcoin Foundation)的首席法律顾问帕特里克·默克(Patrick Murck)说，比特币的价值已经足以让这些机构醒过来，想要抓住这些贼。“不可能还会有人觉得，这没什么价值，不值得花力气调查。”

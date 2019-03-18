@@ -1,0 +1,44 @@
+Over the years, Keith McCarthy has become used to a certain way of doing things on his personal computers, which, like most others on the planet, have long run on Microsoft’s Windows software.
+多年来，基斯·麦卡锡(Keith McCarthy)已经习惯按某种方式用他的个人电脑干活。正如世界上大多数个人计算机一样，这些电脑长期以来使用的都是微软公司(Microsoft)的Windows软件。
+But last week, when he got his hands on a laptop running the newest version of Windows for the first time, Mr. McCarthy was flummoxed.
+但上周，当他第一次使用一台运行新版Windows的笔记本电脑时，他被弄糊涂了。
+Many of the familiar signposts from PCs of yore are gone in Microsoft’s new software, Windows 8, like the Start button for getting to programs and the drop-down menus that list their functions.
+过去的个人电脑中很多熟悉的指示标记没有出现在微软的Windows 8新系统上，比如进入程序的“开始”按钮和开列功能的下拉菜单等。
+It took Mr. McCarthy several minutes just to figure out how to compose an e-mail message in Windows 8, which has a stripped-down look and on-screen buttons that at times resemble the runic assembly instructions for Ikea furniture.
+麦卡锡花了好几分钟才弄清怎样在Windows 8上写电子邮件。新系统有一个简洁的外观，其屏幕上的图标有时候看起来就像宜家(Ikea)家俱难懂的安装说明。
+“It made me feel like the biggest amateur computer user ever,” said Mr. McCarthy, 59, a copywriter in New York.
+“新系统让我觉得成了有史以来最糟的计算机门外汉，”59岁的麦卡锡说。他在纽约从事广告文字撰写工作。
+Windows, which has more than a billion users around the world, is getting a radical makeover, a rare move for a product with such vast reach. The new design is likely to cause some head-scratching for those who buy the latest machines when Windows 8 goes on sale this Friday.
+Windows在全世界有超过10亿的用户，该系统的大改版对一个拥有如此广泛用户基础的产品来说是罕见之举。对那些在周五Windows 8上市之时购买最新型机器的人来说，新设计有可能会令有些令人挠头。
+To Microsoft and early fans of Windows 8, the software is a fresh, bold reinvention of the operating system for an era of touch-screen devices like the iPad, which are reshaping computing. Microsoft needs the software to succeed so it can restore some of its fading relevance after years of watching the likes of Apple and Google outflank it in the mobile market.
+对微软公司和Windows 8的早期粉丝来说，该软件是在触屏时代对操作系统进行的一次新颖而大胆的革新，如iPad这样的触屏设备正在重塑计算机行业。几年来，微软公司眼看着苹果公司(Apple)和谷歌公司(Google)在移动市场上将自己挤出去，微软需要通过新软件的成功来恢复其逐渐衰落的地位。
+To its detractors, though, Windows 8 is a renovation gone wrong, one that will needlessly force people to relearn how they use a device every bit as common as a microwave oven.
+但对Windows 8的批评者来说，该系统的翻新搞得一团糟，这次翻新给用户带来不必要的麻烦，强迫人们重新学习如何使用一个各个方面象微波炉一样平常的设备。
+“I don’t think any user was asking for that,” said John Ludwig, a former Microsoft executive who worked on Windows and is now a venture capitalist in the Seattle area. “They just want the current user interface, but better.”
+“我认为没有人会自寻烦恼，”曾在微软负责Windows产品的前高管、现在西雅图地区从事风险资本业务的约翰·路德维格(John Ludwig)说。“他们只想要一个在目前用户界面基础上的更好的界面。”
+Mr. Ludwig said Microsoft’s strategy was risky, but it had to do something to improve its chances in the mobile business: “Doing nothing was a strategy that was sure to fail.”
+路德维格说，微软的策略有风险，但它必须采取行动来增加其在移动业务上的机会：“按兵不动的策略必败无疑。”
+Little about the new Windows will look familiar to those who have used older versions. The Start screen, a kind of main menu, is dominated by a colorful grid of rectangles and squares that users can tap with a finger or click with a mouse to start applications. Many of these so-called live tiles constantly flicker with new information piped in from the Internet, like news headlines and Facebook photos.
+对那些使用过老版Windows系统的人来说，新系统几乎没有令人熟悉的东西。占据“开始”屏幕（类似于一个主菜单）的，是由长方形和正方形组成的彩色网格，用户可以用手指或鼠标的点击来启动应用程序。这些所谓的“动态磁贴”会不断地闪烁，显示通过互联网进来的新信息，如新闻标题和Facebook的照片等。
+What is harder to find are many of the conventions that have been a part of PCs since most people began using them, like the strip of icons at the bottom of the screen for jumping between applications. The mail and calendar programs are starkly minimalist. It is as if an automaker hid the speedometer, turn signals and gear shift in its cars, and told drivers to tap their dashboards to reveal those functions.
+已成为个人计算机惯例的很多东西（这些东西自大多数人使用电脑之初就存在）在新系统上很难找到，如位于屏幕底部的任务栏，其作用是便于在不同应用程序之间进行切换。邮件和日历程序被彻底简化。新界面就像是某个汽车制造商把里程计、转弯指示灯开关、和变速杆藏在车里的某个部位，需要司机点击仪表盘才能找到这些功能。
+Microsoft knew in the summer of 2009 that it wanted to shake up Windows. It held focus groups and showed people prototypes of the tile interface and its live updates.
+微软公司在2009年夏季就决定要对Windows进行大改造。公司召集了专项小组，向人们展示磁贴界面的原型及其动态更新功能。
+“We would get this delightful reaction of people who would say, ‘This is so great, and it has Office too,’ ” said Jensen Harris, Microsoft’s director of program management for the Windows user experience.
+“我们会收到人们的积极反馈，他们会说，‘新设计太棒了，而且还有Office软件，’”微软公司Windows用户体验的项目管理负责人詹森·哈里斯(Jensen Harris)说。
+Sixteen million people have been using early versions of the software. The boldness of the changes has delighted some users, who say they believe that for the first time, the company is taking greater creative risks than its more celebrated rival, Apple.
+目前已有1600万人在使用该软件的早期版本。这些大胆的改变让一些用户高兴，他们认为这是微软公司首次敢于承担更大的创意风险，超过了其著名的竞争对手苹果公司。
+To help it gain traction in the mobile market, Microsoft made Windows 8 a one-size-fits-all operating system for touch-screen tablets, conventional computers with keyboards and mice, and newer devices that combine elements of both.
+为了帮助其打入移动市场，微软公司设计的Windows 8是一个通用型的操作系统，适合触屏式平板电脑、带有键盘和鼠标的传统电脑、以及综合了以上两种元素的新型设备。
+Apple took the opposite approach with the Mac and mobile devices like the iPad, which have distinct interfaces, albeit with some shared technologies. Timothy D. Cook, Apple’s chief executive, has said of Microsoft’s strategy: “You can converge a toaster and refrigerator, but these things are probably not going to be pleasing to the user.”
+苹果公司对Mac电脑和iPad这样的移动设备采取了相反的策略。他们为iPad设计了不同于电脑的界面，尽管两者共享了一些技术。苹果公司的首席执行官蒂莫西·D·库克(Timothy D. Cook)这样评价微软的策略：“你可以将烤面包机和冰箱合为一体，但这样的东西可能不会取悦用户。” 
+Jakob Nielsen, a user interface expert at the Nielsen Norman Group, conducted tests with four people who used a traditional computer running Windows 8 and found that they had “a lot of struggles” with the new design. Mr. Nielsen said they appeared to become especially confused when shifting back and forth between the modern Windows 8 mode and the desktop mode.
+尼尔森诺曼集团(Nielsen Norman Group)的用户界面专家雅各布·尼尔森(Jakob Nielsen)进行了一项测试，他观察了四人使用运行Windows 8系统的传统电脑，发现这些人面对新设计遇到了“大量挑战”。尼尔森说，他们在新Windows 8模式和桌面模式间切换时显得特别困惑。
+Mr. Nielsen said Windows 8 was more suitable for tablet computers with their smaller displays, but it was not helpful for workers who needed to have lots of applications visible at once.
+尼尔森说，Windows 8更适合屏幕更小的平板电脑，但对那些需要能同时看到很多应用程序的工作人员来说并不可取。
+“I just think when it comes to the traditional customer base, the office computer user, they’re essentially being thrown under the bus,” Mr. Nielsen said.
+“我只是觉得，对那些传统的用户群，即办公室里的电脑使用者来说，他们基本上被出卖了，”尼尔森说。
+Microsoft disputes this idea. Mr. Harris said most test users did not have trouble juggling the two modes — and regardless, workers were more likely to operate in desktop mode if they wanted to see many applications simultaneously.
+微软公司不同意这一观点。哈里斯说，很多测试用户在切换这两种模式时没有遇到困难。不管怎样，如果用户想要同时看到很多应用程序，他们更可能使用桌面模式。
+Microsoft is convinced that most people will quickly become accustomed to Windows 8. But to help ease the transition, the software offers tutorials when it is first started up. And Microsoft is spending more than $500 million on a marketing campaign that is partly intended to familiarize people with the new design.
+微软公司确信，大多数人会很快习惯Windows 8。但为了便于过渡，该系统在首次启用时会提供学习指南。微软公司正斥资5亿美元用于市场推销活动，部分目的是帮助人们熟悉新设计。

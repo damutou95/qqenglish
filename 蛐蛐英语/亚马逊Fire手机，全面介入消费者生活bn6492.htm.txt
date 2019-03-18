@@ -1,0 +1,56 @@
+SEATTLE — Amazon on Wednesday announced a device that tries to fulfill the retailer’s dream of being integrated into consumers’ lives at every possible waking moment — whether they are deciding where to eat, realizing they need more toilet paper or intrigued by a snatch of overheard music.
+西雅图——本周三亚马逊(Amazon)发布的一款设备，试图满足这家零售商的一个梦想：在消费者清醒着的每时每刻，都能融入到他们的生活——无论是在决定到哪里吃饭、还是发觉该买卫生纸了，或是被偶然听到的一段音乐迷住。
+The device is a cellphone, but making calls on it got almost no attention at all at the event in Seattle where it was unveiled. The Fire phone, the product of four years of research and development, offers Amazon fans the chance to live in an Amazon-themed world, where just about every element can be identified, listed, ranked, shared and, of course, ordered.
+这台设备是一款手机，但是它在西雅图举行的发布会上亮相时，打电话的功能几乎无人注意。经过四年研发的Fire手机，为粉丝们提供了一个生活在“亚马逊主题世界”里的机会，这个世界里的几乎每种东西都可以被识别、加入列表、排序、分享，当然还能订购。
+It offered a view of a mobile future that will be alluring to some but might repel others.
+它所勾勒出的移动生活的未来景象，对一些人充满吸引力，但可能会引起另一些人的反感。
+If the device works as described, and Amazon entices even a small portion of its 250 million active customers to buy one, the Fire could accelerate Amazon’s already intense competition with other retailers and tech companies, not to mention intensifying some of its current battles with suppliers.
+如果这款设备真的能像描述的那样工作，亚马逊2.5亿名活跃顾客中即便只有一小部分购买了Fire，这款手机也可能会加剧亚马逊与其他零售商和科技公司之间，已经相当激烈的竞争，也会激化当前与一些供应商之间冲突。
+As if to underline the no-gloves nature of the battle, a promotional video in the first few moments of the presentation took a direct slap at Apple. Both Apple and Samsung were criticized as having inferior cameras in their devices, and there seemed to be other jabs at technology like Google Glass.
+仿佛是为了强调这场战斗酷似肉搏的特征，在演示刚开始时播放的一段视频，直接抨击了苹果(Apple)。亚马逊批评，苹果和三星(Samsung)设备摄像头低劣，而且似乎对谷歌眼镜(Google Glass)等技术也屡有批评。
+The Fire’s product recognition feature, Firefly, “is potentially a real threat to bricks and mortar retailers,” said Rebecca Lieb, an analyst with the Altimeter Group. “Scan a product or listen to music, and you’re delivered straight to the page on Amazon on which you can purchase it. Impulse shopping just went to a new level.”
+Fire的产品识别功能Firefly，“对实体店铺零售商可能会是一个实质性的威胁，”奥特米特集团(Altimeter Group)分析师丽贝卡·利布(Rebecca Lieb)说。“你扫描一款产品或者听音乐，就可以直接抵达相应的亚马逊页面上下单购买。冲动购物就这样上升到了一个新的层次。”
+Amazon’s phone — consumers can order it now; it ships starting July 25 — is arriving as the leading technology companies are increasingly trying to develop an array of services and products to keep consumers from wandering, the digital equivalent of Disney not wanting you to leave Disneyland for lunch. Microsoft brought out a tablet; Facebook tried a phone; Google is experimenting with a shopping and delivery service.
+消费者现在可以预定Fire，产品将从7月25日起开始发货。亚马逊是在这样一种潮流下推出Fire的：大牌科技公司正越来越努力地开发一系列服务和产品，希望消费者不要游逛到别处——数字世界中的迪士尼(Disney)，不想让你离开迪士尼乐园(Disneyland)去吃午餐。微软推出了平板电脑；Facebook用一款手机试水；谷歌(Google)正在尝试购物和送货服务。
+Against such a frenzy of competition and innovation, an Amazon phone was inevitable. The company’s leaders asked themselves only one question, Jeffrey P. Bezos, Amazon’s founder and chief executive, told the crowd at the event: “Can we build a better phone for our most engaged customers?”
+在如此狂热的竞争和创新之中，亚马逊推出一款手机不可避免。该公司的领导层只问了自己一个问题，亚马逊创始人及首席执行官杰弗里·P·贝佐斯(Jeffrey P. Bezos)在发布会上告诉大家：“我们能为最忠实的顾客打造一款更好的手机吗？”
+Mr. Bezos promoted Firefly heavily, as well as something Amazon calls Dynamic Perspective. Cameras on the phone allow the user to gain another view of a video game or see layered information on a map, like a Yelp review. Whether Dynamic Perspective is a gimmick or something more will depend on how aggressively developers invent new apps for it.
+贝佐斯对Firefly，以及亚马逊称为“动态视角”(Dynamic Perspective)的功能大加称赞。利用这项功能，Fire手机上的摄像头可以让用户看到电子游戏中的另一个视角，或在地图上看到另外的信息层，比如Yelp上的评价。“动态视角”是不是仅仅是个噱头，取决于开发人员是否会积极地为它研发新应用。
+“This is the next big battleground in the ecosystem war,” said Ben Schachter, an analyst with Macquarie. “Amazon is not going to turn the tide decisively in its favor with this, but just needs to establish a beachhead.”
+“这是生态系统之战中的下一个大战场，”麦格理(Macquarie)分析师本·沙克特(Ben Schachter)表示。“亚马逊无法靠这款手机扭转战局，但它也只需要建立一个滩头阵地。”
+The announcement took place in a warehouselike space filled with 300 members of the news media, app developers and handpicked Amazon fans. The presentation began with videos from people begging to attend; 60,000 people applied to do so.
+发布会在一个类似仓库的场所举行，有300人出席，包括新闻媒体人士、应用开发人员和精心挑选的粉丝。发布会的演示刚开始时，播放了几段人们乞求参加的视频——申请者多达6万名。
+Mr. Bezos began by citing laudatory reviews of the company’s existing hardware, including its tablets. “The most important thing we’ve done over 20 years is earn trust with customers,” he said.
+贝佐斯一开始发言，就谈到了亚马逊现有设备获得的好评，包括平板电脑。“这20多年来我们做的最重要的事情，就是赢得顾客的信任，”他说。
+Amazon’s leap into the smartphone business comes as sales of the devices are beginning to mature, at least in the United States and Europe. Their use for shopping, however, is just beginning to explode. In the United States, purchases made with phones will jump more than 25 percent this year to over $18 billion, according to eMarketer. At the moment, most mobile shopping is done with tablets.
+亚马逊涉足智能手机业务的这个时候，手机销售正在开始走向成熟阶段，至少在美国和欧洲如此。然而，在手机上购物还方兴未艾。eMarketer的数据显示，美国的手机购物金额今年将飙升25%，突破180亿美元。目前，大多数移动购物活动都是通过平板电脑进行的。
+Mr. Bezos, for all his zeal, was relatively circumspect about the phone’s ultimate implications. Ralph de la Vega, chief executive of AT&T Mobility, Amazon’s carrier partner, was more direct during a brief appearance on stage.
+虽然贝佐斯热情洋溢，但对于手机的最终意义却显得比较谨慎。拉尔夫·德拉维加(Ralph de la Vega)是亚马逊的合作运营商AT&T移动(AT&T Mobility)的首席执行官，他在发布会的舞台上短暂亮相时，使用了比较直白的措辞。
+“I am going to buy a whole lot more things with this technology than I ever have before,” Mr. de la Vega said.
+“使用这款手机，我的购物量会远远超过以往任何时候，”德拉维加说。
+One interesting question will be whether the phone will allow apps that might take customers to retailers whose prices undercut Amazon. Will residents of Planet Amazon, in other words, be permitted to visit other shopping worlds?
+一个有趣的问题是，这款手机是否会允许安装一些应用，把顾客带到价格比亚马逊低的零售商那里。换句话说，它是否允许“亚马逊星球”的居民访问其他购物场所？
+“Our idea is to give the lowest price to the customer,” Dave Limp, an Amazon executive, said in an interview. “If we don’t have it, shame on us.”
+亚马逊的一名高管戴夫·林普(Dave Limp)在采访中说，“我们的理念是给客户提供最低的价格。如果我们做不到，那是我们的耻辱。”
+As for whether customers will go into physical stores, check a price with Firefly, and order the item right then — inflaming Amazon’s already bitter relations with Main Street — Mr. Limp noted that people could do the reverse: Look up something on Amazon and then buy it in a store.
+至于客户是否会去实体店，用Firefly查看价格，然后立即订购产品——那会极大地恶化亚马逊与实体经济之间已然十分紧张的关系——林普说，人们可能会反着来，在亚马逊网站上查看某件商品，然后去实体店购买。
+“Both ways are very valuable for customers,” he said.
+他说，“这两种方式对顾客来说都很有价值。”
+The lengthy development process for the Amazon phone was partly a result of the difficulty of the task. Phones are a graveyard of tech dreams. Just ask Google, which was hailed as a genius for buying the handset maker Motorola, and then hailed again for cutting its losses and promptly selling the faded icon. Only Apple and Samsung have found making phones consistently profitable.
+亚马逊手机的开发过程之所以如此漫长，部分是因为开发的难度相当大。手机是科技梦想的墓地，只要问问谷歌就明白了。谷歌在收购手机制造商摩托罗拉(Motorola)时被誉为天才。之后，谷歌又为了减少亏损，迅速出售这个风光不再的品牌，于是再次被誉为天才。只有苹果和三星在靠制造手机不断地赢利。
+But Amazon, as always, is operating with a different playbook.
+然而，和往常一样，亚马逊在用截然不同的战术经营手机。
+When Amazon introduced the Kindle Fire in 2011, there was a lot of chatter about its being a challenge to Apple’s iPad. It was not. In the first quarter of this year, Apple had about a third of the tablet market, according to the research firm IDC. Amazon had less than 2 percent.
+2011年亚马逊推出Kindle Fire平板电脑时，外界纷纷议论它会对苹果iPad构成挑战。它没有。根据研究公司IDC的数据，今年第一季度，苹果在平板电脑市场的占有率达到了约三分之一，亚马逊的占有率还不到2%。
+Still, that is a million more consumers taking up residence in the Amazon ecosystem. Just about anyone who has a Kindle Fire is a candidate for membership in Amazon’s fast-shipping club, Amazon Prime, and just about any Prime member might be enticed to buy a Kindle. Amazon Prime has an estimated 20 million subscribers, who pay $99 a year.
+尽管如此，这个数字依然意味着有100万新增消费者，在亚马逊的生态系统安家落户。几乎每一个拥有Kindle Fire的消费者，都有望成为亚马逊Prime会员，享有快速配送服务，而几乎每一个Prime会员都有可能受到诱惑，购买一台Kindle。据估计，亚马逊Prime会员有2000万人，每年会支付99美元会员费。
+The Fire Phone, which will be available late next month, costs $199 with a two-year contract with AT&T. But Amazon, as expected, is sweetening the deal with a year of free membership in the Prime club.
+将于下个月底上市的Fire手机，售价为199美元，附带AT&T的两年合约。不过，不出所料的是，亚马逊还提供了颇为诱人的优惠：一年的免费Prime会员服务。
+“If they are able to capture 10 percent of those Prime subscribers in the near term, then that would likely constitute a success,” said Eugene Signorini, vice president of mobile insights at Mobiquity.
+Mobiquity公司手机调研部副总裁尤金·西尼奥里尼(Eugene Signorini)说，“如果他们能在近期俘获10%的Prime客户，这款手机就称得上成功。”
+That would force Google and Apple, and possibly Facebook and Microsoft as well, to introduce innovations and new features in their own products. That would benefit consumers in the short term, Mr. Schachter said.
+这款手机将迫使谷歌和苹果，也许还有Facebook和微软(Microsoft)创新自己的产品，增加新的功能。沙克特说，这会在短期内让消费者。
+And in the long term, if Amazon or one of the other companies becomes dominant to the exclusion of all others?
+从长期看，如果亚马逊或其他公司中有某一家独霸市场，把其他公司都排挤出局会怎样？
+“That might be more problematic,” Mr. Schachter said.
+沙克特说，“那样可能会更成问题。”

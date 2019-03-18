@@ -1,0 +1,52 @@
+Researchers are reporting that injections of long-lasting AIDS drugs protected monkeys for weeks against infection, a finding that could lead to a major breakthrough in preventing the disease in humans.
+研究人员称，给猴子注射长效艾滋病药物，可以保护它们在数周内免遭艾滋病毒感染，这一发现可能会在预防人类罹患艾滋病方面带来重大突破。
+Two studies by different laboratory groups each found 100 percent protection in monkeys that got monthly injections of antiretroviral drugs, and there was evidence that a single shot every three months might work just as well.
+两个实验室团队分别进行的两项研究发现，每月注射抗逆转录病毒药物的猴子，100%都没有感染艾滋病毒，而且有证据表明，每三个月注射一次的效果可能也差不多。
+If the findings can be replicated in humans, they have the potential to overcome a major problem in AIDS prevention: that many people fail to take their antiretroviral pills regularly.
+如果这一发现也适用于人类，研究人员就有可能克服艾滋病防治领域的一个重大问题：很多人不能按时服用抗逆转录病毒药物。
+A preliminary human trial is to start late this year, said Dr. Wafaa El-Sadr, an AIDS expert at Columbia University’s Mailman School of Public Health, but a larger trial that could lead to a treatment in humans may still be some years away.
+初步人体试验计划于今年年底启动，哥伦比亚大学梅尔曼公共卫生学院(Columbia University’s Mailman School of Public Health)的艾滋病专家瓦法阿·萨德尔(Wafaa El-Sadr)说。但要开展更大规模的、可能产生人类治疗方案的试验，可能仍需等到好几年之后。
+It has been known since 2010 that healthy people taking a small daily dose of antiretroviral drugs — a procedure known as pre-exposure prophylaxis, or PreP (pronounced prep) — can achieve better than 90 percent protection against infection.
+研究人员从2010年就知道，健康人每日服用小剂量的抗逆转录病毒药物——这种做法称为“暴露前预防用药”（pre-exposure prophylaxis，简称PrEP）——预防艾滋病毒感染的有效率可达90%以上。
+But in several clinical trials since then in gay men, in intravenous drug users and in couples where one partner is infected, it has been shown that the only participants protected were those who took their pills every day without fail. Many did not.
+但是，此后在男同性恋者、静脉吸毒者和其中一方已经感染的伴侣中开展的几个临床试验表明，只有参与者不间断地每天服药，PreP才能保护他们免遭感染。但很多人都没有按时服药。
+The failure rate was particularly acute among women in Africa. Although some participants in one PreP study told researchers that they were scared by rumors about side effects, many also said they were afraid to keep the pills in their home because their sexual partner or a neighbor might see them and mistakenly assume they already had the disease.
+非洲妇女不按时服药的比例特别高。在一个PreP研究中，一些参与者告诉研究人员，他们被药片副作用的传闻吓坏了，但很多人也表示，他们担心把这些药片放在家中，会被性伴侣或邻居看到，误以为他们已经患上了艾滋病。
+An intramuscular injection that a woman could get every three months could change all that, several AIDS experts said.
+肌肉注射可以改变这种状况，一名女性每三个月进行一次这种注射即可，几名艾滋病专家说。
+In Africa and elsewhere in the developing world, many women already receive shots of long-lasting birth control hormones like Depo-Provera, preferring them to daily pills, which might anger spouses or boyfriends who find them.
+在非洲和其它发展中国家，很多女性已经在注射像狄波-普维拉(Depo-Provera)这样的长效节育激素，她们更愿意注射而不是每天服药，因为配偶或男友可能会发现这些药片，并被此事激怒。
+About the injection protocol tested in monkeys, Dr. David Ho, director of the Aaron Diamond AIDS Research Center at Rockefeller University and an author of one of the studies, said the popularity of Depo-Provera was “a good analogy for how it might work in developing countries.”
+关于在猴子身上测试的注射方案，何大一(David Ho)博士说，对于它如何在发展中国家发挥效果，狄波-普维拉注射方式的流行是“一个很好的类比”。何大一博士是洛克菲勒大学艾伦·戴蒙德艾滋病研究中心(Aaron Diamond AIDS Research Center)的主任，也是其中一项研究的作者。
+In the other study, conducted by the Centers for Disease Control and Prevention in Atlanta, six female monkeys were given monthly injections of GSK744, an experimental drug that is a long-lasting form of an antiretroviral drug already approved for H.I.V. treatment by the Food and Drug Administration.
+另一项研究是由亚特兰大的美国疾病控制与预防中心(Centers for Disease Control and Prevention)进行的，研究人员给六只雌猴注射了GSK744，这是一种实验性药物，是一种已经获得美国食品与药品监督管理局（Food and Drug Administration，简称FDA）批准用于HIV治疗的抗逆转录病毒药物的长效配方。
+Six other monkeys got a placebo.
+另外六只猴子被注射了安慰剂。
+Twice a week, liquid containing human-simian immunodeficiency virus, a hybrid human-monkey version of the virus that causes AIDS, was pumped into their vaginas, simulating sex with an infected monkey.
+研究人员每周两次把含有人-猴免疫缺陷病毒的液体灌入雌猴的阴道，模仿跟已感染猴子进行的性行为。这种病毒是引起艾滋病的病毒的一个人-猴混合版本。
+None of the monkeys protected by GSK744 became infected. All six who got the placebo were infected quickly.
+在注射了GSK744的猴子中，没有任何一只感染病毒。而六只注射安慰剂的猴子很快全都感染上了病毒。
+The Rockefeller researchers did a similar experiment with 16 monkeys using the same drug. They got rectal washes of the virus, imitating anal sex.
+洛克菲勒的研究人员使用相同的药物，对16只猴子进行了类似的实验。这种病毒被灌入猴子的直肠，模仿肛交。
+The results were the same: All the monkeys that got the drug were protected, compared with none of the monkeys that did not get it.
+结果是相同的：所有注射了药物的猴子都没有感染病毒，所有没有注射药物的猴子都感染了。
+Dr. Ho’s team also tested to see how much of the drug had to be in a monkey’s blood and tissue to be protective. They found that an amount large enough to protect was “eminently achievable in humans with a quarterly injection,” Dr. Ho said.
+何博士的研究小组还测试了一只猴子的血液和组织中必须含有多少药物，才能达到预防效果。他们发现了一个足够大的剂量，“人类每个季度注射一次，即可达到显著的预防效果”，何博士说。
+The studies were presented here on Tuesday at the annual Conference on Retroviruses and Opportunistic Infections.
+本周二，在一年一度的“逆转录病毒和机会性感染大会”(Conference on Retroviruses and Opportunistic Infections)上，研究人员对这两项研究进行了介绍。
+Dr. Anthony S. Fauci, director of the National Institute for Allergy and Infectious Diseases, called the results “very impressive for something in the animal model.”
+美国国家过敏症和传染病研究所(National Institute for Allergy and Infectious Diseases)主任安东尼·S·弗契（Anthony S. Fauci)博士表示，“对于动物试验而言，”结果“给人留下了非常深刻的印象”。
+Mitchell J. Warren, executive director of AVAC, an organization lobbying for AIDS prevention and treatment, said a long-acting injectable drug “is clearly the place to go because adherence has been the Achilles’ heel of PreP.”
+米切尔·J·沃伦(Mitchell J. Warren)是艾滋病防治游说组织AVAC的执行主管，他说，使用长效注射剂“显然是正确的方向，因为PreP的弱点是需要坚持服药。”
+But he argued that people at risk of H.I.V. infection would eventually need several options, just as women seeking birth control want to be able to choose among pills and other options.
+但他表示，如果一个人面临着感染艾滋病毒的风险，他需要有多种方法可供选择，就像希望节育的女性希望能够在服药和其他方法中进行选择一样。
+A similar experimental drug known as TMC278 was tested in monkeys several years ago and also protected them, although the study was not identical to the two released Tuesday.
+几年前，研究人员曾经使用名为TMC278的类似实验性药物在猴子身上进行测试，同样也保护了它们免遭病毒感染，虽然那项研究跟本周二宣布的这两项有所不同。
+But little attention was paid then “because people were focused on other things,” Mr. Warren said.
+但当时那项研究几乎没有引起注意，“因为大家的注意力集中在了别的事情上”，沃伦说。
+The human trial expected to start later this year will be small, enrolling only 175 people in the United States, South Africa, Malawi and Brazil. Dr. El-Sadr, of Columbia, said the study should take up to three years before a larger trial to see if the injection method works in people as effectively as it does in monkeys.
+预计在今年晚些时候启动的人体试验规模较小，只会在美国、南非、马拉维和巴西招收175名参与者。哥伦比亚大学的萨德尔博士说，这项研究最长应该持续三年，看看注射方法对人是否跟对猴子一样有效，然后再开展更大规模的试验。
+Human trials take time and require huge numbers of participants, partly because it is unethical to conduct a trial without offering participants all the options approved, including condoms and the pill versions of PreP.
+人体试验花费的时间较长，而且需要大量参与者，部分是因为如果进行一个试验，却没有为参与者提供所有获得过批准的选择，比如避孕套和PreP口服药，这样的试验缺乏职业道德。
+“You know some people are going to say they want them and then will end up not using them,” Mr. Warren said. “But you still have to offer them.”
+“有些人会说想要这些选择，但其实又不会使用它们。”沃伦说，“但你还是要为他们提供这些选择。”

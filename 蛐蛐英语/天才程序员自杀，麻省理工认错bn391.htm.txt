@@ -1,0 +1,28 @@
+A long-awaited report released Tuesday by the Massachusetts Institute of Technology found that it made mistakes but engaged in no wrongdoing in the case of Aaron Swartz, a renowned programmer and charismatic technology activist who committed suicide in January while facing a federal trial on charges of hacking into the institute’s computer network.
+周二，麻省理工学院（Massachusetts Institute of Technology，简称MIT）公布了一份期待已久的报告，该报告指出，MIT在阿龙·斯沃茨(Aaron Swartz)一案中犯了错，但不存在不法行为。这位知名程序员、充满魅力的技术活动人士于今年1月自杀，当时他被控侵入麻省理工学院的计算机网络，面临联邦法院的审判。
+Mr. Swartz was arrested in January 2011 after having downloaded more than four million scholarly articles from the subscription-based online archive JSTOR; to gain access to M.I.T.'s network, he entered an unlocked closet in the basement of a campus building.
+斯沃茨在从网络收费数据库JSTOR下载了超过400万篇学术文章，之后于2011年1月被逮捕。为了访问MIT的网络，他进入了一栋校园建筑的地下室里一个没有上锁的小房间。
+Mr. Swartz had long argued for public access to many kinds of important documents hidden behind walls of copyright. What he intended to do with the documents has not been established, but he was a co-author of a “guerrilla open-access manifesto” that stated, “We need to take information, wherever it is stored, make our copies and share them with the world.”
+长期以来，斯沃茨一直力主向公众开放多种受版权保护的重要文件。斯沃茨获取文件的目的还没有得到证实，但他是“游击队开放访问宣言”(guerrilla open-access manifesto)的联合作者，该宣言称，“我们要取得信息，无论它们储存在何处，然后制作副本，和全世界分享。”
+The criminal case drew worldwide attention, in part because Mr. Swartz was just 26 years old at the time of his death and because the maximum possible sentence, initially said to be more than 30 years, suggested prosecutorial bullying to critics of the case and illustrated the disparity between punishment for high-tech crimes and other offenses. (Negotiations had taken place for a sentence of less than a year but were no longer under way at the time of Mr. Swartz’s death.)
+这起刑事案件吸引了全世界的注意，部分是因为斯沃茨死时只有26岁，也因为他可能面对的最高刑罚说明该案的批评者遭受了检方的欺凌，表明针对高科技犯罪及其他犯罪行为的处罚存在差异。根据最初的传言，他面临的刑罚可能会超过30年。（有关人员曾开展谈判，要求不足一年的刑期，但在斯沃茨自杀之时，谈判已经停止。）
+The report states that in Mr. Swartz’s case “M.I.T. missed an opportunity to demonstrate the leadership that we pride ourselves on,” based on its reputation as an institution known “for promoting open access to online information, and for dealing wisely with the risks of computer abuse.”
+报告称，在斯沃茨的案件中，“MIT错失了展现我们引以为傲的领导力的机会”，这种领导力基于MIT的声望，因为它以“推动网络信息公开及明智处理电脑滥用风险”而闻名。
+In a letter to students and faculty and staff members, the institute’s president, L. Rafael Reif applauded the “careful account” that he said set “the record straight by dispelling widely circulated myths.” The report, he said, “makes clear that M.I.T. did not ‘target’ Aaron Swartz, we did not seek federal prosecution, punishment or jail time, and we did not oppose a plea bargain.”
+在给学生及教职工的信中，MIT校长L·拉斐尔·赖夫(L. Rafael Reif)称赞这是份“谨慎的报告”，“通过驱散广泛流传的谣言澄清了事实”。他表示，该报告“表明MIT没有‘针对’阿龙·斯沃茨，我们没有要求联邦对他实施起诉、惩罚或监禁，也没有反对达成认罪协议。”
+He also said he read the report “with a tremendous sense of sorrow” over the pain to Mr. Swartz’s family and friends, and to the Internet community, which “lost an exceptional leader.”
+他还表示，他“怀着极其沉痛的心情”阅读了这份报告，对斯沃茨的亲友以及“失去优秀领袖”的网络社区所遭受的痛苦深表遗憾。
+“Even those of us who never knew him,” he wrote, “mourn the loss of someone so young and so brilliant.”
+“就连我们这些不认识他的人，”他写道，“都为失去这样一个如此有才华、如此年轻的人而感到惋惜。”
+The 180-page report was written by a panel led by Hal Abelson, a professor of computer science and a well-regarded activist on the open-access issues championed by Mr. Swartz. The panel interviewed about 50 people and reviewed 10,000 pages of documents.
+这篇长达180页的报告是由哈尔·埃布尔森(Hal Abelson)领导的一个小组撰写的，埃布尔森是一名计算机科学教授，也是斯沃茨所倡导的开放访问问题上一位颇有名望的活动人士。小组与大约50人进行了访谈，并对1万页文件进行了审核。
+It will almost certainly not satisfy those who have argued that M.I.T. could have done much more to end the prosecution of a young man whose promise was great and whose actions caused no damage to the institution’s computer network or to the database of scholarly articles. Taren Stinebrickner-Kauffman, Mr. Swartz’s partner at the time of his death, called the report a “whitewash.”
+几乎可以肯定，这份报告无法让一些人感到满意，那些人认为，麻省理工原本可以为结束这个年轻人所受的指控做出多得多的努力，这个年轻人志向远大，他的行为也没有对麻省理工的计算机网络或者学术论文数据库带来任何损害。斯沃茨去世时的伴侣塔伦·斯蒂内布里克纳-考夫曼 (Taren Stinebrickner-Kauffman)称，这篇报告是一种“粉饰”。
+Robert Swartz, Mr. Swartz’s father, said Professor Abelson had “done a good job collecting and presenting the facts,” but he had no compliments for M.I.T. or its role. “M.I.T. claimed it was neutral,” he said, “and it was not — and besides, should have advocated on Aaron’s behalf.”
+斯沃茨的父亲罗伯特·斯沃茨(Robert Swartz)说，埃布尔森教授“在搜集和呈现事实方面做得很好”，但他对麻省理工及其所扮演的角色不敢恭维。“麻省理工声称自己处于中立位置，”他说，“但它并不中立。此外，它本应该为阿龙发出呼吁。”
+The report, he said, “is an important step in understanding what went wrong in the handling of Aaron’s case.”
+他说，这份报告“是相当重要的一步，可以帮助弄清阿龙案件的处理过程中哪里出了差错”。
+He said that what happens next would show whether an institution devoted to learning has learned anything from the tragedy.
+他说，下一步的情况将会表明，这所致力于学习的学校是否从这场悲剧当中吸取了教训。
+“What’s important is M.I.T.'s response to the report,” he said, adding that he looks forward to working with Mr. Reif “to drive real structural change at the university to make sure that this kind of tragedy never happens again.”
+“重要的是，麻省理工会如何回应这份报告，”他说。他还说自己期待与赖夫进行合作，“推动麻省理工进行真正的制度改革，以确保此类悲剧不会再次发生”。

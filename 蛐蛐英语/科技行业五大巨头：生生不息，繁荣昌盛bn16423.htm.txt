@@ -1,0 +1,56 @@
+There’s a little parlor game that people in Silicon Valley like to play. Let’s call it, Who’s Losing?
+硅谷的人喜欢玩一个小小的室内游戏。咱们就叫它“谁在走下坡路”吧！
+There are currently four undisputed rulers of the consumer technology industry: Amazon, Apple, Facebook and Google, now a unit of a parent company called Alphabet. And there’s one more, Microsoft, whose influence once looked on the wane, but which is now rebounding.
+在目前的消费科技行业，亚马逊(Amazon)、苹果(Apple)、Facebook和谷歌(Google)是无可争辩的统治者。后者现在隶属于一家名为Alphabet的母公司。当然，还有微软(Microsoft)。微软的影响力一度让人感觉是在衰减，但现在有所回升。
+So which of these five is losing? A year ago, it was Google that looked to be in a tough spot as its ad business appeared more vulnerable to Facebook’s rise. Now, Google is looking up, and it’s Apple, hit by rising worries about a slowdown in iPhone sales, that may be headed for some pain. Over the next couple of weeks, as these companies issue earnings that show how they finished 2015, the state of play may shift once more.
+那么，这五家公司中谁在走下坡路呢？一年前，当谷歌的广告业务似乎更容易受到Facebook崛起的影响时，该公司似乎处境艰难。但现在，谷歌的情况正在好转，因为iPhone销量放缓而引发日益强烈担忧的苹果，却可能会经历一些痛苦。接下来的几周里，随着这些公司公布能彰显自己2015年战绩的收益，局面可能又会产生变化。
+But don’t expect it to shift much. Asking “who’s losing?” misses a larger truth about how thoroughly Amazon, Apple, Facebook, Google and Microsoft now lord over all that happens in tech.
+但不要指望会有大的变化。问“谁在走下坡路”忽略了一个更广泛的事实。这个事实涉及当前亚马逊、苹果、Facebook、谷歌和微软对科技领域方方面面的全面控制。
+Who’s really losing? In the larger picture, none of them — not in comparison with the rest of the tech industry, the rest of the economy and certainly not in the influence each of them holds over our lives.
+谁真的在走下坡路呢？纵观全局，它们谁都没有。和科技行业的其他企业及其他经济领域相比，它们没有走下坡路，就它们各自对我们生活的影响而言，答案也无疑是否定的。
+Tech people like to picture their industry as a roiling sea of disruption, in which every winner is vulnerable to surprise attack from some novel, as-yet-unimagined foe. “Someone, somewhere in a garage is gunning for us,” Eric Schmidt, Alphabet’s executive chairman, is fond of saying.
+科技圈的人喜欢把自己所在的行业说成是一片波涛汹涌的海洋，时刻面临颠覆性的变化。在这片海洋中，每一个赢家都容易遭受尚且不为人知的新对手出其不意的攻击。Alphabet公司执行董事长埃里克·施密特(Eric Schmidt)喜欢说，“在某个车库里，某个人正在伺机攻击我们。”
+But for much of the last half-decade, most of these five giants have enjoyed a remarkable reprieve from the boogeymen in the garage. And you can bet on them continuing to win. So I’m coining them the Frightful Five.
+但在过去五年中的相当一部分时间里，五大巨头中大部分都没遇到从车库里走出来的强劲对手。而且可以肯定他们会继续获胜。因此，我给它们起名叫“五恶人”(Frightful Five)。
+It’s not just because I’m a Tarantino fan. By just about every measure worth collecting, these five American consumer technology companies are getting larger, more entrenched in their own sectors, more powerful in new sectors and better insulated against surprising competition from upstarts.
+这不仅因为我是塔伦蒂诺(Tarantino)的粉丝。从能收集到的几乎每一项标准来看，美国这五家消费科技公司的规模都在扩大、在各自所在领域的地位都更加稳固、抵御初创公司出其不意地发起的竞争的能力也更强。
+Though competition between the five remains fierce — and each year, a few of them seem up and a few down — it’s becoming harder to picture how any one of them, let alone two or three, may cede their growing clout in every aspect of American business and society.
+尽管五家公司之间的竞争依然颇为激烈——且每年各自的实力都有消长变化——但想象它们中的一家丧失对美国企业和社会方方面面日渐增加的影响力变得越来越困难，更别说是其中两家或三家了。
+“The Big Five came along at a perfect time to roll up the user base,” said Geoffrey G. Parker, a business professor at Tulane University and the co-author of “Platform Revolution,” a forthcoming book that explains some of the reasons these businesses may continue their dominance. “These five rode that perfect wave of technological change — an incredible decrease in the cost of I.T., much more network connectivity and the rise of mobile phones. Those three things came together, and there they were, perfectly poised to grow and take advantage of the change.”
+“五巨头一路走来正好赶上了积累用户基础的最好时机，”杜兰大学(Tulane University)商学教授杰弗里·G·帕克(Geoffrey G. Parker)说。“这五家公司搭上了最好的那股科技变革浪潮：信息技术成本显著下降、网络连通性全面提升、移动电话崛起。这三个方面汇合到一起，而它们生逢其时，处于不断成长和从变革中获利的完美位置。”帕克与人合著的《平台革命》(Platform Revolution)即将面世，该书列出了一些原因，解释这些企业的统治地位为何可能会继续下去。
+Mr. Parker notes the Big Five’s power does not necessarily prevent newer tech companies from becoming huge. Uber might upend the transportation industry, Airbnb could rule hospitality, and as I argued last week, Netflix is bent on consuming the entertainment business. But if such new giants do come along, they’re likely to stand alongside today’s Big Five, not replace them.
+帕克指出，五巨头的力量不一定会妨碍更新的科技公司壮大起来。Uber可能会颠覆性运输行业，Airbnb可能会主宰住宿招待行业，且正如我上周所说，Netflix一心想颠覆娱乐业。但如果真出现这类新巨头，它们可能会站在当今的五巨头旁边，而不是取代它们。
+Indeed, the Frightful Five are so well-protected against start-ups that in most scenarios, the rise of new companies only solidifies their lead.
+的确，面对初创公司，“五恶人”被保护得非常好，以至在大部分情况下，新公司的崛起只会巩固它们的领导地位。
+Consider that Netflix hosts its movies on Amazon’s cloud, and Google’s venture capital arm has a huge investment in Uber. Or consider all the in-app payments that Apple and Google get from their app stores, and all the marketing dollars that Google and Facebook reap from start-ups looking to get you to download their stuff.
+考虑一下，Netflix把其电影存放在了亚马逊的云上，而谷歌的风险投资部门则在Uber投入了巨资。或者想想苹果和谷歌从各自的应用商店里获取的应用内付费，以及谷歌和Facebook从很多希望用户下载自己的内容的初创公司那里收取的营销费用。
+This gets to the core of the Frightful Five’s indomitability. They have each built several enormous technologies that are central to just about everything we do with computers. In tech jargon, they own many of the world’s most valuable “platforms” — the basic building blocks on which every other business, even would-be competitors, depend.
+这就说到了“五恶人”地位不可撼动的核心。有些强大的技术，对我们使用电脑时的几乎方方面面都起着核心作用。而五巨头中的每一个都开发出了多项这样的技术。用科技行业的术语来说，他们在世界范围内拥有很多极其重要的“平台”。这些平台是其他所有企业，乃至未来的竞争对手所仰仗的基础。
+These platforms are inescapable; you may opt out of one or two of them, but together, they form a gilded mesh blanketing the entire economy.
+这些平台是避不开的。人们可能会选择不使用其中的一两个，但它们合起来构成了一张如同金子般熠熠生辉的网，涵盖了整个经济。
+The Big Five’s platforms span so-called old tech — Windows is still the king of desktops, Google rules web search — and new tech, with Google and Apple controlling mobile phone operating systems and the apps that run on them; Facebook and Google controlling the Internet advertising business; and Amazon, Microsoft and Google controlling the cloud infrastructure on which many start-ups run.
+五巨头的平台涵盖了所谓的老科技——Windows在台式机领域的地位依然至高无上，谷歌统治着网络搜索——和新科技领域，谷歌和苹果掌控着移动电话操作系统和搭载在它们上面的应用；Facebook和谷歌控制着互联网广告业务；亚马逊、微软和谷歌控制着云基础设施。而很多创业公司都是在云基础设施上运营的。
+Amazon has a shopping and shipping infrastructure that is becoming central to retailing, while Facebook keeps amassing greater power in that most fundamental of platforms: human social relationships.
+亚马逊拥有一个购物和货运基础设施体系，它正在成为零售业里至关重要的部分。而Facebook一直在积聚人际社交领域的强大力量。人际社交是所有平台中最重要的。
+Many of these platforms generate what economists call “network effects” — as more people use them, they keep getting more indispensable. Why do you chat using Facebook Messenger or WhatsApp, also owned by Facebook? Because that’s where everyone else is.
+这些平台中，很多都产生了经济学家所说的“网络效应”。随着用户增加，它们变得更加不可或缺。为什么要用Facebook Messenger或同样隶属于Facebook的WhatsApp聊天呢？因为其他人都在用。
+Their platforms also give each of the five an enormous advantage when pursuing new markets. Look how Apple’s late-to-market subscription streaming music service managed to attract 10 million subscribers in its first six months of operation, or how Facebook leveraged the popularity of its main app to push users to download its stand-alone Messenger app.
+五巨头的平台也让它们各自在开拓新市场时拥有巨大的优势。看看苹果最近推向市场的订购流音乐服务是如何设法在运营的前六个月里吸引到了1000万订户，或Facebook是如何利用自己的主要应用广受欢迎这一点，推动用户下载其独立应用Messenger的吧。
+Then there’s the data buried in the platforms, also a rich source for new business. This can happen directly — for instance, Google can tap everything it learns about how we use our phones to create an artificial intelligence engine that improves our phones — and in more circuitous ways. By watching what’s popular in its app store, Apple can get insight into what features to add to the iPhone.
+还有蕴藏于这些平台之中的数据。对于新业务来说，这也是一个丰富的数据来源。这种数据的提取可能是直接的——比如谷歌可以利用它从我们的电话使用方式中了解到的一切信息，来开发一款可以改善我们的电话的人工智能引擎——也可能是更间接的。通过观察应用商店里的受欢迎产品，苹果便能获悉应该在iPhone上添加什么功能。
+“In a way, a lot of the research and development costs are being borne by companies out of their four walls, which allows them to do better product development,” Mr. Parker said.
+“在某种程度上，很多研发成本是由这五个公司之外的其他公司承担的，这让它们能够更好地进行产品研发，”帕克说。
+This explains why these companies’ visions are so expansive. In various small and large ways, the Frightful Five are pushing into the news and entertainment industries; they’re making waves in health care and finance; they’re building cars, drones, robots and immersive virtual-reality worlds. Why do all this? Because their platforms — the users, the data, and all the money they generate — make these far-flung realms seem within their grasp.
+这就解释了这些公司的愿景为何如此广阔。“五恶人”正在通过大大小小的各种方式进军新闻和娱乐行业；搅动医疗保健和金融领域；建造汽车、无人机、机器人和沉浸式拟真世界。为什么要这么做？因为它们的平台——用户、数据和它们带来的收入——让这些距离遥远的领域看上去像是近在咫尺。
+Which isn’t to say these companies can’t die. Not long ago people thought IBM, Cisco Systems, Intel and Oracle were unbeatable in tech; they’re all still large companies, but they’re far less influential than they once were.
+但并不是说这些公司不会灭亡。不久前，人们以为国际商业机器公司(IBM)、思科系统(Cisco Systems)、英特尔(Intel)和甲骨文(Oracle)在科技领域是不可打败的。现在，虽然它们依然是大公司，但其影响力远不及从前。
+And a skeptic might come up with significant threats to the five giants. One possibility might be growing competition from abroad, especially Chinese hardware and software companies that are amassing equally important platforms. Then there’s the threat of regulation or other forms of government intervention. European regulators are already pursuing several of the Frightful Five on antitrust and privacy grounds.
+持怀疑态度的人可能会认为五巨头面临着重大威胁。其中一个或许是来自海外的竞争日益激烈，特别是正在积累同等重要的平台的中国硬件和软件公司。然后还有监管威胁和其他形式的政府干预。欧洲监管机构已经在以反垄断和隐私为由追查“五恶人”中的多家公司了。
+Even with these difficulties, it’s unclear if the larger dynamic may change much. Let’s say that Alibaba, the Chinese e-commerce company, eclipses Amazon’s retail business in India — well, O.K., so then it satisfies itself with the rest of the world.
+即便存在这些困难，我们还是不清楚整体格局是否可能大变。比如说中国电商企业阿里巴巴超越亚马逊在印度的零售业务——这是有可能的——然后再用世界其他市场来满足自己的胃口。
+Government intervention often limits one giant in favor of another: If the European Commission decides to fight Android on antitrust grounds, Apple and Microsoft could be the beneficiaries. When the Justice Department charged Apple with orchestrating a conspiracy to raise e-book prices, who won? Amazon.
+政府干预通常会支持一方，限制另一方：如果欧盟委员会(European Commission)决定以反垄断的理由打击Android，那么苹果和微软便可能受益。司法部控告苹果密谋提高电子书价格时，赢家是谁？亚马逊。
+So get used to these five. Based on their stock prices this month, the giants are among the top 10 most valuable American companies of any kind. Apple, Alphabet and Microsoft are the top three; Facebook is No. 7, and Amazon is No. 9. Wall Street gives each high marks for management; and three of them — Alphabet, Amazon and Facebook — are controlled by founders who don’t have to bow to the whims of potential activist investors.
+因此，习惯这五家巨头吧。从本月的股价来看，不管怎么分类，美国市值最高的十大公司榜单中始终有五巨头的身影。苹果、Alphabet和微软包揽了前三甲，Facebook名列第七位，亚马逊则位居第九。在管理方面，五巨头均获得了华尔街的好评。其中三家，即Alphabet、亚马逊和Facebook，由创始人掌控。这些创始人不用屈从于潜在的激进投资者心血来潮的意见。
+So who’s losing? Not one of them, not anytime soon.
+那么，谁在走下坡路呢？它们中谁都没有，近期谁都不会。

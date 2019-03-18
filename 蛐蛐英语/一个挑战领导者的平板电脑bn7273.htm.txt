@@ -1,0 +1,42 @@
+You can love Apple or you can hate Apple, but one thing’s for sure: its favorite game is Lead the Industry. And the industry’s favorite game is Follow the Leader.
+爱也好、恨也罢，对苹果公司(Apple)而言，一件事是确凿无疑的：它最爱玩的游戏是“引领行业”，而行业里最流行的游戏是“紧跟其后”。
+Steve Jobs hated the mimicry. Google’s Android software “ripped off the iPhone, wholesale ripped us off,” he told his biographer, Walter Isaacson. “I’m going to destroy Android, because it’s a stolen product.”
+史蒂夫·乔布斯(Steve Jobs)痛恨模仿。他告诉自己的传记作家沃尔特·艾萨克森(Walter Isaacson)，谷歌公司(Google)的Android软件“山寨了iPhone，批发销售的方式也山寨了我们。我要毁掉Android，因为它是偷来的产品。”
+But there’s a positive aspect to the imitation, too. You could argue that Apple’s copycats fill in markets where Apple dares not tread, or offer an alternative to Apple’s very pure, controlled, choice-constrained world.
+不过模仿也有积极的方面。你可以争辩说，苹果的模仿者填补了苹果不敢踏入的市场，或者是提供了选择来替代苹果非常纯粹、受控又选择有限的世界。
+In that worldview, Google’s 2012 new-product announcements must seem like a cornucopia of good news. First, Google opened a unified online store with separate tabs for apps, e-books, TV shows, movies and music, modeled on the iTunes store.
+依据这种世界观，谷歌2012年的新产品发布会肯定看起来就像是好消息满天飞。首先，谷歌效仿iTunes商店，开放了一个统一的网上商店，其中的商品栏目包括应用程序、电子图书、电视节目、电影和音乐。
+Last week, it introduced the Nexus Q, a black sphere that connects to your TV and plays those songs and videos, pretty much the way the black square Apple TV does.
+上周，谷歌还公布了Nexus Q。这款黑色球状设备与电视连接，播放网上商店购买的音乐和视频，运作方式与黑色方块形状的Apple TV类似。
+Above all, Google has just introduced the Nexus 7, a shiny black tablet that aims to challenge both the iPad and Amazon’s Kindle Fire. (Nexus phone, Nexus tablet, Nexus sphere thing; what is Google thinking, anyway?)
+最重要的是，谷歌刚刚发布了Nexus 7。它是一款闪亮的黑色平板电脑，意在同时挑战iPad和亚马逊公司(Amazon)的Kindle Fire。（Nexus手机、Nexus平板电脑、Nexus球状物；谷歌到底在想什么呢？）
+The Kindle Fire’s most important feature is its price: $200. That’s an eye-popper in a world where the dominant tablet, the iPad, costs $500 and up. Of course, the Fire isn’t the same thing as the iPad. Its seven-inch screen is much smaller. It’s thicker and blockier. It doesn’t have a camera, microphone, GPS function, Bluetooth or memory-card slot. Its primary function is playing material you buy from Amazon, like books and video.
+Kindle Fire最重要的特征是它的价格：200美元。在一个市场首选平板电脑iPad标价500美元起的世界里，它让人眼前一亮。当然，Fire不能与iPad同日而语。它的屏幕小多了，只有七英寸，而且更厚、更敦实。Fire没有摄像头、话筒、GPS功能、蓝牙或是记忆卡槽。它的主要功能就是展示你从亚马逊购买的内容，比如图书和视频。
+But that’s why Google’s tablet, manufactured by Asus, is a ground-shaking arrival. It, too, has a seven-inch screen and costs only $200, but this time, you don’t get any sense that its creators skimped to keep the price down. It’s sleek and beautiful, with rounded edges, and a “pleather” back panel that feels great. And it weighs 2.6 ounces less than the Fire, which makes a world of difference.
+这就是为什么，华硕公司(Asus)代工的谷歌平板电脑是一款超重量级的新产品。它的屏幕也是七英寸，价格也仅为200美元，但这一次，你不会觉得制造者克扣功能来保持低价。Nexus线条流畅 、美轮美奂，其四角圆润，背面的“类皮革”材质手感上佳。它比Fire轻2.6盎司，光这一点就造成巨大的差别。
+More important, the Nexus is a full-blown tablet. It’s almost as capable of letting you create stuff as consuming it. It’s fast, smooth and capable of running any Android tablet app.
+更重要的是，Nexus是一款真正的平板电脑。它不仅可以让你享受它的各种功能，还几乎同样善于为你提供一个创造的平台 。它快速、流畅、能够运行任何Android平板应用程序。
+So yes, the Google tablet pretty much blows the Kindle Fire’s value proposition into a cloud of ash. But it also undercuts its own Android-tablet competitors.
+所以，对的，谷歌平板电脑差不多将Kindle Fire的性价比推至一个相当糟糕的水平。但是，它也比采用自家Android系统的平板竞争者价格更具诱惑力。
+How is Google able to offer a deluxe tablet for the same price as Amazon’s bare-bones one? I asked the Nexus tablet team if it was playing a game of razors-and-blades here, losing money on every tablet with the intention of making money by selling books, movies, music and TV shows. Google concedes it makes no profit when it sells this tablet from its Web site — and therefore it must lose money on each one it sells in a store.
+谷歌用亚马逊简易产品的价格提供了一款豪华平板电脑，它是如何做到这一点的？我问过Nexus平板电脑团队，这是否又是一个“剃刀与刀片”(razors-and-blades)策略，即在每个卖出的平板电脑上赔钱，以此换取在销售图书、电影、音乐和电视节目方面的盈利。谷歌承认，公司在其网站上销售这款平板电脑的时候没有利润，因此，所有的实体店铺销售都应该是亏损的。
+In any case, the Nexus 7 is well-equipped — for a $200 tablet. It has Wi-Fi, Bluetooth, a nine-hour battery, a bright and very sharp screen, a loud mono speaker and GPS function. A seven-inch Android tablet makes a sensational GPS navigator.
+无论如何，相对200美元的价格而言，Nexus 7是一款配置良好的平板电脑。它有Wifi、蓝牙、九小时续航能力的电池 、明亮且十分锐利的屏幕、一个响亮的单音道扬声器和GPS功能。七英寸的Android平板电脑还是一款无以伦比的GPS导航仪。
+The hardware is missing only a few tidbits. There’s no camera on the back. The battery isn’t removable. There’s no cellular option. And since there’s no memory-card slot, the built-in eight gigabytes of storage is all you’ll ever have.
+这款硬件产品只有几个小缺点。它没有后置摄像头，电池不可拆卸，也不能用手机网络。而且由于没有存储卡槽，内置的8G存储就是你拥有的全部空间了。
+What the Nexus 7 has that no other tablet has at the moment, however, is the latest version of Android 4.1, named Jelly Bean. Part of life in Androidland is never knowing whether or not an Android software update will be available for your brand and model.
+不过，Nexus拥有别的平板电脑目前没有的东西：最新的Android 4.1版操作系统，即“果冻豆”(Jelly Bean)。Android世界中的一个生存现实就是，你永远不知道Android软件更新是否会覆盖你的厂牌或产品型号。
+Jelly Bean offers dozens of new features. For example, swiping your finger up the screen produces the Google Now screen: little “cards” bearing information it thinks you could use right now, based on your location, location history, calendar and Google searches.
+“果冻豆”提供了数十项新功能。比方说，在屏幕上向上滑动手指会出现Google Now屏幕，也就是一些小“卡片”，上面会显示出，根据你当前的位置、位置历史、日历和谷歌搜索等，机器认为你可能马上可以运用的信息。
+You can now save a city’s worth of Google Maps onto your tablet, so that you won’t need an Internet connection to navigate. Android’s talk-to-type feature can now work even without an Internet connection, too. (The iPad/iPhone can’t do that.)
+现在你还可以储存整个城市的谷歌地图到平板电脑上，这样就无需互联网来导航。甚至Android的语音输入功能也可以在无网络连接的情况下使用。（iPad和iPhone不能做到这一点。）
+By far the most important change, however, is smoothness. Google engineers knocked themselves out trying to make Android 4.1 as responsive to your touch as, ahem, the other leading tablet. Animations all run at a supersmooth speed of 60 frames a second. Google says it tries to anticipate where your next finger touch will be, and begins to redraw the screen at that point.
+尽管如此，目前为止最重要的改变还是流畅性。谷歌的工程师们把自己搞得筋疲力竭才让Android 4.1的触摸响应程度比肩，呃哼，别人那款市场领先的平板电脑。Nexus 7上面的动画都以每秒60帧的速度极其流畅地运行。谷歌说，他们试图预测你的手指下一步伸向哪里，并且即刻就会开始重新生成画面。
+Wow, does it work. Google’s tablet is now Applesque in its fluid touch response. All other makers of touch-screen gadgets should take note.
+哇，这真的很管用。现在的谷歌平板电脑在屏幕响应流畅性方面简直有些苹果范儿。其他所有触摸屏生产商应该注意这一点。
+Sadly, Android giveth and Android taketh away. Using Jelly Bean, your tablet can no longer play Flash videos online, once an important advantage of Android over the iPad. Also, bizarrely, Jelly Bean removes the ability to turn your Home screen 90 degrees into landscape mode on seven-inch tablets.
+悲哀的是，使用Android还是有得也有失。在用“果冻豆”的时候，你的平板电脑不再能播放网上的Flash视频，而这曾经是Android对iPad的重要优势。而且，莫名其妙的是，“果冻豆”还移除了在7英寸平板电脑上将主屏幕旋转90度至水平显示的功能。
+On the Nexus 7, Google’s special apps for reading e-books, playing music and playing videos are front and center. Unfortunately, Google’s efforts to build an online store are only in the early stages. Its store shelves are much emptier than Apple’s and Amazon’s.
+在Nexus 7上，谷歌自家出品的阅读电子图书、播放音乐和视频的应用程序占据了主屏幕的最显著位置。不幸的是，谷歌建造网上商店的努力还仅仅处于雏形。货架上的东西比苹果和亚马逊的商店少得多。
+But the Nexus tablet is sweet. Its hardware and software smoothness rival Apple’s, and its luxury humiliates the Kindle Fire. In short, it’s possible that this tablet may finally help solve Google’s chicken-and-egg problem. Maybe once it becomes popular, people will finally start writing decent apps for it, and more movie and music companies will come to the Google Play store.
+不过，Nexus平板电脑是款贴心的产品。它在硬件和软件方面的流畅性可与苹果的产品媲美，而它豪华的配置则让Kindle Fire无地自容。简而言之，这款平板电脑可能终于帮助谷歌解决“鸡和蛋”的问题。也许一旦它流行起来，就会终于有人开始为它写些不错的应用程序，同时使更多的电影和音像公司来到Google Play商店。

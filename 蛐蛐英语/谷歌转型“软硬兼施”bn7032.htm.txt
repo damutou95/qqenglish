@@ -1,0 +1,30 @@
+SAN FRANCISCO — It was an event that included sky divers, stunt bikers and people rappelling down the side of a building. Then came another spectacle: watching Google, the Web search giant, reimagine itself as a hardware maker.
+旧金山——这次发布会上中出现了跳伞，特技自行车和高楼速降表演。而重头戏，则是网络搜索的巨头谷歌公司展示自己在硬件开发领域的华丽转身。
+On Wednesday at Google I/O, the company’s annual conference for developers, Google unveiled a new 7-inch tablet computer, called Nexus 7, and a sphere-shaped device for streaming music and video that it is calling Nexus Q.
+谷歌在周三的年度开发者大会上，发布了一款7英寸的平板电脑 Nexus 7,  以及一个球形的音乐、视频播放器Nexus Q。 
+Both debuts paled in comparison to the company’s amped-up demonstration of Project Glass, a device that puts a camera and a tiny video screen into a kind of eyeglass frame. This involved Sergey Brin, Google’s co-founder, jumping on stage wearing the device and engaging in a live video chat on Google’s social network with a couple of wing-suited sky divers as they jumped out of a plane. They were followed by stunt bikers and rappellers who dropped down the face of the Moscone West convention center, all the while sharing what they were seeing through experimental versions of the glasses.
+然而，这两款首发产品，和谷歌激动人心的 Project Glass  相比，又不免黯然失色了。Project Glass  是一款内置了照相机和微型显示屏的眼镜。谷歌的共同创始人谢尔盖·布林（Sergey Brin）带着这款眼镜跳上台，在谷歌社交网络上与几名身背滑翔翼、纵身跃出机舱的跳伞者现场进行了视频对话。接下来，是特技自行车和西莫斯克尼会议中心 (Moscone West) 大楼的速降表演。表演者都戴着试用版的谷歌眼镜，与观众分享他们看到的一切。
+Mr. Brin said Google would make a $1,500 prototype of the glasses — which it calls the Google Glass Explorer Edition — available to developers from the United States who attended the conference. He said the glasses were slated to ship early next year.
+布林说，谷歌将先推出售价1500美元的初期产品——号称谷歌眼镜先锋版 (Google Glass Explorer Edition) ——提供给来参加这次大会的美国开发人。他说，这款眼镜预计将会在明年初发货。
+Google’s focus on hardware is a strategic shift for the company, which makes the vast majority of its revenue from advertising. Google is likely to sell the Nexus 7 and Nexus Q at cost, or even at a loss, but hopes to make up for those losses — and then some — with additional revenue from purchases made on Google Play, its app and content store; additional traffic to its YouTube video site; and the advertising it reaps from all of its Internet products.
+谷歌在硬件产品上的投入是一个战略性转变。目前，该公司的大部分收入都是来自广告。谷歌很有可能以成本价，甚至赔本销售Nexus 7 和 Nexus Q，但是希望通过自己的网上应用软件店 Google Play、它在 YouTube 上的视频网站的访问量以及来自谷歌所有网络产品的广告的收入，来弥补新产品的损失。
+By selling Google-branded devices, the company also aims to protect its core search business as competitors hover. Facebook is deepening its partnership with Microsoft’s Bing search engine and Microsoft just announced plans for its own branded tablet. Apple is moving to cut Google out of its mobile and desktop operating systems with its own cloud, search and mapping services.
+通过销售谷歌品牌的硬件设备，谷歌公司也希望在竞争对手环伺的时代，保卫它搜索引擎的核心业务。Facebook 正在加深与微软的必应搜索引擎 (Bing) 的合作，并且微软也刚刚宣布了它自己的平板电脑计划。而苹果公司则正在开发自己的云终端，搜索服务和地图服务，借此把谷歌挤出它自己的的手机和台式电脑操作系统。
+“Google is a hardware company now,” said Colin Gillis, an Internet analyst with BGC Partners. “Hardware is becoming the doorway to products and services. If you’re going to use the Internet, you are going to have to use a device. Whoever makes that device controls what services and products are offered to you, and those nickels and dimes add up over time.”
+“谷歌现在已经成为一个硬件公司了，”BGC Partner的网络分析师科林·吉利斯（Colin Gillis）说。“ 硬件就是通向产品和服务的大门。如果你要上网，你需要通过一个设备。而谁生产这个设备，谁就能决定哪些产品和服务能被你接触到。这些产品和服务的费用日积月累，就是一大笔利润。
+Google’s Nexus 7 tablet, which will be manufactured by Asus, the Taiwanese hardware maker, features a lightweight design, 7-inch screen and high-definition display. Google priced its tablet at $199, which puts it in direct competition with Amazon’s Kindle Fire. The cheapest version of Apple’s latest iPad sells for $500.
+谷歌的 Nexus 7 平板电脑将由台湾硬件厂商华硕生产。这款产品有轻便的机身，7英寸屏幕以及高清成像技术。谷歌给它的定价为199美元，与亚马逊的Kindle Fire形成了直接竞争。苹果最新的iPad产品最低售价为500美元。
+The Nexus 7 will feature Google’s new version of its Android mobile operating system, called Jelly Bean, which was made available to developers Wednesday and will come to some Android devices next month.
+Nexus 7  将会安装谷歌最新版的安卓手机操作系统Jelly Bean。该系统在周三的大会上已经提供给了软件开发人，下个月，一些安卓的设备也会安装这个系统。
+Joe Britt, an engineering director at Google, said the Android updates include a simpler and more accurate on-screen keyboard and a smarter auto-correct feature. The new software will also transcribe speech even when the device is not online.
+谷歌的一位技术总监乔·布里特（Joe Britt ）说，这款安卓系统的升级版包括更简单也却更准确的虚拟键盘和更智能的自动纠错功能。新的软件即使在设备未连网时，也能进行语音记录。
+Google showed off a new voice search feature too, aimed at competing with Apple’s Siri virtual assistant. In a demonstration, a Google employee asked an Android phone to “show me pictures of pygmy marmosets,” which returned images of the very peculiar dwarf monkey.
+谷歌还展示了一款新的语音搜索服务，旨在与苹果的Siri虚拟助理竞争。谷歌工作人员在一次演示中，要求安卓手机“展示一下侏狨的照片，”手机上就显示出了这种奇特的侏儒猴的照片。
+Google said it now activates one million Android devices each day, or 12 devices every second.
+谷歌说，现在每天有100万台安卓设备被激活，平均每秒激活12台 。
+The company’s Nexus Q streaming music and video device will sell for $299. Google is betting that it can differentiate the Q from competitive products, like the Apple TV, by making it more social. The Q allows any user with an Android phone or tablet — not just the owner — to wirelessly send content to speakers or a television, all over the air.
+谷歌的 Nexus Q 音乐视频播放器售价将在 299美元。谷歌希望 Nexus Q 会以它的社交功能在与同类产品，如苹果TV等的竞争中脱颖而出 。Nexus Q 允许任何使用安卓手机或平板电脑的客户——不仅仅是设备的主人——通过无线技术把内容隔空传给扬声器或电视机。
+Ultimately, Google plans to make the Q a portal that will link to other Internet-connected devices in the home, such as smart refrigerators, picture frames and light bulbs.
+谷歌计划将Nexus Q 最终发展成为一个门户设备，与家中其他联网设备，比如智能冰箱，相框，电灯泡等相连。 
+But Google Glass seemed to garner the most excitement from developers at the event. When Mr. Brin said Google would begin taking orders for the devices, he drew loud cheers.
+但是，让开发者们最为激动的，好像还是谷歌眼镜。当布林宣布，谷歌将开始接受订单时，全场响起一片欢呼。

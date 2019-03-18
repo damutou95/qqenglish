@@ -1,0 +1,42 @@
+The Internet behemoths Google and Facebook have proved they can still attract users and advertisers as their traffic shifts from desktops to mobile devices.
+互联网巨头谷歌和Facebook已经证明，当其流量从桌面设备转移到移动设备上时，它们仍然能够吸引用户和广告主。
+But at Wikipedia, the giant online encyclopedia, the transition to a mobile world raises a different existential question: Will people continue to create articles and edit its nine million existing ones on the small screen of a smartphone or tablet?
+但大型在线百科全书维基百科(Wikipedia)在向移动世界过渡的过程中，却遭遇了一个不同的、生死攸关的问题：在屏幕较小的智能手机或平板电脑上，人们会在其现有的900万词条上继续创建并编辑词条吗？
+“This is definitely something we were pretty worried about in 2013,” said Erik Möller, deputy director of the Wikimedia Foundation, the nonprofit organization that operates Wikipedia with donations rather than ads. To address this concern, the foundation has formed a team of 10 software developers focused on mobile. In July, for the first time, mobile users could edit and create articles.
+埃里克·默勒(Erik Möller)是非营利组织维基媒体基金会(Wikimedia Foundation)的副总监，该基金会主要依靠捐赠而不是广告来营运维基百科。默勒说：“这绝对是2013年我们非常担心的事情。”为了解决这个问题，该基金会组建了一个专注于移动软件开发的10人团队。去年7月，用户开始可以用移动设备编辑和创建维基百科词条。
+The fact that people increasingly use the Internet with a smartphone, and only a smartphone, has disrupted television, books and news, among other things, and media companies have scrambled to adjust. Wikipedia, the world’s fifth-largest website, but one with a relatively minuscule operating budget, has been especially slow to adapt to a mobile world.
+人们越来越多地使用智能手机上网，而且只用智能手机上网，这一现象颠覆了电视、图书和新闻等行业，媒体公司纷纷因应进行调整。作为全球第五大网站，维基百科的营运预算相对来说却微不足道，它适应移动世界的步伐特别缓慢。
+Only 20 percent of the readership of the English-language Wikipedia comes via mobile devices, a figure substantially lower than the percentage of mobile traffic for other media sites, many of which approach 50 percent. And the shift to mobile editing has lagged even more.
+英文维基百科只有20%的阅读量来自移动设备，远远低于其他媒体网站，有的网站移动流量占比接近50%。其中使用移动设备来编辑词条的占比还要更低。
+Just 1 percent of changes to Wikipedia articles in all the more than 250 languages are made via mobile devices; for example, since July, there have been 200,000 mobile English-language edits, compared with 20 million total edits.
+维基百科提供逾250种语言的内容，在所有这些内容中，只有1%的更改是通过移动设备进行的；比如从去年7月以来，英语内容有20万次编辑来自移动设备，而总共的编辑量为2000万次。
+The concern in the Wikipedia movement and among people who study it is that smartphones and tablets are designed for “consumer behavior” rather than “creative behavior.” In other words, mobile users are much more likely to read a Wikipedia article than improve it.
+在维基百科的社区成员以及它的研究者中，一些人担心智能手机和平板电脑是为“消费行为”而不是“创造行为”设计的。换句话说，移动设备用户更有可能阅读维基百科的内容而不是改进它。
+As a result, the shift to mobile away from desktops could pose long-term problems for Wikipedia, the 13-year-old project to create what the site calls a “free encyclopedia that anyone can edit.”
+因此，从桌面向移动转变的趋势可能会给维基百科带来长期性的问题。维基百科拥有13年历史，自述其宗旨是创建一部“任何人都可以编辑的免费百科全书”。
+“It’s a big issue for everyone; the mobile phone is not a great input device — especially a smaller phone,” said Judith Donath, author of the coming book “The Social Machine: Designs for Living Online.” Ms. Donath said that while mobile was well-suited to a service like Twitter, with its 140-character entries, “it is not the interface for someone writing a long article with footnotes.”
+“这对每个人来说都是一个大问题；手机不是一种很好的输入设备——尤其是尺寸较小的手机。”《社交机器：为网上生活而设计》(The Social Machine: Designs for Living Online)的作者朱迪思·多纳特(Judith Donath)说。她表示，手机非常适合于Twitter这种每条信息最长140个字符的服务，“但对于那些撰写带有脚注的长文的人来说，用手机并不合适。”
+She notes that as the screens used to read news or social media have become smaller, the screens of the so-called creative class have gotten bigger — often two screens together — for writing or designing or coding. The smaller screens of smartphones and tablets do not lend themselves to research and taking notes, or writing long encyclopedia entries.
+她指出，虽然用来阅读新闻和社交媒体内容的屏幕已经变得比较小，但所谓的“创意人士”用来写作、设计或者编程的屏幕却变得更大了，他们还常常把两块屏幕拼在一起使用。智能手机和平板电脑的小屏幕不适合做调查、写笔记，也不适合撰写大篇幅的百科全书条目。
+Ian Bogost, professor of interactive computing at the Georgia Institute of Technology, points to the still-ubiquitous signature — “Sent from my phone, sorry for typos” — as an indication that smartphones are inferior writing tools.
+伊恩·博格斯特(Ian Bogost)是佐治亚理工学院(Georgia Institute of Technology)的交互计算教授，他认为，从至今仍随处可见的签名——“发自手机，有错别字请见谅”——就可以看出，智能手机不适合用来写作。
+“Careful, long-form writing and editing on mobile is difficult at best, impossible at worst,” Mr. Bogost wrote in a message composed on his laptop from Geneva. “Think about Angry Birds: part of the reason it’s so popular is because it can be played by pulling a slingshot.”
+“在移动设备上进行严谨的长篇写作，往好里说是困难，往坏里说是不可能，”博格斯特在一封邮件中写道。“想想《愤怒的小鸟》(Angry Birds)：它受欢迎的原因之一是你可以靠拉动弹弓来玩。”这封邮件是他在日内瓦用笔记本电脑撰写的。
+Wikipedia relies on a diligent army of roughly 75,000 volunteers each month who edit the articles for a staggeringly large readership. With 18 billion page views and nearly 500 million unique visitors a month, according to the ratings firm comScore, Wikipedia trails just Yahoo, Facebook, Microsoft and Google, the largest with 1.2 billion unique visitors.
+维基百科依靠一支勤奋的、每月大约7.5万人的志愿者军团来编辑阅读量大得惊人的内容。流量统计机构comScore的数据显示，维基百科每月拥有独立访问者近5亿，页面浏览量180亿次，仅次于雅虎、Facebook、微软和谷歌，其中最多的拥有12亿独立访问者。
+But despite its popularity, there is worry in the Wikipedia community and among people who track it that the pipeline of editors could dry up if new mobile users do not realize that they can edit the articles, or have difficulty doing so. 
+但是，尽管维基百科大受欢迎，在它的社区成员以及关注它的人中，也存在这样的担心：如果新的移动用户没有意识到自己可以编辑词条，或者在编辑时遇到困难，编辑人员的渠道就可能会干涸。
+But no one expects Wikipedia to go away, and people have wrongly predicted its demise since it started in 2001.
+但是，没有人认为维基百科会消失；自从2001年创办以来，一直有人预言它会灭亡，但他们都错了。
+The trends are promising — in July, only 3,000 mobile users made at least one change to a Wikipedia article; now the number is about 20,000 a month.
+维基百科的增长趋势令人鼓舞：去年7月，只有3000名移动用户对至少对一篇文章进行过一处修改，现在这个数字已经增长到每月2万。
+One frequent mobile contributor, Sajjad Altaf, an information technology consultant in Findlay, Ohio, says he edits wherever it is more convenient for him, noting that “it is difficult to edit from the phone, but I guess not that difficult to deter me from doing it.”
+萨贾德·阿尔塔夫(Sajjad Altaf)是俄亥俄州芬德利的一名信息科技顾问，经常在维基百科上编写词条。他说哪个设备当时对他来说更方便，他就在哪个设备上编辑，他还表示，“在手机上编辑内容虽然困难，但我觉得还没有困难到阻止我编辑的地步。”
+Mr. Altaf has written entire Wikipedia articles on his phone, including one about Noor Pur Baghan, his hometown in Pakistan, and disputes the idea that smartphones are passive devices. “If you are using your phone, you cannot just listen but not talk,” he said. “You cannot just receive an email but not reply to it.”
+阿尔塔夫曾经在自己的手机上撰写过维基百科词条的全文，其中包括一篇关于他的巴基斯坦老家努尔普巴干的文章，他不同意智能手机是一种“被动装置”的说法。“用手机的时候，你不会只听不说，”他说，“你也不会只收邮件不回复。”
+Wikipedia has other motives in embracing mobile use besides ensuring the continued editing of its entries. The interactive encyclopedia wants to expand in the developing world. As part of a “Wikipedia Zero” campaign, it has persuaded telecom companies to provide free access to Wikipedia in their phone plans in countries like Cameroon, Bangladesh and Malaysia.
+除了保证词条有人继续编辑之外，维基百科还有其他拥抱移动的理由。这个互动的百科全书服务希望在发展中国家开疆拓土。作为“维基百科零计划”(Wikipedia Zero)活动的一个部分，它已经说服喀麦隆、孟加拉和马来西亚等国家的一些电信公司，在手机通信套餐中提供免费获取维基百科内容的服务。
+Some Internet specialists argue that Wikipedia should adjust to a mobile world by harnessing “micro-contributions” like those on Twitter and Facebook. For example, they suggest creating a “like” button similar to Facebook’s that would allow a reader to flag errors in Wikipedia articles, or to suggest those that need to be updated. Quickly adding photographs to a Wikipedia article from an editor with a smartphone is another possibility.
+一些互联网专家认为，维基百科应该利用类似于Twitter和Facebook上的那种“微写作”来适应移动世界。例如，他们建议维基百科提供一个类似于Facebook“赞”的按钮，让读者来标记文章中的错误，或者建议哪些内容需要更新。另一个做法是，让编辑可以用智能手机快速把照片添加到文章中。
+“If it is within two or three clicks, it is happening more automatically,” said Joseph M. Reagle, an assistant professor at Northeastern University and the author of “Good Faith Collaboration: The Culture of Wikipedia.” “If it requires more than two or three clicks, it’s not happening so easily.”
+“如果只需两三下点击，人们就会更多地顺手把照片加上，”美国东北大学(Northeastern University)助理教授、《诚信协作：维基百科的文化》(Good Faith Collaboration: The Culture of Wikipedia)的作者约瑟夫·M·李格尔(Joseph M. Reagle)说。“如果两三下点击办不到，要让人添加照片就没那么容易了。”

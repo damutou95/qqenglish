@@ -1,0 +1,34 @@
+LOS ANGELES — Just as Sony Pictures Entertainment appeared to be recovering from a crippling online attack last month, the studio found itself confronting new perils on Tuesday. The Federal Bureau of Investigation warned United States businesses of a similar threat, and additional Sony secrets were leaked online.
+洛杉矶——索尼影视娱乐公司(Sony Pictures Entertainment)似乎刚从上个月的严重网络攻击中恢复过来，周二却发现自己遇到了新麻烦。该公司的更多机密泄露在了网络上。美国联邦调查局警告多家美国企业防范类似威胁。
+Sony, the studio behind “The Amazing Spider-Man” films and the “Breaking Bad” television series, restarted many of its computer systems on Monday after a Nov. 24 breach by a group calling itself #GOP, for Guardians of Peace. Executives at the entertainment company said they were also making progress in fighting the apparently related Internet pirating of five complete films, including the unreleased “Annie.”
+索尼公司曾出品系列电影《超凡蜘蛛侠》(The Amazing Spider-Man)和电视剧《绝命毒师》(Breaking Bad)。11月24日，该公司的电脑系统曾遭到一个自称“和平卫士”(#GOP，Guardians of Peace)的组织攻击。周一，索尼重启了自己的很多电脑系统。该公司的主管们称，他们在打击网络盗版方面也取得进展，这些盗版行为显然与已拍好的五部影片有关，包括尚未上映的《安妮》(Annie)。
+But Sony was newly rattled by the leak of internal documents, one of which contained the pre-bonus annual salaries of senior executives, showing 17 who earn more than $1 million a year. The documents were published late Monday on Pastebin, the anonymous Internet posting site.
+但是索尼公司刚刚又被内部文件泄露事件搞得很紧张，其中一份文件包括多位高管分红前的年薪，表明有17位高管的年薪超过100万美元。这些文件是周一晚间在匿名发帖网站Pastebin上发布的。
+The breach exposed two things the secretive movie industry is extremely sensitive about — the piracy of films and details about executive compensation — and sent a ripple of dread across Hollywood to Washington.
+这一攻击暴露了神秘的电影行业极为敏感的两件事——电影盗版和管理层薪资细节——令从好莱坞到华盛顿的诸多行业感到恐惧。
+Although large attacks on companies are increasingly common, this one has played out like one of Sony’s own thrillers, with macabre images on computer screens of studio executives’ severed heads and theories that the attack could be retribution from North Korea for a coming Sony comedy about an assassination attempt on that country’s leader, Kim Jong-un.
+虽然对公司的大型攻击越来越常见，但这一次的表现形式像是索尼公司自己出品的惊悚片，电脑屏幕上出现公司高管被切割下来的头颅的恐怖画面。有人认为，这次攻击可能是朝鲜在报复索尼公司即将上映一部关于试图刺杀该国领导人金正恩的喜剧片。
+Tom Kellermann, chief cybersecurity officer at Trend Micro, the private security firm, said that unlike stealth attacks from China and Russia, Sony’s hackers not only aimed to steal data, but also to send a clear message. “This was like a home invasion where after taking the family jewels the hackers set the house ablaze,” he said.
+私营安全公司趋势科技公司(Trend Micro)的首席网络安全官汤姆·凯勒曼(Tom Kellermann)说，这不像来自中国和俄罗斯的秘密攻击，攻击索尼公司的黑客们不仅意在窃取数据，而且想要传递一个明确的信息。“这就像入室盗窃，在拿走家里的珠宝后，黑客们还放火烧了房子，”他说。
+The attack at Sony comes as major American companies and government agencies are still reeling from online security threats. Breaches at major retailers like Target, Home Depot and Staples were only the beginning. Over the last year, the White House, the State Department, the nation’s largest bank, energy companies, even the Postal Service, were all breached by attackers who have yet to be identified or apprehended.
+索尼公司遭受黑客攻击之时，美国的大公司和政府机构仍在为网络安全威胁感到心烦意乱。对大型零售公司的攻击才刚开始，比如塔吉特(Target)、家得宝(Home Depot)和史泰博(Staples)。在过去的一年里，白宫、美国国务院、美国最大的银行、多个能源公司，甚至邮政系统都遭到攻击，而攻击者的身份和用意仍不明确。
+But the Sony attack, and new details about a spate of coordinated cyberattacks from Iran that emerged on Tuesday, have security experts and law enforcement authorities rattled, worried that Sony’s difficulties may be a harbinger of many more to come.
+但是索尼公司遭受的攻击以及周二出现的一大波来自伊朗的协同网络攻击的最新细节，令安全专家和执法部门紧张不安，担心索尼公司遭遇的麻烦可能预示着更多威胁即将到来。
+“In 2015 hackers will destroy systems not just for activism, but also for counter-incident response,” said Mr. Kellermann, suggesting that it would be more difficult for security firms and companies to investigate, respond and recover from cyberattacks.
+“2015年，黑客们摧毁电脑系统将不仅为了激进理念，也是为了反应急响应，”凯勒曼说。他认为安全机构和公司将更难调查、应对和修复网络攻击。
+The F.B.I. issued a private bulletin late Monday to a wide range of companies about a malicious software threat that wipes data from computers beyond the point of recovery.
+周一晚间，美国联邦调查局向多家公司发布了一份非公开公告，提醒它们警惕一个清除电脑数据的恶意软件，称这些数据很难恢复。
+The agency did not name the companies attacked, or say whether the bulletin was linked to the Sony attack, but the description mirrored the findings at Sony. The F.B.I. on Monday confirmed that it was working with the company to investigate the attack.
+联邦调查局没有指明遭到攻击的是哪家公司，也未说明该公告与索尼公司遭受的攻击是否有关，但是公告中的描述类似索尼公司的情况。周一，该机构确认，它正在与索尼公司联合调查这次攻击。
+Joshua Campbell, an F.B.I. spokesman, said on Tuesday that the agency’s “flash” warning, first reported by Reuters, was a routine advisory intended to “help systems administrators guard against the actions of persistent cybercriminals.”
+周二，联邦调查局发言人约书亚·坎贝尔(Joshua Campbell)称，该机构的“火速”警告是例行公告，意在“帮助网管提防顽固网络犯罪分子的行动”。最早报道该公告的是路透社。
+Two people with knowledge of the advisory’s contents said the bulletin warned companies of malware that could destroy data on their hard drives and prevent computers from rebooting. The malware overwrites data in such a way that it can be nearly impossible to recover using standard means.
+两位知晓公告内容的人士说，该公告提醒各公司防范能摧毁硬盘数据、阻止电脑重启的恶意软件。该恶意软件用特殊方法重写数据，用常规手段几乎不可能恢复。
+Sony declined to comment on Tuesday beyond its previously released statements. “The company has restored a number of important services to ensure ongoing business continuity and is working closely with law enforcement officials to investigate the matter,” one statement read. Sony is notably dealing with the breach and its aftermath without a public relations chief, having dismissed its top corporate communications executive the week before the attack occurred.
+周二，除了之前发布的声明，索尼公司拒绝再做评论。其中一项声明称，“本公司已恢复几项重要服务，以确保业务正常进行。本公司正与执法人员密切配合，调查该事件。”令人瞩目的是，索尼公司是在没有公关主管的情况下处理这次攻击事件及其后果，因为在攻击发生前的那周，该公司刚将该主管解雇。
+To restore its computer systems, Sony’s movie and television divisions — a large music unit was not affected — hired the Mandiant division of FireEye, one of the larger online security firms.
+索尼公司的电影和电视部雇佣大型网络安全公司火眼(FireEye)的Mandiant分部来恢复电脑系统。它的一个重要的音乐分部未受影响。
+With Mandiant’s help, business on Monday largely returned to normal at the studio, according to employees who spoke on the condition of anonymity. A previously scheduled town hall gathering to welcome a new movie marketing and distribution executive went forward as planned. The usual trade news trickled out — a casting announcement here, an international television deal there.
+据索尼公司的几位不愿透露姓名的员工说，在Mandiant公司的帮助下，周一该公司的大部分业务恢复正常。之前计划好的在市政厅欢迎电影推广发行新主管的活动如期举行。它也开始逐步发布日常行业新闻——选角公告和国际电视交易等。
+Inside Sony’s offices on Tuesday the mood was subdued but far from panicked, according to several employees, who said the attack had led to an unusually high degree of camaraderie. But they remained nervous about the breach of personal data and the possibility of identity theft.
+据几名员工表示，周二索尼公司内部的情绪受到打击，但远不至于恐慌，攻击令同事们空前友爱。但他们仍担心个人资料和身份信息遭窃。

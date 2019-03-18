@@ -1,0 +1,64 @@
+Last week, I used Apple’s new Maps app on my iPhone to guide me to a speaking engagement.
+上周，我用iPhone上的苹果(Apple)新地图应用软件(Maps app)带我到一个邀请我去讲话的地方。
+The GPS navigation screen was clean, bold and distraction-free. The voice instructions spoke the actual street names. The prompts gave me just the right amount of time to prepare for each turn.
+这个应用软件的GPS导航屏幕清晰、醒目、没有让人分心的干扰。其语音指示报出街道本身的名字。提示给我留出适当的时间准备每次转弯。
+There was only one problem: When the app told me that I had arrived, I was sitting in a random suburban cul-de-sac. Children were playing in the front yard, the sky was a crisp blue, and I was late for my talk.
+但唯一美中不足的是：当应用软件告知我已经抵达目的地时，我正在一个典型的郊区死巷子里。孩子们在房子前院里玩耍，天空湛蓝，而我没能按时到达讲话地点。
+As almost everyone knows by now, that’s not an unusual tale. Horror stories about Apple’s maps — and ridicule — are flooding the Internet.
+现在几乎每个人都已经知道，我的经历并不特别。有关苹果地图的吓人故事——还有嘲笑——正在互联网上广为流传。
+The iPhone’s old mapping app was powered by Google. But in the new iOS 6 software for iPhones and iPads, Apple replaced Google’s maps with its own, built from scratch.
+iPhone以前的地图应用有谷歌(Google)作后盾。但在iPhone和iPad系列产品最新iOS 6操作系统配的应用中，苹果用自己的软件取代了谷歌地图，而苹果的地图应用仍在起步阶段。
+Unfortunately, in this new app, the Washington Monument has been moved to a new spot across the street. The closest thing Maps can find for “Dulles Airport” is “Dulles Airport Taxi.” Search for Cleveland, Ga., and you’ll wind up right smack in Cleveland, Tenn. Riverside Hospital in Jacksonville, Fla., is in the right place but the wrong decade; it became a Publix supermarket 11 years ago.
+遗憾的是，在这个新应用软件中，华盛顿纪念碑(Washington Monument)被挪到了街道对面的一个新地点。如果要找杜勒斯机场(Dulles Airport)，地图给出的最近的地方是杜勒斯机场出租车公司(Dulles Airport Taxi)。搜索乔治亚州的克利夫兰，你会不偏不倚地来到田纳西州的克利夫兰。佛罗里达州杰克逊维尔河边医院(Riverside Hospital)的位置倒是对了，但年代却错了，那个地方11年前就变成名为Publix的一家超市了。
+And on, and on, and on. Entire lakes, train stations, bridges and tourist attractions have been moved, mislabeled or simply erased. Satellite photo views consist of stitched-together scenes from completely different seasons, weather conditions and even years. The point-of-interest data, in particular, seems to be incomplete or flaky, especially overseas (many snarky examples at theamazingios6maps.tumblr.com).
+这样的错误数不胜数。整个的湖、火车站、桥梁和旅游景点不是被搬了家，就是被改了名，或是干脆消失了。卫星影像图是用完全不同季节、不同天气状况、甚至不同年份的图片拼凑起来的。特别是有关兴趣点的数据，尤其是海外的那些，好像很不完整、很不可靠（网站 theamazingios6maps.tumblr.com搜集了不少极具讽刺的例子）。
+The most stunning new feature, Flyover, offers interactive, photorealistic 3-D models of major cities — but some scenes have gone horribly wrong. The Brooklyn Bridge has melted into the river, the road to the Hoover Dam plunges straight down into a canyon and Auckland’s main train station is in the middle of the sea.
+最有魅力的Flyover新功能提供了主要城市的互动、逼真的3D模型。然而，其中一些景象却大错特错。布鲁克林大桥(Brooklyn Bridge)融入纽约的东河，通往胡佛水坝(Hoover Dam)的公路直冲冲地扎进一个峡谷，而奥克兰主要的火车站则在海里。
+In short, Maps is an appalling first release. It may be the most embarrassing, least usable piece of software Apple has ever unleashed.
+简言之，苹果的地图应用软件是一个极为恶劣的第一版。也许是在该公司发布的所有软件中，最让苹果丢脸、最不好用的一款。
+Yes, it adds spoken turn-by-turn directions, auto-rerouting and a 3-D view of your route, all of which the old app lacked. Its design is elegant, smart and attractive. Flyover is neat. And Maps works beautifully with Siri; setting a destination is as easy as saying, “Give me directions to the White House,” and off you go. The spoken instructions continue even if you turn off the screen.
+是的，它增加了详尽的语音导航和自动改变路线功能，还提供了路线沿途的3D景观，所有这些都是原来的地图应用没有的。它的设计也非常优美、时尚、很吸引人。Flyover很棒。地图软件与Siri的结合也堪称完美；你可以简单地问它去呢，就能设定目的地。比如，你说 “告诉我怎么去白宫”，它马上就能带你去。即使关了屏幕，语音指示依然继续。
+But Maps is missing Street View, which lets you see street-level photos of any address. It’s also missing public transportation guidance. And while you’re navigating, you can’t look ahead at your itinerary — to pick a better route on your own, for example. You can tap a button for that kind of map, but now you’re flipping between two displays.
+不过，苹果的地图应用软件没有街道景观。街道景观能让你看到任何地址在街上是什么样的。它还缺少公共交通指南。而且导航时，你无法看到前面的路线，从而可以自己选择一条更近的路。要想看到前面的路线需要点击一个按钮，不过这时，你要在两个显示页面之间切换。
+As the magnitude of Mapplegate (as one of my readers calls it) became clearer, I had three questions.
+随着“苹果地图门”事件（Mapplegate：我的一位读者这么叫它）的影响越来越清楚，我对此有三个问题。
+First, why did Apple jettison Google’s map service, which is polished and mature? Second, how did Apple and its squad of perfectionists misfire so badly? Third, what exactly is the underlying problem, and how long will it take to fix?
+首先，苹果为什么抛弃了谷歌好用且成熟的地图服务？其次，苹果公司和它完美主义者的团队这次怎么错的如此离谱？最后，根本问题到底是什么，解决这个问题需要多长时间？
+After poking around, here’s what I’ve learned.
+做了一番调查采访后，以下是我了解到的。
+First, why Apple dropped the old version: Google, it says, was saving all the best features for phones that run its Android software. For example, the iPhone app never got spoken directions or vector maps (smooth lines, not tiles of pixels), long after those features had come to rival phones.
+首先，为什么苹果公司放弃了原来的地图应用软件。苹果称谷歌把所有最好的功能都保留给使用谷歌Android操作系统的手机了。比如，iPhone应用软件从来没有语音提示功能和矢量地图（由平滑线、而不是像素图块构成的地图），而竞争对手的手机很久之前就有这些了。
+The even greater issue may be data. Every time you use Google’s maps, you’re sending data from your phone to Google. That information is extremely valuable; it can be used to improve both the maps and Google’s ability to deliver location-based offers and advertising.
+更大的问题可能是数据。每次你用谷歌地图时，你都在通过手机向谷歌公司发送数据。这些信息极其宝贵；可以用来改善地图，也能提高谷歌提供与你所在位置有关的服务和广告的能力 。
+Apple, of late, has been disentangling itself from Google. So when it came time to renew its contract, Apple declined. It was no longer interested in supplying so much valuable user data to its rival.
+近来，苹果一直在争取从与谷歌的合作中解脱出来。所以，当双方合同到期，需要续签时，苹果拒绝了。苹果没兴趣为对手提供这么多宝贵的用户数据了。
+To build its replacement, Apple licensed data from other companies.
+为了造出替代谷歌的产品，苹果获得了其他公司的数据使用许可。
+It bought map data from TomTom, which also supplies maps for BlackBerry, HTC and Samsung phones, and even parts of Google Maps.
+苹果从汤姆汤姆公司(TomTom)购买了地图数据。后者也为黑莓(BlackBerry)、HTC和三星手机(Samsung phones)提供地图；谷歌地图也部分来自该公司。
+Apple got restaurant and store listings from Yelp, traffic data from Waze and so on — more than two dozen sources in all, Apple says.
+苹果从 Yelp（美国的大众点评网——译注）得到餐馆和商场的名单， 从Waze得到交通数据，如此等等。 苹果称，其数据来源超过20多家。
+The resulting ocean of information is many petabytes of data (one petabyte is a million gigabytes, if you’re scoring at home). Well over 99 percent of it, Apple says, is accurate.
+结果是一个好几个拍字节(petabyte)的数据汪洋大海（如果你关心这个量，一个拍字节等于一千万亿字节）。苹果称，99%以上的数据是准确的。
+Unfortunately, when the overall data set is that huge, even half a percent of faulty data means a lot of flaws. And the trouble is, you never know when you’re going to encounter one. One wild goose chase, and you’ll find it hard to trust the software again.
+不幸的是，如此之大的数据量，意味着0.5%的错误会导致很多瑕疵。更麻烦的是，你不可能知道什么时候会碰上一个。被它牵着鼻子瞎跑一次后，你会发现很难再会信这个软件。
+So Apple has written a beautiful, well-designed app — and fed it questionable data. It’s as though you just got a $1,500 professional coffee maker and then poured moldy beans into it.
+原来是这样：苹果写了一个漂亮的、设计精美的应用程序，却给它配了不可靠的数据。就像你买了一台1万块钱的专业咖啡机，却把发霉的豆子倒了进去。
+So where are we, then?
+啊，我们到哪儿了？
+Since the data is all online, Apple can introduce fixes instantly as they’re made, but “it’s not going to change by Friday,” says a product manager. That’s because, in general, the fixes have to be made one at a time, by hand.
+既然数据都在网上，苹果可以一发现问题就马上发布修补软件，但正如一位产品经理所说，“星期五之前修补不完。”这是因为，一般来说修补软件是用人工一个一个地做的。
+Within the app, the prominent Report a Problem button offers one-tap options like “Pin is at incorrect location” and “Place does not exist” (don’t you hate when that happens?). Apple also learns from the location data that pours in from those millions of iPhones as they roam.
+苹果的地图应用软件包括一个显眼的问题报告键，预设了“图钉插错位置”、“没有这个地方”（出这问题，你能不生气吗？）等反馈，点击一下就能把它们发出。苹果公司也能从几百万iPhone用户随时随地的使用中，获取大量的位置数据。
+Apple passes the error reports to TomTom or whichever data vendor is responsible. Eventually, the vendor makes the correction, and hey, presto: Maps gets better.
+苹果把错误报告转给汤姆汤姆，或其他应负责的数据供应商。最终由供应商纠正错误。嗨，马上，地图改进了！
+Apple acknowledges the stumble. “We own this; we manage the vendors. This is no one’s issue but ours,” an Apple executive told me. And it vows to pour as much time and manpower into repairing Maps as it takes.
+苹果承认在这个软件上栽了跟头。一位苹果主管告诉我，“这是我们的责任；供应商归我们管。这是我们的问题，不是别人的问题。”而且，苹果承诺将投入尽可能多的时间和人力，来修复地图应用软件。
+Unfortunately, making Apple Maps reliable and complete will take a very long time. (Google’s maps were pretty poor when they started out, too — in 2005.)
+遗憾的是，使苹果地图既可靠又完整需要很长的时间。（2005年，谷歌地图刚面世时，也相当差劲。）
+You can still use Google’s maps — on the Web. Visit maps.google.com and accept the offer to create a Home-screen icon for you. You won’t get spoken directions, but you’ll get written directions, public transportation details, live traffic reports and, of course, Google’s far superior maps and data. And you can install the Google Plus Local app for full access to Google’s more complete database of shops and businesses.
+你可以通过浏览器继续使用谷歌地图。访问maps.google.com，并接受其在主屏幕创建图标的请求。你不会得到语音导航，但是有文字导航、公共交通详情、实时路况，当然，也有远比苹果地图好的谷歌地图及数据。而且，你还可以安装谷歌+本地(Google Plus Local)应用软件，从谷歌更完整的数据库中获取商店和企业的信息。
+You can also use someone else’s app. Many good ones cost money, but the MapQuest and Waze apps are free and offer spoken directions; Waze also incorporates real-time information about traffic jams, accidents and speed traps, collected by thousands of iPhones and Android phones on the roads.
+你也可以用其他厂商的应用程序。虽然许多好的应用软件需要付费，但MapQuest和Waze的免费，而且有语音导航；Waze还提供堵车、事故、速度监测区等实时路况信息，都是路上成千上万的iPhone和Android手机用户提供的。
+If you can wait a couple of months, you’ll be able to install Google’s own maps app; Google is busily readying one for the iPhone and iPad.
+如果你能再等几个月，你就可以安装谷歌自己的地图应用了；谷歌正忙着为iPhone和iPad做这个软件。

@@ -1,0 +1,36 @@
+It’s a big universe, but it’s full of small planets.
+这是一个很大的宇宙，但却充满了小型的行星。
+A group of astronomers led by Guillermo Torres of the Harvard-Smithsonian Center for Astrophysics announced on Tuesday that they had found eight new planets orbiting their stars at distances compatible with liquid water, bringing the total number of potentially habitable “Goldilocks planets” to a few dozen, depending on how the habitable zone is defined.
+周二，以哈佛-史密森尼天体物理中心(Harvard-Smithsonian Center for Astrophysics)的吉耶尔莫·托里斯(Guillermo Torres)为首的一组天文学者宣布，他们新发现有八颗行星在容许液态水存在的距离围绕它们的恒星运行。这样一来，可能适宜居住的“适居带(Goldilocks)行星”的总数就上升到了数十颗。当然，这还取决于如何定义适居带。
+NASA’s Kepler spacecraft, now in its fifth year of seeking out the shadows of planets circling other stars, has spotted hundreds, and more and more of these other worlds look a lot like Earth — rocky balls only slightly larger than our own home, that with the right doses of starlight and water could turn out to be veritable gardens of microbial Eden.
+美国国家航空航天局(NASA)的开普勒(Kepler)太空望远镜目前已进入搜寻围绕其他恒星旋转的行星的阴影的第五年。它已经发现了数百个，以及越来越多与地球十分相似的世界——只比我们的家园地球体积稍大的石球，只要有适量的光和水，就可能会成为名副其实的微生物伊甸园。
+As the ranks of these planets grow, astronomers are beginning to plan the next step in the quest to end cosmic loneliness, gauging which hold the greatest promise for life and what tools will be needed to learn about them.
+随着此类行星的数量不断增加，天文学者开始计划相关探索的下一步，测算哪颗行星存在生命的可能性最大，以及了解它们需要什么工具，从而终结我们在宇宙中的孤独感。
+On Monday another group of astronomers said they had managed to weigh precisely a set of small planets and found that their densities and compositions almost exactly matched those of Earth. Both groups announced their findings at a meeting of the American Astronomical Society in Seattle.
+周一，另一组天文学者表示，他们已经成功精确计算出了一系列小行星的重量，发现它们的密度和构成几乎与地球完全一致。这两组天文学者都在西雅图的美国天文学会 (American Astronomical Society)的会议上公布了自己的研究结果。
+Alluding to the popularity of food shows and cooking apps, Courtney Dressing, also of the Harvard-Smithsonian Center for Astrophysics, said at a news conference, “I’m going to give you the recipe for a rocky planet.”
+同样来自哈佛-史密森尼天体物理中心的考特妮·德雷辛(Courtney Dressing)在新闻发布会上借用美食节目和烹饪软件的话说，“我现在要告诉你该如何制作岩态行星。”
+She began, “Take one cup of magnesium....”
+她说，“用一杯镁……”
+Reviewing the history of exoplanets, Debra Fischer, a Yale astronomer, recalled that the first planet found orbiting another sunlike star, a Jupiter-like giant, was discovered 20 years ago. Before that, she recalled, astronomers worried that “maybe the Star Trek picture of the universe was not right, and there is no life anywhere else.”
+耶鲁大学(Yale)天文学者德布拉·费希尔(Debra Fischer)在回顾系外行星历史时说，第一次发现围绕类似太阳的恒星运行的行星是在20年前。这颗行星很像木星，体积巨大。她回忆道，在那之前，天文学者担心“或许《星际迷航》(Star Trek)中的宇宙景象是不正确的，其他地方根本没有生命”。
+She termed the progress in the last two decades “incredibly moving.”
+她表示，过去20年的进步“十分惊人”。
+So far, Kepler has discovered 4,175 potential planets, and 1,004 of them have been confirmed as real, according to Michele Johnson, a spokeswoman at NASA’s Ames Research Center, which operates Kepler.
+负责运行开普勒的NASA艾姆斯研究中心(NASA Ames Research Center)的女发言人米歇尔·约翰逊(Michele Johnson)称，迄今，开普勒已经发现了4175颗疑似行星，其中有1004颗已经得到证实。
+Most of them, however, including the new ones announced Tuesday, are hundreds of light-years away, too far for detailed study. We will probably never know any more about these particular planets than we do now, including whether anybody can or does live on them.
+不过，它们中的大多数，其中包括周二宣布的新发现的行星都距离地球数百光年，因为太远，而不适合进行详细研究。我们对于这些特殊行星的了解，或许永远无法比现在更多，其中包括人们是否能够，以及是否有人在这些行星上生存。
+“We can count as many as we like,” said Sara Seager, a planet theorist at the Massachusetts Institute of Technology who was not involved in the new work, “but until we can observe the atmospheres and assess their greenhouse gas power, we don’t really know what the surface temperatures are like.”
+“我们可以想数出多少就数出多少，”麻省理工学院（Massachusetts Institute of Technology，简称MIT）的行星理论家萨拉·西格(Sara Seager)说，“但在能够观察它们的大气，评定它们的温室气体含量之前，我们无法真正了解它们的地表温度。”她并没有参与这项新研究。
+Still, she added, “it’s heartening to have such a growing list.”
+不过，她补充道，“这样的行星越来越多，也很令人鼓舞。”
+Finding Goldilocks planets closer to home will be the job of TESS, the Transiting Exoplanet Survey Satellite, scheduled to be launched in 2017. But if we want to know what the weather is like on these worlds, whether there is water or even life there, more powerful instruments will be needed.
+寻找离地球较近的适居带行星将是凌日系外行星勘测人造卫星（Transiting Exoplanet Survey Satellite，简称TESS）的任务。这种卫星将于2017年发射。但是，如果我们想知道这些行星上的天气状况、上面是否有水乃至生命，还需要更强大的工具。
+Dr. Seager is heading a NASA study investigating the concept of a starshade, which would float in front of a space telescope and block light from a star so that its much fainter planets would be visible, the way a driver flips down a shade to block the glare of the sun.
+西格正在负责一项研究遮星板(starshade)概念的NASA研究。这种遮星板将漂浮在太空望远镜前方，遮挡恒星发出的光，这样就能看见它比较暗淡的行星了，就像司机拉下遮阳板挡住刺眼的阳光那样。
+Another group, led by Karl Stapelfeldt of NASA’s Goddard Space Flight Center, is studying the alternative method known as a coronagraph, in which the occulting disk is inside the telescope.
+由NASA戈达德航天中心(Goddard Spaceflight Center)的卡尔·斯塔佩尔费尔德特(Karl Stapelfeldt)所带领的另一个小组正在研究被称作日冕仪(coronagraph)另一种办法。根据这种办法，挡板会被放在望远镜里面。
+Both studies are expected to be completed in the next couple of months, and could affect plans to repurpose a former spy telescope, a clone of sorts of the Hubble, that was bequeathed to NASA three years ago by the National Reconnaissance Office. Astronomers hope to launch it in the early 2020s to study dark energy, under the unwieldy name of Wfirst/Afta.They are planning for now to include a coronagraph to search for exoplanets, according to Paul Schechter of M.I.T., chairman of a design team. Depending on the probe’s orbit, said Dr. Seager, it could be also be made “starshade ready.”
+两项研究都有望在未来几个月内完成，它们可能影响到改变原来的间谍望远镜的使用目的的计划。这种望远镜是对哈勃(Hubble)望远镜的一种复制，三年前由国家侦察局(National Reconnaissance Office)赠送给NASA。天文学者希望能在本世纪20年代初将其发射升空，用来研究暗能量。它有个复杂的名字，叫做宽视场红外巡天望远镜/天体物理学专用资产(Wfirst/Afta)。某设计团队的主席、来自MIT的保罗·谢克特(Paul Schechter)表示，他们目前正计划在上面安装一台日冕仪，用来搜索系外行星。西格说，根据这个探测器的轨道，还可以对它进行调整，使之“能够使用遮星板”。
+NASA’s James Webb Space Telescope, due for a 2018 launch, will have a coronagraph capable of seeing Jupiter-size planets, but it is too late to adapt it to a star shade.
+NASA的詹姆斯·韦伯太空望远镜(James Webb Space Telescope)将于2018年发射，它上面也将安装一台能看到木星大小的行星的日冕仪，但现在已经来不及对它进行调整，使它能使用遮星板。

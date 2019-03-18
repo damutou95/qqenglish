@@ -1,0 +1,12 @@
+RIVERSIDE, Calif. — The Justice Department moved to cancel a Tuesday hearing over whether Apple should be forced to help investigators break into an iPhone used by a gunman in last year’s San Bernardino, Calif., mass shooting.
+加利福尼亚州里弗赛德——美国司法部(Justice Department)取消了原定于周二的一场听证会。该听证会的主题是，是否应该强迫苹果(Apple)协助调查人员进入一部iPhone。那部iPhone的主人是去年加州圣贝纳迪诺大规模枪击事件中的一名持枪歹徒。
+In a new filing on Monday, the Justice Department said it might no longer need Apple’s assistance to extract data from the phone used in the attack.
+在周一提交的一份新文件中，司法部表示可能不再需要苹果协助从袭击中使用的那部手机里提取数据了。
+“On Sunday, March 20, 2016, an outside party demonstrated to the F.B.I. a possible method for unlocking Farook’s iPhone,” Justice Department lawyers wrote in the filing, referring to Syed Rizwan Farook, one of the San Bernardino gunmen. “Testing is required to determine whether it is a viable method that will not compromise data on Farook’s iPhone. If the method is viable, it should eliminate the need for the assistance from Apple.”
+“2016年3月20日，周日，外部人士向FBI演示了一种可能可以解锁法鲁克的iPhone的方法，”司法部的律师在文件中写道。文件里说的法鲁克是圣贝纳迪诺事件中的枪手之一赛义德·里兹万·法鲁克(Syed Rizwan Farook)。“需要进行测试来确定其是否可行，且不会破坏法鲁克手机上的数据。如果方法可行，应该就不再需要苹果的协助了。”
+The Justice Department requested the court cancel Tuesday’s hearing and said it would file a status report by April 5 on its progress on unlocking the iPhone.
+司法部要求法院取消周二的听证，并表示会在4月5日之前就解锁那部iPhone的进展提交一份进度报告。
+The Justice Department’s move may help sidestep a clash that has erupted between the United States government and Apple over the iPhone and how and when authorities should use the troves of digital data collected and stored by tech companies. The two sides have traded barbs over the issue for weeks, ever since Apple received a court order last month requesting that the company comply with an order to weaken the security of the iPhone so law enforcement could gain access to the data in it.
+司法部此举可能有助于避开一场冲突。关于那部iPhone，以及官方何时、在何种情况下可以使用科技企业收集存储的大量数据，美国政府与苹果公司爆发了一场争执。上月，苹果接到法院的裁定，要求苹果公司遵命削弱那部iPhone的安全保护，从而让执法人员访问手机里的数据。在这之后的数周里，双方就这个问题针锋相对。
+Judge Sheri Pym, the federal magistrate judge in the United States District Court for the Central District of California who is set to hold the hearing on Tuesday between the two sides, scheduled a call with both Apple and federal prosecutors Monday afternoon to discuss the government’s latest move.
+周二的听证会原定由加利福尼亚中区联邦地区法院(United States District Court for the Central District of California)的法官谢莉·皮姆(Sheri Pym)主持。听证会取消后，皮姆安排了周一下午与苹果和联邦检察官举行电话会议，讨论政府的最新举动。

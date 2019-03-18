@@ -1,0 +1,10 @@
+Higher levels of vitamin D have been associated with a reduced risk of colon cancer in many observational studies. A new analysis has found a possible reason.
+很多观察性研究发现，血液中维生素D含量越高，患结肠癌的风险越低。一项新研究可能找到了其中一个原因。
+A malignant tumor contains not just cancer cells but many types of cells, some of which affect how fast a tumor may grow or spread. Among them are a group of immune system cells called T lymphocytes, or T cells, that can target tumor cells and limit their growth. Having a tumor with more T cells correlates with a better prognosis.
+恶性肿瘤中不仅有癌细胞，还有很多其他种类的细胞，其中一些细胞能影响肿瘤变大或扩散的速度。其中有一群免疫系统细胞，名叫T淋巴细胞或T细胞，它们能攻击肿瘤细胞，限制它们的发展。含有更多T细胞的肿瘤，预后情况更好。
+The study, published in the journal Gut, included 318 people who had developed colorectal cancer and 624 matched controls. All had vitamin D levels measured before the appearance of any cancers.
+这项发表在《内脏》(Gut)杂志上的研究调查了318名结直肠癌患者和624名匹配的对照组人员。研究人员测量了所有这些人出现任何癌症之前的维生素D水平。
+The higher the blood levels of vitamin D, the less likely people were to develop colorectal tumors. Vitamin D, the authors suggest, interacts with the immune system to prevent the growth of this type of malignancy.
+血液中的维生素D含量越高，越不可能患上结直肠肿瘤。这项研究的作者们认为，维生素D与免疫系统相互作用，能预防这类恶性肿瘤的生长。
+“This study really shows that vitamin D has an effect on immunity,” said the senior author, Dr. Shuji Ogino, an associate professor of pathology at the Dana-Farber Cancer Institute in Boston, “and it’s the first study to show that in a human population. Vitamin D boosts immunity not just in cancer, but in fighting infections as well.”
+这项研究的资深作者、波士顿丹娜法伯癌症研究院(Dana-Farber Cancer Institute)的病理学副教授荻野修二(Shuji Ogino)说，“这项研究确实表明，维生素D能提高免疫力。它是第一项在人体上表明这一点的研究。维生素D对免疫力的促进作用不仅在于防癌，还在于对抗感染。”

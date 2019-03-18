@@ -1,0 +1,32 @@
+Many people have both laptop computers and tablets and use them for different tasks. Microsoft on Tuesday redoubled its vision that the two devices should be one and the same, introducing a new version of its Surface tablet with a larger screen.
+很多人同时拥有笔记本电脑和平板电脑，用来做不同的事情。微软(Microsoft)在周二推出了配备更大屏幕的新版Surface，再次强调了它的构想，即这两种设备应该合二为一，成为同一个设备。
+The company’s new product, the Surface Pro 3, has a 12-inch screen, larger than many small laptop screens. The more spacious screen reflects a sharpening of Microsoft’s belief that it can still distinguish itself in the tablet market, where it is currently an also-ran, with a device that meets professional and personal needs.
+该公司的这款新产品Surface Pro 3有一块12寸屏幕，比许多小型笔记本电脑屏幕要大。更宽敞的屏幕空间反映出微软更加坚定的信念，他们认为自己仍然可以在平板市场中脱颖而出，做出一款同时满足专业需求和个人需求的设备。
+Microsoft argues that current tablets, most notably the iPad, are great for watching movies and other forms of entertainment or reading, but are far weaker when it comes to getting work done. The company’s proposition is that the Surface can do both well. A bigger display, Microsoft argues, will let people look at more than one application on their screens at the same time — like email and a word processor — as they can on their laptops.
+微软认为，当前以iPad为代表的平板电脑非常适合用来看电影及其他娱乐形式，或者阅读，但在作为工作设备时就要弱了很多。微软提出应该采用更大的显示屏，让人们同时在屏幕上看到多个应用程序——比如电子邮件和文本处理器——和他们在用笔记本电脑一样。
+“We want products and technology that enable people to dream and get stuff done,” Satya Nadella, the chief executive of Microsoft, said at an event in New York.
+“我们希望我们的产品和技术能激发人们的梦想，也能把事情做好，”微软首席执行官萨蒂亚·纳德拉(Satya Nadella)在纽约的一场活动上说。
+This has been Microsoft’s approach since it introduced the original Surface in 2012, however. Earlier Surface versions had a 10.6-inch screen, larger than those on most other tablets.
+然而，微软的这种理念是2012年推出第一代Surface时就已经提出的。Surface此前的版本配备了10.6寸屏幕，比市面上多数平板电脑都大。
+Microsoft has won praise from many quarters for the design of the Surface, including a cover that also doubles as a laptoplike keyboard and track pad. Critics of Surface say a hybrid device forces too many design compromises. Timothy D. Cook, the chief executive of Apple, once said in reference to the Surface that “you can converge a toaster and refrigerator, but these things are probably not going to be pleasing to the user.”
+微软对Surface的设计已经赢得了多方的赞誉，其设计的一个特色是，它的保护盖还可以充当笔记本电脑式的键盘和触控板。而Surface的批评者则认为，混合型设备会迫使设计者做出过多的妥协。苹果(Apple)首席执行官蒂莫西·D·库克(Timothy D. Cook)曾评价Surface说，“你可以把多士炉和冰箱合二为一，但是这些东西用户使用起来可能不会舒服。”
+Sales of the Surface have been disappointing, and the company is losing money on the devices. During the first quarter of the year, Microsoft’s share of worldwide shipments in the market for tablets and two-in-one computers — tablets with detachable keyboards like the Surface — was 1.3 percent, putting it in seventh place in the market, according to IDC, the technology research firm. Apple was No. 1 with 32.7 percent.
+Surface的销售业绩不佳，公司在这个设备上是赔钱的。据研究公司国际数据公司(IDC)的数据，今年第一季度，微软在平板电脑和二合一电脑——类似Surface这样有可拆卸键盘的平板电脑——市场的全球出货量份额是1.3%，排名第七。苹果为32.7%，排名第一。
+The new Surface will start at $799, $100 less than the previous comparable version. The Surface Pro 3, which can be preordered starting on Wednesday, will be available in the United States and Canada on June 20.
+新款Surface的售价为799美元起（中国版售价为人民币5688元起），比此前相应版本低了100美元。Surface Pro 3从周三开始接受预订，将于6月20日开始在美国和加拿大上架。
+Before the event on Tuesday, many people expected Microsoft to introduce a smaller Surface, to compete with the iPad Mini, the most popular product in Apple’s tablet family. Microsoft is working on such a device, according to a person briefed on the discussions who spoke only on the condition of anonymity. But the company decided against announcing the product on Tuesday, the person said, after Mr. Nadella asked the managers of the Surface team if they believed strongly that the device was ready to be shipped.
+在周二的发布会前，很多人预测微软会推出一款更小的Surface，以和苹果平板产品家族中最受欢迎的iPad Mini竞争。据一位了解相关讨论但要求匿名的人说，微软正在开发这样一款设备。但此人称，纳德拉曾询问Surface团队的管理人员是否确信那款设备已经可以推出，随后公司决定不在周二发布该产品。
+The Surface team felt the smaller device was not ready, in large part because of software issues, this person said. Microsoft has not completed a version of its Office applications for touch-screen devices running the company’s Windows operating system. Microsoft was concerned that the current Office applications would be difficult to operate on a Surface with a small screen, the person said. A version made for Apple devices has already been released.
+此人表示Surface团队认为这款小尺寸的设备还没有准备好，其中一个主要问题出在软件上。Office软件为运行Windows操作系统的触屏设备开发的一个版本尚未完成。此人说微软担心目前的Office软件在小屏幕的Surface上很难操作，针对苹果设备的版本已经推出。
+“This continues to be a massive uphill battle for Microsoft and Nadella,” said Daniel Ives, an analyst at FBR Capital Markets. “It feels like a small step in the right direction from a product perspective and strategy perspective.”
+“这仍然是微软和纳德拉面临的一个最艰巨的挑战，”FBR资本市场(FBR Capital Markets)分析师丹尼尔·艾夫斯(Daniel Ives)说。“从产品和战略的角度，感觉这是朝着正确的方向迈出的一小步。”
+The innards of the Surface Pro 3 include a microprocessor made by Intel, the chip giant that makes the microprocessor inside most conventional PCs. That means Microsoft’s device can run applications written for PCs, unlike the iPad and other tablets.
+Surface Pro 3内部配备了英特尔(Intel)处理器，多数传统PC内部的处理器都是这家芯片巨头生产的。这意味着那些为PC编写的程序也可以在Surface上运行，这一点和iPad及其他平板电脑不同。
+The new Surface will inevitably be compared with the iPad, and not favorably in many respects. At 1.76 pounds, the Surface Pro 3 is heavier and more expensive than the 1-pound iPad Air, Apple’s largest tablet, which starts at $499. Yet Microsoft believes a more apt comparison is Apple’s MacBook Air, an ultraslim laptop that is a hit among professionals and starts at $899 and weighs 2.38 pounds.
+人们不可避免地会拿新款Surface和iPad作比较，并且前者在很多方面没有优势。Surface Pro 3的重量为1.76磅（约合0.8公斤），比iPad Air更重、更贵，后者是苹果屏幕最大的平板，重1磅，售价为499美元起。然而微软认为更合适的比较对象应该是苹果的MacBook Air，这款超轻薄笔记本电脑售价为899美元起，重2.38磅，在专业人士中非常受欢迎。
+“This device actually makes a much better argument for consolidating into one device,” said J.P. Gownder, an analyst at Forrester Research.
+“这款设备对设备整合的理念，的确是一个更有力的证明，”弗雷斯特研究公司(Forrester Research)分析师J·P·高恩德(J. P. Gownder)说。
+Panos Panay, a corporate vice president at Microsoft and a creator of the Surface product line, emphasized repeatedly that Microsoft’s new product elegantly balanced the capabilities of both devices.
+Surface产品线缔造者之一、微软副总裁帕诺斯·潘奈伊(Panos Panay)曾多次强调，微软的这款新产品在两种设备之间达成了一个优雅的平衡。
+“I am sure that this is the tablet that can replace the laptop,” Mr. Panay said.
+“我坚信这是一款可以取代笔记本的平板电脑，”潘奈伊说。

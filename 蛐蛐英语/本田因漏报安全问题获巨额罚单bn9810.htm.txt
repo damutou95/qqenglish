@@ -1,0 +1,30 @@
+The National Highway Traffic Safety Administration has fined Honda Motor $70 million for failing to submit reports of fatal accidents and injuries to the government.
+因未就造成人员伤亡的事故向政府提交报告，本田汽车(Honda Motor)被美国国家公路交通安全局(National Highway Traffic Safety Administration)处以7000万美元（约合4.4亿元人民币）的罚款。
+It is the largest amount that the safety regulator has ever levied against an automaker. The penalty stems from the automaker’s failure to report 1,729 death and injury claims to the agency for the last 11 years, and its failure to report certain warranty and other claims in the same period.
+这是该安全监管机构对汽车生产商开出的最高罚单。本田受罚是因为在过去11年里，它未向该机构汇报1729起伤亡索赔，且在同一时期，该公司未汇报某些保修及其他一些索赔。
+“Today’s announcement sends a very clear message to the entire industry that manufacturers have responsibility for the complete and timely reporting of this critical safety information,” Mark Rosekind, the new head of the agency, said on Thursday.
+“今天的通告向整个行业传达了一个非常明确的讯息，那就是厂商有责任全面、及时地汇报这类关键的安全信息，”国家公路交通安全局新任局长马克·罗斯金德(Mark Rosekind)周四说。
+Under a system called Early Warning Reporting, automakers are required to disclose claims they receive that blame vehicle defects for serious injuries or deaths.
+根据尽早预警汇报(Early Warning Reporting)制度的要求，车企应在收到称车辆缺陷造成了重伤或死亡的索赔后，将其公开。
+Honda publicly disclosed in November that it had grossly underreported the number of deaths and injury claims linked to possible defects in its vehicles for more than a decade. An audit, commissioned by Honda, found that the Japanese automaker had not reported 1,729 written claims or notices on injuries or deaths from mid-2003 through mid-2014 — far more than the approximately 900 reports for that period that it did make.
+本田于去年11月透露，在超过十年的时间里，公司大幅漏报了与车辆可能存在的缺陷有关的伤亡索赔数量。本田委托进行的审计发现，从2003年中期一直到2014年中期，这家日本车企漏报了1729起书面伤亡索赔或通知，远远超出该公司同一时期汇报的约900起索赔。
+A Honda employee identified the problem in 2011, and federal regulators notified Honda of potential underreporting of death and injury claims in 2012, but the car company did not take action until September 2014. In November, after receiving preliminary findings of the audit, the safety agency demanded that Honda submit more information on its reporting. That action came after the Center for Auto Safety, a private advocacy group, accused Honda in an open letter in October of systematically underreporting the Early Warning claims.
+本田的一名雇员在2011年发现了这个问题，2012年，联邦监管机构通知了本田可能少报了伤亡索赔，但该公司直到2014年9月才采取行动。去年11月，在获得初步审计结果后，该安全监管机构要求本田提交更多有关其汇报事宜的信息。在那之前的10月，私立权利倡导团体汽车安全中心(Center for Auto Safety)在一封公开信中指责本田有组织地漏报了尽早预警制度要求上报的索赔。
+“We have resolved this matter and will move forward to build on the important actions Honda has already taken to address our past shortcomings in early warning reporting,” Rick Schostek, executive vice president of Honda North America, said in a statement on Thursday. “We continue to fully cooperate with N.H.T.S.A.”
+“我们已经解决了这个问题，并将继续以本田已经采取的重要行动为基础，应对我们过去在尽早预警方面存在的不足，本田北美(Honda North America)的执行副总裁里克·朔斯特克(Rick Schostek)在周四的一份声明中说。“我们会继续与国家公路交通安全局全面合作。”
+Honda noted that, of the underreported claims, eight, including one death claim, were related to defective Takata airbags, which can deploy violently and rupture in an accident, sending metal fragments flying toward the driver or passenger instead of protecting them.
+本田指出，漏报的索赔中，包括一起死亡索赔在内的八起索赔与高田(Takata)的问题气囊有关。发生事故时，高田的问题气囊可能会猛然弹出并破裂，导致金属碎片飞向驾驶员或乘客，而不是保护它们。
+Honda said in a statement that the reporting failures stemmed from data entry, programming and coding errors, as well as a too-narrow and sometimes inaccurate interpretation of regulations.
+本田公司发表声明称，报告问题是由数据输入、编程及代码错误，以及对规定进行了过于狭隘、有时甚至是错误的解读造成的。
+Anthony Foxx, the secretary of transportation, said it did not matter that Honda said it had not meant to violate the law.
+美国运输部部长安东尼·福克斯(Anthony Foxx)表示，本田自称并非有意违法是于事无补的。
+“Good intentions don’t help the automaker,” he said, adding that the safety agency has asked all automakers to audit their Early Warning reports for compliance.
+他说，“善意对车厂是没什么帮助的。”他还表示，交通安全局已经要求所有汽车制造商按照规定，对早期预警报告进行审计。
+Mr. Foxx said that the National Highway Traffic Safety Administration had alerted the Justice Department to Honda’s reporting problems, but that it would be up to that agency to make a decision about a criminal investigation.
+福克斯表示，国家公路交通安全局已经告知司法部本田的报告问题，但最终由司法部决定是否开展刑事调查。
+“Seventy million dollars is a start,” said Senator Bill Nelson, a Democrat from Florida. “But we still need automakers to step up and take care of consumers with defective airbags, and we need regulators to insist on more timely and accurate reporting of possible safety defects.”
+“7000万美元的罚款是一个开始，”佛罗里达州民主党参议员比尔·尼尔森(Bill Nelson)说。“但我们仍需要汽车制造商加快速度，对拥有问题气囊的顾客负责，我们也需要监管部督促制造商更加及时、准确地上报潜在的安全缺陷。”
+The auto safety agency has had a difficult past year. Last year brought record vehicle recalls and intense scrutiny from lawmakers, safety experts and the news media. A New York Times investigation into the agency’s handling of major safety defects over the last decade found that it often had been slow to identify problems, tentative to act and reluctant to use its full legal arsenal against automakers.
+过去一年中，这家汽车安全机构的日子并不好过。去年出现了创纪录的汽车召回事件，议员、安全专家及新闻媒体密切关注相关问题。《纽约时报》对该机构过去十年处理重大安全缺陷的举措进行了研究，结果发现它迟迟无法确认问题，采取行动时犹豫不决，而且不愿充分利用法律武器，惩罚汽车制造商。
+Mr. Rosekind, a former member of the National Transportation Safety Board, was confirmed as the agency’s administrator in December, almost a year after the resignation of David L. Strickland as the agency’s leader. David J. Friedman led the agency in the interim and took much of the heat aimed at its work during a series of congressional hearings last year that focused on the ever-expanding recalls of Takata-made airbags and faulty ignition switches, which General Motors failed to disclose for more than a decade.
+前国家安全运输委员会(National Transportation Safety Board)成员罗斯金德于去年12月，也就是戴维·L·斯特里克兰(David L. Strickland)辞去国家公路交通安全局局长一职的一年之后，确认担任该局局长。在过渡时期主持工作的戴维·J·弗里德曼(David J. Friedman)因为该机构在去年一系列国会听证会期间的工作而饱受批评，听证会主要关注规模不断扩大的高田气囊召回及存在故障的点火开关等问题，通用汽车(General Motors)在十多年里没有披露这些问题。

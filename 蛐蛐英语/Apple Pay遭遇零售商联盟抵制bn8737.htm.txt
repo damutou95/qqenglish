@@ -1,0 +1,42 @@
+One week after its debut, Apple’s new mobile wallet is showing promise with consumers.
+亮相一周后，苹果(Apple)的全新移动钱包在吸引消费者方面展现了美好前景。
+Apple’s rivals in the payments industry, meanwhile, are scrambling to prevent it from being too successful.
+与此同时，苹果在支付业的竞争对手正在紧急行动起来，设法阻止它变得太成功。
+Even before Apple Pay was announced, a coalition of retailers refused to accept it in their stores. More than 50 companies make up this group, the so-called Merchant Customer Exchange or MCX, including global retail giants like Walmart, Best Buy and Gap Inc.
+在苹果宣布要推出Apple Pay之前，一个零售商联盟已经拒绝在其门店中接受它了。这个名为“商家客户交易”（Merchant Customer Exchange，简称MCX）的组织有50多家公司成员，包括沃尔玛(Walmart)、百思买(Best Buy)和Gap等全球零售业巨头。
+It’s not that these companies don’t want a mobile wallet to truly catch on with consumers. They see the mobile wallet as a way to help retailers understand more about their customers’ shopping habits and, potentially, let merchants avoid the high fees they pay when processing credit card transactions.
+这些公司并非不想要一个能真正吸引消费者的移动钱包。在它们看来，移动钱包是一种帮助零售商更好地了解顾客购物习惯的办法，并且有可能让商户规避信用卡交易中需要缴纳的高额费用。
+But they are working on building a competitor, CurrentC, a mobile wallet app that will connect directly to customers’ bank accounts or store-specific credit card. It won’t be available until 2015.
+但是它们在开发一种和Apple Pay相抗衡的移动钱包应用CurrentC，这种应用会直接和顾客的银行账号或针对具体商户的信用卡绑定。它至少要到2015年才能推出。
+The problem is that under the terms of their MCX contractual agreement, they are not supposed to accept competing mobile payments products like Apple Pay, according to multiple retailers involved with MCX, who spoke on the condition of anonymity. If these retailers break their contracts, they will face steep fines for doing so, these people said.
+问题是，据多家属于MCX的零售商称，根据MCX的合同规定，他们是不可以接受Apple Pay这种竞争对手的移动支付产品的，这些商家要求在本文中匿名。他们说，一旦违反合同规定，会遭到高额罚款。
+Since Apple Pay was introduced a week ago, consumers have tried to use it in MCX members like Rite Aid and CVS. So those businesses have disabled the technology that supports Apple Pay.
+Apple Pay是一周前推出的，自那以后有消费者试图在Rite Aid和CVS等MCX会员商户使用它。这些商户因此已经禁用了支持Apple Pay的技术。
+For weeks, Walmart and Best Buy have said they will not support Apple’s payments product. And Target, which has partnered with Apple for online payments, does not accept Apple Pay in its stores.
+几周来沃尔玛和百思买一直在说，他们不会支持苹果的支付产品。在在线支付上与苹果有合作的塔吉特(Target)，在其门店是不接受Apple Pay的。
+At stake is the future of how consumers choose to pay for things, with technology companies, credit card businesses and retailers all fighting for a piece of what may become a $90 billion mobile payments market, according to projections from Forrester. 
+此事关乎消费者支付方式的未来，据弗雷斯特(Forrester)的预计，移动支付将形成一个900亿美元（约合5506亿元人民币）的市场，科技公司、信用卡商家和零售商都希望能分得一勺羹。
+But the clock is ticking. If Apple Pay becomes a hit, MCX member retailers still waiting on CurrentC to begin could miss out on untold mobile payment transactions. Merchants also risk customer resentment if they continue to refuse Apple Pay. And if Apple Pay catches on, consumers may not be interested in a competing product.
+但是时间不等人。如果Apple Pay大获成功，还在等CurrentC的MCX零售商成员错过的移动支付交易是难以估量的。如果商户继续拒绝Apple Pay，还有可能招致顾客的怨恨。而一旦Apple Pay普及起来，消费者可能就不会想去尝试与之竞争的产品了。
+“These retailers are in a real jam,” said Karen Webster, chief executive of Market Platform Dynamics, a payments industry consulting firm. “The last thing merchants want is ticking off their consumers over payment,” Ms. Webster said.
+“这些零售商有大麻烦了，”支付业咨询公司市场平台动态(Market Platform Dynamics)首席执行官凯伦·韦伯斯特(Karen Webster)说。“因为付款方式的问题惹怒顾客是商家最不愿意看到的事。”
+First announced in 2012, CurrentC is an effort by merchants to build their ideal mobile wallet. CurrentC is designed to link directly to a customer’s bank account instead of a credit card. This is a strategic move, analysts say; in bypassing the credit card companies, merchants can avoid the high fees that they are required to pay on each credit transaction they process.
+将推出CurrentC的消息是2012年宣布的，此举的意图是打造一种商家的理想移动钱包。按照CurrentC的设计，应用是和顾客的银行账户直接联接的，而不是信用卡。分析人士说，这是一个战略举措；绕过信用卡公司后，商户可以避开每次进行信用交易时产生的高额费用。
+“Retailers are looking for a combination of factors to adopt in stores,” said Mallory Duncan, senior vice president of the National Retail Federation, a retail advocacy group. “And that includes if it delivers a good price to hold down costs for them and their customers.”
+“零售商在寻找一种门店需考虑的各项因素的组合，”零售倡导组织美国零售联合会(National Retail Federation)高级副总裁莫罗伊·邓肯(Mallory Duncan)说。“这其中包括它是否能给一个好价钱，帮商户和顾客降低成本。”
+CurrentC would also give retailers the ability to track shopping habits across the dozens of stores that belong to MCX, a data set that has traditionally been held by credit card companies, not merchants. If retailers had access to this data, it could be used to deliver relevant deals and loyalty points to consumers, which could increase these companies’ bottom lines.
+CurrentC还让商家可以对顾客在MCX旗下所有商户的购物习惯进行跟踪，这组数据通常是由信用卡公司而非商家掌握的。如果零售商能拿到这个数据，就可以用它来推出定位准确的促销活动和积分，从而有望增加公司的收入。
+That could also amount to in-store experiences centered on the smartphone, an area in which Walmart, one of the biggest partners in MCX, has increasingly dabbled in recent years.
+同时它还可能营造一种以智能手机为中心的购物体验，作为MCX最大的合作伙伴之一，沃尔玛近年来一直在试水这个领域。
+“MCX is studying how to make sure all of the things that a customer wants to do in a store can be facilitated in a conscious way,” said Steve Mott, owner of BetterBuyDesign, a payments industry consulting firm.
+“MCX正在研究如何有意识地让顾客在一个商店里做的所有事都便利起来，”支付业咨询公司BetterBuyDesign所有人史蒂夫·莫特(Steve Mott)说。
+Unlike Apple Pay, CurrentC is months away from beginning. When it is finally introduced, there is no guarantee it will take off.
+和Apple Pay不同的是，CurrentC还要再过数月才能启用。即使等到最终推出，也不能保证会普及起来。
+Critics of CurrentC say it appears much more difficult to use than Apple Pay. Instead of contactless payment technology, CurrentC will rely on QR codes, a type of bar code that merchants scan to complete the transaction. It will also be an app that users must find and download from Apple’s App store.
+对CurrentC持批评态度的人说，它看起来比Apple Pay难用很多。CurrentC没有使用无需接触的支付技术，而是依靠QR码，商家通过扫描这种条形码来完成交易。同时它也是一个应用，用户必须到苹果的应用商店上找到并下载它。
+Apple Pay, on the other hand, relies on so-called near-field communication technology built into every iPhone 6 and iPhone 6 plus. In contrast to using CurrentC, customers are not required to open an app or even unlock their iPhones when using Apple Pay.
+而Apple Pay则依靠所有iPhone 6和iPhone 6 Plus内置的所谓近场通讯技术。和CurrentC不同的是，顾客在使用Apple Pay时不必打开一个应用，甚至不用把他们的iPhone解锁。
+Mobile payments are still very young in commerce and shopping. In 2013, mobile proximity payments in the United States amounted to $1.6 billion, according to eMarketer, an industry research firm. That is but a fraction of the $4.26 trillion spent in brick-and-mortar stores that year.
+移动支付在商贸和购物领域仍然是个新鲜事物。产业研究公司eMarketer的数据显示，2013年美国的近距离移动支付总额为16亿美元。相比当年实体商铺内支付总额的4.26万亿美元只是个零头。
+And while many industry experts expect mobile payments to rise over the next five years, there is no guarantee that consumers will find mobile wallets any more convenient than paying with cash or a credit card. Google’s payments product, Google Wallet, famously flopped after its introduction in 2011. PayPal’s mobile wallet options have failed to truly catch on as well.
+虽然很多业界专家预计移动支付在未来五年里会有增长，但消费者是否会认为移动钱包比现金或信用卡更便利，却很难说。谷歌(Google)在2011年推出的支付产品Google Wallet是个著名的失败案例。贝宝(PayPal)的移动钱包方案也没能真正普及起来。

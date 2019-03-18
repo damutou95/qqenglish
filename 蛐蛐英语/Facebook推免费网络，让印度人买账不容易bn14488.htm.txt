@@ -1,0 +1,62 @@
+MUMBAI, India — If Mark Zuckerberg hopes to deliver on his vision of bringing the Internet to the four billion people who lack it, the Facebook chief will first need to make his plan more appealing to salesmen like Shoaib Khan.
+印度孟买——倘若马克·扎克伯格(Mark Zuckerberg)想实现给全球40亿上不了网的民众带去互联网的愿景，那这位Facebook的首席执行官首先要做的，是让自己的计划在绍义卜·汗(Shoaib Khan)这样的摊贩眼中显得更有吸引力。
+Mr. Khan’s perfume and cellphone shop in one of this city’s many slums recently displayed a large blue banner advertising Mr. Zuckerberg’s project, called Internet.org, in the back. Another sign for the free package of Internet services — offered in India through the cellphone carrier Reliance Communications — was posted prominently in front.
+汗的香水和手机店开在城中的贫民窟里，不久前挂了一条蓝色的大横幅，给扎克伯格的Internet.org项目做广告。前面显眼的地方还贴着另一张宣传免费互联网服务的标牌，而这一服务由印度手机运营商信实通信(Reliance Communications)提供。
+But when a reporter asked Mr. Khan about his experience with Internet.org, he had no idea what it was. After the program was explained to him, he quickly dismissed it.
+不过，当记者询问汗使用Internet.org的感受时，他却并不知道这到底是什么。听过关于这一项目的解释后，他很快就予以了否定。
+“The Reliance connection is very patchy,” said Mr. Khan, shaking his head. “I would really have to sell the customer on it.”
+“信实的信号时断时续，”汗摇着头说。“我得费很大劲向顾客推销。”
+Facebook’s rocky experience since it brought Internet.org to India in February shows that good intentions and technological savvy are not enough to achieve a noble goal like universal Internet access.
+自从Facebook今年2月在印度推出Internet.org项目以来，事情进行得并不顺利。此事表明，美好的愿望和运用技术的能力本身并不足以达成全民联网这样的高尚目标。
+The skepticism of phone sellers like Mr. Khan and the weaknesses of Facebook’s Indian partner are just two of the problems that have bedeviled Mr. Zuckerberg’s project so far.
+让扎克伯克的项目陷入泥潭的原因很多，而汗这样的手机卖家的怀疑态度，以及Facebook在印度的合作伙伴的不足，不过是其中一二。
+Internet.org’s free services — which include news articles, health and job information, and a text-only version of Facebook — are deliberately stripped down to minimize data usage and the cost to the phone company. Facebook says the primary goal is to show people what the Internet is all about. But many Indians want more and complain that, contrary to its altruistic claims, the project is simply a way to get them onto Facebook and sign up for paid plans from Reliance.
+Internet.org提供的免费网络服务——包括新闻文章、健康和招聘信息，以及纯文字版的Facebook——被精心缩减过，其数据使用量和通信公司的成本都降到了最低。Facebook表示，其主要目标是向人们展示互联网是什么。但很多印度人想要的不止这些，并抱怨这个项目并不像它所声称的那么无私，而只是吸引他们上Facebook以及和信实通信签付费协议的一种方法。
+Internet activists have also attacked Facebook for cherry-picking partners to include in its walled garden rather than simply offering a small amount of free access to the whole Internet. Their concerns have struck a chord with the Indian government, which is considering new rules that would govern such free services.
+互联网活动人士也抨击Facebook是挑选一些合作伙伴进入其“封闭花园”，而非少量提供可以体验整个互联网的机会。他们的担忧引起了印度政府的共鸣，后者正在考虑制定对这类免费服务进行管理的新制度。
+Mr. Zuckerberg declined several requests to discuss Internet.org. But he remains passionate about his crusade. “Internet access needs to be treated as an important enabler of human rights and human potential,” he told the United Nations last month.
+扎克伯格多次拒绝就Internet.org置评。但他对自己这场神圣运动依然充满激情。“连入互联网应该被作为实现人权和人的潜能的重要工具来对待，”上个月他曾如此对联合国表示。
+The Internet.org suite, rebranded last month as Free Basics, is now in 25 countries, from Indonesia to Panama. Facebook is investing heavily in other parts of the project, including experiments to deliver cheap Wi-Fi to remote villages and to beam Internet service from high-flying drones.
+上个月更名为“免费基础版”(Free Basics)的Internet.org套餐服务，目前已经在包括印度尼西亚和巴拿马在内的25个国家推出。Facebook正在对这个项目的其他部分进行大力投资，包括给边远山村提供廉价Wi-Fi，和通过在高空飞行的无人机发送互联网信号的实验。
+Mr. Zuckerberg is also determined to win over the Indian public. Last month, he hosted a live-streamed chat with India’s prime minister, Narendra Modi, from Facebook’s Silicon Valley headquarters. And this week, Mr. Zuckerberg will be in New Delhi, where he will take questions from some of Facebook’s 130 million Indian users.
+扎克伯格还下定决心要赢得印度公众的支持。上个月，他和印度总理纳伦德拉·莫迪(Narendra Modi)在Facebook位于硅谷的总部进行了一场现场直播的对谈。本周，扎克伯格将在新德里回答Facebook1.3亿印度用户中的一些人提出的问题。
+The magnitude of the task ahead was apparent during a reporter’s visit in August to Dharavi, home to as many as a million of Mumbai’s poor.
+8月份在居住着多达100万孟买穷人的达拉维采访期间，记者发现，前面的路显然非常艰巨。
+Several billboards advertised Freenet, Reliance’s version of Internet.org. But in the neighborhood’s narrow alleys, where rivulets of raw sewage competed with sandaled feet, there was little evidence that anyone had taken notice
+在那里，有好几个广告板上都登着Freenet的广告，后者是信实版本的Internet.org。但是在达拉维那挤满穿拖鞋的人、污水横流的狭窄小巷里，很难讲有什么人注意到了这些广告。
+A conversation with a dozen cellphone users at a tea shop uncovered no one who had heard of Freenet or Internet.org, but plenty of complaints about Reliance’s sluggish data network and poor customer service compared to the market leaders, Airtel and Vodafone.
+在一间茶馆里和十几名手机用户聊天后，记者发现没人听说过Freenet或Internet.org，但很多人抱怨，相比通信市场的领军企业Airtel和沃达丰(Vodafone)，信实的数据网络非常慢，用户服务也很差。
+At Yahoo Mobilewala, a nearby phone shop named in honor of the American Internet company, the owner Rizwan Khan, offered service from every major carrier. But his stack of Reliance chips — each in a blue Freenet envelope that said “Go free Facebook” — was gathering dust in its display case.
+在附近一个以雅虎这家互联网公司命名的手机店雅虎Mobilewala里，店主里兹万·汗(Rizwan Khan)提供来自各大通信商的产品。但他那堆摆在展示柜里的信实芯片——每一个都装在蓝色的Freenet 信封里，上面写着“享受免费Facebook”——正在积尘。
+In India, most cellular service is prepaid. Customers typically buy or refill a special chip, known as a SIM card, often loading it with a dollar’s worth of data or calls at a time. Phone-card vendors are key advisers, educating people about all their options.
+在印度，大多数移动通讯服务都是预付费。用户往往要购买一种名为SIM卡的特殊芯片，或给它充值，他们往往一次充价值1美元的数据流量或通话时长。手机卡商贩是推荐这类卡的关键人物，会给人们介绍各种选项。
+“New customers don’t come looking for Freenet,” Mr. Khan said, who is no relation to Shoaib Khan. Even if Reliance’s network were good, he said, the package excludes WhatsApp, a popular messaging app owned by Facebook, and users must pay to see the photos in their Facebook feeds. “If you have to pay for data, what’s the point of calling it free?” he said.
+“新顾客是不会冲着Freenet卡来的，”汗说，他与前文提到的绍义卜·汗没有关系。他说，就算信实的网络真的不错，它提供的套餐中也没有Facebook公司旗下的热门通讯软件WhatsApp，而且用户必须付费才能看到自己订阅的Facebook信息中的照片。“如果用户必须为数据付费，干嘛还要说是免费？”他说。
+Phone-card sellers also tend to push whatever makes them the most money. Mr. Khan noted that another carrier had recently awarded him his choice of a Hero motorcycle or 45,000 rupees — nearly $700 — for signing up 1,000 customers. Reliance offered nothing similar.
+手机卡卖家也倾向于鼓励人们购买能让他们赚更多钱的卡，不管它是哪个公司的。汗指出，因为签了1000个用户，另一家通信商最近给他提供了奖励，他可以选择要一辆英雄牌摩托车或4.5万卢比（约合4450人民币）。信实没有类似的奖励措施。
+In more than two dozen interviews in poor neighborhoods of Mumbai, a reporter found several people who had tried Internet.org but only one who used it regularly — a 23-year-old man who said he used the free version of Facebook Messenger on the app to chat with friends when he ran out of money on his prepaid account.
+在孟买的穷人社区进行的20多个采访中，记者发现有好几个人曾试用过Internet.org，但只有一个人会经常使用它，这名23岁的男子表示，当他的预付费账户里的钱用光之后，他会使用免费版本的Facebook Messenger和朋友聊天。
+Chris Daniels, the Facebook executive who leads Internet.org, said the company is primarily trying to reach people who are completely new to the Internet.
+负责Internet.org项目的Facebook副总裁克里斯·丹尼尔斯(Chris Daniels)表示，该公司主要是想触及对互联网一无所知的人群。
+In an interview last week, Mr. Daniels said about a million people had been introduced to the Internet in India because of the program. After their first 30 days online, he said, about 40 percent of them became paying data customers, 5 percent stuck with only free services and the rest left.
+丹尼尔斯上周接受采访时表示，在印度，大约100万人因为这个项目而接触到互联网。他表示，在首次使用了30天后，大约40％的人会成为付费数据客户，5%的人继续使用免费服务，其他人会放弃使用。
+“This is a program that is working to bring people online, and working incredibly well.” Mr. Daniels said. “Connectivity is something that improves people’s lives. It’s an enabler for people to be able to help themselves find jobs, help themselves improve their health situation, improve their education for themselves and their children.”
+“这是一个努力帮助人们上网的项目，效果非常好。”丹尼尔斯说。“接入互联网可以改善人们的生活。这能帮助他们找工作，帮助他们改善健康状况，提高他们自身及其子女的教育水平。
+Gurdeep Singh, the chief executive of Reliance’s consumer business, defended the quality of his company’s network, but acknowledged that it needed to do more to raise awareness of Freenet and persuade retailers to promote it.
+信实通信公司消费业务首席执行官哥迪普·辛格(Gurdeep Singh)为该公司网络质量做了辩解，但他承认需要采取更多举措提升Freenet的认知度，说服零售商进行推销。
+“This is a slow process,” he said in an interview at the company’s sprawling campus in Navi Mumbai, a few miles from Dharavi. “We are fighting this huge battle against digital illiteracy.”
+“这是一个缓慢的过程，”他在该公司位于新孟买的庞大园区接受采访时说。“我们正在进行一场消除数码文盲的大战。”新孟买距离达拉维只有几英里远。
+According to Reliance research, 36 percent of phone-card sellers don’t have a phone capable of Internet access, which makes them poor ambassadors for the concept.
+根据信实通信公司的研究，36%的电话卡销售商没有能够上网的手机，因此，他们无法很好地推广这一理念。
+But Mr. Singh said Reliance was committed to Freenet, which was initially limited to seven states, and planned to offer it nationally soon. “India is at the stage where everyone must get access to the Internet,” he said.
+但辛格表示，信实通信公司致力于推广Freenet，计划很快在全国范围内提供服务，该服务起初仅限于七个邦。他说，“印度还处于让每个人获得上网途径的阶段。”
+While that is a goal shared by many, Facebook’s approach has run into a buzzsaw of criticism from Internet advocates here, who see it as an attempt by the world’s largest social network to become the gatekeeper to the Internet for a new generation of users.
+虽然很多公司都以此为目标，但Facebook的方式遭到印度互联网拥护者的猛烈批评，他们认为这是世界最大的社交媒体为了成为新一代网络用户的互联网守门人而采取的举措。
+“On the open Internet, everyone is equal,” said Nikhil Pahwa, editor and publisher of MediaNama, an Indian news site, who has vociferously opposed Internet.org. “On Internet.org, Facebook is the kingmaker.”
+“在开放的互联网，人人平等，”印度新闻网站MediaNama的总编和出版人尼克希尔·帕瓦(Nikhil Pahwa)说。“在Internet.org上，Facebook就是拥立国王的幕后主使。”帕瓦强烈反对该网站。
+Mr. Pahwa helped organize a campaign called Save the Internet, which rallied a million Indians to press regulators to stop Internet.org and establish rules protecting net neutrality. That principle, also a subject of intense debate in the United States and Europe, says that Internet access providers should give customers equal access to all content.
+帕瓦参与组织了一场名为“拯救互联网”的运动，该运动已经召集了100万名印度人，向监管机构施压，要求它关闭Internet.org，制定保护网络中立性的规定。这一原则意味着互联网接入提供商应该为客户提供访问所有内容的平等机会。该原则也在美国和欧洲引发了激烈争论。
+The Telecom Regulatory Authority of India is still mulling potential regulations. In a recent interview, however, the agency’s chairman, Ram Sewak Sharma, was skeptical of Internet.org. “Maybe they have wonderful objectives, but the way it is being implemented, that’s not really appropriate,” he said.
+印度电信管理局(The Telecom Regulatory Authority of India)仍在考虑可能制定的规定。但最近接受采访时，该局局长拉姆·塞瓦克·夏尔马(Ram Sewak Sharma)对Internet.org表示怀疑。他说，“或许他们的目标很美好，但他们落实目标的方式实在是不恰当。”
+Mr. Daniels said Facebook had been listening to all the criticism and had made many changes to Internet.org, including opening it to other companies that wanted to offer free services on the platform. “We always appreciate feedback, in whatever form it comes,” he said.
+丹尼尔斯表示，Facebook一直倾听所有批评，而且对Internet.org做出了很多调整，包括向其他希望在该平台提供免费服务的公司开放。他说，“我们一直很感谢各种反馈，无论是什么形式的反馈。”

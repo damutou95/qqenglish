@@ -1,0 +1,12 @@
+Exposure in the first two months of pregnancy to air pollution from traffic sharply increases the risk for birth defects, a new study has found.
+一项新研究发现，母亲在怀孕的头两个月里暴露在由交通造成的空气污染里，会使孩子发生出生缺陷的危险大幅增加。
+Researchers used data from two large studies carried out in eight counties in the San Joaquin Valley in California. One has tracked birth defects since 1997, and the other has recorded concentrations of nitrogen dioxide, nitrogen oxide, carbon monoxide and particulate matter at 20 locations in the valley since the 1970s. The results are posted online in The American Journal of Epidemiology.
+研究者使用了两项大型研究的数据，这两项研究均在加州圣华金谷的八个郡里进行。其中一项追踪了自1997年以来的全部出生缺陷，另一项则记录了自20世纪70年代以来圣华金谷20个采样点的二氧化氮、一氧化氮、一氧化碳和可吸入颗粒物指数。结果已经在《美国流行病学杂志》(The American Journal of Epidemiology)的在线版公布。
+Setting aside defects attributable to other known causes, there were 849 cases of birth defects. The researchers adjusted for smoking, maternal age and other variables, and compared these cases with 853 healthy control subjects.
+除了可以归结为其他已知原因的新生儿畸形，研究人员还发现了其他840例出生缺陷。研究者将吸烟、孕妇年龄和其他变量排除，并将这些病例和853名健康的对照参试者相对比。
+They found that a mother living in areas with the highest levels of carbon monoxide or nitrogen oxide concentrations (the top 25 percent) was almost twice as likely to give birth to a child with neural tube defects — severe and often fatal defects of the brain and spinal cord— as one living in areas with the lowest concentrations.
+他们发现，生活在一氧化碳或一氧化氮浓度最高地区（前25%）的孕妇，相比生活在污染物浓度最低地区的孕妇，产下患有神经管缺陷（大脑和脊髓严重且往往致命的畸形）新生儿的可能性要增加近一倍。
+The lead author, Amy M. Padula, a postdoctoral researcher at Stanford, acknowledged that in looking at many variables, some associations were likely to turn up by chance.
+该研究的第一作者艾米·M·帕杜拉(Amy M. Padula)正在斯坦福大学(Stanford)进行博士后研究，她承认在检视各类变量时，其中一些与出生缺陷有关联的因素可能会偶然出现。
+“These results need to be taken in context,” she said. “More studies are needed to affirm these associations before we make any clinical recommendations to pregnant women.”
+她说：“研究结果需要放在整体背景中来讨论，我们仍需做更多研究来确认这些关联是可信的，否则不会向孕妇做任何医学方面的建议。”

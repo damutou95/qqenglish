@@ -1,0 +1,12 @@
+Air pollution can be bad for children – starting even before birth, a new study suggests.
+一项新研究表明，空气污染可对儿童造成不良影响，而且这种影响甚至在他们出生之前就已经开始了。
+Researchers studied exposure to polycyclic aromatic hydrocarbons, or PAHs, a form of pollution caused by burning gasoline, diesel fuel, home heating oil and coal. They found that prenatal exposure to these compounds was tied to changes in the structure of offspring’s brains and to intellectual deficits and behavioral problems in childhood.
+研究人员考察了儿童接触多环芳烃(PAH)——一种因燃烧汽油、柴油燃料、家庭取暖燃油和燃煤产生的污染物——的情况。他们发现，产前暴露于这些化合物与儿童大脑的结构变化和儿童期智力缺陷和行为问题有关。
+The researchers measured PAH concentrations in the air and in the blood and urine of 40 mothers in their third trimester of pregnancy, as well as in their children’s urine. They followed the children until they were 7 to 9 years old, performing M.R.I. exams on their brains. The results are in JAMA Psychiatry.
+研究人员测定了空气中、40名孕妇妊娠晚期的血液和尿液中，及其子女尿液中的PAH浓度。在这些儿童年满7至9岁前，研究人员一直对他们保持着追踪，并对他们的大脑进行了M.R.I.（磁共振成像）检查。研究结果发表在《美国医学会杂志：精神病学》(JAMA Psychiatry)上。
+The higher the exposure to PAHs, the more reductions the children had in the white matter surface of the left hemispheres of their brains. The amount of damaged white matter correlated directly with higher scores on measures of symptoms of attention deficit hyperactivity disorder and other behavioral problems.
+PAH的暴露程度越高，儿童大脑左半球白质表面积的减少就越明显。而白质损伤的程度与注意缺陷多动障碍(attention deficit hyperactivity disorder)和其他行为问题的症状指标得分较高直接相关。
+Higher exposure to PAHs and white matter deterioration were also associated with lower scores on tests of processing speed, the ability to take in new information and respond to it.
+PAH暴露较高及白质损伤也与处理速度（processing speed，即人脑获取新信息并对此作出反应的能力）测试得分较低相关。
+“Everyone is exposed to these compounds,” said the lead author, Dr. Bradley S. Peterson, director of the Institute for the Developing Mind at Children’s Hospital Los Angeles. “Pregnant women and young children are very vulnerable to environmental insults to the developing brain, and these exposures are likely having devastating effects.”
+“每个人都会接触到这些化合物，”该研究的主要作者，洛杉矶儿童医院(Children’s Hospital Los Angeles)心智发展学会(Institute for the Developing Mind)的主任布拉德利·S·彼得森(Bradley S. Peterson)博士说。“孕妇和幼儿对损害大脑发育的环境污染物非常敏感，暴露于这些污染物很可能造成灾难性的影响。”

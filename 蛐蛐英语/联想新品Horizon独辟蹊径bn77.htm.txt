@@ -1,0 +1,46 @@
+The big breakthrough was the iPad: a flat, thin, beautiful, nearly buttonless computer, all touch screen. But that was three years ago.
+iPad曾是一个重大突破：一台扁平、超薄、美丽、几乎没有按钮的电脑，全靠触屏操控。但那已是三年前的事了。
+Ever since then, Apple’s rivals have churned out iPad clones in different sizes. Ten inches diagonal? How about 11? How about nine? Or seven? Or five? In Samsung’s line alone, you can buy a tablet that matches almost any shoe size.
+自那以后，苹果(Apple)的竞争对手大量炮制出不同尺寸的iPad仿品。 10英寸对角线的？ 11英寸怎么样？9英寸呢？或者7英寸？5英寸？仅在三星(Samsung)的产品线中，你就能买到匹配任何鞋子号码的平板电脑。
+But the size variations don’t do much more than nudge the needle along the convenience spectrum. A little bigger means greater screen area; a little smaller means better portability.
+但是这种尺寸的变化，只不过是在提供方便上作出的小调整。尺寸大一点儿，屏幕的面积就大一些；尺寸小一点儿，设备的便携性则更好一些。
+The Lenovo Horizon ($1,500 from Best Buy later this month), however, doesn’t just nudge the needle — it snaps off the needle and teleports it. This tablet’s screen measures 27 inches diagonally.
+然而，联想Horizon（本月晚些时候将在百思买[Best Buy]发售，价格为1500美元，约合人民币 9195元）不只是小调整，而是打破现有框架的大变化。这台平板电脑屏幕的对角线长达27英寸。
+Now, at this point, Lenovo’s rivals probably have cartoon steam exploding from their ears. “Twenty-seven inches? That’s not a tablet, you idiot — that’s an all-in-one PC!”
+说到这儿，联想的竞争对手们可能已经像漫画里的人那样被气得耳朵里冒烟了。 “27英寸？那不叫平板电脑，你这白痴，那叫一体机！”
+And it is true that the Horizon is, if you look at it one way, a one-piece computer like the iMac. A stand on the back props it up at any angle. It comes with a cordless mouse and keyboard. It runs Windows 8 — the real version, the one that runs any of the four million standard Windows programs. It has two USB jacks, four nicely powerful speakers, a webcam in the top margin, a 1-terabyte hard drive, a memory card reader, headphone and microphone jacks, 8 gigabytes of memory and an HDMI input jack so that you can use the Horizon as a TV.
+如果你从某个角度来看，Horizon的确是像iMac那样的一体机。它后面的支架可以让其以任何角度立起来。它配有无线鼠标和键盘。它运行Windows 8 —— 真正的版本，能运行Windows系统下四百万标准程序中任何一种的版本。它还有两个USB接口，四个相当强劲的扬声器，位于顶部边缘的摄像头，1TB的硬盘，一个记忆卡读卡器，耳机和麦克风插孔，8 GB内存，以及一个HDMI输入插孔，让你能把Horizon当作电视屏幕使用。
+So far, this must sound like any other one-piece Windows 8 PC, like those from Vizio, Dell or Hewlett-Packard. But then the Horizon ducks into a phone booth and emerges as ... supertablet.
+说了这些，听上去还是跟其他任何一台Windows 8 一体机差不多，比如Vizio、戴尔或惠普的一体机。然而此刻，Horizon摇身一变，变成了……超平板。
+You push gently down on the top edge, as though urging a child to go back to sleep. The Horizon complies, folding down, down, down, until it’s completely flat on the table.
+你轻轻地按着它的上边把它往下推，就像是哄一个孩子继续睡觉似的。Horizon很听话，它顺着你的手向后倒，再倒点，直到完全平躺在桌面上。
+Once the tablet is lying flat on the table, a light suddenly dawns: this upright PC converts into a huge, tabletop tablet. (What shall we call this new computer category? Table-top? Tablet-op?)
+一旦这台平板电脑躺倒在桌面上，你一下才明白了：这台原本直立的PC变成了一个巨大的桌面平板电脑。 （我们应该把这类新电脑叫什么呢？桌面电脑[Table-top)]？平板操作[Tablet-op]？）
+In this Horizon-tal position, Windows 8 fades away. In its place is a new software world called Aura, written by Lenovo, especially tailored for tabletop computing. (When you bring the tablet upright again, it offers to restart Windows 8. You can also switch between Aura and Windows 8 manually.)
+处于这个水平位置时，Windows 8消失了，取而代之的是联想自己编写的Aura：一个新的软件环境，专为桌面平板计算机量身定制（当你把Horizon再立起来时，它会问你是否重新启动Windows 8。你也可以在Aura和Windows 8之间进行手动切换）。
+This environment displays a silvery gray disc, an Aura wheel, in the center of the screen. With your fingers, you can turn it or move it or tap its edges to produce spokes. Each spoke of the wheel represents a category of tabletop-tailored programs.
+在这个环境中，屏幕的中央会显示一个银灰色的盘：一个Aura轮。你可以用手指转动或移动它，或者点击它的边缘，产生辐条。每条轮辐代表一类专门为桌面平板量身定制的程序。
+One displays your photos and videos. You can drag photos around the screen, enlarge them by dragging opposite corners, pass them to friends or spin them around. Several people can be fooling with these photos, playing little movies or even playing games, simultaneously. Clearly, this is not your father’s iPad.
+其中一类显示你的照片和视频。你可以把照片在屏幕上四处拖动，用手指拉照片的对角可以把它们放大，你还可以把它们传送给朋友，或者让照片在屏幕上旋转。几个人可以同时在Horizon上鼓捣照片，播放小电影，甚至玩游戏。显然，这跟你老爸用的iPad不一样。
+For example, there’s an air hockey game. Lenovo supplies two or four small plastic handles, which you’re supposed to place on the glass and slide around like regular air hockey paddles. Since the puck is virtual, displayed only on the screen, it can perform stunts like emitting a fiery trail as it ricochets.
+例如，它有一个幻想冰球游戏。联想提供了两个或四个小的塑料手柄，你可以把它们放置在Horizon的玻璃屏幕上，像用普通的幻想冰球棍那样移动它们。由于冰球是虚拟的，只显示在屏幕上，它可以表演一些特技，比如在弹起时可以射出一条火尾。
+And that’s the secret to the Horizon’s appeal. It’s so big, two or four people can gather around it. (Let’s see you try that with an iPad Mini!)
+这就是Horizon魅力的秘密所在。它非常之大，两个或四个人可以围在它的旁边。 （你们围在 iPad mini旁边试试看！）
+The Monopoly app is good old Monopoly, except that the software does all the math for you, draws cards for you and even moves your game piece around the board for you. You may consider that automation a horrifying step into laziness, or you may call it a relief from Monopoly monotony.
+它上面的《大富翁》(Monopoly) 游戏应用本质上还是传统的《大富翁》，只不过这个软件可以替你做所有的算术，给你发牌，甚至替你在棋盘上移动棋子。你可能会觉得这种自动化是朝着懒惰迈出的可怕一步，或者你也许称之为对单调的《大富翁》的调剂。
+In all, there are nine preinstalled games, each chosen for its ability to exploit the huge touch screen and multiple-player setup. In the Roulette game, for example, you spin the wheel with your finger. In Texas Hold ’Em poker, you can peel up a corner of one of your facedown cards to peek at it.
+Horizon上一共预装了九个游戏，这些游戏之所以中选，是因为它们都支持多玩家模式，而且可以很好地利用巨大的触摸屏。例如，在轮盘(Roulette)游戏中，你可以用手指旋转轮盘。在德州扑克(Texas Hold ’Em poker)里，你可以把自己的面向下的底牌掀开一个角落偷看它。
+Another spoke of the Aura wheel contains educational activities for young children, like coloring book apps and number writing apps. There’s something called StageLight, a sequencing program that lets you build up chunks of music, layer by layer.
+Aura轮的另一个辐条是幼儿教育活动软件，比如绘画着色应用和数字书写应用。有个名叫StageLight的应用，是一个排序程序，你可以用它逐层创造出音乐片段。
+That’s just the iceberg tip, however. There’s a fledgling Lenovo app store. Even more intriguingly, a converter program called BlueStacks lets you download and install any of thousands of apps made for Android phones and tablets.
+但这只是冰山的一角。联想还有一个刚起步的应用商店。更有趣的是，你可以使用一个名为BlueStacks的转换程序，下载并安装数千个为Android手机和平板电脑开发的应用。
+So what is the Horizon? A PC or a tablet? The argument could go on all night. One thing the Horizon certainly is, though, is novel. The concept really is fresh. And it neatly dispenses with the common refrain that electronic entertainment encourages isolation and represents a step down from the olden days, when families gathered around the coffee table for game nights.
+那么，Horizon究竟是什么东西呢？是一台PC，还是平板电脑？大家可以为这个问题争论一整夜。不过Horizon肯定是一个非常新奇的东西。它的概念确实十分新颖。而且它轻而易举地打破了一个老调，人们常说电子娱乐业鼓励大家各玩各的，背离了旧日传统——曾几何时，家庭成员们是聚在一起，围着茶几，度过“游戏之夜”的。
+Sadly, game nights around the Horizon may not become as much of a tradition as the old board games made of wood or cardboard. First, because as clever as the Aura world is, the games are a little laggy. You can get a little frustrated playing the air hockey game. It’s just not as responsive as you’d like. Often, that sluggishness really saps some of the joy.
+可悲的是，围绕着Horizon度过的“游戏之夜”，可能不会成为像围绕着木质和纸质棋盘的度过的那样成为一种传统。首先，Aura虽然聪明，但用其玩游戏有点慢。在玩幻想冰球游戏时，你可能会感到沮丧，因为它的响应速度没有你希望的那么快。这种迟缓往往会让你丧失玩游戏的乐趣。
+Second, because even if it acts like a huge tablet, the Horizon isn’t portable like a tablet. Your children won’t want to play with this thing in the back seat for long car rides, unless they’re sumo wrestlers.
+其次，虽然Horizon使用起来就像一个巨大的平板电脑，但它不具备平板电脑的便携性。当你长途开车时，你的孩子们不会愿意坐在后座上玩这个东西，除非他们有相扑选手那么大的力气。
+Fortunately, if the tabletop novelty ever does wear off, the Horizon is always happy to pop back up into its original form as a perfectly adequate Windows PC. And it doesn’t cost much more than its upright-only rivals. So if you were considering one of those all-in-ones, buying the Horizon instead is almost a no-brainer.
+幸运的是，如果桌面平板的新奇感消失了，Horizon总能变回到原来的立式，成为一台功能齐全的Windows 电脑。而且，比起只能保持立式的竞争产品，Horizon的价格也没有高出多少。所以，如果你正在考虑购买一台多功能机的话，Horizon是你显而易见的不二之选。
+In any case, Lenovo deserves great credit for transforming the tablet into something that’s fresh and interesting, something that serves a purpose no other machine quite fills. There really is something new in the Horizon.
+无论如何，联想都值得大加赞扬，因为它把平板电脑转化成了某种新鲜有趣的东西，让其提供了其他所有设备都无法提供的服务。地平线(Horizon)上真的出现了新东西。

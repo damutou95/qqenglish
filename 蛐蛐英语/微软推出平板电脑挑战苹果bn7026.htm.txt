@@ -1,0 +1,24 @@
+LOS ANGELES — In its most strategically significant push yet into the hardware business, Microsoft on Monday unveiled a tablet computer called Surface that is intended to challenge Apple's iPad.
+洛杉矶——作为进入硬件市场的最重要的战略步骤，微软(Microsoft)周一发布了一款名为Surface的平板电脑，意图挑战苹果(Apple)公司的iPad。
+At an event here, the company showed off the device, which is about the same weight and thickness as an iPad, with a 10.6-inch screen. The tablet has a built-in “kickstand” that will allow users to prop it up for watching movies, and a thin detachable cover that will serve double duty as a keyboard.
+在洛杉矶的发布会上，微软展示了他们的新产品。它和iPad的重量和厚度相当，带有10.6英寸的显示屏。这款平板电脑自带集成支架(kickstand)，以方便用户支起后观看电影。它还配有一个薄薄的可拆卸保护套，同时也可作为键盘使用。
+The Surface tablet runs a variation of Windows 8, a forthcoming version of Microsoft's flagship operating system. Steve Ballmer, Microsoft's chief executive, said the product was part of a longstanding tradition at Microsoft to create hardware, like computer mice, that show off innovations in its software. 
+Surface平板电脑运行的系统是Windows 8的一个版本。Windows 8是微软即将推出的操作系统旗舰产品。首席执行官史蒂夫·鲍尔默(Steve Ballmer)说，就像电脑鼠标一样，Surface属于长久以来微软传统的一部分，即创造硬件产品来展示软件的创新。
+“We want to give Windows 8 its own companion hardware innovations,” Ballmer said.
+鲍尔默说，“我们想为Windows 8匹配其专属的创新性硬件。”
+Microsoft's decision to create its own tablet was an acknowledgment that the company needed to depart from its regular way of doing business to get a grip on a threat to its dominance in computing.
+生产微软自己的平板电脑的决定标志着该公司认识到，它需要偏离其常规商业模式，以应对那些对其计算机行业垄断地位的威胁。
+While it has made a few hardware products over the years, including the Xbox video game console, Zune music player and computer keyboards, Microsoft is still thought of largely as a software company. In the computer business, it has for decades left the work of creating the machines that run the Windows operating system to Hewlett-Packard, Dell and others.
+尽管多年来制造出了一些硬件产品，例如Xbox电脑游戏机、Zune音乐播放器和电脑键盘，但微软仍被广泛认为是一家软件公司。在电脑行业的过去几十年中，微软将制造运行Windows操作系统的机器的工作都留给了惠普(Hewlett-Packard)、戴尔(Dell)和其他一些公司。
+But the response to Apple's iPad has considerably raised consumers' expectations of how well hardware and software work together. That has put pressure on Microsoft to create a tighter marriage of hardware and software if it is to compete seriously with Apple's products.
+但是，市场对苹果iPad的反应提高了消费者对硬件和软件协同工作的期望值。这给了微软压力，如果它真想与苹果的产品竞争，则需要更紧密地融合硬件和软件。
+Microsoft said one version of the Surface tablet would come with 32 gigabytes or 64 gigabytes of storage and feature a type of chip called ARM that is commonly used in mobile devices. Steven Sinofsky, president of Microsoft's Windows division, said the price would be comparable to that of other tablets that use ARM chips. 
+微软宣布，一款Surface将推出两个版本。一款配备32G或64G存储空间，搭载移动设备中常用的ARM处理芯片。微软Windows部门主管史蒂文·辛诺夫斯基(Steven Sinofsky)说，此版本的Surface价格将与其他搭载ARM芯片的平板电脑相当。
+He said a professional version of the tablet would come with an Intel processor, which is standard in more conventional PCs, and would be similar in price to ultrabooks, thin laptops that often start at around $1,000. 
+他说，另一款专业版的Surface搭载的是一般个人电脑中通常采用的英特尔（Intel）处理器，价格更接近超极本(ultrabooks)。超极本是超薄的笔记本电脑，一般的起步价格在1000美元左右。
+Sinofsky said the ARM tablet would be available when the next version of Windows is released, which is expected to be sometime around October, and the professional version would go on sale a few months later.
+辛诺夫斯基说，ARM版Surface预计将与新版本的Windows同时在十月前后发售， 而专业版Surface则会在此之后数月发售。
+As it prepares to release Windows 8, which is designed for touch-screen devices, Microsoft can ill-afford a flop. The iPad has eaten into sales of low-end Windows laptops, and there are growing signs that Apple's tablet is becoming increasingly attractive to business customers, a lucrative market Microsoft has dominated for years. 
+Windows 8系统专为触摸屏设备而设计。随着发售日期的临近，微软只能成功不能失败。iPad已经蚕食了部分低端Windows笔记本电脑的销售市场，而且越来越多的迹象表明，苹果的平板电脑对企业用户的吸引力与日俱增。而微软多年来一直在这一利润丰厚的市场处于垄断地位。
+Creating hardware, though, is not Microsoft's main competency. The Zune bombed and has been discontinued. Several years ago Microsoft had to take a charge of more than $1 billion to cover the cost of fixing defective Xboxes after making mistakes in the design of the system.
+不过，创造硬件产品并不是微软的强项。Zune音乐播放器就以失败告终。而在几年以前，微软不得不花费逾10亿美元来弥补XBox系统设计问题造成的缺陷。

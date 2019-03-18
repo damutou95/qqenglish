@@ -1,0 +1,44 @@
+“If you want to avoid having your identity stolen, use long passwords that contain digits, punctuation and no recognizable words. Make up a different password for every Web site. And change all of your passwords every 30 days.”
+“如果你不想让自己的身份信息被盗，就应使用长密码，包含数字、标点和词典里没有的词。为每个网站设置不同的密码。每30天把所有的密码更改一次。”
+Have these security pundits ever listened to themselves?
+这些安全专家自己是这么做的吗？
+That advice is clearly unfollowable. I currently have account names and passwords for 87 Web sites (banks, airlines, blogs, shopping, e-mail, Facebook, Twitter). How is anyone — even a security professional — supposed to memorize 87 long, complex password strings, let alone remember which goes with which Web site?
+这种建议明显行不通。我现在有87个网站（包括银行、航空公司、博客、购物、电子邮箱、Facebook和Twitter）的账户名和密码。有谁——即便是安全专业人士——能够记住87个又长又复杂的密码字符串，更别提记住哪个密码用于哪个网站呢？
+So most people use the same password over and over again, and live with the guilt.
+所以大多数人会反复使用相同的密码，宁可因此而内心不安。
+There are solutions. Most Mac and Windows Web browsers now offer to memorize passwords for you. But that feature doesn’t work on all Web sites, and is generally of little help when you pick up your phone or tablet. At that point, the only person you’ve locked out of all your online accounts is you.
+解决方案是存在的。多数Mac和Windows的Web浏览器现在都有记住密码的功能。但这种功能并非在所有网站上都可用，而且当你拿起手机或平板电脑时，它一般帮不了什么。这时，唯一被锁在你的网络账户之外的人就是你自己。
+The only decent solution is to install a dedicated password memorization program (like Roboform, KeePass, LastPass, 1Password, and so on). Last week, one of the best was just improved: Dashlane, now at 2.0. It’s attractive, effective, loaded with timesaving features and available for Mac, Windows, iPhone and Android — and it’s free.
+唯一较好的解决方案就是安装一个记忆密码的专用程序（比如Roboform、KeePass、LastPass、1Password等）。上周，其中最好的一个程序Dashlane刚刚做了改进，升级到2.0版。这款软件美观、有效、内置大量节省时间的特色功能，适用于Mac、Windows、iPhone和Android。此外，它还是免费的。
+Installation is quick. Dashlane works in Safari, Chrome, Internet Explorer and Firefox. It can import existing password “vaults” from rival programs.
+Dashlane安装迅速，适用的浏览器包括Safari、Chrome、Internet Explorer和火狐(Firefox)。它还可从同类程序导入现有的密码“保管库”。
+Dashlane has two primary features. First, yes, it’s a password memorizer. Every time you type your account name and password into a Web page and press enter, Dashlane pops up, offering to memorize that information and fill it in the next time.
+Dashlane有两个主要特色功能。首先，它是名副其实的记忆密码的程序。每当你在某个网站上输入你的用户名和密码，按下回车键时，Dashlane就会跳出来，提议帮你记住这些信息，并且在下次帮你填写。
+In fact, it also offers to log you in — not just to enter your password, but also to click “log in” for you. In effect, Dashlane has just removed the login blockade entirely. When you go to Facebook, Twitter or Gmail, you just click your bookmark, smile at the briefest flash of the login screen and arrive at the site.
+事实上，它还提议帮你登录——不仅是填写你的密码，还能帮你点击“登录”。Dashlane实际上完全移除了登录这道关卡。当你想登录Facebook、Twitter或Gmail时，你只需要点击自己收藏的书签，微笑地看着登录页面快速闪过，然后就进入网站了。
+Since Dashlane is now storing and auto-entering your passwords, you’re now free to follow the security experts’ advice. You can make up long, unguessable passwords — a different one for every Web site, since you don’t have to remember any of them. In fact, each time you sign up for a new account, Dashlane offers to make up such a password for you, and then, of course, to memorize it.
+既然Dashlane现在可以储存及自动填写密码，你就可以放心采纳安全专家的意见了。你可以设置无法猜中的长密码——每个网站的密码各不相同，反正你不用亲自记忆。其实，每当你申请一个新账户时，Dashlane都会主动提出帮你设置一个这样的密码，当然，它随后还会记住这个密码。
+Dashlane’s second huge feature is even more amazing. It can also fill in other kinds of Web site forms: your name/address/phone number, and even your credit card information.
+Dashlane的第二个主要特色更加令人惊叹。它还可以填写其他网站表格：你的姓名/地址/电话号码，乃至信用卡信息。
+When you’re buying something online, and you click into the credit card number box, Dashlane displays pictures of your credit cards: Visa, MasterCard, American Express or whatever — even PayPal.
+在网上买东西时，你在信用卡卡号栏中点一下，Dashlane就会显示出你的信用卡的图片，包括维萨(Visa)、万事达(MasterCard)、美国运通(American Express)，甚至贝宝(PayPal)。
+When you make a purchase, Dashlane even offers to store all the details in a digital receipt that you can call up later, along with a screenshot of the Web site where you shopped.
+当你付款时，Dashlane甚至提议将所有资料储存于一个数字收据，包括购物网页的一张截图，让你随后能够提取资料。
+In fact, Dashlane can fill in all kinds of forms automatically: phone numbers, job titles, tax numbers and so on. 
+实际上，Dashlane能够自动填写所有类型的表格，包括电话号码、职位名称、税务号码等等。
+So far, Dashlane probably seems designed for convenience, and that’s true. Behind the scenes, of course, its ultimate goal is security.
+这样看来，Dashlane的设计宗旨似乎是提供便利，这一点没错。但在幕后，它的终极目标当然仍是安全。
+No system is foolproof. But Dashlane notes that it doesn’t ever see your passwords or your credit card information. They’re all stored on your own computer, encoded by the AES-256 encryption method, an open-source standard approved by the National Security Agency. Your entire Dashlane universe is protected by a master password. It’s intended to prevent a laptop thief from heading online with your missing computer and going on a shopping spree.
+没有万无一失的系统。但Dashlane指出，它从来不看你的密码或信用卡资料。这些信息全都储存在你自己的电脑里，采用AES-256标准加密，这是一种得到美国国家安全局(National Security Agency)批准的开放源码标准。你的全套Dashlane体系由一个主密码保护，以防某个窃贼用你的笔记本电脑在网上疯狂购物。
+In version 2.0, furthermore, you have the option of using two-factor authentication — fancy lingo for an extra layer of security. To unlock Dashlane, you have to enter your master password as well as a code that Dashlane texts to your phone. It’s a pain, yes, but it effectively ruins the day of any ne’er-do-well who was hoping to guess or steal your master password.
+在2.0版本中，你还能选择使用双重验证，这个花哨术语的意思是多一道安全关卡。想要把Dashlane解锁，你必须输入主密码，以及Dashlane发短信到你手机上的一个代码。这确实麻烦，但它能够有效阻止某个希望猜出或窃取你主密码的没出息之人。
+Version 2.0 also introduces a convenient security dashboard, which identifies reused and weak passwords. There are iPhone and Android phone versions of Dashlane — also free and also fantastic.
+2.0版本还引入了一个方便的安全面板，它能识别重复使用的和低强度的密码。Dashlane还有iPhone和Android手机使用的版本，同样免费，也同样神奇。
+The other big change in Dashlane 2.0 isn’t quite so joyous. True, Dashlane can wirelessly synchronize all your passwords between your computer and phone, so that the phone, too, automatically enters them as you surf. But in 2.0, that feature now costs $20 a year.
+Dashlane 2.0的另一个大变化不那么招人喜欢。没错，Dashlane可在你的电脑和手机之间无线同步所有密码，这样你的手机也可以在你上网时自动输入所有密码。但在2.0版里，这项功能需要每年支付20美元。
+An annual fee? Really? That seems a steep charge by a company that, until now, seemed remarkably customer-friendly. Alas, that seems to be the model these days. 
+年费？真的吗？对于这家迄今貌似对顾客相当友好的公司来说，这似乎是一笔高昂收费。可惜，这似乎是现在通行的经营模式。
+It’s not perfect. Now and then, I found a Web site that Dashlane couldn’t auto-log into. And Dashlane doesn’t work in the built-in browser on the iPhone. (No password keeper can, Dashlane says, thanks to Apple’s rigid programming rules.) Instead, it offers its own little iPhone browser. It’s fast, it’s almost exactly like Safari and it auto-fills all the Dashlane-ish stuff, but it’s more trouble to find and open.
+它还不完美。有时，我会发现Dashlane无法自动登录某个网站。而且Dashlane也无法用于iPhone的内置浏览器。（Dashlane称，没有哪款密码管理器能做到这一点，这得怪苹果僵硬的编程规则。）相反，它提供自己的iPhone小浏览器。其速度很快，看起来就和Safari一样，并能自动填入Dashlane打理的所有资料，但想要找到并打开它就要麻烦一些。
+Still, complaining more than briefly about Dashlane’s drawbacks is like grumbling about the taxes when you win the lottery. It saves you infinite time and hassle, it’s (mostly) free, and it belongs on your computer and phone this very day.
+话说回来，过多抱怨Dashlane的缺点，就好像你在赢得彩票后抱怨缴税一样。它为你省去了无限的时间和麻烦，而且（基本上）免费，是你的电脑和手机今天就该安装的软件。

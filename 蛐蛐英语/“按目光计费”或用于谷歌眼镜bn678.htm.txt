@@ -1,0 +1,32 @@
+Google wants to see what you see. And then, of course, make money from those images.
+谷歌(Google)想要看见你之所见。当然，接下来是靠这些图像赚钱。
+The company was recently awarded a patent that puts forth an idea for pay-per-gaze advertising — a way in which people interacting with ads in the real world could be analyzed in the digital world.
+该公司最近获得一项专利，它将推进“按目光计费”(pay-per-gaze)的广告概念——通过这种方式，人们同现实世界中的广告互动的方式能在数字化世界里进行分析。
+In the patent, which was filed in May 2011 and granted last week, Google claims that “a head-mounted gaze tracking device” — presumably Google Glass — would send images and the direction the person wearing the device was looking to a server. The system would then identify real-world ads that the person wearing the gadget had seen, allowing Google to then charge the advertiser.
+这一专利于2011年5月申请，上周获得批准（8月12-18日这周——编注）。谷歌在专利文件中宣称，一种“头戴式目光跟踪设备”——应该是谷歌眼镜(Google Glass)——将能把看见的图像和佩戴者目光对准的方向发送到服务器。然后，这一系统将辨认出佩戴者眼里真实世界中的广告，使谷歌能据此向广告方收费。
+“Pay-per-gaze advertising need not be limited to online advertisements, but rather can be extended to conventional advertisement media including billboards, magazines, newspapers and other forms of conventional print media,” states the patent, which was discovered by Fast Company.
+“按目光计费的广告不必局限于在线广告，也可扩展到传统的广告媒体，如广告牌、杂志、报纸和其他传统印刷媒体，”该专利这样表述。Fast Company杂志最先注意到了这一专利。
+As Google notes in the filing, advertisers can be charged a fee based on whether a person looks directly at an ad in the real world, and the fee can change based on how long they interact with the ad.
+如同谷歌在专利申请中指出的，现在可以按照顾客是否在现实世界中直视广告来向广告投放者收费，费用高低也可以由顾客与广告互动的时间长度来决定。
+Eye-tracking ads are not unprecedented. Companies including Umoove, Tobii Technology and Cube26 already offer technology to track eye movements, gestures and even emotional responses to advertising.
+目光跟踪广告并非没有先例。Umoove、拓比科技(Tobii Technology)和Cube26等公司已经提供了一些技术手段，用于跟踪眼部运动、手势，甚至对广告的情绪反应。
+Google does not show any advertising in Glass. It goes so far as to forbid app developers from selling apps or ads, too. But there have been hints that Google will eventually show ads, its core business, and the company has consistently said it expects Glass to be profitable.
+谷歌在其眼镜产品中不会播放任何广告。该公司甚至采取更进一步措施，禁止应用软件开发者售卖应用或广告。但有迹象表明，谷歌最终仍会显示广告。毕竟广告是谷歌的核心业务，而该公司一直表示，认为谷歌眼镜能够盈利。
+One of the first places to expect ads is through Google Now, the predictive search app that shows information without the user asking for it and is particularly suited to Glass. It does not yet show ads, but they are expected.
+预计广告最先将通过Google Now应用出现，这是一款预测性的搜索应用，可以不经用户主动要求而显示信息，特别适合谷歌眼镜。目前该应用还不显示广告，但外界已经有了这方面的预期。
+“The better we can provide information, even without you asking for it, the better we can provide commercial information people are excited to be promoting to you,” Larry Page, Google’s chief executive, said in April, though he did not mention Glass specifically.
+“我们在未经你主动要求而提供信息的方面做得越好，就越能更好地为你展示有人热切企盼推广的商业信息，”谷歌公司的首席执行官拉里·佩奇(Larry Page)今年4月说，不过他没有具体提到谷歌眼镜。
+Of course, a Google patent would not be complete without some reference to search. The filing also presents the idea for “augmented search results” where a person looking at an image in the real world could see additional virtual information based on a search query.
+当然，不涉及搜索，就不能算是完整的谷歌专利。专利文件还展示了“增强型搜索结果”的概念，这是说，向现实世界中一幅图景看去的人，将能同时看到基于一项搜索的附加虚拟信息。
+When Google Glass was first announced last year, virtual reality experts noted that prototype versions of similar wearable computers had taken advertisements in the real world and replaced them with virtual ads.
+去年，谷歌眼镜的消息刚发布时，虚拟现实领域的专家就指出，与之类似的可穿戴式计算机(wearable computer)雏形版本已经用虚拟广告取代了现实世界中的广告。
+Google Glass is “going to change real-world advertising, where companies can virtually place ads over other people’s ads,” said William Brinkman, graduate director of the computer science and software engineering department at Miami University in Oxford, Ohio.
+谷歌眼镜“将改变现实世界的广告业，让各家公司能在别人的广告上虚拟地安放广告”，位于俄亥俄州奥克斯福德市的迈阿密大学(Miami University)计算机科学与软件工程系研究生导师威廉·布林克曼(Wiliam Brinkman)说道。
+But don’t fret that Google will start siphoning images from your Google Glass just yet.
+不过，现在还不用因为谷歌公司从你的谷歌眼镜汲取图像而烦恼。
+According to people who work on Google Glass but asked not to be named because they were not allowed to speak publicly for the company, the Google Glass team has no plans to use this patent and it was “filed years ago.”
+据谷歌公司为眼镜项目工作的员工称，谷歌眼镜团队尚无使用这一专利的计划，该专利“递交上去已有很长时间了”。该员工因无权代表公司公开发言而要求匿名。
+Google also said in a statement that it did not plan to actually build products based on the eye-tracking patent in the immediate future.
+谷歌还在一份声明中称，短期内公司并无计划制造基于眼部跟踪专利的产品。
+“We hold patents on a variety of ideas,” the company said. “Some of those ideas later mature into real products or services, some don’t. Prospective product announcements should not necessarily be inferred from our patents.”
+“我们持有的专利涉及众多概念”，该公司表示，“有些概念日后将成长为真实的产品或服务，有些则不能。不应从我公司的专利中必然推断出未来可能发布的产品。”

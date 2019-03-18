@@ -1,0 +1,20 @@
+Archimedes pointed out that with a lever he could move the world.
+阿基米德曾指出:给我一个支杆,我将撬动整个地球。
+He most likely would have been surprised to learn that a team of six microrobots, weighing just 3.5 ounces in total, could pull a car weighing 3,900 pounds.
+当阿基米德听到下面这条新闻:一组总重仅为3.5盎司(约0.1公斤)六个微型机器人,可以拉起一辆重量为3900磅(约1769公斤)的车子时,应该也会感到惊讶。
+A group of researchers at the Biomimetics and Dexterous Manipulation Laboratory at Stanford University has been exploring the limits of friction in the design of tiny robots that have the ability to pull thousands of times their weight, wander like gecko lizards on vertical surfaces or mimic bats.
+斯坦福大学,一组来自仿生材料学和机巧操控实验室(Biomimetics and Dexterous Manipulation Laboratory)的研究专家正在设计可以承担起几千倍自身重量的微型机器人,这些机器人可以像在垂直的平面上爬行的壁虎或者蝙蝠一样行动。在此过程中,专家们一直在致力研究摩擦系数的极限。
+Now they have pushed biomimicry in a new direction. They have taken their inspiration from tiny ants that work as teams to move massive objects. In this case, they are not just taking ideas from nature — the movie “Big Hero 6” made a great deal of what swarms of microrobots could do, including tossing cars.
+这项研究将仿生学引入了全新的研究方向。研究者们的灵感来自于可以搬运巨大物体的团结的蚂蚁们。在这个情况下,研究者不仅只是从大自然中获取到灵感——电影《超能陆战队》讲了很多关于一群微型机器人可以做的事情,包括将一辆汽车翻个底朝天。
+The researchers’ approach is counterintuitive. Rather than striking powerful blows like a football player making a tackle or a jackhammer, they have focused on synchronizing the smooth application of very tiny forces. The microrobots work in concert, if slowly.
+研究者们的研究方法是打破传统的。相比较于集中研究像足球队员发起进攻时或者像手提钻一样的爆发力,他们将研究重点放在同步微小力量的柔和应用上。如果放慢观察速度的话,微型机器人在一起工作的步调是十分协调的。
+The researchers observed that the ants get great cooperative force by each using three of their six legs simultaneously.
+研究者发现,当蚂蚁们同步使用它们六条腿中的三条腿时,一齐它们可以创造出巨大的合力。
+“By considering the dynamics of the team, not just the individual, we are able to build a team of our ‘microTug’ robots that, like ants, are superstrong individually, but then also work together as a team,” said David Christensen, a graduate student who is one of the authors of a research paper describing the feat. The paper will be presented this May at the International Conference on Robotics and Automation in Stockholm.
+大卫·克里斯坦森(David Christensen),研究生,同时也是陈述这篇研究的论文作者之一,讲到:“通过考虑团队的多样性,而不仅仅是团队的个体,我们得以创造一队我们自己的‘微型搬运工’机器人。它们就像蚂蚁,每个个体都是十分强壮的,但是它们可以像一个团队在一起工作。”今年五月这篇研究论文将发表在在斯德歌尔摩的机器人及自动控制学国际大会(International Conference on Robotics and Automation)上。
+Their new demonstration is the functional equivalent of a team of six humans moving a weight equivalent to that of an Eiffel Tower and three Statues of Liberty, Mr. Christensen said. The car is the one he uses for commuting to campus. Part of the magic is the use of a special adhesive that was inspired by gecko toes.
+克里斯坦森先生表示,他们最新的研究成果展示为,一队性能上相当于六个人类组成的小组移动相当于一座埃菲尔铁塔以及三座自由女神像的重量。用来移动的汽车就是克里斯坦森每天驾驶去校园的车子。秘诀之一是一种材料的应用,而这种材料的灵感来自于壁虎脚。
+Last month, Mr. Christensen and Srinivasan Suresh, another graduate student, the researcher Katie Hahm and the mechanical engineering professor Mark Cutkosky published “Let’s All Pull Together: Principles for Sharing Large Loads in Microrobot Teams.”
+上个月,克里斯坦森先生和另一名研究生斯里尼瓦桑·苏雷石(Srinivasan Suresh),研究员卡蒂·哈姆(Katie Hahm)以及机械工程学教授马克·库特克斯基(Mark Cutkosky)共同发表了名为《让我们齐心协力:微型机器人团队承重巨型装载的原理》的研究论文。
+In an accompanying video, they show that the microrobots, when they are carefully synchronized, can do astounding things.
+在论文附件中的视频中，他们表明经过精心编程的微型机器人也可以拥有令人震惊的力量。

@@ -1,0 +1,36 @@
+Wall Street is entering an uncertain new era as the rule that has come to symbolize Washington’s efforts to rein in financial risk-taking finally takes hold.
+随着华盛顿对金融风险的标志性控制措施终于开始产生影响，华尔街正在进入一个难以捉摸的新时代。
+Five years after the financial crisis, federal regulators are poised to approve the so-called Volcker Rule, the keystone of the most sweeping overhaul of financial regulation since the Depression. The final draft, a copy of which was reviewed by The New York Times, imposes some requirements that are tougher than the banks had hoped.
+金融危机过去五年后，联邦监管机构已经做好批准所谓“沃克尔规则”(Volcker Rule)的准备，这是自大萧条以来规模最大的一次金融管制改革中的核心内容。《纽约时报》拿到了该规则最终稿的一个副本，经过查阅可以看出，它提出的一些要求比银行预想的要更苛刻。
+Five federal agencies are expected to approve the rule on Tuesday, representing a potential shift in the balance of power in financial reform. Although it counted as only one of 400 rules under the Dodd-Frank financial overhaul law — and nearly two-thirds of the regulations remain unfinished — the Volcker Rule became a litmus test for the overall strength of the law.
+五家联邦机构有望在周二核准这份规则，这意味着金融改革中的力量平衡可能会出现转变。沃克尔规则只是多德-弗兰克(Dodd-Frank)金融改革法案下400项规则中的一项——其余的监管规则有将近三分之二还没完成，但它将成为法案改革力度的试金石。
+But the rule — which attempts to draw a line between everyday banking and Wall Street wheeling-dealing — is no panacea. Some critics say the rule, which regulators agreed to delay until July 2015, does not go far enough.
+然而，这项试图在日常银行业务和华尔街投机交易之间划出界限的规则并非包治百病。有批评人士称，这项监管机构已经允诺推迟到2015年7月开始实施的规则不够深入。
+And for its part, Wall Street is expected to scour the rule for loopholes and consider whether to challenge it in court.
+至于华尔街方面，他们应该会从中寻找漏洞，并考虑是否要到法庭上挑战它。
+At its core, the rule bans banks from trading for their own gain. The practice, known as proprietary trading, is one of Wall Street’s most lucrative and yet riskiest activities.
+规则的核心是禁止银行为自己获得收益而进行交易。这种被称为自营交易的做法是华尔街利润最丰厚的活动，同时也是风险最高的。
+The critics of large banks asserted that the Volcker rule — the brainchild of Paul A. Volcker, a former Federal Reserve chairman and adviser to President Obama who championed the ban on banks trading for their own gain — would help prevent the buildup of large risky positions that nearly sank Wall Street in 2008. And they argued that, to prevent future bailouts of Wall Street, large banks that enjoy forms of taxpayer backing should not use customer money to make bets on the direction of stocks and bonds.
+对大银行持批评态度的人称，由美联储前主席、同样支持自营交易禁令的奥巴马总统的顾问保罗·A·沃尔克(Paul A. Volcker)提出的沃克尔规则有助于防止出现高风险的仓位，而2008年华尔街几乎因此被吞没。他们指出，为了避免将来华尔街再出现需要救市的局面，坐享多种形式的纳税人支持的大银行，不应该用客户的钱在股票和债券上赌博。
+In recent weeks, regulators who favored a more stringent version of the rule pressed for changes that they think will make it harder for banks to evade the regulation. The version of the rule reviewed by The Times shows that, in some areas, the hard-liners got their way.
+近几周里，一些倾向于进行更严厉管制的监管机构要求对规则草案作出修改，它们认为这些改变能加大银行躲避管制的难度。从《纽约时报》翻阅的这一稿来看，强硬派的意见在某些地方得到了贯彻。
+The rule, for example, includes new wording aimed at the sort of risk-taking responsible for a $6 billion trading blowup at JPMorgan Chase last year. The bank contended it was trading to hedge its broader risks, but in fact it built a position that racked up large profits before spinning out of control.
+例如，针对去年带来摩根大通(JPMorgan Chase)60亿美元交易重挫的那类风险操作，规则采用了新的措辞。银行认为它在通过交易对冲更大范围内的风险，但事实上它只是在建起一个能够榨取大笔利润的仓位，直到失去控制。
+To prevent such blowups, according to the version of the rule reviewed by The Times, it will require banks to deploy “independent testing designed to ensure that the positions, techniques and strategies that may be used for hedging may reasonably be expected to demonstrably reduce” the risks. And the risks, the rule said, must be “specific, identifiable” rather than theoretical and broad.
+根据规则最终稿，要防止这样的重挫，银行需要部署“独立的测试，以确保可能用于对冲的仓位、技术和策略按照合理预期是可以卓有成效地降低”风险的。而规则称，相关风险必须是“具体而显而易见的”，而不是假设的、宽泛的。
+The banking industry is also expected to keep up its fight against the rule. Wall Street lobbyists opposed the Volcker Rule more fiercely than any other regulation that has come from the Dodd-Frank law, which Congress passed in 2010. They argued that trading was not a primary cause of the financial crisis and the Volcker Rule could actually prevent banks from carrying out safe activities, like hedging against risks.
+预计银行业将会与这个规则展开斗争。华尔街游说人士对沃克尔规则的反对之剧烈，超过了多德-弗兰克法案的其他任何一项规则，该法案是2010年在国会获得通过的。他们指出，交易并非金融危机的主因，沃克尔规则实际上可能会让银行无法进行一些安全的活动，比如为降风险进行对冲。
+Now that the final version of the rule has emerged, lawyers and lobbyists are likely to seize on the fuzzy nature of proprietary trading, which can resemble more legitimate forms of trading essential to doing business on Wall Street.
+如今规则最终稿已经浮出水面，律师和游说人士们可能会紧抓住自营交易的模糊性来做文章，这种交易有时候看起来跟华尔街的其他比较正当的必要交易形式差不多。
+The rule, for example, allows banks to buy and sell securities if they show that the purchases are to meet the demands of their customers, a practice known as market-making. But banks, under the guise of market-making, could build a proprietary position in shares of Google, for example, contending that at some point clients might buy the shares.
+比如规则规定，只要银行可以证明自己是在应客户所需，就可以进行证券买卖，这种做法叫做“造市”。但银行可以用造市做幌子，用某一支股票建起自营仓位，比如谷歌(Google)的股票，然后声称客户可能会趁某个时机买入这股票。
+The question is whether the wording of the Volcker Rule is strict enough to force banks to stockpile securities only for customers. The version reviewed by The Times shows that while regulators adopted some measures to prevent banks from masking their proprietary bets as market-making, the rule may still be vulnerable to evasion.
+问题在于沃克尔规则的措辞是否足够严密，足以迫使银行只为客户囤积证券。从时报翻阅的这一稿看，监管者引入了一些措施来防止银行把自营赌博伪装成造市，但规则可能还是可以被绕过。
+Indeed, the rule says that banks can build up positions to meet “the reasonably expected near-term demands of clients, customers, or counterparties.” Banks and regulators may clash over what is “reasonably expected.”
+规则的确说银行可以针对“客户、顾客或订购方的短期需求的合理预期”建起一个仓位。而银行和监管机构可能会围绕“合理预期”这个词发生争执。
+The rule also allows banks to do proprietary trades in bonds issued by governments. United States banks can make bets with Treasuries and even municipal bonds. In a significant concession, the Volcker Rule allows the foreign affiliate of United States banks to trade in bonds issued by foreign governments.
+规则还允许银行用政府发放的债券进行自营交易。美国银行可以用财政部甚至地方政府债券下注。沃克尔规则允许美国银行的海外分支机构用外国政府发放的债券进行交易，这是一个明显的让步。
+The votes on Tuesday, which come more than a year after Congress required the agencies to complete the Volcker Rule, offer Wall Street a degree of clarity that once seemed remote. Until recent days, regulators appeared unlikely to meet the recommendation of Treasury Secretary Jacob J. Lew, who urged the agencies to complete the rule in 2013.
+周二的表决距离国会要求政府部门完成沃克尔规则已经过去一年多。面对相关问题，华尔街通过这次表决获得了一些原本遥不可及的清晰度。一直以来，人们都以为监管机构不可能在财政部长雅各布·J·卢(Jacob J. Lew)建议的时限内完成规则，情况直到最近才突然改观。卢曾呼吁各部门在2013年内完成这项工作。
+“For the banks, this is one of the most significant regulatory changes in decades,” said Alan W. Avery, a partner at Latham & Watkins who represents financial institutions in regulatory issues. “It cuts off or fundamentally alters traditional sources of revenue for the banks.”
+“在银行方面，这是几十年来幅度最大的监管改革之一，”瑞生国际律师事务所(Latham & Watkins)合伙人艾伦·W·艾弗里(Alan W. Avery)说，他在代理金融机构处理监管事宜。“它切断了或从根本上改变了银行的传统收入来源。”

@@ -1,0 +1,52 @@
+A marriage is not just the union of two people. It is also the union of their data. And when they divorce, the data often gets spilled.
+婚姻不只是两个人的结合。双方的数据也会融合在一起。当他们离婚的时候，这些数据往往会外泄。
+The electorate is now witnessing a vivid example of this, arising from the separation of Anthony D. Weiner, a former congressman, and Huma Abedin, a top aide to Hillary Clinton. The F.B.I. is poring over their emails with a presidential election just days away.
+美国选民正在见证一个鲜活的例子，由前国会议员安东尼·D·韦纳(Anthony D. Weiner)和希拉里·克林顿(Hillary Clinton)的高级助手胡玛·阿贝丁(Huma Abedin)的离婚案引发。在距离大选日只剩几天时，联邦调查局(FBI)正对他们两人的邮件展开侦查。
+Divorce lawyers and data analysts interviewed on Monday said less public versions of this story play out all the time.
+几位离婚律师和数据分析师周一接受采访时表示，此类事件时有发生，只不过没那么吸引公众注意。
+“The problem is, once they’ve already engaged in bad behavior, it’s out there,” said John Slowiaczek, the president-elect of the American Academy of Matrimonial Lawyers. “You can’t recapture it, you can’t bury it.”
+“问题是，如果他们之前做了坏事，就会留在那儿，”美国婚姻律师学会(American Academy of Matrimonial Lawyers)候任主席约翰·斯洛维亚切克(John Slowiaczek)说。“你无法取回，也不能掩埋。”
+No matter a person’s level of technical skill, it can be difficult to hide digital behavior from a spouse, a spouse’s lawyers or, in Mr. Weiner’s case, federal investigators.
+不管一个人的技术水平如何，都很难向配偶、配偶的律师，或如韦纳这个案子里的联邦调查人员，隐藏自己的数字踪迹。
+In August, Ms. Abedin, one of Mrs. Clinton’s closest aides and confidantes, informed her husband, a disgraced former congressman and mayoral candidate, that she wanted to separate after his latest sexting scandal. A federal investigation of Mr. Weiner revealed a trove of messages, including some belonging to Ms. Abedin.
+今年8月，与克林顿关系最近的助手、密友阿贝丁在她丈夫最新一起性丑闻曝光后，通知这位名誉扫地的前国会议员和前市长候选人，表示她想离婚。针对韦纳的联邦调查披露了大量信息，其中有些属于阿贝丁。
+Nancy Berg, the president of the International Academy of Family Lawyers and a partner at the law firm Berg, Debele, DeSmidt & Rabuse, said that it was not uncommon to see situations like that of Ms. Abedin’s, where, she said, “her husband’s garbage is destroying her life.”
+国际家庭法律师学会(International Academy of Family Lawyers)主席、伯格-德贝莱-德米特-拉布斯(Berg, Debele, DeSmidt & Rabuse)律所合伙人南希·伯格(Nancy Berg)表示，阿伯丁这样被“丈夫的破事毁掉她的生活”的情况，并不少见。
+In divorce proceedings, lawyers and investigators routinely mine public social media profiles for a glimpse into the activities of the client’s spouse.
+在离婚诉讼中，律师和调查人员会例行地查看公开的社交媒体信息，以窥探客户配偶的活动。
+But their investigations go far beyond that, as they sift through whatever data they can legally obtain for signs of hidden assets or to catch the spouse in a significant lie. Lawyers are likely more focused on questions of finance and child custody than lurid questions of adultery or betrayal.
+但他们的调查远远超过了这个层面，因为他们仔细检查了可以合法获得的所有信息，不管那是什么，目的是寻找配偶隐藏财产的踪迹，或抓到对方有重大谎言的证据。律师们可能更关注财务和孩子抚养权的问题，而非骇人听闻的通奸或背叛行为。
+Even so, a computer “tells you everything about a person’s character,” said Brook Schaub, a forensic analyst and licensed private investigator at the accounting firm Eide Bailly. It has “become the file cabinet, the stationery, the social networking, the everything,” he said.
+尽管如此，一台电脑还是“可以告诉你有关一个人性格的一切”，艾德-贝利(Eide Bailly)会计师事务所的法证分析师、持照私家侦探布鲁克·肖布(Brook Schaub)说。它“变成了文件柜、信笺、社交媒体，所有的一切，”他说。
+The data that can become publicly available depends largely on the individuals’ penchant for privacy and how careful they have been. Even those who value privacy during the relationship are at risk of the former spouse finding sensitive data.
+这种数据有可能被大众获得，这在很大程度上取决于个人对隐私重视程度和他们的谨慎程度。哪怕是在一段关系中比较看重隐私的人，也会有被前任配偶发现敏感信息的风险。
+The first steps taken after the divorce process begins can be critical.
+你在离婚程序启动后采取的第一步，会非常关键。
+Christine Leatherberry, a family lawyer in Dallas, said she recommended that her divorce clients create a new email account, stop sharing calendars and turn off the ability for apps on their phones to track their locations.
+达拉斯家庭法律师克里斯蒂娜·(Christine Leatherberry)表示，她会推荐自己的离婚客户创建一个新的邮件账户，停止分享日程，并关掉手机上各应用的定位功能。
+Someone committed to finding embarrassing or otherwise discrediting information about a spouse can most likely find a way, especially if he or she is willing to flout the law. Such revelations may not be admissible in court, but they could bring professional ramifications or personal embarrassment.
+只要有心想找可以让配偶难堪或名誉受损的信息，几乎总是会有办法，尤其是如果他或她不惜藐视法律的话。这类披露信息可能无法在法庭上使用，但它们会带来职业上的后果，或使个人陷入难堪。
+Take, for instance, the security questions that most important digital accounts, including email and banking, use to recover passwords if forgotten. Identifying your mother’s maiden name or the street you grew up on might foil distant identity thieves, but not a spouse.
+比如，包括邮箱和银行账户在内，大多数重要的数字账户在用户忘记密码时会通过安全问题来恢复。辨认你母亲的娘家姓或儿时住在哪条街，或许能难住远在他方的身份窃贼，但难不住你的配偶。
+Annette Burns, a family lawyer in Phoenix, suggested concocting untruthful answers that you could remember but that no one else could guess.
+对于这类问题，来自菲尼克斯的家庭法律师安妮特·伯恩斯(Annette Burns)建议人们编一个自己能记住但没人能猜得到的虚假答案。
+Frank Rudewicz, a principal at Marcum L.L.P. of Boston who focuses on forensic practice, said people had gone so far as to install malware on a spouse’s computer that would log keystrokes.
+波士顿麦楷会计师事务所(Marcum L.L.P.)的一位主管、主要从事取证工作的弗兰克·鲁德维奇(Frank Rudewicz)表示，人们会做得很过，以致在配偶的电脑上安装可以记录按键信息的恶意软件。
+But there are also fully innocent and legal ways that a spouse can gain access to what was thought to be private data, especially among those lacking savvy with their technology.
+但也有一些完全无害的合法方式可以让配偶获得被认为是私密的信息，尤其是对自己使用的技术缺乏了解的人。
+As an example, a text message could go simultaneously to a phone and an iPad that was left with children or a former spouse, something many people forget or don’t know, especially if they didn’t set the devices up themselves.
+比如，一条短信可能会同时地发到手机和被孩子或前任配偶拿着的iPad上。许多人经常忘了这一点，或压根不知道，尤其是在这些设备不是他们自己设置的情况下。
+“It’s so convenient to have our texts pop up all over, and all of our computers synced,” Ms. Burns said. “But if one of those computers is left at home, that means your separated spouse has access to everything.”
+“我们的信息太容易在各个地方突然冒出来，因为我们所有的设备都是同步的，”伯恩斯说。“但如果其中一部电子设备被落在家里，那意味着你与分居的配偶就可以获得里面所有的信息。”
+Mr. Slowiaczek said that the trend of social media evidence in divorce cases had started between five and eight years ago and had picked up “dramatically” over the last three to five years.
+斯洛维亚切克表示，在离婚案中使用社交媒体证据的趋势是在五到八年前开始显现，并在过去三五年里“急剧”流行起来。
+He said evidence from social media was a “primary source for virtually anyone who has any divorce practice whatsoever, for getting information not only to understand our own clients, but also to understand the dynamics of people on the other side of a case.”
+他表示，从社交媒体获取的证据是“一个主要的信息来源，基本上处理任何离婚案的人都会用，我们不仅可以从中获得理解自己客户的信息，还能了解案件另一方的情况。”
+Mr. Schaub described a case he had handled in which a father who had been unemployed for several years had claimed that he had been acting as a “Mr. Mom.” His computer use revealed a different story.
+肖布讲述了一个他经手的案件，其中一位已经失业好几年的父亲声称自己一直在扮演“奶爸”的角色。但他使用电脑留下的信息却暴露了一个不同的故事。
+”His activity during the day is not dedicated to doting on the kids, it’s sitting at the computer, doing various things,” Mr. Schaub said, whether that be viewing pornography or racking up debts on online poker sites.
+“他白天的时间没有用来陪伴孩子，而是坐在电脑旁，做各种各样的事，”肖布说。比如看色情片，或者在在线扑克网站上打牌，欠下更多债务。
+Ms. Leatherberry said she did not recommend people who have filed for divorce delete photos, texts or social media posts, because that could be considered destruction of evidence. But people should be aware that lawyers introduce text messages and social media posts into almost all of their hearings and trials, she said.
+莱瑟贝里表示，她不建议申请离婚的人删除照片、短信或社交媒体上的帖子，因为那可能被视作销毁证据。但她也表示，人们应该意识到，律师会把短信和社交媒体上的信息用在几乎所有的听证会和案件审理中。
+“Anything they put in a text or an email or in social media, assume it will be blown up onto a poster board in a courtroom one day,” she said.
+“在短信和邮件中，或在社交媒体上写任何信息，都假设它会有一天会被放大显示在法庭的布告板上，”她说。

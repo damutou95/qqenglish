@@ -1,0 +1,28 @@
+For the first time, security experts say, a dangerous form of software called “ransomware” has successfully targeted a Mac operating system, piercing an image of safety that Apple customers had long enjoyed.
+资讯安全专家首次证实，一种称作“勒索软件”(ransomware)的恶意软件，已成功入侵Mac操作系统，让苹果电脑长久以来备受用户青睐的安全形象打了折扣。
+The attack, while noteworthy, affected a relatively small number of people and doesn’t mean that typical Mac users should panic, experts say.
+不过专家也表示，这次攻击虽然引人注目，实际上只影响到相对少数的用户，普通的Mac用户无需为此恐慌。
+The software, when installed on a victim’s computer, denies a user access to files unless a ransom is paid: about $400. It targets files that users would most likely find important: photos, videos, Excel spreadsheets and Word documents.
+这种恶意病毒安装到受害人的电脑之后，会拒绝让用户打开某些文件，除非他们付出大约400美元的赎金。这种病毒针对的是对用户来说通常十分重要的文件，像是照片、影片、Excel试算表、Word文档等等。
+Two analysts from the California-based security firm Palo Alto Networks, Claud Xiao and Jin Chen, discovered on Friday that the ransomware was infecting downloads of Transmission, a legitimate BitTorrent file-sharing application, they said in a blog post.
+上周五，加州资讯安全公司帕洛阿尔托网络(Palo Alto Networks)的两位分析师肖梓航(Claud Xiao)和陈瑾（Jin Chen，音）在该公司的博客发文称，他们发现这个勒索软件感染了用户下载到的Transmission应用程序。Transmission是一个合法的BT文件分享软件。
+About 6,500 users had downloaded the infected software over the weekend, a Transmission official told Forbes. That’s a small fraction of overall Mac users; Apple sold 5.31 million Macs in the first quarter of 2016.
+Transmission的一名员工告诉《福布斯》(Forbes)杂志，约有6500名用户在周末期间下载了遭病毒感染的版本。不过这些用户只占所有Mac用户的一小部分；苹果公司在2016年第一季度售出了531万台Mac电脑。
+Attackers had compromised Transmission’s website, changing its download link to include both the Transmission software and the ransomware, according to Ryan Olson, the threat intelligence director at Palo Alto Networks. The analysts found it about four hours after it was first uploaded, he said.
+根据帕洛阿尔托网络的危机情报主任莱恩·欧尔森(Ryan Olson)的说法，黑客入侵了Transmission网站，并更改了该软件的下载链接，使其同时包含了Transmission和勒索软件。欧尔森说，分析师是在病毒首次上传至该网站约4小时后发觉这个状况的。
+Such attacks are more common on machines running Windows, which has far more users, and have grown increasingly common in the past six to 12 months, Mr. Olson said. But even though Apple has had a good record of keeping dangerous software off computers, the successful attack could decrease user confidence, he said.
+欧尔森表示，类似的病毒攻击较常发生在安装微软Windows系统的电脑上，这类中毒事件在过去6到12个月里越来越常见。Windows用户比Mac用户多得多。欧尔森还说，虽然苹果公司过去保护自家电脑系统远离恶意软件的纪录良好，这次病毒成功入侵仍可能会降低用户对苹果的信心。
+“It’s important to be aware that nothing is 100 percent,” he said in a telephone interview. “And every time we find a new one of these, that’s just another signal that 100 percent is not possible.”
+“重要的是，大家要知道没有任何系统是万无一失的，”欧尔森在电话采访中说。“每当我们又找到一个病毒入侵案例，都不过是再次印证了，百分百安全是不可能的。”
+Apple revoked a certificate that allowed the software to be installed on Macs, according to Reuters, and Transmission removed the download link from its website on March 5, Palo Alto Networks said.
+根据路透社(Reuters)报道，苹果已经撤销了让Transmission软件得以安装在Mac上的安全认证，帕洛阿尔托网络也表示，Transmission已在3月5日移除了这个中毒的下载链接。
+The ransomware, named KeRanger, would “sleep” for three days after being downloaded before encrypting the victim’s files, Mr. Olson said.
+欧尔森说，这个叫做KeRanger的勒索软件会在下载后“休眠”三天，然后才开始给受害者电脑上的文件加密。
+Such attacks have had destructive effects, largely because they often work. In February, a hospital in Los Angeles paid hackers $17,000 in Bitcoin after its computer system was down for over a week.
+这类攻击已经造成了破坏性的影响，因为它们的勒索通常很管用。2月，洛杉矶的一家医院在电脑系统宕机超过一周后，付给了黑客价值1.7万美元的比特币。
+Computers running Windows are often infected when users click a malicious link in an email or one hidden in an advertisement. Once their machines are infected, users often have no choice but to meet the hackers’ demands.
+安装Windows系统的电脑，通常是在用户点击电邮中或是隐藏在广告中的恶意链接之后中毒。一旦电脑中毒，用户通常别无选择，只能满足黑客的索求。
+Mac users have historically enjoyed more security from malicious applications, Mr. Olson said. “Apple has a lot of gates in the way to prevent that from being successful,” he said.
+欧尔森表示，面对恶意软件，Mac电脑用户历来享受了更多的安全性。“为了预防中毒，苹果设立了很多道安全关卡。”他说。
+While Apple and Transmission responded quickly to limit the damage, the episode illustrates the value of backing up important files, Mr. Olson said. The effect of ransomware is much like a laptop falling into the river — the damage can be limited if your important files exist somewhere else, he said.
+欧尔森又说，在苹果与Transmission迅速反应，限制病毒损害的同时，此次事件也说明了备份重要文件的价值。他解释道，勒索软件造成的影响就好像是你的手提电脑掉进河里一样，如果重要文件在他处有备份，损失就不会太大。

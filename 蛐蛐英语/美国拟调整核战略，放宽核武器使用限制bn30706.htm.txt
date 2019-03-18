@@ -1,0 +1,54 @@
+WASHINGTON — A newly drafted U.S. nuclear strategy that has been sent to President Donald Trump for approval would permit the use of nuclear weapons to respond to a wide range of devastating but non-nuclear attacks on U.S. infrastructure, including what current and former government officials described as the most crippling kind of cyberattacks.
+华盛顿——新起草的美国核战略已提交给唐纳德·特朗普总统审批。这一新战略扩大了允许使用核武器的范围，把对美国基础设施遭受的范围广泛、但非核的毁灭性打击的响应包括进来，还包括被现任和前任政府官员描述为对最严重的网络攻击的响应。
+For decades, U.S. presidents have threatened “first use” of nuclear weapons against enemies in only very narrow and limited circumstances, such as in response to the use of biological weapons against the United States. But the new document is the first to expand that to include attempts to destroy wide-reaching infrastructure, like a country’s power grid or communications, that would be most vulnerable to cyberweapons.
+几十年来，美国总统一直威胁会对敌方“首先使用”核武器，但仅是在非常有局限性的情况下，比如作为对美国遭受生物武器袭击的回应。但这份新文件首次扩大了核武器的使用范围，将试图破坏涉及面极广的基础设施，比如国家电网或通信网路的打击包括了进来。这类基础设施最容易受到网络武器的攻击。
+The draft document, called the Nuclear Posture Review, was written at the Pentagon and is being reviewed by the White House. Its final release is expected in the coming weeks and represents a new look at the United States’ nuclear strategy. The draft was first published last week by HuffPost.
+这份名为《核态势评估报告》的草案是在五角大楼撰写的，目前白宫正在对其进行审查。报告的最终版本预计将在未来几周公布，它代表了美国核战略的新看法。草案是《赫芬顿邮报》(HuffPost)上周首次披露的。
+It called the strategic picture facing the United States quite bleak, citing not only Russian and Chinese nuclear advances but advances made by North Korea and, potentially, Iran.
+报告把美国面临的战略前景描述为相当不乐观，不仅提到俄罗斯和中国在核武器上的进步，还提到了朝鲜的进展，以及伊朗的可能进展。
+“We must look reality in the eye and see the world as it is, not as we wish it to be,” the draft document said. The Trump administration’s new initiative, it continued, “realigns our nuclear policy with a realistic assessment of the threats we face today and the uncertainties regarding the future security environment.”
+“我们必须正视现实，看到这个世界上的存在，而不是我们所希望看到的东西。”这份文件草案说。草案接下来说，特朗普政府的新主动权在于“重新调整我们的核政策，让其符合我们对如今所面临威胁的现实评估，以及未来安全环境的不确定性。”
+The Pentagon declined to comment on the draft assessment because Trump had not yet approved it. The White House also declined to comment.
+五角大楼拒绝就评估报告草案置评，因为特朗普尚未批准这份报告。白宫也拒绝置评。
+But three current and former senior government officials said large cyberattacks against the United States and its interests would be included in the kinds of foreign aggression that could justify a nuclear response — although they stressed there would be other, more conventional options for retaliation. The officials spoke on the condition of anonymity because they were not authorized to discuss the proposed policy.
+但三名现任和前任政府高级官员表示，针对美国及其利益的大规模网络袭击，将会包括在几类让美国可能有理由进行核响应的外国侵略行为之内，尽管他们强调仍有更传统的其他报复形式。这些官员要求匿名，因为他们未得到讨论政策草案的授权。
+Gary Samore, who was a top nuclear adviser to President Barack Obama, said much of the draft strategy “repeats the essential elements of Obama declaratory policy word for word” — including its declaration that the United States would “only consider the use of nuclear weapons in extreme circumstances to defend the vital interests of the United States or its allies and partners.”
+曾为巴拉克·奥巴马(Barack Obama)总统担任高级核顾问的加里·萨莫雷(Gary Samore)说，这份战略草案的大部分“逐字逐句地重复了奥巴马宣布的政策的主要内容”，包括其声明，既美国“只会在保护美国或其盟国和伙伴至关重要利益的极端情况下，考虑使用核武器”。
+But the biggest difference lies in new wording about what constitutes “extreme circumstances.”
+但最大的不同在于什么情况构成“极端情况”的新说法。
+In the Trump administration’s draft, those “circumstances could include significant non-nuclear strategic attacks.” It said that could include “attacks on the U.S., allied, or partner civilian population or infrastructure, and attacks on U.S. or allied nuclear forces, their command and control, or warning and attack assessment capabilities.”
+在特朗普政府的草案中，这些“情况可能包括意义重大的非核武器战略打击”。草案说，这些情况可能包括“对美国、盟国或伙伴的平民人口或基础设施的打击，以及对美国、盟国的核武装力量，其指挥与控制系统，或警告和判定能力的打击”。
+The draft does not explicitly say that a crippling cyberattack against the United States would be among the extreme circumstances. But experts called a cyberattack one of the most efficient ways to paralyze systems like the power grid, cellphone networks and the backbone of the internet without using nuclear weapons.
+草案并未把导致美国瘫痪的严重网络攻击明确为极端情况之一。但专家表示，网络攻击是在不使用核武器的情况下，让电网、手机网络，以及互联网骨干网等系统瘫痪的最有效的方式之一。
+“In 2001, we struggled with how to establish deterrence for terrorism because terrorists don’t have populations or territory to hold at risk. Cyber poses a similar quandary,” said Kori Schake, a senior National Security Council and State Department official during President George W. Bush’s administration, who is now the deputy director general of the International Institute for Strategic Studies in London.
+“2001年，我们曾为如何建立针对恐怖主义的威慑大伤脑筋，因为恐怖分子没有让他们受牵制的人口或领土。网络攻击制造了类似的困难，”科丽·舍克(Kori Schake)说。她曾在乔治·W·布什(George W. Bush)总统执政期间，在国家安全委员会(National Security Council)和国务院担任高级官员，现在是伦敦国际战略研究所(International Institute for Strategic Studies)的副所长。
+“So if cyber can cause physical malfunction of major infrastructure resulting in deaths,” Schake said, the Pentagon has now found a way “to establish a deterrent dynamic.”
+“所以，如果网络攻击能让重大基础设施遭受有形破坏，导致死亡的话，”舍克说，五角大楼现在已经找到了一种“建立威慑动态”的方法。
+The draft review also cites “particular concern” about “expanding threats in space and cyberspace” to the command-and-control systems of the U.S. nuclear arsenal that the review identifies as a “legacy of the Cold War.” It was the latest warning in a growing chorus that the nuclear response networks could themselves be disabled or fed false data in a cyberattack.
+草案把美国核武库的指挥与控制系统评为“冷战遗产”，对该系统所面临的“太空和网络空间不断扩大的威胁”表示“特别关注”。这是越来越多的警告声中的最新声音，人们警告说，核反击网本身可能丧失能力，或在一场网络攻击中被灌以虚假数据。
+So far, all of the United States’ leading adversaries have stopped well short of the kind of cyberattacks that could prompt a larger, and more violent, response.
+到目前为止，美国所有的主要对手都没有进行过可能会引发更大、更猛烈回应的网络攻击。
+The Russians have placed malware called “Black Energy” in U.S. utility systems but never tried to cause a major blackout. They have sent cable-cutting submarines along the path of undersea fiber-optic lines that connect the continents but not cut them. North Korea has attacked companies like Sony, and used cyberweapons to cause chaos in the British health care system, but never directly taken on the United States.
+俄罗斯人曾把名为“黑能源”(Black Energy)的恶意软件装入美国的公共电力系统，但从未试图制造过大面积停电；他们曾派缆线切割潜艇沿着连接北美大陆的海底光缆行驶，但没有切断过光缆；朝鲜曾对索尼(Sony)等公司发起网络攻击，并曾用网络武器给英国的医疗系统制造混乱，但从未直接对美国发动过攻击。
+Still, the document recognizes that U.S., Russian and Chinese strategies have all been updated in recent years to reflect the reality that any conflict would begin with a lightning strike on space and communications systems. During the Obama administration, for example, a secret program, code-named “Nitro Zeus,” called for a blinding cyberattack on Iran in the event negotiations over its nuclear program failed and Washington found itself going to war with Tehran.
+尽管如此，这份文件承认，美国、俄罗斯和中国近年来都更新了战略，以反映一种现实，即任何冲突都将始于对空间和通信系统的迅速打击。比如，奥巴马政府曾有过一个代号为“氮气宙斯”(Nitro Zeus)的秘密计划，一旦发生与伊朗就其核武器进行的谈判失败、华盛顿发现自己将与德黑兰开战的情况时，会对伊朗采取令其无法还手的网络攻击。
+There are other differences with the Obama administration policy.
+草案中还有其他地方与奥巴马政府的政策不同。
+The draft strategy embraces the U.S. production of a new generation of small, low-yield nuclear weapons — some of which were under development during the Obama administration. Some experts warn that such smaller weapons can blur the distinction between nuclear and non-nuclear weapons and, as a result, be more tempting to use.
+新战略草案赞成美国制造小型、低当量的新一代核武器，其中一些在奥巴马政府时期已在研发。一些专家警告说，这种小型武器可能会让核武器与非核武器之间的区别变得模糊，从而让其使用更具诱惑力。
+And it states outright that Russia is testing its first autonomous nuclear torpedo, one that U.S. officials believe would be guided largely by artificial intelligence to strike the United States even if communications with Moscow were terminated. It was Washington’s first public acknowledgment of such an undersea weapon, a prototype of which was first envisioned in the 1960s by Andrei Sakharov, the physicist who later ranked among the Soviet Union’s most famous dissidents.
+草案直截了当地说，俄罗斯正在测试第一艘自主核鱼雷，美国官员认为这种鱼雷将主要靠人工智能制导，即使与莫斯科的通讯被切断，也能打击美国。这是华盛顿首次公开承认这种水下武器的存在，其原型是物理学家安德烈·萨哈罗夫(Andrei Sakharov)在1960年代首次提出的，萨哈罗夫后来加入到苏联最著名的持不同政见者行列。
+The torpedo’s development was detected by the Obama administration and has been widely discussed in defense circles but never publicly referred to by the Pentagon as a significant future threat.
+该鱼雷的研发是奥巴马政府发现的，国防界对其已有广泛讨论，但五角大楼从未在公开场合将其作为一个未来的重大威胁提及过。
+Trump has rarely publicly criticized President Vladimir Putin of Russia for Russia’s aggressions around the world. But the Pentagon document describes Moscow’s actions as so destabilizing that the United States may be forced to reverse Obama’s commitment to reduce the role and size of the U.S. nuclear arsenal.
+特朗普很少公开批评俄罗斯总统弗拉基米尔·普京，或俄罗斯在世界各地的进攻性行为。但五角大楼的这份文件对莫斯科做法的描述是，它制造了如此之多的不稳定，以致于美国可能会被迫改变奥巴马减少美国核武库的作用和规模的承诺。
+Russia is adopting “military strategies and capabilities that rely on nuclear escalation for their success,” Defense Secretary Jim Mattis wrote in an introduction to the report. “These developments, coupled with Russia’s invasion of Crimea and nuclear threats against our allies, mark Moscow’s unabashed return to Great Power competition.”
+俄罗斯正在采取“靠升级核武器制胜的军事战略和能力，”美国国防部长吉姆·马蒂斯(Jim Mattis)在报告的导言中写道。“这些发展，加上俄罗斯对克里米亚的入侵，以及对我们盟友的核威胁，标志着莫斯科已经毫不掩饰地重返大国竞争。”
+It is relatively easy for presidents to change the country’s declaratory policy on the use of nuclear arms and quite difficult for them to reshape its nuclear arsenal, which takes not only vast sums of money but many years and sometimes decades of planning and implementation.
+对美国总统来说，改变美国对使用核武器所声明的政策相对容易，但改变美国核武库的组成则相当困难，这不仅需要大量的资金，而且需要许多年、甚至几十年的规划和执行。
+The price tag for a 30-year makeover of the United States’ nuclear arsenal was put last year at $1.2 trillion. Analysts said the expanded Trump administration plan would push the bill much higher, noting that firm estimates will have to wait until the proposed federal budget for the 2019 fiscal year is made public.
+根据去年的估计，对美国核武库进行为期30年的改造所需费用为1.2万亿美元。分析人士说，特朗普政府的扩大了的计划将会让费用大幅提高；他们指出，要等到联邦政府公布其2019财年预算提案之后，才能对这笔费用做出可靠估计。
+“Almost everything about this radical new policy will blur the line between nuclear and conventional,” said Andrew C. Weber, an assistant defense secretary during the Obama administration who directed an interagency panel that oversaw the country’s nuclear arsenal.
+“这项激进的新政策几乎在所有方面让核武器与常规武器之间的界线变得模糊，”安德鲁·C·韦伯(Andrew C. Weber)说。他在奥巴马政府担任助理国防部长期间，曾领导一个负责美国核武库的机构间小组。
+If adopted, he added, the new policy “will make nuclear war a lot more likely.”
+他补充说，如果被采用的话，新政策“将使核战争更有可能发生”。

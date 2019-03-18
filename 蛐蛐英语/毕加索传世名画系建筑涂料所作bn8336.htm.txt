@@ -1,0 +1,12 @@
+Scientists using a high-energy X-ray instrument say they have solved the long-running debate over what kind of paint Picasso used in his masterpieces.
+科学家称，他们使用一种高能X射线仪解决了一个长期争执不下的问题：毕加索的传世名画中采用的是哪种颜料？
+It was common house paint, said Volker Rose, a physicist at the Argonne National Laboratory who led the study, published in Applied Physics A: Materials Science & Processing.
+美国阿贡国家实验室(Argonne National Laboratory)的物理学家沃尔克·罗斯(Volker Rose)的答案是：普通建筑涂料。他主持的相关研究发表在期刊《应用物理学A卷：材料科学与工艺》(Applied Physics A: Materials Science & Processing)上。
+“We were looking into pigments taken from Picasso’s white paint, which from a material perspective is zinc oxide, and we were able to study the impurities that are there,” Dr. Rose said.
+罗斯博士说，“我们研究了毕加索采用的白色颜料粉末。从材料学角度看，就是氧化锌。而且我们也研究了其中含有的杂质。”
+The scientists also bought samples of decades-old house paint on eBay. After comparing those samples with Picasso’s paint, they determined that the two shared the same chemical makeup.
+科学家们还从eBay上购买了几十年前生产的建筑涂料样品。他们把这些样品与毕加索的颜料进行对比，判定两者的化学组分相同。
+The instrument was a hard X-ray nanoprobe, developed by the Department of Energy to give scientists a close-up view of the chemical elements in physical materials. Its intended use is to improve the production of high-performance materials and energies. Using the nanoprobe, the researchers could view particles of paint that were just 30 nanometers wide. (A typical sheet of paper is 100,000 nanometers thick.)
+科学家采用的仪器是一台硬X射线纳米探测仪。这种仪器由美国能源部(Department of Energy)研发，以使科学家能细致地观察物理材料的化学成分，从而促进高性能材料及能源的生产。使用这种纳米探测仪，研究者可以观察粒径仅为30纳米的颜料颗粒。（一张普通的纸的厚度是10万纳米。）
+In his regular work, Dr. Volker uses the nanoprobe to study zinc oxide, a key ingredient in batteries, energy-saving windows and liquid-crystal displays for computers and television. Because zinc oxide exists in white paint as well, it made a valuable clue for the physicist to learn about Picasso’s paint.
+罗斯博士在日常工作中使用这种仪器研究氧化锌。氧化锌是电池、节能窗及电脑和电视液晶显示器的关键原料。它也存在于白色颜料中，因而为罗斯博士了解毕加索的颜料提供了宝贵线索。

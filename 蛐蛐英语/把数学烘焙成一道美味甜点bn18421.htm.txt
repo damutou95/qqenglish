@@ -1,0 +1,66 @@
+CHICAGO — We had just finished the mathematician Eugenia Cheng’s splendid demonstration of nonassociativity where the order of operations counts — as it does in, say, subtraction.
+芝加哥——我们刚刚听完了数学家尤金妮娅·郑(Eugenia Cheng)关于非结合律的精彩讲解：运算的顺序会影响运算结果，比如在减法中。
+Now she wanted to forge ahead with the next lesson, in knot theory.
+现在，她想开始下一课：纽结理论(knot theory)。
+I suggested we wait until later. “Why?” she asked.
+我建议等一下。“为什么？”她问。
+“Well, we shouldn’t eat two desserts before dinner, should we?” I said, and giggled nervously.
+“这个，正餐之前总不能吃两道甜点吧，对不对？”我不安地笑道。
+“Why not?” she replied, not giggling. She tightened her apron strings and walked over to her stove.
+“为什么不能呢？”她没有笑，系紧腰上的围裙，走向烤炉。
+Of course. What was I thinking? Hadn’t Dr. Cheng already made clear her conviction that in mathematics, rules are like eggs: meant to be broken, stirred, flipped over and taste-tested? And that day, we had broken a lot of eggs.
+当然啦。我想什么呢？郑博士不是早就阐明了自己的理念吗——在数学中，规则就像鸡蛋一样，就是用来打破、搅拌、翻转和尝试的。那一天，我们已经打破了不少鸡蛋了。
+“You’re absolutely right,” I said, rushing to her side for the grand unveiling of another mathematically themed confection.
+“你是对的，”我快速走到她身边，等待她郑重展示下一道数学主题的甜点。
+Dr. Cheng pulled from the oven a perfectly baked specimen of what she calls Bach pie, named for the great composer beloved by mathematicians everywhere: an oblong rectangle of creamy dark chocolate studded with banana slices and topped by an Escher-like braid of four glazed pastry plaits that followed divergent trajectories, never quite crisscrossing where you expected them to.
+郑博士从烤箱中拿出一份完美烘焙的样本，她称之为“巴赫派”(Bach pie)，以那位全世界数学家都深深喜爱的伟大作曲家命名。它是一块长方形的奶油黑巧克力蛋糕，点缀着香蕉切片，顶上是一个发辫一样的埃舍尔式图案：四股糖麻花呈放射状分布，在看似纵横相交的地方却并不相交。
+The filling was a clever concatenation — “BAnana added to CHocolate gives you Bach,” Dr. Cheng said. The braiding illustrated the structure of a Bach prelude and the sorts of patterns that knot theorists study “to see how looped up the braids are,” Dr. Cheng said, “and whether you can transform one braid into another by wiggling the different strings.”
+馅料别具匠心——“香蕉(BAnana)和巧克力(CHocolate)的前两个字母加起来就是巴赫(Bach)，”郑博士说。这个编织图案展示了巴赫一首序曲的结构，也是纽结理论所研究的那种图形，为了“研究麻花辫子结构是如何纽结起来的”，她说，“以及你是否可以通过扭动不同的辫股，把一条辫子变形为另一条辫子”。
+The pie was a true union of art and math, too beautiful to besmirch, and besides, you’re not supposed to untie knots with your teeth, are you?
+这个派真是艺术与数学的结合，美到让人不敢亵玩，另外，也不应该用牙齿解开绳结呀，对不对？
+Another rule, easily broken.
+不过这个规则是很容易打破的。
+Dr. Cheng, 39, has a knack for brushing aside conventions and edicts, like so many pie crumbs from a cutting board. She is a theoretical mathematician who works in a rarefied field called category theory, which is so abstract that “even some pure mathematicians think it goes too far,” Dr. Cheng said.
+39岁的郑博士惯于抛弃惯例与成规，就像信手拂去砧板上的糕点碎屑一样。她是个理论数学家，研究范畴论(category theory)这个罕为人知的领域，它非常抽象，“甚至许多纯数学家都觉得它走得太远了，”郑博士说。
+At the same time, Dr. Cheng is winning fame as a math popularizer, convinced that the pleasures of math can be conveyed to the legions of numbers-averse humanities majors still recovering from high school algebra. She has been featured on shows like “Late Night With Stephen Colbert,” and her online math tutorials have been viewed more than a million times.
+与此同时，郑博士还以数学科普者而闻名。她坚信， 大批在高中数学课上留下后遗症、至今看到数字就头痛的文科生也可以领略到数学的乐趣。她上过“科尔伯特晚间秀”(Late Night With Stephen Colbert)等电视节目，她的在线数学课访问量超过了100万次。
+The hardcover edition of her first book, “How to Bake π: An Edible Exploration of the Mathematics of Mathematics,” has sold about 25,000 copies in this country and been translated into six languages, a surprising hit for a text visibly if judiciously seasoned with numbers, graphs and equations. The book is being released in paperback this month.
+她的第一本书名为《怎样烘焙π：对数学中的数学的可食用探险》(How to Bake π: An Edible Exploration of the Mathematics of Mathematics)，其精装版在美国售出了2.5万册，并被翻译成六种语言。对于一本满篇（虽说是慎重使用的）数字、图表和等式的书籍来说，真是惊人的成功。这本书的平装版本月也将上市。
+“I spend a lot of time explaining mathematics on blogs, and I try to cut through the technicalities and make things easier to understand,” said John Baez, a professor of math at the University of California, Riverside (and yes, a cousin of Joan). Still, his posts are aimed at scientists and others with some quantitative background.
+“我花费了很多时间在博客上解释数学，试着迈过学术性，把问题弄得简单易懂，”加州大学河滨分校(University of California, Riverside)的数学教授约翰·贝兹(John Baez)说（没错，他是琼·贝兹的亲戚）。不过，他在网上的帖子还是针对科学家和其他有定量研究背景的人的。
+“Eugenia has gone all the way in,” he said. “She’s trying to explain math to everybody, with or without pre-existing expertise, and I think she’s doing wonderfully.”
+“尤金妮娅则是彻底投入，”他说。“她试着向所有人解释数学，不管对方是不是已经具备了专业知识，而且我觉得她干得很棒。”
+So committed is Dr. Cheng to mass math demystification that she recently left a tenured professorship at the University of Sheffield in Britain to take a position at the School of the Art Institute of Chicago, where she teaches math to art students, lectures widely and continues her research in category theory on the side.
+郑博士是如此专注于大众数学启蒙工作，她前不久辞去了英国谢菲尔德大学(University of Sheffield)的终身教授职位，来到芝加哥艺术学院(Art Institute of Chicago)，向学艺术的学生们教授数学，四处讲座，同时继续自己在范畴论领域的研究。
+Dr. Cheng adopts a literal approach to making math more appetizing. “Math is about taking ingredients, putting them together, seeing what you can make out of them, and then deciding whether it’s tasty or not,” she said.
+郑博士采用一种直接的方式让数学更“开胃”。“数学就是使用各种元素，把它们放在一起，看看能得到什么结果，然后判断它是不是美味可口，”她说。
+Every chapter in “How to Bake π” offers recipes for desserts and other dishes that encapsulate mathematical themes. To demonstrate how math seeks to identify underlying similarities across a broad set of problems, for example, Dr. Cheng starts with a recipe that can be readily tweaked to make mayonnaise instead of hollandaise sauce.
+《怎样烘焙π》中的每一章都提供甜点菜谱和其他菜谱，都包含数学的主题。比如，为了展示数学是如何在一组广泛的问题中发现潜在的相似性，郑博士从一份便于调整的食谱入手，不调制荷兰酱，而代之以普通蛋黄酱。
+“Books might tell you that hollandaise sauce needs to be done differently,” she writes, “but I ignore them to make my life simpler. Math is also there to make things simpler, by finding things that look the same if you ignore some small detail.”
+“书本会告诉你，荷兰酱有另一种做法，”她写道，“但是我忽略了它们，好让自己的生活简单点。数学在这里也发挥了作用，找出相同点，帮助你把小的细节忽略掉，让一切变得简单。”
+Her recipe for lasagna illuminates the importance of context to math. Dr. Cheng lists among the basic ingredients “fresh lasagna noodles,” and then points out that another cookbook might deem the noodles not truly basic and instead describe their preparation from scratch.
+她的千层面菜谱显示出背景条件在数学中的重要性。郑博士把“新鲜千层面”列为这道菜所需的基本原料，并指出，另一本菜谱或许并不把面条视为做这道菜的基本原料，而是从零开始，描述了面条的制作方法。
+So, too, do numbers change their character and degree of basicness depending on context. The number 5, for example, when viewed among the natural, or counting, numbers is one of those elemental creatures: a prime number, divisible only by 1 and itself.
+同理，根据背景条件，数字的特性及其基本程度也会改变。比如数字5，在自然数或计数中，它是一个基本的数字：质数，只能被1或它自身整除。
+But in the context of the so-called rational numbers, which include fractions, 5 loses its prime identity and gains versatility, able to be divided into ever tinier slivers, like a cake at a dieters’ convention.
+然而，如果把“5”放在包括分数在内的有理数中考虑，它就失去了质数的特性，有了更多用途，可以被划分为更小的部分，就像节食者的蛋糕。
+The number 1 in its multiplicative identity is practically bedridden, leaving other numbers unchanged: 6 times 1 equals 6. In its additive capacity, however, 1 is unstoppable: if you keep adding 1 to itself, Dr. Cheng noted, you can generate all the natural numbers, out to infinity.
+数字“1”在乘法中起一种限制作用，就是让其他数字保持不变：6乘以1还等于6。而在加法中，1的作用是不可遏制的：郑博士指出，如果在1上面持续再加1，就会得到所有的自然数，直到无穷大。
+Context can prod numbers to defy grade-school verities: 2 plus 2 equals 4, and that’s that. But not if you’re talking about a clock face with only three numbers: 1, 2 and 3. In that case, 2 plus 2 equals 1 – if you start at the 2 and move clockwise by 2, you reach 1.
+背景条件可以令数字违背学校里教的“2加2等于4”之类公理。如果一个表盘上只有1、2、3这3个数字，在这种情况下，2加2就等于1——如果你从2开始，把指针顺时针移动2次，你就可以得到1。
+“I admit I was skeptical at first about her analogies to cooking, but I ended up being completely sold,” said Steven Strogatz, a professor of applied mathematics at Cornell University who also writes popular books.
+“我承认，对于她把数学和烹饪做类比的方法，我一开始感到怀疑，但最后我完全被她说服了，”同样撰写通俗书籍的康奈尔大学(Cornell University)应用数学教授史蒂芬·斯特朗盖茨(Steven Strogatz)说。
+“She conveys the spirit of inventiveness and creativity in math that all mathematicians feel but do a very poor job communicating when teaching math. Refreshing is the word that keeps coming to mind.”
+“她传达了数学中的创新精神与创造性，所有数学家都能体会到，但是在教授数学的时候，却很难同学生沟通这一点。看她的书不断让人感觉耳目一新。”
+Dr. Cheng insists that the public has it all wrong about math being difficult, something that only the gifted mathletes among us can do. To the contrary, she says, math exists to make life smoother, to solve those problems that can be solved by applying math’s most powerful tool: logic.
+郑博士坚持说，公众认为数学很难、只有天才才能搞数学的看法是错误的。相反，她说，数学就是为了让生活更简单；凭借数学当中最强大的工具：逻辑，可以解决各种问题。
+Science may depend on forming hypotheses, doing experiments and gathering evidence that support or refute your hypothesis, but math is simply a matter of stating the terms of your argument and then defending those statements using logic.
+科学或许要依靠提出假设、做实验、收集证据，以此支持或否定自己的假设，但数学就只需要摆出论点的条件，然后使用逻辑，支持自己的论述。
+“The great thing about math is you don’t need much to start exploring it,” Dr. Baez said. “No expensive equipment, just pencil and paper, and you can start fiddling around with patterns and numbers.”
+“数学最棒的一点，就是探索它不需要很多条件，”贝兹博士说。“不需要昂贵的设备，只需要纸和笔，你就可以在各种模型与数字之中摸索。”
+Dr. Cheng recognizes that people can feel uncomfortable with some of the abstractions required by mathematical thinking, by the need to ignore the particulars of, say, this green round pillow and that square purple pillow in favor of an abstract ideal of a pillow that you’re going to call x.
+郑博士发现，有些需要数学思维的抽象概念可能会让人们感觉不舒服，它们需要人们忽略事物的特殊性，比如说这个绿色的圆枕头，那个紫色的方枕头，在数学中，它们都是抽象概念的枕头，可以管它们叫做“x”。
+But it’s just a matter of practice, she said, before the idea starts to feel like a real object that you can manipulate with ease. “You become very good at separating what’s relevant from what isn’t, and that can be very useful in daily life,” she said.
+但这只是个实践问题，她说，渐渐地，抽象概念就变得好像真实存在的物体，你可以轻易操纵它。“你开始擅长把重要的事物从不重要的事物中分辨出来，这在日常生活中非常有用，”她说。
+Sometimes, she finds it “oddly satisfying” to mentally shave a bearded man or imagine how a furry dog would look like after a swim in a lake. “That’s what abstraction is,” she said. “You reveal the structure underneath.”
+有时候，她觉得在想象中给一个留胡子的男人剃须，或是想象一只毛茸茸的狗从湖里湿淋淋地爬上来，会有一种“奇异的满足感”。“这就是抽象，”她说，“揭示出深层的结构。”

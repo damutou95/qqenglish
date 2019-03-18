@@ -1,0 +1,24 @@
+SINGAPORE — Years back, my first serious job began in a warehouse in a jungly part of this island nation. I returned there last week. The same building, somewhat refurbished, is now five stories of start-ups, accelerators and venture capital offices, surrounded by modern high rises.
+新加坡——若干年前，我的第一份正式工作就是在这个岛国开始的，那是一个仓库，在一块郁郁葱葱的地方。上周，我又回到了那里。同一栋楼现在经过了一些整修，五层楼里满是初创企业、创业加速器和风险投资的办公室。小楼周围环绕着现代的高层建筑。
+That is not shocking. Living in modern Asia is about embracing contradiction and change. A deeper look at what’s now happening inside this old factory building, though, showed how much today’s cheap, portable technology is affecting virtually all societies around the world.
+不用吃惊，生活在现代的亚洲，就是需要接受矛盾，拥抱变化。然而更深入地观察这个老厂房里现在发生的一切，就能发现今天廉价、便携的科技正影响着世界上几乎所有的社会。
+The building, called Block 71, is like much of Singapore: a product of state-sponsored planning. It was founded in 2011 as a way of consolidating early-stage local and expatriate technologists and investors in a country with a population of just 5.3 million. There is a state-financed business accelerator there, and several independent venture firms.
+这栋楼叫作“71号楼”(Block 71)，它和发生在新加坡的很多事情很像：也是政府支持的规划所造就的。在2011年建立时，其目的是在这个仅有530万人口的国家，对处在初创阶段的本地和外国科技从业者以及投资者进行整合。这里有一个国家出资的创业加速器，还有几家独立风险投资公司。
+Singapore’s tiny size always forced it to look outward, whether servicing foreign ships or assembling electronics for export to Europe and the United States. Now that software is delivered over the Internet and almost everyone has a phone, Singapore still needs to export its business, but the regional market, with an extraordinary mixture of rich and poor, has a lot more potential.
+新加坡国土面积小，人们不得不将眼光往外看，要么是服务外国船舶，要么是组装电子产品用于出口到欧洲和美国。现在软件可以通过互联网交货，而且几乎人人都有手机，新加坡仍然需要出口，但周边地区内穷人和富人超乎寻常地混杂在一起，这里的市场还有许多潜力可以挖掘。
+Among the start-ups in Block 71 is a company that uses software to teach people in the rural Philippines to become telemarketers. There is a method of loaning money to people in need of infrastructure like clean water. Earlier, I had dinner with an engineer at mig33 a social network with 65 million users, aimed largely at people whose Internet connection comes over cheap mobile devices.
+在“71号楼”的初创企业里，有一家公司利用软件培训菲律宾农村地区的人成为电话推销员；一家公司提供了一种向缺少清洁水等基础设施的人们发放贷款的方法；较早以前，我还与mig33的一位工程师一起吃过饭。这是一个有6500万用户的社交网络，目标主要是那些通过廉价的移动设备上网的人群。
+The local office of an American company, called Boku, is developing mobile payments systems for phone companies in places where people don’t have banks, tuning numbers and minutes into identity and money.
+一家名为Boku的美国公司在本地的办公室，正在为手机公司开发移动支付系统，把电话号码和通话时间转变成身份和钱，它面向的是那些附近没有银行的人群。
+At the other end of the income scale, people are developing fashion sites for teenage girls who write about their shopping sprees and resell the goods, a way to recruit and manage research projects, and kits for quad copter drones built with three-dimensional printers. For the vast middle, there is a social network for watching sports, and a way to evenly split the bills after a night of drinking.
+对位于收入水平顶端的人们，他们也开发了时尚网站，供少女们发帖炫耀她们疯狂购物的成果，并转手那些货品；推出了一个为研究项目招募人才和进行管理的服务；还有用3D打印机制造四轴遥控飞行器的套件。对于中等收入水平的人群，有一个观看体育比赛的社交网络，还有一个在夜里狂饮后均分账单的工具。
+“There are over 1 billion people within a four-hour flight of Singapore,” said Hian Goh, a partner at Pivotal Asia Ventures. While that is true of a couple other Asian capitals, he noted, “nowhere else has the range wealth: Singapore’s $60,000 per capita GDP, and $3,000 in Laos. Technology is a force enabler for all of them.”
+“在距离新加坡乘飞机四小时可以到达的范围里，生活着10多亿人，”支点亚洲投资(Pivotal Asia Ventures)合伙人吴权非(Hian Goh)说。尽管有几座亚洲国家的首都周围也有这样的条件，但是吴轩提到，“其他地方都没有这么大的财富差距：新加坡人均GDP有6万美元（约合37万元人民币），老挝只有3000美元。但科技都能增强它们的力量。”
+The expatriate ties are equally diverse, with companies from Russia and the European Union looking for cross-border investment, and individuals from South Africa and Slovakia who were drawn by the warm weather, easy business regulations and high-speed connectivity.
+外国企业的构成也十分多元，有寻求跨国投资的俄罗斯和欧盟企业，也有因为气候温暖、商业监管宽松，以及高速的连接而吸引到这里的南非和斯洛伐克企业。
+One incubator, called The Joyful Frog Digital Incubator (the name has something to do with “just do it”), wouldn’t seem out of place in the Silicon Valley, except the house barista is more cosmopolitan.
+一家名为佳孵蚪伴(The Joyful Frog Digital Incubator)的孵化器放在硅谷也不会显得格格不入，而且这家公司的咖啡师比硅谷的还要有品味。这家公司的英文名和“想做就做”(just do it)有些关系。
+This isn’t to say “there is better than here,” or “Asia wins.” Those responses are increasingly incoherent. It may not be that kind of contest, and for many of these people, even in a state as closely managed as Singapore, the nation matters less than connectivity and what local populations need.
+这并不是说“那里比这里好”或者“亚洲赢了”，人们的回答已经越来越多元化了。这并不是那样一种竞赛。对他们当中的很多人来说，即使在新加坡这个受到严密管理的国家，国家的影响也没有互联互通，以及当地人口的需求更重要。
+They are building a world where tech travels everywhere, demolishing existing systems and changing societies.
+他们正在构建一个科技能走向任何地方、摧毁现有体制并改变社会的世界。

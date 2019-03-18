@@ -1,0 +1,20 @@
+Nine and a half years and three billion miles later, NASA's New Horizons spacecraft will zoom past Pluto on Tuesday. And mission managers are confident that they have aimed precisely enough that the spacecraft, traveling 31,000 miles an hour, will pass through a rectangle just 60 miles by 90 miles at its closest approach to Pluto.
+经过九年半、30亿英里（约合48亿公里）的飞行，NASA的“新视野号”(New Horizons)探测器将在周二掠过冥王星。此次探测任务的管理人员相信，他们已经瞄准得足够精确，时速3.1万英里的探测器将在飞经一个90英里长、60英里宽的矩形区域时，与冥王星的距离达到最近。
+In terms of accuracy, that's like driving from New York to San Francisco and ending up within five feet of the parking spot you had selected before setting out.
+就准确度而言，这就像是开车从纽约去旧金山，最终抵达的地点离出发前选定的停车位误差不到5英尺。
+A computer program calculated the necessary trajectory, including a swing by Jupiter to pick up velocity. That process is essentially unchanged from decades ago, when the Pioneer and Voyager probes similarly navigated to the outer solar system.
+一个电脑程序计算了必要的飞行轨迹，包括借助木星引力获得加速度。这个过程和数十年前以类似方式探索外太阳系的“先驱者号”(Pioneer)和“旅行者号”(Voyager)探测器基本一样。
+The essential equation is simply F=ma, Newton's Second Law, where F is the sum of all the forces.
+基本公式就是牛顿第二定律F=ma，F指各种力的总和。
+Nonetheless, the details matter. "We used to lob spacecraft at the moon and miss," said Mark Holdridge, the mission manager for the Pluto encounter. "It's very easy to make a mistake."
+然而，细节很重要。“我们过去向月球发射过探测器，但发生了偏离，”冥王星探测任务负责人马克·霍尔德里奇(Mark Holdridge)说。“非常容易出错。”
+The calculations have to factor in the gravitational tug of the sun and the planets. The tiny thrusters that spin New Horizons around also knock it off course slightly. Even the heat from the chunk of plutonium that acts as the spacecraft's battery produces a smidgen of thrust, and so does the small pressure of sunlight hitting the spacecraft. All must be taken into account.
+计算得把太阳和各行星的引力作用考虑进去。小型推进器在让“新视野号”旋转的同时，也导致其稍稍偏离航向。就连充当探测器电池的那一大块钚散发的热量，也产生了少量的推力。照射到探测器上的太阳光产生的少量压力也一样。所有因素都必须考虑进去。
+Two teams of navigators do the calculations independently and then compare and reconcile their answers. That avoids mistakes like the one in 1999 when a mix-up between metric and imperial units pushed NASA's Mars Climate Orbiter slightly off course. It dipped too far into the atmosphere as it was entering orbit and was torn apart.
+两个导航团队独立计算，然后对结果进行对比和校准。这么做会避免出现1999年那样的错误。当时，公制单位和英制单位混淆导致NASA的火星气候轨道器(Mars Climate Orbiter)稍稍偏离航向。进入轨道时，该轨道器进入大气层太多，最终被撕碎。
+The calculations are not perfect, so New Horizons has also fired its thrusters nine times during the nine and a half years for small course corrections, most recently two weeks ago.
+计算是不完美的，因此在九年半的时间里，“新视野号”还曾九次点燃推动器，进行小的航向修正。距今最近的一次发生在两周前。
+For the 11 million miles since then, New Horizons has been coasting, aimed at the middle of that 60-by-90-mile rectangle.
+自那以后的1100万英里飞行中，“新视野号”一直是在朝着前述矩形区域的中心滑行。
+"That’s pretty incredible, if you think about it," Mr. Holdridge said.
+“想想真是很不可思议，”霍尔德里奇说。

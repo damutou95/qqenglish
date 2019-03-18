@@ -1,0 +1,12 @@
+After countless years of daydreamers being told otherwise, there’s now a good reason to keep your head in the clouds. Scientists combed through satellite photographs of cloud cover taken twice a day for 15 years from nearly every square kilometer of Earth to study the planet’s varied environments.
+在无数年被说成白日做梦的人后，现在你有一个好理由抬头看看云了。科学家们梳理了15年间每天两次拍摄的几乎涵盖地球每一平方公里的卫星云图，来研究地球不同的环境。
+By creating cloud atlases, the researchers were able to better predict the location of plants and animals on land with unprecedented spatial resolution, allowing them to study certain species, including those that are often in remote places. The results were published last week in PLOS Biology.
+通过制作云图册，研究人员借助前所未有的空间分辨率能够更好地预测陆地动植物的地理位置，并且研究某一特定物种，包括那些通常生活在偏僻地区的种类。这一研究结果发表在上周的大众科学图书馆生物卷上(PLOS Biology)。
+Clouds directly affect local climates, causing differences in soil moisture and available sunlight that drive photosynthesis and ecosystem productivity.
+云可以直接影响局部地区的气候，导致土壤湿度和可接收阳光的差异，这些是驱动光合作用和生态系统生产力的因素。
+The researchers demonstrated the potential for modeling species distribution by studying the Montane woodcreeper, a South American bird, and the King Protea, a South African shrub.
+研究人员通过研究一种南美的鸟类山䴕雀(the Montane woodcreeper)，和一种南非灌木植物帝王花(the King Protea)来证明制作物种分布模型的可能性。
+“In thinking about conserving biodiversity, one of the most important scientific questions is ‘Where are the species?’” said Adam Wilson, an ecologist at the University at Buffalo, who led the study. The maps also could help monitor ecosystem changes.
+“在考虑保护多样性方面，‘物种都在哪里？’是最重要的科学问题之一。”亚当·威尔逊(Adam Wilson)，一位纽约州立大学布法罗分校(University at Buffalo)的生态学家说道，他是此项研究的领导者。这些地图也有助于监控生态系统变化。
+For cloud-gazing, you can download the data: earthenv.org/cloud.html
+若想凝望云层，你可以从这里下载数据：earthenv.org/cloud.html

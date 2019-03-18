@@ -1,0 +1,30 @@
+WASHINGTON — In a rare moment of bipartisan agreement between the White House and Congress on a major national security issue, the House passed legislation on Thursday that aims to end the National Security Agency’s bulk phone records program that had prompted intense domestic debate about privacy and civil liberties.
+华盛顿——白宫和国会罕见地就一个重大国家安全问题达成两党协议：周四，众议院通过了旨在终结美国国家安全局（National Security Agency，简称NSA）大规模通话记录项目的法案。该项目在国内引发了关于个人隐私和公民自由的激烈讨论。
+But there were limits to any idea of a new season of accord in the capital. A Senate panel voted to allow President Obama to create a plan to close the prison at Guantánamo Bay, Cuba, and to reduce military forces, even as the House passed a defense policy bill that would continue to bar the closing of the prison and resisted the administration’s proposed reductions to Pentagon spending on personnel, weapons and benefits.
+但如果要说国会进入了新的融洽期，却并非完全如此。一个参议院小组投票支持奥巴马制定计划，关闭古巴关塔那摩监狱和裁撤军队，但与此同时，众议院则通过了一份国防政策法案，继续阻挠关闭关塔那摩监狱的计划，并抵制政府提出的削减国防部人员、武器和福利方面支出的建议。
+And while the Senate confirmed David J. Barron, Mr. Obama’s choice for a federal appeals court vacancy in Boston, it did so solely with Democratic votes. Mr. Barron’s nomination had been buffeted by controversy over his authorship of Justice Department memos about the targeted killing of an American citizen.
+此外，尽管参议院确认了由奥巴马推荐的人选——戴维·J·巴伦(David J. Barron)——填补波士顿联邦上诉法院的空缺，但它能这么做完全是依靠民主党的投票。由于巴伦曾就一名美国公民遭刺杀一事起草了一份司法部备忘录，从而引起争议，导致他的提名资格频受攻击。
+Before leaving town for the Memorial Day break, the House overwhelmingly passed the U.S.A. Freedom Act, which aims to restrict the government’s ability to collect records about Americans in bulk. The bill was overhauled in negotiations with the administration earlier this week, and House leaders allowed no amendments, leaving some civil liberties groups to say that efforts at reform had been weakened.
+阵亡将士纪念日将至，在出城度假之前，众议院以压倒性多数通过了《美国自由法案》(U.S.A. Freedom Act)，该法案旨在限制政府大规模收集美国公民记录的能力。本周早些时候，在与政府的讨论中，该法案被大幅改动，而众议院领袖允许对其进行修订，一些公民自由团体认为，改革的力度已经被削弱。
+Still, the House’s 303-to-121 vote on the U.S.A. Freedom Act sent a signal that both parties were no longer comfortable with giving the N.S.A. unfettered power to collect records in bulk about Americans.
+不过，众议院以303票比121票通过了《美国自由法案》，这意味着，两党已不再愿意让NSA不受限制地大量收集美国人的信息。
+The bill “really stands out to me as a very unusual example of Congress grappling with a very difficult policy issue, in which people have very strongly held views, and in which we managed to get to a very responsible compromise,” said Representative Adam B. Schiff, Democrat of California. “That is a rare animal these days.”
+该法案“在我看来非常不同寻常，它意味着国会处理了一个非常棘手的政策问题，人们在这个问题上的观点非常都坚决，但却得以达成一个非常负责任的妥协，”加州民主党众议员亚当·席夫(Adam Schiff)说，“这在现阶段是很难得的。”
+A year ago, a divided House nearly voted to strip all funds from the N.S.A. for its bulk phone records program after leaks about its existence, but it fell short of a majority. This time, there was overwhelming support for the change.
+一年前，在大规模通话监控项目泄密后，陷入分裂的众议院几乎要撤销给NSA的所有资金，但最终提案未获多数赞同。这一次，这个法案得到了压倒性多数的支持。
+“People are a lot more comfortable with a government that is not storing all this metadata,” said Speaker John A. Boehner of Ohio. “On this issue, the administration, their position and the position of House Republicans frankly was pretty close,” he added.
+“如果政府不去储存所有这些元数据，人们会放心得多，”来自俄亥俄州的众议院议长约翰·A·博纳(John A. Boehner)说。“在这个问题上，政府及其立场，和众议院共和党人的立场实际上是非常相近的，”他接着说。
+Administration officials, led by Robert S. Litt, the general counsel of the director of national intelligence, negotiated a flurry of last-minute alterations with lawmakers, focusing on a change to how the bill purports to stop the government from collecting records about Americans in bulk for national security investigations. The bill requires requests for records to be tied to a “specific selection term.”
+以国家情报主任的总法律顾问罗伯特·S·利特(Robert S. Litt)为首的政府官员，与众议院就一系列改动进行了最后的磋商，讨论主要关于该法案如何阻止政府以国家安全调查为由大规模收集美国人信息。法案要求，获得记录的要求必须附带“具体选择条件”。
+Under a previous version of the legislation, which both committees had unanimously passed and which had the backing of a coalition of privacy and industry groups, that phrase was defined as “a term used to uniquely describe a person, entity or account.”
+该法案之前的一个版本已经由两个委员会一致通过，并受到了个人隐私保护机构和行业组织的联盟的支持。在这个版本中，对“具体选择条件”的定义是，“对一个人、实体或账户进行的唯一性表述”。
+But Obama administration officials, according to congressional aides, said the Federal Bureau of Investigation worried that the definition would inadvertently block it from obtaining records for conventional investigations such as obtaining records of all lodgers at a hotel when it did not know the name of its suspect yet. They persuaded lawmakers to change the definition of “specific selection term” to something that would “limit the scope” of the request in an undefined way.
+但国会助手说，奥巴马政府官员称，联邦调查局（Federal Bureau of Investigation，简称FBI）担心，这个定义会妨碍其在常规调查中获得记录，比如，当FBI不知道嫌疑人的姓名时，就无法获得所有房客的记录。他们已经说服众议员修改“具体选择条件”的定义，使其能够以未经定义的方式“限定请求范围”。
+The Obama administration insisted that the change was not intended to weaken the restrictions on bulk collection. But industry and civil liberties groups dropped their support and urged the Senate to strengthen the bill.
+奥巴马政府坚持说，这个改变不是为了削弱对大规模收集行动的限制。但行业阻止和公民自由组织收回了他们的支持，要求参议院强化这个法案。
+Advocates pleaded for patience. Representative John Conyers Jr., Democrat of Michigan, who is a critic of N.S.A. surveillance, said the bill was the first time since passage of the 1978 law creating the secret Foreign Intelligence Surveillance Court that Congress had actually rolled back significant parts of the government surveillance apparatus.
+支持者呼吁各方保持耐心。NSA监控项目的批评者、密歇根众议员小约翰·科尼尔斯(John Conyers Jr.)说，这是1978年的法律被通过并因此创办外国情报监视法庭(Foreign Intelligence Surveillance Court)以来，国会首次真正放弃了政府监控机器的一些重要组成部分。
+Representative Jim Sensenbrenner, Republican of Wisconsin, said the bill’s authors were “not able to close the door, lock it and throw away the key.”
+威斯康星州众议员吉姆·森森布伦纳(Jim Sensenbrenner)说，法案的起草者“没能做到关门、上锁、扔钥匙”。
+“The N.S.A. might still be watching us,” he added, “but now we can be watching them.”
+“NSA可能仍在监视我们，”他接着说，“但现在我们也可以监视他们。”

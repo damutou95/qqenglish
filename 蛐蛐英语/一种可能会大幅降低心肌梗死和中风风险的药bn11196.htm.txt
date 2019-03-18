@@ -1,0 +1,46 @@
+A new class of experimental cholesterol drugs might sharply reduce the risk of heart attacks and strokes, researchers reported on Sunday, citing what they described as preliminary evidence.
+周日，研究人员援引“初步证据”称，一类新的实验性降胆固醇药物可能会大幅降低心肌梗死和中风风险。
+The drugs, one being developed by Amgen and the other by Sanofi and Regeneron Pharmaceuticals, are already known to sharply reduce so-called bad cholesterol, sometimes to levels lower than those achieved by statins like Lipitor, the mainstay lipid-lowering medicines.
+上述报告中的药物是指由美国安进公司(Amgen)以及赛诺菲(Sanofi)和瑞泽恩制药公司(Regeneron Pharmaceuticals)研发的。目前已经确知它们可以大幅减少所谓的“坏胆固醇”（即LDL胆固醇[低密度脂蛋白胆固醇]——译注），有时其效力甚至会超过主流降脂药物，如立普妥(Lipitor)等他汀类药物。
+What has not been known, however, is whether the drugs do what patients and doctors really care about: protect against heart attacks, strokes and other cardiovascular problems or “events.”
+然而，对于医生和患者真正关心的问题——预防心肌梗死、中风和其他心血管疾病或“事件”——这些药物的效果如何，目前尚不十分清楚。
+The early results suggest that there might be such a benefit, maybe even a big one. In small studies sponsored by the manufacturers, both drugs reduced the rate of such cardiovascular problems by about half.
+早期的研究结果表明，它们非但有益，甚至还可能是大有益处。在由药品制造商赞助的两项小型研究中，这两种药物分别将此类心血管问题的发生率减少了一半左右。
+“To see a reduction in cardiovascular events already is very encouraging that we’re on the right track,” Dr. Jennifer G. Robinson, the lead investigator in the trial of the Sanofi drug, said in an interview.
+赛诺菲药物试验的研究负责人，珍妮弗·G·鲁宾逊(Jennifer G. Robinson)博士在接受采访时说：“看到心血管事件的减少真是非常令人鼓舞，这说明我们是走在正确的道路上。”
+The studies were published in The New England Journal of Medicine and were being presented at the annual meeting of the American College of Cardiology taking place through Monday in San Diego.
+该研究发表在《新英格兰医学杂志》(The New England Journal of Medicine)上。从周一起在圣地亚哥举行的美国心脏病学会(American College of Cardiology)年会上，也对其进行了介绍。
+Researchers cautioned, however, that the studies were small and intended to assess whether the drugs lowered the bad cholesterol and were safe, not whether they staved off heart attacks. That could make the conclusions about heart attack and stroke risk less trustworthy. Judging those effects will require larger trials involving tens of thousands of people; such studies are underway and are expected to be completed by 2017.
+但是，研究人员警告说，上述研究规模较小，且研究目的是评估这些药物的安全性以及它们能否降低“坏胆固醇”，而不是它们能否避免心肌梗死。因此，据此得出心肌梗死和中风风险降低的结论，可能并不足信。要对上述效果做出可信的判断，需要进行涉及数万人的大规模试验。目前这些研究还在进行当中，预计将于2017年完成。
+“I do not think that either study answers the question definitively of cardiovascular benefit,” said Dr. Steven E. Nissen, chairman of cardiovascular medicine at the Cleveland Clinic, referring to the drug makers’ research. He was not involved in either study.
+未参与上述任何一项研究的科学家，克利夫兰诊所(Cleveland Clinic)心血管医学部主任史蒂文·E·尼森(Steven E. Nissen)表示：“我认为（药品制造商的）这两项研究都未能明确回答这些药物是否对心血管有益。”
+Researchers said long-term safety still must be assessed, especially since these drugs are reducing LDL cholesterol to levels never achieved by medicines before. While the drugs appeared generally safe, there was evidence that they could cause memory problems.
+研究人员表示仍须对这些药物的长期安全性进行评估，鉴于它们可将LDL胆固醇降低到此前通过药物从未达到的水平，尤其应当如此。虽然大体上应该是安全的，但也有证据表明，它们可能会导致记忆问题。
+Still, the findings could help smooth the way for regulatory approval, wider use of the drugs by doctors and possibly reimbursement by insurers.
+尽管如此，上述研究结果很可能有助于为这些药物获得监管部门的批准，被医生广泛应用，并纳入保险公司的报销范围铺平道路。
+The drugs, evolocumab from Amgen and alirocumab from Sanofi and Regeneron, inhibit a protein in the body called PCSK9 that helps regulate cholesterol. In the studies detailed on Sunday, both drugs reduced the bad cholesterol by about 60 percent, to about 50 milligrams per deciliter from about 120 at the start of the studies. In many cases such big reductions were achieved even though the patients were already taking statins.
+这两种新药分别是安进公司(Amgen)研发的evolocumab，以及赛诺菲和瑞泽恩(Sanofi and Regeneron)制药公司的alirocumab，它们的作用机理都是抑制PCSK9——体内的一种协助调节胆固醇的蛋白质。周日发表的文章对两项研究都进行了详细的介绍：这两种药物将“坏胆固醇”从研究开始时的每分升约120毫克降到了约50毫克，降幅达60%左右。在许多病例中，甚至在患者已在服用他汀类药物的情况下，仍然实现了如此大的降幅。
+Both drugs could win approval from the Food and Drug Administration by this summer. Analysts say the drugs will have billions of dollars in annual sales and will be taken by millions of people who cannot lower their cholesterol enough using statins alone or cannot tolerate statins. (However, the PCSK9 drugs are taken by injection every two weeks or four weeks, which could deter some users.)
+这两种药物有望在今年夏天赢得美国食品和药品监督管理局(Food and Drug Administration)的批准。分析人士预计其年销售额将达到数十亿美元，数以百万计单靠他汀类药物无法将胆固醇降低至满意水平或不能耐受他汀类药物的患者都可能选用这些药物（然而，每两周或四周一次注射给药的方式，却也会令某些用户对这些PCSK9药物望而却步）。
+Statins reduce cardiovascular risk and scientists believe it is because they decrease low-density lipoprotein, or LDL, the so-called bad cholesterol. But merely looking at cholesterol levels can be misleading. The drug niacin did not protect against heart attacks and strokes even though it raised so-called good cholesterol and modestly lowered bad cholesterol.
+科学家们认为，他汀类药物之所以可以降低心血管问题的风险，是因为它们可降低“坏胆固醇”，既即LDL低密度脂蛋白胆固醇的水平。然而，单以胆固醇水平论事可能会造成误导。例如，烟酸这种药物可以提高“好胆固醇”的水平，并可适度降低“坏胆固醇”水平，但它对心肌梗死和中风就没有预防作用。
+Insurers in particular might demand proof that the PCSK9 drugs stave off heart attacks, strokes, deaths from coronary disease and procedures to open arteries before agreeing to pay for them for many patients. Executives at CVS Health, a leading pharmacy benefits manager, recently said that PCSK9 inhibitors might cost $7,000 to $12,000 a year and would strain health care budgets because so many people might use them.
+保险公司对此尤其关注。在同意替患者为这些药物埋单之前，他们将要求研究提供明确的证据，证实PCSK9药物确实可以预防心肌梗死、中风、因冠心病死亡以及动脉扩张手术等。CVS健康公司(CVS Health)是美国名列前茅的一家医药福利管理公司，其高管最近表示，在PCSK9抑制剂上的年花费预计达7000美元至12000美元，由于使用者人数众多，它将给医疗预算带来沉重的压力。
+“Managed care pharmacy, indeed the health care system, has never seen a challenge like this to our resilience in absorbing costs,” they wrote in the Health Affairs blog.
+他们在健康事务(Health Affairs)网站的博客中写道：“保健药学管理，实际上，整个卫生系统都未曾面临过像这样的对吸纳成本适应能力的严峻挑战。”
+Whether the results from these two small studies will be persuasive enough remains to be seen.
+至于这两项小型研究的结果是否具有足够的说服力，还有待观察。
+The study of Amgen’s evolocumab involved 4,465 patients with various degrees of risk, two-thirds of whom were randomly chosen to get the drug in addition to the medication they were already taking. After one year, 0.95 percent of those in the group that received the drug had suffered a heart attack, stroke or other cardiovascular problem, compared with 2.18 percent in the group that did not take the drug. By a measure known as the hazard ratio, the risk of cardiovascular events was reduced by 53 percent.
+安进公司的evolocumab研究纳入了4465名风险程度不一的患者，从中随机选择了三分之二在已服用药物的基础上使用新药。一年后，接受新药的那组患者中只有0.95%发生过心肌梗死、中风或其他心血管问题，相比之下，未服用此药的那组患者中该比例为2.18%。以风险比(hazard ratio)这一指标衡量时，心血管事件的风险降低了53%。
+The alirocumab study involved 2,341 patients. After one and a half years, the rate of cardiovascular events was 1.7 percent in those who received the drug, versus 3.3 percent in those who received a placebo, a risk reduction of 48 percent.
+关于alirocumab的研究入组了2341名患者。一年半之后，在接受该药的患者中心血管事件的发生率为1.7%，而在接受安慰剂的患者中为3.3%，风险降低了48%。
+Dr. Sanjay Kaul, a cardiologist at Cedars-Sinai Medical Center in Los Angeles, said analyses of one measure from trials meant to assess other things were “notorious for not being reliable.” He said the results would not be sufficient to support widespread use of and reimbursement for the drugs.
+希德斯-西奈医疗中心（Cedars-Sinai Medical Center，位于美国洛杉矶）的心脏病专家桑贾伊·考尔(Sanjay Kaul)博士表示，拿一项对旨在评估其他问题的试验中的指标来说事儿“实在不靠谱”。他认为这些结果不足以支持广泛使用这些药物并将其纳入报销范围。
+He noted, for instance, that the alirocumab trial used a narrower definition of cardiovascular events than the evolocumab trial used. Using a broader definition, alirocumab did not provide a statistically significant reduction in cardiovascular problems.
+例如，他指出，alirocumab试验中使用的心血管事件定义要比evolocumab试验中的窄。如果使用更宽泛的定义，那么alirocumab减少心血管问题的效果就失去了统计学显著意义。
+The evolocumab study, for its part, did not use a placebo, so patients and doctors knew who was getting the drug, which could have affected the outcome.
+至于evolocumab研究，由于它没有使用安慰剂，患者和医生们都知道哪些人接受了新药而哪些人没有，这也可能对患者的预后造成影响。
+But Dr. Marc S. Sabatine, a cardiologist at Brigham and Women’s Hospital and the lead investigator of the evolocumab study, said the fact that both trials had similar results was reassuring, suggesting the effect was real. The results were also plausible, he said, because people who have genetic mutations that reduce their PCSK9 levels have very low rates of heart attacks.
+但evolocumab研究的负责人，布莱根妇女医院(Brigham and Women’s Hospital)的马克·S·萨巴蒂尼(Marc S. Sabatine)博士称，这两项试验得到了类似的结果，这项事实本身就说明结果可靠，那些效果是真实存在的。他还说，会发生这些结果也尤其合理性，因为带有基因突变，致使PCSK9水平偏低的人心肌梗死的发生率就很低。
+Dr. Sabatine and Dr. Robinson have been paid consultants to the companies sponsoring the trials they led.
+萨巴蒂尼博士和鲁宾逊博士均在资助他们负责的研究的那些公司中担任有酬顾问。

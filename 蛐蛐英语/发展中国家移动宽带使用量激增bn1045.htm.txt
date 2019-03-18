@@ -1,0 +1,22 @@
+TOKYO — Why are smartphone makers paying so much attention to developing countries? That is where the growth, and the potential for more of it, is concentrated. A new report from the United Nations Broadband Commission demonstrates this in considerable detail.
+东京——为什么智能手机制造商会如此关注发展中国家？因为那里是产业增长集中的地方，也是最具发展潜力的地方。联合国宽带委员会(United Nations Broadband Commission)的一份相当详细的报告证明了这一点。
+By the end of this year, the report says, the number of mobile broadband connections worldwide will rise to 2.1 billion, nearly three times the total of fixed-line subscriptions.
+这份报告显示，到今年年底全世界使用移动宽带的人数将会增加至21亿，几乎是固网宽带用户总数的3倍。
+That may be just a start. In China, for example, there were still only 17 mobile broadband subscriptions per 100 inhabitants in 2012, according to the report. But Internet use is surging there and smartphone providers are proliferating.
+这或许只是个开始。比如，该报告数据显示，2012年中国每100个居民中只有17人使用移动宽带。但现在中国互联网用户激增，智能手机提供商也越来越多。
+Two other Asian countries, Singapore and Japan, were in the lead in per-capita mobile broadband use, with 123 and 113 subscriptions per 100 inhabitants – meaning that some people have more than one Internet-connected mobile device.
+另外两个亚洲国家——新加坡和日本在人均移动宽带使用量上领先，每100名居民中分别有123和113个移动宽带用户账号，也就是说有些人拥有一台以上的联网移动设备。
+Strikingly, some developing countries like Oman and Kazakhstan ranked ahead of wealthy nations like Switzerland and Germany in mobile broadband penetration. The mobile Internet has enabled some developing countries to leapfrog ahead, letting telecommunications companies and consumers skip over fixed-line broadband.
+令人吃惊的是，在像阿曼和哈萨克斯坦这样的发展中国家，移动宽带的用户数量排在像瑞士和德国这样的富裕国家前面。移动互联网使一些发展中国家有了跃进式的发展，让电信公司和用户略过固网宽带的阶段。
+“The marriage of mobile with modern-day Internet via mobile broadband is opening up new vistas of opportunity – mobile broadband may well ‘bridge the gap’ between the connected and the unconnected,’’ the report, which was published this week, says.
+本周发布的这份报告称，“将手机与现代互联网结合起来的移动宽带正迎来新的机遇，移动宽带或许可以很好地‘弥合’互联网用户和非互联网用户之间的差距。”
+The gains are uneven, though. In much of Africa and parts of Latin America, mobile broadband penetration is still in the single digits per 100 inhabitants. The goals of the U.N. Broadband Commission include closing the digital divide.
+然而增长是不均衡的。在非洲大部分地区和拉丁美洲部分地区，每100个居民中移动宽带账户数量仍只有个位数。减少数码层面的差异，是联合国宽带委员会的其中一项目标。
+Over all, including fixed-line and mobile connections, the number of broadband users in developing countries is set to exceed the number in wealthy countries this year, the report says.
+该报告称，整体来看，包括固网宽带和移动宽带在内，发展中国家的宽带用户数量有望会在今年超过富裕国家。
+In fixed-line broadband connections, Europe does best, with nine of the top 10 countries. They are led by Switzerland, with 41.9 subscriptions per 100 residents in 2012.
+欧洲在固网宽带方面领先，排名前10的国家中有9个是欧洲国家。其中瑞士居首，2012年该国每100个居民中有41.9个固网宽带账号。
+In Internet use, too, Europe is in the lead, with eight of the top 10 places; Iceland ranks first, with 96 percent of the population using the Internet.
+在使用互联网方面，欧洲也处于领先地位，排名前10的地区中有8个来自欧洲；其中冰岛居首，该国有96%的人口是宽带用户。
+The United States is not a standout performer by either of these measures, ranking 20th in fixed-line broadband penetration and 24th in Internet use. It does better in wireless broadband connections, where it ranks ninth.
+美国在这两方面的表现都不突出，在固网宽带覆盖中排名第20，在互联网使用方面排名第24。但在无线宽带连接方面表现靠前，排名第9。

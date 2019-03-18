@@ -1,0 +1,40 @@
+SAN FRANCISCO — Google has spent months and millions of dollars encrypting email, search queries and other information flowing among its data centers worldwide. Facebook’s chief executive said at a conference this fall that the government “blew it.” And though it has not been announced publicly, Twitter plans to set up new types of encryption to protect messages from snoops.
+旧金山——谷歌(Google)耗时数月，花费数百万美元为其电子邮件、搜索关键字及其分布在世界各地的数据中心之间的信息流进行了加密。Facebook首席执行官在今年秋天举行的一次会议上表示，政府把事情“搞砸了”。而Twitter虽然还未公开宣布，但也计划建立新型的加密系统以保护信息免受窥探。
+It is all reaction to reports of how far the government has gone in spying on Internet users, sneaking around tech companies to tap into their systems without their knowledge or cooperation.
+种种报道显示，政府的做法已经过分到了何等地步：它在监视互联网用户，并且绕过科技公司，在企业不知情或拒绝配合的情况下，偷偷潜入了它们的系统。上述的反应正是源于这些报道。
+What began as a public relations predicament for America’s technology companies has evolved into a moral and business crisis that threatens the foundation of their businesses, which rests on consumers and companies trusting them with their digital lives.
+对于美国科技公司而言，情况已经从起初的公关困境，上升为道德及商业危机，开始威胁它们开展业务的根基，那就是消费者和企业信任这些科技公司，并将自己的数字生活的托付给这些公司。
+So they are pushing back in various ways — from cosmetic tactics like publishing the numbers of government requests they receive to political ones including tense conversations with officials behind closed doors. And companies are building technical fortresses intended to make the private information in which they trade inaccessible to the government and other suspected spies.
+于是，它们用各种方式进行抵抗，从并不涉及实质的措施，譬如公布政府提出了多少次要求；到政治性的举动，包括与官员在幕后进行气氛紧张的谈话。科技公司也正在构筑技术堡垒，以期确保它们在经营中所需的那些私人信息，不会被政府和其他有间谍嫌疑的人取得。
+Yet even as they take measures against government collection of personal information, their business models rely on collecting that same data, largely to sell personalized ads. So no matter the steps they take, as long as they remain ad companies, they will be gathering a trove of information that will prove tempting to law enforcement and spies.
+然而尽管采取措施防止政府收集个人信息，但科技公司的商业模式也依赖于收集相同的数据，目的基本上是销售有针对性的个性化广告。因而无论采取什么措施，只要它们作为广告公司的性质不变，它们就会收集大批信息，这些信息就会引来执法机关和间谍的垂涎。
+When reports of surveillance by the National Security Agency surfaced in June, the companies were frustrated at the exposure of their cooperation with the government in complying with lawful requests for the data of foreign users, and they scrambled to explain to customers that they had no choice but to obey the requests.
+关于美国国家安全局（National Security Agency，简称NSA）监控、监听行动的报道在6月浮出水面后，科技公司配合政府，遵照合法要求提供外国用户数据一事遭到曝光。这些科技公司因而深感沮丧，慌忙向客户解释，当时除了服从，别无选择。
+But as details of the scope of spying emerge, frustration has turned to outrage, and cooperation has turned to war.
+但随着关于间谍行动规模的细节不断披露出来，科技公司的沮丧转为愤怒，配合也变成了对抗。
+The industry has learned that it knew of only a fraction of the spying, and it is grappling with the risks of being viewed as an enabler of surveillance of foreigners and American citizens.
+科技业界得知，它们了解到的间谍行动仅为冰山一角，而且极有可能被视为监控外国人和美国公民的帮凶。
+Lawmakers in Brazil, for instance, are considering legislation requiring Google to store the data of local users in the country. European lawmakers last week proposed a measure to require American Internet companies to receive permission from European officials before complying with lawful government requests for data.
+比如，巴西议员已经开始考虑进行立法，要求谷歌将当地用户的数据储存在巴西国内。欧洲的议员上周也提议采取措施，要求美国的互联网企业在配合政府的合法要求提供数据之前，先要获得欧洲官方的许可。
+“The companies, some more than others, are taking steps to make sure that surveillance without their consent is difficult,” said Christopher Soghoian, a senior analyst at the American Civil Liberties Union. “But what they can’t do is design services that truly keep the government out because of their ad-supported business model, and they’re not willing to give up that business model.”
+“科技公司，特别是其中几家，已经开始采取措施，确保难以在未经这些公司许可的情况下进行监控，”美国公民自由联盟(American Civil Liberties Union)高级分析师克里斯托弗·索格伊安(Christopher Soghoian)说道。“但由于它们采取靠广告支持的商业模式，而且它们不愿摒弃这种模式，因而无法设计出真正能把政府拒之门外的服务。”
+Even before June, Google executives worried about infiltration of their networks. Reports on Wednesday that the N.S.A. was tapping into the links between data centers, the beating heart of tech companies housing user information, confirmed that their suspicions were not just paranoia.
+早在6月之前，谷歌高层已开始担心他们的网络遭到渗透。根据周三的报道，NSA曾监控数据中心之间的连接，数据中心是科技公司储存用户信息的心脏部位。这一报道确认了他们的疑虑并非疑神疑鬼臆想。
+In response, David Drummond, Google’s chief legal officer, issued a statement that went further than any tech company had publicly gone in condemning government spying. “We have long been concerned about the possibility of this kind of snooping,” he said. “We are outraged at the lengths to which the government seems to have gone.”
+作为回应，谷歌首席法律官戴维·德拉蒙德(David Drummond)发表声明，谴责了政府的间谍行为，措辞比其他任何科技公司的公开声明都要严厉。“我们一直担心有可能发生类似的窥探行为，”他表示。“但政府似乎采取了十分处心积虑的做法，让我们感到愤怒。”
+A tech industry executive who spoke only on the condition of anonymity because of the sensitivities around the surveillance, said, “Just based on the revelations yesterday, it’s outright theft,” adding, “These are discussions the tech companies are not even aware of, and we find out from a newspaper.”
+由于监控事关敏感，一位科技企业的高管要求在保持匿名的情况下表达意见。他说，“仅从昨天曝光的情况来看，这是赤裸裸的盗窃。”他还补充道，“讨论的这些情况，科技公司完全被蒙在鼓里，我们都是从报纸上得知的。”
+Though tech companies encrypt much of the data that travels between their servers and users’ computers, they do not generally encrypt their internal data because they believe it is safe and because encryption is expensive and time-consuming and slows down a network.
+尽管科技公司会对用户和服务器之间交换的大部分数据进行加密，但一般不对各自的内部数据加密，因为它们认为系统自身是安全的，而且加密昂贵、耗时，并且会降低网络的速度。
+But Google decided those risks were worth it. And this summer, as it grew more suspicious, it sped up a project to encrypt internal systems. Google is also building many of its own fiber-optic lines through which the data flows; if it controls them, they are harder for outsiders to tap.
+但面临种种风险，谷歌认为值得进行加密。今年夏天，谷歌的疑虑加重了，于是加快了对其内部系统的加密。谷歌也在自行安装很多光纤线路，用于数据交换。如果谷歌进行控制，外界就更难潜入其中。
+Tech companies’ security teams often feel as if they are playing a game of Whac-a-Mole with intruders like the government, trying to stay one step ahead.
+科技公司的安全团队经常感觉自己在和像政府这样的入侵者玩“打地鼠”的游戏，总要努力保持领先一步。
+Google, for instance, changes its security keys, which unlock encrypted digital data so it is readable, every few weeks. Google, Facebook and Yahoo have said they are increasing the length of these keys to make them more difficult to crack.
+例如，每隔几周，谷歌就会更换用于解开加密数据的密钥。谷歌、Facebook和雅虎(Yahoo)都已表示，要增加密钥的长度，使其更难以破解。
+Facebook also said it was adding the encryption method of so-called perfect forward secrecy, which Google did in 2011. This means that even if someone gets access to a secret key, that person cannot decrypt past messages and traffic.
+Facebook也表示已增加了被称为“完全正向保密”(perfect forward secrecy)的加密方式，谷歌在2011年就已如此设置。通过这种加密方式，他人即便取得了密匙，也不能对之前的信息和数据交换进行解密。
+“A lot of the things everybody knew they should do but just weren’t getting around to are now a much higher priority,” said Paul Kocher, president and chief scientist of Cryptography Research, which makes security technologies.
+研究安全技术的密码研究公司(Cryptography Research)总裁兼首席科学家保罗·科克(Paul Kocher)表示，“有很多事，每个人都知道应该做，但过去无暇顾及，现在都成了重中之重。”
+Facebook said in July that it had turned on secure browsing by default, and Yahoo said last month that it would do the same for Yahoo Mail early next year. And Twitter is developing a variety of new security measures, including encrypting private direct messages, according to a person briefed on the measures.
+Facebook在7月表示，已经开启了默认的安全浏览模式。雅虎也在上个月宣布，明年初会对雅虎邮箱进行同样的设置。对Twitter安全措施有所了解的一名人士透露，Twitter也正在研发多种新的安全措施，包括对私信进行加密。

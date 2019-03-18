@@ -1,0 +1,16 @@
+Oysters appear to be an important link in the transmission of norovirus among humans, according to new research from China.
+中国的一项新研究表明，牡蛎或是诺如病毒(Norovirus)人际传播的重要途径。
+Norovirus — better known as “cruise-ship flu,” “stomach flu” or “winter vomiting flu” — is one of the world’s most common causes of gastrointestinal distress. Although most patients recover after a few days of misery, and sometimes ruined vacations, the virus can be lethal to infants, older adults and people with weak immune systems.
+诺如病毒，又被成为“船舶流感”、“肠胃流感”或“冬季呕吐流感”，是世界上引发胃肠痛最常见的病因之一。大部分病患痛苦几天后得以康复，这有时会毁了他们的假期。不过该病毒对婴儿、老人以及免疫力低下的人是致命的。
+It is highly infectious — especially in confined environments like ships — but exactly how it is transmitted has been a mystery. The unwashed hands of food workers have been blamed. But recently, scientists at North Carolina State built a “vomiting machine” that showed tiny infectious droplets of vomit can fly through the air to infect other people, just as droplets from a sneeze do.
+诺如病毒传染性极高，特别是在一些类似于船舶的狭窄环境中。不过它是如何传播的仍是个谜。有些人指责那些未洗手就工作的食品制造工人。近日，北卡罗莱纳州的科学家们制造了一个“呕吐机”。研究显示呕吐物的微小传播飞沫可以通过空气传染给其他人，就像是打喷嚏喷出的飞沫一样。
+In the current study, published last month in Applied and Environmental Microbiology, researchers analyzed the genetic sequences of 1,077 samples of noroviruses found in oysters. Some sequences had been stockpiled in genetic databases since 1983.
+《应用与环境微生物学》杂志上个月发表了一项研究关于诺如病毒的研究。研究人员分析了1,077例携带诺如病毒的牡蛎的基因序列。一些基因序列从1983年就已经存入了基因数据库中。
+The scientists found that 80 percent of the known human noroviruses matched those found in oysters. The majority of the matches were in oysters from coastal waters, more likely to be contaminated with human sewage.
+科学家发现80%已知的在人体上发现的诺如病毒与牡蛎上发现的相匹配。大部分相匹配的牡蛎是来自沿海水域，可能是被人类污水感染。
+Noroviruses mutate very quickly, as do influenza viruses, and big outbreaks usually begin after a new strain emerges. There was a “convergence” between new strains circulating in oysters and those circulating in humans, the researchers also found.
+诺如病毒的突变速度很快，就像是流感病毒一样。新型病毒的出现往往会引起病毒大爆发。研究人员发现，牡蛎间与人际间传播的新型病毒会发生融合。
+Yongjie Wang, a food science specialist at Shanghai Ocean University and lead author of the study, concluded that oysters were an important reservoir for human noroviruses — a place where they can hide between outbreaks and mutate. They also can be transmitted back to humans, presumably when oysters are eaten raw.
+王永杰是上海海洋大学的食品科学专家，也是该研究的第一作者。他认为牡蛎是人类患有的诺如病毒的重要宿主。从病毒爆发到突变之间，诺如病毒会隐藏其中。大概是人们生吃牡蛎时，牡蛎也可以再次将病毒传回人类。
+A way to detect noroviruses in oyster flesh and in the beds where they grow needs to be developed, Dr. Wang said.
+王博士说，他们仍需要进一步研究出一种方法，以探测牡蛎肉中诺如病毒和牡蛎河床生长环境中的病毒。

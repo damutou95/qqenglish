@@ -1,0 +1,34 @@
+TOKYO — Another big investment has deepened a struggle for primacy among China’s online giants.
+东京——又一笔巨大投资加剧了中国互联网巨头之间争夺主导权的竞争。
+Tencent Holdings, the biggest Internet company in China, said Monday that it had invested $448 million for a 36.5 percent stake in Sogou, a search engine. The move helps Tencent, which provides popular online games, social networking and Internet messaging services, keep pace with its main rivals, Alibaba and Baidu, which have been moving to challenge Tencent with deals of their own.
+中国最大的互联网公司腾讯控股周一宣布，该公司已注资4.48亿美元（约合27.4亿元人民币）收购了搜索引擎搜狗36.5%的股份。腾讯提供热门互联网游戏、社交网络和互联网聊天等服务，这笔投资让腾讯能与其主要竞争对手阿里巴巴和百度保持同步，那两家公司都在进行各自的交易以挑战腾讯。
+As the Chinese Internet continues to boom, the stakes are growing. This week, the stock market capitalization of Tencent climbed above $100 billion, only a few billion short of the value of Facebook. Like its main rivals, Tencent has mostly focused on the Chinese market, though it has been trying to expand its international presence.
+随着中国互联网继续迅速发展，公司资产的规模也在增加。本周，腾讯的股票市值上升到超过1000亿美元的总额，比Facebook的市值仅低几十亿。与其主要竞争对手一样，腾讯主要瞄准中国市场，虽然公司也一直在尝试往国际上扩张。
+Sogou, which is owned by a company called Sohu.com, is only the third-largest search engine in China, with a 10 percent share of searches in August, according to CNZZ, a research firm. Baidu led the way, with 63 percent, followed by Qihoo 360, with 18 percent.
+搜狗归搜狐公司所有，在中国的搜索引擎中只排名第三，根据调查公司CNZZ的数据，搜狗在8月份的搜索市场份额占有率为10%。百度遥遥领先，占有率为63%，之后是奇虎360，占有率为18%。
+Still, Sogou was courted by Tencent, Qihoo and Alibaba. The rivalry between Alibaba and Tencent has been fierce, with each company moving in recent months to expand its range of Internet services in an effort to outflank the other.
+尽管如此，腾讯、奇虎和阿里巴巴都在设法获得搜狗。阿里巴巴和腾讯之间的竞争一直很激烈，最近几个月双方都在扩大各自的互联网服务范围以期超过对方。
+Tencent, with fast-growing messaging services like QQ and WeChat, is strong on mobile devices, but until recently it lacked strength in areas like e-commerce. Alibaba, on the other hand, is the Chinese leader in e-commerce, but weaker in search and mobile services.
+腾讯的QQ和微信等聊天服务快速增长，在移动设备上具有优势，而直到最近，该公司在电子商务等方面缺乏实力。而阿里巴巴虽然是中国电子商务的领军者，但在搜索和移动服务方面却相对较弱。
+In August, Alibaba moved to block online retailers on its sites from using WeChat, which has emerged as a powerful marketing tool. Tencent then added online payment features to WeChat.
+8月份，阿里巴巴采取行动，禁止其网站上的零售商使用微信服务，该服务已成为一个强大的营销工具。其后，腾讯给微信增加了网上支付功能。
+By forging a partnership with Sogou, Tencent may have sought to defend its own turf rather than letting Alibaba open up a new front, analysts said.
+分析人士说，腾讯与搜狗联手，与其说是为了不让阿里巴巴开辟新领地，更有可能是为了保住自己的现有地盘。
+“Tencent could not let Alibaba get a search engine,” said Bryan Wang, an analyst at Forrester Research. “It’s really about buying something that could potentially have been very beneficial to its rival.”
+弗雷斯特研究公司(Forrester Research)分析师王平(Bryan Wang)说，“腾讯不会让阿里巴巴得到一个搜索引擎。这只不过是买下可能会对竞争对手大有裨益的东西。”
+Last spring, Alibaba threw down the gauntlet, agreeing to pay $586 million for an 18 percent stake in Sina Weibo, a microblogging service that resembles Twitter. That moved Alibaba into more direct competition with Tencent, as WeChat and Weibo compete for users. Alibaba followed up that deal with a $294 million investment in AutoNavi, an online mapping company.
+阿里巴巴在今年春天发出挑战，同意支付5.86亿美元收购新浪微博18%的股份，新浪微博是类似于Twitter的服务。这使阿里巴巴与腾讯的竞争更加直接，因为微博和微信相互争夺用户。随后阿里巴巴再次出手，给一家互联网地图公司高德软件投资2.94亿美元。
+Not to be outdone, Baidu followed up with the biggest Internet deal to date in China, a $1.9 billion agreement to acquire 91 Wireless, which operates mobile application stores.
+百度也不甘示弱，紧跟着做了中国互联网行业迄今最大的一笔交易，用19亿美元收购了经营移动应用软件商店的公司：91无线。
+Although mobile and e-commerce business has been booming, search is still growing, too. Revenue from search in China grew 35 percent from a year earlier, according to iResearch, a consulting firm. Baidu accounted for 81 percent of the 9.28 billion renminbi, or about $1.5 billion, in quarterly total revenue, the firm said. At only 3.3 percent, according to iResearch, Sogou’s slice of the revenue pie was considerably smaller than its share of searches.
+移动和电子商务业务一直增长迅速，搜索业务也仍在增长。根据咨询公司iResearch的数据，中国搜索业务带来的收入比一年前增长了35%。该公司称，在92.8亿元人民币的季度总收入中，百度占有81%，搜狗只占3.3%，搜狗的收入占有率，比其在搜索市场的份额占有率要小得多。
+“This partnership will immediately expand Sogou’s market presence and significantly elevate its position in the highly competitive PC search market, and even more so in the rapidly evolving mobile search market,” said Charles Zhang, the chief executive of Sohu.
+搜狐总裁张朝阳说，“与腾讯的战略合作将扩大搜狗的市场占有率，提升搜狗在竞争激烈的PC搜索市场，以及快速发展的移动搜索市场上的领先地位。”
+Before the announcement Monday, Qihoo 360 had been seen as the front-runner to acquire part or all of Sogou. Executives of the two companies had acknowledged holding talks.
+在周一的宣布发出之前，奇虎360被认为是最有可能收购搜狗部分或者全部股份的公司。这两家公司的高管都曾承认他们在举行谈判。
+Tencent said that under the agreement with Sohu.com, it had the option of increasing its stake in Sogou to “approximately 40 percent.”
+腾讯称，根据其与搜狐达成的协议，腾讯可以将其持有的搜狗股份增加到“约40%”。
+Tencent plans to combine its search engine, called Soso, with Sogou, and the two companies said they would cooperate on the development of new services.
+腾讯计划要将其旗下的搜索引擎搜搜与搜狗合并，这两家公司称，他们将合作开发新服务。
+“We are confident that Sogou, after combination with Soso, will deliver superior search experiences to users on our social, browser and content platforms, especially on the mobile front,” Ma Huateng, chief executive of Tencent, said in a news release.
+腾讯总裁马化腾在一次新闻发布会上说，“我们相信搜狗和搜搜合并之后，将会在腾讯的社交、浏览器和内容平台，特别是在移动端为用户提供更好的搜索体验。”

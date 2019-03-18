@@ -1,0 +1,18 @@
+WASHINGTON — The main tool available in the search for the missing jet operating as Malaysia Airlines Flight 370 is imprecise and awkward, and unfamiliar to the investigators using it, but it is all they have.
+华盛顿——可以用来寻找像马来西亚航空(Malaysia Airlines)370这样消失的航班的主要工具并不精确，而且不好用，对于使用它的调查人员来说还是种陌生的事物。然而，他们别无选择。
+They lack the four ordinary ways of finding an airplane: primary radar, which sends out radio signals and listens for echoes that bounce back from objects in the sky; secondary radar, in which the plane answers an electronic query and sends back a message giving its identification number and altitude; automated transmissions from the plane to a maintenance base; and oral reports by radio from the cockpit crew.
+他们缺少寻找飞机的四种常规方式：初级雷达，这种雷达能发出无线电讯号，然后监测空中物体反射回来的电波；次级雷达，这种雷达可以向飞机发出电子问询，然后飞机回发信息，提供自己的识别号和海拔高度；飞机自动向维护基地传输的信息；以及驾驶人员通过无线电发出的口头报告。
+The plane was out of range of ground-based radar by the time it disappeared March 8 shortly after takeoff, and the secondary radar and automated transmission systems were not working and possibly turned off. There was no word from the pilots or crew.
+3月8日，飞机在起飞不久后消失，当时它已经脱离了地基雷达的监测范围。次级雷达和自动传输系统也已停止工作，而且有可能是人为关闭的。此外，飞行员或机组人员没有留下任何话语。
+What investigators are left with is an hourly electronic “handshake,” or digital communication, between the airplane and a satellite orbiting 22,250 miles above the Indian Ocean. The satellite is in a geosynchronous orbit, meaning that it appears to hang in a fixed spot above the Earth.
+所以，留给调查人员的只有每小时一次的电子“握手”，即飞机与在印度洋上空22250英里（约合35808公里）运行的一颗卫星之间的数字通讯。这颗卫星处于对地同步轨道，也就是说，它始终处于地球上空的同一个地方。
+But the handshake is mostly devoid of data, and cannot be used to pinpoint the plane’s last known location. It is the electronic equivalent of catching someone’s eye in the crowd; all it does is establish the angle between the satellite and the plane.
+然而，这种信号交换基本不包含什么数据，无法用于确定飞机的最后位置。它是人群中两人眼神接触的电子版本，能做的只是确定卫星与飞机之间的夹角。
+At a news conference on Saturday, Malaysia’s prime minister, Najib Razak, released a map showing the two geographic arcs where the last satellite signal sent from the plane could have come from. One arc extended north from Thailand to Kazakhstan, the other south from Indonesia to the southern Indian Ocean, about 1,000 miles west of Australia.
+在周六的一次新闻发布会上，马来西亚总理纳吉布·拉扎克(Najib Razak)公布了一张地图，地图上显示了两条地理弧线，也就是飞机最后发送卫星信号时所处的可能位置。一条弧线从泰国向北延伸至哈萨克斯坦，另一条弧线从印度尼西亚向南延伸至南印度洋——澳大利亚以西大约1000英里的地方。
+The satellite handshakes formed a circle all the way around the Earth, but only part of the circle — the two arcs — is relevant to the search because the plane would have run out of fuel beyond the end of each arc. American investigators say the southern arc is of more interest.
+这种卫星信号交换绕着地球勾勒出了一个圆圈，但只有部分圆圈——也就是前述的两条弧线——属于搜索范围，因为飞机会在飞出弧线之前耗尽燃料。美国的调查人员称，南方弧线的可能性更大。
+Malaysia declared Saturday that the plane had been deliberately diverted, and that the search had become a criminal inquiry. Work by international and Malaysian investigators might have helped the prime minister see the clues from the satellite communications — along with changes in direction made by the plane after communications with the ground ceased — as sinister rather than accidental.
+周六，马来西亚宣布飞机被蓄意改变航向，搜索行动已演变为刑事调查。外国及马来西亚调查人员的工作可能已经帮助马来总理将卫星通讯提供的线索，以及飞机在与地面中断通讯后改变航向的举动——看作出于恶意，而不是意外。
+“You look at the facts that you have, and you have to try to make all the pieces fit together,” an American investigator said.
+一名美国调查人员表示，“我们要着眼于已知的事实，努力将它们拼凑起来。”

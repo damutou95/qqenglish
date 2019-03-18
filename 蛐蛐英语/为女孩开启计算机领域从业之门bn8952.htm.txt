@@ -1,0 +1,38 @@
+WHEN Julia Geist was asked to draw a picture of a computer scientist last year, the 16-year-old sketched a businessman wearing glasses and a tie. Looking around at her classmates’ drawings, she saw similar depictions of men.
+去年，当有人让16岁的朱莉娅·盖斯特(Julia Geist)画一幅计算机科学家的画像时，她描出一个戴着眼镜和领带的男商人。环顾四周，她看到同学们也绘出了相似的男性形象。
+Now, Ms. Geist said, “I see a computer scientist could be anyone” — including herself.
+如今，盖斯特说，“我知道计算机科学家可能是任何人”，包括她自己。
+Her new perspective is a victory for Girls Who Code. As part of an eight-week program with the Manhattan-based nonprofit group, Ms. Geist and 19 other high school girls learned software programming, public speaking, product development and other skills to prepare them for jobs in the technology industry.
+她的新观点是“编程女生”(Girls Who Code)组织的一个胜利。盖斯特参加了这个位于曼哈顿的非营利组织举办的一个为期八周的活动，与另外19名高中女孩一起学习软件编程、公众演讲、产品开发，以及其他技能，为她们将来在技术领域工作做准备。
+Girls Who Code is among the recent crop of programs intended to close the gender gap in tech by intervening early, when young women are deciding what they want to study. With names like Hackbright Academy, Girl Develop It, Black Girls Code and Girls Teaching Girls to Code, these groups try to present a more exciting image of computer science.
+“编程女生”是近来许多旨在缩小技术领域性别差距的项目中的一个，这些项目的做法是，在年轻女性决定将来学什么专业时，较早地介入，项目的名称各异，有“黑客布莱特学院”(Hackbright Academy)、“女生开发”(Girl Develop It)、“黑妹编程”(Black Girls Code)和“姐妹互助学编程”(Girls Teaching Girls to Code)等，这些组织试图让计算机科学看起来更激动人心。
+The paucity of women in the tech industry has been well documented. Even though women represent more than half the overall work force, they hold less than a quarter of computing and technical jobs, according to the National Center for Women and Information Technology based at the University of Colorado, Boulder. At the executive and founder levels, women are even scarcer.
+有各种资料早已证明技术领域女性的稀缺。根据位于科罗拉多大学博尔德分校(University of Colorado, Boulder)的妇女与信息技术国家中心(National Center for Women and Information Technology)的数据，虽然女性在总劳动人口中占一半以上，然而在计算机和技术行业中，女性还不到从业人数的四分之一。在高层管理和企业创始人中，女性就更少了。
+A variety of advocacy and networking groups have tried to address the problem by coaching women on building start-ups, raising venture capital and climbing the management ranks at big companies. Most recently, Sheryl Sandberg, the chief operating officer of Facebook, published a best-selling book, “Lean In,” that was a call to arms for women to pursue their ambition in the workplace.
+各种倡导和联络组织也在努力解决这个问题，辅导女性建立创业公司、吸引风险投资，以及如何升入大公司的管理层。最近，Facebook的首席运营官谢莉尔‧桑德伯格(Sheryl Sandberg)出版了一本畅销书《进取》(Lean In)，这本书为女性追求她们的职场抱负吹响了号角。
+Even so, the number of women entering technology has been declining. Women earn just 12 percent of computer science degrees, down from 37 percent in 1984. Tech executives, recruiters and financiers say women simply do not walk through their doors seeking work.
+即便如此，进入技术领域的女性人数还是一直在减少。在获得计算机科学学位的人群中，女性只占12%，比1984年的37%下降了不少。技术界的管理者、招聘人员和投资者表示，女性根本就不会去那些领域找工作。
+“We actively recruit women, but there’s just not that many women who want to do this kind of work and are equipped to do the work from their education,” said Adam Messinger, the chief technology officer at Twitter, who is on the board of Girls Who Code.
+Twitter的首席技术官亚当·梅辛格(Adam Messinger)也是“编程女生”的董事会成员，他说，“我们一直在积极招聘女性员工，可是既愿意做这类工作，而且所受的教育也适于从事这类工作的女性，并没有那么多。”
+So the industry is trying a new approach. It is tackling the problem long before women start their careers, by teaching girls the basic skill of writing code.
+所以，工业界正在尝试一种新的方法。早在女性开始职业生涯之前，就着手解决这个问题，教会女孩们基本的编程技能。
+“We have to get women on the right side of the computer,” said Margit Wennmachers, a partner at Andreessen Horowitz, a venture capital firm in Silicon Valley. Knowing a programming language is becoming essential not just for engineers, she added, but also for women who want to be tech executives or deal-makers or pursue other careers, from medicine to fashion.
+硅谷风险投资公司安德森-霍洛维茨基金(Andreessen Horowitz)的合伙人玛吉特·温马彻斯(Margit Wennmachers)说，“我们需要让女性喜欢计算机。”她补充说，了解编程语言正变得至关重要，不仅对工程师来说是这样，而且对于想要成为技术领域高层管理者、或交易能手的女性，或从事其他从医药到时尚等行业的女性来说，也是这样。
+“The dividing line is learning to code,” Ms. Wennmachers said. “You either tell the computer what to do and you’ve got lots of great career options. Or the computer tells you what to do and you end up working in a shoe store.”
+温马彻斯说，“分水岭就是学会编程。或者是，你告诉计算机怎么做，这样你会有很多很好的职业选择。或者是，计算机告诉你怎么做，这样你就只能在一家鞋店工作。”
+Groups like Girls Who Code are part of a national movement to recruit young people to software development and remain competitive with other economies. A new group, code.org, for example, has people like Mark Zuckerberg of Facebook and Bill Gates of Microsoft pushing for all schools to teach children to code.
+“编程女生”这样的组织是一个全国运动的一部分，目的是为了吸引年轻人进入软件开发行业，以保持与其他经济体的竞争力。举例来说，一个名为code.org的新组织，得到Facebook的马克·扎克伯格(Mark Zuckerberg)和微软(Microsoft)的比尔·盖茨(Bill Gates)等人的支持，正在推动所有的学校教孩子们编程。
+But the need is most urgent for girls, said Reshma Saujani, who founded Girls Who Code last year. Roughly 74 percent of girls in middle school express an interest in engineering, science and math, she said. But by the time they get to college, just 0.3 percent choose computer science as a major.
+但是，拉什玛·桑贾妮(Reshma Saujani)表示，这种需求对于女生更为迫切。桑贾妮去年创办了“编程女生”，她说，约有74%的初中女生对工程、科学和数学表达了兴趣。但到上大学时，只有0.3%会选择计算机科学专业。
+Ms. Saujani, the daughter of two engineers who were refugees from Uganda, developed the idea while she was running for Congress, a race that she lost. As she traveled from school to school on the campaign trail, she said she saw the same thing over and over: computer science classrooms without a single girl.
+桑贾妮的父母是来自乌干达的难民，都是工程师。她是在竞选国会议员时，产生了创建“编程女生”想法的，她的竞选失败了。在竞选过程中，她走访了一所又一所学校，她说每到一处都看到了同一副场景：计算机科学的教室里连一个女生也没有。
+“I saw the ability of technology to either enhance poverty or reduce it, and I saw girls not getting the same opportunities boys were,” said Ms. Saujani, who is now campaigning for public advocate in New York City. “Back in the ’60s, you didn’t have gender parity in law or medicine, but something happened and women started opting into these professions. We have to do that in computer science.”
+桑贾妮目前正在纽约展开倡导公共议题的活动。她说，“我看到技术既能加剧贫困，又能消除贫困，我也看到女生没有得到和男生一样的机会。在上个世纪的60年代，法律和医学行业的性别也不平衡，但后来发生了转变，女性开始选择进入这些行业。在计算机科学领域，我们也必须这样做。”
+Researchers say many factors contribute to girls’ reluctance to pursue computing as early as elementary school, including discouraging parents, inadequate resources for teachers and a lack of exposure. Studies have shown that girls imagine computer scientists as men working alone in a basement and can’t relate.
+研究人员表示，有许多因素造成了女生早在小学时就开始不愿意学习计算机。这些因素包括父母不鼓励、教师资源不足，以及接触不够多。有研究显示，在女生的想象中，计算机科学家是一些在地下室独自工作的男性，不会与他人交流。
+It’s a significant disconnect, given how women embrace technology. Female consumers make up a majority of users for many tech products. For technology companies, women also offer a diverse perspective, which can help bolster the bottom line.
+考虑到女性很原意接受新技术，上述问题反映了一种明显的脱节。许多技术产品的多数用户都是女性消费者。对技术企业来说，女性也能提供不同的视角，从而推动企业的盈利。
+After hatching the idea for Girls Who Code, Ms. Saujani and Kristen Titus, its executive director, started going to tech companies and asking what skills they wanted in female applicants. Mr. Messinger at Twitter, for instance, said he wanted to see more candidates who knew how to break a problem into parts and describe it in logic terms, which was incorporated into the program’s curriculum.
+在产生了“编程女生”的想法之后，桑贾妮和项目的执行总监克丽丝滕·泰特斯(Kristen Titus)就开始走访技术企业，询问他们希望女性应聘者具有哪些技能。例如，Twitter的梅辛格说，他希望看到更多的能够把问题分解、然后逻辑地描述出来的应聘者。这个要求已经整合进了项目的课程中。
+The response from companies was encouraging. The group raised money from Google, Twitter, Intel and other technology companies. Some also agreed to host workshops for Girls Who Code at their offices and volunteered employees to teach courses.
+企业的回应令人鼓舞。该组织从谷歌、Twitter、英特尔和其他技术企业筹集到了资金。一些企业还同意在自己的办公室为“编程女孩”举办讨论会，也将安排员工义务授课。

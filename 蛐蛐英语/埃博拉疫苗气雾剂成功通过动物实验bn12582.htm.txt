@@ -1,0 +1,24 @@
+A single dose of a new Ebola vaccine that can be inhaled has been found to neutralize the deadly virus in monkeys, researchers reported on Monday.
+研究人员周一通报称，已发现一种新的可吸入型埃博拉疫苗，只需一剂便可抵御猴子体内的致命性病毒。
+The study, published in the Journal of Clinical Investigation, demonstrated that the aerosol Ebola vaccine activated immune cells in the respiratory system of rhesus macaques and provided full protection against the virus. The study was conducted by researchers at The University of Texas Medical Branch in Galveston and the National Institutes of Health in Bethesda, Md. It was the first attempt to use an aerosol to vaccinate monkeys against a hemorrhagic viral fever, the study’s authors said.
+发表在《临床调查杂志》(Journal of Clinical Investigation)上的该论文证明，该气雾型埃博拉疫苗激活了恒河猴呼吸系统内的免疫细胞，提供了针对该疫苗的完全防护。进行研究的是德克萨斯大学加尔维斯顿医学分部(University of Texas Medical Branch in Galveston)和位于马里兰州贝塞斯达的美国国家卫生研究院(National Institutes of Health)的研究人员。文章作者称，这是首次尝试用气雾剂给猴子接种防治病毒性出血热的疫苗。
+“The initial several decades of attempts to develop a vaccine against the Ebola virus were unsuccessful,” said Alexander Bukreyev, a virologist from the University of Texas Medical Branch and one of the paper’s authors. “This is one of the few vaccines that works.”
+“最初几十年研发埃博拉疫苗的尝试都不成功，”来自德克萨斯大学加尔维斯顿医学分部的病毒学家、论文的作者之一亚历山大·布克列耶夫(Alexander Bukreyev)说。“这是少数有效的疫苗之一。”
+But the success of the vaccine in monkeys is no guarantee that it will work in people. This year, an Ebola drug that had been effective in monkeys failed to help humans.
+但在猴子身上的成功，不能保证该疫苗在人身上有效。今年，在猴子身上有效的一种药物就未能帮到人类。
+“This is a positive step forward,” said Dr. Daniel Bausch, a virologist from Tulane University. “It’s not a breakthrough or ‘Eureka!’ ”
+“这是一个积极的进步，”来自杜兰大学(Tulane University)的病毒学家丹尼尔·鲍施(Daniel Bausch)说。“但不是突破或‘找到啦’。”
+The new vaccine can be administered without help from a medical professional. So if it proves successful in humans, the vaccine will be particularly useful in developing countries where there is a severe scarcity of doctors and nurses, as there is in West Africa, where the worst Ebola epidemic in history has yet to be extinguished.
+这款新疫苗可以在没有医学专业人士帮助的情况下服用。因此如果证明在人身上有效，该疫苗在发展中国家会特别有用，因为发展中国家严重缺乏医生和护士。西非便是这种情况。在那里，史上最严重埃博拉疫情尚未被消除。
+“The discussion in the field right now is if this Ebola outbreak will be some kind of game changer for vaccine development, or will it only be one more scare that will be forgotten,” said Dr. Igor Lukashevich, a medical virologist from the University of Louisville, who was not involved with the study. “This aerosolized form of the vaccine is really what the field needs right now.”
+“目前，这个领域讨论的是，这一轮埃博拉疫情是会让疫苗研究发生翻天覆地的变化，还是只会成为又一场将被遗忘的恐慌，”未参与这项研究的路易斯维尔大学(University of Louisville)医学病毒学家伊戈尔·卢卡舍维奇(Igor Lukashevich)说。“这种气雾形态的疫苗真的是这个领域目前所需要的。”
+The study’s lead author, Michelle Meyer, a postdoctoral fellow at the University of Texas Medical Branch, said the respiratory tract may serve as a portal for the Ebola virus if it is exposed to droplets of infected bodily fluids.
+论文的第一作者、德克萨斯大学加尔维斯顿医学分部博士后米歇尔·梅耶尔(Michelle Meyer)表示，如果接触了几滴被感染的体液，呼吸道可能会成为埃博拉病毒的入口。
+In the study, the aerosol vaccine generated substantially more Ebola-immunity cells in the lungs than in the blood and spleen. The cells “in the lungs are acting as the first barrier for protection,” Dr. Meyer said. “That’s ideal to combat the virus at the site of infection.”
+研究发现，该气雾型疫苗在肺中产生的埃博拉免疫细胞，远多于血液和脾。“肺里的这些细胞充当着第一道保护屏障，”梅耶尔说。“在感染的地方阻击病毒是最好的。”
+Four of the rhesus macaques used in the research were given one dose of the aerosol vaccine; four were given two doses; and two were given the vaccine in a liquid form. Two monkeys were not vaccinated, serving as controls.
+在研究使用的恒河猴中，四只服用了一剂该气雾型疫苗，四只服用了两剂，两只服用了液态形式的该疫苗。还有两只未接种疫苗，充当着控制组的研究对象。
+Four weeks after their treatments, all 12 monkeys were injected with 1,000 times the fatal dose of the Ebola virus. A little over a week later, the two unvaccinated monkeys succumbed to the disease and were euthanized, but the vaccinated monkeys stayed healthy. At the end of the study, the researchers euthanized the surviving monkeys, examined their blood and tissues, and found no traces of the Ebola virus.
+四周后，12只猴子体内全被注入了1000倍于致死剂量的埃博拉病毒。一周多一点后，那两只未接种疫苗的猴子被该病毒感染，接受了安乐死，但接种了疫苗的猴子依然很健康。最后，研究人员对幸存下来的猴子实行了安乐死，并对它们的血液和组织进行了检查，未发现埃博拉病毒的踪迹。
+“One aerosol dose of our vaccine was able to protect these animals from death and severe disease,” Dr. Meyer said.
+“一剂气雾型疫苗就能防止这些动物死亡和重病，”梅耶尔说。

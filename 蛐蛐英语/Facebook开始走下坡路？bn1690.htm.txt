@@ -1,0 +1,48 @@
+When Evan Spiegel peered into a crystal ball to divine a future for his company, Snapchat, he did not see Facebook.
+当埃文·斯皮格(Evan Spiegel)向水晶球中窥探他的公司Snapchat的未来时，他并没有看到Facebook。
+He saw something else, something much bigger — a social network that could exist on its own, outside Facebook.
+他看到的是别的东西，一个大得多的事物——一个能够独立于Facebook之外存在的社交网络。
+Facebook is still the dominant social media service, and has been an attractive suitor for many small start-ups. And Snapchat most likely spurned Facebook partly because it thought it could fetch much more than the billions Facebook was willing to pay.
+Facebook仍在社交媒体服务中占主导地位，对许多小型初创企业来说，它一直是颇具吸引力的买家。况且，这次Facebook遭到Snapchat嫌弃的部分原因很可能是，Snapchat自认为能得到的远远超出Facebook愿意给出的数十亿美元。
+But the snub also foreshadows a possible future where Facebook is no longer the default place on the web where people go to network. The swift rise of upstarts like Snapchat in a rapidly shifting social media landscape suggests a changing reality for how — and where — people like to spend their time.
+不过，这次Facebook碰钉子，也预示着未来它可能不再是人们默认登录的网站。Snapchat等新贵在瞬息万变的社交媒体格局中的迅速崛起表明，人们消遣时间的方式和场所都在变化。
+The rebuff also reveals a changing perception of Facebook in the tech industry. As the once scrappy start-up evolves into a sprawling corporation, younger companies who view themselves as disruptive do not find Facebook’s size and cushy campus as appealing. Not to mention that a lot of them are trying to provide alternatives to Facebook, which means selling to Facebook would defeat their entire purpose.
+Facebook遭拒还表明，科技行业对它的看法正在转变。随着这家曾经敢作敢为的初创企业演变成规模庞大的公司，那些自视为创新性力量的新兴企业并不认为Facebook的规模及其舒适的办公室有多大的吸引力。况且，许多此类公司都在努力提供不同于Facebook的服务，这就意味着，将自己出售给Facebook是适得其反。
+Despite the site’s primacy in the social media market, some numbers suggest that Facebook addiction has given way to Facebook fatigue, at least among some users. A study by the Pew Internet and American Life Project found that the majority of users have at one point or another taken a multiweek break from the service, citing the tedium and irrelevancy of its content. Among the crucial younger demographic — users ages 18 to 29 — that first propelled Facebook into prominence, 38 percent said they expected to spend less time using the site this year.
+虽然Facebook仍是社交媒体市场上的老大，但一些数据表明，至少在一些用户中，对Facebook的上瘾已变成了疲劳。皮尤的“网络与美式生活项目”(Pew Internet and American Life)发现，多数用户都曾在某个时候停用Facebook几个星期，原因是上面的内容乏味而无用。在最初推动Facebook成为领军者的至关重要的年轻人群中——即18到29岁的用户群——有38%的人说，他们预计今年花在Facebook上的时间会变少。
+The survey confirmed what some at the company already knew. In its latest quarterly call with investors, Facebook said the youngest users were spending less time on the service, although overall teenage engagement was stable.
+这项调查证实了部分Facebook人已了解的情况。在最近一次与投资者召开的季度电话会议上，Facebook称，最年轻的用户群花费在它上面的时间比以前少了，虽然总体而言，青少年的参与度还很稳定。
+That fatigue may also have started to trickle down to the developers who build apps on top of Facebook’s platform.
+这种疲劳可能也已开始渗透到在Facebook平台上打造应用的开发商那里。
+The company’s business depends on the working relationships with those developers. In its early years, Facebook carefully courted app developers like game makers, including Zynga, for example. But it later changed its rules to make it harder for apps to go viral. More recently, though, it is trying to lure developers back with more favorable terms.
+Facebook的发展有赖于它和这些开发商的合作关系。起初几年，Facebook小心地迎合应用开发商的需求，比如Zynga等游戏开发商。但后来，公司改变了规则，增加了应用病毒式传播的难度。不过最近，它又推出更为有利的条件来引诱开发商回归。
+At an invitation-only mobile developers conference at Facebook on Thursday, the day after reports emerged that Snapchat had rejected its offer, Facebook product managers pushed mobile developers to incorporate Graph Search, the company’s new social search feature, into their products, which would help it spread its tendrils.
+上周四，Facebook召开了一场仅限受邀移动应用开发商参加的大会。此前一天，有关Snapchat拒绝Facebook收购的报道浮出水面。会上，Facebook产品经理鼓动移动应用开发商将公司新推出的社交搜索功能Graph Search添加到它们的产品中。这将会帮助Facebook进一步延伸它的触角。
+Facebook also pushed them to incorporate tools from Parse, a start-up it acquired for a reported $85 million this year, which provides back-end resources like analytics for mobile apps.
+Facebook还鼓动开放商在产品中添加来自Parse的工具。据报道，Facebook今年以8500万美元（约合5.18亿元人民币）的价格收购了这家初创企业。它提供的是针对移动应用的分析等后端资源。
+But some developers, who declined to be named because they work with Facebook, said the pitch was unusually aggressive, especially compared with a similar event for mobile developers at Google earlier in the week, and made them less inclined to want to collaborate with Facebook.
+但是，一些开发商称，Facebook的此次推销咄咄逼人，尤其是对比上周早些时候在谷歌(Google)召开的一场类似的移动应用开发商会议，这也让他们不那么乐意和Facebook合作。因为与Facebook的合作关系，这些开发商要求匿名。
+For any company as large as Facebook, finding new sources of growth is a challenge. Executives there have used acquisitions large and small to help promote that growth. Being able to identify potential targets — and acquire them quickly and affordably — is important for its continued success.
+对于任何一家Facebook规模的大公司而言，找到新的增长点都是挑战。公司的高管已通过大大小小的并购来帮助公司实现增长。能够找到潜在目标，并以可承受的价格迅速将其收入囊中，对Facebook继续成功十分重要。
+Facebook has had a sharp eye for emerging companies that have succeeded in areas it is eager to enter, like Instagram, the photo-sharing app it bought in 2012 for about $1 billion after intense negotiations. The service, which had 30 million users at the time, now has more than 150 million, and this month, the first ads began appearing in users’ photo streams. In addition, the two companies were a good fit.
+Facebook一直能够敏锐地注意到在公司急欲进军的领域取得成功的新兴企业。例如，2010年，经过紧张的谈判，Facebook以约10亿美元的价格收购了照片共享应用公司Instagram。Instagram当时的用户人数为3000万，目前则超过了1.5亿。本月，用户的照片流中第一次出现了广告。此外，两家企业的业务可以实现良好的互补。
+Instagram is largely autonomous, but it uses Facebook’s vast resources and advertising expertise while helping its parent company understand how photos and video are changing social networks.
+在很大程度上，Instagram是独立的，但它可以利用Facebook庞大的资源和广告方面的专业力量，同时帮助母公司理解照片和视频如何改变社交网络。
+“Facebook and Instagram are spiritual brothers,” said Sam Altman, a tech entrepreneur. “They are motivated by the same things and that is why it worked out so well.”
+科技行业创业者萨姆·阿尔特曼(Sam Altman)表示，“Facebook和Instagram是心灵相通的兄弟。它们有着相同的动力，这是此次收购成效卓著的原因。”
+Facebook’s recent $120 million purchase of the Israeli mobile software company Onavo also fits squarely into its plans for the future. Onavo gave Facebook important technology as well as vital information on how competing apps are being used on iPhones and Android devices.
+近期，Facebook以1.2亿美元的价格收购了以色列移动软件公司Onavo。这次收购也能很好地与公司未来的计划结合起来。Onavo向Facebook提供了重要的技术及关键信息，而这些信息涉及竞争对手的应用在iPhone和Android设备上的使用状况。
+Other deals have not worked out so well, whether because of a lack of simpatico or something else.
+不管是出于契合性的匮乏还是其他原因，Facebook的另一些收购没有取得如此良好的结果。
+“The gap between the billion-dollar valuation companies and the people who are trying to do something fresh and new is growing,” said Frédéric della Faille, the founder of Frontback, an up-and-coming social sharing application. “Money is not the only goal. Do you need an enormous amount of money to be happy, or are you content to go along with the ride?”
+前景看好的社交分享应用Frontback的创始人弗雷德里克·德拉法耶(Frederic della Faille)表示：“市值数十亿美元的公司，和试图闯出一些新名堂的群体之间的分歧，正在增大。钱不是唯一的目标。你是需要一大笔钱才能让自己高兴，还是喜欢获得一种非凡的经历？”
+As for Snapchat, its compatibility with Facebook is unclear. Snapchat is centered on impermanence and offers privacy and anonymity. Facebook constantly pushes users to share more and is rooted in real-world identities and creating a permanent, largely public record of people’s daily lives and interactions.
+至于Snapchat，它和Facebook的契合性尚不明朗。Snapchat以不会永久保留的消息为核心，提供隐私和匿名服务。而Facebook则一直在推动用户分享更多内容，它根植于用户在真实世界的身份，并创造了一份永久的、基本公开的记录，内容涉及用户的日常生活和互动。
+Given these differences, the Snapchat bid looks like an attempt to corral back some of the cool factor in the form of young eyeballs. Three years ago, Snapchat did not even exist, and Facebook, with a valuation of $100 billion before its public offering, was the hot company. Now with younger users preferring Snapchat — which says it processes nearly as many photos as Facebook each day — Snapchat may well have the upper hand.
+考虑到这些差异，对Snapchat的收购看似像是一次尝试，为的是以吸引年轻用户眼球的方式，重新圈进一些“酷”元素。三年前，Snapchat甚至并不存在，而Facebook当时已是一家如日中天的公司，在上市前的估值就达到了1000亿美元。目前，由于年轻用户更喜欢使用Snapchat，它很可能已经占了上风。该公司表示，它每天处理的照片量已接近Facebook。
+“It’s head-scratching,” said Christopher Poole, 25, the founder of 4chan, the message board. “From a business perspective, I understand it. But from a cultural perspective, it’s like, ‘Wait, what?’ ”
+留言板服务商4chan的创始人克里斯托弗·普尔(Christopheer Poole)现年25岁，他表示：“这令人百思不解。从商业角度来看，我能理解。但从文化角度来看，这就像是，‘等等，你说什么？’”
+Mr. Poole said Facebook’s aggressive pursuit of Snapchat may point to an identity crisis of sorts.
+普尔表示，Facebook对Snapchat穷追不舍，这可能意味着某种身份危机。
+“Does that mean that they’re willing to embrace an alternative to Facebook identity, or does it mean that they feel that threatened by it that they’d leave their own wheelhouse?”
+普尔表示：“这是否意味着，他们愿意接纳与Facebook不同的模式？还是意味着，他们感觉Snapchat对自己的威胁太大了，以至于他们愿意尝试新的发展方向？”

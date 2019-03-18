@@ -1,0 +1,98 @@
+Robert O. Work, the veteran defense official retained as deputy secretary by President Trump, calls them his “A.I. dudes.” The breezy moniker belies their serious task: The dudes have been a kitchen cabinet of sorts, and have advised Mr. Work as he has sought to reshape warfare by bringing artificial intelligence to the battlefield.
+被特朗普总统留下来担任国防部常务副部长的资深国防官员罗伯特·O·沃克(Robert O. Work)称它们是他的“人工智能（artificial intelligence，简称AI）伙计”。这个轻松的称谓下是严肃的任务：这些伙计类似于一个橱柜，在沃克寻求通过把人工智能引入战场来重塑战争时为他提供建议。
+Last spring, he asked, “O.K., you guys are the smartest guys in A.I., right?”
+去年，他问，“那么，你们这些家伙是AI领域最智能的，对吧？”
+No, the dudes told him, “the smartest guys are at Facebook and Google,” Mr. Work recalled in an interview.
+不是，它们告诉他，“最聪明的在Facebook和谷歌(Google)，”沃克在接受采访时回忆说。
+Now, increasingly, they’re also in China. The United States no longer has a strategic monopoly on the technology, which is widely seen as the key factor in the next generation of warfare.
+现在，它们也越来越多地出现在中国。在被广泛视为下一代战争关键因素的这项技术上，美国不再占据战略垄断地位。
+The Pentagon’s plan to bring A.I. to the military is taking shape as Chinese researchers assert themselves in the nascent technology field. And that shift is reflected in surprising commercial advances in artificial intelligence among Chinese companies.
+在五角大楼正酝酿把AI引入军队的计划时，中国的研究人员也正在这个新兴科技领域大步前进。这种转变反映在了中国公司在人工智能领域出人意料的商业发展中。
+Last year, for example, Microsoft researchers proclaimed that the company had created software capable of matching human skills in understanding speech.
+比如在去年，微软(Microsoft)的研究人员宣布该公司开发出的软件，具备了能够与人类匹敌的语音理解能力。
+Although they boasted that they had outperformed their United States competitors, a well-known A.I. researcher who leads a Silicon Valley laboratory for the Chinese web services company Baidu gently taunted Microsoft, noting that Baidu had achieved similar accuracy with the Chinese language two years earlier.
+尽管他们夸耀超过了美国国内的竞争对手，但著名的AI研究人员、中国网络服务公司百度的硅谷实验室负责人温和地奚落了微软，指出百度两年前就在中文上达到了类似的准确度。
+That, in a nutshell, is the challenge the United States faces as it embarks on a new military strategy founded on the assumption of its continued superiority in technologies such as robotics and artificial intelligence.
+简而言之，这是美国在开始实施一项新的军事战略之际面临的挑战。该战略正是基于美国继续在机器人和人工智能这类技术上占据优势这个假设。
+First announced last year by Ashton B. Carter, President Barack Obama’s defense secretary, the “Third Offset” strategy provides a formula for maintaining a military advantage in the face of a renewed rivalry with China and Russia.
+去年，贝拉克·奥巴马(Barack Obama)总统的国防部长阿什顿·B·卡特(Ashton B. Carter)首次宣布了这个名为“第三个抵消”(Third Offset)的战略。它提供了一个在面对与中国和俄罗斯的竞争重新兴起时保持军事优势的方案。
+Well into the 1960s, the United States held a military advantage based on technological leadership in nuclear weapons. In the 1970s, that perceived lead shifted to smart weapons, based on brand-new Silicon Valley technologies like computer chips. Now, the nation’s leaders plan on retaining that military advantage with a significant commitment to artificial intelligence and robotic weapons.
+进入60年代后，美国凭借在核武器技术上的领先地位占据了军事优势。到了70年代，在计算机芯片等全新硅谷技术的基础上，这种为人所知的领先地位转移到了智能武器领域。现在，美国领导人计划通过大力发展人工智能和自动控制武器来保持这种军事优势。
+But the global technology balance of power is shifting. From the 1950s through the 1980s, the United States carefully guarded its advantage. It led the world in computer and material science technology, and it jealously hoarded its leadership with military secrecy and export controls.
+但全球科技均势正在发生变化。从50年代到80年代，美国谨慎地保护着自己的优势。它在计算机和材料科学技术领域走在全球的前列，通过军事机密和出口控制小心地保持着自己的领导地位。
+In the late 1980s, the emergence of the inexpensive and universally available microchip upended the Pentagon’s ability to control technological progress. Now, rather than trickling down from military and advanced corporate laboratories, today’s new technologies increasingly come from consumer electronics firms. Put simply, the companies that make the fastest computers are the same ones that put things under our Christmas trees.
+80年代末，廉价且普遍可获得的微芯片的出现颠覆了五角大楼控制技术进步的能力。现如今的新技术越来越多地出自消费类电子企业，而非军方和先进的企业实验室的扩散效应。简而言之，一些公司既生产速度最快的计算机，也生产放在圣诞树下面的产品。
+As consumer electronics manufacturing has moved to Asia, both Chinese companies and the nation’s government laboratories are making major investments in artificial intelligence.
+随着消费类电子产品制造转移至亚洲，中国的公司和政府的实验室都对人工智能大举投资。
+The advance of the Chinese was underscored last month when Qi Lu, a veteran Microsoft artificial intelligence specialist, left the company to become chief operating officer at Baidu, where he will oversee the company’s ambitious plan to become a global leader in A.I.
+上月，当微软资深的人工智能专家陆奇离开微软，出任百度首席运营官时，再次突显了中国在这方面的进步。陆奇将负责该公司成为全球AI领导者的宏伟计划。
+And last year, Tencent, developer of the mobile app WeChat, a Facebook competitor, created an artificial intelligence research laboratory and began investing in United States-based A.I. companies.
+去年，开发出了Facebook的竞争对手、移动应用微信的腾讯公司成立了一个人工智能研究实验室，并开始投资美国的AI公司。
+Rapid Chinese progress has touched off a debate in the United States between military strategists and technologists over whether the Chinese are merely imitating advances or are engaged in independent innovation that will soon overtake the United States in the field.
+中国进步迅速，使美国的军事战略专家和科技专家围绕中国究竟只是在模仿进步，还是在进行很快便会在该领域超过美国的独立创新展开了一场争论。
+“The Chinese leadership is increasingly thinking about how to ensure they are competitive in the next wave of technologies,” said Adam Segal, a specialist in emerging technologies and national security at the Council on Foreign Relations.
+“中国领导人正在越来越多地思考如何确保自己在下一波科技浪潮中具备竞争力，”对外关系委员会(Council on Foreign Relations)新兴技术和国家安全问题专家亚当·谢加尔(Adam Segal)说。
+In August, the state-run China Daily reported that the country had embarked on the development of a cruise missile system with a “high level” of artificial intelligence. The new system appears to be a response to a missile the United States Navy is expected to deploy in 2018 to counter growing Chinese military influence in the Pacific.
+8月，官方报纸《中国日报》报道称中国已开始研发具备“高水平”人工智能的巡航导弹系统。新系统似乎是对美国海军为了抗衡中国在太平洋地区日渐增加的军事影响力，预计在2018年部署的一种导弹的回应。
+Known as the Long Range Anti-Ship Missile, or L.R.A.S.M., it is described as a “semiautonomous” weapon. According to the Pentagon, this means that though targets are chosen by human soldiers, the missile uses artificial intelligence technology to avoid defenses and make final targeting decisions.
+该导弹被称作远程反舰导弹，或LRASM。对它的描述是“半自动”武器。据五角大楼称，这意味着尽管攻击目标由士兵人为选取，但导弹会利用人工智能技术避开防御，并做出最终的确定攻击目标决定。
+The new Chinese weapon typifies a strategy known as “remote warfare,” said John Arquilla, a military strategist at the Naval Post Graduate School in Monterey, Calif. The idea is to build large fleets of small ships that deploy missiles, to attack an enemy with larger ships, like aircraft carriers.
+加利福尼亚州蒙特雷海军研究生院(Naval Postgraduate School)的军事战略专家约翰·阿尔奎拉(John Arquilla)说，中国的新武器体现了一种名为“远程战”的战略。该战略的理念是，通过打造由部署导弹的小型船只组成的大舰队，来攻击配备更大船只的敌人，如航母。
+“They are making their machines more creative,” he said. “A little bit of automation gives the machines a tremendous boost.”
+“他们发明机器时更有创意，”他说。“少量自动化就能让那些机器得到巨大的提升。”
+Whether or not the Chinese will quickly catch the United States in artificial intelligence and robotics technologies is a matter of intense discussion and disagreement in the United States.
+在美国，中国会不会在人工智能和机器人技术上迅速赶上美国这个问题被热烈讨论，各方分歧严重。
+Andrew Ng, chief scientist at Baidu, said the United States may be too myopic and self-confident to understand the speed of the Chinese competition.
+百度首席科学家吴恩达(Andrew Ng)称，美国可能有些过于目光短浅和自信，理解不了中国竞争的速度。
+“There are many occasions of something being simultaneously invented in China and elsewhere, or being invented first in China and then later making it overseas,” he said. “But then U.S. media reports only on the U.S. version. This leads to a misperception of those ideas having been first invented in the U.S.”
+“很多时候，中国和其他地方都在同时发明某样东西，或是先在中国发明出来了，后来传到了海外，”他说。“但美国媒体只报道美国的版本。这导致外界误以为那些想法是现在美国发明出来的。”
+A key example of Chinese progress that goes largely unreported in the United States is Iflytek, an artificial intelligence company that has focused on speech recognition and understanding natural language. The company has won international competitions both in speech synthesis and in translation between Chinese- and English-language texts.
+科大讯飞就是中国的进步在美国基本未获报道的一个重要例子。这家人工智能公司侧重语音识别和自然语言理解，在多项国际语音合成和中英文文本互译比赛中获奖。
+The company, which Chinese technologists said has a close relationship with the government for development of surveillance technology, said it is working with the Ministry of Science and Technology on a “Humanoid Answering Robot.”
+该公司自称正在与科技部合作，研发一款“人形应答机器人”。中国的科技工作者则表示，该公司在监控技术的研发上同政府关系密切。
+“Our goal is to send the machine to attend the college entrance examination, and to be admitted by key national universities in the near future,” said Qingfeng Liu, Iflytek’s chief executive.
+“我们的目标是在不久的将来让它去参加高考，被重点大学录取，”科大讯飞董事长刘庆峰说。
+The speed of the Chinese technologists, compared to United States and European artificial intelligence developers, is noteworthy. Last April, Gansha Wu, then the director of Intel’s laboratory in China, left his post and began assembling a team of researchers from Intel and Google to build a self-driving car company. Last month, the company, Uisee Technology, met its goal — taking a demonstration to the International Consumer Electronics Show in Las Vegas — after just nine months of work.
+相比于美国和欧洲的人工智能研发人员，中国科技工作者的速度值得关注。去年4月，为了创建一个自动驾驶汽车公司，时任英特尔(Intel)中国研究院院长的吴甘沙离职，并开始组建一个由来自英特尔和谷歌的研究人员组成的团队。上月，这家名为驭势科技(Uisee Technology)的公司在工作近九个月后便实现了自己的目标：在拉斯维加斯的国际消费类电子产品展览会(International Consumer Electronics Show)上进行了概念车的展示。
+“The A.I. technologies, including machine vision, sensor fusion, planning and control, on our car are completely home-brewed,” Mr. Wu said. “We wrote every line by ourselves.”
+“在我们的汽车上的AI技术，包括机器视觉、传感器融合、计划与控制，全都是自家开发，”吴甘沙说。“每一行代码都是我们自己写的。”
+Their first vehicle is intended for controlled environments like college and corporate campuses, with the ultimate goal of designing a shared fleet of autonomous taxis.
+他们的第一款车面向的是大学和企业园区这样的受控环境，最终的目标是设计一个共享的自动出租车队。
+The United States’ view of China’s advance may be starting to change. Last October, a White House report on artificial intelligence included several footnotes suggesting that China is now publishing more research than scholars here.
+美国对中国的发展也许正在建立新的认识。去年10月，一份关于人工智能的白宫报告有多个脚注提到，中国发表的研究论文数量已经超过了美国学者。
+Still, some scientists say the quantity of academic papers does not tell us much about innovation. And there are indications that China has only recently begun to make A.I. a priority in its military systems.
+然而一些科学家说，学术论文的数量对我们了解创新状况并没有太多帮助。而且有迹象表明，中国只是最近才开始将AI列为其军事系统的一个重点。
+“I think while China is definitely making progress in A.I. systems, it is nowhere close to matching the U.S.,” said Abhijit Singh, a former Indian military officer who is now a naval weapons analyst at the Observer Research Foundation in New Delhi.
+“我认为中国在AI系统上绝对是在进步的，但跟美国还差得很远，”新德里观察家研究基金会(Observer Research Foundation)海军武器分析师、曾在印度军方任职的阿皮季德·辛格(Abhijit Singh)说。
+Chinese researchers who are directly involved in artificial intelligence work in China have a very different view.
+在中国亲身参与了人工智能工作的中国研究人员却有着不同看法。
+“It is indisputable that Chinese authors are a significant force in A.I., and their position has been increasing drastically in the past five years,” said Kai-Fu Lee, a Taiwanese-born artificial intelligence researcher who played a key role in establishing both Microsoft’s and Google’s China-based research laboratories.
+“中国论文作者是AI领域的一股强大力量，并且他们的地位在过去五年有大幅提高，这一点毋庸置疑，”台湾出生的人工智能研究者李开复说，他曾在微软和谷歌的中国研究实验室的创建上发挥了关键作用。
+Mr. Lee, now a venture capitalist who invests in both China and the United States, acknowledged that the United States is still the global leader but believes that the gap has drastically narrowed. His firm, Sinovation Ventures, has recently raised $675 million to invest in A.I. both in the United States and in China.
+李开复如今是一名风险投资者，在中国和美国都有投资项目，他承认美国依然是全球领导者，但他相信，两者之间的距离已经大幅缩小了。他的公司创新工场最近在美国和中国的人工智能领域投入了6.75亿美元。
+“Using a chess analogy,” he said, “we might say that grandmasters are still largely North American, but Chinese occupy increasingly greater portions of the master-level A.I. scientists.”
+“用国际象棋打个比方，”他说，“我们也许会说，特级大师大部分仍在北美，但中国拥有越来越多的大师级AI科学家。”
+What is not in dispute is that the close ties between Silicon Valley and China both in terms of investment and research, and the open nature of much of the American A.I. research community, has made the most advanced technology easily available to China.
+有一点是没有争议的，硅谷和中国在投资和研究上有着紧密联系，而美国AI研究社区的开放性也意味着，最尖端的技术可以轻易为中国所用。
+In addition to setting up research outposts such as Baidu’s Silicon Valley A.I. Laboratory, Chinese citizens, including government employees, routinely audit Stanford University artificial intelligence courses.
+除了像百度这样在硅谷创设人工智能实验室，包括政府雇员在内的中国公民频频出现在斯坦福大学的人工智能课堂上。
+One Stanford professor, Richard Socher, said it was easy to spot the Chinese nationals because after the first few weeks, his students would often skip class, choosing instead to view videos of the lectures. The Chinese auditors, on the other hand, would continue to attend, taking their seats at the front of the classroom.
+斯坦福教授理查德·索科尔(Richard Socher)说，中国人很容易分辨，因为在最初几周过后，他的学生往往会逃课，选择看授课视频。而中国的旁听生会继续来上课，坐在教室前排。
+Artificial intelligence is only one part of the tech frontier where China is advancing rapidly.
+中国在尖端技术领域突飞猛进，人工智能只是其中一项。
+Last year, China also brought the world’s fastest supercomputer, the Sunway TaihuLight, online, supplanting another Chinese model that had been the world’s fastest. The new supercomputer is thought to be part of a broader Chinese push to begin driving innovation, a shift from its role as a manufacturing hub for components and devices designed in the United States and elsewhere.
+去年，中国还启用了世界上最快的超级计算机“神威·太湖之光”，取代了另一个曾经是世界最快的中国机型。这台新超级计算机被认为是中国开始推动创新的广泛行动的一部分，他们要摆脱原来的角色，即作为一个制造中心，去生产美国等其他国家设计的设备和零部件。
+In a reflection of the desire to become a center of innovation, the processors in the new computer are of a native Chinese design. The earlier supercomputer, the Tianhe 2, was powered by Intel’s Xeon processors.
+新计算机的处理器是由中国自主设计的，从中可以看到要成为创新中心的意愿。此前的超级计算机“天河二号”使用的是英特尔的至强处理器。
+The new supercomputer, like similar machines anywhere in the world, has a variety of uses, and does not by itself represent a direct military challenge. It can be used to model climate change situations, for instance, or to perform analysis of large data sets.
+和世界上的其他超级计算机一样，这台计算机有多种用途，本身并非一种直接的军事挑战。例如它可以用于气候变化状况的建模，或进行大型数据集分析。
+But similar advances in high-performance computing being made by the Chinese could be used to push ahead with machine-learning research, which would have military applications, along with more typical defense functions, such as simulating nuclear weapons tests or breaking the encryption used by adversaries.
+但是中国在高性能计算领域的类似进步可能会用于推动机器学习研究，那将是可以用于军事的，此外还有一些典型的防务功能，比如模拟核武器测试，或破解敌方的加密。
+Moreover, while there appear to be relatively cozy relationships between the Chinese government and commercial technology efforts, the same cannot be said about the United States. The Pentagon recently restarted its beachhead in Silicon Valley, known as the Defense Innovation Unit Experimental facility, or DIUx. It is an attempt to rethink bureaucratic United States government contracting practices in terms of the faster and more fluid style of Silicon Valley.
+另外，中国政府和商业技术项目之间有着相对融洽的关系，美国则不然。五角大楼近来重启了自己在硅谷的滩头阵地国防创新实验小组（Defense Innovation Unit Experimental，简称DIUx）。此举意在针对硅谷更迅速、更多变的风格，反思美国政府官僚机构的外包实践。
+The government has not yet undone the damage to its relationship with the Valley brought about by Edward J. Snowden’s revelations about the National Security Agency’s surveillance practices. Many Silicon Valley firms remain hesitant to be seen as working too closely with the Pentagon out of fear of losing access to China’s market.
+爱德华·J·斯诺登(Edward J. Snowden)对国家安全局(National Security Agency)监控措施的揭露，给硅谷和政府的关系造成了至今尚未修复的损害。许多硅谷公司仍然不太愿意与五角大楼走得太近，担心那样会让自己失去进入中国市场的资格。
+“There are smaller companies, the companies who sort of decided that they’re going to be in the defense business, like a Palantir,” said Peter W. Singer, an expert in the future of war at New America, a think tank in Washington, referring to the Palo Alto, Calif., start-up founded in part by the venture capitalist Peter Thiel. “But if you’re thinking about the big, iconic tech companies, they can’t become defense contractors and still expect to get access to the Chinese market.”
+“有一些比较小的公司，算是决定了要涉足国防业务，比如Palantir，”华盛顿智库“新美利坚”(New America)未来战争专家彼得·W·辛格(Peter W. Singer)说，他所提到的是一家由风险投资者彼得·蒂尔(Peter Thiel)参与创办的加州帕洛阿尔托创业公司。“但是如果你去看那些大型的、著名的科技公司，它们如果接了国防合同，就别指望进入中国市场了。”
+Those concerns are real for Silicon Valley.
+这种担忧在硅谷是很真实存在的。

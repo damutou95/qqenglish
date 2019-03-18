@@ -1,0 +1,38 @@
+CHICAGO — The robot equipment industry has one word for the alarmist articles and television news programs that predict a robot is about to steal your job: Fiddlesticks!
+芝加哥——危言耸听的文章和电视新闻节目预测，有一个机器人会偷走你的工作。对此，机器人设备制造业只有一个词回应：无稽之谈！
+Well, that wasn’t actually the word used this week at the Automate 2013 trade show held here through Thursday, but the sentiment was the same. During a presentation on Monday, Henrik I. Christensen, the Kuka Chair of Robotics at Georgia Institute of Technology’s College of Computing, sharply criticized a recent “60 Minutes” report on automation that was based on the work of the M.I.T. economists Andrew McAfee and Erik Brynjolfsson.
+当然，在本周的2013年自动化展(Automate 2013)上，人们用的不是这个词，但是想法是一致的。本次展会在此地举行，周四闭幕。在周一的演讲中，佐治亚理工学院(Georgia Institute of Technology)计算机学院研究机器人学的教授亨利克·I·克里斯坦森(Henrik I. Christensen)尖锐批评了最近“60分钟”(“60 Minutes”)节目中有关自动化的报道。该报道基于麻省理工学院(MIT)经济学家安德鲁·麦卡菲(Andrew McAfee)和埃里克·布林约尔松(Erik Brynjolfsson)的研究。克里斯坦森的教席由库卡公司资助。
+The two economists in 2011 wrote “Race Against the Machine,” a book that renewed the debate about the relationship between the pace of automation and job growth. They argue that the pace of automation is accelerating and that robotics is pushing into new areas of the work force like white-collar jobs that were previously believed to be beyond the scope of computers.
+2011年，这两位经济学家写了《与机器赛跑》(Race Against the Machine)一书。对自动化速度和就业增长之间矛盾，该书提出了新看法。他们称自动化发展速度加快，机器人学正在向新的劳动力领域推进，包括白领岗位在内，这些工作以前都被认为是超出了计算机的能力范围。
+During his talk, Dr. Christensen said that the evidence indicated that the opposite was true. While automation may transform the work force and eliminate certain jobs, it also creates new kinds of jobs that are generally better paying and that require higher-skilled workers.
+克里斯坦森博士在演讲中说，证据表明事实正好相反。自动化可能改变劳动力的组成，并且淘汰掉某些工作，但是也会创造新的工作，这些新工作一般报酬更高，也需要技术更高的工人。
+“We see today that the U.S. is still the biggest manufacturing country in terms of dollar value,” Dr. Christensen said. “It’s also important to remember that manufacturing produces more jobs in associated areas than anything else.”
+克里斯坦森博士说，“今天，以美元衡量，美国仍是世界上最大的制造业国家。还需要记住的是，相比任何产业，制造业都能在相关领域创造更多的工作机会。”
+An official of the International Federation of Robotics acknowledged that the automation debate had sprung back to life in the United States, but he said that America was alone in its anxiety over robots and automation.
+一位国际机器人联合会(International Federation of Robotics)的官员指出，美国有关自动化的辩论再度成为热门。但是他说，只有美国为机器人和自动化问题感到焦虑。
+“This is not happening in either Europe or Japan,” said Andreas Bauer, chairman of the federation’s industrial robot suppliers group and an executive at Kuka Robotics, a German robot maker.
+该联合会工业机器人供应商分会主席、德国机器人生产商库卡机器人集团(Kuka Robotics)高管安德烈斯·鲍尔(Andreas Bauer)说，“这在欧洲和日本都没有出现。”
+To buttress its claim that automation is not a job killer but instead a way for the United States to compete against increasingly advanced foreign competitors, the industry group reported findings on Tuesday that it said it would publish in February. The federation said the industry would directly and indirectly create from 1.9 million to 3.5 million jobs globally by 2020.
+周二，联合会为了支持自己的论调，表明自动化并不会减少工作机会，反而会提供一种手段，让美国有实力与越来越先进的外国竞争者对抗，它周二公布了一些研究发现，这些研究结果将于二月份出版。联合会指出，到2020年，自动化产业将在全球直接或间接创造190万到350万个工作机会。
+The federation held a news media event at which two chief executives of small American manufacturers described how they had been able to both increase employment and compete against foreign companies by relying heavily on automation and robots.
+联合会举办了一场媒体活动。在活动中，两位小型美国制造企业的高管出席，描述他们如何通过依靠自动化及机器人，不仅仅增加了就业岗位，还提高了与外国公司竞争的实力。
+“Automation has allowed us to compete on a global basis. It has absolutely created jobs in southwest Michigan,” said Matt Tyler, chief executive of Vickers Engineering, an auto parts supplier. “Had it not been for automation, we would not have beat our Japanese competitor; we would not have beat our Chinese competitor; we would not have beat our Mexican competitor. It’s a fact.”
+汽车部件供应商维克斯工程公司(Vickers Engineering)的首席执行官马特·泰勒(Matt Tyler)说，“自动化使得我们能够参与全球竞争。在密歇根西南部，它毫无疑问已创造许多了工作机会。如果没有自动化，我们不可能打败我们的日本竞争对手，不可能打败我们的中国竞争对手，不可能打败我们的墨西哥竞争对手。这是事实。”
+Also making the case was Drew Greenblatt, the widely quoted president and owner of Marlin Steel, a Baltimore manufacturer of steel products that has managed to expand and add jobs by deploying robots and other machines to increase worker productivity.
+马林钢铁(Marlin Steel)的总裁及所有者德鲁·格林布拉特(Drew Greenblatt)也有同样的经历。他的话被广泛引用。这家位于巴尔的摩的钢铁产品生产商通过使用机器人及其他机器，提高了工人的生产效率，有效扩大了并新增了就业岗位。
+“In December, we won a job from a Chicago company that for over a decade has bought from China,” he said. “It’s a sheet-metal bracket; 160,000 sheet-metal brackets, year in, year out. They were made in China, now they’re made in Baltimore, using steel from a plant in Indiana and the robot was made in Connecticut.”
+他说，“12月，我们从一家芝加哥公司手中拿到一单生意。他们十多年来一直从中国采购。这单合同是生产金属板支架。每年16万个金属板支架。以前它们是在中国制造的。现在这些是巴尔的摩制造的，用的钢材来自于印第安纳州的一家工厂，用的机器人是在康涅狄格州制造的。”
+In the report presented Tuesday by the federation, the United States lags Germany, South Korea and Japan in the density of manufacturing robots employed (measured as the number of robots per 10,000 human workers). South Korea, in particular, sharply increased its robot-to-worker ratio in the last three years and Germany has twice the robot density as the United States, according to a presentation made by John Dulchinos, a board member of the Robot Industries Association and the chief executive of Adept Technology, a Pleasanton, Calif., maker of robots.
+该联合会周二发布的报告称，在制造型机器人的使用密度上（每万名工人中机器人的比例），美国落后于德国、韩国和日本。机器人行业协会(Robot Industries Association)董事会成员、熟练技术公司(Adept Technology)的首席执行官约翰·杜尔奇诺斯(John Dulchinos)在演讲中说，尤其是韩国，它在过去三年里大幅提高了机器人与工人的比率。德国的机器人密度是美国的两倍。熟练技术公司是位于加利福尼亚州普莱森顿的机器人制造商。
+The report indicates that although China and Brazil are increasing the number of robots in their factories, they still trail the advanced manufacturing countries.
+联合会的报告称，尽管中国和巴西正在增加工厂中机器人的数量，但是他们仍然跟不上先进的制造业大国。
+Mr. Dulchinos said that the United States had only itself to blame for the decline of its manufacturing sector in the last decade.
+杜尔奇诺斯称，美国在过去十年里所出现的制造业衰退，只能怪自己。
+“I can tell you that in the late 1990s my company’s biggest segment was the cellular phone market,” he said. “Almost overnight that industry went away, in part because we didn’t do as good a job as was required to make that industry competitive.”
+他说，“我可以告诉你，在20世纪90年代末，我们公司最大的业务来自于移动电话市场。几乎是一夜之间，这个行业就消失了。部分原因是，我们做得不够好，不足以使得这个行业具有竞争力。”
+He said that if American robots had been more advanced it would have been possible for those companies to maintain the lowest cost of production in the United States.
+他说，如果当时美国的机器人发展得更先进，这些公司就可能在美国保持最低成本的生产。
+“They got all packed up and shipped to China,” Mr. Dulchinos said. “And so you fast-forward to today and there are over a billion cellphones produced a year and not a single one is produced in the United States.”
+杜尔奇诺斯说，“他们都打包搬去中国了。所以，看看今天，全球每年生产超过十亿部手机，没有一部是在美国产的。”
+Yet, in the face of growing anxiety about the effects of automation on the economy, there were a number of bright spots. The industry is now generating $25 billion in annual revenue. The federation expects 1.6 million robots to be produced each year by 2015.
+然而，尽管人们对自动化对经济的影响有越来越多的担忧，我们依然看到了一些亮点。现在，自动化产业每年创收250亿美元。该联合会认为，到2015年，每年将生产160万个机器人。

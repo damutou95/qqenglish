@@ -1,0 +1,26 @@
+For nearly a decade, the defining characteristic of the tweet — the unit of communication on Twitter — has been its brevity: Users are restricted to 140 characters.
+近十年来，Twitter标志性特征便是每条微博简洁明了：用户受限于140个字符。
+That may soon change. Twitter is experimenting with introducing a longer form of tweet, according to two people familiar with the company’s plans, in what would be another gradual move away from the simplistic design sensibility that the service was originally founded upon.
+而这即将改变。根据两名熟知公司内情的消息人士透露，Twitter正在测试更长的微博。这是背离该社交网络成立之初的简洁设计之初衷的又一举动。
+The project, which internally has been referred to as “beyond 140,” is still in its testing phase and is not set to be introduced until at least March, said the people, who requested anonymity because they were not authorized to speak about the company’s plans. Twitter has not determined what the final tweet character limit will be, according to people familiar with the discussions. One number that has been tossed around internally is 10,000 characters, the same limit that users have inside private Twitter messages. Another possibility could be 5,000 characters, these people said.
+公司内部称此方案为“超越140”。消息人士称，目前该方案正处于测试阶段，至少在三月份之前不会考虑推出。消息人士不愿公开姓名，因为他们无权透露公司计划。据知悉Twitter讨论的人士说，公司还没决定一条微博的最终字符数是多少。内部传得沸沸扬扬的是10,000个字符，与Twitter用户内部私信字符数一样。知情人士说，另一种可能性是5,000个字符。
+Re/code first reported the news on Tuesday. A Twitter spokesman declined to comment.
+本周二美国科技博客Re/code率先报道了此条新闻，Twitter发言人拒绝就此发表评论。
+The test is another signal of the changes at Twitter under Jack Dorsey, the co-founder and onetime wayward son who was appointed chief executive last year after a multiyear hiatus from the company. Since his elevation to chief executive, Mr. Dorsey has tried to make Twitter more accessible to the masses, a problem that the company has struggled with for years, much to the consternation of its investors.
+这项测试是杰克·多西领导下的Twitter改革的又一讯号。杰克·多西是Twitter创始人之一，年少时曾经非常任性，离开公司几年后，他于去年被任命为执行总裁。令投资者震惊的是，自升任执行总裁后，多西先生努力想让Twitter更贴近大众，而公司在这个问题上已经拼搏奋斗了好几年。
+Mr. Dorsey has made clear to employees that as far as redesigning the product is concerned, no feature is sacred. Twitter has experimented with tweaking its reverse chronological timeline, for example, a move that drew some comparisons to the algorithmically curated Facebook News Feed.
+多西先生已向员工清楚表明，尽管大家都关心产品的重新设计，但没什么特征是神圣不可改变的。例如，Twitter已在测试微调它的反序时间表，此举是与脸书（Facebook）动态消息的算法进行较量。
+That being said, the new character limit extension is not likely to look drastically different than what Twitter users are familiar with. In the new design, tweets will still appear limited to 140 characters in the stream, as has typically been the case. If the content of the tweet is longer than 140 characters, users can expand it with the click of a button to read further.
+据说，新字符扩展与Twitter用户已熟悉的相比，不可能变化太大。在新设计上，一条条微博仍像一直以来的那样，看上去仍是140个字符。如果微博的内容长于140个字，用户可以点击某个按钮打开来阅读。
+The idea, according to the people familiar with Twitter’s plans, stemmed from seeing the creative ways people work around the service’s current 140-character count. Some users post screenshots of large blocks of text, for instance, or so-called “tweetstorms” of multiple tweets in rapid succession, in order to circumvent the text limitations on the service. “Beyond 140” is an attempt to appease those users without completely disrupting the visual layout of Twitter’s current design.
+据了解Twitter内情的人士透露，这个想法源自于看到人们为绕开现有的140个字符的限制采取的许多创新之举。例如，为了绕开Twitter的文本限制，有用户贴出大块文本的屏幕截图，或所谓的多条微博快速连发的“微博风暴”。“超越140”想要安抚这些用户，同时又不想完全打乱Twitter现有的外观。
+Twitter has made changes to its look in the past. In 2013, Twitter started allowing photo previews in the tweet stream, a move similar to services like Tumblr and Instagram. Twitter years ago also allowed some linked articles from web publishers to appear in preview form inside of tweets.
+Twitter以前已改过外观。2013年，Twitter开始允许在微博中预览相片，与Tumblr和Instagram的功能相似的一步。几年前，Twitter也允许微博里提供链接预览网络文章。
+Many Twitter users were quickly up in arms after news of the possible character limitation extension became public, tweeting their disapproval for how the service might change.
+在可能扩展字符限制的消息公开后，许多Twitter用户火冒三丈，发微博表示对现有功能可能的改变表示不满。
+In a tweet containing a text screenshot on Tuesday, Mr. Dorsey appeared to try to assuage users’ fears that Twitter may change drastically.
+本周二，在一条含有文本链接的微博里，多西先生似乎尽量舒缓用户对Twitter可能发生的巨大变化的恐惧。
+“We didn’t start Twitter with a 140 character constraint. We added that early on for it to fit into a single SMS message,” Mr. Dorsey wrote. “We will never lose that feeling.”
+“Twitter开始时并没有140个字符的限制。我们只是在早期加上它以符合一条短信的长度，”多西先生写道。“我们从不会放弃那种感觉。”
+This article, by the way, is 3,501 characters in length.
+顺道说一声，这篇文章一共890个字。

@@ -1,0 +1,24 @@
+An investigation into a multibillion-dollar loss at JPMorgan Chase is heading into its final stage with authorities poised to bring civil charges, the latest legal blow to the nation’s biggest bank.
+对摩根大通(JPMorgan Chase)巨亏数十亿美元的调查正在进入最后阶段，监管部门做好了提起民事诉讼的准备。这是这家美国最大的银行遭遇的最新法律打击。
+After more than a year of gathering evidence about the trading blunder in London, the Securities and Exchange Commission is expected to strike a settlement with the bank as soon as this fall, according to people briefed on the case. The bank is also bracing to pay a fine to a financial regulator in Britain, one person said.
+据了解本案的人士透露，针对伦敦的交易失误，美国证券交易委员会（Securities and Exchange Commission，简称SEC）进行了为期一年多的证据搜集工作，预计证交会最快将在今年秋天和银行达成和解。一名人士透露，摩根大通也在为向英国的金融监管机构支付罚款做准备。
+In recent weeks, JPMorgan’s lawyers have wrangled with the S.E.C. over the contours of the settlement. While the regulator has indicated that it will not charge executives, the people said, it is aiming to extract some admission of wrongdoing from the bank. If JPMorgan agrees, that decision would represent a reversal for the agency after decades of allowing defendants to “neither admit nor deny wrongdoing.”
+最近几周，摩根大通的律师一直在和SEC争论和解协议的大纲。知情人士透露，监管机构表示，不会起诉该公司的管理层，而是意在迫使银行一定程度上承认存在过失。如果摩根大通同意，该决定将代表SEC惯例的一次彻底改变，因为在过去数十年中，SEC都允许被告“既不承认也不否认存在过失”。
+The S.E.C. has scrutinized the bank over whether its London traders falsified records to hide losses from executives in New York. The S.E.C., the people said, could cite the bank for lax controls that allowed the traders to distort the value of the bets.
+SEC已经就摩根大通的伦敦交易员是否曾伪造交易记录，从而在纽约高管面前隐瞒损失一事，对该行进行了调查。知情人士透露，SEC可能会把交易员得以歪曲亏损金额，归咎于该行管理懈怠。
+The inquiry heated up after the bank acknowledged last summer that it underestimated the losses. JPMorgan restated its first-quarter 2012 earnings downward by $459 million, conceding errors in the valuations.
+就在摩根大通去年夏天承认低估了亏损额后，SEC加紧了对它的调查。摩根大通重申，该行在2012年一季度的利润下降了4.59亿美元（约合28.1亿元人民币），并承认银行对损失的评估存在错误。
+A parallel criminal investigation, led by the F.B.I. and federal prosecutors in Manhattan, is also ramping up. The authorities, after uncovering internal e-mails and phone recordings,suspect that the traders knew the losses would amount to more than the $2 billion estimate the bank initially provided to investors on May 10, 2012, say the people briefed on the matter. The losses have since swelled to more than $6 billion.
+美国联邦调查局(FBI)和曼哈顿的联邦检察官也在加紧开展由它们牵头的另一项刑事调查。了解本案的人士透露，在发现一些内部电子邮件和通话记录之后，调查机构开始怀疑，交易人员知道，亏损金额实际上已经超过了银行最初在2012年5月10日通报给投资者的估计，20亿美元。自那之后，亏损金额不断膨胀，超过了60亿美元。
+When federal investigators met this spring with Jamie Dimon, the bank’s chief executive, some of the e-mails enraged him, said people briefed on the meeting. Mr. Dimon’s face reddened, they said, as he professed outrage at the employees’ 2012 e-mails.
+当联邦调查人员今春与摩根大通首席执行官杰米·戴蒙(Jamie Dimon)见面时，一些电子邮件让他暴跳如雷，了解该次会面的人士透露。他们说，戴蒙脸色通红，对手下雇员在2012年的电子邮件公开表达了愤怒。
+Mr. Dimon, who is not suspected of any wrongdoing, told investigators that he was unaware traders were obscuring the losses when he held the May 10, 2012 call.
+戴蒙对调查人员说，2012年5月10日举行电话会议时，他并不知道到交易员们正在遮掩亏损。戴蒙没有任何存在过失的嫌疑。
+Still, the trading losses left a rare stain on his reputation. Traders in London had made outsize wagers on credit derivatives — one became known as the “London whale” because of the size of the bet — pointing to a lack of controls at a bank once hailed for its risk management.
+但该交易损失案给他的名誉留下了罕见的污点。伦敦的交易员曾在信贷衍生品上押下巨大赌注，由于赌注巨大而被称为“伦敦鲸”(London whale)。这说明这个曾经以风险管理著称的银行缺乏管控。
+The trading blowup, reigniting broader concerns about risk taking on Wall Street, prompted Congressional hearings that featured Mr. Dimon, claimed the jobs of several senior JPMorgan executives and even cost the C.E.O. millions of dollars in compensation he forfeited in the aftermath of the losses.
+交易损失案的爆发再次引发对华尔街存在的风险的广泛担忧，迫使戴蒙参加为此召开的国会听证会，导致摩根大通的几名高管离职，甚至迫使CEO为交易损失支付数以百万美元计的赔偿。
+Yet it is hardly JPMorgan’s only legal woe. Losing its status as Washington’s favorite bank, JPMorgan has become a magnet for scrutiny over the last couple years, drawing investigations from at least eight federal agencies, a state regulator and two European nations. In addition to the trading loss, the authorities are investigating the bank in connection with its financial crisis-era mortgage business. The bank, for example, disclosed on Wednesday that it faced a criminal and civil investigation from federal prosecutors in California, who questioned whether it sold shoddy mortgage securities to investors in the run-up to the financial crisis.
+这并不是摩根大通面临的唯一法律问题。摩根大通已经不再是最受华盛顿宠爱的银行，该银行在过去几年中不断受到关注，至少遭受八家联邦机构、一家州级监管部门及两个欧洲国家的调查。除了交易损失之外，相关机构也正在调查该银行在金融危机期间的按揭贷款业务。比如，摩根大通在周三披露，该银行受到加利福尼亚州联邦检察官的刑事和民事调查，检察官怀疑该银行在金融危机爆发前，将不良按揭贷款证券出售给了投资者。
+JPMorgan declined to comment. An S.E.C. spokesman could not be immediately reached for comment.
+摩根大通拒绝发表评论，未能立即联系到SEC发言人对此置评。

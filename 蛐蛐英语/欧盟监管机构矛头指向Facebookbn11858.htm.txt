@@ -1,0 +1,52 @@
+LONDON — One arm of the European Union is looking into whether Facebook and other tech companies unfairly favor their own services over those of rivals. At least five data protection watchdogs across the region are questioning Facebook’s privacy settings.
+伦敦——欧盟的一个分支机构正在对Facebook等科技公司进行调查，看它们是否让旗下的服务获得了相对于竞争对手的不正当优势。该地区有至少五家数据保护监管机构正在对Facebook的隐私条款提出质疑。
+And in a case that could have broad implications for many tech companies, the region’s top court will issue a preliminary decision next month on whether Facebook can continue transferring user data between Europe and the United States.
+这个案子可能对许多科技公司产生广泛影响。欧盟的最高法院将于下个月公布关于Facebook能否继续在欧洲和美国之间传输用户数据的初步裁决。
+Move over, Google. Facebook is the latest American tech giant that Europeans love to hate.
+靠边站吧，谷歌(Google)。Facebook才是欧洲向美国科技巨头发难的最新目标。
+For decades, European policy makers have taken aim at America’s giant tech businesses, trying to force them to play by European rules. In the past, Microsoft and Intel were found guilty of abusing their dominant positions to shut out rivals. Google has most recently been under the microscope, and it now faces accusations that it unfairly promoted some of its search products over those of competitors.
+数十年来，欧洲的决策者一直把矛头指向美国的大型科技公司，试图强迫他们按照欧洲的规则行事。过去，微软(Microsoft)和英特尔(Intel)曾被判定利用自身的垄断地位打压对手。到了近期，是谷歌在接受严格的审查，眼下还面临着以不正当手段盖过对手来推广自己的搜索产品的指责。
+In recent months, though, regulators’ gazes have turned to Facebook, raising questions about whether the social network has learned from the past mistakes of companies like Intel, Microsoft and Google when dealing with Europe’s policy makers and its legal system. And as Facebook runs into an increasing number of regulatory hurdles here, the scrutiny could potentially distract the company from its ambitions of becoming a one-stop shop for Internet messaging, online publishing and digital advertising.
+然而最近几个月，监管机构把视线转向了Facebook，对这家社交网络提出了质疑：在面对欧洲的决策部门和法律体系时，它是否从英特尔、微软和谷歌等公司过去的错误中吸取了教训？随着Facebook在欧洲遭遇越来越多来自监管方面的障碍，这些严密审视可能会分散公司对提供包括网络即时通讯、在线出版和数字广告在内的一站式服务的注意力。
+“Platforms like Facebook have grown quickly to become global forces,” said Serafino Abate, a director at the Center on Regulation in Europe, a research organization in Brussels. “But with that size comes responsibility.”
+“Facebook这样的平台已经迅速成长为全球性力量，”布鲁塞尔研究机构欧洲监管中心(Center on Regulation in Europe)的一名主管塞拉菲诺·阿巴特(Serafino Abate)说。“但是规模越大，责任也越大。”
+The scrutiny is mounting as the company’s messaging and digital advertising services spread globally. More than 1.4 billion people now use Facebook, and hundreds of millions of people also rely on the company’s mobile messaging services, WhatsApp and Facebook Messenger, and its photo-sharing service, Instagram.
+Facebook的即时通讯和数字广告服务在全球范围扩张的同时，它遭遇的监管也在不断加强。目前有超过14亿人使用Facebook，还有数亿人使用这家公司的移动即时通讯服务WhatsApp和Facebook Messenger，以及照片分享服务Instagram。
+Facebook’s core business, its social networking service, is especially popular in Europe. The company has almost doubled its number of European users to the service, to around 260 million, since 2010. Facebook also has more users in Europe than in the United States, according to eMarketer, a research company.
+Facebook的核心业务——社交网络服务——在欧洲尤其受欢迎。自2010年以来，该公司在欧洲的用户人数几乎翻了一番，达到2.6亿左右。根据调研公司eMarketer的数据，Facebook在欧洲的用户人数要多于美国。
+Regulators in Europe, however, are especially focused on how the company collects and handles those users’ data. The region has some of the world’s toughest data protection rules, and policy makers from France, Germany and Belgium are investigating whether Facebook broke Europe’s laws after the company announced a new privacy policy this year.
+然而，欧洲的监管机构主要关注的是这家公司搜集和处理用户数据的方式。该地区拥有世界上最严苛的一些数据保护规定。在Facebook今年宣布了一项新的隐私政策之后，法国、德国和比利时的决策机构正在调查它是否违反了欧洲的法律。
+If found to have breached the privacy rules, Facebook may face fines or demands that it change how the company handles people’s data, though the company says it complies with the region’s data protection laws.
+如果被认定违反了隐私方面的规定，Facebook可能面临罚款，或是接到更改公司处理用户数据的方式的指令。不过公司表示，自己遵守了欧盟的数据保护规定。
+“Obviously, there are privacy issues,” said Mathias Moulin, deputy director of enforcement at the French data protection regulator, who is overseeing the watchdog’s review of the company’s activities and who will meet other regulators at the end of May to discuss the investigations. “This is a global company. Facebook affects millions of people across Europe.”
+“显然，Facebook存在隐私方面的问题，”法国数据保护监管机构的执法副主任马蒂亚斯·穆兰(Mathias Moulin)说。他正在负责这家机构对Facebook行为的审核，并将在5月底与其他监管机构的人员见面，讨论调查结果。“这是一家全球性的公司。Facebook影响着欧洲的上亿人。”
+Taking a page from the playbooks of other American tech companies, Facebook has not stood idle as regulators steadily lined up against it.
+在监管机构纷纷发难之际，Facebook并未坐以待毙，而是借鉴了其他美国科技公司的经验。
+The company has hired a number of prominent former lawmakers and regulators, including Erika Mann, a former German member of the European Parliament. This month, the company also chose Kevin Martin, a former chairman of the Federal Communications Commission, to champion its cause in Washington, Brussels and beyond.
+Facebook聘请了多位重量级的前任议员和监管者，包括曾在欧洲议会代表德国的议员埃丽卡·曼(Erika Mann)。本月，Facebook还挑选了美国联邦通讯委员会(Federal Communications Commission)前主席凯文·马丁(Kevin Martin)来为公司在华盛顿和布鲁塞尔等地方游说。
+To get a sense of the European backlash against Facebook, you do not have to look much further than the experiences of Max Schrems, an Austrian law student who has led a vocal opposition to how the company collects and uses people’s data from around the world.
+要想了解欧洲对Facebook的强烈不满，看看马克斯·施雷姆斯(Max Schrems)的经历就够了。施雷姆斯是奥地利的一名法学系学生，一直带头反对这家公司搜集和使用全世界用户数据的做法。
+Mr. Schrems, 27, recently said his concern about online data traces back at least to 2011 and a college class in California. In the class, he said, employees of several West Coast tech companies expressed open disdain for Europe’s tough data protection rules, which enshrine a person’s right to privacy as a fundamental human right.
+27岁的施雷姆斯最近表示，他对网络数据的担忧至少要追溯到2011年，在加州的一个大学课堂上。他说，在那门课上，几家美国西海岸科技公司的雇员公开嘲笑了欧洲严苛的数据保护规定。这些规定郑重其事地表示，隐私权是一项基本人权。
+After returning to Europe, he began a lengthy campaign against the type of data that Facebook collected on its users, including information on their physical locations.
+回到欧洲之后，他开始了一项长期活动，抗议Facebook搜集某些类型的数据，比如地理位置信息。
+To rein in the company’s efforts, Mr. Schrems filed multiple complaints with the Irish data protection watchdog, which is responsible for policing Facebook’s activities in its international headquarters in Dublin. That led to a three-month audit of how Facebook collected data, and changes to the way the company obtained and used people’s online information.
+为了限制Facebook的做法，施雷姆斯多次向爱尔兰的数据保护监管机构投诉。后者负责监管Facebook设在都柏林的国际总部的活动。这引发了对Facebook数据搜集方式的长达三个月的审核，并且迫使Facebook改变了一些获取和使用用户网上信息的操作。
+Unhappy with how Ireland’s regulator managed his case, Mr. Schrems intensified his campaign.
+施雷姆斯对爱尔兰监管机构处理该案的手法并不满意，此后加大了自身行动的力度。
+He appealed to the country’s highest court, which referred the case to the European Court of Justice, the region’s top court. A preliminary decision is expected by the end of June on whether Facebook and other companies can continue transferring data between Europe and the United States.
+他向爱尔兰的最高法院提出了上诉，后者将案子转交给了欧盟地区的最高法院——欧洲法院(European Court of Justice)。该院关于Facebook等公司能否继续在欧洲和美国之间传输用户数据的最初裁决，预计将于6月底做出。
+Many American tech giants rely on moving online information between the regions to feed their business models, like personalized digital advertising. If the European court rules in favor of Mr. Schrems, those practices could be drastically curtailed.
+许多美国科技巨头依靠在不同地区之间传输网络信息来支撑其商业模式，比如个性化的数字广告业务。如果欧洲法院的裁决支持施雷姆斯，那么这些操作或将大大受限。
+Mr. Schrems also filed a separate Austrian class-action lawsuit against Facebook after collecting more than 75,000 online signatures. He said that the company had violated Europe’s privacy rules — accusations Facebook strongly denies — and that his side could receive up to $14 million if he wins the case. A decision is not expected until at least early 2016.
+在征集了逾7.5万个网上签名之后，施雷姆斯还在奥地利发起了另一桩集体诉讼。他说，这家公司违反了欧洲的隐私规定——Facebook强烈否认这些指控——如果胜诉，他这一方可以获得至多1400万美元的赔偿。此案至少要等到2016年初才会有裁决。
+“This is about limiting what Facebook can do with Europeans’ data,” said Mr. Schrems, who remains active on the service despite his legal disputes. “How much should they be allowed to dig into the souls of their users? That’s what we’re fighting for.”
+“这是为了限制Facebook可以对欧洲用户的数据进行的操作，”施雷姆斯说。尽管与Facebook存在法律纠纷，他仍然是该网站的活跃用户。“应该允许他们在多大程度上挖掘用户的灵魂？这就是我们在努力抗争的问题。”
+Big European companies are also pushing for stronger oversight of Facebook, including the region’s well-connected telecom industry.
+欧洲的大型企业也要求对Facebook实行更加严格的监督。这其中包括在该地区颇具影响力的电信行业。
+After Facebook bought WhatsApp, the Internet messaging service, last year for $19 billion, many of Europe’s cellphone carriers lobbied hard for the region’s antitrust regulators to review the deal. Carriers say that by combining WhatsApp with Facebook’s own messaging service, the company has a virtual monopoly over how people send messages on their smartphones.
+在Facebook去年以190亿美元收购了网络即时通讯工具WhatsApp之后，许多欧洲的手机运营商进行了大力游说，要求欧盟的反垄断机构对这笔交易进行审核。这些运营商们提出，把WhatsApp与Facebook自身的即时通讯服务合起来考虑之后，Facebook基本垄断了用智能手机发送即时讯息的业务。
+Europe’s antitrust authorities, however, eventually approved the takeover, and Facebook contends there are other Internet messaging services that compete with its offerings.
+然而，欧洲的反垄断部门最终还是批准了这笔交易。Facebook也坚称，还有其他一些互联网即时通讯服务在与自己竞争。
+Yet lawmakers are now looking into whether Facebook’s messaging services should be regulated like those offered by traditional carriers. And industry executives say that as the social network starts to offer other services like phone calls through the company’s many smartphone applications, Facebook should play by the same rules that now apply to traditional mobile operators.
+然而，欧洲的议员们目前正在研究Facebook的即时通讯服务是否应该受到与传统运营商同样的监管。通讯行业的高管称，由于Facebook已经开始通过自身的许多智能手机应用来提供手机通话等服务，这家社交网络公司也应该遵守适用于传统移动运营商的规定。

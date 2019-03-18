@@ -1,0 +1,34 @@
+HONG KONG — It’s all over for humanity — at least in the game of Go.
+香港——人类全完了，至少在围棋上是这样。
+For the second game in a row, a Google computer program called AlphaGo beat the world’s best player of what many consider the world’s most sophisticated board game. AlphaGo is scheduled to play its human opponent, the 19-year-old Chinese prodigy Ke Jie, one more time on Saturday in the best-of-three contest.
+名为AlphaGo的谷歌计算机程序连续在第二局比赛中获胜，击败了世界上最好的围棋选手，许多人认为围棋是世界上最巧妙复杂的游戏。按照事先的安排，AlphaGo将在周六与其人类对手、19岁的中国围棋神童柯洁在这次三局两胜制比赛中再次较量。
+But with a score of 2-0 heading into that final game, and earlier victories against other opponents already on the books, AlphaGo has proved its superiority.
+但由于以2比0的比分进入最后一局比赛，加上以前击败其他对手的纪录，AlphaGo已经证明了自己的优越性。
+Discussing the contest afterward, Mr. Ke said a very human element got the better of him: his emotions. In the middle of the game, when he thought he might have had a chance at winning, he got too keyed up, he said.
+柯洁在事后谈到这局比赛时说，一个非常人类的因素让他失误：他的情绪。他说，在棋局中间，当他觉得自己可能有获胜的机会时，变得过于紧张。
+“I was very excited. I could feel my heart bumping,” Mr. Ke saidafter the contest, which took place in Wuzhen, near Shanghai. “Maybe because I was too excited I made some stupid moves.”
+“我太紧张了，心跳太快，”柯洁在第二局比赛结束后说，比赛是上海附近的乌镇进行的。“因为太紧张的缘故，下了一些不好的棋。”
+“Maybe that’s the weakest part of human beings,” he added.
+“我觉得这可能是人类的弱点，”他补充说。
+AlphaGo’s victory on Thursday simply reinforced the progress and power of artificial intelligence to handle specific but highly complex tasks. Because of the sheer number of possible moves in Go, computer scientists thought until recently that it would be a decade before a machine could play better than a human master.
+AlphaGo周四的胜利，只是进一步加强了人工智能在处理具体但非常复杂的任务上取得的进步和展现的能力。由于围棋中数量巨大的布子可能性，计算机科学家直到最近都认为，机器能战胜人类高手还需要十年的时间。
+A small consolation for Mr. Ke was that he played a near-perfect game for the first hundred moves, according to the scientists who designed AlphaGo.
+柯洁得到的一个小小的安慰是，他的前100步棋下得近乎完美，据设计AlphaGo的科学家说。
+Still, like a sprinter who can at first keep pace with a train, in the end Mr. Ke was left in the dust by the computer.
+尽管如此，就像一名短跑运动员在刚开始时能够跑得比火车快一样，柯洁最后还是被计算机击败了。
+Demis Hassabis, the co-founder of DeepMind — the artificial intelligence arm of Google’s parent, Alphabet Incorporated, that created the software — said that as he watched how close the game was, his pulse rate went up as well.
+AlphaGo是Google母公司Alphabet旗下的人工智能部门DeepMind研发的，DeepMind的联合创始人戴米斯·哈萨比斯(Demis Hassabis)说，他看到棋局最势均力敌时，自己心跳的速度也加快了。
+AlphaGo of course has no heart and feels no nerves, and in the end that may have helped make the difference. Scientists and futurists have pointed to that cold focus as a major reason artificial intelligence may someday take over large numbers of white-collar jobs. Still, that detachment means AlphaGo lacks the human touch required to manage employees, counsel patients or adequately write flowing newspaper features about its own dominance over humans.
+AlphaGo当然没有心脏，也没有紧张感，这最终也许有助于决定胜负。科学家及未来学家指出，能冷漠无情地集中注意力，是人工智能也许有朝一日取代大量白领工作的一个主要原因。然而，这种超然意味着AlphaGo不具某些工作所需的人情味，比如管理员工、为患者提供咨询，或者以足够优美的文笔写出关于自己支配人类的长篇报告文学。
+Tests of the technology in games like Go still mark an early step. Because the strategy options are limited to moves on a board, games like Go are particularly suited to the technology.
+在围棋这样的游戏中测试人工智能技术仍仅仅是个开端。由于其中的战略选择只限于棋盘上的步骤，围棋这样的游戏特别适合于这种技术。
+Computer scientists say that often the best use of artificial intelligence is not to pit it against humans, but to pair it with them.
+计算机科学家说，人工智能的最佳用途，往往不是让其与人类较量，而是让其与人类配合。
+To that end, two Go professionals, each partnered with AlphaGo, are scheduled to play against each other on Friday. Mr. Hassabis has said that top amateur Go players, with the help of AlphaGo, can generally manage to beat the software program in a match. In short, a human with a computer is still stronger than a computer.
+为此目的，周五将安排两名各自有AlphaGo配合的专业围棋手对决。哈萨比斯曾表示，得到AlphaGo帮助的顶级业余围棋手，通常可以在比赛中打败该软件程序。简言之，有计算机帮助的人仍比计算机强。
+Ke Jie has said that after the third game on Saturday, he will return to focusing on playing against humans, and is not likely to take on a computer again, arguing that the technology has become too formidable.
+柯洁表示，周六的第三局比赛之后，他将把精力返回到与人类棋手较量上来，不太可能再次挑战机器，他认为人工智能技术已变得过于强大。
+“After this time, AlphaGo to me is 100 percent perfection, to me AlphaGo is the god of the Go game,” he said after the game on Thursday.
+“这局棋后，AlphaGo在我眼里十全十美，对我来说，它就是围棋上帝，”他在周四的比赛之后说。
+“For human beings,” he added, “our understanding of this game is only very limited.”
+他补充说，“对人类来说，我们对围棋的认识非常有限。”

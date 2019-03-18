@@ -1,0 +1,56 @@
+When the world looks at the United States, it sees a land of exceptions: a time-tested if noisy democracy, a crusader in foreign policy, an exporter of beloved music and film.
+世界看美国，看到的是一个充满例外的土地：一个虽显吵闹但久经考验的民主政体，一个外交政策上的正义战士，一个生产着受欢迎的音乐、电影的出口国。
+But there is one quirk that consistently puzzles America’s fans and critics alike. Why, they ask, does it experience so many mass shootings?
+但有个古怪之处一直困扰着喜爱美国的粉丝和批评人士。他们问，为什么这个国家会有那么多大规模枪击案？
+Perhaps, some speculate, it is because American society is unusually violent. Or its racial divisions have frayed the bonds of society. Or its citizens lack proper mental care under a health care system that draws frequent derision abroad.
+有人猜测，这或许是因为美国社会格外暴力，或是因为国内的种族差异削弱了社会的联系，再或许是因为，在一个时常被外国嘲笑的医保系统内，它的国民无法得到良好的心理保健。
+These explanations share one thing in common: Though seemingly sensible, all have been debunked by research on shootings elsewhere in the world. Instead, an ever-growing body of research consistently reaches the same conclusion.
+这些解释有一个共同之处：看似在理，却都能被世界其他国家的枪击案研究反驳。不过，这些不断积累的研究倒是始终能得出一个相同的结论。
+The only variable that can explain the high rate of mass shootings in America is its astronomical number of guns.
+唯一能解释美国大规模枪击事件频发的变量，就是这个国家呈天文数字的枪支持有量。
+The top-line numbers suggest a correlation that, on further investigation, grows only clearer.
+随着调查深入，从总体数据可以看到这种关联越来越清晰。
+Americans make up about 4.4 percent of the global population but own 42 percent of the world’s guns. From 1966 to 2012, 31 percent of the gunmen in mass shootings worldwide were American, according to a 2015 study by Adam Lankford, a professor at the University of Alabama.
+美国人口占全球总人口约4.4%，却拥有全世界42%的枪支。阿拉巴马大学(University of Alabama)教授亚当·兰克福德(Adam Lankford)在2015年的研究发现，从1996年到2013年，全世界大规模枪击案凶手有31%是美国人。
+Adjusted for population, only Yemen has a higher rate of mass shootings among countries with more than 10 million people — a distinction Lankford urged to avoid outliers. Yemen has the world’s second-highest rate of gun ownership after the United States.
+计入人口因素，1000万人以上的国家中——为避免异常值，兰克福德强调了这一划分的必要性——只有也门的大规模枪击案发率高于美国。也门是世界上枪支持有率第二高的国家，仅次于美国。
+Worldwide, Lankford found, a country’s rate of gun ownership correlated with the odds it would experience a mass shooting. This relationship held even when he excluded the United States, indicating that it could not be explained by some other factor particular to his home country. And it held when he controlled for homicide rates, suggesting that mass shootings were better explained by a society’s access to guns than by its baseline level of violence.
+兰克福德发现，在世界范围内，一个国家的枪支持有率与大规模枪击事件的发生几率相关。即使排除美国，这一关系依然成立。这意味着问题不能只用美国的特有因素来解释。而它在对照了各国杀人案发率后也是成立的，意味着用一个社会获取枪支的难易度来解释大规模枪击事件，比用暴力基准水平更合理。
+If mental health made the difference, then data would show that Americans have more mental health problems than do people in other countries with fewer mass shootings. But the mental health care spending rate in the United States, the number of mental health professionals per capita and the rate of severe mental disorders are all in line with those of other wealthy countries.
+如果精神健康能产生影响，那么应有数据显示美国人比其他大规模枪击事件发生率低的国家有更多心理健康问题。但美国的心理健康医疗支出比率、人均拥有心理保健专家比率，以及患严重精神障碍的比率都和其他富裕国家相当。
+A 2015 study estimated that only 4 percent of U.S. gun deaths could be attributed to mental health issues. And Lankford, in an email, said countries with high suicide rates tended to have low rates of mass shootings — the opposite of what you would expect if mental health problems correlated with mass shootings.
+2015年的一项研究预计，美国只有4%的枪击死亡案件可归因于心理健康问题。兰克福德在一封邮件中表示，在拥有高自杀率的国家中，大规模枪击事件发生率往往较低——和心理健康问题与大规模枪击事件有联系这一观点恰恰相反。
+America’s gun homicide rate was 33 per million people in 2009, far exceeding the average among developed countries. In Canada and Britain, it was 5 per million and 0.7 per million, respectively, which also corresponds with differences in gun ownership.
+美国2009年的涉枪杀人死亡率为百万分之33，远超发达国家平均值。在加拿大和英国，该比率各为百万分之5和百万分之0.7，与其枪支持有率相一致。
+Americans sometimes see this as an expression of deeper problems with crime, a notion ingrained, in part, by a series of films portraying urban gang violence in the early 1990s. But the United States is not actually more prone to crime than other developed countries, according to a landmark 1999 study by Franklin E. Zimring and Gordon Hawkins of the University of California, Berkeley.
+美国人有时候会将这个问题视作犯罪方面深层问题的显露。这个观点根深蒂固，部分原因在于一系列刻画90年代城市帮派暴力的电影。但加州大学伯克利分校(University of California, Berkeley)的弗兰克林·E·齐姆林(Franklin E. Zimring)和戈登·霍金斯(Gordon Hawkins)在1999年的一项里程碑式研究表明，美国的犯罪问题并不比其他发达国家更严重。
+Rather, they found, in data that has since been repeatedly confirmed, that U.S. crime is simply more lethal. A New Yorker is just as likely to be robbed as a Londoner, for instance, but the New Yorker is 54 times more likely to be killed in the process.
+而他们在此后得到反复证实的数据中发现，美国的犯罪只是更加致命而已。比如说，一个纽约人被抢劫的几率和伦敦人一样高，但纽约人在这一过程中被杀害的可能性高了54倍。
+They concluded that the discrepancy, like so many other anomalies of U.S. violence, came down to guns.
+他们的结论是，这样的差异，与美国暴力的其他种种特殊性一样，都归结于枪支。
+Skeptics of gun control sometimes point to a 2016 study. From 2000 and 2014, it found, the U.S. death rate by mass shooting was 1.5 per one million people. The rate was 1.7 in Switzerland and 3.4 in Finland, suggesting U.S. mass shootings were not actually so common.
+对枪支管制持怀疑态度的人有时会指向一份2016年的研究。该研究发现，美国大规模涉枪杀人死亡率为百万分之1.5。在瑞士，该数字为百万分之1.7，芬兰则为百万分之3.4。这表示美国的大规模枪击案并没那么普遍。
+But the same study found that the United States had 133 mass shootings. Finland had only two, which killed 18 people, and Switzerland had one, which killed 14. In short, isolated incidents. So while mass shootings can happen anywhere, they are only a matter of routine in the United States.
+但该研究也发现美国有133次大规模枪击案。而芬兰只有2次，共造成了18人死亡；瑞士只有1次，造成14人死亡。总之，是孤立事件。所以，尽管大规模枪击案可能会发生在任何地方，但只在美国成了一种常态。
+As with any crime, the underlying risk is impossible to fully erase. Any individual can snap or become entranced by a violent ideology. What is different is the likelihood that this will lead to mass murder.
+与其他犯罪行为一样，潜在的风险是不可能完全消除的。每个人都可能突然失控，或沉迷于某种暴力意识形态。不同之处在于这种情况是否会导致大规模屠杀。
+In 2013, U.S. gun-related deaths included 21,175 suicides, 11,208 homicides and 505 deaths caused by an accidental discharge. That same year in Japan, a country with one-third America’s population, guns were involved in only 13 deaths.
+2013年美国涉枪死亡事件中，有21175起为自杀案、11208起为杀人案、505起为枪支走火。同年，人口为美国三分之一的日本只有13人死于涉枪事件。
+This means an American is about 300 times more likely to die by gun homicide or accident than a Japanese person. America’s gun ownership rate is 150 times as high as Japan’s. That gap between 150 and 300 shows that gun ownership statistics alone do not explain what makes America different.
+这意味着美国人死于枪杀或枪支事故的可能性比日本人高出大约300倍。美国的枪支持有率比日本高出大约150倍。150和300的差距表明，仅凭枪支持有率的数据不足以解释美国的不同。
+The United States also has some of the world’s weakest controls over who may buy a gun and what sorts of guns may be owned.
+美国同时还是世界上对购买枪支者身份、所能购买枪支的种类管制最松的国家。
+Switzerland has the second-highest gun ownership rate of any developed country, about half that of the United States. Its gun homicide rate in 2004 was 7.7 per million people — unusually high, in keeping with the relationship between gun ownership and murders, but still a fraction of the rate in the United States.
+瑞士枪支持有率在发达国家中第二高，约是美国的一半。瑞士2004年的涉枪杀人死亡率为异常之高的百万分之7.7，体现了枪支持有与杀人案的相关，但这跟美国相比仍然是微不足道的。
+Swiss gun laws are more stringent, setting a higher bar for securing and keeping a license, for selling guns and for the types of guns that can be owned. Such laws reflect more than just tighter restrictions. They imply a different way of thinking about guns, as something that citizens must affirmatively earn the right to own.
+瑞士的枪支法律更加严格，为获得和持有枪支许可证、售卖枪支及可持有枪支的种类设定了更高的标准。这类法律不仅反映了更严格的管制，也表达了对待枪支的另一种观点：持枪权是需要公民自己积极去争取的。
+The United States is one of only three countries, along with Mexico and Guatemala, that begin with the opposite assumption: that people have an inherent right to own guns.
+世上只有三个国家从一开始就坚持一个相反的假设：持枪是天赋人权。这三个国家除美国以外，还有墨西哥和危地马拉。
+The main reason U.S. regulation of gun ownership is so weak may be the fact that the trade-offs are simply given a different weight in the United States than they are anywhere else.
+美国对枪支所有权的监管如此薄弱的主要原因，可能在于美国的权衡取舍与其他地方不同。
+After Britain had a mass shooting in 1987, the country instituted strict gun control laws. So did Australia after a 1996 incident. But the United States has repeatedly faced the same calculus and determined that relatively unregulated gun ownership is worth the cost to society.
+在1987年的一起大规模枪击事件之后，英国制定了严格的枪支管制法律。澳大利亚在经历1996年的事件之后也是如此。但反复面临着同样问题的美国却认定，社会为相对不受管制的枪支持有付出代价是值得的。
+That choice, more than any statistic or regulation, is what most sets the United States apart.
+这个选择，比任何统计数据或管制更能说明美国的不同。
+“In retrospect Sandy Hook marked the end of the US gun control debate,” Dan Hodges, a British journalist, wrote in a post on Twitter two years ago, referring to the 2012 attack that killed 20 young students at an elementary school in Connecticut. “Once America decided killing children was bearable, it was over.”
+英国记者丹·霍奇斯(Dan Hodges)在两年前发了一条推：“如今看来，桑迪·胡克(Sandy Hook)标志着美国枪支管制争论的结束。”他指的是2012年康涅狄格州一所小学遭袭击、20名年幼学生被杀害的事件。“一旦美国认为杀害儿童都可以忍受，就没什么可说的了。”

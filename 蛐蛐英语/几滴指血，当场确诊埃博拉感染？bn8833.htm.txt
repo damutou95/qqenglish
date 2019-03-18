@@ -1,0 +1,32 @@
+Searching for a new way to attack Ebola, companies and academic researchers are now racing to develop faster and easier tests for determining whether someone has the disease.
+为了寻找对抗埃博拉的新方法，相关公司和学术研究人员正在竞相研发更快、更易判定是否感染埃博拉的方法。
+Such tests might require only a few drops of blood rather than a test tube of it, and provide the answer on the spot, without having to send the sample to a laboratory.
+此类检测方法可能只需要几滴血，而不是整个试管，当场就可以知道结果，不必将样本送到实验室。
+The tests could be essential in West Africa, where it can take days for a sample to travel to one of the relatively few testing laboratories, leaving those suspected of having the disease in dangerous limbo.
+这种检测方法在西非可能是不可或缺的。西非的检测实验室相对较少，样本到达实验室需要几天的时间，致使那些可能感染疾病的人处于危险之中。
+Rapid tests might also be used to screen travelers at airports, providing a more definitive answer than taking their temperatures.
+快速检测的方法也可能用于机场对旅客的检测，结果会比体温检测更可靠。
+“There’s a great deal of interest in a technology that can screen large numbers of people from a finger prick in only a few minutes,” said Cary Gunn, chief executive of Genalyte, a company in San Diego that says its approach can do just that. “You can imagine testing an entire planeload of passengers and screening through them cost-effectively.”
+“大家对在几分钟时间内通过手指点刺对一大批人进行检测的技术有着浓厚的兴趣，”自称能够做到这一点的圣迭戈Genalyte公司首席执行官卡里·甘(Cary Gunn)说。“用低成本的方法对飞机上所有乘客进行检测是有可能的。”
+The World Health Organization is encouraging development of rapid tests, as is the federal government. The Food and Drug Administration is giving emergency authorization for use of qualified Ebola tests. On Oct. 25, it gave such a clearance for a one-hour test developed by BioFire Defense, although that test requires more than a few drops of blood and is typically sent to a laboratory. “It would have taken years to get this product approved through the traditional process,” said Kirk Ririe, chief executive of the company, which is based Salt Lake City and owned by the French diagnostics firm BioMérieux.
+像联邦政府一样，世界卫生组织(The World Health Organization)也在鼓励研发快速检测的方法。美国食品与药品管理局（Food and Drug Administration，简称FDA）给予合格的检测方法紧急使用授权。10月25日，FDA给予BioFire Defense研发的耗时一小时的检测方法此类授权，尽管这种检测需要的不只是几滴血，而且通常需要将样本送往实验室。该公司首席行政官柯克·里利(Kirk Ririe)说，“传统的批准程序需要几年的时间。”这家位于盐湖城的公司归法国诊断公司生物梅里埃公司(Biomerieux)所有。
+Companies are hoping to get their tests into the field in Africa in the next few months, but it is not clear how many will be in time to make a difference in the outbreak. And some health specialists caution that while one company after another is announcing an Ebola test, there is little information about their accuracy.
+相关公司希望未来几个月在非洲使用他们的检测方法，但目前尚不清楚多大规模的检测才能及时阻止疫情的蔓延。一些卫生专家警告称，虽然一个又一个的公司公布了埃博拉检测方法，但几乎有没有关于检测准确性的信息。
+Even in the United States, delays can occur, with samples being sent to the Centers for Disease Control and Prevention in Atlanta or some state public health laboratories.
+即便是在美国，也可能出现延迟，因为样本要被送到亚特兰大的疾病控制与预防中心（Centers for Disease Control and Prevention，简称CDC），或是其他州立公共卫生实验室。
+It took about two days for the confirmation that Thomas Eric Duncan was infected after his second visit to a Dallas hospital.
+达拉斯的一家医院在托马斯·埃里克·邓肯(Thomas Eric Duncan)第二次前往就医后，用了大约两天时间才确诊他被感染了。
+With flu season coming, hospitals might benefit from having a quick way to rule out Ebola for certain patients as their emergency rooms fill with people with fevers and other symptoms that overlap with those of Ebola.
+随着流感季节的临近，迅速排除某些病人感染了埃博拉这个可能性的办法，可能会让医院受益。在流感季节，医院急诊室将挤满出现了发烧等和埃博拉相同症状的病人。
+The standard testing technique for Ebola is known as reverse transcription polymerase chain reaction, or RT-PCR. It amplifies the genetic material of the virus, allowing even tiny quantities to be detected. It is very accurate if done correctly.
+标准的埃博拉检测技术被称作逆转录聚合酶链反应，简称RT-PCR。该技术会放大埃博拉病毒的遗传物质，甚至还能探测到少量病毒。如果操作正确，这种技术非常准确。
+But PCR generally requires a tube of blood and is performed by trained personnel on a sophisticated machine. A test can take two to six hours or more and cost about $100.
+但聚合酶链反应通常要使用一管血液，并且要由训练有素的人员在精密仪器上操作。一次检测可能要花6个小时，甚至更久，花费大约是100美元（约合610元人民币）。
+BioFire’s FilmArray test, the one authorized for emergency use by the F.D.A., is a PCR test that can be done in one hour.
+BioFire公司的FilmArray检测也是一种聚合酶链反应，能在一个小时以内完成检测。该技术得到了FDA的应急授权。
+More than 300 hospitals already have one of BioFire’s $39,000 machines, which they have been using to test for other diseases. Now they can test for Ebola on site, though positive findings are supposed to be confirmed by the C.D.C.
+已有300多家医院配备了该公司价值3.9万美元的仪器，不过它们一直被用来检测其他疾病。现在，它们能现场检测埃博拉，尽管呈阳性的检测结果需得到CDC的确认。
+A BioFire machine is in a special isolation ward used to treat Ebola patients at Emory University Hospital, and an instrument was delivered to Bellevue Hospital Center in New York after Dr. Craig Spencer was admitted for treatment.
+在艾默里大学医院(Emory University Hospital)，BioFire公司的一台仪器被安放在一间用于治疗埃博拉患者的特殊隔离病房里。在接治克雷格·斯潘瑟医生(Craig Spencer)后，贝尔维尤医院中心(Bellevue Hospital Center)也配备了一台这样的仪器。
+What would be most valuable in Africa, some health specialists say, is a test that takes a few minutes, as the person awaits results, and costs a few dollars at most.
+一些卫生专家称，在非洲，可以在被检测人在场情况下几分钟内得出结果，而且最多只花几美元的检测，才是最具价值的。

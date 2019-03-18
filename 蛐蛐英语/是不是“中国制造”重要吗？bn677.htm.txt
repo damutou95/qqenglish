@@ -1,0 +1,36 @@
+Tags and advertising slogans proclaiming manufacture in a specific country are fading, because goods assembled with components from many different countries represent a growing share of international trade.
+表明产品产自具体某个国家的标签和广告标语正在消失，因为由来自不同国家的部件组装而成的商品反映出，国际贸易的比例正越来越高。
+“Made in U.S.A.” still appeals to many consumers, but businesses have found that that classification can be iffy.
+“美国制造”依然能吸引许多消费者，但企业发现，这种归类是有问题的。
+And how do you decide what is an import and what is an export when imports are important inputs into many exports, and vice versa?
+当进口货物是许多出口货物的重要零部件时，你如何判断什么是进口商品，什么是出口商品呢？反之亦然。
+In their new book, “Outsourcing Economics,” William Milberg and Deborah Winkler contend that neither the economics profession nor national trade accounts have caught up to that question.
+在合著的新书《外包经济学》(Outsourcing Economics)中，威廉·米尔贝格(William Milberg)和黛博拉·温克勒(Deborah Winkler)认为，经济学界和贸易收支都不知道如何面对这个问题。
+No company illustrates this phenomenon better than Apple, considered a virtuoso in the realm of outsourcing as well as in design. Most iPhones are assembled in China, contributing to a huge trade surplus with the United States in recent years. But a detailed case study estimates that in 2009, the value added in China amounted to less than 4 percent of the total manufacturing cost.
+没有哪家公司能比被视为外包界和设计界大师的苹果(Apple)更好地说明这种现象。多数iPhone都是在中国组装的，这导致近年来中国同美国的贸易出现巨大的顺差。 但据2009年的一项详细的案例研究估算，在中国的附加值不及总制造成本的4%。
+In other words, iPhones are not really made in China, even though their final assembly takes place there. The cost of components imported from Germany, Japan, South Korea, the United States and other countries far exceeded the value added in China. Measured in these terms, rather than final sales, China’s apparent trade surplus in iPhones is actually a deficit.
+换句话说，尽管iPhone最终是在中国组装而成的，但它们并非真的是中国制造的。进口自德国、日本、韩国、美国和其他国家的零部件成本远远高于在中国附加的价值。以这些方面而非最终销售额来衡量，中国在iPhone业务上看上去处于贸易顺差地位，实际上却是贸易逆差。
+Rather than exporting iPhones, China simply represents a particularly visible part of Apple’s global supply chain.
+中国是苹果全球供应链中格外显眼的一环，但它并没有出口iPhone。
+The traditional theory of foreign trade is based on the notion that some countries have a comparative advantage in the production of specific goods and services in a competitive global market. It offers few insights into the strategic behavior of corporate oligopolies choosing the optimal location for the performance of specific tasks.
+在充满竞争的全球市场上，部分国家在特定商品和服务的生产和提供上具有相对优势，这是传统外贸理论的出发点。企业寡头要为具体任务的执行选择最佳位置，但该理论几乎没有为它们的战略行为提供什么洞见。
+Professors Milberg and Winkler define offshoring as “all purchases of intermediate inputs from abroad, whether done through arms-length contract (offshore outsourcing) or within the confines of a single multinational corporation.”
+米尔贝格教授和温克勒教授将离岸定义为“所有从国外购买中间投入品的行为，不管是通过双方的正常交易合同（离岸外包），还是在一个跨国企业内部完成”。
+They estimate that the value of imported inputs as a percentage of total nonenergy inputs in manufacturing in the United States reached 16.4 percent in 2010, up from 12.5 percent in 1998 and 6.2 percent in 1984.
+他们估计，美国制造业的进口投入品在所有非能源投入中所占的比例，在2010年达到了16.4%，而在1998年和1984年，这一比例分别为12.5%和6.2%。
+Debates over the future of manufacturing in the United States sometimes raise the prospect of “reshoring” as wages rise in developing countries, but the number of companies (including Apple) that have moved some production back to the United States remains small, and the overall effect in terms of total value added has not been accurately measured.
+针对美国制造业的未来产生的争论，有时会让人们觉得随着发展中国家工资水平的提高，可能会出现“外包回流”的现象，但将部分生产转移回美国的公司（包括苹果在内）数量依然很小，而且按总附加值计算，其效果也尚未得到精确的测算。 
+Who cares if trade takes the form of offshoring (apart from the fact that it becomes more difficult to measure)? One could argue that it still offers potential benefits for consumers, even at the cost of extensive job loss.
+谁会介意贸易是不是以外包的形式进行的呢（除了它变得更难测算了之外）？有人会说，它依然为消费者提供了潜在利益，哪怕是以广泛的失业为代价。 
+But attention to global value chains and to decisions within companies moves analysis of trade away from markets toward institutions — both corporations and governments — that regulate or fail to regulate their practices.
+然而对全球价值链和公司内部决策的关注，使得针对贸易所做的分析从市场转向了监管（或者说未能监管）企业业务行为的制度，这些制度既涉及企业，也涉及政府。 
+Most large multinational corporations enjoy considerable market power, increasing their bargaining power with small supplier companies that operate under far more competitive pressure. Their resources make it easy for them to use the lowest-wage labor available. They can use these cost savings to increase their profit margins and overall profits rather than to lower prices for consumers in the United States. Apple’s gross margins on iPhones from 2010 to 2012 exceeded 49 percent.
+大部分大型跨国企业都有着相当大的市场支配力，这增加了它们同小型供应商的议价能力，那些小企业在经营中面临的竞争压力远远更大。这些大型跨国企业的资源，让它们能轻松地使用能找到的最廉价的劳动力。它们能用这些节约成本的手段提高自己的利润率和整体利润，而不是去降低美国消费者要支付的价格。在2010年到2012年间，苹果iPhone业务的毛利润率超过49%。 
+Traditional trade theory typically contrasts gains to consumers with losses to workers in specific industries. But with offshoring, the job losses extend beyond specific industries (such as clothing or textiles) to affect the manufacturing sector as a whole.
+传统的贸易理论通常会把消费者的收益与特定行业从业人员的损失进行对比。但通过外包，不仅特定行业（比如服装业或纺织业）会出现失业，还会影响整个制造业。 
+In the idealized world of perfect markets, high profits quickly faded away as new entrants joined the fray. In the world we actually live in, large companies take advantage of economies of scale and maneuver strategically to buffer themselves from price competition. As a result, they capture a large share of the gains to trade that would otherwise be passed on to consumers.
+在一个有完美市场的理想世界，随着新参与者的加入，高利润会很快消失。而在我们真正生活的这个世界里，大公司会利用规模经济，进行战略调整，减缓自己受到的价格竞争的冲击。因此，它们获得了很大比例的贸易收益，这些收益本来可以流向消费者的。 
+The growing separation of management, production and regulation has weakened the relative bargaining power of workers in the United States. Professors Milberg and Winkler assert persuasively that it has also weakened other links between profits and economic growth, funneling resources into the financial sector rather than into productive domestic investment. From their perspective, the changing structure of trade contributed significantly to a redistribution of income away from workers, increasing the indebtedness that drove the recent financial crisis and recession.
+管理、生产和监管的分离日益加重，已经削弱了美国员工的相对议价能力。米尔贝格教授和温克勒教授令人信服地指出，它同时还削弱了利润和经济增长之间的关系，让资源流入了金融产业，而非具有生产力的国内投资。在他们看来，变化的贸易结构严重加剧了收入再分配朝有损于工薪阶层的方向转变，加剧了民众的债务负担，而这又加深了最近的金融危机和经济衰退。 
+It’s hard to fit their analysis onto a label or advertising slogan. But consumers, as well as workers, need to know more about the distribution of gains from trade, which matters far more than the specific countries where things are made.
+很难把他们的分析放到商品标签上或简化成广告语。但消费者和员工都需要更加了解从贸易中获得的收益是如何分配的，这比知道产品具体产自哪个国家重要得多。

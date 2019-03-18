@@ -1,0 +1,38 @@
+Some forms of exercise may be much more effective than others at bulking up the brain, according to a remarkable new study in rats. For the first time, scientists compared head-to-head the neurological impacts of different types of exercise: running, weight training and high-intensity interval training. The surprising results suggest that going hard may not be the best option for long-term brain health.
+一项在老鼠身上进行的引人注目的新研究表明，某些形式的运动可能比其他的更能有效健脑。这是科学家们首次将不同类型的运动——跑步、力量训练和高强度间歇训练——对神经系统的影响进行头对头(head-to-head)比较。结果令人惊讶：想要促进大脑的长期健康，剧烈运动可能并非最佳选择。
+As I have often written, exercise changes the structure and function of the brain. Studies in animals and people have shown that physical activity generally increases brain volume and can reduce the number and size of age-related holes in the brain’s white and gray matter.
+正如我经常指出的，运动可以改变大脑的结构和功能。动物和人体研究都表明，一般而言，体育活动可以增加脑容量，并可减少与衰老有关的脑部白质和灰质孔洞的数量和大小。
+Exercise also, and perhaps most resonantly, augments adult neurogenesis, which is the creation of new brain cells in an already mature brain. In studies with animals, exercise, in the form of running wheels or treadmills, has been found to double or even triple the number of new neurons that appear afterward in the animals’ hippocampus, a key area of the brain for learning and memory, compared to the brains of animals that remain sedentary. Scientists believe that exercise has similar impacts on the human hippocampus.
+或许最为引起共鸣的是，运动还可以有效地增强成年人的神经发生，即在已经发育成熟的脑部生成新的脑细胞。在动物研究中，动物在跑轮或跑步机上慢跑后，海马新生神经元的数量可达一直不运动的对照组的两倍甚至三倍，而海马正是学习和记忆的关键脑区。科学家认为，运动对人体海马也会产生类似的影响。
+These past studies of exercise and neurogenesis understandably have focused on distance running. Lab rodents know how to run. But whether other forms of exercise likewise prompt increases in neurogenesis has been unknown and is an issue of increasing interest, given the growing popularity of workouts such as weight training and high-intensity intervals.
+既往的这些关于运动和神经发生的研究多集中在长跑这种运动形式上，这很容易理解。实验室养的啮齿类动物都懂得该如何奔跑。然而，其他形式的运动是否也能促进神经发生仍属未知。随着力量训练和高强度间歇训练等锻炼形式日益普及，人们对这一问题的兴趣也与日俱增。
+So for the new study, which was published this month in the Journal of Physiology, researchers at the University of Jyvaskyla in Finland and other institutions gathered a large group of adult male rats. The researchers injected the rats with a substance that marks new brain cells and then set groups of them to an array of different workouts, with one group remaining sedentary to serve as controls.
+于是，在这项本月发表在《生理学杂志》(The Journal of Physiology)上的新研究中，芬兰于韦斯屈莱大学(University of Jyvaskyla)和其他机构的研究人员收集了一大群成年雄性大鼠，并给它们注射了一种可以标记新生脑细胞的物质，然后将其分为数组，让它们分别进行不同的运动项目，另外还设置了一组保持不运动的动物作为对照组。
+Some of the animals were given running wheels in their cages, allowing them to run at will. Most jogged moderately every day for several miles, although individual mileage varied.
+一些动物的笼子里安置了跑轮，供它们随意跑动。大多数大鼠每天都会适度地慢跑个几英里，只是具体里程各有不同。
+Others began resistance training, which for rats involves climbing a wall with tiny weights attached to their tails.
+另一些大鼠开始进行抗阻力训练，即让大鼠在尾部拴着微小重物的情况下爬墙。
+Still others took up the rodent equivalent of high-intensity interval training. For this regimen, the animals were placed on little treadmills and required to sprint at a very rapid and strenuous pace for three minutes, followed by two minutes of slow skittering, with the entire sequence repeated twice more, for a total of 15 minutes of running.
+还有一些大鼠接受高强度间歇训练。该方案先将大鼠置于微型跑步机上，让它们以非常急促的步伐做3分钟冲刺跑，随后慢慢走上2分钟，再将前述过程重复两遍，总共跑步15分钟。
+These routines continued for seven weeks, after which the researchers microscopically examined brain tissue from the hippocampus of each animal.
+锻炼持续七周后，研究人员用显微镜检查了每只动物海马中的脑组织。
+They found very different levels of neurogenesis, depending on how each animal had exercised.
+他们发现，动物的神经发生水平因其从事运动的种类不同而存在明显差异。
+Those rats that had jogged on wheels showed robust levels of neurogenesis. Their hippocampal tissue teemed with new neurons, far more than in the brains of the sedentary animals. The greater the distance that a runner had covered during the experiment, the more new cells its brain now contained.
+在跑轮上慢跑的大鼠表现出强大的神经发生水平。它们的海马组织充满了新生神经元，数量远远超过了不运动的那些动物。实验期间大鼠的跑步距离越长，脑中的新生细胞越多。
+There were far fewer new neurons in the brains of the animals that had completed high-intensity interval training. They showed somewhat higher amounts than in the sedentary animals but far less than in the distance runners.
+完成高强度间歇训练的动物脑中的新生神经元虽然比不运动的动物略多，但远少于长跑的同类。
+And the weight-training rats, although they were much stronger at the end of the experiment than they had been at the start, showed no discernible augmentation of neurogenesis. Their hippocampal tissue looked just like that of the animals that had not exercised at all.
+而接受力量训练的大鼠虽然在实验结束时比开始时强壮得多，但神经发生却没有明显的增强。它们的海马组织看起来跟那些从来没有运动过的同类没什么差别。
+Obviously, rats are not people. But the implications of these findings are provocative. They suggest, said Miriam Nokia, a research fellow at the University of Jyvaskyla who led the study, that “sustained aerobic exercise might be most beneficial for brain health also in humans.”
+当然，老鼠跟人毕竟是两码事。但这些研究结果确实引人深思。该研究的负责人、于韦斯屈莱大学的研究员米丽娅姆·诺基亚(Miriam Nokia)说，这表明：“持续的有氧运动对人类的脑健康可能也最为有益。”
+Just why distance running was so much more potent at promoting neurogenesis than the other workouts is not clear, although Dr. Nokia and her colleagues speculate that distance running stimulates the release of a particular substance in the brain known as brain-derived neurotrophic factor that is known to regulate neurogenesis. The more miles an animal runs, the more B.D.N.F. it produces.
+目前尚不清楚为什么长跑促进神经发生的效果远优于其他锻炼，但诺基亚博士和同事们推测，长跑刺激了已知可调节神经发生的特殊物质——脑源性神经营养因子(brain-derived neurotrophic factor, B.D.N.F.)的释放。动物跑的里程越多，就会有越多的B.D.N.F.产生。
+Weight training, on the other hand, while extremely beneficial for muscular health, has previously been shown to have little effect on the body’s levels of B.D.N.F., Dr. Nokia said, which could explain why it did not contribute to increased neurogenesis in this study.
+另一方面，虽然力量训练对肌肉健康极其有利，但如前所述，它对身体的B.D.N.F.水平影响不大，诺基亚博士指出，这就解释了为什么该研究中它未能促进神经发生。
+As for high-intensity interval training, its potential brain benefits may be undercut by its very intensity, Dr. Nokia said. It is, by intent, much more physiologically draining and stressful than moderate running, and “stress tends to decrease adult hippocampal neurogenesis,” she said.
+至于高强度间歇训练，其对大脑的潜在效益可能被它本身的强度削弱了，诺基亚博士说道。因专注度的不同，这种运动带来的生理压力大于中速跑步，也更容易造成疲劳，而“压力会减少成熟海马的神经发生”，她说。
+These results do not mean, however, that only running and similar moderate endurance workouts strengthen the brain, Dr. Nokia said. Those activities do seem to prompt the most neurogenesis in the hippocampus. But weight training and high-intensity intervals probably lead to different types of changes elsewhere in the brain. They might, for instance, encourage the creation of additional blood vessels or new connections between brain cells or between different parts of the brain.
+然而，这些结果并不代表只有跑步和类似的中等强度的耐力锻炼才能强化大脑，诺基亚博士说。这些活动促进海马神经发生的效果最好。但力量训练和高强度间歇训练也可能会引发脑部其他部位发生不同类型的改变。例如，它们可能会促进血管增生，或在脑细胞之间或大脑不同部位之间建立新的连接等。
+So if you currently weight train or exclusively work out with intense intervals, continue. But perhaps also thread in an occasional run or bike ride for the sake of your hippocampal health.
+所以如果你目前正在从事力量训练或者只做高强度间歇训练，请继续。不过，为海马的健康着想，或许你偶尔也该去跑跑步或者骑骑自行车。

@@ -1,0 +1,48 @@
+This interview with Jess Lee, chief executive of Polyvore, a fashion website, was conducted and condensed by Adam Bryant.
+以下与时尚网站Polyvore的首席执行官杰丝·李(Jess Lee)的访谈由亚当·布兰特(Adam Bryant)主持和整理。
+Q. Were you in leadership roles as a child?
+问：你童年时就总是担任领导者的角色吗？
+A. No. I was very shy, but my mom was an entrepreneur and ran a translation company out of our home in Hong Kong. She would always tell me it’s best to be your own boss. She was very proud of it, so that was probably an early influence. I always knew that I wanted to do my own thing; I just didn’t know what it was.
+答：不，我那时非常害羞。不过我母亲是一位创业者，在我们香港的家里开了一家翻译公司。她总是会告诉我，最好当自己的老板。她对这件事非常自豪，所以那很可能是我受到的早期影响。我总是知道，我想做自己的事情，只是不知道那是什么而已。
+Q. What about after college? 
+问：那么大学毕业以后呢？
+A. I studied computer science, and I had thought that my path would be to become an engineer. But I got a call from a recruiter at Google, who said, “You should come interview for the associate product manager program.” I didn’t know what a product manager was, so I just went, even though I already had another offer I was planning to take. I ended up meeting Marissa Mayer. I said to her: “I don’t know if I want to work here. I have this other offer. I think I’m going to be an engineer.”
+答：我学的是计算机科学，我一直以为自己的职业道路就是成为一名工程师。但是，有一天我接到了谷歌(Google)招聘人员打来的电话，“你应该过来面试助理产品经理的项目。”我不知道助理产品经理到底做什么，所以我就直接去了，虽然当时已经拿到了一封录用函，我也准备要接受。结果我和玛丽莎·梅耶尔(Marissa Mayer)见了面。我对她说：“我不知道自己是不是想来这里工作。我已经有了一个工作机会。我想自己会成为一名工程师。”
+She told me: “The best advice I can give you is that when I had to make a choice between two paths, I always chose the more challenging one, and that has always been the correct decision. So you should think about that.” That’s how I ended up at Google.
+她对我说：“我能给你最好的建议就是，当我面临两条道路的选择时，总是会挑更有挑战性的那条，迄今为止这也一直是正确的决定。所以你应该再想想。”于是我就去了谷歌。
+Q. What leadership lessons did you learn there?
+问：你在那里学到了何种领导经验？
+A. One was that you need to get the respect of the engineers. There’s a reason Google hires computer science majors to be product managers, because then you really know what the engineers are talking about. When I prioritize what work needs to get done, I can do the mental calculus of how long it will take.
+答：一个就是：你需要得到工程师的尊重。谷歌雇佣计算机科学专业的人担任产品经理是有原因的，因为这样你就真的能明白工程师们在说些什么。当我决定工作的优先次序时，我会在脑中计算所需的时间。
+Q. So how did you end up at Polyvore?
+问：那你又怎么到了Polyvore？
+A. I always knew I wanted to do something different on my own. One of my friends showed me Polyvore, and I just fell in love with the product. I wrote a note to the founders — I didn’t know them — and just said: “Hey, this is amazing. I have some complaints and some suggestions.” I wrote a long list of complaints, and then they wrote back and said: “Hey, why don’t you fix this stuff yourself? Why don’t you join us?” We met for coffee and we clicked. In the beginning, I was writing code, selling ads, washing dishes, whatever needed to get done. After a few years the founders came to me and said, “We’d like to start recognizing you as a co-founder going forward.” They didn’t have to do that, but the company has a culture of rewarding people who do make a difference. A few years later they said, “We’ve decided to make you C.E.O.”
+答：我一直知道我想自己做些不一般的事情。我的一个朋友给我展示了Polyvore，我立刻就爱上了它。我给创始人写了封信，虽然我并不认识他们。信中说：“嗨，这太棒了。但我有一些不满和建议。”我写下了一长串需要改进的地方，然后他们回信说：“嗨，你为什么不来自己修正？为何不加入我们？”我们一起喝了个咖啡，立刻就感到如此契合。开始的时候，我写代码、卖广告、洗盘子，有什么干什么。过了几年，公司的几个创始人跑来跟我说，“我们想从现在开始确立你作为公司联合创始人的地位。”他们其实不必这么做，但公司的文化是会对做出贡献的人进行奖励。又过了几年，他们说，“我们已决定让你担任CEO。”
+Q. Have you heard any feedback since you’ve been C.E.O. that has made you adjust your leadership style a bit?
+问：自从你成为了公司的CEO，有没有收到过任何反馈，让你对自己的领导风格有所调整？
+A. One of the things I’m really good at dealing with is ambiguity — when something’s changing constantly or if the next seven steps aren’t clear. What that led to was a lack of process and structure that was affecting people on the team, because they didn’t know what was supposed to happen next. So I started working more on putting systems in place for communication and creating a clearer road map.
+答：我非常擅长处理的问题之一就是不确定的局面，也就是当事情总在改变，或者接下来的几步并不清晰的时候。这样的局面会导致发展停滞和秩序混乱，会影响团队成员，因为他们不知道接下来会发生什么。所以我就开始把更多精力投入到搭建一个沟通体系，以及创立一条更为清晰的道路上。
+Q. Tell me about the culture of Polyvore.
+问：和我谈谈Polyvore的文化吧。
+A. We always had a very distinct culture, but one of the first things I did was write it down. We have three values. The first one is “delight the user.” The others are “do a few things well’ and “make an impact.”
+答：我们向来有一种非常独特的文化。不过，我最早做的事情里头，就有把它写下来。我们有三项原则。第一是“让用户愉快”，其他两项是“专注干好少数几件事”和“带来影响”。
+Q. Tell me more about “do a few things well.”
+问：能和我多说说“专注干好少数几件事”吗？
+A. We believe that you have to keep things as simple as possible, edit out the things that are unnecessary or extraneous and focus on polishing the details. This applies to our user experience, as well as to the processes in the company. A pretty extreme example of this is that we did a “simplification month” in January. We just asked everyone in the company to make a list of everything that they do, identify the things that are important, and for the rest of the list, simplify it, optimize it or delete it so we can get the company to the simplest possible state. It’s really important to take the time to clean up all the entropy that otherwise will happen.
+答：我们认为，必须让事情尽量简化，去掉不必要或无关的元素，把精力集中在对细节的完善上。这一点不仅适用于我们的用户体验，也适用于公司的运作流程。一个极致的例子是，我们在今年1月推出了“简化月”的活动。我们让公司里的每个人把他们所有的工作列成一份明细单，从中识别哪些事情重要，再对单子上其余各项进行简化、优化或删除。这样，我们就能让公司达到尽可能简单的状态。花时间清除可能出现的混乱，这真的相当重要。
+Q. What else about your culture? 
+问：那么公司文化的其他方面呢？
+A. One thing that’s fun is that we have an employee-of-the-month award. You get $500 to spend on the company. People have picked out a foosball table, or hired a food truck for the entire team to eat at for lunch, or bought a huge beanbag chair. We also had a Scotch-tasting party.
+答：一个有趣的事情是，我们有一项当月员工奖。获奖员工可以决定怎么为公司花500美元（约合3000元人民币）。有人挑了桌上足球，有人雇了一辆流动餐车为整个团队烹制午餐，还有人买了一个巨大的豆袋椅。我们还办了一场苏格兰威士忌品酒会。
+Q. How do you hire? 
+问：你们怎么招聘员工？
+A. I’m trying to understand three things. One is their motivation. I like to ask, “What’s the most rewarding thing you’ve ever worked on, that you’re most proud of?” You learn a lot about what the person cares about, what they prioritize, and whether they say “I” or “we.” Then you just drill down a little bit more to understand what they actually did in the project.
+答：我会努力弄清楚三件事。一是应聘者的动机。我喜欢问，“你曾做过回报最大、最让你自豪的事情是什么？”你能从中了解很多，比如他们在意什么、怎么区分主次，以及句子里是说“我”还是“我们”。然后，再稍稍追问一下，了解他们在项目上具体做了什么。
+I also try to understand if they have the ability to break a big, hairy, complex problem down into smaller pieces, because that shows their problem-solving ability. You’re always going to be challenged to do something that seems impossible or difficult, and you have to be able to break it down in order to make any progress. For product managers, I’ll ask a weird, open-ended design question about an unrelated field so that the answer is not super-obvious, so they have to ask for clarification and break it down into a simpler problem and then solve those separate parts. I want to understand their problem-solving process, because some people immediately jump to drawing a solution on the board and some people try to actually understand the problem first.
+我还会设法了解，他们是否有能力把一个复杂棘手的大问题分解成一个个的小问题，因为这能显示出他们解决问题的能力。你总是会遇到挑战，需要你完成看似不可能或者有难度的任务，为了取得一星半点的进展，你就必须得有能力分解这些任务。对于产品经理，我会问一个不相关领域里的古怪的、开放式的设计问题，如此一来，答案就不会那么明显，这样他们就必须要求我解释一下问题，再把它分解成各个简单的部分，然后逐一解决。我想了解他们解决问题的流程，因为有些人会立即起身到题板上写下解决方案，另外一些人就会试图先真正地理解问题。
+For people who are going to be managers, I’m looking for self-awareness and emotional intelligence. So I’ll ask questions like, what is the biggest misconception that people have about you? Because that really forces you to think about who you are as a person, and how people perceive you.
+对于想要成为管理者的人，我会希望他们是有自知、高情商的。所以我会问这样的问题，比如人们对你最大的误解是什么？因为这真的会强迫你思考，作为一个人你到底是怎样的，别人又是怎么看你的？
+Q. And how would you answer that question?
+问：你自己又会怎么回答这个问题？
+A. I come across as pretty nice, but I’m tougher than I look. I really care about the things I care about. I will fight for them. I will stand up for those things. You might not guess that when you first meet me.
+答：我给人的印象是非常友好，可是我比看上去的更强硬。对我在意的东西，我是真的很在意。我会为之战斗。我会努力捍卫它们。第一次遇见我的时候，你大概不会这么想吧。

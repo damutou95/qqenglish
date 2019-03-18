@@ -1,0 +1,56 @@
+Try this simple test at home: What’s the name of Dell’s best-selling PC? Anybody? Anybody?
+在家做做这个简单的测试吧：戴尔(Dell)个人电脑中最畅销的那款叫什么？有人知道答案吗？有人吗？
+Right. Nobody knows.
+没错，没有人知道。
+And nobody cares. Today, it’s all about phones and tablets, baby. Nobody buzzes about the PC anymore. Innovation is dead. Sales are down, right?
+也没人在乎。现在是手机和平板电脑的天下了，宝贝儿。已经没有人关心个人电脑了。创新已死，销售量也下降了，不是吗？
+Actually, there’s one pocket of surging sales and innovation in PC land: the luxury all-in-one computer, of the type made famous by the iMac.
+不过，事实上，在个人电脑的世界里，还有一块风水宝地，那里销售量激增，创意不断，这就是因iMac而出名的豪华一体化电脑。
+I took a look at three silver, high-design, screen-on-a-stalk competitors: Apple’s new iMac ($1,300 and up), Hewlett-Packard’s SpectreOne ($1,300 and up), and the Vizio All-in-One Touch PC ($1,000 and up). (Lenovo, Dell, Samsung and Acer also offer, or soon will offer, very similar all-in-ones.)
+我对比了三款银白色的一体化电脑，这些竞品分别是：苹果(Apple)全新的iMac（售价1300美元起）、惠普(Hewlett-Packard)的SpectreOne（售价1300美元起），以及Vizio的触摸屏一体机（售价1000美元起）。（联想、戴尔、三星和宏基等品牌也已推出了或者即将推出类似的一体机。）
+What characterizes these computers? First, an emphasis on looks. They’re shiny, sleek, futuristic, uncluttered and cordless (they come with Bluetooth wireless keyboard and trackpad or mouse). They’re sculpture. In your kitchen or on your desk, they contribute to the décor even when they’re turned off.
+这些电脑有什么特点呢？首先，非常注重外观设计。这些一体机表面光洁、线条流畅，设计新颖、简洁大方，并且具有无线功能（随机配备无线蓝牙键盘和触控板或鼠标）。它们简直就是雕塑品。不论放在你的厨房里还是办公桌上，即使不开机，他们也能为家庭的装饰增色不少。
+The usual box of innards is missing. In the iMac, the guts are concealed behind the screen. In the Vizio, they’re in the foot of the monitor. In the H.P., they’re inside the stalk that supports the screen.
+我们常见的那个装满内部原件的机箱盒不见了。在iMac上，电脑的内部原件藏在显示屏后。在Vizio上，它们在显示屏的底座里。而在惠普的一体机中，它们是在支撑显示屏的支架里。
+The second common trait is state-of-the-art components. These computers offer gorgeous, vivid, high-definition screens. And they’re fast; they’re powered by the latest Intel chips and lots of memory.
+这些一体机的第二个共性就是，它们使用的都是最先进的元件。这些电脑有着华丽、图像逼真的高分辨率显示屏。它们的速度很快；它们由最新Intel芯片驱动，内存超大。
+Third characteristic: no DVD drive.
+第三个特点：没有DVD驱动器。
+What? Do these companies really think that the era of the disc is over? That nobody will ever again want to digitize music from a CD? Or burn some files to a disc to hand to a colleague? Or borrow a DVD from the library?
+什么？难道这些公司真的以为光盘时代一去不复返了吗？而且不再有人会想将一个CD上的音乐转为数字格式？或者把一些文件刻录到光盘上交给一个同事？再或者从图书馆借一盘DVD？
+Apple, H.P. and Vizio seem to believe that everything is online now. Well, it’s not. You can, of course, buy an external DVD drive. But aren’t these called “all in ones”? A drive just looks stupid.
+苹果、惠普和Vizio似乎都认为，现在所有的东西在网上都有。呃，其实不是。当然，你可以单独买一个外置DVD驱动器。但是，难道这些电脑不是叫做“一体机”吗？一个驱动器只会看上去很傻。
+All right, end of rant.
+好了，不抱怨了。
+The new iMac, clad in its traditional aluminum, is stunning. The stand is still a thin, curved L of metal — but now, the screen appears to be just as thin (0. 2 inches). Where are the guts?
+周身包裹着传统铝制外壳的全新iMac，令人叹为观止。它有着轻薄的、略带弧度的L型金属支架，但是现在，它的显示屏看上去也同样薄（0.2英寸）。那些电脑内部元件都去哪儿了？
+Turns out it’s a trick — an illusion. Behind the screen, you see a substantial bulge; Apple tapered the aluminum as it approaches the screen, so that from front angles it seems that the whole screen is razor thin. Apple has also eliminated much of the glare that has long dogged today’s glossy screens. Viewed side-by-side with its rivals, the iMac is a lot less reflective.
+原来这是个小把戏，一个障眼法。在显示屏背面，你能看到一个明显的凸起部分；在靠近屏幕边缘的部分，苹果的铝制机身逐渐变薄。这样一来，从正面的不同角度看，整个屏幕都显得特别薄。苹果还克服了长久以来困扰光滑显示屏的反光问题。和同类产品放在一起，iMac的反光度相对小很多。
+There are two iMac sizes: 21.5 and 27 inches. The $1,300 and $1,800 base models come with a 1-terabyte hard drive, 8 gigabytes of memory and an i5 Intel processor. 
+iMac现有两个尺寸：21.5英寸和27英寸。这两款基础配置的iMac分别售价1300美元和1800美元，它们都配有1TB的硬盘、8G的内存和一个Intel i5处理器。
+On the 21.5-incher, you can’t upgrade the memory yourself; what you buy is what you’ll have forever, unless you take it into the shop. On the 27-inch model, you can install as much as 32 gigabytes yourself, through an easily opened door. (That, for the record, is about 262,144 times the memory as the original Macintosh.)
+21.5英寸的那款iMac，你没法自己升级内存，你买时内存多大，它就是那么大，除非你带到店里让人帮你升级。而27英寸的那一款，你就可以通过一个容易打开的内存插槽，增加最多32G的内存。（顺便说一下，这是最早款Macintosh内存的262144倍。）
+Vizio isn’t a company you expect to be in the PC business; it made its mark selling high-quality, low-price TV sets. And sure enough, by far the best part of the All-in-One Touch PC is its lovely touch screen, available in 24- and 27-inch versions.
+你应该不会想到Vizio会进军个人电脑市场；它的明星产品本是物美价廉的电视机。而且，可以肯定的是，目前为止这款触摸屏一体机最棒的部分就是它漂亮的触摸式显示屏，有24英寸和27英寸两种。
+A nontouch version is also available, but the Vizio comes with Windows 8, which is far more pleasant to use with a touch screen.
+Vizio也推出了非触屏版，但是因为其配备的操作系统是Windows 8，使用触摸显示屏要好用得多。
+(Microsoft is pushing computer makers to add touch screens to ordinary desktop computers, but I have my doubts. A phone or tablet is close to your body, but a desktop screen is far away and vertical, which makes precision finger movements awkward. And then there’s finger-grease buildup.)
+（微软正在推动电脑制造商给普通台式机加上触摸屏，但对此我持保留意见。手机和平板电脑通常距你的身体很近，但是台式显示器却距离远，且呈垂直角度，这使得手指活动的精准性难以把握。然后，屏幕还会沾上指印）
+The rest of the Vizio isn’t quite as dazzling. The body, the keyboard and the large trackpad feel plasticky. You’re supposed to plug the PC into the subwoofer, and then the subwoofer plugs into a power outlet; oddly, though, the sound isn’t half as crisp or rich as the iMac’s subwooferless speakers.
+Vizio的其他部分就不是那么炫目了。机身、键盘以及触摸板都有较强的塑料感。你应该把电脑接入低音炮，然后把低音炮接入一个插座；但奇怪的是，它的声音还不及iMac无低音炮音响一半清脆或浑厚。
+Vizio should also be praised for resisting the urge to clutter your new computer with trialware and other third-party junk. It’s a clean Windows installation.
+Vizio并没有随波逐流，给你的新电脑装上试用版软件或者其他第三方垃圾软件，这值得表扬。它装配了一个干净的Windows操作系统。
+The 27-inch Vizio starts at $1,300 — $500 less than the iMac — but of course you’re not getting as much. You get less memory, a slower processor, an audible fan, a lower-resolution screen (1920 by 1080 pixels; the iMac is a razor-sharp 2560 by 1440) — and a lot more plastic.
+27英寸的Vizio起价为1300美元，比iMac低500美元，当然你得到的也较少，它的内存较小、处理器较慢、能让人听得见风扇的声音、显示器的分辨率较低（1920乘1080，iMac的分辨率则是十分锐利的2560乘1440）以及更多塑料部件。
+H.P. is asking $1,300 for its SpectreOne. That’s pretty costly for a 23.6-inch PC without a touch screen, only two USB jacks (plus an HDMI input) and only 6 gigabytes of memory; as with the iMac, you’re paying a lot for style. This machine looks terrific. It, too, feels like silver-painted plastic, but it’s the most compact PC among these three.
+惠普的SpectreOne要价1300美元。这对于一台23.6英寸的、没有触摸屏、仅有两个USB接口（以及一个HDMI输入端）、6G内存的个人电脑来说太贵了。同iMac一样，你花很多钱来买它的时尚外观。这款机器外观很棒。它给人的感觉也像是涂上银漆的塑料货，但是在这三款个人电脑中，它集成了最多的功能。
+You also get both a cordless mouse and a trackpad, as well as NFC — near-field communications. This feature lets you exchange information (a map, a photo, an address) from an NFC-equipped Android phone with your PC. Or, after some programming setup, you can log onto your SpectreOne just by tapping your phone to it — an ordinary phone to which you’ve attached one of the two included NFC stickers.
+你也能得到一个无线鼠标、一个触摸板以及近场通讯(near-field communications, NFC)功能。这一功能可以让你在一台配有NFC功能的Android手机与个人电脑之间进行无线共享（地图、照片、地址）。或者，经过一番程序设置，你可以通过普通手机接入你的SpectreOne。SpectreOne附送两个NFC胶贴，你只在你的手机上贴上一片，就能实现接入。
+Some models of these three computers incorporate a solid-state drive (SSD), a chunk of superfast flash memory. It speeds up overall operation by copying (caching) frequently used bits of data onto the SSD.
+这三种电脑的部分机型包含一个固态硬盘(SSD)，即一个超高速闪存。它能通过将常用数据复制（缓存）到固态硬盘来加速整体运行速度。
+On the Vizio and H.P., it’s a 32-gigabyte cache. Apple’s Fusion drive, a $250 option, is much bigger (128 gigabytes) and works differently. Apple says that instead of just caching (duplicating) frequently used data, the SSD actually stores important files, like Mac OS X itself, your programs, maybe the video scene you’re editing.
+Vizio和惠普的机器都有32G的缓存。苹果的Fusion drive技术的缓存容量更大(128G)，并有着不同的运行原理，这是一个价值250美元的选配装置。苹果公司说，苹果固态硬盘不仅只缓存（复制）常用数据，事实上它也会存储重要文件，像Mac OS X操作系统、你的应用程序、或者是你正在编辑的视频画面。
+Whatever; it works. The SSD iMac is crazy fast: 15 seconds to start up; 1 second to open a browser; 2 seconds for iPhoto; 2 for Final Cut. It’s fast.
+不管怎么说，它的确好用。iMac的SSD快得难以置信，开机只需15秒，1秒钟打开浏览器，2秒钟打开iPhoto程序，2秒钟打开Final Cut。它很快。
+All of these machines are successful in their goals. The iMac has the best screen you’ve ever seen on a computer, the finest craftsmanship and ridiculously fast response. The Vizio’s touch screen and low price give it a charm all its own. And the H.P. is competent, tidy and unimposing.
+所有这些机器都成功实现了它们自己的目标。iMac的显示器是你在所有电脑上看到过最好的，工艺最精湛，反应速度快得惊人。Vizio的触屏及其低价也有着独特魅力。而惠普的性能不错，外观整洁、低调。

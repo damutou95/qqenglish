@@ -1,0 +1,44 @@
+WASHINGTON — In this always-on, always-connected world, what good is a Fitbit with no GPS or an iPad that can’t connect to the cloud?
+华盛顿——在这个时刻在线、永远互联的世界，没有GPS功能的Fitbit，无法连接云端的iPad，能有什么用?
+Hint: Ask President Obama.
+给你个提示：问问奥巴马总统。
+Mr. Obama is the first true gadget geek to occupy the Oval Office, and yet his eagerness to take part in the personal technology revolution is hampered by the secrecy and security challenges that are daily requirements of his job.
+奥巴马是第一位真正痴迷电子设备的美国总统，但他参与个人技术革命的巨大热情，被自己日常工作所需的保密性和安全性所阻碍。
+What counts as must-have features for many people — high-definition cameras, powerful microphones, cloud-connected wireless radios and precise GPS location transmitters — are potential threats when the leader of the free world wants to carry them around.
+对于很多人来说，高像素摄像头、高性能的麦克风、云端连接的无线收音机、精确的GPS定位信号传送器是必不可少的功能，但当这位自由世界领袖也想随身携带这些东西时，却会给他带来潜在的威胁。
+And so using the latest devices means more than merely ordering one on Amazon for delivery to 1600 Pennsylvania Avenue. It means accepting the compromises imposed by White House technology experts, whose mission is to secure the president’s communications, and by the Secret Service agents who protect him.
+所以对他而言，使用最新的设备，不是从亚马逊下订单，让对方送到宾夕法尼亚大道1600号那么简单，他还必须接受白宫技术专家和特勤局(Secret Service)特工要求他做出的妥协，前者的任务是确保总统的通讯安全，后者则保护他人身安全。
+“I am not allowed, for security reasons, to have an iPhone,” Mr. Obama conceded at a youth summit in 2013.
+“出于安全因素考虑，我不能使用iPhone，”奥巴马曾在2013年的一次青年领袖峰会上承认这一点。
+He has not given up, though. Mr. Obama is the first commander in chief to regularly carry a specially secured BlackBerry. He reads briefings and checks scores from ESPN on an iPad (the first of which was given to him by Steve Jobs before its public release). And recently he has been seen wearing the Fitbit Surge, a fitness band packed with all the latest technology, on his left wrist.
+但是，他并没有放弃。奥巴马是首位经常携带一部经过特殊安全处理的黑莓手机的美国三军统帅。他会在iPad上阅读简报，偶尔看一眼ESPN频道上的体育比赛结果（他的第一个iPad是史蒂夫·乔布斯送给他的，当时产品还没有正式发布）。最近有人看到他左手腕上带着一个Fitbit Surge，一种采用了大量最新技术的健身手环。
+Still, from the experiences of others inside the White House, it is easy to conclude that Mr. Obama is not having a typical out-of-the-box experience with his electronic toys.
+不过，以白宫其他高层人士的经历来看，我们很容易地得出如下结论：在他的电子“玩具”上，奥巴马没有过典型的开箱即用体验。
+James E. Cartwright, a retired Marine general who served as the vice chairman of the Joint Chiefs of Staff during part of Mr. Obama’s first term, was one of the administration’s earliest tech adopters. Eager for a better way to have information at his fingertips in top-secret meetings, General Cartwright was dazzled by the possibilities when the first iPad was unveiled early in 2010.
+曾在奥巴马第一任期内担任参谋长联席会议(Joint Chiefs of Staff)副主席的退役海军上将詹姆斯·E·卡特赖特(James E. Cartwright)，也是美国政府内最早使用这类科技产品的人之一。卡特赖特上将渴望在绝密会议中能以更理想的方式随时取阅一切信息，所以当2010年初iPad面世时，这种设备所带来的可能性令他大为倾倒。
+“If nothing else, in the physical sense, not having to have large binders and four lieutenants to carry them for me,” General Cartwright said of his decision to carry his briefing documents on an iPad. “As soon as people saw it, the race was on: ‘How do I get one?’”
+“撇开其他不谈，单就物理感受而言，不用再看巨大的活页夹，也不需要找四个副官为我拿着这些东西，”卡特赖特说的是他的简报文件，他当时决定把它们都放到iPad里随身携带。“但凡有人看见它，就肯定会争着要：‘我怎么才能弄一个？’”
+But it wasn’t that easy, he recalled. The general’s iPad was essentially a prototype modified at his direction by the Defense Advanced Research Projects Agency, the military’s high-tech lab that helped develop weather satellites, the Internet, GPS, and stealth technology.
+但他回忆，这一点并不容易实现。卡特赖特上将的iPad实际上是由国防高级研究计划局(Defense Advanced Research Projects Agency)按照他的指示改造过的，该机构是美国军队的高科技实验室，帮助进行气象卫星、互联网、GPS和隐身技术等方面的研发。
+The agency made physical alterations to the iPad, removing the cameras, wireless chips, location sensors and microphones. Briefing documents were loaded onto the device every morning via a secure cable. Anything General Cartwright wanted to save came off the device the same way in a process he called “store and dump.”
+它对iPad进行了硬件改造，去掉了摄像头、无线芯片、定位传感器和麦克风。简报文件每天早上通过一根安全线缆传送到这个设备上。卡特赖特想要保存的任何东西，都要经过一个名为“存储和丢弃”的过程以同样的方式从设备中取出。
+“What I ended up with was a pretty dumb iPad,” he said. “It wasn’t connected to anything. Anything was removed that could transmit.”
+“所以我最后用上的是个挺不智能的iPad，”他说。“它不能和任何东西相连。里面所有可以传输信号的零件都被摘掉了。”
+The president has acknowledged that his BlackBerry is enhanced with security features that ease fears of his emails being hacked or intercepted. Even so, his communications are severely limited — only a small number of designated people are even allowed to send him email.
+奥巴马总统也承认，他使用的黑莓手机经过安全升级，可以消除他的邮件被黑客盗取或拦截的担忧。但即便如此，他的通讯还是受到极大的限制，甚至只有一小部分特定的人被允许向他发送邮件。
+When Mr. Obama posted his first message from the @POTUS Twitter account in May, he borrowed an iPhone from a staff member instead of using his secure BlackBerry.
+去年5月，奥巴马在其Twitter账户@POTUS上发布的第一条推文，是借了一位工作人员的iPhone发布的，而不是使用他自己的黑莓手机。
+Such precautions are seen as vital in an era when cyberattacks from the nation’s adversaries are common.
+在一个经常遭敌对国网络攻击的时代，这样的谨慎被认为是必不可少的。
+Mr. Obama is not the first person inside the White House to take precautions against high-tech dangers.
+奥巴马不是第一个针对来自高科技的威胁采取预防措施的总统。
+In 2007, Vice President Dick Cheney disabled the wireless abilities of his defibrillator, which had been implanted to regulate his heartbeat. His fear: that terrorists could have hacked the signal in an assassination attempt, not unlike the dramatic plot twist that killed the vice president in Showtime’s “Homeland” a few years ago.
+2007年，当时的副总统迪克·切尼(Dick Cheney)去掉了放置在他体内的除颤器的无线功能，这个小仪器可以使他的心脏正常搏动。他的担忧是：恐怖分子可能会试图获取这个除颤器的无线信号以便谋杀他，就像几年前Showtime电视剧《国土安全》(Homeland)里副总统被暗杀的惊人桥段一样。
+But Mr. Obama is the first committed early adopter of personal technology to serve as president. In 2014, he told his helicopter pilot to wait while he ran back into the Oval Office. “I forgot my BlackBerry,” the president told reporters, holding the phone up. When Mr. Obama filmed a short video preview before his State of the Union address this year, his BlackBerry could be seen on the desk behind him, and his new Fitbit was clearly visible.
+但奥巴马是第一个积极尝试采用个人科技产品的总统。2014年，他让直升机飞行员等一下，然后跑回椭圆形办公室。“我忘带黑莓手机了，”总统举起手机对记者说。今年发表国情咨文演讲之前，奥巴马拍摄了一段简短的视频，你可以看到他身后桌子上的黑莓手机，他的新Fitbit也清晰可见。
+Those close to him say he envisions an ultra-high-tech presidential library when he leaves the White House. And in long dinners with Silicon Valley titans, he has talked extensively about ways to better use personal technology to increase voter turnout and improve civic engagement.
+据了解他的人说，他打算在离开白宫后，开设一个超高科技的总统图书馆。在与硅谷巨头共进丰盛晚餐的时候，他也泛泛地谈到如何更好地利用个人技术来提高选民投票率，促进公民参与度的方式。
+Mostly, though, Mr. Obama is just intent on being plugged in the way most Americans are these days. In a town hall exchange in 2011 with Jorge Ramos of Univision, Mr. Obama seemed amused that Mr. Ramos did not think he had his own computer.
+但总的来说，奥巴马只是想与大多数美国人时下的生活方式保持一致。2011年他在一个市政厅会面中与Univision的豪尔赫·拉莫斯(Jorge Ramos)交谈，拉莫斯没有想到奥巴马有自己的电脑，这似乎让他觉得很好笑。
+“I mean, Jorge, I’m the president of the United States,” he said. “You think I’ve got to go borrow somebody’s computer?”
+“我说，豪尔赫，我可是合众国总统，”他说。“你以为我还得去借别人的电脑吗？”

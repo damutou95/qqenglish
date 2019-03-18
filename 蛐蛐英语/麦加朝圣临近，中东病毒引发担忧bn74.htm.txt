@@ -1,0 +1,40 @@
+A man in a Saudi hospital has pneumonia. The patient in the room next door gets sick, and before anyone realizes what is happening he infects seven others, each of whom infects at least one more. An outbreak is born.
+沙特一家医院里有一名男子得了肺炎。隔壁病房的病人也发病了，等人们反应过来时，他已经传染了七个人，这些人中每人又至少传染了一个人。一场疫情由此爆发。
+A detailed investigation of the viral illness first detected last year in Saudi Arabia has revealed the chilling ease with which the virus can spread to ill patients in the hospital — and its ability to infect some close contacts like hospital staff and family members who were in good health. A report on the investigation published Wednesday in The New England Journal of Medicine pinpointed the time it takes for a person to get sick after being exposed to the virus, a median of 5.2 days.
+经过仔细的调查，去年这场最早在沙特阿拉伯检测到的病毒传播让我们看到一个可怕的现象，病毒在医院病人中间可以如此轻易地传播——而且身体健康但和病人有密切接触的人也可以被感染，比如医院员工和病人家属。周三在《新英格兰医学期刊》(The New England Journal of Medicine)上发表的调查报告精确测算了一个人在接触病毒后多久发病，中间值为5.2天。
+The disease has now infected 64 people and killed 38 in eight countries. Saudi Arabia has had the most cases. The United States has had none.
+如今这种病毒已经在八个国家里感染了64人，死亡38人。其中沙特阿拉伯患病人数最多。美国目前还没有发现。
+The disease was first recognized in Saudi Arabia last September, and was later named MERS, for Middle East respiratory syndrome. It is caused by a coronavirus, a relative of the virus that caused SARS (severe acute respiratory syndrome), which originated in China and caused an international outbreak in 2003 that infected at least 8,000 people and killed nearly 800.
+去年九月在沙特阿拉伯首次发现这种病，后来被命名为中东呼吸综合症（Middle East respiratory syndrome，简称MERS）。它由一种冠状病毒引起，跟导致SARS（严重急性呼吸道综合症）的病毒是有关的，后者是2003年在中国爆发，最终扩散到全球，至少8000人被感染，死亡将近800人。
+MERS has not spread as rapidly or as widely as SARS did. The first few MERS cases seemed to pop up sporadically and mysteriously, and at first doctors did not think the disease was contagious. But over time it became apparent that patients in hospitals could infect one another, and that family members and health workers could sometimes contract it, too.
+MERS的传播没有像SARS那么迅速，范围也没那么广。最初的几个MERS病例是零星而神秘地浮现的，一开始医生认为这种病不会传染。但是过了一段时间情况就清晰了，医院的病人是会传染别的病人的，家属和医护人员有时也会感染。
+The apparently high death rate from the disease has worried health experts. More than half of the confirmed cases have been fatal. However, it is possible that milder cases have gone undetected and that the disease is not as deadly as it may initially appear, said Dr. Trish M. Perl, an author of the new report, and a senior hospital epidemiologist and professor of medicine at Johns Hopkins University, who traveled to Saudi Arabia to investigate the outbreak.
+看似较高的死亡率让医疗专家感到担忧。超过一半的确诊病例是致死的。然而，新报告作者之一、约翰·霍普金斯大学(Johns Hopkins University)资深医院流行病学家、医学教授翠西·M·珀尔(Trish M. Perl)说，也有可能是一些较轻微的病例一直没有被检测到，这种病的致死率并非一开始表现的那么高。珀尔曾前往沙特阿拉伯调查这场疫病。
+But Dr. Perl added: “I’m very concerned about the amount of transmission we’ve witnessed in health care facilities, and the severity of disease we witnessed. And you’re helpless. There’s nothing to offer these patients.”
+但是珀尔也说：“我们在医疗机构内看到了大规模的传播，还有这种疾病的严重程度，都让我很担心。而你完全无能为力，帮不了这些病人。”
+Dr. Perl, who also helped track the SARS outbreak in Toronto, said the new disease was very much like SARS, “almost scarily close.”
+曾在多伦多参与过SARS疫情追踪的珀尔说，这种新型疾病跟SARS非常相似，“像得有些吓人了。”
+One patient infected seven others, somewhat reminiscent of the SARS phenomenon in which some patients were “superspreaders” who infected dozens of other people. But it is too soon to tell whether that kind of transmission will continue to occur with MERS, Dr. Perl said.
+一名病人感染七人，多少让人回想起SARS爆发时的一种现象，一些病人是“超级传染者”，可以把病传染给几十个人。但是珀尔说这样的传播是否会在MERS疫情中重现尚不得而知。
+Doctors are trying antiviral drugs, but there is no proven drug treatment and no preventive vaccine. There is no rapid diagnostic test for people with symptoms; testing must be done at specially equipped labs. Nor is there a reliable test to determine whether people were exposed in the past, something that would help determine how widespread and severe the infection is.
+医生在尝试用抗病毒药物，但是还没有什么药物治疗是经证明有效的，也没有预防性疫苗。对出现症状的患者也缺乏快速的诊断检测方法；检测必须在有特殊设备的实验室内进行。此外也不存在一种可靠的检测方法来判定一个人在过去是否接触了病毒，而这方面的情况是有助于判断病毒扩散的广度和感染的严重程度的。
+Although many experts say global health authorities have gotten much better than in the past at detecting and investigating sudden disease outbreaks, Dr. Perl said they still were not responding quickly or effectively enough.
+尽管有许多专家说，在突发性疫情的侦测和调查方面，全球卫生职能部门和过去相比已经有了长足进步，但珀尔还是认为它们的反应速度和效率不够。
+“It’s déjà vu,” she said. “How many times do we have to do this before we start having surveillance strategies to protect ourselves? Have we lost our way? This has been dragging on since September. There’s been a lot of wringing of hands. We haven’t learned from our past mistakes.”
+“这就像历史再次重演，”她说，“到底还要出多少次这样的事，我们才能建立起监测策略来保护我们自己？我们是迷糊了吗？这事已经从9月份一直拖到现在了。很多人在受煎熬。我们没有从过去的错误中吸取教训。”
+So far, according to the World Health Organization, all the cases have originated in Jordan, Qatar, Saudi Arabia or the United Arab Emirates. Four other countries, Britain, France, Italy and Tunisia, have found cases in returning travelers and their close contacts.
+据世界卫生组织(World Health Organization)称，迄今为止所有病例都来自约旦、卡塔尔、沙特阿拉伯或阿联酋。另外四个国家，英国、法国、意大利和突尼斯，也发现了病例，但都是归国的旅行者和与他们有密切接触的人。
+The SARS virus is thought to have originated with bats, and scientists suspected that the same might be true of MERS, and that people might have contracted it from eating dates that had been contaminated by bats. But so far, no bats or any other animals have been found to be infected, according to Dr. Alimuddin I. Zumla, an author of the study and a professor of infectious diseases and international health at University College London Medical School.
+SARS病毒被认为是发源于蝙蝠的，科学家们怀疑MERS也是这样，可能是有人食用了被蝙蝠污染的椰枣而感染病毒。但是，据报告作者之一、伦敦大学学院医学院(University College London Medical School)传染病和国际卫生学教授阿里木町·I·卒穆拉(Alimuddin I. Zumla)说，到目前为止还没有发现有蝙蝠或任何一种动物被感染。
+“They have looked at over 200 animal species in the kingdom, thousands of samples from bats, cats, camels, other animals,” Dr. Zumla said. “Unfortunately, at the moment there is no link.” He said air-conditioning systems and water supplies were also being checked.
+“他们已经在该国检查了超过200个动物物种，数千个蝙蝠、猫、骆驼等动物样本，”卒穆拉说，“不幸的是，目前还看不到关联。”他说空调系统和供水系统也受到了检查。
+More than twice as many men as women have contracted the disease. Researchers do not know why.
+男性感染病毒案例比女性多出一倍多。研究人员不清楚原因何在。
+“I don’t think the virus prefers any gender,” Dr. Zumla said, adding that he suspected that Saudi women might be protected by their veils, which cover their mouths and noses and might help keep the virus out.
+“我不认为某个性别更容易感染病毒，”卒穆拉说，他还说他怀疑沙特女性的面纱可能起到了防护作用，这种面纱会盖住嘴和鼻子，也许能防止病毒进入。
+Health officials are not recommending travel restrictions, but Dr. Zumla said that Saudi health officials had begun screening visitors for symptoms of the disease, like runny noses, coughs and fever.
+卫生官员并未建议对旅行加以限制，但卒穆拉说沙特卫生部门已经开始对入境者进行筛查，查找该疾病的相关症状，例如流涕、咳嗽和发烧。
+He said health experts would be increasingly concerned as the time nears for the annual pilgrimage of Muslims to Mecca.
+他说随着一年一度的穆斯林麦加朝圣临近，卫生专家的担忧也日渐加剧。
+“Four million pilgrims from 182 countries are coming to Saudi Arabia in two months’ time,” Dr. Zumla said. “I am worried, as a physician.”
+“未来两个月里，来自182个国家的四百万朝圣者将会来到沙特阿拉伯，”卒穆拉说，“作为一名医生，我很担心。”

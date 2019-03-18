@@ -1,0 +1,44 @@
+Nokia, which began making rubber boots for Finnish workmen 150 years ago and was an innovative leader of the cellphone industry in the 1990s, is once again evolving.
+150年前，诺基亚(Nokia)开始为芬兰工人生产胶靴；上世纪90年代，它成为移动电话领域的领头羊，富于创新精神；如今，诺基亚正在再次转变。
+It will still exist after Microsoft buys the company’s handset business. While Microsoft is acquiring what Nokia is best known for, the Finnish company is holding on to two if its major businesses: networking and mapping.
+手机业务被微软(Microsoft)收购后，诺基亚依然存在。尽管微软收购的是诺基亚最有名的业务，但这家芬兰公司保留着两项主要业务：网络和地图。
+“There’s a lot of emotion involved in this move,” Timo Ihamuotila, Nokia’s chief financial officer, said in an interview. “Nokia has been synonymous with cellphones for the last two decades. It’s hard, but Finland will have two strong technology companies that result from this deal.”
+“这么做让我们心情复杂，”诺基亚首席财务官蒂莫·伊哈莫蒂拉(Timo Ihamuotila)在接受采访时说，“过去20年，诺基亚一直是手机的同义词。尽管很难，但这项交易将会为芬兰带来两家强大的科技公司。”
+Nokia focused on cellphones in the 1990s after facing financial difficulties. By the height of the dot-com boom at the end of the 1900s, Nokia was the world’s largest cellphone maker. It attained a market value of around $250 billion. Yet a failure to develop a smartphone good enough to rival Apple’s iPhone and popular Android-based devices from Samsung Electronics collapsed the company’s market share from around 30 percent in 2009 to less than 4 percent last year, according to the research firm Gartner. In 2013, Samsung dethroned Nokia to become the largest phone maker.
+上世纪90年代，面临财务困境的诺基亚开始把精力集中在手机上。在20世纪末互联网热潮的最高点，诺基亚是全球最大的手机生产商。其市值约为2500亿美元（约合1.53万亿元人民币）。但由于诺基亚未能开发出一款足以与苹果(Apple)的iPhone和三星电子(Samsung Electronics)基于Android的设备相匹敌的智能手机，根据调研公司高德纳(Gartner)的数据，其市场份额从2009年的30%左右暴跌至去年的不足4%。2013年，三星取代诺基亚，成为最大的手机生产商。
+While Nokia’s mobile phone business has been dwindling, the remaining segments are not laggards. Flush with Microsoft money from selling off its core businesses, the new Nokia could be well positioned to compete. It might be invisible to consumers, but Nokia’s networking business, which includes equipment it sells to telecom operators to run their wireless networks, brings in the majority of the company’s annual revenue.
+尽管诺基亚的移动电话业务一直在缩水，但余下的业务却并不落后。将核心业务卖给微软将带来充足的资金，全新的诺基亚可能会以合适的定位参与竞争。消费者可能不知道，诺基亚年收入中的大部分都来自其网络业务，其中包括销售给电信运营商供其运行无线网络的设备。
+Nokia’s maps technology, another part of the company Microsoft does not want, has a valuable global database of geographical information. Called Here, it can be licensed to other companies that want to build products and services around maps.
+诺基亚的地图技术也是微软不想要的，但该技术有一个宝贵的全球地理信息数据库。诺基亚可以将这个名为Here的数据库授权给其他希望打造地图周边产品和服务的公司使用。
+Without having to worry about making popular software and sleek phones to compete in the brutal handset industry, the new Nokia would be freed to build a profitable company from the remaining businesses. But it is unclear how well those businesses will stand on their own. And even without a mobile unit, Nokia still has to compete in a rapidly changing mobile industry that left it behind long ago.
+新诺基亚不用再担心要为参与手机行业残酷的竞争，而开发受欢迎的软件和时尚的手机，现在它可以摆脱限制，从余下的业务中打造出一家盈利的公司。但尚不清楚这些业务能否很好地独立运行。而且，即便没了手机业务部门，诺基亚依然要在日新月异的移动通讯产业中竞争。而在很久之前，诺基亚就被这个行业甩在了后面。
+“It’s a very odd mix at this point,” said Jan Dawson, a telecom analyst for Ovum. “There’s no other company that combines heavy network infrastructure with what’s basically a pure data and software asset, and there’s very little synergy between the two.”
+“现在看来，这是一种很奇怪的组合，”Ovum公司电信行业分析师简·道森(Jan Dawson)说，“没有其他公司会把沉重的网络基础设施，与基本上属于纯数据库和软件的资产结合在一起，这两者之间的协同增效作用微乎其微。”
+Nokia’s mobile infrastructure business, which began as a joint venture with Siemens, currently generates around 85 percent of the company’s annual $18.4 billion in revenues. Nokia acquired the 50 percent stake in Nokia Siemens Networks earlier this year for $2.2 billion.
+诺基亚的手机基础设施业务最初是与西门子(Siemens)合作成立的一家合资企业，目前创造的收入在诺基亚184亿美元的年收入中约占85%。今年早些时候，诺基亚斥资22亿美元收购了诺基亚西门子通信(Nokia Siemens Networks)另外50%的股份。
+It is expected to compete against telecom suppliers like Ericsson of Sweden and Huawei and ZTE of China to win contracts from the world’s largest cellphone operators. China Mobile and Vodafone of Britain are planning to spend billions of dollars to upgrade their mobile data networks to so-called fourth-generation technology.
+这家公司预计会与瑞典爱立信(Ericsson)，以及中国的华为和中兴通讯，争夺世界最大手机运营商的合同。中国移动和英国沃达丰(Vodafone)都在计划投资数十亿美元，将各自的移动数据通信网络升级成所谓的第四代技术(4G)。
+By the time the next generation of wireless technology arrives and vendors are upgrading their equipment, Nokia, now a smaller company, will be in a tough spot.
+等到下一代无线通信技术到来，运营商升级设备的时候，如今已是一家较小公司的诺基亚将处境艰难。
+It may have some success in the United States and Europe, where the governments are wary of Huawei and ZTE because of security concerns about Chinese government-sponsored spying. But it will have to invest heavily to challenge Ericsson, said Tero Kuittinen, an independent analyst for Alekstra, a company that does mobile diagnostics.
+它可能会在美国和欧洲取得一些成功，因为在那里，政府对华为和中兴心存安全担忧，担心它们从事中国政府支持的间谍活动。但移动产业分析公司Alekstra的独立分析师泰罗·库伊蒂宁(Tero Kuittinen)表示，诺基亚必须大力投资，才能挑战爱立信。
+“Being a small network infrastructure company, that’s a very hard business,” Mr. Kuittinen said. “Ericsson is such a giant in this industry.”
+“作为一家小型网络基础设施公司，这门生意的难度非常大，”库伊蒂宁说，“爱立信在这个领域称得上是巨人。”
+Nokia’s mapping component, Here, provides GPS services to dashboard navigation systems in many car models. The unit, which generates around $1.3 billion in annual revenue, plans to sell GPS and entertainment services to companies that do not want to build them from scratch, according to Mr. Ihamuotila, Nokia’s chief financial officer.
+诺基亚地图业务Here，可以为许多车型仪表上的导航系统提供GPS服务。诺基亚首席财务官伊哈莫蒂拉说，该部门每年会产生约13亿美元收入，计划把GPS和娱乐服务卖给那些不想从头做起的公司。
+Nokia maps might hold some appeal to device makers because Nokia will not be competing with them. (Microsoft said it would continue to use the Nokia brand on smartphones for about 10 years.)
+诺基亚地图可能对设备制造商还有一定吸引力，因为诺基亚不会与其竞争。（微软表示，在未来大约10年的时间里，其智能手机将继续使用诺基亚品牌。）
+But the value of Nokia’s maps may decrease now that the company no longer has a device business attached to it. As smartphones became popular, digital maps became more complex and sophisticated because people were pulling up directions from the devices they carried instead of looking up directions on a computer. As they did, the mapmakers gathered information from people’s smartphones and made the maps more accurate and more useful.
+但由于诺基亚不再有配套的设备业务，其地图的价值或许会降低。随着智能手机的流行，数字地图变得更复杂、更精密，因为人们会从随身携带的手机上，而不是在电脑上查找地点和路线。地图制造商会从人们的智能手机上收集信息，让地图更准确，更有用，它们也的确是这么做的。
+Google, a rival to Nokia’s mapping services, treats the millions of smartphones using its map software as data probes to improve the thoroughness of its database.
+诺基亚地图服务的竞争对手谷歌(Google)把使用谷歌地图软件的数百万部智能手机当做数据探测仪，用以提升其数据库的完备性。
+Nokia has also retained its research and development facilities and patent portfolio, with plans to develop new products to license, or sell technologies to other companies.
+同时，诺基亚也保留了研发部门和专利资产，计划开发可以授权给其他公司的新产品，或向其他公司出售技术。
+However, with so many mobile devices relying on Google’s Android software, and so many smartphones relying on parts and technologies made by Samsung, the Finnish giant will have to come up with something truly compelling to stand out in stores.
+然而，鉴于有这么多移动设备依赖谷歌的Android系统，有这么多的智能手机依赖三星的部件和技术，这家芬兰巨头要想脱颖而出，就必须拿出真正能吸引人的东西。
+Even with the remnants of Nokia, the loss of its phone business creates a void for Finland as a whole, said Mr. Kuittinen, the Alekstra analyst. Many Finnish universities offered courses in mathematics and software engineering with Nokia in mind as a future employer.
+Alekstra分析师库伊蒂宁说，即便还有诺基亚剩下的其他业务，诺基亚售出手机业务总的来说还是给芬兰留下了一个空白。芬兰的许多大学开设数学和软件工程的课程时，就是在想着诺基亚日后会成为学生的雇主。
+Now, they may look to other countries, like the United States, if they want to get into the business of making mobile software, one of the most popular technology sectors for engineers.
+现在，如果想进入手机软件开发行业，他们就必须要考虑其他国家，比如美国。手机软件开发是最受工程师欢迎的技术领域之一。
+“The industry just vanished,” Mr. Kuittinen said, “and this is not something that happens very often.”
+“这个行业就这么消失了，”库伊蒂宁说，“这种事可并不是经常发生。”

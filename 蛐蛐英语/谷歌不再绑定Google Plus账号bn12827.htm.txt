@@ -1,0 +1,34 @@
+For many users, Google Plus accounts don’t get all that many visits. Now, Google seems to be indicating it, too, will be paying less attention to its social network.
+很多Google Plus用户的账户都不会得到多少访问。现在，谷歌自己似乎也在表示，它将减少对这个社交网络的关注。
+On Monday, Google said it would move features once integrated into Google Plus out of the social network and into other Google services. Photo features have already been moved to the newly introduced Google Photos. Location-sharing will go to Google Hangouts, the company’s chat app.
+周一，谷歌宣布，之前被整合到社交网络Google Plus中的一些功能，将被迁移到其他谷歌服务中。照片功能已经转移到了新推出的Google Photos中。位置共享功能则会迁移到谷歌聊天应用Hangouts中。
+Users will also no longer need a Google Plus account to comment on YouTube, long a point of contention among customers who felt as if they were being roped into using a social network they did not ask for.
+用户在YouTube上发表评论也不再需要Google Plus账户了。这种做法长期以来备受争议，之前的政策让用户觉得，自己仿佛被强行拉到了不想要的社交网络上。
+Altogether, the moves, announced in a blog post on Monday, are a moment of reckoning for Google Plus and those who created it.
+谷歌周一在官方博客上宣布了这次迁移。总的来说，这是对 Google Plus及其创造者的最终裁决。
+“While we got certain things right, we made a few choices that, in hindsight, we’ve needed to rethink,” Bradley Horowitz, who oversees Google Plus, wrote about the moves.
+“虽然我们在一些事情上做得不错，但我们做出的一些选择，事后看来，需要重新考虑一下，”对于这次迁移，Google Plus负责人布拉德利·霍洛维茨(Bradley Horowitz)这样写道。
+He was even more contrite on his personal Google Plus page: “We want to formally retire the notion that a Google+ membership is required for anything at Google.”
+他写在Google Plus个人页面上的话更加懊悔：“我们要正式摒弃一种想法：要使用谷歌的任何服务，都需要有一个Google+账号。”
+Driving home that point, Google said it would make it easier for users to delete Google Plus accounts, if they choose to.
+谷歌的一个举动明确昭示了此意，它表示要让用户删除Google Plus账户变得更加容易。
+Mr. Horowitz was put in charge of Google Plus in March.
+霍洛维茨今年3月成为Google Plus的负责人。
+Started in 2011 and promoted as Google’s answer to Facebook, Google Plus initially appeared popular on paper. The social network reached 300 million monthly active users in just two years, according to the company.
+作为谷歌对Facebook的回应，Google Plus于2011年推出，一开始在表面上显得人气旺盛。该社交网络在短短两年内实现了月度活跃用户3亿人，该公司表示。
+But much of that growth, analysts say, came because users needed to create Google Plus accounts to use some of the company’s other services, like YouTube, annoying many longtime users of those services.
+但分析人士说，其大部分增长都是因为用户需要创建Google Plus账户才能使用其他谷歌服务，比如YouTube，这惹恼了这些服务的很多老用户。
+“When you say that one service requires another, that’s not a tenable approach,” said Bradley Shimmin, a business analyst at Current Analysis.
+“如果说一项服务需要有另一项服务才能使用，这样做是行不通的，”Current Analysis的商业分析师布拉德利·希敏(Bradley Shimmin)说。
+But Google’s decision to dismantle Google Plus may have less to do with appeasing users’ anger than with meeting the demand of mobile phone owners, who expect apps for each individual service.
+但谷歌分拆Google Plus的决定，可能更多的是为了满足手机用户的需求，而非平息用户的愤怒。对每一项单独的服务，手机用户都希望有相应的应用。
+Rather than make an app or website that is a one-stop shop, tech companies instead are introducing stables of services. Twitter has Vine, a video-sharing app, and Periscope, a live-streaming app, separate from the main Twitter platform. Facebook not only broke out photos and messaging into separate apps, but also decided to acquire Instagram and WhatsApp, direct competitors to those services, and maintain them both as yet another set of options for smartphone owners.
+科技公司正在为各种服务推出分隔的应用，而不是开发一站式的应用或网站。除主平台外，Twitter还有单独的视频分享应用Vine和流媒体直播应用Periscope。Facebook不仅把照片和即时通讯服务分别放在不同的应用里，还决定收购在这些领域与其直接竞争的Instagram和WhatsApp，并继续维持这两个应用的运营，供智能手机用户选择。
+In that vein, Google reintroduced Google Photos, which had previously been folded into Google Plus, to great fanfare as a stand-alone service in May.
+在这种背景下，谷歌于5月重新推出了之前放在Google Plus里面的Google Photos，将其作为一项单独的服务大肆宣传。
+Even though it has been dismantled, Google Plus is not dead and Google promised to continue adding new features. Despite often being portrayed as a ghost town, Google Plus still draws groups of hard-core users, often focused on forums dedicated to discussing other Google products, like Chromebook or Android.
+即便已被拆分，但Google Plus并未消亡，并且谷歌承诺会继续添加新功能。尽管常被形容成鬼城，但Google Plus依然吸引着一些忠心耿耿的用户群体。这些用户关注的往往是谷歌其他产品，如Chromebook或Android的讨论区。
+After Google’s announcement, those die-hard Google Plus users sounded a note of optimism.
+谷歌宣布前述决定后，那些死心塌地的Google Plus用户语气乐观。
+“Today’s news surrounding the upcoming changing to Google+ could be seen as cause for concern,” Derek Ross, an Android enthusiast with 1.2 million followers on Google Plus, said in an email. “But myself and many other users of the platform aren’t concerned for the future of Google+.”
+“今天围绕Google+未来变化的消息，可能会引起担忧，”在Google Plus上有120万粉丝的Android爱好者德里克·罗斯(Derek Ross)在电子邮件中说。“但我自己和很多其他用户并不担心Google+的未来。”

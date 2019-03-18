@@ -1,0 +1,52 @@
+SAN FRANCISCO — The virtual currency Bitcoin has been swept up in yet another speculative frenzy, pushing its price toward the peak it last reached in late 2013.
+旧金山——虚拟货币比特币的价格在新的一波投机狂潮中飙升，冲向了2013年年底达到的峰值。
+The price of Bitcoin has been buoyed by increased interest from places like Venezuela, where the local currency has lost much of its value, and India, where the government recently removed the largest cash notes from circulation.
+来自委内瑞拉和印度等地的兴趣推高了比特币的价格：委内瑞拉的货币已经失去了大部分价值，而印度最近不再流通最大面额的钞票。
+More broadly, a tilt toward isolationism that has emerged in American and European politics — highlighted by Donald J. Trump’s election victory — has given a new sheen to a currency that can move between countries with little oversight.
+从更广泛的角度看，美国和欧洲政治中出现的孤立主义倾向——唐纳德·J·特朗普(Donald J. Trump)的当选突显了这种倾向——给比特币带来了新的优势，因为它可以几乎不受监管地在国家之间流动。
+“The more there is an expectation for new barriers to be erected, the more there is an expectation that Bitcoin will be valuable for moving money across borders,” said Gil Luria, the director of research at Wedbush Securities.
+“人们越是预期会出现新的障碍，就越会预期比特币会对货币在国家之间的流通具有价值，”韦德布什证券(Wedbush Securities)的研究主任吉尔·卢里亚(Gil Luria)说。
+Still, most of the people actually buying and selling Bitcoin these days are coming from a single country: China.
+不过，如今大部分真正买卖比特币的人来自一个国家：中国。
+But the heavy trading on Chinese Bitcoin exchanges, much of it by automated software, suggests that most of the price movement is a result of bets by speculators.
+但是，中国比特币交易所的大量交易——很多是通过自动软件进行的——表明，大部分价格浮动是投机者下注的结果。
+In recent days, the price of a Bitcoin has been about 3 percent higher on these exchanges than on dollar denominated exchanges, suggesting more demand in China than outside.
+近些天，中国比特币交易所的比特币价格比美元交易所的大约高3%，这表明中国的需求大于其他地方。
+The importance of speculators suggests that the value of Bitcoin is still driven by the hope of how it might be used someday, rather than real world use today, which has generally been hard to quantify.
+投机者的重要性表明，比特币的价值依然是由对它未来潜在使用方式的期望所推动的，而不是被当下现实世界的使用所推动，后者通常很难量化。
+In dollar terms, a Bitcoin was going for about $1,025 on Tuesday, or about 140 percent more than what it cost at the beginning of 2016.
+按照美元换算，周二，1比特币大约能兑换1025美元，比2016初的价格高了约140%。
+The volatile price has led many analysts to conclude that is less similar to a currency than to a commodity, like gold, which has a value resulting from its scarcity. In Bitcoin’s case, the rules of the network dictate that only 21 million Bitcoin will ever be created.
+它动荡的价格令很多分析师认为，它不太像货币，而更像黄金这样的大宗商品，它的价值源于稀缺性。就比特币而言，该网络的规则决定了最多只能创造出2100万比特币。
+The recent rise has brought the price of one Bitcoin to within striking distance of the price of an ounce of gold, which was about $1,150 on Monday.
+由于最近的价格上涨，1比特币的价格已经令人震惊地接近1盎司黄金的价格——周一，1盎司黄金大约价值1150美元。
+The price has increased in the last year despite the lack of interest in Bitcoin from banks and a majority of more sophisticated investors.
+尽管银行以及大部分更成熟的投资者对比特币缺乏兴趣，但它的价格在过去一年里还是上涨了。
+After showing early interest in the currency, most big banks have moved on to make investments in the blockchain, the new type of ledger technology introduced by Bitcoin, while eschewing Bitcoin itself.
+在早期对这种货币表现出兴趣之后，大部分大银行转而在区块链上进行投资——区块链是比特币推出的一种新型记账技术——但回避比特币本身。
+Some central banks have talked about issuing their own national currencies on some sort of blockchain inspired by but unrelated to the blockchain that Bitcoin uses.
+有些中央银行讨论过在某种区块链上发行自己的国家货币，那种区块链是以比特币所使用的区块链为启发，但与之无关。
+Bitcoin and the blockchain were introduced in late 2008 by a mysterious coder who used the name Satoshi Nakamoto. Anyone with a computer and internet access can open a Bitcoin wallet and help maintain the blockchain ledger where all Bitcoin transactions are recorded.
+比特币和区块链是2008年由一位化名为中本聪（Satoshi Nakamoto，音译）的神秘编码员推出的。任何一个有电脑和互联网接入的人都可以开设一个比特币钱包，帮助维护区块链账簿——所有的比特币交易都记录在上面。
+Because it is run by a decentralized network of computers around the world, Bitcoin does not require a central authority like a central bank or financial institution. That has made it attractive to people who hope to do financial transactions anonymously, such as the drug dealers who have sold illicit goods for Bitcoin on the Silk Road website and its successors.
+由于比特币是由世界各地分散的电脑网络运作的，所以它不需要中央银行这样的中央权威机构或金融机构。这一点吸引了那些想进行匿名金融交易的人，比如在丝路网站(Silk Road)及其后继者上出售非法商品以获取比特币的毒贩。
+New Bitcoins are released at regular intervals to computers helping to support the Bitcoin network, and previously released Bitcoins can be bought and sold on exchanges around the world.
+新比特币定期向帮助支持比特币网络的电脑发行，之前发行的比特币可以在世界各地的交易所买卖。
+Since 2009, the price of Bitcoin has generally been defined by long periods of stability marked by short periods of speculative excitement.
+从2009年起，比特币的价格总体来说表现出长期的稳定和短期的投机兴奋。
+Many Bitcoin businesses have wanted to edit the basic Bitcoin software to change the number of transactions that can move through the network every day. But the proposed changes have run into opposition from the team of coders responsible for maintaining the basic Bitcoin software. Many Chinese Bitcoin companies have sided with the coders.
+很多比特币企业想要编辑根本的比特币软件，改变该网络每天可以处理的交易量。但是，那些提议的改变遭到负责维护根本比特币软件的编码员团队的反对。中国的很多比特币公司站在那些编码员一边。
+That disagreement has led to slowdowns on the Bitcoin network, with some transactions taking days to be processed. The slowdowns have made it harder to use Bitcoin for everyday payments.
+这种分歧导致比特币网络的运转速度慢了下来，有些交易要花费数日才能完成。这种减慢导致使用比特币进行日常支付更为困难。
+But through the controversy the security of the basic Bitcoin wallets and transaction software has held up, making it a potential alternative for people in countries with less secure currencies and financial institutions.
+但是，在争议持续期间，根本的比特币钱包和交易软件的安全性一直相当稳固。因此，在那些货币和金融机构较不安全的国家，它可以成为潜在的替代选择。
+In November, interest in Bitcoin spiked in India after the government announced moves to quickly ban the largest Indian bank notes, in an effort to crack down on corruption.
+去年11月，为打击腐败，印度政府宣布将采取行动快速禁用最大面额的印度货币，因此，印度人对比特币的兴趣急剧上升。
+The continued fall in the value of the Venezuelan currency, the bolívar, has led to reports about Venezuelans desperate to exchange their money for Bitcoin.
+有报道称，委内瑞拉货币博利瓦的持续贬值导致委内瑞拉人疯狂地把货币兑换成比特币。
+But despite the new demand, the total value of all outstanding Bitcoin, about $16 billion, is still only that of a medium-size American company, and is not large enough to sustain the demand of even a moderate number of Indians or Venezuelans looking to store their wealth in the virtual currency.
+尽管出现了这些新需求，但目前发行的全部比特币的总价值约为160亿美元，仅相当于一家美国中型公司的资产，甚至不足以维持期望用这种虚拟货币储存财富的少量印度人或委内瑞拉人的需求。
+That points back to the importance of speculators, who are betting that someday soon people worldwide will turn to Bitcoin for their daily financial needs, and push the price much higher.
+而这一点再次指出投机者的重要性，他们为自己的判断压上赌注，认为在不久的未来，全世界人将使用比特币满足日常金融需求，比特币的价格会被抬高很多。
+“I ascribe only 10 percent of the value of Bitcoin to current day usage, and more like 90 percent of it to the expectation of future usage,” Mr. Luria of Webush Securities said.
+“我认为，只有10%的比特币是供当下使用，超过90%是与对未来使用的期待相关的，”韦德布什证券的卢里亚说。

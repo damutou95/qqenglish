@@ -1,0 +1,48 @@
+DARJEELING, India — The tea plantations here in the shadow of the cloud-shrouded valleys of the Himalayan mountains may be the last place to find technological innovation. Many of the colonial-era practices involved in tea-growing and processing still follow the time-honored manual labor and handwritten bookkeeping.
+印度大吉岭——这里的茶叶种植园位于喜马拉雅山麓云雾笼罩的山谷里，从这样的地方找到科技创新的影子恐怕并不容易。很多殖民地时期就已经采用的茶叶种植及加工方法依然沿用至今，比如人工采摘茶叶和手写的账目。
+But as global consumers increasingly become connoisseurs of high-quality products, one entrepreneur is seeking to give the industry a Silicon Valley makeover.
+但是随着全球愈来愈多的消费者成了品鉴高档茶叶的行家，一位创业者正在尝试对茶叶产业开展一番硅谷式的改造。
+India is the world’s second-largest tea grower after China. Yet, even as the country produces quality specialty varietals that are as highly regarded as wines from France and whisky from Scotland, its industry is antiquated.
+印度仅次于中国，是全球第二大茶叶种植国。虽然印度出产特有品种的优质茶叶，可与法国的葡萄酒和苏格兰的威士忌相媲美，但是当地的制茶产业已经过时了。
+With the backing of one of Silicon Valley’s biggest venture capital firms, Accel Partners, Kaushal Dugar, a Singapore-trained financial analyst, is among those slowly bringing the sector into the modern era via his online tea retailing start-up, Teabox.
+曾在新加坡受过教育的金融分析师考沙尔·杜伽尔(Kaushal Dugar)，在硅谷最大的风险投资企业之一，阿克塞尔合伙公司(Accel Partners)的支持下，正在通过在线销售茶叶的初创企业Teabox逐步让制茶产业现代化。
+The bulk of India’s production — about one billion of the total 1.2 billion kilograms (2.6 billion pounds) — is consumed by the domestic market, where mass-market brands from the Indian conglomerate Tata and the multinational Unilever hold sway. But the remaining 200 million kilograms is a market ripe for shake-up.
+大部分印度出产的茶叶都由国内市场消费，在12亿公斤（约合26亿磅）的总产量里，印度消费者购买了约10亿公斤。其中，大众市场由印度塔塔集团(Tata)和跨国企业联合利华(Unilever)这样的品牌控制，而余下的2亿公斤所面向的市场则亟需变革。
+“We grow some of the best teas in the world, but our processes are archaic and marketing is nonexistent,” said Arun Kumar Gomden, a tea industry consultant who managed tea estates for 35 years.As is the case with other successful e-commerce sites, technology forms the core of Teabox’s online operations. Algorithms predict demand based on such factors as past sales, internal ranking of tea varieties and pricing. Information about a tea’s picking date, season and origins is made available to online customers.
+制茶产业顾问阿伦·库马尔·戈穆登(Arun Kumar Gomden)说，“我们种植的茶叶在全球名列前茅，但加工手段落后，也谈不上有什么营销，”戈穆登已有35年管理茶园的经验。与其他成功的电子商务网站一样，科技是Teabox网络运营的核心。该公司利用算法，根据价格、以往销量，以及内部对茶叶品种的评级等因素，来预测消费者的需求。消费者可以在网上查看茶叶的采摘日期、季节和产地等信息。
+Taking a cue from the successful wine industry, Teabox is bringing in wine tasters to provide engaging online descriptions for its products. Gone are the flowery but opaque descriptions like “distinctly high-grown character” and “surprising malty nuance.” They have been replaced by more consumer-friendly taster phrases like “light-bodied tea with a slight woodiness in its flavor,” along with detailed steeping instructions.
+Teabox借鉴葡萄酒行业的成功经验，邀请品酒师为网站编写引人入胜的产品介绍。那些辞藻华丽但晦涩难懂的描述不见了，例如“鲜明的高海拔种植特征”、“有一丝出人意料的麦芽口感”。取而代之的是一些读者比较容易明白的措辞，例如“含有一丝木头清香的淡茶”，还附有详细的冲泡说明。
+Teabox, which started in mid-2012, is introducing a subscription model offering personalized tea selections, replicating similar successes of online sites selling wine, razor blades, cosmetics and organic products.
+创立于2012年中期的Teabox，还效仿销售葡萄酒、剃须刀片、化妆品和有机产品的网站的成功做法，推出了一套提供个性化选择的订购模式。
+All of these steps aim to hook a new generation of customers in countries such as Russia and the United States. As consumers on a quest for the latest niche food products veer toward drinking the brew in upscale salons and tea bars, Indian tea could tap into the large addressable global tea market, estimated to be $90 billion in size.
+这些举措的目的是从俄罗斯、美国等国家，吸引新一代的顾客。对新近流行的小众饮食趋之若鹜的消费者们，现在开始在高档沙龙或茶吧里喝茶，因此印度茶有望打入全球商机巨大的潜在市场，其规模估计高达900亿美元（约合5500亿元人民币）。
+“Tea is a time-sensitive product, but the industry’s supply chain is quite broken and has many intermediaries,” said Prashanth Prakash, a partner at Accel India, which along with Singapore’s Horizon Ventures has provided some $1 million in early-stage funding to Teabox. “The business is ripe for disruption, both in terms of price and quality,” he said.
+阿克塞尔印度公司的合伙人普拉申特·普拉卡什(Prashanth Prakash)说，“茶这种产品对时间很敏感，但业内的供应链相当低效，而且涉及过多中间环节。”这家公司连同新加坡的Horizon Ventures为Teabox提供了100万美元的前期资助。他说，“从价格和质量两方面而言，颠覆这个行业的时机都已经成熟。”
+The venture capital approach is helping Teabox change operations. It was Accel Partners that suggested the wine industry method to “product discovery” — industry jargon for helping shoppers discern and select products online.
+风险投资的支持，帮助Teabox改变了经营模式。正是阿克塞尔建议采用葡萄酒行业的“产品发掘”手段。“产品发掘”是指帮助顾客在网站上查看和选择产品的过程。
+“By employing tactics used by the wine industry, we want to demystify tea and present it in a more accessible manner along with how-to brewing directions so that buyers can explore varieties, regions and flavors,” said Mr. Dugar, 31, founder and chief executive of Teabox, which is based in Siliguri, Darjeeling, the heart of India’s tea-growing region.
+杜伽尔表示，“通过使用葡萄酒行业的手法，我们想让茶在顾客眼中不再陌生，以更容易领会的方式推介茶，并且给出冲泡指示，这样一来顾客就能探究茶的品种、产地和口味。”31岁的杜伽尔是Teabox的创始人和首席执行官。这家公司的总部位于印度产茶区域的中心，大吉岭的西里古里(Siliguri)。
+His family’s trade connections go back four decades and give Mr. Dugar access to high-quality teas from the estates of Assam and Darjeeling. From his childhood summers spent on plantations, he recalls the tea pluckers picking two leaves and a bud that was transformed into brewed tea within hours. “I imagined that the workers in tea plantations were magicians.”Mr. Dugar had worked for a few years as a corporate finance analyst at consultancy firm KPMG in Singapore, but he then returned to India to become an entrepreneur. He and his backers quickly discovered that the industry first organized by British colonizers about 200 years ago has not changed at all. Many plantations are controlled by third- or fourth-generation owners, using machines dating back a half-century or more.
+杜伽尔家族与茶的渊源已有40年了，这也让他在栽种阿萨姆茶和大吉岭茶的茶园里，品尝到了优质的茶叶。杜伽尔童年时，夏天会在茶园里度过。他回忆起当时情景说，采茶工摘下两片叶子和一朵花蕾，几个小时后就变成了沏好的茶。“我觉得茶园里的工人都是魔法师。”杜伽尔曾在咨询公司毕马威(KPMG)的新加坡分公司工作数年，担任企业财务分析师，后来返回印度开始创业。他和投资人很快就发现，这个大约200年前由英国殖民者组织起来的产业，至今仍然没有任何改变。很多茶园都是由第三或第四代老板经营，他们所用的机器已有至少半个世纪甚至更长的历史。
+“Traditional processes such as withering, rolling, drying are all manually monitored just like it was when the tea industry was first established in this region centuries ago,” said Amar Nath Jha, a senior manager of the 162-year old Steinthal Tea Estate in Darjeeling, a supplier to Teabox.
+阿马尔·纳特·杰哈(Amar Nath Jha)说，“传统的制茶工序，例如萎凋、揉捻、干燥都是人手处理，就像很多个世纪以前，这个产业刚刚在这里形成时一样。”杰哈在大吉岭已有162年历史的斯坦塔茶园(Steinthal Tea Estate)担任高级经理，这家茶园也是Teabox的供应商。
+Because of the lengthy auction and distribution process, it can take up to six months for the tea to reach a consumer overseas.
+由于拍卖和分销茶叶所需时间很长，因此可能需要长达六个月的时间才能到达海外消费者手上。
+“The lack of modern infrastructure leads to tea quality deteriorating and losing aroma along the way,” said Mr. Gomden, the tea consultant.
+制茶产业顾问戈穆登表示，“在整个过程中，由于缺乏现代化的设施，茶叶的质量会下降，茶香也会流失。”
+To change that, Teabox set up sourcing centers in Darjeeling and Assam, within a few hours from the gardens where the leaves are plucked and processed. (Other buyers have also begun to bypass the auction system and buy premium teas directly from producers).
+为了改变这种情况，Teabox在大吉岭和阿萨姆邦设立了采购中心，距离采摘和加工的茶园只有数小时路程。（其他买家也开始跳过拍卖体系，直接通过生产商采购优质茶叶。）
+Almost as soon as the teas are procured fresh from the production centers, Teabox stores them in temperature- and humidity-controlled warehouses. Then, within 48 hours, the teas are checked, vacuum-packed and dispatched to fulfillment centers in major markets such as Russia, the United States and Australia.
+Teabox从生产中心将新鲜的茶叶采购到手，就会立即储存在能够调节温度和湿度的仓库里。然后在48小时以内，茶叶就会经过检查和真空包装，发往俄罗斯、美国、澳大利亚等主要市场的配送中心。
+Data analytics also help. When they log into the website, buyers are served personalized recommendations according to one of Teabox’s 53 tea profiles.
+数据分析也很有帮助。买家登录之后，网站便会依据Teabox供应的53种茶叶的特征，给出个性化的推荐。
+Customer feedback goes quickly back to the producers. For example, Teabox now sells tea only in 100-gram vacuum packs after complaints that tea in larger packs lost aroma.
+生产商很快就能收到顾客的反馈。比如，由于有顾客投诉称，包装容量太大以致茶香流失，Teabox现在只出售100克真空包装的茶叶。
+The company tries to win over customer share its audience by offering high-end teas at a discount to established brands like Twinings and upscale European, Asian and American tea salons, all of which sell online (Teabox’s products can sell for as much as $1,099 per kilogram).
+Teabox试图通过以优惠价格出售川宁(Twinings)等知名公司，以及欧洲、亚洲和美洲的高档茶店所出售的茶叶，来吸引消费者。这些产品都在网上出售。（Teabox产品的售价每公斤可高达1099美元）。
+For instance, a French tea salon called Palais des Thés sells the Mission Hill tea at $340 per kilogram, but Teabox sells the same product about 60 percent less at $126 per kilogram. TWG, a high-end tea bar in Singapore, sells the Okayti at $390 per kilogram while Teabox sells it as $180, less than half the price.
+例如，一家名为茶宫(Palais des Thés)的法国茶庄以每公斤340美元的价格销售Mission Hill的茶叶，而Teabox的售价是每公斤126美元，价格低近六成。新加坡的高级茶吧TWG以每公斤390美元的价格出售欧凯帝(Okayti)茶园的茶叶，而Teabox则只售180美元，低于其价格的一半。
+Teabox is still a small player in the industry: It has shipped 10 million cups’ worth of tea to customers in 65 countries so far. The challenges are many. Traditional distributors have blocked access to plantations and Teabox has had to counter rumors from rivals that it is an unreliable buyer.
+Teabox在茶叶产业中仍然是个小角色。迄今为止，它已向65个国家的顾客出售了相当于1000万杯的茶。该公司面临很多挑战：传统分销商阻挠他们接触茶园，竞争对手造谣称他们是个不可靠的买家，Teabox需要进行反驳。
+Mohan Chirimar, 53, of Raghunath Exports, a bulk supplier to Starbucks as well as retail chains and supermarkets in 30 countries, said Teabox was chasing a big opportunity that had room for other entrepreneurs.
+拉古拿夫出口公司(Raghunath Exports)向星巴克(Starbucks)以及全球30个国家的零售商和超市供货。该公司现年53岁创始人莫汉·其利马(Mohan Chirimar)说，Teabox正在追求的这个巨大商机，其他企业也可以参与其中。

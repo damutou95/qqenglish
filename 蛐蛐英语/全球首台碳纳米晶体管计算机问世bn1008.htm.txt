@@ -1,0 +1,26 @@
+PALO ALTO, Calif. — A group of Stanford researchers has moved a step closer to answering the question of what happens when silicon, the standard material in today’s microelectronic circuits, reaches its fundamental limits for use in increasingly small transistors.
+加利福尼亚帕洛阿尔托——硅是当今微电子电路中使用的标准材料，当它用于日益微小的晶体管而达到其根本极限时，会发生什么情况？斯坦福大学(Stanford)的一群研究员朝回答这个问题又迈进了一步。
+In a paper in the journal Nature on Wednesday, the researchers reported that they had successfully built a working computer — albeit an extremely simple one — entirely from transistors fashioned from carbon nanotubes. The nanotubes, which are cylinder-shaped molecules, have long held the promise of allowing smaller, faster and lower-powered computing, though they have proved difficult to work with.
+这些研究员在《自然》杂志周三刊发的一篇论文中称，他们已经成功制造了一台可以运转的电脑——虽然它极其简单——其原材料完全是用碳纳米管制成的晶体管。这种纳米管是呈圆柱状的分子；长期以来，人们一直认为它有望使更小、更快及更低功耗的计算系统成为可能，只不过事实证明，这种材料很难处理。
+The Stanford Robust Systems Group, however, has made significant progress in the last 18 months, advancing from building individual carbon nanotube transistors to simple electronic circuits made by interconnecting the transistors, and this week to a complete computer made from an ensemble of just 142 low-power transistors.
+然而，斯坦福罗布斯特系统组织(Stanford Robust Systems Group)却在过去18个月里取得了重大进展。他们刚开始只能制造单个的碳纳米管晶体管，后来则能够把这些晶体管连接成简单的电路元件，本周，他们制造出了一台只包含142个低功率晶体管的完整电脑。
+While Stanford’s prototype computer is assembled from transistors that are gargantuan by industry standards — one micron vs. 22 nanometers — it is what computer scientists refer to as a “Turing complete” machine, meaning that it is capable of performing any computation, given enough time.
+以行业标准判断，用来组装斯坦福模型计算机的晶体管有些过于庞大，它的晶体管有1微米，行业标准则是22毫微米。尽管如此，它却是计算机科学家所谓的“图灵完备”(Turing complete)机器，也就是说，只要时间足够，它就能完成任何计算任务。
+“It can run two programs concurrently, a counting program and a sorting program,” said H. S. Philip Wong, a Stanford University electrical engineer, and one of the leaders of the group. “We’ve spent a tremendous amount of time on this; in fact we’ve spent two generations of students on this.”
+“它可以同时运行两个程序，一个计数程序和一个分类程序，”研究组的领导者之一、斯坦福大学电机工程师黄汉森(H. S. Philip Wong)说，“我们在这个问题上花费了大量时间；事实上，我们已经为这项研究投入了两代学生。”
+Because the factory processes that underlie the modern semiconductor industry require such painstaking precision, any new technology that the industry might use must be perfected more than three years before it can be considered for use in commercial production.
+作为现代半导体行业基础的加工过程需要极高的精密度，有鉴于此，在考虑用于商业生产前，该行业的任何新技术都必须经过超过三年的完善过程。
+Carbon nanotubes have continued to excite the material science field because of their proliferating array of allotropes — different forms of the material — all with potential.
+碳纳米管一直都让材料科学领域很兴奋，因为它们可以产生多种同素异形体——亦即这种材料的不同形式——每种同素异形体都有潜力。
+Currently, semiconductor industry leaders can make integrated silicon circuits with a feature size of 22 nanometers, roughly 4,000 of which could be spread across the width of a human hair. With the arrival of a new generation of smaller transistors roughly every two years, the industry generally believes that silicon will be scaled down to a limit of 5-nanometer transistors sometime after 2020.
+目前，半导体行业的领军者可以制造22纳米特征尺寸的硅集成电路，大概4000个上述尺寸的电路才有一根头发丝粗。由于大约每两年就会推出体积更小的新一代晶体管，半导体行业普遍认为，在2020年后的某个时候，硅将缩小至应用于5纳米晶体管的极限。
+The constant shrinking of transistor size over the last half-century has been important because it has significantly lowered the cost of computing, making it possible to build ever more powerful computers that are faster and cheaper, and consume less power with each generation.
+晶体管的尺寸在过去半个世纪的时间里不断缩小，这一事实具有重要意义，因为它大幅降低了计算成本，使得人们能够不断推出性能更强、速度更快、价格更便宜、功耗更小的新型电脑。
+While Intel has been generally circumspect about what material technology it plans to turn to when silicon ceases to “scale” down to smaller transistor sizes, I.B.M. has been more vocal and optimistic about the potential for carbon nanotubes.
+到了硅无法再为更小的晶体管“缩小”的时候，该采用什么样的材料技术，面对这个问题，英特尔(Intel)通常都会顾左右而言他，IBM则对碳纳米管的潜力表明了更为直接和乐观的态度。
+The researchers said that their advance was not a scientific breakthrough, but it was a significant demonstration of the ability to work with a material other than silicon with great precision.
+研究人员表示，他们的进展并不是一个科学突破，而是一项重要展示，表明了以极高的精确度对硅之外的材料进行处理的能力。
+They also stressed that their research project was entirely compatible with industry-standard manufacturing processes based on silicon. This suggests that in the future it will be possible to build hybrid chips using carbon nanotubes at particular locations, and thus extend the life of silicon in computing.
+他们还强调，他们的研究项目完全符合基于硅的行业标准的制造流程。这说明，未来有可能利用碳纳米管制造用于特定位置的混合芯片，由此延长硅在电脑行业的寿命。
+“This is a general computer and we can do anything with it,” said Max Shulaker, a Stanford graduate student who is a leading member of the research group. “We could in principle run 64-bit Windows, but it would take millions of years.”
+“这是一台完备的电脑，我们能利用它做任何事，”该研究小组主要成员、斯坦福大学研究生马克斯·舒拉克尔(Max Shulaker)说，“理论上说，我们能运行64位版本的Windows系统，但这可能需要数百万年。”

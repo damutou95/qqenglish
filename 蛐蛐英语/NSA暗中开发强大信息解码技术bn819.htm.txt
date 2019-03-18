@@ -1,0 +1,120 @@
+The National Security Agency is winning its long-running secret war on encryption, using supercomputers, technical trickery, court orders and behind-the-scenes persuasion to undermine the major tools protecting the privacy of everyday communications in the Internet age, according to newly disclosed documents.
+最新披露的文件显示，美国国家安全局（National Security Agency，简称NSA）在长期的加密技术秘密战争中占了上风，它利用超级计算机、技术花招、法院指令和幕后劝说，对互联网时代保护日常通讯隐私的主要工具造成了损害。
+The agency has circumvented or cracked much of the encryption, or digital scrambling, that guards global commerce and banking systems, protects sensitive data like trade secrets and medical records, and automatically secures the e-mails, Web searches, Internet chats and phone calls of Americans and others around the world, the documents show.
+加密技术，或称数码干扰技术，可以为国际商业和银行系统提供防卫、保护商业机密和医疗记录等敏感数据，并自动为美国及世界各地民众的电子邮件、网页搜索、网络通讯和通话提供安全保证。上述文件表明，国家安全局绕开或破解了大部分加密技术。
+Many users assume — or have been assured by Internet companies — that their data is safe from prying eyes, including those of the government, and the N.S.A. wants to keep it that way. The agency treats its recent successes in deciphering protected information as among its most closely guarded secrets, restricted to those cleared for a highly classified program code-named Bullrun, according to the documents, provided by Edward J. Snowden, the former N.S.A. contractor.
+很多用户都认为——或者说网络公司曾向他们保证——他们的数据绝不会遭到他人窥探，即便政府情报机构也无法获得这些数据，而NSA则希望他们继续这么认为。根据NSA承包商前雇员爱德华·J·斯诺登(Edward J. Snowden)所提供的文件，NSA把它最近在解密受保护信息方面所取得的成功归入最核心机密的行列，只有那些可以接触代号为Bullrun的高保密项目的人才能了解相关讯息。
+Beginning in 2000, as encryption tools were gradually blanketing the Web, the N.S.A. invested billions of dollars in a clandestine campaign to preserve its ability to eavesdrop. Having lost a public battle in the 1990s to insert its own “back door” in all encryption, it set out to accomplish the same goal by stealth.
+该项目始于2000年，当时加密工具正在逐渐覆盖整个网络，为了保留自己的窃听能力，NSA便投资数十亿美元开展了一项秘密活动。20世纪90年代，NSA希望能在所有加密讯息中安插自己的“后门”，但最终却在这场公开斗争中败北，然后它便试图通过秘密行动来达到同样的目的。
+The agency, according to the documents and interviews with industry officials, deployed custom-built, superfast computers to break codes, and began collaborating with technology companies in the United States and abroad to build entry points into their products. The documents do not identify which companies have participated.
+根据上述文件以及对业内管理人员的采访，为了破解密码，NSA采用了定制的高级计算机，而且还开始与国内外的科技公司进行合作，在这些公司的产品中建立入口。文件并未表明哪些公司曾参与这个过程。
+The N.S.A. hacked into target computers to snare messages before they were encrypted. In some cases, companies say they were coerced by the government into handing over their master encryption keys or building in a back door. And the agency used its influence as the world’s most experienced code maker to covertly introduce weaknesses into the encryption standards followed by hardware and software developers around the world.
+NSA会在信息被加密前潜入目标计算机获取相关信息。在一些案例中，公司表示，它们受到了政府胁迫，不得不交出自己的主密钥或是建立后门。此外，NSA还利用自己作为世界上最有经验的密码制造者的影响力，秘密在世界各地的软硬件开发商所遵循的加密标准上设置了薄弱环节。
+“For the past decade, N.S.A. has led an aggressive, multipronged effort to break widely used Internet encryption technologies,” said a 2010 memo describing a briefing about N.S.A. accomplishments for employees of its British counterpart, Government Communications Headquarters, or GCHQ. “Cryptanalytic capabilities are now coming online. Vast amounts of encrypted Internet data which have up till now been discarded are now exploitable.”
+“过去10年中，为了破解各种广泛使用的网络加密技术，NSA针对多个方向大力开展工作，”2010年的一份备忘录表示。“现在正在获得密码分析能力，此前被丢弃的海量加密网络数据目前可被利用。”这份备忘录来自一场与NSA对应的英国机构政府通讯总部（Government Communications Headquarters，简称GCHQ）为员工举行的关于NSA成就的通报会。
+When the British analysts, who often work side by side with N.S.A. officers, were first told about the program, another memo said, “those not already briefed were gobsmacked!”
+另一份备忘录称，当这些经常与NSA官员并肩工作的英国分析师首次得知这个项目时，“那些还不知情的人大吃了一惊！”
+An intelligence budget document makes clear that the effort is still going strong. “We are investing in groundbreaking cryptanalytic capabilities to defeat adversarial cryptography and exploit Internet traffic,” the director of national intelligence, James R. Clapper Jr., wrote in his budget request for the current year.
+一份情报机构的预算文件表明，这项工作的力度并未减弱。国家情报总监小詹姆斯·R·克拉珀(James R. Clapper Jr.)在今年的预算请求中写道，“为了击败敌方的加密技术和利用网络流量，我们正在对突破性密码分析能力进行投资。”
+In recent months, the documents disclosed by Mr. Snowden have described the N.S.A.’s broad reach in scooping up vast amounts of communications around the world. The encryption documents now show, in striking detail, how the agency works to ensure that it is actually able to read the information it collects.
+最近几个月，斯诺登披露的文件显示，NSA的行动范围甚广，从世界各地获取了的大量通讯内容。而关于加密讯息的文件现在极其详细地讲述了NSA是如何确保自己能够解读搜集到的讯息。
+The agency’s success in defeating many of the privacy protections offered by encryption does not change the rules that prohibit the deliberate targeting of Americans’ e-mails or phone calls without a warrant. But it shows that the agency, which was sharply rebuked by a federal judge in 2011 for violating the rules and misleading the Foreign Intelligence Surveillance Court, cannot necessarily be restrained by privacy technology. N.S.A. rules permit the agency to store any encrypted communication, domestic or foreign, for as long as the agency is trying to decrypt it or analyze its technical features.
+虽然NSA成功破解了加密技术所提供的很多隐私保护机制，但是这种成功并未改变如下规定，即禁止有关部门在没有得到授权的情况下，故意以美国人的电子邮件或电话为窃取目标。然而这份文件表明，隐私保护技术并不能完全限制NSA的行动。2011年，一名联邦法官曾尖锐批评NSA违反了上述规定，并误导了外国情报监视法庭(Foreign Intelligence Surveillance Court)。按照NSA的规定，它可以在解密国内外任何加密讯息或分析其技术特征期间储存这些讯息，不论时间多长。
+The N.S.A., which has specialized in code-breaking since its creation in 1952, sees that task as essential to its mission. If it cannot decipher the messages of terrorists, foreign spies and other adversaries, the United States will be at serious risk, agency officials say.
+自1952年成立以来，NSA就开始专攻解密技术，并把这项任务看作自身使命的基本要素。NSA官员表示，倘若无法解密恐怖主义者、外国间谍以及其他敌人的讯息，美国就将面临巨大风险。
+Just in recent weeks, the Obama administration has called on the intelligence agencies for details of communications by leaders of Al Qaeda about a terrorist plot and of Syrian officials’ messages about the chemical weapons attack outside Damascus. If such communications can be hidden by unbreakable encryption, N.S.A. officials say, the agency cannot do its work.
+就在最近几周，奥巴马政府向该情报机构了解了基地组织(Al Qaeda)领导人关于一次恐怖主义行动的通讯内容以及叙利亚官员关于发生在大马士革外围地区的化学武器袭击的讯息。NSA官员表示，如果此类通讯信息能够用无法破解的加密技术进行隐藏，NSA就将无法开展工作。
+But some experts say the N.S.A.’s campaign to bypass and weaken communications security may have serious unintended consequences. They say the agency is working at cross-purposes with its other major mission, apart from eavesdropping: ensuring the security of American communications.
+但有些专家表示，NSA绕开及削弱通讯安全保障的做法或许会带来严重的意外结果。他们说，NSA正在与自己的其他重大使命（除窃听以外）——保证美国的通讯安全——背道而驰。
+Some of the agency’s most intensive efforts have focused on the encryption in universal use in the United States, including Secure Sockets Layer, or SSL; virtual private networks, or VPNs; and the protection used on fourth-generation, or 4G, smartphones. Many Americans, often without realizing it, rely on such protection every time they send an e-mail, buy something online, consult with colleagues via their company’s computer network, or use a phone or a tablet on a 4G network.
+NSA力度最强的一些工作都集中在美国广泛使用的加密术上，其中包括安全套层（Secure Sockets Layer，简称SSL）、虚拟专用网（virtual private networks，简称VPN），以及4G智能手机所使用的保护措施。很多美国人在发送邮件、网上购物、通过公司计算机网络与同事交流，以及通过4G网络使用电话或平板电脑时，都会依赖这些保护措施，而他们往往不会意识到这一点。
+For at least three years, one document says, GCHQ, almost certainly in close collaboration with the N.S.A., has been looking for ways into protected traffic of the most popular Internet companies: Google, Yahoo, Facebook and Microsoft’s Hotmail. By 2012, GCHQ had developed “new access opportunities” into Google’s systems, according to the document.
+几乎可以肯定，GCHQ曾与NSA就此展开密切合作。一份文件称，至少在过去三年中，GCHQ尝试用各种手段来获取最受欢迎的互联网公司——谷歌、雅虎、Facebook和微软Hotmail——中受保护的通讯。文件还显示，截至2012年，GCHQ开发了进入谷歌系统的“新途径”。
+“The risk is that when you build a back door into systems, you’re not the only one to exploit it,” said Matthew D. Green, a cryptography researcher at Johns Hopkins University. “Those back doors could work against U.S. communications, too.”
+“风险在于，当你在系统中插入了后门，你不会是唯一能利用它的人，”约翰斯·霍普金斯大学(Johns Hopkins University)密码学研究员马修·D·格林(Matthew D. Green)说。“这些后门也可能被利用来打击美国通讯。”
+Paul Kocher, a leading cryptographer who helped design the SSL protocol, recalled how the N.S.A. lost the heated national debate in the 1990s about inserting into all encryption a government back door called the Clipper Chip.
+曾联合设计SSL协议的著名编码师保罗·科克(Paul Kocher)回忆称，NSA在20世纪90年代曾要求在所有加密系统里安插叫做“Clipper芯片”(Clipper Chip)的政府后门，并最终失败。
+“And they went and did it anyway, without telling anyone,” Mr. Kocher said. He said he understood the agency’s mission but was concerned about the danger of allowing it unbridled access to private information.
+“但他们不顾一切，还是这么做了，而且没有告诉任何人，”科克说。他说他理解NSA的使命，但是他担心允许NSA不受限制地获取私人讯息会带来危险。
+“The intelligence community has worried about ‘going dark’ forever, but today they are conducting instant, total invasion of privacy with limited effort,” he said. “This is the golden age of spying.”
+“情报界一直都在担心世界会陷入永远‘静默’的状态，但他们如今却不费吹灰之力就能在瞬间全面侵入人们的隐私之中，”他说，“这简直是间谍活动的黄金时代。”
+A Vital Capability
+重要能力
+The documents are among more than 50,000 shared by The Guardian with The New York Times and ProPublica, the nonprofit news organization. They focus primarily on GCHQ but include thousands either from or about the N.S.A.
+这些文件属于《卫报》(The Guardian)向《纽约时报》与非营利性新闻机构ProPublica分享的逾5万份文件之列。它们主要侧重GCHQ ，但其中有数千份文件来自NSA或跟它有关。
+Intelligence officials asked The Times and ProPublica not to publish this article, saying that it might prompt foreign targets to switch to new forms of encryption or communications that would be harder to collect or read. The news organizations removed some specific facts but decided to publish the article because of the value of a public debate about government actions that weaken the most powerful tools for protecting the privacy of Americans and others.
+情报官员要求《纽约时报》和ProPublica不要刊发这篇文章，说它可能导致外国目标改用新的加密或通信方式，令收集或读取信息变得更困难。新闻机构删除了一些具体细节，但还是决定刊发这篇文章，因为这对于公众就政府行为展开辩论具有价值。这些政府行为削弱了保护美国人和其他人隐私的最为有力的工具。
+The files show that the agency is still stymied by some encryption, as Mr. Snowden suggested in a question-and-answer session on The Guardian’s Web site in June.
+这些文件显示，该机构仍然没有攻克所有的加密阻碍，正如斯诺登6月在《卫报》网站上进行网络问答时所提到的。
+“Properly implemented strong crypto systems are one of the few things that you can rely on,” he said, though cautioning that the N.S.A. often bypasses the encryption altogether by targeting the computers at one end or the other and grabbing text before it is encrypted or after it is decrypted.
+“正确使用强大的加密系统，是少数你可以依靠的手段之一， ”他说。不过他也告诫道，NSA经常会完全绕过加密系统，方法是针对一端或者另一端的计算机，在文本被加密之前或者解密之后获取它们。
+The documents make clear that the N.S.A. considers its ability to decrypt information a vital capability, one in which it competes with China, Russia and other intelligence powers.
+该文件明确指出，NSA认为自己解密信息的能力非常重要，并在就此与中国、俄罗斯和其他国家的情报机构开展竞争。
+“In the future, superpowers will be made or broken based on the strength of their cryptanalytic programs,” a 2007 document said. “It is the price of admission for the U.S. to maintain unrestricted access to and use of cyberspace.”
+“在未来，超级大国的成败将取决于它们密码分析项目的实力，” 2007年的一份文件写道， “美国要想继续不受限制地访问和使用网络空间，这就是入场费。”
+The full extent of the N.S.A.’s decoding capabilities is known only to a limited group of top analysts from the so-called Five Eyes: the N.S.A. and its counterparts in Britain, Canada, Australia and New Zealand. Only they are cleared for the Bullrun program, the successor to one called Manassas — both names of an American Civil War battle. A parallel GCHQ counterencryption program is called Edgehill, named for the first battle of the English Civil War of the 17th century.
+NSA解码能力究竟有多强大只有少数顶级分析师知道，他们来自所谓的“五只眼”(Five Eyes)：NSA及其在英国、加拿大、澳大利亚和新西兰的对应机构。只有他们能充分接触Bullrun项目，及其前身项目Manassas——这两个名字都取自美国南北战争中的战役。GCHQ的一个平行的反解密项目叫作Edgehill，名字取自17世纪英国内战的首个战役。
+Ties to Internet Companies
+跟互联网公司的关系
+When the N.S.A. was founded, encryption was an obscure technology used mainly by diplomats and military officers. Over the last 20 years, with the rise of the Internet, it has become ubiquitous. Even novices can tell that their exchanges are being automatically encrypted when a tiny padlock appears next to the Web address on their computer screen.
+NSA成立之初，加密还是一种鲜为人知的技术，主要供外交官和军官使用。过去的20年里，随着互联网的兴起，它已经变得无处不在。即使新手也知道，如果电脑屏幕上的网址旁边出现一个小小的挂锁图案，他们的信息交换就被自动加密了。
+Because strong encryption can be so effective, classified N.S.A. documents make clear, the agency’s success depends on working with Internet companies — by getting their voluntary collaboration, forcing their cooperation with court orders or surreptitiously stealing their encryption keys or altering their software or hardware.
+NSA机密文件明确表示，由于严格加密之后的效果非常好，该机构的成功有赖于跟互联网公司的合作——要么获得它们的自愿合作，要么用法庭命令迫使它们合作，或者暗中窃取它们的加密密钥，又或者修改它们的软硬件。
+According to an intelligence budget document leaked by Mr. Snowden, the N.S.A. spends more than $250 million a year on its Sigint Enabling Project, which “actively engages the U.S. and foreign IT industries to covertly influence and/or overtly leverage their commercial products’ designs” to make them “exploitable.” Sigint is the acronym for signals intelligence, the technical term for electronic eavesdropping.
+斯诺登泄露的一份情报预算文件显示， NSA每年花费逾2.5亿美元在Sigint促进计划(Sigint Enabling Project)上，这个项目“主动积极地接触美国和外国IT产业，暗中或公开影响它们的商业产品设计”，让这些产品“可被利用”。Sigint是电子窃听技术的术语“信号情报”(signals intelligence)的缩写。
+By this year, the Sigint Enabling Project had found ways inside some of the encryption chips that scramble information for businesses and governments, either by working with chipmakers to insert back doors or by surreptitiously exploiting existing security flaws, according to the documents. The agency also expected to gain full unencrypted access to an unnamed major Internet phone call and text service; to a Middle Eastern Internet service; and to the communications of three foreign governments.
+这些文件显示，今年，Sigint项目找到了进入某些为企业和政府编码信息的加密芯片的数个途径，方法要么是通过与芯片制造商合作来植入后门，要么是暗中利用现有的安全缺陷。NSA还有望获得完整权限，从而在加密前访问一家未具名的大型互联网电话与短信服务公司、一家中东互联网公司，以及三个外国政府的通讯信息。
+In one case, after the government learned that a foreign intelligence target had ordered new computer hardware, the American manufacturer agreed to insert a back door into the product before it was shipped, someone familiar with the request told The Times.
+知情人士告诉《纽约时报》：有一次，在美国政府了解到某外国情报目标订购了新的计算机硬件之后，美国制造商同意在硬件出货之前植入一个后门。
+The 2013 N.S.A. budget request highlights “partnerships with major telecommunications carriers to shape the global network to benefit other collection accesses” — that is, to allow more eavesdropping.
+NSA在其2013年的预算申请中强调了“与各大电信运营商保持合作伙伴关系，使全球网络有利于其他信息搜集活动”——也就是说，获得更多的窃听机会。
+At Microsoft, as The Guardian has reported, the N.S.A. worked with company officials to get pre-encryption access to Microsoft’s most popular services, including Outlook e-mail, Skype Internet phone calls and chats, and SkyDrive, the company’s cloud storage service.
+据《卫报》报道，NSA跟微软公司的管理层合作，可以在加密前访问该公司人气最高的服务项目，比如Outlook电子邮件、互联网通话与聊天软件Skype，以及该公司的云存储服务SkyDrive。
+Microsoft asserted that it had merely complied with “lawful demands” of the government, and in some cases, the collaboration was clearly coerced. Some companies have been asked to hand the government the encryption keys to all customer communications, according to people familiar with the government’s requests. Executives who refuse to comply with secret court orders can face fines or jail time.
+微软强调，自己只是遵从了政府的“合法要求” ，而且在某些情况下，合作显然是迫不得已的。熟悉内情的人士透露，政府曾经要求一些公司交出所有用户通信的加密密钥。如果公司高管拒绝执行秘密法庭颁发的这个命令，可能会被处以罚款或监禁。
+N.S.A. documents show that the agency maintains an internal database of encryption keys for specific commercial products, called a Key Provisioning Service, which can automatically decode many messages. If the necessary key is not in the collection, a request goes to the separate Key Recovery Service, which tries to obtain it.
+NSA的文件显示，该机构有一个名为密钥供应服务(Key Provisioning Service)的内部数据库，里面是特定商业产品的加密密钥，可以自动解码很多信息。如果解码所需的密钥不在数据库中，它会向密钥收回服务(Key Recovery Service)发送请求。后者就会设法获取相应的密钥。
+How keys are acquired is shrouded in secrecy, but independent cryptographers say many are probably collected by hacking into companies’ computer servers, where they are stored.
+如何得到密钥是保密的，但一些独立的密码专家称，许多密钥很可能都是通过秘密侵入相关企业存储密钥的计算机服务器来获取的。
+Simultaneously, the N.S.A. has been deliberately weakening the international encryption standards adopted by developers. One goal in the agency’s 2013 budget request was to “influence policies, standards and specifications for commercial public key technologies,” the most common encryption method.
+与此同时，NSA也刻意削弱了开发人员采用的国际加密标准。该机构2013年的预算申请中阐述的目标之一是“影响商用公钥技术的政策、标准和规范”，而这种技术是最常见的加密方法。
+Cryptographers have long suspected that the agency planted vulnerabilities in a standard adopted in 2006 by the National Institute of Standards and Technology, the United States’ encryption standards body, and later by the International Organization for Standardization, which has 163 countries as members.
+密码专家早就怀疑NSA在一个标准中植入了漏洞。这个标准于2006年被负责美国加密标准的国家标准与技术研究院(National Institute of Standards and Technology)所采用，后来又被拥有163个成员国的国际标准化组织(International Organization for Standardization)采纳。
+Classified N.S.A. memos appear to confirm that the fatal weakness, discovered by two Microsoft cryptographers in 2007, was engineered by the agency. The N.S.A. wrote the standard and aggressively pushed it on the international group, privately calling the effort “a challenge in finesse.”
+NSA的数份机密备忘录似乎证实了，微软的两个密码破译人员2007年在标准中发现的致命漏洞是该机构的手笔。NSA编制了这个标准，花大力气把它推向国际社会，并在私下里称这个任务是“需要精妙应对的挑战”。
+“Eventually, N.S.A. became the sole editor,” the memo says.
+“最终， NSA成为了唯一的编撰者。 ”备忘录中写道。
+Even agency programs ostensibly intended to guard American communications are sometimes used to weaken protections. The N.S.A.’s Commercial Solutions Center, for instance, invites the makers of encryption technologies to present their products and services to the agency with the goal of improving American cybersecurity. But a top-secret N.S.A. document suggests that the agency’s hacking division uses that same program to develop and “leverage sensitive, cooperative relationships with specific industry partners” to insert vulnerabilities into Internet security products.
+即使某些看似旨在保护美国人通信的NSA项目，有时也被用来削弱这种保护。举例来说，NSA旗下的商业解决方案中心(Commercial Solutions Center)曾以改善美国网络安全为名，邀请加密技术开发机构来展示它们的产品和服务。但一份绝密NSA文件显示，该机构的黑客部门使用同一个项目培养并“利用跟特定行业合作伙伴之间的敏感合作关系”，以达到把漏洞植入到互联网安全产品中的目的。
+A Way Around
+绕道而行
+By introducing such back doors, the N.S.A. has surreptitiously accomplished what it had failed to do in the open. Two decades ago, officials grew concerned about the spread of strong encryption software like Pretty Good Privacy, or P.G.P., designed by a programmer named Phil Zimmermann. The Clinton administration fought back by proposing the Clipper Chip, which would have effectively neutered digital encryption by ensuring that the N.S.A. always had the key.
+通过引入此类后门，NSA悄无声息地获得了在公开场合未能取得的成效。20年前，美国官方对一些强大加密软件的流行担忧起来，比如程序开发员菲尔·齐默尔曼(Phil Zimmermann)设计的“完美隐私软件”（Pretty Good Privacy，简称PGP）。克林顿政府提出了Clipper芯片予以还击。如果推行下去，NSA将始终掌握密钥，实际上会使电子加密失去作用。
+That proposal met a broad backlash from an unlikely coalition that included political opposites like Senator John Ashcroft, the Missouri Republican, and Senator John Kerry, the Massachusetts Democrat, as well as the televangelist Pat Robertson, Silicon Valley executives and the American Civil Liberties Union. All argued that the Clipper would kill not only the Fourth Amendment, but also America’s global edge in technology.
+这项提议在很大范围内遭遇了强烈反对，并出人意料地团结了一批人，其中包括参议院里的政治对头，比如来自密苏里州的共和党人约翰·阿什克罗夫特(John Ashcroft)和来自马萨诸塞州的民主党人约翰·克里(John Kerry)，还有电视传教士帕特·罗伯森(Pat Robertson)、一批硅谷高管，以及美国公民自由联盟(American Civil Liberties Union)。他们都认为，Clipper不仅会让宪法第四修正案形同虚设，还会扼杀美国在科技领域的全球领先优势。
+By 1996, the White House backed down. But soon the N.S.A. began trying to anticipate and thwart encryption tools before they became mainstream.
+1996年，白宫终于让步。但很快地，NSA就开始尝试，在加密成为主流之前进行预先准备并予以阻挠。
+“Every new technology required new expertise in exploiting it, as soon as possible,” one classified document says.
+“每项新技术都需要新的专业知识来对其进行利用，越快越好，”一份机密文件中这样写道。
+Each novel encryption effort generated anxiety. When Mr. Zimmermann introduced the Zfone, an encrypted phone technology, N.S.A. analysts circulated the announcement in an e-mail titled “This can’t be good.”
+每次出现创新性的加密方式都会让他们心生焦虑。当齐默尔曼推出了加密电话技术Zfone时，NSA分析师通过电子邮件竞相传阅这一消息，邮件主题栏上写着“此事不妙”。
+But by 2006, an N.S.A. document notes, the agency had broken into communications for three foreign airlines, one travel reservation system, one foreign government’s nuclear department and another’s Internet service by cracking the virtual private networks that protected them.
+一份NSA文件显示，到了2006年，通过破解保护性的VPN，该局已攻破了三家外国航空公司、一个旅行预订系统、一个外国政府的核能部门，以及另一个外国政府互联网服务的通讯系统。
+By 2010, the Edgehill program, the British counterencryption effort, was unscrambling VPN traffic for 30 targets and had set a goal of an additional 300.
+到了2010年，英国反制加密的Edgehill计划已成功破解了30个目标的VPN，而且设立了再破解300个的目标。
+But the agencies’ goal was to move away from decrypting targets’ tools one by one and instead decode, in real time, all of the information flying over the world’s fiber optic cables and through its Internet hubs, only afterward searching the decrypted material for valuable intelligence.
+不过，这些机构的目的是要摆脱逐个破解目标工具的局面，迈向实时解译通过全世界光纤和互联网交换机的所有信息，仅需事后搜寻解密材料来获取有价值的情报。
+A 2010 document calls for “a new approach for opportunistic decryption, rather than targeted.” By that year, a Bullrun briefing document claims that the agency had developed “groundbreaking capabilities” against encrypted Web chats and phone calls. Its successes against Secure Sockets Layer and virtual private networks were gaining momentum.
+2010年的一份材料呼吁，采取“全新的方式来进行随机解码，而非逐个破解目标”。就在当年，Bullrun的一份报告文件宣称，NSA已获取了针对加密网络聊天与电话的“突破性能力”。该机构在破解SSL和VPN上也不断有所斩获。
+But the agency was concerned that it could lose the advantage it had worked so long to gain, if the mere “fact of” decryption became widely known. “These capabilities are among the Sigint community’s most fragile, and the inadvertent disclosure of the simple ‘fact of’ could alert the adversary and result in immediate loss of the capability,” a GCHQ document outlining the Bullrun program warned.
+不过，NSA担心，一旦解码的“实情”广为人知，就会丧失长时间努力得来的优势。GCHQ概述Bullrun计划的一份文件中警告，“这些能力是Sigint项目中最为脆弱的部分，无意间泄露这一简单‘实情’的话，可能会让对手警觉，并导致能力的迅速丧失。”
+Corporate Pushback
+业界反弹
+Since Mr. Snowden’s disclosures ignited criticism of overreach and privacy infringements by the N.S.A., American technology companies have faced scrutiny from customers and the public over what some see as too cozy a relationship with the government. In response, some companies have begun to push back against what they describe as government bullying.
+自从斯诺登的揭秘激起外界对NSA触角太广、侵犯隐私的批评，美国科技企业就面临着消费者和公众的审视。一些人认为，业界与政府的关系太过紧密。作为回应，一些企业开始反击他们眼中的政府的霸道行为。
+Google, Yahoo, Microsoft and Facebook have pressed for permission to reveal more about the government’s secret requests for cooperation. One small e-mail encryption company, Lavabit, shut down rather than comply with the agency’s demands for what it considered confidential customer information; another, Silent Circle, ended its e-mail service rather than face similar demands.
+谷歌、雅虎、微软和Facebook都施加了压力，希望允许它们披露有关政府下达秘密合作要求的更多信息。由于不愿满足NSA的要求，小型邮件加密企业Lavabit干脆关门，因为公司认为NSA要求的是机密客户信息。另一家企业Silent Circle宁可终止邮件服务也不愿满足类似的要求。
+In effect, facing the N.S.A.’s relentless advance, the companies surrendered.
+实际上，当NSA不断得寸进尺的时候，业界都做出了让步。
+Ladar Levison, the founder of Lavabit, wrote a public letter to his disappointed customers, offering an ominous warning. “Without Congressional action or a strong judicial precedent,” he wrote, “I would strongly recommend against anyone trusting their private data to a company with physical ties to the United States.”
+Lavabit的创始人拉达尔·莱韦森(Ladar Levison)给失望的客户写了一封公开信，给出了不详的警告。“除非国会采取行动，或是法院做出强有力的判例，”文中写道，“我强烈建议，任何人都不要把自己的私人信息交给与美国有任何实际联系的公司。”

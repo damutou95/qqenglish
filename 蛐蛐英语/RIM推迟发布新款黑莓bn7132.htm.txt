@@ -1,0 +1,30 @@
+OTTAWA — Research in Motion unexpectedly announced on Thursday that a new line of phones that it still hopes will revive its BlackBerry brand will be delayed until next year.
+加拿大渥太华——Research in Motion (RIM)周四出人意料地宣布，该公司新手机产品线发布时间将推迟到明年。RIM仍然希望新产品能重振黑莓(BlackBerry)品牌。
+The company has effectively staked its future on the BlackBerry 10 line of phones which had previously encountered delays in its release date. The latest setback, which was announced along with a $518 million loss in the company’s first quarter, increased doubts among analysts and investors about RIM’s future.
+该公司实际上已将自己的未来系于黑莓10手机产品线上，而该产品线的发布日期此前就曾经推迟过。在宣布这一消息的同时，RIM还公布了公司一季度亏损5.18亿美元的业绩。该公司最近遭遇的挫折加剧了分析师和投资者对RIM未来的怀疑。
+“I don’t know if they can turn it around,” Ehud Gelblum, an analyst with Morgan Stanley, said in an interview on Thursday.
+摩根士丹利(Morgan Stanley)分析师埃胡德·格尔布卢姆(Ehud Gelblum)周四在一次采访中说：“我不不知道他们是否能扭转局面。”
+At several recent public events, Thorsten Heins, who became RIM’s chief executive in January, said that the development of the new phones was on schedule and they would be available for the important holiday shopping season.
+今年1月开始担任RIM首席执行官的托尔斯滕·海因斯(Thorsten Heins)，曾在最近几次公开活动上表示，新手机的研发正在如期进行，将于年底重要的圣诞购物季到来之前面世。
+But in Thursday’s earnings statement, RIM said that the integration of several critical features and the development of the new BlackBerry’s software code had proved “to be more time consuming than anticipated.”
+不过在周四发布的盈利报告中，RIM却透露，整合若干关键功能，以及开发新版黑莓软件代码的工作原来“比预想的更加耗时。”
+In the statement Mr. Heins added, “RIM’s development teams are relentlessly focused on ensuring the quality and reliability of the platform and I will not compromise the product by delivering it before it is ready.”
+在这份报告中，海因斯还说：“RIM的研发团队正在孜孜不倦地专注于确保平台的质量和可靠性，我不会牺牲产品的质量，在准备好之前发布产品。”
+The Canadian company also said on Thursday that it would cut 5,000 jobs as part of a plan to reduce its annual operating costs by $1 billion. The company has already started laying off employees from its work force of about 16,500.
+这家加拿大企业周四还披露将削减5000个工作岗位，这是该公司削减10亿美元年度运营成本计划中的一部分。RIM已经开始解雇员工，该公司目前约有1.65万名员工。
+RIM’s loss, of about 99 cents a share, compares with a profit of $695 million, or $1.33 a share, in the same quarter a year ago.
+RIM的亏损折合每股99美分。与此相对比，去年同期该公司盈利6.95亿美元，折合每股1.33美元。
+Revenue fell by 43 percent to $2.8 billion from $4.9 billion in its first quarter last year.
+收入从去年一季度的49亿美元跌至今年一季度的28亿美元，降幅43%。
+While the delay in the new phones was a surprise, the weak financial results were expected. Although RIM has stopped issuing predictions for its financial results, it warned investors in late May that it was likely to report an operating loss for the quarter.
+虽然新款手机产品线推迟发布出人意料，但财务状况不佳却在意料之中。尽管RIM已经不再发布该公司的财务状况预测，但5月底曾经警示投资者，本季度运营可能出现亏损。
+For several months, some financial analysts have been skeptical privately about RIM’s ability to survive or even to find a buyer for its assets. Some of them openly expressed their concerns in advance of the quarterly earnings statement.
+几个月来，一些金融分析师曾私下对RIM是否能够生存下去，甚至能否为其资产找到买家提出过怀疑。在季度盈利报告发布之前，一些分析师就曾公开表达过担忧。
+Sales of BlackBerry smartphones have slowed significantly. RIM said it shipped 7.8 million BlackBerry smartphones in the quarter, a third less than the 11.2 million smartphones it shipped in the first quarter a year ago. But Mr. Heins continued to maintain that the BlackBerry 10 phones, which will be more like Apple iPhones or smartphones using the Android operating system, would reverse the company’s fortunes despite their delay.
+黑莓智能手机的销售已经明显放缓。RIM称一季度黑莓智能手机出货量为780万台，比去年一季度出货量1120万台下降了三分之一。不过海因斯仍然表示，尽管黑莓10手机发布时间推迟，但仍能扭转公司的命运。黑莓10会更像苹果iPhone或使用Android操作系统的智能手机。
+“I am confident that the first BlackBerry 10 smartphones will provide a groundbreaking next-generation smartphone user experience,” he said in the earnings statement.
+他在盈利报告中说：“我相信，首款黑莓10智能手机将会提供开一种前所未有的新一代智能手机用户体验。”
+Although smartphones are one of the fastest growing consumer products in the world right now, RIM is not alone in finding that making a profit from them is difficult.
+尽管智能手机目前是世界上增长最迅速的消费品之一，但是发现难从其中盈利的企业并非只有RIM。
+On his blog, Asymco.com, Horace Dediu, a former industry analyst at Nokia, calculated that Apple currently attracted 73 percent of all smartphone profits while Samsung, which uses Google’s Android operating system, accounted for 23 percent.
+前诺基亚(Nokia)行业分析师贺拉斯·德迪欧(Horace Dediu)在自己的博客Asymco.com上估算，在智能手机市场总利润中，苹果公司占73%，而使用Google Android操作系统的三星(Samsung)则占23%。

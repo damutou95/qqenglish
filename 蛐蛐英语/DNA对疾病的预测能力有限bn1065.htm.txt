@@ -1,0 +1,48 @@
+If every aspect of a person’s DNA is known, would it be possible to predict the diseases in that person’s future? And could that knowledge be used to forestall the otherwise inevitable?
+如果知道一个人DNA的全部内容，有可能预测出他将来会得什么病吗？并且，能否以此来预防本来无法避免的事情？
+The answer, according to a new study of twins, is, for the most part, “no.”
+根据一项有关双胞胎的新研究，答案多半是“不能”。
+While sequencing the entire DNA of individuals is proving fantastically useful in understanding diseases and finding new treatments, it is not a method that will, for the most part, predict a person’s medical future.
+虽然个人全基因组测序在了解疾病和寻找新疗法时已证明相当有效，但大多数情况下，它并不是能够预测一个人将来健康状况的方法。
+So, the new study concludes, it is not going to be possible to say that, for example, Type 2 diabetes will occur with absolute certainty unless a person keeps a normal weight, or that colon cancer is a foregone conclusion without frequent screening and removal of polyps. Conversely, it will not be possible to tell some people that they can ignore all the advice about, for example, preventing a heart attack because they will never get one.
+这项研究的结论称，因此，举例来说，我们不可能说一个人必须保持正常体重，否则就一定会得II型糖尿病；也不可能说不经常筛检并切除息肉就一定会得结肠癌。反之，我们也不可能对一些人说：因为他们永远不会得心脏病，就可以罔顾一切预防心脏病发作的建议。
+“The punch line is that this sort of personalized medicine will not in any way be the most important determinant of patient care,” said Dr. Bert Vogelstein of Johns Hopkins, who, with his colleagues and his son Joshua, analyzed the power of sequencing all of a person’s DNA to determine an individual’s risk of disease. The study, published online Monday in the journal Science Translational Medicine, involved data from 53,666 identical twins in registries from the United States, Sweden, Finland, Denmark and Norway. The registries included data on 24 diseases, telling how often one twin, both or neither got a disease.
+约翰·霍普金斯大学的贝特·沃格尔斯坦（Bert Vogelstein）说：“这件事的好笑之处就在于，这种个性化的医疗无论如何也不是病人护理方面最重要的决定因素。”他和同事——也是他的儿子——约书亚（Joshua）一起，分析了个人全基因组测序对个人患病风险的预测能力。他们的研究于4月2号在线发表在《科学·转化医学》杂志网络版上，包括了来自美国、瑞典、芬兰、丹麦和挪威等国家所记录的53666对同卵双胞胎的数据。这些记录里有24种疾病的数据，描述了同卵双胞胎中的一人、两人患病或者都不患病的机率。
+Since identical twins share all of their genes, the investigators could ask to what extent genes predict an increased chance of getting a disease. Using a mathematical model, they reached an answer: not much. Most people will be at average risk for most of the 24 diseases.
+因为同卵双胞胎所有基因都相同，研究者们可以由此来研究基因能在多大程度上预测患病可能性的提高。他们采用数学模型得出的答案是：并不大。绝大部分人患上24种疾病中的绝大多数的风险都处于平均水平。
+They asked: Would those who ultimately got one of the 24 diseases have been forewarned by DNA sequencing? “Unfortunately, it tells them they are at roughly the same risk as the general population,” said Dr. Vogelstein.
+他们的问题是：那些最后得了这24种疾病中某一种的人，是否原本可以通过DNA测序来预警。沃格尔斯坦说：“很不幸，DNA测序表明，他们和普通人群的患病风险大体相当。”
+The researchers also asked whether healthy people would learn by DNA sequencing that they were at low risk for a disease. Again, the results were disappointing. For example, more than 93 percent of women would learn they were at low risk for breast cancer and more than 97 percent of men and women would learn their risk for lung cancer was low. “But these negative tests do not mean they are at no risk for these cancers,” Dr. Vogelstein said. Their risk is more like that of the general population. And, Dr. Vogelstein says, even knowing you are at high risk for a disease may be less useful than it sounds. A woman who is at high risk for ovarian cancer might have a 10 percent risk, many times higher than average. That, Dr. Vogelstein said, “is unlikely to be the main determinant of her health.” But there was one positive finding — as many as 90 percent of people would learn that they are at high risk of getting at least one disease. And gene sequencing could, in theory at least, identify as many as 75 percent of those who will develop Alzheimer’s disease, autoimmune thyroid disease, Type 1 diabetes and, for men, heart disease.
+研究人员还考查了健康人能否通过DNA测序来了解他们患某种疾病的风险较低。结果又一次令人失望。比如，超过93%的女性会了解到自己患乳腺癌的风险较低，而超过97%的男性和女性则会获悉自己得肺癌的风险较低。沃格尔斯坦说：“但是，这种阴性测试结果并不意味着他们就没有得这些癌症的风险。”他们的风险和普通大众更为接近。沃格尔斯坦还说，即使你知道自己患病风险高，可能也没有听上去那样有用。一名卵巢癌高危女性或许有10%的风险，比平均值高许多倍，但沃格尔斯坦说，这样“也不太可能成为她健康的主要决定性因素”。不过也有一个正面的发现——高达90%的人会通过DNA测序了解到他们处于至少患上其中一种疾病的高风险状态。而且，至少从理论上讲，基因测序可以发现多达75%的未来将患老年痴呆症、自体免疫甲状腺疾病和I型糖尿病的患者以及男性心脏病患者。
+However, with the exception of heart disease, there is as yet no way to prevent these diseases or slow their progress. And since high risk of an infrequent disease, like ovarian cancer, is far from a prediction that the disease is in the person’s future, the information might be valuable but would not necessarily make much difference in the end.
+然而，除了心脏病之外，对于其他这些疾病，目前尚无预防或延缓发病的方法。另外，由于罕见疾病（如卵巢癌）的高风险还远无法被预测出一个人将来会得此病，这种信息或许会有价值，但最终未必会有什么帮助。
+“The general point is absolutely correct,” said Dr. David Altshuler, professor of genetics and medicine at Harvard Medical School, who was not involved with the research. “Even if you know everything about genetics, prediction will remain probabilistic and not deterministic.”
+并未参与该项研究的哈佛大学医学院遗传学及医学系教授大卫·阿特舒勒（David Altshuler）说：“总体结论肯定是正确的。即使你知道了全部的遗传信息，也只能预测概率而非确定性。”
+The reason, he suspects, is that behavior, environment and random events tip the balance. “I am a big believer in randomness,” Dr. Altshuler said.
+他推测，这是因为行为、环境和随机事件起了决定性作用。阿特舒勒说：“我很相信随机性。”
+Dr. Vogelstein is too, but he had hoped the study might prove him wrong. He and his colleagues had studied a patient with pancreatic cancer. Several family members had also developed this rare disease, and so Dr. Vogelstein and his colleagues decided to determine the sequences of the patient’s genes, looking for a mutation.
+沃格尔斯坦也有同样看法，但他曾希望这项研究能够证明自己是错的。他和同事们一起研究了一名患胰腺癌的病人。该病人的几名家族成员也都患有这种罕见疾病，因此，沃格尔斯坦和同事们决定测定该病人的基因序列来寻找突变。
+“Indeed, we found the culprit,” Dr. Vogelstein said.
+沃格尔斯坦说：“的确，我们找到了罪魁祸首。”
+Several other research groups looked at families with other diseases and also found unexpected genetic culprits by sequencing all of a patient’s DNA.
+其他几个研究小组也通过病人的全基因组测序，查看了患有其他疾病的家族并发现了意想不到的遗传致病原因。
+“It occurred to us that maybe we could do this for everyone,” Dr. Vogelstein said. “Maybe we would find that most disease risk was concentrated in a relatively small number of people. That would have dramatic health policy implications. It would mean we could concentrate our surveillance on that proportion of the population that was at high genetic risk.”
+沃格尔斯坦说：“这让我们想到，或许我们可以对所有人进行测序。或许我们会发现，绝大部分的疾病风险都集中在相对少数的人中间。这会对医疗政策有着很大意义。这意味着我们可以把疾病监控集中在高遗传风险的那部分人群上。”
+The twins study let him see what might be possible. And, he says, “it puts limits on what people might expect with this sort of testing.”
+这项双胞胎研究让他看到了什么是可能的。他还说：“它对人们可能对这种测试所抱有的期待设定了限制。”
+Other experts pointed out different aspects of DNA sequencing that can improve health and medical care. Sequencing can, in some cases, aid in determining a patient’s prognosis. It can find the causes of mystery ailments in individuals, and it can find mutations that appear to be driving the growth of cancers in individual patients.
+另外一些专家指出了DNA测序能够促进健康和医疗保健的另一些方面。在某些情况下，测序可以帮助确定病人的预后，也可以找出某些个体所患神秘疾病的原因，或找出单个病人中看来是在推动癌组织生长的突变。
+Sequencing also is starting to help doctors decide who should take drugs to prevent diseases, as is happening with heart disease.
+测序也开始帮助医生决定哪些病人应该服药来预防疾病，正如在心脏病治疗中所做的那样。
+In heart disease, one pressing problem is how to decide which young and middle-aged adults would benefit from cholesterol-lowering statins to reduce the risk of a first heart attack, said Dr. Sekar Kathiresan, a genetics researcher who is director of preventive cardiology at Massachusetts General Hospital. The drugs reduce the risk by 20 percent, but if your risk is low to start with, a 20 percent reduction does not mean much.
+马萨诸塞州总医院预防心脏病科主任、遗传学研究员塞卡·凯西瑞山（Sekar Kathiresan）说，心脏病治疗方面的一个紧迫问题是，如何决定哪些年轻人和中年人会受益于降胆固醇类药物来降低首次心脏病发作的风险。这类药物能将风险降低20%，但如果风险一开始就很低，降低20%也没有太大意义。
+Now, Dr. Kathiresan said, by analyzing data from studies that sequenced entire genomes, researchers have found 30 gene variants that, taken together, can identify healthy people who have twice the average risk of heart disease. “There is a great attraction to using genetics in this way,” he says.
+凯西瑞山说，如今研究人员通过分析全基因组测序研究的数据，已经找到了30个基因变异，综合起来，能够确认出患心脏病风险是常人两倍的健康人士。他说：“用这种方法使用遗传学很有吸引力。”
+Dr. Robert Cook-Deegan, professor of law, ethics and policy at Duke, notes that every person whose DNA is sequenced will get information about whether he or she will respond to certain drugs and whether certain side effects will result from taking certain drugs. Vanderbilt University is already doing genetic analyses of patients to help in prescribing a short list of drugs, says Dr. William Schaffner, chairman of the department of preventive medicine at its medical school.
+杜克大学法律、伦理及政策系教授罗伯特·库克迪根（Robert Cook-Deegan）指出，每一个接受DNA测序的人都可以得知某些药物是否对他们有用，以及服用某些药物是否会有特定的副作用。范德比尔特大学医学院预防医药系主任威廉·夏夫那（William Schaffner）说，该校已经开始对病人进行遗传分析，以帮助几种药物用于开处方。
+But the real benefit of studying the human genome, Dr. Altshuler said, is not to predict people’s medical futures but instead to understand how diseases occur and to use that knowledge to develop better therapies. Already this sort of work has succeeded with an entirely new type of drug to lower levels of LDL, or “bad” cholesterol, he said.
+不过，阿特舒勒教授说，研究人类基因组真正的好处不是为了预测个人未来的健康状况，而是理解疾病是怎样发生的，并利用这种知识来开发更好的疗法。他说，这类工作已经成功地找到一种全新的药物来降低LDL水平，即“坏”的胆固醇的水平。
+“The reason we do it is because we want to use genetics to pry open the black box of how disease works,” Dr. Altshuler said. “Not to personalize existing treatments, but to develop new treatments that are more effective.”
+阿特舒勒教授说：“这样做的原因是，我们想用遗传学来打开疾病如何发生的黑盒子。不是把现有的疗法个人化，而是开发更加有效的新疗法。”
+And that, he said is “a work in progress.”
+他说，那是“一项正在进行的工作”。

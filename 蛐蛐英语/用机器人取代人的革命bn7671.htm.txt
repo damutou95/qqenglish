@@ -1,0 +1,130 @@
+DRACHTEN, the Netherlands — At the Philips Electronics factory on the coast of China, hundreds of workers use their hands and specialized tools to assemble electric shavers. That is the old way.
+荷兰德拉赫腾——在中国沿海地区飞利浦电子公司(Philips Electronics)的工厂里，成百上千的工人用他们的双手和特制工具来组装电动剃须刀。那是老办法。
+At a sister factory here in the Dutch countryside, 128 robot arms do the same work with yoga-like flexibility. Video cameras guide them through feats well beyond the capability of the most dexterous human.
+在荷兰乡间的一家姊妹厂里，128个机器臂以瑜伽式的灵活度做着同样的工作。视频摄像头引导它们进行的操作远远超过最灵巧的人工能力。
+One robot arm endlessly forms three perfect bends in two connector wires and slips them into holes almost too small for the eye to see. The arms work so fast that they must be enclosed in glass cages to prevent the people supervising them from being injured. And they do it all without a coffee break — three shifts a day, 365 days a year.
+一只机器臂不停地在两条连接线上做出三道完美的弯，然后将它们穿进肉眼几乎看不见的小孔中。这些机器臂飞快地运行，为了不伤及管理它们的人，需把它们放在玻璃柜子中。它们每天三班、一年365天不停地工作，不需要茶歇。
+All told, the factory here has several dozen workers per shift, about a tenth as many as the plant in the Chinese city of Zhuhai.
+总共算下来，这家工厂每班有几十名工人，是中国珠海那家工厂的约十分之一。
+This is the future. A new wave of robots, far more adept than those now commonly used by automakers and other heavy manufacturers, are replacing workers around the world in both manufacturing and distribution. Factories like the one here in the Netherlands are a striking counterpoint to those used by Apple and other consumer electronics giants, which employ hundreds of thousands of low-skilled workers.
+这才是未来。新一代机器人比汽车制造商和其他重工业生产商目前普遍采用的机器人要娴熟得多。它们正在世界各地取代制造业和配送行业的工人。荷兰这样的工厂与苹果公司和其他一些家用电子电器巨头形成了鲜明的对照，那些公司雇佣成千上万的低技能工人。
+“With these machines, we can make any consumer device in the world,” said Binne Visser, an electrical engineer who manages the Philips assembly line in Drachten.
+负责飞利浦德拉赫腾生产线的电气工程师宾内·菲瑟(Binne Visser)说，“有了这些机器，我们可以制造世界上任何的消费者用设备”。
+Many industry executives and technology experts say Philips’s approach is gaining ground on Apple’s. Even as Foxconn, Apple’s iPhone manufacturer, continues to build new plants and hire thousands of additional workers to make smartphones, it plans to install more than a million robots within a few years to supplement its work force in China.
+许多行业高管和技术专家称，飞利浦的做法将会超过苹果的而处于领先地位。即便是苹果iPhone的制造商富士康，在继续兴建新工厂、雇佣上千名新工人来生产智能手机的同时，也计划在未来几年内安装100多万个机器人以增补其在中国的劳动力。
+Foxconn has not disclosed how many workers will be displaced or when. But its chairman, Terry Gou, has publicly endorsed a growing use of robots. Speaking of his more than one million employees worldwide, he said in January, according to the official Xinhua news agency: “As human beings are also animals, to manage one million animals gives me a headache.”
+富士康没有披露有多少工人将被取代，也没有说何时取代。但董事长郭台铭已经公开表示支持使用更多的机器人。根据官方的新华社报道，今年1月，谈到自己全世界100多万名员工的时候，他说，“人类也是动物，如何管理这100万动物让我很是头疼。”
+The falling costs and growing sophistication of robots have touched off a renewed debate among economists and technologists over how quickly jobs will be lost. This year, Erik Brynjolfsson and Andrew McAfee, economists at the Massachusetts Institute of Technology, made the case for a rapid transformation. “The pace and scale of this encroachment into human skills is relatively recent and has profound economic implications,” they wrote in their book, “Race Against the Machine.”
+机器人日益下降的成本和不断增加的精密度，在经济学家和技术专家中引发了新一轮的辩论：人类工作岗位消失的速度将会有多快。今年，麻省理工学院(Massachusetts Institute of Technology)的经济学家埃里克·布林约尔松(Erik Brynjolfsson) 和安德鲁·麦卡菲(Andrew McAfee)为转变会迅速发生提出论据。在他们合著的《与机器赛跑》(Race Against the Machine)一书中写道，“这种对人类技能蚕食的速度和规模是比较近期的，将带来深远的经济影响。”
+In their minds, the advent of low-cost automation foretells changes on the scale of the revolution in agricultural technology over the last century, when farming employment in the United States fell from 40 percent of the work force to about 2 percent today. The analogy is not only to the industrialization of agriculture but also to the electrification of manufacturing in the past century, Mr. McAfee argues.
+在他们看来，低成本自动化的到来所预示的变革，与上个世纪农业技术革命带来的变化规模类似。那次变革使美国从事农业的人数从劳动力人口的40%降低到如今的约2%。麦卡菲说，新的变化不仅类似于农业的工业化，而且类似于上个世纪制造业的电气化。
+“At what point does the chain saw replace Paul Bunyan?” asked Mike Dennison, an executive at Flextronics, a manufacturer of consumer electronics products that is based in Silicon Valley and is increasingly automating assembly work. “There’s always a price point, and we’re very close to that point.”
+伟创力公司(Flextronics)高管迈克·丹尼森(Mike Dennison)问，“在什么情况下电锯会取代保罗·班扬(Paul Bunyan，传说中的伐木巨人，译注)？”伟创力是一家总部在硅谷的消费者电子产品制造商，正在其组装工作中越来越多地采用自动化操作。“总有一个价格点。我们现在非常接近这一点了。”
+But Bran Ferren, a veteran roboticist and industrial product designer at Applied Minds in Glendale, Calif., argues that there are still steep obstacles that have made the dream of the universal assembly robot elusive. “I had an early naïveté about universal robots that could just do anything,” he said. “You have to have people around anyway. And people are pretty good at figuring out, how do I wiggle the radiator in or slip the hose on? And these things are still hard for robots to do.”
+但资深机器人专家、位于加利福尼亚州格伦代尔的应用思维公司(Applied Minds)工业产品设计师布兰·费伦(Bran Ferren)争辩道，通用组装机器人仍很遥远，这个梦想的实现仍面临巨大的障碍。他说，“我早年曾对能干任何事的通用机器人有天真的幻想。但你还是需要有人在旁边。人很擅长想出办法，怎样把散热器回旋地插进去、如何把软管套上。这些事对机器人来说还很难做。”
+Beyond the technical challenges lies resistance from unionized workers and communities worried about jobs. The ascension of robots may mean fewer jobs are created in this country, even though rising labor and transportation costs in Asia and fears of intellectual property theft are now bringing some work back to the West.
+除了技术障碍，还有来自工会成员和社区的阻力，他们担心失去工作。尽管由于亚洲劳动力和运输成本上升，加上对知识产权被剽窃的担忧，使一些工作机会正返回西方国家，但是机器人的增加意味着美国创造的就业岗位也许比预想的少。
+Take the cavernous solar-panel factory run by Flextronics in Milpitas, south of San Francisco. A large banner proudly proclaims “Bringing Jobs & Manufacturing Back to California!” (Right now China makes a large share of the solar panels used in this country and is automating its own industry.)
+以伟创力在旧金山南部米尔皮塔斯的巨型太阳能组件厂为例。硕大的标语牌上宣称“将就业岗位和制造业带回加利福尼亚！”（目前美国使用的大部分太阳能组件由中国制造，而中国也正在进行工业自动化。）
+Yet in the state-of-the-art plant, where the assembly line runs 24 hours a day, seven days a week, there are robots everywhere and few human workers. All of the heavy lifting and almost all of the precise work is done by robots that string together solar cells and seal them under glass. The human workers do things like trimming excess material, threading wires and screwing a handful of fasteners into a simple frame for each panel.
+但在这家最先进的厂房里，组装线每周7天、每天24小时地运行着，机器人随处可见，工人却寥寥无几。所有的笨重工作以及绝大部分的精细活都由机器人完成。机器人将太阳能电池排列起来，然后用玻璃封装。工人只有少量的事做，比如裁剪掉多余材料、穿引导线、以及用几个螺丝钉把每块太阳能组件的简单框架固定住。
+Such advances in manufacturing are also beginning to transform other sectors that employ millions of workers around the world. One is distribution, where robots that zoom at the speed of the world’s fastest sprinters can store, retrieve and pack goods for shipment far more efficiently than people. Robots could soon replace workers at companies like C & S Wholesale Grocers, the nation’s largest grocery distributor, which has already deployed robot technology.
+制造业的这种进步也开始在改变世界各地其他雇佣大量劳动力的行业。其中一个是配送行业，机器人能以世界短跑冠军的数度将货物存放、取出、或包装起来已备运输，大大高于人的工作效率。美国最大的食品杂货分销商C & S Wholesale Grocers已经开始用机器人技术，机器人在不久的将来可能取代这类公司的工人。
+Rapid improvement in vision and touch technologies is putting a wide array of manual jobs within the abilities of robots. For example, Boeing’s wide-body commercial jets are now riveted automatically by giant machines that move rapidly and precisely over the skin of the planes. Even with these machines, the company said it struggles to find enough workers to make its new 787 aircraft. Rather, the machines offer significant increases in precision and are safer for workers.
+视觉与触觉技术的快速改进，正在使大量的手工作业变为机器人可以胜任的工作。比如，波音公司的宽体商用喷气式飞机，现在可以用在飞机外壳之上快速而准确移动的巨型机器自动铆接。虽然用了这些机器，波音称制造其全新的787飞机的人手仍然不够。更确切地说，机器的作用是大幅提高精密度，并使工作环境更安全。
+And at Earthbound Farms in California, four newly installed robot arms with customized suction cups swiftly place clamshell containers of organic lettuce into shipping boxes. The robots move far faster than the people they replaced. Each robot replaces two to five workers at Earthbound, according to John Dulchinos, an engineer who is the chief executive at Adept Technology, a robot maker based in Pleasanton, Calif., that developed Earthbound’s system.
+在加利福尼亚州的乡土农场公司(Earthbound Farms)，新安装的四只机器臂，用特制吸盘将装有有机生菜的塑料盒快速地放入装运箱。机器臂比被它们替代的人的操作速度快得多。该农场用的机器臂是由位于加利福尼亚州普莱森顿的熟练技术(Adept Technology）公司研制的。据该公司首席执行官、工程师约翰·杜尔奇诺斯(John Dulchinos)说，每个机器臂取代了2至5名农场工人。
+Robot manufacturers in the United States say that in many applications, robots are already more cost-effective than humans.
+美国的机器人生产商称，在很多应用中，机器人已经比人的成本要低。 
+At an automation trade show last year in Chicago, Ron Potter, the director of robotics technology at an Atlanta consulting firm called Factory Automation Systems, offered attendees a spreadsheet to calculate how quickly robots would pay for themselves.
+去年在芝加哥举行的一个自动化贸易博览会上，罗恩·波特(Ron Potter)给参会人员发了电子数据表格，用来计算机器人的投资回报期。波特是位于亚特兰大的一个名为工厂自动化系统(Factory Automation Systems)咨询公司的机器人技术主管。
+In one example, a robotic manufacturing system initially cost $250,000 and replaced two machine operators, each earning $50,000 a year. Over the 15-year life of the system, the machines yielded $3.5 million in labor and productivity savings.
+表中有这样一个例子：一个机器人制造系统的初始成本是25万美元，替代了两名机器操作工人，他们每人年薪5万美元。在系统15年的生命周期里，机器人通过取代人工和提高生产率能节省350万美元的开销。
+The Obama administration says this technological shift presents a historic opportunity for the nation to stay competitive. “The only way we are going to maintain manufacturing in the U.S. is if we have higher productivity,” said Tom Kalil, deputy director of the White House Office of Science and Technology Policy.
+奥巴马政府说，这种技术革新对保持美国竞争力来说，是一个历史性的机会。白宫科技政策办公室(White House Office of Science and Technology Policy)副主任汤姆·卡利尔(Tom Kalil)说，“提高生产率是将制造业留在美国的必由之路”。
+Government officials and industry executives argue that even if factories are automated, they still are a valuable source of jobs. If the United States does not compete for advanced manufacturing in industries like consumer electronics, it could lose product engineering and design as well. Moreover, robotics executives argue that even though blue-collar jobs will be lost, more efficient manufacturing will create skilled jobs in designing, operating and servicing the assembly lines, as well as significant numbers of other kinds of jobs in the communities where factories are.
+政府官员和工业高管指出，即使工厂实现了自动化，它们仍将是提供就业机会的宝贵资源。如果美国不在消费电子产品等行业中力争高端制造，就有可能同时丧失产品开发和设计的能力。此外，机器人行业的高管说，尽管高效的制造业会导致蓝领工作岗位的减少，但能创造包括设计、操作、和维护生产线的熟练工种，还能为这些工厂所在社区创造其他的工作机会。
+And robot makers point out that their industry itself creates jobs. A report commissioned by the International Federation of Robotics last year found that 150,000 people are already employed by robotics manufacturers worldwide in engineering and assembly jobs.
+机器人制造商指出，它们行业本身也创造就业机会。国际机器人联合会(International Federation of Robotics)去年委托他人做的一份调研指出，全球范围内已有15万人受雇于机器人制造业，从事设计和组装工作。
+But American and European dominance in the next generation of manufacturing is far from certain.
+但美国和欧洲是否能在下一代制造业中占主导地位还远没有确定。
+“What I see is that the Chinese are going to apply robots too,” said Frans van Houten, Philips’s chief executive. “The window of opportunity to bring manufacturing back is before that happens.”
+飞利浦首席执行官万豪敦(Frans van Houten)说，“我看到的是中国人也将使用机器人。让制造业重返西方的机会窗口，是在中国人用机器人之前。”
+A Faster Assembly Line
+更快的装配线
+Royal Philips Electronics began making the first electric shavers in 1939 and set up the factory here in Drachten in 1950. But Mr. Visser, the engineer who manages the assembly, takes pride in the sophistication of the latest shavers. They sell for as much as $350 and, he says, are more complex to make than smartphones.
+皇家飞利浦电子公司1939年开始生产第一批电动剃须刀，1950年在德拉赫腾建厂。但管理装配线的工程师菲瑟对最新剃须刀的高精尖程度深感自豪。他说这些售价高达350美元的剃须刀的制造比智能手机还复杂得多。
+The assembly line here is made up of dozens of glass cages housing robots made by Adept Technology that snake around the factory floor for more than 100 yards. Video cameras atop the cages guide the robot arms almost unerringly to pick up the parts they assemble. The arms bend wires with millimetric accuracy, set toothpick-thin spindles in tiny holes, grab miniature plastic gears and set them in housings, and snap pieces of plastic into place.
+这里的装配线由十几个玻璃柜子组成，里面装着熟练技术公司制造的机器臂，玻璃柜组成一条在工厂地面上婉转延伸近百米的长龙。柜子顶端的视频摄像头几乎不偏不倚地引导这些机器臂拿起需要组装零件。机器臂弯曲导线的精度达到毫米级，把牙签大小的转轴插入微孔中，拿起微型塑料齿轮将其放入齿轮箱，并且将小的塑料部件置入适当的位置。
+The next generation of robots for manufacturing will be more flexible and easier to train.
+下一代的制造业机器人不仅将更灵活，还将更易调整。
+Witness the factory of Tesla Motors, which recently began manufacturing the Tesla S, a luxury sedan, in Fremont, Calif., on the edge of Silicon Valley.
+以特斯拉汽车公司(Tesla Motors)的工厂为例。该工厂最近开始在位于硅谷边缘的加利福尼亚州弗里蒙特生产Tesla S型豪华轿车。
+More than half of the building is shuttered, called “the dark side.” It still houses a dingy, unused Toyota Corolla assembly line on which an army of workers once turned out half a million cars annually.
+厂房的一大半大门紧锁，被戏称为“黑暗帝国”。里面依然放置着一条已经废弃的丰田卡罗拉(Toyota Corolla) 的旧装配线，一大群工人曾在这条装配线上工作，每年生产50万辆汽车。
+The Tesla assembly line is a stark contrast, brilliantly lighted. Its fast-moving robots, bright Tesla red, each has a single arm with multiple joints. Most of them are imposing, 8 to 10 feet tall, giving them a slightly menacing “Terminator” quality.
+与之形成鲜明对照的是Tesla的生产线，这里灯火辉煌，快速移动的机器人刷成明快的特斯拉招牌红色，每个机器人有一条多关节的单臂。大多数机器人2米多至3米高，有点像吓人的“终结者”。
+But the arms seem eerily human when they reach over to a stand and change their “hand” to perform a different task. While the many robots in auto factories typically perform only one function, in the new Tesla factory a robot might do up to four: welding, riveting, bonding and installing a component.
+当这些机器臂伸到一个平台上、换个“手”来完成一项不同任务时，虽然看上去怪怪的，但却很象一个人。许多汽车制造厂的机器人只能从事单一工种，但在特斯拉的新工厂，一个机器人能最多完成四项任务：焊接、铆接、粘接，以及安装零部件。
+As many as eight robots perform a ballet around each vehicle as it stops at each station along the line for just five minutes. Ultimately as many as 83 cars a day — roughly 20,000 are planned for the first year — will be produced at the factory. When the company adds a sport utility vehicle next year, it will be built on the same assembly line, once the robots are reprogrammed.
+每辆车在装配线的各个工位停留只有五分钟，多达八个机器人围绕着它像跳芭蕾舞似地施展才华。最终，这家工厂每天可生产多达83辆汽车，其第一年的计划产量大约是20万辆。公司明年将增加一款运动型多用途车，只要将机器人重新编程，就可以在同一条装配线上生产。
+Tesla’s factory is tiny but represents a significant bet on flexible robots, one that could be a model for the industry. And others are already thinking bigger.
+虽然特斯拉工厂的规模很小，但它所代表的，是对灵活机器人生产投下的一大赌注，它可能成为汽车行业的一种模式。其他一些企业已经开始了更宏大的设想。
+Hyundai and Beijing Motors recently completed a mammoth factory outside Beijing that can produce a million vehicles a year using more robots and fewer people than the big factories of their competitors and with the same flexibility as Tesla’s, said Paul Chau, an American venture capitalist at WI Harper who toured the plant in June.
+美国中经合集团(WI Harper)的风险投资人周微曦(Paul Chau)说，现代(Hyundai)和北京汽车(Beijing Motors)最近在北京郊外合建了一座年产量达100万辆的庞大工厂。与竞争者的大工厂相比，它采用了更多的机器人和更少的人力，具备特斯拉工厂同样的灵活度。周微曦于6月参观了这家工厂。
+The New Warehouse
+新型仓库
+Traditional and futuristic systems working side by side in a distribution center north of New York City show how robotics is transforming the way products are distributed, threatening jobs. From this warehouse in Newburgh, C & S, the nation’s largest grocery wholesaler, supplies a major supermarket chain.
+在纽约市北部的一个配送中心，传统的和极其现代的系统并排工作，显示出机器人在如何改变产品配送方式的同时，威胁到人类的就业。从这家位于纽堡的仓库，美国最大的食品杂货批发商C & S为一家大型连锁超市供货。
+The old system sprawls across almost half a million square feet. The shelves are loaded and unloaded around the clock by hundreds of people driving pallet jacks and forklifts. At peak times in the evening, the warehouse is a cacophony of beeping and darting electric vehicles as workers with headsets are directed to cases of food by a computer that speaks to them in four languages.
+老系统占地近5万平方米。几百人驾驶着托盘搬运车和叉车从货架上昼夜不停地上货下货。晚间高峰时期，仓库里充满刺耳的蜂鸣声，到处是飞奔的电动车，它们在头戴耳机的工人们操作下，被能说四种语言的电脑引向装满食物的箱子。
+The new system is much smaller, squeezed into only 30,000 square feet at the far end of the warehouse and controlled by just a handful of technicians. They watch over a four-story cage with different levels holding 168 “rover” robots the size of go-carts. Each can move at 25 miles an hour, nearly as fast as an Olympic sprinter.
+位于仓库远端的新系统则小得多，占地仅3千平方米，由区区十几名技术员操控。他们看管的是一个四层楼高的多层笼子，每层有 168个微型赛车大小的“漫游者”机器人。每个机器人的速度可达每小时40公里，几乎与奥运会的短跑运动员一样快。
+Each rover is connected wirelessly to a central computer and on command will race along an aisle until it reaches its destination — a case of food to retrieve or the spot to drop one off for storage. The robot gathers a box by extending two-foot-long metal fingers from its side and sliding them underneath. It lifts the box and pulls it to its belly. Then it accelerates to the front of the steel cage, where it turns into a wide lane where it must contend with traffic — eight robots are active on each level of the structure, which is 20 aisles wide and 21 levels high.
+每个漫游者都与中央计算机无线连接，接受指令后沿货架通道赛跑般到达目的地，将一箱食物取出，或者送入指定地点存放。机器人从其侧面伸出约半米长的金属手指，插入食品箱下方，抬起后拉入怀中，这样就将其拿住。然后机器人加速跑至铁架前端的宽敞通道中，在这个通道中，它必须能应付拥挤的交通，因为笼子的每层有8个活跃的机器人，整个笼子宽20排货架、高为21层。
+From the aisle, the robots wait their turn to pull into a special open lane where they deposit each load into an elevator that sends a stream of food cases down to a conveyor belt that leads to a large robot arm.
+从货架通道中出来，机器人依次等待轮到它们开入一个特制的开放通道的机会，进入通道后它们把食品箱装到一个升降机上，升降机把食品箱川流不息地送到传送带上，最终送入一个大型机器臂。
+About 10 feet tall, the arm has the grace and dexterity of a skilled supermarket bagger, twisting and turning each case so the final stack forms an eight-foot cube. The software is sophisticated enough to determine which robot should pick up which case first, so when the order arrives at the supermarket, workers can take the cases out in the precise order in which they are to go on the shelves.
+这个机器臂高约3米，拥有熟练超市装袋工的从容和灵巧，扭转翻动着每个食品箱，最终把它们堆成一个2.4米见方的立方体。操纵这个系统的软件相当复杂，能确定哪个机器人应该先装运哪个箱子，所以货物按订单运到超市时，工人们能按照货物上架的准确顺序取出食品箱。
+When the arm is finished, the cube of goods is conveyed to a machine that wraps it in clear plastic to hold it in place. Then a forklift operator summoned by the computer moves the cube to a truck for shipment.
+机器臂的工作完成后，货箱形成的立方体被运送至包装机用透明塑料膜包起来。然后在计算机的召唤下，一名叉车司机来将立方体运送到卡车上，以便发货。
+Built by Symbotic, a start-up company based in the Boston area, this robotic warehouse is inspired by computer designers who created software algorithms to efficiently organize data to be stored on a computer’s hard drive.
+这个机器人操纵的仓库是由波士顿地区的创业公司Symbotic建造的，其计算机设计人员的灵感来自于他们曾创造的软件算法，该算法能高效地组织储存在计算机硬盘中数据。
+Jim Baum, Symbotic’s chief executive, compares the new system to a huge parallel computer. The design is efficient because there is no single choke point; the cases of food moving through the robotic warehouse are like the digital bits being processed by the computer.
+Symbotic的首席执行官吉姆·鲍姆(Jim Baum) 将这个新系统比作一个大型并行计算机。该设计之所以效率高是因为它没有瓶颈。食品箱在自动化仓库中的运行就像数字比特在计算机中的处理过程。
+Humans’ Changing Role
+人类角色的变化
+In the decade since he began working as a warehouseman in Tolleson, Ariz., a suburb of Phoenix, Josh Graves has seen how automation systems can make work easier but also create new stress and insecurity. The giant facility where he works distributes dry goods for Kroger supermarkets.
+乔希·格雷夫斯(Josh Graves)在亚利桑那州菲尼克斯市郊的托尔森已经当了十年仓库工。他见证了自动化系统让工作变得轻松的同时，也带来了新压力和不安全感。他工作的这家巨型仓库为克罗格超市(Kroger)配送干货。
+Mr. Graves, 29, went to work in the warehouse, where his father worked for three decades, right out of high school. The demanding job required lifting heavy boxes and the hours were long. “They would bring in 15 guys, and only one would last,” he said.
+格雷夫斯现年29岁，中学刚毕业就进入这家父亲工作了30年的仓库。这份工作要求严苛，需要搬运沉重的货箱，工作时间也很长。“他们招来的15个人中，只有一个能干下去，”他说。
+Today Mr. Graves drives a small forklift-like machine that stores and retrieves cases of all sizes. Because such workers are doing less physical labor, there are fewer injuries, said Rome Aloise, a Teamsters vice president in Northern California. Because a computer sets the pace, the stress is now more psychological.
+如今，格雷夫斯操控着一辆类似叉车的小型机器，能够存放和取出各种尺寸的货箱。美国货车司机工会(Teamsters)北加州地区的副主席罗梅·阿洛伊斯(Rome Aloise)说，由于这种工人的体力劳动减少，工伤也变少了。但由于计算机决定了工作速度，现在的压力更多是心理上的。
+Mr. Graves wears headsets and is instructed by a computerized voice on where to go in the warehouse to gather or store products. A centralized computer the workers call The Brain dictates their speed. Managers know exactly what the workers do, to the precise minute.
+格雷夫斯带着耳机，在计算机模拟声音的指挥下，到仓库的各个位置取出或存放货物。一个被工人们称之为“大脑”的中央计算机决定着他们工作的速度。经理们确切地知道工人们在做什么，精确到分钟。
+Several years ago, Mr. Graves’s warehouse installed a German system that automatically stores and retrieves cases of food. That led to the elimination of 106 jobs, roughly 20 percent of the work force. The new system was initially maintained by union workers with high seniority. Then that job went to the German company, which hired nonunion workers.
+几年前，格雷夫斯工作的仓库安装了一套德国系统来自动存放和取出食物箱。这导致了106个工人失业，约占所有劳动力的20%。开始时，新系统由高年资的工会工人来维护。后来维护工作落到那家德国公司手里，而他们雇用的是非工会成员。
+Now Kroger plans to build a highly automated warehouse in Tolleson. Sixty union workers went before the City Council last year to oppose the plan, on which the city has not yet ruled.
+克罗格现在计划在托尔森建造一个高度自动化的仓库。去年，六名工会工人去市议会表达了对计划的反对。市里还没有对计划进行裁决。
+“We don’t have a problem with the machines coming,” Mr. Graves told city officials. “But tell Kroger we don’t want to lose these jobs in our city.”
+格雷夫斯对市里的官员说，“我们对引进机器没有意见。但请告诉克罗格，我们不想让这些就业岗位从我们的城市流失。”
+Some jobs are still beyond the reach of automation: construction jobs that require workers to move in unpredictable settings and perform different tasks that are not repetitive; assembly work that requires tactile feedback like placing fiberglass panels inside airplanes, boats or cars; and assembly jobs where only a limited quantity of products are made or where there are many versions of each product, requiring expensive reprogramming of robots.
+有些工作仍是自动化力所不及的：一些建筑工作要求工人们能应对不可预料的情况，并完成各种非重复性操作；一些组装工作要求有触觉反馈，比如安装飞机、轮船和汽车内的玻璃纤维板；还有一些组装工作，所制造的产品数量有限，或者每种产品有许多不同的版本，这就需要对机器人进行成本昂贵的重新编程。
+But that list is growing shorter.
+但这类工作的清单正变得越来越短。
+Upgrading Distribution
+改进配送业
+Inside a spartan garage in an industrial neighborhood in Palo Alto, Calif., a robot armed with electronic “eyes” and a small scoop and suction cups repeatedly picks up boxes and drops them onto a conveyor belt.
+在加利福尼亚州帕洛阿尔托的一个工业区中，有一个简陋的车库，一个装备了几个电子“眼”、一个小铲子和几个吸盘的机器人正反复捡起箱子，并将它们放上传送带。
+It is doing what low-wage workers do every day around the world.
+它干的正是世界各地低薪工人每天在做的工作。
+Older robots cannot do such work because computer vision systems were costly and limited to carefully controlled environments where the lighting was just right. But thanks to an inexpensive stereo camera and software that lets the system see shapes with the same ease as humans, this robot can quickly discern the irregular dimensions of randomly placed objects.
+老一代的机器人不能干这种活，因为计算机视觉系统造价昂贵，而且仅限于在严格受控的环境中工作，需要有恰到好处的照明。但由于有了能像人类一样轻松地看出形状的廉价立体相机和软件系统，机器人也能迅速地识别随意放置的形状不规则的物体了。
+The robot uses a technology pioneered in Microsoft’s Kinect motion sensing system for its Xbox video game system.
+这个机器人采用了微软公司(Microsoft)开发的技术，也就是用于Xbox视频游戏机的Kinect运动感知系统。
+Such robots will put automation within range of companies like Federal Express and United Parcel Service that now employ tens of thousands of workers doing such tasks.
+这种机器人将使自动化进入联邦快递(Federal Express)和UPS(United Parcel Service)一类公司成为可能，他们目前雇用了成千上万的工人来做类似的工作。
+The start-up behind the robot, Industrial Perception Inc., is the first spinoff of Willow Garage, an ambitious robotics research firm based in Menlo Park, Calif. The first customer is likely to be a company that now employs thousands of workers to load and unload its trucks. The workers can move one box every six seconds on average. But each box can weigh more than 130 pounds, so the workers tire easily and sometimes hurt their backs.
+该机器人技术背后，是一家名为工业知觉公司(Industrial Perception Inc.)的创业公司，是位于加利福尼亚州门洛帕克的、雄心勃勃的机器人研究机构柳树车库(Willow Garage)派生出来的首家公司。他们的第一家潜在客户可能会是如今雇用成千上万工人装卸卡车的公司。工人们可以平均每六秒搬一个货箱，但由于每个货箱重达60公斤，工人很容易疲劳，有时还会导致他们的腰受伤。 
+Industrial Perception will win its contract if its machine can reliably move one box every four seconds. The engineers are confident that the robot will soon do much better than that, picking up and setting down one box per second.
+工业知觉的机器人如果能可靠地每4秒钟搬运一个货箱，它就能赢得合同。工程师们自信地认为机器人的表现很快就能大幅提升，只需一秒就能抬起并放下一个货箱。

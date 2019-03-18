@@ -1,0 +1,18 @@
+As many of its competitors in the chip industry form partnerships in China, Taiwan Semiconductor Manufacturing said on Monday that it was taking a different route: setting up a new manufacturing plant without help from a local partner.
+虽然台积电(TSMC)在芯片业的很多竞争对手都在中国大陆建立了伙伴关系，但该公司本周一表示，它将采取另外一种做法：不与当地伙伴合作，而是独立修建一家新的制造厂。
+The move is designed to protect its technology while playing to a China market brimming with makers of inexpensive smartphones. It is charting a course between keeping complex chip production facilities outside China and licensing technology to Chinese partners.
+这样做的目的是既保护自己的技术，同时又靠近充斥着廉价智能手机制造商的中国市场。一些公司坚持将复杂的芯片生产设施设在中国境外，另一些则向中国合作伙伴提供技术授权，台积电则选择了两者之间的第三条途径。
+In an announcement Monday, Taiwan Semiconductor said it had submitted an application to Taiwan’s Ministry of Economic Affairs to invest in an advanced chip production facility in Nanjing, China. The total value of the investment is expected to be about $3 billion, though a spokesman for the company said it expected to save money by using equipment from facilities in Taiwan and capitalizing on Chinese subsidies.
+在本周一的声明中，台积电表示已经向台湾经济部提交申请，拟在南京投资兴建一家先进的芯片制造厂。投资总额预计约为30亿美元，不过该公司发言人表示，他们会使用来自台湾工厂的设备，并利用大陆政府提供的补贴，因此预计会节省一些资金。
+In a nod to concerns about advanced chip protection technology being leaked to Chinese competitors, Taiwan Semiconductor said in a separate statement that by the time the facility in China is up and running, an advanced operation in Taiwan would be churning out chips a generation more sophisticated.
+针对先进芯片技术可能会被泄露给中国竞争对手的担忧，台积电在另一则声明中说，当这家新工厂在大陆启动运行的时候，台湾的一处先进设施会大量产出更精密的新一代芯片。
+The company added that it “comprehensively protects its proprietary information” and, in referring to its fabrication plant, emphasized that it would “have whole ownership of the fab in China, which will help protect our intellectual property rights.”
+台积电还表示将“对自己的专有资料进行全面保护”。在提及这家新厂时，公司强调自己“全资拥有大陆这家工厂，这将有助于保护我们的知识产权”。
+Taiwan Semiconductor’s approach stands in contrast to some of its rivals and partners in chip making. With the Chinese government set to spend tens of billions of dollars to build its chip industry, many foreign companies have been setting up partnerships and licensing technology in China.
+台积电的做法与芯片制造业的一些竞争对手和合作伙伴形成了鲜明对比。随着中国政府开始投入数以百亿美元计的资金，建立自己的芯片产业，很多外国公司都已经与中国建立了合作关系，将技术授权给中方。
+During the past year, Qualcomm has partnered with the Chinese chip maker Semiconductor Manufacturing International to develop advanced chip production; Intel has invested in a subsidiary of China’s new national chip champion, Tsinghua Unigroup; and IBM has licensed some of its chip technology to a smaller Chinese partner.
+过去一年里，高通(Qualcomm)与中国芯片制造商中芯国际(Semiconductor Manufacturing International)合作开发先进芯片生产；中国新的国家级芯片龙头企业清华紫光集团的一个子公司获得了英特尔(Intel)的投资；IBM也已经将一些芯片技术授权给了一家较小的中国合作伙伴。
+With an economy still based heavily on the chip supply chain, Taiwan’s government has also been particularly careful about allowing its most advanced semiconductor firms, like Taiwan Semiconductor, to cooperate closely with China.
+芯片供应链仍然是台湾经济的重要支柱，因此，对于是否批准台积电这样的顶尖半导体公司与大陆开展密切合作，台湾政府也特别谨慎。
+Still, the recent spending spree by the Chinese government and chip companies has made a major impression on the island, and people in the industry in Taiwan acknowledge that the Chinese market is critical. For example, in its statement Taiwan Semiconductor said more than 50 percent of its revenue over the past five years had come from Chinese customers.
+然而，中国大陆的政府和芯片公司最近的投资热潮给台湾留下了深刻印象，台湾业内人士也承认大陆市场非常重要。例如台积电就在声明中表示，过去五年里，该公司收入的50%以上都来自于大陆客户。

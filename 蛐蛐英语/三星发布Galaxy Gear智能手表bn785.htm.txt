@@ -1,0 +1,30 @@
+BERLIN — Samsung Electronics unveiled on Wednesday its highly anticipated digital wristwatch that can snap photos, track workouts and use an array of apps — gadgetry that the company hopes will catapult it into a market of smart portable devices that leave cellphones in users’ pockets.
+柏林——周三，三星电子(Samsung Electronics)发布了其备受期待的数字腕表，这款腕表能够拍照，记录锻炼情况，应用为数众多的app。三星希望这款手表能够跻身智能便携设备市场，有了智能便携设备，用户就可以将手机留在口袋里了。
+Named the Samsung Galaxy Gear, the so-called smartwatch will join Google Glass as the latest example of wearable technology. The watch is synced to a cellphone, allowing users to answer calls and receive text messages from their wrists. The timing of the release could also give Samsung a leg up over Apple, which has yet to unveil a similar device but has long been rumored to be working on one.
+这款所谓的智能手表名为三星Galaxy Gear，将会加入谷歌眼镜(Google Glass)的行列，成为可佩带技术的最新实例。这款手表能与手机同步，允许用户通过手表接电话，接收短信。手表的发布时机也让三星在与苹果(Apple)的竞争中占据了一点优势，苹果尚未发布类似设备，但长期以来一直有传闻称苹果正在研制一款智能手表。
+At a much-hyped unveiling ceremony ahead of Berlin’s Internationale Funkausstellung, one of the world’s largest trade shows for consumer electronics, Samsung’s head of mobile communications, J.K. Shin, introduced the new device by pretending to receive a text message on stage.
+柏林国际电子消费品展览会(Internationale Funkausstellung)是世界规模最大的电子消费品展销会之一，三星在展会开幕之前举行了发布仪式。在这场被大肆宣传的仪式上，三星移动通讯部门总裁申宗均(J.K. Shin)在舞台上假称收到一条短信，借此介绍了这款新设备。
+“Don’t forget to mention Android,” Mr. Shin’s message read.
+申宗钧收到的短信写道，“别忘了说说Android。”
+He then raised his left arm, exposing the watch to applause from both the Berlin crowd and people in Times Square in New York, who were patched into the event via video stream. Like other smartphones and tablets Samsung produces, Gear runs on Google’s Android operating system.
+然后他举起左臂，展示了这款手表，柏林的人群及在纽约时报广场(Times Square)通过视频观看发布会的人都爆发出热烈的掌声。与三星推出的其他智能手机及平板电脑一样，Gear手表也使用谷歌的Android操作系统。
+From the Gear’s small screen, which measures 1.63 inches diagonally, users can also receive e-mails, share pictures and use myriad apps designed for Gear. It does not, however, function as a stand-alone device and must be paired with a Samsung phone or tablet.
+用户可以通过Gear手表1.63英寸的小屏幕接收邮件，分享图片，使用特地为Gear手表设计的大量app。然而，这款手表并不能单独使用，必须与三星手机或平板电脑配对。
+Pranav Mistry, the head of research at Samsung Research America, said the watch was “packed with technologies from the next decade.”
+三星美国研究中心(Samsung Research America)的研究主管普拉纳维·米斯特里(Pranav Mistry)表示，这款手表“满载着来自未来十年的技术”。
+The watch has a rubbery wristband in which a small 1.9-megapixel camera is embedded. Its display surface has stainless steel bezels with four visible screws in each corner.
+这款手表配的是橡胶表带，其中镶嵌着一枚190万像素的小摄像头。显示屏采用了不锈钢边框，四个角上分别有一颗裸露在外的螺丝钉。
+The watch is activated by pressing a button on the outer right side of the display or aiming the wristband lens at an object. A gentle swipe downward quickly turns on the camera, a feature Samsung calls the “Memographer.”
+按下显示屏外侧右方的按钮，或者把表带上的镜头对准某个物体，手表就会激活。轻轻向下滑动屏幕就能迅速开启相机，三星把这个功能称为“Memographer”。
+“This is a feature that changes the way we interact, the way we express and the way we capture,” Mr. Mistry said.
+米斯特里说，“这种功能可以改变我们互动、表达和捕捉影像的方式。”
+From the home screen, swiping upward brings up a number pad where a user can make a call. Because a gyroscope and accelerometer detect the Gear’s movement, a user can answer incoming calls by lifting his wrist to his ear.
+在主屏幕上往上滑，就会出现数字键盘，用户可以用它来打电话。内置陀螺仪和加速计可以监测手表运动，所以用户可以通过把手腕举到耳边来接听来电。
+“We have uniquely positioned the speakers and microphones so you can talk as you would on a regular phone,” Mr. Mistry said.
+米斯特里说，“我们为扬声器和麦克风设计了独特的位置，所以你可以像拿着普通电话那样说话。”
+The Gear is set to be released worldwide next month, although neither Mr. Shin nor Mr. Mistry gave a date. Also under wraps was the cost, something many believe could be a determining factor in whether the next-generation technology hits home with consumers who have historically been reluctant to adopt such “wearables of tomorrow,” as Mr. Mistry called the Gear.
+这款手表定于下个月在全世界上市，虽然申宗均和米斯特里都没有给出具体日期。手表的价格也尚未公布，很多人都认为，这个因素将决定这种下一代技术能否打动那些一直不愿接受这种“来自明天的配饰”的消费者。“来自明天的配饰”是米斯特里对Gear的称呼。
+Samsung, which overtook Apple last year as the world’s largest producer of smartphones, got into the watch business in 1999 with a model that consumers shunned.
+去年，三星超越苹果成了世界上最大的智能手机制造商。它曾在1999年进军手表业务，当时发布的产品型号并不受消费者欢迎。
+Galaxy Gear has 512 megabytes of RAM and an internal memory of four gigabytes. It has an 800-megahertz, single-core central processing unit and weighs 73.8 grams. Available colors include lime green, oatmeal beige, wild orange, mocha gray, jet black and rose gold.
+Galaxy Gear拥有512MB的RAM以及4GB机身存储空间。它采用了一枚800MHz的单核处理器，表身重量为73.8克。可供选择的颜色包括青绿、米黄、亮橙、深灰、纯黑和玫瑰金。

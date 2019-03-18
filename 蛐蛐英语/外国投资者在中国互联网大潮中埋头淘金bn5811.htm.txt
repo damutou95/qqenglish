@@ -1,0 +1,58 @@
+SHENZHEN, China — It is one of the best investments of the digital age.
+中国深圳——这是数字时代的最佳投资之一。
+In June 2001, a South African media company called Naspers paid $34 million to acquire a big stake in a struggling Chinese start-up. Today that start-up — Tencent — is an Internet colossus worth nearly $120 billion, far more than web pioneers like eBay or Yahoo. And Naspers is $40 billion richer because of its well-timed bet.
+2001年6月，南非传媒公司Naspers用3400万美元收购了一家举步维艰的中国初创公司的大量股份。今天，这家名为腾讯的初创公司已经成了互联网巨擘，市值接近1200亿美元，远超eBay或雅虎(Yahoo)等互联网先驱。由于这笔时机精准的投资，Naspers获得了400亿美元的收益。
+Foreign investors like Naspers have emerged as some of the biggest winners in this country’s sizzling Internet market.
+在炙手可热的中国互联网市场，Naspers等外国投资机构已经成为了最大的赢家。
+Yahoo and Japan’s SoftBank could score a total of $75 billion on their shares in Alibaba, the Chinese e-commerce giant that filed its plans on Tuesday for an initial public offering. The venture capital firm Draper Fisher Jurvetson owned nearly a third of Baidu, the Chinese Internet search engine, when it went public in 2005; its shares rose 354 percent on its first day of trading. The I.P.O. this year of an Alibaba rival, JD.com, the company formerly known as 360Buy, will rain profit on a host of foreign investors, like the American investment firm Tiger Global, DST of Russia and Prince Alwaleed bin Talal of Saudi Arabia.
+中国电商巨头阿里巴巴周二提交了首次公开募股的方案，雅虎和日本软银(SoftBank)凭借在该公司的持股可能赢得共750亿美元的收益。当中国互联网搜索引擎百度2005年上市时，德丰杰风险投资公司(Draper Fisher Jurvetson)持有其三分之一的股权；上市首日，百度的股价就上涨了354%。阿里巴巴的竞争对手京东也将于今年启动上市，一大批外国投资机构将因此大赚一笔，包括美国的投资公司老虎环球(Tiger Global)，俄罗斯的DST全球(DST Global)，和沙特阿拉伯王子瓦利德·本·塔拉勒(Alwaleed bin Talal)。
+“It’s really the law of big numbers,” said Stuart Schonberger, a partner at CDH Investments, a private equity firm focused on China. “With China, when it goes right, it’s just amazing.”
+私募公司鼎晖投资(CDH Investments)专注于中国业务，公司合伙人司徒山客(Stuart Schonberger)说，“这就是大数定律，就中国而言，如果进展顺利，结果就会妙不可言。”
+Foreign investments in this country’s Internet sector have been so large and lucrative that some analysts worry that China could further tighten its existing restrictions as a way to ensure its control over one of the most dynamic parts of the economy, as it has with banking, telecommunications and aviation.
+中国互联网领域的外国投资规模之庞大、利润之丰厚，已经令一些分析人士担心，中国政府可能进一步收紧已有的限制，确保对中国经济中这个最富活力的领域实施掌控，就像它对银行业、电信业和航空业所做的一样。
+“If the government needs to regulate Internet companies, it won’t matter if they’re owned by foreign companies,” said Hong Bo, a Beijing-based analyst who follows China’s information technology industry.
+关注中国信息技术产业的北京分析人士洪波说，“如果政府想要监管互联网公司，这些公司是否由外国公司持有无关紧要。”
+China’s top leaders have praised Alibaba and Tencent as examples of innovative Chinese companies. China’s official news agency even published a commentary a few weeks ago hailing the rapid development of the Internet sector, without mentioning that virtually all of the major companies got significant funding from foreign investors.
+中国的最高领导人曾经称赞阿里巴巴和腾讯是中国创新企业的典范。中国官方的新闻机构几周前甚至发表了一篇评论文章，盛赞互联网行业的迅速发展，丝毫没有提到几乎所有的大型公司都从外国投资者那里获得了大量资金的事。
+“Twenty years after the world’s most populous country gained access to the Internet, China has been fundamentally and irreversibly changed, but not in the way some Western prophets had expected,” the Xinhua commentary said. “Instead of bringing collapse, the Internet in China is becoming more commercially robust and innovative.”
+新华社的这篇文章说，“在这个世界上第一人口大国接触互联网20年之后，中国已经从根本上发生了不可逆转的变化，但却不是某些西方人士预测的那样。中国的互联网不仅没有带来崩溃，反而在商业上更加强劲，更加具有创新性。”
+This system of foreign ownership is rooted in the late 1990s, when Chinese entrepreneurs were desperately seeking capital to finance their Internet start-ups, many of which were modeled on companies in Silicon Valley. Because there were few Chinese venture capital firms, many Chinese start-ups turned to foreign capital.
+外国投资机构拥有控股权的做法源于上世纪90年代末，当时，中国企业家正在不顾一切地为自己的互联网初创公司寻找资本，其中的许多公司以硅谷的企业为榜样。由于中国几乎没有风险投资公司，许多初创公司转向了外国资本。
+There was just one problem: The state restricts foreign investment in areas deemed sensitive.
+只有一个问题：在一些被认为敏感的领域，中国政府限制外国投资。
+So clever bankers and lawyers quickly found a solution. They proposed registering a holding company offshore that would control the assets of a start-up. The holding company would then be linked to onshore entities owned by Chinese residents, who would hold the Internet business license.
+不过，聪明的银行家和律师们很快找到了解决方案。他们提议，注册一家离岸控股公司，用它来控制初创公司的资本。这家控股公司会与中国公民拥有的国内实体挂钩，而这些中国公民将持有互联网营业执照。
+This complex investment structure — known as the variable interest entity, or V.I.E. — proved to be a regulatory loophole that allowed Chinese web entrepreneurs to tap foreign funding. It also set the stage for the companies to list overseas.
+这个复杂的投资结构——即所谓的可变权益实体——成了一个让中国网络企业家得以利用外国资本的监管漏洞。它还为这些公司在海外上市创造了条件。
+“There were no viable exits for Internet companies in China,” said Gary Rieschel, co-founder of the venture capital firm Qiming Ventures, which operates in China. “To list in Shanghai, they had to show three years of profits. And none of the companies could do that.”
+“互联网公司在中国没有可行的出口，”拥有在华业务的启明创投(Qiming Ventures)的联合创始人盖理·瑞斯彻(Gary Rieschel)说。“要在上海上市，他们必须证明公司连续三年盈利。没有一家公司能做到这一点。”
+Foreign venture capital firms rushed to take advantage. In addition to Draper Fisher Jurvetson, Silicon Valley outfits like Integrity Partners, GGV Capital and Sequoia Capital all bought early stakes in some of China’s hottest start-ups, including Sina, Sohu, Baidu and NetEase.
+外国风投公司迅速抓住了机遇。除了德丰杰投资，硅谷公司Integrity Partners、纪源资本(GGV Capital)和红杉资本(Sequoia Capital)都购买了中国最热门的一些初创公司的早期股权，包括新浪、搜狐、百度和网易。
+A handful of strategic investors, companies with longer investment horizons, also bought big stakes. In 1999, SoftBank made the first of several investments in a fledgling Chinese business-to-business website called Alibaba.com with $20 million. SoftBank’s chairman, Masayoshi Son, told colleagues at the time that he intended to get a foothold in China’s Internet market with the aim of holding for years.
+一批从事长线投资的战略投资者也购买了这些公司的大量股权。1999年，软银对刚成立不久的中国B2B电子商务网站Alibaba.com投资了2000万美元，后来又几次投资该公司。软银主席孙正义(Masayoshi Son)当时告诉同事，他打算长期持股，在中国的互联网市场获得立足点。
+“Masa’s a very unique guy, an operations guy with a strategic vision,” Chauncey Shey, executive managing partner at SB China Venture Capital, a SoftBank affiliate, said of Masayoshi Son. “He usually doesn’t need to exit. He thinks long term.”
+软银旗下的软银中国资本(SBChina Venture Capital)执行主管合伙人薛村禾(Chauncey Shey)说，“孙正义是一个非常独特的人，是一个拥有战略眼光的运营高管。他通常不需要退出。他考虑的是长期回报。”
+Yahoo, founded by the Stanford classmates Jerry Yang and David Filo, has also struck gold with Alibaba. In 2005, local competitors were outmaneuvering Yahoo’s China website. So Yahoo’s top executives that year announced it would cede control of its Chinese-language website to Alibaba. As part of that deal, Yahoo agreed to invest $1 billion in what had become the Alibaba Group in exchange for a 40 percent stake in the company.
+由斯坦福大学(Stanford)校友杨致远和大卫·费罗(David Filo)创办的雅虎公司也因为对阿里巴巴的投资而大赚。2005年，雅虎的中国网站渐渐被本土的竞争者超越。因此，雅虎高层当年宣布，将把旗下中文网站的控制权转交给阿里巴巴。作为交易的一部分，雅虎同意向已成为阿里巴巴集团的这家公司投资10亿美元，以换取40%的股份。
+That investment now looks like a brilliant stroke. Soon after the two sides signed the deal, Yahoo began to falter in the American market, while its Alibaba investment took flight with the explosive growth of the Chinese company’s e-commerce platforms, Taobao and Tmall. Yahoo’s stake in Alibaba is now worth about $35 billion, even after it sold a chunk of its shares two years ago for $7 billion.
+这项投资如今看来相当英明。双方签订协议后不久，雅虎就开始在美国市场上表现不佳，与此同时，随着阿里巴巴的电子商务平台淘宝和天猫呈现爆炸性增长态势，雅虎的这笔投资一飞冲天。雅虎持有的阿里巴巴股份目前的估值为350亿美元，这还是在两年前以70亿美元的价格卖出大量股份之后。
+Analysts say one reason so many foreign investors have succeeded in China’s Internet market — and have avoided scrutiny from the Beijing authorities — is that they have taken a largely passive role in the start-ups. They tend to assume board seats but allow the Chinese founders of the companies to manage day-to-day operations and develop their own business strategies.
+分析人士称，之所以有这么多的外国投资者在中国的互联网市场上取得了成功——而且避开了北京当局的严厉审查——一个原因在于，它们在这些初创企业中扮演了大体低调的角色。它们会在董事会中占据席位，但放手让企业的中国创始人进行日常管理，并发展自身的经营策略。
+That has been the model for Naspers’s relationship with Tencent.
+Naspers与腾讯之间的关系采取的就是这种模式。
+Founded in Johannesburg in 1915 as a publisher of newspapers, Naspers later expanded into pay TV and Internet services and began searching for deals in China. The company, which maintains a low profile, entered the country in the late 1990s. In 2001, in its first major deal, Naspers bought a stake in Tencent, which had been started by a group of engineers enamored with beepers and instant messaging.
+Naspers于1915年成立于约翰内斯堡，以发行报纸起家，后来扩展到付费电视和互联网服务领域，并且开始寻找在中国做交易的机会。这家公司一贯低调，于上世纪末进入了中国市场。到2001年，Naspers进行了第一笔大交易，购入了腾讯的股份。后者由一群痴迷于传呼机和即时通讯的工程师创立。
+At the time, Tencent’s prospects were grim. The company, which was based in the southern Chinese city of Shenzhen, was struggling to make a profit with its free instant messaging service, OICQ. And AOL, which had acquired an instant messaging company called ICQ, had just filed suit in the United States against Tencent alleging trademark infringement.
+那时候，总部位于中国南方城市深圳的腾讯前景颇为黯淡，苦于旗下的免费即时通讯工具OICQ赚不到钱。而且，收购了即时通讯企业ICQ的美国在线(AOL)，刚刚在美国发起了针对腾讯的诉讼，指控其侵犯商标权。
+Then, in the middle of negotiations with Naspers, the dot-com bubble burst in the United States, deflating the hopes of the young Chinese entrepreneurs.
+接下来，就在腾讯与Naspers进行谈判的过程中，美国的互联网泡沫破裂了，大幅压低了这些中国年轻企业家的期望值。
+Despite the challenges, Naspers valued Tencent, which soon changed the name of its instant messenger to QQ, at about $80 million and agreed to pump more money into its operations. Naspers acquired nearly half the company’s shares from Tencent’s two major foreign investors, the Boston-based IDG and the venture capital arm of PCCW, which is controlled by the son of the Hong Kong billionaire Li Ka-shing. The two firms, which had put just $2.2 million into Tencent in 1999, sold their stake to MIH, a division of Naspers, at a huge profit.
+尽管挑战重重，Naspers还是将腾讯的估值定在了8000万美元上下，并且同意向其注入更多的资金。腾讯很快将旗下的即时通讯工具改名为QQ。Naspers从腾讯的两大投资商手中收购了公司近一半的股份。这两家投资商分别是总部位于美国波士顿的IDG资本，以及电讯盈科(PCCW)旗下的风险投资公司。盈科由香港亿万富豪李嘉诚(Li Ka-shing)的儿子掌控。这两家公司于1999年向腾讯注入了区区220万美元，它们将股份出售给了Naspers的子公司MIH，获得了巨额利润。
+“IDG and PCCW like to invest in start-ups. But when we needed money for further development, they were not able to help,” Pony Ma, Tencent’s chairman and co-founder, once said in an interview. “MIH had a lot of capital so it was a better guarantee.”
+“IDG和盈科喜欢投资初创企业。不过我们当需要资金进一步发展的时候，他们就帮不上忙了，”腾讯的董事长及联合创始人马化腾曾接受采访称。“MIH实力雄厚，因此更有保障。”
+After the investment, Naspers stepped back and let the founders set the direction of the company. Building off its instant messaging business, Tencent transformed into an online gaming and social networking powerhouse — one that is now listed on the Hong Kong Stock Exchange.
+完成这笔投资后，Naspers退居幕后，放手让腾讯的创始人掌握公司的发展方向。在即时通讯业务的基础上，腾讯变身为在线游戏与社交网络巨头，如今已在香港交易所上市。
+Venture capital firms have rarely held on long enough to make more than $10 billion by investing in an Internet start-up. But Naspers, which seldom grants interviews about its investments in China, held on for years, and its stake now reaches about $40 billion.
+风投企业很少能通过长期投资互联网初创企业赚到100亿美元以上。然而，几乎从未就其在中国的投资接受采访的Naspers公司，多年来按兵不动，而其手中持有的股份目前的价值达400亿美元左右。
+In an email this week, Charles Searle, one of the Naspers executives who led the company’s investment in Tencent, said: “We have not sold a single share.”
+当年牵头投资腾讯的Naspers高管之一查尔斯·瑟尔(Charles Searle)本周通过电子邮件接受本报采访称，“我们一股也没卖。”

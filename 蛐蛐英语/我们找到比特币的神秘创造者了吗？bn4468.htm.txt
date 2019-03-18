@@ -1,0 +1,46 @@
+Even as it has grown into a new type of digital money worth billions of dollars, Bitcoin has always retained an air of mystery.
+比特币已经发展为一种价值数十亿美元的新型电子货币，但却始终保持着神秘色彩。
+Central to its cachet has been the mythic status of the system’s creator. Its developer went by the name Satoshi Nakamoto, but that is all that Bitcoin’s adopters seemed to know — or wanted to know. After all, Bitcoin was a project dedicated in part to making it easier to avoid the all-seeing gaze of the government and corporate America.
+比特币独树一帜，关键在于其创造者的神秘身份。其创造者被称为中本聪（Satoshi Nakamoto，音译），然而，比特币使用者知道的——或者想知道的——似乎只有这点儿信息。毕竟，比特币的部分目的就是为人们提供方便，让他们避开政府和美国公司无所不在的关注。
+But the inventor of the virtual currency may not be quite the international man of mystery that some aficionados imagined him to be. Could he in fact be a model-train fanatic living with his mother in a modest house in Southern California?
+不过，这种虚拟货币的发明者或许并不像一些狂热爱好者想象的那样，是个国际性神秘人物。会不会，他事实上只是一个与母亲同住在南加利福尼亚朴素房屋里的火车模型迷呢？
+That, at least, was what Newsweek, with a newly revived print version, reported on Thursday. But the man the magazine claimed to be behind the Bitcoin curtain has a nearly similar name — Dorian Satoshi Nakamoto — which raised questions about why he had not been discovered sooner. Many digital currency aficionados said they doubted the veracity of the report.
+至少，新近重新推出印刷版本的《新闻周刊》(Newsweek)在周四的报道里是这么说的。不过，该杂志所说的这个比特币幕后推手名字叫做多利安·中本聪(Dorian Satoshi Nakamoto)，与传说中的神秘创造者十分相似，人们由此质疑，他为什么没被更早发现。很多电子货币迷表示，他们怀疑报道的真实性。
+The Mr. Nakamoto identified in the article denied involvement in Bitcoin on Thursday after a car chase involving a crowd of reporters. He told The Associated Press that he had not heard of the virtual currency until his son told him about being contacted by a reporter three weeks ago.
+周四，在遭到一群记者的驱车追逐之后，报道提及的这个中本聪否认自己与比特币有关。他告诉美联社(The Associated Press)，他从没听说过比特币，他儿子三周之前告诉他，有记者与他儿子取得了联系，他这才知道这种东西。
+If the identification is wrong, it would not be the first time that a reporter had incorrectly determined the identity of Bitcoin’s creator.
+如果此次身份确认与事实不符，那也不会是记者首次错误判定比特币创造者的身份。
+Yet even if the report proves correct, virtual currency proponents at Bitcoin conferences in Texas and Barbados said that identifying Mr. Nakamoto would be a violation of the privacy the currency was intended to protect.
+然而，参与得克萨斯和巴巴多斯比特币大会的虚拟货币支持者们表示，即便报道被证明是正确的，确认中本聪的身份也是侵犯隐私的行为，而比特币旨在保护隐私。
+Whatever the conclusion, the furor on Thursday laid bare just how far Bitcoin had moved beyond its humble origins five years ago — and just how much it still relied on the mystique of those beginnings.
+无论结论如何，周四的愤怒情绪都已清楚说明，比特币已经取得长足发展，摆脱了五年前的卑微出身，还说明它依然严重依赖早期阶段的神秘性。
+“In reality, a lot of people didn’t want to know,” said Arianna Simpson, a Bitcoin entrepreneur. “Not knowing and thinking that maybe it had been a community project, again, I think was very well tied to the essence of Bitcoin. To have it exposed in this way I don’t think does anybody a particular service.”
+“实际上，很多人并不想知道，”比特币企业家阿里安娜·辛普森(Arianna Simpson)说。“不知道，也不认为这可能是一个团体项目，再说一次，我觉得这很好地体现了比特币的精髓。我觉得，以这种方式进行曝光不会对任何人有帮助。”
+For Mr. Nakamoto, Newsweek’s outing was clearly an unwelcome event. On Thursday, a team of journalists was camped outside his house in Temple City, Calif. When a reporter knocked on his front door, an older woman answered, but Mr. Nakamoto quickly came to shut the door, shouting, “No, no, no,” as he did.
+对于中本聪来说，《新闻周刊》的探访显然是不受欢迎的行为。周四，一群记者在他位于加利福尼亚州坦普尔市的住所外搭起了帐篷。一名记者敲响他家的前门，一名年长的女性打开了门，中本聪却快速走过来关上门，并且大喊，“不要，不要，不要。”
+If Mr. Nakamoto, 64, is Bitcoin’s creator, he is thought to own hundreds of millions of dollars’ worth of the digital money. Because Bitcoin are generally stored on computer hard drives, many Bitcoin users say that Mr. Nakamoto has been made into a target for criminals who might look to steal his coins.
+如果64岁的中本聪确实是比特币的创造者，据信他应该拥有价值数亿美元的比特币。由于比特币通常存储在计算机的硬盘驱动器里，很多比特币使用者称中本聪已经成为罪犯的攻击目标，他们可能想要盗走他的比特币。
+Still, Bitcoin watchers said that the creator’s supposed anonymity had played a vital role in the growth of a virtual currency that has become a potent symbol for privacy advocates and critics of government power.
+不过，比特币观察者表示，创造者据信保持的匿名状态在比特币的发展中发挥了重要作用，这种虚拟货币已经成为隐私权倡导者和批评政府权力的人士的有力象征。
+“Having this level of mystery allowed people to project their optimism and their hopes onto the currency,” said Richard Peterson, the chief executive of MarketPsych, a research company that has studied virtual currencies. “If it’s true and people start to believe it, it undermines that mystique.”
+曾研究虚拟货币的MarketPsych调查公司的首席执行官理查德•彼得森(Richard Peterson)说，“这种层级的神秘感使得人们把自己的乐观情绪和希望投射到了比特币上。如果报道属实，人们开始信以为真，这种神秘感就会遭到破坏。”
+What is known for sure about the creator of Bitcoin is that the person or group of people going by the name Satoshi Nakamoto posted a paper on an obscure mailing list in the fall of 2008 describing a new type of digital money. Bitcoin, as the creator called it, would be run according to a set of rules that would be downloaded on all the computers that joined in. One of the rules determined that only 21 million Bitcoins would ever be created, through a process known as mining.
+关于比特币的创造者，已知的确凿事实是，2008年秋，某个人或某个团体以中本聪的名字在一个隐秘的邮件组里贴出了一篇论文，描述了一种新型数字货币。创造者称这种货币为比特币，它将按照一套规则运行，所有加入比特币系统的电脑都可以下载这套规则。其中的一条规则决定了，通过一个名为挖矿的程序，系统最终只能创造出2100万枚比特币。
+In the months after the system went live, Satoshi Nakamoto emailed with his fellow collaborators but never gave any private details, and he refused to talk on the phone or meet in person. The only information came from a programming website, where a profile described him as a 38-year-old man in Japan.
+这套系统上线后的数个月里，中本聪用电子邮件和他的合作者进行了联系，但却从未透露任何个人细节，并且拒绝电话交谈或当面会晤。唯一的信息来自一个程序设计网站，上面有一份简介，形容他是一名38岁的日本男子。
+Mike Hearn, who became involved with Bitcoin a few months after it was created, said that initially, Bitcoin was too small and insignificant for the identity of its creator to be a concern. But as it grew, Mr. Hearn went back and looked at his emails with Satoshi Nakamoto and found that they had been sent through an encryption service that obscured their origin.
+在比特币问世几个月之后开始参与个中事务的迈克•赫恩(Mike Hearn)说，一开始，比特币的规模小得微不足道，不足以让人们关注其创造者的身份。然而，等它有所发展的时候，赫恩回头查看了他和中村聪的来往电邮，却发现电邮是经加密渠道发送的，这种方式掩盖了它的原始出处。 
+Previous investigations by journalists have suggested that Satoshi Nakamoto might have been, variously, a young British banker, a Finnish programmer and an American law professor. But in each case, the people under suspicion have denied being Bitcoin’s creator.
+记者们之前进行的调查显示，中本聪的身份变化万千，他也许是一名年轻的英国银行家，也许是一名芬兰程序员，还可能是一名美国法学教授。不过，所有成为怀疑目标的人都否认自己是比特币的创造者。
+In the absence of any hard evidence, many Bitcoin users have built Satoshi Nakamoto into a sort of hero, imagining him as a selfless genius who created a system that would allow for greater economic freedom.
+尽管没有任何确凿证据，但许多比特币用户都把中本聪塑造成了某种英雄，还把他想象成一名无私的天才，创造了一个带来更大经济自由的系统。
+The Mr. Nakamoto in Southern California confirms at least a part of that story. He is a physicist who graduated from California State Polytechnic University. A neighbor, Andrew Kent, said Mr. Nakamoto was “quiet and easygoing” and “clearly smart.”
+南加州的这个中本聪至少部分符合前述想象。他毕业于加州州立理工大学(California State Polytechnic University)，是一名物理学家。他的邻居安德鲁•肯特(Andrew Kent)说，中村聪“为人平和，易于相处”，而且“非常精明”。
+But given the sophistication of the original Bitcoin idea, some experts have doubted it could be the creation of one person, even a genius. At a conference on cryptography in Barbados on Thursday, many attendees discussed the evidence, or lack of evidence, linking Mr. Nakamoto with Bitcoin.
+不过，考虑到比特币原始创意的复杂程度，一些专家认为，它不太可能是一个人创造的，即使这人是个天才。在周四于巴巴多斯举行的密码学大会上，许多与会者讨论了把中本聪和比特币联系在一起的证据，或者说是证据的欠缺。
+“My personal opinion, I don’t think this is the right person,” said Stefano Zanero, assistant professor at the computer engineering department of Politecnico di Milano in Italy. “It just doesn’t add up, and quite honestly, I think that there were a lot of assumptions.”
+意大利米兰理工大学(Politecnico di Milano)计算机工程系助理教授斯特凡诺•扎内罗(Stefano Zanero)说，“按我个人的意见，他不是我们要找的人。这根本不合情理，老实说，我觉得这里边的假设太多了。”
+Social networks, meanwhile, compared the polished writing of Bitcoin’s creator with online writings apparently posted by Mr. Nakamoto, some of which were written in imperfect English.
+与此同时，社交网络比较了比特币创造者的优美文字和似乎由中本聪贴出的网络文章，后者当中有一些是用磕磕绊绊的英语写成的。
+“I think it is very clear the writings are not made by the same person,” Roger Ver, a Bitcoin enthusiast and investor, said in an email. “I hope the real Satoshi is never found.”
+比特币的发烧友和投资人罗杰•沃(Roger Ver)在邮件中说，“我想这很清楚，这些文字不会出于同一个人的手笔。我希望，人们永远也找不到真的中本聪。”

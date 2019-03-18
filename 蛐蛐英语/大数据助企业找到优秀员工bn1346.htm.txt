@@ -1,0 +1,44 @@
+BOSSES, as it turns out, really do matter — perhaps far more than even they realize.
+事实证明，老板们的确发挥着重要作用——也许他们也远未意识到自己会那么重要。
+In telephone call centers, for example, where hourly workers handle a steady stream of calls under demanding conditions, the communication skills and personal warmth of an employee’s supervisor are often crucial in determining the employee’s tenure and performance. In fact, recent research shows that the quality of the supervisor may be more important than the experience and individual attributes of the workers themselves.
+例如，在电话呼叫中心，小时工在高压力工作环境下处理源源不断的来电呼叫，上级主管的沟通技巧和亲和力往往是决定员工服务年限长短和绩效高低的关键。事实上，最近的研究表明，上司的素质可能比员工本身的经验和个人特质更重要。
+New research calls into question other beliefs. Employers often avoid hiring candidates with a history of job-hopping or those who have been unemployed for a while. The past is prologue, companies assume. There’s one problem, though: the data show that it isn’t so. An applicant’s work history is not a good predictor of future results.
+新的研究也对其他一些理念提出质疑。如今，雇主们往往不愿雇用频繁跳槽或已经失业了一段时间的求职者。企业总是认为员工的过去预示着他们的未来。但问题是，数据表明事实并非如此。一个申请人过去的工作经历并不是预测其未来业绩的良好指标。
+These are some of the startling findings of an emerging field called work-force science. It adds a large dose of data analysis, a k a Big Data, to the field of human resource management, which has traditionally relied heavily on gut feel and established practice to guide hiring, promotion and career planning.
+这些是劳动人口学这一新兴领域得出的出人意料的研究结果。它为人力资源管理领域带了大量数据分析，也就是如今所谓的“大数据”(Big Data)，而过去一直以来，人力资源管理严重依赖直觉和既定的做法来指导员工聘用、晋升和职业生涯规划。
+Work-force science, in short, is what happens when Big Data meets H.R.
+简而言之，劳动人口学就是大数据与人力资源管理的结合。
+The new discipline has its champions. “This is absolutely the way forward,” says Peter Cappelli, director of the Center for Human Resources at the Wharton School of the University of Pennsylvania. “Most companies have been flying completely blind.”
+这门新学科拥有积极倡导者。“这绝对是大势所趋，”宾夕法尼亚大学(University of Pennsylvania)沃顿商学院人力资源中心主任彼得·卡佩里(Peter Cappelli)说，“一直以来，大部分公司都在盲目行事。”
+Today, every e-mail, instant message, phone call, line of written code and mouse-click leaves a digital signal. These patterns can now be inexpensively collected and mined for insights into how people work and communicate, potentially opening doors to more efficiency and innovation within companies.
+如今，所有电子邮件、即时消息、电话呼叫、程序代码和鼠标点击都会留下数字信号。现在，这些数字信号的规律可以低成本地收集和挖掘，以便深入研究人们的工作和沟通方式，从而有可能为企业内部提高效率、促进创新打开大门。
+Digital technology also makes it possible to conduct and aggregate personality-based assessments, often using online quizzes or games, in far greater detail and numbers than ever before.
+数字技术也使得进行和汇总基于个性的评估成为可能，而且评估往往使用在线测验或游戏，比以往任何时候都更为详细和量化。
+Companies view work-force data mainly as a valuable asset. Last December, for example, I.B.M. completed its $1.3 billion acquisition of Kenexa, a recruiting, hiring and training company. Kenexa’s corps of more than 100 industrial organizational psychologists and researchers was one attraction, but so was its data: Kenexa surveys and assesses 40 million job applicants, workers and managers a year.
+企业将员工数据视为一种宝贵的资产。例如，去年12月份，IBM完成了13亿美元收购招聘和培训公司Kenexa的交易。Kenexa旗下100多位工业组织心理学家和研究人员是吸引IBM的一大资产。此外，它掌握的数据也同样吸引着IBM：Kenexa公司每年对4000万名求职者、员工和管理人员进行调查和评估。
+Big companies like I.B.M., Oracle and SAP are pursuing the business opportunity. So is eHarmony, the online matchmaking service. It announced in January that it would retool its algorithm for romance so it could examine employee-employer relationships, and enter the talent search business later this year.
+在IBM、甲骨文(Oracle)和SAP等大型公司寻找这样商机的同时，网上婚介服务公司eHarmony也是如此。eHarmony公司在1月份宣布，它将调整公司的浪漫关系算法，以便评估雇员与雇主之间的关系并在今年晚些时候进军人才搜索业务。
+THE penchant for digital measurement and monitoring seems most suited to hourly employment, where jobs often involve routine tasks. But will this technology also be useful in identifying and nurturing successful workers in less-regimented jobs? Many companies think so, and can point to some encouraging evidence.
+对数字测量和监测的偏爱似乎最适合小时工领域，因为这些工作往往涉及日常任务。但对于不那么刻板的就业岗位，这项技术在识别和培养成功的员工方面有用吗？许多公司认为答案是肯定的，并能指出一些令人鼓舞的证据。
+Tim Geisert, chief marketing officer for I.B.M.’s Kenexa unit, observed that an outgoing personality has traditionally been assumed to be the defining trait of successful sales people. But its research, based on millions of worker surveys and tests, as well as manager assessments, has found that the most important characteristic for sales success is a kind of emotional courage, a persistence to keep going even after initially being told no.
+IBM旗下子公司Kenexa的首席营销官提姆·盖泽特(Tim Geisert)称，外向性格历来被认为是成功销售人员的界定性特质。但该公司基于对数百万员工的调查和测试以及经理评估报告的研究发现，成功销售人员最重要的特征是一种情感上的勇气，是在最初被拒绝后继续坚持下去的恒心。
+The team of behavioral and data scientists at Knack, a Silicon Valley start-up firm, uses computer games and constant measurement to test emotional intelligence, cognitive skills, working memory and propensity for risk-taking. Early pilot testers include the NYU Langone Medical Center, Bain & Company and a unit of Shell, says Guy Halfteck, Knack’s C.E.O.
+在硅谷初创公司Knack，由行为和数据科学家组成的团队利用电脑游戏和恒定评测指标测试人们的情商、认知能力、工作记忆和冒险倾向。Knack公司首席执行官盖伊·哈夫特克(Guy Halfteck)说，早期的试点测试者包括纽约大学郎格尼医学中心(Langone Medical Center)、贝恩(Bain & Company)以及壳牌公司(Shell)的一个子公司。
+Google, not surprisingly, is committed to applying data-driven decision-making to human resource management. For years, candidates were screened according to SAT scores and college grade-point averages, metrics favored by its founders. But numbers and grades alone did not prove to spell success at Google and are no longer used as important hiring criteria, says Prasad Setty, vice president for people analytics.
+如此看来，谷歌致力于在人力资源管理上运用数据驱动的决策也就不足为奇了。多年来，谷歌一直运用其创始人青睐的学术能力评估测试(SAT)成绩和大学平均绩点(GPA)这两大指标筛选员工候选人。但谷歌负责人力分析的副总裁普拉萨德·塞提(Prasad Setty)说，光是数据和绩点并不能证明可以在谷歌获得成功，如今它们已经不再作为重要的招聘标准。
+Since 2007, the company has conducted extensive surveys of its work force. Google has found that the most innovative workers — also the “happiest,” by its definition — are those who have a strong sense of mission about their work and who also feel that they have much personal autonomy. “Our people decisions are no less important than our product decisions,” Mr. Setty says. “And we’re trying to apply the same rigor to the people side as to the engineering side.”
+自2007年以来，该公司对旗下员工进行了广泛的调查。谷歌发现，最具创新能力的员工也是“最快乐”的，就像它的定义一样，是那些对工作有强烈使命感并且觉得自己有很多个人自主权的员工。“我们人事决定的重要性并不亚于我们的产品决策，”塞提先生说，“我们正试图在人事上实施类似于工程设计领域的严格标准。”
+Evolv, a San Francisco start-up, uses data science to advise companies on hiring and managing hourly workers. Evolv is sharing its data from clients — data that are stripped of personally identifying information and demographics like race and sex — with researchers at Wharton, Yale and Stanford. (This column’s first two examples came from Evolv’s data and analysis.)
+旧金山初创公司Evolv运用数据科学为企业招聘和小时工管理提供咨询。Evolv将来自客户的数据与来自沃顿商学院、耶鲁大学(Yale)和斯坦福大学(Stanford)的研究人员共享，这些数据剔除了能够识别个人身份的信息以及种族与性别等人口统计数据。（本专栏中前两个例子来自Evolv的数据和分析。）
+Transcom, a global operator of customer-service call centers, conducted a pilot project in the second half of 2012, using Evolv’s data analysis technology. To look for a trait like honesty, candidates might be asked how comfortable they are working on a personal computer and whether they know simple keyboard shortcuts for a cut-and-paste task. If they answer yes, the applicants will later be asked to perform that task.
+全球客户服务呼叫中心运营商Transcom在2012年下半年进行了一个试点项目，利用的就是Evolv的数据分析技术。为了确定诚实这一特质，员工候选人可能会被问及他们用个人电脑工作有多娴熟以及他们是否知道剪切和粘贴任务的键盘快捷键。如果他们回答“是”，候选人稍后将被要求执行该任务。
+Those who score high on honesty typically stay in their jobs 20 to 30 percent longer than those who don’t, Evolv says.
+Evolv称，就诚实这项而言，得分高的人通常比那些低分获得者在相关职位上坚持的时间长20-30%。
+Neil Rae, an executive vice president of Transcom, was impressed with the project’s results and plans to use Evolv in the call centers he runs, which employ 12,500 workers.
+这一项目的结果让Transcom的执行副总裁尼尔·瑞(Neil Rae)印象颇深。他计划在他负责的聘用12500名员工的呼叫中心运用Evolv技术。
+In the call-center world, Mr. Rae says, 5 percent attrition a month — 60 percent a year — is stellar performance. Dropout rates are calculated at 30-day intervals, and it takes four to six weeks to train a worker. The cost of attrition — for hiring and training a replacement — is about $1,500 a worker, he says.
+瑞先生说，在呼叫中心这一领域，每个月5%的员工流失率，即每年60%已经算得上是杰出表现了。员工流失率按每30天计算，而一位员工的培训需要四到六周。他说，员工流失的成本（招聘和培训替代者）约为1500美元每人。
+In the project with Evolv, Mr. Rae says, Transcom was able to hire fewer people — about 800 instead of a more typical 1,000 hires — to get 500 workers who were still on the job at least three months later. The big payoff, he says, should come in cost savings and better customer service with less worker churn in call centers.
+瑞先生说，通过与Evolv的合作，Transcom可以招更少的人，要确保500名员工至少坚持三个月不离职，他们如今只要需要招800人左右，而不是以往的1000人。他说，最大的回报应该是呼叫中心的成本节约以及员工流失减少的情况下提供更好的客户服务。
+“This makes hiring more a science and less subjective,” Mr. Rae says.
+“这使得雇用变得更科学，更客观，”瑞先生说。

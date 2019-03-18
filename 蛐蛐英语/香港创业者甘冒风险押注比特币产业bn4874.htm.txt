@@ -1,0 +1,48 @@
+HONG KONG — By day, David Shin is an investment banker at a major financial firm. By night and in pretty much every other free minute, he is an entrepreneur looking to break into Hong Kong’s growing Bitcoin scene.
+香港——白天，戴维·申(David Shin)是在大型金融公司工作的投资银行家，而在晚上和其他所有空闲时间，他是努力跻身香港比特币产业的一个创业者。
+Even as concerns swirl about the long-term viability of the virtual currency, Mr. Shin is raising money, courting clients and hiring staff to build a sort of stock exchange for Bitcoin-oriented companies. Mr. Shin, 38, plans to start his venture, CryptoMex, at the end of April.
+尽管对于这种虚拟货币的长期发展普遍存在着担忧，申先生仍在积极筹集资金，吸引客户和聘用员工，建立一个类似证券交易所的平台，为所有以比特币为主导业务的公司服务。申先生今年38岁，计划在4月底启动他的公司CryptoMex。
+“I believe Bitcoin will bring about a brave new world of money,” he said. “The Internet started out as a revolutionary protocol, became more easy to use over time, and saw an explosive growth rate. The same is happening with Bitcoin.”
+“我相信比特币会带来货币的美丽新世界，”他说，“互联网问世之初只是一个革命性的通讯协议，但随着时间的发展，它越来越便于使用，并经历了急速增长。同样的事情正发生在比特币身上。”
+Mr. Shin joins a growing field of technology experts, financial players and crypto-geeks who are betting that an unfavorable regulatory environment in mainland China has put this special administrative region — with its more laissez-faire attitude — on the edge of something big.
+申先生加入了这个由技术专家、金融业者和密码极客组成的领域，他们认定了中国内地不利的监管环境，会使香港这个特别行政区，在大趋势到来时抓住机遇——香港的施政态度更倾向于自由放任的做法。
+Bitcoin, digital money backed by no government and “mined” by computers performing complex algorithms, have been largely unregulated, creating a virtual Wild West of programmers and speculators. But as Bitcoin tries to gain greater mainstream acceptance, authorities around the world have begun eyeing it more cautiously, as they might a currency. The spectacular collapse of Mt. Gox, the Tokyo-based Bitcoin exchange, has only fanned regulators’ concerns.
+比特币不受政府担保，通过让电脑执行复杂的算法“开采”而来。这种电子货币在很大程度上不受监管，为程序员和投机者提供了虚拟世界的“蛮荒西部”。但当比特币社群努力让主流社会接受它时，各国当局开始谨慎地关注这一事态，就像监管机构关注货币一样。东京比特币交易平台Mt. Gox的倒闭吸引了极大关注，这更加深了监管机构的担心。
+Regulatory moves in China have been among the more aggressive to date. In December, the Chinese authorities curtailed the use of Bitcoin by banks and payment processors, which helped halve the value of the virtual currency in two weeks. While the government said the general public was free to trade Bitcoin online, the broad fear is that China may eventually impose a sweeping ban on its use offline, as it did in 2009 to Q Coin, a virtual currency issued by Tencent.
+中国内地迄今采取的监管举措堪称严格。去年12月，内地官方限制银行和支付平台使用比特币，成功地在两周内让这种虚拟货币的币值减半。虽然政府声称公众可以自由地在网上买卖比特币，但大家广泛担忧中国政府有可能最终全面禁止它线下的使用，就像2009年官方对腾讯的虚拟货币Q币所做的那样。
+But Hong Kong has so far remained relatively passive on the regulatory front. The former British colony has retained a separate political and economic system since it returned to Chinese rule, and the Hong Kong Monetary Authority, the city’s de facto central bank, says it is not directly regulating Bitcoin, at least for now.
+但香港到目前为止在监管方面仍保持着相对放松的态度。自移交中国之后，这块前英国殖民地保留了独立的政治和经济体制。作为香港事实上的中央银行，香港金融管理局(Hong Kong Monetary Authority)称，该局至少在现在还没有直接监管比特币。
+Entrepreneurs in Hong Kong are essentially playing regulatory arbitrage. Although firm data is scarce, China is widely seen as the world’s second-largest market for Bitcoin, after the United States, and the restrictions have cooled its nascent Bitcoin scene. By virtue of proximity, businesses in Hong Kong are hoping to capture some of the demand.
+香港的创业者们实质上在进行监管套利。尽管缺乏确切数据，但人们广泛认为中国内地是位居美国之后的世界第二大比特币市场，而那里的监管限制给新兴的比特币领域降了温。凭借距离接近的优势，香港的企业希望吸引内地比特币市场的部分需求。
+“Like water, Bitcoin may take the path of least resistance and find its way into Hong Kong,” said Michael Chau, a business professor at the University of Hong Kong. “Because of the city’s proximity to China — and because it has become part of the country since 1997 — Hong Kong has the potential to absorb part of China’s Bitcoin market.”
+“像水一样，比特币会找到阻力最小的途径进入香港，”周昭泷(Michael Chau)说，他是香港大学的商学教授。“因为香港和内地非常接近，并且在1997年变成了中国的一部分，香港有吸纳中国内地比特币部分市场的潜力。”
+The Chinese customer base of Laser Yuan, the founder of the Hong Kong-based exchange BitCashOut, doubled after the December notice. Three weeks ago, ANX, Hong Kong’s largest Bitcoin exchange, opened what it said was the world’s first brick-and-mortar store for the virtual currency, where customers can buy Bitcoin over the counter. It also set up a Bitcoin vending machine last week.
+袁激光(Laser Yuan)建立了位于香港的“位元通”(BitCashOut)比特币交易平台，其内地客户群自12月的通知发布以来增长了一倍。三周前，香港最大的比特币交易平台ANX推出了比特币实体店，顾客可以在这里直接从柜台购买比特币，该公司称它是世界上第一家。ANX还在上周设立了比特币自动贩卖机。
+Robocoin, a maker of Bitcoin automated teller machines, will set up its first A.T.M. in Hong Kong this spring, and plans 100 more around the world, none in China, said the company’s chief executive, Jordan Kelley.
+Robocoin是比特币自动柜员机(ATM)的制造商，该公司将于今年春天在香港设立第一台比特币ATM机，还计划在世界范围内再安装100台ATM机，但没有一个会设立在中国内地，该公司首席执行官乔丹·凯利(Jordan Kelley)说。
+“We have hundreds and hundreds of Chinese businessmen and entrepreneurs contact us with the purpose of becoming Robocoin operators,” Mr. Kelley said, adding that if China gave him the green light, the company would “have 200 A.T.M.s in China before the end of the year, if not more.”
+“有很多很多的中国商人和创业者联系我们，希望成为Robocoin的经营者，”凯利说。他还补充道，如果中国官方批准，他的公司将会“在年底前至少在中国安装200台ATM，只多不少。”
+Mr. Shin said he first saw the promise of Bitcoin last year, when the coins were worth $25 apiece, compared with about $620 now. After raising $2.5 million, he and his business partners built IceDrill, an operation in Montreal where racks of speedy computers race to generate Bitcoin.
+申先生说，他在去年第一次认识到比特币的前景，那时比特币每枚价值25美元（约合155元人民币），而现在大约620美元。在筹集到250万美元资金后，他和生意伙伴在蒙特利尔成立了IceDrill公司，用成排的高速计算机生成比特币。
+But he is now selling part of his stake in the Canadian mine and focusing on his start-up in Hong Kong, which he said could be “the capital of Bitcoin in Asia.” Mr. Shin recently hired Jake Smith, a well-connected Bitcoin enthusiast who worked for Li Xiaolai — a Chinese investor who reportedly holds 100,000 coins — to get Chinese to buy into the companies listed on his platform.
+但是他现在打算卖掉加拿大比特币矿的股份，专注于在香港的初创企业。他说，这里可以成为“亚洲比特币的首都”。申先生最近雇佣了痴迷于比特币的杰克·史密斯(Jake Smith)，来向中国人推广他平台上交易的公司。史密斯人脉甚广，曾为据报道持有10万枚比特币的中国投资人李笑来工作过。
+“When the government comes out and puts constraints on Bitcoin in China, investors naturally look at Hong Kong — not Singapore, not Korea — for substitution,” Mr. Shin said.
+申先生说，“政府采取动作，在中国对比特币做出限制时，寻找其他门路的投资者自然会把目光投向香港，不是新加坡，也不是韩国。”
+Hong Kong operates in a type of regulatory limbo, so uncertainty reigns as much as opportunity. If China clamps down further, Hong Kong may be forced to rethink its stance.
+香港的监管目前处在某种悬而未决的状态，因此不确定性和机遇同样多。如果中国内地进一步打压，香港可能会被迫重新考虑自己的立场。
+John Greenwood, chief economist at Invesco and architect of Hong Kong’s exchange-rate system, said that whether the Chinese authorities would toughen measures depended on whether Bitcoin became so prevalent that it undermined China’s capital controls.
+景顺集团(Invesco)首席经济师、香港汇率机制的设计者祁连活(John Greenwood)说，中国官方会不会加紧监管，取决于比特币是否会过于普及，以至于影响中国的资本控制。
+“China’s mainland residents can buy things with Bitcoin from Europe or North America or anywhere else in the world, or make transfers,” Mr. Greenwood said. “It’s a hole in the dike, a leakage from China’s system of foreign-exchange control.”
+“中国内地的居民可以利用比特币从欧洲、北美或者世界上的任何地方购物、转账，”祁连活说。“它像是堤坝上的洞，中国外汇管制体系里的漏洞。”
+Entrepreneurs like Mr. Shin also face a legacy of past ventures that have proved problematic.
+过去的一些创业企业出了问题，于是像申先生这样的创业者也需要承担那些包袱。
+Two once-prominent Bitcoin crowdfunding platforms, BTCST and Bitfunder, are now defunct. BTCST, which offered Bitcoin-denominated securities that claimed to return up to 7 percent a week, has been charged by the United States Securities and Exchange Commission with fraud and with running a Ponzi scheme.
+一度声名远播的比特币众筹平台BTCST和Bitfunder现在已经停止运作。BTCST提供以比特币计价的证券，宣称周收益率可达7%。美国证券交易委员会（Securities and Exchange Commission，简称SEC）指控这家公司进行欺诈，经营庞氏骗局。
+“The operating environment is much clearer,” Mr. Shin said. “The Hong Kong government has acknowledged Bitcoin as a commodity, so we have clarity on both fronts here as well.”
+“经营环境现在清晰了很多，”申先生说，“香港政府承认比特币是一种商品，所以我们在两个领域都有了明确的规则。”
+Then there is the need for better basic infrastructure and consumer awareness, a challenge for Bitcoin around the world.
+此外还需要改善基础设施，并提升消费者的认知度，对于比特币，这是一个世界范围内的挑战。
+For example, few businesses let customers make payments with the currency. In Hong Kong, they largely amount to a boutique hotel, a flower shop, a tailor, a music teacher and a Beijing-style crepe restaurant.
+例如，允许顾客用比特币付款的公司极少。在香港，基本上只有一家精品酒店、一家花店、一位裁缝、一位音乐老师，还有一家北京风味的煎饼店。
+On the eve of the Chinese New Year in January, the three co-founders of the Bitcoin exchange ANX took to the bustling streets of the Lan Kwai Fong entertainment district to hand out 50,000 red envelopes, each carrying a little more than a dollar’s worth of Bitcoin.
+今年1月，比特币交易平台ANX的三位创始人，在除夕夜来到了熙熙攘攘的娱乐街区兰桂坊，发出了5万封利是，每一份中都有价值略高于1美元的比特币。

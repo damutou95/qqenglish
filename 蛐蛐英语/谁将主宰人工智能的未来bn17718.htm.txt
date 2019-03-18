@@ -1,0 +1,38 @@
+SAN FRANCISCO — The resounding win by a Google artificial intelligence program over a champion in the complex board game Go this month was a statement — not so much to professional game players as to Google’s competitors.
+旧金山——本月，谷歌(Google)人工智能程序在围棋这种复杂的棋类游戏中战胜了一位冠军棋手。这场令人瞩目的胜利是谷歌发出的宣言，所针对的与其说是专业棋手，不如说是它的竞争对手。
+Many of the tech industry’s biggest companies, like Amazon, Google, IBM and Microsoft, are jockeying to become the go-to company for A.I. In the industry’s lingo, the companies are engaged in a “platform war.”
+科技行业的许多巨头，比如亚马逊(Amazon)、谷歌、IBM和微软(Microsoft)，都争先恐后地想要成为人工智能领域的标志性企业。用科技界的行话来说，这些企业正在参与一场“平台战争”
+A platform, in technology, is essentially a piece of software that other companies build on and that consumers cannot do without. Become the platform and huge profits will follow. Microsoft dominated personal computers because its Windows software became the center of the consumer software world. Google has come to dominate the Internet through its ubiquitous search bar.
+在科技行业里，平台本质上是指这样的软件：其他公司以它为基础，消费者离了它不行。成为平台，利润就会滚滚而来。微软以前能统治个人电脑，是因为Windows软件成为了消费类软件领域的核心。谷歌已经开始统治互联网，是因为拥有那无所不在的搜索引擎。
+If true believers in A.I. are correct that this long-promised technology is ready for the mainstream, the company that controls A.I. could steer the tech industry for years to come.
+如果笃信人工智能的人是正确的——这种早就被寄予厚望的技术即将成为主流，那么在未来的岁月里，掌握该技术的谷歌可能会在科技行业占据主导地位。
+“Whoever wins this race will dominate the next stage of the information age,” said Pedro Domingos, a machine learning specialist and the author of “The Master Algorithm,” a 2015 book that contends that A.I. and big-data technology will remake the world.
+“在这场竞赛中胜出的人，将主宰信息时代的下一阶段，”机器学习领域的专家佩德罗·多明戈斯(Pedro Domingos)说。多明戈斯在2015年出版了《大师级算法》(The Master Algorithm)一书，他在书中断言，人工智能和大数据技术将重塑世界。
+In this fight — no doubt in its early stages — the big tech companies are engaged in tit-for-tat publicity stunts, circling the same start-ups that could provide the technology pieces they are missing and, perhaps most important, trying to hire the same brains.
+这场争夺无疑还处于早期，不过各大科技公司在争锋相对地进行宣传战，追逐同样一批初创企业来力求填补它们的技术空白。或许更重要的是，他们在追逐同样一批人才。
+Fei-Fei Li, a Stanford University professor who is an expert in computer vision, said one of her Ph.D. candidates had an offer for a job paying more than $1 million a year, and that was only one of four from big and small companies. On the candidate’s list, one of the biggest technology companies was ranked lowest, in terms of both money and excitement, she noted dryly.
+斯坦福大学(Standford University)教授、计算机视觉领域的专家李飞飞(Fei-Fei Li)表示，她的一名博士生接到的一份工作机会年薪逾百万美元，而这不过是此人从四家规模不一的企业拿到的其中一个机会。李飞飞语气平淡地指出，在这名学生的心中，以薪资和工作的激动人心程度来排名，垫底的是科技界的一家巨头公司。
+At the University of Toronto, IBM pursued a start-up called Ross Intelligence that makes a smart legal assistant, and extended a free offer to use its A.I. software, called Watson. For IBM, the financial payoff would come if start-ups like Ross generated sales, followed by a revenue-sharing arrangement. “No upfront costs at all,” said Andrew Arruda, chief executive of the start-up, which moved last year to Silicon Valley.
+在多伦多大学(University of Toronto)，IBM看上了打造智能法律助手的初创公司Ross Intelligence，主动提出让其免费使用自己的人工智能软件“沃森”(Watson)。对IBM而言，一旦Ross这样的初创企业有了进账，根据收入分配协议，它就能获得经济回报。“完全没有先期成本，”Ross的首席执行官安德鲁·阿鲁达(Andrew Arruda)说。去年，Ross公司搬到了硅谷。
+For years, tech companies have used man-versus-machine competitions to show they are making progress on A.I. In 1997, an IBM computer beat the chess champion Garry Kasparov. Five years ago, IBM went even further when its Watson system won a three-day match on the television trivia show “Jeopardy!” Today, Watson is the centerpiece of IBM’s A.I. efforts.
+多年来，科技企业一直在用人机对战的方式来展示它们在人工智能领域取得的进展。1997年，IBM的计算机打败了国际象棋世界冠军加里·卡斯帕罗夫(Garry Kasparov)。五年前，IBM更进一步——沃森系统在电视问答节目《危险边缘》(Jeopardy!)的三日大战中拔得头筹。到了今天，沃森成为IBM人工智能领域的核心。
+Now, Google’s A.I. program is drawing additional attention and pointing to a consolidation among tech’s biggest companies.
+眼下，谷歌的人工智能程序获得了格外的关注，显示主要的科技企业正在展开整合。
+By 2020, the market for machine learning applications will reach $40 billion, IDC, a market research firm, estimates. And 60 percent of those applications, the firm predicts, will run on the platform software of four companies — Amazon, Google, IBM and Microsoft.
+市场调研公司IDC估计，到2020年，机器学习应用市场将达400亿美元。IDC预测，60%的此类应用将在四大企业的软件平台上实现，也就是亚马逊、谷歌、IBM和微软。
+In January, before the Google software’s latest Go victory, the scientific journal Nature published an article describing how the program had beaten a European Go champion in five consecutive matches, overshadowing an effort by another tech giant, Facebook, to promote its own powerful Go-playing A.I. software. Google’s software went on to beat the Go grandmaster Lee Se-dol 4-1 in South Korea this month.
+今年1月，谷歌软件尚未在围棋比赛中取得这场最新胜利之前，科学期刊《自然》(Nature)发表了一篇论文，描述这一软件如何在五番棋比赛中赢得了对欧洲围棋冠军的一边倒胜利。此事令另一科技巨头Facebook在宣传自身的围棋人工智能软件如何强大上相形见绌。接下来，谷歌的软件就于本月在韩国举办的比赛中以4比1的分数击败了围棋大师李世石(Lee Se-dol)。
+IBM is making the broadest entry into A.I. Its Watson unit, set up as a separate division in early 2014, is both a software and a services business, with technology tailored to specific industries. More than 80,000 developers have downloaded and tried out the software, and the Watson division has 500 industry partners, including big companies and start-ups.
+IBM对人工智能领域的涉足范围最广。2014年初，IBM成立了独立的沃森部门，同时提供软件和服务，技术针对不同的产业量身定制。逾8万名开发人员下载试用了沃森软件，而沃森部门拥有500家业界合作伙伴，其中既有大公司，也有初创企业。
+“It’s early days, but the long-term goal is to have hundreds of millions of people use Watson as self-service A.I.,” said David Kenny, general manager of the Watson division.
+“我们还处在早期，但长期目标是有几亿人将沃森用作自助人工智能，”部门总经理戴维·肯尼(David Kenny)说。
+In 2015, Amazon and Microsoft both added machine learning capabilities to their cloud software platforms, Amazon Web Services and Microsoft Azure. The companies are using machine learning software to help customers spot patterns and make predictions in vast amounts of data.
+2015年，亚马逊和微软分别为它们的云软件平台Amazon Web Services和Microsoft Azure增添了机器学习功能。它们在利用机器学习软件来帮助客户从海量数据中发现模式并作出预测。
+Microsoft offers 18 machine learning services, including face recognition, text analysis and product recommendations. More A.I. capabilities, analysts say, should be announced at the end of the month, when Microsoft hosts a large conference for software developers in San Francisco.
+微软提供18款机器学习服务，包括脸部识别、文本分析和产品推荐。分析人士指出，本月底在旧金山主办软件开发者大会时，微软将公布更多的人工智能技术。
+Google is opening its A.I. technology to outsiders, seeking to attract developers. Last November, Google made the core of the machine learning technology its engineers use, called TensorFlow, available as free-to-use open-source software.
+谷歌在对外开放其人工智能技术，希望吸引开发人员。去年11月，谷歌将旗下工程师使用的名为TensorFlow的机器学习技术的核心发布为免费开源软件。
+This week at a conference in San Francisco, Google showed off a new speech-to-text transcription service. The company also said its recently introduced vision software for identifying images would be broadly available soon, and it introduced new tools and training aids to help developers build machine-learning applications more easily.
+本周在旧金山举办的一次会议上，谷歌展示了一项新的语音转文本服务。谷歌还表示，近期推出的用于识别图像的视觉软件将很快大规模发布。此外，谷歌推出了一些新工具和训练辅助技术来帮助开发人员更方便地打造机器学习应用。
+Intelligent software applications will become commonplace, said Jeff Dean, a computer scientist who oversees Google’s A.I. development. “And machine learning will touch every industry.”
+负责谷歌人工智能开发的计算机科学家杰夫·迪恩(Jeff Dean)表示，智能软件会得到普及，“机器学习将用于各行各业。”

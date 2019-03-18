@@ -1,0 +1,44 @@
+Breast biopsies are good at telling the difference between healthy tissue and cancer, but less reliable for identifying more subtle abnormalities, a new study finds.
+一项新的研究发现，乳房活检尽管在分辨健康组织和癌变组织差异的时候相当有效，但要辨别出更细微的异常，这种方式就不太可靠了。
+Because of the uncertainty, women whose results fall into the gray zone between normal and malignant — with diagnoses like “atypia” or “ductal carcinoma in situ” — should seek second opinions on their biopsies, researchers say. Misinterpretation can lead women to have surgery and other treatments they do not need, or to miss out on treatments they do need.
+研究人员表示，由于存在这样的不确定性，如果一位女性的活检结果处于正常和恶性之间的灰色地带——诊断书中有“异型性”或“导管原位癌”这样的字眼——她就应该寻求关于活检结果的第二诊断意见。误判可能会导致女性接受其实并不需要的手术等治疗方法，或者让她们没有得到确实需要的治疗。
+The new findings, reported Tuesday in JAMA, challenge the common belief that a biopsy is the gold standard and will resolve any questions that might arise from an unclear mammogram or ultrasound.
+人们普遍认为活检是最可靠的标准，可以解决不明朗的乳房X光或超声波检查结果提出的任何疑问，而本周二发表在《美国医学会杂志》（The Journal of the American Medical Association，简称JAMA）上的这项研究结果对这个观点提出了挑战。
+In the United States, about 1.6 million women a year have breast biopsies; about 20 percent of the tests find cancer. Ten percent identify atypia, a finding that cells inside breast ducts are abnormal but not cancerous. About 60,000 women each year are found to have ductal carcinoma in situ, or D.C.I.S., which also refers to abnormal cells that are confined inside the milk ducts and so are not considered invasive; experts disagree about whether D.C.I.S. is cancer.
+在美国，每年约有160万女性做乳房活检；约20%的活检发现存在癌细胞。10%诊断为异型性，即发现乳房导管内的细胞异常，但没有发生癌变。每年大约有6万名女性发现患有导管原位癌（ductal carcinoma in situ，简称DCIS）。这同样指的是异常细胞仅存在于乳管内，因此不具侵袭性。DCIS究竟是否属于癌症，专家的意见也尚未统一。
+“It is often thought that getting the biopsy will give definitive answers, but our study says maybe it won’t,” said Dr. Joann G. Elmore, a professor at the University of Washington School of Medicine in Seattle and the first author of the new study on the accuracy of breast biopsies.
+“人们常常认为，活检可以给出确切答案，但我们的研究显示未必如此，”在西雅图的华盛顿大学医学院(University of Washington School of Medicine)担任教授的琼·G·埃尔莫尔(Joann G. Elmore)说。她是这篇关于乳房活检准确度的新研究论文的第一作者。
+Her team asked pathologists to examine biopsy slides, then compared their diagnoses with those given by a panel of leading experts who had seen the same slides. There were some important differences, especially in the gray zone.
+她的团队请病理医师查看活检切片，并让一个权威专家小组查看相同的切片，然后把病理师和专家小组的诊断结果进行比较。研究发现，二者之间存在一些重大差异，在灰色地带尤其如此。
+An editorial in JAMA called the findings “disconcerting.” It said the study should be a call to action for pathologists and breast cancer scientists to improve the accuracy of biopsy readings, by consulting with one another more often on challenging cases and by creating clearer definitions for various abnormalities so that diagnoses will be more consistent and precise. The editorial also recommended second opinions in ambiguous cases.
+JAMA发表了一篇社论称这个发现“令人不安”，并表示此项研究应该提醒病理医师和乳腺癌方面的科学家行动起来，提高活检诊断的准确性，方法是互相讨论疑难病例，并对各种异常状况给出更明确的定义，以便提高诊断的一致性和准确性。社论还建议在遇见模棱两可的病例时寻求第二诊断意见。
+A second opinion usually does not require another biopsy; it means asking one or more additional pathologists to look at the microscope slides made from the first biopsy. Dr. Elmore said doctors could help patients find a pathologist for a second opinion.
+第二诊断意见通常不需要再做一次活检；而是指请另外一位或多位病理医师查看第一次活检获得的显微镜切片。埃尔莫尔博士称，医生可以帮助患者去找另一位病理医师，以便获得第二诊断意见。
+A surgeon not involved with the study, Dr. Elisa Port, a co-director of the Dubin Breast Center and the chief of breast surgery at Mount Sinai Hospital in Manhattan, said the research underlined how important it is that biopsies be interpreted by highly experienced pathologists who specialize in breast disease.
+埃莉萨·波特博士(Elisa Port)在曼哈顿西奈山医院(Mount Sinai Hospital)担任杜宾乳房中心(Dubin Breast Center)的联合主任兼乳房手术负责人，没有参与这项研究。她认为，该研究强调了活检应由擅长乳房疾病的经验丰富的病理医师来解读的重要性。
+“As a surgeon, I only know what to do based on the guidance of my pathologist,” Dr. Port said. “Those people behind the scenes are actually the ones who dictate care.”
+“作为一名外科医生，我进行治疗的依据就是病理医师的诊断意见，”波特博士说。“这些幕后工作者才是真正决定治疗方案的人。”
+In Dr. Elmore’s study, the panel of three expert pathologists examined biopsy slides from 240 women, one slide per case, and came to a consensus about the diagnosis.
+埃尔莫尔博士的研究使用了240名女性的乳房活检切片，每个病例一个切片。由三名病理学专家组成的小组会查看这些切片，并对诊断结果达成共识。
+“These were very, very experienced breast pathologists who have written textbooks in the field,” Dr. Elmore said.
+“这些病理学家对乳房疾病有非常、非常丰富的经验，一直在撰写这个领域的教科书，”埃尔莫尔博士说。
+Then the slides were divided into four sets, and 60 slides were sent to each of 115 pathologists in eight states who routinely read breast biopsies. The doctors interpreted the slides and returned them, and the same set was sent to the next pathologist. The study took seven years to complete.
+然后，切片被分成四组，每组60个，分别送往8个州的115名在日常工作中对乳房活检结果进行判断的病理医师。他们每一个人都对这组切片做出解读，然后返还。同一组切片再被送到下一名病理医师那里。整项研究历时七年才完成。
+The goal was to find out how the practicing pathologists stacked up against the experts. The task was tougher than actual practice, because in real cases pathologists can consult colleagues about ambiguous findings and ask for additional slides. They could not do so in the study.
+研究的目标是找出日常执业的病理医师与专家的意见有多大差异。这个任务要比一般情况更加困难，因为在现实工作中，病理医师遇到疑难病例时可以和同事讨论，并且要求提供更多的切片。而在这项研究中，他们不能这样做。
+There was good news and bad news. When it came to invasive cancer — cancer that has begun growing beyond the layer of tissue in which it started, into nearby healthy tissue — the outside pathologists agreed with the experts in 96 percent of the interpretations, which Dr. Elmore called reassuring. They found the vast majority of the cancers.
+研究结果表明，好消息与坏消息并存。当出现侵袭性癌症时——癌细胞已经超出最初生长的组织层，发展到了附近的健康组织中——日常执业的病理医师和专家的意见吻合度达96%。埃尔莫尔博士说这一结果让人感到安心。绝大多数的癌症都被他们发现了。
+For completely benign findings, the outside pathologists matched the experts in 87 percent of the readings, but misdiagnosed 13 percent of healthy ones as abnormal.
+对于完全良性的病例，日常执业的病理医师与专家的意见吻合度为87%，但他们把13%的健康切片误判为异常。
+The next two categories occupied the gray zone. One was D.C.I.S. For this condition, the pathologists agreed with the experts on 84 percent of the cases. But they missed 13 percent of cases that the experts had found, and diagnosed D.C.I.S. in 3 percent of the readings where the experts had ruled it out.
+接下来的两个类别则属于灰色地带。第一个是DCIS。对于这种情况，日常执业的病理医师和专家的意见吻合度为84%。不过，有13%的病例经专家发现存在DCIS，但医师没有看出来；还有3%的病例被专家认为不存在DCIS，却被他们判断为存在。
+The finding is of concern, because D.C.I.S. sometimes becomes invasive cancer, and it is often treated like an early-stage cancer, with surgery and radiation. Missing the diagnosis can leave a woman at increased risk for cancer — but calling something D.C.I.S. when it is not can result in needless tests and treatments.
+这一发现令人担忧，因为DCIS有时会发展成侵袭性癌症，而且通常被当成早期癌症在治疗，会动用手术和化疗手段。没有判断出实际存在的DCIS，可能会增加女性的患癌风险——但误判没有DCIS的病例的话，则会导致不必要的检查和治疗。
+The second finding in the gray zone was atypia, in which abnormal, but not cancerous, cells are found in breast ducts. Women with atypia have an increased risk of breast cancer, and some researchers recommend surgery to remove the abnormal tissue, as well as intensified screening and drugs to lower the risk of breast cancer.
+灰色地带的第二个发现涉及异型性，即乳房导管里发现了异常但并未癌变的细胞。这类女性患乳腺癌的风险会有所上升，除了通过加强筛查和使用药物来降低罹患乳腺癌的风险之外，一些研究者还建议用手术来去除异常组织。
+But in the study, the outside pathologists and the experts agreed on atypia in only 48 percent of the interpretations. The outside pathologists diagnosed atypia in 17 percent of the readings where the experts had not, and missed it in 35 percent where the experts saw it.
+这项研究发现，在异型性方面，日常执业的病理医师和专家的判断只有48%的吻合度。有17%的病例专家认为不存在异型性，却被医师判断为存在；还有35%的病例专家认为存在异型性，但医师并没有发现。
+“Women with atypia and D.C.I.S. need to stop and realize it’s not the same thing as invasive cancer, and they have time to stop and reflect and think about it, and ask for a second opinion,” Dr. Elmore said.
+“有异型性和DCIS的女性不要匆忙采取行动，而是要认识到它们和侵袭性癌症不是一回事。她们有时间停下来考虑一下，想想这件事，寻求第二诊断意见，”埃尔莫尔博士说。
+Abby Howell, 57, who lives in Seattle, two years ago had some calcifications show up on a mammogram, which are sometimes a sign of cancer. She was given the option of just mammograms every six months or having a biopsy. She chose the biopsy, thinking it would be definitive. But instead, it showed atypia.
+57岁的艾比·豪厄尔(Abby Howell)住在西雅图。两年前， X光检查显示她的乳房有钙化现象，而有时这是癌症的征兆。她可以选择简单地每半年做一次乳房X光检查，也可以选择做活检。她选择了后者，以为活检结果会明确无误。但检查结果为异型性。

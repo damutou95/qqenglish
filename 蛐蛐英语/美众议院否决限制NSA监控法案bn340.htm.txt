@@ -1,0 +1,48 @@
+A deeply divided House defeated legislation Wednesday that would have blocked the National Security Agency from collecting vast amounts of phone records, handing the Obama administration a hard-fought victory in the first Congressional showdown over the N.S.A.’s surveillance activities since Edward J. Snowden’s security breaches last month.
+本周三，分化严重的美国众议院(House)否决了一项法案，该法案本可以阻止美国国家安全局（National Security Agency，简称NSA）对通话记录的大量搜集。自从爱德华·J·斯诺登(Edward J. Snowden)上月泄露安全信息以来，这是国会就NSA监控活动进行的首次对垒，而这个结果意味着，奥巴马政府赢得了一场来之不易的胜利。
+The 205-to-217 vote was far closer than expected and came after a brief but impassioned debate over citizens’ right to privacy and the steps the government must take to protect national security. It was a rare instance in which a classified intelligence program was openly discussed on the House floor, and disagreements over the  program led to some unusual coalitions.
+投票结果是205对217，这远比预期的结果要接近得多，投票结果出炉前，众议院就公民的隐私权，以及政府在保护国家安全方面必须采取的步骤进行了简短但激烈的辩论。众议员公开讨论一项机密的情报计划是极不寻常的，而该计划引发的分歧又造就了一些罕见的联盟。
+Conservative Republicans leery of what they see as Obama administration abuses of power teamed up with liberal Democrats long opposed to intrusive intelligence programs. The Obama administration made common cause with the House Republican leadership to try to block it.
+怀疑奥巴马政府滥用权力的保守派共和党人，和长期反对侵入性情报计划的自由派民主党人成了战友。奥巴马政府则与众议院共和党领袖联手，努力阻止该法案。
+House members pressing to rein in the N.S.A. vowed afterward that the outrage unleashed by Mr. Snowden’s disclosures would eventually put a brake on the agency’s activities. Representative Jerrold Nadler, Democrat of New York and a longtime critic of post-Sept. 11 counterterrorism efforts, said lawmakers would keep coming back with legislation to curtail the dragnets for “metadata,” whether through phone records or Internet surveillance.
+此后，努力阻止NSA项目的众议员在结果公布后信誓旦旦地说，斯诺登泄密所释放的怒火，最终将会限制NSA的行动。对后9·11时代的反恐措施长期持批判态度的纽约民主党众议员杰罗尔德·纳德勒(Jerrold Nadler)说，议员们会不断重提遏制“元数据”捕捞的立法，不管这么做是通过收集通话记录、还是监控互联网。
+At the very least, the section of the Patriot Act in question will be allowed to expire in 2015, he said. “It’s going to end — now or later,” Mr. Nadler said. “The only question is when and on what terms.”
+他说，至少，《爱国者法案》(Patriot Act)中备受质疑的章节将被允许在2015年失效。纳德勒说，“它迟早会终结。唯一的问题是，它会在何时、何种情况下终结。”
+Representative Mike Rogers of Michigan, the chairman of the House intelligence committee, promised lawmakers he would draft legislation this fall to add more privacy protections to government surveillance programs even as he begged the House to oppose blanket restrictions.
+众议员情报委员会主席、密歇根州众议员迈克·罗杰斯(Mike Rogers)向议员们承诺，他将在今秋起草提案，在政府的监听计划中加入更多隐私保护的内容，尽管他也同时恳请众议院反对全面限制监听计划。
+The amendment to the annual Defense Department spending bill, written by Representatives Justin Amash, a libertarian Republican from Western Michigan, and John Conyers Jr., a veteran liberal Democrat from Detroit, turned Democrat against Democrat and Republican against Republican.
+美国国防部(Defense Department)年度支出提案的修订让民主党、共和党起了内讧，修订案的作者分别是信奉自由主义的西密歇根地区共和党众议员贾斯汀·阿玛什(Justin Amash)，和来自底特律的资深的自由派民主党人小约翰·科尼尔斯(John Conyers Jr.)。
+It would have limited N.S.A. phone surveillance to specific targets of law-enforcement investigations, not broad dragnets. It was only one of a series of proposals — from restricting funds for Syrian rebels to adding congressional oversight to foreign aid to Egypt — intended d to check President Obama’s foreign and intelligence policies.
+这份修订案如获通过，本可以把NSA的电话监听限定于特定的执法调查目标，而不再是广泛的收集。现在，意在阻击奥巴马总统外交和情报政策的一系列提案覆盖范围甚广，从限制对叙利亚反对派的资助，到对给予埃及的外国援助加强国会审查，而上述提案只是其中之一。
+But in the phone surveillance program, the House’s right and left wings appeared to find a unifying cause. Representative Raúl R. Labrador, Republican of Idaho, called it “the wing nut coalition” and Mr. Amash “the chief wing nut.”
+不过，在电话监听计划上，众议院的左右翼似乎找到了一个联手的原因。爱达荷州共和党众议员劳尔·R·拉夫拉多尔(Raúl R. Labrador)称之为“双翼螺母联盟”（wing nut，在政治上持极端观点的人——译注），阿玛什就是“双翼螺母之首领”。
+Mr. Amash framed his push as a defense of the Fourth Amendment’s prohibition against unreasonable search and seizure, and he found a surprising ally, Representative Jim Sensenbrenner, Republican of Wisconsin and one of the principal authors of the Patriot Act. Mr. Sensenbrenner said his handiwork was never meant to create a program that allows the government to demand the phone records of every American.
+宪法第四修正案(Fourth Amendment)禁止不合理的搜索和扣押行为，因而阿玛什将他的行动称为是对该修正案的捍卫，他找到了一个令人意外的盟友，此人就是威斯康星州共和党众议员吉姆·森森布伦纳(Jim Sensenbrenner)，他也是《爱国者法案》的主要作者之一。森森布伦纳说，他起草法案时从未想过让政府掌握每个美国公民的通话记录。
+“The time has come to stop it,” Mr. Sensenbrenner said.
+森森布伦纳说，“制止这种行为的时刻已经到了。”
+Opposing them were not only the House speaker, John A. Boehner and Mr. Obama but also the leaders of the nation’s defense and intelligence establishment.
+他们的对手中，不仅有众议院议长约翰·A·博纳(John A. Boehner)和奥巴马，还有国防部和情报机构的领导人。
+On Tuesday, the director of the National Security Agency, Gen. Keith Alexander, spent hours providing classified briefings to lawmakers about the program, and the White House took the unusual step of issuing a statement urging lawmakers not to approve the measure. On Wednesday, James L. Jones, the retired Marine Corps general who was Mr. Obama’s national security adviser from 2009-2010, added his name to an open letter in support of preserving the N.S.A. programs that had been signed by more than half a dozen top national-security officials from the Bush administration.
+周二，国家安全局局长基斯·亚历山大上将(Gen. Keith Alexander)用数小时时间就该项目向议员们进行了秘密的情况通报，而白宫则罕见地发布了一份声明，敦促议员们不要批准此项举措。周三，退休的美国海军陆战队(Marine Corps)上将、曾在2009年至2010年担任奥巴马国家安全顾问的詹姆斯·L·琼斯(James L. Jones)将他的名字加入一封支持保留NSA项目的公开信中。此前，已有数位布什政府时期的高级安全官员在这封公开信上签名。
+“Denying the N.S.A. such access to data will leave the nation at risk,” said the letter, which was circulated to undecided members.
+“阻止NSA获取此类数据将置这个国家于危险之中，”公开信说道。这封信曾在犹豫不决的众议员中传阅。
+Mr. Rogers took a personal swipe at Mr. Amash, a darling of social media, when he said the House is not in the business of racking up “likes” on Facebook. He said the calling log program was an important tool for protecting against terrorist attacks.
+罗杰斯向社交媒体宠儿阿玛什作出了带有人身攻击色彩的评判，他认为，众议院的工作不是在Facebook上积累“赞”。他说，为了保护美国不受恐怖袭击侵扰，收集通话记录的项目十分重要。
+“This is not a game,” he fumed. “This is real. It will have real consequences.”
+“这不是一个游戏，”他愤怒的说。“这是现实。这将带来实质性的后果。”
+But many rank-and-file Republicans and Democrats appeared impervious to such overtures. Representative Jared Polis, Democrat of Colorado and a supporter of the amendment, said if the Obama administration felt strongly about defending the program, Mr. Obama would have spoken out personally. Instead, the White House released a statement under the name of the press, secretary Jay Carney.
+但许多共和党、民主党的普通议员似乎对这样的说法无动於衷。科罗拉多州民主党众议员、修正案的支持者贾里德·波利斯(Jared Polis)表示，如果奥巴马政府认为非常有必要捍卫这项计划，奥巴马早就自己出面进行呼吁了。而白宫只是以新闻发言人杰伊·卡尼(Jay Carney)的名义发表了一份声明。
+“The press secretary says hundreds of things every day,” Mr. Polis said.
+“新闻发言人每天会谈到很多问题，”波利斯说。
+The divisions in Congress seemed to reflect the ambivalence in the nation as a whole. In a CBS News poll released Wednesday, 67 percent of Americans said the government’s collection of phone records is a violation of privacy. At the same time, 52 percent called it a necessary tool to help find terrorists.
+国会的分歧似乎反映了整个国家在这一问题上的矛盾心理。在CBS新闻频道(CBS News)周三公布的一项民意调查中，67%的美国人表示，政府收集通话记录侵犯了隐私。而同时，52%的人说，为了找到恐怖分子，这是一个必要的工具。
+But the final tally in the House suggested the tide was shifting on the issue. In the weeks that followed the Snowden leaks, the united voices of Congressional leaders and administration officials in support of the N.S.A. programs seemed to squelch the outrage Mr. Snowden had hoped for. Anger seemed to be more trained on Mr. Snowden then on the programs he revealed.
+但众议院的最后计票结果显示，在这一问题上的意见在转变。在斯诺登泄密后的最初几周，国会领袖和政府官员对NSA项目表现出的一致支持似乎盖过了斯诺登原指望会激起的民愤。在那时，愤怒似乎是更集中于斯诺登本人，而不是他所揭露的项目。
+As the news media and the government chronicled Mr. Snowden’s flight from law enforcement, a web of privacy activists, libertarian conservatives and liberal civil liberties proponents rallied support behind Congressional action. House members said they had received hundreds of phone calls and e-mails before Wednesday’s vote, all in favor of curtailing the N.S.A.’s authority.
+而就在新闻媒体和政府专注于斯诺登如何逃脱法律制裁时，一个由隐私权利倡导者、自由主义保守派和倡导公民自由的自由派组成的网络开始争取支持，要求国会采取行动。众议员表示，周三投票之前，他们收到了数以百计的电话和电子邮件，全部都支持限制NSA的权限。
+Ultimately, 94 House Republicans defied their leadership; 111 Democrats — a majority of the Democratic caucus — defied their president.
+最终，94位众议院共和党人违背了领导层的意愿，占民主党党团多数的111位民主党众议员违背了总统的意愿。
+“This is only the beginning,” Mr. Conyers vowed after the vote. The fight will now shift to the Senate, where longtime critics of N.S.A. surveillance Mark Udall, Democrat of Colorado, and Ron Wyden, Democrat of Oregon, immediately took up the cause.
+“一切才开始而已，”科尼尔斯在投票结束后信誓旦旦地说。如今，这场战争已转至参议院，长期批评NSA监控的科罗拉多州民主党参议员马克·尤德尔(Mark Udall)和俄勒冈州民主党参议员罗恩·怀登(Ron Wyden)立刻接过了旗帜。
+“National security is of paramount importance, yet the N.S.A.’s dragnet collection of Americans’ phone records violates innocent Americans’ privacy rights and should not continue as its exists today,” Mr. Udall said after the vote. “The U.S. House of Representatives’ bipartisan vote today proposal should be a wake-up call for the White House.”
+“国家安全至关重要，然而NSA对美国人通话记录的全面搜集则侵犯了无辜美国人的隐私权，不应像现在这样继续下去，”尤德尔在投票结束后表示。“美国众议院今天针对提案的跨党派投票应该对白宫有所警示。”

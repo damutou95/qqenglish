@@ -1,0 +1,66 @@
+Students, parents and educators increasingly obsessed with college rankings have a new tool: the Obama administration’s College Scorecard. The new database focuses on a college’s graduation rate, graduates’ median earnings 10 years after graduation and the percentage of students paying back their college loans.
+如今的学生、家长和教育者越来越关注大学排名。现在，他们有了一个新工具：奥巴马政府的高校记分卡(College Scorecard)。这个新数据库重点关注高校毕业率、学生毕业十年后的收入中值以及学生偿还大学贷款的比例。
+While Scorecard adds potentially valuable information to the dizzying array that is already available, it suffers from many of the same flaws that afflict nearly every other college ranking system: There is no way to know what, if any, impact a particular college has on its graduates’ earnings, or life for that matter.
+虽然高校记分卡在原本已经令人眼花缭乱的参考系数中增加了一些可能很有价值的信息，但它也有几乎所有其他大学排名系统都存在的缺陷：无法得知大学对毕业生收入（以及因此导致的生活质量）的影响到底有多大。
+“It’s a classic example of confusing causation and correlation,” said Frank Bruni, the author of “Where You Go Is Not Who You’ll Be,” a book about the college admissions process, and an op-ed columnist for The New York Times. “Anyone who has taken statistics should know better, but when it comes to colleges, that’s what people do. They throw common sense out the window.”
+“这是个典型的把因果关系和相互关系搞混的例子，”《Where You Go Is Not Who You’ll Be》的作者、《纽约时报》专栏作家弗兰克·布鲁尼(Frank Bruni)说，“学过统计学的人应该更清楚这一点，但是一提到大学，人们就忘了常识。”
+Of course graduates of the Massachusetts Institute of Technology (average postgraduate earnings $91,600, according to the Scorecard) and Harvard ($87,200) do well. That’s because the students they admit have some of the highest test scores and high school grade point averages in the country, reflecting high intelligence and a strong work ethic — two factors that cause high future earnings. That is generally true regardless of where such students attend college, as long as they go to a reputable four-year institution, various studies have shown.
+当然，麻省理工学院（Massachusetts Institute of Technology，据高校记分卡的统计，该校毕业生的年平均收入为9.16万美元）和哈佛大学(Harvard)的毕业生（8.72万美元）收入较高。那是因为这两所大学招收的学生入学考试成绩和高中平均成绩最高，那反映了他们的高智商和强烈职业道德，这两个因素会造就未来的高收入。很多研究表明，这样的学生只要上的是声誉好的本科院校，不管上哪所，收入都会高。
+“It’s absurd,” said Jerry Z. Muller, a professor of history at Catholic University of America and the author of “The Costs of Accountability,” a study of misplaced and misunderstood metrics. “Their graduates have high earnings because they’re incredibly selective about who they let in. And many of them come from privileged backgrounds, which also correlates with high earnings.”
+美国天主教大学(Catholic University of America)的史学教授杰里·Z·穆勒(Jerry Z. Muller)曾出版《The Costs of Accountability》，该书研究的是误置和误解的衡量方法。他说，“这很荒谬。他们的毕业生收入高，是因为他们在招生的时候非常挑剔。很多学生具有特权背景，这与高收入也有关系。”
+The College Scorecard does not rank colleges, but anyone can use the data to do so. M.I.T. (No. 6 on Scorecard earnings) and Harvard (No. 8) are the only universities in the Scorecard’s top 10 that are also highly ranked by the influential U.S. News and World Report. The other schools have a narrow focus on highly paid skills. The No. 1 school on Scorecard is MCPHS University, whose graduates earn, on average, $116,400. (MCPHS stands for Massachusetts College of Pharmacy and Health Sciences, which is not even ranked by U.S. News.)
+高校记分卡不给大学排名，但是任何人都能用那个数据来排名。在高校记分卡的前十名中，只有麻省理工学院（在高校记分卡的收入榜上排名第六）和哈佛大学（排名第八）挤入了具有影响力的《美国新闻和世界报道》(U.S. News and World Report)的排行榜的前列。前十名的其他院校都只关注能获得高收入的技能。高校记分卡上的第一名是麻省医药与健康科学学院（Massachusetts College of Pharmacy and Health Sciences，《美国新闻》甚至没有收录这所大学），该校毕业生的年平均收入是11.64万美元。
+But pay, of course, says nothing about the relative quality of different colleges. “If you go to M.I.T. and earn a degree in engineering, you’re going to make more than if you go to Oberlin and major in music performance,” Professor Muller said. “But you already know this. To rank the value of colleges based on the ultimate earnings of their graduates radically narrows the concept of what college is supposed to be for.”
+不过，当然，收入与不同院校的相对质量没有关系。“一般来说，考上麻省理工学院，获得工程学学位，比考上奥伯林学院(Oberlin)，学音乐表演，更能赚钱，”穆勒教授说，“不过这一点你本来就知道。根据毕业生的最终收入评判大学的价值会从根本上把大学的目标变得狭隘。”
+Andrew Delbanco, a professor at Columbia University and author of the book “College: What It Was, Is, and Should Be,” agreed. “Holding colleges accountable for how well they prepare students for postcollege life is a good thing in principle,” he said. “But measuring that preparation in purely monetary terms raises many dangers. Should colleges be encouraged first and foremost to maximize the net worth of their graduates? I don’t think so.”
+哥伦比亚大学(Columbia University)教授、《大学：过去、现在和未来》(College: What It Was, Is, and Should Be)的作者安德鲁·德尔班科(Andrew Delbanco)赞同这一观点。他说，“从原则上讲，认为大学有责任为学生毕业后的生活做好准备是件好事。但是，纯粹从金钱角度衡量准备得是否够好，会衍生出很多问题。应该鼓励大学把增加毕业生净资产作为首要目标吗？我觉得不应该。”
+And that is assuming the earnings data is reliable. Scorecard draws from a substantial database of tax returns, but measures the postgraduate incomes only of students who received federal loans or grants, which excludes most students from high-income families. And high family income is a factor that correlates strongly with postgraduate earnings.
+所有这些都是假定收入数据可信。高校记分卡依据的是庞大的纳税申报数据库，但是它只衡量接受联邦贷款或助学金的学生的收入，排除了大多数来自高收入家庭的学生的收入。家庭高收入与毕业生的收入有很大关系。
+PayScale, which ranks colleges based on postgraduate earnings reported by users of its web services, produces numbers that in many cases are substantially different from Scorecard’s. PayScale’s “midcareer” earnings for graduates of Harvard (ranked third at $126,000) and M.I.T., (No. 6, at $124,000) are much higher than Scorecard’s figures.
+PayScale根据其网站用户报告的毕业收入给大学排名，它得出的数据在很多方面与高校记分卡大不相同。PayScale算出的哈佛大学（12.6万美元，排名第三）和麻省理工学院（12.4万美元，排名第六）毕业生在“事业中期”的平均收入比高校记分卡的高很多。
+As with Scorecard, PayScale’s top-ranked institutions, SUNY-Maritime College in the Bronx ($134,000) and Harvey Mudd College in Claremont, Calif. ($133,000), train students for specialized, high-paying fields.
+和高校记分卡一样，PayScale上排名最高的院校——布朗克斯的纽约州立大学海事学院（13.4万美元）和加利福尼亚州克莱尔蒙特的哈维马德学院（Harvey Mudd College，13.3万美元）——都是培养学生进入专业化的高收入行业。
+U.S. News does not even include earnings data in its ranking formula, although it said it might do so. “The federal data is a large and new data set, and we’re studying it,” said Brian Kelly, editor and chief content officer for U.S. News. “It represents a subset of students, and we’re looking closely to determine if it in fact tells us what it claims to.”
+《美国新闻》甚至没有把收入数据纳入自己的排名系统，不过它说将来可能会纳入。“联邦政府的数据库又大又新，我们正在研究它，”《美国新闻》的主编、首席内容官布赖恩·凯利(Brian Kelly)说，“它仅代表一部分学生，我们在仔细斟酌它是否真能告诉我们它声称能告知的东西。”
+Some schools highly ranked by U.S. News — Grinnell, Smith and Wellesley, for example — have low rankings on PayScale and low earnings results on Scorecard. Mr. Kelly said U.S. News was examining these “anomalies.”
+《美国新闻》排名最高的一些院校——比如格林内尔学院(Grinnell)、史密斯学院(Smith)和韦尔斯利学院(Wellesley)——在PayScale上的排名较低，在高校记分卡上的收入水平也较低。凯利说，《美国新闻》正在研究这些“反常现象”。
+This year, the Brookings Institution published its own ambitious college rankings that try to improve upon what it sees as flaws in the other lists. It calculates the “value added” of each college by comparing what graduates would be expected to earn given their entering characteristics to what they do earn after graduating.
+今年，布鲁金斯学会(Brookings Institution)发布了自己雄心勃勃的大学排行榜，努力弥补它所认为的其他排行榜的缺陷。它通过比较预估收入（根据学生入学时的品质）与毕业后实际收入之间的差距，计算每所院校的“增加值”。
+Because of their high test scores and other factors, students entering Harvard would be expected to do well in postgraduate earnings (a projected $85,950, according to Brookings). That they actually earned $118,200 is a measure of what a Harvard education added to their potential earnings.
+考上哈佛的学生学习成绩好，再加上其他因素，他们的预估收入比较高（布鲁金斯学会估计是8.595万美元），而他们的实际年平均收入为11.82万美元，这样就能衡量接受哈佛的教育后，学生们的赚钱能力增强了多少。
+The Brookings rankings factor in the nature of a college’s curriculum, the career choices of its graduates and the percentage of graduates prepared for so-called STEM occupations (science, technology, engineering and math), so like Scorecard and PayScale results, its rankings are dominated by schools with narrow focuses on those high-paying areas.
+布鲁金斯学会的排名把大学课程、毕业生的职业选择和准备进入所谓的STEM行业（科学、技术、工程和数学）的学生比例纳入考虑因素，所以与高校记分卡和PayScale一样，它的榜单主要由只关注这些高收入行业的学校占据。
+Of the eight schools earning perfect scores of 100 in its rankings, five have technology-focused curriculums: California Institute of Technology; M.I.T.; Rose-Hulman Institute of Technology in Terre Haute, Ind.; SUNY-Maritime; and Clarkson University in Potsdam, N.Y. (Brookings draws its data from PayScale, LinkedIn and the Bureau of Labor Statistics.)
+布鲁金斯学会排行榜上获得满分的八所学校里有五所提供以技术为主的课程：加州理工学院(California Institute of Technology)；麻省理工学院；印第安纳州特雷霍特的罗斯-哈尔曼理工学院(Rose-Hulman Institute of Technology)；纽约州立大学海事学院；纽约州波茨坦的克拉克森大学(Clarkson University)。布鲁金斯学会参考的是PayScale、LinkedIn和劳工统计局(Bureau of Labor Statistics)的数据。
+Jonathan Rothwell, a fellow at Brookings and an author of the study, said that many educators applauded this approach but it had drawn criticism from the liberal arts community, which says it unduly weights a narrow focus on high-paying STEM fields. Mr. Rothwell defended that approach, noting that a college’s curriculum and what field a student studies were “hugely relevant to graduate success.”
+布鲁金斯学会成员、这项研究的作者乔纳森·罗思韦尔(Jonathan Rothwell)说，很多教育者赞赏这种方法，但它也遭到文科院校的批评，后者认为这种方法过于倚重高收入的STEM专业。罗思韦尔为这种方法辩护，指出大学课程和专业“与毕业后的成功有很大关系”。
+But he acknowledged that liberal arts programs and programs that train students for lower-paying fields were valuable to both individuals and society. “If your only goal is to make as much money as possible, you should study engineering, computer science, biology or business,” he said. “But most people are interested in more than just making money.”
+不过，他承认，文科和低收入专业对个人和社会都很重要。“如果你的目标只是尽可能地多挣钱，那么你应该学工程学、计算机科学、生物或商科，”他说，“但是大部分人感兴趣的不只是挣钱。”
+So, for the benefit of those people, I asked Mr. Rothwell to do a ranking that deleted the curriculum component and identified the highest “value added” colleges regardless of major. I’m calling this the Brookings-Common Sense ranking. Here’s the top 10:
+所以，为了这部分人，我让罗思韦尔删除课程内容，不考虑专业，找出“增加值”最高的院校。我称之为布鲁金斯常识大学排行榜。下面是这个排行榜的前十名：
+1. Colgate University
+1. 科尔盖特大学(Colgate University)
+2. Carleton College
+2. 卡尔顿学院(Carleton College)
+3. Washington and Lee University
+3. 华盛顿-李大学(Washington and Lee University)
+4. Westmont College
+4. 韦斯特蒙特学院(Westmont College)
+5. Kenyon College
+5. 凯尼恩学院 (Kenyon College)
+6. Wagner College
+6. 瓦格纳学院(Wagner College)
+7. Marietta College
+7. 马丽埃塔学院(Marietta College)
+8. Manhattan College
+8. 曼哈顿学院(Manhattan College)
+9. St. Mary’s University
+9. 圣玛丽神学院(St. Mary’s University)
+10. Pacific Lutheran University
+10. 太平洋路德大学(Pacific Lutheran University)
+Under this methodology, liberal arts schools like Colgate and Carleton shot up the rankings. No Ivy League schools made the top 20 on this list, suggesting that many of those students have an edge heading into college. The highest-ranked Ivy was Brown, at No. 45. And most of the engineering and technical schools, even M.I.T. and Caltech, stripped of their curricular weighting, plummeted. (I studied history and French at DePauw University, a liberal arts college, which ranked No. 19.)
+按照这种方法，文科院校——比如科尔盖特大学和卡尔顿学院——在排行榜上的名次快速上升。没有一所常春藤盟校(Ivy League)进入前20名，这表明，很多那种学生具有考大学的优势。排名最高的常春藤盟校是布朗大学(Brown)，排在第45名。去除课程比重后，大部分工程技术院校，甚至包括麻省理工学院和加州理工学院，名次急速下降（我曾在德波大学[DePauw University]学习历史和法语，那是一个文科院校，排名第19）。
+The bottom line is that no ranking system or formula can really answer the question of what college a student should attend. Getting into a highly selective, top-ranked college may confer bragging rights, status and connections, but it doesn’t necessarily contribute to a good education or lifelong success, financial or otherwise.
+最重要的是，没有哪个排名体系或公式能真正回答应该上哪所大学的问题。考上十分挑剔的顶级大学也许能让你拥有吹嘘的资本、社会地位和关系网，但不一定能保证你获得良好的教育或终生成功，不管是收入还是其他方面。
+The obsession with college rankings and graduates’ earnings “is just the most recent example of a larger phenomenon, which is that the gathering of numerical information acts as a kind of wish fulfillment,” Professor Muller said. “If you have enough metrics and benchmarks, somehow people believe that’s going to solve a major problem. It rarely does.”
+穆勒教授说，对大学排名和毕业生收入的痴迷“只是最新的例子，表明人们以为，收集数据信息就能帮助实现某种愿望。不知为何，人们以为，如果你有足够的数据和标准，就能解决一个大问题。实际上很少能真正解决”。

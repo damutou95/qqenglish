@@ -1,0 +1,28 @@
+In 1989, Tim Berners-Lee, a software engineer, sat in his small office at CERN, the European Organization for Nuclear Research near Geneva and started work on a new system called the World Wide Web.
+1989年，在瑞士日内瓦附近的欧洲核子研究中心(CERN)，软件工程师蒂姆·伯纳斯-李(Tim Berners-Lee)坐在自己小小的办公室里，开始发明一个全新的系统——万维网(World Wide Web)。
+On Wednesday, that project, now simply called the web, will celebrate its 25th anniversary, and Mr. Berners-Lee is looking ahead at the next 25.
+这个项目现在被简称为“网络”(Web)。周三，它将迎来25岁生日。而伯纳斯-李正把目光投向未来，展望互联网的下一个25年。
+But this moment comes with a cloud. The creators of the web, including Mr. Berners-Lee, worry that companies and telecommunications outlets could destroy the open nature that made it flourish in their quest to make more money.
+但在这一刻来临之际，也存在着一种担忧。伯纳斯-李和网络其他的缔造者担心，一些企业和电信运营商为了追逐利润，可能会破坏互联网的开放性，而正是开放性让互联网得以蓬勃发展。
+Today, more than two people in five are connected to the web. Every minute, billions of connected people send each other hundreds of millions of messages, share 20 million photos and exchange at least $15 million in goods and services, according to the World Wide Web Foundation.
+如今，每五个人中就有两人以上使用万维网。根据万维网基金会(World Wide Web Foundation)的数据，每分钟都有数十亿人通过万维网发出上亿条消息，分享着2000万张图片，交易着至少价值1500万美元的商品和服务。
+Of course, Mr. Berners-Lee had no idea that what he was building would have such an effect on society or grow so large.
+当然，伯纳斯-李当时并不知道，自己发明的东西会对社会产生如此巨大的影响力，也没有想到它会变得如此庞大。
+“I spent a lot of time trying to make sure people could put anything on the web, that it was universal,” he said in an interview. “Obviously, I had no idea that people would put literally everything on it.”
+“我花了很多时间来确保人们可以把一切都放在网上，确保人人都能使用它，”伯纳斯-李接受采访时说。“显然，我没想到的是，人们会真的把一切东西都放在了上面。”
+Since then, “everything” has included the GIF, (pronounced “jif,” like the brand of peanut butter, rather than with a hard G sound), memes, Google, Facebook, Twitter, news sites, Pets.com, YouTube and billions of web pages, by some estimates.Mr. Berners-Lee wrote the first web page editor and web browser in his office at CERN, and by the end of 1990 the first web page was posted online.
+从万维网诞生以来，所谓的“一切”渐渐囊括了GIF图形文件、网络模因(meme)、谷歌(Google)、Facebook、Twitter、新闻网站、宠物网站、YouTube，根据一些估计，还包括数十亿个网页。在CERN的办公室里，伯纳斯-李还编写了第一个网页编辑器和浏览器，到了1990年底，第一个网页正式上线。
+One of the most important aspects of the growth of the web came in April 1993, when the technology was made available for anyone to use, royalty-free.
+万维网规模的日益增长，在1993年4月迎来一个重要时刻：该技术向所有人开放，且无需支付版权费。
+While Mr. Berners-Lee said he was incredibly grateful for what the web has done since those early days, he warned that people need to realize that a current battle around so-called network neutrality could permanently harm the future of the web.
+尽管伯纳斯-李表示，对于万维网后来所取得的成就，他感到无比欣慰，但他警告说，人们需要意识到，被称为“网络中立性”的原则目前正经受着一场挑战，这可能对万维网的未来造成永久性的伤害。
+The idea behind net neutrality is simple: The web material we see on our laptops and smartphones, whether from Google or a nondescript blog, should flow freely through the Internet, regardless of its origin or creator. No one gets special treatment. But companies like Verizon hope some people will pay more to get preferential treatment and reach customers quicker.
+网络中立性背后的理念很简单：我们在笔记本电脑和智能手机上看到的网络上的内容，无论是来自谷歌还是某个平平无奇的博客，都应该在网上自由流动，无论来自何处，无论创造者是谁。没有人有特殊待遇。但Verizon这样的公司却希望，某些人可以付更多钱，从而得到更好的服务，更快地将内容推给受众。
+“The web should be a neutral medium. The openness of the web is really, really important,” Mr. Berners-Lee said. “It’s important for the open markets, for the economy and for democracy.”
+伯纳斯-李说，“网络应该是一个中立的媒介。网络的开放性非常、非常重要，这对开放市场、对经济、对民主都至关重要。”
+He worries that people online have no idea what could be at stake if large telecommunications companies took control of the web and the type of material we now have access to without any blockades or speed barriers.Mr. Berners-Lee said he planned to spend the next year working with web consortiums to spread awareness of these issues. “It’s possible that people end up taking the web for granted and having it pulled out from underneath them,” he said.
+他担心，网络用户都不知道，如果大型电信公司控制了网络，或者控制了我们目前可以畅通无阻获取的内容，用户会损失些什么。伯纳斯-李说，他打算未来一年与网络领域的技术组织合作，提升人们对这些问题的关注。他说，“有这样一种可能性：到最后人们觉得万维网的存在是理所当然的，可是到那时它却被人从我们身边夺走了。”
+In addition to helping further net neutrality, the World Wide Web Consortium, the leading web standards organization, hopes to help get the billions of people who are not on the web connected to it.In a news release, the consortium said the goal was to bring those people to the web via mobile phones, which cost lest than traditional laptops and Internet connections.
+除了帮助维护网络中立性，主要的网络标准组织万维网联盟(World Wide Web Consortium)还希望帮助数十亿无法使用网络的人接入网络。该组织在一份新闻稿中说，目标是让这些人通过手机连接万维网，这比传统上使用笔记本电脑和互联网连接上网要便宜。
+To help celebrate the web’s birthday, Mr. Berners-Lee, the World Wide Web Foundation and the World Wide Web Consortium are asking people to share birthday greetings on social media using the #web25 hashtag, and select greetings will be posted online.
+为了庆祝万维网的生日，伯纳斯-李、万维网基金会、万维网联盟正呼吁人们在社交媒体上分享生日祝福，记得使用#万维网25岁#(#web25)的标签，他们将挑选一些发布出来。

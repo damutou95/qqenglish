@@ -1,0 +1,50 @@
+SAN FRANCISCO — A new list of the world’s fastest supercomputers provides more evidence that the once-yawning technology gap between the United States and China is closing.
+旧金山——全球最快超级计算机的最新排名榜提供了进一步的证据，表明美国和中国之间曾经悬殊的技术差距正在缩小。
+China dominates a biannual ranking of the world’s 500 fastest supercomputers, called the Top500, that was published on Monday. Not only does China have the world’s fastest machine for the seventh consecutive time, it has the largest number of computers among the top 500 — a first for any country other than the United States.
+“全球最快超级计算机500强”(Top500)每两年更新一次，最新榜单于本周一发布。中国不仅连续第七次成为世界上最快计算机的拥有者，而且打入500强的数量也是最多的——这是第一次有美国以外的国家做到这一点。
+Also for the first time, the world’s fastest supercomputer uses Chinese-made microprocessor chips instead of chips from Silicon Valley’s Intel.
+而且这也是第一次，全球最快的超级计算机使用了中国制造的微处理器芯片，而不是来自硅谷英特尔(Intel)的芯片。
+Supercomputers are viewed in scientific circles as an indicator of national technology leadership, and they are vital for research in areas ranging from the development of new weapons and medicines, to the design of cars and consumer products. American computing experts and business executives have warned for years that leadership in supercomputing is vital to a range of national interests.
+在科学界，超级计算机被视为一个国家技术领先地位的指标，从新型武器和药品研发，到汽车和消费类产品的设计，超级计算机都发挥着非常重要的作用。多年来，美国计算专家和企业高管们都警告说，在超级计算机领域的领军地位对国家的很多利益至关重要。
+“Today even consumer detergent bottles are designed with supercomputers,” said Eric D. Isaacs, a physicist and provost of the University of Chicago. “The Chinese are getting good at building these computers, and it’s a competitive issue now for U.S. industry and national security.”
+“今天，甚至连民用洗涤剂的瓶子都是用超级计算机设计的，”芝加哥大学物理学家、教务长埃里克·D·艾萨克斯(Eric D. Isaacs)说。“中国越来越善于建造这些计算机，现在对美国的产业和国家安全来说，这成了一个竞争力的问题。”
+The United States primacy on the Top500 list has slipped for a number of reasons. Government support for supercomputing has been slowed by long-running debates on the level of federal spending on basic scientific research, as well as opposition to funding for industrial innovation that is not directly related to national security.
+美国在500强名单上失去领头羊地位的原因有很多。政府在联邦层面的基础科学研究投入长期存在争论，而且一些人反对政府资助那些与国家安全没有直接关系的产业创新，所以政府对超级计算的支持已经有所放缓。
+In the private sector, companies like Google, Microsoft, Facebook and Amazon invested billions of dollars in cloud-computing centers that don’t focus as much on solving scientific problems.
+在私营部门，像谷歌、微软、Facebook和亚马逊这样的公司投入了数以十亿计的美元在云计算中心上，而解决科学问题并不是云服务的侧重点。
+And last year, the United States blocked the sale of a number of advanced microprocessors to China over concerns they were being used in nuclear weapon development, which most likely accelerated the development of China’s own technology, said Jack Dongarra, a University of Tennessee computer scientist who helped create the list of the world’s fastest computers in 1993.
+去年，美国封锁了一些先进微处理器对中国的出口，担心中国利用它们发展核武器，田纳西大学(University of Tennessee)的计算机科学家杰克·唐加拉(Jack Dongarra)说，这些处理器极有可能用来加快中国的自主技术研发。他曾在1993年参与创建最初的全球最快计算机榜单。
+The Top500 list is maintained by Dr. Dongarra and Erich Strohmaier, a physicist at Lawrence Berkeley National Laboratory. Individual computing centers report descriptions and performance to them twice a year.
+这个500强榜单是由唐加拉和劳伦斯伯克利国家实验室(Lawrence Berkeley National Laboratory)的物理学家埃里希·施特罗迈尔(Erich Strohmaier)共同维护的。各计算中心每两年向他们汇报一次情况和性能。
+In 2001, there were no Chinese supercomputers on the Top500. Now, China has 167 systems on the list compared to 165 from the United States. China also leads a more obscure category — total processing power, or the combined computing speeds of all of its supercomputers on the list.
+2001年时，500强名单中没有任何超级计算机来自中国。而现在，名单上有167座超级计算机来自中国，165座来自美国。而且中国在一个比较偏僻的类别中也处于领先地位——总处理能力，即一个国家所有上榜的超级计算机加总后的速度。
+The fastest machine, the Sunway TaihuLight System, was installed this year at the National Supercomputing Center in Wuxi, in China’s Jiangsu province.
+最快的计算机名为“神威·太湖之光”，是今年在江苏省无锡的国家超级计算中心安装的。
+Despite those achievements, Intel still provided the chips for 91 percent of the machines on the list. And China is still catching up with the United States in state-of-the-art technologies, like software and the networking that links the thousands of chips in a modern supercomputer.
+尽管取得了这些成就，但上榜计算机中91%的芯片仍来自英特尔。中国的顶尖技术，如软件和连接现代超级计算机中数以千计的芯片的网络，依然落后于美国。
+But that could soon change. Officials at the Semiconductor Industry Association, a trade group, said the Chinese government has an ambitious $150 billion program to acquire as well as develop new technologies in various kinds of chips.
+但这种情况可能很快就会发生改变。行业组织半导体行业协会(Semiconductor Industry Association)称，中国政府制定了一个野心勃勃的计划，打算投入1500亿美元购买和开发各类芯片的新技术。
+After years of neglect, the United States does appear to be taking the competitive threat seriously, said John Neuffer, president of the S.I.A. “It’s an opportunity for us to double down on supercomputing and get ourselves back on track,” he said.
+该协会的主席约翰·诺伊弗(John Neuffer)表示，多年忽视此事的美国似乎的确很重视这个竞争威胁。“这是我们在超级计算上加倍投入，重振旗鼓的机会，”他说。
+Last year, the Obama administration began a new effort to develop a so-called “exascale” supercomputer that would be 10 times faster than today’s fastest supercomputers. (An exaflop is a quintillion — one million trillion — mathematical instructions a second.) Computer scientists have argued that such machines will allow more definitive answers on crucial questions such as the danger posed by climate change.
+去年，奥巴马政府启动了一个新项目，内容是开发所谓的“艾级”超级计算机。这种计算机的速度将是当今最快的超级计算机的十倍。（一艾次指一秒钟内执行一百亿亿条数学指令。）计算机专家称，这种计算机能够对气候变化带来的危险等关键问题给出更明确的答案。
+Until President Obama signed the National Strategic Computing Initiative last July, the construction of the fastest American supercomputers had largely been driven by the nation’s Stockpile Stewardship and Management program, which was created in 1995 to simulate the testing and maintenance of nuclear weapons.
+在奥巴马总统去年7月签署国家战略计算计划(National Strategic Computing Initiative)之前，建造美国最快的超级计算机的工作主要由美国核武储备管理计划(Stockpile Stewardship and Management)推动。该计划1995年启动，旨在模拟核武器的测试和维护。
+While the Chinese have perfected the manufacture of traditional supercomputers pioneered by American companies like IBM and Cray, the United States may focus on new, more efficient supercomputers that might lead to machines intended for challenges like artificial intelligence, according to Larry Smarr, a physicist who directs the California Institute for Telecommunications and Information Technology at the University of California, San Diego.
+中国完善了IBM和克雷(Cray)等美国公司开创的传统超级计算机的生产，然而美国现在的侧重点可能是效率更高的新型超级计算机。据加州大学圣迭戈分校加州通信与信息技术研究所(California Institute for Telecommunications and Information Technology at the University of California, San Diego)所长拉里·斯马(Larry Smarr)介绍，这种超级计算机可能会催生专门应对人工智能等挑战的计算机。
+One of the design challenges of the fastest computers is their vast power consumption. The world’s fastest supercomputer in China, which could fill a large warehouse, requires the same electric power needed to run roughly 15,000 homes. An exascale supercomputer will very likely require more than twice that amount of power, or roughly the amount of power produced by the Copper Mountain Solar Facility, the largest producer of solar power in the United States.
+最快的计算机面临的一个设计挑战在于它们巨大的功耗。中国那台全世界运行速度最快的超级计算机的体积相当于一个大仓库，用电量大致相当于1.5万户家庭。艾级超级计算机的用电量很有可能是它的两倍多，或者说相当于美国最大的太阳能发电设施铜山太阳能项目(Copper Mountain Solar Facility)的发电量。
+At the same time, even if the United States is able to design an exascale computer within the next decade, the Chinese could get there first. According to Dr. Dongarra, the Chinese government is committed to reaching the exascale goal by the end of this decade.
+与此同时，即便美国能在十年内设计出艾级计算机，中国可能会率先实现这个目标。据唐加拉称，中国政府致力于在这个十年结束前达到艾级计算。
+Because of funding shortages and technology challenges, “there has been a delay in getting the exascale launched in the U.S., and as a result, we’re further behind than we should be,” he said.
+因为资金不足和技术挑战，“美国制造艾级计算机的计划出现延误，因此，我们进一步落后于本应该达到的水平，”他说。
+The Sunway supercomputer in Wuxi is a marvel of Chinese manufacturing prowess, Dr. Dongorra noted. The computer is based on 10.6 million processor “cores” spread across 40,960 microprocessors that work together. The chips are relatively slow individually — about the speed of the processor in Apple’s iPhone 6.
+唐加拉称，无锡的超级计算机神威是中国制造实力的象征。该计算机的基础分布在40960个微处理器上的1060万个处理器“核”。这些芯片单独运行时速度相对较慢，大约相当于苹果iPhone 6的处理器速度。
+The Sunway machine does have its shortcomings. It has older memory-chip technology, meaning it is limited in the speed with which it can move data in and out of each processor when compared with the most powerful American supercomputers. And the new Chinese supercomputer is still based on American-made optical network technology that is used to connect the thousands of microprocessor chips.
+神威也有自己的缺点。它的存储芯片技术较老，这意味着和最强大的美国超级计算机相比，它的各处理器数据交换速度有限。同时，中国的新型超级计算机仍建立在美国开发的光网络技术上。该技术被用于连接成千上万的微处理器芯片。
+Despite the fact that the Chinese now have the most supercomputers on the list, the United States still dominates the top 20, with 10 machines. There are now 105 supercomputers in Europe. Japan has 29 systems on the list, down from 37 systems in November.
+尽管中国上榜的超级计算机最多，但排名前二十的超级计算机仍以美国的为主，占了10台。欧洲现在有105台超计算机。名单上日本的超级计算机从11月的37台降至现在的29台。
+Several American scientists compared what is going on now to the 1980s, when they worried that the nation was losing ground to Japanese supercomputers.
+几名美国科学家将目前的情况比作上世纪80年代。那时，他们担心在超级计算机领域，美国正在输给日本。
+“Scientists might be saying, ‘I have to go to China to run my computations,’” said Dr. Smarr.
+“科学家可能会说，‘我不得不去中国运行我的计算，”斯马说。

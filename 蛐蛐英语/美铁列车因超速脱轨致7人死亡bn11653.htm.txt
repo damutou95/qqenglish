@@ -1,0 +1,24 @@
+PHILADELPHIA — The Amtrak train that derailed in Philadelphia on Tuesday night, killing at least seven, was barreling into a sharp turn at 106 miles an hour — more than twice the speed limit on that stretch — when the engineer slammed on the emergency brakes, seconds before the train jumped the tracks, according to the National Transportation Safety Board.
+费城——美国国家运输安全委员会(National Transportation Safety Board)表示，周二夜里在费城脱轨的那趟美铁(Amtrak)列车进入一个急弯时的速度高达每小时106英里（约合170公里），是该路段限速的两倍有余。此时司机猛踩应急刹车，但几秒钟后列车脱离铁轨。此事造成至少七人身亡。
+The maximum allowed speed was 50 m.p.h. on that curve, in the Port Richmond section of the city, but data downloaded from the “black box” recorder showed that just before it crashed, the train was speeding at 106 m.p.h., Robert Sumwalt, the National Transportation Safety Board member leading the investigation, said at a news conference late Wednesday. He said that the speed limit on the straightaway leading to the curve was 80 m.p.h; the Federal Railroad Administration said it was 70.
+出事弯道位于费城的里士满港路段，限速为每小时50英里。不过，牵头进行此次事故调查的国家运输安全委员会委员罗伯特·萨姆沃特(Robert Sumwalt)在周三晚间的新闻发布会上表示，从“黑匣子”记录仪中下载的数据显示，就在出事之前，这趟列车在以每小时106英里的速度超速行驶。他表示，进弯之前的那段直道的限速为每小时80英里；联邦铁路管理局(Federal Railroad Administration)的说法则是每小时70英里。
+“Just moments before the derailment,” Mr. Sumwalt said, “the engineer applied full emergency brake application.” When the data recorder stopped working three seconds later, he said, the speed was 102 m.p.h.
+“就在脱轨之前的瞬间，司机全力运用了应急刹车系统，”萨姆沃特说。他还表示，数据记录仪三秒钟后停止工作，而此时的速度达每小时102英里。
+Officials said the data recorder, found early Wednesday, was taken first to Amtrak’s operations center in Delaware, and then to the safety board’s laboratory in Washington. Mr. Sumwalt said that in addition to information from the recorder — like a log of the train’s speed, throttle and brake settings and alarms in the engineer’s cab — investigators were studying video from a forward-facing camera mounted on the locomotive.
+官方表示，于周三凌晨找到的数据记录仪先是被送往了美铁在特拉华的运营中心，然后交给了国家运输安全委员会位于华盛顿的实验室。萨姆沃特称，除了记录仪上的信息——比如有关列车速度、油门和刹车设置，以及驾驶室内警报的记录——调查人员还在研究安装在火车头上的一个前置摄像头拍摄的视频。
+Passengers who emerged battered and bloodied described a chaotic, terrifying scene, with people thrown against walls, furniture and each other, and luggage and other loose items flying through the air and hitting people. More than 200 people were injured.
+从车厢中爬出的流血伤员描述了一副可怕的混乱景象：乘客猛地撞上墙壁、车内设施和其他人，行李等散落物在空中乱飞，不时击中旅客。逾200人在此次事故中受伤。
+The wreck occurred as the New York-bound train passed through a rail yard called Frankford Junction northeast of Center City, where multiple freight and passenger routes converge and Amtrak’s Northeast Corridor makes one of its sharpest turns.
+失事之时，这趟前往纽约的列车正在通过位于费城市中心东北方向的一座名为“弗兰克福枢纽”(Frankford Junction)的调度场。多条货运和客运线在此交汇，美铁东北走廊线的列车也要在这里进行急转弯。
+Experts said the derailment might have been averted by a safety system called positive train control, that can, among other features, automatically reduce the speed of a train that is going too fast. To do that, the system must be installed on both the train and the route. The Amtrak train had it, but that stretch of track did not.
+专家表示，“列车主动控制”(Positive Train Control)安全系统或许本可避免此次脱轨事故。该系统的功能之一是在火车运行过快的时候自动降速。要想做到这一点，系统必须同时安装在列车和线路上。这趟美铁列车上装有该系统，但出事路段并没有。
+“We feel that had such a system been installed in this section of track, this accident would not have occurred,” Mr. Sumwalt said.
+“我们感觉，假如此类系统装在了这个路段上，这次的事故就不会发生，”萨姆沃特说。
+Railroads are under a congressional mandate to install the system on passenger routes and major freight lines by the end of the year, but they are seeking an extension because of the cost and complexity of the work. The Association of American Railroads said that operators have already spent $5 billion on positive train control, and still need to spend about the same amount to comply with the mandate.
+按照国会的规定，铁路客运及主要的货运线路必须在今年年底前安装这套系统。然而，出于成本与工作复杂性方面的问题，铁路方面正在寻求放宽限期。美国铁路公司协会(The Association of American Railroads)称，各运营公司已在列车主动控制系统上花费了50亿美元（约合310亿元人民币），而要想遵守国会规定，则还要再支出约50亿美元。
+Absence of positive train control was also cited as a factor in the fatal 2013 crash of a Metro-North train in the Bronx.
+2013年，大都会北方铁路公司(Metro-North)的一趟列车在纽约布朗克斯出事，导致人员死亡。缺乏列车主动控制系统同样被认为是造成事故的一个原因。
+Even without the system, rail safety experts said Amtrak locomotives have multiple systems to alert train operators to excess speed, with warning lights and sound alarms. Mr. Sumwalt said he did not know yet whether those systems had worked.
+不过，就算没有这套系统，铁路安全专家表示，美铁的火车头仍装有多套系统来提醒操控人员列车超速，配备了警示灯和声音报警器。萨姆沃特称，他还不知道出事列车上的这些系统当时是否正常运行。
+Russ Quimby, a retired rail crash investigator with the safety board, said: “When you are depending entirely on a human being, the engineer in this case, then there is an opening for a human error and a tragedy like this one. If you have no system to regulate the speed, then that’s the core failure.”
+鲁斯·昆比(Russ Quimby)退休前在国家运输安全委员会担任火车事故调查员。他说：“完全倚仗一个人的时候，比如这次事件中的司机，那就有可能犯下人为失误，发生这样的悲剧。假如没有系统来管控速度，那么核心失误就在于此。”

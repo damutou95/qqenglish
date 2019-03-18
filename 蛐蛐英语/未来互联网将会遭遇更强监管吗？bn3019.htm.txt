@@ -1,0 +1,108 @@
+Will 2014 be the year that the Internet is reined in?
+2014年将成为互联网受到约束的一年吗？
+When Edward J. Snowden, the disaffected National Security Agency contract employee, purloined tens of thousands of classified documents from computers around the world, his actions — and their still-reverberating consequences — heightened international pressure to control the network that has increasingly become the world’s stage. At issue is the technical principle that is the basis for the Internet, its “any-to-any” connectivity. That capability has defined the technology ever since Vinton Cerf and Robert Kahn sequestered themselves in the conference room of a Palo Alto, Calif., hotel in 1973, with the task of interconnecting computer networks for an elite group of scientists, engineers and military personnel.
+爱德华·J·斯诺登(Edward J. Snowden)这位反叛的国家安全局合同雇员从世界各地的计算机上偷走了上万份机密文件之后，他的行动及其影响深远的后果，增加了控制互联网的国际压力，而互联网已渐渐成为世界的舞台。核心问题是构成互联网基础的技术原则，也就是其“任意对任意”的连通性。该特性自从1973年温顿·瑟夫(Vinton Cerf)和罗伯特·卡恩(Robert Kahn)把自己关在加州帕洛阿尔托的一家酒店会议室里，承担了让计算机互相连接的网络设计任务以来，一直定义着网络技术，而当时的网络是为一个由科学家、工程师和军方人员组成的精英团体而设计的。
+The two men wound up developing a simple and universal set of rules for exchanging digital information — the conventions of the modern Internet. Despite many technological changes, their work prevails.
+他们两人最后开发出一套简单且普适的交换数码信息的规则，也就是现代互联网的通讯协议。尽管许多技术都发生了变化，但他们的设计一直沿用至今。
+But while the Internet’s global capability to connect anyone with anything has affected every nook and cranny of modern life — with politics, education, espionage, war, civil liberties, entertainment, sex, science, finance and manufacturing all transformed — its growth increasingly presents paradoxes.
+但是，由于互联网把任何人与任何事连接起来的全球能力已经影响到现代生活的各个角落，改变了政治、教育、间谍、战争、公民自由、娱乐、性、科学、金融以及制造业等方方面面，互联网的增长也愈渐表现出一些矛盾。
+It was, for example, the Internet’s global reach that made classified documents available to Mr. Snowden — and made it so easy for him to distribute them to news organizations.
+比如，正是互联网的全球可达性让斯诺登得以获取机密文件，让他能如此容易地把这些文件转发给一些新闻机构。
+Yet the Internet also made possible widespread surveillance, a practice that alarmed Mr. Snowden and triggered his plan to steal and publicly release the information.
+然而，互联网也让大范围的监听监视成为可能，这种做法令斯诺登担忧，引出了他盗取并向公众曝光有关信息的计划。
+With the Snowden affair starkly highlighting the issues, the new year is likely to see renewed calls to change the way the Internet is governed. In particular, governments that do not favor the free flow of information, especially if it’s through a system designed by Americans, would like to see the Internet regulated in a way that would “Balkanize” it by preventing access to certain websites.
+由于这些问题被斯诺登事件赤裸裸地突显出来，新的一年中，人们可能会再次听到改变网络监管方式的呼吁。特别是那些不喜欢信息自由流动的政府，他们尤为在意这种流动是通过美国人设计的系统实现的，他们可能会希望看到通过阻止某些站点的访问，把互联网变为各自为政的割据的网络管理方式。
+The debate right now involves two international organizations, usually known by their acronyms, with different views: Icann, the Internet Corporation for Assigned Names and Numbers, and the I.T.U., or International Telecommunication Union.
+有关争论现已经涉及两个持不同观点的国际性组织，其名称的缩写被外界熟知：一个是Icann，也就是互联网名称与数字地址分配机构，另一个是ITU，既国际电信联盟。
+Icann, a nonprofit that oversees the Internet’s basic functions, like the assignment of names to websites, was established in 1998 by the United States government to create an international forum for “governing” the Internet. The United States continues to favor this group.
+Icann是管理互联网基本功能的非营利机构，负责诸如网站名称登记等事项，美国政府于1998年组建了该机构，目的是为“监管”互联网创造一个国际平台。美国仍继续支持这家机构。
+The I.T.U., created in 1865 as the International Telegraph Convention, is the United Nations telecommunications regulatory agency. Nations like Brazil, China and Russia have been pressing the United States to switch governance of the Internet to this organization.
+基于《国际电报公约》在1865年成立的国际电信联盟，是联合国的电信监管机构。巴西、中国和俄罗斯等国一直在给美国施压，要求其把互联网的监管权移交给国际电信联盟。
+Dr. Cerf, 70, and Dr. Kahn, 75, have taken slightly different positions on the matter. Dr. Cerf, who was chairman of Icann from 2000-7, has become known as an informal “Internet ambassador” and a strong proponent of an Internet that remains independent of state control. He has been one of the major supporters of the idea of “network neutrality” — the principle that Internet service providers should enable access to all content and applications, regardless of the source.
+70岁的瑟夫和75岁的卡恩在这个问题上的观点略有不同。瑟夫曾于2000至2007年担任Icann主席，他以非正式的“互联网大使”而闻名，也是大力提倡保持独立于政府控制之外的互联网的人。他是“网络中立”原则的主要支持者之一，该原则是，不管信息源自何方，互联网服务提供商应该让用户能获得所有的内容和应用。
+Dr. Kahn has made a determined effort to stay out of the network neutrality debate. Nevertheless, he has been more willing to work with the I.T.U., particularly in attempting to build support for a system, known as Digital Object Architecture, for tracking and authenticating all content distributed through the Internet.
+卡恩则坚定地选择了置身于网络中立的讨论之外。尽管如此，他一直更愿意参与国际电信联盟的工作，尤其是在试图为一个系统寻求支持方面，这个名为"数字对象框架"的系统旨在跟踪和验证所有通过互联网发布的信息内容。
+Both men agreed to sit down, in separate interviews, to talk about their views on the Internet’s future. The interviews were edited and condensed.
+他们两位同意分别接受采访，就互联网的未来坐下来与记者谈了自己的观点。下面刊登的采访内容经过了编辑和提炼。
+The Internet Ambassador
+采访互联网大使
+After serving as a program manager at the Pentagon’s Defense Advanced Research Projects Agency, Vinton Cerf joined MCI Communications Corp., an early commercial Internet company that was purchased by Verizon in 2006, to lead the development of electronic mail systems for the Internet. In 2005, he became a vice president and “Internet evangelist” for Google. Last year he became the president of the Association for Computing Machinery, a leading international educational and scientific computing society.
+曾在五角大楼担任国防部高级研究计划局(DARPA)项目经理的温顿·瑟夫，卸任后加入了MCI通信集团，主持互联网电子邮件系统的研发工作。MCI是一家早期的商用互联网企业，于2006年被Verizon收购。2005年，他成为谷歌公司副总裁兼“互联网吹鼓手”。2012年，他出任美国计算机协会主席，这是一家教育及科学计算领域的主要的国际性学会。
+Q. Edward Snowden’s actions have raised a new storm of controversy about the role of the Internet. Is it a significant new challenge to an open and global Internet?
+问：爱德华·斯诺登的行动引发了有关互联网作用的新一轮争论风暴。这对一个开放的、全球化的互联网来说，是一个重要的新挑战吗？
+A. The answer is no, I don’t think so. There are some similar analogues in history. The French historically copied every telex or every telegram that you sent, and they shared it with businesses in order to remain competitive. And when that finally became apparent, it didn’t shut down the telegraph system.
+答：答案是否定的。我不认为那是挑战。历史上有过一些类似的先例。法国人历史上曾抄录你发的每份电传或电报，而且为了保持竞争力，还把这些信息转交给商业部门分享。当这种事情最终被公开后，并没有导致电报系统的关闭。
+The Snowden revelations will increase interest in end-to-end cryptography for encrypting information both in transit and at rest. For many of us, including me, who believe that is an important capacity to have, this little crisis may be the trigger that induces people to spend time and energy learning how to use it.
+斯诺登事件将提高人们对端对端密码技术的兴趣，给传输中和存贮的信息加密。包括我本人在内的很多人认为，这是应该具有的重要功能。这个小小的危机或许能促使人们花些时间和精力去学习如何使用这种功能。
+You’ve drawn the analogy to a road or highway system. That brings to mind the idea of requiring a driver’s license to use the Internet, which raises questions about responsibility and anonymity.
+你曾用马路或高速公路来做比喻，让人想起在使用互联网时是否该有驾驶执照的观点，这涉及到责任和匿名性的问题。
+I still believe that anonymity is an important capacity, that people should have the ability to speak anonymously. It’s argued that people will be encouraged to say untrue things, harmful things, especially if they believe they are anonymous.
+我仍认为匿名性是互联网的一个重要功能，人们应该拥有匿名发表言论的能力。有观点认为，这将鼓励人们说一些失实言论和有害言论，尤其是在人们相信自己能够保持匿名的情况下。
+There is a tension there, because in some environments the only way you will be able to behave safely is to have some anonymity.
+这方面的确存在一些压力，因为在某些环境中，你保证行为安全的唯一方式就是保持一定的匿名性。
+The other side of this coin is that I believe that strong authentication is necessary. We must support the entire spectrum here. In some cases you want whistle-blowing kinds of capacity that will protect anonymity. Some governments will not tolerate anonymity, and in our government it’s still an open question.
+对这个问题的另一面，我的看法是强有力的身份验证也是必要的。在技术上我们必须支持(从匿名到验证身份的)整个范围。在有些情况下，你想要有可以让人匿名举报的功能。有些政府将不会容忍匿名性。对于我们的政府来说，这还是一个尚无答案的问题。
+Can the Internet be governed effectively?
+互联网可以被有效监管吗？
+I’m deliberately arguing that new institutions are not necessary.
+我特别强调没有必要设立新的机构。
+How significant is the danger that the Internet will be balkanized, as critics of the I.T.U. fear? 
+互联网被各自为政地割据的危险有多严重？这是国际电信联盟的评论者所担心的问题。
+Balkanization is too simple of a concept. There is an odd mix of permeability and impermeability in the Net. You won’t be able to communicate with everyone, and not every application will be accessible to everyone. We will be forced to lose the basic and simple notion that everyone should be able to communicate with everyone else.
+割据是一个过于简单的概念。互联网上有一种渗透性和非渗透性的奇异组合。你不可能与每个人交流，也不是所有的应用每个人都能用。我们会被迫放弃那个基本且简单的观念，即每个人都应该能与其他任何人交流。
+I’m disappointed that the idyllic and utopian model of everyone being able to communicate with everyone else and do what they want to do will be — what is the right word? Inhibited is the wrong word, because it sounds too widespread — maybe variable is the best way of saying it. End-to-end connectivity will vary depending on location.
+我有点失望，那种每个人都能与其他任何人交流、做他们随心所欲的事情的田园乌托邦式互联网模型将会——该用哪个词呢？“被抑制”这个说法不好，因为它听起来涉及太宽——或许“有变化”是最好的说法。端对端的连通性将根据地点的不同而有所不同。
+How has your original design weathered the test of time?
+你们最初的设计怎样受到了时间的检验？
+Everything has expanded by a factor of a million since we turned it on in 1973. The number of machines on the network, the speeds of the network, the kind of memory capacity that’s available, it’s all 10 to the sixth.
+自从我们1973年开启了互联网以来，所有的东西都增加了100万倍。进入网络的机器数量、网络的传输速度、可供使用的存储器容量等，都达到了当初的10的六次方。
+I would say that there aren’t too many systems that have been designed that can handle a millionfold scaling without completely collapsing. But that doesn’t mean that it will continue to work that way.
+我想说的是，没有几个系统的设计可以承受100万倍的扩容而不完全崩溃。但这并不意味着互联网将以同样的方式持续下去。
+Is the I.T.U. and its effort to take over governance a threat to an open Internet?
+国际电信联盟及其争夺监管权的努力对开放的互联网是一种威胁吗？
+People complained about my nasty comment. I said that these dinosaurs don’t know that they’re dead yet, because it takes so long for the signal to traverse their long necks to get to their pea-sized brains. Some people were insulted by that. I was pleased. It’s not at all clear to me that I.T.U.'s standards-making activities have kept up with need. The consequence of this is that they are less and less relevant.
+人们曾抱怨我出言不善。我说过，那些恐龙还不知道它们已经死亡，因为信息从它们的长脖子传到它们豌豆大小的脑子所需要的时间太长了。有人被我的这番话羞辱了。我很高兴。在我看来，国际电信联盟的标准制定活动是否跟得上需求，这一点我们根本不清楚。结果是他们越来越不重要。
+Beyond the mobile Internet and the Internet of things, what else do you see on the horizon?
+除了移动互联网和物联网之外，你还看到哪些其他正在出现的东西？
+There are a couple of things. One of them is related to measurement and monitoring. It gives us the ability to see trends and to see things that we might not see if we under-sample. That, plus being able to see large aggregates of what we hope is sufficiently anonymized information, can help us reveal states that we might not otherwise see.
+有两种东西。一种与测量和监测有关。它将赋予我们看趋势的能力，让我们能看到一些由于样本不够而不可能看到的事情。这种能力，加上让我们看到我们希望是足够匿名化信息的大聚合集的能力，将帮助我们揭示一些我们用其他方法可能看不到的状态。
+It is like being able to figure out flu trends. I think of it as a kind of sociological or a socioeconomic CT scan that is helping us to see the dynamics in the world in a way that we couldn’t otherwise see. And of course it leads to all kinds of worries about privacy and the like.
+就像比如能预测流感趋势的能力。我把这种能力看作一种社会学或社会经济学的CT扫描，它正在帮助我们以前所未有的方式看到世界的动态。当然，这将会引发对隐私或有关问题的各种担忧。
+The Engineer
+工程师
+An official with Darpa from 1972 to 1985, Robert Kahn created the Corporation for National Research Initiatives, based in Reston, Va., in 1986. There he has focused on managing and distributing all of the world’s digital content — as a nonproprietary Google. He has cooperated with the I.T.U. on the development of new network standards.
+罗伯特·卡恩曾在1972至1985年间担任国防部高级研究计划局的官员，他于1986年创建了位于弗吉尼亚州莱斯顿市的名为“国家研究促进计划”的公司(Corporation for National Research Initiatives)。公司专注于管理和发布来自全球的所有数码内容，像是一家非盈利性的谷歌。他在研究新的网络标准方面与国际电信联盟进行过合作。
+Q. The Snowden affair raises a paradox. The Internet made it relatively easy for him to do what he did, and at the same time it enabled the dramatic increase in surveillance that alarmed him. How do you sort that out?
+问：斯诺登事件提出了一个矛盾的问题。互联网让他相对容易地干了他做的事情，同时，互联网也使监听监视的大幅增长成为可能，从而引起他的担忧。你如何看待这种矛盾？
+A. I would push back on that a little bit. You could say oxygen made it possible for him to do that, because without it he wouldn’t be alive. Or his parents made it possible for him to do that.
+答：我想退几步来谈这个问题。你也许可以说，氧气让他做这件事成为可能，因为没有氧气他就活不了。或者说，他的父母让他做这件事成为可能。
+Does the scandal imply anything about the future of the Internet more generally?
+这件丑闻是否对互联网的未来有某种普遍性的影响？
+You can’t gaze in the crystal ball and see the future. What the Internet is going to be in the future is what society makes it. It will be what the businesses offer, it will be new products and services. It’s the new ideas that show up that nobody thought of before.
+你不能从水晶球里看到未来。未来互联网会怎样取决于社会让它怎样。它将是商家提供的东西，它将是新的产品和服务。它将出现一些不曾被人想到的新点子。
+And looking farther down the road?
+向更长远的方向看呢？
+If you ask me what it’s going to look like in 100 years, I’m sure there are going to be some things that are similar. That is, everyone will say we know we need connectivity between computational devices. We all know that access to information is important, so what’s different? It is just the same as it was back then.
+如果你问我100年后会是什么样，我肯定有些东西会与现在的类似。就是说，每个人仍将说我们知道我们需要计算设备之间的连通性。我们都知道获取信息很重要，所以有什么不同呢？未来和过去没有多大差别。
+You can say the same thing about transportation. What’s new about transportation? Well, people still need to get from here to there, and sometimes it’s not safe. You can get there faster, but that’s just a parameter that’s changed.
+你也可以对交通运输说同样的话。交通运输上有什么新东西吗？只不过是人们仍然需要从这里到那里，而且有时候并不安全。你能更快地到达那里，不过那只是改变了一个参数而已。
+Has the Snowden scandal changed the dynamics surrounding privacy and surveillance? How will it affect the debate?
+斯诺登丑闻改变了隐私和监听监视之间的相互关系了吗？事件对这场争论会有怎样的影响？
+There have always been ways in which people can access things, so instead of being able to log in because he had a key to this file, or this password or this firewall, he had a key to a physical room or a key to a safe.
+总有办法让人获取东西。不管是因为他有打开文件的密钥、或密码、或防火墙而能登录系统，还是因为他有一把打开实际房间或保险柜的钥匙。
+Thievery of this sort is not new. The question is, did it change the scale of it. Probably. If it had been actually physical stuff, someone would have said, “What are you doing with these trailer trunks walking out the door?”
+这类偷盗事件不是新现象。问题在于，偷盗的规模是否有所改变？也许有。如果偷的是实体东西，有人可能会问：“带着这些用拖车箱装的东西走出大门，你在干什么？”
+Is there a solution to challenges of privacy and security?
+针对隐私和安全的挑战有解决方案吗？
+In the 1990s when I was on the National Internet Infrastructure Advisory Committee, Al Gore showed up as vice president, and he made an impassioned pitch for Clipper chip [an early government surveillance system]. He said, “We need to be very aware of the needs of national security and law enforcement.” Even though the private sector was arguing for tight encryption, the federal government needed [to be able to conduct surveillance]. It never went, and it’s not anywhere today. I think it’s probably easier to solve the Israeli-Palestinian problem than it is to solve this.
+上世纪90年代，当我还在国家网络基础设施咨询委员会工作时，戈尔以副总统的身份出席过一次会议，他充满激情地推销“加密芯片”（Clipper chip是政府推出的早期语音监听系统）。他说，“我们必须充分认识到国家安全和执法的需求。”虽然私营部门提出需要更严格的加密，但联邦政府需要（进行监听的能力）。那个芯片从未被接受，如今它早就不知道哪去了。我认为，相对于这个问题，解决巴以争端可能更容易一些。
+Can the Internet be governed? What about the disputes between the different standards-setting bodies over control of the network?
+互联网能监管吗？你怎么看那些制定标准机构之间就网络控制问题的争论？
+No matter what you do, any country in the world is going to have the ability to set its own rules internally. Any country in the world can pull the plug. It’s not a question of technical issues, it’s not a question of right or wrong, it’s not a question of whether global Internet governance is right or wrong. It’s just with us.
+无论你做什么，世界上任何国家都将有制定自己内部规则的能力。世界上任何一个国家都能脱离互联网。这并不是一个技术问题，不是对错的问题，不是全球的互联网监管是对是错的问题。这是我们面对的问题。
+I used to do the Icann [management] function myself with one 3-by-5 card in my pocket, and when I got two of them, I asked Jon Postel if he would take over. You have to put it in perspective. Now it’s a huge business, and it gets caught up in a few things.
+我在互联网名称与数字地址分配机构管事时，用口袋里的一张三英寸乘五英寸的卡片就够了。当需要用两张卡片时，我就问了乔恩·普斯特尔是否愿意接替我的工作。你需要把这个问题放在更大的背景下来看。如今，监管是件巨大的业务，同时它也面临一些问题。
+Would it be possible to start over and build a new Internet to solve the problems the current Internet faces?
+有重新开始的可能性吗？建设一个新的互联网来解决当前互联网所面临的问题？
+You can’t do a wholesale replacement. If you think there is too much spam today, tell me what your solution is for it, because if you design a clean slate Internet and you don’t have a solution for spam, you’re going to have spam on your clean slate Internet and you’re going to have an argument for yet another clean slate Internet because that one didn’t work. It’s like saying we have crime in society, so let’s blow up the planet and build a new one. There will probably be crime on the new planet.
+你不可能整体地推倒重来。如果你认为现在网上有太多垃圾信息，那么你告诉我你的解决方案是什么，因为如果你设计一个全新的互联网、而你没有解决垃圾信息问题的方案，那么垃圾信息仍会出现在你全新的互联网上，而你将陷入是否需要又一个全新的互联网的争论，因为你的上个新设计还是不行。这就像是说，由于社会上存在犯罪，所以让我们把地球给炸掉，再建一个新的。新的地球上可能仍将存在犯罪。

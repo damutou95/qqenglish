@@ -1,0 +1,48 @@
+After graduating from the University of Michigan in 1998, Brian Mulloy followed the path of many of his classmates, fleeing his home state for a job in a bustling city. But after 10 years of working in technology start-ups in San Francisco, he has returned as founder of a company in Detroit’s budding technology sector.
+在1998年从密歇根大学(University of Michigan)毕业之后，布赖恩·马洛伊(Brian Mulloy)和许多同班同学一样，逃离他的家乡，去喧闹的城市找了一份工作。但在旧金山的科技创业工作了10年之后，他回到了家乡，在萌芽中的底特律科技领域创办了一家公司。
+Mr. Mulloy is part of a group of workers that Detroit is suddenly hungry for — software developers and information technology specialists who can create applications for the next generation of connected vehicles.
+马洛伊属于底特律一夜之间极为紧缺的那种工人，即软件开发者和信息技术专家，他们要为新一代联网汽车制作应用程序。
+“You’re going to see developers set up shop in Detroit because they’re going to follow the money,” Mr. Mulloy said, “and there will be lots of money.”
+“你会看到开发人员在底特律建起工作室，因为他们会跟着钱走，”马洛伊说，“而这里将出现许多钱。”
+Already, the money is flowing.
+资金已经涌入了。
+General Motors, newly flush with cash after emerging from bankruptcy, is on a hiring binge, quadrupling its information technology staff and recruiting software developers to create a spate of apps for its 2014 model-year vehicles. While the hiring is taking place across the country, many of the new recruits will be working out of the Detroit area.
+通用汽车公司(General Motors)在摆脱破产之后目前资金充裕，现正在招兵买马，将其信息技术员工人数翻了一番，并招聘软件开发人员，来为其2014年款车型制作大量应用。招聘是在全美国范围内进行的，但许多新员工将在底特律地区工作。
+The Ford Motor Company plans to fill 300 positions in information technology this year, said Laura Kurtz, Ford’s manager of United States recruiting. The Chrysler Group, which declined to specify its plans, said it would hire more entry-level workers and was focused on attracting a highly skilled work force.
+福特汽车公司(Ford Motor Company)的美国招聘经理劳拉·库尔茨(Laura Kurtz)说，福特计划在今年填满300个信息技术职位。克莱斯勒集团(Chrysler Group)拒绝透露其计划，称将雇佣更多初级工人，并且专注于吸引高技术劳动力。
+For Detroit, the hiring is a rare bright spot in a city teetering on the edge of bankruptcy. For the state over all, the Michigan Department of Labor projects that job growth in software developers for applications is expected to grow 23.5 percent from 2010; for software developers for systems software, 36.9 percent, the highest of any technical job classification. Michigan’s overall average for selected technical occupations is 8.5 percent growth.
+对底特律来说，招聘是这个徘徊在破产边缘的城市少有的亮点。对整个州来说，密歇根劳工部估计，软件开发人员的就业增长将比2010年高出23.5%；对于系统软件开发人员来说是36.9%，这是技术类别中最高的。密歇根州的高级技术职位的总体平均增长是8.5%。
+The demand for in-vehicle applications is a “substantial job generator with high-end pay,” said Donald R. Grimes, an economic researcher at the University of Michigan.
+车载应用软件的需求是一个“真正的高薪工作制造者，”密歇根大学(University of Michigan)的经济学研究员唐纳德·R·格兰姆斯(Donald R. Grimes)说。
+Beyond the three Detroit automakers, the push for the connected car is helping support homegrown technology businesses like Mr. Mulloy’s as well.
+除了底特律汽车三巨头，联网汽车的向前推进也让马洛伊创办的这种本地科技企业受益。
+Detroit Labs, founded two years ago to create smartphone apps, is shifting to work with automakers to build in-vehicle apps. The company has grown tenfold since 2011, to 40 people, and aims for 60 workers by the end of the year.
+两年前成立的底特律实验室(Detroit Labs)本来致力于开发智能手机应用，现正在转向与汽车制造商合作开发车载应用。该公司的规模自2011年以来已经增至原来的10倍，有40名员工，其目标是在今年年底达到60人。
+“If you go to the coasts, you are one of thousands,” said Paul Glomski, one of its founders. “In Detroit, you have the opportunity to make an impact. It’s for real.”
+“如果你去往沿海地区，你不过是数千人中的一个，”该公司创始人之一保罗·格隆斯基(Paul Glomski)说。“在底特律，你有机会产生影响。这是真的。”
+Mr. Mulloy’s company, Apigee Labs, provides systems that help companies build applications for media ranging from phones and vehicles to fitness equipment and power grids. He chose to put Apigee in Detroit’s fledgling downtown technology hub, where he shares space with Detroit Labs, which uses Apigee’s products to build apps.
+马洛伊的公司Apigee实验室(Apiegee Labs)做的是一种辅助系统，该系统帮助公司为各种媒介制作应用，范围从手机和车辆到健身器材和电网，无所不包。他选择把Apigee放在底特律羽翼未丰的市中心科技区，在那里他与底特律实验室共享办公室，后者在使用Apigee的产品制作应用。
+So far, the jobs are primarily attracting people who already live in the area and people like Mr. Mulloy, natives of Michigan who are drawn back to the area not only for the work but also for the lower cost of living. The next challenge will be to recruit developers without ties to Detroit, and that could be a tall order.
+到目前为止，这些工作主要是吸引已经生活在这一地区的人，以及像马洛伊这类密歇根人，他们回到这一地区不仅是为了工作，还为了较低的生活费用。下一个挑战将是招聘与底特律没有联系的人，这可能是个艰巨的任务。
+“In general,” Mr. Grimes said, “Michigan is not perceived as the hippest place for young technology geeks.”
+格兰姆斯说，“一般说来，密歇根州在年轻技术极客眼里可不算什么时髦的地方。”
+Automakers are stressing the career opportunity: even though cars have had computer-controlled systems for years, software innovation is in its early stages and there will be a chance for a worker to stand out. G.M.’s 2014 models, for example, will be the first to include in-car apps.
+汽车制造商在强调的是开创事业的机遇：尽管汽车早就已经装配了电脑控制系统，但软件创新却仍处于早期阶段，一个普通员工在这时是有机会冒头的。例如，通用的2014款车型将成为首款拥有车载应用的汽车。
+“They view it as a new space to be creative,” said Nick Pudar, director of G.M.’s new developer ecosystems program, which was created to connect the automaker with developers in other cities. “The vehicles are becoming this new channel of innovation.”
+“他们把这视为一个新的创意空间，”通用新建立的开发者生态系统项目主任尼克·普达尔(Nick Pudar)说。“这些汽车正成为创新的新渠道。”建立该项目的目的是为了连接汽车制造商和其他城市的开发者。
+Mr. Pudar travels to software developer hubs around the country — San Francisco, New York, Boston, Denver, Chicago and Austin, Tex., among them — to persuade developers to turn from developing phone apps to working on automotive apps.
+普达尔前往美国各地的软件开发者聚集区，包括旧金山、纽约、波士顿、芝加哥、丹佛和德州的奥斯丁，说服那里的开发者放下手机应用转而开发汽车应用。
+Since he is looking for third-party developers who can work remotely, he is not facing the challenge of recruiting these workers to Detroit. Instead, he is finding that the automotive sector represents an attractive field to these developers.
+他是在寻找能够远程工作的第三方开发者，因此就无需面对把这类员工招聘到底特律的挑战。相反，他发现汽车行业对这些开发者来说是一个有吸引力的领域。
+“This whole West Coast thing and how great they are — we’re doing some pretty cool stuff here,” said Rob Meyers, a Michigan native who came to G.M. from the West Coast, where he built apps for Amazon. “You’re in the last frontier when it comes to the vehicle.”
+“西海岸的那些事迹虽然伟大，但我们在这里也在做非常酷的事情，”曾在西海岸为亚马逊(Amazon)制造应用，现在来到通用的密歇根人罗伯·迈耶斯(Rob Meyers)说。“你正处在汽车工业的最前沿。”
+No automaker is being more aggressive than G.M., whose chairman and chief executive, Daniel F. Akerson, has made information technology a centerpiece of the company’s turnaround from bankruptcy.
+没有哪家汽车制造商比通用更加激进，该公司董事长兼首席执行官丹尼尔·F·埃克森(Daniel F. Akerson)已经让信息技术成为该公司从破产中转型的核心部分。
+Over the next three to five years, G.M. plans to hire 4,400 workers for its information technology centers in the Detroit suburb of Warren as well as in Austin; Roswell, Ga.; and Chandler, Ariz. It will be the fastest-growing employee group within the nation’s largest automaker, and about 1,200 of those employees will be recent college graduates, said a spokeswoman, Juli Huston-Rough.
+在未来三到五年中，通用计划雇佣4400名员工，以供应其底特律郊区的沃伦、奥斯丁、乔治亚州罗斯韦尔和亚利桑那州钱德勒市的信息技术中心。女发言人朱莉·休斯顿-拉夫(Juli Huston-Rough)说，这将是美国最大的汽车制造商内增长最快的雇员团体，而且这些雇员中的1200人将是近期刚毕业的大学生。
+To find those workers, G.M. and other automakers will be competing for talent against industries like defense and health care and against technology firms themselves. That means appealing to young workers’ preferences for work-life integration, Ms. Kurtz of Ford said, including options for telecommuting and flexible work hours. “We recognize the generation of people we’re hiring may not have the traditional 9-to-5 mind-set that baby boomers have,” she said.
+为了找到这些员工，通用和其他汽车制造商将和国防和医疗保健之类的行业、乃至科技企业本身争夺人才。福特公司的库尔茨说，这意味着吸引年轻员工的工作生活一体化，包括远程办公和灵活的工作时间。“我们知道，我们所雇用的这一代人并没有婴儿潮那一代人的朝九晚五的思维定式，”她说。
+In downtown Detroit, the action has pulled several developers from both coasts, including Bill Camp, who worked in San Francisco for six years in Web development but returned home to Michigan in January to join Detroit Labs, where he is vice president for business development. Like Google, Detroit Labs allows employees to spend 20 percent of their time on their own projects, and many innovations, he said, have stemmed from that.
+在底特律市中心，这一行动已经引来了几名来自东西两个海岸的开发人员，其中包括比尔·坎普(Bill Camp)，他在旧金山做了六年的Web开发，在今年1月回到老家密歇根，加入了底特律实验室，在那里担任商业开发副总裁。他说，就像谷歌(Google)一样，底特律实验室允许员工把20%的时间用在他们自己的项目上，而许多创新就源于这些个人项目。
+“I wouldn’t have gone back if I didn’t sense a change in what’s happening in Detroit,” Mr. Camp said.
+“如果我没有感到底特律发生的变化的话，我是不会回来的，”坎普说。

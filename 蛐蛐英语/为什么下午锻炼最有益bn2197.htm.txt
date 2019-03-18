@@ -1,0 +1,36 @@
+Does exercise influence the body’s internal clock? Few of us may be conscious of it, but our bodies, and in turn our health, are ruled by rhythms. “The heart, the liver, the brain — all are controlled by an endogenous circadian rhythm,” says Christopher Colwell, a professor of psychiatry at the University of California, Los Angeles’s Brain Research Institute, who led a series of new experiments on how exercise affects the body’s internal clock. The studies were conducted in mice, but the findings suggest that exercise does affect our circadian rhythms, and the effect may be most beneficial if the exercise is undertaken midday.
+锻炼会影响身体内在的生物钟吗？尽管没什么人会意识到这一点，但我们的身体及它所反映的健康状况，是受治于某种节律的。“心、肝、脑——都被内源性的昼夜节律控制着，”美国加州大学(University of California)洛杉矶脑研究所的精神病学教授克里斯托弗·科尔韦尔(Christopher Colwell)说。他领导了一系列试验，研究锻炼如何影响我们体内的生物钟。研究是在小鼠身上进行的，但其结果表明，锻炼有可能影响我们人类的生理节律，如果选择在午后运动，这种影响对我们最为有益。
+For the study, which appears in the December Journal of Physiology, the researchers gathered several types of mice. Most of the animals were young and healthy. But some had been bred to have a malfunctioning internal clock, or pacemaker, which involves, among other body parts, a cluster of cells inside the brain “whose job it is to tell the time of day,” Dr. Colwell says.
+这项研究发表在2012年12月的《生理学杂志》(Journal of Physiology)上，研究者们收集了若干类型的小鼠，大多数动物年轻健康，但其中一些被培育出功能失调的内源性生物钟，它也叫集群管理器，这是大脑中的一团细胞，“它的工作就是汇报一天中的时间，”科尔韦尔博士说。
+These pacemaker cells receive signals from light sources or darkness that set off a cascade of molecular effects. Certain genes fire, expressing proteins, which are released into the body, where they migrate to the heart, neurons, liver and elsewhere, choreographing those organs to pulse in tune with the rest of the body. We sleep, wake and function physiologically according to the dictates of our body’s internal clock.
+这些集群管理细胞从光源或黑暗环境中接收信号，启动一系列级联的分子反应。特定的基因引爆后，表达的、蛋白质被释放到身体里，移动到心脏、神经元、肝脏和其他部位，为这些器官设计程序，使它们与身体其他部位的节奏协调一致。我们睡觉、醒来、进行各种生理活动，都是依据身体里这个时钟的指示。
+But, Dr. Colwell says, that clock can become discombobulated. It is easily confused, for instance, by viewing artificial light in the evening, he says, when the internal clock expects darkness. Aging also worsens the clock’s functioning, he says. “By middle age, most of us start to have trouble falling asleep and staying asleep,” he says. “Then we have trouble staying awake the next day.”
+但是科尔韦尔博士说，这个时钟会被扰乱。他说，比如当生物钟在夜间预期黑暗即将降临时，如果看到人造光源，它就很容易被弄混淆了。衰老也是令生物钟功能失调的因素之一，他说，“大多数人到了中年就开始难以入睡或睡不安稳，因此第二天也就无法保持清醒的状态。”
+The consequences of clock disruptions extend beyond sleepiness. Recent research has linked out-of-sync circadian rhythm in people to an increased risk for diabetes, obesity, certain types of cancer, memory loss and mood disorders, including depression.
+生物钟被打乱的后果远不止常常打瞌睡。近期的研究认为，昼夜节律失调的人，更容易患上糖尿病、肥胖、某些类型的肿瘤、记忆力减退，以及包括抑郁症在内的情绪障碍。
+“We believe there are serious potential health consequences” to problems with circadian rhythm, Dr. Colwell says. Which is why he and his colleagues set out to determine whether exercise, which is so potent physiologically, might “fix” a broken clock, and if so, whether exercising in the morning or later in the day is more effective in terms of regulating circadian rhythm.
+在谈及昼夜节律时，科尔韦尔博士说：“我们相信这会带来严重的潜在健康问题。”所以，他和他的团队开始着手研究，作为一种强大的生理机能，运动是否有可能“修复”被破坏的生物钟；如果可以，为了调节生物钟，晨起锻炼和晚间运动哪个更为有效。
+They began by letting healthy mice run, an activity the animals enjoy. Some of the mice ran whenever they wanted. Others were given access to running wheels only in the early portion of their waking time (mice are active at night) or in the later stages, the equivalent of the afternoon for us.
+一开始，他们让健康的小鼠跑步，这是动物比较享受的运动。一些小鼠想跑随时就能跑，另一些只能在刚刚醒来的那段时间才有机会去滚轮上跑步（小鼠是在夜间活动的）；还有一些在醒后过了段时间，相当于在我们人类的下午时分跑步。
+After several weeks of running, the exercising mice, no matter when they ran, were found to be producing more proteins in their internal-clock cells than the sedentary animals. But the difference was slight in these healthy animals, which all had normal circadian rhythms to start with.
+经过几个星期的跑步，研究人员发现，运动的小鼠，无论是什么时间运动，相比静坐的动物，其内源性时钟细胞产生了更多的蛋白质。不过，这些健康动物都有正常的生理节律，彼此间的差异不大。
+So the scientists turned to mice unable to produce a critical internal clock protein. Signals from these animals’ internal clocks rarely reach the rest of the body.
+于是科学家又转向不能产生关键内源性时钟蛋白质的小鼠。从这些动物内源性时钟发出的信号几乎无法到达身体其他部位。
+But after several weeks of running, the animals’ internal clocks were sturdier. Messages now traveled to these animals’ hearts and livers far more frequently than in their sedentary counterparts.
+但是，经过几周的跑步后，这些动物的内源性时钟变强大了。相比一直坐着不动的小鼠，经过运动训练的小鼠，其内源性时钟信息能更频繁地传递到心脏和肝脏。
+The beneficial effect was especially pronounced in those animals that exercised in the afternoon (or mouse equivalent).
+在下午运动的那些动物，这种有益的作用尤其明显。
+That finding, Dr. Colwell says, “was a pretty big surprise.” He and his colleagues had expected to see the greatest effects from morning exercise, a popular workout time for many athletes.
+科尔韦尔博士认为，这一发现“相当令人惊喜”。他和他的同事本指望看到晨练有更好的效果，因为这是许多运动员更常用的运动时间。
+But the animals that ran later produced more clock proteins and pumped the protein more efficiently to the rest of the body than animals that ran early in their day.
+但是，与晨练的动物相比，下午运动的动物产生更多的时钟蛋白，并能将这种蛋白质更有效地泵到身体其他部分。
+What all of this means for people isn’t clear, Dr. Colwell says. “It is evident that exercise will help to regulate” our bodily clocks and circadian rhythms, he says, especially as we enter middle age.
+科尔韦尔博士说，他尚未确切了解这些发现对人类有何意义。他说，“有证据表明运动有助于调节”我们身体的生物钟和昼夜节律，当我们人到中年时运动的作用尤其显著。
+But whether we should opt for an afternoon jog over one in the morning “is impossible to say yet,” he says.
+但是他说，“现在还说不清楚”，我们是否为此应该选择下午慢跑而不是晨练。
+Late-night exercise, meanwhile, is probably inadvisable, he continues. Unpublished results from his lab show that healthy mice running at the animal equivalent of 11 p.m. or so developed significant disruptions in their circadian rhythm. Among other effects, they slept poorly.
+他进一步说，与此同时，深夜运动是不可取的。他的实验室未发表的结果显示，健康小鼠在相当于小鼠夜间11点左右跑步，发生了昼夜节律的严重中断。这带来了一系列影响，包括睡眠不佳。
+“What we know, right now,” he says, “is that exercise is a good idea” if you wish to sleep well and avoid the physical ailments associated with an aging or clumsy circadian rhythm. And it is possible, although not yet proven, that afternoon sessions may produce more robust results.
+“我们现在知道的是，”他说，“运动是个好想法”——如果你想通过运动让你一夜安睡，避免衰老带来的身体疾病或钝化的昼夜节律。虽然还未获得证实，但下午运动可能带来更好的结果。
+“But any exercise is likely to be better than none,” he concludes. “And if you like morning exercise, which I do, great. Keep it up.”
+“但任何运动，有总比没有好，”他总结说，“如果你喜欢晨练，这很好啊，我就是这样。继续运动下去。”

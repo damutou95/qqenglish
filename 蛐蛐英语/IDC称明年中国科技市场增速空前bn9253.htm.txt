@@ -1,0 +1,26 @@
+In the year-end predictions game, most technology forecasts tend to be either blue sky or boring, flights of imagination or a firm grasp of the obvious.
+在年终预测时，许多针对科技产业的预言要么是不切实际，要么枯燥乏味；要么异想天开，要么显而易见。
+For the last several years, IDC has published prediction reports that generally avoid the pitfalls of the genre, and offer a useful framework for thinking about the trajectory of trends in technology. The technology research firm’s predictions for 2015, published on Tuesday, come in a 17-page report that is rich in numbers and analysis.
+在过去几年里，IDC发布的报告大体上避免了这种文体的常见问题，可以为理解科技产业的趋势和走向提供有益的框架。这家科技研究公司本周二推出了它对2015年的预测，17页的报告中数据和分析都很详实。
+Beyond the detail, a couple of larger themes stand out. First is China. Most of the reporting and commentary recently on the Chinese economy has been about its slowing growth and challenges.
+跳出细节之外，报告中揭示了两个较为宏大的主题。首先是中国。最近关于中国经济的报道和评论，关注的问题都是增长放缓及面前的挑战。
+“In information technology, it’s just the opposite,” Frank Gens, IDC’s chief analyst, said in an interview. “China has a roaring domestic market in technology.”
+“但在信息技术领域，恰恰相反，”IDC首席分析师弗兰克·金斯(Frank Gens)在接受采访时说。“中国的科技产业有一个飞速发展的国内市场。”
+In 2015, IDC estimates that nearly 500 million smartphones will be sold in China, three times the number sold in the United States and about one third of global sales. Roughly 85 percent of the smartphones sold in China will be made by its domestic producers like Lenovo, Xiaomi, Huawei, ZTE and Coolpad.
+IDC估计，截至2015年，中国的智能手机总销量将达到5亿台，是美国销量的三倍，约占全球总销量的三分之一。中国市场出售的智能手机，大约85%会是由中国国内厂商生产的，如联想、小米、华为、中兴和酷派。
+The rising prowess of China’s homegrown smartphone makers will make it tougher on outsiders, as Samsung’s slowing growth and profits recently reflect.
+中国国产智能手机品牌的实力越来越强，外国品牌的处境会更加困难，三星(Samsung)最近缓慢的增长和盈利表现就显示了这一点。
+More than 680 million people in China will be online next year, or 2.5 times the number in the United States. And the China numbers are poised to grow further, helped by its national initiative, the Broadband China Project, intended to give 95 percent of the country’s urban population access to high-speed broadband networks.
+明年中国的互联网用户将会达到6.8亿人，即美国的2.5倍。而且在全国性战略“宽带中国”的推动下，中国的互联网用户人数肯定还会继续增长。这一战略打算为中国95%的城乡人口提供高速宽带网络连接。
+In all, China’s spending on information and communications technology will be more than $465 billion in 2015, a growth rate of 11 percent. The expansion of the China tech market will account for 43 percent of tech-sector growth worldwide.
+总体而言，中国2015年在信息和通讯技术方面做出的投资将会超过4650亿美元（约合2.86万亿元人民币），较上年增长11%。全球科技产业的增长，将有43%来自中国市场。
+Another theme in the IDC report is the quickening pace of the move from older technologies to new ones. Overall spending on technology and telecommunications, IDC estimates, will rise by a modest 3.8 percent in 2015. Yet the top-line numbers mask the trends beneath. IDC predicts there will be growth of 13 percent in what the research firm calls “3rd platform” technologies (cloud, mobile, social and big data). By contrast, older technologies will face a no-growth “near recession,” according to IDC, and “will shift fully into recession” by the second half of next year.
+IDC报告中的另一个主题是老技术向新技术过渡的步伐会加快。IDC估计，科技和电信方面的总体支出在2015年会有3.8%的适度增长。然而总体的数字无法反映深层次的趋势。IDC预测，在该公司所说的“第三平台”技术（云端、移动、社交媒体和大数据）中，支出增长会达到13%。IDC称，与之相对比，老技术将会面临零增长，“接近衰退”，到明年下半年“将会完全转向衰退”。
+IDC’s 3rd platform is similar to what Gartner, another big research firm, has called a “nexus of forces” sweeping through the industry. (Gartner’s ingredients are virtually the same as IDC’s with slightly different labels — social interaction, mobility, cloud and information.) The 1st platform, in IDC’s taxonomy, was the mainframe era, running from the 1960s into the 1980s. The 2nd platform included personal computers and the Internet, and began in the 1980s and ran through the middle of the first decade of this century.
+IDC所说的“第三平台”与另一家大型研究机构高德纳(Gartner)的一种说法颇为相似，即正在席卷整个产业一种“力量联结”(nexus of forces)。高德纳这个概念的组成部分与IDC的几乎完全相同，只是运用的名词略有差异——社交互动、移动性、云端和信息。按照IDC的分类，第一平台是指贯穿上世纪60年代至80年代的大型机时代。第二平台包括个人电脑和互联网，从上世纪80年代一直延续到大约2005年。
+Cloud-computing data centers are the engine rooms of the other 3rd platform technologies of mobile, social and big data. Building these cloud power plants is increasingly a costly, high-stakes endeavor. In 2015, IDC predicts, there will be a winnowing.
+云计算的数据中心是移动、社交、大数据等其他第三平台技术的引擎室。而建造这种云计算的动力源泉，成本却越来越高，风险也越来越大。IDC预测，2015年这个领域会发生洗牌。
+The leading players will keep spending and growing, and IDC identifies the leaders as Amazon, Google, Microsoft and IBM. “But we’ll see a lot of dropouts, as companies pull back from cloud infrastructure and focus on what they’re good at,” Mr. Gens said.
+这个领域的领头羊会继续投资和增长，而IDC指出，领导者包括亚马逊(Amazon)、谷歌(Google)、微软(Microsoft)和IBM。金斯表示，“但我们会看到很多企业退出这一领域，许多公司会放弃云计算基础设施的业务，专注于它们擅长的业务。”
+Candidates to drop out of delivering computing resources as a cloud service, he said, include Hewlett-Packard and the telecommunications companies. Salesforce, a leader in cloud-based business software, may want to do a deal with one of the big builders of cloud data centers, Mr. Gens suggested. That way, he added, Salesforce could concentrate its resources on software — as the German software maker SAP did recently in a deal with IBM.
+一些公司可能不再会利用自身的计算资源对外提供云计算服务，他说，可能这样做的公司包括惠普(Hewlett-Packard)及电信企业。金斯表示，云端商务软件领域的领导者Salesforce，或许会打算与一家建设云计算数据中心的大型企业合作。他补充道，这样做Salesforce就可以将自身的资源专注于软件——就像德国软件厂商SAP与IBM的合作一样。

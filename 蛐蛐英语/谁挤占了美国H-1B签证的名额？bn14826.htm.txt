@@ -1,0 +1,44 @@
+Théo Négri, a young software engineer from France, had come up with so many novel ideas at his job at an Internet startup in San Francisco that the American entrepreneur who hired him wanted to keep him on.
+年轻的法国软件工程师泰奥·内格里(Théo Négri)在旧金山一家互联网初创企业工作，由于他总能提出很多新颖想法，他的美国老板希望他能继续在公司工作。
+So he helped Négri apply for a three-year work visa for foreign professionals with college degrees and specialized skills, mainly in technology and science. With his master's degree from a French university and advanced computer abilities, Négri seemed to fit the bill.
+因此，他帮内格里申请了三年工作签证，这是一种针对拥有大学学位及专业技能的外国专业人员——主要是科技领域人员——的签证。在法国的大学获得了硕士学位，并具备高级计算机技能的内格里似乎是符合要求的。
+But his application for the H-1B visa was denied, and he had to leave the United States. Back in France, Négri used his data skills to figure out why.
+但内格里的H-1B签证申请遭到拒绝，他必须离开美国。身在法国的内格里利用自己的数据技能找出了原因。
+The answer was simple: Many of the visas are given out through a lottery, and a small number of giant global outsourcing companies had flooded the system with applications, significantly increasing their chances of success. While he had one application in last year's lottery and lost, one of the outsourcing companies applied for at least 14,000. The companies were squeezing out U.S. employers like his boss.
+答案很简单：很多签证都是抽奖方式获得，几个大型全球外包公司向系统提交大量申请，极大地提高了他们的成功率。他去年提交了一份申请但最终被拒，而其中一家外包公司提交了至少1.4万份申请。这些公司挤掉了像他老板这样的美国雇主。
+“I had this great American dream that got broken,” Négri said, speaking by telephone from Lyon, France.
+内格里在法国里昂接受电话采访时表示，“我有过一个美好的美国梦，现在破灭了。”
+Congress set up the H-1B program to help U.S. companies hire foreigners with exceptional skills, to fill open jobs and to help their businesses grow. But the program has been failing many U.S. employers who cannot get visas for foreigners with the special skills they need.
+国会设立H-1B项目是为了帮助美国公司吸引有杰出技能的外国人，填补空缺职位，协助企业的发展。但当美国雇主遇到具备他们所需特殊技能的外国人时，却经常无法帮这些人获得签证。
+Instead, the outsourcing firms are increasingly dominating the program, federal records show. In recent years, they have obtained many thousands of the visas — which are limited to 85,000 a year — by learning to game the H-1B system without breaking the rules, researchers and lawyers said.
+联邦记录显示，外包公司在该项目中越来越占据优势。研究人员及律师表示，近些年来，这些公司掌握了在不违反规定的情况下操纵H-1B系统的方法，获得了成千上万的签证——每年总共仅发放8.5万张签证。
+In some years, a U.S. employer could snag one of these coveted visas at almost any time of the year. But recently, with the economy picking up, the outsourcing companies have sent in tens of thousands of visa requests right after the application window opens on April 1. Employers who apply after a week are out of luck.
+在某些年份，美国雇主几乎在全年任何时候都可以拿到一张梦寐以求的签证。但最近，随着经济回暖，外包公司在申请窗口于4月1日开启后，发送了数万份签证申请。一周之后开始申请的雇主们就倒霉了。
+“The H-1B program is critical as a way for employers to fill skill gaps and for really talented people to come to the United States,” said Ronil Hira, a professor at Howard University who studies visa programs. “But the outsourcing companies are squeezing out legitimate users of the program,” he said. “The H-1Bs are actually pushing jobs offshore.”
+“H-1B项目是帮助雇主填补技能空白、帮助真正有才能的人来到美国的重要途径，”哈佛大学(Howard University)研究签证项目的教授罗恩·希拉(Ron Hira)说。“但外包公司将该项目的合法用户排挤掉，”他说。“H-1B签证实际上将工作机会推向海外。”
+Those firms have used the visas to bring their employees, mostly from India, for large contracts to take over work at U.S. businesses. And as the share of H-1B visas obtained by outsourcing firms has grown, more Americans say they are being put out of work, or are seeing their jobs moved overseas.
+这些公司利用签证让雇员——大部分来自印度——来参与一些大项目，夺走美国企业的工作。随着外包公司获得越来越多的H-1B签证，更多美国人表示，他们被迫失去工作，或者看到他们的工作流向海外。
+Of the 20 companies that received the most H-1B visas in 2014, 13 were global outsourcing operations, according to an analysis of federal records by Hira. The top 20 companies took nearly 40 percent of the visas available — about 32,000 — while more than 10,000 other employers received far fewer visas each. And about half of the applications in 2014 were rejected entirely because the quota had been met.
+希拉对联邦记录的分析显示，在2014年20个获得最多H-1B签证的公司中，有13个是全球外包公司。前20个公司获得的签证——大约3.2万个——占到总数的40%，而其他一万多个雇主获得的签证要少得多。2014年，完全因为配额已满而遭拒的申请达到将近一半。
+Two of those applications came from Mark Merkelbach and his small engineering firm in Seattle. For water projects in China, he needed engineers and landscapers who speak Mandarin, a combination of skills he could not find in the local market. With his H-1B visas denied, Merkelbach had to move the jobs to Taiwan. Another denial went to Atulya Pandey, an entrepreneur from Nepal who founded an Internet company in the United States and now can no longer work legally in this country for his own business.
+马克·默克尔巴赫(Mark Merkelbach)及其位于西雅图的小工程公司提交的两份申请因此遭拒。为了在中国的水利工程项目，他需要能够讲普通话且具有技能的工程师和园林设计师，但他在当地找不到。由于H-1B签证申请遭拒，默克尔巴赫不得不将工作机会转移到台湾。尼泊尔的创业者阿图利亚·潘迪(Atulya Pandey)在美国创建了一家互联网公司，但他的签证申请也遭拒，导致他再也不能在这个国家为自己的公司合法工作了。
+The top companies receiving H-1B visas in recent years, Hira found, include Tata Consultancy Services, known as TCS, Infosys and Wipro, all outsourcing giants based in India; Cognizant, with headquarters in New Jersey; and Accenture, a global operation incorporated in Ireland.
+希拉发现，最近几年获得签证较多的公司包括位于印度的外包巨头塔塔咨询服务公司（Tata Consultancy Services，简称TCS）、瑟斯(Infosys)、维布络(Wipro)；总部位于新泽西的高知特(Cognizant)；以及爱尔兰的全球外包公司埃森哲(Accenture)。
+Among the immigration visas offered by the United States, the H-1B program stands out for its peculiar rules. The annual quota includes 65,000 visas for foreign workers applying for the first time, while the remaining 20,000 are for foreign students graduating with advanced degrees from U.S. universities. Each year the period for applications opens on April 1, and they are accepted first come, first served.
+在美国提供的移民签证中，H-1B项目以其特有规则脱颖而出。一年的配额包括为首次提交申请的外国工作人员提供的6.5万张签证，剩下的2万张发给在美国大学获得高等学位的外国毕业生。每年4月1日开始申请，遵循先到先受理的原则。
+Federal officials allow only one application for each foreign worker. But there is no limit on the number of visas a single company can seek. A company with thousands of employees can submit many applications. By law, if applications quickly exceed the quota, officials turn to a computer-run lottery to select the visa recipients.
+联邦官员只允许每名外国工作人员提交一份申请。但一家公司可以获得的签证数没有限制。拥有数千名员工的公司可以提交很多申请。根据法律规定，如果申请数量很快超过限额，官员们会通过电脑抽奖系统抽选签证获得者。
+Recently, demand for the visas has soared; each year since 2013 the selection went to the lottery. This year, 233,000 applications were received in just seven days, and about two-thirds were denied because the quota was already met.
+最近，签证的需求量猛增，自2013年以来，每年都是通过抽奖方式进行抽选。今年，在七天内收到了23.3万份申请，其中三分之二的申请因为配额已满而遭到拒绝。
+Immigration officials do not acknowledge the outsourcing companies' advantage. “The selection process is completely random,” said Shinichi Inouye, a spokesman for U.S. Citizenship and Immigration Services, the federal agency in charge of the visa program. “We cannot speculate as to why one company has more petitions selected in the cap.”
+移民官员不承认外包公司存在优势。“抽选过程完全是随机的，”美国公民及移民服务局(US Citizenship and Immigration Services)发言人井上信一（Shinichi Inouye，音）说。“我们无法推测为何有些公司会有较多申请被选中。”
+But Négri, who is now 27, wanted to understand it. He had been hired by David Petersen through an open job search after he posted his professional profile online. Petersen was looking for engineers to expand his startup, BuildZoom, which helps people find construction contractors.
+但27岁的内格里希望弄清楚这个问题。他在网上发布职业简介公开求职，被戴维·彼得森(David Petersen)聘用。彼得森正在寻找工程师，以扩大他的初创公司BuildZoom的规模，该公司帮助人们寻找建筑承包商。
+“I was just looking for great people,” said Petersen, in San Francisco. “And Théo had been building cool stuff since he was a 13-year-old.” Petersen said he hired several other local tech workers at the same time, and Négri, rather than displacing Americans, later brought in more.
+“我刚好在搜寻人才，”彼得森在旧金山说。“泰奥从13岁就开始做一些很酷的东西。”彼得森表示，他同时也雇佣了几名当地技术工作人员，内格里后来并没有取代美国人，反倒给美国人创造了更多工作机会。
+Then his visa was denied. So Négri combed through public documents that employers file with the Department of Labor as a first step in an H-1B application. For the limited quota of visas, Négri discovered, the outsourcing companies had submitted far more applications than a small company like BuildZoom could manage or afford — each application costs up to $4,000.
+然后他的签证申请遭拒。内格里仔细查阅了雇主们向劳工部提交的公开文件——申请H-1B签证的第一步，发现由于签证数量有限，外包公司提交的数量远非BuildZoom等小公司能够处理或负担——每份申请需要花费4000美元。
+Together the top five outsourcing companies had prepared as many as 55,000 H-1B applications. TCS, the company that had prepared applications for at least 14,000 visas, won 5,650 of them.
+前五名外包公司总共准备了多达5.5万份H-1B签证申请。TCS至少准备了1.4万份申请，其中5650份获得通过。
+Négri is now working on a tech startup of his own — in France.
+内格里目前在法国开办自己的科技初创公司。

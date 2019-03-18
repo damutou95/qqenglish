@@ -1,0 +1,44 @@
+A little over a decade ago, scientists discovered that narcolepsy, the neurological disorder that leads to episodes of irresistible sleepiness, is caused by the loss of brain cells that produce hypocretin, a neurotransmitter that promotes wakefulness.
+发作性睡病是一种神经系统疾病，它可导致无法抗拒的嗜睡发作。在十多年以前，科学家们发现，该疾病是由于可产生下丘脑泌素（一种可促进觉醒的神经递质）的脑细胞出现损失而造成。
+But the discovery did not shed light on two other mysterious problems associated with the disorder. Narcoleptics have profoundly high rates of depression — up to six times the rate in the general population — and they have a tendency to collapse when swept by some emotions, a phenomenon known as cataplexy.
+但这一研究结果并没能揭示与该疾病相关的另外两个神秘的问题。在发作性睡病患者中，抑郁症的患病率极高，可达一般人群中的六倍。而且，他们在强烈的感情冲击下很容易发生虚脱，这种现象称为猝倒症。
+Now research shows that in addition to regulating sleep, hypocretin also appears to govern emotion, particularly experiences of joy and happiness.
+现在，研究表明，除了调节睡眠之外，下丘脑泌素也可支配情感，尤其是关于喜悦和幸福感的体验。
+The study has implications that extend beyond narcolepsy. It suggests that the brain has several different arousal systems, and that one of them, driven by hypocretin, has the specific function of keeping people awake for pleasure.
+这一研究的意义并不仅限于发作性睡病本身。它表明，脑部存在若干不同的觉醒系统，且其中一个系统由下丘脑泌素所驱动，具有使人们在快乐的情绪下保持清醒的特定功能。
+It also raises concerns that drugs that block hypocretin could potentially cause depression and other unexpected side effects. One such medication, a sleeping pill from Merck called suvorexant that works by blocking hypocretin, essentially causing narcolepsy for a night, is awaiting government approval.
+该研究也引起了人们对可阻断下丘脑泌素的药物的关注，因为基于上述研究结果，这些药物有可能导致抑郁症和其他非预期的副作用。默克公司(Merck)的名为Suvorexant的安眠药就是这样一种药物，它通过阻断下丘脑泌素而发挥作用，实质上就是引发服药者在当夜发生嗜睡。目前该药物正在等待政府的批准。
+The new research, published this month in the journal Nature Communications, involved a small group of patients with epilepsy who had special electrodes implanted in their brains that could directly monitor seizure activity and hypocretin levels around the clock.
+这项新研究发表于3月的《自然：通讯》(Nature Communications)杂志。研究所涉及的一小群癫痫患者的脑部植入特殊的电极，可以时时刻刻地直接监测癫痫发作活动和下丘脑泌素的水平。
+“Apart from their seizure disorder, these patients were normal,” said Dr. Jerome Siegel of the V.A. greater Los Angeles Healthcare System, the study leader and a psychiatry professor at U.C.L.A. “They’re watching TV, they’re talking to their relatives, walking around the hospital, going to the bathroom. They’re not mentally handicapped in any way, and we are observing them with video and periodically asking them to complete forms indicating how they feel – whether they’re happy or sad, hungry or thirsty, in pain or not.”
+“除了癫痫症之外，这些患者表现正常，”美国退伍军人事务部洛杉矶医疗保健系统的科学家、加州大学洛杉矶分校(U.C.L.A)的精神病学教授及该研究的领导者杰尔姆·西格尔(Jerome Siegel)博士指出，“他们也会看电视，与亲属交谈，在医院周围散步，去卫生间等等。无论从任何角度来看，他们均无智力缺陷。目前，我们正通过视频影像对他们进行观察，并定期要求他们填写一些关于自我感觉（如高兴还是悲伤、饥饿或口渴、是否感到疼痛等）的表格。”
+Dr. Siegel, along with graduate student Ashley Blouin and their colleagues, expected to find that the ebb and flow of hypocretin mirrored the sleep cycle, rising in the morning and falling at night.
+西格尔博士与他的研究生阿什利·布劳因(Ashley Blouin)及他们的同事预期，下丘脑泌素的消长模式与睡眠周期相似，即在早晨水平上升而在夜间下降。
+“But what we found was more complex,” Dr. Siegel said. “The maximal release of hypocretin was not really related to arousal in the usual way. It happened during waking for sure, but the maximal release was simply when people reported they were happy.”
+“但我们的发现更为复杂，”西格尔博士表示，“下丘脑泌素的最大释放并没有以常规方式与觉醒相关联。虽然它的确发生在觉醒期间，但只有在人们报告自己很快乐的时候，才会产生最大释放。”
+The findings showed that hypocretin levels surged when the patients experienced joy and pleasure – while watching a favorite team win a baseball game, for example, or spending time with family. But when they experienced pain from their surgical implant, or anxiety about their medical situation, their levels of hypocretin fell.
+研究结果显示，当患者感到喜悦和欢乐时，例如观看自己喜欢的球队赢得棒球比赛或者与家人相处时，下丘脑泌素水平就会激增；反之，当他们因手术植入物而感到疼痛，或对自己的健康状况感到焦虑时，下丘脑泌素水平就会下降。
+Dr. Siegel has shown in animal studies that hypocretin is associated with reward-seeking behavior. Release a dog into a yard to run, dig and play, and its hypocretin levels soar. But force the same dog to run on a treadmill, and its hypocretin levels remain flat. Similarly, hypocretin levels fall when mice are forced to press a bar to escape an unpleasant shock, but spike when the same animals press a bar to obtain food.
+西格尔博士现已通过动物实验证明，下丘脑泌素与追求奖赏的行为相关。如果任由一只狗在院子里自由地奔跑、挖土和玩耍，它的下丘脑泌素水平会出现飙升。但如果强迫同一只狗在跑步机上奔跑，它的下丘脑泌素水平则会保持稳定。同样，当小鼠被迫要依靠按下某一操纵杆来避免不适的电击时，它的下丘脑泌素水平会有所下降；而当该动物可凭借按下某一操纵杆来获得食物时，它的下丘脑泌素水平则会猛然上升。
+“This shows that hypocretin is related to a particular kind of arousal,” said Dr. Siegel. “There is an arousal system in the brain whose function is keeping you awake for pleasure, to get rewards. It is related to positive affect, and in its absence you have a deficit in pleasure seeking.”
+“这表明，下丘脑泌素与某种特定的觉醒有关，”西格尔博士说，“在脑部，存在着这么一套觉醒系统，它的功能是使你在快乐或力争获得奖赏时保持清醒。该系统与积极情感有关，如果没有它，你就会对追求享乐缺乏兴趣。”
+In narcoleptics, cataplexy is most frequently caused by sudden joy. It is not uncommon to see someone with narcolepsy abruptly lose all muscle tone and collapse when laughing.
+在发作性睡病患者中，突如其来的喜悦是引起猝倒症的最常见原因。此类患者在开怀大笑时突然虚脱并丧失所有肌肉张力的情况并不罕见。
+But in some ways, we can all relate.
+但从某种程度上说，这与我们都密切相关。
+“In almost every culture there’s an expression equivalent to falling down with laughter,” Dr. Siegel said. “Normal individuals don’t actually fall down. They may brace themselves or sit down. But narcoleptics will feel weak and unable to speak. In some instances they’ll fall down and won’t be able to get up for a few minutes.”
+“几乎每一种文化中都存在‘笑倒’之类的说法，”西格尔博士说，“普通人能够把持住自己或者坐下来，所以不会真的一头栽倒。但发作性睡病患者会感觉虚弱，说不出话。有时候他们会跌倒，而且在数分钟内都无力重新站起来。”
+In most people, laughter causes a surge of hypocretin, which maintains muscle tone. But in narcoleptics, the hormone is largely absent, and the system goes haywire.
+在大多数人中，大笑可导致下丘脑泌素激增，从而维持肌肉张力。但发作性睡病患者匮乏该激素，于是这一觉醒系统就陷入了紊乱。
+In narcoleptics, the loss of this pleasure-seeking hormone has severe effects on mood. Narcoleptics are prone to depression, and they have a strange resistance to addiction. Some of the medications used to treat narcolepsy are notoriously addictive, like amphetamines and GHB, the so-called date-rape drug. Yet narcoleptics generally do not abuse them.
+在发作性睡病患者中，这种可促进人们追求愉悦的激素发生缺失，对情绪造成了严重影响。他们更容易患抑郁症，而且对成瘾还具有奇特的耐受性。某些用于治疗发作性睡病的药物，如苯丙胺类（安非他明）和GHB（即所谓的“约会迷奸药”）都以容易致瘾而闻名。然而发作性睡病患者通常并不会滥用这些药物。
+“They’re missing this working-for-pleasure system,” Dr. Siegel said. “When hypocretin is missing, you have a deficit in getting addicted and a deficiency in getting interested in things — that’s what depression is.”
+“由于缺乏这种系统，他们不会致力于追求享乐，”西格尔博士说，“当缺乏下丘脑泌素时，你不会去迷恋什么东西，甚至对所有事情都不感兴趣——这些都是抑郁症的表现。”
+So, could a sleep aid like suvorexant, which reduces hypocretin, lead to depression in a healthy person? In clinical trials involving thousands of patients, the drug helped people with insomnia fall asleep faster and stay asleep longer than placebo. And there were no signs that it induced depression or caused falls resembling cataplexy, said Dr. Darryle Schoepp, senior vice president at Merck.
+那么，像Suvorexant之类可降低下丘脑泌素水平的助眠药是否会导致健康人发生抑郁症？默克公司高级副总裁达里尔·舍普(Darryle Schoepp)博士表示，在涉及上千患者的临床试验中，与安慰剂相比，该药物可帮助失眠者尽快入睡，并可维持较长的睡眠时间。且目前尚无任何迹象表明它会引起抑郁症或造成类似于猝倒症的跌倒。
+“We had to measure psychiatric mood, including depression,” he said, “and we didn’t see anything worrisome there.”
+“我们必须对患者的抑郁情况等精神和情绪加以监测，”他说，“目前还没有发现任何令人担忧的情况。”
+But Dr. Siegel said it is too soon to say that tinkering with hypocretin will not create unwanted consequences.
+但西格尔博士指出，要断言操控下丘脑泌素水平不会导致不良后果，现在还为时尚早。
+“The initial reports are rosy,” he said. “But they come from a drug company with an enormous investment. And there is a long list of drugs acting on the brain whose severe problems were only identified after millions of people were taking them.”
+“初步报告十分乐观，”他说，“只是，它们出自一家对此投资巨大的制药公司。而且，有很多作用于脑部的药物所存在的严重问题是直到数以百万计的患者服用后人们才得以发现的。”

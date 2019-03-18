@@ -1,0 +1,48 @@
+Factories play a central role in President Trump’s parade of American horrors. In his telling, globalization has left our factories “shuttered,” “rusted-out” and “scattered like tombstones across the landscape of our nation.”
+工厂在特朗普总统的一系列美国恐怖经历中占核心地位。用他的话来说，全球化导致我们的工厂“关闭”、“锈坏”，“像墓碑那样散落在我国各地”。
+Here’s what you might call an alternative fact: American factories still make a lot of stuff. In 2016, the United States hit a manufacturing record, producing more goods than ever. But you don’t hear much gloating about this because manufacturers made all this stuff without a lot of people. Thanks to automation, we now make 85 percent more goods than we did in 1987, but with only two-thirds the number of workers.
+不过，这是你也许可以叫可选事实的情况：美国工厂仍然制造了很多东西。2016年，美国制造业创了一个记录，生产了比以往任何时候都多的东西。但你没有听到很多关于这个记录的沾沾自喜，因为制造商没有用很多人就生产出了所有这些东西。由于自动化，我们现在制造的产品数量比我们在1987年制造的增长了85%，但所用的工人数只有1987年的三分之二。
+This suggests that while Mr. Trump can browbeat manufacturers into staying in America, he can’t force them to hire many people. Instead, companies will most likely invest in lots and lots of robots.
+这表明，虽然特朗普可以威逼制造商留在美国，但他不能强迫它们雇用很多的人。相反，企业很可能将投资大量的机器人。
+And there’s another wrinkle to this story: The robots won’t be made in America. They might be made in China.
+这个故事还有一个曲折：机器人将不是美国制造。它们也许是中国制造。
+Industrial robots — which come in many shapes and perform a range of factory jobs, from huge, precisely controlled arms used to build cars to graceful machines that package delicate pastries — were invented in the United States. But in the last few years the Chinese government has spent billions to turn China into the world’s robotic wonderland.
+形状各异的工业机器人在完成着一系列的工厂工作，从用来装配汽车的精确控制的巨大机械臂，到包装精美糕点的小巧玲珑机器，它们都是美国发明的。但在过去几年里，中国政府已经投资了数十亿美元，要把中国变成世界的机器人仙境。
+In 2013, China became the world’s largest market for industrial robots, according to the International Federation of Robotics, an industry trade group. Now China is working on another big goal: to become the largest producer of robots used for factories, agriculture and a range of other applications.
+根据行业贸易组织国际机器人联合会(International Federation of Robotics)的数字，中国在2013年已成为世界上最大的工业机器人市场。如今，中国正朝着另一个大目标努力：成为用于工业、农业和一系列其他应用的机器人的最大生产商。
+Robotics industry experts said that goal could be a decade away, but they see few impediments to China’s eventual dominance.
+机器人行业的专家说，这个目标可能还需要十年的时间，但他们几乎看不到能阻碍中国最终主导地位的东西。
+“If you look at the comparisons in investment between China and the U.S., we’re going to lose,” said Henrik Christensen, director of the Contextual Robotics Institute at the University of California, San Diego. “The investments in China are billions and billions. I’m not seeing that investment in the U.S. And without that investment, we are going to lose. No doubt.”
+加州大学圣地亚哥分校与环境相关的机器人技术研究所(Contextual Robotics Institute )主任亨里克·克里斯坦森(Henrik Christensen)说，“如果你比较一下中国和美国在这方面的投资的话，你会看到我们一定输。中国的投资是以数十亿计的。我没有看到美国有这种规模的投资。没有这种投资，我们就将失败。毫无疑问。”
+There’s a way to address this problem, but it’s politically perilous: The United States should invest in robots. Mark Cuban, the internet and sports entrepreneur (and Trump nemesis), recently called on the president to offer $100 billion in funding for robotics. Frank Tobe, the publisher and editor of a trade magazine called The Robot Report, said government investment was imperative.
+有一个解决这个问题的办法，但它具有政治危险：那就是美国应该投资机器人。从事互联网和体育行业的企业家（也是特朗普的主要敌人）马克·库班(Mark Cuban)最近呼吁总统，为机器人技术提供1000亿美元的资金。行业杂志《机器人报告》(The Robot Report)的出版人兼主编弗兰克•托比(Frank Tobe)表示，政府投资是当务之急。
+“We better do something, or we’re going to be behind the gun,” he said. “We should be in the robot business, not just users of foreign robots.”
+“我们最好做点什么，不然的话我们就落后了，”他说。“我们应该进入机器人行业，而不仅仅是外国机器人的使用者。”
+If we don’t, robot scholars said the president’s plans for a resurgence in manufacturing could backfire. Today, we buy a lot of stuff made in China by Chinese people. Tomorrow, we’ll buy stuff made in America — by Chinese robots.
+如果我们不这么做，研究机器人技术的学者说，总统的制造业复苏计划可能会适得其反。今天，我们买很多中国人在中国制造的东西。明天，我们将买美国制造的东西，但那是中国机器人制造的。
+How China learned to love robots is instructive. For years, China’s chief selling point was cheap labor. But over the last couple of decades, its population has gotten older and richer, and its workers’ wages rose faster than the rate of economic growth. Chinese leaders worried that manufacturers would get priced out. In the same way that America lost manufacturing to China, Chinese manufacturers would lose work to India, Vietnam and other developing Asian economies.
+中国是怎么学会爱机器人的对我们有启发性。多年来，中国的主要卖点是廉价劳动力。但在过去几十年里，中国的人口变老了，也变得更富裕了，中国工人的工资增长速度高于中国经济增长速度。中国领导人担心，制造商会被高工资赶走。就像美国制造商的活儿被中国拿走那样，中国制造商的活儿将被印度、越南和其他亚洲的发展中经济体拿走。
+So the Chinese did what the Chinese do: They centrally planned a revival. Over a succession of five-year economic plans, the government pushed a series of manufacturing reforms. One of its central ideas is automation. Local governments have offered billions in subsidies for companies to buy and manufacture robots. The government has been especially interested in building robots that can be installed in China’s car factories, which have been criticized for poor workmanship. Cars built by robots would not just save labor costs; the government also believes they can build better cars. In 2014, Xi Jinping, China’s president, called for a “robot revolution.”
+所以中国人干了中国人做的事儿：他们在中央层次设计了一个复兴。在接连几个五年经济计划中，政府推出了一系列的制造行业改革。其中心思想之一就是自动化。地方政府为企业购买和制造机器人提供了数十亿的补贴。政府一直特别感兴趣的是可以用于中国汽车厂的机器人，人们一直批评中国汽车厂的制造质量。用机器人来制造汽车，不仅能节省人工成本，政府还认为，它们能制造出更好的汽车来。2014年，中国国家主席习近平曾呼吁掀起一场“机器人革命”。
+Like other centrally planned initiatives, China’s robotics initiatives have not proceeded without trouble. There have been overinvestment and waste, and many Chinese robotics companies aren’t making very good robots.
+像其他中央设计的方案一样，中国机器人计划的实施并非没有遇到麻烦。它出现了过度投资和浪费的问题，而且许多中国机器人企业并没有制造出非常好的机器人。
+“Many are low quality, and safety and design standards are really not good,” said Dieter Ernst, a senior fellow at the East-West Center, an organization that aims to improve Asian-American relations. “There are supposedly a bit more than 100 Chinese robot companies. I would say about 50 of these companies may survive.”
+“许多机器人的质量很差，安全和设计标准真的很糟，”东西方中心(East-West Center)的高级研究员迪埃特尔·恩斯特(Dieter Ernst)说，该中心是一个旨在改善亚美关系的组织。“据说中国有100多家机器人制造商。我认为，这些企业中大约有50家也许能活下去。”
+But the Chinese government and its companies are persistent. Mr. Ernst expects slow, steady gains in the Chinese robotics industry. And in five to 10 years, he predicts, China’s robot business will be producing industrial robots that are on par with those from Germany and Japan.
+但中国政府和中国的公司仍在坚持着。恩斯特预计中国机器人行业会有缓慢、稳定的增长。他预计，在未来5到10年内，中国的机器人行业将生产出与德国和日本相当的工业机器人。
+Pushing a robotics revival in the United States would be more difficult than in China.
+在美国推动机器人技术的复兴将比在中国更困难。
+“There is not a public conversation in China about the pluses and minuses of automation,” said Scott Kennedy, a China scholar at the Center for Strategic and International Studies. “They don’t talk about the losers in society from globalization or potential automation.”
+在战略与国际研究中心研究中国的学者斯科特·肯尼迪(Scott Kennedy)说，“中国没有对自动化的优缺点进行的公开讨论。他们不谈论全球化或可能的自动化所带来的社会上的失败者。”
+In the United States, on the other hand, losing is all we seem to talk about. Mr. Trump rose to power in part because he crystallized a feeling among voters that we have lost our edge to China. He promised to bring jobs back to America. In a hot-take political climate that can’t stomach nuance, an investment in robots would be seen as a betrayal of the manufacturing workers he promised to save.
+而在美国，似乎我们讨论的都是输。特朗普上台的部分原因是，他凝聚了选民中的一种感觉，那就是我们相对中国已经失去了优势。他承诺把就业带回美国。在一个大放厥词、不能容纳细微的政治气候下，对机器人的投资将会被视为对他挽救制造业工人承诺的背叛。
+But that would be a mistake. Mr. Christensen of the University of California, San Diego, pointed out that even the most automated of factories still employ people. To the extent that an investment in robotics might make it easier for companies to build their factories in the United States rather than in China, it might well create new jobs in the United States.
+然而，那会是一个错误。加利福尼亚大学圣地亚哥分校的克里斯坦森指出，即使是最自动化的工厂仍然要雇人。在一定程度上，对机器人技术的投资可能会让公司更容易在美国而不是在中国建立工厂，所以，对机器人的投资很可能会在美国创造新的就业机会。
+What’s more, America enjoys many advantages in robotics that China lacks. Some of the world’s leading roboticists work at American universities. The United States has a start-up culture that knows how to create big new companies. And America has a head start in the most advanced robotics technologies. For instance, American companies are the leading purveyors of surgical robots, and they are at the forefront of “collaborative robotics,” in which robots can work side by side with humans.
+此外，美国在机器人技术方面拥有的很多优势是中国所没有的。美国大学里有一批世界一流的机器人专家。美国拥有一种知道如何创建新的大公司的创业文化。在最先进的机器人技术方面，美国处于领先地位。例如，美国公司是手术机器人的主要供应者，在“协作机器人”领域也处于前沿地带，这种机器人可以与人联手工作。
+“All of this robotics technology was invented in the U.S., but we basically let other companies take it from us and make it cheaper, and now we’re buying it from them,” Mr. Christensen said. “In some sense, we’re not being very good at making sure we remain competitive in areas that we’re leading.”
+克里斯坦森说：“所有这些机器人技术都是在美国发明的，但我们基本上开放给其他公司，让他们降低它的成本，现在我们从他们那里购买它。从某种意义上说，我们不是很擅长守护我们在领先领域的竞争力。”
+And that’s how huge government funding can help, the robot experts said. As in China, an infusion from Mr. Trump could turn some of the most far-out ideas in robotics into a structural advantage for the American economy.
+机器人专家说，这就是大量政府资金的用武之地。和中国一样，特朗普的支持可以把机器人技术中最具独创性的想法转变为美国经济中的一个结构性优势。
+“What we can learn from the Chinese example is that the government plays a nurturing and fostering role for developing the robotics industry,” Mr. Ernst said. “We can do the same. We must do the same.”
+“我们可以从中国的例子中学到的是，政府在发展机器人产业方面发挥着培育和促进作用，”恩斯特说。“我们也可以这样做。而且我们必须这样做。

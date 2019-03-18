@@ -1,0 +1,54 @@
+The United States stock market showed again on Thursday that it remained vulnerable to technological breakdowns even as regulators and market operators work to keep up with trading that is increasingly electronic and driven by speed.
+周四，美国股市再次表明，在技术故障面前它依然脆弱不堪，尽管股市监管者和操作人员都在努力跟上日益电子化、日益受速度驱动的交易。
+The latest trouble shut down trading on the Nasdaq market and its more than 3,000 stocks — including some of the most popular among investors, like Apple and Google — for more than three hours Thursday afternoon.
+最新的这起故障发生在周四下午，延续了三个多小时，故障导致纳斯达克(Nasdaq)市场交易中断，使市场内的3000多只股票停盘，其中包括苹果(Apple)和谷歌(Google)等在投资者中最具人气的股票。
+The disruption on the nation’s second-largest stock market, after the New York Stock Exchange, reverberated up and down Wall Street, affecting other markets as investors cautiously stepped back. Brokers scrambling to trade elsewhere discovered that they could not complete trades while in the dark about prices on Nasdaq.
+仅次于纽约证券交易所(New York Stock Exchange)的美国第二大股市陷入混乱，这在华尔街引发了巨大的震荡，并且波及其他市场，致使投资者纷纷小心翼翼地往后退。赶着去别处交易的经纪人发现，在对纳斯达克的股票价格两眼一抹黑的情况下，他们无法完成交易。
+“It is everybody — nobody can trade,” Manoj Narang, the chief executive of Tradeworx, said during the afternoon. “I’ve never seen anything like this.”
+Tradeworx的首席执行官马诺耶·纳兰(Manoj Narang)在当天下午说，“所有人都一样，没人能进行交易。我从来没见过这样的情形。”
+Some expressed relief that the problems came in August, typically a slow time for Wall Street.
+一些人对问题在8月出现表示宽慰，因为这通常是华尔街的淡季。
+“We didn’t lose any money on the shutdown, but we also made very little money today,” said the chief executive of one Wall Street firm, who asked not to be named.
+华尔街一家公司的首席执行官说，“闭市时，我们没有赔钱，不过我们今天也没挣到什么钱。”这位首席执行官要求匿名。
+Nasdaq officials said the halt was prompted by a problem with the data system that disseminates prices and that its cause had been “identified and addressed.”
+纳斯达克的管理人员说，交易中断的原因是发送价格的数据系统出现了问题，故障起因已经得到“甄别及处理”。
+The breakdown came just two days after Goldman Sachs accidentally sent out a barrage of errant trades that disrupted the exchanges where options are bought and sold. The two episodes have amplified questions about the reliability and integrity of financial markets that companies depend on to raise money and Americans trust with their retirement savings.
+故障发生两天前，高盛投资公司(Goldman Sachs)在无意中推出了接二连三的错误交易，这些交易干扰了买卖期权的交易所。这两起事件放大了外界对金融市场可靠性和规范性的质疑，这些市场是企业赖以筹集资金的场所，也是美国人托付退休存款的场所。
+More than a year ago, the eagerly awaited market debut of Facebook shares was marred by a delay and technical problems. In May 2010, computer malfunctions were blamed for the “flash crash” when a flurry of stocks plunged to $1 or less and the Dow Jones industrial average plummeted more than 700 points in a matter of minutes.
+一年多前，众人迫切期待的Facebook股票首发受到了延迟上市和技术问题的困扰。在2010年5月，电脑故障成了“闪电崩盘”事件的罪魁祸首，当时，短短几分钟之内，大量股票的价格就跌到了不足1美元（约合6.12元人民币），道琼斯工业平均指数(Dow Jones industrial average)也猛跌了700多点。
+While regulators and market participants have taken several steps to strengthen their systems, the problems this week suggest that the flaws in the markets have not been repaired, and may actually be getting worse.
+尽管监管者和市场参与者已经采取了几个步骤来强化系统，本周的问题依然表明，市场的缺陷尚未修复，实际上还可能日趋严重。
+“You have a very Rube Goldberg system,” said Gene Noser, co-founder of the brokerage firm Abel/Noser. “We’ve just put patches on it without attacking the basic problems.”
+经纪公司Abel/Noser的共同创始人赫内·诺瑟(Gene Noser)说，“我们有一个复杂得过了头的机制。我们只知道给它打补丁，却不知道解决根本的问题。”
+The persistence of technical flaws — each seemingly coming from a different part of the system — has been blamed on the complexity of the trading technology and the fragmentation of the market itself. In contrast to the days when the New York Stock Exchange competed only with the Nasdaq, today there are 13 public exchanges competing in a fast-changing and low-margin business.
+每个技术缺陷似乎都来自于股市机制的不同部分，它们的持续存在被归咎于交易技术的复杂性和股市本身的零散状态。今天有13家公共交易所在一个快速变化的低利润商业领域相互竞争，这和纽约证交所与纳斯达克两雄相争的日子形成了鲜明的对比。
+The frustrations over the breakdowns represent an immediate challenge for the regulatory agency that oversees the stock markets, the Securities and Exchange Commission, and its new chairwoman, Mary Jo White.
+面对故障的束手无策表明，股市监管机构美国证券交易委员会(Securities and Exchange Commission)和委员会新任女主席玛丽·乔·怀特(Mary Jo White)均面临着迫切的挑战。
+Thursday evening, Ms. White said in a statement that the paralysis at the Nasdaq was “serious and should reinforce our collective commitment to addressing technological vulnerabilities of exchanges and other market participants.”
+周四晚间，怀特在一份声明中说，纳斯达克陷入瘫痪是“严重的问题，有鉴于此，我们应该强化我们的共同承诺，修正交易所和其他市场参与者的技术弱点。”
+Many industry participants said it would take time to quantify the losses from the incident. For banks, the unexpected inability to trade particular stocks disrupted complicated trading strategies that rely on being able to buy and sell quickly in several markets at the same time.
+很多业内人士都表示，这个事件造成的损失需要一些时间才能量化。对于银行来说，无法交易特定股票的意外状况打乱了它们的一些交易策略，这些复杂的策略有赖于同时在几个市场迅速买卖的能力。
+Broker dealers lost the revenue from the trading that should have been occurring. The volume of trading in stocks listed on the Nasdaq exchange fell 34 percent, or $16 billion, from where it had been the previous day.
+由于本该发生的交易没有发生，交易经纪人的收入蒙受了损失。纳斯达克交易所的股票交易量较前一日减少了34%，即160亿美元。
+Nasdaq was already facing skepticism in the industry over its handling of the Facebook initial public offering, which was botched because of a flaw in a different part of Nasdaq’s computer systems.
+纳斯达克此前已经遭到了同行的一些质疑，因为它在处理Facebook的首次公开募股时出现了一些问题，问题的由头是它计算机系统的另一个部分存在缺陷。
+The market operator paid a $10 million fine for its mishandling of the initial public offering, but a number of banks felt they were never fairly compensated for the losses they suffered as a result of the market operator’s error.
+对Facebook的首次公开募股处理失当，导致纳斯达克被罚款1000万美元，但很多银行认为，它们因纳斯达克的错误蒙受的损失始终没有得到公平地补偿。
+A number of industry participants were also unhappy with the way that Nasdaq executives, including the chief executive, Robert Greifeld, withdrew from the public eye immediately after the problem, providing few explanations of what happened.
+大量业内人士感到不满的另一个方面在于，问题出现之后，包括首席执行官罗伯特·格雷费尔德(Robert Greifeld)在内的纳斯达克高管层立即从大家的视线中消失，几乎没有对事情进行解释。
+Arthur Levitt, the former chairman of the Securities and Exchange Commission, said that Nasdaq was making the same mistakes after Thursday’s trading halt, when Mr. Greifeld and other Nasdaq executives again refrained from publicly commenting on the mishap.
+证券交易委员会前主席阿瑟·莱维特(Arthur Levitt)说，纳斯达克本周四暂停交易后，同样的错误再次出现：格雷费尔德和其他纳斯达克高管再次躲了起来，没有公开谈论这次事故。
+“The worst part of all of this is the lack of disclosure — the lack of transparency,” Mr. Levitt said. “This is inexcusable.”
+“整个事件中最糟糕的地方就是他们不披露信息，缺乏透明度。”莱维特说。“这一点不可原谅。”
+Under normal conditions, if an exchange has problems, traders can direct their orders to other public exchanges. But because the problems involved the data feed from which prices are derived, all exchanges stopped trading Nasdaq stocks on Thursday.
+在正常情况下，如果某个交易所出现问题，交易者可以把交易单转到其他公共证交所去交易。但是，由于本周四的问题涉及发布价格的数据流，所有证交所当天都停止交易纳斯达克的股票。
+During the halt, trading firms across Wall Street struggled to determine what to do with orders for Nasdaq-listed stocks.
+交易停止期间，华尔街的各家交易公司都在绞尽脑汁地想，该拿纳斯达克股票的交易单怎么办。
+“There is no transparency for investors at this point,” said David Warhoftig, managing director of Highside Capital Management, during the halt. “We were able to potentially get a few trades done when this first started, but now we are not able to do anything.”
+“对于投资者来说，眼下完全没有信息透明度。”交易停止期间，Highside资本管理公司的董事总经理大卫·沃夫提格(David Warhoftig)说。“这种情况刚出现时，我们还有机会完成几笔交易，现在呢，我们什么事情都做不了。”
+Soon after the problems began, Nasdaq executives joined an open phone call with other exchanges and regulators in which they talked through the problems. Mr. Greifeld spoke separately on the phone with Ms. White, the S.E.C. chief.
+问题出现后不久，纳斯达克的高管们跟其他交易所和监管机构召开了一个公开电话会议，详细讨论了这个问题。格雷费尔德还跟证交会主席怀特单独通了电话。
+But traders complained that Nasdaq provided few details on what had happened and how the problems would be resolved.
+但交易员们抱怨说，对于究竟发生了什么事，问题将如何解决，纳斯达克几乎没有提供细节。
+Jonathan Corpina, a stock trader at Meridian Equity Partners on the floor of the New York Stock Exchange, said that he had many clients calling him “looking for answers and explanations because they can’t get through to the Nasdaq on the phone.”
+乔纳森·柯皮纳(Jonathan Corpina)是Meridian股权合伙公司驻纽约证交所大厅的一名股票交易员，他说，许多客户打来了电话，向他“寻求答案和解释，因为他们打不通纳斯达克的电话”。

@@ -1,0 +1,64 @@
+MOHAVE NATIONAL PRESERVE, Calif. — J. Craig Venter, the maverick scientist, is looking for a new world to conquer — Mars. He wants to detect life on Mars and bring it to Earth using a device called a digital biological converter, or biological teleporter.
+加州莫哈维国家保护区——特立独行的科学家J·克雷格·文特尔(J. Craig Venter)正在寻找一个需要征服的新世界——火星。他想探测火星上的生命，并用一种设备把它带到地球上来，一个被称为数字生物转换器的东西，或叫生物远程传送器。
+Although the idea conjures up “Star Trek,” the analogy is not exact. The transporter on that program actually moves Captain Kirk from one location to another. Dr. Venter’s machine would merely create a copy of an organism from a distant location — more like a biological fax machine.
+虽然这个设想让人联想到《星际旅行》(Star Trek)，但这个比喻并不恰当。《星际旅行》中的传送器是把柯克船长(Captain Kirk)从一个地方实际地送到另一个地方。而文特尔的机器只能把一个生物体远距离地复制出来，更像是一台生物传真机。
+Still, Dr. Venter, known for his early sequencing of the human genome and for his bold proclamations, predicts the biological converter will be his next innovation and will be useful on Earth well before it could ever be deployed on the red planet.
+尽管如此，文特尔预言他的数字生物转换器将成为自己的下一个创新，而且早在这个仪器能在那个红色行星派上用场之前，它就会在地球上大有作为，文特尔以最早测序人类基因组以及他的大胆宣告而闻名。
+The idea behind it, not original to him, is that the genetic code that governs life can be stored in a computer and transmitted just like any other information.
+这背后的想法并非他的原创，那就是支配生命的遗传密码可以存储在计算机中，并能像其他任何信息一样传输。
+Dr. Venter’s system would determine the sequence of the DNA units in an organism’s genome and transmit that information electronically. At the distant location, the genome would be synthesized — or chemically recreated — inserted into what amounts to a blank cell, and “booted up,” as Mr. Venter puts it. In other words, the inserted DNA would take command of the cell and recreate a copy of the original organism.
+文特尔的系统将能够确定一个生物体基因组中DNA单元的序列，并将序列的信息用电子的方式传输。在接收传输的远端，用人工合成该基因组，或者说用化学方法把其重新创造出来，然后把合成的基因组插入一个相当于空细胞的东西中，将其“启动”，用文特尔的话来说。换句话说，插入的DNA能够控制细胞，从而把基因组原来呆的那个生物体复制出来。
+To test some ideas, he and a small team of scientists from his company and from NASA spent the weekend here in the Mojave Desert, the closest stand-in they could find for the dry surface of Mars.
+为了试验这些想法，他和来自自己公司以及来自美国航天局(NASA)的一个小组，在莫哈维沙漠一起度过了上个周末，这里是他们能找到的、最接近火星干燥表面的地方。
+The biological fax is not as far-fetched as it seems. DNA sequencing and DNA synthesis are rapidly becoming faster and cheaper. For now, however, synthesizing an organism’s entire genome is still generally too difficult. So the system will first be used to remotely clone individual genes, or perhaps viruses. Single-celled organisms like bacteria might come later. More complex creatures, earthly or Martian, will probably never be possible.
+生物传真机并不像听起来那样不靠谱。DNA测序和DNA合成的手段正迅速地变得越来越快，而且越来越便宜。但是，就目前来说，合成一个有机体的整个基因组仍有相当多的困难。所以这个系统将首先被用于远距离地克隆单个基因，或者可能克隆病毒。像细菌这样的单细胞生物体的复制也许以后可行。但复制更复杂的生物，不管是地球生物还是火星生物，也许永远都不会成为可能。
+Dr. Venter’s company, Synthetic Genomics, and his namesake nonprofit research institute have already used the technology to help develop an experimental vaccine for the H7N9 bird flu with the drug maker Novartis.
+文特尔的公司以合成基因组学(Synthetic Genomics)为名，他的公司和以他名字命名的非营利性研究所，已经使用这一技术与制药公司诺华(Novartis)一起开发了针对H7N9禽流感的实验性疫苗。
+Typically, when a new strain of flu virus appears, scientists must transport it to labs, which can spend weeks perfecting a strain that can be grown in eggs or animal cells to make vaccine.
+通常的做法是，当一种新的流感病毒株出现时，科学家需要将其送到实验室，花几周的时间用其培养出能在鸡蛋或动物细胞中生长的毒株，这样才可能制造疫苗。
+But when H7N9 appeared in China in February, its genome was sequenced by scientists there and made publicly available. Within days, Dr. Venter’s team had synthesized the two main genes and used them to make a vaccine strain, without having to wait for the virus to arrive from China.
+但是，当今年2月中国出现H7N9时，中国科学家测序了该病毒的基因组，并公开发表了他们的结果。几天之内，文特尔的小组就合成了该病毒的两个主要基因，并用它们制造了生产疫苗所需的毒株，不需等待中国把该病毒送到美国。
+Dr. Venter said Synthetic Genomics would start selling a machine next year that would automate the synthesis of genes by stringing small pieces of DNA together to make larger ones.
+文特尔称，合成基因组学公司明年将开始出售一台仪器，该仪器用把小的DNA片段连接起来组合成较长链条的方法，把基因的合成自动化。
+Eventually, he said, “we’ll have a small box like a printer attached to your computer.” A person with a bacterial infection might be sent the code to recreate a virus intended to kill that specific bacterium.
+他说，最终，“我们将制造一个像连接在电脑上的打印机那样小的盒子。”一个被某种细菌感染的人，也许能用可杀死这种细菌的病毒的遗传编码，将病毒制造出来。
+“We can send an antibiotic as an email,” said Dr. Venter, who has outlined his ideas in a new book, “Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life.” Proteins might also be made, so that diabetics, for instance, could “download insulin from the Internet.”
+文特尔说，“我们能把抗生素用电子邮件的形式寄出去。”他在其新书《以光速生活：从双螺旋到数字生命的曙光》(Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life)中阐述了这些想法。也许还能制造蛋白质，这样的话，糖尿病患者就能“从网上下载胰岛素”，比如说。
+Dr. Venter, 67, has many scientific achievements — though critics deride some of them as stunts — but has had less success converting his ideas into successful businesses.
+虽然现年67岁的文特尔有许多科学成果(尽管批评者说他的某些东西更像特技表演)，但他在把自己的想法转化为商业产品上却不怎么成功。
+A previous company, Celera Genomics, raced the federally funded Human Genome Project to determine the complete DNA sequence in human chromosomes. The race was declared a tie in 2000, but Celera could not sustain a business selling the genomic information.
+他原来的公司塞雷拉基因组(Celera Genomics)曾与美国联邦政府资助的人类基因组工程(Human Genome Project)竞赛，看谁先完成测定人类染色体中的DNA序列。这场竞赛在2000年被宣布为平局，但塞雷拉未能靠销售基因组信息维持公司的业务。
+A deal worth up to $600 million that Synthetic Genomics made with Exxon Mobil in 2009 to produce biofuels using algae has been scaled back to a research project.
+合成基因组公司在2009年曾与埃克森美孚(Exxon Mobil)公司达成一项6亿美元(相当于41亿元人民币)的协议，要用水藻来生产生物燃料，不过，这个计划后来缩小为一个研究项目。
+In 2010, Dr. Venter made headlines by creating what some considered the first man-made life. His team synthesized the genome of one species of bacterium and transplanted it into a slightly different species. The transplanted DNA took command of its new host cell, which then multiplied, passing on the synthetic genome.
+2010年，文特尔又上了头版新闻，因为他制造了被某些人认为是首创的人造生命。他的小组合成了一种细菌的基因组，将其移植到一个略微不同的细菌物种中。移植后的DNA控制了其新寄主细胞，这些细胞的增值将合成的基因组遗传给后代。
+Critics said Dr. Venter had not really created life, just copied it. Dr. Venter said in the interview that while he did not create life from scratch, he had created a new type of life.
+批评者说文特尔并没有真正创造生命，不过是复制了生命而已。文特尔在接受采访时说，虽然他没有从头做起创造生命，但他创造了一种新类型的生命。
+“DNA is the software of life, and to get new life, you just have to change the software,” he said.
+他说，“DNA是生命的软件，要想得到新的生命，你只需要修改软件。”
+Dr. Venter said his team was designing a genome that was not a copy of an existing one and trying to insert it into a host cell. “It’s not alive yet,” he said. “We’re close.”
+文特尔说，他的研究小组正在设计一个基因组，它不是任何现有基因组的拷贝，他们在试图把设计出来的基因组插入一个寄主细胞。他说，“它还没活，但我们很接近了。”
+George Church, a professor of genetics at Harvard Medical School, said there was nothing unique about Dr. Venter’s work so far because others had already synthesized viruses based on DNA sequence information available on the Internet.
+哈佛大学医学院(Harvard Medical School)的遗传学教授乔治·切奇(George Church)认为，到目前为止文特尔的工作没有什么独特之处，因为已经有人根据网上的DNA序列信息人工合成过病毒。
+“Most people in the past didn’t call it teleportation,” he said, “but if you want to, fine.”
+他说，“大多数人过去不把这种工作称为远距离传送，但是如果你想这么叫，也没什么。”
+He also questioned the utility of doing genome engineering to make a copy of something, rather than “doing genome engineering to make something new and exotic and potentially useful.”
+他还对用基因组工程去复制东西这种做法本身的应用价值表示怀疑，认为应该“用基因组工程去制造一些新奇的、具有潜在用途的东西”。
+Space exploration is one area where the teleporter might be especially useful. It would be extremely costly and time-consuming to send a medicine physically to a colonist on another planet who becomes sick. And it would be difficult to send a sample from Mars back to Earth.
+远程传送器在探索太空上可能会在特别的用途。到另一个行星上殖民的人如果生了病，把药物以物质的方式送过去的成本极高、所需的时间也极长。而且，从火星上把样品送回地球会十分困难。
+That is why Dr. Venter’s team was camped here this weekend, about 200 miles northeast of Los Angeles. The mission was to find microbial life in the desert, determine its sequence and transmit it to Synthetic Genomics’ headquarters in San Diego.
+这就是为什么文特尔的小组上周末驻扎在这个地方的原因，这里位于洛杉矶东北部，距该市约320公里。他们的任务是在沙漠中寻找微生物生命，确定其基因组序列，之后将这一信息传送到位于圣地亚哥的合成基因组公司总部。
+This dry run was far from the automated process that would be needed on Mars. Two scientists spent hours Friday in a bus filled with laboratory equipment, carefully scraping green microbes off rocks and preparing their DNA for sampling. The sequencing, done on a desktop machine in the bus, took 26 hours.
+这次寻找生命的演习与将来在火星上所需的自动化过程还有很大的差距。两位科学家上周五(11月15日，译注)在一辆装满实验设备的大巴车上花了好几个小时的时间，小心翼翼地把岩石上的绿色微生物刮下来，把它们的DNA准备成测序用的样品。而基因组测序工作本身花了26个小时，是在大巴上的一台桌面仪器上完成的。
+Chris McKay, a scientist at NASA’s Ames Research Center who is working on the project, said the bus would have to be shrunk to a shoe box to make it feasible for a Mars mission, which would take many years and dollars. “By the time we get to Mars, we will have spent $500 million on that shoe box,” he said.
+美国国家航天局艾姆斯研究中心(Ames Research Center)的科学家克里斯·麦凯(Chris McKay)参与了这项工作，他说，需要把大巴车缩小成一个鞋盒大小的东西，才可用于火星任务，而能到火星上做这种工作将需要很多年的时间，并且要投入很多资金。他说，“等我们到去火星时，我们将会在这个鞋盒子上花掉5亿美元的钱。”
+But sequencing machines are rapidly becoming smaller. A team at Harvard and M.I.T. is hoping to have a sequencer ready for use in a Mars mission departing in 2020.
+不过，测序仪器正在快速变小。哈佛大学和麻省理工学院的一个研究小组希望造出一台能在2020年发射的火星探测器上使用的测序设备。
+Of course, all this assumes there is life on Mars to begin with and that it is based on DNA.
+当然，这一切都假设火星上有生命，而且这些生命是以DNA为基础的。
+But that can be left for another day. Dr. Venter is known for combining business with pleasure, such as when he sailed his yacht around the world to collect ocean life for sequencing. He arrived here Friday in a pickup truck hauling three motorcycles and some libations.
+但这个问题可以留待他日去考虑。文特尔以寓娱乐于工作之中而闻名，比如他曾驾驶自己的游艇环游世界，去收集海洋生物进行测序。他上周五开着一辆运货小卡车来到这里，卡车上拉着三辆摩托车和一些酒。
+After touring a site on Friday from which his scientists had collected rocks on which green cyanobacteria were growing, Dr. Venter declared: “We’ve had the quartz. Now, let’s get a pint.”
+在巡视了他的科学家们收集生长着绿色蓝细菌的岩石的现场后，文特尔宣布：“我们已经找到了石头。现在让我们喝一杯吧。”
+Beam us up, Craig!
+把我们传送出去吧，克雷格！

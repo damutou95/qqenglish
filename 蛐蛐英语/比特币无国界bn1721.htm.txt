@@ -1,0 +1,20 @@
+Bitcoin, the popular Internet currency, is on the map in more ways than one.
+比特币这种备受欢迎的互联网货币，进入人们视野的方式多种多样。
+You can watch it trading across the globe, and possibly draw some intriguing conclusions about where this fast-moving digital money is going. For the last week, a site called fiatleak has offered a map that its creator says draws information from all the major online bitcoin exchanges, like Mt. Gox and BTC-e, and shows what country’s residents are buying bitcoins, in real time.
+你可以观察世界各地的比特币交易，或许还能对这种飞速发展的数字货币的趋势得出一些有趣的结论。在过去一周里，fiatleak网站推出了一张动态地图。制作者称，它能从Mt. Gox和BTC-e等所有主要的比特币在线交易平台中提取信息，实时显示哪些国家的居民正在买进比特币。
+There are also sites that list all major bitcoin exchanges, but they don’t show it as a global phenomenon as vividly.
+比特币交易已经成为一种全球性现象。其他一些网站也会列出所有比特币大交易平台的信息，但它们对该现象的展示都不及这张图生动。
+One striking thing about the map: Bitcoin is increasingly a Chinese craze. Even at the height of the American and European trading days, when it’s 3 a.m. in China, Chinese transactions far outstrip activity in euros. The United States dollar transactions are still more popular than Chinese at that time, with about twice as many transactions. China was barely involved in bitcoin a year ago, however. The Chinese presence can also strengthen when it is daytime in China and night in the United States.
+关于这张地图，有一点非常引人注目，那就是中国日渐兴起的比特币热潮。欧美交易日的高峰时段换算成北京时间是凌晨3点。即便在这样的钟点，中国的交易规模仍远远超出了以欧元结算的交易。在上述时段，与中国的交易相比，以美元结算的交易还是更普遍，规模大约是前者的两倍。但要知道，就在一年前，中国基本无人涉足比特币交易。当中国处于白天、美国处于夜间的时候，中国人的参与还会进一步加强。
+“You can watch China and the U.S. play Ping-Pong on this,” said Andrew Hodel, who built the site. “You see the psychology, as the bitcoin goes over a threshold number in dollars or yuan.”
+“从这张图上，你可以看到中国和美国就像在打乒乓球一样你来我往，”fiatleak网站的创始人安德鲁·霍德尔( Andrew Hodel)说。“当以美元或者人民币结算的比特币交易价格越过某个阈值的时候，你能体会到那种心理。”
+Other players, like people in Japan or Britain, barely figure into the exchanges. Russians do not apparently trade much, but that participation is masked by their activities in the euro-based market. The map also shows the value of bitcoin in the local currency, based on the most recent trade.
+其他一些玩家，比如日本人和英国人，很少列入交易记录。俄国人的交易量看起来也不大，不过，他们的参与被部分掩盖了，因为他们还会在以欧元结算的市场上交易。这张地图也会显示以当地货币计算的比特币价格，基于的是最新达成的交易。
+By Monday evening, the value of a bitcoin unit soared past $700 on some exchanges. The total outstanding pool of bitcoin — which is created by a network of users who solve complex mathematical problems — is now worth more than $7 billion.Mr. Hodel is an American living in Uruguay who owns a small Internet service provider called Cobianet, operating in Texas and Colorado. He says he owns only about 10 bitcoins, but admits a fascination with the currency.
+截至周一傍晚，在某些交易平台上，比特币的单价飙升到了700美元（约合4260元人民币）以上。比特币是由解答复杂数学问题的用户网络创造出来的，市面上流通的总价值目前超过了70亿美元。霍德尔是美国人，住在乌拉圭，名下有一家在德克萨斯州和科罗拉多州开展业务的小型互联网服务企业，叫做Cobianet。他自称只有大概10比特币，不过也承认对这种货币着了迷。
+“It opened my eye to the fact that the U.S. isn’t as influential as I thought,” he said. “Bitcoin is a currency, a commodity and an accountancy built by developers that is completely decentralized. It’s fundamentally better.”
+“它让我看到一个事实：美国的影响力并不像我以为的那样大，”他说。“比特币是由开发者们打造出来的一种货币、 一件商品以及一种计价方式，它是完全去中心化的。”
+As to whether the huge influx of Chinese buyers could signal a bubble, Mr. Hodel said it proved the opposite. “Speculation from yuan buyers is running wild,” he said, “but bubbles are cultural reactions to a development. This is happening over all kinds of cultures.”
+中国买家大量涌入是否有可能意味着泡沫？霍德尔认为，事实恰恰相反。“手持人民币的买家的确是在疯狂买卖，”他说，“但泡沫是某个发展阶段的文化反应。所有文化都会遇到这种情况。”
+Of course, that also raises the prospect that bitcoin is the first bubble currency of our new global digital culture. “That could be too,” Mr. Hodel said. “But that probably means it will bubble up, burst, and come back,” the way several currencies have in the past when they initially rise to pre-eminence.
+当然，这也会催生一种前景，即比特币成为全新的全球数码文化里的第一种泡沫货币。“也可能出现这种情况，”霍德尔说。“不过，那大概意味着它会膨胀、破裂，然后卷土重来。”以往的若干种货币最初确立主导地位时，走的也是这条道路。

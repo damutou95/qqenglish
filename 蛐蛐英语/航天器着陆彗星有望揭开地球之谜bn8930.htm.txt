@@ -1,0 +1,49 @@
+In a technological feat that gives scientists their first opportunity to dig into a remnant of the early solar system, the European Space Agency’s Rosetta mission successfully placed a small spacecraft on the surface of a speeding comet on Wednesday.
+本周三，欧洲航天局(European Space Agency)的“罗塞塔”(Rosetta)任务完成了一项技术壮举，成功地将一个小型航天器送到一颗高速移动的彗星表面，这给科学家们提供了机会，让他们首次得以深入探究早期太阳系的残余星体。
+With this achievement, a comet is no longer a mysterious and sometimes frightening spray of light across the night sky, but another member of the solar system to be explored, like the moon and Mars. The technology of landing on a comet, with its wisps of gravity, could be applied to future efforts to mine asteroids.
+从此之后，彗星不再是夜空中划过的一种神秘可怕的光焰，而是加入月球和火星的行列，成为太阳系中又一个可以被探索的成员。彗星的引力非常微弱，着陆彗星的技术，未来可以应用到小行星的资源挖掘领域。
+The agency’s director general, Jean-Jacques Dordain, described the touchdown on Comet 67P/Churyumov-Gerasimenko, a 2.5-mile-wide ball of rock, ice and dust moving faster than 40,000 miles an hour, as “a big step for human civilization.”
+欧航局局长让-雅克·多尔丹(Jean-Jacques Dordain)说，在67P/丘留莫夫-格拉西缅科彗星上着陆是“人类文明前进的一大步”。该彗星宽约2.5英里，是由岩石、冰和尘埃构成的一个球体，移动时速逾4万英里。
+“Our ambitious Rosetta mission has secured another place in the history books,” Mr. Dordain said at a news conference. “Not only is it the first to rendezvous with and orbit a comet, but it is now also the first to deliver a probe to a comet’s surface.”
+“我们的‘罗塞塔’任务充满雄心，它已经足以名载史册，”多尔丹在新闻发布会上说。“这不仅是首次进入彗星轨道，绕着它飞行，而且是首次把探测器送上了彗星表面。”
+For scientists, one of the central mysteries that Rosetta will explore is whether Earth’s oceans are filled with melted comets. Since the rocky bits that came together to form the planet were dry, water has to have come from somewhere else. One possibility is that comets slamming into the Earth early on seeded it with water.
+对于科学家，“罗塞塔”将要探索的一个主要奥秘是：地球上的海洋是否充满了熔化的彗星。岩石块汇聚形成了地球，但它们是干的，水必定来自其他地方。一种可能性是，彗星在早期撞到了地球，给它带来了水。 News of the touchdown of the 220-pound lander, named Philae, arrived at the mission control center in Darmstadt, Germany, at 5:03 p.m. local time (11:03 a.m. Eastern time). Cheers erupted.
+220磅重的着陆器“菲莱”(Philae)成功着陆的消息，在德国达姆施塔特本地时间下午5时03分（美国东部时间上午11时03分）到达了那里的“罗塞塔”任务控制中心。欢呼声骤然响起。
+“We’re there, and Philae is talking to us,” said Stephan Ulamec, the manager for the lander. “We are on the comet.”
+“我们就在那里，‘菲莱’在向我们发送消息，”着陆器负责人斯蒂芬·尤拉米克(Stephan Ulamec)说。“我们在彗星上了。”
+With that news, a procession of officials from nations and organizations, including NASA, that had collaborated on the $1.75 billion mission reveled in the accomplishment, capping a 10-year, four-billion-mile trip.
+得知这个消息后，很多国家和组织的官员欢呼雀跃，因为历时10年、长达40亿英里的漫漫旅程有了成果。这些组织中也包括美国国家航空航天局(NASA)，它为这个耗资17.5亿美元的任务提供了帮助。
+“How audacious!” said James L. Green, the director of NASA’s planetary sciences division. “How exciting! How unbelievable to be able to dare to land on a comet.”
+“太猛了！”NASA行星科学部主任詹姆斯·L·格林(James L. Green)说。“太令人兴奋了！敢于登上一颗彗星，太不可思议了！
+Within the hour, though, a worrisome caveat came to light.
+但是，还不到一小时，就出现了令人担忧的警告。
+“It’s not only complicated to land there,” Dr. Ulamec said in a later news conference. “It’s also, as it appears, very complicated to understand what has happened.”
+“复杂的不仅是在那里着陆，”尤拉米克博士在随后的新闻发布会上说。“要理解发生了什么状况似乎也非常复杂。”
+Two harpoons that should have fired into the comet did not, and the lander may not be secured to the surface. Dr. Ulamec said fluctuations in the radio link and the generation of power by the solar panels suggested that Philae may have bounced off the surface before settling down again.
+本来应该有两个鱼叉支撑装置发射到彗星，但却没有发射，因此着陆器可能没有抓牢彗星表面。尤拉米克博士说，从波动的无线电联系以及太阳能电池板的发电状况来看，“菲莱”可能从彗星表面反弹出去，然后再次着陆。
+“Maybe today we didn’t just land once, we even landed twice,” Dr. Ulamec said.
+“也许今天我们不只着陆了一次，有可能着陆了两次，”尤拉米克博士说。
+As expected, the Rosetta orbiter moved out of the line of sight of Philae, breaking radio communications.
+正如预期的那样，“罗塞塔”轨道飞行器移动到”菲莱”的联系范围之外，无线电通信中断了。
+The orbiter is to re-establish the radio link in the next day, and mission managers hope then to better understand the stability of Philae’s footing.
+轨道飞行器将在第二天重新建立无线电联系，该任务的负责人希望届时可以更好地了解“菲莱”基脚的稳定性。
+Nonetheless, the lander and its 10 instruments have begun 64 hours of scientific operations before its batteries drain. Solar panels will recharge the batteries, allowing intermittent operations over the coming months, about an hour every two days.
+尽管如此，着陆器及其10台仪器已经开始开展科学任务，在电池电量耗尽之前，可以运转64小时。电池将由太阳能电池板充电，因此在未来数月内，它们每两天会进行约一小时的间断性运作。
+The landing culminated a tense day as Rosetta maneuvered to the correct position to let Philae go — moments of celebration were interspersed with long, quiet stretches of waiting.
+在这紧张的一天中，“罗塞塔”移动到正确的位置，让“菲莱”脱离了它，而着陆彗星表面是这一天的高潮——人们庆祝了这些时刻，其间则穿插着漫长、静默的等待。
+The operation proceeded despite a few small glitches and one potential showstopper problem: failure of a thruster that was to fire after touchdown to press the lander against the comet’s surface. A pin was supposed to break a wax seal on the gas tank, but repeated attempts did not succeed.
+尽管存在一些小失误和一个可能引起麻烦的问题，任务继续进行。一个推进器失灵了，它本来会在着陆后发射，把“菲莱”压在彗星表面上。一个销钉本来应该打开燃气罐的一个蜡封，但多次尝试都没有成功。
+Without the thruster, the washing-machine-size Philae would have to rely on ice screws on its landing legs and the harpoons to anchor it to the comet. The thruster, which was to shoot a stream of nitrogen gas, was intended to counteract not just the possibility of Philae bouncing off the surface but also the upward kick from the firing of the harpoons.
+如果没有那个推进器，洗衣机大小的“菲莱”就只能依靠着陆装置上的冰锥和鱼叉来抓牢彗星表面。这个推进器本来应该喷射氮气气流，以便消除“菲莱”弹离彗星表面的可能性，并且抵消鱼叉发射时的上推力。
+Mission managers decided to proceed because there was no way to repair it.
+负责人决定在继续执行任务，因为这些问题无法解决。
+Philae detached on schedule, for a seven-hour descent.
+“菲莱”按计划进行了分离，降落持续了7个小时。
+There was some worrying a couple of hours later when the lander was about 10 minutes late in re-establishing communications with the orbiter.
+几个小时后，又出了一件让人担忧的事情：着陆器与轨道飞行器重新建立通信联系时晚了约10分钟。
+Mission managers could not do anything; the readings they saw on their computer screens reflected what had occurred 28 minutes earlier — the time it took a radio signal to travel the 316 million miles from Rosetta to Earth.
+负责人们没办法，只能等着；他们在电脑屏幕上看到的读数，是28分钟之前发出的——无线电信号从3.16亿英里之外的”罗塞塔”传输到地球需要28分钟。
+But soon they received photos — a blurry image of Rosetta’s solar array taken by Philae about 50 seconds after separation, and then a sharper image by Rosetta of the descending Philae.
+但很快，他们收到图像——“罗塞塔”的太阳能电池阵列的模糊图像，“菲莱”在分离约50秒后，把它拍了下来；然后收到了更清晰的图像，是“罗塞塔”拍摄的“菲莱”正在降落的场面。
+“We see the lander going down on the right track,” said Andrea Accomazzo, the flight director.
+“我们看到着陆器在正确的轨道上降落，”此次飞行的负责人安德烈·埃克马索(Andrea Accomazzo)说。

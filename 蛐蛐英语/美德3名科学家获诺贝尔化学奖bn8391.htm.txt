@@ -1,0 +1,26 @@
+Three scientists, two American and one German, have received this year’s Nobel Prize in Chemistry for, in effect, circumventing a basic law of physics and enabling optical microscopes to peer at the tiniest structures within living cells.
+两位美国科学家和一位德国科学家三人同获今年的诺贝尔化学奖，他们的工作实质上绕过了物理学的一条基本定律，让光学显微镜能看到活细胞内最微小的结构。
+The 2014 laureates, announced Wednesday morning, are Eric Betzig of the Howard Hughes Medical Institute in Virginia; Stefan W. Hell of the Max Planck Institute for Biophysical Chemistry in Germany; and William E. Moerner of Stanford University in California.
+周三上午宣布的2014年获奖者是，弗吉尼亚州霍华德·休斯医学研究所的埃里克·贝慈葛(Eric Betzig)，德国马克斯·普朗克生物物理化学研究所的斯德范·W·黑尔(Stefan W. Hell)，以及加利福尼亚州斯坦福大学的威廉·E·莫尔纳(William E. Moerner)。
+In its citation, the Royal Swedish Academy of Sciences, which awards the prize, said the three were being honored "for the development of super-resolved fluorescence microscopy,” which allows the molecular processes to be viewed in real time.
+瑞典皇家科学院是颁发诺贝尔奖的机构，其颁奖词说，这三人获奖的原因是他们“对超高分辨率荧光显微技术发展”的贡献，该技术使研究人员能实时观察分子过程。
+At a news conference after the announcement in Sweden, Dr. Hell said, "I was totally surprised.”
+在瑞典宣布颁奖的新闻发布会后，黑尔说，“我完全没有想到。”
+In an interview, Dr. Betzig said he had learned the news in a phone call in Munich, where he was attending a conference. He said his reaction was "I guess elation and fear — the fear that being my life is busy enough and happy enough, and it doesn’t need to be perturbed too much.”
+贝慈葛在接受采访时说，他是在慕尼黑通过电话得知这个消息的，他正在那里参加一个会议。他说他的反应是，“我猜是特别高兴，也有些恐惧，我的生活已经够忙、够快乐了，我不需要受到过多的搅扰。”
+The committee was not able to reach Dr. Moerner before making the announcement. "I actually still haven’t a chance to talk to them,” Dr. Moerner said Wednesday morning from a hotel room in Brazil, where he is attending a scientific workshop.
+诺贝尔奖委员会在宣布获奖者之前，未能通知到莫尔纳。“我实际上还没有机会和他们通话，”莫尔纳周三早上在巴西一家酒店的房间里说，他正在那里参加一个科学研讨会。
+He said his wife had called to tell him the news.
+他说，他的妻子打电话把消息告诉了他。
+Optical microscopes are used to study organisms too small to see on their own. But a fundamental law of optics known as the diffraction limit states that the resolution can never be better than half the wavelength of light being looked at.
+光学显微镜被用于研究微小的生物体，因为它们太小，肉眼看不到。但是，一条被称为衍射极限的光学基本定律指出，显微镜的分辨率不会小于观察所用光源波长的一半。
+For optical wavelengths, that limit is about 0.2 millionths of a meter, or one 127-thousandth of an inch. A human hair is about 100 millionths of an inch wide. But a bacterium is about the size of the diffraction limit, and could be seen only as a blob.
+对可见光波长来说，上述极限约为0.2纳米，相比之下，人头发的直径是这个极限的1270倍。但细菌的大小和衍射极限差不多，所以在显微镜中，一个细菌是个分不清的小团儿。
+The researchers could not break the laws of physics. But, working separately, they realized they could work around the diffraction limit if they could make parts of the molecules glow.
+研究人员无法打破物理定律。但是，他们在各自独立的工作中意识到，如果他们能使分子部分发光的话，他们可以绕过衍射极限。
+"Eventually I realized there was a way to play with the molecules,” Dr. Hell said.
+黑尔说，“最终，我意识到有一种处理分子的办法。”
+By lighting up and then turning off parts of the organism, they could combine images that brought the tiniest of molecules into clear view. hat now allows biologists to look at the mechanism of how DNA folds and unfolds within living cells, for example.
+通过让分子发光，然后把生物体某个部分的光关闭，他们可以把不同的成像结合起来，让最小的分子清晰地呈现在眼前。如今，这个技术让生物学家可以观察比如DNA在细胞内如何折叠和打开的机制。
+The three laureates have themselves employed their innovations to study biology at the smallest scales. Dr. Hell has studied how brain synapses work, Dr. Moerner has looked at proteins related to Huntington’s disease and Dr. Betzig has tracked cell division inside embryos.
+三位诺奖获得者都把自己的创新用在最小尺度上的生物学研究上。黑尔曾研究大脑的突触如何工作，莫尔纳观察过与亨廷顿氏症有关的蛋白质，贝慈葛跟踪过胚胎中的细胞分裂过程。

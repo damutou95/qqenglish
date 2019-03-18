@@ -1,0 +1,38 @@
+WASHINGTON — The federal government opened the door to a new era of genetic medicine on Thursday by introducing a standard way to ensure the accuracy of DNA tests used to tailor treatments for individual patients.
+华盛顿——星期四，美国联邦政府提出了一种标准方法，用于确保患者定制个体化治疗时的DNA检测的准确性，可以说，此举打开了通往基因药物新时代的大门。
+Scientists have identified hundreds of genetic mutations that appear to increase the risk of diseases, including cancer, Alzheimer’s and cystic fibrosis. But laboratories often report different results when they analyze genes obtained from samples of the same blood or tissue, because of variations in their testing equipment and methods.
+科学家们现已识别出数百个可能增加特定疾病（包括癌症、阿尔茨海默氏症、囊性纤维化等）风险的遗传突变。但是，由于不同的实验室在检测设备和方法上的差异，他们在分析从同一血液或组织样本中提取的基因时，常常会报告不同的结果。
+The National Institute of Standards and Technology said Thursday that it had developed “reference materials” that could be used by laboratories to determine whether their machines and software were properly analyzing a person’s genetic blueprint, or genome.
+美国国家标准技术研究所(National Institute of Standards and Technology)在周四宣称，自己开发出了“基准材料”，各实验室可使用它来确定自己的仪器和软件能否正确地分析一个人的遗传蓝图，也就是基因组。
+The institute disseminates such reference materials for thousands of products including steel, concrete and peanut butter. These materials are used for myriad purposes — to calibrate instruments, to make sure buildings are safe, to ensure that nutritional labels are accurate.
+该研究所将基准材料推广到了钢铁、水泥和花生酱等数千种产品，使用它们来实现各式各样的目的，如校准仪器、确保建筑物的安全性、确保营养标签的准确性等等。
+Laboratories can use the new DNA standard to make sure their genetic testing is accurate. If labs get the right answers for the reference material — by finding the same mutations in the same places, for example — they can be confident that their testing of patient samples is similarly accurate.
+实验室可利用这种新的DNA标准物来确保他们基因检测的准确性。如果实验室在检测基准材料时得出了“正确答案”——例如，在同样的位点发现了同样的突变，则可以认为他们测试患者样本时也具有类似的准确性。
+The devices used by the laboratories, known as DNA sequencers, have greatly accelerated biomedical research and discovery, allowing scientists to pinpoint mutations and devise treatments tailored to the genetic characteristics of individual patients. Such tests and treatments, developed in research laboratories, are quickly moving into the practice of medicine.
+在实验室中，承担这类工作的设备称为DNA测序仪，有了它，科学家们就可以精确地定位突变，并针对患者个体的遗传特征量身打造个性化治疗，极大地促进了生物医学研究和发现。这类测试和治疗方法虽诞生于研究性实验室，但很快就进入了医疗实践领域。
+In his State of the Union address this year, President Obama announced a “precision medicine initiative” to foster the development and adoption of such customized treatments.
+在今年的国情咨文中，奥巴马总统宣布了“精准医疗计划(precision medicine initiative)”，旨在促进此类定制治疗方法的开发和应用。
+For $450, scientists and laboratories can now buy a vial of the reference material from the national standards institute, a unit of the Commerce Department. The material, for sale on the agency’s website, includes 10 micrograms of DNA from a Utah woman of European ancestry. That is enough for numerous tests.
+这种基准材料在美国商务部的下属单位美国国家标准学会(national standards institute)的网站上销售，现在，科学家们和实验室花450美元就可以买到一小瓶，其中含有来自犹他州的一名欧洲血统女子的10微克DNA，足够完成多次检测。
+“If you send a sample of blood or a tumor biopsy to different genetic testing laboratories, you can get different results,” said Marc L. Salit, the leader of a genome measurement group at the institute. “While largely in agreement, they may have significant differences. Now, for the first time, we have a standard to check the reliability and quality of gene sequencing.”
+“如果你把一份血液或肿瘤活检样本送到不同的基因检测实验室，你可能会得到不同的结果，”该研究所基因组测定小组的负责人马克·L·萨利特(Marc L. Salit)说。“虽然它们在大体上是一致的，但仍可能存在显著差异。现在，我们第一次有了一个可以检查基因测序质量和可靠性的（统一）标准。”
+A laboratory can use the samples to demonstrate the quality of its work, and health insurance companies can have confidence in the results, increasing the likelihood that they will pay for genome-sequencing tests, Dr. Salit said. Costs have come down in recent years, he added, but it still costs about $5,000 to analyze and interpret a whole genome.
+萨利特博士说，实验室可以使用该样本证明自己工作的质量，医疗保险公司也会对检测结果更有信心，为基因组测序检测付费的可能性也就更大。他还补充道，虽然近年来测序成本有所下降，但全基因组的分析和解读仍需要5000美元上下。
+Elizabeth A. Mansfield, a geneticist at the Food and Drug Administration who supervises its work on personalized medicine, said the reference material could lead to “better instruments and better tests.” As a result, she said, “health plans may be more willing to pay for such tests.”
+美国食品和药品监督管理局(Food and Drug Administration, F.D.A.)的遗传学家伊丽莎白·A·曼斯菲尔德(Elizabeth A. Mansfield)负责监管个体化医疗方面的工作，她表示基准材料将会“改善仪器和检测”。这样一来，“医保计划将更愿意为此类检测付费。”
+The F.D.A. worked with the standards institute to develop the DNA reference material, which gives regulators a new tool to assess the accuracy of tests.
+该DNA基准材料由F.D.A.和标准学会联合开发，它也给了监管部门一个评估检测准确性的新工具。
+“An inaccurate genome-sequencing test can lead to patients receiving the wrong diagnosis, the wrong treatment or no treatment at all, even when effective therapy is available,” said Dr. Jeffrey E. Shuren, director of the F.D.A. Center for Devices and Radiological Health. Accurate tests have become more important, he said, as treatments are increasingly based on the type of mutations detected in genetic testing.
+F.D.A.医疗器械和辐射健康中心(Center for Devices and Radiological Health)主任杰弗里·E·苏瑞(Jeffrey E. Shuren)说：“不准确的基因组测序检测可导致患者受到错误的诊断、接受错误的治疗或是在明明存在有效治疗手段之时未能得到治疗。”他还说，由于治疗方法正越来越多地以基因检测发现的突变类型为依据，基因检测的准确度正变得日益重要。
+Dr. Francis S. Collins, director of the National Institutes of Health, said that information from the tests could benefit patients in many ways. “For example,” he said, “an oncologist might use the results of a sequencing scan to choose the chemotherapy drug that is most likely to work.”
+美国国立卫生研究院(National Institutes of Health)院长法兰西斯·S·柯林斯(Francis S. Collins)博士表示，在基因检测中获得的信息可以从诸多方面为患者提供助益。“例如，肿瘤科医生可以使用测序结果来选择效果可能会最好的化疗药物。”
+The regulation of DNA tests and technology is complicated and in flux.
+DNA检测及其技术的监管非常复杂，而且变来变去。
+One agency, the Centers for Medicare and Medicaid Services, regulates and certifies clinical laboratories under a 1988 law. The F.D.A., a sister agency in the same department, regulates manufacturers and has authority over the actual tests. The food and drug agency has historically refrained from enforcing some of its requirements for “laboratory-developed tests,” including many genetic tests, but it proposed to overhaul and tighten regulation of these products last year.
+根据1988年的法律，医疗照护和医疗救助服务中心(Centers for Medicare and Medicaid Services)负责临床实验室的管理和认证。而与该机构隶属同一部门的姐妹机构F.D.A.则负责监管制造商和已经实用的检测。F.D.A.历来未曾强制执行其对“实验室开发的检测”（包括许多基因检测）的一些要求，但该机构在去年提出，应整顿和加强对上述产品的监管。
+The new reference material is for tests that use advanced technology — “next-generation sequencing” — to analyze a person’s DNA. Such tests are generally interpreted by doctors or genetic counselors and not sold directly to consumers.
+新推出的基准材料适用于采用了先进的“下一代测序”技术来分析个人DNA的检测。此类检测的结果通常不会直接出售给消费者，而是需要经过医生或遗传咨询师的解读。
+In 2013, the food and drug agency told a Silicon Valley company, 23andMe, to stop selling health information reports that interpreted a person’s DNA. In February, it allowed the company to offer a direct-to-consumer test to help identify carriers of a gene linked to a specific rare disorder, Bloom syndrome.
+2013年，F.D.A.通知硅谷的23andMe公司暂停销售含有经解读的个人DNA信息的健康报告。今年2月，该机构却又批准这家公司提供一种直接面向消费者的检测，以帮助识别与一特殊的罕见疾病——布卢姆综合征(Bloom syndrome)相连锁的基因的携带者。
+The food and drug agency, expecting a wave of new technology to analyze the human genome, helped finance the work of scientists and engineers at the standards institute in Gaithersburg, Md.
+F.D.A.预计，新一波的人类基因组分析浪潮即将涌现，并为马里兰州盖瑟斯堡市标准学会的科学家和工程师们的工作提供了部分资助。

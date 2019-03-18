@@ -1,0 +1,32 @@
+Apple unveiled the new iPhone 5 today in San Francisco. As it turns out, most of the individual rumors about it were true - but even so, they didn't describe the whole package.
+今天（本文最初发表于美西时间9月12日——编者注），苹果公司(Apple)在旧金山发布了最新的iPhone 5。事实证明，有关iPhone 5的大部分坊间传言是真实的，但即使如此，这些传言也未能对其作出全面描述。
+The new phone is the same width as the old one, but taller and thinner, as though someone ran over the old iPhone with a steamroller. When held horizontally, the four-inch screen has 16:9 proportions, a perfect fit for HDTV shows and a better fit for movies. The added screen length gives the Home screen room for a fifth row of icons.
+新款手机和旧款的宽度相同，但新款更高更薄，看起来就像有人用蒸汽压路机碾过了老款iPhone。从水平角度看，四英寸屏幕的比例为16:9，极其适合播放高清电视节目，也更适合播放电影。增加的屏幕长度让主界面有额外位置显示第五排图标。
+The band around the edges is still silver on the white iPhone - but on the black model, it's black with a gleaming, reflective bezel. It looks awesome.
+白色iPhone的机身边缘依然是银色的，但黑色iPhone的机身边缘是闪亮反光的黑色外框。看起来炫极了。
+The back is aluminum now. The strips at the top and bottom of the back are made of glass, the better to allow the wireless signal through - but as a side benefit, you can now tell which way is front as you fish the thing out of your pocket.
+机身背面现在是铝合金材质。黑色机身的上部和下部是玻璃材质，以便让无线信号更易穿透。附加的好处是，当你把手机从包里摸出来时，你现在可以辨别哪一面是正面。
+The processor, with a new design, is twice as fast, according to Apple. And the iPhone has 4G LTE, meaning superfast Internet in select cities.
+据苹果公司透露，新设计的处理器比过去快一倍。而且新款iPhone还支持4G LTE，这意味着在有些城市拥有超快的网速。
+Not many rumor mills predicted the improvement in the camera. It's an eight-megapixel model with an f/2.4 aperture, meaning that it lets in a lot of light. The panorama mode is the best you've ever seen: as you swing the camera in an arc in front of you, a preview screen shows you the resulting panorama growing in real time. I took only two panorama shots in my limited time with the iPhone 5, but they came out crazy good.
+坊间传言中没有多少预测到相机的改进。新款的相机有800万像素和 f/2.4的光圈，这说明镜头的感光效果很好。全景模式则是你见过的最好的：当你把镜头在身前呈弧形转动，一个预览界面就能向你展示实时合成的全景画面。我在有限的时间内只用iPhone 5拍摄了两张全景照片，但拍出的效果简直棒极了。
+The camera takes 40 percent less time between shots, it can recognize up to 10 faces (for focus and exposure purposes) and it can take still photos even while you're filming video.
+相机拍摄两张照片之间的时间缩短了40%，镜头最多能够识别10个人的脸（用以聚焦和曝光），而且可以在拍摄视频时拍下静态照片。
+The new phone also offers better battery life (eight hours of talk time or Web browsing), according to Apple (I haven't tested it yet). It also has noise cancellation both for outgoing and incoming sound. The phone is also ready for wideband audio - your callers won't have that tinny phone sound, but richer, more FM-radioish sound - but that requires the carrier to upgrade its network. The catch: no American carriers have announced plans to do that.
+苹果公司表示（我还没有测试），新款手机的电池使用时间也更长（八小时的通话时间或网页浏览时间）。手机对输出和输入的声音都有除噪功能。手机还拥有宽频音响功能，和你通话的人不再是那种微弱的手机通话声，而是更厚重、更像FM广播的声音，但这需要电信商升级网络。需注意的是，还没有美国电信商宣布相关计划。
+At first glance, there's really only one cause for pause: Apple has replaced the 30-pin charging/syncing connector that's been on every iPhone, iPad and iPod since 2003. According to Apple, it's simply too big for its new, super-thin, super-packed gadgets.
+乍看起来，真的只有一个地方让人迟疑：苹果公司替换了自2003年以来就服务于所有iPhone、iPad和iPod的30针充电/同步接口。据苹果公司透露，这样的接口对新型、超薄、超集成的苹果产品来说太大了。
+So with the iPhone and the new iPod models also announced today, Apple is replacing that inch-wide connector with a new, far smaller one it's calling Lightning.
+所以，今天发布的iPhone和新型iPod没有了过去一英寸宽的接口，取而代之的是一个小得多的新接口，名为Lighting。
+I'll grudgingly admit that the Lightning connector is a great design: it clicks nicely into place, but it can be yanked out quickly. It goes in either way - there's no "right side up," as there was with the old connector. And it's tiny, which is Apple's point.
+我勉强承认Lighting接口有着伟大的设计：它能精确连接，也能很快拔出。该接口可以双面使用，不像老款的接头有“正确一面”的说法。接口小巧玲珑，这正是苹果的意图。
+Still, think of all those charging cables, docks, chargers, car adapters, hotel-room alarm clocks, speakers and accessories-hundreds of millions of gadgets that will no longer fit the iPhone.
+但是，所有的充电数据线、接口、充电器、汽车转换器、酒店闹钟、扬声器和配件等上亿种装置都不再对新款iPhone适用。
+Apple will sell two adapters, a simple plug adapter for $30 or one with a six-inch cable for $40, to accommodate accessories that can't handle the plug adapter.
+苹果公司将出售两种转换器，简单的插塞式转换器售价为30美元，另外一种带有6英寸长数据线的转换器售价为40美元，后者针对不能用插塞式转换器的配件。
+That's way, way too expensive. These adapters should not be a profit center for Apple; they should be a gesture of kindness to those of us who've bought accessories based on the old connector. There's going to be a lot of grumpiness in iPhoneland, starting with me.
+这价格也实在是太贵了。这些转换器不应该成为苹果公司的赢利重点，该公司本应对那些买了基于旧款接头的配件的消费者作出和善姿态。为此，iPhone界将会出现大量的不满，从我开始。
+Overall, though, Apple seems to have put its focus on the important things you want in an app phone: size, shape, materials, sound quality, camera quality and speed (both operational and Internet data), and that's good. I'll have a full review once I've had some time to test the thing.
+但总的来说，苹果公司似乎已把关注点放在了一个应用程序手机的重要之处：大小、形状、材质、音质、相机质量和速度（操作速度和上网速度）。这是好事。在我花时间对iPhone 5进行充分测试之后，我将写出一份全面评论。
+The new iPhone goes on sale on Sept. 21 for $200 with a two-year contract from Verizon, Sprint or AT&T. (That's the 16-gigabyte model. You can get 32 gigs for $300 or 64 gigs for $400.)
+新款iPhone将会在9月21日开始出售，你需要支付200美元，并和威瑞森(Verizon)、Sprint或美国电话电报公司(AT&T)签下两年期合同（此价针对16GB的型号，32GB型号需300美元，64GB需400美元，以上只适用于美国——编者注）。

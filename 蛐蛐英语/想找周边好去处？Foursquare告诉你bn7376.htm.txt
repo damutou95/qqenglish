@@ -1,0 +1,28 @@
+Foursquare, a start-up focused on local business recommendations and discovery, has finally started to find itself.
+专注于推荐与挖掘附近商家的创业公司Foursquare终于开始重塑自我了。
+The company on Wednesday planned to show off its completely overhauled smartphone app, the fruits of a multiyear rethink of how people should interact with the location-based service.
+周三，公司策划展示了其全面改版的智能手机应用。经过多年反思用户应如何与基于位置的服务互动，Foursquare推出了这一成果。
+Longtime users of the app will be shocked by the dramatic changes. Photos of local spots are full-bleed across the screen. The four different areas of the app — profile, tips, “here” and “find a place” — are neatly sectioned off and clearly marked. Even the company’s signature light blue design flourishes have shifted to “watermelon” pink accents.
+巨大的变化将让Foursquare应用的长期用户大吃一惊：附近地点的图片变为全尺寸展示；应用的四大板块——“个人资料”、“提示”、“附近”和“查找地方”齐整地分隔开来，清晰明确；就连曾作为公司特色的浅蓝色标识也变成了水红基调。
+Foursquare rose to pop culture consciousness in 2009 on the premise of the check-in, a digital version of sticking a pin in a world map to show where you are, using the company’s extensive collection of location data, consisting of more than 60 million known places. Power users gained awards, or badges, for checking in to specific locations frequently.
+2009年，Foursquare成为一种流行文化现象。它基于签到服务，利用公司强大的地点数据库——囊括了逾6000万个已知位置——在世界地图上标出用户所到之处的电子标记。通过频繁去特定地点签到，重度用户能获得奖项或徽章。
+Over the years, however, the check-in has lost some of its sheen. Facebook and Instagram have bundled a similar check-in feature into their own main apps, for instance, making a stand-alone app for checking-in less necessary.
+不过，随着时间的推移，签到服务渐失光芒。例如，Facebook和Instagram均在自家的主打应用中绑定了类似的签到功能，于是专门用于签到的单独应用就没那么必要了。
+Recently, Foursquare’s check-ins have been spun off into Swarm, a companion app. Swarm is, in a way, the last lingering remnants of what Foursquare originally was: a way to broadcast to others where you are and what you’re doing.
+最近，Foursquare的签到功能被剥离到了衍生应用Swarm上。某种程度上，Swarm是当年的Foursquare如今仅存的元素了：告诉别人你所处的地方，以及正在做的事情。
+It is clear, however, that future efforts are focused on the new and improved Foursquare app, which does not require people to check-in at all to use it.
+不过，明显可以看出，公司未来的力气将使在这个全新的升级版Foursquare应用上，而这个应用压根不需要用户签到。
+“We’ve just got so much data on where people want to go and what they want to do, and we haven’t really been able to flex that in our original app until now,” said Dennis Crowley, Foursquare’s chief executive.
+“在大家希望去哪里、想要做什么上，我们积累了海量的数据，但是一直没法在原来的应用里大展拳脚，直到现在，”Foursquare的首席执行官丹尼斯·克罗利(Dennis Crowley)说。
+Consider the revised app something like a digital Fodor’s travel book. Users are urged to explore their surroundings using the app as their guide. It’s based on Foursquare’s database of 10,000 “tastes,” essentially a taxonomy of foods, characteristics and things to do that the company has collected from its users’ tips and restaurant recommendations over the past five years.
+人们可以把这个改版的应用看成某种电子版的福多尔(Fodor’s)旅行手册。公司鼓励用户将Foursquare用作发掘附近场所的指南。它基于的是Foursquare包含1万个“喜好”的数据库，实质上是根据过去五年中公司搜集到的用户提示和餐厅推荐数据而推出的食物、特色与事项的分类。
+So if it’s 11 a.m. on a Sunday, for instance, Foursquare could draw on your past check-ins to point you to a restaurant that’s a mile away, has good eggs Benedict and is serving brunch for the next two hours. It could also show you short tips and recommendations that your friends who use the app have written about the place you’re visiting.
+比方说，周日中午11点的时候，Foursquare可以根据你过去的签到记录指引你去1英里外的某家餐厅，那里有不错的火腿蛋吐司，而且未来两小时里供应早午餐。Foursquare还可以展示，曾去过那里的友人通过该应用写下的简短提示和推荐。
+That idea isn’t entirely foreign. Type “brunch” into a Google or Yelp smartphone app on your phone, and you’ll be served a list of local results as well.
+这并非什么全新的概念。在谷歌或Yelp的智能手机应用上打出“早午餐”，也能蹦出一串附近的搜索结果。
+But Foursquare says those results are not good enough.
+然而，Foursquare声称，它们的结果不够给力。
+Right now, local search is a poor user experience, according to Mr. Crowley, with the same list of the same results being returned to everyone, regardless of their personal preferences. But because people don’t know any better, he added, they’re unaware of how bad local search is.
+在克罗利看来，目前的本地化搜索的用户体验相当糟糕，反馈给每个人的结果列表一模一样，完全无视个人偏好。他还表示，由于用户并不知道有什么更好的选择，所以没有意识到这种本地化搜索的水平有多差。
+Ultimately, the goal is to develop something that appeals to the 50 million registered users of the company’s apps and website, while jump-starting Foursquare’s user growth and business prospects.
+说到底，Foursquare的目标是开发出能牢牢抓住移动版和网页版的5000万老用户的东西，同时让Foursquare的新用户增长与商业前景一片光明。

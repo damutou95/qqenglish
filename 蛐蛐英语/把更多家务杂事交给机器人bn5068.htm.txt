@@ -1,0 +1,36 @@
+THE dream: a robot servant to pick up around the house, do laundry, cook dinner and perhaps even go on errands. The reality: cadres of little devices, buzzing like bees as they clean dirt and debris from every imaginable two-dimensional surface.
+梦想是：一个机器人仆人收拾房间、洗衣服、做饭，甚至干些跑腿的事儿。现实是：一批不同的小设备，在每一种你能想象的二维平面上打扫灰尘和碎屑，同时发出像蜜蜂一样的嗡嗡声。
+It’s 2014 and home robots don’t look a bit like Rosie, the all-purpose mechanical maid on “The Jetsons.” Even so, the appeal of outsourcing some of the most hated household chores to a machine has given rise to an array of tiny servants.
+现在是2014年，家用机器人看上去跟动画片《摩登家庭》(The Jetsons)中的多用途机械女仆罗西(Rosie)完全不一样。即便如此，让机器来完成某些让人无比厌烦的家务事仍然很有吸引力，这导致了一批微型机器人仆人的诞生。
+There are robots to wash windows, scour patio grills, scrub floors and mow the lawn. One cleans pools and another, aptly named RoboSnail, moves over the glass or acrylic surfaces of aquariums, polishing as it goes.
+清洗窗户、刷洗庭院烧烤炉、擦洗地板、修剪草坪的机器人都已经出现。一种机器人可以清洗池子，另一种的名字很形象，叫作“机器蜗牛”(RoboSnail)，可以在水族馆的玻璃或亚克力表面上移动，并且给它经过的地方抛光。
+Consumer robotics is now a $1.6 billion industry, with task-oriented robots accounting for roughly half of that, according to ABI Research. Analysts say sales could triple to $6.5 billion by 2017.
+研究机构ABI Research称，消费类机器人产业现在有16亿美元（约合99亿元人民币）的规模，以完成某项任务为主的机器人约占其中的一半。分析师称，到2017年，这个产业的销售额可能会增加两倍，达到65亿美元。
+A new generation of robots may be building more consumer interest.
+新一代机器人可能正在增加消费者的兴趣。
+Take Grillbot, the brainchild of Ethan Woods, once a Manhattan real estate salesman. Made of heat-resistant plastic, the Grillbot has three independent motors and three rotary brass or stainless steel brushes that spin as it roams in a repetitive, random pattern over a grill surface.
+比如Grillbot，它的发明者伊桑·伍兹(Ethan Woods)曾经在曼哈顿当过房地产销售员。Grillbot由耐热塑料制成，有三个独立的发动机和三个转动的刷子，刷子采用黄铜或不锈钢材质。当Grillbot在一个烧烤架表面工作时，会以重复、随机的路线旋转前行。
+The bot comes in four colors and takes no more than 30 minutes to clean any type of grill surface, Mr. Woods said. Just put it on the grate and close the lid. It also has a sensor that will set off an alarm if the grill gets too hot — more than 250 degrees. It sells for $120 at grillbots.com.
+这种机器人有四种颜色，伍兹说它可以在30分钟之内刷洗干净任何类型的烧烤架。只要把它放在烧烤炉里，盖上盖子即可。它还有一个传感器，如果烧烤炉太热——超过250度，它就会发出警报。这种设备在grillbots.com上的售价是120美元。
+Glass surfaces are also getting more attention. RoboSnail, for instance, is a rectangular bot from AquaGenesis International that wipes slime off aquarium walls. The device costs about $250 at pet and aquarium stores.
+玻璃表面也吸引了越来越多的关注。例如，“机器蜗牛”是AquaGenesis国际公司(AquaGenesis International)研制的长方形机器人，可以清除水族箱壁上的黏液。在宠物店和水族店，这种设备的价格大约是250美元。
+RoboSnail can be programmed to stop short of the gravel at the bottom of an aquarium so it doesn’t pick up anything that can scratch the glass. But it will not turn corners. That means you have to physically move it from side to side.
+你可以通过编程来防止“机器蜗牛”接触水族箱底部的碎石，以免它抓起任何会刮伤玻璃的东西。但是它在转角处不会掉头。所以你必须亲自动手把它从一边移动到另一边。
+Similar bots have been created to clean windows. WinBot and Windoro use sensors, detergent sprays and microfiber pads to move around window surfaces. While both can be used on most windows, they’re aimed at consumers with large expanses of glass that are hard to reach.
+一些公司还推出了可以清洗窗户的类似的机器人。WinBot和Windoro机器人上都配有传感器、洗涤剂喷雾和微纤维垫，可以在玻璃表面四处移动。尽管这两种机器人都可以清洗大多数类型的窗户，它们针对的主要还是拥有难以清洗的大面积玻璃窗的消费者。
+Windoro retails for around $585 while WinBot’s two models run from $350 to $400. The cheaper of the two is for use only on windows with frames. Both bots, as well as replacement pads and other supplies, can be found online through Amazon and eBay.
+Windoro的零售价约为585美元，WinBot的两种型号的价格都在350美元到400美元之间。其中较便宜的型号只能清洗有窗框的玻璃。这两款机器人、替换的微纤维垫以及其他配件都可以在亚马逊网站或eBay上买到。
+The pioneers of the wandering floor bots were Electrolux, with its Trilobite, and the well-known Roomba, by iRobot, which was first released in 2002, and updated most recently last fall. Roomba has sold 10 million units. When the first Roomba rolled off the assembly line in 2002, the idea was so new that consumers argued that it wasn’t a robot at all, said Colin Angle, chief executive and co-founder of iRobot. After all, where were the face, arms and legs?
+早期的地板漫游机器人包括伊莱克斯(Electrolux)生产的Trilobite，以及iRobot公司的著名产品Roomba。Roomba于2002年问世，去年秋天推出最新型号。Roomba机器人的销量目前已经达到1000万台。iRobot的首席执行官兼联合创始人柯林·安格尔(Colin Angle)说，2002年，当第一台Roomba在生产线上诞生时，这个产品是如此独出心裁，以至于消费者都认为，它根本不是机器人。毕竟，机器人的脸、胳膊、腿都在哪呢？
+Most bots do only one task because once you start adding functions, the robot becomes too heavy and expensive, said Philip Solis, an analyst at ABI Research who follows the consumer robotic industry.
+ABI Research公司追踪消费机器人行业的菲利普·索利斯(Philip Solis)说，大多数机器人只能完成一项任务，因为如果为机器人增加功能，机器人的重量会太大，价格也会太贵。
+But he sees that changing as technology improves.
+但他认为，随着技术的进步，这一点正发生改变。
+“I think we’re going to see an evolution from single-task robots to multiple-task robots to robots that can be more like a personal assistant,” Mr. Solis said, adding that he envisioned this happening over the next 10 to 20 years.
+索利斯说，“我认为，我们将会看到，只能完成单一任务的机器人逐渐被能够处理多任务的机器人所取代，然后被更加类似于个人助理的机器人所取代。”他接着说，他认为这一切在未来10到20年内就会实现。
+These household servants could answer the door, pick up packages and maybe even let in the cable repairman, he said.
+他说，这些家庭服务员将能够在有人敲门时去开门，能够取包裹，甚至还能把修理有线电视的人请进家里。
+Consumers may catch a glimpse of that kind of technology later this year with the introduction of Budgee, a robot on wheels with a cute oval face, blank eyes and basket that follows you through a store and can carry as much as 50 pounds of purchases for that epic shopping trip. It is expected to cost about $1,400.
+今年晚些时候，当Budgee机器人面市时，消费者就可以对此类技术有所了解了。Budgee靠轮子移动，有一张可爱的椭圆形脸、没有眼珠的大眼睛，并携带一个篮子。它能跟着你在一家商店内穿行，搬运重达50磅（约合23公斤）的商品，帮你完成大采购。预计这款机器人的价格将为1400美元左右。
+Rosie may be getting a step closer.
+我们可能距离拥有罗西又近了一步。

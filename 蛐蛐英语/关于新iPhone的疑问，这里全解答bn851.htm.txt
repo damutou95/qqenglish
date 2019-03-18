@@ -1,0 +1,70 @@
+There have been weeks of rumors and speculation about Apple’s product announcements on Tuesday. Want to know more about the candy-colored iPhone 5C, pricing for the new devices, photography specifications or the biometric thumbprint sensor? We answer questions from readers of the Bits blog here.
+关于苹果本周二发布的新品，数周以来充满了各种传言和猜测。关于糖果色的iPhone 5C、新产品的定价、摄像头的规格，或者是生物识别技术的指纹传感器，你想有进一步的了解吗？以下是我们对Bits博客读者提出的一些问题的回答。
+Q. “How much will the phones be without a contract?” asked Stephanie.
+问： “没有合约的裸机多少钱？”斯蒂芬妮(Stephanie)问。
+A. iPhone 5C (16-gigabyte), $549
+iPhone 5C (32-gigabyte), $649
+iPhone 5S (16-gigabyte), $649
+iPhone 5S (32-gigabyte), $749
+iPhone 5S (64-gigabyte), $849
+答： iPhone 5C(16 GB)，549美元（中国市场售价4488元）
+iPhone 5C(32 GB)，649美元（中国市场售价5288元）
+iPhone 5S(16 GB)，649美元（中国市场售价5288元）
+iPhone 5S(32 GB)，749美元（中国市场售价6088元）
+iPhone 5S(64 GB)，849美元（中国市场售价6888元）
+Q. Ricky asks, “What day can I pre-order my iPhone?”
+问：“从哪天起可以预订iPhone？”瑞奇(Ricky)问。
+A. The iPhone 5C will be available for pre-order beginning Sept. 13. Both the iPhone 5C and iPhone 5S will be for sale in stores on Sept. 20.
+答：iPhone 5C开放预订是在9月13日。iPhone 5C和iPhone 5S都将从9月20日开始在商店发售。
+Q. “The announcement indicated the new iPhone 5S battery would supply 250 hours ‘idle’ time. Any indication regarding battery life when using data, music, video, etc.?” asked a reader in Northern California.
+问：“发布会说iPhone 5S的电池有250小时的待机时间。如果使用数据服务、听音乐、看视频之类，电池续航时间能有多久？”北加州的一名读者问。
+A. Apple’s senior vice president for engineering, Craig Federighi, presented new standards for battery life for the iPhones 5S, showing 10 hours of battery life for phone conversations, video play, or Wi-Fi or LTE browsing. The new batteries, he said, would support 40 hours of music play or 250 hours of standby time.
+答：苹果公司的高级工程副总裁克雷格·费代里吉(Craig Federighi)谈到了iPhone 5S电池续航时间的新标准：电话交谈，播放视频，或者用WiFi或LTE浏览网页时，电池可以使用10小时。他还说，新的电池可以支持40小时音乐播放，或者250小时待机。
+Q. “Nothing on the ‘I-watch’?! Samsung looks to have snatched the rug from Apple,” wrote Darrell in Philadelphia.
+问：“没有关于iWatch手表的任何消息吗？看样子，三星已经赶在了苹果前面。”费城的达雷尔(Darrell)写道。
+A. Although many people had suspected that Apple would be announcing a breakthrough wearable computer for the wrist today, no such announcement was made. The initial speculation about an “iWatch” was fueled by reports that Apple had applied to register the “iWatch” trademark in Taiwan, Russia, Mexico and Japan this summer. Four days ago, handset rival Samsung announced its Galaxy Gear smartwatch. It remains to be seen whether a competing product from Apple is in the works, or if the overseas trademark registrations they made earlier this year indicate either a false start, or a red herring.
+答：很多人都曾经怀疑，苹果会在今天发布一款突破性的可佩戴手腕电脑，尽管如此，它并没有发布这种产品。人们对iWatch的猜测，最初是因为相关报道称，苹果今年夏天在台湾、俄罗斯、墨西哥和日本申请注册了“iWatch”商标。四天前，苹果的手机对头三星发布了Galaxy Gear智能手表。苹果是否在研制一款类似的产品，该公司今年早些时候申请国外商标注册的举动是不是放烟幕弹，这个项目是不是已经胎死腹中，这些都有待观察。
+Q. “Aside from the plastic case and colors, how will the 5C distinguish itself from the 5S? Will only the 5S, for instance, have the ability to unlock with a fingerprint?” asked Michelle in New York.
+问：“除了塑料外壳和颜色之外，5C和5S还有什么差别呢？比方说，是不是只有5S才有指纹解锁功能？”纽约的米歇尔(Michelle)问。
+A. Yes. The higher-priced iPhone 5S has a few features the iPhone 5C does not. While the iPhone 5C was called “unapologetically plastic,” the iPhone 5S is made with an anodized alumninum body. The higher-priced model also has a faster processor (which can display higher-quality graphics, as Apple showed off with a demo of the game Infinity Blade 3), as well as a “motion compressor” that will allow developers to create more accurate fitness and motion-tracking applications.
+答：是的。iPhone 5S价位较高，拥有一些iPhone 5C不具备的功能。iPhone 5C“理直气壮地使用了塑料”，iPhone 5S的机身则采用了铝合金材质。iPhone 5S还搭载了速度更快的处理器（它可以显示品质更高的图形，就像苹果用游戏《无尽之剑3》[Infinity Blade 3]演示的那样）以及一个“运动压缩器”(motion compressor)，让开发人员可以创制更准确的健身和运动追踪应用。
+Its camera is an improvement over the cheaper iPhone 5C, offering better pictures in low light, more natural-looking flash photography and video features like frame stabilization and slow motion. The iPhone 5S is also the only Apple device available with the “Touch ID” fingerprint scanner, which both unlocks the smartphone and can be used to authorizes purchases in Apple’s iTunes store. Free versions of Apple’s iWork software for word processing, spreadsheets and presentations are also included with the iPhone 5S, but not with the cheaper model.
+iPhone 5S的摄像头也比低价的iPhone 5C要好，在低光照条件下可以拍出更好的照片，使用闪光灯拍出的照片看起来更加自然，还有防抖和慢动作等视频功能。iPhone 5S也是唯一一款配备“Touch ID”指纹扫描仪的苹果设备，你既可以用它给5S解锁，也可以在苹果iTunes商店购物时用它进行验证。iPhone 5S自带苹果iWork文字处理、电子表格和演示文稿软件免费版，iPhone 5C上就没有。
+Q. “If the fingerprint recognition fails, is there another way in? And if there is another way in, what use is the fingerprint recognition?” asked J. Amory of New York.
+问：“如果指纹识别失败，可以用其他方式解锁吗？如果有其他方式，指纹识别还有什么用呢？”纽约的J·艾默里(J. Amory)问。
+A. The fingerprint scanner is surprisingly snappy and accurate. You can teach the phone to remember several fingerprints, too. So you can add your thumb and fingers. Or your thumb and several of your friend’s and family member’s thumbs. If you don’t want to use the fingerprint scanner, you simply swipe to unlock and type in a traditional pin. — Nick Bilton
+答：指纹扫描仪用起来惊人地利索、准确。你可以让iPhone记住几个指纹，这样就可以把自己拇指和其他手指的指纹都加进去，也可以使用自己的拇指以及朋友家人的拇指指纹。如果你不想使用指纹扫描仪，只管采用滑动解锁方式，就像以前那样输入密码就行。——尼克·比尔顿(Nick Bilton)
+Q. “Anybody creeped-out by the possibility that someone might eventually be able to hack into your phone and get your fingerprint, to be used for a nefarious purpose? Is that an implausible concern?” asked Alan in Hawaii.
+问：“到最后，有人可能会破解你的手机，获取你的指纹，用来干坏事；有没有人被这样的可能性吓得毛骨悚然呢？这是杞人忧天吗？”夏威夷的艾伦(Alan)问。
+A. Given recent revelations about the ability of the National Security Agency to foil common forms of encryption, many have expressed concern on this subject. A range of posts on Twitter suggest that a number of people are indeed, “creeped out” by such a possibility.
+答：由于国家安全局(National Security Agency)破解通常密码的能力最近遭到曝光，很多人都表达了对这个问题的担忧。Twitter上有大量这样的帖子，说明有很多人确实被这种可能性“吓得毛骨悚然”。
+Apple, for its part, reassured the audience at today’s announcement that the “Touch ID” fingerprint access system they have built stores no data on Apple servers or in the cloud but instead is “encrypted and stored securely in the Secure Enclave inside the A7 chip on the iPhone 5S,” according to a press release.
+根据一份新闻稿，苹果方面在今天的发布会上让观众放心，他们开发的“Touch ID”指纹识别系统不会把数据存储在苹果的服务器或是云上，而是会“对它进行加密，然后安全地存入iPhone 5S的A7芯片内部的安全空间”。
+Q. I read reports that Apple was thinking of allowing existing customers to exchange their old/current iPhone for a 5S, and presumably get a credit toward the purchase price. Is this true?
+问：我看到报道说，苹果正在考虑允许现有的消费者用老款或当前款iPhone手机换5S，由此就可以享受一点儿价格抵扣。是真的吗？
+A. Yes, there is a trade-in program where Apple will accept your old iPhones and give you store credit toward a new one. — Brian X. Chen
+答：是的，是有一个以旧换新活动。参加这个活动的话，苹果会回收你的旧iPhone，在你购买新手机时减免部分价钱。——Brian X. Chen
+Q. All the iPhone 5 accessories will work with the 5S right? Vijay (@deejayvijay) 10 Sep 13
+问：“iPhone 5的所有配件都能用在5S上吗？” 这是Vijay (@deejayvijay)在13年9月10日提出的问题。
+A. Unfortunately, no. While the iPhone 5C and 5S use the same “Lightning” connector as the earlier iPhone 5 model, the camera placement on the new devices are different. So you can keep your charger, but you’ll need a new case. If you are upgrading to the iPhone 5C, you’ll need a new dock as well.
+答：很遗憾，情况不是这样。尽管iPhone 5C和iPhone 5S使用的“闪电”接口和此前的iPhone 5一样，但两款新iPhone的摄像头所处的位置与老款不同。因此，你可以留着充电器，但需要换新壳。如果要升级到iPhone 5C，你还需要一个新底座。
+Q. “Will the new iOS change the battery life of a 4S or 5 iPhone? If I upgrade and don’t like the performance can I dial the iOS back to what I’m using now?” asked Henry in New York.
+问：“新的iOS会影响iPhone 4S和iPhone 5的电池寿命吗？如果升级后不满意它的表现，我还能让iOS回归目前版本吗？”亨利(Henry)自纽约提问。
+A. We can’t be certain until more people try it. People who have been using the beta on an iPhone 5 say anecdotally that there is a slight battery performance decrease. I would expect it to affect the battery life of the iPhone 4S significantly because it has full multitasking capability and other new features that will be intense on the older processor. — Brian X. Chen
+答：在更多人试过之前，我们无法确定。在iPhone 5上用过测试版的人说起了电池性能略微降低的情况，不过不一定可靠。我预计它会严重影响iPhone 4S的电池寿命，因为它具有全面运行多项任务的能力，还有其他一些新功能，在更老的处理器上，这些功能运行起来会很吃力。———Brian X. Chen
+Q. “I was really expecting to hear of an increased screen size… any mention during the announcements as to why this did not occur with the new iPhone?” asked a reader in Philadelphia.
+问：“我真的希望听到屏幕变大的消息……为何两款新iPhone的屏幕没有变大，发布会上说到了吗？”一位读者自费城提问。
+A. The answer to why Apple has not yet released a larger iPhone has multiple components. First, there’s a common misconception that mainstream consumers actually want a larger screen. Earlier this year, AT&T said that 9 out of 10 customers opted for a 4-inch screen, or smaller, when buying a smartphone — even with options in stores that scale up to 6 inches, or, as they have been nicknamed, phablets.
+答：关于苹果为何没有发布一款屏幕更大的iPhone手机这个问题，答案涉及好几个方面。首先，人们普遍有一个误解，认为主流消费者确实想让屏幕变得更大。今年早些时候，AT&T称，购买智能手机时，即便店里摆着6英寸屏或是有平板手机之称的手机，90%的消费者也倾向于选择4英寸或屏幕更小的手机。
+Second, Apple goes to great lengths to ensure that manufacturing and app development remain simple for all involved. When the company enlarged the iPhone 5, older apps still worked on the new phone, and the home screen looked exactly the same, but with an extra row of apps. A larger iPhone would mean lots of re-tooling, re-designing and re-training. Finally, this is not just about customers wanting a larger phone, but it is also about how big their pockets are — both figuratively and literally. Customers want to ensure that their smartphone fits in a pants pocket. Some of Samsung’s extra-large smartphones are so big you actually need a bag to carry them. (Yes, a bag to carry a smartphone.)
+其次，苹果花了很大力气，确保生产流程和应用开发对相关各方保持简单。苹果加大iPhone 5的尺寸之后，旧的应用依然能在这款新手机上使用，主屏幕看上去几乎一样，只是多了一排应用。如果iPhone的尺寸再大一些，就意味着要重新进行大量的加工、设计和训练。最后，这不仅关乎想让手机更大的顾客，还关乎他们的口袋有多大，从象征意义和字面意义来看都是如此。顾客希望确保自己的智能手机能放进裤兜。三星(Samsung)的一些超大款智能手机确实大到了需要你用一个袋子来装的地步。（是的，一个专门装智能手机的袋子。）
+All of that being said, will Apple eventually release a larger iPhone? Yes, but the company is going to wait until more consumers want these devices, and right now, that time is not here. — Nick Bilton
+尽管如此，苹果最终会推出一款尺寸更大的iPhone吗？会，但苹果公司会等到有更多消费者想拥有那种手机的时候，至于目前，还不是时候。——尼克·比尔顿
+Q. “I saw clearly that the fingerprint scanner could be used for the initial passcode lock to unlock the phone and for purchases on the App Store, iTunes, etc. However, it wasn’t clear if it will be able to be used by 3rd party apps,” wrote a reader in Arizona.
+问：“我看得很明白，指纹扫描仪可以用作解锁电话的初始密码锁，还可以用来在App Store和iTunes之类的地方购物。然而，还不清楚第三方应用能不能使用指纹扫描仪，”亚利桑那州的一名读者写道。
+A. No. Apple has said the fingerprint scanner will not be available to third-party apps. It doesn’t make sense, however. for Apple not to offer an API for third-party apps to use it. When Phil Schiller showed off the new feature, he noted that remembering passwords was very difficult and cumbersome, yet he offered a solution to that problem only with Apple products. Hopefully the company will allow third-party apps to use the fingerprint scanner in the future, too. — Nick Bilton
+答：不能。苹果已经说明，第三方应用无法使用指纹扫描仪。不过，苹果不提供第三方应用使用指纹扫描仪的应用程序界面（Application Program Interface，简称API），这一点并不合理。菲尔·席勒(Phil Schiller)在炫耀这一新功能时指出，记密码很难，也很麻烦，但针对这个问题，他提供的是一个只能借助苹果产品的解决办法。但愿苹果公司将来会允许第三方应用使用指纹扫描仪。——尼克·比尔顿
+Q. Why is iOS7 so ugly? naseek (@nasique) 10 Sep 13
+问：为什么iOS7这么难看？这是naseek(@nasique)在13年9月10日提出的问题。
+A. There is no accounting for taste.
+答：品味不同，各有所好。

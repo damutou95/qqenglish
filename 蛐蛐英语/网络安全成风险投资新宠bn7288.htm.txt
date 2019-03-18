@@ -1,0 +1,44 @@
+MENLO PARK, Calif. — The question is no longer who have hackers hit. It is who has not been hit.
+加利福尼亚州门洛帕克——现在问题不再是谁遭到黑客攻击，而是谁还没遭受攻击。
+The organizations attacked by pranksters, criminal syndicates or foreign governments include Google, LinkedIn and the Central Intelligence Agency.
+恶作剧者、犯罪组织或者外国政府已经袭击了许多组织，其中包括谷歌(Google)、社交网站LinkedIn和中央情报局(Central Intelligence Agency)。
+Big companies are expected to spend $32.8 billion on computer security this year, up 9 percent from last year. Small and medium-size businesses will spend more on security than on other information technology purchases in the next three years, according to the research firm International Data Corporation.
+今年，大型公司在电脑安全方面的花费预期会达到328亿美元，比去年增加9%。据调查公司国际数据公司(International Data Corporation)透露，在未来三年里，中小型企业在安全方面的花费将会超过在其他信息技术领域的投入。
+Yet here in Silicon Valley, with all the feverish talk of innovation and billion-dollar start-ups, few entrepreneurs and venture capitalists have been eager to take on the security juggernauts Symantec and McAfee — and in many cases cybercriminals — for a piece of that action.
+但是在硅谷，大家乐此不疲的讨论创新活动和价值数十亿的创业公司，却很少有企业和风险投资家愿意挑战电脑安全巨头赛门铁克(Symantec)、迈克菲(McAfee)——以及在很多情况下网络罪犯——来从中获利。
+That has started to change. In the last 12 months, the initial public offerings of once obscure security start-ups have outperformed offerings from household names like Facebook and Zynga. Imperva, a data security company that went public last year, finished 2011 among the year’s top offerings. Its shares jumped nearly 30 percent on their first day of trading, and remain 37 percent above the offering price. Zynga’s stock, by comparison, has plunged 73 percent since its offering last December.
+这种情况已经开始发生改变。在过去12个月里，那些曾经鲜为人知的安全公司首次公开募股(IPO)的表现超过了Facebook和Zynga等家喻户晓的公司。Imperva 是一家去年上市的数据安全公司。2011年，这家公司的IPO表现跻身最优行列。该公司股价在上市首日就上涨将近30%，现在的股价仍比上市价格高出37%。相比之下， Zynga从去年12月公开募股以来，股价暴跌73%。
+Shares of Splunk, a data security company, jumped nearly 65 percent from its offering in April. It raised $331 million in a secondary offering. Most recently, shares of Palo Alto Networks, a security start-up, climbed 26 percent when they started trading in July.
+数据安全公司Splunk的股价比四月份上市时上涨了将近65%。该公司在第二次发行时筹得3.31亿美元。最近，安全领域新公司Palo Alto Network自7月份上市以来，股价已经上涨了26%。 
+The reason for the enthusiasm? “People are starting to realize that the billions of dollars that have been invested into traditional network security is not working for them anymore,” said Ted Schlein, a partner at Kleiner Perkins Caufield & Byers, the venture capital firm.
+市场为什么对这些公司热情高涨？风险投资公司凯鹏华盈(Kleiner Perkins Caufield & Byers)的合伙人特德·施莱因(Ted Schlein)说，“人们开始意识到，投入到传统网络安全领域的数十亿美元已经不再管用了。”
+Security start-ups have also become red-hot takeover targets. Apple, which has avoided big-ticket deals, agreed to acquire AuthenTec for $356 million last month in its second-largest acquisition to date. And last year, the EMC Corporation, which already owned RSA, acquired NetWitness. The price was never disclosed but people close to the acquisition talks say NetWitness sold for $400 million, more than 10 times its 12-month trailing revenue.
+安全领域的创业企业成为了热门收购目标。苹果(Apple)一直避免大额收购交易，但该公司在上个月同意以3.56亿美元收购安全公司AuthenTec。这是该公司迄今为止的第二大收购行动。去年，已经拥有安全公司RAS的EMC公司完成了对NetWitness的收购。EMC并没有对外公布交易价格，但了解此次收购谈判情况的人士透露, NetWitness的售价是4亿美元，相当于该公司过去12个月收益的十几倍。
+Venture capitalists have taken notice.
+风险投资家已经注意到了这种发展趋势。
+Last year, they collectively poured $935 million into tech security companies, nearly double the $498 million they invested during 2010, according to a MoneyTree report compiled by PricewaterhouseCoopers, the National Venture Capital Association and Thomson Reuters.
+普华永道(PricewaterhouseCoopers)、美国国家投资风险协会(National Venture Capital Association)以及汤森路透(Thomson Reuters)编制的金钱树报告(Money Tree)显示，风险投资家们去年向科技安全公司投资9.35亿美元，几乎相当于2010年4.98亿美元投资的两倍。
+“We’re seeing a flow of new entrepreneurs interested in the space,” said Asheem Chandna, a venture capitalist at Greylock who invested in Imperva and Palo Alto Networks.
+“我们看到一批新的企业家对这个领域抱有兴趣，”Greylock公司的风险投资家阿萨姆·钱德纳(Asheem Chandna)说，该公司曾对Imperva和Palo Alto Networks进行投资。
+The rise of security start-ups is the product of a confluence of new technology, fear and people with a lot of money to invest. Major technological shifts, like the move to mobile devices and cloud storage, have redirected and increased the flow of information — for both employees and hackers.
+安全初创公司的崛起是新科技的发展、对网络安全问题的担忧以及持有大量资金的投资者相互交织的产物。主要的技术转变，比如转而使用移动设备和云储存技术，已经改变了信息流动方向，并增加了信息流动量，这对员工和黑客来说都是如此。
+Hackers are becoming more sophisticated, too. Last year was the year of the “Advanced Persistent Threat,” or A.P.T., a computer attack in which hackers spend time researching a target and its intellectual property, figuring out who has access to it, and deploying any means necessary to steal it.
+黑客也变得更加老练。去年是“高级持续性威胁”(Advanced Persistent Threat，简称APT)肆虐的一年，这是一种网络攻击，黑客们会花时间研究一个目标以及它的知识产权，搞明白谁具有接触到产权的途径，而后通过各种必要的部署盗取产权。
+RSA was the victim of such an attack last year. So were the military contractors Lockheed Martin and Northrop Grumman. Speaking at a security conference last year, Timothy McKnight, Northrop Grumman’s chief security officer, said the company was fending off several such attacks a day.
+RSA在去年曾成为这种攻击的受害者。军工承包商洛克希德·马丁(Lockheed Martin)和诺斯洛普·格鲁门(Northrop Grumman)公司也曾深受其害。去年，诺斯洛普·格鲁门公司的首席安全官蒂莫西·麦肯奈特(Timothy McKnight)在一次安全会议上发言说，他们公司每天都要抵挡多次此类攻击。
+“The vast majority of companies have already been breached,” Shawn Henry, the F.B.I.’s former top computer security official, said in a recent interview. “I’ve looked at all sectors and the depth, penetration and breadth of these attacks are substantial.”
+“绝大多数公司都已经遭到黑客入侵，” 美国联邦调查局(F.B.I.)前电脑安全负责人肖恩·亨利(Shawn Henry)在最近的一次采访中说道。“我观察了所有行业的情况，这些攻击的深度、渗透度和广度都非常大。”
+The bulk of the attacks go undisclosed, either because companies don’t know they have been hit or because they fear what disclosure will mean for their stock prices. But the attacks that have surfaced have become headline-grabbing events, exposing the vulnerability of technology firms, government agencies and the security companies that people assumed were well protected.
+大多数攻击都没有对外公布，这些公司要么是因为不知道自己遭受到攻击，要么是因为担心消息一旦泄露公司股价会受到影响。但是那些浮出水面的攻击成为了头条新闻，暴露出科技公司、政府机构以及安全公司的弱点，而人们原以为这些公司和机构都得到了很好的保护。
+Patrick Morley, chief executive of Bit9, a start-up that blocks malware, says the steady stream of “bad news” has been a boon for business.
+Bit9是一家主营恶意软件阻拦业务的创业公司。公司总裁帕特里克·莫利(Patrick Morley)表示，不间断的“坏消息”已经为公司带来了更多的业务。
+Bit9 was founded a decade ago but was largely unknown until 2010, when Google’s password system was breached and top-level executives started to pay attention. “In boardrooms, executives lifted their heads and asked, ‘Are we O.K.?’ ” Mr. Morley said.
+Bit9公司成立于十年之前，但在2010年前几乎不为人知。当时，谷歌的密码系统遭到入侵，高管们开始注意这个问题。“在董事会中，高管们抬起头问道，‘我们还好吗’”莫利说。
+Investing in security can entail unusual challenges. In some cases, venture capitalists have received death threats from online criminals. In others, criminals have shut down their sites altogether.
+对安全公司投资意味着将要面对不同寻常的挑战。在某些案例中，风险投资家曾经收到来自网络罪犯的死亡威胁。在其他案例中，罪犯完全关闭了他们的网站。
+Ray Rothrock, an investment partner at Venrock, said he had received threatening e-mails from such people. On occasion, his firm has hired security guards to protect its offices.
+Venrock公司的一位投资合伙人雷·罗思罗克(Ray Rothrock)表示，他曾收到过这些人发出的威胁邮件。有时候，他的公司会雇佣保安人员来保护该公司的办公室。
+Blue Security, an Israeli start-up backed by Benchmark Capital and others, was forced to shut down its antispam service in 2006 after criminals responded to its filtering technology with an aggressive counterattack.
+2006年，由Benchmark Capital和其他公司支持的以色列创业公司Blue Security在罪犯对他们的过滤技术予以激烈反击后，被迫停止了反垃圾邮件服务。
+Spammers flooded its database servers with so much traffic that it took down Blue Security — and thousands of other Web sites with it — to the point that Internet service providers refused to host the service and it was forced to close.
+攻击者通过针对该公司数据库服务器的大流量访问致使其网站和数千个其他网站瘫痪，以至于网络服务供应商拒绝托管其服务，最终迫使公司关闭相关服务。

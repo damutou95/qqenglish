@@ -1,0 +1,52 @@
+For the past few years, Mary Lou Guerinot has been keeping watch over experimental fields in southeast Texas, monitoring rice plants as they suck metals and other troublesome elements from the soil.
+在过去这几年里，玛丽·洛伊·格里诺特(Mary Lou Guerinot)一直在监测得克萨斯东南部的试验田，了解大米作物从土壤里吸收金属和其他让人担心的元素的情况。
+If the fields are flooded in the traditional paddy method, she has found, the rice handily takes up arsenic. But if the water is reduced in an effort to limit arsenic, the plant instead absorbs cadmium — also a dangerous element.
+她发现，如果稻田使用的是传统的灌溉法，稻米会快速吸附砷。可如果为了控制砷而减少灌溉水源，稻米则会吸附镉——这同样是一种危险的元素。
+“It’s almost either-or, day-and-night as to whether we see arsenic or cadmium in the rice,” said Dr. Guerinot, a molecular geneticist and professor of biology at Dartmouth College.
+格里诺特博士是达特茅斯学院(Dartmouth College)分子基因学家、生物学教授，她说：“对于我们在大米中是会测出砷还是镉，这简直成了道非此即彼的选择题。”
+The levels of arsenic and cadmium at the study site are not high enough to provoke alarm, she emphasized. Still, it is dawning on scientists like her that rice, one of the most widely consumed foods in the world, is also one of nature’s great scavengers of metallic compounds.
+她强调指出，在试验田里检出的砷或镉浓度，还不足以拉响警报。不过，这已经足以令像这样的科学家惊觉：作为全球最广泛消费的食物，大米同时还是自然界中最主要的金属化合物吸附体。
+Consumers have already become alarmed over reports of rice-borne arsenic in everything from cereal bars to baby food. Some food manufacturers have stepped up screening for arsenic in their products, and agencies such as the Food and Drug Administration now recommend that people eat a variety of grains to “minimize potential adverse health consequences from eating an excess of any one food.”
+已经有很多报告指出，从麦片棒到婴儿食品的各类大米制品中检出了砷，这令消费者已经产生了警惕。一些食品加工企业已开始主动筛查产品砷含量，而像美国食品药品监督局(Food and Drug Administration)这类机构现在建议人们要确保所吃的谷物品种多样化，好“将过量食用单一食品导致的潜在负面健康影响最小化”。
+But it’s not just arsenic and cadmium, which are present in soil both as naturally occurring elements and as industrial byproducts. Recent studies have shown that rice is custom-built to pull a number of metals from the soil, among them mercury and even tungsten. The findings have led to a new push by scientists and growers to make the grain less susceptible to metal contamination.
+但令人忧心的还不仅仅是砷和镉，这两种物质既可能作为天然产生的元素出现在土壤中，也可能是工业副产品。近期的一些研究显示，稻米拥有从土壤中积蓄所有金属的能力，当中包括了汞甚至钨。这些发现促使科学家和种植者们采取新一轮行动，努力培育对金属污染不那么敏感的谷物。
+The highest levels often occur in brown rice, because elements like arsenic accumulate in bran and husk, which are polished off in the processing of white rice. The Department of Agriculture estimates that on average arsenic levels are 10 times as high in rice bran as in polished rice.
+糙米所含的重金属含量往往最高，这是因为像砷这类元素是在米糠和稻壳中积蓄，在白米的精加工过程中会被碾压脱除。美国农业部预测，平均来说米糠中所含的砷含量可高达大米的10倍。
+Although these are mostly tiny amounts — in the part per billion range — chronic exposure to arsenic, even at very low levels, can affect health. The F.D.A. is now considering whether a safety level should be set for arsenic in rice.
+尽管大米中含有的剂量通常极其微小——浓度单位是以1公斤中含有1微克计——但长期暴露于砷元素中仍然可影响健康，哪怕浓度很低。食品和药品监督局现在正考虑是否要对大米中的砷含量设定一个安全上限。
+“Rice is a problem because it’s such a widely consumed grain,” said Rufus Chaney, a senior research agronomist with the U.S.D.A.’s Agricultural Research Service, who is leading a investigation of metal uptake by food crops. “But it’s also a fascinating plant.”
+“大米会带来问题，因为这是一种广泛食用的谷物，”美国农业部农业研究服务方面的资深农学家鲁弗斯·查尼(Rufus Chaney)是一个农业作物金属积蓄调查项目的领导人。他说：“但它同时又是种十分吸引人的作物。”
+Like people, plants have systems for taking up and absorbing necessary nutrients. In plants, these “transporter” systems work to pull minerals such as iron, calcium, zinc and manganese from the soil.
+跟人类一样，植物也拥有占据并吸收必需营养物质的系统。在植物中，这类“运输”系统可用来从土壤中吸收铁、钙、锌和锰这类矿物质。
+The rice plant has a well-designed system for taking up silicon compounds, or silicate, which help strengthen the plant and give stiffness and shape to its stems. Tissues generally referred to as phloem move such water-soluble nutrients throughout the plant.
+稻谷作物有一套巧妙的系统，可以吸收硅化合物，或称硅酸盐，以此来帮助植株健壮，茎杆强韧。茎皮部将水溶营养物质推运到植株各部分，用来保证各个组织营养供应。
+But that delivery system also inclines the plant to vacuum up arsenic compounds, which are unfortunately similar in structure to silicate. And the traditional methods of growing rice, which often involve flooding a field, encourage formation of a soluble arsenic compound, arsenite, that is readily transported by the rice plant.
+糟糕的是，砷化合物的结构与硅盐相似，因此这种传输系统也使得水稻易于吸附砷化合物。同时，以传统方法种植水稻，往往需要灌溉整片农田，这种方式更容易产生水解砷化合物亚砷酸盐，并在水稻植株中传输。
+“The issue with the rice plant is that it tends to store the arsenic in the grain, rather than in the leaves or elsewhere,” said Jody Banks, a plant biologist at Purdue University, who studies arsenic uptake in plants. “It moves there quite easily.”
+“水稻作物的问题在于，它往往会在稻米，而非叶片或其他部位积聚砷，”普度大学(Purdue University)植物生物学家乔迪·班克斯(Jody Banks)研究的领域是植物中的砷积聚，她说：“而且吸附的速度极快。”
+The highest concentrations of arsenic in rice-growing regions are mostly found in parts of Asia — including Bangladesh and India — where the underlying arsenic-rich bedrock contaminates groundwater used for both drinking and irrigation of rice fields.
+在产大米区，检出砷浓度最高的区域为亚洲部分地区——包括孟加拉和印度——这些地区陆壳下层的基岩富含砷，会污染地下水，而这些水源既用于饮用，又用于稻田灌溉。
+But arsenic at lower levels is found in all soils, including American fields. The fertile soils fanning out across the Mississippi River floodplain are up to five times as high in arsenic as other parts of Louisiana, Mississippi and Arkansas, according to studies done by the United States Geological Survey.
+不过，较低浓度的砷已在世界各国，包括美国的土壤中检出。据美国地质调查局(United States Geological Survey)的研究，密西西比河泛滥平原冲刷的肥沃土壤，其砷含量可高达路易斯安那、密西西比和阿肯色州其他地区的五倍。
+It’s for that reason, as well as for water conservation, that scientists have experimented with reducing the amount of water used for rice fields. But as Dr. Guerinot has found, that makes cadmium more available to the plant instead.
+正是基于此，同时考虑到保护水资源，科学家们曾尝试过减少稻田灌溉水量。但正如格里诺特博士所发现的那样，这种作法又会使得水稻吸附过量的镉。
+Other plants also take up cadmium, Dr. Chaney noted, usually by the channels normally used to acquire zinc from the soil. But the rice plant, curiously, absorbs nearly all of its cadmium through a manganese transport system. And this route — discovered by a determined group of Japanese researchers — brings a new set of complications.
+查尼博士指出，其他植物也会吸收镉，通常采用的是从土壤中吸收锌的那些管道。但有趣的是，稻米作物则是经由吸收锰的管道来吸附几乎所有镉。而这条管道——它是由一群坚韧的日本研究人员发现的——则会带来一系列新问题。
+While zinc is relatively common in soil, soluble manganese is less readily found. So cadmium has little competition in the rice plant’s transport system — meaning that it is accumulated with apparent enthusiasm.
+锌在土壤中相对常见，可溶性的锰则较少被人发现。因此在稻米作物的输送系统中，镉几乎碰不到任何竞争对手——这意味着，它会十分带劲地储存这种金属。
+The association between cadmium in rice and human disease goes back decades. Most scientists cite the identification of itai-itai (ouch-ouch) disease in Japan during the 1960s as the first recognition of this problem. The name comes from the painful effects of bone fractures, one of many health problems related to cadmium exposure.
+大米中的镉和人类疾病之间的联系，可追溯到几十年前。大部分科学家援引20世纪60年代日本出现的“痛痛病”(itai-itai disease)，相信这是可确认的最早病例。人体接触镉会出现大量病征，其中一项是骨折，该病名就源于骨折带来的痛苦。
+Researchers eventually discovered that cadmium pollution from mines and other industry had spread into rice farming areas in Japan, causing the grain to be loaded with the toxic metal.
+研究人员后来发现，是矿井和其他工业带来的镉污染扩散到了稻田中，导致大米吸附了大量有毒金属。
+Scientists say that the cadmium occurring naturally in American soil is not high enough to cause acute disease. Still, because rice is such an important food crop, scientists are searching for ways to block its metal-acquiring tendencies.
+科学家表示，在美国土壤中自然存在的镉浓度不足以引发急性疾病。但是，由于大米作为粮食作物的意义实在太重要了，科研人员一直在想办法阻断它吸附金属的趋向。
+There are efforts to breed rice plants that transfer more zinc and iron into the grain, which would both increase nutritional quality and reduce toxicity. There are also programs, including the experiment in Texas, that try to breed improved rice cultivars less prone to absorb toxic minerals.
+研究人员已经尝试培育将更多锌和铁输送到大米中的稻米品种，这既能提高作物营养水平，又可降低毒性。此外目前还有其他项目正在进行，包括德克萨斯州的一项试验，目标是培育不易吸收有毒矿物质的稻米品系。
+And researchers have explored the idea of genetic engineering to make the plant’s transport systems more precise so that cadmium or arsenic is filtered out.
+同时，研究人员还在尝试转基因技术，通过精确设计稻米作物的传输系统来阻断镉或砷。
+Finally, they are looking into using other plants to reduce the toxic elements in the soils themselves, a process called phytoextraction. Dr. Banks, for instance, is studying a fern that deftly pulls arsenic from the soil and stores it in the fronds.
+最终，他们在设法通过其他植物来减少土壤中的有毒成份，这个过程称为植物提取。比方说，班克班博士正在研究用一种蕨类植物巧妙地吸附土壤中的砷，并储存在其叶片中。
+The plant, known as a Chinese brake or ladder fern, is so talented in this regard that the Chinese have approached American scientists about the feasibility of using it to clean up contaminated soils. Of course the ferns eventually have to be incinerated or taken to a toxic disposal site.
+这种植物称为蜈蚣草，又名肾蕨，因为它在吸收重金属方面十分出色，中国的科研人员接触到美方研究人员，讨论用它来治理污染土壤的可行性。当然了，这种蕨类最终需要焚毁或者送往专门的有害废物处理中心。
+“You definitely wouldn’t want to eat them,” said Dr. Banks.
+“你绝对不能吃它，”班克斯说。

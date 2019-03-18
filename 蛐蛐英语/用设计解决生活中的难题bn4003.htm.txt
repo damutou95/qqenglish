@@ -1,0 +1,58 @@
+Akshay Kothari’s first assignment at the D.school — formally known as the Hasso Plattner Institute of Design at Stanford University — was to rethink how people eat ramen noodles. His last D.school assignment led to a news-reading app that was bought by LinkedIn for $90 million.
+阿克沙伊·科塔里(Akshay Kothari)在D学院 (D.school)——正式名称为斯坦福大学(Stanford University)哈索·普拉特纳设计研究所(Hasso Plattner Institute of Design)——的第一份作业是重新思考人们如何吃拉面。他在D学院的最后一份作业是一个新闻阅读应用程序，以9000万美元的价格卖给了LinkedIn网站。
+While the projects had wildly different end products, they both had a similar starting point: focusing on how to ease people’s lives. And that is a central lesson at the school, which is pushing students to rethink the boundaries for many industries.
+尽管这些项目拥有截然不同的终端产品，可是都有相似的起点：专注于如何减少人们生活中的烦恼。这就是D学院的中心课程，激励学生重新思考众多行业的边界。
+At the heart of the school’s courses is developing what David Kelley, one of the school’s founders, calls an empathy muscle. Inside the school’s cavernous space — which seems like a nod to the Silicon Valley garages of lore — the students are taught to forgo computer screens and spreadsheets and focus on people.
+这所学院课程的核心宗旨是培养学院创始人大卫·凯利(David Kelley)所说的换位思考能力。在这所学院宽敞的空间里——这似乎是向传说中的硅谷车库致敬——学生们被教导放弃电脑屏幕和电子表格，专注于人的需要。
+So far, that process has worked. In the eight years since the design school opened, students have churned out dozens of innovative products and start-ups. They have developed original ways to tackle infant mortality, unreliable electricity and malnutrition in the third world, as well as clubfoot, a common congenital deformity that twists a baby’s feet inward and down.
+目前为止，这个过程已经奏效。这所设计学院开设8年来，学生们已经打造了数十个创新产品和初创企业。他们开发了各种原创方案，用于解决第三世界的婴儿死亡率、电力不足和营养不良问题，甚至还有马蹄内翻足，这种常见的先天性足畸形让婴儿的两足向内和向下弯曲。
+Those successes have made the D.school the envy of universities around the world. Sarah Stein Greenberg, a D.school alum and managing director, says she receives inquiries every week from universities looking to mimic the D.school curriculum.
+这些成功举措让D学院赢得了全球各地大学的艳羡。D学院校友、董事长莎拉·斯坦·格林伯格(Sarah Stein Greenberg)表示，她每周都能收到各所大学的邀请，希望效仿D学院的课程安排。
+The school has also become one of the most highly sought destinations at Stanford. Some of the most popular classes get four times as many applicants as there are seats available. To meet the demand, the D.school is adding full courses and so-called pop-up classes, which focus on a more narrow problem. “Where Did You Go Olympia Snowe?,” a recent pop-up class, challenged students to solve the seemingly most intractable problem of all: rekindling bipartisanship. Olympia J. Snowe, a former Republican senator of Maine, even made a brief guest appearance.
+这所学院也成为了斯坦福大学最受追捧的热门学院。有几门最受欢迎的课程，报名人数高达听课名额的四倍。为了满足学生的需求，D学院增加了完整课程和所谓的选修课程，这种课程专注于更具体的问题。最近有门选修课程名为“奥林匹亚·斯诺(Olympia Snowe)，你要走向何方？”，要求学生解决看似最为棘手的问题：重新促进两党合作。奥林匹亚·斯诺是缅因州前共和党参议员，她本人还在课堂上短暂客串。
+Mr. Kelley, who also started the design firm IDEO, says the goal is to give students — many of them analytically minded — the tools to change lives.
+学院创始人凯利同时创办了设计公司IDEO，他表示学院的目标是提供给学生——其中很多学生都善于分析问题——改变生活的工具。
+One emphasis is to get students to leave campus and observe people as they deal with life’s messy problems.
+重点是让学生离开校园，观察人们如何解决生活中棘手的问题。
+That is how Mr. Kothari, a mechanical engineering graduate student, started his ramen project. He spent hours at local ramen shops watching and talking to patrons as they inevitably spilled broth and noodles. Together with a group of other D.school students, he built a prototype for a fat straw that would let patrons have their ramen and drink it, too.
+机械工程专业的毕业生科塔里就是这样开始了他的拉面项目。他在当地拉面馆花了几个小时，观察那些不可避免溅出肉汤和面条的顾客，和他们攀谈。他和D学院的其他学生合作，制作了粗吸管的原型，让顾客通过这种吸管吃拉面和喝汤。
+The school challenges students to create, tinker and relentlessly test possible solutions on their users — and to repeat that cycle as many times as it takes — until they come up with solutions that people will actually use.
+这所学院对学生发起挑战，让他们创建和修改可能的解决方案，坚持不懈地在用户身上进行测试——尽可能多次重复这个循环过程——直到他们找出人们实际上会采用的解决方案。
+An important element of the school, Mr. Kelley says, is having students start small, and as they gain what he calls “creative confidence” with each success, they can move toward bigger, seemingly intractable problems. It is not all that different, he said, from teaching someone to play the piano.
+凯利说，这所学院的重要原则是让学生从小处着手，随着他们的每次成功，赢得他所说的“创造力自信心”，让他们能够解决看似棘手的重大问题。他说，这和教别人弹钢琴并没有什么不同。
+A recent boot camp class dispatched students to local hair salons to tackle that age-old problem: the bad haircut.
+最近，有个新生班级把学生派到当地的美发沙龙，解决下面这个日久年深的问题：剪坏的发型。
+One group was surprised to learn that sweeping hair off the floor is the bane of many hairdressers. That group designed a prototype for a device that sucks up clippings before they hit the floor. A few courses later, the same students were asked to apply that same analytical process to the shortage of organ donors.
+有组学生惊讶地得知，地板上散落的头发是很多美容师剪坏发型的罪魁祸首。这个小组设计了一种设备原型，用于在头发掉落在地上前收集碎发。学习了几门课程后，这些学生被要求把同样的分析过程应用于器官捐献者短缺的问题。
+“It’s a guided approach to building that empathy muscle until, pretty soon, they are out there doing it on their own,” Mr. Kelley said.
+凯利说，“这种引导方式可以培养学生换位思考的能力，不久后，他们就能凭借自己的力量这样做。”
+One of the D.school’s most highly sought courses is “Design for Extreme Affordability.” Over two quarters, students team up with partners from around the world to tackle their real-world problems. So far, “Extreme” students, as they are called, have completed 90 projects with 27 partners in 19 countries. This year, students will work with partners in Cambodia, India, Nepal, Nicaragua, Senegal and South Africa.
+D学院最受欢迎的一门课程是“极限购买力设计”。在两个学期中，学生和来自世界各地的合作伙伴组成团队，解决他们遇到的实际问题。迄今为止，参与“极限购买力设计”的学生和19个国家的27个合作伙伴完成了90个项目。今年，学生们将和柬埔寨、印度、尼泊尔、尼加拉瓜、塞内加尔和南非的合作伙伴进行合作。
+One of Extreme’s more successful projects is Embrace, a low-cost miniature pouch, not unlike a sleeping bag, that helps prevent newborns from developing hypothermia. Embrace’s inventors say the pouch has helped prevent 22,000 infant deaths.
+Embrace是极限购买力设计的众多成功项目之一，这是款低成本的迷你保温袋，从外表来看不像睡袋，却能防止新生儿的体温过低。Embrace的发明者表示，这款保温袋已经防止2.2万名婴儿死亡。
+This year, Ian Connolly and Jeffrey Yang, D.school students, formed a partnership with Miraclefeet, a nonprofit based in North Carolina, to design a brace for children with clubfoot for less than $20.
+今年，设计学院的学生伊恩·康诺利(Ian Connolly)和杰弗里·杨(Jeffrey Yang)与总部设在北卡罗来纳州的非营利性组织Miraclefeet合作，设计了成本不足20美元的支架，用于治疗小儿马蹄内翻足。
+The two spoke with the mothers of children born with clubfoot and discovered that existing braces are prohibitively expensive, difficult to put on properly, and usually an eyesore, which all contribute to low compliance rates.
+这两名学生和患有先天性马蹄内翻足孩子的母亲交流，发现目前使用的支架价格过高，难以正确穿戴，通常看起来不美观，这些都导致治疗率低下。
+So they developed a prototype that consists of two colorful, detachable shoes that clip into a brace and are much easier to put on. Last August, Mr. Yang and Mr. Connolly traveled to Brazil to test 30 prototypes until one was a winner. Production is already underway, in low volumes, and by 2015, the students hope to have manufactured 15,000 braces.
+因此，他们开发了一款原型产品，包括两只色彩鲜艳的可拆卸鞋子，可以组装成更容易穿戴的支架。去年8月，杨和康诺利前往巴西，测试了30个原型，最后其中一款原型胜出。这款产品已经投产，目前产量较低，两名学生预计，到2015年支架产量会达到1.5万个。
+Mr. Yang said the project “completely derailed my career plans.” He had planned to pursue a career in academic research. Now, he hopes to get a job in product design.
+杰弗里·杨表示，这个项目“完全改变了我的职业生涯规划”。他此前打算投身学术研究。现在，他希望在产品设计领域找份工作。
+Mr. Kothari also said his plans took a new path. Before he took his first D.school course in 2008, he said, he spent most of his spare time in front of a computer, brainstorming ideas for websites and mobile apps that never materialized. Design was always an afterthought.
+科塔里还表示，他的计划开辟了一条新的道路。在2008年攻读D学院的第一门课程前，他的大部分业余时间都在电脑前度过，为网站出谋划策，开发从未实现的移动应用程序。设计总是事后考虑的问题。
+“I had never thought of myself as a designer,” he recalled. “If you needed to crunch some numbers, I was your guy.”
+“我从来没想过自己会成为设计师，”他回忆道，“如果你需要分析数字，那么我就是你要找的人。”
+But he says that first ramen assignment became the prelude to a revolutionary new way of solving problems by spending time with people to understand how they live their lives.
+但是他说，第一次的拉面作业成为起点，让他花时间和人们交流，理解他们的生活方式，用革命性的新方法解决问题。
+In his final quarter at the D.school, Mr. Kothari enrolled in Launchpad, a class that asks students to sign a pledge agreeing to introduce a product or service in 10 weeks.
+在D学院的最后一个学期，科塔里注册了名为Launchpad的课程，这门课程要求学生签署承诺书，同意在10周内推出一项产品或服务。
+Mr. Kothari and his partner, Ankit Gupta, spoke with people at Palo Alto coffee shops to get a sense for what they might need. One common frustration people had was the constant fire hose of news they were getting from a wide variety of sources. So they decided they could make the most impact with Pulse, a news-reader application that allows users to customize their news feeds.
+科塔里与搭档安吉特·古普塔(Ankit Gupta)走访帕罗奥图的各家咖啡馆，跟顾客聊天，体会他们可能需要的产品。人们有桩常见的烦心事，他们通常需要从各种不同的渠道获得源源不断的新闻报道。于是，他们决定通过Pulse产生最大的影响力，这款新闻阅读应用程序可以让用户定制自己的新闻源。
+They released the app early, five weeks into the course. That timing — just before Apple’s 2010 Worldwide Developer’s Conference — could not have been more fortunate.
+这门课程开始五周后，他们提前发布了应用程序。这个时机——恰好赶在苹果2010全球开发者大会召开前——可以说极为幸运。
+Mr. Kothari and Mr. Gupta were streaming the event on their computers — they had been denied entrance at the door — when Steven P. Jobs, then chief executive of Apple, praised Pulse as “wonderful” in his keynote speech. Instantaneously, Pulse became the top app downloaded for the iPhone.
+科塔里和科塔里在电脑上对这次活动进行了直播——他们没有获准进入会场——时任苹果公司首席执行官的史蒂芬·乔布斯(Steven P. Jobs)在他的主题演讲中称赞Pulse程序“精彩绝伦”。转眼之间，Pulse成为iPhone手机下载次数最多的应用程序。
+In April, LinkedIn acquired the company from Mr. Kothari and Mr. Gupta for $90 million.
+2013年4月，LinkedIn以9000万美元的价格从科塔里和古普塔手中收购了这家公司。
+Because of the D.school, Mr. Kothari said, “I had to use a side of my brain I had never leveraged.”
+科塔里说，正是由于D学院，“我必须运用大脑中从未运用的部分。”

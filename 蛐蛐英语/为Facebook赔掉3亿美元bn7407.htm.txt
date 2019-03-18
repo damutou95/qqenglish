@@ -1,0 +1,54 @@
+In hindsight, perhaps Instagram should have cut a different deal with Facebook.
+事后看来，或许当时Instagram应该与Facebook达成一个不一样的交易。
+In April, Facebook agreed to acquire Instagram, the hot social media photo-sharing site, in a deal valued at the time at about $1 billion.
+今年4月，Facebook同意收购热门社交媒体照片分享网站Instagram。这笔交易在当时价值在10亿美元。
+The problem is that Facebook did not agree to pay $1 billion in cash. The deal terms said Instagram would receive $300 million in cash and about 23 million shares of Facebook stock once the deal closed. Facebook stock at the time of the deal was valued by the parties at about $30 a share.
+问题是Facebook并没有同意以现金形式支付这10亿美元。交易条款说交易完成时，Instagram将获得3亿美元现金和2300万股Facebook的股票。当时，双方对Facebook股价的估值为每股30美元。
+But since that time, Facebook's initial public offering has taken place -- and we all know what happened. Facebook shares have fallen substantially, and the Instagram acquisition is now valued at about $735 million. The Instagram founders are out almost $300 million, at least on paper.
+但是后来，Facebook开始了首次公开募股(IPO)，我们都知道发生了什么。Facebook股价已经大幅缩水，而Instagram的收购价现在约合7.35亿美元。至少在纸面上，Instagram的创始人亏了近3亿美元。
+Instagram's founders could have avoided this situation by bargaining differently.
+Instagram的创始人本来可以采取不同的谈判策略，从而避免这种情况。
+What is notable is that Instagram and Facebook did not agree to a floating share exchange ratio or a stock collar, two fairly common merger tools.
+值得注意的是，Instagram和Facebook的协议并未采用浮动的换股比例，或设定股份上下限，这两者都是企业并购时相当常见的做法。
+A floating share exchange ratio ensures that a seller will receive a fixed value in te acquisition regardless of what happens to the purchaser's shares. As a result, the number of shares issued by the buyer will increase or decrease to match that fixed dollar amount.
+浮动的换股比率，能确保卖方在并购时得到固定的收益，不论买方的股价发生怎样的变化。买方在付款时，将增加或减少支付的股票数量，与约定的金额相符。
+This means that the seller does not take the risk of the buyer's share price going down before the acquisition is completed. In exchange, the seller forgoes any upside increase.
+这意味卖方不必承担收购完成前，买方的股价下跌的风险。作为交换，卖方也放弃买方股价上升的收益。
+In contrast, Instagram agreed to a fixed number of shares rather than a fixed dollar value. That meant Instagram's owners took the risk of a decline in Facebook shares in exchange for all the benefits of an increase.
+与此相反，Instagram同意了固定数量的股票，而不是固定的美元价值。这意味着Instagram的主人通过承担Facebook股价下跌的风险，来换取其股价上涨的所有收益。
+Either type of deal structure can be accompanied by a stock collar.
+无论哪种类型的交易结构，都可以配合股份上下限。
+If the parties agree to a fixed number of shares, as with the Instagram deal, a collar could work like this: the number of shares to be issued is fixed within a range - or a collar. If the share price rises above or below the range, the number of shares adjusts to pay a minimum or maximum dollar amount to a seller. The range, or the collar, is typically set at about 5 to 10 percent around the share price value at the time.
+如果Instagram的交易中，双方同意采取固定股票数量的方式，设定股份上下限的操作则可以这样进行：将支付的股票数量限制在固定的范围内，即设定上下限。如果股价浮动到高于或低于这个范围，则调整股票的数量，确保向卖方支付的股票总值不低于一个金额，也不超出一个范围。这个范围或上下限，通常设定在当时股价上下约5%到10%之间。
+As a result, if the seller's stock price falls below this 5 to 10 percent range, more stock is issued to compensate the seller -- and less if the stock goes up. Again, the goal is to protect the seller on the downside in exchange for giving up some of the benefits of the upside.
+因此，如果卖方的股价跌破这个5%到10%的区间，买方将支付更多的股票以补偿卖方，反之如果股价上涨则少支付一些。此做法的目的也是通过让卖方放弃一些股价上涨时的收益，在股价下跌时保护卖方。
+The type of exchange ratio and collar can take different forms than the above, generally with the net goal of giving the sellers downside protection.
+浮动换股比例和固定上下限可以采取与上述方式不同的形式，最终目的一般都是为了在股价下跌时保护卖方。
+There are also other protections that Instagram could have asked for to brace itself against a Facebook stock decline, like the right to terminate the deal if Facebook's stock price declined substantially. But no combination of these mechanisms was used in the Instagram deal.
+此外，Instagram也可以要求采取其他的保护措施，使自己免受Facebook股价下跌所带来的损失，例如，假如Facebook股价出现大幅下降，有权终止交易协议。但是这些机制中的任何一种都没有出现在Instagram的交易中。
+We do not know why this is the case, but about 80 to 90 percent of stock deals use fixed exchange ratios, according to Factset Mergermetrics, and stock collars were only employed in about 11 percent of recent deals.
+我们不知道为什么会出现这种情况，但根据Factset公司的Mergermetrics研究，约80%到90%的股票交易会使用固定的换股比例，而在近期的交易中，只有约11%设置了股份上下限。
+It may have been that the Instagram founders did not want to exchange a share of the upside for downside protection, preferring instead to make what is so far a losing bet on Facebook stock. It may also be that since the parties were both in the same industry, a fixed exchange ratio was thought more appropriate because the market would assign them equally in value, a common assumption underlying this choice.
+有可能Instagram的创始人不愿意为了避免股价下行时遭受损失，而放弃股价上行的的收益，于是才对Facebook的股价打了这个赌。从目前来看，这个赌打输了。原因也可能是，由于双方都在科技行业，因此固定换股比例更为合适，因为市场会以同等标准给它们估值，这种选择的背后，往往是这样的考虑。
+But at the time of the deal, Facebook was pretty bullish on its stock prospects. Facebook probably would have acceded to some type of collar protection, possibly even without a collar on the upside.
+不过在交易敲定时，Facebook的股价预期相当乐观。Facebook或许会同意给予某种形式的上下限保护，而且甚至可能会同意不设上限。
+This also appears to be a very hastily negotiated deal by some young executives, inexperienced in the world of mergers and acquisitions. The deal may already have been set by the time the lawyers and investment bankers came in, so that probably meant that a collar or floating share exchange ratio was already out of the question.
+这笔交易似乎还是年轻高管之间仓促谈判确定的，他们在并购领域经验尚浅。律师和投资银行家参与进来的时候，交易条款可能已经确定，这就可能意味着设置上下限或浮动换股比例已经不可能了。
+Instagram's negotiations are looking particularly important in hindsight because of the delays to the completion of this transaction, delays it probably should have expected.
+现在回过头看，Instagram的谈判显得尤其重要，因为交易迟迟没有完成。而这些拖延本来应该能预见到。 
+Facebook still needs antitrust clearance to complete the deal. It received antitrust clearance from British authorities last week, but is still awaiting approval from American regulators.
+Facebook要需要通过反垄断审查才能完成交易。上周，Facebook已经通过了英国监管机关的反垄断审查，但还在等待美国监管部门的批准。
+It appears the parties thought there might be some level of antitrust review and delay because Facebook agreed to pay Instagram $200 million if the deal was terminated as a result of a failure to receive such clearance. If so, this would be another indicator for Instagram to have bargained harder on how it was paid.
+看起来，双方似乎认为可能会出现较多的反垄断审查和拖延，因为Facebook同意，如果因为未能通过反垄断审查而造成交易失败，将向Instagram支付2亿美元。 如果真的是这样，那么这就是又一个信号，告诉Instagram应该更坚决地在支付方式上讨价还价。
+Recent reports have implied that Facebook is trying to speed up the close of the acquisition by using a California fairness hearing process.
+最近的报道显示，Facebook正在试图通过加利福尼亚州的“公平听证”程序来加快收购进程。
+A California fairness hearing is one of those quirky procedures under the securities laws. For a stock to be able to be traded freely in the public market, it must be registered with the Securities and Exchange Commission or qualify under an exemption. The registration process can be arduous and take three to four months.
+加州的公平听证程序是证券法规定的若干种怪异程序中的一种。股票必须要在美国证券交易委员会(Securities and Exchange Commission)注册，或者符合豁免条件。证交会注册程序十分艰难，需要花费三、四个月的时间。
+A fairness hearing is really an alternative to S.E.C. registration at the state level. Supporting documentation is filed with the California Department of Corporations, and a fairness hearing is held at which the presiding officer makes a determination. The exemption is commonly used in Silicon Valley to sidestep registration. It is cheaper and faster, costing up to $2,500 plus a hearing fee and taking only one to two months.
+而公平听证实际上是在州一级替代证交会注册的做法。将证明文件提交给加利福尼亚州公司监管局(Department of Corporations)后，举行公平听证会，主持听证会的官员会在公平听证会上作出决定。这种豁免做法在硅谷是绕开注册的常用手段。公平听证会更便宜也更快捷，只需支付2500美元和一些听证费用，只需要一、两个月时间。
+When the Instagram deal was struck, the parties probably expected an antitrust delay, so using the fairness proceeding was more about saving money and having a less complex proceeding.
+收购Instagram的交易达成协议时，双方可能都曾预料到会因为反垄断审查而拖延，因此采用公平听证程序的意义更多在于省钱，并简化复杂的流程。
+In any event, the hearing is scheduled for Aug. 29. It is open to the public, but as Brian Quinn at the M.&A. Law Prof blog has written, nothing much is likely to happen.
+不管怎样，听证会安排在8月29日，对公众开放。但“并购法律教授”博客(M.&A. Law Prof)的布莱恩·奎因(Brian Quinn)写道，应该不会发生什么。
+Ultimately, the antitrust delay is what has really hurt Instagram, and the timing of the fairness hearing is a nonevent that will not speed up this deal.
+说到底，真正对Instagram造成损害的是反垄断审查造成的拖延，公平听证会的时间安排没有什么意义，也不会加快交易进程。

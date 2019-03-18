@@ -1,0 +1,8 @@
+Air pollution has been linked to cardiovascular disease, and now researchers may be closer to understanding why: it increases atherosclerosis, or hardening of the arteries, a known risk for heart attack and stroke.
+一直以来，研究者都认为空气污染与心血管疾病有联系，而现在对于这种联系的原因，研究者可能有了更进一步的理解：空气污染可加重动脉粥状硬化，导致动脉变得僵硬，而这是引发心肌梗死和脑卒中的已知风险因素。
+Researchers did ultrasound examinations on 5,362 men and women over 45 in six metropolitan areas, measuring the thickness of their right common carotid artery, one of two arteries that carry oxygenated blood to the neck and head. Then they followed them for an average of two and a half years, comparing the thickening of their arteries as observed by ultrasound with air pollution data measured by concentrations of particulate matter. The study appears in the April issue of PLoS Medicine.
+研究人员在六座大城市，对超过45岁的5362名男性和女性进行了超声波检查，测量其右颈总动脉的厚度，这是人体两条将携氧血液输送到头颈的大动脉中的一条。研究者接着对这些受访者进行了平均两年半的随访，将他们的动脉厚度跟以可吸入颗粒物浓度为指标的大气污染水平相比较。研究结果刊登在四月份的《公共科学图书馆·医学》(PLos Medicine)上。
+They found that the greater the level of air pollution, the greater the thickening of the carotid artery. The association persisted even after controlling for race, education, smoking and other health and socioeconomic factors.
+研究者发现，空气污染越严重，颈动脉加厚的程度就越显著。在调整了种族、教育、吸烟和其他健康及社会经济学因素后，这种关联依然存在。
+“I think this provides us with even more evidence that air pollution is a cause of heart disease,” said the lead author, Sara D. Adar, an assistant professor of epidemiology at the University of Michigan. “And it puts us one step closer to understanding how that happens.”
+“我认为这项试验为我们提供了更多证据，证明空气污染是心脏病的元凶之一，”本文第一作者、密歇根大学(University of Michigan)流行病学助理教授莎拉·D·亚达(Sara D. Adar)说，“在理解二者关联方面，它令我们又前进了一步。”

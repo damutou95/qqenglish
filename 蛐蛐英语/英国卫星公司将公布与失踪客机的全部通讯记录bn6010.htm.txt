@@ -1,0 +1,36 @@
+PARIS — Amid pressure from the families of the passengers of Malaysia Airlines Flight 370 for more transparency about the search for the missing jet, Inmarsat, the global satellite communications company, confirmed Tuesday that it would soon publish a full record of the communications received from the plane the day it disappeared.
+巴黎——马来西亚航空(Malaysia Airlines)370航班乘客家属强烈要求该失踪客机的搜寻工作增加透明度，鉴于此，全球卫星通讯公司Inmarsat周二证实，该公司将很快公布在飞机失踪当天接收到的完整通讯记录。
+An analysis by Inmarsat of a series of fleeting radio signals that were picked up on March 8, the day the airplane disappeared, by one of its satellites played a central role in narrowing the search for the plane’s presumed crash site to an area in the southern Indian Ocean some 500 miles off the northwestern coast of Australia.
+飞机失踪当天是3月8日，该公司对旗下一颗卫星当天接收到的一系列转瞬即逝的无线电信号进行了分析。该分析发挥了关键作用，将对飞机失事地点的搜寻范围缩小到了南印度洋离澳大利亚西北海岸约500英里（约合800公里）的一片区域。
+But more than two months of searching has so far yielded no trace of the plane, a Boeing 777-200, or of the 239 people who were on board. That has prompted calls from relatives and some outside experts for investigators to release the data on which Inmarsat based its findings, in the hope of identifying any errors or missed clues that could help locate the aircraft.
+然而，搜寻工作已经持续了两个多月，仍未发现那架波音777-200飞机或239名机上乘员的踪迹。这促使乘客亲属和部分外部专家呼吁调查人员公开Inmarsat据以得出结论的数据，希望发现有助于定位该飞机的工作失误或遗漏线索。
+“It is imperative for us to provide helpful information to the next of kin and general public,” Inmarsat said in a joint statement with Malaysia’s Department of Civil Aviation.
+“对我们来说，当务之急是向相关人员的近亲和公众提供有用的信息，”Inmarsat在与马来西亚民航局(Department of Civil Aviation)联合发表的一份声明中说。
+Emphasizing that the raw communications data was only one element of the investigation, both organizations said they were “working for the release of the data communication logs and the description of the analysis for public consumption.”
+两家机构强调原始通讯数据只是调查的一个因素，并表示“正在推进公布数据通讯记录及相关分析详情，以供公众使用”。
+Jonathan Sinnatt, a spokesman at Inmarsat’s headquarters in London, said the company was working with the Malaysian government — along with technical advisers from Britain’s Air Accidents Investigation Branch, the National Transportation Safety Board of the United States, and Boeing, among others — to prepare a “package” of information that would be released first to the families of the crash victims and later published online by the Malaysian authorities. That process, he said, was expected to take about a week.
+Inmarsat伦敦总部发言人乔纳森·辛纳特(Jonathan Sinnatt)表示，公司正在与马来西亚政府——以及来自英国空难调查处(Air Accidents Investigation Branch)、美国国家运输安全委员会(National Transportation Safety Board)和波音(Boeing)等机构的技术顾问——合作准备一个信息“包”，该信息包将首先提供给此次事故的遇难者家属，然后再由马来西亚当局在网上发布。他说，这个过程预计需要大约一周时间。
+Inmarsat’s engineers have long emphasized that the volume of information received from Flight 370 was exceedingly small, amounting to just 14 data points — seven automated “pings,” or electronic handshakes, between the plane and Inmarsat’s satellite, and seven corresponding transmissions between the satellite and a ground station in Perth, Australia.
+长期以来，Inmarsat的工程师一直强调，从370航班接收到的信息非常有限，总共只有14个数据点，其中包括飞机与该公司卫星之间的七次自动传输“声脉冲”，也就是电子握手，以及那颗卫星与澳大利亚珀斯一处地面卫星接收站之间的七次相应传输。
+“It’s literally just 14 numbers,” Mr. Sinnatt said. “It won’t make sense to anybody who doesn’t understand the technology, which is why we are now working with the investigation to put together an explanation about how you use that data and what it means.”
+“确实只有14个数字，”辛纳特说，“对不了解这项技术的人来说，这些数据毫无意义，正因为此，目前我们正与调查团队合作，以便拿出一个关于数据使用方法及其意义的解释。”
+Citing the strict international protocols governing the investigation, Inmarsat has so far declined to respond to criticism from some scientists not involved in the investigation who have suggested that the company’s analysis could be flawed, as well media speculation that the wreckage of the plane might lie far from the seabed that is being mapped by hydrographic experts from Australia, China and Malaysia.
+迄今为止，Inmarsat一直以调查所依据的严格国际协议为由，拒绝回应未参与调查的一些科学家的指责和媒体的相关猜测。这些科学家称，该公司的分析可能存在缺陷，媒体的猜测则是，飞机残骸可能位于离澳大利亚、中国和马来西亚的水文专家正在测绘的海床很远的地方。
+Some commentators have publicly accused the investigation team of deliberately withholding information that would disprove Inmarsat’s findings.
+一些评论人士曾公开指责调查组，称他们故意隐瞒了可能会推翻Inmarsat结论的信息。
+Inmarsat engineers have privately expressed frustration in recent weeks with what they perceive as misguided second-guessing of their work.
+Inmarsat的工程师认为针对他们工作的指责属于误导性的事后批评，最近几周还私下表达了对这类指责的不满。
+“I think there are a lot of well-meaning people out there who have made some very flawed attempts at doing the analysis, but they unfortunately haven’t understood the basic elements,” said one Inmarsat employee, who requested anonymity because he was not authorized to discuss the matter.
+“我认为，很多人为分析这件事情进行了一些大错特错的尝试，他们都是善意的，但不幸的是，他们没有理解那些根本要素，”一名Inmarsat雇员表示。此人因无权讨论此事而要求匿名。
+Once the communications logs are made available, this person said, “I expect a lot of these people will try and run the data” and speculate on their meaning.
+此人表示，通信记录公开之后，“我估计很多人都会尝试分析这些数据”，并揣测其含义。
+Some investigators have also justified their reticence about releasing Inmarsat’s data by citing concerns that they could be used by intelligence services in China and elsewhere to enable the tracking of other aircraft.
+一些调查人员也为自己在公布Inmarsat数据方面保持沉默的做法进行了辩解，称他们是担心这些数据会被中国及其他地方的情报机构用来追踪其他飞机。
+Rémi Jouty, the director of the French Bureau of Investigations and Analysis, which has been advising investigators search for the missing plane, told reporters in Paris last week that he had “tremendous confidence in the work that was done” by Inmarsat, which he said had determined with “quasi-certainty” that Flight 370 ended within what he said was a “manageable” search zone in the southern Indian Ocean.
+上周，为失踪飞机调查人员担当顾问的法国调查与分析局局长雷米·茹蒂(Rémi Jouty)在巴黎告诉记者，他对Inmarsat“所做的工作抱有极大信心”。据他所说，Inmarsat的工作已经“十拿九稳地”确定，370航班坠落在了他所谓的南印度洋“可操控”搜索区。
+Tim Farrar, a former systems engineer in California who advises companies on satellite and telecommunications issues and has closely followed the search for the plane on his blog, said he was encouraged by the decision to publish Inmarsat’s raw data and said he hoped it would help put some of the more extreme speculation about the fate of Flight 370 to rest.
+为企业提供卫星及通讯问题咨询服务的加州前系统工程师蒂姆·法拉尔(Tim Farrar)在自己的博客上密切跟踪了飞机的搜寻工作，他表示，公布Inmarsat原始数据的决定让他深受鼓舞，希望这些数据能有助于平息一些关于370航班命运的比较极端的猜测。
+“There is so little information and a lot of theories and scepticism about what happened and the whole process has been really unclear,” Mr. Farrar said. He said he had been contacted by relatives of passengers from the missing plane.
+“信息少之又少，关于事情经过的设想和猜疑却很多，整个过程也非常不清晰，”法拉尔说。他还说，失踪飞机乘客的亲属曾联系过他。
+“I think their desire is to have other people look at the calculation sequence and the supporting data, and see if they can replicate what Inmarsat did,” Mr. Farrar said. “I think that’s a very valid thing to want to do. The question is whether there will be enough information made available for that.”
+“我认为，他们是想让其他人看看这些计算序列和支持数据，看看他们是否能复制Inmarsat所做的工作，”法拉尔说。“我认为这种想法很正常。问题在于能否获得这件工作所需的足够信息。”

@@ -1,0 +1,32 @@
+Having more women on company boards reduces fraud, according to a new study from China, which says “the optimal percentage of women on boards is 50 percent”  — higher than the average anywhere in the world.
+中国的一项新研究认为，企业董事会里拥有更多的女性会减少欺诈行为。文中写道，“董事会中女性的最佳比例是50%”——高于世界上任何地方目前的平均值。
+“I think this is really important now,” said Oliver Rui, a professor of finance and accounting at the China Europe International Business School who is based in the school’s Shanghai campus. He is one of three authors of the study, along with Douglas Cumming of York University Schulich School of Business and Tak Yan Leung from the Open University of Hong Kong.
+“我认为这在当前是很重要的，”中欧国际工商学院的金融与会计学教授芮萌说。他在该学院的上海校区工作，是这项研究的三名作者之一。其余二人分别是加拿大约克大学舒立克商学院(York University Schulich School of Business)的道格拉斯·卡明(Douglas Cumming)与香港公开大学的梁德欣(Tak Yan Leung)。
+“Fraud is very major, everywhere. Not just in the United States, but worldwide, and it’s hurting shareholders,” Mr. Rui said in an interview, adding that it was a significant problem in China, too. On average, an organization lost about 5 percent of revenue to fraud annually, the authors said, citing a 2010 report by the Association of Certified Fraud Examiners.
+“欺诈在各个地方都是很大的问题。不光是美国，全世界都如此，并且正在对股东造成损害，”芮萌接受采访称。他还说，这在中国也属于重大问题。论文作者援引美国注册舞弊审查师协会(Association of Certified Fraud Examiners)2010年的一份报告指出，每家机构平均每年因欺诈损失5%的收入。
+But it wasn’t that women were necessarily more honest. Rather, their presence created gender diversity, and that was the key, the study said:
+不过，并不是女性必然更加诚实，而是她们的存在创造了性别多样性。这才是关键所在。论文中写道：
+“The examined data are more supportive of the gender diversity hypothesis relative to the women are more ethically sensitive hypothesis.”
+“比起女性对道德问题更敏感的假说，研究数据更为支持的是性别多样性的假说。”
+The study looked at 1,422 instances of investigated fraud in Chinese companies over a 10-year period, from 2001 to 2010, and found “strong evidence” that the more male-dominated the board, the higher the likelihood of fraud. The data for the detected cases came from the China Securities Regulatory Commission.
+文中研究了2001年到2010年的10年间的1442件受到调查的中国企业欺诈案，得出结论称，“有力的证据”表明，董事会越是男性主导，欺诈发生的可能性越大。被发现的案件的数据来自中国证券监督管理委员会。
+Mr. Rui said women in business suffered less from overconfidence than men, and were more risk-averse, with the study pointing to conclusions that were globally valid.
+芮萌表示，在商业领域，女性比男性更少出现过度自信的情况，也更不喜欢风险。研究得出的结论适用于全球。
+How exactly did gender diversity help mitigate the problem?
+那么，性别多样性到底如何有助于缓解这一问题呢？
+The authors identified several key factors: More women in top positions broadened the talent pool and potentially paved the way for a more talented board; gender diversity allowed for a diversity of views, leading to greater discussion; and gender diversity could lead to potentially more conflict between board members, less trust, and hence increased scrutiny and less fraud, they said.
+作者们找出了几个关键因素：最高层拥有更多女性的话，会扩展人才库的范畴，并可能为更人才济济的董事会创造条件；性别多样性使得观念的多元化成为可能，从而带来更多的讨论；性别多样化或许会导致董事之间产生更多冲突、降低信任度，因而会增加审查并减少欺诈。
+Women were “more likely to adopt a measured expansion rate” that protected shareholders’ investments, the study said.
+文中称，女性“有更大的可能性来采用经过深思熟虑的扩张速率”，从而保护股东的投资。
+Securities fraud is a white-collar crime in which a person or company misrepresents information that investors use to make decisions. The three major types of securities fraud identified by the study in China were the postponement of disclosures, major failures to disclose information, and false statements.
+证券欺诈是一种白领犯罪，违法的个人或企业向投资者错误传达用于决策的信息。这项研究中总结了中国的三大证券欺诈类型：延迟披露、信息披露重大遗漏，以及虚假陈述；
+The study aligns with findings elsewhere in the world, and led the scholars to conclude that the presence of more women improves corporate governance, “implying that regulators and policymakers should consider the worldwide call for more gender-diverse boards.”
+该研究与世界其他地方的发现相一致，因此作者们得出结论：更多女性的存在能改善企业的治理水平，“这意味着，监管部门与决策者应当考虑全球范围内出现的提高董事会性别多样性的呼声。”
+The relative scarcity of women on boards of directors is a global issue. According to a 2009 study, just one country, Slovenia, had an average of more than 20 percent women on boards, while the United States averaged 15 percent and China and Australia were more typical, averaging 10 percent. Many European countries, such as Portugal, France, Denmark, and Germany had roughly 5 percent female representation on boards. Ten countries had less than 5 percent female representation, with Japan the lowest at less than 1 percent, it said. The study pointed out that China too was a “male-dominated society.”
+女性董事的相对稀缺是个全球性问题。根据2009年的一项研究，只有斯洛文尼亚这一个国家的女董事的平均比例超过了20%，美国的均值为15%，而中国和澳大利亚的数据则更为典型，是10%。在许多欧洲国家，比如葡萄牙、法国、丹麦和德国，女董事约占5%。这项研究还表示，日本的比例最低，不到1%。文中指出，中国也属于“男权社会”。
+Recently, recognizing the issue, Norway and some other European countries have begun mandating quotas for women on boards, in an effort to raise the number.
+意识到这一问题后，为了提升该比例，挪威等欧洲国家近年来开始强制要求女性在董事会中占到一定比例。
+Not only was a greater female presence a protection against fraud, but the response from the market to fraud when it did arise from a more gender diverse board was “significantly less pronounced,” the study found.
+女性比例更高不仅能抵挡欺诈，研究中还发现，当欺诈的确发生在董事会性别组成更为多样化的企业中时，市场对此的反应也要“平和许多”。
+“Women are more effective in mitigating both the presence and severity of fraud in male-dominated industries, which again supports the notion of diversity,” it said.
+“在男性主导的行业中，女性在减少欺诈发生及缓解欺诈程度上均更为有效。这进一步支持了多样化的概念，”文中称。

@@ -1,0 +1,50 @@
+For some American fans, the World Cup is the be-all and end-all of international soccer. There is no close second.
+对有些美国球迷来说，世界杯(World Cup)是首屈一指的国际足球赛事。其他赛事都远远不能与之相比。
+Across the Atlantic, though, many fans, soccer writers and even some players have contended that the European championships, or Euros, which began on Friday, produce better soccer than the World Cup.
+不过，在大西洋对岸，很多球迷、足球撰稿人、甚至球员都认为，周五开始的欧洲杯(the European championships)比世界杯更精彩。
+The pro-Euro argument is that a lot more teams compete in the World Cup, including some from countries that have rarely done well at the international level. This can create too many lopsided games and possibly drag down the overall quality of the soccer. So while there have been many great games in the World Cup, the thinking goes, the standard of play has been lower on balance.
+这一观点的论据是参与世界杯比赛的球队要多得多，有些国家的球队很少在国际赛事中有上佳表现。这会造成太多一边倒的比赛，因此可能拉低这一赛事的整体水平。所以，虽然世界杯上有很多精彩比赛，但有些人认为，它的比赛水平总体偏低。
+There are reasons for assuming this is true. The best players from around the world overwhelmingly play for European clubs, which helps bolster the standard of European players. European national teams have won four of the last five World Cups, and seven of the 10 finalists were European.
+这种想法有一些根据。世界各地的优秀足球运动员大都在欧洲俱乐部踢球，这帮助提高了欧洲球员的水平。过去五届世界杯中有四届是欧洲国家队夺冠，十支决赛球队中有七支是欧洲球队。
+But is the game in fact better when the Europeans play only against one another?
+但是，只有欧洲球队参加的比赛真的更好看吗？
+Before trying to answer that, it’s worth acknowledging that there can be no definite conclusion. When played at an elite level, soccer, like art, contains so much that is unquantifiable that it defies numerical ranking and subjective opinion. Saying that Spain plays a better style of game than Argentina is akin to declaring Matisse better than Manet.
+在尝试回答这个问题之前，我必须承认，它可能没有确定的答案。精英水平的足球赛和艺术一样，包含着很多无法量化的东西，无法用数字排名和主观意见解释。说西班牙的比赛风格优于阿根廷的风格，就像是说马蒂斯(Matisse)的画作优于莫奈(Manet)的画作。
+And numbers struggle to capture another quality that makes a soccer game compelling — the intensity that often exists when a victory will eliminate the other team, or when two longtime rivals play each other, like Mexico and the United States, or Germany and the Netherlands.
+而且数据很难反映球赛更吸引人的另一个因素——激烈的比赛往往发生在淘汰赛中或者在两个宿敌之间，比如墨西哥和美国，或德国和荷兰。
+Still, there is now a wealth of data on soccer games, and it would be a shame not to see how far it can take us.
+不过，现在关于足球比赛有大量数据，如果不去看看它们能给我们带来什么启示，就挺可惜的。
+Opta, a sports data firm that tracks passes, shots and other plays within games, provided the data for the past five Euros and the past five World Cups. (I have chosen to compare the World Cup with the Euros and not the Copa América, also going on now, and in which the United States is doing well, because Opta has less historical data on the Copa.)
+Opta是一家体育数据公司，它统计比赛中的传球和射门等数据。它提供了过去五届欧洲杯和世界杯的数据（我选择把世界杯与欧洲杯进行比较，而不是与同样正在进行中的美洲杯[Copa América]比较——美国队在本届美洲杯上的表现很好——是因为Opta关于美洲杯的历史数据较少）。
+Selecting metrics to determine quality is tough. Even so, here are six yardsticks that attempt to do that:
+尽管很难选择合适的指标来衡量质量，我还是选出了以下六个指标：
+Margin of victory. A smaller margin is better with this one, because if teams win by fewer goals, the games are most likely more competitive and exciting.
+比分差距。比分差距越小越好看，因为如果获胜球队的进球个数只比落败球队多一点，那么比赛很可能更激烈，更令人兴奋。
+Goals scored. Except for a few purists, we want to see goals.
+进球个数。除了少数纯化论者，我们都想看到进球。
+Total shots. This is here because we like to see teams put themselves in a position to shoot.
+射门次数。我选择这项是因为我们喜欢看到球队处于射门状态。
+Successful passes. This is the bread and butter of good soccer.
+成功传球的次数。这是精彩足球的基本要素。
+Successful passes in the final third of the field. The passes that matter most when attacking.
+前场成功传球的次数。这些传球对进攻最为重要。
+And, finally, shots per possession (a period when a team has control of the ball). This matters because possession needs to be turned into an attempt on goal.
+还有最后一点，每个控球时间段里的射门次数。这一点很重要是因为控球需要转化为射门。
+So here’s what the numbers say: Anyone who has ever said the Euros can easily match the World Cup can give themselves a tiny pat on the back, although there is no indication that they’re significantly better.
+这些数据表明：任何曾经说过欧洲杯可以与世界杯媲美的人可以稍稍得意一下，不过，也没有数据能够证明，它明显胜过世界杯。
+Comparing five-tournament averages for the Euros (1996 through 2012) and the World Cup (1998 through 2014) shows almost no difference on four of these measures. Passing accuracy was almost identical, with the Euros having 623 successful passes per game on average, versus 634 for the World Cup. In the Euros, 2.42 goals per game were scored, against 2.45 in the World Cup. In both competitions, there was on average 28 shots per game. The Euros had an average of 0.13 shots per possession, compared with 0.14 for the World Cup.
+过去五届欧洲杯（1996年至2012年）和世界杯（1998年至2014年）的平均数据的对比表明，这六项指标中有四项几乎没有差别。传球准确率几乎相同，欧洲杯平均每场有623次成功传球，世界杯是634次。欧洲杯平均每场进球2.42个，世界杯是2.45个。平均每场的射门次数都是28次。欧洲杯上每个控球时间段的平均射门次数为0.13次，世界杯是0.14次。
+But the Euros look slightly stronger on two of the yardsticks. Euro games had 160 successful passes in the final third on average per game, against 151 for the World Cup. And the Euros had a narrower margin of victory, with teams winning on average by 1.23 goals, versus 1.33 goals in the World Cup.
+但是在另外两项上，欧洲杯略微胜出。欧洲杯平均每场的前场成功传球次数为160次，世界杯是151次。欧洲杯的比分差距较小，平均每场的比分差距是1.23，世界杯是1.33。
+Comparing the most recent completed Euros, from 2012, with the 2014 World Cup makes the Euros look stronger.
+把最近一次完赛的欧洲杯与世界杯相比，也就是把2012年欧洲杯与2014年世界杯相比，你会发现欧洲杯似乎更强。
+The 2012 Euros had 742 successful passes per game, 10 percent more than the 2014 World Cup’s 666. When it comes to successful final-third passes, the Euros’ 188 was 18 percent higher than the World Cup’s 153. The Euros’ margin of victory in 2012 was 1.23 goals, or 16 percent narrower than 1.42 goals for the 2014 World Cup. The only yardstick that the World Cup did better on was goals, with the 2014 competition notching 2.63 goals per game, against 2.45 for the 2012 Euros.
+2012年欧洲杯每场比赛有742次成功传球，比2014年世界杯的666次高出10%。2012年欧洲杯的前场成功传球次数是188次，比世界杯的153次高出18%。2012年欧洲杯的比分差距是1.23，比2014年世界杯的1.42低16%。2014年世界杯唯一优于2012年欧洲杯的指标是进球数——前者是2.63个，后者是2.45个。
+In case Copa América fans are interested, Opta did provide data for the tournament that took place last year. But margin of victory, at 1.12 goals, was the only metric (out of our six) on which the 2015 Copa did better than both the 2014 World Cup and 2012 Euros.
+考虑到美洲杯球迷可能会感兴趣，所以Opta提供了去年美洲杯的数据。2015年美洲杯的比分差距为1.12，是（六项指标中）唯一优于2014年世界杯和2012年欧洲杯的指标。
+The big question now, though, is whether the quality of the soccer at the Euros is going to slip in the current and future tournaments. This year, 24 teams are competing, up from 16 teams in the previous five Euros, allowing potentially weaker teams to compete. (The World Cup has had 32 teams since 1998.)
+不过，现在的一个重要问题是，今年以及未来欧洲杯的水平是否会下滑。今年有24支球队参赛，多于之前五届的16支，允许可能更弱的球队参赛（世界杯从1998年开始有32支球队参赛）。
+Also, the standard of the Euros may decline for another reason: Some teams that are in third place in their starting groups can progress to the knockout stage of the competition. My colleague Sam Borden explains why that might lead to some unadventurous soccer.
+另外，欧洲杯的水准可能会因为另一个原因而下降：小组赛中排名第三的某些球队有可能进入淘汰赛。我的同事山姆·博登(Sam Borden)解释了这可能导致出现乏味比赛的原因。
+The lesson of this exercise? There isn’t enough bad soccer in the international tournaments to discredit them. So, go ahead, watch them all.
+这项运动的教训是什么？这些国际赛事中没有哪场比赛糟糕到败坏赛事声誉的地步。所以，什么也别管了，每场比赛都看吧。

@@ -1,0 +1,32 @@
+CUPERTINO, Calif. — In reaction to declining sales of tablet computing devices, Apple’s chief executive, Timothy D. Cook, recently remarked that tablets had hit a “speed bump” that was nothing to be concerned about.
+加利福尼亚州库比提诺——鉴于平板电脑设备销量下滑，苹果公司(Apple)首席执行官蒂莫西·D·库克(Timothy D. Cook)最近表示，平板电脑撞上了一个“减速带”，但这种情况无需担心。
+Now Apple is trying to accelerate past the bump.
+如今，苹果正试图加速经过这条减速带。
+The company on Thursday introduced new models of iPads, including a major revision for its iPad Air, the larger and more expensive model, and some improvements for its smaller sibling, the iPad Mini 3.
+周四，苹果推出了新款iPad，对更大更贵的iPad Air做出了重大改动，还对尺寸较小的iPad Mini 3做了一些改进。
+Apple said the iPad Air 2 was 18 percent thinner and 40 percent faster than the last one, a surprising change — and a bit of an engineering feat — because Apple made the previous version thinner and faster just last year. Essentially, the new iPad Air is thinner than a pencil. The new iPads will be available Oct. 24.
+苹果表示，iPad Air 2比上一代薄了18%，快了40%，这个改变有些出人意料，在工程上也是一大成就——因为苹果去年才刚刚让上一版iPad变得更轻更快。可以说，新款iPad Air比一支铅笔还薄。它将从10月24日开始发售。
+“It’s unbelievably gorgeous and look how thin it is. Can you even see it?” said Mr. Cook, holding the new iPad in front of an audience of members of the news media and Apple employees at the company’s Silicon Valley headquarters.
+“它实在太棒了，看看它多么薄。差点都看不到了吧？”库克在苹果位于硅谷的总部拿着新款iPad，对媒体和苹果员工说道。
+The iPad Air 2 has an improved camera, and it has a display designed to reduce reflections. The tablet has 10 hours of battery life, same as the previous version. It has a starting price of $500. The iPad Mini 3 starts at $400 — but it’s not thinner than the last version.
+iPad Air 2改善了照相功能，显示屏的设计还能减少反光。与上一款一样，其电池续航时间为10小时。它的起售价格为500美元（约合3000元人民币）。iPad Mini 3的起售价格为400美元——但并不比上一款薄。
+Apple added its fingerprint sensor, called Touch ID, to each of the new iPads. The technology is used to log into the iPad in place of a typed passcode. It can also be used to make in-app purchases with Apple’s new mobile payments system, Apple Pay, which will be available Monday.
+苹果给每个新款iPad都增加了称为Touch ID的指纹传感器。用户将通过这项技术进入iPad，而无需像之前那样输入密码。指纹传感器还可以通过苹果的新移动支付系统Apple Pay来在应用中进行支付。Apple Pay将于周一推出。
+Apple said iOS 8.1, the next update for the software that runs Apple’s mobile devices, would also be available Monday.
+苹果宣布，周一还将推出iOS 8.1，即苹果移动设备运行软件的下一版更新。
+Apple also added gold as a color option for the new iPads.
+新款iPad还增加了金色版供用户选择。
+Apple has made big changes to its iPads more quickly than it has with other Apple products, like the iPhone, which in the past has been redesigned every two years.
+苹果对iPad做出重大修改的速度比对iPhone等其他苹果产品更快。过去，每隔两年，iPhone才会重新设计一次。
+Why the difference? For one, an iPad gives Apple’s engineers more physical space to tinker around. And from a business standpoint, Apple has to do more with the iPad to maintain healthy sales.
+为何会有这种差别？首先，iPad给了苹果工程师更多进行改进的实际空间。从商业角度来看，苹果需要对iPad投入更多，才能维持良好的销售业绩。
+In the second quarter, Apple’s iPad sales declined 9.3 percent compared with the same period a year ago, according to the industry analysis firm IDC. And the worldwide market for tablet sales is starting to cool. While shipments of tablets exploded from 18 million in 2010 to 207 million last year, they are expected to increase just 11 percent this year, according to another research firm, Gartner. Last year, shipments had increased 55 percent.
+据科技研究公司IDC透露，二季度苹果iPad的销售量同比下降了9.3%，全球市场的平板电脑销售也开始降温。据另一家调研公司高德纳(Gartner)透露，去年，平板电脑的出货量从2010年的1800万台飙升至2.07亿台，今年全球平板电脑的出货量只会增加11%，而去年的增幅达到了55%。
+But the iPad is still Apple’s second-biggest moneymaker, accounting for about 10 percent of its profit. That is a long way from the iPhone, which accounts for about 70 percent of its profit, but still important.
+但iPad仍是苹果的第二大收入来源，产生的利润在苹果总利润中占10%。尽管这距离iPhone产生的利润——70%——还有很大的差距，但它仍是一款重要的产品。
+Also at the event on the company’s campus, Apple released its new Macintosh operating system, OS X Yosemite, which it introduced this year. The software system, which is a free download, has a new design with new icons and more vibrant colors.
+在苹果总部举行的发布会上，苹果还推出了新的麦金塔(Macintosh)操作系统OS X Yosemite，苹果公司于今年发布了该系统。新版系统有新设计、新图标，色彩更加鲜明。
+A key feature is called Continuity, which makes it easier to juggle content across different Apple devices. For example, a user can be making a presentation on a Mac, and then swipe up from the corner of an iPad to resume working on the same presentation.
+一种称为Continuity的关键功能，使在不同苹果设备中进行同步操作变得更容易。例如，用户可以用Mac做演示，然后滑动iPad屏幕，继续刚才的演示。
+In addition, the company said WatchKit, a tool kit for software makers to use in developing apps for its coming smart watch, would be released next month. The Apple Watch, which Apple demonstrated last month, is still on track for a release early next year, according to Mr. Cook.
+除此之外，该公司还表示将于下月发布软件开发者用来为苹果的智能手表开发应用时所需的工具WatchKit。苹果上个月展示了Apple Watch，但据库克透露，按照计划，这款产品将于明年早些时候推出。

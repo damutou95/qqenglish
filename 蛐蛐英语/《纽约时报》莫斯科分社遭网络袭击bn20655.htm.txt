@@ -1,0 +1,16 @@
+The New York Times’s Moscow bureau was the target of an attempted cyberattack this month. But so far, there is no evidence that the hackers, believed to be Russian, were successful.
+本月，《纽约时报》的莫斯科分社遭到网络袭击。不过到目前为止，还没有证据证明这一行动获得成功。这次袭击被认为是俄罗斯所为。
+“We are constantly monitoring our systems with the latest available intelligence and tools,” said Eileen Murphy, a spokeswoman for The Times. “We have seen no evidence that any of our internal systems, including our systems in the Moscow bureau, have been breached or compromised.”
+“我们在用可获得的最新情报和工具对系统进行持续监测，”时报女发言人艾琳·墨菲(Eileen Murphy)说。“目前还没有发现我们的内部系统——包括在莫斯科分社的系统——被攻入或破坏的证据。”
+On Tuesday, citing United States officials briefed on the matter, CNN reported that The Times, along with other news organizations it did not identify, had been the victims of computer breaches by hackers thought to be working for Russian intelligence.
+周二，CNN援引了解此事的美国官员的话报道，《纽约时报》和另外几家新闻机构的计算机系统遭到非法入侵，据信黑客是为俄罗斯情报机构工作的。CNN没有确认另外几家新闻机构的名称。
+The Federal Bureau of Investigation is looking into the attempted attack on The Times, a government official briefed on the inquiry said, but has no investigations underway of such episodes at other news organizations. Kelly Langmesser, a spokeswoman for the agency, said the F.B.I. had no comment.
+一名知情政府官员表示，联邦调查局（Federal Bureau of Investigation，简称FBI）正在就针对时报的未遂袭击进行调查，但没有同时对其他几家新闻机构遭遇的同类袭击展开调查。FBI女发言人凯莉·兰梅塞(Kelly Langmesser)表示局方不予置评。
+Evidence that hackers had targeted The Times came to light two months after private investigators concluded that Russian hackers, apparently connected to two of the country’s intelligence agencies, had broken into the networks of the Democratic National Committee.
+《纽约时报》遭遇黑客袭击的证据曝光两个月前，私立调查机构曾得出结论，俄罗斯黑客入侵了民主党全国委员会(Democratic National Committee)的计算机网络。这些黑客显然与俄罗斯的两家情报机构有关联。
+The F.B.I.’s investigation into that episode has since widened to include breaches at the Democratic Congressional Campaign Committee, which is the fund-raising arm for the House Democrats.
+之后，FBI针对那一事件的调查进一步扩大，将民主党国会竞选委员会(Democratic Congressional Campaign Committee)遭遇的网络入侵纳入其中。后者是众议院民主党人的筹资机构。
+So far, the Obama administration has not blamed the Russian government publicly for that attack, though intelligence officials have said they have “high confidence” that the attack on the Democratic National Committee was the work of two Russian intelligence agencies, the F.S.B. and the G.R.U. The first is the successor to the K.G.B., and the second is the leading military intelligence unit.
+截至目前，奥巴马政府没有公开将这次袭击归咎于俄罗斯政府，尽管情报官员表示，他们“很有把握”，相信针对民主党全国委员会的袭击，是由两家俄罗斯情报机构所为，即俄罗斯联邦安全局(FSB)和俄军总参谋部情报总局(GRU)。前者的前身是克格勃(KGB)，后者是俄罗斯目前的主要军事情报机构。
+Once the federal investigation into the hacking of the Democratic National Committee is complete, senior administration officials say, President Obama will have to decide whether the evidence of Russian responsibility for the breach is strong enough to warrant an American response. If so, he would also have to determine whether that response would take the form of quiet warnings, economic sanctions or even a counterattack of some kind.
+高层政府官员表示，一旦联邦政府完成对民主党全国委员会遭遇的网络袭击的调查，奥巴马总统势必要就俄罗斯对此事有责任的证据做出评估，判断那是否足以让美国做回应。如果答案是肯定的，他还要决定以什么方式做出回应，是私下发出警告，实施经济制裁，还是进行某种反击。

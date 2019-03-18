@@ -1,0 +1,38 @@
+Does handwriting matter?
+手写重要吗？
+Not very much, according to many educators. The Common Core standards, which have been adopted in most states, call for teaching legible writing, but only in kindergarten and first grade. After that, the emphasis quickly shifts to proficiency on the keyboard.
+根据许多教育工作者的说法，它不太重要。大多数州已经采纳的各州“共同核心”(Common Core)标准呼吁各州教育学生清晰地写字，不过这一要求仅限于幼儿园和小学一年级。之后，教学重点就迅速转到了对键盘的熟练运用上。
+But psychologists and neuroscientists say it is far too soon to declare handwriting a relic of the past. New evidence suggests that the links between handwriting and broader educational development run deep.
+然而，心理学家和神经科学家表示，此时就宣布手写已经过时未免太早了。新证据表明，手写和更广泛的教育发展之间存在深深的联系。
+Children not only learn to read more quickly when they first learn to write by hand, but they also remain better able to generate ideas and retain information. In other words, it’s not just what we write that matters — but how.
+儿童最初学习手写时，手写不仅能让他们学会更快地阅读，而且还能更有效地激发他们的创意，让他们牢记信息。换言之，重要的不仅是我们写了什么——我们怎么写也一样重要。
+“When we write, a unique neural circuit is automatically activated,” said Stanislas Dehaene, a psychologist at the Collège de France in Paris. “There is a core recognition of the gesture in the written word, a sort of recognition by mental simulation in your brain.
+巴黎法兰西公学院(Collège de France)心理学家斯坦尼斯拉斯·德阿纳(Stanislas Dehaene)说，“我们写字时，会自动激活一条独一无二的神经回路。它能对所写文字的笔法做出核心识别，这是大脑里进行的某种心理模拟识别。”
+“And it seems that this circuit is contributing in unique ways we didn’t realize,” he continued. “Learning is made easier.”
+他接着说，“似乎这条回路在以一种我们没有意识到的方式发挥作用。学习变得更容易了。”
+A 2012 study led by Karin James, a psychologist at Indiana University, lent support to that view. Children who had not yet learned to read and write were presented with a letter or a shape on an index card and asked to reproduce it in one of three ways: trace the image on a page with a dotted outline, draw it on a blank white sheet, or type it on a computer. They were then placed in a brain scanner and shown the image again.
+由印第安纳大学(Indiana University)心理学家卡琳·詹姆斯(Karin James)牵头在2012年进行的一项研究，给这种观点提供了支持。研究者向还没有学过阅读和书写的孩子展示一张索引卡，上面是一个字母或一种图形，然后让孩子们以三种方式中的一种复制卡片上的内容，一种是沿着由虚线构成的轮廓描摹、一种是在白纸上把它画出来，还有一种是在电脑上把它打出来。然后研究人员把孩子们安排在脑部扫描仪前，再次给他们显示了同一幅图像。
+The researchers found that the initial duplication process mattered a great deal. When children had drawn a letter freehand, they exhibited increased activity in three areas of the brain that are activated in adults when they read and write: the left fusiform gyrus, the inferior frontal gyrus and the posterior parietal cortex.
+研究人员发现，最初的复制过程极其重要。当孩子们徒手画出一个字母后，其脑部有三个区域显示出脑活动有所增强，这三个区域是成人阅读和书写时激活的大脑区域，它们是左梭状脑回、额下回和后顶叶皮层。
+By contrast, children who typed or traced the letter or shape showed no such effect. The activation was significantly weaker.
+与此相反，打字的孩子，或者沿着字母或图形边缘描摹的孩子并没有显示出这种反应。他们这三个脑区的激活强度要弱得多。
+Dr. James attributes the differences to the messiness inherent in free-form handwriting: Not only must we first plan and execute the action in a way that is not required when we have a traceable outline, but we are also likely to produce a result that is highly variable.
+詹姆斯把这种区别归因于自由书写固有的杂乱性：我们不仅要先制定计划、再落实行动，而且还有可能写出高度多变的字体。有可供描摹的轮廓时，是不需要这种过程的。
+That variability may itself be a learning tool. “When a kid produces a messy letter,” Dr. James said, “that might help him learn it.”
+这种多变性本身就是一种学习的途径。詹姆斯说，“孩子写出凌乱的字母时，有可能会帮助他学习这个字母。”
+Our brain must understand that each possible iteration of, say, an “a” is the same, no matter how we see it written. Being able to decipher the messiness of each “a” may be more helpful in establishing that eventual representation than seeing the same result repeatedly.
+我们的大脑必须要认出字母的各种不同写法，比如说，不管我们看到的“a”是怎么写的，它都是同一个字母。能够识别字母“a”的每一种凌乱写法，或许比反复目睹同样的书写结果，更有助于建立这种最终的认识。
+“This is one of the first demonstrations of the brain being changed because of that practice,” Dr. James said.
+詹姆斯说，“这是能表明大脑因为此类练习而发生改变的最早的例证之一。”
+In another study, Dr. James is comparing children who physically form letters with those who only watch others doing it. Her observations suggest that it is only the actual effort that engages the brain’s motor pathways and delivers the learning benefits of handwriting.
+在另一项研究中，詹姆斯把徒手写字的儿童和那些只看别人写字的儿童做了比较。她的观察结果显示，只有实际的书写行为，才能引发脑部皮层发生回路活动，产生书写的学习效用。
+The effect goes well beyond letter recognition. In a study that followed children in grades two through five, Virginia Berninger, a psychologist at the University of Washington, demonstrated that printing, cursive writing, and typing on a keyboard are all associated with distinct and separate brain patterns — and each results in a distinct end product. When the children composed text by hand, they not only consistently produced more words more quickly than they did on a keyboard, but expressed more ideas. And brain imaging in the oldest subjects suggested that the connection between writing and idea generation went even further. When these children were asked to come up with ideas for a composition, the ones with better handwriting exhibited greater neural activation in areas associated with working memory — and increased overall activation in the reading and writing networks.
+手写的影响远远超出了字母辨识。在一项研究中，华盛顿大学(University of Washington)心理学家弗吉尼娅·贝尔宁格(Virginia Berninger)对二年级到五年级的学生进行了跟踪研究。研究表明，手写和键盘打字涉及完全不同且相互隔离的用脑模式——而且每种模式都会产生完全不同的最终效果。孩子们徒手书写文字时，不仅会比用键盘打字更快的速度持续写出更多的文字，而且还能表达出更多见解。年龄最大的实验对象的大脑成像图显示，手写和激发想法之间的关系甚至更为深远。当研究人员要求这些儿童构思作文时，写字更好的孩子的大脑中，与工作记忆相关的脑区显示出了更强的神经活动——其阅读和书写区域的整体活动也有所增加。
+It now appears that there may even be a difference between printing and cursive writing — a distinction of particular importance as the teaching of cursive disappears in curriculum after curriculum. In dysgraphia, a condition where the ability to write is impaired, sometimes after brain injury, the deficit can take on a curious form: In some people, cursive writing remains relatively unimpaired, while in others, printing does.
+目前的研究显示，就连用印刷体书写和花体字书写之间可能都存在差异——随着花体字课程从一所接一所学校的课程中消失，这种差异显得格外重要。书写困难是一种书写能力受损的病状，脑部受损的人有时会产生这种状况。在发生书写困难症时，书写能力缺失会以一种古怪的方式出现：一些人书写花体字时受到的影响较少，而另一些人则是书写印刷体时受到的影响较少。
+In alexia, or impaired reading ability, some individuals who are unable to process print can still read cursive, and vice versa — suggesting that the two writing modes activate separate brain networks and engage more cognitive resources than would be the case with a single approach.
+患有失读症，即阅读能力受损时，一些无法理解印刷体的人，依然能够阅读手写的花体字，相反的情况也存在。这一点表明，这两种书写模式激活了大脑中不同的网络，其牵涉的认知资源要多于单一的书写模式。
+Dr. Berninger goes so far as to suggest that cursive writing may train self-control ability in a way that other modes of writing do not, and some researchers argue that it may even be a path to treating dyslexia. A 2012 review suggests that cursive may be particularly effective for individuals with developmental dysgraphia — motor-control difficulties in forming letters — and that it may aid in preventing the reversal and inversion of letters.
+贝尔宁格博士在这一点上走得更远，她甚至认为，花体字也许能以其他书写模式所不能的方式，训练人的自控能力。一些研究人员提出，花体字或许还是治疗书写困难的一种途径。2012年的一次评估提出，花体字对于治疗患有发育性书写困难的患者，可能格外有效——他们在书写字母时，会遇到动作控制方面的困难——花体字也许有助于防止人们把字母写倒或写反。
+Cursive or not, the benefits of writing by hand extend beyond childhood. For adults, typing may be a fast and efficient alternative to longhand, but that very efficiency may diminish our ability to process new information. Not only do we learn letters better when we commit them to memory through writing, memory and learning ability in general may benefit.
+不管是花体字还是其他书写模式，手写的益处不仅惠及童年。对成人而言，打字也许是一种可以替代手写的迅速而高效的方式，但这种效率可能会削弱我们处理新信息的能力。我们通过手写来记忆文字时，不仅能更有效地学习字母，还能整体上让我们的记忆和学习能力受益。

@@ -1,0 +1,40 @@
+DESPITE the storms that have swept through financial markets over the last year, the overall stock market in the United States actually managed to eke out some gains. In fact, the market value of all stocks in the Standard & Poor’s 500-stock index increased by $282 billion in the 12 months through June.
+去年，尽管风暴席卷了金融市场，但其实，美国的股票市场总体上还是取得了一些收益。事实上，在自去年6月开始的12个月中，标准普尔500指数(Standard & Poor’s 500-stock index)股票的总市值增加了2820亿美元。
+There’s a catch, though: One stock alone accounts for the overwhelming bulk of that increase. In fact, of that $282 billion, some 83 percent of it comes from gains in shares of Apple Inc., now the highest-valued company in the world.
+然而，有一点需要注意，上述增长中的绝大部分都是由一只股票贡献的。事实上，在那2820亿美元中，大约83%来自于苹果公司(Apple Inc.)股价的上涨。目前，苹果公司是全世界市值最高的公司。
+Many mutual fund managers can attribute most of their recent success to large positions in Apple. But is a large current stake a ticket to further outsized gains? Or is it an increasingly risky bet that could quickly sour?
+很多共同基金经理都应该将他们近期的大部分成功归因于苹果的强势。然而，当前大量持股能保证在将来获得巨大收益吗？或者这只是一个风险日益增加的赌注，形势可能会急速恶化？
+Apple is the most widely held stock among the 465 growth funds followed by FactSet Research, said Michael Amenta, an analyst at the firm. And that poses pressing issues for many fund managers.
+研究机构Fact Set Research的分析师迈克尔·阿门塔(Michael Amenta)表示， 在他所在的研究机构关注的465家增长基金中，苹果是持股基金数目最多的股票。而对很多基金经理而言，这种情况为他们带来了一些紧迫的问题。
+“We’re sensitive to letting a mutual fund get too outsized a position,” said Ryan Jacob, manager of the Jacob Internet fund. When his fund’s Apple holdings neared 9 percent of assets, Mr. Jacob decided to “trim a little bit.”
+“我们对某只共同基金一家独大的局面很敏感，”雅各布互联网基金(Jacob Internet fund)经理瑞安·雅各布(Ryan Jacob)说道。当苹果在他的基金持有的总资产中所占比例接近9%时，他决定“稍微减持一些”。
+Until quite recently, selling Apple often led to remorse. “Every sale has been a bad sale,” Mr. Jacob lamented. “Up until a couple of months ago,” he added, referring to Apple’s decline from an April high. Today, fund managers must weigh Apple’s distinct performance and potential against some equally distinct risks.
+直到不久前，抛售苹果公司的股票往往会让人心生懊悔。“每一笔卖单都很糟糕，”雅各布感叹道。“几个月前才有所改变，”他补充说道，指的是苹果股价自4月份走高后便持续下跌的形势。如今，面对苹果公司的抢眼表现和潜力，以及一些同样抢眼的风险，基金经理们必须有所权衡。
+On the positive side, Apple is a sales juggernaut seemingly immune to the slowing growth that often afflicts giant enterprises. In its fiscal year ended Sept. 24, revenue grew by a remarkable 66 percent, to $108 billion. Sales in the quarter ended March 31 soared again — by nearly 59 percent from the year-ago period. 
+从积极的一面来看，苹果是个销售巨人，看似不会面临增长减速的问题，而增长减速往往会让大企业苦不堪言。在截至9月24日的财政年度里，苹果收入增至1080亿美元，增幅高达66%。在截至3月31日的季度里，苹果销量再度飙升，较上年同期增长近59%。
+“Over the last 30 quarters, Apple earnings have exceeded analyst estimates in all but one of the quarters,” marveled Scott Callahan, manager of the Icon Information Technology fund.
+“在过去的30个季度中，除了其中的1个季度以外，苹果公司的收入都超出了分析家们的预期，”Icon Information Technology基金的经理斯科特·卡拉汉(Scott Callahan)惊叹不已地说道。
+FURTHERMORE, Apple never has been about the numbers only. As the leading purveyor of techno-chic, Apple has a branding history that would please Don Draper.
+此外，苹果的成功从来都不仅仅是数字。作为一家领先的科技时尚供应商，苹果打造品牌的历史甚至能让唐·德雷柏(Don Draper)这样的人觉得满意。
+Early on, Apple pitched itself as the anti-establishment alternative to I.B.M. Now it is pouring ad dollars into convincing a gadget-loving public that it’s cool to chat with Siri, the iPhone cyber-assistant. Among those delivering its pitch is the actor John Malkovich.
+早期，苹果将自己定位为IBM公司的反主流替身。但如今，苹果投入了大量广告资金，意在说服热衷小玩意儿的公众相信，同iPhone上的网络助手Siri聊天很时髦。演员约翰·马尔科维奇(John Malkovich)便是帮助苹果宣传这种理念的人之一。
+But Siri does have doubters. A new report issued by a Piper Jaffray analyst said that in many hundreds of inquiries delivered on a noisy street, Siri could accurately answer just 62 percent, and that even in a quiet room, it could accurately handle just 68 percent.
+然而，还是有人对Siri持怀疑态度。由派杰(Piper Jaffray)的一名分析师发布的一份报告称，如果在嘈杂的街道上提出千百个问题，Siri只能准确地回答出其中的62%，即使是在安静的房间里，Siri也只能准确地回答出其中的68%。
+Apple has backed up its slick branding with striking design, technical innovation and strategic ingenuity — and the company’s creativity seems to make its customers feel creative, too. It was once said that nobody was fired for buying I.B.M. Today it can be said that nobody ever lost self-esteem by buying Apple.
+苹果通过夺目的设计、技术的创新和战略的独创性来支撑自己成熟的品牌战略，而苹果的创造性看似让消费者觉得自己也充满了创造力。曾经有人说，没人会因为买了IBM而被解雇。现在则可以这么说，没人会因为买了苹果而失去自尊。
+But the company’s success has produced a gaping vulnerability for investors. Stellar sales performance has lifted its share price and market capitalization, swelling its weighting in indexes like the S.& P. 500 and the Nasdaq 100. In late June, it represented a remarkable 18.9 percent of that Nasdaq benchmark.
+然而，苹果公司的成功却让投资者越来越脆弱。显赫的销售业绩提升了它的股价和市值，使它在标准普尔500和纳斯达克100等指数中的权重膨胀上升。6月末，苹果在纳斯达克指数中的权重高达18.9%。
+Why is this important? It matters because a host of index funds and exchange-traded funds mimic such benchmarks. As investors plow more money into these funds, the E.T.F.’s have had to add Apple shares — pushing share prices still higher, and in turn prompting even more buying.
+为什么这一点很重要？这是因为许多指数基金和交易所交易基金(exchange-traded funds, ETF)都在效仿这些基准指数。随着投资者向这些基金投入更多的资金，ETF不得不增持苹果股票，导致苹果股价继续走高，进而催生更多买单。
+This circularity works great in a rising market. But what if Apple stock — or even the broad market — were to suffer a sharp decline?
+市场处于上升态势时，这种循环非常有用。但是，如果苹果股价——甚至是整个股市——都面临着急剧下滑呢？
+Index funds recently held 9.6 percent of Apple’s outstanding shares, according to FactSet. 
+按照FactSet的说法，指数基金最近持有苹果公司9.6%的流通股票。
+This kind of situation poses two threats. A sharp decline in Apple’s share price would lead to reduced index weighting, setting off E.T.F. and index fund sales of the company’s shares. A broad market decline could also spur redemptions, requiring funds to raise cash. With their heavy weighting, Apple shares would have to be unloaded.
+这种局面构成了两种威胁。苹果股价大跌将导致其指数权重降低，引发ETF和指数基金对苹果股票的抛售。整体股市的下滑也可能刺激股票回购，要求各基金筹集现金。基金只能选择抛售苹果股票，原因就是它们所占的巨大权重。
+Just as Apple’s rise was accelerated by its growing weighting in market indexes, its decline would be amplified by that weighting.
+就像苹果在市场指数中不断加大的权重加速了它的崛起一样，它的下滑也会被它的高权重放大。
+“You can get a cyclical thing that feeds on itself,” said Kevin Landis, manager of the Firsthand Technology Opportunities fund, where Apple is the leading stock holding.
+“你可能会看到一个自我膨胀的循环，” Firsthand Technology Opportunities基金经理凯文·兰迪斯(Kevin Landis)说道。苹果是他的基金持有的头牌股票。
+Even companies enjoying outstanding growth can see their stock tumble when profit margins erode. Apple is not immune to margin pressure, reasons Edward Zabitsky, chief executive of ACI Research in Toronto. Apple shares ended the second quarter at $584, but he has a longer-term target of $270.
+当利润空间被侵蚀时，即使是增长显著的公司也会目睹它们的股价暴跌。苹果并非不受利润压力的影响，位于多伦多的ACI研究公司(ACI Research)首席执行官爱德华·扎比茨基(Edward Zabitsky)解释道。第二季度结束时，苹果的股价为584美元，但扎比茨基认为，从长远来看，这一数字会降至270美元。

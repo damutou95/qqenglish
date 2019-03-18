@@ -1,0 +1,68 @@
+The swirl of revelations and allegations about Russian involvement in the American presidential election, which has been building since the summer, can be difficult to keep straight.
+关于俄罗斯介入美国总统大选一事，相关披露与指控从今年夏天便开始愈演愈烈，让人很难分辨清楚。
+For example, though analysts often say that Russia “hacked the election,” this shorthand refers to something much subtler than altering the vote itself — just one of many points of growing confusion. Here is a guide to what is known and is not, and to separating fact from misconception.
+比如，虽然分析师经常说俄罗斯“对选举采取黑客行动”，但这种简略的表达指的是某种比改变选票本身微妙得多的东西――这只是日益引发困惑的许多方面之一。下面是一个指南，告诉你什么是已知的东西，什么不是；还有什么是事实，什么是错误的理解。
+What was Russia’s role in the election?
+俄罗斯在选举中扮演了什么角色？
+• Russian security agencies infiltrated Democratic National Committee email servers last year and again this spring, according to American intelligence assessments and several independent security firms. The Russians also hacked a private email account belonging to John D. Podesta, the chairman of Hillary Clinton’s presidential campaign.
+· 根据美国情报机构的评估和几家独立安全公司的说法，俄罗斯安全机构渗透入民主党全国委员会的电子邮件服务器之中。俄罗斯人还入侵了希拉里·克林顿(Hillary Clinton)的竞选团队主席约翰·D·波德斯塔(John D. Podesta)的私人电子邮件帐户。
+• This summer, intermediaries linked to the Russian government passed the emails to WikiLeaks and to an anonymous WordPress blog called Guccifer 2.0. Those outlets released the emails publicly, generating weeks of unfavorable coverage of Mrs. Clinton’s campaign.
+· 今年夏天，与俄罗斯政府有关的中间人将这些电子邮件传递给维基解密(WikiLeaks)和一个名为Guccifer 2.0的匿名WordPress博客。这几个渠道公开了相关电子邮件，导致了持续几个星期对克林顿竞选活动不利的报道。
+• Initially, many analysts believed that Russia’s goal was to sow confusion and undermine Americans’ faith in their government — a common Russian tactic — rather than to steer the election’s outcome.
+· 最初，许多分析人士认为，俄罗斯的目标是制造混乱，破坏美国人对政府的信心――这是一个俄罗斯常用的策略――而不是操纵选举的结果。
+• However, after the election, the Central Intelligence Agency concluded that Russia had released the emails with the primary goal of bolstering Donald J. Trump’s presidential campaign.
+· 然而，在选举之后，中央情报局得出结论，俄罗斯公布这些电子邮件，主要目标是支持唐纳德·J·特朗普(Donald J. Trump)的总统竞选。
+• No information has emerged suggesting that the C.I.A. believes that Russia’s involvement decided the election’s outcome.
+· 没有任何消息表明中情局确信俄罗斯的介入决定了选举结果。
+Was the election itself hacked?
+选举本身是否遭到黑客攻击？
+• There is no evidence that hackers, from Russia or elsewhere, tampered with the vote tallies.
+· 没有证据表明来自俄罗斯或其他地方的黑客篡改了票数。
+• Mr. Trump has said there was widespread voter fraud that favored Mrs. Clinton, and some liberal commentators have suggested that the election was hacked. Independent analysts say there is overwhelming evidence against both claims.
+· 特朗普说，有大量支持克林顿的假选票存在，一些自由派评论人士声称选举遭到黑客攻击。独立分析人士说，存在不容辩驳的证据，足以反驳这两个观点。
+• A widely circulated New York magazine article reported that two voting experts had urged Democrats to push for a recount, on fears that hackers had manipulated the vote. But one of those experts disputed that article, writing in a post on Medium that he had urged a recount but had doubted hacking.
+· 一篇广泛传播的《纽约》杂志文章表示，有两个投票专家担心黑客操纵了投票，因而敦促民主党人推动重新点票。但是其中一个专家对这篇文章提出异议，他在Medium网站撰文写道，他曾敦促重新计票，但是对黑客入侵表示怀疑。
+• The White House and election officials have said the vote shows no sign of tampering and accurately reflects popular will.
+· 白宫方面和选举官员说，选票没有遭到篡改的迹象，并且准确反映了民意。
+• A recount effort led by the Green Party candidate, Jill Stein, is unrelated to the revelations that Russia hacked the Democratic National Committee and Mr. Podesta’s emails.
+· 由绿党候选人吉尔·斯坦(Jill Stein)领导的重新计票工作与俄罗斯黑客入侵民主党全国委员会及波德斯塔的电子邮件遭披露无关。
+Did Russia swing the election for Mr. Trump?
+俄罗斯是否推动了特朗普当选？
+• It is impossible to say for sure. Because the email leaks unfolded over weeks, and concurrently with many other election dramas, polls cannot easily isolate the impact of the leaks.
+· 这一点是不可能确定的。因为电子邮件泄露事件持续了几个星期的时间，同时期内，选举中还发生了其他许多戏剧性事件，民意调查不能轻易将邮件泄漏的影响孤立出来。
+• Mr. Trump won three crucial Midwestern states by very small margins. So even if the leaks swung only a small percentage of votes, that could have been enough to change the election outcome.
+· 特朗普以非常小的优势在中西部三个关键州取胜。因此，即使泄漏事件只影响了一小部分选民，也足以改变选举结果。
+• But this same logic applies to dozens of factors, including the F.B.I.’s late-stage investigations related to Mrs. Clinton’s private email server. Political scientists have demonstrated that even changes in weather and the performance of sports teams can alter how people vote.
+· 但同样的逻辑也可适用于其他几十个因素，包括联邦调查局在选举后期对克林顿的私人电子邮件服务器所进行的相关调查。政治学家已经证明，就连天气的变化和球队的表现也能改变人们的投票。
+• All available evidence suggests that voters freely selected Mr. Trump on Election Day in sufficient numbers for him to win the presidency under the Electoral College system. But that does not diminish the seriousness of Russia’s intervention in the election, which appears to be unprecedented.
+· 所有现存证据表明，在选举日自愿为特朗普投票的选民足以令他在选举团制度下赢得总统职位。但这并不会削弱俄罗斯干预选举的严重性，这样的干预似乎是没有先例的。
+• The C.I.A.’s assessment is not public, but is thought to turn on another alleged hack. Russia also hacked data from the Republican National Committee but declined to release whatever it found, intelligence agencies told Congress. That has given credence to theories that Moscow actively favored the party’s candidate.
+· 中情局的评估是不公开的，但被认为指出了另一场据称的黑客攻击。情报机构告诉国会，俄罗斯也同样侵入了共和党全国委员会的数据，但没有透露所发现的东西。这使得莫斯科积极支持该党候选人的假设更加可信。
+• Mr. Trump has repeatedly promised to realign the United States with Russia and has praised its president, Vladimir V. Putin. Many in Moscow view Mrs. Clinton as hostile to Russia.
+· 特朗普一再承诺美俄重新结盟，并称赞俄罗斯总统弗拉基米尔·V·普京(Vladimir V. Putin)。在莫斯科，许多人认为克林顿对俄罗斯抱有敌意。
+• The evidence in any assessment of Russian government motives is circumstantial, and not all American intelligence agencies share the C.I.A.’s view.
+· 评估俄罗斯政府动机的证据都是间接的，并不是所有美国情报机构都同意中情局的观点。
+• The timing suggests that, if Moscow decided to help Mr. Trump, it did so only after hacking the servers of both parties’ national committees. Both were infiltrated well before Mr. Trump’s rise.
+· 莫斯科选择的时机表明，如果它的确决定帮助特朗普， 也是在黑客入侵两党全国委员会的服务器之后才这样做。在特朗普崛起之前，两党的服务器就都遭到了渗透。
+• Mr. Trump, at a July news conference, publicly urged Russia to hack Mrs. Clinton’s emails. But this could not have precipitated or encouraged the Russian hacks — they had taken place months earlier.
+· 特朗普在7月的新闻发布会上公开鼓励俄罗斯对克林顿的电子邮件进行黑客攻击。但这不可能引发或鼓励俄罗斯的黑客攻击――他们几个月前就这么做了。
+Did Russia spread pro-Trump fake news?
+俄罗斯是否传播了支持特朗普的假新闻？
+• Russian state media outlets have favored Mr. Trump and opposed Mrs. Clinton, but their reach in the United States is limited. (Their influence in Europe is much stronger.)
+· 俄罗斯国家媒体渠道支持特朗普，反对克林顿，但他们对美国的影响很有限。（他们在欧洲的影响力则强得多）。
+• A firm called PropOrNot claimed that the Russian government had flooded American social media with fake election news. But several independent analysts challenged the report’s methodology, which classified mainstream sites as Russian propaganda and did not demonstrate a link to Moscow.
+· 一家名为PropOrNot的公司声称，俄罗斯政府用关于选举的假新闻淹没了美国社交媒体。但是几个独立分析师质疑了该公司报告的方法，它将主流网站归类为俄罗斯的政治宣传，但却没有证明它们与莫斯科的联系。
+• Fake news is a growing problem, at times driven by companies in Eastern Europe that write and spread the articles. But those companies appear to be motivated by profit-seeking rather than any political agenda.
+· 假新闻是一个日益严重的问题，它们有时由东欧的公司驱动，这些公司会撰写和传播一些文章。但是，它们的动机似乎是追求利润，并没有任何政治议程。
+What was Russia’s goal in meddling?
+俄罗斯干预的目标是什么？
+• There are two schools of thought: first, that Russia sought to weaken the United States by stirring up uncertainty and miring Mrs. Clinton, who seemed all but certain to win, in scandal; and second, that Russia sought specifically to elevate Mr. Trump to the presidency.
+· 现在有两派观点：第一派观点认为，俄罗斯试图通过制造不确定性，并用丑闻来给看似稳操胜券的克林顿带来麻烦，以此削弱美国；第二派观点认为，俄罗斯明确谋求由特朗普担任总统。
+• Those theories are not mutually exclusive. For instance, Moscow may have started with the first goal and then added the second as a hoped-for bonus.
+· 这些理论并非互不相容。比如，莫斯科可能在开展第一个目标之后，又把第二个目标作为希望发生的额外惊喜。
+• Russia is waging similar campaigns across Europe, at times through cyberattacks and selective leaks, with the apparent goal of undermining Western unity.
+· 俄罗斯目前正在整个欧洲发起类似的行动，有时是通过网络攻击和选择性泄漏信息，其目标看似是破坏西方世界的团结。
+• The Kremlin sees itself as under siege by a hostile West that it perceives as bent on Russia’s destruction. Russian military leaders advocate shadowy “new generation warfare” — through propaganda and cyberattacks, for example — to destabilize adversaries from within.
+· 克里姆林宫认为自己遭到一个充满敌意的西方的围困，认为西方的目的是毁掉俄罗斯。俄罗斯军事领导人宣扬阴暗莫测的“新一代战争”――例如通过政治宣传和网络攻击――从内部去破坏对手的稳定。
+• Not all misconceptions are directed by Moscow, however. Social media rumors that overstate Russia’s involvement in the United States election risk playing into Moscow’s goal of undermining Americans’ faith in the legitimacy and integrity of their democracy.
+· 然而，并非所有的错误观念都是由莫斯科带来的。夸大俄罗斯对美国选举干预的网络谣言也有正中莫斯科下怀的危险，同样会破坏美国人对其民主制度合法性与完善性的信念。

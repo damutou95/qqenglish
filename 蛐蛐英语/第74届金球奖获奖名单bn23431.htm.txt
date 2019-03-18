@@ -1,0 +1,56 @@
+Here are the movies and TV shows that received the top awards.
+以下是获得第74届金球奖的电影与电视节目：
+Movie
+电影
+Best picture, drama: “Moonlight”
+最佳影片奖，剧情类：《月光男孩》
+Best picture, comedy or musical: “La La Land”
+最佳影片奖，音乐/喜剧类：《爱乐之城》
+Actress, drama: Isabelle Huppert, “Elle”
+最佳女主角，剧情类：伊莎贝尔·于佩尔(Isabelle Huppert)，《她》
+Actor, drama: Casey Affleck, “Manchester by the Sea”
+最佳男主角，剧情类：卡西·阿弗莱克(Casey Affleck)，《海边的曼彻斯特》
+Actress, comedy or musical: Emma Stone, “La La Land”
+最佳女主角奖，音乐/喜剧类：艾玛·斯通(Ryan Gosling)，《爱乐之城》
+Actor, comedy or musical: Ryan Gosling, “La La Land”
+最佳男主角奖，音乐/喜剧类：瑞恩·高斯林(Ryan Gosling)，《爱乐之城》
+Supporting actress: Viola Davis, “Fences”
+最佳女配角，音乐/喜剧类：维奥拉·戴维斯(Viola Davis)，《藩篱》
+Supporting actor: Aaron Taylor-Johnson, “Nocturnal Animals”
+最佳男配角，音乐/喜剧类：亚伦·泰勒-强森(Aaron Taylor-Johnson)，《夜行动物》
+Director: Damien Chazelle, “La La Land”
+最佳导演：达米恩·查泽雷(Damien Chazelle)，《爱乐之城》
+Screenplay: Damien Chazelle, “La La Land”
+最佳编剧：达米恩·查泽雷(Damien Chazelle)，《爱乐之城》
+Animated film: “Zootopia”
+最佳动画片：《疯狂动物城》
+Foreign language film: “Elle” (France)
+最佳外语片：《她》（法国）
+Original score: Justin Hurwitz, “La La Land”
+最佳配乐：贾斯汀·赫维茨(Justin Hurwitz)，《爱乐之城》
+Original song: “City of Stars,” “La La Land”
+最佳原创歌曲：“City of Stars”——《爱乐之城》
+Television
+电视
+Best series, drama: “The Crown,” Netflix
+最佳剧情类电视剧：《王冠》
+Best series, comedy or musical: “Atlanta,” FX
+最佳音乐/喜剧类电视剧：《亚特兰大》
+Best television movie or mini-series: “The People v. O.J. Simpson: American Crime Story,” FX
+最佳电视电影或迷你剧集：《美国罪案故事：公诉辛普森》
+Actress, mini-series or television movie:Sarah Paulson, “The People v. O.J. Simpson: American Crime Story”
+最佳女主角，限制剧/电影类电视剧：莎拉·保罗森(Sarah Paulson)，《美国罪案故事：公诉辛普森》
+Actor, mini-series or television movie: Tom Hiddleston, “The Night Manager”
+最佳男主角，限制剧/电影类电视剧：汤姆·希德勒斯顿(Tom Hiddleston)，《夜班经理》
+Actress, drama: Claire Foy, “The Crown”
+最佳女主角，剧情类电视剧：克莱尔·芙伊(Claire Foy)，《王冠》
+Actor, drama: Billy Bob Thornton, “Goliath”
+最佳男主角，剧情类电视剧：比利·鲍伯·汤顿(Billy Bob Thornton)，《律界巨人》(Goliath)
+Actress, comedy or musical: Tracee Ellis Ross, “black-ish”
+最佳女主角，音乐/喜剧类电视剧： 特雷西·埃利斯·罗斯(T​​racee Ellis Ross)，《喜新不厌旧》
+Actor, comedy or musical: Donald Glover, “Atlanta”
+最佳男主角，音乐/喜剧类电视剧：唐纳德·格洛沃(Donald Glover)，《亚特兰大》
+Supporting actress: Olivia Colman, “The Night Manager”
+最佳女配角，限制剧/电影类电视剧：奥莉薇娅·柯尔曼(Olivia Colman)，《夜班经理》
+Supporting actor: Hugh Laurie, “The Night Manager”
+最佳男配角，限制剧/电影类电视剧：休·劳瑞(Hugh Laurie)，《夜班经理》

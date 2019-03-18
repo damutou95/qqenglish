@@ -1,0 +1,26 @@
+In some ways, the Internet has become a game of “type and be typed.” Now you can play it at home, too.
+在某种程度上，互联网已经成为一种“归类和被归类”的游戏。现在，你在家也可以玩这种游戏了。
+Companies like Facebook, Google and Twitter look at the queries, observations, updates and enthusiasms we write on their services, then they try to figure out what ads might have the most persuasive effect on us.
+Facebook、谷歌(Google)、Twitter等公司看到了我们在其服务网站上的提问、评论、状态更新，以及提到的兴趣，然后他们试图搞清楚什么广告会对我们最具说服力。
+On Tuesday, a Berkeley, Calif., start-up called Five posted a tool that gives a sense of what the big web companies might see when they look at us.
+周二，加利福尼亚州伯克利的一个名为Five的初创企业发布了一个工具软件，它能让你了解大型网络公司在看到我们发布的内容时，可能看出哪些信息。
+Using a link to Facebook posts, Five analyzes the language in which we write, and determines our relative affiliation to five personality attributes: openness, extraversion, agreeableness, conscientiousness and neuroticism. It then shows comparisons with famous people (based on their public writings and statements), as well as your Facebook friends.
+该公司通过链接打开Facebook帖子，分析我们的写作语言，判断我们的五大人格特质的相关属性：开放性、外向性、亲和性、尽责性和神经过敏性。然后会展示你与知名人士（根据他们公开发表的文章和声明得出的结论）及你的Facebook好友的对比。
+Based on the initial responses to the site on Twitter, “people seem to identify pretty strongly with the personalities we generate,” said Nikita Bier, the co-founder of Five, which is working on a product for online conversations that will use similar technology. “Only about 10 percent said we were outright wrong about them.”
+从对Twitter帖子分析的最初反应来看，“人们似乎十分认同我们得出的人格特质结果，”该公司联合创始人尼基塔·比尔(Nikita Bier)说。“只有约10%的人认为我们的分析完全错误。”Five公司目前正在研发一个网络对话产品，该产品将利用类似的技术。
+Part of that may be the overall vagueness of the typing, which can provoke the same kind of identification people feel for the most general newspaper horoscopes.
+这在一定程度上可能是因为分类的整体模糊性，它给人的感觉，就像人们对报纸上最笼统的星座运程的认同感一样。
+There is a significant amount of research into the relationship between the words we chose and the personalities we possess. H. Andrew Schwartz, a researcher at the University of Pennsylvania who has published research on the topic, is an adviser to Five.
+目前，针对所选词汇与性格之间的关系，已经有了大量研究。该公司顾问、宾夕法尼亚大学(University of Pennsylvania)研究员H·安德鲁·施瓦茨(H. Andrew Schwartz)就曾发表过有关这一主题的研究报告。
+Mr. Bier said the point of the exercise is not precision, but to give people a sense of what social media companies are doing with us, probably with much greater sophistication.
+比尔表示，这种分析的意义不在于精确度，而是让人们了解社交媒体公司在利用我们做什么，而它们可能要老练得多。
+“The predictive qualities of the five types are good for advertising,” he said. “People who are more open go to coffee shops, and have interesting apartments. You might want to give them an ad for Ikea. Neurotic people worry about their health, so you might pitch them vitamins.”
+“这五大人格特质具有预测性，这有助于广告推送，”他说。“更开放的人会去咖啡店，他们的公寓会很有趣。你可能想要为他们提供宜家(Ikea)的广告。神经质的人会担心健康状况，因此，你可以给他们发一些维生素的广告。”
+Based on an entirely unscientific sample of one (though the author has known this subject a very long time), Five’s analysis is somewhat accurate, and somewhat bemusing.
+根据完全不符合科学理论的取样数量，也就是一个，此项分析多少还算精确，但也有令人困惑的地方。（笔者很早之前就对这个话题有所了解。）
+I am, it seems, about 30 percent more like the venture capitalist Marc Andreessen than I am like my wife. I’m as neurotic as Mark Cuban, the owner of the Dallas Mavericks basketball team, appreciate art less than Mahatma Gandhi, and am only slightly more cooperative than LeBron James, the star of the Miami Heat basketball team.
+看似，我与风险资本家马克·安德里森(Marc Andreessen)的相似度比我与妻子的相似度高30%。我的神经过敏性与达拉斯小牛队(Dallas Mavericks)的老板马克·库班(Mark Cuban)雷同，艺术鉴赏力则不如莫罕达斯·甘地(Mahatma Gandhi)，合作性比迈阿密热队(Miami Heat)球星勒布朗·詹姆斯(LeBron James)好一点点。
+I know well just three of the 10 Facebook “friends” to whom I am most similar. I’m little akin to most of the people I actually know and like on Facebook.
+在与我最为类似的10名Facebook“好友”中，我只对其中三人比较了解。我与大多数我认识的、喜欢的Facebook好友都有一点相似。
+Sound familiar?
+听起来熟悉吗？

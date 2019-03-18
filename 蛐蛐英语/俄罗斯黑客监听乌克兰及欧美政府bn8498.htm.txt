@@ -1,0 +1,32 @@
+LONDON — Russian hackers used a bug in Microsoft Windows to spy on several Western governments, NATO and the Ukrainian government, according to a report released Tuesday by iSight Partners, a computer security firm in Dallas.
+伦敦——本周二，达拉斯计算机安全公司iSight Partners发布报告，称俄罗斯黑客利用微软Windows中的一个漏洞，对几个西方国家政府、北约(NATO)以及乌克兰政府开展监听活动。
+The targets also included European energy and telecommunications companies and an undisclosed academic organization in the United States, the Internet security report said.
+这份互联网安全报告表示，监听目标还包括欧洲的一些能源和电信公司，以及一个美国学术机构，不过它没有披露该机构的名字。
+While it is unclear what type of information may have been retrieved, iSight said that the targets of the attacks were often linked to the standoff in Ukraine between Russia and the West.
+目前还不清楚黑客可能获取到了哪些类型的信息，但iSight表示，监听目标往往涉及俄罗斯和西方在乌克兰问题上的对峙。
+That included the NATO summit meeting in Wales in early September at which the Russian hackers targeted the Ukrainian government and at least one American organization, the report said.
+这包括今年9月初在威尔士召开的一个北约峰会时，俄罗斯黑客对乌克兰政府，以及至少一个美国组织进行的监听，该报告称。
+The illegal activities started as early as 2009 and used a variety of techniques to gain access to confidential information. But iSight said that it was only in the late summer that the Russian hackers started using what experts refer to as a zero-day attack — the exploitation of a previously unknown vulnerability — on Windows.
+这些非法活动最早始于2009年，黑客们采取各种技术来获取机密信息。但iSight说，直到今年夏天，俄罗斯黑客才开始进行专家所说的“零日漏洞攻击”——即利用Windows中一个以前不为人知的漏洞，开展攻击。
+The bug affected versions from Windows Vista to the company’s latest software, Windows 8.1, though Microsoft is expected to release an update on Tuesday to resolve the potential vulnerability.
+这个漏洞影响的版本从Windows Vista开始，直到最新发布的Windows8.1，不过微软本周二将发布一个更新，来解决这个问题。
+Despite efforts to thwart the Russian hackers’ attacks, iSight said using the Microsoft bug and other illegal tactics almost certainly allowed the hackers to gain some access to their targets.
+iSight表示，尽管人们努力阻止俄罗斯黑客的攻击，但黑客们利用微软这个漏洞和其他非法手段，可以或多或少地攻破目标，这几乎是肯定的。
+“The use of this zero-day vulnerability virtually guarantees that all of those entities targeted fell victim to some degree,” the company said.
+“利用这种零日漏洞，几乎可以确定，所有目标都在一定程度上遭受了损失，”该公司表示。
+While the vulnerability affected many versions of Windows, iSight said the Russian hackers appeared to be the only group to use the bug. The company added, however, that other companies and organizations might also have been attacked.
+虽然Windows的很多版本都存在该漏洞，但iSight表示，俄罗斯黑客似乎是唯一利用它的群体。不过该公司也说，其他公司和组织也可能已经遭到攻击。
+Representatives for Microsoft and the Russian government were not immediately available for comment.
+微软和俄罗斯政府的代表没有立即对此事置评。
+The discovery of the hacking is the latest in a series of worldwide attacks that have affected individuals, government agencies and companies.
+这种攻击是一系列涉及个人、政府机构和公司的全球性攻击中最新发现的一波。
+Many of these attacks have originated in Russia and other Eastern European countries, though the purpose of the hackers’ efforts has often varied.
+很多这种攻击事件，源头都是俄罗斯和其他东欧国家，然而黑客们的目的往往各不相同。
+Last year, for example, Eastern European hackers gained access to the data of up to 110 million customers of the retailer Target.
+例如去年，东欧黑客从零售商塔吉特(Target)那里获取了最高达1.1亿客户的数据。
+In August, security researchers discovered that a separate Russian crime ring had amassed a huge collection of stolen online information, including roughly 1.2 billion user names and passwords and more than 500 million email addresses.
+今年8月，安全研究人员发现，一个独立的俄罗斯犯罪团伙掌握了大量被盗网上信息，包括大约12亿套用户名和密码，以及5亿多个电邮地址。
+And this month, JPMorgan Chase also revealed that another cyberattack, which experts believe originated in Russia, had compromised the banking accounts of roughly 76 million households and seven million small businesses.
+本月初，摩根大通(JPMorgan Chase)还发现了另一起网络攻击，导致大约7600万个家庭账户和700万小企业账户泄露，专家认为攻击的源头在俄罗斯。
+ISight said it had called the most recent Russian hackers the Sandworm team because they used encoded references to the science fiction series “Dune” in their attacks.
+iSight表示，它把最近这批俄罗斯黑客称为“沙虫”(Sandworm)组，因为在攻击中，他们使用了系列科幻小说《沙丘》(Dune)的内容来编码。

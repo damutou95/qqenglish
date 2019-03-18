@@ -1,0 +1,22 @@
+It’s the stuff of urban legend, filtered through a 21st-century nightmare: A shadowy organization surreptitiously turns on the camera and microphone of your smartphone, changing an essential and trusted device into an insidious surveillance tool.
+这是都市传说般的故事，经过了一场21世纪噩梦的渲染：一个神秘组织偷偷打开你智能手机上的摄像头和麦克风，把一台必不可少且备受信任的设备，变成一个悄无声息的监视工具。
+But according to Cynthia M. Wong, a senior internet researcher at the advocacy group Human Rights Watch, authoritarian governments are able to do that when they hack into phones and other devices belonging to dissidents and nongovernmental organizations.
+但据倡导团体人权观察组织(Human Rights Watch)的互联网问题高级研究员辛西娅·M·黄(Cynthia M. Wong)介绍，威权政府能够在侵入异见人士及非政府组织的电话和其他设备后做到这一点。
+Some potential targets fight back with a simple countermeasure: a sticker or a patch of masking tape over the camera lens. It doesn’t stop the hacking, of course, but “it’s an analog way to make sure you’re not being spied on” visually, Ms. Wong said.
+一些潜在目标会用一项简单的对策进行反击：用贴纸或胶带把镜头盖住。这当然阻止不了入侵，但黄说，这是确保在视觉上“不被监视的模拟手段”。
+She said that “in the old days, five to 10 years ago,” only major world powers like Russia or the United States were able to hack into phones this way. But today, smaller countries can buy the capability from private companies.
+她说，“在过去，五到十年前”，只有像俄罗斯或美国这样的大国才有能力用这种方式侵入手机。但如今，较小的国家能够从私人公司购买这种能力。
+“A much broader range of activists have to worry about their own governments hacking into phones,” Ms. Wong said. “The message governments are sending is: We are watching everything you do.”
+“更多的活动人士不得不担心自己的政府会侵入手机，”黄说。“政府传递的讯息是：你们的一举一动我都在看着。”
+Ahmed Mansoor, a prominent dissident in the United Arab Emirates, has been getting that message for years in one way or another. Texts he received this year, ostensibly about the torture of prisoners, turned out to be the work of hackers trying to infiltrate his phone. (He still gets similar texts, even after their true nature was exposed in news reports.)
+多年来，阿拉伯联合酋长国著名异见人士艾哈迈德·曼苏尔(Ahmed Mansoor)总会通过某种方式接收到这个讯息。他今年收到的短信表面上是关于犯人遭到严刑拷打的，结果却是试图潜入他手机的黑客手法。（即便在它们的真实性质被新闻报道曝光后，曼苏尔仍会收到类似的短信。）
+“Nothing is too strange for me anymore,” he said.
+“如今什么东西都不会让我觉得奇怪了，”他说。
+So he has taken to fighting fire with fire: When Mr. Mansoor was followed, he said, he took photos of his pursuers and posted them online.
+因此，他已经习惯了以其人之道还治其人之身：他说，被人跟踪时，他会拍下跟踪者的照片并把它们发到网上。
+In a constant game of cat and mouse, it pays to be a well-informed mouse. Ms. Wong and her colleague Adam Coogle say that the messaging services WhatsApp and Signal have strong encryption systems, and that Apple iPhones are more secure than some Android devices, though they may also be too expensive for some dissidents and organizations.
+在一场不断上演的猫与老鼠的游戏中，做一只见多识广的老鼠是有好处的。黄和同事亚当·库格尔(Adam Coogle)说即时通讯服务工具WhatsApp和Signal拥有强大的加密系统，并称苹果(Apple)的iPhone比一些Android设备更安全，不过对一些异见人士和组织来说，它们可能太昂贵。
+“Some activists just don’t do enough to protect themselves,” Mr. Coogle said.
+“一些活动人士确实没有采取足够的措施保护自己，”库格尔说。
+In the meantime, there’s still that cheap, simple patch over the camera, a tactic that Ms. Wong admits she herself uses. “We tend to be a paranoid bunch,” she said.
+与此同时，还是可以用胶带盖住镜头这个廉价、简单的方式。黄承认她自己用的就是这个办法。“我们往往是一群多疑的人，”她说。

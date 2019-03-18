@@ -1,0 +1,26 @@
+WASHINGTON — In March 2012, the National Security Agency’s Top Secret internal newsletter published a David Letterman-style list of reasons that officials should read it. No. 7 was that “you might find out what those shadowy people on the other side of the partition are really up to.”
+华盛顿——在2012年3月，美国国家安全局（National Security Agency，简称NSA）的绝密内部通讯刊登了一份大卫·莱特曼(David Letterman)风格的清单，列出了官员们应该读读这份内刊的原因。其中第七条是：“你可能会了解到身旁的那些秘密人士其实是在做什么。”
+That tongue-in-cheek comment became reality the next year after Edward J. Snowden included thousands of newsletter items in the huge archive of N.S.A documents he disclosed about the agency’s programs and operations.
+这个自嘲的说法在次年变成了现实。在爱德华·J·斯诺登(Edward J. Snowden)泄露的有关NSA项目和活动的海量档案中，就含有数以千计的内刊文章。
+On Monday, the news website The Intercept said it would publish the entire archive of the newsletter and began by posting more than 150 articles from 2003, the newsletter’s inaugural year, along with a handful of later items, with only a few names of lower-level agency personnel redacted.
+本周一，新闻网站“拦截”(The Intercept)表示，它将全部公布这些简报，第一批包括2003年它创刊当年的150多篇文章，外加少量比较近期的文章，其中只对一些级别较低的NSA人员的名字进行了处理。
+“We encourage other journalists, researchers, and interested parties to comb through these documents, along with future published batches, to find additional material of interest. Others may well find stories, or clues that lead to stories, that we did not,” wrote Glenn Greenwald, who was one of the original recipients of Mr. Snowden’s disclosures and later helped found The Intercept.
+“我们鼓励其他记者、研究人员和有关各方，通过梳理这些文件，以及今后将公布的更多文件，找到更多他们感兴趣的材料。其他人很可能还会发现我们没有注意到的内幕，或者指向内幕的线索，”格伦·格林沃尔德(Glenn Greenwald)写道。他是最初接收斯诺登曝光材料的人之一，后来帮助建立了“拦截”网站。
+The newsletter is called SIDtoday; the acronym refers to Signals Intelligence Directorate, the N.S.A. component responsible for electronic spying. It offers a mixture of mundane accounts of employee life at the agency with operational updates and programmatic information that is written in plain English, making it more accessible than other, more technical and jargon-filled documents in the Snowden archive.
+这份内部通讯名为SIDtoday，其中SID是NSA负责电子间谍活动的信号情报部(Signals Intelligence Directorate)的缩写。它用平实的语言描写了该机构员工的日常生活，讲述了行动的最新消息和项目信息，比斯诺登曝光的其他那些充斥着技术细节和术语的资料更加通俗易懂。
+A N.S.A. spokeswoman had no immediate comment on the publication.
+NSA发言人对此事没有立即置评。
+Several of the newsletter items published on Monday add new details to the public understanding of previously known events.
+本周一发布的部分简报文章，为一些已知事件增添了新的细节，有助于加深公众对事件的理解。
+For example, one article described the American and British ambassadors to the United Nations expressing thanks to the agency for providing what the latter called “insights into the nuances of internal divisions among the five permanent members of the U.N. Security Council” during the diplomatic negotiations ahead of the Iraq War.
+例如，一篇文章讲到了美国和英国驻联合国大使对该机构表示感谢，原因是，在伊拉克战争之前的外交谈判中，NSA“对联合国安全理事会五个常任理事国之间内部分歧的细微之处提供了洞见”。
+Another article described the N.S.A.’s contribution to a high-profile rescue mission for Pfc. Jessica Lynch, who had been captured in Iraq on March 23, 2003, and taken to a hospital in Nasiriya. It says the N.S.A. had obtained blueprints of the hospital from a Japanese firm that had built it and sent them to the commandos “literally minutes before the aircraft departed with the strike team.”
+另一篇文章描述了NSA为一项引人瞩目的救援任务做出的贡献。在2003年3月23日，二等兵杰西卡·林奇(Jessica Lynch)在伊拉克被俘，并被押送至纳西里耶的一所医院。文章表示，NSA从修建该医院的日本公司那里获得了建筑图纸，“就在突击队的飞机正要带着营救人员出发之际”，把图纸送到了他们手里。
+A third article was a first-person account by a N.S.A. analyst about the day the United States military took custody of six Algerian men in Bosnia whom it brought to Guantánamo Bay, Cuba. The day included a last-minute change of the route taken by the convoy carrying the prisoners; the N.S.A. was watching for signs of any potential ambush.
+在第三篇文章中，NSA一名分析师用第一人称叙述了美国军方在波斯尼亚接收了六名被捕的阿尔及利亚男子并把他们带到古巴关塔那摩湾的始末。运载囚犯的车队在最后关头改变了路线；NSA时刻留意着任何可能的伏击迹象。
+One of the Algerians was later the named plaintiff in a landmark ruling by the Supreme Court in 2008 establishing that detainees at the American naval base in Cuba had a constitutional right to habeas corpus hearings. Another of the men was at the center of a high-level internal argument among Obama administration lawyers over whether keeping him in wartime detention violated international law.
+在2008年美国最高法院做出的一项具有里程碑意义的裁决中，其中一名阿尔及利亚人被列为原告。根据该裁决，美国在古巴这座海军基地关押的人拥有依据人身保护令进行听证的宪法权利。另外一名男子则成为了奥巴马政府的律师之间进行的一次高级别内部争论的焦点人物：在战争时期羁押他是否违反了国际法。
+The Algerian men were accused of plotting to attack the American Embassy in Bosnia, and the account in the N.S.A. newsletter shows that people inside the government assumed that this was true.
+这些阿尔及利亚男子被控图谋袭击美国驻波斯尼亚大使馆，而NSA简报中的叙述显示，美国政府内部的人认为这是事实。
+“Because much of the evidence against them came from U.S. intel, the Bosnian government didn’t have access to it, and after a couple of months in custody, the six prisoners were scheduled to be released without trial,” the account said, adding that a commander decided to take them into custody rather than let them go back to their families.
+“因为很多针对他们的证据来自美国的情报，波斯尼亚政府无法拿到它。关了几个月后，他们本来打算把这六个囚犯直接释放，”文中说。不过，一个指挥官决定羁押他们，而不是让他们回家。

@@ -1,0 +1,58 @@
+When the F.B.I. director, James B. Comey, announced the bureau’s findings in its investigation of Hillary Clinton’s personal email server, he revealed something that, while cloaked in opaque technical language, helped to answer a question long at the heart of this controversy: Just how sensitive was the information in those emails?
+联邦调查局(FBI)局长詹姆斯·B·科米(James B. Comey)宣布了该机构在有关希拉里私人邮件服务器调查中的发现，他披露了一些信息，尽管其中包含技术语言，但也有助于回答这一争议中长久存在的核心问题：这些邮件中的信息到底有多敏感？
+Of the 30,000-plus emails the bureau reviewed, 113 were determined to “contain classified information at the time they were sent or received,” he said. Another 2,000 or so emails were retroactively “up-classified to make them confidential.”
+在FBI审查的3万多封邮件中，有113封被认定“包含在发送和接收时就被列为机密的信息”，他说。另有大约2000封邮件在事后“上调密级，从而被认定为机密信息”。
+Those 113 emails, according to the investigation, contain information that was sensitive enough to be automatically considered classified the moment it was sent.
+调查显示，这113封邮件包含的信息足够敏感，在发出的当时就被自动归为机密。
+This finding seems to suggest that a small number of Ms. Clinton’s emails did include government secrets. This helps to explain why Mr. Comey, despite recommending no criminal charges against Mrs. Clinton, rebuked her and her team as “extremely careless in their handling of very sensitive, highly classified information.”
+这项发现似乎显示，克林顿的邮件中有一小部分的确包含政府机密。这有助于解释为何科米尽管建议不对克林顿提起刑事指控，但也指责了她和她的团队“在处理极为敏感、高度机密的信息时极其大意”。
+At the same time, the far larger share of 2,000 other emails considered “up-classified” do not fall into this category — and speak to long-running criticisms that Washington has a problem with overclassifying banal information.
+与此同时，数量大得多的另外2000封被认为“上调密级”，没有落入上述范畴，它们证明了外界长久以来对华盛顿的一种批评，即它存在将普通信息定级过高的问题。
+These designations shed light on the nature of the information in Mrs. Clinton’s emails and on the debate around them.
+这样的划分有助于人们理解克林顿邮件中信息的本质和与之相关的辩论。
+There is a reason that Mr. Comey dwelled on the 113 emails (a few of which had included classified markings, he said), detailing their provenance — 110 came from 52 email chains included in the files originally submitted to the F.B.I., three from emails the bureau found by other means — and their classification level.
+科米有理由对那113封邮件进行强调（他说其中有一些标有机密的标记），详述其由来——有110封来自52个邮件链，它们包含在最早发送给FBI的文件中，有三封来自FBI通过其他方式发现的邮件——和保密级别。
+First, it seems to contradict Mrs. Clinton’s statements.
+首先，它似乎与克林顿的说法不一致。
+“I did not send classified material, and I did not receive any material that was marked or designated classified,” she said August 2015, though Mr. Comey said Tuesday that a few of the emails did bear such markings.
+“我没有发送机密材料，也没有收到任何标记为机密的材料，”她在2015年8月时说。不过科米本周二表示，有少量的电邮确实带有机密标记。
+Second, Mr. Comey revealed that the information in those emails was sensitive enough to be what is officially known as “born classified,” a technical but highly meaningful distinction.
+第二，科米透露说，这些电邮中的信息具有足够的机密性，可以被归为所谓的“自带机密性”类别，这种差别是技术性的，但意义重大。
+This doesn’t mean that there was a State Department officer standing over Mrs. Clinton’s shoulder classifying emails as they came in or went out. Rather, it means those emails contained information that was obtained through classified channels or generated in ways that make it automatically classified.
+这并不是说，有一个国务院官员站在克林顿旁边，对她收发的邮件进行分类。而是指，这些电邮包含的信息是通过保密渠道获取的，或者它们的产生方式使得它们自动具有了机密属性。
+For example, if Mrs. Clinton took notes on comments that a foreign ambassador made to her in confidence, then this information would probably be “born classified” because of how it was gathered.
+例如，如果外国大使私下向她透露一些事情，被克林顿记录下来，这种信息由于获取方式比较特殊，就可能会被归为“自带机密性”内容。
+This practice dates to a 1946 law called the Atomic Energy Act, which established, among other things, that all information pertaining to the development of nuclear weapons would be automatically considered classified.
+这种做法可以追溯到1946年的《原子能法》(Atomic Energy Act)。该法律规定，涉及核武器研发的所有信息都将被自动视为机密。
+That designation now extends far beyond nuclear issues, but it is still considered an important metric for information that should be treated with secrecy. Mr. Comey, in detailing the classification levels, seemed to drive this home.
+这个类别现在已经扩展到了核问题之外，但它仍是保密信息的一个重要度量标准。科米详细介绍了密级，讲得清楚明白。
+Eight of the reviewed email chains contained information deemed “top secret,” the highest level of secrecy, the bureau found. Another 37 contained information that was designated “secret,” and the final 10 were “confidential,” the lowest level.
+他们发现，在检查过的电邮中，有8封包含“绝密”信息，另外37封包含“机密”内容，然后还有10封属于最低的“秘密”级别。
+This does not necessarily mean that Mrs. Clinton was copying and pasting information from top-secret C.I.A. reports — the designation can reflect how information was gathered as much as it does its content. Several of Mrs. Clinton’s classified emails were related to the C.I.A.’s covert drone program in Pakistan, which has been widely reported in the news media.
+这并不一定意味着克林顿复制粘贴了中情局绝密报告的内容——密级不仅涉及内容，也可能是对信息收集方式的反映。在克林顿的机密电邮中，有几封涉及中情局在巴基斯坦开展无人机行动的秘密计划，新闻媒体对其已经进行过广泛报道。
+But the “born classified” designation is meaningful, indicating that the source of the information is so sensitive that the government assumes significant harm if it emerges. Mr. Comey seemed to suggest that handling such information on a personal email server reflected a significant error of judgment.
+但规定某些信息“自带机密性”意义重大。它表明相关信息的来源非常敏感，若被泄露，政府会遭受严重的损失。科米似乎是在说，在私人电子邮件服务器上处理这类信息反映出了严重的判断失误。
+“Even if information is not marked ‘classified’ in an email, participants who know or should know that the subject matter is classified are still obligated to protect it,” he said, warning that the State Department was “lacking in the kind of care for classified information found elsewhere in the government.”
+“即便电子邮件中的信息未被标记为‘涉密’，知道或应该知道相关主题属于机密的参与者依然有义务保护它，“他说，并警告称国务院“缺乏其他政府机构对机密信息的那种谨慎”。
+Then there are the other 2,000-some emails that Mr. Comey described as “up-classified,” which he said meant that “the information in those had not been classified at the time the emails were sent.”
+然后便是被科米称作“上调密级”的另外大约2000封电子邮件。科米称，“上调密级”是指“那些邮件中的信息在邮件发出时不属于机密”。
+This is a much murkier category. While it is difficult to judge these emails without reading them, up-classification often has less to do with a document’s contents than it does with Washington’s long-lamented habit of overclassification — a problem distinct from Mrs. Clinton’s email practices.
+这个类别比其他的要模糊得多。尽管很难不看内容便对这些邮件做出判断，但事后上调相关信息密级的做法，更多地说明了华盛顿过高设定密级这个备受诟病的习惯，与文件内容本身的关系则没那么大。而克林顿处理邮件的方式，跟这种习惯是迥异的。
+American classification practices, which are not governed by any one set of rules, have been criticized by virtually everyone who has encountered them, including the people tasked with their management.
+美国的保密分级措施不受任何一套规则的约束。跟这些措施打过交道的人，包括负责管理它们的人，几乎都对其持批评态度。
+Classification is determined by “a series of bureaucratic fiefdoms” operating under “a hodgepodge of laws, regulations and directives,” J. William Leonard, then the head of the federal office that oversees classification, said in 2003.
+2013年，当时在负责管理保密分级事务的联邦办公室担任负责人的J·威廉·莱昂纳德(J. William Leonard)表示，密级由按照“大量法律、法规和指示”运转的“一系列官僚机构”决定。
+The result, critics say, is that government information is routinely classified with little regard for its actual sensitivity. This is driven less by secrecy than by bureaucratic disarray, which is why national security officials have often led efforts at reform.
+批评人士称，结果便是政府信息的保密分级常常几乎不考虑实际的机密程度。造成这种情况的原因，更多的是官僚机构的混乱，而不是为了保密，这也是为什么国家安全官员常常试图发起改革行动。
+The head of the 9/11 Commission, Richard Ben-Veniste, warned Congress in 2005 that overclassification had to be reduced to prevent another attack.
+9·11委员会(9/11 Commission)主席理查德·本-韦尼斯特(Richard Ben-Veniste)曾在2005年告诫国会，要预防下一次的攻击，必须减少定级过高的情况。
+“Information has to flow more freely,” he said. “Much more information needs to be declassified. A great deal of information should never be classified at all.”
+“信息须更加自由地流动，”他说。“需对更多信息解密。大量信息根本不应该被归为机密。”
+While subsequent legislation has tried to address this problem, many of the system’s core contradictions remain. That often comes through in the process of “up-classification.”
+尽管之后的立法试图解决这个问题，但这个系统中的很多核心矛盾依然存在。这一点常会在“上调密级”的过程中表现出来。
+For example, a document might begin as unclassified but later pass through an office that handles state secrets. Or a piece of information that is banal on its own might later be referred to in a classified report, making that piece of information also classified. Or a document might be unclassified according to the rules of the agency that created it, but become classified by another agency that uses it.
+比如，一份文件可能一开始属于非机密文件，但后来流传到了一个处理国家机密的机构。或是某条信息本身稀松平常，但后来可能被一份机密报告引用，结果这条信息也变成了机密。又或是一份文件按照文件制定机构的规章不属于机密，但却被使用它的另一个机构列为了机密文件。
+This is why some Clinton allies have argued that her emails may have been deemed classified not because they contained sensitive information but because they had been swept up in routine Washington overclassification.
+正是这个原因促使克林顿的部分盟友认为，她的电子邮件被认为属于机密，可能不是因为它们含有机密信息，而是因为它们被卷进了在华盛顿司空见惯的过高密级里。
+The fact that so many of the reviewed emails were “up-classified” rather than “born classified” seems to support this argument. Still, those 113 “born classified” emails, even if they are a very small proportion of the total, speak to Mr. Comey’s charge that Mrs. Clinton, in some instances, “should have known that an unclassified system was no place for that conversation.”
+检查过的邮件中大量属于“上调密级”而非“自带机密性”这一点，似乎支持了上述观点。但那13封“自带机密性”的电子邮件，尽管在邮件总数中只占很小的一部分，却也佐证了科米的指控，即某些情况下，克林顿“本应知道自己不该在一个非保密系统里进行那样的对话”。

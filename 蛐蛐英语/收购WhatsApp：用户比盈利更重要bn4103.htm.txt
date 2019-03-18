@@ -1,0 +1,62 @@
+Technology companies have always been paranoid about missing the next big thing, be it email, e-commerce or social media.
+科技公司总是会神经兮兮地担心自己错过下一个大热门，无论它是电子邮件、电子商务还是社交媒体。
+Yet today, with Google, Facebook and others all fighting for the same customers and wallets, the competition has never been more intense, and big companies have never had to act so quickly — and with such conviction — to avoid being left behind.
+然而现在，随着谷歌(Google)、Facebook等公司都在争夺同一批客户和钱包，竞争也变得前所未有地激烈。大公司从来不曾像如今这样必须迅速采取行动——并且必须这样坚决——以免被对手甩在后面。
+This changed landscape helps explain why Facebook on Wednesday made what appears to be one of the largest gambles in the recent history of corporate America, agreeing to buy the text messaging start-up WhatsApp for up to $19 billion.
+这样的格局变化，有助于解释本周三Facebook为什么决定以高达190亿美元（约合1157亿元人民币）的价格收购即时通讯服务初创公司WhatsApp。这似乎是美国企业近年来最大的赌博之一。
+In doing so, Facebook has wagered a full tenth of its own market value on a belief that phone calls will become increasingly obsolete, while short messages sent from mobile devices will remain ascendant.
+这意味着，Facebook把自身市场价值的足足十分之一，押注到了这样一个信念上：打电话这种行为将变得越来越过气，而用移动设备发送消息的趋势还会继续蓬勃发展。
+Mark Zuckerberg, the co-founder and chief executive of Facebook, is also betting that at some point down the road, his company will be able to make huge sums of money from WhatsApp, a service that has 450 million users. And by offering such a staggering sum, Facebook achieved a critical strategic goal: ensuring that WhatsApp remained out of the hands of its chief rival, Google.
+Facebook的联合创始人及首席执行官马克·扎克伯格(Mark Zuckerberg)也认定了，该公司早晚能从WhatsApp那里赚到大笔收入。此外，以这样惊人的高价收购目前拥有4.5亿用户的WhatsApp，Facebook也达成了一个重要战略目标：没有让这家公司落入主要竞争对手谷歌手中。
+The purchase — among the largest Internet deals ever and the biggest by far in Facebook’s 10-year history — is a milestone that signals the arrival of an intense new phase of corporate competition in Silicon Valley.
+这宗收购是最大的互联网交易之一，也是Facebook十年历史中最大的一笔交易。它是一个里程碑，标志着硅谷大企业间的竞争达到了一个激烈的新阶段。
+“These big companies feel like they can’t afford to lose mind share and time share to competitors,” said Aileen Lee, a partner at venture capital firm Kleiner Perkins Caufield & Byers. “And they are willing to pay a lot of money for large user bases.”
+“这些大公司觉得，万万不能在争夺用户的头脑和时间时，输给输给竞争对手，”风险投资公司凯鹏华盈(Kleiner Perkins Caufield&Byers)的合伙人艾琳·李(Aileen Lee)说。“而且他们愿意花大价钱来获取庞大的用户群。”
+Google was among the companies that wanted to buy WhatsApp and recently offered $10 billion for the company, which has just 55 employees.
+几家公司都想收购只有55名员工的WhatsApp，谷歌最近曾出价100亿美元。
+WhatsApp turned Google down, unimpressed. Instead, WhatsApp’s co-founder and chief executive, Jan Koum, paid a visit to the suburban home of his friend, Mr. Zuckerberg.
+WhatsApp不为所动，拒绝了谷歌。可是，WhatsApp的联合创始人兼首席执行官扬·库姆(Jan Koum)却去了一趟扎克伯格位于市郊的家，扎克伯格是他的朋友。
+The two men had shared dinners and hikes in recent years, and Mr. Zuckerberg had also expressed an interest in acquiring WhatsApp. So last weekend, as the two men negotiated, Mr. Zuckerberg agreed to nearly double Google’s price.
+近年来，两人曾共进晚餐、一起远足，扎克伯格也表示过有兴趣收购WhatsApp。于是，两人在上周末进行了协商，扎克伯格最终同意的收购价差不多是谷歌出价的两倍。
+There is concern that by valuing the number of users above revenue, Facebook is merely inflating another dot-com bubble.
+有人担心，Facebook这种更重视用户数量而不是营收的做法，是在给新的互联网泡沫推波助澜。
+“Back in 1999, when we started looking at valuations on a per-eyeball basis, that was the beginning of the end,” said Youssef Squali, an analyst at Cantor Fitzgerald who follows Facebook.
+“1999年，当我们开始以浏览量为基础来估值时，互联网泡沫走向破裂的日子也开始了，”关注Facebook的分析师优素福·斯考利(Youssef Squali)说。斯考利供职于美国投资公司坎托·菲茨杰拉德(Cantor Fitzgerald)。
+But by the unique logic of Silicon Valley, Facebook may have in fact negotiated a good deal. WhatsApp has grown faster than almost any company in the history of the web, faster than Facebook itself. It is adding a million users a day and is on track to reach a billion before long.
+但以独特的硅谷逻辑来看，Facebook其实可能做了一笔好买卖。WhatsApp的增长速度比互联网历史上的几乎所有公司都更快，比Facebook本身也更快。它的用户人数每天增加一百万，有望在不久之后达到十亿。
+And while WhatsApp has nominal revenue right now — charging users just $1 a year, with the first year free — other messaging services make money through a mix of user fees, advertising and the sale of virtual goods.
+WhatsApp目前名义上有营收——每年向每个用户收取区区1美元，而且第一年免费——其他通讯服务则通过向用户收费、投放广告和销售虚拟物品等多种方式来赚钱。
+“Services in the world that have one billion people using them are all incredibly valuable,” Mr. Zuckerberg said on a conference call on Wednesday. “We see a pretty clear trajectory ahead, and we were just very excited to work together on this.”
+“凡是有十亿人使用的服务，都具有非凡的价值，”扎克伯格在周三的电话会议上说。“我们看到了非常清晰的上升轨迹，而且我们也很高兴能够在这方面一起合作。”
+Facebook, Google and others have been accused of overpaying for unproved start-ups before. Yet these leaps of faith have helped define Silicon Valley’s most successful corporations.
+有人指责Facebook和谷歌等公司在前途不明朗的初创公司上花了太多的冤枉钱。然而，这些大胆的举动正是硅谷最成功的公司的一个特质。
+When Google bought YouTube for $1.6 billion in 2006, critics called the search giant crazy. YouTube is now the dominant video platform on the web.
+谷歌2006年斥资16亿美元收购YouTube时，曾被批评者斥为“搜索巨头发疯了”。YouTube如今已是互联网视频平台中的霸主。
+When Facebook acquired Instagram for $1 billion in 2012, it, too, was assailed for a supposedly bad investment. But today, with Instagram thriving and beginning to sell advertising, that deal looks like a bargain.
+在2012年，Facebook斥资10亿美元收购Instagram时，也被指责是一宗可能不利的投资。但现在，随着Instagram蓬勃发展并且开始销售广告，这笔交易显得很划算。
+In WhatsApp, Facebook sees not a trove of patents or a lucrative advertising model but the future of communications — mobile, cross-platform, cheap and international. If the company can increase the number of WhatsApp users and the amount of time they spend with the product, it will theoretically be able to cash in one day. After all, when a product has a billion users, it needs to earn only a few dollars a year from each of them to be a robust business.
+在WhatsApp身上，Facebook看到的不是一座专利的宝库，也不是一个利润丰厚的广告模式，而是通信的未来——移动、跨平台、价格低廉的跨国通讯。如果Facebook可以增加WhatsApp的用户数量，延长他们在这个产品上花费的时间，理论上有朝一日可以赚到钱。毕竟，当一个产品拥有十亿用户时，只需要每年从每个人身上收几美元就能茁壮发展。
+“As staggering as $19 billion seems as a number, when you think about the size of the market at stake, and the impact it might have on the firm’s long-term trajectory, you can understand the price,” said Josh Lerner, a professor at Harvard Business School.
+“190亿美元看似惊人，但当你看看WhatsApp的市场规模，以及它对Facebook长期发展轨迹的影响时，你就明白这个价格并不离谱，”哈佛商学院(Harvard Business School)的乔希·勒纳(Josh Lerner)教授说。
+For the price it plans to pay — $16 billion in cash and stock plus up to an additional $3 billion in restricted stock units — Facebook could have acquired companies like United Continental, Best Buy or Sony. Facebook’s stock was up 2.3 percent on Thursday as investors endorsed Mr. Zuckerberg’s philosophy of attracting users first and worrying about profits later.
+Facebook打算以现金和股票的形式向WhatsApp支付160亿美元，外加30亿美元的流通受限股。这个价格可以买到联合大陆控股(United Continental)、百思买(Best Buy)或索尼(Sony)这样的公司了。本周四，Facebook股价上扬2.3%，显示了投资者对扎克伯格“先吸引用户、再操心利润”理念的认同。
+“We’ve had multiple instances of companies that focused on growing the user base, growing the engagement, and then turning on the monetization,” said Mr. Squali of Cantor Fitzgerald. “Facebook itself is the greatest example of that, and it ended up paying off tremendously.”
+“一些公司侧重于增长用户群，提高用户活跃度，然后再开始赚钱的过程，我们已经看到过多个这样的成功例子，”坎托·菲茨杰拉德公司的斯考利说。“Facebook本身就是最好的例子，它从中获得了巨大回报。”
+Yet Facebook’s acquisition of WhatsApp can also be viewed as a window into its own insecurities.
+不过Facebook对WhatsApp的收购也可以被看成是一个迹象，它展示了Facebook的不安全感。
+With new consumer Internet companies being started every day — and online consumers notoriously fickle — a next big thing will always be rising up to threaten Facebook’s dominance. As a result, Facebook, like other technology companies, is left playing an expensive game of Whac-a-Mole, scrambling to buy its newest competitors and keep those users out of the hands of its rivals.
+每天都有新的消费互联网公司创办，而且网络用户极为善变，因此总会有下一个大热门出现，对Facebook的霸主地位形成威胁。所以Facebook也像其他科技公司一样，需要玩代价高昂的“打地鼠”游戏，竞相收购新兴的竞争者，以免用户落入对手囊中。
+“This exposes the strategic fallacy behind Facebook, which was the idea that there was going to be a monopoly on the social graph, and that Facebook was going to own it,” said Keith Rabois, a partner at venture capital firm Khosla Ventures. “That’s not true, and I don’t believe Facebook will constantly be able to buy its way out of this structural challenge.”
+“这暴露了Facebook的战略性谬误：Facebook认为社交领域会存在一种垄断权，而它想要拥有这种垄断权，”风险投资公司科斯拉创投(Khosla Ventures)的合伙人基思·拉布伊斯(Keith Rabois)说。“其实不是这样。我认为，面对结构性挑战时，Facebook不可能一直靠收购来找到出路。”
+For now at least, Facebook can do just that. After a weak first few quarters as a public company, Facebook is solidly profitable. Last month, it reported $523 million in net income on $2.6 billion in revenue for the fourth quarter, and the company can afford to make some expensive mistakes.
+不过，至少目前看来，Facebook有实力这样做。经过上市后头几个季度的疲软态势，公司目前盈利稳定。Facebook上月公布的去年四季度数据显示，营收为26亿美元，净收入达5.23亿美元。即使犯些昂贵的错误，它也承担得起那样的代价。
+Google also has billions of dollars in cash to spend on deals. Its stock, like Facebook’s, is trading near a record high, making it easy to pay for deals with shares. And other companies, like Apple, Twitter and Microsoft, are all similarly flush.
+谷歌同样握有大量可用于收购交易的现金。与Facebook一样，谷歌的股价也在历史最高点上下徘徊，易于拿股票来支付交易金额。苹果(Apple)、Twitter和微软(Microsoft)等公司的现金也很充裕。
+It probably won’t be long before the next big deal is announced. Line, a WhatsApp competitor that is popular in Asia, is reportedly considering a public stock offering that would value it at $10 billion or more. Kik Messenger, another popular mobile company, is thought to be a takeover target.
+很可能没过多久就会曝出下笔大交易的消息。据报道，流行亚洲的WhatsApp竞争对手连我(Line)正在考虑公开募股，规模至少将达100亿美元。另一家颇受欢迎的移动企业Kik Messenger也被认为是潜在的收购对象。
+And Snapchat, the photo-sharing application, turned down a $3 billion offer from Facebook last year. The founders’ decision to reject such a princely sum was mocked at the time, but after the price paid for WhatsApp, it could be seen as prudent.
+去年，图片分享应用Snapchat拒绝了Facebook提出的30亿美元收购要约。这家公司的几名创始人拒绝如此丰厚的出价，在当时遭到了冷嘲热讽。然而，WhatsApp的收购金额一经公布，此举倒是可以看成深谋远虑。
+It is not inconceivable that any of these companies — or yet unknown start-ups that attract millions of users in a matter of months — could soon attract multibillion-dollar bids from the technology giants.
+要是这些公司中的任何一家——或是几个月里吸引上百万用户的什么无名初创企业——能够很快吸引科技巨头提出数十亿美元的收购要约的话，也毫不出奇。
+For venture capitalists, the deal for WhatsApp is a welcome justification of their business model at a time when many funds have faltered. Sequoia Capital, the firm that invested about $60 million in WhatsApp for an ownership stake of 15 to 20 percent, stands to make more than 50 times its money, or $3 billion.
+对风投机构而言，在众多基金沉沙折戟的当下，WhatsApp的交易对它们的商业模式可谓一剂强心针。红杉资本(Sequoia Capital)曾向WhatsApp投资6000万美元，换取了15%到20%的股份。现在看来，这笔钱赚了50倍，变成了30亿美元。

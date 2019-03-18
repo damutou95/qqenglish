@@ -1,0 +1,20 @@
+Uber will acquire a portion of Microsoft’s maps technology and extend employment offers to around 100 engineers on Microsoft’s mapping team, the ride-hailing company said on Monday.
+优步(Uber)于周一宣布，将收购一部分微软(Microsoft)的地图技术，并向微软地图团队的大约100名工程师提供工作机会。
+Uber would not discuss the terms of the acquisition, which will bring it a data site outside Boulder, Colo., as well as cameras, image-analysis software and a license to the intellectual property.
+收购将为其带来一个在科罗拉多州博尔德城外的数据中心，以及摄像头、图像分析软件和知识产权许可。优步不会讨论收购的具体条款。
+“Mapping is at the heart of what makes Uber great,” Kristin Carvell, a company spokeswoman, said in a statement. “We’ll continue to work with partners, as well as invest in our own technology, to build the best possible experience for riders and drivers.”
+“地图对于优步的成功来说至关重要，”公司发言人克里丝汀·卡维尔(Kristin Carvell)在一份声明中说。“我们将继续与合作伙伴合作，同时投资我们自己的技术，为乘客和司机带来可能的最佳体验。”
+The deal, which was first reported by the technology blog TechCrunch, is the latest move in Uber’s quest to strengthen its mapping research efforts.
+这一协议最早由科技博客TechCrunch报道，是优步在增强其地图技术研究成果方面的最新进展。
+Although most Uber services rely on digital maps, much of its interest in mapping is focused on how to improve its carpooling service, UberPool. While Uber relies heavily on mapping technology from Apple, Baidu and especially Google, the company has taken strides to bring as much mapping expertise in-house as possible.
+尽管大部分优步的服务依赖数字地图，但它在地图方面的主要兴趣集中在如何提升其拼车服务——UberPool。尽管优步严重依赖苹果、百度，尤其是谷歌的地图技术，但这家公司已在尽可能多地在发展自己的地图专业技术。
+In March, Uber acquired deCarta, a mapping technology start-up. Uber has also aggressively pursued mapping engineering talent throughout Silicon Valley.
+3月，优步收购了一家地图技术创业公司deCarta。同时，还在硅谷寻找地图工程方面的人才。
+And for months, Uber has been avidly competing to buy Nokia Here, the mapping division of the Finnish technology giant, in a deal that could be valued at up to $4 billion, according to several people with direct knowledge of the matter. A small number of bidders are still circling Nokia’s business, according to these people, who spoke on condition of anonymity because the negotiations were not public.
+数月以来，优步十分积极地竞购芬兰科技巨头诺基亚(Nokia)的地图部门诺基亚Here。据几位对此事有第一手消息的人士透露，协议金额可能高达40亿美元。据这几位人士透露，为数不多的竞标者仍在觊觎诺基亚的业务。他们不愿意透露姓名，因为谈判并不是公开的。
+Despite interest from tech companies like Uber and a number of private equity firms, however, a consortium of German automakers — which rely on the mapping unit’s technology for their in-car services — are believed to be in the pole position to land the Nokia division, the people added.
+这几位人士补充称，尽管有优步这样的科技公司和一众私募股权公司对这一项目感兴趣，一个由德国汽车制造商组成的财团据信将在收购诺基亚地图部门的竞争中处于有利位置，这些厂商的车载系统依赖地图公司的技术。
+In a statement, Microsoft said the deal on Monday was part of a broader strategy to focus on its core products.
+在一份声明中，微软称周一的协议符合其将重点转移至核心产品的大战略。
+“In keeping with these efforts, we will no longer collect mapping imagery ourselves,” the company said, “and instead will continue to partner with premium content and imagery providers for underlying data while concentrating our resources on the core user experience. With this decision, we will transfer many of our imagery-acquisition operations to Uber.”
+“为了与这些努力保持一致，我们将不再自主收集地图影像，”公司称，“作为替代，我们将继续与优质内容和影像提供商合作以获得底层数据，并将资源集中到核心用户体验上。基于这一决定，我们将把我们大量的影像获取业务转让给优步。”

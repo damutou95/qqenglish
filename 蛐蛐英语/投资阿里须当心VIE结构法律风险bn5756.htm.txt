@@ -1,0 +1,56 @@
+Shareholders have been willing to take a lot of risk in their lust for Internet initial public offerings, but Alibaba’s I.P.O. may take that risk to a whole new level. The reason: Investors in the offering won’t have title to most of Alibaba’s Chinese assets because of Chinese prohibitions on foreign ownership.
+出于对互联网公司首次公开发行（initial public offering，简称IPO）的贪欲，股东向来愿意承担巨大的风险，但阿里巴巴的IPO将把这种风险推向一个全新的水平，原因在于：因为中国限制外资所有权，此次发行中的投资者将无法享有阿里巴巴大部分在华资产的权益。
+What exactly will shareholders be buying, you may be asking. In Tuesday’s securities filing, Alibaba revealed the answer.
+你可能会问，既然如此，股东买的到底是什么？在周二提交给证券机构的文件中，阿里巴巴揭晓了答案。
+The Chinese e-commerce behemoth will wholly own its non-Chinese assets, which provide the bulk of its revenue, according to the filing. Alibaba will not own most of its Chinese assets, including Taobao Marketplace and Alibaba.com. So the companies that are the core of Alibaba’s Chinese operations — the main reason for the anticipated heated investor demand — will not even be owned by Alibaba.
+根据相关文件，这个中国电商巨头将完全持有自己的境外资产，该公司大部分收入来自这些资产。阿里巴巴将不拥有包括淘宝和阿里巴巴网站在内的大部分在内资产。因此，作为阿里巴巴中国业务核心的这些公司——投资者需求预计会很旺盛的主要原因——甚至不会为阿里巴巴所有。
+Instead, the company is using a so-called variable interest entity structure. It works for Jack Ma, Alibaba’s co-founder and executive chairman, but whether it works for investors remains to be seen. The reason is that for Alibaba’s investors, a V.I.E. is chock-full of risk, which they may ignore as they salivate over potential Internet riches.
+相反，该公司打算采用的是所谓的可变利益实体结构（variable interest entity structure，简称VIE）。这一结构适合于阿里巴巴的联合创始人兼执行董事长马云，是否适合于投资者则有待观察。原因是，对阿里巴巴的投资者而言，VIE充满风险。由于觊觎潜在的互联网财富，投资者可能会忽视这些风险。
+What is the V.I.E. structure, you may be asking.
+你可能会问，VIE结构到底是什么。
+The structure was created in 2000 to circumvent Chinese restrictions on investment in certain industries, like technology and communications. It is now the favorite way for companies to list in the United States. Renren and Baidu, for example, are variable interest entities.
+这种结构出现于2000年，用途是规避中国对科技和通信等特定领域的投资限制。如今，这一结构成了公司赴美上市的热门方式。比如说，人人和百度就都是可变利益实体。
+Alibaba is using a straightforward V.I.E. structure for its Chinese assets. Investors in the United States offering will not be buying shares in Alibaba China. Instead, they will purchase shares in a Cayman Islands entity named Alibaba Group Holding Limited.
+阿里巴巴打算对旗下的中国资产使用明白无误的VIE结构。投资于阿里巴巴美国IPO的人买的不是阿里巴巴中国的股份，而是开曼群岛一家名为阿里巴巴集团的实体的股份。
+Most of Alibaba’s Chinese assets will be owned by Mr. Ma and another founder and member of management, Simon Xie. The Cayman Islands company has contractual rights to the profits of Alibaba China, but it has no economic interest.
+阿里巴巴的大部分在华资产将由马云和公司的另一名创始人、管理层成员谢世煌(Simon Xie)持有。开曼群岛的那家公司可以根据合同分享阿里巴巴中国的利润，但不享有经济利益。
+If it all sounds too neat, there are two significant risks with the V.I.E. structure — risks that Alibaba has bluntly acknowledged.
+如果这一切听上去都没问题，VIE结构仍有两大风险——阿里巴巴也坦率地承认了这些风险。
+The structure may be illegal under Chinese law since it conveniently circumvents those prohibitions on foreign investment.
+根据中国的法律，这个结构有可能不合法，因为它顺利地绕过了针对外国投资的禁令。
+There is precedent for such a finding.
+这样的结局曾有先例。
+In a letter to Baidu questioning the effectiveness of such a structure, the Securities and Exchange Commission noted that a ruling in late 2012 by the Supreme People’s Court of China invalidated a V.I.E. structure used by Minsheng Bank.
+证券交易委员会(Securities and Exchange Commission)曾在一封给百度的信中质疑类似结构的效力，并且指出，2012年年底，中国最高人民法院曾在一项裁决中判定一笔对民生银行投资使用的VIE结构无效。
+Baidu responded that Minsheng Bank was different and had not used a normal V.I.E. Specifically, that structure gave the true owners of Minsheng too much control over voting.
+百度回应称，民生银行的情况有所不同，因为它采用的不是常规的VIE。具体说来，民生采用的结构给了它真正的所有人太大的投票控制权。
+Even if Minsheng is different, it highlights that the V.I.E. structure is of uncertain legality in China.
+即便民生是个特例，这件事也突显了VIE结构在中国的暧昧法律地位。
+At least one locality has declared the structure illegal, and in a 2011 decision, the Chinese merger control authority stopped Walmart from using a V.I.E. to acquire a controlling stake in Yihaodian, a leading online Chinese retail business.
+至少有一个地方已将该结构宣布为非法，而且，在2011年的一项决议中，中国的并购监管机构阻止了沃尔玛(Walmart)用VIE收购中国在线零售领军企业1号店的控股权。
+More telling, the V.I.E. structure replaced another work-around joint-venture structure that was first used by China Unicom in 1994. But four years later, that structure was declared illegal by the Chinese government, which forced the company to unwind it. The same thing that happened to China Unicom could happen to Alibaba.
+更能说明问题的是，VIE结构取代的是另一种替代性的合资企业结构，后者是中国联通于1994年率先引入的。但四年之后，中国政府宣布该结构不合法，中国联通不得不取消了该结构。阿里巴巴可能会经历与中国联通同样的遭遇。
+Alibaba has attempted to address this risk by getting a legal opinion that the V.I.E. structure is kosher. However, Alibaba, in its filing, also states that the law firm giving the opinion acknowledges that “there are substantial uncertainties regarding the interpretation and application of current and future PRC laws, rules and regulations.” Thus, even Alibaba’s legal opinion, designed to comfort shareholders, hedges its bets by saying it could be wrong. Some comfort.
+阿里巴巴获取了一份关于VIE结构符合法规的法律意见书，试图以此化解这一风险。不过，阿里巴巴在上市备案文件中表示，提供前述意见书的律师事务所承认，“有鉴于中华人民共和国现行及未来法律的解释和应用，此处存在大量不确定因素。”所以，甚至连旨在安慰股东的阿里巴巴法律意见书都留有余地，说自己的意见可能是错的。这可真叫人感到安慰。
+Many argue that while there is risk, it would be too harmful to the Chinese economy if China were to declare the V.I.E. structure illegal. But beyond the risk of legality, such a structure means that if shareholders in the United States want to enforce their rights, they will have to do so based on contracts between a Cayman Islands entity and one based in mainland China.
+许多人都说，风险虽然存在，但中国不会轻易宣布VIE结构非法，因为这将使中国经济遭遇难以承受的巨大损害。然而，除了合法性的风险以外，这种结构还意味着，如果美国股东想强制行使自己的权利，依据只能是一家开曼群岛公司和一家中国大陆公司之间的合同。
+And these contracts will have to be enforced through the Chinese legal system. Historically, it has been difficult or impossible for Americans to enforce contractual rights in China if they were not set there. This leaves shareholders at the mercy of whoever holds the assets of the Chinese company.
+这些合同只能通过中国法律体系得到执行。从过去的情况来看，如果不守在中国，美国人就很难或者根本不可能在中国行使合同权利。这样一来，谁持有这家中国公司的资产，股东就得听谁的摆布。
+Previous problems with the V.I.E. structure illustrate this. A number of Chinese companies listed in the United States using the structure have lost control of their Chinese-based arms. In 2008, the Agria Corporation lost control of its Chinese subsidiary to a disgruntled executive. The company got back its assets only when the executive was paid additional compensation.
+VIE结构之前的问题也说明了这一点。许多通过这种结构在美国上市的中国公司都失去了对其中国分支的控制权。2008年，华奥物种集团(Agria Corporation)失去了对其中国分支的控制权，取得控制权的是一名心怀不满的高管。公司向这名高管支付了额外的补偿，这才拿回了自己的资产。
+Because the Chinese assets are often held by the chief executive or founder, a dispute with that executive can be fatal for the company. In the case of the Chinese education company ChinaCast, insurgent American shareholders took over the board of the United States-listed company. But the shareholders were left with nothing when the old ChinaCast executives simply transferred the company’s assets to themselves.
+鉴于中国公司的资产往往由首席执行官或创始人持有，与持有资产的高管之间的争议可能会对公司造成致命损伤。在中国公司双威教育集团(ChinaCast)的案例中，持有异议的美国股东控制了美国上市公司的董事会。但是，原来的集团高管直接把公司资产转到了自己名下，这些股东落得两手空空。
+If that were not enough, the issue has come up with Alibaba. In 2011, Yahoo and Alibaba got into a dispute when, without Yahoo’s permission, Mr. Ma transferred Alipay, Alibaba’s online payment subsidiary, to a company that he owned. The issue was resolved with Mr. Ma retaining ownership of Alipay and the company agreeing to make payments to Alibaba.
+如果这个例子还不够，这里还有一件曾发生在阿里巴巴的事情。2011年，雅虎和阿里巴巴起了争执，起因是马云未经雅虎批准就把阿里巴巴的网络支付业务支付宝转入了他名下的一家公司。问题最后得到了解决，方式则是马云保留支付宝的所有权，马云的公司同意向阿里巴巴支付一笔资金。
+In other words, American investors will be at the mercy of Mr. Ma and Mr. Xie, the holders of the Chinese assets of Alibaba. Mr. Ma was adamant that Alibaba list with a structure that kept voting control with him, but he has gone to extremes. He is singular in retaining ownership of Alibaba’s assets with Mr. Xie.
+换言之，美国投资者只能听凭阿里巴巴在华资产持有人马云和谢世煌的摆布。马云坚持要求阿里巴巴以能让他保留投票控制权的结构上市，但他的做法有些极端。他与谢世煌一同保留了阿里巴巴资产的所有权，这是个不同寻常的举措。
+The S.E.C. cannot ban offerings for being “too risky” or even for potentially being illegal. The only thing the regulator can do is require disclosure of the risks. It has done so here: Alibaba, in its prospectus, states that if the V.I.E. structure is ruled illegal, then Alibaba’s business may be significantly harmed and substantial fines might be imposed.
+SEC无权禁止“风险太高”甚或可能违法的股票上市。监管机构能做的只是要求披露相关风险。这一次它也是这么做的：阿里巴巴在招股书中称，如果VIE结构被判定非法，阿里巴巴的业务可能会遭到巨大损害，公司还可能需要支付巨额罚款。
+In addition, the Internet company acknowledges that the V.I.E. structure may “not be as effective in providing control … as direct ownership.” You need only ask ChinaCast’s shareholders what that can mean.
+此外，阿里巴巴承认，VIE结构可能“不如直接所有权……在提供控制权方面可能不像后者那么有效”。要想知道这究竟意味着什么，问问双威教育集团的股东就行了。
+The New York Stock Exchange or Nasdaq — wherever Alibaba will choose to list — can refuse to accept the Chinese company on the grounds that it is too risky, and the underwriters can also say no.
+纽约证交所(New York Stock Exchange)或纳斯达克(Nasdaq)——不论阿里巴巴选择在哪一家上市——都可以以风险太高为由拒绝接受这家中国公司，承销商也可以对他们说不。
+But they appear to be fine with this risk, preferring to collect their fees and perhaps leaving American shareholders holding the bag if things go wrong.
+但是，他们似乎不在乎这种风险，更愿意收取费用，让美国股东去承担出了问题的损失。
+As investors contemplate putting billions into Alibaba, they may want to actually consider what that money is buying.
+考虑为阿里巴巴注入数以亿计的资金时，投资者也许应该认真地掂量一下，这笔钱买来的究竟是什么。

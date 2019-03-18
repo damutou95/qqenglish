@@ -1,0 +1,46 @@
+YANGON, Myanmar — Images of Steven P. Jobs and Mark Zuckerberg adorn the walls of Myo Myint Kyaw’s creative digital agency. He says they inspire him. But he imagines neither man ever worked in an environment where Internet connections were so unreliable that a “file transfer” often involved delivering electronic documents across town by taxi.
+缅甸仰光——在妙敏觉(Myo Myint Kyaw)的创意数字社，墙壁上的装饰品是斯蒂文·P·乔布斯(Steven P. Jobs)和马克·扎克伯格(Mark Zuckerberg)的图片。妙敏觉说，他们鼓舞着自己。但他猜想，这两个人应该从未在互联网连接如此不稳定的地方工作过。在这里，“传输文件”常常意味着，乘出租车抵达城市的另一头，把电子文档亲手交给对方。
+In Myanmar, that is often faster than using email.
+在缅甸，这么做通常比发电子邮件节省时间。
+Mr. Kyaw said the start of a website for an American client based in Thailand involved an upload that took seven hours — a process that would have taken just minutes elsewhere. On another occasion, a client had to fly from Malaysia to hand-deliver high-resolution photographs that proved too large to send electronically.
+妙敏觉说，在为一名身在泰国的美国客户建立网站时，他花了七小时才完成一项上传任务——这个过程在其他国家可能只需几分钟。还有一次，一位客户不得不从马来西亚飞到缅甸，亲手把像素较高的一批图片交给他，就因为文件尺寸太大了，无法在网上传送。
+But Mr. Kyaw, 29, the founder and chief executive of Revo Tech, remains optimistic about Myanmar’s technology scene. And thanks to a rapidly developing cellphone network, he predicts such technical difficulties may soon be in the past. Even better, he says, it presents a huge opportunity for mobile apps and web development.
+不过，现年29岁的妙敏觉对缅甸的科技发展仍然乐观。缪敏觉是Revo Tech的创始人及首席执行官。他预计，随着手机网络的迅速发展，这样的技术障碍可能很快将成为历史。他说，更棒的是，这还为移动应用和网络开发带来了重大机遇。
+“It won’t be like Silicon Valley even in five or 10 years,” he said. “But maybe in three to four years time we can catch up to Singapore.”
+“即使再过5到10年，缅甸也不会变得像硅谷那样，”他说，“不过，3至4年之后，我们说不定能赶上新加坡。”
+Limited telephone and Internet infrastructure, and decreasing smartphone costs, mean most of Myanmar’s 60 million people will experience the Internet for the first time through cellphones. The biggest growth potential, Mr. Kyaw says, is for mobile and web services relating to tourism, transportation and e-commerce.
+有限的电话和互联网基础设施，以及智能手机价格的不断下跌意味着，缅甸的6000万人口中，多数将通过手机初次接触互联网。妙敏觉说，与旅游、交通运输和电子商务相关的移动与网络服务拥有最大的增长潜力。
+Although broadband Internet prices have declined in the last two years, they remain high. Installation costs the equivalent of about $500, and the monthly rate for a 1 megabyte-per-second connection is about $70; the monthly rate for a connection twice as fast is $120. That is steep in a country where per capita gross domestic product was about $1,700 in 2013.
+尽管宽带网络的费用在过去两年中已有所降低，但仍然价格不菲。宽带初装费大约相当于500美元（约合3100元人民币），而速度为每秒1M的网络服务的月使用费为70美元；2M的则为120美元。对于缅甸人来说，这样的价位难以承受。缅甸2013年的人均GDP约为1700美元。
+By contrast, a smartphone — and the Wi-Fi access it brings — can cost as little as $43, increasing the demand for mobile apps and services in Myanmar.
+相比之下，一部智能手机——带有Wi-Fi连接功能——最低仅需43美元。这就增加了缅甸对移动应用和服务的需求。
+Next month, Revo Tech will introduce its first proprietary app, which will let children practice writing the Myanmar script by tracing letters on screen.
+下个月，Revo Tech将推出第一款专有应用程序：儿童可以用它来描摹屏幕上的字母，从而练习缅文的书写。
+“We’re going to revolutionize the way our kids learn how to write Myanmar,” said Mr. Kyaw, describing the iPad app.
+妙敏觉在描述这款iPad应用时说，“我们将为儿童学习缅文的方式带来一场革命。”
+A Yangon-based Australian, David Madden, has similar socially conscious ideas. Mr. Madden founded Code for Change Myanmar and organized the country’s first hackathon, a gathering of developers to tackle a problem, in March. He said he hoped to “inspire the technology community and support the community to get excited about social innovation work.”
+在仰光生活的澳大利亚人戴维·马登(David Madden)拥有类似的具有社会意识的点子。他创立了“代码改变缅甸”(Code for Change Myanmar)，并于3月组织了缅甸的首次黑客马拉松——这种活动把开发者聚在一起，让他们合作解决一个问题。马登说，他希望能“激励技术群体，让他们为社会创新工作兴奋起来。”
+Assigned to create a technological solution to one of eight social problems presented by nongovernmental organizations, the winning team developed an Android app that allows farmers to share and receive alerts about pests and diseases from nearby farmers and the government. Mr. Madden said the team was discussing fully developing the app.
+各团队接到的任务是，为非政府组织提出的八个社会问题中的某一个提供科技解决方案。获胜团队开发了一款Android平台上的应用。务农者可以用它来分享和接收来自附近农场和政府的关于病虫害的信息。马登说，该团队正在讨论把这款应用完整地开发出来。
+The growth of Myanmar’s telecommunications industry offers a potentially lucrative vein of work for developers. In June 2013, Myanmar’s government awarded Ooredoo Qatar and the Telenor Norway 15-year licenses to expand the country’s limited network. Ninety-two companies from around the world bid for the work, estimated to be worth about $2 billion.
+缅甸电信业的增长为开发人员提供了一个可能有利可图的职业方向。2013年6月，缅甸政府向卡塔尔的Ooredoo和挪威的Telenor发放了有效期为15年的执照，委托其扩建该国有限的网络设施。此前，来自世界各地的92家公司对这个估值约为20亿美元的项目进行了投标。
+A 2012 report by the Swedish telecom giant Ericsson estimates growth in the telecommunications industry could contribute as much as 7.4 percent of Myanmar’s gross domestic product over three years and employ 66,000 people full time.
+瑞典电信巨头爱立信(Ericsson)2012年公布的一份报告估计，今后三年，电信业能为缅甸的GDP做出高达7.4%的贡献，并在当地创造6.6万个全职工作岗位。
+Eric E. Schmidt, Google’s executive chairman, told an audience here in March 2013 that Myanmar was about to “leapfrog 20 years of difficult-to-maintain infrastructure and go straight to the most modern architecture.”
+谷歌(Google)董事会执行主席埃里克·E·施密特(Eric E. Schmidt)在2013年3月对仰光听众表示，缅甸将“跨越过去20年里基础设施难以为继的局面，直接迈入最现代化的架构。”
+But the lack of affordable and reliable Internet connections that is driving demand for mobile apps is also a major hurdle for Myanmar’s technology community. Thiha Aye Kyaw, 20, an Android app developer who works from home here, said of the first time he used a tablet: “I feel like I’m into the future, from what I’ve been using. That large screen, everything you can do with it.”
+不过，缅甸的科技群体还面临一个主要的障碍，那就是缺乏价格合理且性能可靠的网络连接，而这种连接正是催生移动应用需求的关键。20岁的Android应用开发员丁埃觉(Thiha Aye Kyaw)在位于仰光的家中工作，谈到自己第一次接触平板电脑时的情形时，他说：“我感觉好像超越了一直在用的东西，进入了未来世界。那么大的屏幕，你拿它干什么都行。”
+Like many other developers, he is self-taught and relies on online resources to keep up with technological developments. However, watching a YouTube video, for instance, can be painful with a slow Internet connection that crashes regularly.
+和许多开发人员一样，他自学成才，依靠网络资源紧跟技术发展的步伐。不过，慢腾腾的网络常常崩溃，举个例子，用它上YouTube网站观看视频会让人苦不堪言。
+“I have to download them with download managers overnight,” he said.
+他说，“我必须用下载管理器下一晚上。”
+The industry also lacks experienced developers. Myo Myint Kyaw of Revo Tech said he had been looking for a web designer for more than a year, but could not find qualified talent.
+缅甸互联网行业还缺乏有经验的开发员。Revo Tech的妙敏觉说，他一直在寻找网页设计师，可是都一年多了还是没找到合格的人才。
+“What happens in Myanmar is, they get a computer science degree, then they work in an agency, or come to our agency, to get experience,” he said. “Once they think they are good enough, they go to Singapore.” Developers can earn $1,600 to $3,200 a month in Singapore, compared with $500 to $600 for senior developers in Myanmar.
+他说，“缅甸的现状是这样的，开发人员获得计算机科学学位后，就会去一家机构打工，或到我们这里来积攒经验。一旦他们认为自己足够优秀了，就会去新加坡。”在新加坡，开发人员每个月能挣到1600到3200美元，比较之下，在缅甸，一名资深开发员的月薪只有500到600美元。
+Soe Naung Win, 31, owns a mobile phone shop in Yangon and is helping consumers. The lack of international credit cards and limited access to iTunes and Google Play makes it difficult to download apps and pay for additional features.
+31岁的梭瑙温(Soe Naung Win)是仰光一家智能手机店的店主，一直在给顾客提供帮助。缅甸缺少国际信用卡，也只能有限地接入iTunes和Google Play。这让智能手机难以下载各种应用，或是购买附加功能。
+“There is no Myanmar iTunes yet, so we created a fake U.S. iTunes account,” said Mr. Win, who holds a medical degree and retrained as a software developer. “After that, we can use an iTunes gift card to redeem the gift card code.” A friend in the United States buys iTunes gift cards and sends Mr. Win the codes, which he resells at a small profit.
+“缅甸还没有iTunes，所以我们创建了虚假的美国iTunes账号，”梭瑙温说。他拥有医学学位，通过再培训成为了一名软件开发员。“之后，我们可以利用iTunes礼品卡兑换礼品卡号。”梭瑙温在美国的一名朋友负责购买iTunes礼品卡，然后把卡号发给他，他再把卡号转卖并从中获得小笔利润。
+This use of gift cards, applied around the world to circumvent geographic licensing restrictions, allows people in Myanmar to make purchases. In a similar fashion, developers who sell apps rely on relatives and friends living abroad to collect payments on their behalf.
+全球各地都可以用礼品卡规避地理上的授权限制。通过利用礼品卡，缅甸人也能进行购买了。销售应用的开发人员则能采用类似的方式，依靠在海外的亲朋好友替他们收费。

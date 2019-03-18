@@ -1,0 +1,18 @@
+An appeals court on Monday upheld the bulk of Apple’s patent victory against Samsung Electronics in 2012, but overturned part of the decision and said that a lower court should reduce the total amount that Samsung would have to pay.
+本周一，一家上诉法院维持了苹果(Apple)2012年在三星电子(Samsung Electronics)专利侵权案中获得的大部分胜诉裁决，但推翻了其中一部分。它表示，一家下级法院应该减少三星必须支付的赔偿总金额。
+The United States Court of Appeals for the Federal Circuit, which deals with patent lawsuit appeals, said that the overall aesthetic of the iPhone — a rectangular product with rounded corners, black borders and a flat, clear surface — could not be protected and part of the damages would have to be recalculated.
+美国联邦巡回上诉法院(United States Court of Appeals for the Federal Circuit)处理涉及专利诉讼的上诉，它表示，iPhone的整体美学造型——长方形的产品、圆角、黑色边框、平整的表面——不能受到保护，苹果的部分损失必须重新计算。
+Apple had accused Samsung of diluting its brand by copying the overall look of its iPhones. But the court said Apple failed to prove that the iPhone aesthetic was not “functional.” In other words, giving Apple protection for the overall look and shape of a smartphone would essentially grant it a perpetual monopoly over making smartphones work better, and the three-judge panel decided not to go in that direction.
+苹果此前指控三星抄袭其iPhone手机的整体外观，令其品牌蒙受损失。但该法院表示，苹果未能证明iPhone的美学造型不是“功能性的”。换句话说，在一部智能手机的整体外观和形状上为苹果提供保护，基本上会为其在智能手机的功能改善上提供一个永久性垄断地位，由三名法官组成的合议庭决定不这么做。
+“We therefore vacate the jury’s damages awards against the Samsung products that were found liable for trade dress dilution and remand for further proceedings consistent with this opinion,” the appeals court wrote in its decision.
+“因此，对于发现三星在产品外观上进行模仿，我们取消了陪审团在损害赔偿上的决定，并将这个案件发回，根据这个意见进行重审，”上诉法院在裁决中写到。
+Josh Rosenstock, an Apple spokesman, lauded the decision as having “confirmed Samsung blatantly copied Apple products.”
+苹果发言人乔希·罗森斯托克(Josh Rosenstock)称赞这个决定“证明三星明目张胆地抄袭了苹果的产品”。
+“This is a victory for design and those who respect it,” he said.
+“这是设计的胜利，是那些尊重设计的人的胜利，”他说。
+Samsung did not have a comment.
+三星并未予以置评。
+In 2012, a jury unanimously decided that Samsung had violated a series of Apple patents and needed to pay more than $1 billion in damages, an amount that was recalculated to $930 million by another jury in a separate trial in 2013. The lawsuit was prominent, pitting two of the world’s top smartphone makers against each other.
+2012年，陪审团一致裁定三星侵犯了苹果的一系列专利，需要支付逾10亿美元的赔偿金。2013年，一个不同的陪审团参加的另一次庭审对这笔金额进行了重新计算，调整为9.3亿美元。由于原被告是全球两大智能手机制造商，该案件令世人瞩目。
+The two companies have gone on to duel in other legal entanglements, before calling something of a truce. Last year, in a separate case, a federal jury found that Apple and Samsung had infringed on each other’s patents in some mobile devices and awarded most of the damages to Apple. In August, however, the companies said they agreed to drop suits against each other outside the United States.
+这两家公司也因其他一些法律纠纷对簿公堂，后来基本宣告休战。去年，在另一个案件中，联邦陪审团认为，苹果和三星均在一些移动设备上侵犯了对方的专利，并裁定苹果获得大部分赔偿。但在去年8月，这两家公司表示，他们同意在美国以外的地方放弃针对对方的诉讼。

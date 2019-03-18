@@ -1,0 +1,54 @@
+Summers are hot in Omaha, where heat indexes can top 100 degrees. But Molly Mahannah is prepared.
+奥马哈市的夏天非常热，其酷热指数最高可以达到华氏100度（约合摄氏37.8度）。但莫莉·马哈纳(Molly Mahannah)对此有所准备。
+At the office, she bundles up in cardigans or an oversized sweatshirt from her file drawer. Then, she says, “I have a huge blanket at my desk that I’ve got myself wrapped in like a burrito.” Recently, “I was so cold, I was like ‘I’m just going to sit in my car in like 100-degree heat for like five minutes, and bake.’”
+在办公室里，她会从文件抽屉里拿出羊毛开衫或者大号运动衫，穿在身上。然后说，“我的办公桌旁还常备着一个大毯子，可以把自己像做玉米卷饼一样裹起来。”最近，“我觉得特别冷，就会想，要到自己的车里坐上五分钟，那里有华氏100度，可以暖和暖和。”
+Ms. Mahannah, 24, who wrote on Twitter that at work she felt like an icy White Walker from “Game of Thrones,” said a female co-worker at her digital marketing agency cloaked herself in sweaters, too. But the men? “They’re in, like, shorts.”
+24岁的马哈纳在Twitter上说，在办公室里，她觉得自己像是《权力的游戏》(Game of Thrones)里冰冷的“白鬼”(White Walker)。还说在她所在的数字营销机构里，一名女性同事也穿上了毛衣。但男人们呢？“他们穿着，短裤之类的。”
+Right. It happens every summer: Offices turn on the air-conditioning, and women freeze into Popsicles.
+没错。每年夏天都是如此：办公室里开着空调，女人们冻成了冰棒。
+Finally, scientists (two men, for the record) are urging an end to the Great Arctic Office Conspiracy. Their study, published Monday in the journal Nature Climate Change, says that most office buildings set temperatures based on a decades-old formula that uses the metabolic rates of men. The study concludes that buildings should “reduce gender-discriminating bias in thermal comfort” because setting temperatures at slightly warmer levels can help combat global warming.
+终于，科学家们（特别声明，是两位男士）开始呼吁终结“办公室北极大阴谋”(Great Arctic Office Conspiracy)。他们周一在《自然·气候变化》(Nature Climate Change)杂志发表的一项研究显示，大多数写字楼的温度设置，都是基于一种几十年不曾改变的公式，这一公式是依据男性的代谢率设定的。这项研究的结论是，写字楼应该“减少热舒适度方面的性别歧视”，因为将室温水平略微提高，有助于应对全球变暖问题。
+“In a lot of buildings, you see energy consumption is a lot higher because the standard is calibrated for men’s body heat production,” said Boris Kingma, a co-author of the study and a biophysicist at Maastricht University Medical Center in the Netherlands. “If you have a more accurate view of the thermal demand of the people inside, then you can design the building so that you are wasting a lot less energy, and that means the carbon dioxide emission is less.”
+“在很多写字楼里，都可以看到能源消耗要高很多，因为温度标准是依据男性的身体代谢产热能力设定的，”这项研究成果的合著者之一、荷兰马斯特里赫特大学医学中心(Maastricht University Medical Center)生物物理学家鲍里斯·金玛(Boris Kingma)说道。“如果你对办公室里人们的保暖需求有更准确的了解，就能设计出能源浪费少得多的写字楼，那也意味着可以降低二氧化碳排放。”
+The study says most building thermostats follow a “thermal comfort model that was developed in the 1960s,” which considers factors like air temperature, air speed, vapor pressure and clothing insulation, using a version of Fanger’s thermal comfort equation.
+这项研究显示，大多数写字楼的温度自动调节器都沿用了“1960年代形成的热舒适度模型”，它考虑了气温、空气速率、蒸气压、衣服隔热等因素，使用了范格(Fanger)热舒适公式的一种版本。
+It is converted to a seven-point scale and compared against the Predicted Percentage Dissatisfied, a gauge of how many people are likely to feel uncomfortably cool or warm.
+它被转换成一种七分制，与预期不满意比例(Predicted Percentage Dissatisfied)相对应，后者用以判断有多少人可能会感觉冷得不舒服或热得不舒服。
+Seems simple enough.
+看起来似乎很简单。
+But Dr. Kingma and his colleague, Wouter van Marken Lichtenbelt, write that one variable in the formula, resting metabolic rate (how fast we generate heat), is based on a 40-year-old man weighing about 154 pounds.
+但金玛博士和他的同事沃特·凡·马尔肯·里彻滕贝尔(Wouter van Marken Lichtenbelt)写道，这个公式中有一个变量——静息代谢率——是基于体重约154磅（约合70公斤）的40岁男性的参数设定的。
+Maybe that man once represented most people in offices. But women now constitute half of the work force and usually have slower metabolic rates than men, mostly because they are smaller and have more body fat, which has lower metabolic rates than muscle. Indeed, the study says, the current model “may overestimate resting heat production of women by up to 35 percent.”
+也许这样一位男士的指数曾经代表了办公室大多数人的情况。但如今女性占据劳动力大军的一半，她们的代谢率往往低于男性，主要因为她们大多比男性体型小，身体脂肪含量多，而脂肪比肌肉代谢率低。实际上，这项研究显示，目前的模型“可能把女性在静息状态的产热能力高估了35%。”
+“If women have lower need for cooling it actually means you can save energy, because right now we’re just cooling for this male population,” said Joost van Hoof, a building physicist at Fontys University of Applied Sciences in the Netherlands, who was not involved in the study.
+“如果女性制冷需求更低，那实际上意味着可以节省能源，因为目前我们只是在为男性人群制冷，”荷兰方提斯应用科技大学(Fontys University of Applied Sciences)建筑物理学家约斯特·凡·胡夫(Joost van Hoof)说道。他没有参与上述研究。
+“Many men think that women are just nagging,” he said. “But it’s because of their physiology.”
+“很多男人觉得女人们只是在唠叨，”他说。“但那是她们的身体机能在起作用。”
+Physiology and clothing. The authors also note that the model is not always calibrated accurately for women wearing skirts or sandals.
+除了身体机能，还有着装习惯。研究者还指出，目前的模型并不总能准确地为穿裙子和凉鞋的女士们调校温度。
+“Many men, they wear suits and ties, and women tend to dress sometimes with cleavage,” said Dr. van Hoof, who wrote a commentary about the study. “The cleavage is closer to the core of the body, so the temperature difference between the air temperature and the body temperature there is higher when it’s cold. I wouldn’t overestimate the effect of cleavage, but it’s there.”
+“很多男士穿西装打领带，而女士们则穿着展露乳沟的衣服，”凡·胡夫博士说道，他就上述研究撰写了一则评论。“乳沟更靠近身体核心，所以周围温度低的时候，那里气温和体温的温差会更大。我不想过度夸大乳沟的影响，但它确实存在。”
+So for the planet’s sake, men should “stop complaining,” Dr. Kingma said. “If it is too warm, the behavior thing you can do is take off a piece of clothing, but you can only do that so much. You could also say let’s keep it a very cold building and women should just wear more clothes.”
+所以，为了地球环境考虑，男士们应该“停止抱怨，”金玛博士说。“如果觉得办公室太热，可以脱一件衣服，但你只能做到这种程度。你也可能会说，我们还是继续把办公室调得冷一些吧，女人们应该多穿些衣服。”
+But his study offers another solution: Change the formula.
+但他的研究提供了另一种解决方案：改变调节温度的公式。
+The researchers tested 16 women, students in their 20s, doing seated work wearing light clothes in rooms called respiration chambers, which track oxygen inhaled and carbon dioxide exhaled. Skin temperature was measured on hands, the abdomen and elsewhere. A thermometer pill the women swallowed reported internal body temperature.
+研究人员对16名女性进行了测试。她们都是20多岁的学生，穿着轻薄的衣服，坐在可以跟踪监测吸入的氧气和呼出的二氧化碳浓度的房间内，这种房间名为“呼吸室”。她们一边坐着工作，一边有仪器监测她们手部、腹部和其他部位的体温，还有一种口服体温药丸用来测量她们体内的温度。
+Researchers found the women’s average metabolic rate was 20 to 32 percent lower than rates in the standard chart used to set building temperature. So they propose adjusting the model to include actual metabolic rates of women and men, plus factors like body tissue insulation, not just clothing. For example, people who weigh more get warmer faster, and older people have slower metabolic rates, the study reported.
+研究者发现，女性的平均代谢率比用来设定写字楼温度标准的代谢率低20%到32%。所以他们建议对现有温度标准进行调整，既考虑到女性和男性的实际代谢率，也考虑身体组织绝热等其他因素，而不仅仅是服装因素。比如，研究报告提示，体重较重的人更容易感到热，年龄更大的人代谢率更低。
+How much warmer an office would become would vary, of course, but the study cites research finding as much as a five-degree difference in women and men’s preferences. Dr. Kingma said a woman might prefer a 75-degree room, while a man might prefer about 70 degrees, which Dr. Kingma said is a common current office temperature.
+当然，办公室究竟应该提高多少温度应该视具体情况而变化，但这项研究的结果显示，女性和男性偏好的温度会相差五度。金玛博士表示，女性可能希望室内温度达到华氏75度，而男性可能倾向于设在70度左右，金玛教授表示，华氏70度的室温设定目前在办公场所比较常见。
+Some experts doubt the proposed formula would be easily adopted.
+有些专家怀疑新提议的温度标准能否被很好地采纳。
+Khee Poh Lam, an architecture professor at Carnegie Mellon, said even if the industry accepted a change to the longstanding model, buildings often house different businesses or “squeeze more people in” than they were designed for and partition offices so thermostats and vents are in different rooms. Given these improvisations, he added, “whether this actually affects energy, I think that’s a big leap.”
+卡内基梅隆大学(Carnegie Mellon)建筑学教授林棋波(Khee Poh Lam)表示，即便业界愿意改变这个长期存在的模型，每栋写字楼里都容纳着不同的企业，而且一些楼宇里“挤的人”比原先设计的要多，此外，办公室也会分隔空间，导致恒温器和通风管道被隔在了不同的房间里。他接着说，考虑到这些具体情况，“这一举措要真正对能源消耗产生影响，我觉得难度不小。”
+Still, he said, “we need to keep pushing” for improvements because “the phenomenon of women getting cold is very, very obvious,” and cold or hot employees are less productive.
+不过，他也说，“我们需要持续推动”这些改善措施，因为“办公室里女性感到冷是非常非常普遍的事”，而如果感觉太冷或太热，员工的工作效率会比较低。
+Individualized temperature controls are the eventual answer, said Dr. Lam, who helped design a “personal environmental module” in the 1990s that was deemed too expensive for commercial development. Now others are developing systems to let workers make their cubicles warmer or cooler.
+林教授表示，个性化的温度控制才是最终的解决之道。1990年代，他曾帮助设计了一种“个人环境模块”，但人们觉得它成本过高，不适合进行商业开发。现在，已经有其他人在开发可以让员工把自己工位的温度调高或调低的系统了。
+Kimberly Mark, 31, would appreciate that. This summer, at a software company in Natick, Mass., she and female colleagues are using space heaters. The thermostat is in the office of “the guy next to me,” she said, “and I’m the only woman in the offices that he controls.”
+31岁的金伯莉·马克(Kimberly Mark)非常期待这种设备出现。她是马萨诸塞州纳蒂克一家软件公司的员工，这个夏天，她和女性同事在使用小型取暖设备保暖。她说，恒温器在“我旁边那个家伙”的办公室里，“而我是他控制温度的这个办公室里，唯一的女性。”
+Phoebe McPherson, 21, said she sometimes wears thick leggings, a long-sleeve shirt, a sweatshirt and motorcycle boots to work at a health technology startup in Reston, Va. She often adds a tartan blanket, wraps “a blanket around my legs,” and despite the glaring fashion faux pas, wears a Snuggie backward to seal off any openings.
+21岁的菲比·麦克弗森(Phoebe McPherson)供职于弗吉尼亚州雷斯顿的一家健康科技创业公司。她说自己有时要穿厚厚的打底裤、长袖衬衫、运动衣和机车靴去上班，她往往还会再加上一条花格呢毯，“用毯子把腿裹起来”，还会朝后穿上一件Snuggie带袖懒人毯，以免任何地方透风，尽管这俨然犯了时尚大忌。
+“I wore a dress once and had to go change,” said Ms. McPherson, who attended college in New Hampshire. While male colleagues wear T-shirts, “I’m bringing all my New Hampshire clothes to work.” And when that and hot coffee fail, she nuzzles against a white fake-fur wall in the office, just to “feel my skin warming up against the fur.”
+“我曾经穿着裙子去上班，但最后不得不换衣服，”曾在新罕布什尔州读大学的麦克弗森说道。男同事们穿着T恤，“我却把自己在新罕布什尔州时的衣服都穿到单位来了。”如果多穿衣服、喝热咖啡还不管用，她就会把脸贴到办公室里一面贴着人造白色毛皮的墙上，就为“让贴着毛皮的皮肤，感觉一点点暖和起来”。

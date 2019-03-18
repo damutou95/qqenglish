@@ -1,0 +1,46 @@
+WASHINGTON — In the eighth grade, Arlan Jaska figured out how to write a simple script that could switch his keyboard’s Caps Lock key on and off 6,000 times a minute. When friends weren’t looking, he slipped his program onto their computers. It was all fun and games until the program spread to his middle school.
+华盛顿——上八年级时，阿兰·亚斯卡(Arlan Jaska)琢磨出如何编写一个简单的脚本程序，让他键盘上的大写锁定键能在一分钟内开关6000次。当朋友们不注意时，他把这个程序植入了他们的电脑。这原本是个玩笑，直到这个程序蔓延到了他所在的中学。
+“They called my parents and told my dad I was hacking their computers,” Mr. Jaska, 17 years old, recalled.
+“他们给我的父母打电话，向我爸告状，说我在非法侵入他们的电脑，”17岁的亚斯卡回忆道。
+He was grounded and got detention. And he is just the type the Department of Homeland Security is looking for.
+他被罚不准出门，放学后被罚留校。不过，他正是国土安全部(Department of Homeland Security)在寻找的那种人。
+The secretary of that agency, Janet Napolitano, knows she has a problem that will only worsen. Foreign hackers have been attacking her agency’s computer systems. They have also been busy trying to siphon the nation’s wealth and steal valuable trade secrets. And they have begun probing the nation’s critical infrastructure — the power grid, and water and transportation systems.
+国土安全部部长珍妮特·纳波利塔诺(Janet Napolitano)明白，她面临一个只会越来越严重的问题。外国黑客们一直在攻击其掌管部门的电脑系统，他们也正忙着试图汲取美国的财富、盗走有价值的商业机密。而且他们已经开始试探美国关键的基础设施，包括电网、水源和交通系统。
+So she needs her own hackers — 600, the agency estimates. But potential recruits with the right skills have too often been heading for business, and those who do choose government work often go to the National Security Agency, where they work on offensive digital strategies. At Homeland Security, the emphasis is on keeping hackers out, or playing defense.
+因此，她需要属于自己的黑客，据国土安全部估计，需要600名。不过，拥有所需技能的潜在招募对象常常会投身商圈，而那些确实选择进入政府部门的受聘者往往会加盟国家安全局(National Security Agency)，从事有关数字攻击战略的工作。而国土安全部所从事的重点，是将黑客拒之门外，也就是防御工作。
+“We have to show them how cool and exciting this is,” said Ed Skoudis, one of the nation’s top computer security trainers. “And we have to show them that applying these skills to the public sector is important.”
+美国顶级的计算机安全培训师之一埃德·斯科迪斯(Ed Skoudis)说，“我们必须向他们显示，这份工作有多酷、有多刺激。我们必须向他们显示，将这些技术运用到公共部门相当重要。”
+One answer? Start young, and make it a game, even a competition.
+一个解决方案是从年轻人入手，让这份工作成为一个游戏，甚至是一项竞赛。
+This month, Mr. Jaska and his classmate Collin Berman took top spots at the Virginia Governor’s Cup Cyber Challenge, a veritable smackdown of hacking for high school students that was the brainchild of Alan Paller, a security expert, and others in the field.
+本月，亚斯卡和他的同班同学科林·伯曼(Collin Berman)在弗吉尼亚州长杯计算机网络挑战赛(Virginia Governor’s Cup Cyber Challenge)中脱颖而出，这是为高中生们举办的名副其实的网络攻击赛，挑战赛的构思来自网络安全专家艾伦·帕勒(Alan Paller)，以及该领域的其他专家。 
+With military exercises like NetWars, the competition had more the feel of a video game. Mr. Paller helped create the competition, the first in a series, to help Homeland Security, and likens the agency’s need for hackers to the shortage of fighter pilots during World War II.
+竞赛用类似于仿真网络战(NetWars)的军事演习形式，很象一种电子游戏。帕勒帮助举办了这场竞赛，它是一系列竞赛中的第一次，是为了帮助国土安全部。帕勒把国土安全部对黑客的需求，比作第二次世界大战(World War II)期间战斗机飞行员的供不应求。
+The job calls for a certain maverick attitude. “I like to break things,” Mr. Berman, 18, said. “I always want to know, ‘How can I change this so it does something else?’ ”
+这份工作需要某种特立独行的态度。18岁的伯曼说，“我喜欢把东西弄坏。我总想知道，‘该怎么改造这个东西，才能让它做别的事情？’”
+It’s a far different pursuit — and a higher-minded one, enlightened hackers will say — than simply defacing Web sites.
+这是一种极为不同的追求，有见地的黑客们会说，它比单纯地恶搞网站要高尚得多。
+“You want people who ask: How do things work? But the very best ones turn it around,” said Mr. Paller, director of research at the SANS Institute, a computer security training organization.
+“你需要这么发问的人：这东西的工作原理是什么？不过，最杰出的人会从另一个角度看问题。”计算机安全培训机构系统网络安全协会(SANS Institute)研究主管帕勒说。
+At Northern Virginia’s acclaimed Thomas Jefferson High School for Science and Technology, which both Mr. Jaska and Mr. Berman attend, there are five computer science teachers, but none focused on security.
+弗吉尼亚州北部著名的托马斯·杰弗逊科技高中(Thomas Jefferson High School for Science and Technology)有五名计算机学科的教师，但是没有一位教有关网络安全的课。亚斯卡和贝曼都在这所学校就读。
+When eight students expressed interest in starting a security club, they had to persuade a Raytheon employee to meet with them once a week.
+当八名学生有兴趣成立一家网络安全俱乐部时，他们不得不说服雷声公司(Raytheon)的一位雇员每周与他们见一次面。
+Mr. Jaska and Mr. Berman heard about the Virginia competition through their school. To qualify, they had to identify bad passwords and clean up security settings — a long way from a Caps Lock program.
+亚斯卡和贝曼通过他们的学校得知了弗吉尼亚竞赛的消息。为了获得参赛资格，他们必须识别出不安全的登录密码、清理安全设置，这与一个玩大写锁定键的软件有很大差别。
+Some 700 students from 110 Virginia high schools applied, but only 40, including Mr. Jaska and Mr. Berman, made the cut.
+来自弗吉尼亚州110所高中的大约700名学生申请参加竞赛，只有包括亚斯卡和贝曼在内的40名学生获得了参赛资格。
+So, three weeks ago, the pair traveled to the Governor’s Cup Cyber Challenge at George Mason University. There, they found something they rarely encounter in high school — a thriving community of like-minded teenagers, the best and brightest of a highly specialized task.
+于是，三周之前，他们两人前往乔治梅森大学(George Mason University)参加了州长杯网络挑战赛。在那里，他们发现了在高中很少碰到的现象：一个由十几岁的、志同道合的年轻人组成的生气勃勃的群体，一个从事高度专业化任务的出类拔萃者的群体。
+“For some of the kids, who tended to be a little bit loners, this was the first time they had a peer group,” Mr. Paller said. “They were having excited conversations about arcane technical issues — something they never get to do — and their parents exalted in it.”
+帕勒说，“对其中一些不太合群的孩子来说，这是他们第一次有了自己的同龄群体。他们兴奋不已地讨论着晦涩难懂的技术问题，他们以前从来没有这样的机会，而他们的父母也为他们感到高兴。”
+The students faced the same five-level test that the military uses to test its own security experts. They earned points for cracking passwords, flagging vulnerabilities and breaking into a Web site administrator’s account where, had they changed any settings or defaced a site, they would have been eliminated. Their scores were displayed in real time on a leader board.
+学生们面临着五个级别的测试，这和军方用来测试内部安全专家的一样。他们通过破解登录密码、找到系统中的弱点、或者侵入网络管理员账号而赢得分数。如果入侵后他们改变了网络管理员的任何设置、或恶搞了一个网站，就会被淘汰出局。他们的积分会被实时显示在一个排行榜上。
+After several hours, the winners were announced. A third of the students had made it to Level 3 — a level that Rear Adm. Gib Godwin, chairman of the Governor’s Cup, said typically requires someone with seven to 10 years of experience to achieve. Mr. Jaska won, earning a $5,000 scholarship. Mr. Berman won $1,500 for third place.
+几个小时之后，获胜者被宣布。有三分之一的学生过关进入第三级竞赛，据州长杯竞赛主席、海军少将吉德·戈德温(Gib Godwin)称，通常，只有拥有七到十年经验的人才能达到这一级别。亚斯卡最终获得第一名，他获得了一笔5000美元的奖学金。贝曼名列第三，获得了1500美元。
+The idea for such competitions is nothing new. For years, a hacking conference called DefCon has hosted games like Capture the Flag in which teams earn points for hacking into each other’s computers. The Air Force started a Cyber Patriot competition in which hackers defend against a “Red Team” trying to steal data. And the Defense Department has its own Digital Forensics Challenge. But none of these was meant for high school students.
+举办类似竞赛的主意并不新鲜。多年以来，一个名叫DefCon的黑客大会举办了多次“夺旗”(Capture the Flag)等竞赛，各参赛队通过攻入对方的计算机系统得分。美国空军也开始了一个名为“网络爱国者”(Cyber Patriot)的竞赛，参赛黑客针对一支试图窃取数据的“红队”展开防御。美国国防部(Defense Department)有自己的数字取证挑战赛(Digital Forensics Challenge)。不过，这些竞赛中没有一个是为高中生办的。
+“The goal is to create a continuum, similar to the way kids go to junior high, high school, college and get their Ph.D.,” Admiral Godwin said. “We want to create the same flow for kids in the cyber domain.”
+“最终的目的是建立一个连续的体系，类似于孩子们上初中、高中、大学，直至获得博士学位。”戈德温说。“我们希望在网络领域为孩子们打造一个相同的流程。”
+This summer, Mr. Jaska is hoping to be an intern at Northrop Grumman. Mr. Berman is considering an internship at Homeland Security.
+亚斯卡希望，今夏自己能在诺斯洛普·格鲁门公司(Northrop Grumman)当一名实习生。贝曼正在考虑国土安全部提供的实习生职位。

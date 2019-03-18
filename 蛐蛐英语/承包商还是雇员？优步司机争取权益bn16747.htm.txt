@@ -1,0 +1,66 @@
+Last September, Dallas-area drivers for UberBlack, the company’s high-end car service, received an email informing them that they would be expected to start picking up passengers on UberX, its low-cost option.
+去年9月，在达拉斯地区，优步(Uber)高端服务UberBlack的司机们收到一封电子邮件，通知他们需要开始接载低价服务UberX的乘客。
+The next day, when the policy was scheduled to go into effect, dozens of drivers caravaned to Uber’s office in downtown Dallas and planted themselves outside until company officials met with them. Many had taken out loans to buy luxury vehicles that cost upward of $35,000, and worried that the modest per-mile rate for UberX passengers would barely cover gas and wear and tear, to say nothing of their car payments.
+这个政策定于第二天生效。那天，数十名司机开车前往达拉斯下城的优步办公室，停在外面不走，一直等到公司的管理者与他们见面。很多人都是借贷购买的高档车，成本至少3.5万美元（约合23万元人民币）。他们担心UberX乘客的便宜车费连油费和日常损耗都不够冲抵，更不用说购买高档车花的钱了。
+The standoff stretched across nearly three more tense days until Uber allowed them to opt out of the policy. “They thought we were just going to give up, walk away,” said Kirubel Kebede, a leader of the group. “But we said, ‘No, this is our livelihood.’”
+僵局持续了近四天，气氛越发紧张，直到优步允许他们可以选择不遵循这个政策。“他们以为我们会就这么算了，离开这里，”这些司机的领头人基努贝尔·凯贝德(Kirubel Kebede)说。“但我们说，‘不，这是我们的生计大事。’”
+In the rapid growth of the online gig economy, many workers have felt squeezed and at times dehumanized by a business structure that promises independence but often leaves them at the mercy of increasingly powerful companies. Some are beginning to band together in search of leverage and to secure what they see as fairer treatment from the platforms that make the work possible.
+随着网络零工经济的快速增长，很多从业人员感觉受到这种业务构架的压迫，有时还很不人道。这种业务构架承诺让他们拥有独立自主权，但却往往使得他们受到日益强大的公司的摆布。有些人开始联合起来，寻找筹码，从平台那里争取他们认为的更加公平的待遇，从而让糊口成为可能。
+“We started realizing we’re not contractors, we’re more like employees,” said Berhane Alemayoh, one of the UberBlack drivers in Dallas. “They tell us what kind of car to drive. They kick you out if a customer accused you of not having a clean car. They started to tighten the rope. Gradually, we can’t breathe any more.”
+“我们逐渐意识到，我们不是承包商，而是更像雇员，”达拉斯UberBlack司机贝尔哈·阿莱马耶(Berhane Alemayoh)说。“他们对我们驾驶车辆的种类提出了要求。如果客户指责你的车不干净，他们就把你踢出局。他们开始收紧控制。渐渐地，我们无法呼吸了。”
+Perhaps the most prominent effort was a measure to give ride-hailing drivers the right to unionize in Seattle, which was approved by the City Council in December.
+最引人瞩目的努力也许是西雅图的一份提案，其中赋予叫车服务的司机组织工会的权利。去年12月，市议会批准了这项提案。
+But while many campaigns by alienated workers have shunned this more traditional labor-organizing approach, they have highlighted a basis for advancing the interests of gig economy workers collectively.
+许多被优步冷落的司机在行动中没有使用这种更传统的劳工组织方式，但它突显了一种基本原则，可以以此为基础去增进零工经济工人的利益。
+“There’s a sense of workplace identity and group consciousness despite the insistence from many of these platforms that they are simply open ‘marketplaces’ or ‘malls’ for digital labor,” said Mary L. Gray, a researcher at Microsoft Research and professor in the Media School at Indiana University who studies gig economy workers.
+“尽管这些平台坚称他们只是为数字劳动力打开了‘市场’或带来‘商机’，但仍然有一种工作场所认同及群体意识的感觉，”微软研究院(Microsoft Research)研究员、印第安纳大学传媒学院(Media School at Indiana University)研究零工经济工人的教授玛丽·L·格雷(Mary L. Gray)说。
+The efforts extend well beyond drivers for Uber and its prime competitor, Lyft. A group of couriers who find work on the platform Postmates is waging a campaign to create an “I’m done after this delivery” button because they worry that turning down jobs will affect how many future assignments they receive. (A Postmates official said turning down jobs had no effect on future work, but that the company was still sympathetic to the idea.)
+做出此番努力的不仅仅是优步及其主要竞争对手Lyft的司机。一些通过Postmates平台找到工作的快递员正在开展活动，希望添加一个“送完这一单不再接单”按钮，因为他们担心拒绝接活的做法会影响到他们未来获得的任务数量。（Postmates的一名官员表示，拒绝接活不会影响未来的工作，但该公司依然支持这个想法。）
+The National Domestic Workers Alliance, which organizes nannies and housekeepers, recently produced what it calls the Good Work Code, which it has urged gig economy companies to adopt.
+保姆和管家组织美国家庭佣人联盟(National Domestic Workers Alliance)最近制定了《好工作准则》(Good Work Code)，并敦促零工经济公司采纳。
+“They would be dispatched to a home that didn’t feel safe, but would be hesitant to exit themselves from that situation because it might affect their ratings,” said Palak Shah, the alliance official leading the effort, citing one of several issues that the Good Work Code is intended to address. A handful of firms, like Managed by Q, LeadGenius and CareLinx, have embraced the guidelines.
+“他们将会被派遣至一个感觉并不安全的家庭，但他们在离开时会犹豫不决，因为这会影响他们的评分，”领导该行动的联盟官员帕拉克·沙阿(Palak Shah)说，这是《好工作准则》计划解决的问题之一。Managed by Q、LeadGenius和CareLinx等公司已经采纳了该准则。
+Similarly, a group of workers on Amazon’s Mechanical Turk platform, where people post and accept piecework assignments, in 2014 developed extensive guidelines — including recommended pay and the need to provide timely responses to questions — for academics who use the platform for research purposes. More than 60 academics have signed on to date.
+同样，在计件工下单、接单的平台亚马逊Mechanical Turk，一些工人于2014年针对那些使用该平台进行研究的学者制定了详尽的准则——包括建议的薪资和及时回应问题的必要性。迄今为止，已有60多名学者签名接受准则。
+Though the so-called Turkers tend to value the flexibility and independence of freelancing and often reject the idea of a traditional union, many have also developed a kind of working-stiff identity. “I’ve heard them say Jeff Bezos is their boss — we’re workers here,” said Niloufar Salehi, a Stanford Ph.D. student who spent a year immersed in Turker forums to help the workers organize.
+虽然使用亚马逊Mechanical Turk平台的人往往重视自由职业的灵活性和独立性，拒绝接受传统工会这种理念，但很多人还是形成了一种劳动阶层的身份认同。“我听他们说杰夫·贝佐斯(Jeff Bezos)是他们的老板，我们是这里的工人，”斯坦福大学博士生尼卢法尔·萨利希(Niloufar Salehi)说，他曾耗费一年时间泡在Mechanical Turk工人论坛上帮助他们形成组织。
+By contrast, sellers of goods on digital marketplaces like eBay and Etsy rarely think of themselves as employees. In their minds, they say, they are independent artisans and shopkeepers.
+相比之下，eBay和Etsy等数字市场的店主很少认为自己是这些公司的员工。他们表示，他们认为自己是独立的手工艺人和店主。
+“Etsy is the place where the shop exists, where I pay rent,” said Sandie Russo, a longtime seller of hand-knit accessories and knitting patterns who once ran an online forum in which sellers helped one another address common problems. “It’s definitely that you’re an entrepreneur, not a worker.”
+“Etsy是一个可以付钱租店铺的地方，”很早就开始售卖手工编织饰品和编织模型的桑迪·鲁索(Sandie Russo)说。“你肯定是一名创业者，而不是一名工人。”拉索曾运营一个网络论坛，一些店主通过该论坛帮助彼此解决一些常见问题。
+Like the Etsy shopkeepers, many Uber drivers began their relationship with the company thinking of themselves as self-employed.
+就像Etsy店主一样，很多司机开始加入优步时认为自己是个体劳动者。
+“There is that sense initially,” said Harry Campbell, a longtime Uber driver who runs a popular blog and podcast about ride-hailing. “But as time goes on, it wears off. You start to see that Uber does control a lot of aspects of the work.”
+“最初是这种感觉，”成为优步司机已有多时的哈里·坎贝尔(Harry Campbell)说。“但随着时间的推移，这种感觉逐渐消失。你开始看到优步确实对这项工作的很多方面加以控制。”坎贝尔开设的有关叫车的博客和播客广受欢迎。
+Unlike sellers on eBay or Etsy, Uber drivers cannot set the prices they charge. They are also constrained by the all-important rating system — maintain an average of around 4.6 out of 5 stars from customers in many cities or risk being deactivated — to behave a certain way, like not marketing other businesses to passengers.
+与eBay或Etsy的店主不同，优步司机无法设定售价。他们还受到非常重要的评分系统的限制，按照一定方式行事，比如不向乘客推销其他业务。该评分系统满分为5星，在很多城市，司机需要维持4.6分的平均分，否则会被解除合作关系。
+The experience of the Dallas UberBlack drivers is telling. When Uber entered Dallas in 2012, many of the drivers were either independent hired-car operators or contractors for limousine companies who bought or leased their own cars.
+达拉斯UberBlack司机的经历可以说明问题。当优步在2012年进入达拉斯地区时，很多司机要么是独立的包车司机，要么是豪华轿车服务公司的承包人，他们的车是自己买或租来的。
+“Some had their own business, they were fine with the business,” Mr. Alemayoh said. “They just used Uber as a complement.”
+“一些人有自己的生意，他们也能应对这些活，”阿莱马约说。“他们只是把优步当作一种增加收入的方式。”
+The drivers formed a tactical alliance with the company to help it gain the city’s approval, which local cab operators resisted. Mr. Alemayoh even sang Uber’s praises in testimony before the Houston City Council, after the company asked him to speak there as part of its expansion efforts. “I said it’s fair to drivers to have Uber,” he recalled. “I spoke on their behalf, they didn’t pay me.”
+司机们与该公司结成战略联盟，帮助公司获得市政府的批准，当地出租车司机对此持反对意见。阿莱马约甚至受优步之邀，到休斯顿市议会作证，称赞这家公司。“我当时说，允许优步进入对司机来说很公平，”他回忆称。“我为他们说话，他们并没有付钱给我。”
+But the relationship began to sour in 2014, when the company decreed that drivers with cars made before 2008 would no longer be able to participate in UberBlack.
+但这种关系在2014年开始恶化，当时该公司决定2008年以前出产的汽车不能参加UberBlack服务。
+“We said, ‘You guys are affecting so many families,’” said Mr. Kebede, a leader of a group called the Association of Limousine Owners and Operators of Dallas Fort Worth, formed the previous year. Uber extended the grace period by several months in some cases but did not reverse the policy.
+“我们说，‘你们这么做会影响到很多家庭，’”此前一年成立的达拉斯沃斯堡豪华轿车车主和运营商协会(Association of Limousine Owners and Operators)负责人之一凯贝德说。针对某些情况，优步把宽限期延长了几个月，但并没有取消这项政策。
+By the time Uber handed down its UberX directive in September, the drivers had long since recognized that they were at the company’s beck and call. Because of Uber’s popularity, almost all their other sources of business had dried up. And Uber had earned the imprimatur of the City Council, which made the drivers politically expendable, too.
+等到去年9月，优步下达让他们接UberX乘客的指令时，这些司机早已经意识到自己现在只能任其摆布了。因为优步受市场欢迎，他们在这个行业内的其他生意来源已经枯竭。优步还获得了市政厅的正式批准，因此司机们对他们也不再具有政治价值。
+So it was something of a surprise that the drivers’ association, which represents about 500 of the 2,000 to 3,000 black-car drivers it believes are active in the Dallas area, was able to push Uber not only to scale back the UberX change, but also to reinstate several of the drivers it had deactivated for pressuring fellow drivers as the showdown escalated.
+正因如此，这个司机协会不仅能迫使优步缩小实施UberX新政策的范围，还迫使它恢复了几名司机在优步平台上揽活的机会，已经令人感到意外了——之前双方对抗升级时，优步为向司机施压，曾剥夺这几名司机的权利。该协会估计达拉斯地区活跃着的2000到3000名UberBlack司机，其中有大约500人加入了他们。
+Some continue to be deactivated for what they feel are arbitrary reasons, which Uber maintains are unrelated to the protest (“Drivers have the right to free expression and we respect that,” said a company representative). But to the extent that the Dallas drivers have been successful, one crucial advantage is that they were able to organize in person rather than depend exclusively on the Internet and social media.
+有些司机依然没有拿回在优步平台上揽活的权利，他们认为优步是出于主观因素做出该决定，但优步坚称这与抗议无关（“司机们有自由表达个人想法的权利，我们尊重这种权利，”优步的一名代表说）。但达拉斯司机能取得这样的成功，有一个至关重要的因素是他们能成立一个实体组织进行抗议，而不是单纯依靠在网上或通过社交媒体表达抗议。
+That also helps explain the success of the campaign in Seattle, where Uber had previously reversed a rate cut after facing pressure from drivers. (Uber maintains that the reversal was unrelated.) “The drivers have gone out and talked to each other,” said Dawn Gearhart, a spokeswoman in the area for the Teamsters union, which provides support services to local drivers. “Every time they would call a meeting, a couple hundred people would show up.”
+这也是西雅图的运动获得成功原因。在那里，优步之前曾调低车费，在遭遇来自司机的压力之后，又调了回去。（优步坚称之后回调车费与之无关）。“司机们会走出来，相互谈论这件事，”西雅图地区卡车司机工会的发言人道恩·吉尔哈特(Dawn Gearhart)说。“他们每次召集会议，都能有几百人参加。”
+Since the beginning of the year, drivers in cities like New York and San Francisco have relied on a similar local focus to organize protests over rate cuts. Hundreds of drivers descended on Uber’s headquarters in Queens on Monday to demand that the old rates be restored.
+自今年初以来，纽约、旧金山等城市的司机也开始依靠同样的方式，在本地集会，组织抗议降低车费的活动。周一，有数百名司机突然来到优步位于皇后区的总部，要求恢复原有的车费定价。
+In the Tampa area, drivers have protested cuts that brought rates down to 65 cents a mile from 95 cents as of early January, and from $1.20 as recently as last spring. Net earnings for drivers there can come perilously close to subminimum wage rates on a 15- to 20-minute trip in town once they factor in pickup and wait times and the cost of gas, depreciation and maintenance.
+在坦帕市，司机抗议优步将车费自今年1月起，从原先的95美分/英里降至65美分/英里。去年春季时，车费为1.2美元/英里。在这里，如果算上接人和等待的时间、油费、车辆贬值和养护费用等，司机在市区接一单15至20分钟的活所赚取的净利润，差一点就低于最低工资了。
+“We sometimes lower prices in a city to get more people using Uber,” said an Uber representative. “As we have always said, price cuts need to work for drivers. If they do not, we will roll them back.”
+“为了让更多人使用优步，我们有时会调低某个城市的车费，”优步的一名代表说。“就像我们一直所说的，降低车费需要让司机接受。如果他们不同意，我们就会调回去。”
+In response, the Tampa area drivers started a weekly logout of an hour or two during peak periods for weekend revelers. During that time, they write messages on their windows about what they consider unlivable wages. The group has grown rapidly to a network of 700 drivers who communicate via an app-based walkie-talkie service called Zello.
+作为回应，坦帕市的司机开始了一项抗议活动，即在周末狂欢的人群出行的高峰时期停运一两个小时。那个时段，他们会在自己的车窗上写些话，批评他们认为不够糊口的车费标准。很快就有700名司机加入这项行动，他们通过一款提供对讲机功能的名为Zello的软件进行联络。
+The Tampa drivers’ goal is to enlist Uber’s most politically valuable asset — legions of customers who have grown dependent on the service — to help send a message to Uber. Over time, they hope to extend the logouts to several hours, perhaps even a full day on the weekend.
+坦帕市司机的目标，是利用优步最有政治价值的资产——已经对优步的服务产生依赖的大批用户——替他们向优步传达信息。他们会逐渐把高峰停运时间延长至好几个小时，甚至是周末的一整天。
+“It’s a little blip on Uber’s radar,” said Josh Streeter, one of the leaders. “But then people might believe they have the power. That if they band together, they could pull off a bigger action.”
+“这对优步来说只是个小问题，”该运动的牵头人之一乔希·斯特里特(Josh Streeter)说。“但人们可能因此感觉自己有了力量，感觉如果他们团结起来，就能成就一场更大的行动。”

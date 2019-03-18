@@ -1,0 +1,40 @@
+If you have ever sent a text message on an iPhone, chances are good that you’ve encountered iMessage, Apple’s version of a WhatsApp-style messaging app.
+如果你曾用iPhone发过短信，那你碰到iMessage的机会还是很大的。它是苹果(Apple)推出的一款WhatsApp式的即时通讯应用。
+The service provides free messaging over Wi-Fi with other Apple users who have iOS devices or Macs running iMessage. It adds some minor functionality over regular text messaging, like notifications that someone is typing a note, and it saves on texting costs if you have a limited plan. When a good connection isn’t available, iMessages are supposed to be delivered as text messages — you can tell the difference because text bubbles within the app are green and iMessage bubbles are blue.
+该应用提供在无线网络环境下，和其他苹果用户免费进行即时通讯的服务，只要他们使用的是运行着iMessage的iOS设备或Mac电脑。除了常规的短信通讯服务，iMessage还提供了一些次要的功能，比如提示你有人正在写留言，如果你选择的是有限量的套餐，这款应用能节省你的短信费用。当网络连接不畅时，iMessage的讯息会以短信形式发送出去——你能通过应用里的泡泡来鉴别二者的不同，因为短信泡泡是绿色的，而iMessage泡泡是蓝色的。
+Because the service comes installed on iPhones, and in my experience is turned on by default, it is hugely popular. But iMessage is flawed in so many ways — and has been for years — that users should be wary about using it, especially because there are many good alternative services.
+由于这款应用被预装在iPhone上，而且据我的了解，默认状态下它是开启的，所以它极受欢迎。不过，iMessage在许多方面都存有瑕疵——而且多年以来一直如此——因此用户应该对使用它存有戒心，还有一个格外突出的原因是，目前有许多相当不错的应用可以替代它。
+The latest iMessage complaint is a legal one. A class-action lawsuit in California claims Apple violates the law by failing to deliver messages when an iPhone user switches to a new, non-iPhone device.
+最近对iMessage的不满已经闹到了法庭上。加利福尼亚州的一桩集体诉讼案指控苹果违反了法律，原因是一名iPhone用户切换到新的非iPhone设备时，苹果没能帮他传送信息。
+The lawsuit says Apple illegally interferes with people’s wireless service contracts and punishes users from leaving iPhone for Android or other platforms.
+该诉讼提出，苹果非法干涉用户的无线服务合同，让弃用iPhone、改用Android或其他操作系统手机的用户遭了秧。
+Whether Apple’s behavior violates any laws remains to be determined. But iMessage takes over your messaging, by moving the data you send through Apple’s servers instead of your mobile carrier network. And when you switch away from an iPhone, messages that other iMessage users try to send you can get caught in transit and disappear for weeks.
+苹果的行为是否违法依然有待判决。但iMessage的确会接管你的讯息，它通过苹果的服务器而不是手机运营商的网络来传送你的数据。当你弃用iPhone时，其他iMessage用户设法发送给你的讯息可能会在传输中遇困，消失几周时间。
+The disappearing text problem has been a known issue since 2011, when forum complaints first began appearing. Apple now has a few support articles on the topic, including one updated in May that provides some instructions on how to deactivate iMessage and “deregister” your phone number from iMessage.
+2011年，苹果论坛里第一次出现了投诉，自那之后，信息消失就成了广为人知的问题。目前，苹果提供的几篇技术支持文章谈到这个问题，其中今年5月更新的一篇文章提供了一些指导，教用户该如何关闭iMessage，以及从iMessage应用“注销”你的手机号码。
+Amber Johnson, an esthetician in Oakland, recently switched from an iPhone to a Galaxy S5. She promptly got caught in what Adam Pash, a former editor of the popular how-to website Lifehacker, calls iMessage purgatory.
+奥克兰美容师安卜·约翰逊(Amber Johnson)最近弃用iPhone、转用Galaxy S5。她马上就惨遭折磨，热门教学网站Lifehacker前编辑亚当·帕什(Adam Pash)称这种经历为iMessage炼狱。
+After switching phones, Ms. Johnson starting receiving emails from fuming customers, who were asking why she wasn’t answering their text and whether they had somehow offended her. She said she believes the problem most likely cost her hundreds of dollars in clients.
+换了手机后，约翰逊开始接到客户怒气冲冲的电子邮件，质问她为何不回复她们的短信，还是是不是哪得罪她了。她说，她认为这个问题极有可能会给她带来了价值数百美元的客户损失。
+To fix the problem — permanently, she hopes — she spent several hours on the phone with Verizon, and then Apple. Her issue was only resolved when Apple support sent her a code that was then used to unregister her from the iMessage servers.
+她希望能一劳永逸地解决这个问题，为此，她先后和威瑞森(Verizon)及苹果打了数小时的电话。最终还是苹果技术支持给她发送了一个密码，她用它注销了自己在iMessage服务器上的账号，才解决了这个问题。
+Since the lawsuit was filed, Apple has issued one software update meant to fix problems. The update was meant to patch a problem with the company’s servers that made it difficult for Apple support reps to help some users having trouble with iMessage.
+自这起官司立案以来，苹果就发布了旨在解决这一问题的软件更新。软件更新的目的是给公司的服务器打补丁，从而解决某个问题，该问题的存在使得苹果的客户支持人员难以给一些遭遇iMessage问题的用户提供帮助。
+In an email, Apple said it had an additional bug fix in a future software update. “If a customer switches to a non-Apple device,” the company said, “he can leave iMessage by turning off iMessage on the iPhone and uncheck the phone number from other Apple devices.”
+苹果在一封电子邮件中表示，今后的软件更新将解决另一个故障。该公司表示“如果一名客户改用苹果之外的设备，他是可以弃用iMessage的，方法是关闭iPhone上的iMessage应用，以及取消在其他苹果设备上选中的手机号。”
+When using iMessages, messaging is intertwined with texting on iPhones and, in my experience, is almost always turned on by default on a new device. (When I updated from iOS 6 to iOS 7, in fact, it was re-enabled for me.)Even if you plan to stick with an iPhone forever, though, there are better messaging tools than iMessage.
+根据我的经验，在iPhone上使用iMessage时，手机里的即时讯息和短信是混在一起的，而且一部新设备上的iMessage应用，在默认设置下几乎向来是处于开启状态的。（实际上，当我从iOS 6操作系统更新到iOS 7时，系统为我重新激活了iMessage。）即使你打算永远使用iPhone，也有比iMessage更好用的即时通讯工具。
+For one thing, iMessage is unreliable: users report social anxiety because they don’t receive timely responses to their messages. One user told me that every time she turns her iPhone off and then back on, a flood of iMessages pour in (and she feels loved again).
+一个首要的原因是iMessage不可靠，用户报告称，由于无法及时获得讯息反馈，他们患上了社交焦虑症。一名用户对我说，她每次关闭iPhone，而后再打开时，都会收到潮水般的iMessage讯息（让她又有了被爱的感觉）。
+In addition, messages sent through the service get spread too far. They pop up on any device where you’re signed into your Apple account. That can be handy, but if you have an iPad that your children like to use and you’re signed into your Apple account, your private messages could easily end up read by the wrong eyes.
+不仅如此，通过iMessage发送的讯息扩散得太快了。无论你在哪台设备上登录苹果账号，这些讯息都会马上弹出来。这也许相当便利，可是，如果你有一部iPad，正好你的子女喜欢用它，而你用自己的苹果账号登录了这部iPad，那么你的私人讯息可能会轻易地被不该看到的人看到。
+There is also some doubt that iMessages are secure. Apple says that the service is secure, and has said in the past that the messages are encrypted end-to-end during transmission. But security researchers have pointed out that Apple holds the key to that encryption and can presumably read messages anytime it wants.
+iMessage的安全性也引发了一些质疑。苹果表示，该服务是安全的，并曾在过去说过，这些讯息在传输中受到了点到点的加密保护。然而，安全研究员已经指出，苹果掌握着加密的钥匙，照此推断，苹果可以随时阅读这些讯息。
+The company stores messages on its servers for an unknown amount of time. When you get a new Apple device, your messages pop up when you sync with iCloud. The company released some details about iMessage security in February.
+苹果会在服务器上存储这些讯息，存储时间有多长我们不得而知。如果你获得一部新的苹果设备，只要你和iCloud进行同步，你的讯息就会弹出来。苹果在今年2月发布了一些关于iMessage安全的细节。
+There are too many alternative messaging systems now to keep using iMessage. Try WhatsApp, SnapChat, or Facebook Messenger. Or try BBM — formerly known as BlackBerry Messenger — whose fans are devoted and convinced of its unshakeable security. BBM can do everything iMessage can do, but without ever touching your text messages.
+如今能取代iMessage的即时通讯系统比比皆是。你可以试试WhatsApp、SnapChat，或者Facebook即时通讯(Messager)。或者试试BBM——之前它被称为黑莓即时通讯(BlackBerry Messenger)——它的粉丝被它不可动摇的安全性所折服，对它矢志不渝。iMessage能做的任何事BBM都能做，而且绝不会触及你的短信。
+If you want to turn off iMessages, go to Settings on your iPhone, scroll down to Messaging, and toggle the button next to iMessage to “off.”
+如果你想关闭iMessage，请进入iPhone中的“设置”(Settings)，下翻到“信息”(Messaging)，把“iMessage”旁的按钮切换至关闭状态。
+The great sin of iMessage is that it interferes with messaging that already works, and you barely know it’s happening. Texting might still cost more than it should, but texting is texting and messaging is messaging. There’s no reason to mix the two.
+iMessage的一大原罪是，它会和用户已有的即时通讯搅合到一块，而你几乎不知道发生了这种情况。你可以说短信的收费至今仍不合理，但短信是短信，即时通讯是即时通讯。没有理由把二者混在一起。

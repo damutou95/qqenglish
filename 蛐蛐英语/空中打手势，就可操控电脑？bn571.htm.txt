@@ -1,0 +1,56 @@
+By now, we all know what the future will be like; movies and TV shows have described it in detail. We know about the flying cars (thank you, “Blade Runner”), holograms (thank you, “Star Trek”) and robot butlers (thank you, “Jetsons”).
+现在，我们都已经知道未来将会是什么样子了。影视作品里已对此有详细描述。因为《银翼杀手》(Blade Runner)，我们知道了飞行的汽车；因为《星际迷航》(Star Trek)，我们知道了全息摄影；因为《杰森一家》(Jetsons)，我们知道了机器人管家。
+So when will we really get those technologies? Probably on the 11th of “Don’t hold your breath.”
+那么，我们什么时候才能真正拥有这些技术呢？可能要等到《别指望》(Don’t Hold Your Breath)第11季了。
+There is, however, one exception. As of this week, you can buy your own little piece of “Minority Report” and “Iron Man”: controlling your computer by making hand motions in the air.
+但是，有一个例外。本周，你可以买你自己的《少数派报告》(Minority Report)及《钢铁侠》(Iron Man)：通过在空中打手势操纵电脑。
+The Internet has been buzzing about the much-delayed Leap Motion Controller ($80) since its first public demonstrations over a year ago. Imagine controlling on-screen objects just by reaching into empty space, just like Tom Cruise! Imagine gesture recognition just like Microsoft’s Kinect game controller, but on a much smaller, more precise scale! Imagine the future, plugged into a USB jack on the Mac or Windows PC you own today!
+一年多前，Leap Motion公司的体感操控器(Leap Motion Controller)就进行了首次公开展示，打那以后，这款产品（售价80美元，约合490元人民币）迟迟未能面世，网上的议论却一直不绝于耳。畅想一下，只需要伸手就可以操纵屏幕上的物件，与汤姆·克鲁斯(Tom Cruise)一模一样！畅想一下，它就像是微软公司(Microsoft)的Kinect游戏操控器的手势识别技术，但要小得多、精度也高得多！畅想这样的未来，它通过一个USB接口连到你今天拥有的Mac或Windows电脑上！
+The Leap Motion sensor is beautiful, tiny and self-contained. It is a sleek, glass-and-aluminum slab (1.2 by 3 by 0.5 inches), with nonskid rubber on the bottom. A single USB cable (both a long one and a short one come in the box) stretches away to your computer; a light comes on when it’s working.
+Leap Motion出品的这款体感操控器靓丽、精巧而完善。它外型美观，是玻璃和铝材质，条状外形（3×1.2×0.5英寸，约合7.6×4×1.3厘米），底部带有防滑橡胶。只需一根USB线（包装里有一长一短两根线）就能与电脑连接；工作时指示灯会亮起。
+If you have a desktop computer, you put the sensor between your screen and keyboard. If it’s a laptop, you park it on the desk just in front of the keyboard.
+如果你用的是台式机，请把体感操控器放在屏幕和键盘之间。如果是笔记本，就放在键盘正前方的桌面上。
+You download the Leap software, and presto: a somewhat buggy tutorial instructs you to insert your hands into the space — an invisible two-foot cube — that’s monitored by the Leap’s cameras and infrared sensors.
+下载Leap软件，不那么完美的向导程序马上会教你把双手伸向空中，也就是一片2英尺（约合60厘米）见方的区域，Leap的摄像头和红外传感器可以在此范围内进行感应。
+This device is like the Kinect in that it recognizes body parts in space. But not only is the Leap far smaller and less expensive, it’s also far more precise. According to the company, it can detect the precise positions of all 10 of your fingers simultaneously, with a spatial accuracy to a 100th of a millimeter — 200 times as accurate as the Kinect.
+该设备与Kinect一样，具备体感功能。但是，Leap要小得多、便宜得多，也精准得多。根据Leap Motion公司的介绍，它可以同时捕捉十根手指的准确位置，空间精确度高达0.01毫米，比Kinect精准200倍。
+And remember, the Leap adds gesture recognition not to your TV, but to your computer. A machine that can run millions of different programs for all different purposes. Games, sure, but also office work. Creative work. Communication. Entertainment. Surely this little wonder is a very big deal.
+请记住，Leap的手势识别功能不是附加到电视机上的，而是电脑上。而电脑能运行几百万个功能不一的程序。游戏自然不在话下，还有办公、创意工作、聊天、娱乐等等。这款小巧的神器当然能发挥极大的作用！
+Unfortunately, it’s not. The Leap’s hardware may be simple, attractive and coherent — but its software is scattershot, inconsistent and frustrating.
+不幸的是，事实并非如此。尽管Leap的硬件简约、迷人又协调，但其软件粗糙、没条理又恼人。
+The first crushing disappointment is that no software recognizes your hand motions unless it’s been specially written, or adapted, for use by the Leap.
+第一个让人崩溃的遗憾之处在于，除了为Leap度身定制或改写的软件，其他软件都不能识别你的手势。
+There are 75 such apps already on the Leap’s app store, Airspace; some are free, some cost a few dollars. Not all work on both Mac and Windows.
+Leap的应用商店Airspace里已有75个此类应用，部分免费，部分要花上几美元。不是全部都能兼容Mac和Windows系统。
+Most are games. In the best of them, you control the action in 3-D space, just as with the Kinect but without having to stand up. For example, Boom Ball ($5) is the classic Breakout game, where you try to knock out bricks by bouncing a ball against them — but your paddle is attached to your finger in vertical space.
+其中多数是游戏。最好的那些，你可以在三维空间里进行行为操控，与Kinect一样，只不过毋需站立。比方说，经典打砖块游戏“弹球”（Boom Ball，售价5美元），也就是通过弹球来打掉砖块，只不过你在空中上下移动手指来操控弹球的垫板。
+There are some interesting music-making programs, which makes sense, since hand motions are generally associated with playing instruments. Air Harp ($1) is just what it sounds like. Chordion Conductor is a sweet-sounding arpeggiator (generates music from chords you select).
+还有一些有趣的音乐制作程序。这很合理，因为手部动作往往与玩乐器联系在一起。“空中竖琴”（Air Harp，1美元），名字就说明了一切。“和弦指挥”(Chordion Conductor)是一款声音甜美的琶音器，能从你挑选的和弦中产生乐曲。
+A few simple educational apps are available, like Molecules (rotate molecules on the screen; free), Cyber Science 3D (pull apart a skull; free) and Frog Dissection (you guessed it; $4).
+另有几款教育应用，比如“分子”（Molecules，免费）能在频幕上旋转分子，“3D虚拟科学”（Cyber Science 3D，免费）能拆解颅骨，至于“解剖青蛙”（Frog Dissection，4美元）嘛，大家猜对了，能解剖青蛙。
+There are some stunningly obvious problems with all of this. First, the motions aren’t consistent from game to game. In some apps, “clicking the mouse” involves jabbing toward something on the screen; in others, you have to point to the object and remain perfectly still while a cursor “fills up.” As on the Kinect, that waiting period is presumably to avoid accidental selections. But keeping your finger absolutely motionless in space is darn hard.
+但是，所有东西都有一些极其明显的毛病。首先，每种游戏的操控动作不统一。在某些应用里，“点击鼠标”只须朝屏幕某处猛戳，而在另外一些应用里，则要点住某物一动不动，直到光标“填满”。与Kinect一样，这之间的等待时间大概是为了避免误操作。但是，保持手指在空中纹丝不动太困难了，好吗？
+In some apps, you go back to the previous screen with a quick finger-swipe to the left. In others, you waggle your hand horizontally. There’s just no rhyme or reason. Learning the gestures in one app gives you zero applicable skills for the next one.
+在某些应用中，手指快速向左滑动，就可以回到前一个画面。在另外一些应用中，你则需要水平摆动手掌。这种设计真是毫无道理。在一个应用中学到的手势，到另一个应用中就完全用不上了。
+The finger-tracking itself works inconsistently, too. In some apps, the computer seems to know precisely where your fingers are; in others, you feel ignored or misunderstood. The result is mushy frustration, like trying to play the guitar wearing boxing gloves.
+手指追踪功能本身也不一致。在某些应用中，电脑似乎能精确地判断出你的手指在哪里，在另外一些应用中，它好像就会无视你，或是出现判断失误。结果就极其令人沮丧，好像是戴着拳击手套弹吉他。
+The second huge problem: Half these apps would work much better with mouse and keyboard, or at least a touch screen. 
+第二个大问题：如果使用鼠标和键盘，或者至少是使用触摸屏，有一半的应用效果会更好。
+The New York Times app lets you swipe through articles, select one to read and scroll through it with a finger-twirl. With all due honor to my employment-bestowing overlords, how is any of that an improvement over clicking with the mouse?
+在使用《纽约时报》应用时，你可以挥手在文章间切换，选择其中一篇来阅读，并转动手指，让页面上下滚动。我无意冒犯赐予我工作的诸位雇主，但跟用鼠标点击相比，这算得上哪门子改进？
+(Word of advice to potential app writers: If your app involves only two-dimensional movements, of the sort you’d make with a mouse, then the Leap adds nothing to it. Rethink your plan. Find something that requires 3-D control — that’s what the Leap is good for.)
+（给那些想开发Leap应用的人提个建议：如果你的应用只涉及两维运动，就是你用鼠标就能实现的那种运动，那么用Leap没有任何助益。重新考虑一下你的计划吧。看看有什么是需要用到3D操控的，那才是Leap的擅长之处。）
+The third huge problem has to do with the app Touchless. It’s the one app that goes beyond gimmicky demoware and games, the one that comes closest to the promise of “Minority Report.” It’s an app that lets you operate the cursor and scroll windows right in your operating system (OS X or Windows).
+第三个大问题跟应用Touchless有关。这个应用超越了花哨的演示软件或游戏的水平，跟《少数派报告》中展示的科技水准是最为接近的。它可以让你直接在操作系统（OS X或Windows）中操作光标，滚动窗口。
+The thing is, when your finger is up in the air, how is the software supposed to know when you’ve “clicked” something? There’s no glass to tap, as on a touch screen, and no button to click, as on a mouse.
+问题是，当你的手指伸在空中时，软件怎样才知道你何时“点击”了什么呢？这里没有像触摸屏那样的玻璃，也没有像鼠标那样的按钮来让你进行点击操作。
+Leap’s solution: there’s an arbitrary invisible wall in space over the sensor. You can’t see it, you can’t feel it — but when your finger crosses that line, you’ve just clicked. Painting programs like Corel Painter Freestyle (free) require the same technique.
+Leap的解决方案是：在传感器上方的空间形成一面随意的、无形的墙。你看不到它，也感觉不到它，但是当你的手指越过那条线时，就相当于进行了点击。像“科亿尔自由绘画”（Corel Painter Freestyle，免费）这样的绘图程序就需要同样的技巧。
+As you’d guess, this method is a disaster: fussy, frustrating, imprecise. The motion gesture you’ll probably use at this point is throwing the stupid thing out the window.
+正如你已经猜到的，这个方法的效果非常糟糕：它对动作很挑剔，令人沮丧，而且不精确。此时，你想做的手势可能就是把这蠢东西扔到窗外去。
+In short, the Leap Motion Controller is a solution in search of a problem. It desperately needs a killer app, some program that couldn’t exist without the Leap’s special talents: tracking the three-dimensional motions of 10 individual fingertips with incredible precision.
+总之，Leap体感操控器是一个正在寻找问题的解决方案。它迫切需要一个“杀手级”应用，一些如果没有Leap的特殊功能（以令人难以置信的精确度跟踪10个指尖的三维运动）就不可能存在的程序。
+Most apps don’t even avail themselves of that 10-finger tracking feature. Most detect only a single finger or hand. Of the 30 apps I tested, not even one lets you handle and manipulate on-screen 3-D objects with your fingers.
+绝大部分应用根本用不到那10个手指跟踪的功能。它们大多数都只会用到一根手指或整个手掌而已。我测试过的30个应用中，没有一个支持你用手指操控屏幕上的3D对象。
+It’s very exciting that the Leap controller has attained excellent hardware design, high precision, excellent speed and low price — today. Unfortunately, the software that will justify its existence still lies in the future.
+Leap操控器目前的硬件设计已经很出色，而且精度高、速度快、价格低廉，这真的很令人振奋。可惜的是，至今还没有软件可以证明它存在的意义，只有留待未来了。

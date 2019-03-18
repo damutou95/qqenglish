@@ -1,0 +1,40 @@
+When a hospital patient goes into cardiac arrest, one of the most difficult questions facing the medical team is how long to continue cardiopulmonary resuscitation. Now a new study involving hundreds of hospitals suggests that often doctors may be giving up too soon.
+当一名住院患者的心脏骤停时，医疗团队面临的最棘手难题之一是，应该给患者实施多长时间的心肺复苏术（cardiopulmonary resuscitation，简称CPR）。现在，一项涉及数百家医院的新研究似乎表明，医生们可能经常过早放弃了抢救。
+The study found that patients have a better chance of surviving in hospitals that persist with CPR for just nine minutes longer, on average, than hospitals where efforts are halted earlier.
+该研究发现，在那些实施CPR的时间平均比更早停止抢救的医院长9分钟的医院，患者存活的机会更大。
+There are no clear, evidence-based guidelines for how long to continue CPR efforts.
+对于CPR抢救应该持续多长时间，目前并没有明确的、基于证据的指引。
+The findings challenge conventional medical thinking, which holds that prolonged resuscitation for hospitalized patients is usually futile and that when patients do survive, they often suffer permanent neurological damage. To the contrary, the researchers found that patients who survived prolonged CPR and left the hospital fared as well as those who were quickly resuscitated.
+这项发现挑战了传统的医学观念，即对住院患者实施长时间的心肺复苏术通常没有意义，即使患者得以生还，他们也往往会遭受永久性的神经损伤。研究人员发现，实际情况与此相反，经过长时间CPR抢救后复苏并出院的患者，和那些快速复苏的患者一样健康。
+The study, published online Tuesday in The Lancet, is one of the largest of its kind and one of the first to link duration of CPR efforts with survival rates. It should prompt hospitals to review their practices and to consider changes if their resuscitation efforts fall short, several experts said.
+这项研究于本周二发表在《柳叶刀》(The Lancet)杂志的网站上，其规模在同类研究中名列前茅，也是把CPR抢救时间与患者存活率联系起来的首批研究之一。数名专家表示，它应当促使医院审查各自的抢救程序，并在抢救时间偏短的情况下考虑做出改变。
+Between one and five of every 1,000 hospitalized patients suffer a cardiac arrest. Generally they are older and sicker than non-hospital patients who suffer cardiac arrest, and their outcomes are generally poor, with fewer than 20 percent surviving to be discharged from the hospital.
+每1000名住院患者中，就有一到五名会遭遇心脏骤停。通常而言，这些患者比没住院的心脏骤停患者年纪更大、也更体弱。他们的结局一般不佳，只有不到20%能够复苏并出院。
+Dr. Zachary D. Goldberger, lead author of the new study, and his colleagues gathered data from the world’s largest registry of in-hospital cardiac arrest, maintained by the American Heart Association, identifying 64,339 patients who went into cardiac arrest at 435 hospitals in the United States between 2000 and 2008.
+这项新研究的首席作者是扎卡里·D·戈德伯格(Zachary D. Goldberger)医生。他和同事们从美国心脏协会(American Heart Association)保持的全球最大住院患者心脏骤停病例数据库收集数据，从中辨别出逾6.4万名在2000年到2008年期间在美国435家医院发生心脏骤停的患者。
+The researchers examined adult hospital patients in regular beds or intensive care units, excluding patients in the emergency room or who suffered arrest during procedures. They calculated the median duration of resuscitation efforts for the non-survivors rather than the survivors, in order to measure a hospital’s tendency to engage in more prolonged resuscitation efforts.
+研究人员查看了住在普通病房和重症监护室的成年住院患者，并剔除了在急诊室或手术中遭遇心脏骤停的患者。他们计算了死亡患者（而非幸存患者）接受心肺复苏抢救时间的中值，目的是衡量相关医院实施更长时间CPR抢救的倾向性。
+One of the first surprises was the significant variation in duration of CPR among the hospitals, ranging from a median of 16 minutes in hospitals spending the least amount of time trying to revive patients to a median of 25 minutes among those spending the most — a difference of more than 50 percent.
+医院实施CPR的时间长短差异之大，是首批意外发现之一。在抢救患者持续时间最短的医院，这个中值是16分钟，而持续时间最长的医院的中值是25分钟——差异高达50%。
+The researchers initially thought they would find that some patients were being subjected to protracted resuscitation efforts in vain, said the senior author, Dr. Brahmajee Nallamothu, an associate professor at the University of Michigan and a cardiologist at the Ann Arbor VA Medical Center.
+该研究的资深作者布拉马基·纳拉莫苏(Brahmajee Nallamothu)医生表示，研究人员最初以为，他们将发现一些患者被无意义地实施长时间的心肺复苏术。纳拉莫苏是密歇根大学(University of Michigan)副教授，弗吉尼亚安娜堡医学中心(Ann Arbor VA Medical Center)心脏病专家。
+But as it turned out, those extra minutes made a positive difference. Patients in hospitals with the longest CPR efforts were 12 percent more likely to survive and go home from the hospital than those with the shortest times.
+但研究结果显示，那几分钟的延长抢救产生了积极的效果。CPR抢救时间最长的医院的患者存活和出院的几率，比抢救时间最短的医院的患者高出12%。 
+Dr. Nallamothu and his colleagues also found that “survivors at hospitals where attempts continued for longer didn’t seem to have more neurological difficulties at the time of discharge,” he said.
+纳拉莫苏医生说，他和他的同事还发现，“在医院接受更长时间CPR抢救的幸存者在出院时，似乎并没有更严重的神经功能问题。”
+The patients who got the most added benefit from prolonged CPR were those whose conditions do not respond to defibrillation, or being shocked The extra time spent on prolonged CPR may give doctors time to analyze the situation and try different interventions, they said.
+长时间CPR抢救的最大受益者是那些对心脏除颤或电击没有反应的患者。研究人员表示，延长CPR抢救时间，可能让医生有时间分析患者情况，尝试不同的干预方案。
+“You can keep circulating blood and oxygen using CPR for sometimes well over 30 minutes and still end up with patients who survive and, importantly, have good neurological survival,” said Dr. Jerry P. Nolan, a consultant in anesthesia and critical care medicine at Royal United Hospital NHS Trust in Bath, England, who wrote a commentary accompanying the article.
+“有时，你可以利用远远超过30多分钟的CPR抢救，持续给患者输氧和保持血液循环，患者最终还是有可能生存，而且更重要的是，他们的神经功能完好，”位于英格兰巴斯、隶属英国国民医疗保健服务(NHS)体系的皇家联合医院(Royal United Hospital)的麻醉及危重病医学顾问医师杰里·P·诺兰(Jerry P. Nolan)医生说道，他为这篇论文写了评语。
+Dr. Stephen J. Green, associate chair of cardiology at North Shore-Long Island Jewish Health System, who was not involved in the study, said hospitals might have to modify their practices in light of the new research.
+北岸—长岛犹太裔卫生系统(North Shore-Long Island Jewish Health System)心脏病学副主任、未参加这项研究的斯蒂芬·J·格林(Stephen J. Green)医生表示，根据这项新研究，医院可能必须修订各自的程序。
+“You don’t want to be on the low end of this curve,” Dr. Green said. “Hospitals that are outliers should reassess what they’re doing and think about extending the duration of their CPR.”
+“你不想处于这条曲线的底端，”格林医生说，“目前抢救时间偏短的医院应该重新评估他们的程序，考虑延长实施CPR的时间。”
+Still, he and other experts worried that the new findings could lead to protracted efforts to resuscitate patients for whom it is inappropriate because they are at the end of their lives or for other reasons.
+但话说回来，格林医生和其他专家担忧，新发现可能导致医院对某些因生命即将终结或其他原因而不适合的患者实施长时间抢救。
+“There isn’t going to be a magic number,” Dr. Green said. “If you’re in there 10 to 15 minutes, you need to push higher, but as you get up higher and higher, you get to the point of very little return.”
+“不会出现一个神奇数字，”格林医生说。“如果你目前的抢救时间是10到15分钟，那么你需要延长时间，但是当你延长到一定程度时，你就会达到产生不了什么回报的水平了。”
+The study authors acknowledge that their research does not indicate that longer CPR is better for every patient.
+研究作者承认，他们的研究并未显示，延长CPR抢救对每一位患者都有益。
+“The last thing we want is for the take-home message to be that everyone should have a long resuscitation,” Dr. Goldberger said. “We’re not able to identify an optimal duration for all patients in the hospital.”
+“我们最不愿意看到的结论是，每个人都该得到长时间的复苏抢救，”戈德伯格说，“我们无法针对所有住院患者确定一个最优的抢救时间。”

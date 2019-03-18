@@ -1,0 +1,42 @@
+HONG KONG — The metronome-like pings that may signal the flight data recorders from Malaysia Airlines Flight 370 emanate from the stygian depths in the eastern Indian Ocean, 2.8 miles below the waves, where the water pressure is more than three tons per square inch. The bottom is a quarter-mile deeper than even the sandy plain near the Mid-Atlantic Ridge where the black boxes of Air France Flight 447 were found off the coast of Brazil nearly three years ago.
+香港——像节拍器一样的脉冲信号显示，马航370航班的飞行数据记录器可能位于印度洋东部海面下2.8英里（约4.5千米）处的阴暗深处，那里的水压超过每平方英寸三吨。其底部甚至比大西洋中脊附近的一处砂质平原还深四分之一英里；将近三年前，法航447航班的黑匣子就是在巴西海岸外的那处砂质平原发现的。
+These are just some of the formidable obstacles that remain in finding and recovering whatever is left of the Boeing 777 that vanished a month ago with its 239 passengers and crew.
+这只是寻找和搜集370残骸所面临的巨大障碍中的一部分。这架波音777于一个月前失去联系，机上搭载着239名乘客和机组人员。
+While an Australian official described the pings as the “most promising lead” in the search for the plane so far, experts described the task ahead as monumental.
+虽然一名澳大利亚官员称这些ping信号是370航班搜索工作中迄今为止“最有希望的线索”，但专家们说接下来的任务仍十分艰巨。
+There is no confirmation that the signals are coming from a submerged black box, and little time left before the boxes no longer have battery power to emit the pings. Even if the signals lead to the boxes, the search for wreckage at the bottom of the ocean could take weeks or months, and only then could the mystery of what happened to the plane begin to be unraveled.
+目前还不能确定信号是从水下的一个黑匣子发出的，而且370航班黑匣子的电池所剩电量不多，继续发出信号的时间相当有限。即使这些信号来自370的黑匣子，在海洋的底部寻找残骸可能也需要数周或数月时间，到那时，这架飞机究竟发生了什么事的谜团才会开始逐渐揭开。
+An American remote-controlled submersible sonar device will be lowered as soon as Tuesday to scout for wreckage if a towed “pinger” locator can obtain a reliable position for their source. If sonar identifies possible wreckage, the submersible will be pulled up, refitted with a camera for close-up images and sent back down, Australian officials said.
+如果拖曳式的脉冲信号来源探测器可以找到黑匣子的可靠位置，美国的一个遥控水下声纳仪最早将于本周二放入水下，搜寻飞机的残骸。澳大利亚官员说，如果声纳仪识别出疑似残骸物，潜水器就会被拉上去，重新装上一个拍摄特写影像的摄像机，之后被送回深海。
+But the estimated depth, nearly 15,000 feet, is already at the very limit of the submersible’s certified range. “We’re right on the edge of capability, and we might be limited by the capability if, for example, the aircraft ended up in deeper water,” said Angus Houston, the retired air chief marshal who used to run Australia’s armed forces and is now overseeing the search.
+但是该位置估计约有1.5万英尺深，已经是潜水器标称作业深度的极限。“那恰恰是我们潜水深度的极限，如果370在水下更深的位置或者出现其他一些情况，我们就可能受到设备性能的束缚，”退役空军上将安格斯·休斯顿(Angus Houston)说。他曾经是澳大利亚国防军负责人，目前在主持370的搜索工作。
+The towed pinger locator, essentially a powerful set of microphones towed through the depths at the end of several miles of cable, is operating in the undersea equivalent of an echo canyon. Differences in water pressure, salinity and temperature can send noises ricocheting in unpredictable ways, unlike the fairly straight lines along which sounds are usually transmitted in the air.
+拖曳式ping信号来源探测器实际上是一套功能强大的麦克风，用一根几英里长的电缆拖曳着穿过海水深处，在相当于是海面下的“回声峡谷”里工作。水压、盐度和温度的差异可能会导致声音以无法预测的方式反弹，与声音在空气中通常沿着直线传播的方式不一样。
+“That has the effect of attenuating, bending — sometimes through 90 degrees — sound waves,” said Commodore Peter Leavy of the Royal Australian Navy, who is helping to lead the search.
+“它会引发衰减，也会导致声波弯曲——有时会弯曲90度，”澳大利亚皇家海军准将彼得·利维(Peter Leavy)说，他正在协助领导370的搜索工作。
+Despite that complexity, search officials were more optimistic on Monday than they had been in weeks. The operators of the towed locator, aboard the Ocean Shield, an Australian vessel, heard a steady pinging for 2 hours and 20 minutes during a pass on Sunday afternoon.
+尽管问题如此复杂，负责搜索行动的官员们本周一还是比过去几周更加乐观了一些。周日下午，操作拖曳式探测器的澳大利亚船只“海盾号”(Ocean Shield)在一段航程中听到了一个稳定的ping信号，长约2小时20分钟。
+After turning around, the team heard pings again for an additional 13 minutes, and from two different locations, which would be consistent with the two black boxes that the missing plane was carrying. Turning around the pinger locator is a laborious process requiring several hours because the locator must be reeled in before the ship can perform a U-turn and then lower the device once more into the depths.
+调头航行之后，海盾号又听到了13分钟ping信号，而且来自两个不同的位置，这与失联飞机上有两个黑盒子的情况相吻合。让ping信号来源探测器调头非常吃力，需要花上几个小时，因为必须先收回探测器，然后船只才能进行180度的大转弯，之后再把探测器沉入海水深处。
+The refraction of undersea noises can complicate what is an otherwise straightforward process. The towed pinger locator can identify the compass bearing from which a sound is coming. As the locator is towed, the direction to an acoustic source gradually changes.
+水下噪音的折射可能会使一个原本简单的过程变得复杂。拖曳式ping信号来源探测器可以识别声音发出位置的罗盘方位。当探测器被拖曳着移动时，一个声源的方向会逐渐改变。
+The device’s operators then calculate a series of straight lines on a map, using the location of the locator when it heard each sound and the angle at which the sound arrived. “Where they cross and make an X, if you get enough of them, then you should be pretty certain of your fix,” said Cmdr. William J. Marks, a spokesman for the United States Navy’s Seventh Fleet.
+而后，设备的操作人员根据听到每一个声音时定位仪所在的位置，以及声音达至定位仪的角度，在地图上计算出一系列直线。“当这些直线相交时，如果相交的次数足够多，你就能得到一个相当有把握的定位，”美国海军第七舰队的一位发言人威廉·J·马克斯中校(Cmdr. William J. Marks)说。
+But the team on the Ocean Shield was unable to relocate the pings during an initial pass through the same area on Monday. Searchers were hoping to re-establish contact because the sonar submersible, known as a Bluefin-21, has an even shorter horizontal range than the towed pinger locator.
+但是周一海洋盾初次经过该区域时，船上的搜索组没能重新定位到信号。搜索人员希望能重新建立通讯，因为名为蓝鳍-21(Bluefin-21)的水下声纳仪的水平量程比拖拽声波定位仪还要短。
+“Let’s say we don’t reacquire the signal, and we don’t get a good fix on where the black box is,” Commander Marks said. “It will be extraordinarily difficult to use the Bluefin in a location where we’re really not certain.”
+“假设我们无法重新获取信号，无法得到黑匣子的一个理想定位，”马克斯说，“那么，在一个我们不是很确定的位置使用蓝鳍将是极为困难的。”
+Time is not on the searchers’ side. The batteries in the black boxes were designed to last 30 days, and 31 days have elapsed since the plane vanished. The pings are not likely to stop all at once, experts say, but fade to a whisper and then nothing.
+时间对搜索人员也不利。按照设计，黑匣子上的电池能维持30天，从飞机消失到现在已经31天过去了。专家说这些信号不会一下子都消失，而是会渐渐减弱，直到完全听不见。
+Yet there were signs that the black box signals were still going strong at least on Sunday. The towed pinger locator initially detected a signal when it was only 1,000 feet deep, the Seventh Fleet said in a statement, adding that it was unusual for the signal from a black box on a deep ocean floor to reach such shallow waters.
+然而有迹象表明，黑匣子的信号直到上周日仍然很强劲。第七舰队在一份声明中说，拖拽声波定位仪最初仅在1000英尺深的地方就探测到一个信号，并表示一个在深海海底的黑匣子，发出的信号能到达这么浅的地方是不寻常的。
+One of the biggest surprises in the announcement of the pings Monday afternoon was that the towed locator seemed to have found anything at all. When the initial acoustic contacts were made on Sunday, it was only the third day that the device had been used in the search of the Indian Ocean.
+在周一下午关于信号的声明中，最大的惊喜之一就是拖拽定位仪居然能有收获。自从上周日收获最初的声音信号，本次印度洋搜索启用这种设备才三天。
+Australia’s Joint Agency Coordination Center, which is organizing the search, said on Monday morning that the effort covered an area of 234,000 square kilometers, or about 90,000 square miles.
+负责组织工作的澳大利亚联合机构协调中心(Joint Agency Coordination Center)在周一上午说，本次搜索行动已经覆盖了一片面积23.4万平方公里的区域。
+By contrast, the towed pinger locator moves at no more than 3 knots, or 3.5 miles per hour, and covers a two-mile-wide swath as it does so, for just seven square miles in an hour.
+与之形成鲜明对比的是，拖拽定位仪的移动速度最多只有3节，约合每小时5.6公里，移动时覆盖宽度为两英里，每小时只能探测七平方英里的面积。
+The shallowness of the initial contact by the pinger locator raised at least the possibility that the Ocean Shield’s captain had more information about the possible location of the aircraft than has been publicly disclosed.
+考虑到定位仪最初在那么浅的地方收获到信号，对于飞机的可能位置，也许海洋盾的船长所掌握的信息不仅限于已公开的这些。
+Britain has said that it has dispatched a nuclear submarine to help in the search. The United States has a policy of not disclosing the locations of its submarines. The United States Navy does not disclose the maximum operating depth for its attack submarines and ballistic missile submarines, as opposed to deep-sea research submarines, but says on its website that they can dive to at least 800 feet.
+英国表示已经派出一艘核潜艇协助搜索。美国在原则上不会公布潜艇的位置。和深海研究潜艇不同，美国海军没有公开其攻击型潜艇和弹道导弹潜艇的最大下潜深度，但其网站上称这些潜艇可以下潜至少800英尺。

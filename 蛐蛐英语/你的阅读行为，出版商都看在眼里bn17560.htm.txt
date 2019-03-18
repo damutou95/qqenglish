@@ -1,0 +1,40 @@
+Andrew Rhomberg wants to be the Billy Beane of the book world.
+安德鲁·隆伯格（Andrew Rhomberg）想要成为图书界的比利·比恩（Billy Beane，曾任美国职棒大联盟奥克兰运动家球队的总经理，利用棒球统计学的数据作为决策依据，带领运动家队以少许经费立足于美国职棒大联盟——译注）。
+Mr. Beane used analytics to transform baseball, famously recounted in “Moneyball,” a book by Michael Lewis. Now Mr. Rhomberg wants to use data about people’s reading habits to radically reshape how publishers acquire, edit and market books.
+迈克尔·路易斯（Michael Lewis）在著名的《魔球——逆境中致胜的智慧》(Moneyball)一书（比利·比恩传记，后被改编成电影《点球成金》——译注）中，讲述了比恩先生用统计分析给棒球界带来巨大变革的故事。而今，隆伯格先生则想通过对读者阅读习惯的数据分析来从根本上改变出版界对书籍的版权购买、编辑审核及市场营销。
+“We still know almost nothing about readers, especially in trade publishing,” said Mr. Rhomberg, the founder of Jellybooks, a reader analytics company based in London.
+隆伯格先生是英国读者数据分析公司Jellybooks的创始人。他表示：“迄今为止，在出版界，尤其是大众图书方面，我们对读者的阅读习惯几乎一无所知。”
+While e-books retailers like Amazon, Apple and Barnes & Noble can collect troves of data on their customers’ reading behavior, publishers and writers are still in the dark about what actually happens when readers pick up a book. Do most people devour it in a single sitting, or do half of readers give up after Chapter 2? Are women over 50 more likely to finish the book than young men? Which passages do they highlight, and which do they skip?
+亚马逊(Amazon)、苹果(Apple)、巴诺(Barnes & Noble)这些电子书营销商对顾客的阅读习惯可以收集到大量的宝贵数据，但是出版商和作者们对读者的阅读行为却不甚了了。拿起一本书后，多数人是否会把它一口气读完？还是会到第二章就看不下去了？是否50岁以上的女读者比年轻的男士更有可能读完这本书？哪些段落对他们来说是亮点？哪些段落他们会直接跳过去？
+Mr. Rhomberg’s company is offering publishers the tantalizing prospect of peering over readers’ shoulders. Jellybooks tracks reading behavior the same way Netflix knows what shows you binge-watch and Spotify knows what songs you skip.
+隆伯格先生的公司提供了一个诱人的前景，让出版商仿佛能够站在读者身后，探查他们的阅读行为。Jellybooks对阅读行为的追踪，无异于Netflix对顾客会一口气连续观看哪些电视剧的监测，或者Spotify对哪些歌曲会被听众跳过的分析。
+Here is how it works: the company gives free e-books to a group of readers, often before publication. Rather than asking readers to write a review, it tells them to click on a link embedded in the e-book that will upload all the information that the device has recorded. The information shows Jellybooks when people read and for how long, how far they get in a book and how quickly they read, among other details. It resembles how Amazon and Apple, by looking at data stored in e-reading devices and apps, can see how often books are opened and how far into a book readers get.
+他们公司的做法是：为一些读者提供电子书，这些书不但免费，并且通常会在该书正式出版之前提供。参与的读者不用撰写评论，而只需点击电子书中的一个链接，就能上传电子设备记录下来的信息。Jellybooks获得的信息包括，人们在什么时候读书，阅读时间有多长，一本书会读完多少，读得多快等各种详细资料。这就像是亚马逊和苹果通过研究存储于电子阅读设备和应用程序中的数据，可以了解到图书被读者阅读的频率，以及一本书读者愿意读到多少页。
+Jellybooks has run tests on nearly 200 books for seven publishers, one major American publisher, three British publishers and three German houses. Most of the publishers did not want to be identified, to avoid alarming their authors. The company typically gathers reading data from groups of 200 to 600 readers.
+Jellybooks目前已经测试了近200本书。它的客户为七家出版商，包括一家美国主要出版商，三家英国出版商和三家德国出版商。这些出版商大多不希望别人知道他们在做这些测试，害怕会引起作者的担忧。Jellybooks每次阅读数据采集通常包括200到600位读者。
+Mr. Rhomberg recently gave a workshop at Digital Book World, a publishing conference in New York, and some of his findings confirmed the worst fears of publishers and authors.
+隆伯格先生最近在纽约出版商大会“电子书世界”上开了一个研讨班。  他的一些研究结果证实了出版商和作者们最担心的事情。
+On average, fewer than half of the books tested were finished by a majority of readers. Most readers typically give up on a book in the early chapters. Women tend to quit after 50 to 100 pages, men after 30 to 50. Only 5 percent of the books Jellybooks tested were completed by more than 75 percent of readers. Sixty percent of books fell into a range where 25 percent to 50 percent of test readers finished them. Business books have surprisingly low completion rates.
+在参加测试的书中，平均只有不到一半会被多数人看完。大多数读者看不了几章就会停止阅读某书。女性读者往往会在50-100页间停下，而男性读者则在30-50页就会停止。在Jellybooks测试的书中，只有5%的书被超过75%的受测读者读完。而大约有六成书，读完的比例仅为25%-50%。商业书籍读完的比例更是低得惊人。
+How Will Publishers Use the Data?
+出版商如何使用这些数据
+For the most part, the publishers who are working with Jellybooks are not using the data to radically reshape books to make them more enticing, though they might do that eventually. But some are using the findings to shape their marketing plans. For example, one European publisher reduced its marketing budget for a book it had paid a lot of money to acquire after learning that 90 percent of readers gave up after only five chapters. A German publisher decided to increase advertising and marketing on a debut crime novel after data showed that nearly 70 percent of readers finished it.
+总体来说，与Jellybooks合作的出版商目前尚未使用这些数据来从根本上改变书籍的创作，以使它们更吸引人。当然，不排除将来他们可能会这么做。但是，现在已经有些出版商在使用这些结果帮助营销策划。例如，一个欧洲出版商在一本书的版权上花了不少钱，后来得知90%的读者都只读了五章就放弃了，于是他们消减了这本书的营销预算。另外，一个德国出版商对一本首发的犯罪小说做了测试。数据显示，近70%的读者读完了该书，于是他们决定增加该书的广告和营销力度。
+Publishers might also use the data to learn what type of reader a book appeals to, and market it accordingly. One of the novels that Jellybooks tested was written for teenagers but proved surprisingly popular with adults.
+利用这些数据，出版商也可能了解何种类型的读者会被某一本书吸引，并以此为据进行市场营销。Jellybooks测试的另一本书原本是面向青少年的，但测试证明小说在成人读者群中也大受欢迎。
+Why This Is Scary for Authors
+这对作者有什么影响？
+Authors are understandably nervous about how new insights into reading behavior might shape publishers’ editorial decisions. Suppose you are writing a crime series, and readers gave up halfway through the latest installment. Publishers might not want to buy the next one. Or what if readers skip around in your nonfiction book, a common way to read nonfiction? An editor might want to cut the chapters people are skipping, potentially erasing useful context.
+不难理解，对阅读行为的了解会影响出版商的编审决策，这会让作家们感到紧张。假设你在创作一套犯罪系列小说，最新推出的一本书有些读者没看到一半就放弃了，那出版商就可能不再购买你的下一本书。或者，假设你写了一本非虚构类书籍，如果有些读者在阅读时会跳过一些章节，这在非虚构类书籍里相当常见，但是编辑知道以后，却有可能想把那些章节删减掉，而结果就会失去一些有用的内容。
+And, of course, people who sign up for a free e-book service might not represent the kinds of readers who would seek and pay for a crime novel, or a nonfiction book on a subject that interests them. The sample sizes are relatively small. So the reader data might not represent the reactions of a general audience.
+当然，注册免费电子书服务的人或许并不能代表那些会寻找、购买某本犯罪小说，或是某本主题是他们感兴趣的非虚构类图书的读者。样本规模比较小。所以，读者数据或许无法体现一般读者的反应。
+Why This Might Be Troubling for Readers
+对读者来说有什么问题？
+Jellybooks users consent to having their data tracked in exchange for free books, and must click on a link to send that data to Jellybooks. “It’s absolutely critical to have the user in control, or we face a backlash,” Mr. Rhomberg said at the conference.
+Jellybooks的读者用户同意让他们跟踪采集自己的数据，以此来交换免费阅读的图书。他们需要点击一个链接，才能将数据发送到Jellybooks。“所有的数据收集必须完全由读者自己掌控，这一点至关重要，否则我们会面临读者的不满，”隆伯格先生在研讨会上说。
+But as the book industry gets more sophisticated about how to measure reading behavior and the practice becomes more widespread, real privacy concerns could emerge. Some big academic publishers already track how students read their e-books, and some e-book subscription services have developed the capacity to measure reader engagement. Regular e-book readers might not realize that digital retailers are recording and storing the data. A few years ago, California instituted the “reader privacy act,” which made it harder for law enforcement agencies to collect information on consumers’ digital reading records from e-book retailers. But most other states have not taken such steps.
+但是，随着图书业对阅读行为的测量日益复杂化，以及这一技巧越来越广泛的使用，真正的隐私问题在不久的将来必然浮现。一些大型学术出版商已经开始追踪了解学生阅读电子书的方式，一些电子书订阅服务商也已经开发出了读者参与度的测量能力。普通的电子书读者可能不会意识到数字化零售商正在记录和存储有关他们的数据。几年前，加利福尼亚州制定了“读者隐私法”，这使得执法机构更难从电子书商那里获取消费者的电子阅读记录。但是，大多数其他州都没有采取这样的措施。
+But Having Companies Reading Over Your Shoulder Is Probably Inevitable
+公司收集你的阅读数据不可避免
+Analytics are transforming every corner of the media world. Digital publishing cannot be far behind in measuring consumer behavior. As Mr. Rhomberg put it bluntly at Digital Book World, sales figures are not enough to gauge a book’s success. “Ask yourself,” he said to the audience. “Are you in the business of selling paper?”
+数据分析在媒体世界的每一个角落都在带来深刻的变革。数字出版业在消费行为测量方面的变革也指日可待。隆伯格先生在“电子书世界”研讨会上直接了当地说，单纯的销售数字已经不足以用来判断一本书的成功。“可以问问你自己，”他对听众说，“你的业务难道仅仅是卖纸吗？”

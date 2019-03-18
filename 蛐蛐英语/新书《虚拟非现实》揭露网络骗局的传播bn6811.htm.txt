@@ -1,0 +1,30 @@
+Charles Seife is a pop historian who writes about mathematics and science, but his abiding theme, the topic that makes his heart leap like one of Jules Feiffer’s dancers in the springtime, is human credulity.
+查尔斯·赛弗(Charles Seife)是一名通俗历史学家，写的内容都跟数学和科学有关，但他不变的主题还是人类的轻信，这个题材能让他的心像春日里吉尔斯·菲勒（Jules Feiffer，著名的漫画家——译注）画笔下的舞者一样欢快地跳跃。
+In “Sun in a Bottle” (2008), he observed the scientists who chased low-temperature fusion down the rabbit hole. In “Proofiness: The Dark Arts of Mathematical Deception” (2010), he delivered his thesis in his first sentence: “If you want to get people to believe something really, really stupid, just stick a number on it.”
+在2008年的《瓶中的太阳》(Sun in a Bottle)里，他注意到研究低温聚变的科学家们跳进了兔子洞。在2010年的《证明：数学骗局的黑魔法》(Proofiness: The Dark Arts of Mathematical Deception)中，第一句话就亮出了他的论点：“如果你希望人们相信某些事情是真的很愚蠢，那就给它加上个数字吧。”
+Mr. Seife’s new book, “Virtual Unreality,” is about how digital untruths spread like contagion across our laptops and smartphones. The author is unusually qualified to write on this subject, and not merely because his surname is nearly an anagram for “selfie.”
+赛弗的新书《虚拟非现实》(Virtual Unreality)是关于网络上的谎言如何像传染病一样在我们的笔记本电脑和智能手机中传播。这位作者极其胜任这个主题，不仅是因为他的姓和“自拍”(Selfie)有点像。
+A professor of journalism at New York University, Mr. Seife is a battle-scarred veteran of the new info wars. When Wired magazine wanted to investigate the ethical lapses of its contributor Jonah Lehrer, for example, it turned to Mr. Seife, whose report pinned Mr. Lehrer, wriggling, to the plagiarism specimen board.
+赛弗是纽约大学新闻学教授，是新信息战争中身经百战的老兵。比如，《连线》(Wired)杂志想调查撰稿人约拿·莱勒(Jonah Leher)的道德问题时，就想到了赛弗，他的调查把犹自挣扎的莱勒钉在了剽窃的耻辱柱上。
+Mr. Seife has also been targeted, unsuccessfully, by the conservative sting artist James O’Keefe. “O’Keefe and Lehrer”: the title of hell’s own news hour.
+赛弗也曾经成为保守派讽刺艺术家詹姆斯·欧基弗(James O’Keefe)的靶子，不过欧基弗没有成功。《欧基弗与莱勒》(O’Keefe and Lehrer)——简直是地狱版新闻秀的名字。
+In “Virtual Unreality,” Mr. Seife delivers a short but striding tour of the many ways in which digital information is, as he puts it in a relatively rare moment of rhetorical overkill, “the most virulent, most contagious pathogen that humanity has ever encountered.”
+在《虚拟非现实》中，赛弗做了一次简短却跨度很大的旅行，讲述网络信息如何以多种方式成为他所谓的“人类遇到过的最恶毒、最有传染性的病菌”——在这里他少见地使用了极为夸张的修辞。
+Mostly, he has a lighter touch, though every so often, he pounds his ideas so remorselessly that he makes you wonder why we online addicts aren’t all twitching and frothing at the mouth like Gwyneth Paltrow in “Contagion.”
+在大部分内容里，他都没有这么激烈，不过还是不时冷冷地抛出自己的观点，让你不禁会想，我们这些网瘾成性的人为什么没有像《传染病》(Contagion)里的格温妮丝·帕特洛(Gwyneth Paltrow)那样浑身颤抖、口吐白沫呢？
+One of Mr. Seife’s bedrock themes is the Internet’s dismissal, for good and ill, of the concept of authority. On Wikipedia, your Uncle Iggy can edit the page on black holes as easily as Stephen Hawking can. Serious reporting, another form of authority, is withering because it’s so easy to cut and paste facts from other writers, or simply to provide commentary, and then game search engine results so that readers find your material first.
+赛弗的基本观点是，不管好坏，网络拒斥了权威的观念。在维基百科上，你的伊基叔叔可以和斯坦芬·霍金(Stephen Hawking)一样有权编辑关于黑洞的页面。严肃的报道是另一种形式的权威，如今也在衰落，因为你想从其他作者那里复制粘贴事实，或是做点评论，简直太容易了，然后对搜索引擎的结果做些手脚，还能让读者先找到你写的东西。
+This is also cheaper. As Tom Stoppard had a character observe in his play “Night and Day” (1978), “Comment is free, but facts are on expenses.”
+这种做法还更便宜，正如汤姆·斯托帕德在1978年的《日日夜夜》(Night and Day)里的角色所说的，“评论是免费的，但事实要花钱。”
+Mr. Seife worries about how easily fringe ideas find purchase on the Internet, where previously they’d have perished from lack of oxygen. He writes about how the South African government was persuaded by H.I.V.-denialist websites to forgo providing essential antiretroviral drugs to those who were sick. He writes: “Three hundred thousand deaths might be the most extreme consequence of a Google search gone wrong.”
+赛弗担心边缘观点太轻易就能在互联网上找到跟随者，之前它们本来会因为缺乏环境而自生自灭。他提到了南非政府是如何被反HIV携带者网站说服，不再向感染者提供必需的抗逆转录病毒药物。他写道：“30万人因此而死去，恐怕是Google搜索出错所造成的最为极端的后果。”
+Mr. Seife is witty on the many varieties of sock puppetry, the dismal online art of pretending to be, for personal gain, someone other than who you are. One variety of this is to cower under a pseudonym while shivving your enemies. Witness the British historian Orlando Figes, who attacked his rival’s books on Amazon, while writing glowing reviews of his own. He was found out and humiliated, and he agreed to pay damages to some of his victims.
+赛弗对“网络马甲”的各种变化都非常了解——这是一种阴险的网络艺术，为了自身利益而在网上装扮成别人。其中一种就是用假名攻击敌人。比如英国历史学家奥兰多·费格斯(Orlando Figes)在亚马逊网站上攻击竞争对手的书，给自己的书写好评，结果被发现，而因此受辱，并向部分受害者提供赔偿。
+Then there are sock puppeteers who fabricate phony personas to acquire authority or sympathy. It has become so common for bloggers to fabricate young people with terrible diseases, the author notes, that this syndrome now has a name: “virtual factitious disorder” or “Munchausen by Internet.”
+还有一些“马甲”编造出伪装的人格，以此获取权威或同情。赛弗说，博客写手编造年轻人身染重病是很普遍的现象，以至于这种事现在有个专门的名字“虚拟伪造疾病”，或“网络明希豪森征”。
+Mr. Seife sums up how these stories tend to go: “Create a sock puppet or two, give it a tragic problem that will garner sympathy, and then commit ‘pseuicide.’ It’s almost guaranteed to cause a big stir.”
+赛弗归纳了一下，这些故事大致是这样的：“创造一两个马甲，给它赋予一个悲剧性的问题，以便博取同情，然后再假装要自杀。这样几乎肯定能造成大轰动。”
+Mr. Seife also dilates here upon scam artists, photo manipulators, flash trading on the stock market, the promulgation of “bimbots” (fake online women created to lure lonely men) and the primordial idiocy of sites like Foursquare, which encourage you to tell people where you are in order to earn meaningless badges.
+赛弗还详尽解析了网络骗子、照片修改者、股票市场上的闪电交易、网络上的“美女机器人”（网上虚构出来的女人，用来诱惑孤独的男性），还有Foursquare这样愚蠢的网站，鼓励你告诉别人自己的方位，以此来赢得毫无意义的“勋章”。
+“People don’t think twice,” he writes, “about reflexively transmitting their whereabouts to a company that’s trying to bend your mind and make you a frequent visitor to your local Pizza Hut, Hess gas station, or RadioShack.”
+“人们从不仔细思考，为什么要把自己的方位告诉给一家试图改变的你的思想，让你经常去附近的必胜客、Hess加油站和RadioShack连锁店的公司呢，”他写道。

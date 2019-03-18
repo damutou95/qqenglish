@@ -1,0 +1,38 @@
+When an asteroid exploded over the Russian city of Chelyabinsk in February, shattering windows for miles and injuring well over 1,000 people, experts said it was a rare event — of a magnitude that might occur only once every 100 to 200 years, on average.
+今年2月，一颗陨石在俄罗斯城市车里雅宾斯克上空爆炸，震碎了数英里范围内的窗户，致使逾千人受伤。专家们当时表示，这相当罕见，同等规模的事件平均每一两百年才会发生一次。
+But now a team of scientists is suggesting that the Earth is vulnerable to many more Chelyabinsk-size space rocks than was previously thought. In research being published Wednesday by the journal Nature, they estimate that such strikes could occur as often as every decade or two.
+然而，如今有一组科学家指出，车里雅宾斯克规模的陨石为地球带来的威胁要比之前预想的大得多。他们估算出，此类冲撞可能每一二十年就会发生一次。相关研究本周三发表在《自然》(Nature)杂志上。
+The prospect “really makes a lot of people uncomfortable,” said Peter G. Brown, a professor of physics and astronomy at the University of Western Ontario and an author of the two studies in Nature. A third paper by other scientists describing the Chelyabinsk explosion was published online this week by the journal Science.
+加拿大西安大略大学(University of Western Ontario)的物理与天文学教授彼得·G·布朗(Peter G. Brown)是《自然》上发表的这两篇相关研究论文的作者之一。他说，这样的前景“的确让很多人不安”。另外一组科学家描述车里雅宾斯克爆炸的论文也于本周发表在《科学》(Science)杂志的网站上。
+The findings are helping to elevate the topic of planetary defense — identifying dangerous asteroids and deflecting them if necessary — from Hollywood fantasy to real-world concern.
+这些研究得出的结论，有助于将星球防御的话题从好莱坞奇幻片的噱头上升到真实的全球性关切的高度。此类防御是为了找出危险的小行星，并在必要时改变其运行轨迹。
+A United Nations committee has been studying the issue for some time, and next month the General Assembly is expected to adopt two of its recommendations: establishing an International Asteroid Warning Network for countries to share information; and calling on the world’s space agencies to set up an advisory group to explore technologies for deflecting an asteroid.
+联合国下属的一个委员会已研究这一话题多时，而它提出的两项建议有望在下月的联合国大会上获得采纳：一是成立国际小行星预警网络(International Asteroid Warning Network)，以让各国分享信息；二是呼吁世界各大航天机构设立一个顾问组织，以探讨让小行星转向的技术。
+Sky surveys have spotted about 95 percent of the big near-Earth asteroids, those that are at least one kilometer wide, or 0.6 miles, and none are in danger of hitting Earth anytime soon.
+巡天观测已发现了约95%的大型近地小行星。这些星体的直径至少有1公里，它们当中没有哪一个可能在近期冲撞地球。
+But those are not the only ones to worry about.
+不过，需要担心的不只是它们。
+“One kilometer is more than just dangerous,” said Edward T. Lu, a former NASA space shuttle astronaut who heads the B612 Foundation, a private effort to launch a space telescope that could find smaller asteroids. “One kilometer is end-of-human-civilization kind of dangerous.”
+曾在美国国家航空航天局(NASA)任航天飞机宇航员的卢杰(Edward T. Lu)说，“1公里可不仅仅是有危险。1公里是毁灭人类文明那种级别的危险。”他目前是私营机构B612基金会(B612 Foundation)的负责人，该机构的目标是发射一座可观测微型小行星的太空望远镜。
+The Chelyabinsk asteroid was just 60 feet wide. Speeding around 40,000 miles per hour, it released energy equal to 500,000 tons of TNT. A larger asteroid, perhaps two or three times the diameter of the Chelyabinsk one, exploded over Siberia in 1908 and is estimated to have released energy equivalent to 5 million to 15 million tons of TNT, flattening millions of trees.
+撞击车里雅宾斯克的小行星直径仅有60英尺（约合18米），运行速度约为每小时4万英里（约合6.4万公里），释放出的能量为50万吨TNT当量。1908年，西伯利亚上空爆炸了一颗更大的小行星，直径大概是车里雅宾斯克陨石的两三倍，释放出500万到1500万吨TNT当量的能量，让数百万的树木倒地。
+The proposed B612 telescope, to be called Sentinel, is intended to find asteroids about 450 feet wide, although it will also find many that are smaller. Dr. Lu said the mission would cost $450 million — $250 million to build the spacecraft and $200 million to operate it for a decade.
+B612基金会提议发射的望远镜名为“哨兵”(Sentinel)，目标是观测到直径为450英尺上下的小行星，也具备找到大量更小星体的能力。卢杰博士表示，这项任务预计将花费4.5亿美元（约合27.5亿元人民币），其中2.5亿用于建造航天器，另外2亿用于维持10年的运行。
+A 450-foot-wide asteroid, Dr. Lu said, would be equivalent to 150 million tons of TNT. “You’re not going to wipe out humanity,” he said, “but if you get unlucky, you could kill 50 million people or you could collapse the world economy for a century, two centuries.”
+卢杰博士称，直径为450英尺的小行星TNT当量可达1.5亿吨。“倒不会让人类灭绝，”他说，“不过要是倒霉的话，可以让5000万人丧生，或是让世界经济崩溃一两个世纪。”
+Dr. Lu said astronomers had found only 10 to 20 percent of the near-Earth asteroids of that size.
+他还说，天文学家们仅观测到了10%到20%这种规模的近地小行星。
+Sentinel would also spot many smaller ones that could still be devastating. “What we’ve been talking about are the ones that would only destroy a major metropolitan area — all of New York City and the surrounding area,” Dr. Lu said.
+哨兵望远镜还能找到许多仍可造成毁灭性打击的更小星体。“我们这里说到的是，毁灭范围只有一座大都市区域的小行星，比如毁掉全纽约市和它的周边地区，”卢杰博士说。
+He said only about 0.5 percent of these smaller asteroids, roughly the size of the 1908 one, have been found.
+按照他的说法，这些更小的星体与1908年的陨石大小差不多，但仅有大约0.5%被观测到了。
+Because telescope surveys have counted so few of the small asteroids, Dr. Brown and his colleagues instead investigated what has actually hit the Earth. In one of the articles in Nature, they examined United States Air Force data from the 1960s and 1970s and later data from sensors verifying a ban on aboveground nuclear weapons testing.
+由于望远镜仅观测到了极少的微型小行星，布朗博士和同事一起转而研究真正撞击到了地球的陨石。他们发表在《自然》杂志的文章中，有一篇挖掘了上世纪60年代和70年代美国空军的数据，以及晚些时候监督地上核武试验的探测器的数据。
+The recordings captured the low-frequency atmospheric rumblings generated by about 60 asteroid explosions. Most came from small asteroids, but their data suggested that the somewhat larger ones hit more frequently than would be expected based on the estimates from sky surveys. That could mean the Earth has been unlucky recently, or that the estimates on the number of Chelyabinsk-size asteroids are too low.
+这些记录捕捉到了大约60次小行星爆炸产生的低频大气振动。多数振动来自微型小行星，不过，他们的数据显示，稍大的小行星撞击地球的频率要高于根据巡天观测做出的估算。这可能意味着，要么是地球近期不太走运，要么是对车里雅宾斯克规模的小行星数量估算过低。
+“Any one of them individually I think you could dismiss,” Dr. Brown said, “but when you take it all together, I think the preponderance of the evidence is there is a much higher number of these tens-of-meters-size objects.”
+布朗博士说，“单独拿出任何一个的话，我觉得都可以忽略不计。可是，把所有情况综合起来考虑，我认为多数证据显示，这种几十米大小的物体的数量要多得多。”
+Dr. Lu said that was one more reason to launch an asteroid-finding telescope. “There are hints the rate is higher than we think, but we don’t really know yet, and I think we should find out,” he said. “When you find out how many there are, you also find out where the individual ones are. Everything you discover you can either rule out as going to hit us or you say, ‘Hey, we ought to look at this one more carefully.’ ”
+卢杰博士称，这是支持发射小行星观测望远镜的又一个理由。“有迹象表明，实际的比率比我们以为的要高，但还没有确切的答案。因此我认为，我们应该去进行探索，”他说。“发现它们的数量的同时，也会发现每一颗的具体方位。每发现一个，就可以要么排除它撞击地球的可能性，要么说，‘嗨，我们得再好好研究一下这一颗。’”
+Many of the Chelyabinsk-size asteroids would elude detection by Sentinel. Still, the residents of Chelyabinsk would have benefited from a warning on the morning of Feb. 15 to stay away from the window. With a $5 million grant from NASA, University of Hawaii astronomers are setting up telescopes to scan the sky for quick-moving spots of light that could be oncoming asteroids. There would be no opportunity to deflect the asteroid that would hit in days or weeks, but it would give time to warn, and to evacuate. That system is scheduled to go into operation in 2015.
+车里雅宾斯克规模的许多小行星会逃脱哨兵望远镜的视线。虽说如此，如果当地居民2月15日上午收到远离窗户的警告，也不无裨益。夏威夷大学(University of Hawaii)的天文学家们从NASA那里获得了500万美元的研究经费，以架设巡天望远镜。它们将从空中快速运行的光点中分辨出可能即将陨落的小行星。这或许没法让几天或几周后撞地的小行星转向，但可以留出时间来预警和疏散。这套系统定于2015年投入使用。

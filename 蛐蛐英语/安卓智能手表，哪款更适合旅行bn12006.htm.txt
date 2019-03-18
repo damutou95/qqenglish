@@ -1,0 +1,46 @@
+If you want a smartwatch to make travel easier, Apple Watch is hard to beat. But what about all those Android competitors? There are too many to list here, including models from Sony and Samsung. Still, after taking Apple Watch for a test run several weeks ago, I gave a few popular watches for Android users a whirl (one nimble contender, Pebble, is compatible with both Android and iOS devices).
+如果你想买块智能手表，让旅行变得更方便，苹果手表可能是最好的选择。不过，那些安卓竞争者呢？它们的种类太多了，无法在这里一一列举，包括索尼(Sony)和三星(Samsung)的多种款式。不过，几周前，我试用苹果手表之后，也试了试几款流行的安卓手表（其中一个灵活的竞争产品是Pebble，它既能在安卓系统使用，也能在苹果的iOS系统中使用）。
+Apple Watch, among the newest additions to the smartwatch market, raised the bar in terms of intuitiveness and elegant functionality. And its travel apps are perhaps the most useful to date. But of course, not everyone wants an Apple. Below, a look at three popular Android options, and the pros and cons for travelers.
+苹果手表是智能手表市场的最新产品之一，它提高了直觉性和优雅功能性的标准。它的旅行应用程序可能是目前最有用的。但话又说回来了，并非所有人都想要苹果产品。下面我研究了三款流行的安卓产品，并分析了各自的优劣。
+Pebble and Pebble Time
+Pebble和Pebble Time
+From $99 for Pebble; $199 for Time
+Pebble，99美元起；Time，199美元
+STYLE With its colorless display and retro push buttons on the side of the face — which, in an age of touch screens, is a refreshingly uncomplicated way to navigate — the boxy Pebble calls to mind the watch David Hasselhoff used to summon his talking car in “Knight Rider.” It doesn’t have a touch screen, and its “e-paper” display (it’s easy to read in sunlight) isn’t as crisp as others. But you’re not buying this (or any smartwatch) for looks. Like Crocs, it’s about utility. Besides, the company’s second-generation watch, which is being rolled out as I type, is, well, cute. One model of the new Pebble Time, with a gleaming white silicone band and color display, has a sporty Swatch-like look made for summer.
+外观：四四方方的Pebble让人想起了《霹雳游侠》(Knight Rider)中大卫·哈塞尔霍夫(David Hasselhoff)召唤自己会说话的汽车时用的那块手表。它的显示屏不是彩色的，表盘旁边设有古董按钮。在触摸屏时代，这个按钮倒是清爽的简单操作方式。这款手表没有触摸屏，它的“电子纸”显示屏（在阳光下看得很清楚）不像其他手表那么明快。不过你买它（或任何智能手表）不是为了外观。像Crocs的鞋子一样，重要的是实用性。另外，该公司正推出的第二代手表I型(I type)比较好看。新Pebble Time的其中一款拥有闪亮的白色硅胶表带和彩色显示屏，外形像斯沃琪(Swatch)夏季运动款手表。
+TRAVEL APPS Unlike its competitors, Pebble can go days without charging. It’s also water-resistant. You can shower with it on or go surfing or swimming. However, the first generation can hold only eight apps at a time. On iOS you’ll find versions of some travel apps such as Yelp, but many standard apps are not available. There’s no Hotel Tonight or Expedia, for example. So I branched out and tried Toilet Finder, an app that alerted me to nearby bathrooms— or tried to.
+旅行应用程序：跟它的竞争对手不同，Pebble好几天都不用充电。它还防水。你能戴着它洗澡、冲浪或游泳。不过，第一代只能安装八个应用程序。在iOS系统中，你能找到一些旅行应用程序，比如Yelp，但是很多常见应用程序都没有。例如，没有Hotel Tonight和Expedia。所以我稍微扩大范围，试了试Toilet Finder，这个应用程序能提醒我附近有厕所。
+NAVIGATION If you want directions on your Pebble, you need to load an app. The most helpful iOS app I tried was PebbleNav, but you have to enter your destination on a companion app that lives on your phone. It’s only after doing this that Pebble comes to life with turn-by-turn directions. An added step, yes, though after setting it up you can put away your phone and just glance at the watch’s detailed turn-by-turn directions, something that’s missing from a number of competitors.
+导航：如果你想用Pebble指路，你需要下载一个应用程序。我试过的最有用的iOS应用程序是PebbleNav，但是你必须在手机的配套应用程序上输入目的地，然后Pebble才能激活，一步一步指路。是的，它是多了一个步骤，不过，设定好之后，你可以把手机收起来，只看手表上的详细指引就行——有好几个竞争对手的产品都没有这个功能。
+PROS An affordable watch for those who want to read texts and see what’s nearby, especially households where there are both iOS and Android devices. It’s water-resistant, has a long battery life and is well-sized for small wrists.
+优点：这款手表价格实惠，适合那些想用手表看短信或了解附近设施的人，特别是家里既有iOS又有Android产品的人。它防水，电池使用时间长，非常适合手腕细的人。
+CONS Frequent fliers and road warriors who have come to rely on an arsenal of travel apps (and Google Maps) will miss them.
+缺点：经常旅行的人会想念他们已经非常依赖的各种旅行应用程序（和谷歌地图）。
+LG Watch Urbane (Android Wear)
+LG城市手表（LG Watch Urbane，适配安卓系统）
+About $350
+约350美元
+STYLE This watch may be chunky, and the stitched leather strap may be slightly stiff, but it looks like the real thing (that is until you start talking into it).
+外观：这款手表可能看起来有些笨重，它的缝制皮表带可能有点硬，但它看起来很智能（直到你开始对它讲话才会发现它也没那么智能）。
+TRAVEL APPS You primarily use this smartwatch by saying “O.K., Google” and then asking for directions to, say, a museum, or instructing the watch to send a text or an email or jot down a note. When I lifted my wrist and spoke aloud, “O.K., Google, how do you say ‘table for two’ in French?,” up popped the words: “table pour deux ‘table for two in French’ ” Neat. (Though this wasn’t quite so smooth when there was a lot of ambient noise and the watch couldn’t hear me.) As with all smartwatches, popular travel apps are pared down or must be used in conjunction with the phone. For instance, to call up an American Airlines boarding pass, the watch told me I first had to view it on my smartphone.
+旅行应用程序：这款智能手表的主要使用方法是，先说“好的，谷歌”，然后询问去往某个目的地（比如博物馆）的路线，或者命令手表发短信、发邮件或记笔记。当我抬起手腕，大声说“好的，谷歌，怎么用法语说‘两人桌位’”时，手表上跳出这些字：“table pour deux （法语两人桌位）”。棒极了（不过，当周围噪音很大、手表听不清我讲话时就没这么顺畅了）。和所有的智能手表一样，很多热门旅行应用程序都不能用，或者必须和手机协同使用。例如，我命令手表显示美国航空公司(American Airlines)的登机牌，它告诉我，必须先在智能手机上查看。
+NAVIGATION Google Maps makes navigation on this watch among the best to be found on a wrist. Ask for directions and up pops an arrow indicating which direction to begin driving or walking, along with the number of miles you should keep heading in that direction.
+导航：谷歌地图让这款手表的导航成为你能在手腕上找到的最好的导航方式之一。你问路之后，手表上会跳出一个箭头，指示开始往哪个方向开车或行走，以及你要接着往那个方向走多少英里。
+PROS Good navigation, voice-activated search and the ability to send texts and emails from your wrist make this a handy digital companion on the road.
+优点：导航优良，能声控激活搜索，能发送短信和邮件，这些优点让它成为旅行途中的便捷数码伴侣。
+CONS Apps that many travelers have come to rely on are not functional enough to be useful solely on the watch. And transitioning between activities takes some getting used to.
+缺点：很多旅行者所依赖的应用程序不能在这款手表上单独使用。不同活动之间的切换需要时间适应。
+MOTO 360 (Android Wear)
+摩托罗拉360（MOTO 360，适配安卓系统）
+From $149.99
+149.99美元起
+STYLE The fat, round face of the Moto 360 felt as weighty as an antique pocket watch, though the oversize color touch-screen face makes for easier reading. And you can customize, choosing from several bands and faces with the company’s “Moto Maker” at motorola.com.
+外形：摩托罗拉360圆乎乎的表盘感觉像古董怀表一样沉重，不过它的超大彩色触摸屏更易查看。你能在motorola.com网站上通过该公司的Moto Maker选择自己喜欢的表带和表盘。
+TRAVEL APPS Like the LG Urbane, you talk to this smartwatch by saying “O.K., Google” and then making a request. When I asked it to send an email it instantly asked “To whom?” When I asked for directions to the nearest gas station, it brought up choices from Mobil and Exxon. You can load a travel app such as Orbitz, but tap the icon and, as with the Urbane, you’ll be directed to your phone to fully use it.
+旅行应用程序：和LG城市手表一样，你能对着这款智能手表说“好的，谷歌”，然后开始下命令。我让它发邮件时，它马上问道：“给谁发？”我询问最近的加油站时，它显示出美孚(Mobil)和埃克森(Exxon)的几家加油站。你能装载旅行应用程序，比如Orbitz，但是点击图标后，你会得到指示，需要搭配手机才能完全使用，这一点跟LG城市手表一样。
+NAVIGATION After asking the watch to navigate to Union Square, New York, it showed me an arrow and the direction to set out. More detailed directions, including a map with turn-by-turn voice directions, appeared on my phone. Even if I were just planning to use Google Maps on my phone, it was still faster to ask the watch and allow it to instantly display a map and fire up navigation.
+导航：我要求这款手表把我导航到纽约联合广场(Union Square)，它显示出箭头和出发方向。更详细的导航出现在我的手机上，包括带有逐步声音导航的地图。尽管我本来就打算使用手机上的谷歌地图，但是询问手表、让它立刻显示出地图并开始导航，还是更快一些。
+PROS Good navigation and effective voice-activated search from a watch that’s less than half the price of the Urbane.
+优点：导航良好，声控激活搜索高效，价格不到LG城市智能手表的一半。
+CONS The travel apps are pared down; you’re better off using most of them on your phone.
+缺点：很多旅行应用程序不能使用；大部分程序在手机上使用更好。

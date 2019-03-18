@@ -1,0 +1,142 @@
+In May 2011, Cassandra Caton, an 18-year-old with honey-colored hair and the soft features of a child, suddenly went blind in her right eye. Five months later, an ophthalmologist noticed something disturbing. A large growth in the back of her eye had ripped her retina, destroying her vision.
+卡桑德拉·卡顿(Cassandra Caton)是个18岁的姑娘，长着蜜色的头发，身材轮廓还像个孩子一样柔和，2011年5月，她突然右眼失明。五个月后，眼科医生在眼底检查时看到了不祥之物。她眼底出现了一个大增生包块，它已经撕开了她的视网膜，破坏了她的视力。
+He sent her to Washington University in St. Louis, a three-hour drive from her sparsely furnished apartment in the working-class town of Sedalia, Mo.
+她居住在密苏里州锡代利亚的一个平民小镇，家里只有几样简陋的家具，距离圣路易斯有三个小时车程，眼科医生介绍她去那里的华盛顿大学(Washington University)就诊。
+And there, Ms. Caton, mother of a 2-year-old daughter, wife of a chicken factory worker, got almost incomprehensibly bad news. The growth was cancer, a melanoma, and it was so huge it filled her eyeball.
+卡顿女士的丈夫是养鸡场的工人，两人育有一个2岁的女儿，她在华盛顿大学得到的消息糟糕得让人猝不及防。她眼底的增生包块被确诊是癌症，这是一种眼黑色素瘤，而且肿瘤已经长得非常大，填满了她的眼球。
+“Am I going to die?” Ms. Caton asked. “Is my baby going to have a mommy in five years?”
+“我会死吗？”卡顿问医生，“五年后我的女儿还有妈妈吗？”
+It is a question that plagues cancer patients. Doctors try to give survival odds based on a tumor’s appearance and size, but often that is just an educated guess.
+这个问题困扰着癌症患者。医生会根据肿瘤的外观和大小来试图推测患者的五年生存率，但这种推测往往并不那么靠得住。
+But Ms. Caton had a new option, something that became possible only in this new genetic age. She could have a genetic test of her tumor that could reveal her prognosis with uncanny precision. The test identifies one of two gene patterns in eye melanomas. Almost everyone in Class 1 — roughly half of patients — is cured when the tumor is removed. As for those in Class 2, 70 to 80 percent will die within five years. Their cancers will re-emerge as growths in the liver. For them, there is no cure and no way to slow the disease.
+如今，在遗传学发展的新时代，卡顿有了一个新的选择。她可以对她的肿瘤做基因测试，从而确切地了解病情预后。这项测试是测定眼黑色素瘤的两类基因谱（基因表达模式）。眼黑色素瘤的所有患者中，大约有一半的患者属于第一类基因谱。在手术切除肿瘤之后，第一类基因谱的患者几乎都能治愈。而属于第二类基因谱的患者，70%至80%将在五年内死亡，他们的癌症将转移到肝脏。对他们来说，疾病无法治愈，病程也没有办法延缓的。
+No test has ever been so accurate in predicting cancer outcomes, researchers said.
+研究人员说，之前还没有哪项测试，能对癌症的凶险程度做出如此准确的判断。
+The data from studies of the test are “unbelievably impressive,” said Dr. Michael Birrer, an ovarian cancer specialist at Massachusetts General Hospital. “I would die to have something like that in ovarian cancer.”
+迈克尔·比雷博士(Dr. Michael Birrer)是马萨诸塞州总医院(Massachusetts General Hospital)的卵巢癌专家，他形容这项测试的研究数据“惊人得不得了”，他说：“如果卵巢癌也能有这么准确的预后测试，我会高兴极了。
+While for now the ocular melanoma test is in a class by itself, cancer researchers say it is a taste of what may be coming as they continue to investigate the genes of cancer cells. Similar tests, not always as definitive but nonetheless able to give prognostic information, are under development or starting to be used for other cancers, like cancers of the blood.
+眼黑色素瘤的这项预后测试虽然现在是独一无二的，但是癌症研究人员说他们还将继续研究癌细胞的基因，这项测试或许能预示未来的发展趋势。类似的测试，也许达不到这么高的准确度，但仍然能够提供有用的预后信息，这类预后测试有的仍在研究中，有的已经开始适用于其他癌症，如血液系统癌症。
+Having a prognosis allows people to plan their lives, but most do not want to know if they have a gene for an incurable, fatal illness, like Huntington’s disease or early onset Alzheimer’s.
+预后测试的好处是便于人们规划自己的生活，但大多数人都不想知道自己是否带有无法治愈的致命疾病（如亨廷顿舞蹈症或早发性老年痴呆症）的易感基因。
+The eye test raises a similar choice, with an added twist. This is not a test offered to healthy people, but to patients who have just gotten the news that they have cancer. The results will either give them reassurance that they will survive the cancer — or near certainty that they will die from it.
+眼黑色素瘤的这项预后测试，也提出了类似的两难选择，而且更增加了一重疑虑。这项测试不是提供给健康人的，而是提供给刚被确诊得了癌症的患者。测试结果是为了预测癌症的凶险——告诉他们病情预后良好，或者告诉他们几乎铁定要死于癌症。
+Can patients in the throes of getting this terrifying news really make an informed choice about whether they want the test? Are they able to understand at such a fraught time that, for now at least, there is nothing that can save them if they get the bad prognosis?
+当患者们刚被确诊得了癌症，正经历着痛苦的煎熬时，他们能明智地选择是否做这项测试吗？慌乱中的他们是否明白，如果他们得到的测试结果是预后不良，那么至少在目前来说，他们就只能等死了？
+Some doctors do not offer the test, reasoning that there is little to be gained.
+有些医生不提供这种预后测试，认为它对患者没有什么好处。
+But other doctors, including J. William Harbour of Washington University, who developed the test (but does not profit from its use), encourage patients to have it. And probably because of the way he describes it, Dr. Harbour says his patients almost always want it.
+但是其他的医生鼓励患者做这项测试，其中包括华盛顿大学的J·威廉·哈伯(J. William Harbour)博士，正是他研发了这项测试（但他本人不从中牟取利益）。可能是因为他说话太有感染力了，他说自己的患者几乎都愿意做这项测试。
+Ms. Caton was no exception. Without the test, doctors would have had to guess her outcome based on the size of her tumor. And the conventional wisdom is that people with growths as large as hers have a slim chance of surviving. But perhaps, her doctors hoped, the genetic test would come up with a different answer.
+卡顿也不例外。如果不做这个测试，那么医生就只能根据她的肿瘤大小，猜测她的预后。通常人们会推测，肿瘤增长到她那种地步的患者生存机会渺茫。但她的医生希望，或许，基因测试会给出一个不同的答案。
+Heralding the Future
+昭示未来
+Dr. Harbour, a genial and burly man with salt-and-pepper hair, has a way about him that relaxes patients, makes them feel everything will be O.K.
+哈伯博士态度亲切，身材魁梧，头发已经花白了，他的气质风度总能让患者放轻松，让他们感到一切都会好起来的。
+“I give them as much information as I think they can handle,” Dr. Harbour says.
+“在我认为患者能够理解的限度内，我会尽可能多地把信息传达给患者，”哈伯说。
+And he’s an optimist. The ocular melanoma test is just the beginning, he believes, of a new understanding of that cancer — and perhaps other cancers as well — and why they spread.
+他是一个乐天派。他认为，眼黑色素瘤测试仅仅是个开始，它预示着研究者将会对癌症产生新的认知，更深入地了解眼黑色素瘤这种癌症（也许还有其他癌症），以及癌症为什么转移扩散。
+About 2,000 people a year, or about 5 percent of melanoma patients, have ocular melanoma, a tumor of the dark brown melanocytes that forms a sheet much like a photographer’s backdrop behind the retina. Those with very large tumors are most likely to have a bad prognosis, but patients with small tumors also can have the deadly type.
+每年约有2000人新患上眼黑色素瘤，占新发病的黑色素瘤患者的5%。这是起源于深褐色黑色素细胞的肿瘤，位于正常眼底视网膜的后面，黑色素细胞形成一个深褐色的细胞层，像是摄影师的黑色背景。肿瘤长得很大的患者，最有可能预后不良，但肿瘤长得很小的患者，也有可能患的是致命的恶性类型。
+Often there are no symptoms; the tumor may be discovered by an ophthalmologist during a routine exam. Other patients, though, lose vision or see flashing lights or a sea of floaters in an eye, all signs of damage to the retina as the tumor encroaches.
+很多患者并没有症状；肿瘤可能是由眼科医生在一次例行体检中发现的。其余患者则会出现多种症状，表现为眼睛失明，或看到闪烁的灯光，或出现严重飞蚊症，这些症状都是由于肿瘤侵犯视网膜导致的。
+Most get radiation, a highly radioactive disc placed on the surface of the eye that destroys the tumor in a few days and then is taken out. But those with huge tumors, like Ms. Caton, must have their eye removed.
+大多数患者都会接受放疗，把高放射性的圆片放在眼睛表面，几天内就能摧毁肿瘤，随后再把片子取下来。但是对于卡顿眼底长出的那样巨大的肿瘤，就必须手术摘除眼球了。
+Ocular melanoma specialists had long noticed that some patients did well and the rest did not, but Dr. Harbour wanted to know why.
+眼黑色素瘤专家们早就注意到，有些患者的预后良好，有些患者的预后不良，而哈伯博士想知道背后的原因何在。
+Then he saw an opportunity. Ever since he came to Washington University in 1996, Dr. Harbour had been storing bits of tumors from ocular melanoma patients and keeping track of what happened to the patients. Working with his colleagues at the genome center, Dr. Harbour looked for genetic differences in tumors that spread and those that did not.
+他找到了刨根问底的机会。自从1996年就职于华盛顿大学以来，哈伯就开始在工作中积累保存眼黑色素瘤患者的肿瘤活检样本，并跟踪记录患者的病程发展。他与在基因组中心的同事们合作，在不发生转移的肿瘤和发生了转移的肿瘤之间寻找基因差异。
+The genes themselves were no different. But a group of several hundred genes that looked the same in cells from patients in Class 1 and Class 2 were acting differently in the patients who did poorly. The genes were churning out many more proteins in the cells of patients in Class 2. Dr. Harbour found that he could look at the activity of 12 of those genes and predict how well a patient would do.
+基因序列本身没有什么不同。不过，在第一类和第二类患者肿瘤细胞中，其一组为数几百个的基因基因序列虽然看起来一样，但是基因的转录表达活性完全不同，这组基因在第二类患者的肿瘤细胞中活跃表达产生更多的蛋白质。哈伯发现，在这组基因中，他只需要测试12个基因的转录表达活性，就可以预测患者的病程发展。
+After a rigorous study to confirm that the test worked, the university licensed it to a small company, Castle Biosciences. They bill more than $6,000, with the price depending on the quality of the sample. But the company has programs to make sure that the poor or uninsured can receive the test, said Derek Maetzold, the company’s president and chief executive.
+严格的研究验证了这项测试是准确有效的，华盛顿大学已经把这项测试的专利授权给了一个小公司——城堡生物科学公司(Castle Biosciences)。该公司对这项测试的收费标准是6000美元以上，具体价格取决于样本的质量。但该公司的总裁兼首席执行官德里克·梅佐尔德(Derek Maetzold)说，公司专设了方案，以确保穷人或没有医疗保险的患者也能做这项测试。
+Some cancer specialists, though, ask what is to be gained by using the test.
+但是有些癌症专家，对这项预后测试的实际用处提出了疑问。
+When it comes to dividing patients into two prognostic groups, “the data are really astonishing,” said Dr. Keith Flaherty, a melanoma researcher at Massachusetts General. Yet, he added, “There is no treatment yet that will alter the natural history of the disease.”
+这项测试会把患者区分为两个预后组，“数据确实是非常惊人，”美国马萨诸塞州总医院(Massachusetts General)黑色素瘤研究人员基思·弗莱厄蒂博士(Dr. Keith Flaherty)说。而后他又补充了一句：“目前还没有行之有效的治疗，能够改变黑色素瘤的自然病程。”
+“Why would you want that information when we don’t have anything we can do for you,” Dr. Flaherty asked. “That is the fundamental question that has caused people to pause.”
+“医生对你的病程发展无能为力，那么，知道预后信息又有什么用？”弗莱厄蒂说：“正是这个根本性的问题，使得患者踌躇不前。”
+For the majority treated with radiation, having the test requires a biopsy of the tumor before treatment. After going through that, those in Class 2 have no real options other than to wait for the inevitable.
+对于大多数接受放疗的患者，如果要做这项预后测试，那么就需要在放疗前做活检取得肿瘤样本。测试之后，对于归入第二类的患者，目前还没有真正有效的治疗措施，只能等待那个不可避免的结局。
+Nothing has been shown to prolong the lives of Class 2 patients, said Dr. Evangelos S. Gragoudas, an ocular oncologist at Massachusetts Eye and Ear Infirmary. Not more frequent monitoring of the liver, not more aggressive or earlier chemotherapy. Nothing.
+美国马萨诸塞州眼耳医院(Massachusetts Eye and Ear Infirmary)眼肿瘤学家埃万耶洛斯·S·格拉戈达斯博士(Dr. Evangelos S. Gragoudas)说，目前还没有任何行之有效的治疗措施，能够延长第二类患者的生命，无论是更频繁地监测肿瘤的肝转移，还是采取更激进或更早期的化疗，都无济于事。
+Dr. Gragoudas tells patients that the ocular melanoma test is available. Then, he said, “I tell them that I do not do it at the present time. But if you want it, there are people who will do it.”
+格拉戈达斯告诉他的患者们，眼部黑色素瘤预后测试是可行的。但他还说，“我告诉他们，我这里目前不做这项测试。如果想做，可以去别人那里做。”
+“I had only one patient tell me, ‘I want to know,’ ” Dr. Gragoudas said.
+“只有一个患者告诉我，‘我想知道预后信息’，”格拉戈达斯说。
+Dr. Harbour has a different view, and conveys it to his patients. He tells them that if they are Class 2 he will monitor them closely, doing liver scans every six months and blood tests in between, and will treat metastases with chemotherapy, delivered to the site of the cancer’s spread, as they occur.
+哈伯持不同的观点，并把这个观点传递给他的患者们。他告诉他们，如果他们是第二类患者，那么他将密切地监测他们，每半年做一次肝扫描，这期间做多次血液化验，一旦肿瘤发生了转移，就直接针对转移癌做化疗。
+Patients sometimes think that means they can be cured, Dr. Harbour confesses, adding that he makes a point of repeating the information about what the test results mean on several different visits to be sure it sinks in.
+哈伯坦言，患者们可能会认为，这一系列措施意味着他们的病能够治愈，为此他要在患者多次就诊时，反复重申这项测试的预后信息意味着什么，以确保患者心知肚明。
+Dr. Harbour says he believes that frequent monitoring and prompt treatment of the cancer may be extending some patients’ lives, although that has not been rigorously established. Dr. Gragoudas says a study he did found that early treatment made no difference.
+哈伯说，他认为密切监测和及时治疗可能会延长一些患者的生命，虽然这尚未经过严格的临床研究验证。格拉戈达斯则说，他所进行的一项研究发现，早期治疗并不能延长患者的生命。
+But Dr. Harbour says his approach means patients have a different sort of death. Before the gene test was developed, patients would not know their cancer had spread until they were at the end stages of their disease. Then they would suddenly shed weight, lose their appetite, fall ill and their skin would turn yellow from liver failure. Within a few months they would be dead.
+哈伯认为，他的治疗方法意味着患者死亡的历程将有所不同。在没有开发这项基因测试以前，只有到了疾病的终末期，患者才知道癌症已经转移了。他们会突然消瘦，失去食欲，病倒在床，由于肝功能衰竭，他们的皮肤会变成黄色。在短短几个月内，他们就会死去。
+Now, by finding the cancer as soon as it spreads to the liver, it often can be controlled, at least for a while. The cancer then tends to spread to the lung or bones, where it can also be controlled. Death still tends to be from cancer in the liver, but even if it occurs at the same time, it may be less painful, Dr. Harbour says.
+现在，通过及时发现癌症转移，肝脏的转移病灶通常可以被治疗控制一段时间。然后癌症往往会转移到肺或骨骼，继发的转移病灶也可以暂时得到控制。哈伯说，患者往往仍然是死于癌症的肝转移，但即使治疗不能延长患者的生命，也至少能减轻死亡的痛苦。
+“Would you want a horrible death that is relatively short,” he asks, “or a death that is slower?”
+“你是想快点死，但死得很痛苦，”他问，“还是想慢点死，但过程要温和些？”
+Dr. Harbour thinks there may be ways to impede the cancer’s progress in Class 2 disease by blocking a gene, BAP 1, that seems to be driving the cancer’s spread. That is his hope for clinical trials with one of two drugs: a histone deacylase inhibitor, a class of new anticancer drugs being tested against a cancer of white blood cells, or valproic acid, an old drug used to treat epilepsy and other disorders.
+哈伯认为通过阻断BAP1基因——这个基因似乎是推动癌症转移扩散的元凶——有可能阻止第二类癌症患者病程的进展。他把治疗的希望寄托在两个临床试验药物上：一种是被称为组蛋白去乙酰酶抑制剂的新开发的抗癌药物，目前正用于治疗白血病的临床试验中；另一种是丙戊酸，这是用于治疗癫痫的老药，后来被发现也属于前述药物中的一种。
+But then again, if Class 2 patients, most of whom are doomed anyway, find out about valproic acid, which is cheap and easily available, would they really wait for a clinical trial, taking a chance they could be randomly assigned to take a placebo? Yet without a rigorous study, it will be impossible to know if the drug helps Class 2 patients.
+但是如果第二类患者（其中大多数人预后不良）知道，丙戊酸这种价格便宜、而且可以随处买到的药物可能是他们的救命稻草，他们真的会等待临床试验验证药物的疗效吗？在临床试验中，他们可能会被随机分配到服用安慰剂的对照组。然而，没有严谨的临床试验研究验证，就不可能知道这个药物对第二类患者是否真有疗效。
+‘Praying for a Miracle’
+“祈祷奇迹” 
+Cassie Caton and an older man came in for their biopsy and treatment on a frigid morning in early December. Both would have to have their eyes removed — their tumors were too large for radiation.
+去年12月初的一个寒冷的早晨，卡西·卡顿和一个老年男性患者来到医院，接受活检和治疗。他俩的肿瘤长得太大了，不适合做放疗，都需要做手术摘除眼球。
+First was Joe Ritter, age 70.
+排在前面手术的是70岁的乔·里特(Joe Ritter)。
+“We are praying for a miracle,” his wife, Judy, said that morning, as Mr. Ritter sat silently in his bed, waiting to be wheeled into the operating room.
+“我们在祈祷奇迹”，他的妻子朱迪(Judy)说，那天早上丈夫一直静静地坐在病床上，等待着被推进手术室。
+At 11:30 that morning, Ms. Caton’s surgery began. Dr. Harbour looked at her dilated eye. There, visible behind her blue pupil, was a brown halo, the melanoma.
+上午11点半，卡顿的手术开始了。哈伯盯着她散瞳后的眼睛，透过蓝色瞳孔，可以见到一个棕色的光环，那就是黑色素瘤。
+He began to work, carefully and efficiently, preserving and pinning back the muscles that control her eye’s movement.
+他开始手术摘除眼球，认真细致地保存和剥开了控制她眼球运动的肌肉。
+About an hour into the surgery, Dr. Harbour removed Ms. Caton’s eyeball, cutting the optic nerve with a scissors. Her eye looked like a white marble with a blue pupil on top and a little white wicklike stalk on the end, the stub of the optic nerve. He took the eyeball to a metal table and cut it open. It was filled with what looked like slices of brown olives, the melanoma. A fluid squirted out, the vitreous. Normally it would be clear and jellylike. But cancer had made it liquid and the color of weak tea.
+在手术进行了大约一个小时的时候，哈伯取出了卡顿的眼球，用手术剪剪断视神经。她的眼球看起来像一块白色大理石，顶端是蓝色的晶状体瞳孔，柄端是一个白色的小鞭杖，那就是剪断的视神经根。在金属操作台上，他把这个眼球剖开。眼球中充满的黑色素瘤看起来像一片片棕色橄榄。在剖开眼球时，液体喷射出来，这就是玻璃体。通常情况下，玻璃体是清澈和胶状的。但眼黑色素瘤导致玻璃体液化，显现出淡茶水的颜色。
+Some of that cancer tissue would go to Castle Biosciences for analysis. The rest would be stored for future research.
+一部分癌块组织被送到城堡生物科学公司做基因分析。其余的癌块组织被保存起来，用于今后的研究。
+Then Dr. Harbour covered a plastic ball about the size of Ms. Caton’s eyeball with the outer layer from a cadaver’s eyeball, and put it into her eye socket so the ball would move like her eye. Finally, he carefully sewed the controlling muscles in place. In about six weeks, an artist would paint a thick contact lens to match Ms. Caton’s remaining eye, giving her a prosthesis that would be all but indistinguishable from her healthy eye.
+然后哈伯博士把一个等同于卡顿眼球那么大的塑料球，包裹上捐献者眼球的外层膜，放进她的眼窝里，以便义眼能够自如地转动。最后，他仔细地缝合好控制眼球运动的肌肉。等上大约六个星期，艺术家就能根据卡顿的另一只眼睛，给她做一只匹配的隐形眼镜，她的义眼将能做到以假乱真。
+Mr. Ritter would also end up with a prosthetic eye that would look and move just like his healthy one.
+里特也将配上一个义眼，义眼看起来也会跟他健康的眼睛一样，而且能转动自如。
+Both Ms. Caton and Mr. Ritter would return in about a month to find out if they were Class 1 or Class 2.
+一个月之后，卡顿和里特都将回到医院，查看基因测试的结果，获知他们的预后是第一类的还是第二类的。
+Awaiting the Verdict
+等待判决
+On Jan. 9, they arrived to hear their verdicts. Mr. Ritter went first, bringing his wife with him into the small windowless room.
+1月9日，他们都来到医院，听取他们的测试结果。里特排在前头，他在妻子的陪伴下走进了这个没有窗户的小房间。
+After a few pleasantries, Dr. Harbour delivered the news.
+寒暄几句后，哈伯告诉了他预后结果。
+“Based on what we found from your biopsy result, it was Class 2,” he said.
+“根据肿瘤活检样本的基因测试结果，我们认为您是第二类患者”，他说。
+Mrs. Ritter looked stricken, her eyes filled with tears. She crossed the room and hugged her husband. Mr. Ritter grinned nervously while Dr. Harbour explained how he would like to monitor him. And, he said, he planned to start some clinical trials to see if he could slow the cancer in Class 2 patients. Perhaps Mr. Ritter could join one.
+里特太太伤心欲绝，眼里满含着泪水。她走到丈夫面前，拥抱她的丈夫。里特先生保持着僵硬的微笑，听着医生解释自己打算如何监测他的病情。哈伯还说，他计划开展一些临床试验，以验证他是否能延缓第二类患者的病程，也许里特可以参加这个临床试验。
+Then Dr. Harbour stepped out of the room, allowing the Ritters to compose themselves.
+然后，哈伯走出了房间，好让里特夫妇冷静下来。
+Mr. Ritter reflected on how the news about his eye had steadily worsened.
+里特先生回忆了他眼睛的病情是如何不断恶化的。
+“I started out thinking it was a cold in my eye,” he said. “Then I thought it was a cataract. Then they told me it was a torn retina. That turned into a tumor. Now it’s a Class 2.”
+“我开始以为是我的眼睛受了寒气，”他说：“然后，我认为是白内障。然后他们告诉我，这是视网膜撕裂了。然后我得知这是肿瘤。现在又得知我被分到了第二类。”
+Mrs. Ritter tried to be positive.
+里特太太想要把心态放得积极点。
+“Maybe we caught it in time,” she said. “We’ve got a lot of prayers coming our way.”
+“也许我们及时把肿瘤消灭了，”她说：“已经有很多人为我们祈祷了。”
+Ms. Caton and her stepfather came in next. He had driven three hours from his home in Kansas City and picked her up in Sedalia. The two had arrived in St. Louis the night before.
+进入诊室的下一位是卡顿和她的继父。继父家在堪萨斯市，他从家里驱车三个小时，赶到她居住的锡代利亚，然后带她来医院。两人在前一天晚上就已经抵达了圣路易斯。
+She had been too nervous to sleep.
+她太紧张了，一夜无眠。
+With few preliminaries, Dr. Harbour told her what the test showed.
+没做什么铺垫，哈伯就告诉了她测试结果。
+“Your test result,” he said, “was very good.” Her tumor was not only Class 1 but it was a subset of Class 1 that had an even better prognosis than Class 1 in general. It was Class 1a.
+他说，“你的测试结果非常好”。她的肿瘤不仅是第一类的，而且属于第一类中的一个亚类，称为1a类，这个亚类的预后甚至比第一类总体的预后还要更好。
+“That is very, very good news,” Dr. Harbour said.
+“这是非常非常好的消息，”哈伯说。
+“In the old days, the size of a tumor was the best indicator,” he told Ms. Caton. “People would have told you, you were at very high risk,” he said. “Your tumor was almost an inch in its largest dimension. Pathologists’ eyes widened when they saw it. But molecular testing trumps all of that.”
+“在过去，肿瘤的大小是最好的预后指标，”他告诉卡顿：“那时医生会告诉你，你的肿瘤很凶险，你肿瘤的最大截面直径将近有一英寸（合2.54厘米）。看到那么大的肿瘤，病理学家们都目瞪口呆。但是，基因分子测试能更准确地预测这一切。”
+“If you did not have this test you would have walked away being told you have a bad prognosis when you actually have a good prognosis,” he added.
+“如果你没有做这项测试，那么别人都会跟你说，你的预后很坏，而实际上你的预后很好，”他补充道。
+Ms. Caton could not stop smiling. Then, still grinning, the 18-year-old asked her next question.
+卡顿听着，脸上一直带着笑意。然后，这个18岁的姑娘笑嘻嘻地问了一个问题。
+“When can I wear eye makeup again?”
+“我什么时候可以再化眼妆呢？”

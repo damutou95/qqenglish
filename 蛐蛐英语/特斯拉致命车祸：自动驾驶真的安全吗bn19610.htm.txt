@@ -1,0 +1,30 @@
+The driver of a Tesla Model S electric car was killed in a crash that occurred while the vehicle was driving itself in “autopilot” mode, according to the National Highway Traffic Safety Adminstration, which has opened a formal investigation.
+美国国家公路交通安全局(National Highway Traffic Safety Adminstration)披露，一辆特斯拉Model S电动车在使用“自动驾驶”模式行驶途中发生车祸，导致驾驶者死亡，对此案的正式调查已经开启。
+The accident, on May 7, is thought to be the first death resulting from a crash involving a self-driving car.
+这起车祸发生在5月7日，应该是涉及自动驾驶汽车的第一起致死事故。
+Automakers and Silicon Valley companies like Tesla and Google are pushing to perfect automated vehicles and speed their introduction, but the big question has been whether the technology is reliable in a life-or-death situation.
+各大汽车生产商及特斯拉(Tesla)和谷歌(Google)这样的硅谷公司，正在推动自动化车辆的完善，加速把它们引入市场，但最大的问题是：在生死关头，这种技术是否可靠。
+In a statement, the safety agency said it learned of the fatality from Tesla, and has sent an investigative team to examine the vehicle and the crash site in Williston, Fla., about 100 miles northwest of Orlando. The team is looking at the car’s automated driving system and whether it played a role in the crash.
+公路交通安全局在一份声明中表示，它从特斯拉那里得知了这起死亡事件，并已派出一个调查小组对出事车辆和车祸现场进行调查。车祸发生在佛罗里达州的威利斯顿，位于奥兰多西北方向约100英里处。调查团队正在检查该车的自动驾驶系统，以及它在车祸中起到的作用。
+The safety agency did not identify the Tesla driver who was killed when a tractor-trailer turned in front of the car. But the Florida Highway Patrol identified him as Joshua Brown, 40, of Canton, Ohio.
+公路交通安全局没有披露特斯拉驾驶者的身份。车祸发生时，有一辆大卡车在特斯拉前面转弯。不过，佛罗里达公路巡警部门称，死者名叫约书亚·布朗(Joshua Brown)，40岁，来自俄亥俄州的坎顿。
+Tesla, in a news release that did not name the driver, said he was a man ‘‘who spent his life focused on innovation and the promise of technology and who believed strongly in Tesla’s mission.’’
+特斯拉在新闻稿中没有提到驾驶者的姓名，只是说他“一生专注于创新和技术发展，对特斯拉的使命坚信不移”。
+Mr. Brown apparently posted videos of himself riding in autopilot mode. “The car’s doing it all itself,’’ he said in one, smiling as he took his hands from the steering wheel.
+布朗似乎贴出过自动驾驶模式下他在车中的视频。“这辆车自己就可以行驶，”在一段视频中，他一边说，一边微笑着把双手从方向盘上移开。
+In another he praised the system for saving his car from an accident.
+还有一次，他称赞自动驾驶系统避免了一起事故。
+The traffic safety agency said it was working with the Florida Highway Patrol in the inquiry into Mr. Brown’s fatal accident. The agency cautioned that the opening of an investigation did not mean it believed there was a defect in the vehicle being examined.
+公路交通安全局表示，它正在与佛罗里达公路巡警部门一起调查布朗的死亡事件。该机构谨慎地表示，开启调查并不意味着它认为受检查的车辆本身有缺陷。
+The traffic safety agency is nearing the release of a new set of guidelines and regulations regarding the testing of self-driving vehicles on public roads. They were expected to be released in July.
+公路交通安全局正准备发布一套新的关于自动驾驶车辆在公共道路上测试的准则和监管条例。这些内容预计会在7月公之于众。
+Tesla said in its news release that it had informed the traffic safety agency about the accident “immediately after it occurred.” But the company reported it publicly only on Thursday, after learning that the agency had begun to investigate.
+特斯拉在新闻稿中称，“事件发生后”，他们“立即”通知了公路交通安全局。但直到得知该机构开始调查后，特斯拉才在本周四公布此事。
+Earlier this month, the agency’s leader, Mark Rosekind, said at an automotive technology conference in Novi, Mich., that the new rules would provide “guidance for how to get all of these autonomous new safety technologies on the road safely.”
+本月早些时候，公路交通安全局主管马克·罗斯金德(Mark Rosekind)在密歇根州诺维召开的汽车技术会议上表示，对于“如何让各种新的自动化安全技术在道路上安全地运行”，新的规则将提供指导。
+Tesla’s chief executive, Elon Musk, has praised the company’s self-driving feature, introduced in the Model S last fall, as “probably better than a person right now.”
+特斯拉去年秋天推出Model S时，其首席执行官埃隆·马斯克(Elon Musk)称赞他们的自动驾车功能“现在很可能优于人类”。
+But in its statement on Thursday, the company cautioned that it was still only a test feature and noted that its use ‘‘requires explicit acknowledgment that the system is new technology.’’
+但在周四的声明中，该公司告诫众人，这项功能仍然处于测试阶段，使用时“需要直接确认，这一系统属于新技术”。
+It noted that when a driver activated the system, an acknowledgment box pops up, explaining that the autopilot mode “is an assist feature that requires you to keep your hands on the steering wheel at all times.”
+文中指出，当驾驶员启动自动驾驶系统时，会有一个确认框弹出，显示自动驾驶模式“是一项辅助功能，需要你一直把双手放在方向盘上”。

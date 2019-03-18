@@ -1,0 +1,62 @@
+Could an online degree earned in six to 12 months bring a revolution to higher education?
+一项用六到12个月完成的在线学位能否带来一场高等教育革命？
+This week, AT&T and Udacity, the online education company founded by the Stanford professor and former Google engineering whiz Sebastian Thrun, announced something meant to be very small: the “NanoDegree.”
+本周（本文最初发表于2014年6月17日——编注），美国AT&T公司与斯坦福大学(Stanford University)教授、前谷歌公司(Google)工程天才塞巴斯蒂安·特隆(Sebastian Thrun)创建的在线教育公司Udacity宣布，将推出一种看起来应该很小的东西：“纳米学位(NanoDegree)”。
+At first blush, it doesn’t appear like much. For $200 a month, it is intended to teach anyone with a mastery of high school math the kind of basic programming skills needed to qualify for an entry-level position at AT&T as a data analyst, iOS applications designer or the like.
+乍一看，它似乎的确不大。这项学位课程每月收费200美元，旨在向任何一位掌握高中数学的学员传授足以胜任AT&T公司入门级工作（比如数据分析师，iOS应用设计师等等）的基本编程技能。
+Yet this most basic of efforts may offer more than simply adding an online twist to vocational training. It may finally offer a reasonable shot at harnessing the web to provide effective schooling to the many young Americans for whom college has become a distant, unaffordable dream.
+然而，这些最基础的努力所提供的，可能不仅仅是为职业培训增添一个在线噱头那么简单。对于许多美国年轻人来说，上大学已经成为一个遥不可及且无法承受的梦想。最终，这项课程或将成为一个利用互联网为这些年轻人提供有效教育的机会。
+Intriguingly, it suggests that the best route to democratizing higher education may require taking it out of college.
+有趣的是，这项课程表明，实现高等教育大众化的最佳途径，或许就是让它走出大学校园。
+“We are trying to widen the pipeline,” said Charlene Lake, an AT&T spokeswoman. “This is designed by business for the specific skills that are needed in business.”
+“我们正在努力扩大渠道，”AT&T公司女发言人沙琳·雷克(Charlene Lake)说。“这是一项由企业设计，专门培养企业所需技能的课程。”
+Mr. Thrun sounded more ambitious about the ultimate goal: “It is like a university,” he told me, “built by industry.”
+特隆的终极目标听起来更具雄心：“这就像是一所由产业界建立的大学，”他告诉我。
+American higher education is definitely in need of some disruption. Once the leader in educational attainment, the United States has been overtaken by a growing number of its peers.
+美国高等教育肯定需要经受一些创造性破坏。美国的国民受教育程度曾经傲视全球，但现在已经被越来越多的国家超越。
+Education still offers children from disadvantaged families their best chance at climbing the ladder of success. David H. Autor of the Massachusetts Institute of Technology reports in a new study that in 2012 a typical family of graduates from a four-year college earned about $58,000 more than a family of high school graduates.
+教育依然给贫困家庭子女提供了攀登成功阶梯的最好机会。麻省理工学院(Massachusetts Institute of Technology)的戴维·H·奥托(David H. Autor)在一份最新研究报告中指出，2012年，一个由四年制大学毕业生组成的家庭通常要比一个由高中毕业生组成的家庭多挣大约5.8万美元。
+But this very statistic underscores the depth of the nation’s educational deficit. One reason for the enormous payoff from a college degree, which is almost twice as big as it was in 1979, Mr. Autor finds, is that too few young Americans — despite a bump in enrollment right after the Great Recession — ever earn one.
+但这组统计数据也恰恰突显了美国教育赤字的严重程度。奥托发现，大学学位能够带来巨大收益，而且现在的收益几乎是1979年的两倍。原因之一是，尽管美国大学的招生人数在大衰退(Great Recession)后显著上升，但获得大学学位的美国年轻人依然太少。
+Employers have been complaining for years about a lack of skilled workers to fill available jobs. According to the Organization for Economic Cooperation and Development, the skill level of the American work force is slipping dangerously behind other nations.
+雇主多年来一直抱怨，能够填补岗位的熟练技术工人严重不足。根据经济合作与发展组织(OECD)提供的数据，美国劳动力的技能水平正在非常危险地下滑到其他国家之后。
+And yet despite the promise of a higher wage, only about half of high school graduates from low-income families enrolled in college in 2012 — compared with 80 percent of high-income graduates. Worse, only a small share of them manage to finish.
+然而，尽管大学毕业生有更好的收入前景，但在2012年，仅有大约一半低收入家庭高中毕业生跨入大学校门，高收入高中毕业生上大学的比例则高达80%。更糟的是，只有一小部分低收入学生最终完成了大学学业。
+According to research by Martha J. Bailey and Susan M. Dynarski of the University of Michigan, the college graduation rate of Americans from affluent families rose from less than 40 percent for those born in the early 1960s to nearly 55 percent for those born around 1980. For students from the bottom quarter of the income distribution, it inched up to 9 percent from 5 percent.
+密歇根大学(University of Michigan)的玛莎·贝利(Martha J. Bailey)和苏珊·戴纳斯基(Susan M. Dynarski )的研究显示，美国富家子弟的大学毕业率从不到40%（1960年代早期出生的学生）增长至近55%（1980年左右出生的学生）。对于来自收入分配底部四分之一的学生来说，这个比率仅仅从5%微升至9%。
+With tuition rising around the country and states cutting the budgets of their public university systems, many disadvantaged students are left at the mercy of unscrupulous degree mills that promise good jobs on graduation but often discharge young adults with only limited employment prospects and a crushing burden of debt.
+随着全美大学学费普遍上涨，以及各州纷纷削减公立大学预算，许多贫困学生不得不任凭肆无忌惮的学位工厂摆布。它们对青年学子承诺，毕业后肯定能找到好工作，但当学生们真正走出校园时，他们往往面临非常有限的就业机会和难以承受的债务负担。
+Scholars have proposed several strategies to improve the job prospects of disadvantaged students. In a proposal to be released this week by the Brookings Institution’s Hamilton Project, Harry J. Holzer of Georgetown University urges states to provide incentives to universities to steer students toward higher-wage occupations, including tying college funding formulas to the wages of graduates five years after graduation.
+学者们已经提出了几项旨在改善弱势学生就业前景的策略。在布鲁金斯学会(Brookings Institution)汉密尔顿计划(Hamilton Project)本周发布的一项提议中，乔治敦大学(Georgetown University )的哈里·霍尔泽(Harry J. Holzer)呼吁各州采取措施来激励大学引导学生从事工资更高的职业，比如各州可以把大学经费的拨款方案与大学生毕业五年后的薪资水平挂钩。
+It is easy to oversell technology’s ability to close some of these gaps. When they were introduced a few years ago, the Massive Open Online Courses, or MOOCs, offered by the likes of Udacity, Coursera or edX, the joint venture between Harvard and the Massachusetts Institute of Technology, were promoted as the best way to close the opportunity gap.
+人们很容易过度赞誉高科技弥合这些差距的能力。几年前，当Udacity、Coursera或哈佛大学(Harvard University)和麻省理工学院合作创建的edX等大型开放式网络课程(MOOC)相继涌现的时候，它们被推崇为填补机遇差距的最佳方式。
+But putting traditional college courses online may do little to close the gap. Instead, the evidence so far suggests that online education may do better in giving low-income students a leg up if it is directly tied to work. And companies, rather than colleges, may be best suited to shape the curriculum.
+但仅仅把传统的大学课程放在网上，或许无助于缩小差距。但是，迄今为止的证据表明，如果网络教育直接与工作相关联，它或许能够给予低收入学生更大的帮助。最适合设计课程的或许是公司，而不是大学。
+Researchers at the University of Pennsylvania, for instance, found that most students lost interest in its MOOCs within two weeks and, in general, fewer than 10 percent completed the course.
+例如，宾夕法尼亚大学(University of Pennsylvania)的研究人员发现，大多数学生在两个星期内就对MOOC失去了兴趣，通常情况下，完成在线课程的学生仅有不到10%。
+Moreover, those engaging with online education mostly have not been the young people who might benefit most from the free coursework. “The people who have taken up these opportunities are not the needy of the world,” said Fiona M. Hollands of Columbia University’s Teachers College. “They are not democratizing education. They are making courses widely available, but the wrong crowd is showing up.”
+此外，在线教育的大多数参与者并不是可能会从这种免费课程中受益最多的年轻人。“抓住这些机会的并不是最有需要的人，”哥伦比亚大学师范学院(Columbia University’s Teachers College)教授菲奥娜·霍兰茨(Fiona M. Hollands)这样说道。“这些在线教育平台不是在推动教育民主化。现如今，这些课程随处可得，但参与群体有问题。”
+A review of MOOCs co-written by Professor Hollands concluded that the typical community college student often did not have the literacy or the drive necessary to benefit from courses that require a lot of self-motivation and offer little if any face-to-face interaction.
+霍兰茨与其他人合作撰写的MOOC评估报告认为，典型的社区学院学生往往没有受惠于在线课程所需的读写能力和动力——学习这些课程需要大量的自我激励，而且几乎没有面对面互动交流的机会。
+But even if MOOCs have failed to deliver on their original promise to educate the poor, they have proved more effective with another slice of the population: Americans who may already have a higher education and a job, but who feel the need to acquire new skills to progress in their careers.
+不过，即使MOOC未能兑现教育穷人的最初诺言，但事实证明，它们能更有效地帮助另一个群体：可能已经接受过高等教育且拥有一份工作，但觉得有必要学习新技能以推动职业生涯的美国人。
+Udacity was the first to move in this direction, focusing on a more humble business model helping companies create MOOCs to train their workers and customers.
+Udacity是第一家朝这个方向发展的在线教育公司。这家教育平台致力于通过一种相对没那么雄心勃勃的商业模式，帮助公司创建MOOC课程来培训它们的员工和客户。
+Google, for instance, teamed with Udacity to create MOOCs for programmers who work on Google platforms. They have a course on game design in HTML 5, and another on Android.
+比如，谷歌(Google)与Udacity合作创建了专门面向谷歌平台程序员的MOOC课程。他们已经开设了一门HTML 5语言的游戏设计课程，另一项设计课程则是基于安卓系统(Android)。
+“We want to fast-track the best practices at a large scale,” said Peter Lubbers, who is in charge of MOOC developer training for Google. “We want all the techniques we know about to get out to the market.”
+“我们想大规模地快速推广最佳实践，”谷歌公司MOOC课程开发团队负责人彼得·吕贝尔斯(Peter Lubbers)说。“我们希望传授我们知道的所有符合市场需求的技术。”
+Udacity helped Cloudera, a software company, make a MOOC to teach customers and potential customers how to use its systems to analyze big data.
+Udacity帮助软件公司Cloudera开发了一门旨在向客户和潜在客户传授如何使用该公司系统分析大数据的MOOC课程。
+The “NanoDegree” is a step in a similar direction: offering a narrow set of skills that can be clearly applied to a job, providing learners with a bite-size chunk of knowledge and an immediate motivation to acquire it.
+“纳米学位”是朝着类似方向迈出的一步：传授一套范围很窄，但可以明确应用到某项工作上的技能，为学习者提供一小块易理解的知识，以及立即掌握这些知识的动机。
+It may not offer all the advantages of a liberal arts education, but it could offer a plausible path to young men and women who may not have the time, money or skill to make it through a four-year or even a two-year degree.
+它可能无法提供文理教育的所有优点，但它可以为那些或许没有时间、金钱或技能来完成四年制或两年制学位的年轻人提供一个可行的教育路径。
+AT&T will accept the NanoDegree as a credential for entry-level jobs (and is hoping to persuade other companies to accept it, too) and has reserved 100 internship slots for its graduates. Udacity is also creating NanoDegrees with other companies.
+AT&T将认可“纳米学位”是有能力从事入门级工作的凭证（并希望说服其他公司也接受它），该公司已经为这一学位的毕业生预留了100个实习岗位。此外，Udacity正在与其他公司合作创建各类“纳米学位”。
+If all goes according to plan, Mr. Thrun says, Udacity will ultimately create an alternative approach to the “four years and done” model of higher education, splitting it into chunks that students can take throughout their lives.
+如果一切顺利，特隆说，Udacity最终将为“四年制”高等教育模式创建一个替代方案，将其分割成学生能够终生学习的“知识块”。
+“It’s a more focused education with less time wasted,” Mr. Thrun told me. “They can get a degree quickly, get a job and then maybe do it again.”
+“它是一种侧重点更加突出，耗费时间更少的教育方式，” 特隆告诉我。“学生们可以迅速获得一项学位，找到一份工作，甚至有可能多次接受这种教育。”
+This isn’t the kind of educational pathway that encourages much smelling of the roses. The live college experience is probably better at providing noncognitive skills.
+它不是那种让人对就业前景抱有玫瑰色憧憬的教育途径。那种活生生的大学体验或许能够更好地传授非认知类技能。

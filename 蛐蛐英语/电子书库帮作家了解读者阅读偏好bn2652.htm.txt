@@ -1,0 +1,40 @@
+SAN FRANCISCO — Before the Internet, books were written — and published — blindly, hopefully. Sometimes they sold, usually they did not, but no one had a clue what readers did when they opened them up. Did they skip or skim? Slow down or speed up when the end was in sight? Linger over the sex scenes?
+旧金山——互联网时代以前，人们在创作、出版书籍时，常常盲目而又充满希望。有时书会畅销，但往往是滞销，对于读者开卷之后的行为，谁都一无所知。读者会跳着读还是粗粗浏览？快到结尾时，是慢下来还是加快速度？读到性描写时，是否会慢慢细读？
+A wave of start-ups is using technology to answer these questions — and help writers give readers more of what they want. The companies get reading data from subscribers who, for a flat monthly fee, buy access to an array of titles, which they can read on a variety of devices. The idea is to do for books what Netflix did for movies and Spotify for music.
+一批初创企业正在用技术来回答这些问题，并且帮助作家们满足读者更多的渴求。用户只需缴纳统一的包月费，就能在多种设备上阅读库中的大量书籍，而公司则能获取用户的阅读数据。这个想法类似于Netflix对电影的做法和Spotify对音乐的做法。
+“Self-published writers are going to eat this up,” said Mark Coker, the chief executive of Smashwords, a large independent publisher. “Many seem to value their books more than their kids. They want anything that might help them reach more readers.”
+“自助出版的作者们会一哄而上，”大型独立出版社Smashwords的首席执行官马克·科克尔(Mark Coker)说。“很多人爱自己的书似乎超过了爱孩子，他们渴望任何一种能帮自己扩大读者面的东西。”
+Last week, Smashwords made a deal to put 225,000 books on Scribd, a digital library here that unveiled a reading subscription service in October. Many of Smashwords’ books are already on Oyster, a New York-based subscription start-up that also began in the fall.
+旧金山的电子书库Scribd在10月推出了注册阅读服务。上周，Smashwords与Scribd达成协议，在其书店里上架了22.5万本图书。Smashwords的许多书目已在同样于今秋起步的订阅型初创企业Oyster的书店上架，后者位于纽约。
+The move to exploit reading data is one aspect of how consumer analytics is making its way into every corner of the culture. Amazon and Barnes & Noble already collect vast amounts of information from their e-readers but keep it proprietary. Now the start-ups — which also include Entitle, a North Carolina-based company — are hoping to profit by telling all.
+这种挖掘阅读数据的举措，从一个侧面展示了消费者分析如何渗透到了我们文化中的每一个角落。亚马逊(Amazon)和巴诺书店(Barnes & Noble)已经通过其电子阅读器收集了大量信息，但它们将这些数据当作专有信息。如今，包括总部位于北卡罗来纳州的Entitle在内的一些初创企业，希望通过公开这些数据来获利。
+“We’re going to be pretty open about sharing this data so people can use it to publish better books,” said Trip Adler, Scribd’s chief executive.
+Scribd首席执行官特里普·阿德勒(Trip Adler)表示，“我们会很乐意地共享数据，这样人们就可以利用数据，出版更好的书籍。”
+Quinn Loftis, a writer of young adult paranormal romances who lives in western Arkansas, interacts extensively with her fans on Facebook, Pinterest, Twitter, Goodreads, YouTube, Flickr and her own website. These efforts at community, most of which did not exist a decade ago, have already given the 33-year-old a six-figure annual income. But having actual data about how her books are being read would take her market research to the ultimate level.
+住在阿肯色州西部的年轻作者奎因·洛夫蒂斯(Quinn Loftis)撰写灵异成人浪漫小说。她会在Facebook、Pinterest、Twitter、Goodreads、YouTube、Flickr，以及她自己的个人网站上与粉丝们进行广泛交流。这样的网络社区活动，已经为这名33岁的作者带来了六位数的年收入，而10年前，其中大部分网络社区都还没有出现。但如果能获得读者如何阅读其书籍的实际数据，她的市场调研就能达到最高水平。
+“What writer would pass up the opportunity to peer into the reader’s mind?” she asked.
+她问道，“什么样的作者会放过了解读者想法的机会呢？”
+Scribd is just beginning to analyze the data from its subscribers. Some general insights: The longer a mystery novel is, the more likely readers are to jump to the end to see who done it. People are more likely to finish biographies than business titles, but a chapter of a yoga book is all they need. They speed through romances faster than religious titles, and erotica fastest of all.
+Scribd刚刚开始分析注册用户数据。以下是一些笼统的发现：悬疑小说篇幅越长，读者就越可能跳到结尾查看凶手是谁；与商业书目相比，读者读完传记类书籍的可能性更大；但对于瑜伽书籍，读完一个章节就足够了；读者浏览浪漫小说的速度比宗教书籍快，而浏览速度最快的是情色文学。
+At Oyster, a top book is “What Women Want,” promoted as a work that “brings you inside a woman’s head so you can learn how to blow her mind.” Everyone who starts it finishes it. On the other hand, Arthur M. Schlesinger Jr.’s “The Cycles of American History” blows no minds: fewer than 1 percent of the readers who start it get to the end.
+在Oyster的书库里，有一本名为《女人想要什么》(What Women Want)的畅销书，该书的推广词为“带你了解女人所思所想，这样你才能给她惊喜”。每一个点开该书的读者都读完了整本书。另一方面，小阿瑟·M·施莱辛格(Arthur M. Schlesinger Jr.)的《美国历史的循环》(The Cycles of American History)却没能给任何人带来惊喜：点开该书的读者只有1%读完了全书。
+Oyster data shows that readers are 25 percent more likely to finish books that are broken up into shorter chapters. That is an inevitable consequence of people reading in short sessions during the day on an iPhone.
+Oyster的数据显示，如果全书分成了较短的章节，那么读者读完的可能性就会提高25%。这是一个不可避免的结果，因为人们一天当中会用一些较短的时间段，在iPhone上阅读。
+A few writers might be repelled by too much knowledge. But others would be fascinated, as long as they retained control.
+太多信息可能会让一些作者感到厌烦。但另一些作者会非常着迷，只要他们能自己做主。
+“Would we provide this data to an author? Absolutely,” said Chantal Restivo-Alessi, chief digital officer for HarperCollins Publishers. “But it is up to him how to write the book. The creative process is a mysterious process.”
+“我们会将这些数据提供给作者吗？当然，”哈珀柯林斯出版集团(HarperCollins Publishers)首席数字官尚塔尔·雷斯蒂沃-阿莱西(Chantal Restivo-Alessi)说。“但书要怎么写，是要由作者决定的。创作过程是一个神秘的过程。”
+Here is how Scribd and Oyster work: Readers pay about $10 a month for a library of about 100,000 books from traditional presses. They can read as many books as they want.
+Scribd和Oyster的经营方式如下：书库中包括从传统出版社取得的大约10万本书，读者每月支付10美元，想读多少就可以读多少。
+“We love big readers,” said Eric Stromberg, Oyster’s chief executive. But Oyster, whose management includes two ex-Google engineers, cannot afford too many of them.
+Oyster的管理层包括两名前谷歌(Google)工程师，该公司的CEO埃里克·斯特龙伯格(Eric Stromberg)说，“我们喜欢阅读量很大的读者。”但Oyster却无法承受太多的此类读者。
+This could be called the Sizzler problem. In the 1990s, the steak restaurant chain tried to beef up sales with an all-you-can-eat salad bar, which got bigger as it got more popular. But as more hungry customers came, the chain was forced to lower quality, which caused customers to flee, which resulted in bankruptcy.
+这可以被称作“时时乐”(Sizzler)问题。上世纪90年代，这家牛排连锁餐厅试图通过提供“不限量自助”沙拉吧增加销售额。沙拉吧越来越受欢迎，其规模也不断加大。但随着越来越多饥肠辘辘的顾客光顾餐厅，这家连锁店被迫降低质量，导致顾客流失，最终致使餐厅破产。
+“Sure, if you had a buffet and everyone ate everything, it wouldn’t be a profitable business,” said Mr. Adler of Scribd. “But generally people only eat so much.” Only 2 percent of Scribd’s subscribers read more than 10 books a month, he said.
+“当然，如果你提供自助餐，而每个人都尽情享用，这桩生意就不会有利可图，”Scribd的阿德勒说。“但总体上，人们只会吃这么多。”他表示，只有2%的Scribd注册用户每个月的阅读量会超过10本书。”
+These start-ups are being forced to define something that only academic theoreticians and high school English teachers used to wonder about: How much reading does it take to read a book? Because that is when the publisher, and the writer, get paid.
+这些初创公司都被迫阐明只有学术理论家和中学英语老师才常常思考的问题：读多少才算读过了一本书？因为这是向出版商和作者付费的依据。
+The companies declined to outline their business model, but publishers said Scribd and Oyster offered slightly different deals. On Oyster, once a person reads more than 10 percent of the book, it is officially considered “read.” Oyster then has to pay the publisher a standard wholesale fee. With Scribd, it is more complicated. If the reader reads more than 10 percent but less than 50 percent, it counts for a tenth of a sale. Above 50 percent, it is a full sale.
+这些公司拒绝介绍它们的商业模式，但出版商表示Scribd和Oyster的协议条款稍有不同。Oyster规定，读者读了一本书10%的内容，就会被正式归类为“已读”，此时Oyster就需要向出版商支付标准的批发价。Scribd的条款比较复杂。如果读者的阅读比例超过10%，但低于50%，就支付10%的销售额，阅读比例超过50%就相当于全额销售。
+Both services say the response has been enthusiastic, but neither provided precise numbers.
+两家公司都表示，反响非常热烈，但都没有提供精确数据。

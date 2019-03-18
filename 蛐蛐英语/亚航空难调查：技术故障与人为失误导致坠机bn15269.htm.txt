@@ -1,0 +1,26 @@
+JAKARTA, Indonesia — The crash of an AirAsia passenger jet off Indonesia last year was caused by a technical fault and a failed attempt by the crew to deal with it, not by bad weather, investigators said on Tuesday.
+印度尼西亚雅加达——调查人员周二表示，去年亚航客机在印度尼西亚附近坠毁的原因是技术故障，以及机组人员解决故障的尝试失败，而非天气恶劣。
+The plane, an Airbus A320-200, plummeted into the Java Sea less than an hour after taking off from the Indonesian city of Surabaya on Dec. 28, 2014, bound for Singapore. All 162 people aboard were killed.
+失事飞机是一架空客A320-200。2014年12月28日，飞机从印尼泗水起飞前往新加坡，不到一个小时后坠入爪哇海，机上162人全部遇难。
+According to crash investigators, Flight 8501’s problems began when an alarm sounded in the cockpit four separate times, warning that an important computer system that helps control the plane’s rudder had failed. Someone then apparently tried to reset the system by removing and replacing a circuit breaker.
+据坠机事故调查人员称，QZ8501航班的问题开始是驾驶舱的一个报警器响了四次，警告一个重要的计算机系统出现故障。该系统是帮助控制飞机方向舵的。然后似乎有人试图取下和更换一个断路器来重置系统。
+That procedure is sometimes used on the ground, just as an office worker might turn a computer off and on again to clear a software problem. But doing so in flight had fatal consequences: It disengaged the plane’s autopilot and autothrust systems, and the pilots were unable to keep the aircraft under control, Soerjanto Tjahjono, the head of Indonesia’s National Transportation Safety Committee, said Tuesday at a news conference in Jakarta.
+这个步骤有时候会在地面使用，就像上班族可能会为了解决软件问题而把电脑关了再打开一样。但印尼国家运输安全委员会(National Transportation Safety Committee)主席索尔贾安托·贾约诺(Soerjanto Tjahjono)周二在雅加达的新闻发布会上说，在飞行过程中这么做会带来致命性的后果：导致飞机自动驾驶和自动推进系统断开，飞行员无法控制飞机。
+“The circuit breaker was pulled out and then pushed in again,” he said. “It caused some electrical distraction.”
+“断路器被取下，又被推了回去，”他说。“这导致了电路差错。”
+Mr. Soerjanto and crash investigators said they did not have audio or video evidence to determine who might have reset the computer’s circuit breaker. Asked whether it was a member of the cockpit crew, Mr. Soerjanto replied only, “Someone.”
+贾约诺和坠机事故调查人员表示，手中没有任何音频或视频证据能够明确谁重设了断路器。当被问到是否为驾驶舱成员所为时，贾约诺仅答“某个人”。
+Investigators said that contrary to early speculation, the weather did not play a role in the crash, even though Flight 8501 was flying in heavy storm clouds when the pilots lost control of the plane.
+调查人员称，跟之前的预测相反，尽管飞行员失去对飞机的控制时QZ8501航班正在强风暴云中飞行，但天气并不是坠毁的原因。
+The final investigation report, released after the news conference, cited several contributing factors. One was the failure of the plane’s rudder travel limiter system, which restricts rudder movement to a safe range when the aircraft is flying at high speed and high altitude. The investigators traced the failure to a cracked solder joint on a circuit board, “which led to a loss of electrical continuity.”
+最终的调查报告于记者会之后发表，指出了导致坠机的几个原因，其中一个是机上的方向舵偏转角限动器故障，所以飞机在高空高速飞行时无法保持在安全角度。调查人员发现，因为电路板上出现了一处焊接裂缝，“导致断电”，于是偏转角限动器失灵。
+Investigators said the airline’s maintenance records showed that the rudder limiter system on the aircraft had problems on 23 occasions in 2014.
+调查人员称，根据该架飞机的维修纪录，机上的方向舵偏转角限动器在2014年有23次故障记录。
+“At the time, it was considered minor damage,” said Nurcahyo Utomo, a retired Indonesian pilot and a member of the investigation team. “It was not a concern at the time.”
+“当时以为是小问题，”调查组成员、退休的印尼机师努查约·乌托莫(Nurcahyo Utomo)说。“那时候不觉得需要担心。”
+The investigators did not blame human error for the crash, but the report noted that once the plane’s autopilot and autothrust were disengaged, “subsequent flight crew action resulted in inability to control the aircraft.”
+事故调查人员并不认为坠机要归咎于人为失误，但报告指出，飞机的自动驾驶和自动推进系统一旦断开，“机组成员的后续动作导致无法控制飞机。”
+According to the investigators, after the circuit breaker was removed and reinserted, the aircraft rolled hard to the left before leveling out. The aircraft, flying at an altitude of 32,000 feet, then climbed at a steep angle for an additional 5,000 feet and stalled. It then rolled hard to the left again and began falling out of control, nose first, toward the water at a speed of 20,000 feet per minute.
+根据调查小组的推论，断路器被移除并重新接上之后，飞机严重左倾，然后拉平。当时飞机处于3.2万英尺高空，再以陡直的角度往上飞了5000英尺后失速。飞机再度严重左倾，开始失去控制，以每分钟2万英尺的速度，机头朝下坠入水中。
+“The manual handling” after the autopilot was off “resulted in the aircraft entering a prolonged stall and upset condition, which was beyond the capability of the crew to recover,” the report said.
+文中指出，自动驾驶系统关掉后的“手动控制导致飞机进入了长时间的失速和异常状态，超过了飞行员能挽回的范畴。”

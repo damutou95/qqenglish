@@ -1,0 +1,28 @@
+Updated, with comment from Tony Fadell, founder of Nest.
+更新，随附Nest创始人托尼·法德尔(Tony Fadell)的评论。
+Science fiction got a few things right.
+有几件事让科幻小说中了。
+Our home appliances are becoming intelligent, drones are flying through the skies and cars are starting to drive themselves. But they can’t fly — yet.
+我们的家用电器正变得更加智能化，无人机正从天空飞过，汽车正在实现自动驾驶。不过它们不能飞——现在还不行。
+But it seems science fiction thinkers may have missed one big and possibly frightening (or annoying) prediction: that these devices would be another place for advertising.
+不过，看起来科幻小说家可能已经错过了一个重大的、也许有些吓人（或者烦人）的预测：这些电器会成为广告的又一个发布场。
+According to a December letter sent to the Securities and Exchange Commission, which became public on Tuesday, Google hopes to put ads “on refrigerators, car dashboards, thermostats, glasses, and watches, to name just a few possibilities.”
+根据去年12月致美国证券交易委员会（Securities and Exchange Commission，简称SEC）的一封信，谷歌希望“在电冰箱、汽车仪表板、恒温器、眼镜和手表上”发布广告，“这只是他们提到的几种可能性。”
+How would this work? Imagine that it’s a cold winter day. The snow starts floating down, a wind kicks up and you go to your thermostat to kick up the heat. In Google’s world, that action could be met with an advertisement on your thermostat for a new wool sweater.
+具体该怎样做呢？请想象这是一个寒冷的冬日。雪花开始飘落，寒风呼啸，你走到恒温器前，打开加热功能。在谷歌的世界里，你的这个动作可以令恒温器打出一则新款羊毛衫的广告。
+Google said in its S.E.C. filing that this plan to advertise in places beyond the desktop and cellphones came about partly because the company expects people to be using several different kinds of Google services and products in the near future. If that is the case, which it probably is, the company said its advertising would be able to follow customers between those experiences.
+谷歌在提交给SEC的文件中称，他们之所以产生了在台式电脑和手机之外的设备上发布广告的计划，部分是因为公司预计，人们会在不久的将来使用几种不同类型的谷歌服务和产品。如果真的这样——事实上的确有可能，公司称它的广告将可以在客户的这些不同体验之间保持连贯性。
+Google hopes to offer advertisers a new feature called “Enhanced Campaigns,” which are advertisements that can be aimed at people across several kinds of  devices or experiences, including cellphones, cars or thermostats.
+谷歌希望能向投放广告的人提供一种名为“增强型广告”的新功能，这是一种能针对跨类型设备使用者的广告，对象是拥有手机、汽车或恒温器等几种设备或使用体验的用户。
+“Enhanced Campaigns allows our advertisers to write one ad campaign, which we serve dynamically to the right user at the right time on whatever device makes the most sense,” Google wrote in the filing. “Because users will increasingly view ads and make purchase decisions on and across multiple devices, our view of revenue is similarly device-agnostic.”
+“增强型广告能让我们的广告商创作一条广告，我们能伺机而动，适时地把它投放到合适的用户所用的最合适的设备上，”谷歌在文件中写道，“因为用户会越来越依靠在多类设备间浏览广告来做购买决定，所以我们对营收的看法同样具有设备兼容性。”
+But Tony Fadell, the founder of Nest, the thermostat company that was acquired by Google, cited a Google statement on Twitter noting that new advertisements would not be included in the specific Nest thermostat. Nest, he wrote, does not have an ads-based model and has never had any such plans.
+不过，被谷歌收购的恒温器公司Nest的创始人托尼·法德尔在Twitter上援引谷歌的声明指出，Nest的特定款恒温器不会发布这种新型广告。他写道，Nest没有生产广告型的恒温器，也从来没有类似的计划。
+“We’ve contacted the S.E.C. to clarify our 2013 filing, it does not reflect Google’s product roadmap,” he wrote.
+他写道，“我们已经联系了SEC，就我们在2013年提交的文件做出了澄清，该文件并未呼应谷歌的产品路线图。”
+While this might sound like dollar signs for Google, it could be a bit frustrating to the company’s users. As much as I want my car to drive me to work in the morning, I don’t want it trying to sell me everything we see along the route. “Hey, Nick, should we stop for an Egg McMuffin?”
+这听起来或许像是谷歌的挣钱新招，然而它也许让该公司的用户感到有点失望。我想让我的车在早晨载我去上班，却半点不想让它向我推销我在路途中看到的任何东西。“嗨，尼克(Nick)，咱们要不要停下来买个吉士蛋麦满分？”
+But that (driverless) ship may already have sailed.
+不过也许已经晚了，无人驾驶之舟已经起航。
+In its letter to the S.E.C., Google said it was disclosing this information because the company expected that multidevice advertising campaigns could deliver meaningful levels of new revenue in the future.
+在给SEC的信中，谷歌表示，该公司之所以会披露这则信息，是因为它预计，多设备广告平台能在未来给公司带来相当可观的新收入。

@@ -1,0 +1,50 @@
+One of the world’s most evasive digital arms dealers is believed to have been taking advantage of three security vulnerabilities in popular Apple products in its efforts to spy on dissidents and journalists.
+据信，一家属于全球渗透性最强之列的数字武器交易商，一直在利用热销的苹果(Apple)产品中的三个安全漏洞，来监视异见人士和新闻工作者。
+Investigators discovered that a company called the NSO Group, an Israeli outfit that sells software that invisibly tracks a target’s mobile phone, was responsible for the intrusions. The NSO Group’s software can read text messages and emails and track calls and contacts. It can even record sounds, collect passwords and trace the whereabouts of the phone user.
+调查人员发现，这个名为NSO集团(NSO Group)的以色列公司对多起入侵事件负有责任。该公司销售的软件能够在无形中追踪目标的移动电话、读取短信和电子邮件、追踪通话和联系人信息，甚至还能记录声音、收集密码并追踪手机用户的下落。
+In response, Apple on Thursday released a patched version of its mobile software, iOS 9.3.5. Users can get the patch through a normal software update.
+作为回应，苹果周四发布了经过修复的移动软件版本iOS 9.3.5。用户可通过正常的软件升级获取补丁。
+Apple fixed the holes 10 days after a tip from two researchers, Bill Marczak and John Scott Railton, at Citizen Lab at the University of Toronto’s Munk School of Global Affairs, and Lookout, a San Francisco mobile security company.
+在收到来自多伦多大学(University of Toronto)蒙克全球事务学院(Munk School of Global Affairs)“公民实验室”(Citizen Lab)的研究人员比尔·马尔切克(Bill Marczak)和约翰·斯科特·雷尔顿(John Scott Railton)，以及旧金山移动安全公司Lookout的提醒十天后，苹果修复了相关漏洞。
+“We advise all of our customers to always download the latest version of iOS to protect themselves against potential security exploits,” said Fred Sainz, a company spokesman.
+“我们建议全体顾客坚持下载最新版本的iOS，以保护自己远离潜在的安全漏洞，”苹果公司的发言人弗雷德·赛恩斯(Fred Sainz)说。
+In interviews and manuals, the NSO Group’s executives have long boasted that their spyware worked like a “ghost,” tracking the moves and keystrokes of its targets, without leaving a trace. But until this month, it was not clear how exactly the group was monitoring its targets, or who exactly it was monitoring.
+在采访和产品使用手册中，NSO集团的高管长期夸耀道，他们的间谍软件工作时就像“幽灵”一样，在追踪目标的动作和按键时，不会留下一丝痕迹。但在本月之前，外界并不知道该集团究竟是如何监视目标的，也不知道它到底在监视谁。
+A clearer picture began to emerge on Aug. 10, when Ahmed Mansoor, a prominent human rights activist in the United Arab Emirates, who has been tracked by surveillance software several times, began receiving suspicious text messages. The messages purported to contain information about the torture of U.A.E. citizens.
+8月10日，当多次被监视软件跟踪的阿拉伯联合酋长国著名人权活动人士艾哈迈德·曼苏尔(Ahmed Mansoor)开始收到可疑短信时，更清晰的画面开始浮现。那些短信宣称包含有关阿联酋公民被刑讯逼供的信息。
+Mr. Mansoor passed the messages to researchers at the Citizen Lab, who confirmed they were an attempt to track him through his iPhone.
+曼苏尔把短信转给了“公民实验室”的研究人员。后者证实，有人企图通过他的手机跟踪他。
+This latest effort was far more sophisticated than what was found aimed at his devices before. The researchers found it was connecting to 200 servers, several of them registered to the NSO Group. Strewn throughout the spyware code were references to Pegasus, the name of an NSO Group spyware product.
+最新这次行动，远比以前发现的针对曼苏尔的设备所采取的行动更复杂。研究人员发现，它和200台服务器相连，其中几台登记在NSO集团的名下。间谍软件代码中多次提到Pegasus，这是NSO集团一款监视软件产品的名字。
+Citizen Lab brought in Lookout to help examine the code. Together, they discovered that the spyware relied on three previously unknown iOS vulnerabilities — called “zero days” because Apple didn’t know about them and had zero days to patch them.
+“公民实验室”请Lookout来协助研究这些代码。他们在合作中发现，这款间谍软件依赖之前不为人知的三个iOS安全漏洞。它们被叫做“零日”(zero days)，因为苹果不知道它们，没花哪怕一天时间去修复它们。
+In many cases, the NSO Group had designed its tools to impersonate those of the Red Cross, Facebook, Federal Express, CNN, Al Jazeera, Google and even the Pokemon Company to gain the trust of its targets, according to the researchers.
+研究人员称，很多情况下，NSO集团把自己的工具设计得像红十字会(Red Cross)、Facebook、联邦快递(Federal Express)、CNN、半岛电视台(Al Jazeera)、谷歌(Google)，甚至宝可梦公司(Pokemon Company)的一样，以便获取目标的信任。
+“NSO Group was very professional, and very effective in staying silent,” said Mike Murray, a vice president at Lookout.
+“NSO集团非常专业，在保持沉默方面也非常有效，”Lookout的副总裁迈克·默里(Mike Murray)说。
+In recent years, zero day flaws have been traded among hackers, brokers, companies like the NSO Group, and spy agencies and law enforcement networks eager for ways to break into devices.
+近年来，零日漏洞在黑客、中间商、NSO集团这样的公司，和迫切地想要破解设备的间谍机构与执法网络之间交易。
+Flaws in Apple’s iOS software are sold at a premium. Last year, a similar zero-day exploit in Apple’s iOS software was sold to Zerodium, a Washington buyer and seller of zero-days, for $1 million.
+苹果iOS软件中的漏洞售价高昂。去年，苹果iOS软件中一个类似的零日漏洞被以100万美元（约合670万元人民币）的价格，卖给了华盛顿零日漏洞中间商Zerodium公司。
+Earlier this year, James Comey, the director of the Federal Bureau of Investigation, announced that his agency had paid hackers who found a way for the F.B.I. to crack into an iPhone used by one of the shooters in last year’s mass killings in San Bernardino, Calif. Neither the hackers nor the F.B.I. have told Apple how this was accomplished.
+今年早些时候，联邦调查局（Federal Bureau of Investigation，简称FBI）局长詹姆斯·科米(James Comey)宣布，FBI向为其找到破解一部iPhone的办法的黑客支付了报酬。那部iPhone的主人是去年加州圣贝纳迪诺大规模杀人事件中的枪手之一。黑客和FBI均未告诉苹果公司他们是怎么做到的。
+Apple’s software update patches the NSO Group’s exploits, but it is unclear whether the company has patched the vulnerabilities used by the F.B.I. to crack into its iPhone. Apple recently began a “bug bounty” program to pay hackers who report vulnerabilities in its systems.
+苹果的软件更新修复了被NSO集团利用的漏洞，但尚不清楚该公司是否修复了被FBI用来破解那部iPhone的漏洞。最近，苹果启动了一个“漏洞奖励”计划，出钱让黑客报告其系统中的漏洞。
+Among the other NSO targets, besides Mr. Mansoor, were Rafael Cabrera, a Mexican journalist, who broke a story on conflicts of interest among Mexico’s ruling family. In several cases, NSO Group’s tools had been crafted to target users in Yemen, Turkey, Mozambique, Mexico, Kenya and the U.A.E.
+除曼苏尔外，NSO的其他目标还包括墨西哥记者拉斐尔·卡布雷拉(Rafael Cabrera)。他写了一篇揭露墨西哥统治家族中的利益冲突的报道。在几个案例中，NSO集团制作的工具被用来追踪也门、土耳其、莫桑比克、墨西哥、肯尼亚和阿拉伯联合酋长国境内的用户。
+Zamir Dahbash, an NSO Group spokesman, said in an email, “The company sells only to authorized governmental agencies, and fully complies with strict export control laws and regulations.”
+NSO集团的发言人扎米尔·达巴什(Zamir Dahbash)在电子邮件中表示，“本公司只面向获得授权的政府机构销售产品，并完全遵守严格的出口管控法律规定。”
+Mr. Dahbash added that NSO Group does not operate any of its systems and requires that its customers use its products in a “lawful manner.” “Specifically,” he said, “the products may only be used for the prevention and investigation of crimes.”
+达巴什接着表示，NSO集团不操作自己的任何系统，并且要求客户“合法”使用其产品。“具体来说，”他说。“相关产品仅用于预防和调查犯罪。”
+He would not say if the software is used by government agencies in the U.A.E. or Mexico.
+他没有透露阿拉伯联合酋长国或墨西哥的政府机构是否使用了相关软件。
+In 2014, NSO Group sold a majority stake to San Francisco-based private equity firm Francisco Partners Management LLC for $120 million. Francisco Partners declined to comment.
+2014年，NSO集团将多数股权作价1.2亿美元，卖给了总部设在旧金山的私募股权公司Francisco Partners Management LLC。后者拒绝置评。
+Mr. Mansoor said in an interview that the discoveries were a sad reminder that no matter what he does to protect his devices and digital security, he will continue to be a target for companies that provide this sort of spying technology.
+曼苏尔在接受采访时表示，这些发现令人遗憾，提醒他注意，不管为保护自己的设备和数字安全采取了何种措施，他依然会成为提供这种间谍技术的公司的目标。
+“I guess I am their regular customer,” he said. “I am the guinea pig.”
+“我猜我是他们的老客户，”他说。“我就是那个试验对象。”
+Bill Marczak, the researcher at Citizen Lab who has been helping Mr. Mansoor protect his digital security, said that the surveillance experienced by Mr. Mansoor is likely to expand.
+一直在帮助曼苏尔保护其数字安全的“公民实验室”研究人员比尔·马尔切克说，曼苏尔经历的这种监视可能会扩大。
+“The targeting of these activists and dissidents is a taste of what’s to come,” Mr. Marczak said. “What they’re facing today will be faced by ordinary users tomorrow.”
+“针对这些活动人士和异见人士的活动预示着未来的发展趋势，”马尔恰克说。“他们今天面临的情况，普通用户明天也会遇到。”

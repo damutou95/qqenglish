@@ -1,0 +1,106 @@
+When North Korean hackers tried to steal $1 billion from the New York Federal Reserve last year, only a spelling error stopped them. They were digitally looting an account of the Bangladesh Central Bank, when bankers grew suspicious about a withdrawal request that had misspelled “foundation” as “fandation.”
+去年，朝鲜黑客试图从纽约的美联储(Federal Reserve)窃取10亿美元，只是因为一个拼写错误才没有成功。他们运用数字方式洗劫孟加拉国中央银行的一个账户，当时，银行工作人员发现一个取现请求中将“foundation”（基金）错误地拼写为“fandation”，因此产生了怀疑。
+Even so, Kim Jong Un’s minions got away with $81 million in that heist.
+即使如此，金正恩(Kim Jong Un)的下属也在这次抢劫行动中卷走了8100万美元。
+Then only sheer luck enabled a 22-year-old British hacker to defuse the biggest North Korean cyberattack to date, a ransomware attack in May that failed to generate much cash but brought down hundreds of thousands of computers across dozens of countries — and briefly crippled Britain’s National Health Service.
+五月，一款勒索软件的攻击虽然最终没有为朝鲜带来大量利润，但是令数十个国家的数十上百万台计算机停止工作，并令英国国民医疗服务体系瘫痪了短暂的一段时间，这是朝鲜迄今发动的最大的网络攻击，它能被一个22岁的英国黑客平息下去，只是由于纯粹的运气。
+Their track record is mixed, but North Korea’s army of more than 6,000 hackers is undeniably persistent, and undeniably improving, according to U.S. and British security officials who have traced these attacks and others back to the North.
+据跟踪这些袭击事件，以及其他同朝鲜有关的袭击事件的英美安全官员说，其过往的成绩好坏参半，但是拥有6000多人的朝鲜黑客部队无疑是坚持不懈的，而且肯定还在不断取得进步。
+Amid all the attention on Pyongyang’s progress in developing a nuclear weapon capable of striking the continental United States, the North Koreans have also quietly developed a cyberprogram that is stealing hundreds of millions of dollars and proving capable of unleashing global havoc.
+平壤一直在开发能打击美国本土的核武器，这方面的进展令举世瞩目，与此同时，朝鲜还悄悄开发了一个网络计划，目前正在全世界窃取数以亿计的美元，现已被证明能够制造全球规模的大动荡。
+Unlike its weapons tests, which have led to international sanctions, the North’s cyberstrikes have faced almost no pushback or punishment, even as the regime is using its hacking capabilities for actual attacks against its adversaries in the West.
+朝鲜的武器试验已经遭受国际制裁，然而，虽然该政权正在利用其黑客攻击能力对它的西方敌人们实施真正的攻击，这些网络行动却几乎没有遭到任何抵制或惩罚。
+And just as Western analysts once scoffed at the potential of the North’s nuclear program, so did experts dismiss its cyber potential — only to now acknowledge that hacking is an almost perfect weapon for a Pyongyang that is isolated and has little to lose.
+正如西方分析人士曾经嘲笑朝鲜核计划的潜力，专家们也同样低估了该国的网络潜力，他们直到现在才承认，对于遭受孤立、几乎没有什么可以损失的平壤来说，黑客是近乎完美的武器。
+The country’s primitive infrastructure is far less vulnerable to cyber retaliation, and North Korean hackers operate outside the country, anyway. Sanctions offer no useful response, since a raft of sanctions are already imposed. And Kim’s advisers are betting that no one will respond to a cyberattack with a military attack, for fear of a catastrophic escalation between North and South Korea.
+该国简陋的基础设施几乎不怕网络报复，况且朝鲜的黑客是在该国之外运作。制裁不会带来任何有帮助的反应，因为朝鲜已经遭到了一大批制裁。而且金正恩的顾问猜测，由于担心朝韩冲突出现灾难性的恶化，没有哪个遭受网络攻击的国家会以军事攻击作为回应。
+“Cyber is a tailor-made instrument of power for them,” said Chris Inglis, a former deputy director of the National Security Agency, who now directs cyberstudies at the U.S. Naval Academy. “There’s a low cost of entry, it’s largely asymmetrical, there’s some degree of anonymity and stealth in its use. It can hold large swaths of nation state infrastructure and private-sector infrastructure at risk. It’s a source of income.”
+“网络是为他们量身定制的有力工具，”曾任美国国家安全局副局长的克里斯·英格利斯(Chris Inglis)表示，目前他在美国海军学院(U.S. Naval Academy)负责展开网络研究。“网络攻击的参与成本很低，这在很大程度上是不对称的，而且它有一定程度的匿名性和隐蔽性。朝鲜的网络攻击可能会对一个国家的基础设施和私营部门基础设施造成极大损害。它还是朝鲜的收入来源。”
+Inglis, speaking at the Cambridge Cyber Summit this month, added: “You could argue that they have one of the most successful cyber programs on the planet, not because it’s technically sophisticated, but because it has achieved all of their aims at very low cost.”
+英格利斯在本月的剑桥网络峰会(Cambridge Cyber Summit)上发言表示：“可以说他们制定了世界上最成功的网络计划之一，并不是因为其技术有多么成熟复杂，而是因为它以非常低的成本实现了他们所有的目标。”
+It is hardly a one-way conflict: By some measures the United States and North Korea have been engaged in an active cyber conflict for years.
+这很难说是一场单向的冲突：多年来，美国和朝鲜都在某种程度上积极地制造网络冲突。
+Both the United States and South Korea have also placed digital “implants” in the Reconnaissance General Bureau, the North Korean equivalent of the Central Intelligence Agency, according to documents that Edward J. Snowden released several years ago. U.S.-created cyber and electronic warfare weapons were deployed to disable North Korean missiles, an attack that was, at best, only partially successful.
+根据爱德华·J·斯诺登(Edward J. Snowden)于几年前披露的文件，美国和韩国曾将数字“植入物”置入朝鲜侦查总局(Reconnaissance General Bureau)，这是朝鲜相当于中央情报局的机构。美国开发的网络武器和电子战武器都被用来对付朝鲜导弹，希望能令其难以正常运转，这一行动至多只能说取得了部分的成功。
+Indeed, both sides see cyber as the way to gain tactical advantage in their nuclear and missile standoff.
+事实上，双方都希望网络能在核武器与导弹对抗僵局中为自己带来战术优势。
+Once North Korea counterfeited crude $100 bills to try to generate hard cash. Now intelligence officials estimate that North Korea reaps hundreds of millions a dollars a year from ransomware, digital bank heists, online video game cracking and, more recently, hacks of South Korean Bitcoin exchanges.
+朝鲜曾伪造粗糙的100美元钞票，试图以此挣取现金。现在，情报官员们估计，朝鲜每年从勒索软件、数字式银行抢劫、对网络游戏的侵入以及最近对韩国比特币交易的黑客袭击中获利数亿美元。
+One former British intelligence chief estimates the take from its cyberheists may bring the North as much as $1 billion a year, or a third of the value of the nation’s exports.
+前英国情报机构的一名主管估计，朝鲜可能每年从网络抢劫中获利最多达10亿美元，相当于该国年均出口总值的三分之一。
+The North Korean cyberthreat “crept up on us,” said Robert Hannigan, former director of Britain’s Government Communications Headquarters, which handles electronic surveillance and cybersecurity.
+英国政府通讯总部(Britain’s Government Communications Headquarters)的前负责人罗伯特·汉尼根(Robert Hannigan)表示，朝鲜的网络威胁“悄悄笼罩着我们”。该机构负责电子监控和网络安全。
+“Because they are such a mix of the weird and absurd and medieval and highly sophisticated, people didn’t take it seriously,” he said. “How can such an isolated, backward country have this capability? Well, how can such an isolated backward country have this nuclear ability?”
+“因为他们既奇怪又荒唐，既落后又高端，所以人们从前并没有认真对待它，”他说。“这样一个孤立落后的国家怎么可能有这种能力呢？呃，这样一个孤立落后的国家怎么可能有核能力呢？”
+From Minor Leaguers to Serious Hackers
+从毫不起眼到有威胁的黑客
+Kim Jong Il, the father of the current dictator and the initiator of North Korea’s cyberoperations, was a movie lover who became an internet enthusiast, a luxury reserved for the country’s elite. When Kim died in 2011, the country was estimated to have 1,024 IP addresses, fewer than on most New York City blocks.
+朝鲜目前独裁者的父亲、朝鲜网络行动的发起者金正日(Kim Jong Il)是个影迷，后来成了互联网爱好者——上网是该国精英的奢侈特权。2011年金正日去世时，该国估计有1024个IP地址，比纽约市大部分街区的都少。
+North Korea began identifying promising students at an early age for special training. In the late 1990s, the FBI’s counterintelligence division noticed that North Koreans assigned to work at the United Nations were also quietly enrolling in university computer programming courses in New York.
+朝鲜开始寻找有潜力的、年纪不大的学生，进行特殊培训。在20世纪90年代末，联邦调查局(FBI)的反情报部门注意到，派往联合国工作的朝鲜人也在纽约悄悄学习大学计算机编程课程。
+“The FBI called me and said, ‘What should we do?’ ” recalled James A. Lewis, at the time in charge of cybersecurity at the Commerce Department. “I told them, ‘Don’t do anything. Follow them and see what they are up to.'”
+“FBI打电话问我，‘我们该怎么办？’”当时在商务部(Commerce Department)负责网络安全的詹姆斯·A·刘易斯(James A. Lewis)回忆说。“我对他们说，‘什么也别做。盯着他们，看他们要干什么。’”
+A National Intelligence Estimate in 2009 wrote off the North’s hacking prowess, much as it underestimated its long-range missile program. It would be years before it could mount a meaningful threat, it claimed.
+2009年的一份国家情报评估报告低估了朝鲜的黑客实力，正如它低估了朝鲜的远程导弹计划。该报告称，朝鲜要制造出有意义的威胁，还需要很多年时间。
+But the regime was building that threat.
+但该政权当时就在建立这种威胁能力。
+When Kim Jong Un succeeded his father, in 2011, he expanded the cyber mission beyond serving as just a weapon of war, focusing also on theft, harassment and political-score settling.
+2011年，金正恩继承父亲的大权后，扩大了网络任务，不仅将它用作战争武器，也用于盗窃、骚扰和政治报复。
+“Cyberwarfare, along with nuclear weapons and missiles, is an ‘all-purpose sword’ that guarantees our military’s capability to strike relentlessly,” Kim Jong Un reportedly declared, according to the testimony of a South Korean intelligence chief.
+根据韩国情报局长的证词，据说金正恩曾宣称：“网络战与核武器和导弹一样，是一把‘万能剑’，为我们的军队进行无情的打击提供了保证。”
+And the array of U.N. sanctions against Pyongyang only incentivized Kim’s embrace.
+联合国对平壤的一系列制裁更是强化了金正恩对网络的接纳。
+“We’re already sanctioning anything and everything we can,” said Robert P. Silvers, the former assistant secretary for cyberpolicy at the Department of Homeland Security during the Obama administration. “They’re already the most isolated nation in the world.”
+“我们已经在进行所有可能的制裁，”奥巴马政府国土安全部(Department of Homeland Security)负责网络政策的前助理部长罗伯特·P·西尔弗斯(Robert P. Silvers)说。“他们已经是世界上最孤立的国家了。”
+Learning From Iran, Growing Bolder
+学习伊朗，越来越大胆
+For decades Iran and North Korea have shared missile technology, and U.S. intelligence agencies have long sought evidence of secret cooperation in the nuclear arena. In cyber, the Iranians taught the North Koreans something important: When confronting an enemy that has internet-connected banks, trading systems, oil and water pipelines, dams, hospitals and entire cities, the opportunities to wreak havoc are endless.
+几十年来，伊朗和朝鲜共享导弹技术，美国情报机构长期以来一直在寻找它们在核武器领域秘密合作的证据。在网络方面，伊朗让朝鲜明白了重要的一点：如果你的敌人的银行、交易系统、石油管道和水管、水坝和医院，甚至整个城市，都与互联网连接，那么你进行破坏的机会是无穷的。
+By midsummer 2012, Iran’s hackers, still recovering from a U.S. and Israeli-led cyberattack on Iran’s nuclear enrichment operations, found an easy target in Saudi Aramco, Saudi Arabia’s state-owned oil company and the world’s most valuable company.
+2012年夏，就在伊朗的黑客们仍在舔舐美国和以色列领导的针对伊朗核浓缩计划的网络攻击留下的伤口之际，他们发现了一个易于攻击的目标：世界上最值钱的公司——沙特阿拉伯的国有油企沙特阿美公司(Saudi Aramco)。
+That August, Iranian hackers flipped a kill switch at precisely 11:08 a.m., unleashing a simple wiper virus onto 30,000 Aramco computers and 10,000 servers that would destroy data, and replace it with a partial image of a burning American flag. The damage was tremendous.
+当年8月，伊朗的黑客们在上午11点08分整开始了攻击，将一个简单的数据删除病毒散布到沙特阿美公司的三万台电脑和一万台服务器上，清除了数据，代之以焚烧中的美国国旗的部分图像。那次的损失极其巨大。
+Seven months later, during joint military exercises between U.S. and South Korean forces, North Korean hackers deployed a very similar cyberweapon against computer networks at three major South Korean banks and South Korea’s two largest broadcasters. Like Iran’s Aramco attacks, the North Korean attacks on South Korean targets used wiping malware to eradicate data and paralyze their business operations.
+七个月后，在美国和韩国军队进行联合军演期间，朝鲜黑客对韩国的三大银行和两家最大的广电公司的计算机网络部署了非常相似的网络武器。和伊朗对沙特阿美公司的攻击一样，朝鲜对韩国目标的攻击也是使用恶意软件清除数据，造成业务运行瘫痪。
+Protecting Kim’s Image
+维护金正恩的形象
+A chief political objective of the cyberprogram is to preserve the image of the North’s 33-year-old leader, Kim Jong Un. In August 2014, North Korean hackers went after a British broadcaster, Channel Four, which had announced plans for a television series about a British nuclear scientist kidnapped in Pyongyang.
+该网络计划的首要政治目标是维护朝鲜33岁的领导人金正恩的形象。2014年8月，朝鲜黑客攻击了英国电视公司“第四频道”(Channel Four)，因为该频道宣布计划制作关于被绑架到平壤的英国核科学家的系列片。
+First, the North Koreans protested to the British government. “A scandalous farce,” North Korea called the series. When that was ignored, British officials found that the North had hacked into the television network’s computer system. The attack was stopped before inflicting any damage, and David Abraham, chief executive of Channel Four, initially vowed to continue the production.
+朝鲜先是向英国政府表示抗议，称该系列片是“污蔑性的闹剧”。在朝鲜抗议被忽视后，英国官员发现朝鲜已经入侵了该电视网的电脑系统。这次攻击在造成破坏之前被遏止了，第四频道的首席执行官大卫·亚伯拉罕(David Abraham)最初发誓要继续制作该系列。
+That attack, however, was just a prelude. When Sony Pictures Entertainment released a trailer for “The Interview,” a comedy about two journalists dispatched to Pyongyang to assassinate North Korea’s young new dictator, Pyongyang wrote a letter of complaint to the secretary-general of the United Nations to stop the production. Then came threats to Sony.
+不过，那次袭击只是个前奏。索尼影视娱乐公司(Sony Pictures Entertainment)发布了《采访》(The Interview)的预告片后——这部喜剧片讲述的是两名记者被派往平壤刺杀朝鲜年轻的新独裁者——平壤向联合国秘书长写了一封投诉信，要求停止发行该片。接着就出现了对索尼的威胁。
+Michael Lynton, then Sony’s chief executive, said when Sony officials called the State Department, they were told it was just more “bluster,” he said.
+索尼的时任首席执行​​官迈克尔·林顿(Michael Lynton)称，当该公司的管理人员给国务院致电时，他们被告知这只是进一步的“叫嚣”而已。
+“At that point in time, Kim Jong Un was relatively new in the job, and I don’t think it was clear yet how he was different from his father,” Lynton said in an interview. “Nobody ever mentioned anything about their cyber capabilities.”
+“当时，金正恩上任时间还不长，人们还不清楚，他和他父亲有什么不同，”林顿在接受采访时称，“没人提到他们的任何网络能力。”
+In September 2014, while still attempting to crack Channel 4, North Korean hackers buried deep into Sony’s networks, lurking patiently for the next three months, as both Sony and U.S. intelligence completely missed their presence.
+2014年9月，虽然朝鲜的黑客们依然试图攻击第四频道，但他们也深深潜入了索尼的网络，在之后的三个月里耐心潜伏，索尼和美国情报机构完全没注意到他们的存在。
+The director of national intelligence, James Clapper, was even in Pyongyang at the time, trying to win the release of a detained American, and had dinner with the then-chief of the Reconnaissance General Bureau.
+当时，美国国家情报总监詹姆斯·克拉珀(James Clapper)甚至前往平壤，争取释放一名被扣留的美国人，并与朝鲜侦察总局的时任局长共进晚餐。
+On Nov. 24, the attack on Sony began: Employees arriving at work that day found their computer screens taken over by a picture of a red skeleton with a message signed “GOP,” for “Guardians of Peace.”
+11月24日，对索尼的攻击开始了：那天，员工们到达工作岗位后，发现自己的电脑屏幕被一个红色骷髅的照片控制，还有一条署名为GOP（Guardians of Peace的缩写，意为“和平守护者”）的组织发来的消息。
+Robbing Banks, Pyongyang Style
+平壤风格的银行抢劫
+Beyond respect, and retribution, the North wanted hard currency from its cyberprogram.
+除了想获得尊重，以及进行惩罚，朝鲜还想从自己的网络计划中敛财。
+So soon the digital bank heists began — an attack in the Philippines in October 2015; then the Tien Phong Bank in Vietnam at the end of the same year; and then the Bangladesh Central Bank. Researchers at Symantec said it was the first time a state had used a cyberattack not for espionage or war, but to finance the country’s operations.
+所以很快，数字式银行抢劫开始了：先是2015年10月对菲律宾的攻击；然后是同年年底对越南先锋银行(Tien Phong Bank)的攻击；之后是对孟加拉中央银行(Bangladesh Central Bank)的攻击。赛门铁克公司(Symantec)的研究人员表示，这是首次有一个国家进行网络攻击不是为了从事间谍活动或战争，而是为该国的行动筹集资金。
+Now, the attacks are increasingly cunning. Security experts noticed in February that the website of Poland’s financial regulator was unintentionally infecting visitors with malware.
+现在，那些袭击越来越狡猾了。今年2月，安全专家们发现，波兰金融监管机构的网站无意中在导致访客感染恶意软件。
+It turned out that visitors to the Polish regulator’s website — employees from Polish banks, from the central banks of Brazil, Chile, Estonia, Mexico, Venezuela and even from prominent Western banks like Bank of America — had been hit with a watering hole attack, in which North Korean hackers waited for their victims to visit the site, then installed malware in their machines. Forensics showed that the hackers had put together a list of internet addresses from 103 organizations, most of them banks, and designed their malware to specifically infect visitors from those banks, in what researchers said appeared to be an effort to move around stolen currency.
+事实证明，波兰监管机构网站的访客们——包括波兰各家银行的员工，以及巴西、智利、爱沙尼亚、墨西哥和委内瑞拉的中央银行的员工，甚至包括美国银行(Bank of America)等西方知名银行的员工——遭到了水坑攻击，朝鲜的黑客们等待受害者访问该网站，然后在他们的机器中安装恶意软件。事后的分析报告显示，黑客们从103个机构收集了互联网地址清单，其中大多是银行，并设计了恶意软件，专门用来感染来自那些银行的访客，研究人员表示，朝鲜这样做似乎是为了转移盗窃来的资金。
+More recently, North Koreans seemed to have changed tack once again. North Korean hackers’ fingerprints showed up in a series of attempted attacks on cryptocurrency exchanges in South Korea, and were successful in at least one case, according to researchers at FireEye.
+最近，朝鲜似乎再次改变了方式。据火眼公司(FireEye)的研究人员称，朝鲜黑客的印记出现在一系列针对韩国加密货币交易的攻击企图中，至少有一起攻击取得了成功。
+The attacks on Bitcoin exchanges, which see hundreds of millions of dollars worth of Bitcoin exchanged a day, offered Pyongyang a potentially very lucrative source of new funds. And, researchers say, there is evidence they have been exchanging Bitcoin gathered from their heists for Monero, a highly anonymous version of cryptocurrency that is far harder for global authorities to trace.
+针对比特币交易的攻击——每天的比特币交易额高达数亿美元——为平壤提供了一个潜在的非常丰厚的新资金来源。而且，研究人员表示，有证据表明，他们已经开始兑换比特币，而这些比特币来自对门罗币的盗窃。门罗币是一种高度匿名的加密货币，各国当局更难追踪。
+The most widespread hack was WannaCry, a global ransomware attack that used a program that cripples a computer and demands a ransom payment in exchange for unlocking the computer, or its data. In a twist the North Koreans surely enjoyed, their hackers based the attack on a secret tool, called “Eternal Blue,” stolen from the National Security Agency.
+波及范围最广的黑客攻击是“想哭”(WannaCry)，它是一个全球勒索软件攻击，它通过一个程序导致电脑无法使用，然后要求支付赎金，以换取解锁电脑或其数据。最令朝鲜得意的一点无疑是，他们所使用的是一款名为“永恒之蓝”(Eternal Blue)的秘密工具，窃取自美国国家安全局(National Security Agency)。
+A Cyber Arms Race
+网络军备竞赛
+While U.S. and South Korean officials often express outrage about North Korea’s cyber activities, they rarely talk about their own — and whether that helps fuel the cyber arms race.
+虽然美韩官员经常对朝鲜的网络活动表示愤慨，但他们很少谈及自己的网络活动，以及它们是否帮助推动了网络军备竞赛。
+Yet both Seoul and Washington target the North’s Reconnaissance General Bureau, its nuclear program and its missile program. Hundreds, if not thousands, of U.S. cyberwarriors spend each day mapping the North’s few networks, looking for vulnerabilities that could be activated in time of crisis.
+不过，首尔和华盛顿都瞄准了朝鲜的侦察总局以及它的核计划和导弹计划。数以百计、甚至数以千计的美国网络战士每天都在侦察朝鲜仅有的几个网络，寻找可在危机时刻激活的漏洞。
+At a recent meeting of U.S. strategists to evaluate North Korea’s capabilities, some participants expressed concerns that the escalating cyberwar could actually tempt the North to use its weapons — both nuclear and cyber — very quickly in any conflict, for fear that the United States has secret ways to shut the country down.
+在美国战略家们最近举行的一次评估朝鲜能力的会议上，一些与会者担心不断升级的网络战争实际上可能诱使朝鲜在发生任何冲突时，迅速使用自己的核武器和网络武器，因为它可能担心美国拥有使该国停止运转的秘密途径。

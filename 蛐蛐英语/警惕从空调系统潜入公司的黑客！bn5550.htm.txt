@@ -1,0 +1,34 @@
+SAN FRANCISCO — They came in through the Chinese takeout menu.
+旧金山——他们是通过中餐馆的外卖菜单进入系统的。
+Unable to breach the computer network at a big oil company, hackers infected with malware the online menu of a Chinese restaurant that was popular with employees. When the workers browsed the menu, they inadvertently downloaded code that gave the attackers a foothold in the business’s vast computer network.
+黑客们无法侵入一家大型石油公司的电脑网络，于是在这家石油企业的员工中广受欢迎的一家中餐馆的网上菜单里植入了恶意软件。员工们浏览菜单时，不经意间下载了代码，让黑客在该公司庞大的计算机网络中找到了突破口。
+Security experts summoned to fix the problem were not allowed to disclose the details of the breach, but the lesson from the incident was clear: Companies scrambling to seal up their systems from hackers and government snoops are having to look in the unlikeliest of places for vulnerabilities.
+被召来解决问题的安全专家不准透露入侵事件的相关细节，但该事件带来了非常明显的教训：努力封锁系统，防止黑客和政府监控人员入侵的公司，可能需要查看那些最不可能受到攻击的地方。
+Hackers in the recent Target payment card breach gained access to the retailer’s records through its heating and cooling system. In other cases, hackers have used printers, thermostats and videoconferencing equipment.
+最近盗取塔吉特(Target)付款卡片信息的黑客们，通过其供暖及制冷系统获取了该零售商店的数据。在其他案例中，黑客们利用打印机、恒温器和视频会议设备获取过信息。
+Companies have always needed to be diligent in keeping ahead of hackers — email and leaky employee devices are an old problem — but the situation has grown increasingly complex and urgent as countless third parties are granted remote access to corporate systems. This access comes through software controlling all kinds of services a company needs: heating, ventilation and air-conditioning; billing, expense and human-resources management systems; graphics and data analytics functions; health insurance providers; and even vending machines.
+公司总是需要保持警惕，防患于未然——电子邮件和存在漏洞的员工设备是个老问题，但现在情况变得日益复杂、紧迫，因为有数不胜数的第三方取得了访问公司系统的权限。进入系统的通路包括控制着公司所需的各种服务的软件系统：如供暖、通风、空调系统；账单、开支、人力资源管理系统；图表及数据分析系统；医疗保险公司，甚至自动售货机。
+Break into one system, and you have a chance to break into them all.
+只要能够侵入一个系统，就有机会侵入所有系统。
+“We constantly run into situations where outside service providers connected remotely have the keys to the castle,” said Vincent Berk, chief executive of FlowTraq, a network security firm.
+网络安全公司FlowTraq首席执行官文森特·伯克(Vincent Berk)表示，“我们总是遇到这样的状况，远程接入的外部服务提供者，拥有打开城堡大门的钥匙。”
+Data on the percentage of cyberattacks that can be tied to a leaky third party is difficult to come by, in large part because victims’ lawyers will find any reason not to disclose a breach. But a survey of more than 3,500 global I.T. and cybersecurity practitioners conducted by a security research firm, the Ponemon Institute, last year found that roughly a quarter — 23 percent — of breaches were attributable to third-party negligence.
+很难确定有多大比例的网络攻击，与存在漏洞的第三方有关，这在很大程度上是因为受害企业的律师会寻找各种理由，阻止入侵事件的公开。但安全研究公司波耐蒙研究所(Ponemon Institute)去年对全球逾3500名IT及网络安全从业者开展了调查，结果发现大约四分之一(23%)的入侵事件都可以归咎于第三方的疏忽。
+Security experts say that figure is low. Arabella Hallawell, vice president of strategy at Arbor Networks, a network security firm in Burlington, Mass., estimated that third-party suppliers were involved in some 70 percent of breaches her company reviewed.
+安全专家表示，这个数字太低。马萨诸塞州伯灵顿的网络安全公司Arbor Networks的战略副总裁阿拉贝拉·哈拉韦尔(Arabella Hallawell)估计，该公司检查到的入侵事件中约有70%与第三方供应商有关。
+“It’s generally suppliers you would never suspect,” Ms. Hallawell said.
+哈拉韦尔表示，“通常是人们永远都不会怀疑的那些供应商。”
+The breach through the Chinese menu — known as a watering hole attack, the online equivalent of a predator lurking by a watering hole and pouncing on its thirsty prey — was extreme. But security researchers say that in most cases, attackers hardly need to go to such lengths when the management software of all sorts of devices connects directly to corporate networks. Heating and cooling providers can now monitor and adjust office temperatures remotely, and vending machine suppliers can see when their clients are out of Diet Cokes and Cheetos. Those vendors often don’t have the same security standards as their clients, but for business reasons they are allowed behind the firewall that protects a network.
+通过中餐馆菜单入侵是一种非常极端的手段。这种被称为“水坑式”攻击的手段，相当于网上捕食——捕食者藏在水坑边，等口渴的猎物到来时将其扑倒。安全研究人员表示，在大多数情况下，由于各种设备的管理软件直接连接到了公司网络，攻击者几乎不需要如此大费周章。供暖和制冷服务提供商现在可以远程调节办公室的温度，自动售货机供货商也可以查看健怡可乐(Diet Coke)和奇多(Cheetos)何时售完。这些供应商并没有维持与客户相同的安全标准，但出于商业原因，它们并没有被拦在保护网络的防火墙之外。
+Security experts say vendors are tempting targets for hackers because they tend to run older systems, like Microsoft’s Windows XP software. Also, security experts say these seemingly innocuous devices — videoconference equipment, thermostats, vending machines and printers — often are delivered with the security settings switched off by default. Once hackers have found a way in, the devices offer them a place to hide in plain sight.
+安全专家表示，对于黑客来说，供应商是非常诱人的目标，因为它们往往运行比较旧的系统，比如微软(Microsoft)的Windows XP软件。安全专家还表示，这些看似无害的设备，如视频会议设备、恒温器、自动售货机和打印机，在交货时安全设置通常是默认关闭的。一旦黑客们找到一条入侵的渠道，这些设备就会成为他们在光天化日之下进行隐藏的地方。
+“The beauty is no one is looking there,” said George Kurtz, the chief executive of Crowdstrike, a security firm. “So it’s very easy for the adversary to hide in these places.”
+“好处就是没人会查看那些地方，”安全公司Crowdstrike首席执行官乔治·库尔茨(George Kurtz)说。“因此，对手很容易藏在这些地方。”
+Last year, security researchers found a way into Google’s headquarters in Sydney, Australia, and Sydney’s North Shore Private hospital — and its ventilation, lighting, elevators and even video cameras — through their building management vendor. More recently, the same researchers found they could breach the circuit breakers of one Sochi Olympic arena through its heating and cooling supplier.
+去年，安全研究人员发现了一条入侵的途径，可以通过楼宇管理服务商进入谷歌(Google)在澳大利亚悉尼的总部和悉尼北岸私立医院(North Shore Private)，并侵入其通风、照明设备和摄像头。后来，上述研究人员又发现他们可以通过供暖和制冷服务商侵入索契奥运会一座运动场里的断路器。
+Fortunately, the researchers were merely testing for flaws that could have been exploited by real hackers.
+幸运的是，研究人员只是对那些可能被真正的黑客利用的漏洞进行检测。
+Billy Rios, director of threat intelligence at Qualys, a security firm, was one of those researchers. He said it was increasingly common for corporations to set up their networks sloppily, with their air-conditioning systems connected to the same network that leads to databases containing sensitive material like proprietary source code or customer credit cards.
+上述研究人员中包括安全公司科力斯(Qualys)的威胁情报主管比利·里奥斯(Billy Rios)。他表示，一种越来越常见的做法是，公司草率地建立起网络，并将空调系统接入其中，而存储着专有源代码或客户信用卡信息等敏感资料的数据库也处在同一个网络中。
+“Your air-conditioning system should never talk to your H.R. database, but nobody ever talks about that for some reason,” Mr. Rios said.
+里奥斯表示，“空调系统不应该与人力资源数据库通讯，但出于某些原因，过去没人讨论这个问题。”

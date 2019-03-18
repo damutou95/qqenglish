@@ -1,0 +1,48 @@
+WASHINGTON — In a sweeping victory for privacy rights in the digital age, the Supreme Court on Wednesday unanimously ruled that the police need warrants to search the cellphones of people they arrest.
+华盛顿——美国最高法院(Supreme Court)周三一致裁定，警方在逮捕人时，需要有搜查证才能搜查被捕者的手机。这是数字时代隐私权的一次全面胜利。
+While the decision will offer protection to the 12 million people arrested every year, many for minor crimes, its impact will most likely be much broader. The ruling almost certainly also applies to searches of tablet and laptop computers, and its reasoning may apply to searches of homes and businesses and of information held by third parties like phone companies.
+虽然这个裁定将为每年1200万被逮捕的人提供保护，其中很多人只是犯了点小罪，但是其影响可能会更广。这一裁定几乎肯定也适用于对平板电脑和笔记本计算机的搜查，裁定所依据的理由或许适用于对住所、公司的搜查，以及对第三方（比如电话公司）保存的信息的搜查。
+“This is a bold opinion,” said Orin S. Kerr, a law professor at George Washington University. “It is the first computer-search case, and it says we are in a new digital age. You can’t apply the old rules anymore.”
+“这是一个大胆的意见，”乔治·华盛顿大学(George Washington University)法学教授奥林·S·克尔(Orin S. Kerr)说。“它是计算机搜查案的第一个判例，它表明我们进入了新的数字时代。不能再使用旧法则了。”
+Chief Justice John G. Roberts Jr., writing for the court, was keenly alert to the central role that cellphones play in contemporary life. They are, he said, “such a pervasive and insistent part of daily life that the proverbial visitor from Mars might conclude they were an important feature of human anatomy.”
+首席大法官小约翰·G·罗伯茨(John G. Roberts Jr.)代表最高法院书写了意见，他敏锐地意识到手机在当代生活中的核心作用。他说，手机“在日常生活中如此地普遍且不可少，以至于传说中的火星来客可能会做出结论，认为它们是人类身体结构的一个重要部分”。
+But he added that old principles required that their contents be protected from routine searches. One of the driving forces behind the American Revolution, Chief Justice Roberts wrote, was revulsion against “general warrants,” which “allowed British officers to rummage through homes in an unrestrained search for evidence of criminal activity.”
+但是，他补充说，老的原则要求，手机的内容应受到保护，不属于常规搜查的范围。罗伯茨首席大法官写道，美国大革命(American Revolution)背后的一个驱动力就是对“通用搜查证”的反感，这种搜查证“允许英国军官用不受限制的搜查，在人家里翻箱倒柜，寻找犯罪活动的证据”。
+“The fact that technology now allows an individual to carry such information in his hand,” the chief justice also wrote, “does not make the information any less worthy of the protection for which the founders fought.”
+首席大法官还写道，“现代技术让个人能够将这些信息握在手里这个事实，并不让这些信息变得不值得受到美国建国者为之奋斗而赢得的保护。”
+The government has been on a surprising losing streak in cases involving the use of new technologies by the police. In Wednesday’s case and in a 2012 decision concerning GPS devices, the Supreme Court’s precedents had supported the government. “But the government got zero votes in those two cases,” Professor Kerr said.
+政府在涉及警方使用新技术的案子中出人意料地接连失败。对周三的案子以及2012年一起涉及GPS设备的案子来说，最高法院以前的判例都是支持政府的。“但是政府在这两个案子上得到的票数为零，”克尔说。
+The courts have long allowed warrantless searches in connection with arrests, saying they are justified by the need to protect police officers and to prevent the destruction of evidence.
+法院长期以来一直允许在逮捕人时，在没有搜查证的情况下进行搜查，他们说那样做是出于保护警官的需要，并可以防止证据被毁。
+But Chief Justice Roberts said neither justification made much sense in the context of cellphones. While the police may examine a cellphone to see if it contains, say, a razor blade, he wrote, “once an officer has secured a phone and eliminated any potential physical threats, however, data on the phone can endanger no one.”
+但是罗伯茨首席大法官说，在手机的情况下，上述两个理由都没有多少意义。他写道，虽然警察或许可以检查手机，看看上面是否带着刀片，“但是，当警察确保手机本身是安全的，并排除了任何潜在的物体威胁之后，手机中的数据不能危及任何人。”
+The possibility that evidence could be destroyed or hidden by “remote wiping” or encryption programs, Chief Justice Roberts wrote, was remote, speculative and capable of being addressed. The police may turn off a phone, remove its battery or place it in a bag made of aluminum foil.
+罗伯茨写道，证据可能会通过“远程擦除”被销毁，或通过加密程序隐藏起来的可能性很小，仅仅是一种猜测，而且是一个可以解决的问题。警方可以关闭手机、取下它的电池，或把它放在一个铝箔袋子里。
+Should the police confront an authentic “now or never” situation, the chief justice wrote, they may well be entitled to search the phone under a separate strand of Fourth Amendment law, one concerning “exigent circumstances.”
+首席大法官写道，如果警方面临真正的“机不可失”的情况，他们可以根据宪法第四修正案(Fourth Amendment)中关于“迫切需要的情况”那个单独条款，有权进行搜查。
+On the other side of the balance, Chief Justice Roberts said, is the data contained on typical cellphones. Ninety percent of Americans have them, he wrote, and they contain “a digital record of nearly every aspect of their lives — from the mundane to the intimate.”
+罗伯茨说，在法律天平的另一边是包含于典型手机中的数据。他写道，90%的美国人有手机，手机上包含了“几乎涉及人们生活各个方面的数字记录，从平凡的琐事到亲密的隐私。”
+He wrote, “According to one poll, nearly three-quarters of smartphone users report being within five feet of their phones most of the time, with 12 percent admitting that they even use their phones in the shower.”
+他写道，“根据一项调查，有近四分之三的智能手机使用者报称，在大多数时间里，他们与手机的距离不超过5英尺，有12%的被调查者承认，他们甚至会在淋浴时使用手机。”
+Even the word cellphone is a misnomer, he said. “They could just as easily be called cameras, video players, Rolodexes, calendars, tape recorders, libraries, diaries, albums, televisions, maps or newspapers,” he wrote.
+他说，就连手机这个词本身也不够恰当。他写道，“它们可以很容易地被称为相机、视频播放器、通讯录、日程表、录音机、图书馆、日记本、相册、电视机、地图或报纸。”
+Chief Justice Roberts acknowledged that the decision would make law enforcement more difficult.
+罗伯茨承认，这项裁定将增加执法的难度。
+“Cellphones have become important tools in facilitating coordination and communication among members of criminal enterprises, and can provide valuable incriminating information about dangerous criminals,” he wrote. “Privacy comes at a cost.”
+他写道，“智能手机已成为帮助犯罪团伙成员协作和沟通的重要工具，它们能提供与危险罪犯有关的有价值的定罪信息。隐私是有代价的。”
+But other technologies, he said, can make it easier for the police to obtain warrants. Using email and iPads, the chief justice wrote, officers can sometimes have a warrant in hand in 15 minutes.
+他说，不过其他技术也让警方能更容易地得到搜查证。首席大法官写道，用电子邮件和iPad，警官有时能够在15分钟内拿到搜查证。
+Ellen Canale, a spokeswoman for the Justice Department, said the department would work with its law enforcement agencies to ensure full compliance with the decision.
+美国司法部女发言人埃朗·卡纳莱(Ellen Canale)表示，司法部将与其执法部门合作，确保各执法机构全面遵守裁定。
+The Supreme Court is occasionally criticized for its lack of technological savvy, but Chief Justice Roberts, 59, seemed fully familiar with what smartphones can do. “The average smartphone user has installed 33 apps,” he wrote, “which together can form a revealing montage of the user’s life.”
+虽然最高法院偶尔会受到对技术不够了解的指责，但是现年59岁的首席大法官罗伯茨似乎完全熟悉智能手机的功能。他写道，“普通智能手机用户平均安装33个应用，它们合起来能形成一个披露用户个人生活的蒙太奇。”
+There are mobile applications, he said, for “Democratic Party news and Republican Party news,” for “alcohol, drug and gambling addictions,” for “sharing prayer requests” and for “tracking pregnancy symptoms.” Records from those applications, he added, “may be accessible on the phone indefinitely.” And yet more information, he said, may be available through cloud computing.
+他说，有各种各样的应用，有“提供民主党新闻的、提供共和党新闻的”，还有针对“酒瘾、毒瘾和赌搏瘾的“，有“分享祷告请求的”，还有“查询怀孕征状的”。他补充道，来自这些应用的纪录“也许能无限期地存放在这些手机里”。他说，还有更多的信息也许可以通过云存储获得。
+“An Internet search and browsing history,” he wrote, “can be found on an Internet-enabled phone and could reveal an individual’s private interests or concerns — perhaps a search for certain symptoms of disease, coupled with frequent visits to WebMD. Data on a cellphone can also reveal where a person has been. Historic location information is a standard feature on many smartphones and can reconstruct someone’s specific movements down to the minute, not only around town but also within a particular building.”
+他写道，“在能上互联网的手机上，可以找到在互联网搜索和浏览的历史，这会揭示一个人的私人兴趣或担忧，比如搜索疾病的某些症状，加上经常上WebMD（美国最大的医疗服务信息网站）的纪录。手机上的数据还可以揭示一个人曾去过的地方。保留一段历史的定位信息是很多智能手机的标准功能，这就可以重建一个人的行动范围，具体到每分钟，不仅是这个人在城里的行动，也包括在某座建筑内的行动。”
+The court heard arguments in April in two cases on the issue, but issued a single decision.
+最高法院在4月份曾听取了两个有关案子的辩论，但只做出一项裁定。
+The Supreme Court’s decisions can be technical. This one was straightforward. What must the police do when they want to search a cellphone in connection with an arrest?
+最高法院的裁定可能是非常技术性的。这个决定却十分直接了当。警察在逮捕人时，想搜查手机必须怎么做？
+“Get a warrant,” Chief Justice Roberts wrote.
+“获得搜查证，”罗伯茨首席大法官写道。

@@ -1,0 +1,28 @@
+Since it was first uncovered more than a half a century ago, this kooky-looking creature known as the “Tully monster” has puzzled paleontologists who, frankly, could not make heads, tails or claws of its fossilized remains.
+图中这种外形怪异的生物被称为“塔利怪物”，自从半个多世纪前被发现以来，它就一直困扰着古生物学家，他们从现存的化石中难以分辨这种生物的各个部位到底是头、尾还是爪子。
+The creature was named after Francis Tully, the amateur who discovered it in 1958 in the Mazon Creek in Illinois. The state has designated the monster as its official fossil.
+“塔利怪物”的名字来自业余化石爱好者弗朗西斯·塔利，他于1958年在伊利诺伊州盛产化石的马逊溪谷首次发现了这种生物的化石。伊利诺伊州已指定塔利怪物为类似“州花”、“州鸟”概念的“州化石”。
+Some thought the 300-million-year-old creature was a mollusk, like a snail. Others assumed it was an arthropod like an insect or crab. And others believed it was some sort of worm.
+有些人认为这种3亿年前的生物是类似蜗牛的软体动物，另一些人则认为它是类似昆虫或蟹的节肢动物，还有人认为它是一种蠕虫。
+Now, a team of researchers from Yale University say they have figured out the monster’s identity: It’s a vertebrate most closely related to the lamprey, an underwater bloodsucker.
+现在，来自耶鲁大学的研究员们宣布他们确定了塔利怪物的分类：这是一种脊索动物，与生活在海底的吸血鱼类八目鳗亲缘最近。
+They published their findings on Wednesday in Nature.
+他们本周三在《自然》杂志上发表了这一新发现。
+To come to their conclusion, team members first pored over 1,200 Tully monster specimens from museums. They closely examined the creature’s features, like its torpedo-shaped body and triangular tail, the proboscis that looks like an elephant’s trunk with sharp teeth, and the eyes on the side of its head, which resemble a hammerhead, but are similar to eye stalks found in crabs and insects.
+在得出结论的过程中，研究团队仔细研究了各家博物馆中超过1200件塔利怪物的化石样本。他们深入研究了这种生物的各项特征，包括鱼雷形的身躯、三角形的尾巴、象鼻形状并长有利齿的长吻以及长在头部两边的双眼——眼睛的位置类似锤头鲨，但细长的形状更像螃蟹和昆虫的眼柄。
+“The frustrating thing is that these morphological features are not typical of any group,” said Victoria McCoy, a paleontologist and lead author on the paper. “But they do not rule out any group very easily.”
+古生物学家维多利亚·麦考伊是这篇论文的第一作者，她说：“令人懊恼的是这些形态学的特征不是任何种群的典型特征，要凭它们排除哪个种群都不容易。”
+The clue that led them to closing the cold case was a lightly colored structure scientists had previously identified as the creature’s gut. Only it wasn’t a gut.
+最终帮助他们解决这一悬案的线索是一处颜色比周边组织稍浅的结构，之前科学家以为这是塔利怪物的肠子，但实际上并不是。
+“We discovered that this feature was the notochord, the primitive backbone,” said Dr. McCoy.
+“我们发现这个器官实际上是脊索，也就是原始的脊椎。”麦考伊说。
+Most guts in the fossilized record are dark and appear three-dimensional. But the Tully monster’s structure was light and appeared two-dimensional.
+化石中发现的肠子大多数都是深色的，而且有体积，但塔利怪物的这个结构是浅色的，只有平面的痕迹。
+“It didn’t make sense to us that there would be this one animal that would fossilize its gut completely differently,” she said.
+“只有这种生物的肠子在形成化石的过程中呈现完全不同的方式肯定是毫无道理的。”麦考伊说。
+After finding that the creature had a primitive backbone, they could classify it as a chordate, which is a family of species that includes all vertebrates. Then they had to narrow down the type of chordate to which it was most similar. By further examining the notochord, the fossil sleuths noticed that the structure curved down as it went through the creature’s tail.
+在发现这种生物有原始的脊椎后，研究人员将其分类为脊索动物，在分类学上脊索动物门包含了所有脊椎动物。接下来的任务就是进一步细分，找到与其亲缘最近的种群。在深入检查脊索时，化石侦探们发现脊索到尾部后是向下延伸的。
+In animals like sharks, the notochord curves up into the top fin of the tail, and in some fish it goes through the middle of the tail. But in lampreys the notochord curves down.
+在鲨鱼等动物身上，脊椎/脊索在尾部是延伸到尾鳍上端的，另一些鱼类的脊椎则直线延伸到尾鳍中部，只有在八目鳗身上，脊椎才是向下延伸的。
+“There was no big ‘Aha!’ moment that pointed to the lamprey. But put together, the strongest evidence was that it could be a lamprey,” Dr. McCoy said. “The coolest thing is finding out that as weird as it looks, it is part of a familiar group of animals.”
+麦考伊博士表示：“亲缘指向八目鳗的过程中并没有什么灵光一现的时刻，只是根据现有证据总结，八目鳗是最合理的解释。最酷的是能发现不管这种生物长得多么奇怪，它依然是类似动物种群中的一份子。”

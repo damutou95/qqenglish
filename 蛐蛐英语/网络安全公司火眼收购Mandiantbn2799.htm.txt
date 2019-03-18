@@ -1,0 +1,36 @@
+SAN FRANCISCO — In a deal that may have broad repercussions for companies and governments fending off sophisticated hackers and state-sponsored digital attacks, FireEye, a provider of security software, has acquired Mandiant, a company known for emergency responses to computer network breaches.
+旧金山——公司和政府都在努力抵御复杂的黑客攻击和受政府资助的数字化攻击，在一起可能会广泛影响这些机构的交易中，网络安全软件供应商火眼(FireEye)收购了因擅长紧急应对网络入侵而闻名的Mandiant公司。
+The deal, in both cash and stock, is worth more than $1 billion, based on the current value of shares in FireEye.
+此次现金加股票的交易以火眼目前的股价为基础，价值超过10亿美元（约合60亿元人民币）。
+The acquisition, which closed on Monday but was not publicly announced until after the markets closed on Thursday, was one of the biggest security deals of 2013. It merges two darlings in the $67 billion global computer security market that together could form a formidable competitor to antivirus giants like Symantec and Intel’s McAfee.
+直到周四股市收盘后，这单于周一达成的交易才被公之于众。它是2013年规模最大的网络安全交易之一，撮合了两家珠联璧合的企业。在市值670亿美元的全球电脑安全市场，二者联手可以形成一股强大的势力，与赛门铁克(Symantec)及英特尔(Intel)旗下迈克菲(McAfee)等反病毒巨头展开竞争。
+David G. DeWalt, FireEye’s chairman and chief executive, ran McAfee before it was sold to Intel in 2010. Mr. DeWalt was rumored to be a contender for the top job at Intel, but surprised company insiders when he left to join FireEye in 2012.
+火眼现任董事长兼首席执行官戴维·G·德沃特(David G. DeWalt)曾是迈克菲的管理者，直到迈克菲于2010年被出售给英特尔为止。据当时传闻，德沃特是英特尔最高职位的竞争者，但他却在2012年离开公司加入火眼，让公司内部人士大吃一惊。
+Mandiant is best known for sending in emergency teams to root out attackers who have implanted software into corporate computer systems. Much of its work focused on attacks from China, and last year it made headlines with a detailed study of a hacking group known as “Comment Crew” that provided the strongest evidence yet that the hackers were closely linked to a unit of China’s People’s Liberation Army, outside Shanghai.
+Mandiant公司最知名的本领是派遣紧急救援队根除把软件植入企业电脑系统的攻击者。该公司的大部分工作都集中于应对来自中国的攻击。去年，该公司对名为“评论员”(Comment Crew)的黑客组织的详尽研究成了头条新闻，该研究提供了迄今为止最有力的证据，证明这些黑客和驻扎在上海郊外的一支中国人民解放军部队有着密切的关系。
+The combination of the two companies — one that detects attacks in a novel way, another that responds to attacks — comes as corporate America has become wary of relying on the federal government to monitor the Internet and warn of incoming attacks.
+前述两家公司中的一家以别出心裁的方式探查攻击，另一家则负责应对攻击。这两家公司结合之时，美国企业界已经对依靠联邦政府来监督互联网和预警攻击产生了疑虑。
+That wariness has increased since the revelations of Edward J. Snowden, the former National Security Agency contractor who removed thousands of documents before he took temporary refuge in Moscow.
+美国国家安全局(National Security Agency)前承包商雇员爱德华·J·斯诺登(Edward J. Snowden)的泄密事件增大了这种忧虑，到莫斯科寻求临时避难之前，斯诺登转移了数千份文件。
+The documents have made it evident to companies that the United States monitors allies as well as adversaries, including friendly governments, international organizations and the networks of some Internet companies. Some could turn to companies like FireEye and Mandiant for protection, an interesting twist since many of Mandiant’s employees come from the American intelligence world.
+这些文件向各家公司清晰地表明，美国既监控对手也监控盟友，包括友邦政府、国际组织和一些互联网公司的网络。其中的一些被监控者可能会向火眼和Mandiant之类的公司寻求保护，这是一个有趣的转折，因为Mandiant公司的许多雇员都来自美国情报界。
+“After the Snowden events, in the current political climate, no one can say to the government, ‘Please, come on in and monitor our networks,’ ” said Kevin Mandia, the founder of Mandiant who will become chief operating officer of the combined company.
+Mandiant创始人凯文·曼迪亚(Kevin Mandia)说,“斯诺登事件之后，在目前的政治气候下，没人会对政府说，‘来吧，来监控我们的网络吧。’”曼迪亚将担任合并公司的首席运营官。
+Mandiant is privately held, and the big winners in the acquisition will be Mr. Mandia, the company’s founder, Mr. DeWalt, who joined Mandiant’s board as chairman in 2012, and the company’s venture backers. Mandiant has raised $70 million from Kleiner Perkins Caufield & Byers, the venture capital firm, and One Equity Partners, an investment arm of JPMorgan Chase.
+Mandiant是一家私人公司，此次收购案最大的赢家是公司创始人曼迪亚，从2012年开始担任Mandiant董事会主席的德沃特，以及该公司的风险投资者。Mandiant已经通过风险投资公司KPCB凯鹏华盈(Kleiner Perkins Caufield & Byers)和摩根大通(JPMorgan Chase)投资部门One Equity Partners筹集了7000万美元。
+FireEye’s success so far has depended on a technology for detecting attacks that works quite differently from most antivirus products. Most products monitor the web and identify malicious software that has already begun to hit victims around the world.
+火眼的现有成就主要来自一种探测攻击行为的技术，该技术不同于大多数杀毒产品。大多数产品都能监控网络，并识别那些已经开始攻击全球受害者的恶意软件。
+But by the time the attack has been identified and blocked, the malicious software has already had a chance to do damage — siphoning a company’s trade secrets, erasing data or emptying a customer’s bank account.
+然而，等到攻击行为被发现和阻止的时候，恶意软件已经获得了进行破坏的机会，已经有机会盗取公司的商业秘密、删除数据或清空客户的银行账户。
+FireEye’s software isolates incoming traffic in virtual containers and looks for suspicious activity in a sort of virtual petri dish before deciding whether to let the traffic through.
+火眼的软件能将传入流量隔离在虚拟容器中，并在虚拟培养皿中寻找可疑行迹，然后再决定是否让流量通过。
+“Companies are spending tens of billions of dollars of their money on a model that doesn’t work,” Mr. DeWalt said. “It’s going to take people and products working together.”
+“各家公司为一种不管用的模式花费了数百亿美元，”德沃特说。“这需要人和产品之间的合作。”
+Mandiant was frequently called in after FireEye found malware. In those cases, it used its own threat detection technology to determine where the attack was coming from and to design countermeasures.
+火眼公司发现恶意软件后，Mandiant经常会收到援助请求。在这种情况下，Mandiant会利用自己的威胁探测技术来确定攻击行为的源头，并设计对策。
+In an interview, Mr. Mandia and Mr. DeWalt said the combined company would be able to notify its customers as soon as it detected abnormal behavior, execute a temporary fix and then dispatch a Mandiant team to take further steps. It will also give Mandiant more reach: FireEye works with more than a thousand customers, including 40 state military operations, around the globe.
+曼迪亚和德沃特接受采访时表示，合并后的公司将有能力在探测到异常行为后立即告知用户，进行临时修复，然后派Mandiant团队去采取进一步的措施。公司还会拓展Mandiant的工作范围，因为火眼的全球合作客户超过1000家，其中包括40家国有军事企业。
+Under the deal terms, Mandiant will become an operating subsidiary of FireEye, and Mr. Mandia will oversee FireEye’s services, cloud and endpoint security operations.
+根据交易条款，Mandiant将成为火眼的一个业务分支，曼迪亚将负责火眼的服务、云计算及终端安全操作事宜。
+Mr. Mandia said that before initiating acquisition talks, he had considered taking Mandiant public. He said he began to warm to the idea of an acquisition in the last few months, when he saw that FireEye’s detection products would be a “natural fit” for Mandiant’s expertise in responding to breaches.
+曼迪亚表示，在开启收购谈判之前，他曾考虑让Mandiant上市。曼迪亚表示，他在过去几个月才开始对收购计划感兴趣，当时他意识到，火眼的探测产品和Mandiant应对攻击的技术属于“天作之合”。

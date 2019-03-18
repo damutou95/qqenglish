@@ -1,0 +1,42 @@
+SAN FRANCISCO — Once again demonstrating its mastery of the mobile computing wave, Facebook dazzled Wall Street on Wednesday by posting significant growth in revenue and profits for the second quarter, driven largely by ads shown in the news feeds of a billion Facebook users checking the service on their mobile phones.
+旧金山——Facebook再次展示了它对移动计算潮流的把握力，周三公布的数据显示，公司第二季度营收和利润都出现了令华尔街叹为观止的巨大涨幅。驱动这一增长的主要是Facebook在10亿手机登录用户的动态消息页面上展示的广告。
+Shareholders celebrated, sending the stock of the company to a record high in after-hours trading.
+兴高采烈的股东令Facebook股票在盘后交易时段涨到了创纪录的高点。
+But Facebook’s chief executive, Mark Zuckerberg, wasn’t basking in what he modestly described as a “good quarter.” Instead, he was looking ahead to the next wave.
+但Facebook首席执行官马克·扎克伯格(Mark Zuckerberg)只是把这轻描淡写地形容为一个“好季度”，也没有因此而洋洋得意。相反，他正把目光投向下一浪潮。
+In a conference call with investors, Mr. Zuckerberg warned that the company would be spending heavily for years on newer services like private messaging, virtual reality and Facebook search without any near-term prospects of making money from them.
+在与投资者的电话会议中，扎克伯格提醒说，公司未来几年将把大量资金投入到更新的服务中，比如私人通信、虚拟现实，以及Facebook搜索引擎，它们近期都不太可能带来利润。
+“We think it is going to be years of work before those are huge businesses for us,” he said. “I really can’t underscore this enough that we have a lot of work to do. We could take the cheap and easy approach and put ads in and do payments and make money in the short-term, but we’re not going to do that.”
+“我们认为，要经过很多年的努力，这些服务才会成为公司的重要业务，”他说。“我们有很多工作要做，这一点我必须再三强调。我们可以选择廉价和容易的途径，投放广告，做支付，获得短期的利润，但我们不打算这么做。”
+Right now, he doesn’t have to.
+就目前而言，他也不需要这么做。
+Facebook, based in Menlo Park, Calif., said it had about 1.32 billion monthly users around the world in June, with more than a billion of those people using the service at least partly on mobile devices.
+总部在加利福尼亚州门洛帕克的Facebook表示，截至6月在全球已拥有约13.2亿月活跃用户，其中超过10亿至少部分时间是在移动设备上使用其服务的。
+Revenue was $2.91 billion, up 61 percent from $1.81 billion during the same period last year. Net income was $791 million, or 30 cents a share, compared with $333 million, or 13 cents a share, a year ago. The company’s operating profit margin hit a record 48 percent in the second quarter, reflecting increased cost efficiencies.
+Facebook二季度营收为29.1亿美元，比去年同期的18.1亿美元增长了61%。净收入为7.91亿美元，合每股收益30美分，相比之下，去年同期为3.33亿美元，合每股收益13美分。公司的运营利润率第二季度达到前所未有的48%，反映了成本效率的提升。
+Mobile devices accounted for nearly two-thirds of Facebook’s revenue, which at this point mostly comes from ads shown on the Facebook website and apps. However, the company is beginning to supplement that with ads on other sites.
+Facebook的营收中，来自移动设备的占了三分之二。目前营收主要来自Facebook网站和应用上的广告。不过，公司正开始在其他网站上投放广告作为补充。
+“These are just phenomenal numbers,” said Ben Schachter, an Internet analyst with Macquarie Capital. “The core business is so strong that it’s buying them time to be more conservative and deliberate in bringing out new products.”
+“这些数字实在太惊人了，”麦格理集团(Macquarie Group)的互联网分析师本·沙克特(Ben Schachter)说，“Facebook的核心业务是如此强大，他们因此有充足的时间，在推出新产品方面可以更加保守和谨慎。”
+Analysts had expected Facebook to report revenue of $2.8 billion. Wall Street had also projected that the company would post a profit of 32 cents a share, after excluding compensation-related expenses, according to consensus estimates collected by several services. On that basis, the company blew past the expectations with a profit of 42 cents a share, up from 19 cents a year earlier. The quarter’s results sent Facebook shares up 5.6 percent in after-hours trading to more than $75, well above its highest closing price.
+分析师此前对Facebook的营收预期为28亿美元。根据几家公司收集的普遍估计数据，华尔街还预测，在剔除与薪酬有关的支出后，公司的利润为每股32美分。因此，Facebook每股利润超出了预期，为每股42美分，同比增长了19%。这一季度的业绩让Facebook股价在盘后交易时段上涨了5.6%，至75美元以上，远远高于收盘价的纪录高点。
+In the conference call, Facebook executives offered few details about the performance of nascent products like new video ads that play automatically in the news feed, image ads on its Instagram photo-sharing app or its experiments in mobile payments.
+在电话会议中，Facebook的高管们对一些新产品的表现几乎没提供什么细节，这些新产品包括在动态消息页面自动播放的视频广告、图片分享应用Instagram上的图片广告，以及移动支付方面的一些尝试。
+But Mr. Zuckerberg did get enthusiastic about Oculus VR, a maker of virtual reality headsets that Facebook bought for $2 billion in a deal that closed this week.
+但扎克伯格无疑对Oculus VR满怀热情。Facebook以20亿美元的价格收购这家虚拟现实头戴设备制造商，整个交易本周刚刚完结。
+“We can help define what the next generation of computing is going to be. Virtual reality, augmented reality, will play into this in an important way,” he said.
+“我们可以参与定义什么是下一代计算。虚拟现实和增强现实都将以重要的方式参与进来，”他说。
+The Oculus purchase and Facebook’s proposed $19 billion purchase of WhatsApp, the leading text messaging app, are examples of the kind of long bets Mr. Zuckerberg is making without expecting any immediate returns.
+对Oculus的收购，以及斥资190亿美元收购业界领先的通讯应用WhatsApp的计划，这些都属于扎克伯格在下注的长远计划，并不期待立刻得到回报。
+Richard Greenfield, an analyst with BTIG Research, said that investors would be patient because Facebook was trying to reinvent display advertising, making it a formidable rival to Google, the king of search ads.
+BTIG研究公司(BTIG Research)的分析师理查德·格林菲尔德(Richard Greenfield)说，投资者愿意付出耐心，因为Facebook正努力重塑展示广告业，把它变成搜索广告之王谷歌(Google)的可怕对手。
+“They are clearly focusing on the quality of the creative, getting more into video, doing things like Instagram ads, that have real emotional connection with users,” he said. “I think they’re just trying to temper expectations so that expectations don’t get ahead of themselves.”
+“他们显然正专注于创意的质量，在视频方面投入更多精力，从事Instagram广告以及其他与用户存在真正情感关联的工作，”他说。“我认为他们只不过是想泼点冷水，免得产生让他们难以企及的过高期待。”
+Indeed, Facebook continues to gain ground in digital advertising, particularly in mobile.
+的确，Facebook在数字广告方面的市场份额仍在不断增加，尤其是在移动广告领域。
+The company accounted for 5.8 percent of the world’s estimated $120 billion in digital ad revenues in 2013, and it captured 17.77 percent of mobile ad spending, according to the research firm eMarketer.
+根据研究公司eMarketer，在2013年全球约1200亿美元的数字广告收入中，Facebook的份额为5.8%，而它在移动广告支付市场的份额为17.77%。
+This year, eMarketer predicts, Facebook will garner nearly 8 percent of the world’s digital ad revenue and 22.3 percent of mobile ad revenue, which the firm projects will nearly double globally as people turn increasingly to phones as their primary on-ramp to the Internet.
+eMarketer预计，今年，Facebook将获得全球接近8%的数字广告收入和22.3%的移动广告收入。该公司还预计，随着人们越来越多地使用手机作为主要上网工具，全球的移动广告收入今年将翻一番。
+“If you’re just out there fishing for new customers, Facebook is by far the most efficient channel,” said Bob Buch, chief executive of SocialWire, a San Francisco company that helps retailers market on Facebook.
+旧金山的SocialWire公司帮助零售商在Facebook上从事营销活动，首席执行官鲍勃·布奇(Bob Buch)说，“如果你只想吸引新客户，Facebook无疑是最高效的渠道。”

@@ -1,0 +1,54 @@
+HONG KONG — Snapchat and Kik, the messaging services, use bar codes that look like drunken checkerboards to connect people and share information with a snap of their smartphone cameras. Facebook is working on adding the ability to hail rides and make payments within its Messenger app. Facebook and Twitter have begun live-streaming video.
+香港——在通讯应用Snapchat和Kik里，人们用仿佛毫无章法的棋盘一样的条码建立联系，用智能手机拍照分享信息。Facebook打算在其Messenger应用内增加叫车及付款功能。Facebook和Twitter已经开始提供视频直播。
+All of these developments have something in common: The technology was first popularized in China.
+所有这些新动向都有一个共同点：相关技术最初是在中国流行起来的。
+WeChat and Alipay, two Chinese apps, have long used the bar-codelike symbols — called QR codes — to let people pay for purchases and transfer money. Both let users hail a taxi or order a pizza without switching to another app. The video-streaming service YY.com has for years made online stars of young Chinese people posing, chatting and singing in front of video cameras at home.
+微信和支付宝这两个中国应用很早就开始利用名为二维码的条码式符号，让人们方便地支付购物款项或转账。两者的用户都无须切换到其他应用，就可以叫一辆出租车或者一份披萨。视频直播服务YY.com多年来一直让年轻的中国网红可以在家里的摄像机镜头前拗造型、聊天、唱歌。
+Silicon Valley has long been the world’s tech capital: It birthed social networking and iPhones and spread those tech products across the globe.
+硅谷是长期以来的世界科技之都：它孕育了了社交网络和iPhone，并让这些科技产品在全球范围内流行开来。
+But China’s tech industry — particularly its mobile businesses — has in some ways pulled ahead of the United States. Some Western tech companies, even the behemoths, are turning to Chinese firms for ideas.
+但中国的科技行业——尤其是移动业务——在某些方面已经领先于美国。一些西方科技公司，甚至包括某些大公司，正从中国企业那里寻求创意。
+“We just see China as further ahead,” said Ted Livingston, the founder of Kik, which is headquartered in Waterloo, Ontario.
+“我们认为中国是走在前面的，”Kik创始人泰德·利文斯顿(Ted Livingston)说。该公司总部设在安大略省的滑铁卢。
+The shift suggests that China could have a greater say in the global tech industry’s direction. Already in China, more people use their mobile devices to pay their bills, order services, watch videos and find dates than anywhere else in the world. Mobile payments in the country last year surpassed those in the United States. By some estimates, loans from a new breed of informal online banks called peer-to-peer lenders did too.
+这种转变表明，中国在全球科技产业的发展方向上可能享有更大的话语权。 在中国，用移动设备支付账单、定购服务、观看视频、寻找数据的人，比全世界任何地方都要多。去年，中国的移动支付交易总额超越了美国。据一些人估计，一种叫做“P2P借贷”的新型非正规网上银行的贷款总额也已经超过美国。
+China’s largest internet companies are the only ones in the world that rival America’s in scale. The purchase this week of Uber China by Didi Chuxing after a protracted competition shows that at least domestically, Chinese players can take on the most sophisticated and largest start-ups coming out of America.
+在全球范围内，只有中国最大的互联网公司在规模上能与美国最大的互联网公司相提并论。滴滴出行在和优步中国展开旷日持久的竞争之后，于本周将后者收入麾下。这表明，至少是在国内，中国玩家可以跟运作最成熟、规模最大的美国初创公司一较高下。
+The future of online payments and engagements can be found at Liu Zheng’s noodle shop in central Beijing. Liu Xiu’e, 60, and her neighbor, Zhang Lixin, 55, read about the noodle shop on WeChat. Then they ordered and paid for their lunches and took and posted selfies of themselves outside the restaurant, all using the same app.
+从刘正在北京市中心开的面馆，可以窥见在线支付和宣传的未来。60岁的刘秀娥和她的邻居、55岁的张立新，在微信上看到了这家面馆的信息。他们点了午餐，付了款，在店外自拍并把照片发到了网上，用的都是同一款应用。
+Liu Zheng, who is not related to Liu Xiu’e, said the automated ordering and payments meant he could cut down on wages for waiters. “In the future, we will only need one waiter to help in the restaurant and one to help with seating,” Mr. Liu said.
+刘正说，自动下单和支付意味着他可以削减雇佣服务生的开支。“以后我们就只需要一个人在餐厅，一个人帮忙找座。”
+Industry leaders point to a number of areas where China jumped first. Before the online dating app Tinder, people in China used an app called Momo to flirt with nearby singles. Before the Amazon chief executive Jeff Bezos discussed using drones to deliver products, Chinese media reported that a local delivery company, S.F. Express, was experimenting with the idea. WeChat offered speedier in-app news articles long before Facebook, developed a walkie-talkie function before WhatsApp, and made major use of QR codes well before Snapchat.
+行业领导者指出，中国在很多领域都是最先试水者。线上约会应用Tinder出现前，中国人就在用一款名叫陌陌的应用跟附近的单身人士调情了。亚马逊(Amazon)首席执行官杰夫·贝佐斯(Jeff Bezos)开始谈论用无人机送货前，中国媒体就报道说，当地的顺丰快递公司正内测无人机配送服务。微信推出应用内即时新闻比Facebook早很多，它还在WhatsApp之前开发出了对讲功能，在Snapchat之前开始大量使用二维码。
+Before Venmo became the app for millennials to transfer money in the United States, both young and old in China were investing, reimbursing each other, paying bills,and buying products from stores with smartphone-based digital wallets.
+此外，在美国的千禧一代通过Venmo这款应用转账之前，中国的老老少少已经在使用基于智能手机的数字钱包投资、销账、支付账单、从商店里买东西。
+“Quite frankly, the trope that China copies the U.S. hasn’t been true for years, and in mobile it’s the opposite: The U.S. often copies China,” said Ben Thompson, the founder of the tech research firm Stratechery. “For the Facebook Messenger app, for example, the best way to understand their road map is to look at WeChat.”
+“坦白讲，中国抄袭美国这种说法好多年前就过时了，在移动领域事实恰恰相反：美国常常抄袭中国，”科技调研公司Stratechery的创始人本·汤普森(Ben Thompson)说。“例如Facebook Messenger，要弄清它的发展路线，最好是以微信为鉴。”
+A Facebook spokesman declined to comment. Tencent did not respond to requests for comment.
+Facebook的发言人拒绝置评。腾讯未回复置评请求。
+Executives from companies like Facebook and smaller rivals like Kik are trying to replicate what has emerged in China: dominant online platforms where users will spend much of their time. Much of that effort is focused on chat.
+Facebook等公司的高管以及Kik等规模较小的竞争对手，正努力复制已经在中国出现的东西：占据绝对优势的在线平台，用户会花很多时间待在这些平台上。它们的许多努力都以聊天为重心。
+“The cool thing about chat is it becomes an operating system for your daily life,” Mr. Livingston said. “Going up to a vending machine, ordering food, getting a cab: Chat can power those interactions, and that’s what we’re seeing with WeChat.”
+“关于聊天很酷的一点是，它已经成为你日常生活中的一种操作系统，”利文斯顿说。“来到一台自动贩售机前，点餐，叫车：聊天可以为这些互动提供驱动力，这就是我们在微信中看到的。”
+China still lags in important areas. Its most powerful, high-end servers and supercomputers often rely in part on American technology. Virtual-reality start-ups trail foreign counterparts, and Google has a jump on Baidu in driverless car technology. Many of China’s products also lack the polish of their American counterparts.
+中国在一些重要的领域还处于落后位置。性能最强的高端服务器和超级计算机在某种层面上常常要仰仗美国的技术。虚拟现实初创企业落后于国外的同行，谷歌的无人驾驶技术领先于百度。中国的许多产品也不像美国的同类产品那样精良。
+China’s biggest advantage, according to many analysts, is that it essentially started many industries from scratch at the end of the Cultural Revolution in 1976. Unlike the United States, where banks and retailers already have strong holds on customers, China’s state-run lenders are inefficient, and retailers never expanded broadly enough to serve a fast-growing middle class.
+许多分析师表示，中国最大的优势在于，它基本上是在1976年文化大革命结束后从零开始发展出许多行业。与银行和零售商已经对消费者有很强掌控力的美国不同，中国国有放贷机构效率低下，零售商的扩张始终跟不上规模迅速增大的中产阶级的需求。
+Many Chinese also never bought a personal computer, meaning smartphones are the primary — and often first — computing device for the more than 600 million who have them in China.
+许多中国人从未购买过个人电脑，这意味着对中国6亿智能手机用户而言，智能手机是他们的主要的——而且往往是第一个——计算设备。
+“The U.S. was first to credit cards, and everyone there has a personal computer. But China, where everyone is on their phones all the time, is now ahead in mobile commerce and mobile payments by virtue of leapfrogging the PC and credit cards,” Mr. Thompson said.
+“美国是信用卡普及度最高的国家，而且几乎所有美国人都有个人电脑。但在中国，所有人都是时刻在使用手机。在移动商务和移动支付方面，中国已经领先于美国，因为它跳过了PC和信用卡的阶段，”汤普森说。
+Chinese companies also approach the internet in a different way. In the United States, tech firms emphasize simplicity in their apps. But in China, its three major internet companies — Alibaba, Baidu and the WeChat parent Tencent — compete to create a single app with as many functions as they can stuff into it.
+中国企业对待互联网的方式也有所不同。在美国，科技企业重视应用的简洁性。而在中国，三个最大的互联网公司——阿里巴巴、百度及微信的创造者腾讯——则争相打造一个单一应用，然后将尽量多的功能融入其中。
+On Alibaba’s Taobao shopping app, people can also buy groceries, buy credits for online games, scan coupons and find deals at stores nearby. Baidu’s mapping app lets users order an Uber, reserve a restaurant or hotel, order in food, buy movie tickets and find just about any type of store nearby.
+在阿里巴巴的淘宝购物应用中，人们可以购买食品杂货，买网络游戏卡，搜寻附近商铺的折扣。百度的地图应用可以让用户约优步(Uber)平台上的车，预定餐厅或酒店，订餐，买电影票，还可以找到所在位置附近几乎所有类型的商铺。
+Tencent has opened up WeChat to other companies, allowing them to create apps within WeChat. Ebaoyang — a start-up that enables people to order oil changes for their cars directly on smartphones — was at first almost totally reliant on WeChat to attract business. Gao Feng, one of Ebaoyang’s founders, said the company still relied on the app for 50 percent of its payments and 20 percent of new customers.
+腾讯向其他企业开放了微信端口，允许它们在微信平台上开发自己的应用。E保养是一家让用户可以在智能手机上直接下单预定汽车保养服务的创业公司，在创立之初它几乎完全依赖微信招揽生意。E保养创始人之一高峰表示，公司目前依然很依赖微信，有50%的支付和20%的新客户来自该应用。
+“We started from WeChat. So it was our main, original source for getting customers,” he said.
+“我们是从微信开始的，它原来是我们主要的客户来源。”他说。
+Between fees for its services and money it makes through online games, WeChat manages to generate $7 in revenue per user each year, according to Nomura. The app has roughly 700 million users, more than the total number of smartphone users in China, in part because some users are outside the country and in part because people have multiple accounts.
+据野村证券(Nomura)统计，通过售卖服务和在线游戏，微信每年可以从每个用户身上获得7美元的收入。微信有大约7亿用户，超过了中国智能手机用户的总量。出现这种情况，有一部分原因在于一些用户身在国外，还因为有些人有多个微信账户。
+Much of that comes not from ads, as it might in the United States, but from spending on games, services and goods sold on the app. Those models may not translate from one market to the other, but the two can still borrow from each other, said Carmen Chang, a partner at the venture capital firm New Enterprise Associates.
+这些营收有相当多并非来自广告——这可能跟美国有所不同——而是来自微信上销售的游戏、服务和商品。风险投资公司恩颐投资合伙人周一华(Carmen Chang)表示，这两种模式或许无法从一个市场移植到另一个，但它们可以相互借鉴。
+“China was able to develop a lot of innovative business models, which arose in a different kind of economy,” said Ms. Chang, who spends time in both China and in Menlo Park, Calif. “Whether or not we admit it here in Silicon Valley, it’s had an impact on us and our thinking.”
+“中国能发展出许多有富有创意的商业模式，它们出现在一个与美国不同的经济环境里，”在中国和加州门洛帕克两地生活的周一华说。“不管硅谷是否承认，它已经对我们和我们的思维产生了影响。”

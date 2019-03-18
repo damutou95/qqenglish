@@ -1,0 +1,44 @@
+The acid test of a scientific theory is whether it makes predictions that eventually come true. So consider this old prediction, from a pair of researchers in Australia and New Zealand. They were summarizing the results of then-primitive computerized forecasts about global warming:
+对科学理论的决定性考验是它能否做出最终成真的预测。所以，考虑一下由澳大利亚和新西兰的两名科研人员做出的这项古老的预测吧。他们对当初粗糙的全球变暖计算机预测结果做出这样的总结：
+“The available evidence suggests that a warmer world is likely to experience an increase in the frequency of heavy precipitation events, associated with a more intense hydrological cycle and the increased water-holding capacity of a warmer atmosphere.”
+“手头的证据显示，更温暖的地球很有可能会经历强降水事件频率增加的情况，与之相伴的是水循环强度加大，以及更温暖的大气层的储水能力增强。”
+That was published in 1995, and it was based on research going back to the 1980s. Fast forward to 2014.
+他们的论文发表于1995年，依据的是追溯到上世纪80年代的研究。时光飞逝，现在是2014年。
+In the National Climate Assessment, published last week, researchers in the United States reported that “large increases in heavy precipitation have occurred in the Northeast, Midwest and Great Plains, where heavy downpours have frequently led to runoff that exceeded the capacity of storm drains and levees, and caused flooding events and accelerated erosion.”
+在上周公布的《全国气候评估》报告(National Climate Assessment)中，美国研究人员称“美国东北部、中西部和大平原地区的强降水事件大幅增加，在这些地区，暴雨经常导致地表径流超出雨水沟和防洪堤的负荷能力，从而引发洪灾并加快土壤侵蚀。”
+The future, it would seem, has arrived.
+看起来，未来已经到来。
+Climate is a difficult branch of science, full of ambiguities and uncertainties. But scientists can justly claim to have demonstrated some predictive skill about many of the potential implications of the human release of greenhouse gases.
+气候是一门艰深的学科，充满模糊性和不确定性。然而，科学家们有理由声称，他们已经证明具备了一些技能，能够对人类排放的温室气体所引发的诸多潜在后果做出预测。
+Their track record actually goes back to 1896, when a Swede named Svante Arrhenius first predicted that emissions of carbon dioxide would cause the planet to warm. It took more than 80 years to be sure he was right. At roughly the same time that realization was taking hold, climate scientists running computer models of the atmosphere began to focus on the likelihood of heavier rains in a future climate.
+科学家的跟踪记录实际上可回溯到1896年，当时，名叫斯万特·阿累尼乌斯(Svante Arrhenius)的瑞典人率先做出了二氧化碳排放将导致地球变暖的预测。人们花了80多年时间才确定他是对的。大约是在这种认识站稳脚跟的同一时间，运行大气计算机模型的气候科学家们开始着重研究未来气候中出现更强降水的可能性。
+Many people are still catching up with the science, but it is hard to miss the ubiquity of these heavy rainstorms in recent years.
+许多人依然在试图理解这一学科，然而，人们难以忽视近些年无所不在的暴风雨现象。
+People in the Florida Panhandle recently had to dodge flash floods after two feet of rain fell in 26 hours. Torrential rains caused a Washington State hillside to collapse and bury a community earlier this year. Tumultuous rainstorms and floods overwhelmed Colorado last year, and sudden floods swept through Nashville in 2010, and Atlanta in 2009.
+前不久，佛罗里达走廊地区26小时内的降雨量达到了2英尺（约合600毫米），当地居民不得不躲避随之而来的暴洪。今年早些时候，瓢泼大雨导致华盛顿州的一座山体滑坡，掩埋了整个社区。暴雨和洪水去年横扫科罗拉多州，而突如其来的洪水在2010年席卷了纳什维尔，在2009年淹没了亚特兰大。
+We’re seeing a pattern here.
+我们在其中看到了某种模式。
+In the National Climate Assessment, the experts reported huge increases since the mid-20th century in the amount of precipitation falling in very heavy rainstorms: up 71 percent in the Northeast, 37 percent in the Midwest and 27 percent in the Southeast. The effect was seen on a smaller scale west of the Mississippi River, too, even in parts of the country where the climate is drying out over all.
+在《全国气候评估》中，专家们公布，自20世纪中叶以来，单次暴雨的降水量剧增：东北部提高了71%、中西部为37%，东南部则为27%。密西西比河以西也出现了较小幅度的增长，即使是在某些总体呈干燥趋势的地区也如此。
+What led the researchers to expect this long before it actually happened?
+是什么原因，促使科研人员在这些情况实际发生许久以前，就做出了预测？
+Initially, the forecast was based on simple physics from the 19th century. As we pour carbon dioxide into the air, the lower atmosphere has to warm. As it does, it is able to hold more moisture, and as the surface of the ocean also warms, more moisture tends to evaporate from it.
+一开始，这项预测依据的是19世纪的简单物理原理。当我们向空气中大量排放二氧化碳时，低层大气就一定会变暖。随着变暖的发生，大气层能锁住更多水分，而且，由于洋面也会变暖，就会趋于蒸发更多水分。
+In the United States, the increase in water vapor has been on the order of 3 percent or 4 percent since the 1970s (most of the human-caused global warming has occurred since then). That may not sound like a big jump, but the effect is enormous.
+在美国，自上世纪70年代以来（人为导致的全球变暖大多发生在那之后），水蒸汽的增幅一直维持在3%到4%的水平。听起来可能不像是什么剧变，然而，它的影响是巨大的。
+Two leading scientists, Kevin E. Trenberth at the National Center for Atmospheric Research and David R. Easterling at the National Oceanic and Atmospheric Administration, ran some calculations and agreed that the warming has, on average, put more than a trillion gallons of extra water into the air over the contiguous 48 states, probably closer to two trillion.
+两位著名科学家——美国国家大气研究中心(National Center for Atmospheric Research)的凯文·E·特伦伯思(Kevin E. Trenberth)和国家海洋与大气管理局(National Oceanic and Atmospheric Administration)的戴维·R·伊斯特林(David R. Easterling)——进行了一些计算，他们一致认为，在美国本土的48个州，气候变暖已经往空气中平均增加了逾1万亿加仑（约合38亿吨）的水分，而且很可能接近2万亿加仑。
+That extra water has to fall as rain or snow. But from the elementary physics, it was long unclear whether this would mean more rainy days over all, or more intense rains, or both.
+额外的水分必然会转化为降雨或降雪。不过，从基础物理学角度而言，长期以来科学家一直不清楚，这到底是意味着整体降水天数会增加，还是意味着降水强度会变大，或者二者皆有？
+It was the computer models of the climate that suggested, starting in the late 1980s, that the answer would be the latter, and so it has turned out. One way to think of it is that even with a lot of moisture in the air, conditions are not always right for rain, but when they are right, the skies have a lot more water to dump.
+计算机气候模型表明，自上世纪80年代末起，答案会是后者，事实亦是如此。一种思路是，就算空气中有大量的水分，气象条件也不总是适合降水，不过，当条件具备时，空中会有多得多的水分倾泄而下。
+“It rains harder than it used to,” said Dr. Trenberth, who could not resist adding: “When it rains, it pours.”
+“雨下得比以前更大了，”特伦伯思博士说，他忍不住又加了一句：“一旦下雨，下的就是倾盆大雨。”
+Researchers sponsored by the Australian government were the first to really drill into the implications of the finding. In their 1995 overview paper, A. M. Fowler of the University of Auckland in New Zealand and K. J. Hennessy of Australia’s national research program warned that society needed to start thinking about the risks. They suggested toughening standards for the designs of levees and dams, and hardening roads and culverts against the possibility of more flash floods.
+澳大利亚政府资助的研究人员率先深度钻研了这项发现背后的意义。在1995年的综述论文中，新西兰奥克兰大学(University of Auckland)的A·M·福勒(A. M. Fowler)和澳大利亚国家研究项目的K·J·亨尼西(K. J. Hennessy)警告，人类社会必须开始思考相关的风险。他们建议，实施更严格的防洪堤和水坝设计标准，加固公路和涵洞，以应对发生更多暴洪的可能性。
+Society responded by ignoring them. For someone sitting in Pensacola, Fla., wondering why the roads were washed out the other day, that longstanding refusal to confront reality might be a good part of the answer.
+人类社会的反应是无视这些建议。对于在佛罗里达州彭萨科拉，干坐着琢磨着为何公路会在不久前被彻底冲毁的人而言，长期拒绝面对现实也许给出了这个问题的大部分答案。
+The warming of the planet has slowed in recent years, but scientists think that is likely temporary. They expect it to get much, much warmer as this century progresses, and that can only mean that the rains will fall harder still.
+近几年，全球变暖的速度有所放缓，然而科学家们认为，这很可能是暂时现象。他们预计，随着本世纪的推进，地球会变得温暖的多得多，而这只会意味着，降水会越来越厉害。
+So if you are still a little amazed at what these heavy downpours have been doing to communities around the country, the message from science is pretty blunt: Get used to it.
+所以，如果你依然对这些暴雨对全美各地带来的影响略感诧异的话，科学给出的讯息却非常直白：赶紧习惯吧。

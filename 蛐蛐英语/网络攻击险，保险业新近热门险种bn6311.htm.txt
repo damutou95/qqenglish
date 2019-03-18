@@ -1,0 +1,46 @@
+Julia Roberts’s smile is insured. So are Heidi Klum’s legs, Daniel Craig’s body and Jennifer Lopez’s derrière. But the fastest-growing niche in the industry today is cyberinsurance.
+朱莉娅·罗伯茨(Julia Roberts)的微笑是投了保险的。海蒂·克拉姆(Heidi Klum)的双腿、丹尼尔·克雷格(Daniel Craig)的身体和珍妮弗·洛佩兹(Jennifer Lopez)的臀部也是如此。不过，保险业眼下发展最迅猛的领域却是网络攻击保险。
+Specialized policies to protect against online attacks are offered by about 50 carriers, including big names like the American International Group, Chubb and Ace. As data breaches have become a reality of the business world, more companies are buying policies; demand increased 21 percent last year from 2012, according to Marsh, a risk management company and insurance broker.
+大约有50家保险公司提供专门的网络攻击保单，其中不乏美国国际集团(AIG)、丘博(Chubb)和安达(ACE)这样的行业巨头。数据泄露已经成为商界的一个现实问题，因此有越来越多的企业购买这种保险。风险管理与保险经纪公司达信(Marsh)的数据显示，从2012年到去年，购买此类保险的需求增长了21%。
+Yet companies say it is difficult to get as much coverage as they need, leaving them vulnerable to uncertain losses.
+但是，企业表示，自己的保险需要难以获得充分满足，因此很容易蒙受难以估量的损失。
+The main problem is quantifying losses from attacks, because they are often intangible — lost sales or damage to a brand name, like the public relations disaster Target suffered after the breach of its point-of-sale systems late last year.
+主要问题在于，如何量化网络攻击造成的损失？因为这些损失往往是无形的——比如销售额下降，或者是品牌的名誉受损，就像塔吉特公司(Target)去年因POS系统数据泄露所遭遇的公共关系噩梦那样。
+“The losses that are more tangible and more readily quantifiable are the ones you’ll be able to insure against more easily,” said Ed Powers, who heads the online risk services practice at Deloitte & Touche, the accounting firm. “The ones that are less tangible and less quantifiable are more challenging, but those are often the bigger ones.”
+“如果损失比较有形、比较容易量化，那么要保险也就会比较容易，”德勤会计师事务所(Deloitte & Touche)负责网上风险服务的主管埃德·鲍尔斯(Ed Powers)说。“损失不那么有形、比较难以量化，那么要保险也更具挑战性，但这些损失也往往更加惨重。”
+At the same time, underwriters lack the data they need to figure out how likely it is that an attack will occur, or what it will cost. This is because most breaches go unnoticed or are never publicly reported. Information on past attacks is not particularly helpful because attackers are always getting more advanced, and the risk is increasing as companies put their most valuable data online.
+与此同时，保险公司却缺乏相应的数据，来弄清楚网络攻击发生的概率有多大，以及会造成怎样的损失。这是因为，大部分的数据泄露事件要么是没有被注意到，要么是从来没有公开过。以前的攻击信息并不太有用，因为攻击者的手段总是在变得越发高明，而且随着大批公司把极为宝贵的数据放在网上，它们遭受攻击的风险也在不断增大。
+Graeme Newman, a director at CFC Underwriting, said that in underwriting property, insurance companies can draw on reams of data spanning hundreds of years.
+格雷姆·纽曼(Graeme Newman)是CFC保险(CFC Underwriting)的一位董事。他说，在承保财产时，保险公司可以参考数百年以来的海量数据。
+“They could tell you exactly the chance of an office building burning down in Midtown Manhattan, but there isn’t anyone on this planet who could tell you the probability of a large U.S. retailer being hacked tomorrow,” Mr. Newman said.
+“它们可以确切说出曼哈顿中城一座写字楼被烧毁的可能性，但这个星球上没有任何人可以告诉你，一家美国大型零售商明天遭到黑客攻击的概率有多大，”纽曼说。
+“Statistics from five years ago are almost irrelevant today,” he added.
+“五年前的统计数据，到现在几乎就没有什么用处了。”他还说。
+Total cyberinsurance premiums paid last year reached $1.3 billion, according to Betterley Risk Consultants, a jump from the $1 billion paid in 2012. The bulk of that involves smaller policies issued to small to midsize businesses.
+Betterley风险顾问公司(Betterley Risk Consultants)的统计显示，去年，网络攻击保险的保费支付总额达13亿美元（约合80亿元人民币），而2012年时的数字为10亿美元。这其中，很大一部分来自中小型企业，涉及的保单金额也比较小。
+Cyberinsurance has existed since the 1990s, but companies were forced to consider coverage when a New York court ruled in February that Sony’s general liability policy would not cover the $2 billion in costs the company incurred from the huge data breach in 2011 involving the online network for its PlayStation game console.
+网络攻击保险在20世纪90年代就已出现，但直到今年2月，企业才不得不考虑投保。当时，纽约一所法院裁定，虽然索尼(Sony)因为2011年的PlayStation游戏机在线数据大泄露损失了20亿美元，但这笔损失不属于该公司投的一般责任险的承保范围。
+Cyberinsurance policies vary widely. The most comprehensive ones reimburse for immediate cleanup costs like hiring a forensics firm, notifying customers, setting up call centers and paying for free credit monitoring. Some also cover legal fees and the cost of hiring a crisis management firm.
+不同的网络攻击保单差别很大。涵盖最全面的保单可以赔付即时处理费用，比如聘请鉴证公司、通知客户、建立呼叫中心，以及为客户设置免费的信用监控的费用。有些保单还会支付律师费，以及聘请危机管理公司的费用。
+But those costs can be only the tip of the iceberg, experts say.
+但是，专家表示，这些费用可能只是冰山一角。
+For example, after the breach at Target, its profit was cut nearly in half — down 46 percent over the same period the year before — in large part because the breach scared away its customers. The loss to the brand is essentially unmeasurable.
+例如，在塔吉特遭遇数据泄露后，利润与上年同期相比减少了近一半——具体为46%——在很大程度上是因为这件事吓跑了顾客。其品牌蒙受的损失实质上是无法衡量的。
+“There is no real way to put empirical data on what the value of a brand is post-breach, during a breach and prior to a breach,” said Michael Tanenbaum, senior vice president of ACE Professional Risk, part of Ace. “We are about science and math, and you just can’t get your arms around it. And two people can’t always agree on whether a brand has been diminished.”
+“没有真正可行的办法来把经验数据套用在一个品牌在受到攻击之前、之中，以及之后的价值上，”迈克尔·塔能鲍姆(Michael Tanenbaum)说。他是安达旗下的专业风险公司(ACE Professional Risk)的高级副总裁。“我们擅长科学和数学，但就是没办法衡量这个东西。对于一个品牌的价值是否削弱了，人们的看法并不是总是相同。”
+To regain consumer confidence, Target announced that it would speed the adoption of more secure chip-and-PIN technology in its stores and for its branded debit and credit cards, a step it estimates will cost $100 million. That expense is not covered by its insurance policies.
+为了重获消费者的信任，塔吉特宣布旗下的店铺及联名借记卡和信用卡将加快采用更安全的芯片加密码技术。公司估计，此举将耗资1亿美元。它的保单不会赔付这些费用。
+Policies also exclude some major forms of breach, like state-sponsored online espionage attacks, which tripled last year, according to a recent Verizon report.
+此类保单还把数据泄露的一些主要方式排除在外，比如国家组织的网络间谍攻击。威瑞森(Verizon)最近的一份报告显示，以这种方式出现的攻击去年增加了两倍。
+“Most companies think their policy will cover them from all cyberevents, but in reality it only kicks in in a sliver of breach events,” said Jacob Olcott, a cybersecurity expert at Good Harbor Security Risk Management, which advises companies on the risk.
+“大多数公司以为，它们的保单会涵盖所有的网络问题，但实际上，只涉及了数据泄露事件的皮毛，”雅各·奥尔科特(Jacob Olcott)说。他是Good Harbor安全风险管理公司(Good Harbor Security Risk Management)的网络安全专家。
+The market continues to evolve. Recently, A.I.G. became the first insurer to expand its cybercoverage to include physical risks, like property damage and bodily injury. If an attack on an oil company resulted in an explosion, damage from that could now be covered, said Tracie Grella, global head of professional liability at A.I.G.
+这个市场在继续发展。近期，美国国际集团率先扩大了其网络攻击险的承保范围，纳入了像财产损失和人身伤害这样的实体风险。该公司的全球职业保险业务负责人特蕾西·格雷拉(Tracie Grella)说，如果一家石油公司遭受的网络攻击导致了爆炸，由此带来的损失就可以获得赔付。
+Another wrinkle in the market is the uncertainty over how to assess the risk of cloud computing services, which increasingly are the repository for all sorts of data maintained by businesses.
+该市场的另一个难点是，在如何评估云计算服务的风险时面临不确定性。越来越多的企业正在把云服务当作各种数据的仓库来使用。
+A big question is whether the aggregation of data from many companies in a cloud service like Amazon’s is safer or more vulnerable. One breach could mean catastrophic loss for many companies. But some businesses might be better off outsourcing their data to a large cloud provider like Amazon that has greater resources to protect it, said Ty Sagalow, a former chief operating officer at A.I.G. who is now a president of an insurance consulting group.
+多家公司的数据聚合在亚马逊(Amazon)那样的云服务中，此举到底是让它们变得更加安全了，还是更加容易遭受攻击了？这是一个大问题。如果云服务出现了一次数据泄露，可能就会给很多企业带来灾难性的损失。不过，美国国际集团前首席运营官泰·萨格洛(Ty Sagalow)表示，对于有些企业来说，把数据外包给亚马逊等大型云服务供应商可能比较好，因为这类服务商会有更多的资源来保护数据。萨格洛现在是一家保险顾问集团的总裁。
+Whatever the complexities, cyberinsurance is now big business.
+无论有着怎样的复杂性，网络攻击保险如今都是一门大生意。
+“Insurers can’t afford not to be in this thing,” Mr. Sagalow said.
+“保险公司不进入这个领域就亏大了，”萨格洛说。

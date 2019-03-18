@@ -1,0 +1,34 @@
+Last week, Timothy D. Cook, Apple’s chief executive, stood on stage at the company’s Worldwide Developers Conference without a new version of the iPhone or the iPad or some new device.
+上周，苹果公司(Apple)首席执行官蒂莫西·D·库克(Timothy D. Cook)在苹果全球开发者大会(Worldwide Developers Conference)上亮相，但他却没有推出新款iPhone、iPad，或者什么新设备。
+After showing off new laptop computers and a new, cylindrical Mac Pro, Mr. Cook and other Apple executives spent the rest of their two-hour keynote address discussing the features of Apple’s latest mobile operating system, iOS 7. With the image of a flattened smartphone interface with thin typography on a screen in the background, Mr. Cook proudly noted, “This is the biggest change to iOS since the introduction of the iPhone.”
+库克和苹果公司的其他高管在展示了新款笔记本电脑和一款新的圆柱形Mac Pro之后，在长达两个小时的主旨演讲中的剩余部分，都是在讲述苹果最新的手机操作系统iOS 7的新功能。库克骄傲地说道，“这是自iPhone推出以来，iOS发生的最大变化。”他背后的画面是一个字体笔画纤细、扁平化的智能手机界面。
+How does he figure that?
+他是怎么想的？
+Mr. Cook’s bold claim was based on something that is well understood in tech circles but is easily overlooked by consumers. It is the design of the software, far more than the look and feel of the device itself, that allows a company to leap over its competitors.
+库克大胆的说法，源于一件在技术圈子里广为人知，但却很容易被消费者忽略的事情。与设备本身的外观和感觉相比，软件设计更能让一家公司超越竞争对手。
+Hardware features like processing speed or screen resolution or even how well a camera works offer only fleeting advantages in the constant competition among smartphone manufacturers. And with more than a billion smartphones in the world today, much of them with the same rectangular design meant to fit in your hand yet large enough to be used as a phone, it is hard to imagine a breakthrough in their general look.
+在智能手机制造商的不断竞争中，处理速度、屏幕分辨率，甚至是摄像头性能优劣这样的硬件功能所提供的优势转瞬即逝。今天世界上有10亿部以上手机，为了适合人手抓握，同时又足够大可以当做手机使用，它们当中很多都是相同的矩形设计，很难想象能在整体外形上实现突破。
+But changes to the software are limited only by the skill and creativity of a company’s engineers and designers and are not as easily mimicked since they appeal to softer notions like “experience” rather than speed or weight.
+但是软件上的改动，却只受制于一个公司里工程师和设计人员的技能和创造性。而又因其注重像“体验”这样更软性的概念，而不是速度或重量，所以更不容易被模仿。
+Designers at Apple, Microsoft and Google appear to have been keenly aware of that when they worked on the latest versions of their mobile operating systems, experimenting with ways of making software that is unique yet as intuitive as a road sign.
+苹果公司、微软公司(Microsoft)和谷歌公司(Google)的设计人员在设计最新的手机操作系统时，似乎已经敏锐地意识到了这一点，他们试验了各种方式，尝试将软件做得既独特，又像路标一样直观。
+“I have my home, I have my office and I now I have my phone interface,” said Paola Antonelli, senior curator of architecture and design at the Museum of Modern Art in New York. “When you turn a smartphone off it is an enigmatic monolith; it’s the interface that not only animates it but gives it meaning.” Ms. Antonelli said she hoped to one day include iOS 7 in MoMA’s design collection.
+纽约现代艺术博物馆（Museum of Modern Art，简称MoMA）建筑和设计资深策展人宝拉·安东尼里(Paola Antonelli)称，“我有自己的家，自己的办公室，现在我又有了自己的手机界面。把手机关机之后，它就像一块谜团般的石块；界面不仅让它变得生动还赋予了它意义。”安东尼里称，她希望有一天能把iOS 7收进MoMA的设计收藏品中。
+Apple is making some stark changes to the appearance of its software with the latest operating system, which will be available to consumers in the fall. Jonathan Ive, senior vice president for industrial design at Apple and the executive responsible for the new look, has done away with design metaphors like a wood grain bookshelf for the phone’s virtual newsstand. The new look also eliminates borders. It doesn’t sound like much, but that allows apps to stretch across the screen, which makes the phone feel larger. By doing away with shadows and dark colors, the design makes the phone’s screen feel brighter, too.
+苹果最新版的操作系统给其软件外观带来了一些显著的变化，该操作系统将在今年秋天正式面向消费者发布。苹果公司负责工业设计的高级副总裁，也是负责新外观的高管乔纳森·艾夫(Jonathan Ive)已经摒弃了过去iPhone的虚拟报刊亭上使用的木纹书架那样的设计比喻。新设计还取消了边框，听上去似乎改变不大，但却得以让应用在屏幕拉伸开，使手机在感觉上变大一点。新设计还摒弃了阴影和深色调，手机屏幕也会因此而显得更亮。
+Interestingly, until this update, among the digital technology community, Apple was losing its reputation for cutting-edge design as competitors like Microsoft experimented.
+有趣的是，在这次升级之前，苹果公司在数字技术圈子里正在逐渐失去自己设计领先的名誉，就如同微软公司这样的竞争对手曾经历的那样。
+“From a design standpoint, Apple’s interface became pretty cheesy and predictable,” said Yves Béhar, the founder of Fuseproject, a San Francisco design agency that helped create the low-cost One Laptop Per Child PC and the Jawbone Up wristband health-monitoring device. “It lacked strength and vision.”
+旧金山设计公司Fuseproject的创始人伊夫·贝阿尔(Yves Béhar)称，“从设计角度来看，苹果的界面变得很俗气，没什么新意。它缺少力量和想象力。”Fuseproject公司帮助打造了低成本的“每童一电脑”(One Laptop Per Child)计划的电脑，以及健康监测设备Jawbone公司的Up手环。
+Microsoft, which was regularly criticized in recent years for the staid look of its software, has been pushing the design boundaries as it tries to play catch-up in smartphones. In a recent blog post on the company’s Web site, Steve Clayton, a design manager at Microsoft, wrote that company executives finally understood about three years ago that the look of the software was just as important as what the device could do.
+最近几年，微软公司常常因其软件保守的设计而备受批评，但就在它试图在智能手机领域追赶潮流时，它已开始努力突破设计上的局限。该公司的设计经理史蒂夫·克莱顿(Steve Clayton)最近在公司网站上发表了一篇博客文章，他说该公司的高管在三年前终于意识到，软件的外观和设备的性能一样重要。
+The new appearance of the company’s operating system for mobile devices, Windows Phone 7, consists of an array of flat, colorful squares that can be easily moved around on the screen. Though when that tiles-based look was also applied to the Windows 8 PC operating system, some longtime customers complained it was too drastic.
+该公司移动设备Windows Phone 7操作系统的新外观由一系列扁平多彩的方块组成，它们能够轻易地在屏幕上移动。但是当这种像磁贴一样的外观设计应用在Windows 8电脑操作系统上时，一些长期用户却抱怨变化太大。
+But it has been good for the mobile business.
+然而这种设计对于手机业务来说却反应不错。
+In the first quarter of 2013, Windows Phone nudged Blackberry to become the third most popular phone operating system globally, according to a report by IDC, a market research firm.
+根据市场研究公司IDC的一份报道，2013年第一季度，Windows手机战胜黑莓(Blackberry)手机，成为全球第三大最受欢迎的手机操作系统。
+Mr. Béhar said a good software design would always help sell more hardware.
+贝阿尔称，一款好的软件设计总会有助于销售更多硬件产品。
+“We are in an era where the 30-second TV ad doesn’t count anymore,” he said. “The product — the smartphone — is its own form of advertising today and a good experience, where people want to spend more time with the product, is what people see.”
+他说，“在我们所处的时代，30秒钟的电视广告已没有太大价值。如今，产品本身，比如一部手机，就是一种形式的广告，也是一种好的体验。今天这个时代，人们愿意花更多时间体验产品，你能看得到的东西。”

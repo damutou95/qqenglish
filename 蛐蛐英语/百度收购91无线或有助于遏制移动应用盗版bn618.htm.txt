@@ -1,0 +1,44 @@
+TOKYO — The biggest Internet takeover to date in China has already sharpened a rivalry among the country’s digital powerhouses, but the deal could also bring more order to China’s messy world of mobile apps.
+东京——中国迄今为止最大的一宗互联网并购交易，已经激化了数码业界巨头间的竞争，不过这笔并购可能也会让中国混乱的移动应用产业更有秩序。
+Baidu, the leading search engine in China, signed a deal last week to buy an operator of mobile application stores called 91 Wireless for $1.9 billion from an online video game company, NetDragon. The move should help Baidu regain ground against two other Chinese Internet giants, Alibaba and Tencent, which were quicker to add mobile capabilities.
+上周，位居中国搜索引擎领先地位的百度签下了一笔交易，以19亿美元（约合116亿元人民币）的价格从网络游戏公司网龙手中，收购了后者旗下一家名为91无线(91 Wireless)的手机应用商店运营商。此举有望帮助百度从中国另外两家向移动领域拓展更快的大型互联网企业——阿里巴巴(Alibaba)和腾讯(Tencent)那里——收复失地。
+The deal may also advance the fight against digital piracy of mobile apps, which remains widespread in China. In the rest of the world, most mobile applications are distributed through official outlets like Google Play or Apple’s App Store. But in China, dozens of so-called alternative app stores are the dominant distributors. Many of the applications available for download through the alternative stores are unauthorized knockoffs.
+此次收购还可能推进对盗版手机应用的打击，这些盗版在中国传播甚广。在世界其他国家，多数手机应用是通过官方途径发行的，如谷歌的Google Play和苹果的App Store。但在中国，许多所谓的第三方应用商店控制着手机应用的发行。从这些第三方商店能下载到的软件，很多是未获授权的冒牌货。
+Baidu will get two of the alternative stores, HiMarket and 91 Assistant, as part of its deal with 91 Wireless. And analysts say Baidu could be motivated to crack down on unauthorized copies, which would alter the landscape of China’s app market.
+作为与91无线的收购协议的一部分，百度将得到两家这种第三方商店：安卓市场（HiMarket，与谷歌官方Android应用市场无关——译注）和91助手(91 Assistant)。分析人士称，百度可能有清理未授权应用的意愿，这可能会改变中国手机应用市场的面貌。
+“It’s fair to say that it has not been a priority among Chinese app stores to police the content,” said Carl-Johan Skoeld, director of Stenvall Skoeld & Company, a consulting firm in Shanghai that works with app developers.
+“一直以来，中国的应用商店都没有把管控其发布的内容作为工作重点，这么说并不过分，”卡尔-约翰·斯科尔德(Carl-Johan Skoeld)说道。他是咨询公司史登威(Stenvall Skoeld & Company)的董事，该公司位于上海，与应用开发企业有业务合作。
+Two years ago, Baidu reached a landmark agreement with major record companies to distribute licensed online music after it had been labeled a conduit for piracy by the Office of the United States Trade Representative. In addition, Baidu’s stock is listed on the Nasdaq, potentially exposing the company to litigation from software developers whose applications had been copied and offered through 91 Wireless, legal experts said.
+两年前，百度被美国贸易代表办公室(Office of the United States Trade Representative)定性为盗版渠道后，它与各大唱片公司达成了一项标志性的协议，从而发行正版的在线音乐。此外，法律专家表示，百度的股票在纳斯达克(Nasdaq)上市，这让该公司面临潜在的诉讼风险：如果其产品遭到拷贝并经由91无线提供下载，软件开发者可能起诉百度公司。
+“It’s unlikely that app stores would be protected by safe harbor,” a provision of Chinese law that gives Internet companies legal protection, in certain cases, if they act to take down pirated material, said You Yunting, an intellectual property lawyer at DeBund Law Offices in Shanghai.
+“应用商店受到‘安全港’条款保护的可能性很小，”上海大邦律师事务所(DeBund Law Office)的知识产权律师游云庭表示。中国法律中的“安全港”条款规定，如果互联网企业采取措施撤除盗版内容，该规定能在某些情形下给予其法律保护。
+“If I were Baidu, I would put aside 10 to 30 percent of the purchase price as a copyright infringement fund and pay it out a year or two later, conditional on 91 stopping piracy,” he said.
+“假如说我是百度，我会将收购价扣减10%到30%作为版权侵权专款，以91无线停止盗版为条件，在1到2年后向其支付，”游云庭说道。
+Baidu and 91 Wireless declined to comment.
+百度和91无线均拒绝发表评论。
+Analysts say 91 Wireless has already been more active in fighting piracy than some other app stores in China, taking down infringing applications when notified. But developers complain that they should not be responsible for patrolling the stores for violations; given the number of stores and the frequency of updates, the task is practically impossible.
+分析人士称，相比中国其他一些应用商店，91无线在打击盗版方面已经显得更为积极，它在收到通告后会撤下侵权应用。但应用开发者抱怨称，排查诸多应用商店中侵权内容的责任不应该由他们承担；因为这些商店数目多、更新频繁，这项任务在实际操作上不可能完成。
+Alternative app markets have thrived in China in the absence of Google Play, which caters to phones using the company’s Android operating system. More than three-quarters of smartphones in China use Android, but Google, which had a prominent dust-up with Beijing over accusations of censorship and network security, has not introduced a Chinese version of its app store.
+因为谷歌针对使用其Android操作系统手机的Google Play商店在中国缺席，各种第三方应用商店得以发展壮大。中国有超过四分之三的智能手机采用Android系统，但谷歌公司因互联网审查和网络安全的指责与北京方面发生激烈争执后，其应用商店的中国版本就一直没有推出。
+Alternatives like Qihoo 360, Wandoujia, 91 Assistant and HiMarket have filled the gap. Many of the Android apps on these sites are legitimate; because there is no Chinese Google Play, the developers instead license their apps to the alternative markets.
+奇虎(Qihoo)360、豌豆荚、91助手和安卓市场等替代选项，填补了谷歌退出留下的空缺。这些站点上的Android应用很多都是合法的；因为没有中国版的Google Play，软件开发者转而将他们的应用授权给这些第三方市场发布。
+But it is another matter for alternative apps compatible with Apple’s iOS operating system. Apple integrates its hardware and software, so iPhones are configured to download applications only from the company’s official app store.
+但与苹果iOS兼容的第三方应用则是另一种局面。苹果公司将其硬件和软件整合为一体，使得iPhone手机被设置成只能从苹果公司的官方应用商店下载软件。
+Apple did not introduce a Chinese-language version of the online shop until 2010, and did not permit credit card transactions in the local currency until a year later. As a result, many Chinese iPhone owners decided to “jailbreak” their phones — hacking them to accept applications from outside sources. Most of the apps are unauthorized copies.
+苹果直到2010年才推出了中文版的在线商店，而后又过了一年才允许人民币信用卡交易。因此，中国很多iPhone用户决定给手机“越狱”——通过“黑客”手段令其接受外来应用。而这些应用大多是未经授权的拷贝。
+Alternative stores also cater to Chinese smartphone users’ preference for free apps. While paid-for apps are common in the United States and other Western countries, Chinese smartphone users are reluctant to pay upfront. Instead, the app developers make money from advertising and by selling premium features, like special powers in a video game. A percentage of the revenue is shared with the app store.
+第三方商店还迎合了中国智能手机用户对免费应用的偏爱。虽然在美国等西方国家付费应用很普遍，但中国的智能手机用户还不情愿先付钱再使用。于是，应用开发者转而依靠广告收入和出售增值功能（如游戏中的特殊能力）赚钱。收入的一小部分需要和应用商店分成。
+The fragmentation of the Chinese app market makes links among app stores, online services, smartphone makers and network operators more important.
+中国手机应用市场的分散化，让应用商店、在线服务商、智能手机制造商和手机网络运营商之间的联系更显重要。
+Baidu, for example, has a partnership with Apple, under which Apple features the search engine in Chinese versions of its mobile operating system. Baidu, in turn, provides Apple with a share of search advertising revenue. Tencent has a hugely popular messaging service, WeChat. Alibaba recently bought a stake in the Chinese version of Twitter, Sina Weibo.
+举例而言，百度就和苹果进行了合作，让苹果在其移动操作系统中文版里加入了百度搜索引擎，而百度则相应地为苹果提供搜索广告收入分成。腾讯也拥有广受欢迎的微信(WeChat)消息业务。阿里巴巴则于近期收购了新浪微博(Sina Weibo)的部分股权，后者是一款类似Twitter的中国服务。
+Because of the importance of the relationship with Apple, Baidu might decide it makes more sense to shut down 91’s alternative iOS market, which accounts for a small part of the company’s business.
+由于百度和苹果存在重要的合作关系，该公司或许将得出结论，认为关闭91无线的第三方iOS市场是明智之举，它在该公司的业务中所占的份额不大。
+Apple declined to comment. The company has not been immune from copyright complaints in China. Last year a court in Beijing fined the company 520,000 renminbi, or $84,360, finding that applications for sale in the Apple App Store contained information that had been copied from encyclopedias without authorization. Apple has appealed, saying it was not responsible for the content of the apps, which were created by outside developers.
+苹果公司对此未予置评。该公司在中国也没能免于版权纠纷。去年，北京一家法院认定苹果通过其App Store出售的应用中，包含从百科全书上未经许可复制来的信息，对其处以52万元人民币（约合84,360美元）罚款。苹果提出上诉，称该公司不应对外部开发者创作的应用中承载的内容承担责任。
+There are signs that Chinese smartphone users are becoming more aware of copyright issues. A few years ago, more than half of iPhones in China were jailbroken, analysts say, but now the proportion has fallen to as little as a third. While jailbreaking is not illegal, Apple discourages it, warning users that doing so could subject their phones to malicious software and other unwanted downloads.
+有迹象表明，中国的智能手机用户对版权问题的认识正在提升。分析人士称，若干年前中国超过半数的iPhone是越狱的，但这一比例现已降至三分之一。手机越狱虽然不违法，但苹果公司不提倡这样做，警告用户称越狱操作可能令手机遭到恶意软件及其他非自愿下载内容的威胁。
+For Baidu and other operators of alternative app stores, a clear public stance against piracy could make sense from a marketing standpoint, analysts say.
+分析人士指出，对于百度等第三方应用商店的运营者，鲜明的反盗版立场，可能从市场营销的角度看来具有合理性。
+“The market remains chaotic,” said Bryan Wang, an analyst at Forrester Research. “There are few trusted, neutral parties giving independent information to the consumer. That creates an opportunity for someone to grow their market share by differentiating themselves with a clean and legal offering.”
+“市场仍然混乱无序，”弗雷斯特研究公司(Forrester Research)的分析师王平(Bryan Wang)说道。“几乎没有可信而中立的市场参与者为消费者提供独立的信息。这就产生了一个机遇，等待着某些企业依靠提供干净、合法的产品脱颖而出，扩大市场占有率。”

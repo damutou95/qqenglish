@@ -1,0 +1,36 @@
+SAN FRANCISCO — The board of Yahoo will discuss potentially selling off the beleaguered Internet company’s core business during a series of meetings this week, people briefed on the plans said on Tuesday.
+旧金山——雅虎董事会将在本周的一系列会议上讨论出售这家处于困境的互联网公司核心业务的可能性，了解这一计划的人士周二透露。
+Directors of the company will also discuss whether to move forward with plans to spin off Yahoo’s 15 percent stake in the Alibaba Group, the Chinese e-commerce giant. The board will weigh all its options, and it is unclear whether the directors will change course, said the people, who spoke on the condition of anonymity because they were not authorized to publicly discuss the plans.
+公司的董事们也将讨论是否继续推进剥离雅虎对中国电子商务巨头阿里巴巴集团所持的15％股份的计划。知情人士说，董事会将权衡所有的可能，目前还不清楚董事会是否会改变议程。这些人要求不透露姓名，因为他们没有获得公开讨论这些计划的授权。
+Still, the discussions — which will take place at a regularly scheduled board meeting — highlight the difficulties that have long troubled one of the most prominent Internet companies.
+不过，这些将在定期的董事会上进行的讨论，突显了这家最大的互联网公司之一长期以来面临的困难。
+The discussions are also sure to put attention squarely on Marissa Mayer, Yahoo’s chief executive, and the company’s direction under her leadership. Although Ms. Mayer is credited with stabilizing the company, which was in rapid decline, Yahoo has introduced no breakthrough products during her three years at the helm and has fallen further and further behind competitors like Facebook and Google in the battle for advertising dollars.
+这些讨论也必将把人们的注意力集中到雅虎首席执行官玛丽莎·梅耶尔(Marissa Mayer)身上，以及她领导下的公司方向问题。虽然让公司稳定下来的功绩归于梅耶尔，在她上任之前，公司业绩在快速下滑，但是，在她掌管的三年中，雅虎并没有推出任何突破性产品，而在与如Facebook和谷歌等对手的广告收入竞争上落得越来越远。
+A representative of Yahoo declined to comment on the plans.
+雅虎的一名代表拒绝就这些计划发表评论。
+Begun as a simple website called Jerry and David’s Guide to the World Wide Web, Yahoo has grown into one of the biggest names in the Internet business.
+以名为“致远和大卫的万维网指南”(Jerry and David’s Guide to the World Wide Web)的一个简单网站起家的雅虎，后来发展为互联网业务的巨头之一。
+Yet for the last decade, Yahoo has struggled to find its reason for being. Under the leadership of Ms. Mayer, a highly vaunted Google executive brought in to drive the latest turnaround effort, the company has spent billions of dollars on acquisitions like Tumblr and Polyvore that have yet to prove their value. And in October, the company announced it was writing off $42 million that it had wasted on an ill-fated foray into original video programming.
+然而，在过去10年中，雅虎一直在努力寻找其存在的理由。为引导最新的一轮复兴计划，雅虎高调引进了曾任谷歌高管的梅耶尔，在她的领导下，公司花费了数十亿美元来收购诸如tumblr和Polyvore等尚未证明自己价值的公司。今年10月，公司宣布将一笔4200万美元的坏账注销，这笔钱被浪费在一个进军原创视频节目的失败尝试上。
+Hundreds of millions of people continue to use Yahoo, which was a pioneer on the Internet. So the core business could have value to a potential acquirer.
+雅虎是互联网界的先驱，仍有数以百万计的用户在使用它。因此，其核心业务可能对潜在的收购者具有价值。
+“The saving grace for Yahoo is that it still has a relatively large user base that is reliant on the platform so long as they maintain email addresses there. It also has a still relatively strong (and still relatively large) sales force,” wrote Brian Wieser, an analyst at Pivotal Research, in a note to clients Tuesday night. “As long as both of those factors remain in place, there would be time for an acquirer to establish new strategies and develop products while the property continues to generate cash flow.”
+“雅虎的卖点在于，它的用户群规模依然比较大，他们只要还使用雅虎电邮，就会依赖这个平台。而且雅虎还有一支比较强（规模也相对较大）的销售队伍，” 枢轴研究(Pivotal Research)分析师布赖恩·威泽(Brian Wieser)本周二晚在一份致客户的信中说。“只要这两个因素依然存在，雅虎就会继续产生现金流，收购者就有时间来规划新战略，开发产品。”
+But by far the greater value to shareholders has come from Yahoo’s large stakes in Alibaba and Yahoo Japan, which is controlled by the Japanese investment firm SoftBank. Subtract the Alibaba and SoftBank stakes and the value of the remaining company is less than zero.
+但是迄今为止，股东认为雅虎持有的大量阿里巴巴和雅虎日本的股票价值更大；雅虎日本由日本投资公司软银(SoftBank)控股。除去阿里巴巴和软银的股份，雅虎剩下的价值为负。
+The planned board discussions were reported Tuesday evening by The Wall Street Journal. In an interview on Tuesday after news of the potential board talks was published, Jeff Bonforte, Yahoo’s senior vice president for communications products, said employees were continuing to work on new products and features as the larger discussions about the company’s fate continued.
+《华尔街日报》本周二晚上报道了这个计划举行的董事会讨论。当天该消息刊出之后，雅虎通信产品高级副总裁杰夫·邦弗特(Jeff Bonforte)接受采访表示，就在雅虎命运大讨论继续进行之际，员工正在继续开发新产品和新功能。
+“It’s clear that Marissa came in with a timeline of three to five years,” Mr. Bonforte said.
+“很明显，在玛丽莎上任的时候，着眼的就是三到五年的时间，”邦弗特说。
+But he said that ultimately his team members did not have any control over how much time they would get to show results. “I just try to ship products that I’m not ashamed of,” he said.
+但他表示，对于他们有多少时间去展示成果，他的团队成员没有任何控制权。“我只是在尝试推出不会问心有愧的产品，”他说。
+The board’s deliberations are also taking place under pressure from a prominent activist investor, the hedge fund Starboard Value, which has spent more than a year trying to push Yahoo to take action to raise its stock price.
+董事会的审议也是在对冲基金斯塔博德价值(Starboard Value)施加的压力下进行的，这家著名的激进投资机构已经花了一年多的时间试图让雅虎采取行动，提升股价。
+Last month, Starboard called on Yahoo to abandon the spinoff of the Alibaba stake after the Internal Revenue Service declined to bless the potential deal as tax-free. That could negate the rationale for the spinoff and lead to a tax bill of several billion dollars.
+上个月，斯塔博德呼吁雅虎放弃拆分阿里巴巴股份，因为国税局拒绝为该交易提供免税待遇。这可能会让分拆不再具有意义，反而带来数十亿美元的税单。
+While Yahoo could fight a tax determination, Starboard has argued that the upside of winning that battle would be limited.
+雅虎可以对这个税收认定提出异议，但斯塔博德认为赢面有限。
+Should Yahoo put its core business up for sale, the operations are expected to draw takeover interest from other technology companies as well as private equity firms, analysts and investors have said.
+分析师和投资者说，雅虎如果将其核心业务挂牌出售，预计将会吸引其他科技公司和私募股权公司的收购兴趣。
+A representative of Starboard declined to comment.
+斯塔博德的一名代表拒绝发表评论。

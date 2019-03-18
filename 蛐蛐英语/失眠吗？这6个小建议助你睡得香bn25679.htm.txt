@@ -1,0 +1,30 @@
+I’m exhausted. Aren’t you? For an article about how Silicon Valley and other innovators have taken on the challenge of sleeplessness, a $32 billion market once populated mostly by mattress and pharmaceutical companies, I tested but a few of the many hundreds of gadgets, apps, podcasts and other inventions now devoted to a good night’s sleep. As the gizmos grow more elaborate, imbued by ever more exotic technologies, they are creating a ruckus in our bedrooms, and sleep experts advocate a simpler approach. Here are a few of their tips (and a gizmo or two):
+我累极了。你不累吗？失眠这个价值320亿美元的市场曾主要被床垫和制药公司占领。为了写一篇硅谷和其他创新人士挑战失眠的文章，我在如今成百上千种小工具、应用软件、播客及其他致力于让人睡一个好觉的发明中，对其中一些进行了测试。随着这些新玩意儿在日益奇异的科技下不断完善，它们也在我们的卧室制造出一阵骚动。睡眠专家则支持一种更为简便的方式。这里是他们的小建议（以及一两个小发明）：
+​Have someone read to you
+听人阅读
+“Sleep With Me,” a wildly popular podcast by Drew Ackerman, a gravelly voiced librarian who tells excruciatingly boring bedtime stories, has millions of fans, but it makes me anxious. At M.I.T.’s Media Lab, the researcher David Rose and his colleagues stumbled upon recordings of Icelandic folk tales, which they found incomprehensible, of course, and therefore more soothing and soporific.
+《与我共眠》(Sleep With Me)是德鲁·阿克曼(Drew Ackerman)的一档颇受欢迎的播客，阿克曼是一位图书管理员，他用沙哑的嗓音讲述着极其无趣的睡前故事，有成百上千万粉丝，但他的播客却让我感到焦虑。在麻省理工学院(MIT)的媒体实验室，研究员戴维·罗斯(David Rose)偶然发现了冰岛民间故事的录音，当然，他们发现这些故事谁也听不懂，但也因此更能平复人心、利于催眠。
+​Take a bath
+泡个澡
+Arianna Huffington, author of “The Sleep Revolution: Transforming Your Life, One Night at a Time,” suggests following the bedtime rituals we gave our children. “You didn’t just throw your baby in bed,” she said. “There was a transition. A hot bath makes it easier for you to wash away the day.”
+《睡眠革命：一夜一次，改变你的生活》(The Sleep Revolution: Transforming Your Life, One Night at a Time)一书的作者阿里安娜·赫芬顿(Arianna Huffington)建议我们遵照送孩子们入睡时的仪式。“你不会只是把宝宝扔在床上而已，”她说。“要有一个过渡。一个热水浴能更好地帮你洗去一天的疲惫。”
+​Make your bedroom dark, cold and quiet
+保持卧室黑暗、凉爽，安静
+A no-brainer. If you must have a gizmo in there with you, the Sense pod, a delicate polycarbonate sphere, measures temperature, air quality, humidity and other intangibles.
+这还用说吗。如果你一定要在卧室里放个什么小玩意儿，那就放Sense睡眠监测器好了，这个精巧的聚碳酸酯小球可以测量温度、空气质量、湿度等无形指标。
+Tuck in with a weighted blanket
+盖一条加重的毯子
+Mr. Rose and his colleagues are investigating what makes an ideal sleep environment. To evoke the feeling of many blankets on a cold night, Mr. Rose turned to the weighted blankets used as sensory therapy for autistic children.
+罗斯和同事们正在研究理想的睡眠环境是什么样的。为了唤起那种在寒冷的夜晚盖着许多毯子的感觉，罗斯先生推荐自闭症儿童做感觉疗法时使用的加重毯子。
+Say your prayers
+做祷告
+Thank your body parts, starting with your feet. Nancy Rothstein, director of Circadian Corporate Sleep programs and otherwise known as the Sleep Ambassador, teaches a relaxation recipe that mixes gratitude with body awareness and deep breathing. As in: “Feet, I’m so grateful for all you did today. You carried us everywhere we had to go. You can rest now.”
+感谢你身体的每个部位，从双脚开始。南希·罗思坦(Nancy Rothstein) 是生理节奏睡眠(Circadian Corporate Sleep)项目的主任，也被称为“睡眠大使”，她教了我们一个放松的窍门，将感恩之情与身体意识和深呼吸结合起来。如：“双脚，我非常感谢你们今天所做的一切。你们带领我们去往那些我们不得不去的地方。你们现在可以休息了。”
+Keep your devices out of sight, or in another room
+把智能设备放在视线之外，或者另一个房间
+If you’re tracking your sleep on your phone, wait until morning to check your stats.
+如果你正在用手机跟踪自己的睡眠，请等到早上再检查统计信息。
+Or do as Mr. Rose at M.I.T. does. Mr. Rose lives with a collection of interactive furniture and animated objects, like Alexa by Amazon and Personal Assistant by Google and Aura, a sleep tracker and alarm clock by Withings that looks like a ship’s funnel and uses light to regulate melatonin. He and his family sometimes struggle with the beguilements of his enchanted objects, as he calls his gizmos. His children play Alexa and Google’s Personal Assistant off each other, a battle of the robots. And when he reads Harry Potter to his son at night, Alexa has taken to playing the theme song from the movies.
+或者像罗斯在麻省理工学院时做的那样。罗斯家里有一系列交互式家具和活动物品，比如亚马逊的Alexa语音助理；谷歌智能助理(Personal Assistant)；以及Withings公司开发的睡眠跟踪器兼闹钟Aura，它看上去像是船上的烟囱，还能使用光线来调节褪黑素。他把这些小玩意叫做魔法道具，一家人有时候对它们过于着迷了。孩子们让Alexa和谷歌智能助理做比赛，这是机器人之间的战斗。当他晚上给儿子读《哈利·波特》(Harry Potter)时，Alexa已经习惯了为他们播放一曲电影里的主题歌。
+Recently, however, Mr. Rose invited a new gizmo into his apartment to police the other devices. Called “Circle,” it wirelessly scouts all the technologies in the house — his children’s iPads, internet-connected guitars, toys and his own phone — and sets rules for their use, which is to say, it sets bedtime for the robots, so everyone can get to sleep.
+不过，罗斯最近邀请了一个新的小玩意到公寓里来监管其他设备。它叫“Circle”，可以无线侦察家里所有的技术设备，并为它们设置使用规定——孩子们的iPad、连接互联网的吉他、玩具，还有他自己的手机，也就是说，它为这些机器人们也设置了上床时间，这下所有人都可以去睡觉了。

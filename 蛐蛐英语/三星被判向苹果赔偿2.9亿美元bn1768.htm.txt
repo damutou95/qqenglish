@@ -1,0 +1,28 @@
+SAN JOSE — A jury on Thursday said that Samsung Electronics would have to pay Apple $290 million more in damages for violating patents, putting an end to one chapter in the long-running patent struggle between the two tech companies.
+圣何塞——周四，陪审团宣布，三星电子(Samsung Electronics)应向苹果(Apple)追加2.9亿美元（约合17.7亿元人民币）的侵犯专利赔偿金。这一判决让两家科技公司之间的专利持久战告一段落。
+The six-woman, two-man jury calculated the damages based on 13 products that infringed Apple’s patents. They determined that two smartphones incurred the heftiest damages: Samsung’s Infuse 4G, at about $100 million, and the Droid Charge, at $60 million.
+由六名女性和两名男性组成的陪审团基于侵犯苹果专利权的13款产品计算出这一赔偿金额。他们认定，其中两款智能手机的罚款应该是最重的：三星Infuse 4G是约1亿美元，而Droid Charge则是6000万美元。
+While the price tag will not significantly affect either company’s pocketbooks — they are two of the most profitable companies in the technology industry — the ruling did give Apple another victory in the companies’ continuing legal fight.
+尽管这样的金额对两家企业的荷包都不会构成重大影响——它们均属于技术行业里利润最高的公司之列——但判决本身让苹果在二者之间的法庭大战中又一次取得胜利。
+In August last year, a California jury determined that Samsung had infringed on a series of Apple patents and needed to pay more than $1 billion in damages. But the judge, Lucy H. Koh of the Federal District Court for Northern California, later vacated $450 million of the original award, saying it was unclear how the jury had calculated that portion, but said Samsung owed the remaining $600 million.
+去年8月，加利福尼亚州的一个陪审团裁定，三星侵犯了苹果的一系列专利，因此需支付超过10亿美元的赔偿金。不过，北加利福尼亚联邦地区法院的法官高惠兰(Lucy H. Koh)后来将原始的赔偿金额削减了4.5亿美元，理由是不清楚陪审团如何计算出这部分的钱，但她仍然判定三星需支付剩余的6亿美元。
+The latest trial, also overseen by Judge Koh, was to determine whether Samsung needed to pay more or less than the $450 million that was vacated. In the trial, which ran for about a week in San Jose, Calif., lawyers for Apple and Samsung focused on how to calculate the damages: in lost profits or in royalties. The trial covered five patents and 13 products.
+最近的这次审判仍由高惠兰法官主持，目的是判定三星需要支付4.5亿美元赔偿金中多大一部分。庭审持续了约一周时间，在加利福尼亚州的圣何塞进行。苹果和三星的律师团争论的焦点是如何计算赔偿金：依据损失的利润还是专利费？案件涉及5项专利和13款产品。
+Apple said in a statement that the case “has been about innovation and the hard work that goes into inventing products that people love.” It added, “While it’s impossible to put a price tag on those values, we are grateful to the jury for showing Samsung that copying has a cost.”
+苹果发表声明称，本案“事关创造出民众喜爱的产品的那些创新与努力”。文中还称，“虽然无法为这些价值贴上价签，但我们感激陪审团向三星展示出，抄袭是要付出代价的。”
+Lauren Restuccia, a Samsung spokeswoman, said, “We are disappointed by today’s decision.”
+三星的女发言人劳伦·雷斯图恰(Lauren Restuccia)则表示，“我们对今天的判决感到失望。”
+Apple argued in the most recent trial that it deserved $379.8 million because it missed out on large amounts of profit after Samsung’s smartphones entered the market. Samsung contended that Apple should get much less, $52 million.
+在这次庭审中，苹果主张应得3.798亿美元，因为三星的智能手机进入市场后，苹果损失了大量利润。三星则辩称，苹果应得的要少得多，仅为5200万美元。
+Legal experts said Samsung was most likely trying to minimize the damages to safeguard itself in future fights. The final award could influence another jury to make similar damage calculations.
+一些法律专家表示，三星很可能会尽量压低赔偿的金额来为自己在将来的法律大战中提供一定的保护。最终的赔偿金额或许会影响到其他陪审团的类似估算。
+Apple’s lawyer, Harold J. McElhinny, showed an internal Samsung document to highlight that employees had acknowledged that the battle in the mobile industry was a “two-horse race” between Apple and Samsung. Therefore, he said, many sales made to Samsung most likely could have gone to Apple.
+苹果的代表律师哈罗德·J·麦克尔希尼(Harold J. McElhinny)展示了三星的一份内部文件，用来强调该公司员工承认移动行业之争是苹果与三星之间的“两强争霸”。他主张，这说明三星的许多销售额本来很可能是要流向苹果的。
+Samsung, however, said that it should pay a much smaller amount in the form of royalties for each device it sold that carried the infringing features. Its lawyer, Bill Price, said that Apple was not entitled to lost profits because people had bought Samsung phones for reasons unrelated to the features covered by patents, like the fact that some Samsung phones had bigger screens and that Samsung’s phones and tablets were generally cheaper than Apple’s.
+然而，三星认为，应当支付一笔少得多的赔偿金，方式是为每台带有侵犯专利功能的售出设备缴纳专利费。代表公司的律师比尔·普赖斯(Bill Price)称，苹果的利润损失说法不成立，因为人们购买三星手机的理由与这些专利功能无关，而是出于三星手机的屏幕更大，或是三星手机与平板的价格基本比苹果便宜等原因。
+Also on Wednesday, Samsung tried to delay the entire trial. The company argued that a patent involved in the trial, which covered touch-screen mechanics, might be deemed invalid by the United States Patent and Trademark Office. In light of that, reaching a verdict now would be wasteful, Samsung said.
+同样在周三，三星还试图让整场审判延期举行。它提出的理由是，案件中涉及到一个有关触屏机制的专利，而这个专利可能会被美国专利商标局(United States Patent and Trademark Office)认定为无效。有鉴于此，三星认为，现在做出判决将是浪费时间。
+Apple and Samsung continue to fight in courts around the world. In the United States, the tide has shifted in Apple’s favor. Both companies persuaded the United States International Trade Commission that the other had violated patents, resulting in bans on each other’s products. The Obama administration ultimately vetoed the ban on Apple products, while upholding the ban on Samsung products.
+苹果与三星不停地在世界各地打官司。在美国，天平倾向至苹果这一边。两家公司都曾说服美国国际贸易委员会(United States International Trade Commission)，对方侵犯了己方专利，导致双方都有产品被禁。可是，奥巴马政府最终否决了对苹果产品的禁令，却保留了对三星产品的禁令。
+The two companies are scheduled for another trial in March 2014. That trial will involve a different set of Apple patents and some newer products, including Samsung’s popular Galaxy S III — a smartphone that at one point surpassed the iPhone in sales. Judge Koh is expected to also oversee that case.
+双方的另一场官司定于明年3月开庭。这一次将涉及另外一组苹果的专利，以及推出时间较短的部分三星产品，比如热卖的Galaxy S III——这款机型一度在销售数字上打败了iPhone。预计主持此次庭审的仍将是高惠兰法官。

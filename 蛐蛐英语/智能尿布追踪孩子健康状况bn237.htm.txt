@@ -1,0 +1,22 @@
+Talk about changing with the times.
+让我们谈谈与时俱进吧。
+A New York start-up called Pixie Scientific has developed a diaper that the company says can detect possible urinary tract infections, kidney dysfunctions, and dehydration, accompanied by a smartphone app that can transmit the information to a physician.
+一个名为精灵科学(Pixie Scientific)的纽约初创公司发明了一种尿布。公司称，这种尿布可以察觉潜在的尿路感染、肾功能障碍和脱水等疾病状况，而且，配合一款智能手机应用，可将相关信息传达给医生。
+“I was driving with my wife and daughter one day, when my wife asked if the baby had wet herself,” said Yaroslav Faybishenko, Pixie’s founder. “I realized she was sitting in data.”
+精灵公司的创始人雅罗斯拉夫·菲比申科(Yaroslav Faybishenko)说：“有一天，我开车载着妻子和女儿的时候，妻子问我宝宝是不是尿裤子了。我意识到，孩子的屁股下面就是数据啊。”
+Other so-called quantified self products have been developed for adults, like products from Jawbone and FitBit that create digital records of calorie expenditure and sleep habits. At this year’s Consumer Electronics Show, a Taiwanese company called AiQ showed off shirts that it said could measure things like heart rate and other biometric signals.
+其他一些所谓的“自我量化”产品专为成人设计，比如Jawbone和Fitbit两家公司开发了可以记录卡路里消耗量和睡眠习惯的数码产品。在今年的消费者电子产品展(Consumer Electronics Show)上，来自台湾的AiQ公司展示了一款衬衫产品，声称它可以测量穿着者的心率等生物信号。
+In contrast to those things, the technology behind the diaper is relatively simple, and it owes as much to the quality of smartphone cameras as it does to clever chemistry.
+与上述产品相比，这种尿布背后的技术显得比较简单，而且同时倚仗智能手机摄像头的质量和化学技术的精巧。
+At the front of the diaper is a patch with several colored squares. Each square represents a different interaction with a protein, water content or bacteria, and changes color if it detects something is outside of normal parameters. There is also a neutral white square, to more easily check for color changes in the other squares.
+尿布的正面有一块补丁，上面带有五颜六色的方格。每个方格代表着不同的作用，分别用来检测蛋白质、水含量或细菌。如果发现指标不正常，方格会变色。还有一个白色方块，从而更易于察觉其他方格的颜色变化。
+A smartphone app takes a picture and can make precise readings of the chemical data based on  color changes. The data is uploaded to a central location, where physicians can get information about how the child is doing and whether the baby needs further testing.
+配套的智能手机应用可以拍照并依据颜色变化来对化学数据进行精确的解读。数据被上传到一个中央单元，医生可以从中得知婴儿的状况，以及是否需要进一步检查。
+The diaper is expected to be tested at Benioff Children’s Hospital of the University of California, San Francisco this September. Columbia University’s children’s hospital is considering a similar study. If successful, the product may then be submitted to the Food and Drug Administration for final approval.
+这种尿布预计将于今年9月在加州大学旧金山分校(University of California, San Francisco)的贝尼奥夫儿童医院(Benioff Children’s Hospital)接受测试。哥伦比亚大学(Columbia University)的儿童医院也在考虑进行类似的研究。如果成功，该产品将被提交给食品与药物管理局(Food and Drug Administration)进行最后的批准审核。
+Mr. Faybishenko said he thought the diaper, which he said would cost about 30 percent more than regular diapers, had potential as a consumer product, for parents who want to keep regular tabs on their child’s health. Rather than overwhelming parents with data, the app is likely to let them know whether they should see a pediatrician for one or more possible conditions. With the parents’ permission, the detailed urine analysis data could be sent to a doctor’s office.
+菲比申科表示，他认为这款比一般尿布贵大概30%的产品有潜力成为消费者产品，特别是对于希望时时跟进孩子健康状况的父母来说。应用程序可以让父母知道，发生某种或某些状况的时候是否需要看儿科医生，而不会用一大堆数据将他们包围。在家长同意的情况下，详细的尿样数据可以被传送给医生。
+“You really don’t want to overload parents with data they don’t understand,” he said. “Eventually the quantified self idea will be mostly silent and unobtrusive, just something inside the existing flow of life.”
+他说：“你绝不想让父母为不懂的数据背上过重的负担。最终，自我量化的理念大体会悄无声息而不事张扬，成为日常生活的一部分。”
+Mr. Faybishenko said the company was working on other tests, but would not specify what they were.
+菲比申科称，公司正在进行其他的研发测试，但不便透露详细信息。

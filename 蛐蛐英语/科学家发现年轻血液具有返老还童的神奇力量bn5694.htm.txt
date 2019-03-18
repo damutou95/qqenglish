@@ -1,0 +1,48 @@
+Two teams of scientists published studies on Sunday showing that blood from young mice reverses aging in old mice, rejuvenating their muscles and brains. As ghoulish as the research may sound, experts said that it could lead to treatments for disorders like Alzheimer’s disease and heart disease.
+两个科学家团队周日发布的研究表明，幼龄鼠的血液能逆转老龄鼠的衰老，让它们的肌肉和大脑恢复活力。相关研究听上去可能令人毛骨悚然，专家却表示，这可能会有助于阿尔茨海默氏征和心脏病的治疗。
+“I am extremely excited,” said Rudolph Tanzi, a professor of neurology at Harvard Medical School, who was not involved in the research. “These findings could be a game changer.”
+“我非常激动，”未参与前述研究的哈佛大学医学院(Harvard Medical School)神经学教授鲁道夫·坦齐(Rudolph Tanzi)说，“这些发现可能会带来巨变。”
+The research builds on centuries of speculation that the blood of young people contains substances that might rejuvenate older adults.
+这项研究是基于一个流传了数百年的猜测，即年轻人的血液可能含有能让老年人恢复活力的物质。
+In the 1950s, Clive M. McCay of Cornell University and his colleagues tested the notion by delivering the blood of young rats into old ones. To do so, they joined rats in pairs by stitching together the skin on their flanks. After this procedure, called parabiosis, blood vessels grew and joined the rats’ circulatory systems. The blood from the young rat flowed into the old one, and vice versa.
+上世纪50年代，康奈尔大学(Cornell University)的克莱夫·M·麦凯(Clive M. McCay)和同事曾将幼龄鼠的血液输入老龄鼠体内，借此检验这一观念。为了做到这一点，他们将两只大鼠的侧腹皮肤缝在一起，使它们连接起来。经过被称作异种共生的这一步后，血管生长出来，两只老鼠的循环系统融合在了一起。幼龄鼠的血液流入了老龄鼠的体内，老龄鼠的血也流进了幼鼠。
+Later, Dr. McCay and his colleagues performed necropsies and found that the cartilage of the old rats looked more youthful than it would have otherwise. But the scientists could not say how the transformations happened. There was not enough known at the time about how the body rejuvenates itself.
+后来，麦凯博士和同事解剖了老鼠的尸体，发现老龄鼠的软骨看起来比它未经实验的应有状态更年轻。但这些科学家无法说明这种变化是如何发生的。当时，人们对身体恢复活力的方式还没有足够的认识。
+It later became clear that stem cells are essential for keeping tissues vital. When tissues are damaged, stem cells move in and produce new cells to replace the dying ones. As people get older, their stem cells gradually falter.
+后来，人们清楚地认识到，干细胞对保持组织的活力至关重要。组织受损时，干细胞会进入，生成新细胞来取代失去活力的老细胞。随着年龄的增长，人的干细胞会逐渐衰退。
+In the early 2000s, scientists realized that stem cells were not dying off in aging tissues.
+本世纪初，科学家意识到，干细胞并没有在日渐衰老的组织中逐渐消亡。
+“There were plenty of stem cells there,” recalled Thomas A. Rando, a professor of neurology at Stanford University School of Medicine. “They just don’t get the right signals.”
+“干细胞是很多的，”斯坦福大学医学院(Stanford University School of Medicine)神经学教授托马斯·A·兰多(Thomas A. Rando)回忆说，“它们只是没有接收到正确的信号而已。”
+Dr. Rando and his colleagues wondered what signals the old stem cells would receive if they were bathed in young blood. To find out, they revived Dr. McCay’s experiments.
+兰多博士和他的同事想要知道，如果沐浴在年轻的血液之中，老的干细胞会收到什么信号。为了找到答案，他们重新进行了麦凯博士的实验。
+The scientists joined old and young mice for five weeks and then examined them. The muscles of the old mice had healed about as quickly as those of the young mice, the scientists reported in 2005. In addition, the old mice had grown new liver cells at a youthful rate.
+科学家们将老龄鼠和幼龄鼠连接在一起，五周之后再去观察它们。他们在2005年通报称，老龄鼠的肌肉愈合速度几乎和幼龄鼠一样快。此外，老龄鼠以幼龄鼠的速度长出了新的肝细胞。
+The young mice, on the other hand, had effectively grown prematurely old. Their muscles had healed more slowly, and their stem cells had not turned into new cells as quickly as they had before the procedure.
+另一方面，幼龄鼠实实在在地未老先衰了。它们的肌肉愈合得更慢，干细胞转化成新细胞的速度也不如实验之前快。
+The experiment indicated that there were compounds in the blood of the young mice that could awaken old stem cells and rejuvenate aging tissue. Likewise, the blood of the old mice had compounds that dampened the resilience of the young mice.
+这个实验表明，幼龄鼠的血液含有一些化合物，这些化合物可能会唤醒老的干细胞，让日渐衰老的组织恢复活力。同理，老龄鼠的血液含有抑制幼龄鼠活力的化合物。
+Amy J. Wagers, a member of Dr. Rando’s team, continued to study the blood of young mice after she moved in 2004 to Harvard, where she is an associate professor. Last year, she and her colleagues demonstrated that it could rejuvenate the hearts of old mice.
+兰多博士的团队成员埃米·J·韦杰斯(Amy J. Wagers)在2004年进入哈佛，之后继续研究幼龄鼠的血液。她现在是哈佛的副教授。去年，她和同事证明，幼龄鼠的血液可以恢复老龄鼠心脏的活力。
+To pinpoint the molecules responsible for the change, Dr. Wagers and her colleagues screened the animals’ blood and found that a protein called GDF11 was abundant in young mice and scarce in old ones. To see if GDF11 was crucial to the parabiosis effect, the scientists produced a supply of the protein and injected it into old mice. Even on its own, GDF11 rejuvenated their hearts.
+为了确定这种变化究竟与哪种分子相关，韦杰斯和同事对老鼠的血液进行了测试，发现幼龄鼠体内含有大量名为GDF11的蛋白质，而这种蛋白质在老龄鼠体内较少。为了确定GDF11是不是对异种共生效应的关键因素，科学家制造了一些这种蛋白质，并将它注入老龄鼠体内。单是GDF11就能使它们的心脏恢复活力。
+Dr. Wagers and her colleagues wondered whether GDF11 was responsible for the rejuvenation of other tissues. In the current issue of the journal Science, they report an experiment on skeletal muscle in mice. They found that GDF11 revived stem cells in old muscles, making old mice stronger and increasing their endurance.
+韦杰斯和同事想知道GDF11是否起到了使其他组织恢复活力的作用。他们在本期《科学》(Science)杂志中阐述了针对老鼠骨骼肌肉的一项实验，实验发现GDF11能使老龄鼠肌肉中的干细胞恢复活力，增强老龄鼠的体质，延长它们的寿命。
+At Stanford, researchers were investigating whether the blood of young mice altered the brains of old mice. In 2011, Saul Villeda, then a graduate student, and his colleagues reported that it did. When old mice received young blood, they had a burst of new neurons in the hippocampus, a region of the brain that is crucial for forming memories.
+斯坦福大学(Stanford)的研究人员曾对幼龄鼠的血液是否能改变老龄鼠的脑功能进行过研究。2011年，当时还是研究生的索尔·比列达(Saul Villeda)和同事表示，答案是肯定的。接受幼龄鼠的血液之后，老龄鼠的海马体就会大量产生新的神经元。海马体是大脑中的一个区域，对记忆的形成具有关键作用。
+In a study published Sunday in the journal Nature Medicine, Dr. Villeda, now a faculty fellow at the University of California, San Francisco, and his colleagues unveiled more details of what young blood does to the brains of old mice.
+在周日发表于《自然医学》(Nature Medicine)杂志的一篇文章中，现已成为加州大学旧金山分校(University of California, San Francisco)研究员的比列达和同事披露了更多细节，阐述了幼龄鼠的血液对老龄鼠大脑造成的影响。
+After parabiosis, Dr. Villeda and his colleagues found that the neurons in the hippocampus of the old mice sprouted new connections. They then moved beyond parabiosis by removing the cells and platelets from the blood of young mice and injecting the plasma that remained into old mice. That injection caused the old mice to perform far better on memory tests.
+比列达和同事发现，异种共生过程之后，老龄鼠海马体中的神经元长出了新的联结。然后，除了异种共生之外，他们还移除了幼龄鼠血液中的细胞和血小板，再把剩下的血浆注入老龄鼠体内。这种注射大幅改善了老龄鼠在记忆测试中的表现。
+Dr. Wagers’s team has been investigating a specific region of the brain involved in perceiving smells.
+韦杰斯的团队一直在对大脑中与嗅觉相关的一个特殊区域进行研究。
+In a second study in Science, the team reports that parabiosis spurred the growth of blood vessels in the brain. The new blood supply led to the growth of neurons and gave older mice a sharper sense of smell.
+他们的团队在《科学》刊载的另一篇文章中指出，异种共生能刺激脑血管的生长。新的血液能促进神经元的生长，让老龄鼠具有更灵敏的嗅觉。
+After linking the GDF11 protein to the rejuvenation of skeletal muscle and the heart, Dr. Wagers and her colleagues studied whether the protein was also responsible for the changes in the brain. They injected GDF11 alone into the mice and found that it spurred the growth of blood vessels and neurons in the brain, although the change was not as large as that from parabiosis.
+将GDF11蛋白质与骨骼肌肉和心脏的复苏联系起来以后，韦杰斯和同事还对这种蛋白质是否与脑部变化有关进行了研究。他们对老鼠注射了单一的GDF11，然后发现它促进了脑部血管和神经元的生长，虽然相关变化并不像异种共生那么明显。
+“There’s no conflict between the two groups, which is heartening,” said Dr. Richard M. Ransohoff, director of the Neuroinflammation Research Center at the Cleveland Clinic.
+克利夫兰医学中心神经炎症研究中心(Neuroinflammation Research Center at the Cleveland Clinic)负责人理查德·M·兰索霍夫博士(Dr. Richard M. Ransohoff)称，“两个团队的发现没有冲突，这很令人振奋。”
+Dr. Ransohoff and others hope the experiments on mice will lead to studies on people to see if the human version of GDF11, or other molecules in the blood of young people, has a similar effect on older adults.
+兰索霍夫和其他一些人都希望，以小鼠为对象的实验能够衍生以人为对象的研究，以探明人类版的GDF11或年轻人血液中的其他分子能否对老年人产生类似影响。
+“We can turn back the clock instead of slowing the clock down,” said Dr. Toren Finkel, director of the Center for Molecular Medicine at the National Heart, Lung and Blood Institute. “That’s a nice thought if it pans out.”
+“我们可以让时间倒流，不只是让它放慢脚步，”美国国家心脏、肺和血液研究所(National Heart, Lung and Blood Institute)分子医学研究中心负责人托伦·芬克尔博士(Dr. Toren Finkel)说。“如果能成功，这将是个不错的想法。”

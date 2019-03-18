@@ -1,0 +1,54 @@
+SAN FRANCISCO — As a young executive at Microsoft, Steven A. Ballmer helped topple older, slower-moving technology giants like the Digital Equipment Corporation, Wang and Novell.
+旧金山——作为微软(Microsoft)一名年轻的高管，史蒂文·A·鲍尔默(Steven A. Ballmer)当年帮助公司击败了迪吉多公司（Digital Equipment Corporation，简写DEC）、王安电脑有限公司(Wang Laboratories)及Novell等发展较缓慢的老牌科技巨头。
+These days, it is Microsoft’s turn to fend off the upstarts as it struggles to compete in a computing world that is increasingly mobile and based in a “cloud” of Internet-connected computers to which many customers gain access at the same time. It’s all part of the inevitable life cycle for technology companies.
+现如今，轮到微软来应对科技新贵了，在一个移动程度越来越高的计算机世界里，微软勉力竞争，这个世界基于联网电脑组成的“云端”，许多用户能同时访问这些电脑。微软所面临的问题可算是科技公司不可避免的生存周期。
+“Getting disrupted is the defining characteristic of this industry,” said Aaron Levie, the chief executive of Box, an online data storage company. “You can even have a near monopoly like Microsoft did, and then everything gets redefined.”
+“被颠覆是这个行业的根本特点，”在线数据存储公司Box的首席执行官阿隆·列维(Aaron Levie)说。“即便你有着像微软那样近乎垄断的地位，一切还是可以被重新定义。”
+Mr. Ballmer will not have to take Microsoft into the future; last Friday, he announced that he would retire within a year. But young executives like Mr. Levie are not gloating over Mr. Ballmer’s exit. They know well that one day — if they are lucky to be as successful as Mr. Ballmer — they could face the same problem.
+鲍尔默将不需要继续带领微软前行了；上周五，他宣布将在一年内退休。但是列维等年轻高管也不会因为鲍尔默的退出而幸灾乐祸。他们很清楚地知道，有一天——如果他们能幸运地和鲍尔默一样成功的话——他们也将面临同样的问题。
+“It just feeds my already-healthy sense of paranoia,” Mr. Levie said.
+“它只让我已经颇为严重的多疑症更进一步发展，”列维说。
+The rare tech company manages to thrive from one generation of technology to the next. Only a few of the big ones — I.B.M., Intel and Apple — have done it. And it is not yet clear if Microsoft has a clear path to joining that list of multigeneration kingpins.
+最好的科技公司能经受住技术更新换代的考验，持续发展。而只有一些大公司做到了这一点：IBM，英特尔(Intel)以及苹果(Apple)。而目前尚不清楚微软是否已有明确的发展路径，以加入那些跨越多个技术时代的核心巨头。
+Mr. Ballmer was closely identified with the personal computer revolution, and later with corporate software running on computer servers. Those innovations brought Microsoft the cash and talent to adapt to the early Internet with the Explorer browser, and diversify into online gaming.
+人们想到鲍尔默，就会想到个人电脑革命，以及后来在电脑服务器上运行的企业软件。这些创新为微软带来了财富和人才，它借此推出了IE浏览器来迎合早期互联网的发展，并且将业务拓展至网络游戏。
+What it could not buy Mr. Ballmer, the younger generation in tech says, was a clear vision of the future. Apple and Google have led development of smartphones and a long list of companies like Amazon.com have led the development of cloud computing. Microsoft, meanwhile, has often had to play catch-up.
+但科技界年轻一代说，这些东西无法为鲍尔默换来对未来的清晰预见。苹果和谷歌(Google)成为了智能手机发展的领军者，亚马逊(Amazon)等一大批公司则主导了云计算的发展。与此同时，微软则总是在奋力追赶。
+“All technology aspires to be legacy,” said Scott Dietzen, chief executive of Pure Storage, a data storage start-up. “It’s that or obsolescence.”
+“所有科技都想变得不可取代，”数据存储领域的创业公司Pure Storage的首席执行官斯科特·迪策恩(Scott Dietzen)说。“要么不可取代，要么被时代淘汰。”
+“The most powerful factor,” he added, “is that the very best talent is drawn to doing something disruptive to the legacy, something new and fresh. And in this business the best are so much more productive than anyone else.”
+“而其中能产生最大影响的因素是，”迪策恩补充道，“最优秀的人才都被吸引去颠覆那些不可取代的科技，创造出全新的技术。而在这个行业中，最优秀人才所能做出的成就远远超过其他任何人。”
+During Mr. Ballmer’s tenure as chief executive at Microsoft, the company had considerable growth. Mr. Ballmer led the creation of the Windows Phone operating system, which received good reviews but has struggled to gain traction in the market, and Microsoft’s efforts in cloud computing. Also under his leadership, the company acquired Skype, an Internet communications service, for $8.5 billion, and paid $1.2 billion for Yammer, a social network for business.
+在鲍尔默担任微软首席执行官期间，该公司取得了可观的发展。在鲍尔默领导下，微软发明了Windows Phone操纵系统，并大力发展云计算技术，Windows Phone操作系统获得好评，但其市场表现却不尽人意。同样在鲍尔默的领导下，微软以85亿美元（约合520亿元人民币）的价格收购了网络通讯服务Skype，并出资12亿美元将企业社交网络平台Yammer收至旗下。
+But the breakthroughs, whether they were in Internet search, smartphones or Internet-based software, have usually happened somewhere other than Microsoft.
+然而，科技界的创新突破，不论是网络搜索、智能手机或者基于网络的软件，通常都发生在微软之外的其他地方。
+Mr. Levie, 28, grew up near Microsoft’s headquarters in Redmond, Wash. Several of his schoolmates’ parents worked for Microsoft. Few of his generation, he said, followed their parents there. Among those who did, he said, few stayed.
+28岁的列维在位于华盛顿州雷德蒙德的微软总部附近长大。他好几个校友的父母都在微软工作。他说，他这一代中很少人和他们的父母一样，去微软工作。而那些去的人中，也少有人留下来。
+“I think about being 40 or 50 and being disrupted,” said Mr. Levie, whose company was founded in 2005. “You can be a visionary, and have a great business model, but no tech company can avoid it. There is no quick way to transition into the next thing.”
+“我会想自己到了40或50岁时被淘汰，”列维说，他的公司创建于2005年。“你可以是个有远见的人，并有一个伟大的商业模式，但这是所有科技公司都躲不掉的。没有过渡到下一代技术的快速通道。”
+The closest to a safeguard, he said, is to be “like Amazon: race to the bottom on prices ahead of your competition, keep profit margins low and make things tough for them.”
+列维说，最稳妥的做法就是，“像亚马逊那样：赶在竞争对手前，把价格一降到底，压低利润空间，将对方置于不利位置。”
+Mr. Ballmer joined Microsoft in 1980, and its breakthrough software, Windows 3.0, was released in 1990. Its stock peaked in December 1999, shortly before Mr. Ballmer replaced Bill Gates, Microsoft’s co-founder and his close friend, as chief executive. Since then, Microsoft’s shares have fallen about 33 percent.
+1980年，鲍尔默加入微软，1990年，微软推出其划时代的软件：Windows 3.0。1999年12月，在鲍尔默接任自己的好友、微软联合创始人比尔·盖茨(Bill Gates)担任首席执行官后不久，该公司的股价飙升至最高点。自那以后，微软的股价已下跌了33%。
+Aneel Bhusri, the co-chief executive of Workday, a cloud-based business management software company with a market capitalization of $13 billion, recalled sharing a beer a few years back with Marc Benioff, the founder and chief of Salesforce, a $25 billion company offering sales and marketing software via the cloud.
+以云计算为基础的商业管理软件公司、市值130亿美元的Workday的联合首席执行官阿尼尔·布什里(Aneel Bhusri)，回忆起几年前和Salesforce的创始人兼首席执行官马克·贝尼奥夫(Marc Benioff)一起喝啤酒的情景，Salesforce市值250亿美元，通过云端提供软件销售和营销。
+“It was early days, but we were confident about cloud computing,” Mr. Bhusri said. “Marc said we had about a dozen years, then something else would come along.”
+“那时一切都还不明朗，但我们对云计算十分有信心，”布什里说。“马克说我们有大约12年的时间，之后将会有新技术出现。”
+Mr. Bhusri didn’t suggest what that something else could be. That is the problem: When you’re caught up in running your business, it’s difficult to foresee the shifts that could upend it, Mr. Bhusri said.
+布什里没说明新技术会是什么。这就是问题所在：当你忙于经营自己的业务时，便很难预见到将会出现怎样的转变将其颠覆，布什里说。
+In an e-mail, Mr. Benioff recollected the conversation, and added this thought: “Technology is a continuum — it is constantly getting lower-cost and easier to use. The role of the C.E.O. is to ride that continuum.” The trick is to always respond to the better and cheaper thing that is coming along.
+在邮件中，贝尼奥夫回忆了那次谈话，并补充了一个看法：“科技是一个连续的统一体——它的成本在持续降低，也变得也越来越容易使用。而首席执行官要做的就是驾驭这个连续统一体。”窍门总是要时刻做好准备，对出现的更便宜、更好的产品做出反应。
+Some say that although Mr. Ballmer did try to alter Microsoft’s course and move beyond the personal computer, he failed to fully understand how broad and deep the changes to cloud and mobile would be.
+有些人说，尽管鲍尔默确实努力试图改变微软的发展方向，将业务拓展至个人电脑之外的领域，但他没能充分认识到云计算和移动设备所带来变化的广度和深度。
+“Microsoft had phones, Microsoft had tablets, but they tried to put Windows in them,” said Zach Nelson, chief executive of NetSuite, a maker of Web-based business software. “They couldn’t leave the PC world behind, even though they saw the change coming.”
+“微软生产过电话，也生产过平板电脑，但他们试图把Windows系统装进这些设备，”以网络为基础的商务软件生产商NetSuite的首席执行官扎克·尼尔森(Zach Nelson)说。“即使看到变革来临，他们也无法将个人电脑抛于身后。”
+Among Mr. Ballmer’s generation of tech executives, his post-2000 stock performance is hardly the worst. Shares of Cisco Systems, the biggest maker of computer networking equipment, have dropped 54 percent. Shares of Oracle, one of the biggest business software companies in the world, have fallen 30 percent.
+在鲍尔默那一代的科技高管中，他所掌舵的微软在2000之后的股市表现绝不能算是最差的。最大的电脑网络设备生产商思科系统公司(Cisco Systems)的股价下跌了54%。甲骨文(Oracle)是全球最大的商务软件公司之一，它的股价下降了30%。
+Dell, which is now trying to go private as part of a turnaround, is off about 70 percent. Sun Microsystems, once one of the most influential tech companies, was purchased by Oracle in 2010 for $5.6 billion, 88 percent below its value in 2000.
+正想实现私有化以逆转其劣势的戴尔(Dell)，股价也下跌了约70%。太阳计算机系统有限公司(Sun Microsystems)曾是最具影响力的科技公司之一，但是2010年，甲骨文以56亿美元的价格收购了它，这比它2000年的市值缩水了88%。
+Those kinds of numbers seem to convince the new generation that they are, indeed, beating the old incumbents. But the lingering question is, what next?
+这些数据似乎让新一代科技新贵们相信，它们确实打败了那些老牌科技公司。但问题仍将持续存在：谁是下一个？
+“You can imagine a world without Windows, but not without the network, so the cloud feels like it can’t go away,” said Mr. Nelson of NetSuite. “We’re in the middle of where the world is going.”
+“你可以想象一个没有Windows的世界，但却无法想象没有网络的世界，因此云计算觉得自己不会被淘汰，”NetSuite的尼尔森说。“世界仍在向前发展，而我们只是跟随潮流。”
+“I can’t say it’s the last computing architecture,” he said. “It’s my last. The PC was Ballmer’s last.”
+“我不能说这是最后的计算体系架构，”尼尔森说。“这是我的最后一个。而个人电脑是鲍尔默的最后一个。”

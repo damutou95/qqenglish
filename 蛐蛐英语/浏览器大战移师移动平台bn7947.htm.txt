@@ -1,0 +1,44 @@
+SAN FRANCISCO — When Google took a video camera to Times Square in 2009 and asked passers-by what a browser is, most of the answers were hilariously incorrect, from “a search engine” to “broadband” to “Yahoo.”
+旧金山——2009年，谷歌(Google)派人带着摄像机到纽约时报广场(Times Square)采访路人什么是浏览器，得到的大多数答案都不对，而且错得很好笑，有人说是“搜索引擎”，有人说“宽带”，还有人回答说是“雅虎”。
+But even if consumers are not so sure what Web browsers are (programs like Internet Explorer and Firefox), they have become a crucial business for tech companies like Google and Microsoft. That is because they are now the entry point not just to the Web but to everything stored online, like Web apps, documents and photos.
+但是即便消费者不清楚什么是网络浏览器（像IE[Internet Explorer]和火狐[Firefox]那样的程序），它们已经成为谷歌和微软(Microsoft)等科技公司一项至关重要的业务。这是因为现在浏览器不仅是浏览网页时的入口，更是通往存储在网络上的所有东西的入口，比如网络应用、文档和照片。
+And as the cloud grows more integral, both for businesses and people, the browser companies are engaged in a new battle to win our allegiance that will affect how we use the Internet.
+随着云计算对于企业和用户而言都变得越来越不可或缺，浏览器公司也开始了一场新的战斗，争夺用户的忠诚度，而这将影响到我们使用因特网的方式。
+It’s an echo of the so-called browser wars of the 1990s, when Internet Explorer and Netscape Navigator fought for dominance on the personal computer. This time, though, the struggle is shaping up to be over which company will control the mobile world — with browsers on smartphones and tablets. Entrenched businesses are at stake. Google’s browser-based business apps, for instance, threaten Microsoft’s desktop software, and mobile Web apps threaten Apple’s App Store.
+20世纪90年代，就发生过一场所谓的浏览器大战，当时IE和网景领航员(Netscape Navigator)浏览器争夺的是在个人电脑上的主导地位。然而，现在这场大战虽然与90年代的战斗遥相呼应，但竞争的重点正在变成哪个公司将能通过智能手机和平板电脑上的浏览器来控制移动世界。成熟的传统业务受到了威胁。比如，谷歌基于浏览器的商业应用，给微软的桌面软件带来冲击，而移动网络应用也对苹果的App Store构成挑战。
+“Twenty years ago, we didn’t know how the Internet was going to get used by people, and we for sure didn’t know about mobile or tablets,” said Marc Andreessen, co-founder of the first major browser, Netscape Navigator, and an investor in Rockmelt, a browser start-up. “Mobile is a whole new level of reinvention, so it feels like we’re in the most fertile time of invention since the early ’90s.”
+“20年前，我们不知道人们将会如何使用互联网，而对移动平台或平板电脑，则肯定一无所知，”首款主要浏览器网景领航员的联合创始人、浏览器创业企业Rockmelt的投资人马克·安德森(Marc Andreessen)说，“移动平台是一次全新层级的再创造，所以我感觉这是90年代初以来，创新最丰富的时期。”
+Browsers give Web companies more control over how people use their products, and data about how people use the Web, which they can use to improve their products and inform advertisers. Faster browsing leads to more Web activity, which in turn leads to more revenue for Web companies — whether searching on Google or shopping on Amazon.com, which built a Kindle browser, Silk.
+浏览器使网络公司能更好地掌握用户使用其产品的方式，也能更好地掌握用户如何使用网络的数据，它们可以利用这一点来改进产品，并为广告商提供相关信息。更快速的浏览速度能带来更多的网络活动，这样一来，网络公司的收入就会增加，不管是用谷歌搜索信息，还是在亚马逊(Amazon.com)上购物。亚马逊也开发了Kindle的浏览器Silk。
+As Mr. Andreessen put it, “Why let something be between us and our users? Let’s have as much control of the user experience as we can have; make sure our services are wired in.”
+正如安德森所说，“为什么让某种东西挡在我们和用户之间呢？对用户体验，我们要有尽可能多的控制权，确保我们的服务和用户相连。”
+Google’s Chrome browser, for example, makes Google searches faster and simpler because people can enter search queries directly into the address bar. And its apps — like Gmail, Drive for file storage and Docs for word processing — are all accessible through any browser.
+比如，使用谷歌的Chrome浏览器，谷歌搜索就会更快、更简单，用户可以直接将搜索关键字输入到地址栏中进行搜索。而谷歌的网络应用则可以通过任何浏览器使用，比如Gmail、存储文件的Google Drive，还有用于文字处理的Google Docs。
+Most people use either Chrome, Microsoft’s Internet Explorer, Mozilla’s Firefox or Apple’s Safari. In the biggest disruption to the market in 15 years, Chrome last spring toppled Internet Explorer as the most popular browser in the world, despite the fact that it does not come loaded on computers as Explorer and Safari do. It now has 36 percent of the global market, while Internet Explorer’s share has dived to 31 percent, according to StatCounter, which tracks browser market share.
+大多数人使用Chrome、微软的IE、谋智(Mozilla)的火狐，或者苹果的Safari。去年春天，Chrome取代IE成为世界上最受欢迎的浏览器，尽管IE和Safari都是电脑上预装的，而Chrome不是。这是浏览器市场上15年来出现的最大变动。追踪浏览器市场份额的StatCounter称，现在Chrome占全球市场份额的36%，而IE则下降至31%。
+Browsers themselves are not lucrative businesses. Some, like Firefox, earn money from search engines like Google and Microsoft’s Bing that pay when people use the search bar built into the browser.
+浏览器本身利润并不丰厚。火狐等一些浏览器的收入来源是，用户使用浏览器中内嵌的搜索框时，谷歌和微软必应(Bing)等搜索引擎会为之付费。
+“No one is doing a browser to make money,” said David B. Yoffie, a professor at Harvard Business School who was co-author of a book about the first browser wars.
+哈佛商学院(Harvard Business School)教授戴维·B·约菲(DavidB. Yoffie)表示，“没有人做浏览器是为了赚钱。”他曾与人合著过一本讲述第一次浏览器大战的书。
+“Suddenly now, the browser has become the interface for the cloud more broadly, not just for traditional Web sites.”
+“现在，浏览器突然成了通往更广阔的云计算的界面，而不再仅仅面向传统的网站。”
+In their search for dollars, browser companies are redesigning their products to follow consumers to mobile devices, social networks and cloud-based apps.
+在寻找收入的过程中，浏览器公司正在重新设计它们的产品，以跟上消费者使用移动设备、社交网络和云应用的步伐。
+For example, new mobile browsers let people swipe through tabs with their fingers, automatically resize or zoom in on Web pages so they fit a phone’s screen and load pages faster than older mobile browsers. Some also sync with other devices, so things like most-visited Web sites, passwords and credit card numbers are available everywhere.
+例如，使用新的移动浏览器，用户可以在屏幕上用手指扫一下，就切换到其他标签页，而且浏览器还会自动调整网页尺寸、缩放网页，从而使其适合手机的屏幕尺寸，并且加载页面也比旧的移动浏览器更快。一些浏览器还能与其他设备进行同步，这样一来，用户最常访问的网站、存储的密码和信用卡号就可以在各种设备上使用。
+Nonetheless, browsing the Web on a mobile device is still inferior to using the desktop Web or smartphone apps. Apps, like those downloaded from Apple’s App Store and Google Play for Android devices, have more exciting features, are faster to load and are better optimized to small screens.
+尽管如此，在移动设备上浏览网页的体验，仍然逊于桌面电脑上的浏览体验，也不及其他的智能手机应用程序。从苹果App Store或Android设备上的Google Play中下载的应用程序，拥有更强大的功能、加载速度更快，而且针对小屏幕进行了优化。
+But technologists say that mobile browsers will improve when HTML5, the new set of tools for designing Web sites that has been in development for years, becomes pervasive. That is because its technologies enable Web sites to be as functional and visually rich as apps are today, with features like advanced video or the ability to read a Web site offline.
+然而科技人士表示，等到HTML5普及之后，移动浏览器的表现就会改善。 这是因为，这种技术能让网站也像应用程序一样功能强大、视觉效果丰富，包括先进的视频功能和可以离线浏览网站的功能。HTML5是用于设计网站的一套新工具，已经开发了多年时间。
+“If HTML5 really starts to take off, then it certainly is possible that mobile browsers could become much more significant,” Mr. Yoffie said. “That world is not here today, but it’s one that people are betting on for tomorrow.”
+“如果HTML5真的开始广泛应用，那浏览器的确可能会变得比现在重要得多，”约菲说，“这个设想今天还没有实现，但人们都坚定地认为那是明天的趋势。”
+Microsoft is also betting on HTML5. Its latest version of Internet Explorer is designed with tablet-size touch screens in mind. It wants to encourage software developers to build Web sites that are more app-like, such as responding to finger gestures, said Ryan Gavin, general manager for Internet Explorer. On the new browser, for instance, readers of news articles swipe to turn a page instead of touching “next page” with a fingertip.
+微软也在对HTML5大举投入。其最新版本的IE浏览器在设计时，就考虑了平板电脑尺寸的触摸屏。微软IE部门总经理瑞安·加文(Ryan Gavin)说，它会鼓励软件开发者设计更像应用程序的网站，如响应手指动作。例如，在新浏览器上，阅读新闻文章的读者，可以通过滑动手指来翻页，而不是用手指按“下一页”按钮。
+Firefox is trying to incorporate the social Web in its latest version, with a sidebar that shows updates from services like Facebook and lets users chat without switching between tabs or apps.
+Firefox正在尝试在其最新版本中融合社交网络，用侧边栏显示Facebook等服务上的更新，让用户不必切换标签页或程序，就能聊天。
+Rockmelt, the start-up, has reimagined the browser most noticeably. Its new iPad browser, instead of showing the blank space inside a typical browser, incorporates images, posts and articles from around the Web.
+创业公司Rockmelt重塑浏览器形象的做法最引人注目。它推出的全新iPad浏览器，不像普通的浏览器一样显示空白屏幕，而是整合了各个网站的图片、帖子和文章。
+“All the problems with the desktop browser, that it is a big, dumb, empty window, other companies just took and put on mobile,” said Eric Vishria, Rockmelt’s co-founder and chief executive. “But there’s been a shift to a whole new generation of visual interfaces.”
+Rockmelt共同创始人兼CEO埃里克·维什里亚(Eric Vishria)说，“桌面电脑浏览器有很多问题，窗口又大、又笨、又空，其他公司只是直接拿来，搬到移动设备上。然而视觉界面已经转向了一个全新时代。”
+Though more people probably know what a browser is today than when Google interviewed passers-by back in 2009, browser companies nonetheless say their goal is to do their job well enough that people forget about the browser.
+尽管现在知道浏览器是什么的人，很可能比2009年谷歌采访行人时要多，但浏览器公司还是表示，他们的目标是，要努力让用户忘记浏览器这回事。

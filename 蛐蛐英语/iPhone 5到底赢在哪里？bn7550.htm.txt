@@ -1,0 +1,62 @@
+If you were taking a college course called iPhone 101, your professor might identify three factors that have made Apple’s smartphone a mega-success.
+如果你上一门名为《iPhone入门》的大学课程，教授可能会列出使苹果公司(Apple)智能手机获得巨大成功的三个因素。
+First, design. A single company, known for its obsession over details, produces both the hardware and the software. The result is a single, coherently designed whole.
+第一，设计。一家以沉迷细节闻名的公司自己同时生产硬件和软件，结果就是和谐统一的整体设计。
+Second, superior components. As the world’s largest tech company, Apple can call the shots with its part suppliers. It can often incorporate new technologies — scratch-resistant Gorilla glass, say, or the supersharp Retina screen — before its rivals can.
+第二，出众的配置。作为世界上最大的科技公司，苹果对自己的零件供应商说一不二。它往往比对手更快地采用新技术，比如说，抗划痕的超级玻璃，以及无比清晰的Retina显示屏。
+Third, compatibility. The iPhone’s ubiquity has led to a universe of accessories that fit it. Walk into a hotel room, and there’s probably an iPhone connector built into the alarm clock.
+第三，兼容性。iPhone无处不在，因而人们创造出了无数的配件来与之配合。走进一家宾馆房间，很可能就有内置在闹钟里的iPhone接口。
+If you had to write a term paper for this course, you might open with this argument: that in creating the new iPhone 5 ($200 with contract), Apple strengthened its first two advantages — but handed its rivals the third one on a silver platter.
+如果你必须给《iPhone入门》写一篇学期论文，你可以用以下观点开头：苹果发布的全新iPhone 5（合约价200美元）使之加强了头两个优势，但将第三个优势拱手让给了对手。
+Let’s start with design. The new phone, in all black or white, is beautiful. Especially the black one, whose gleaming, black-on-black, glass-and-aluminum body carries the design cues of a Stealth bomber. The rumors ran rampant that the iPhone 5 would have a larger screen. Would it be huge, like many Android phones? Those giant screens are thudding slabs in your pocket, but they’re fantastic for maps, books, Web sites, photos and movies.
+我们从设计开始谈吧。新iPhone有全黑和全白两款设计，非常漂亮。尤其是全黑款，闪光的黑色玻璃与铝制机身设计使之就像是一架隐形轰炸机。之前，iPhone 5会采用更大屏幕的传言满天飞。会不会像许多Android手机的屏幕那样庞大呢？那些巨大的屏幕放进口袋里就跟砖头似的，但在看地图、读书、浏览网页、看照片和电影时，它们表现很棒。
+As it turns out, the new iPhone’s updated footprint (handprint?) is nothing like the Imax size of its rivals. It’s the same 2.3 inches wide, but its screen has grown taller by half an inch — 176 very tiny pixels.
+结果，新iPhone升级的屏幕与竞争对手Imax大小的屏幕截然不同。iPhone 5的显示屏还是2.3英寸宽，但长了0.5英寸，仅稍稍增加了176个非常细微的像素。
+It’s a nice but not life-changing change. You gain an extra row of icons on the Home screen, more messages in e-mail lists, wider keyboard keys in landscape mode and a more expansive view of all the other built-in apps.
+这个改变不错，但却并不惊天动地。主屏上可以多添一行图标，电子邮件列表中能显示更多的邮件，横屏模式时键盘按键更宽，其他所有内置应用程序看起来都更舒展。
+At 0.3 inch, the phone is thinner than before, startlingly so — the thinnest in the world, Apple says. It’s also lighter, just under four ounces; it disappears completely in your pocket. This iPhone is so light, tall and flat, it’s well on its way to becoming a bookmark.
+新手机0.3英寸厚，比以前薄，确切的说是出奇地薄，苹果号称它是世界上最薄的。它也更轻了，还不到四盎司 （约合110克）重，放进口袋里完全察觉不到。iPhone 5又轻、又长、又平，简直是在变成书签的道路上一路狂奔。
+Second advantage: components. There’s no breakthrough feature this time, no Retina screen or Siri. (Thought recognition will have to wait for the iPhone 13.)
+再谈第二个优势：配置。这次没有像Retina显示屏和Siri那样的突破性功能。（思维认知要等到iPhone 13才有吧）
+Even so, nearly every feature has been upgraded, with a focus on what counts: screen, sound, camera, speed.
+尽管如此，几乎每个功能都升级了。升级针对的是那些重要之处：屏幕、音响、摄像头和速度。
+The iPhone 5 is now a 4G LTE phone, meaning that in certain lucky cities, you get wicked-fast Internet connections.
+iPhone 5现在是一部4G LTE手机，这意味着在某些幸运的城市，你可以魔术般飞速地连接互联网。
+The phone itself runs faster, too. Its new processor runs twice as fast, says Apple. Few people complained about the old phone’s speed, but this one certainly zips.
+手机本身也运行得更快了。苹果说，新处理器的速度是老款的两倍。少数人曾抱怨老型号的速度，但这一款运行起来却速度飞快。
+The screen now has better color reproduction. The front-facing camera captures high-definition video now (720p). The battery offers the same talk time as before (eight hours), but adds two more hours of Web browsing (eight hours), even on LTE networks. In practical terms, you encounter fewer days when the battery dies by dinnertime — a frequent occurrence with 4G phones.
+屏幕的颜色还原度也更棒了。前置摄像头现在可以捕捉高清视频（720p）。电池可以维持与之前相同的通话时间（八小时），但浏览网页的时间增加了两小时（八小时），就算在LTE网络上也是如此。现实意义就是，电池在晚饭时间前用光的日子会减少。而用光电池可是4G手机上常常发生的事。
+The camera is among the best ever put into a phone. Its lowlight shots blow away the same efforts from an iPhone 4S. Its shot-to-shot times have been improved by 40 percent. And you can take stills even while recording video (1080p hi-def, of course).
+iPhone 5拥有的手机内置摄像头是史上最佳之一。弱光性能将iPhone 4S比得无地自容。拍摄时间间距改进了40%。你甚至还可以在拍摄视频（当然是1080p高清画质）的同时拍静态照片。
+So far, so good. But now, the third point, about universal compatibility.
+目前为止，一切良好。但现在要谈谈第三点，即全面的兼容性。
+These days, that decade-old iPhone/iPad/iPod charging connector is everywhere: cars, clocks, speakers, docks, even medical devices. But the new iPhone won’t fit any of them.
+如今，已存在十年之久的iPhone/iPad/iPod充电接口随处可见：汽车、钟表、扩音器、充电座、甚至是医疗设备。但新款iPhone不能和其中任何一个设备兼容。
+Apple calls its replacement the Lightning connector. It’s much sturdier than the old jack, and much smaller — 0.31 inch wide instead of 0.83. And there’s no right side up — you can insert it either way. It clicks satisfyingly into place, yet you can remove it easily. It’s the very model of a modern major connector.
+苹果把新设计称为Lighting接头。新接头比老款式更结实，也更小巧，其宽度只有0.31英寸，而不是之前的0.83英寸。新款也没有所谓正确的那一面，你可以以任意一面连接。新接头能精确连接到位，也可以轻松拔出。这是现代主要接头的典范。
+Well, great. But it doesn’t fit any existing accessories, docks or chargers. Apple sells an adapter plug for $30. That’s not just a slap in the face to loyal customers — it’s a jab in the eye.
+好吧，确实很棒。但新接头不能用于任何现有的辅助设备、充电座或充电器。苹果的转换器插头售价为30美元。这对忠实的消费者来说不只是往脸上掴了一掌，而是往眼睛里戳了一下。
+Even with the adapter, not all accessories work with the Lightning.
+即使有了转换器，也不是所有的辅助设备都能和Lightning接头兼容。
+Apple says that a change was inevitable — that old connector, after 10 years, desperately needed an update. Still, Apple has just given away one of its greatest competitive advantages.
+苹果公司称改变不可避免——旧接头在10年之后亟待更新。但苹果还是失去了一大竞争优势。
+The phone comes with new software, iOS 6, bristling with large and small improvements — and it’s a free download that also runs on the iPhone 3GS, iPhone 4 or iPhone 4S.
+新手机的新软件系统是iOS6，该软件和过去相比，充满着大大小小的改进。该软件可以免费下载，并可以在iPhone 3GS、iPhone 4或iPhone 4S上运行。
+The chief attractions of iOS 6 are a completely new GPS/maps app (Apple ditched Google Maps and wrote its own app); new talents for Siri, the voice-activated assistant (she now answers questions about current movies, sports and restaurants); and one-tap canned responses to incoming calls (like “I’m driving — call you later”).
+iOS 6的主要吸引点包括全新的GPS/地图应用程序（苹果摒弃了谷歌地图，转而开发了自己的应用程序）；声控助理Siri的新功能（她现在可以回答有关上映中的电影、体育和餐饮的问题）；还可以对来电进行一键模板式回答（比如“我正在开车-稍后回电”）。
+There’s a new panorama mode for the camera, too, that comes in handy more often than you might expect. As you swing the phone around you, it stitches many shots together into a seamless, ultra-wide-angle, 28-megapixel photo. Unlike other apps and phones with panorama modes, this one is fully automated and offers a preview of the panorama that materializes as you’re taking it. 
+新手机的相机还拥有全新的全景模式，比你想象的要有用得多。当你把手机在身前转动，相机会把拍摄到的多张图像连接成一幅无缝的、超广角的、28兆像素的照片。和其他有全景模式的应用程序和手机不同，新iPhone的相机是全自动的，在你进行拍摄时还能呈现全景图像的预览图片。
+Should you get the new iPhone, when the best Windows Phone and Android phones offer similarly impressive speed, beauty and features?
+当最好的Windows手机和Android手机拥有类似的惊人速度、美观和特征时，你还应该入手新款iPhone吗？
+The iPhone 5 does nothing to change the pros and cons in that discussion. Windows Phones offer brilliant design, but lag badly in apps and accessories.
+iPhone 5没有试图改变这一辩论中的利弊两面。Windows手机有出色的设计，但在应用程序和辅助设备上还落后很远。
+Android phones shine in choice: you can get a huge screen, for example, or a memory-card slot. But Android is, on the whole, buggier, more chaotic and more fragmented — you can’t always upgrade your phone’s software when there’s a new version.
+Android手机的优点在于能够提供大量选择：例如，你可以选择有大屏幕的手机，或是带有记忆卡插槽的手机。但Android总的来说故障更多、也更混乱和分裂——用户不能总在在新版本出现时更新手机系统。
+IPhones don’t offer as much choice or customization. But they’re more polished and consistently designed, with a heavily regulated but better stocked app catalog. They offer Siri voice control and the best music/movie/TV store, and the phone’s size and weight have boiled away to almost nothing.
+iPhone没有如此之多的选择和客户定制服务，但它更加精良、在设计上也保持了一致性，还拥有受到严格管制、但储量更加雄厚的应用程序目录。iPhone还拥有Siri语音控制功能和最好的音乐/电影/电视资源库，而且iPhone 的大小和重量几乎已微乎其微。
+If you have an iPhone 4S, getting an iPhone 5 would mean breaking your two-year carrier contract and paying a painful penalty; maybe not worth it for the 5’s collection of nips and tucks. But if you’ve had the discipline to sit out a couple of iPhone generations — wow, are you in for a treat.
+如果你有iPhone 4S，入手iPhone 5则意味着违反你和电信商签署的两年期合同，并会为此支付罚金，或许这并不值得，因为新iPhone不过是在原来基础上小修小补。但如果你足够克制自己，并未购入上几代的iPhone——你绝对会尝到惊喜。
+It’s just too bad about that connector change. Doesn’t Apple worry about losing customer loyalty and sales?
+但接头的改变确实太糟了。难道苹果不担心客户忠诚度和销售量的下降吗？
+Actually, Apple has a long history of killing off technologies, inconveniently and expensively, that the public had come to love — even those that Apple had originally developed and promoted. Somehow, life goes on, and Apple gets even bigger.
+实际上，在消灭那些大众已经喜爱上的科技方面，苹果有着很长一段历史，即使是那些科技是由苹果自己研发和推动的，也不管这样做是否要付出巨大代价或带来不便。莫名其妙的是，生活还是继续着，而苹果公司则越来越壮大。

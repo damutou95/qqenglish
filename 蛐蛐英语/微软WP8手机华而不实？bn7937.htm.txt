@@ -1,0 +1,54 @@
+Thanksgiving, is it? I’ll tell you what I’m thankful for: competition.
+感恩节，对吧？告诉大家我感恩的事情：竞争。
+Because competition drives innovation. Innovation leads to improvement. Improvement begets happiness.
+因为竞争驱动创新。创新通往改进。改进催生快乐。
+In the tech world, some companies do their most innovative work when their backs are against the wall — especially Microsoft. Last month, it took the wraps off Windows Phone 8, the most polished edition yet of its beautiful, crystal-clear software for touch-screen phones.
+在科技世界里，有些公司走投无路的时候最能创新，尤其是微软(Microsoft)。上个月，该公司揭开了Windows Phone 8系统的面纱。在微软为触摸屏手机打造的美观精致、晶莹剔透的操作系统当中，这是最精美的一个版本。
+Unfortunately, as a Microsoft product manager told me understatedly, “We have an awareness problem.” Translation: Nobody is buying Windows phones. And since nobody’s buying them, nobody’s writing apps for them. And since nobody’s writing apps — well, you can see where this is going.
+不幸的是，正如一名微软产品经理轻描淡写地告诉我的那样，“我们存在认知度问题。”翻译过来就是：没人会买Windows手机。既然没人买，也就没人给这些手机写应用程序。既然没人写应用程序——得了，大家都知道前景如何。
+Still, Microsoft isn’t giving up. This month, Windows Phone 8 arrives aboard two fascinating new phones: the Nokia Lumia 920 ($100 with a new AT&T contract) and the HTC Windows Phone 8X ($200 from AT&T, Verizon or T-Mobile).
+不过，微软并不打算放弃。这个月，Windows Phone 8手机推出了两个颇具吸引力的新款：诺基亚的Lumia 920（与AT&T订新合约的价格是100美元[约合620元人民币]）和HTC的Windows Phone 8X（AT&T、Verizon和T-Mobile的合约价是200美元[约合1240元人民币]）。
+It’s funny about Nokia and HTC; they, too, are fallen giants. Nokia was the world’s largest cellphone maker for 14 years straight; not anymore. At the moment, it’s in seventh place among smartphone makers. It has shed tens of thousands of employees. HTC is struggling, too, having sold 36 percent fewer smartphones this year than last.
+有趣的是，诺基亚和HTC也是衰落的巨头。诺基亚曾连续14年身为世界最大的手机制造商，现已风光不再。目前，它是排名第七的智能手机制造商，已经解雇了数万名员工。HTC也深陷泥潭，今年销售的智能手机比去年少了36%。
+How intriguing, then, that HTC and Nokia have each chosen Microsoft as its savior, and vice versa. Loser + loser = winner?
+那么，HTC和诺基亚都选择微软来当自己的救主，微软也选择了它们，这一点多么有趣啊。难道是负负得正？
+Yes, actually. The two new phones have a lot in common — for one thing, they’re both awesome. For another, both have bigger, sharper screens than the iPhone’s famous Retina screen. (The HTC and Nokia phones have 4.3- and 4.5-inch screens. That’s 1,280 by 720 pixels, packed in 341 and 332 to the inch.)
+还真是。这两款新手机有许多共同点。比如，它们都很棒。再比如，它们都有比iPhone著名的Retina显示屏更大且更清晰的屏幕。（HTC和诺基亚的这两款手机分别拥有4.3和4.5英寸的屏幕，都是1280乘720像素，每英寸分别有341和332像素。）
+Both have rounded backs and edges, which make them both exceptionally comfortable to hold. (The curve also makes it easy to pull them out of your pocket the right way.)
+两款手机都有弧形的后盖和边角，拿在手里的感觉极其舒服。（弧线设计也方便人们将手机立即从口袋里掏出。）
+Both come in a choice of bright colors. Both phones have the same blazing fast processor. 
+两款都选择明亮的颜色，都带有同样飞快的处理器。
+And get this — both of these phones can also charge without being plugged in. That’s right: magnetic charging is finally built right into phones. Come home at the end of the day, throw your keys in the bowl, set the phone down on the charging pad (a $50 option) — and a little chime tells you that it’s happily charging, even though no cable is in sight.
+还有这个：两款手机都可以不接电源线充电。对，磁场充电终于直接内置到了手机里。一天结束回到家中，把钥匙扔进碗里，把手机放到充电板上（可选配件，价格50美元），一声小小的铃声会告诉你手机正在愉快地充电，虽然你看不到电线。
+It’s pretty great. It will become even greater if this charging method (an industry standard called Qi, pronounced chee) catches on. Someday there may be charging surfaces at coffee shops, airports and hotel rooms.
+这很棒。如果这种充电方式（行业规范称之为“气”[Qi]）继续普及的话，就会更棒。将来，充电界面可能会出现在咖啡店、飞机场和酒店房间里。
+Both phones also have built-in NFC chips. These allow near-field communications, which means “this phone can do things when you tap it against another gadget.” The promise is that you’ll be able to tap on a cash-register terminal to pay for something; tap two phones together to transfer a photo or address; and tap against a Bluetooth speaker to “pair” it with the phone.
+两款手机均内置NFC芯片。这种芯片能进行近距离无线通讯，也就是“手机刷另一个设备的时候可以产生功效”。这意味着，你可以通过用手机刷现金支付终端设备进行付款，也可以通过两个手机互刷来传输图片和地址簿，还可以通过用手机刷蓝牙播放器来使它与手机“配对”。
+In practice, there’s more to it than that. Microsoft’s coming tap-to-pay initiative is incompatible with the one Google has spent millions of dollars setting up at cash registers across the land. But we can always hope.
+在实际生活中，NFC的功用不止于此。微软即将推出的刷手机支付计划不能与谷歌(Google)花了数百万美元建立的遍布全国的现金支付终端相匹配。不过我们总可以畅想一下吧。
+The HTC Windows Phone 8X is the smaller of the two new phones, but even so, it dwarfs the iPhone — it’s wider, taller, heavier and thicker. The back panel is faintly textured, so you’re less likely to drop this phone than you are the shiny-backed Nokia. But the buttons — power, volume, camera — are skinny and utterly flush with the phone’s body; you practically need an ice pick to push them in.
+HTC的Windows Phone 8X是这两款手机中较小的一款，即便如此，它还是让iPhone相形见绌：它更宽、更长、更重也更厚。它的后盖有很浅的纹路，比起后盖光滑的诺基亚手机，这一款滑落的可能性更小。但它的三个按键——电源、音量和相机——都很薄，完全与机身平齐，基本需要拿把冰锥才能按上。
+There’s another hardware concern, too: no memory-card slot. The basic $200 model has 16 gigabytes of storage, and that’s all you’ll ever have. What’s an app phone with no room for apps, photos, music or videos?
+它的硬件还有一个让人担忧的地方：没有记忆卡插槽。200美元的基本款拥有16G内存，这就是你所能拥有的全部内存。如果一个应用程序手机没有存放应用程序、照片、音乐或视屏的足够空间，那还有什么意思呢？
+The 8X’s battery is sometimes gasping by the time you get home for dinner (it’s rated at eight hours of talk time). And, of course, it’s nonremovable.
+有些时候，到你回家吃晚饭时，HTC 8X的电池已经奄奄一息（据评测，该手机的电池可持续通话八小时）。当然了，它的电池是不能取下来的。
+In category after category, Nokia’s Lumia 920 beats the HTC. In battery life (10 hours of talk time). In price ($100 versus $200). In storage (32 gigabytes versus 16). In Bluetooth version (3.1 versus 2.1). In screen sensitivity; in one mode, you can operate this touch screen even with gloves on.
+在很多方面，诺基亚Lumia 920完胜HTC：电池寿命（10小时通话时间）、价格（100美元对200美元）、内存（32G对16G）、蓝牙版本（3.1对2.1）。还有屏幕敏感度，在某种模式下，你甚至可以戴着手套操作Lumia 920的触摸屏。
+The 920 also wins as a GPS unit. The Maps app in all Windows phones comes from Nokia (which owns Navteq, one of the Big Two in map data). And it is really good. It shows traffic, aerial photography, public transportation, the works. And it has none of the problems that plague Apple’s Maps app. It even lets you download map data to your phone, so you can search and navigate when you’re offline or don’t want to rack up astronomical roaming fees.
+Lumia 920还胜在拥有全球定位系统(GPS)。所有Windows手机的地图应用程序都来自诺基亚（诺基亚拥有Navteq，后者是两大地图数据商之一）。这一地图软件相当棒，可以展示交通状况、航拍图像、公共交通和道路工程。而且它也没有困扰苹果地图软件的那些问题。你甚至还可以把地图数据下载到你的手机上，这样就能在离线或不愿承担巨额漫游费用的时候继续进行查询或导航。
+The one thing the Maps app doesn’t have is spoken navigation instructions. On its own phone, however, Nokia supplies an app called Nokia Drive, which adds spoken turn-by-turn directions — another win for the 920.
+这款地图软件唯一的欠缺就是没有语音导航指令。但诺基亚为自己的手机配备了一款名为“诺基亚驾车”(Nokia Drive)的应用程序，该程序添加了分路段语音导航指令——这是920的另一个优势。
+You pay a price for all of the Nokia’s advantages, however: this phone is a monster. It’s huge — the same 4.9 inches tall as the HTC, but wider, thicker and much, much heavier. At 6.5 ounces, it weighs 46 percent more than the HTC, and 62 percent more than the iPhone. Drop this thing the wrong way, and you could break your toes.
+但是，诺基亚的这些优势也是有代价的：这款手机是个怪物。它机身超大——和HTC一样长130.3毫米，但却更宽更厚，而且重得多。该款手机重185克，比HTC重了46%，比iPhone更是重了62%。要是这款手机掉得不是地方，可能会砸断你的脚趾。
+If you can stand the size, the Nokia is the better phone. They’re both terrific, though. Both have state-of-the-art hardware, superb design and Microsoft’s spectacular phone software. Yes, that’s right. You thought Microsoft operating systems were derivative, uninspired, bloated, plagued by featuritis? Windows Phone will change your mind fast.
+如果你忍受得了它的尺寸，诺基亚还是更胜一筹，但这两款手机都很棒。两款都有顶级的硬件、超凡的设计、还有微软的卓越手机软件。是的，确实如此。你觉得微软操作系统缺乏独创、毫无灵感、庞大臃肿、充满繁冗无用的功能吗？Windows手机会迅速改变你的这种想法。
+And yet. And yet.
+然而。然而。
+Microsoft has seen this movie before. It enters the marketplace years after Apple has already taken the lead (see also: Zune), and despite doing excellent work, never manages to build an ecosystem fast enough to close the lead.
+对微软来说，这只是旧戏重演。微软在苹果领先数年之后才进入市场（另见：Zune），尽管表现优异，但却始终未能在足够短的时间里建起一个生态系统，借此拉近与苹果的距离。
+As great as it is, the Windows Phone world will let you down in two huge ways.
+出色归出色，Windows手机世界还是会在两大方面让人失望。
+First, speech. These phones respond to basic commands — “Call,” “Text,” “Find” (on the Web), “Note” and “Open” (an app) — but crudely; they don’t even recognize punctuation. Worse, you can’t talk-to-type, as you can on Android and Apple phones. Dictation is a core feature on phones that have no keyboards. You can’t just leave that out.
+第一，语音。Windows手机可以对基本命令作出反应——“打电话”、“写短信”、“查找”（在网上）、“写便签”和“打开”（应用程序）——但相当初级；Windows手机甚至不能识别标点符号。更糟的是，Windows手机没有听写功能，这点不同于安卓(Android)手机或苹果手机。对没有键盘的手机来说，听写是一项核心功能。你不能就这样省去这个功能。
+Second, apps. Microsoft says that its phone store now stocks 120,000 apps. That’s great progress — but soooo many important apps are among the missing.
+第二，应用程序。微软称其手机商城现已拥有12万应用程序。这是很大的进步——但还是缺乏很多很多重要的应用程序。

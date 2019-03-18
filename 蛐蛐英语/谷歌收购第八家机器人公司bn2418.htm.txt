@@ -1,0 +1,28 @@
+SAN FRANCISCO — BigDog, Cheetah, WildCat and Atlas have joined Google’s growing robot menagerie.
+旧金山——“大狗(BigDog)”、“猎豹(Cheetah)”、“野猫(WildCat)”和阿特拉斯(Atlas)均已加入到日益壮大的谷歌机器人动物园之中。
+Google confirmed on Friday that it had completed the acquisition of Boston Dynamics, an engineering company that has designed mobile research robots for the Pentagon. The company, based in Waltham, Mass., has gained an international reputation for machines that walk with an uncanny sense of balance and even — cheetahlike — run faster than the fastest humans.
+谷歌于上周五证实，它已经完成对波士顿动力公司(Boston Dynamics)的收购，这是一家工程公司，曾为五角大楼设计可移动研究机器人。该公司总部设在马萨诸塞州沃尔瑟姆，因为设计了平衡感绝佳的行走机器人而享誉国际，甚至，他们的机器人能像猎豹一样，比人类跑得还快。
+It is the eighth robotics company that Google has acquired in the last half-year. Executives at the Internet giant are circumspect about what exactly they plan to do with their robot collection. But Boston Dynamics and its animal kingdom-themed machines bring significant cachet to Google’s robotic efforts, which are being led by Andy Rubin, the Google executive who spearheaded the development of Android, the world’s most widely used smartphone software.
+这是谷歌在过去半年里收购的第八家机器人公司。对于究竟要如何利用被收购的公司，这家互联网巨头的高管出言谨慎。不过，波士顿动力公司及其旗下的动物类机器人，给谷歌的机器人计划带来了巨大的声望，该计划由谷歌高管安迪·鲁宾主掌，他曾主导了全球使用最广泛的智能手机软件Android的开发工作。
+The deal is also the clearest indication yet that Google is intent on building a new class of autonomous systems that might do anything from warehouse work to package delivery and even elder care.
+此次交易也是迄今为止最为清晰的一个迹象，表明谷歌打算建立新型的自动化系统，这个系统也许能包揽从仓库管理到送货上门、乃至到照顾老人的各种工作。
+Boston Dynamics was founded in 1992 by Marc Raibert, a former professor at the Massachusetts Institute of Technology. It has not sold robots commercially, but has pushed the limits of mobile and off-road robotics technology, mostly for Pentagon clients like the Defense Advanced Research Projects Agency, or Darpa. Early on, the company also did consulting work for Sony on consumer robots like the Aibo robotic dog.
+波士顿动力公司始创于1992年，创始人马克·雷伯特(Marc Raibert)曾是麻省理工学院(Massachusetts Institute of Technology)的一名教授。该公司没有在市面上销售机器人，不过，它把移动机器人和越野机器人技术推到了极限，在很多时候，它是在为五角大楼的客户工作，比如美国国防高级研究计划局（Defense Advanced Research Projects Agency，简称DARPA）。一度，该公司还就爱博(Aibo)机器狗等消费类机器人向索尼(Sony)提供了咨询。
+Boston Dynamics’ walking robots have a reputation for being extraordinarily agile, able to walk over rough terrain and handle surfaces that in some cases are challenging even for humans.
+波士顿动力公司的步行机器人以行动异常敏捷而得名，它能穿越崎岖的地貌、驾驭在某些情况下，甚至对人类都构成挑战的地表。
+A video of one of its robots named BigDog shows a noisy, gas-powered, four-legged, walking robot that climbs hills, travels through snow, skitters precariously on ice and even manages to stay upright in response to a well-placed human kick. BigDog development started in 2003 in partnership with the British robot maker Foster-Miller, NASA’s Jet Propulsion Laboratory and Harvard.
+一段视频显示了一个汽油驱动的四腿行走机器人，嗡嗡作响地攀越山坡，穿过雪地、跌跌撞撞地掠过冰面，甚至在人类的精准一踢下仍设法保持了直立。视频里的机器人就是该公司的产品之一，名叫“大狗”。“大狗”的开发始于2003年，开发时的合作伙伴包括英国机器人制造商福斯特-米勒(Foster-Miller)、美国航空航天局喷气推进实验室(NASA’s Jet Propulsion Laboratory)和哈佛大学(Harvard)。
+The video has been viewed more than 15 million times since it was posted on YouTube in 2008.
+自这段视频2008年被上传到YouTube以来，它已被观看了1500万次以上。
+More recently, Boston Dynamics distributed a video of a four-legged robot named WildCat, galloping in high-speed circles in a parking lot.
+更近一段时间，波士顿动力公司发布了一段名为“野猫”的四腿机器人的视频，片中机器人在停车场里一圈圈地高速飞奔。
+Although the videos frequently inspire comments that the robots will evolve into scary killing machines straight out of the “Terminator” movies, Dr. Raibert has said in the past that he does not consider his company to be a military contractor — it is merely trying to advance robotics technology. Google executives said the company would honor existing military contracts, but that it did not plan to move toward becoming a military contractor on its own.
+虽然这些视频常常会引发评论，声称机器人将演变成可怕的杀人机器，就像从电影《终结者》(Terminator)里直接走出来的机器人一样，然而雷伯特博士过去曾表示，他不认为自己的公司是一家军事承包商 -——它只不过是在设法提升机器人技术。谷歌高管表示，该公司将履行现有的军事合同，不过，它并不打算主动地朝着成为军事承包商的方向发展。
+A recent video shows a robot named Cheetah running on a treadmill. This year, the robot was clocked running 29 miles per hour, surpassing the previous legged robot land speed record of 13.1 m.p.h., set in 1999. That’s about one mile per hour faster than Jamaica’s Usain Bolt, the two-time Olympic gold medalist in the 100-meter dash. But it’s far short of a real cheetah, which can hit 65 m.p.h.
+最近的一段视频显示了一个名为“猎豹”的机器人在跑步机上跑步的情景。今年，计时器显示这个机器人的跑步时速达到了29英里（约46公里），超过了有腿机器人在1999年创下的上一个陆上纪录，当时的记录是每小时13.1英里。这个时速大约比牙买加的尤塞恩·博尔特(Usain Bolt)快1英里，后者是两届奥运会100米赛跑的金牌得主。不过，真正猎豹的时速可高达65英里，远远快于这个速度。
+Google’s other robotics acquisitions include companies in the United States and Japan that have pioneered a range of technologies including software for advanced robot arms, grasping technology and computer vision. Mr. Rubin has also said that he is interested in advancing sensor technology.
+谷歌收购的其他机器人公司包括了一些美国和日本公司，它们已经率先推出了一系列技术，包括为先进的机器人手臂、抓取技术和计算机视觉技术制作的软件。鲁宾还表示，他有志于提升传感器技术。
+Mr. Rubin has called his robotics effort a “moonshot,” but has declined to describe specific products that might come from the project. He has, however, also said that he does not expect initial product development to go on for years, indicating that Google commercial robots of some nature could be available in the next several years.
+鲁宾称他的机器人项目好比“登月”项目，不过，他拒绝透露可能出自该项目的具体产品。然而，他表示，自己不认为最初的产品开发会持续太多年，这表明，具有某些特质的谷歌商用机器人可能会在未来几年里进入市场。
+Google declined to say how much it paid for its newest robotics acquisition and said that it did not plan to release financial information on any of the other companies it has recently bought.
+谷歌拒绝透露该公司为最新的机器人收购案投入了多少资金，它还说，对于最近收购的其他公司，公司不打算披露任何财务信息。

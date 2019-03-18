@@ -1,0 +1,12 @@
+Being tall is associated with higher income for men and being overweight is associated with lower income for women. A new study shows that height and weight may have a direct cause-and-effect relationship with pay.
+男性高收入与个子高相关，而女性低收入则与超重相关。一项新研究显示，身高和体重可能与薪酬有直接的因果关系。
+The study used Mendelian randomization — a genetic technique that helps clarify the causal relationship between human characteristics — to show that genetically determined height and weight can directly affect worldly success.
+该研究采用了孟德尔随机化方法(Mendelian randomization)来证明基因遗传决定的身高和体重可直接影响物质上的成功。孟德尔随机化方法是一种遗传学技术，可以帮助人们明确人类性状之间的因果关系。
+British researchers studied 119,669 men and women who either had or did not have various genetic variants known to influence height and B.M.I.
+英国的研究人员研究了共计119669名男性和女性，他们或带有或不带有多种已知可影响身高和B.M.I.（体重指数）的遗传变异。
+The study, in BMJ, found that for each two and a half inches of genetically determined extra height, a man was 12 percent more likely to work in a high-status job and earned an average $1,611 more a year. In women, a 4.6-point increase in B.M.I. resulted in $4,200 less in annual income. These differences between the sexes strengthen the conclusion that the effect has a genetic basis, independent of environment.
+这项发表于《英国医学杂志》(BMJ)上的研究发现，在男性中，因遗传原因导致的身高每高出2.5英寸（约合6.35厘米），他担任要职的可能性就会增加12%，年收入也平均多出1611美元。对于女性而言，B.M.I.每增加4.6，就会导致年收入减少4200美元。两性之间的差异进一步支持了研究的结论：上述效应具有遗传基础，不随环境改变而改变。
+That taller men and thinner women are more successful has been shown in several observational studies, and environmental factors are certainly involved.
+若干观察性研究都显示个子较高的男性和身材较瘦的女性更为成功，且环境因素必然涉及其中。
+“But your environment, your lifestyle, can’t change your genes,” said the senior author, Timothy M. Frayling, a professor of human genetics at the University of Exeter. “The data shows that there is a causal effect from being genetically a bit shorter or fatter that leads you to being worse off in life. Previously we didn’t know that.”
+“但是，你的环境和生活方式都不能改变你的基因，”该研究的主要作者，英国埃克塞特大学(University of Exeter)的人类遗传学教授蒂莫西·M·弗雷灵(Timothy M. Frayling)说。“这些数据表明，因遗传导致的个子矮一点儿或者身材胖一点儿与你生活贫困之间有一定的因果关系。以前我们可不知道这一点。”

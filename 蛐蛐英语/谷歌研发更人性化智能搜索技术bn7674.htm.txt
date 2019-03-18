@@ -1,0 +1,36 @@
+Lisa Cericola, 31, a food editor and blogger, recently held a party at her home in Brooklyn, with grilled steak and chimichurri on the table and the Red Hot Chili Peppers on the iPod.
+31岁的美食编辑兼博主莉萨·切里科拉(Lisa Cericola)，最近在她布鲁克林的家里举办了一场聚会，聚会上大家吃的是烤牛排配阿根廷香辣酱，iPod里播放着红辣椒乐队的歌。
+Soon, a debate broke out. Was the singer saying, “With burned shed it’s a lovely view?” Or “With blood I shed alone with you?”
+很快，开始了一场争论：歌手唱的到底 是“With burned shed it’s a lovely view?”（烧焦的小屋看起来不错）还是“With blood I shed alone with you?”（我和你一起流血）
+Like most people these days, Ms. Cericola knew what to do. She grabbed her BlackBerry and Googled. (The answer, from the song “Scar Tissue”: “With the birds I’ll share this lonely view.”)
+和许多人一样，切里科拉知道该怎么办。她拿起黑莓手机，通过谷歌搜索答案。（答案：这首叫做《伤疤组织》[Scar Tissue]的歌唱的是“With the birds I’ll share this lonely view.”［我和鸟儿一起孤单看世界］）
+“Looking up something really fast actually adds to the conversation,” Ms. Cericola said.
+“能够快速查到需要的信息，实际上给谈话增添了内容，”切里科拉说。
+But if Ms. Cericola was content with how quickly she ended the debate, Google and other technology companies are not. They know they are the uninvited guests at social gatherings everywhere, and they want to ingratiate themselves with the hosts by figuring out new, less intrusive ways to join the party — as varied as voice search, Internet-connected glasses and other wearable computers, or dining room tables outfitted with screens.
+虽然切里科拉对于能够如此迅速地结束一场争论感到满意，但是谷歌和其他科技公司却不会这么满意。它们知道，它们是社交聚会上的不速之客，它们希望能够找到一个新的、但又不那么突兀的方法来讨好主人，并参与到聚会中——它们使出了浑身解数，包括语音搜索、联网眼镜等可佩戴电脑设备，或是装有屏幕的餐桌。
+Googling the answer to a question has become accepted social behavior, but “it’s still somewhat awkward when you see that at a dinner party,” said Amit Singhal, senior vice president in charge of search at Google. “The key to the future is how can you make such conversations socially even more normal?”
+从谷歌上搜索答案已经成为一种社交场合中被广泛接受的行为，但是“出现在晚餐会上还是有点唐突。”主管搜索的谷歌高级副总裁阿米特·辛格尔说(Amit Singhal)，“未来的关键在于如何使这样的交谈方式在社交活动中显得更加正常？”
+Mr. Singhal is talking about what computer scientists call ubiquitous computing or intelligence augmentation — the idea that computers will no longer be devices we turn on, but will be so integrated into our everyday environment that we can ask them to do things without ever lifting a finger.
+辛格尔说的，就是被计算机科学家称作普适计算或者智能增强的技术。电脑将不再是一台需要我们启动的机器，而是会融入日常生活的环境当中：我们连手指都不用动就能让它们执行我们需要的任务。
+“It’s not just a question of having screens everywhere or wearing a screen, but also this whole idea of phones and devices becoming more context-aware, so they can offer information that is highly relevant,” said Pattie Maes, founder and director of the M.I.T. Media Lab fluid interfaces group, which studies how to integrate digital information into daily life.
+“这不仅是到处安装屏幕，或把屏幕戴在身上的问题，还是要让手机等设备对环境有更强的感知，从而可以提供更有相关性的信息。”帕蒂·梅斯(Pattie Maes)说。梅斯是麻省理工学院(MIT)媒体实验室流体界面小组的创始人及主任，该小组主要研究方向是如何将数字信息整合到日常生活中。
+If people are discussing the migratory patterns of monarch butterflies over dinner, for instance, phones will be able to hear that and present a map, she said. Or when you meet someone, your glasses could show you the person’s LinkedIn profile and your last e-mail exchange.
+她举例说，如果人们在饭桌上聊的是帝王蝴蝶的迁徙规律，手机将能够捕捉到人们谈论的内容，并在屏幕上显示出一副地图。或者，当你见到一个人，你的眼镜能够把他的LinkedIn个人简介和你们最近一次互发的邮件都显示出来。
+“It’s the integration of the digital and physical worlds so no longer are they two relatively separate spheres where you have to make the connection between them,” Ms. Maes said.
+“这是数字世界和物理世界的融合，这两个世界将不再彼此分离，不再需要你去建立它们之间的联系。”梅斯说。
+Many tech companies are trying to integrate the two worlds. In Apple’s new iPhone, Siri, the voice-activated assistant, can answer questions about current movies, sports and restaurants.
+许多高科技公司都在尝试着融合这两个世界。在苹果公司最新推出的iPhone上，语音助手Siri能够回答有关当前上映的电影、体育赛事和附近餐厅的问题。
+Microsoft is experimenting with computers that understand gestures and voice, like gloves with sensors, Bing voice search on the Xbox and gesture recognition on the Kinect. I.B.M. is teaching machines to learn and interact with people, including in hospitals. But Google is at the forefront, with vast research about what kinds of questions people want answered — and when.
+微软正在研制能够识别手势和声音的电脑，比如带有传感器的手套，Xbox平台上的必应(Bing)语音搜索和Kinect手势识别系统。IBM正在教机器学习与人互动，比如在医院里。但是谷歌走在了最前面，它进行了大量的研究，了解人们想问什么样的问题，以及什么时候需要。
+Google says its internal logs reveal that mobile searches spike during mealtimes, when people are away from their computers but still want information immediately. And people ask more questions about trivia — “How tall is the Statue of Liberty” (answer: 305 feet) and “How old is the earth” (4.54 billion years) — on mobile devices than on computers.
+谷歌说，公司的内部记录显示，移动搜索服务在人们用餐的时候达到高峰，这时人们远离电脑，但又需要立即得到相关信息。和在电脑上相比，人们在移动设备上会问更多细枝末节的问题，比如：“自由女神像有多高？”（答案是：305英尺[约合93米]）和“地球多少岁了？”（答案是：45.4亿岁）。
+To make these searches easier, last month Google introduced mobile search apps for Android phones and iPhones that let people ask questions aloud and listen to Google answer in a vaguely robotic woman’s voice. The idea is that people do not have to excuse themselves from conversation to type a query, and everyone can hear the answer, as if Google were another guest.
+为了让这些搜索变得更简单，谷歌上个月推出了适用于安卓手机和iPhone的移动搜索应用程序。人们可以把问题说出来，然后谷歌的程序就会以一种几乎听不出是电脑模拟的女声进行回答。这款程序就是为了能让人们不必为了打字输入问题而停下交谈，而且这样每个人都能听到答案，就好像谷歌也是一位在座的客人一样。
+In May, Google introduced fact cards to answer trivia-type queries; these are answers on the search results page, so people do not have to click on a link, wait for a Web page to load and further delay the conversation. Say you urgently need to know Ryan Gosling’s net worth. Search on your phone and above the links to search results, Google tells you. (It is $50 million.)
+五月，谷歌还推出了专门回答各种琐碎问题的“小卡片”，即答案会出现在搜索结果页面上，这样人们就不必再去点击链接，等待网页加载，以至于进一步地拖延正在进行的谈话。比如说，你急切地需要了解瑞安·戈斯林(Ryan Gosling)的资产净值。用你的手机搜索，然后谷歌就会把答案显示在搜索到的链接的上面。（答案是5000万美元。）
+Google Glass, eyeglass frames that let people use the Web on a tiny screen near their temples, are not yet for sale but will let people find answers without reaching into their pockets. So will other wearable computers that Google plans to experiment with, like watches.
+谷歌眼镜是一种特制的眼镜框，在靠近太阳穴的位置有一块屏幕，可以用来上网。这款产品还没有发售，但它能让人们不用从兜里掏手机，就能知道想要的答案。谷歌还计划研制其他佩戴式计算机，比如手表，也将有同样的功能。
+The company is also studying screens that could be built into kitchen walls or dining room tables, to make Google a constant companion that everyone in the room could talk to.
+谷歌还在开发能够嵌入厨房墙壁或餐桌的屏幕。这样，谷歌就像一个随时在你身边的伙伴，房间里的每个人都能和它交谈。
+“If we take it to the next step, which we’re excited about, Google and the information I need is right here in the room with me,” said Scott Huffman, the engineering director in charge of mobile search at Google. “As we’re talking, we just say, ‘Hey, Google, blah blah blah,’ and it comes up on a screen or tells you the answer.”
+“如果我们更进一步，这是最激动人心的， 谷歌和我所需的信息会和我在同一个房间里。”负责谷歌移动搜索的技术总监斯科特·赫夫曼(Scott Huffman)说，“如果我们正在聊天，我们只需要说：‘嘿，谷歌，如此这般……’然后答案就会显示在屏幕上，或者直接念出来告诉你。”

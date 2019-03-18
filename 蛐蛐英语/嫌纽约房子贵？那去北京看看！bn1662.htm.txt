@@ -1,0 +1,12 @@
+Think it's expensive to buy a home in New York? Try moving to China.That chart comes from the International Monetary Fund (and was brought to my attention by Torsten Slok, the chief international economist at Deutsche Bank). It shows the ratio of house prices to annual household income: that is, how many years' worth of income it would take to buy the typical house in a given city.
+你是不是认为在纽约买房太贵了？试试在中国买房吧。国际货币基金组织(International Monetary Fund)提供了一张图表（德意志银行[Deutsche Bank]首席国际经济师托尔斯滕·斯洛克[Torsten Slok]给我看了这些信息），显示了房价与家庭年收入之比：即在某个城市购买当地的一般性住房需要花多少年的收入。
+As you can see, the median house price in New York was equal to 6.2 years' worth of the median pretax household income in 2011. The most comparable data we have for an array of Chinese cities -- shown in red above -- suggests that homes in New York are a steal compared to those in urban parts of the Middle Kingdom.
+2011年，纽约的中位数房价相当于当地家庭6.2年的中位数年收入。我们能看到的一系列最具可比性的中国城市的数据说明，纽约的房价真是便宜。
+The Chinese data (which use a slightly different metric: the price of a 70-square-meter home divided by average annual pretax household income) show that in Shanghai it would cost 15.9 times the typical household income to buy a standard home. In Beijing, the ratio is even higher, at 22.3.
+中国的数据（算法略有不同：即以面积70平方米的房屋的价格除以平均家庭税前年收入）显示，在上海，要购买一套普通住房，所需费用是普通家庭年收入的15.9倍。在北京，房价收入比甚至更高，达到了年收入的22.3倍。
+Real estate prices are so high in China, Mr. Slok explains, because people have few options for parking their savings.
+斯洛克解释说，中国的房地产价格如此之高，原因是人们手里的储蓄几乎没有什么途径可以投资。
+The savings rate is phenomenally high in China. The consumer banking sector, however, is not nearly as built out as those in most developed countries, partly because the Chinese government restricts entry of foreign service-providing companies like financial institutions. So people have been investing their savings in a local sector that has had big returns -- real estate -- chasing home prices ever higher.
+中国的储蓄率高得异乎寻常。然而，与发达国家不同，中国的个人银行业务还远未得到充分发展，这一部分是因为中国政府限制外国服务行业，如金融机构，进入中国。所以，人们一直把储蓄投向一个收益丰厚的当地行业——房地产业——由此驱使房价不断升高。
+I should note, by the way, that housing prices in China began to fall in 2011 as the government tried to curb speculative real estate investment. Home prices then picked up again in the middle of last year and continue to rise.
+顺便说一句，我应当指出的是，随着中国政府设法遏制房地产市场的投机行为，中国的房价开始于2011年秋天回落。而后，房产价格在去年年中再次回升，持续上涨。

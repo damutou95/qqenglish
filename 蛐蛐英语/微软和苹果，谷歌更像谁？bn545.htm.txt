@@ -1,0 +1,28 @@
+Is Google geekier than Microsoft?
+谷歌比微软更极客吗？
+My last Disruptions column explored Microsoft’s current predicament as it tries to transition from a company that prizes niche technical features in its products to one more like Apple, in which design and simplicity are paramount.
+在上次的Disruptions专栏文章中，我探讨了微软目前所处的困境：它正在试图从一家重视产品中的小众技术性特性的公司，转变为一家更像苹果的公司；在苹果，设计和简约具有至高无上的地位。
+Microsoft’s current obsession with speeds and feeds led it to make the Microsoft Surface tablets, which came with too many options and were a head-scratcher to many consumers.
+微软当前对性能和功能的痴迷，导致它推出了Surface平板电脑，这种设备提供了太多选项，让很多消费者感到晕头转向。
+But some readers asked, isn’t Google just like Microsoft — or worse? Google is, after all, the company that has a secret laboratory, Google X, which builds things seemingly far removed from its core business — everything from cars that drive themselves to balloons that deliver the Internet to remote areas of the world. Not to mention the many people on Google’s campuses walking around with Google Glass.
+但是有些读者问：谷歌不就是像微软一样吗——或者更糟？毕竟谷歌有一个秘密实验室，即Google X，它研发一些看似远离其核心业务的东西：从自动驾驶汽车，到为世界上的偏远地区提供互联网服务的气球，诸如此类。在谷歌园区走动的很多人都佩戴着的谷歌眼镜就更不用提了。
+But Google’s products don’t seem as convoluted and confusing as Microsoft’s products.
+但是，谷歌的产品似乎不像微软的那么令人费解和困惑。
+Ryan Block, a former editor at Engadget and a co-founder of Gdgt, a gadget Web site, believes that while Google products have their fair share of confusion, and while many of the people that work there are very tech-driven, the company seems to find a better balance between geek and design.
+瑞安·布洛克(Ryan Block)曾是Engadget的编辑，也是小设备网站Gdgt的联合创始人，他认为，谷歌的产品也有让人莫名其妙的地方，而且很多在那里工作的人都是非常以高科技为导向的，但是该公司似乎在极客和设计之间更好地把握了平衡。
+“Google grew up post-Microsoft and post-Apple and had a frame of reference for taking the best of both of those cultures,” he said. “So the end result is a company that has a product-driven culture and an engineer-driven culture.”
+“谷歌是在微软和苹果成名之后发展壮大起来的，它有了一个参照系，可以从这两种文化中汲取精华，”他说，“结果就是，这家公司有一种以产品为导向的文化，也有一种以工程师为主导的文化。”
+Microsoft sees it differently. While I was interviewing Frank X. Shaw, Microsoft’s vice president for corporate communications, he pointed to how Google names its products as an example of consumer confusion.
+微软对此有不同看法。当我采访微软的企业传讯副总裁弗兰克·X·肖(Frank X. Shaw)时，他指出，谷歌给其产品命名的方法，就是让消费者莫名其妙的一个例子。
+“We’re way better than Google: at least we don’t name our products jelly bean or coffee cake, where, from a consumer standpoint, that naming is completely opaque,” Mr. Shaw said, referring to the naming convention Google has used for its Android operating system. “When most people see Windows 8.1 and Windows 8, they know 8.1 has got to be newer.”
+肖说：“我们比谷歌好得多：至少我们不会把自己的产品命名为胶质软糖或咖啡蛋糕，从消费者的角度来看，这样的命名完全看不透是什么意思，”他说的是谷歌给其Andr​​oid操作系统版本命名的方式。“大多数人一看到Windows 8.1和Windows 8，就明白8.1更新一些。”
+Mr. Shaw is right. Unless you’re an Android engineer, or a Google employee, it’s takes some digging to figure out what the latest Google operating system is called.
+肖说得没错。除非你是Android工程师或者谷歌员工，否则要弄清最新的Android版本叫什么名字就得费点劲。
+Google’s tech culture does enable its employees to play more. In addition to the Google X labs, the company fosters the famous 20 Percent Time, which enables engineers to spend one day a week working on projects that aren’t in their job descriptions.
+谷歌的高科技文化让员工有了更多的发挥。除了Google X实验室之外，谷歌还鼓励著名的“20％时间”(20 Percent Time)做法，让工程师可以每周花一天的时间在不是他们本职工作的项目上。
+“Google Now started as a 20 percent project with two folks on the Maps team, and since launching, has gone on to win several product design awards, including recognition from D&AD this year as well as winning Popular Science’s “Innovation of the Year” last year,” explained a Google spokesman said in an e-mail.
+“Google Now最开始就是一个‘20％时间’项目，由谷歌地图团队的两个人建立的。自从推出以来，它已获得了几个产品设计大奖，比如D&AD今年的奖项，以及《科技新时代》(Popular Science)去年的‘年度最佳创新奖，’”谷歌的一位发言人在一封电子邮件中表示。
+But these projects can have detriments on the company, too. Google takes the crown for most products killed within a single company: Google Buzz, the social network that preceded Google Plus; Google Reader, the RSS reader; Knol, which hoped to offer user-written articles on a range of topics; Dodgeball, the location-based service; and a very long list of other products. Google did not respond to a request for comment to this post.
+但是，这些项目也可能给公司带来不利影响。没有哪家公司关闭的产品数量比谷歌多：Google Buzz（Google Plus推出前的社交网络服务）、谷歌阅读器（RSS阅读器）、Knol（打算提供由用户书写的涉及一系列主题的文章）；Dodgeball（基于地理位置的服务，即LBS），还有很多其他产品。谷歌没有回应对本文置评的请求。
+While Google offers a wide range of products, some of them named after desserts and many of them short-lived, the company’s products are usually free of clutter and often relatively easy to use. Which means Google is neither Microsoft or Apple. It is somewhere right in the middle.
+虽然谷歌提供了一系列范围广泛的产品，其中一些是用甜点命名的，还有很多寿命不长，但该公司的产品通常并不杂乱，而且往往也比较容易使用。这意味着谷歌既不是微软，也不是苹果，而是处在二者之间的某个位置上。

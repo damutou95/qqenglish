@@ -1,0 +1,22 @@
+One of the biggest questions looming over Bitcoin, the digital currency generating attention in the tech business, is when big mainstream merchants will begin accepting it.
+比特币(bitcoin)这种在科技产业吸引了众多目光的电子货币现在面临着一个很大的问题，那就是主流商家什么时候才会接受它。
+Overstock.com, the online discount retailer, has an answer: within the next six months, if all goes as planned.
+在线折扣零售商Overstock.com给出了答案：如果所有的事情都如计划进行，就在未来半年内。
+Patrick Byrne, the company’s chief executive, said Overstock planned to let online shoppers pay for goods with Bitcoin by June. The retailer is evaluating the services of several third-party firms that facilitate Bitcoin transactions, with the goal of selecting one by mid-January.
+该公司CEO帕特里克·伯恩(Patrick Byrne)表示，Overstock计划到明年6月时，允许在线购买商品的消费者用比特币付账。这家零售企业正在评估若干家处理比特币交易的第三方企业提供的服务，目标是在1月中旬挑选出一家。
+If Overstock follows through on the plan, it will become the most prominent retailer to embrace Bitcoin, an electronic currency that initially gained notoriety as a form of payment for black market drug and weapons transactions and as a new craze for currency speculators. Bitcoin has captivated the imaginations of many technology entrepreneurs and investors, who it as a low-cost payment system that could disrupt established players like Visa and MasterCard. But while many of them are forming or funding start-ups to provide different types of Bitcoin services, not many well-known retailers accept it directly.
+如果Overstock如期推进这项计划，它将会成为支持比特币的最著名的零售商。这种电子货币最初是在黑市上买卖毒品或武器的付款方式，也成了炒家热捧的新型投机品，于是变得臭名昭著。比特币已经让很多科技产业创业者和投资者沉迷于遐想之中，它是一种低成本的支付体系，会冲击Visa和万事达(MasterCard)这种地位稳固的支付服务。尽管他们当中有很多人在创立或投资初创企业，提供不同类型的比特币服务，但是并没有多少知名的零售商直接接受比特币。
+Mr. Byrne’s decision to take Bitcoin as a form of payment is driven by philosophical reasons more than business ones. In a lengthy voice mail message explaining his plans, Mr. Byrne said “some fraction, tiny now, of the population” currently wanted to transact using a digital currency like Bitcoin.
+伯恩之所以决定以比特币作为支付方式，原因主要是哲学上的，而不是商业上的。伯恩发了一则很长的语音邮件解释自己的计划，他说，“虽然现在还属于极少数，一部分人”正希望用比特币这样的电子货币进行交易。
+He appears more intrigued, however, by the idea of supporting a digital currency that is outside the control of any traditional government authority, echoing a libertarian argument that many fans of Bitcoin have made. Mr. Byrne finds the limitations of creating Bitcoins appealing — there is a finite number of Bitcoins that can be made available and they are released at predetermined pace, unlike traditional government currency.
+不过他更沉迷的想法是支持一种不受任何传统政府机关控制的电子货币，这呼应了很多比特币爱好者提出的自由意志论述。伯恩认为，生成比特币的局限很吸引人——可生成的比特币总量是一定的，而且产生比特币的速度是预先确定的，这和政府发行的传统货币可不一样。
+“You want money to be based on something that no government mandarin can wish into existence with the stroke of a pen,” he said.
+他说，“你想要的货币不应该基于某些政府官僚大笔一挥就能凭空产生的东西。”
+In October, Mr. Byrne said that Overstock was thinking about accepting Bitcoin, but that it had suspended its plans because of the regulatory uncertainty around the digital currency. While regulators are still grappling with the implications of digital currency, several federal officials said at a Senate hearing in November that they believed digital currencies could operate within existing laws.
+今年10月，伯恩曾表示，Overstock在考虑接受比特币，但是由于比特币在监管上存在不确定性，所以搁置了计划。尽管监管部门还在应付数字货币的影响，11月举行的参议院听证会上，多位联邦官员表示，他们认为数字货币可以按照现行法律运作。
+Mr. Byrne is a colorful executive who has been known to stake out controversial positions, including against investors he believes manipulated his company’s stock. He also has an unconventional résumé. Once an aspiring professional boxer, Mr. Byrne has a black belt in taekwondo and a Ph.D. in philosophy from Stanford.
+伯恩不是一个循规蹈矩的高管，他一直以采取争议性的立场而著称，包括反对那些他认为操纵公司股票的投资者。而且他的履历也与众不同，伯恩曾经立志成为专业拳击手，赢得了跆拳道黑带，还有斯坦福大学哲学博士的学位。
+One obstacle to mainstream acceptance of Bitcoin may be its wildly fluctuating value, which could scare off consumers. After the value of a single Bitcoin surged to $1,137 in late November, the price has fallen to about $759, deflated largely by a crackdown by Chinese authorities on Bitcoin trading.
+比特币被主流接受的一个障碍或许是其币值的剧烈波动，这会把消费者吓跑。11月底时，一枚比特币的价格暴涨到了1137美元，之后价格下降到了约759美元，下挫的原因主要是中国政府对比特币交易的打压。
+Mr. Byrne said Overstock would insulate itself from such fluctuations by using derivatives to hedge the risk from any Bitcoins it holds. Alternately, the retailer may simply convert its Bitcoins to dollars on a nightly basis, he said. 
+伯恩表示，Overstock会设法使自己不受价格波动的影响，通过衍生品对冲手中的比特币所具有的风险。他还说，该公司也可以每天晚上都把比特币兑换成美元。

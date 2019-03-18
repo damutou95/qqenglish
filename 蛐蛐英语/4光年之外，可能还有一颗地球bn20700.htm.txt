@@ -1,0 +1,36 @@
+Another Earth could be circling the star right next door to us.
+有另一个地球或许正围绕着我们隔壁的恒星旋转。
+Astronomers announced on Wednesday that they had detected a planet orbiting Proxima Centauri, the closest neighbor to our solar system. Intriguingly, the planet is in the star’s “Goldilocks zone,” where it may not be too hot nor too cold. That means liquid water could exist at the surface, raising the possibility for life.
+天文学家周三宣布，他们探测到一颗行星在环绕距离我们太阳系最近的恒星比邻星(Proxima Centauri)运行。让人浮想联翩的是，这颗行星位于比邻星的适居带，那里的温度也许既不太热也不太冷。这意味着，它的表面或许能够存在液态水，从而提高了存在生命的可能性。
+Although observations in recent years, particularly by NASA’s Kepler planet-finding mission, have uncovered a bounty of Earth-size worlds throughout the galaxy, this one holds particular promise because it might someday, decades from now, be possible to reach. It’s 4.2 light-years, or 25 trillion miles, away from Earth, which is extremely close in cosmic terms.
+尽管近年来的观测工作在银河系各处发现了不少地球大小的行星，美国航空航天局(NASA)的行星搜寻任务开普勒计划也在这方面做出了尤其大的贡献，但这颗行星带来了与众不同的希望，因为数十年后也许就有可能找到抵达它的办法。它距离地球4.2光年，也就是25万亿英里，从宇宙的尺度来看属于极近。
+One astronomer likened it to a flashing neon sign. “I’m the nearest star, and I have a potentially habitable planet!” said R. Paul Butler, an astronomer at the Carnegie Institution for Science and a member of the team that made the discovery.
+一位天文学家将它比作正在闪烁的霓虹招牌。“我是最近的恒星，我有一颗可能宜居的行星！”卡内基科学研究所(Carnegie Institution for Science)的天文学家R·保罗·巴特勒(R. Paul Butler)说。正是他所在的团队做出了这一发现。
+Guillem Anglada-Escudé, an astronomer at Queen Mary University of London and the leader of the team that made the discovery reported in the journal Nature, said, “We know there are terrestrial planets around many stars, and we kind of expected the nearby stars would contain terrestrial planets. This is not exciting because of this. The excitement is because it is the nearest one.”
+伦敦大学玛丽王后学院(Queen Mary University of London)的天文学家吉列姆·安格拉达-埃斯屈德(Guillem Anglada-Escudé)，是在《自然》(Nature)杂志上发表这一发现的研究团队的带头人。他表示，“我们知道，在很多恒星周围有类地行星，我们也差不多预计到那些临近的恒星周围会有类地行星。但令人振奋的并不是这个。让人激动的是这是最近的那颗。”
+Beyond the planet’s size and distance from its parent star, much about it is still mysterious. Scientists are working off computer models that offer mere hints of what’s possible: Conditions could be Earthlike, but they could also be hellish like Venus, or cold and dry like Mars.
+除了这颗行星的大小和与母星的距离，有关它的许多事情还是个谜。科学家依据的计算机模型仅能提供有关可能出现的情况的一些线索：那里的环境或许与地球类似，但也许像金星那么炙热，或像火星那么干冷。
+There is no picture of the planet, which has been designated Proxima b. Instead, Dr. Anglada-Escudé and his colleagues detected it indirectly, studying via telescope the light of the parent star. They zeroed in on clocklike wobbles in the starlight, as the colors shifted slightly to the reddish end of the spectrum, then slightly bluish. The oscillations, caused by the bobbing back-and-forth motion of the star as it is pulled around by the gravity of the planet, are similar to how the pitch of a police siren rises or falls depending on whether the patrol car is traveling toward or away from the listener.
+这颗行星被命名为Proxima b，并没有影像证据。安格拉达-埃斯屈德博士及其同事通过望远镜观察其母星的光谱而间接探测到它。他们把注意力放到了这一光谱中存在的精准微小移动上，先是轻微的红移，然后是轻微的紫移。造成这种现象的原因是比邻星受到这颗行星引力的拖拽，于是前后摇摆。与之类似的是，警车朝着或远离听众行进时，警笛声听起来会更尖利或更低沉。
+From the size of the wobbles, the astronomers determined that Proxima b is at least 1.3 times the mass of Earth, although it could be several times larger. A year on Proxima b — the time to complete one orbit around the star — lasts just 11.2 days.
+通过这种移动的大小，天文学家们确定Proxima b的质量至少是地球的1.3倍，尽管它也可能要大上好几倍。Proxima b上的一年——在环绕比邻星的轨道上运行一周的时间——仅为11.2个地球日。
+Although the planet, lost in the glare of the star, cannot be viewed by current telescopes, astronomers hope to see it when the next generation is built a decade from now.
+尽管这颗行星被比邻星的光芒遮盖，不能被现有望远镜观察到，但天文学家们希望十年后打造的下一代望远镜能看到它。
+And the planet’s proximity to Earth gives hope that robotic probes could someday be zooming past the planet for a close-up look. A privately funded team of scientists and technology titans, led by the Russian entrepreneur Yuri Milner and the theoretical physicist Stephen Hawking, have announced Breakthrough Starshot Initiative, a project to develop and launch a fleet of iPhone-size spacecraft within two to three decades. Their proposed destination is the Alpha Centauri star system, which includes two larger, sunlike stars in addition to Proxima Centauri.
+这颗行星与地球的相似性增加了一种希望：未来某一天，机器探测器可以掠过或近距离地观察它。在俄罗斯企业家尤里·米尔纳(Yuri Milner)和理论物理学家斯蒂芬·霍金(Stephen Hawking)牵头之下，私人资助的一群科学家与技术巨擘宣布启动突破·探星计划(Breakthrough Starshot Initiative)。这一项目的目标是在未来二三十年里开发并发射一系列iPhone大小的太空飞船。他们提出的目的地是半人马座阿尔法星系（Alpha Centauri，又称南门二），除了比邻星，其中还有两颗更大的类日恒星。
+“We will definitely aim at Proxima,” said Avi Loeb, a Harvard astronomer who is the chairman of an advisory committee for Breakthrough Starshot. “This is like finding prime real estate in our neighborhood.”
+“我们肯定会瞄准比邻星，”突破·探星计划顾问委员会主席、哈佛天文学家阿维·勒布(Avi Loeb)说。“这就像是在自家附近发现黄金地产。”
+This newly discovered planet is much closer to its parent star, about five million miles apart, than Earth is to the sun, 93 million miles. Even Mercury, the innermost planet of our solar system, is 36 million miles from the sun.
+比起地球与太阳之间的9300万英里，这颗新发现的行星与其母星之间的距离要短得多，仅为500万英里左右。就连我们太阳系最里面的行星水星，离太阳也有3600万英里。
+While Proxima b might be similar to Earth, its parent star, Proxima Centauri, is very different from the sun. It is tiny, belonging to a class of stars known as red dwarfs, with only about 12 percent of the mass of the sun and about 1/600th the luminosity — so dim that it cannot be seen from Earth with the naked eye.
+虽然Proxima b可能是与地球有所类似，但它的母星比邻星与太阳有很大的区别。比邻星个头微小，属于红矮星，仅为太阳质量的大约12%、亮度的大约1/600——星光如此黯淡，都不能从地球上用肉眼看到。
+Thus Proxima b, despite its closeness to the star, receives less warmth than Earth, but enough that water could flow on the surface. Whether the planet has liquid water or an atmosphere is “pure speculation at this point,” Dr. Anglada-Escudé said in a news conference.
+因此，尽管Proxima b与比邻星距离很近，但接收的热量要小于地球，却又足以保留水在其表面流动的可能性。至于它上面是否真存在液态水或大气层，“目前就纯靠猜想，”安格拉达-埃斯屈德博士在新闻发布会上表示。
+If the planet formed close to the star, it could be dry and airless, but it might also have formed farther out and migrated inward to its current orbit. It is also possible that the planet formed dry and was later bombarded by comets or ice-rich asteroids.
+假如Proxima b诞生于离比邻星很近的地方，那么它可能就很干燥、没有大气。可是，它也可能诞生于更远的地方，继而往内移动到目前的轨道上。还有一种可能性是，它诞生之初是干燥的，但后来遭到彗星或充满冰物质的流星撞击。
+“There are viable models and stories that lead to a viable Earthlike planet today,” Dr. Anglada-Escudé said.
+“一些可信的模型和理论可以说明，如今能够有一颗可信的与地球类似的行星，”安格拉达-埃斯屈德说。
+The discovery could provide impetus for planet-finding telescopes. Ruslan Belikov of the NASA Ames Research Center in Mountain View, Calif., has proposed a small space telescope costing less than $175 million dedicated to the search for planets in Alpha Centauri. While it would not be powerful enough to spot Proxima b, its existence would give more confidence that terrestrial planets also orbit the two sunlike stars there.
+这一发现也许会给搜寻行星的望远镜提供推动力。在加州山景城的美国航空航天局艾姆斯研究中心(Ames Research Center)供职的鲁斯兰·别利科夫(Ruslan Belikov)提出，建设一座小型太空望远镜，成本不到1.75亿美元，专门用来搜寻半人马座阿尔法星系的行星。虽然它并不会强大到足以看见Proxima b，但它的存在也许能提供更多信心：在该星系的两颗类日恒星周围，也存在类地行星。
+“It just raises the public awareness there’s a new world just next door,” Dr. Belikov said. “It’s a paradigm shift in people’s minds.”
+“它会直接提高公众对隔壁就存在一个新世界的意识，”别利科夫博士说。“这是民众思维范式的一种巨大转变。”

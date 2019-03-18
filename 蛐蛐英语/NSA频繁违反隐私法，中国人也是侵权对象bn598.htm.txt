@@ -1,0 +1,28 @@
+WASHINGTON — The National Security Agency violated privacy rules protecting the communications of Americans and others on domestic soil 2,776 times over a one-year period, according to an internal audit leaked by the former N.S.A. contractor Edward J. Snowden.
+华盛顿——美国国家安全局(National Security Agency)前承包商雇员爱德华·J·斯诺登(Edward J. Snowden)泄露的一份内部审查报告显示，国家安全局曾在一年时间内违反规则达2776次，这些规则旨在保护美国国土上的美国人和其他人的通讯隐私。
+The violations, according to the May 2012 audit made public on Thursday night, stemmed largely from operator and system errors like “inadequate or insufficient research” when selecting wiretap targets.
+这份在周四晚公布的2012年5月的审查报告显示，违规的行为大部分是由于操作员或系统错误造成的，比如在选择窃听对象时 “研究不恰当或不充足”。
+The largest number of episodes — 1,904 — appeared to be “roamers,” in which a foreigner whose cellphone was being wiretapped without a warrant came to the United States, where individual warrants are required. A spike in such problems in a single quarter, the report said, could be because of Chinese citizens visiting friends and family for the Chinese Lunar New Year holiday.
+违规发生次数最多的似乎是在“漫游者”身上，共有1904次，这种情况指的是手机被监听的外国人，在美国境外被监听时无需授权，但当他们进入美国国境后，继续监听则每次都需要获得单独授权。这份报告指出，这种情况在一个季度内出现高峰，可能是因为中国公民在春节放假期间来美探亲访友所致。
+“Roamer incidents are largely unpreventable, even with good target awareness and traffic review, since target travel activities are often unannounced and not easily predicted,” the report says.
+报告称，“漫游者事故在很大程度上无法避免，即使对监视对象有良好的了解，即使对所监视的通讯有核查，因为监视对象的旅行活动一般不对外公布，也很难预料。”
+The report and several other documents leaked by Mr. Snowden were published by The Washington Post. They shed new light on the intrusions into Americans’ privacy that N.S.A. surveillance can entail, and how the agency handles violations of its rules.
+斯诺登泄露的这份报告以及其他文件由《华盛顿邮报》(The Washington Post)发表。它们进一步揭示了国家安全局的监视活动可能给美国人的隐私所带来的侵犯、以及该机构如何处理违规行为。
+Mr. Snowden, who was recently granted temporary asylum in Russia, is believed to have given the documents to The Post months ago.
+斯诺登最近在俄罗斯被获准临时避难，据信他在几个月前已经把这些资料泄露给了《华盛顿邮报》。
+The Post, which did not publish every document its accompanying article relied upon, cited other problems as well. In one case in 2008 that was not reported to the Foreign Intelligence Surveillance Court or Congress, it said, the system recorded a “large number” of calls dialed from Washington because of a programming error mixing up the district’s area code, 202, with the international dialing code of Egypt, 20.
+《华盛顿邮报》还提到了一些其他问题，虽然没有公开其报道中提到的所有资料。报道指出，在2008年一起未向外国情报监视法院（Foreign Intelligence Surveillance Court，简称FISA法院）或国会汇报的案例中，监视系统记录了“大量”从华盛顿拨出的电话，原因是一个编程错误混淆了该区的区号202与埃及的国家代码20 。
+Jameel Jaffer of the American Civil Liberties Union said that while some of the compliance violations were more troubling than others, the sheer number of them was “jaw-dropping.”
+美国公民自由联盟(American Civil Liberties Union)的贾米勒 ·贾弗(Jameel Jaffer)说，有些违规行为比其他的更让人担忧，违规行为发生的次数之多“令人瞠目结舌”。
+In a statement, the N.S.A. said its surveillance activities “are continually audited and overseen internally and externally.”
+国家安全局在一份声明中称，其监视活动“一直受到内部和外部的审查和监督”。
+“When N.S.A. makes a mistake in carrying out its foreign intelligence mission, the agency reports the issue internally and to federal overseers — and aggressively gets to the bottom of it,” the statement said.
+这份声明说，“当国家安全局在执行外国情报任务出现失误时，本机构会把问题向内部报告，并且报告给联邦政府的监管者，同时会把问题一追到底。”
+Another newly disclosed document included instructions for how N.S.A. analysts should record their rationales for eavesdropping under the FISA Amendments Act, or F.A.A., which allows wiretapping without warrants on domestic networks if the target is a noncitizen abroad. The document said analysts should keep descriptions of why the people they are targeting merit wiretapping to “one short sentence” and avoid details like their names and supporting information.
+另一份最近曝光的文件中有关于国家安全局分析员应该如何记录窃听理由的指南，这种窃听是根据FISA修正案(FISA Amendments Act)进行的，修正案允许在美国国内的通讯网上无需授权进行监听，只要对象是在境外的非美国公民。指南称，分析员应该用“一个简短句子”来描述他们作为监视对象的人，要避免具体内容，譬如他们的姓名以及其他支持材料。
+“While we do want to provide our F.A.A. overseers with the information they need, we DO NOT want to give them any extraneous information,” it said.
+指南称，“虽然我们的确要向FAA的监管者提供他们需要的信息，但我们不要给他们提供任何额外信息。”
+A brief article in an internal N.S.A. newsletter offered hints about a known but little-understood episode in which the Foreign Intelligence Surveillance Court found in 2011 that the N.S.A. had violated the Fourth Amendment. The newsletter said the court issued an 80-page ruling on Oct. 3, 2011, finding that something the N.S.A. was collecting involving “Multiple Communications Transactions” on data flowing through fiber-optic networks on domestic soil was “deficient on statutory and constitutional grounds.”
+发表在国家安全局内部简报上的一篇短文还给一个已知的、但具体情况不明的案例提供了一些线索。外国情报监视法院曾在2011年发现国家安全局违反了宪法第四修正案。该短文写道，FISA法院在2011年10月3日做出了一份80页的裁决，裁决认定国家安全局对国内光纤网络传输的数据进行的某种信息收集，涉及 “多个信息往来”，但“在成文法和宪法上的理由不充足”。
+In a statement, the N.S.A. said the problem related to “a very specific and highly technical aspect,” which it reported to the court and Congress “once the issue was identified and fully understood.” Privacy protections for Americans were strengthened, it said, and the court allowed the surveillance to continue.
+国家安全局在一份声明中表示，上述问题涉及“一个十分特殊而且极为技术性的方面， 一旦问题被发现并得到充分认识之后”，国家安全局便向FISA法院和国会进行了汇报。声明称，后来加强了对美国人的隐私保护，所以法院允许监视活动继续下去。

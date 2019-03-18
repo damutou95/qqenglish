@@ -1,0 +1,26 @@
+A federal judge on Thursday said that Hillary Rodham Clinton did not comply with government policies in her exclusive use of a personal email account while she was secretary of state, challenging her longstanding position that she had abided by the rules.
+一位联邦法官在本周四说，希拉里·罗德姆·克林顿(Hillary Rodham Clinton)违背政府政策，在担任国务卿期间使用了私人电邮帐户，质疑了她一直以来表明自己遵守规则的说法。
+At a hearing for a Freedom of Information Act lawsuit against the State Department, the judge, Emmet G. Sullivan of United States District Court for the District of Columbia, said that “we wouldn’t be here today if the employee had followed government policy.”
+在据《信息自由法》(Freedom of Information Act)起诉国务院一案的听证会上，美国哥伦比亚特区地区法院法官埃米特·G·沙利文(Emmet G. Sullivan)说：“如果员工都遵循了政府的政策，我们今天也不会在这里了。”
+Judge Sullivan also opened the door for the F.B.I., which is investigating whether there was classified information on Mrs. Clinton’s account, to expand its inquiry to pursue emails that she may have deleted. The judge ordered the State Department to ask the F.B.I. to give it any emails recovered from Mrs. Clinton’s private server that were not already in the State Department’s possession or that may be related to the lawsuit.
+沙利文还向正在调查克林顿账户中是否有机密信息的联邦调查局(FBI)敞开了大门，让他们扩大调查范围，查找那些她可能已删除的电子邮件。根据法官的要求，FBI从克林顿私人服务器获取的任何电邮，如果国务院尚未获得，或者可能涉及到诉讼，国务院都需要从FBI那里获取。
+The Justice Department, which oversees the F.B.I., has argued that Freedom of Information Act searches do not typically involve a government employee’s personal email account.
+FBI主管部门司法部争辩说，《信息自由法》规定的搜索范围通常不涉及政府雇员的个人电邮帐户。
+Mrs. Clinton has said she gave the State Department more than 30,000 emails related to her work in office. She deleted about the same number of emails that she said were personal. Her lawyer has said that the server was then wiped clean. Mrs. Clinton has also said that she had no classified information on her email account.
+克林顿曾表示，她向国务院交出了三万多封她在任时与工作有关的电邮。她还删除了三万封她声称的私人邮件。她的律师表示，服务器随后抹掉了所有数据。克林顿还表示，她的电邮账户中没有机密信息。
+In a statement, a spokesman for Mrs. Clinton defended her use of the account. “Hillary Clinton’s use of a personal email account was consistent with the practice of other secretaries of state, and permissible under the department’s policy at the time,” said the spokesman, Brian Fallon.
+克林顿的发言人发表声明，为她使用私人账户的行为辩解。发言人布赖恩·法伦(Brian Fallon)表示，“希拉里·克林顿使用私人电邮账户的行为与其他国务卿的行为一致，当时国务院的政策允许这么做。”
+When Mrs. Clinton became secretary of state in February 2009, the State Department’s general policy was “that normal day-to-day operations be conducted on an authorized” government computer. Nine months later, federal regulations were toughened to say that government agencies that allow employees to use nongovernment email accounts must “ensure that federal records sent or received on such systems are preserved in the appropriate agency record-keeping system.”
+当克林顿于2009年2月成为国务卿时，国务院的总体政策是“一般的日常操作必须在经过授权的”政府电脑上进行。九个月后，联邦条例变得更加严格，称允许员工使用非政府电邮账户的政府机构必须“确保通过此类系统收发的联邦文件保存到适当的机构档案记录系统”。
+Since The New York Times reported in March that Mrs. Clinton exclusively used a personal email account, she has said that she complied with the regulations by sending emails to the work accounts of government officials so that those messages would be caught in the government’s servers. At a news conference in March at the United Nations, Mrs. Clinton said, “I fully complied with every rule that I was governed by.”
+自《纽约时报》在今年3月报道称克林顿只使用个人电子邮件账户处理政府事务以来，她曾表示，她会将邮件发送至政府官员的工作邮箱，如此一来，这些信息就会被政府服务器获取，这种做法符合规定。今年3月，克林顿在联合国的一场新闻发布会上表示，“我完全遵守每一条管理规定。”
+Emails from Mrs. Clinton’s account that were handed over to Congress show that she sent emails to at least four of her aides on their personal email accounts. Unless those emails were later sent to government accounts, they could not have been retained on government record-keeping systems.
+克林顿电邮账户发出的邮件已被提交给国会，这些邮件显示，她至少向四名助手的私人邮箱发送邮件。这些邮件不会被保存在政府的记录系统中，除非邮件后来发给了政府电邮账户。
+The Freedom of Information Act lawsuit was brought by the conservative group Judicial Watch, which is seeking documents and emails related to the special employment status of Huma Abedin, a close aide to Mrs. Clinton at the State Department. That status allowed Ms. Abedin to work as a consultant to private companies while she was a government employee.
+保守派组织司法观察(Judicial Watch)根据《信息自由法》提起诉讼，该组织在寻找与胡玛·阿贝丁(Huma Abedin)特殊雇佣身份有关的文件和邮件，阿贝丁是克林顿在国务院的亲密助手。她的特殊身份让她可以在担任政府雇员的同时，还担任私人公司的顾问。
+Judicial Watch wants Mrs. Clinton’s email server searched for documents related to Ms. Abedin’s employment status. This month, Mrs. Clinton said that the server and a thumb drive that contained the emails were handed over to the F.B.I.
+该组织希望搜查克林顿的电子邮件服务器，以寻找与阿贝丁雇佣身份有关的文件。克林顿在本月表示，已将该服务器及储存邮件的U盘交给FBI。
+Judge Sullivan’s order came a day after Mrs. Clinton’s presidential campaign held a conference call with reporters to emphasize that intelligence classifications are highly subjective.
+克林顿总统竞选团队与记者召开电话会议，强调情报的保密级别是高度主观的，一天之后，沙利文下达了命令。
+The campaign said federal agencies could have different views on what was classified, especially when there were no classification markings, as was the case with emails that Mrs. Clinton sent and received.
+该竞选团队表示，联邦机构可能对于信息的保密程度存在不同看法，特别是没有保密标记的时候，就像克林顿收发的那些邮件一样。

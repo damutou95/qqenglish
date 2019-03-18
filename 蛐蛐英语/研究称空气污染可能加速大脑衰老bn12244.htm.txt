@@ -1,0 +1,12 @@
+Exposure to air pollution may hasten brain aging, a new study has found.
+一项新研究发现，暴露在空气污染中可能会加速大脑衰老。
+Researchers studied 1,403 women without dementia who were initially enrolled in a large health study from 1996 to 1998. They measured their brain volume with magnetic resonance imaging scans in 2005 and 2006, when the women were 71 to 89.
+这项研究的对象为1403名未患痴呆症的女性，她们曾在1996年至1998年间参与过另一项大型健康研究。在2005年和2006年，研究人员用磁共振成像扫描的方式，测量了这些年纪在71岁至89岁之间的女性的脑容量。
+Using residential histories and air pollution data, they estimated their exposure to air pollution from 1999 to 2006. They used data recorded at monitoring sites on exposure to PM 2.5 — tiny particulate matter that easily penetrates the lungs.
+研究人员利用居住记录和空气污染数据，对她们从1999年到2006年暴露在空气污染中的情况进行了估算。他们使用了监测PM 2.5的站点记录的数据。PM 2.5是一种容易进入肺中的微粒物。
+Each increase of 3.49 micrograms per cubic centimeter cumulative exposure to pollutants was associated with a 6.23 cubic centimeter decrease in white matter, the equivalent of one to two years of brain aging. The association remained after adjusting for many variables.
+每立方厘米中累积污染物每增加3.49微克，脑白质就会减少6.23立方厘米，相当于大脑衰老一到两年。根据多个变量进行了调整后，这种相关性依然存在。
+Previous studies have shown that air pollution can cause inflammation and damage to the vascular system, but this study, in The Annals of Neurology, showed damage to the brain itself.
+之前的研究表明，空气污染可能会导致血管系统发炎受损，而发表在《神经学年报》(The Annals of Neurology)上的这项研究表明，空气污染会导致大脑受损。
+“This tells us that the damage air pollution can impart goes beyond the circulatory system,” said the lead author, Dr. Jiu-Chiuan Chen, an associate professor of preventive medicine at the Keck School of Medicine at the University of Southern California. “Particles in the ambient air are an environmental neurotoxin to the aging brain.”
+“这告诉我们，空气污染带来的危害不仅限于循环系统，”文章的第一作者、南加州大学凯克医学院(Keck School of Medicine at the University of Southern California)预防医学副教授陈居泉(Jiu-Chiuan Chen)博士说。“对日渐衰老的大脑来说，周围空气中的颗粒物是自然环境中的神经毒素。”

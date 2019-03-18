@@ -1,0 +1,12 @@
+Greenpeace International said in a new report on Thursday that Apple was making progress with its clean energy efforts, but not enough to satisfy the environmental group.
+环保团体绿色和平国际总部(Greenpeace International)在上周四发布的一份新报告中表示，苹果公司(Apple)的清洁能源努力正在取得进展，不过还无法令这家环保组织满意。
+In a report card on Apple's energy practices for its data centers, the power-hungry server factories from which iCloud and other online Apple services run, Greenpeace was somewhat kinder to the company than it had been in an earlier assessment, raising its overall clean energy score to 22.6 percent from its previous dismal rating of 15.3 percent.
+在针对苹果公司数据中心的能源实践报告单中，绿色和平对苹果公司的态度比较早前的一次评估有所缓和，将该公司总体清洁能源得分从上次评估中令人失望的15.3%，调高到了22.6%。该公司的数据中心是运行着苹果iCloud服务及其他苹果在线服务的大耗电量服务器集群。
+To put the change in more familiar terms, Apple improved to "C" ratings from "D" ratings in a couple of Greenpeace categories like "Renewables and Advocacy" and "Energy Efficiency and Greenhouse Gas Mitigation." Greenpeace made the changes after Apple committed in May to running its data centers entirely on coal-free, renewable energy.
+如果用熟悉的方式来描述这个变化，可以说苹果公司在绿色和平列出的几个领域，如“可再生能源和宣传”，及“能源使用效率和降低温室气体排放”等方面的得分，从“D”提高到了“C”。 苹果公司今年5月承诺，完全不使用煤炭，而是使用可再生能源运行数据中心。此后，绿色和平作出了以上修正。
+Greenpeace, though, criticized Apple for not saying enough about how it intends to reach those goals. "Apple has the potential to set a new bar with its coal-free iCloud commitment, but its plans to reach this goal are still mostly talk and not enough walk," Gary Cook, Greenpeace International's senior information technology analyst, said in a statement.
+不过绿色和平还是批评了苹果公司，说该公司没有充分说明自己计划如何达到目标。绿色和平的一位高级信息技术分析师加里·库克(Gary Cook)在一份声明中称，“苹果公司有潜力通过承诺iCloud不使用煤电来树立一个新的标杆，不过该公司达成这一目标的计划仍然主要是空谈，还欠缺实际行动。”
+Apple has been fairly specific about its clean energy plans, even if it has not provided the level of detail Greenpeace is looking for. The company has pledged that its data center in Maiden, N.C., will run entirely on renewable energy sources by the end of 2012, with 60 percent of that coming from on-site power generation through a large solar array and fuel cells.
+尽管苹果公司在提供清洁能源计划细节的方面未能达到绿色和平的预期，但其披露的信息已经相当具体。该公司承诺，位于北卡罗来纳州梅登(Maiden, N.C.)的数据中心，到2012年底将完全使用可再生能源，其中60%将来自大型太阳能电池板阵列和燃料电池的现场发电。
+The other 40 percent of its needs will come from other local, renewable energy sources like wind farms. This is the portion of Apple's energy plans that Greenpeace is especially eager to know more about.
+另外40%电力需求将来自当地的其他可再生能源，如风能发电厂。对于苹果公司的这一部分能源计划，绿色和平非常希望能有更进一步的了解。

@@ -1,0 +1,26 @@
+It’s rare that a company comes along and reinvents the wheel, but it looks like that is about to happen.
+冒出一家重新发明轮子的新公司的事情十分罕见，但这事似乎即将发生。
+Superpedestrian, a start-up in Boston, announced on Monday that it has received $2.1 million in financing to help build a wheel that transforms some standard bicycles into hybrid e-bikes.
+波士顿初创企业“超级步行者”(Superpedestrian)周一宣布，已获得210万美元（约合1280万元人民币）的融资，用于制造一种可将某些标准自行车改造成混合动力自行车的车轮。
+The product, the Copenhagen Wheel, is a design from the Massachusetts Institute of Technology SENSEable City Laboratory. The original goal of the wheel was to entice more people to more bicycles in large cities in lieu of cars by giving them help from a motor.
+该产品叫做“哥本哈根车轮”(the Copenhagen Wheel)，由麻省理工学院(Massachusetts Institute of Technology)可感知城市实验室(SENSEable City Laboratory)设计。其最初的目标是通过为轮子装上电动机来吸引更多大城市的人骑自行车，代替开车。
+“If you think about today’s cities, they have been developed for the state of the automobile, with people being required to travel great distances that are quiet large,” said Assaf Biderman, founder of Superpedestrian and associate director of the SENSEable City Lab. “Most cities are built around topographies that require motorized transport and it can make cycling and walking very difficult.”
+“超级步行者”公司创始人、可感知城市实验室副主任阿萨夫·比德曼(Assaf Biderman)说，“想一下今天的城市，它们是为开车设计的，城市中的人要天天长途奔波。大多数城市是在要使用机动车出行的地形上建成的，这让骑车和步行十分困难。”
+Superpedestrian’s solution is to slip a motor into an existing analog product: the bicycle.
+“超级步行者”的解决办法是将一个电动机装进现有的模拟产品，也就是自行车。
+While the new wheel is still round, it has technology that makes it different from most normal bike wheels.
+新的车轮仍是圆的，但其中的技术让它有别于大多数普通的自行车车轮。
+The Copenhagen Wheel replaces the rear wheel of a bicycle. It includes a motor powered by a built-in battery and sensors. When someone pedals with the new wheel in place, the bike uses sensors and an app on a smartphone to measure the amount of effort the rider is putting into each pedal. It then offers an additional boost when necessary.
+哥本哈根车轮将取代自行车的后轮。轮子中装有一个由内置电池供电的电动机和传感器。换装这种新型车轮后，当有人蹬车时，传感器和一个智能手机应用将测出骑车者每次蹬车所用的力，然后在必要时由电动机提供额外动力。
+One of the most interesting components of the new wheel is that the rider doesn’t need to tell the bike when help is necessary, the wheel just figures it out using the sensors and gives the bike a push.
+这种新车轮最有意思的一个地方是，骑车者不用告诉自行车什么时候需要帮助；车轮会利用传感器自动监测，并为自行车提供推力。
+“Riding on a flat surface, or up a hill, will feel exactly the same,” Mr. Biderman said.
+比德曼说，“不管是在平整路面上骑车，还是上坡，对骑车者感觉是一样的。”
+The wheel doesn’t need to be charged or plugged in on a nightly basis, either. Instead, the wheel captures the energy from the brakes when a rider goes down hill and then stores that power in a high-capacity lithium battery. The motor also acts like a generator, creating power for later rides when the rider pedals in reverse.
+这种轮子既不需要充电，也不需要每晚插上电源插座。轮子会在骑车者下坡时从刹车回收能量，并将其贮存在一个大容量锂电池内。电动机也会像发电机一样工作，在骑车者倒着蹬车时给电池充电，用于下一次出行。
+The company said the wheel will last for 15 miles in each direction and will fit on most standard bicycles.
+该公司称，这种车轮单程可持续15英里（约24.1公里）适合安装到大部分标准自行车。
+Superpedestrian is expected to start taking orders for the wheel next month and will begin shipping to customers at the start of next year.
+预计“超级步行者”将从下月开始接受对这种车轮的订单，并将从明年初开始向客户发货。
+The financing round is being led by Spark Capital with participation from David Karp, the founder of Tumblr.
+此轮融资由星火资本(Spark Capital)牵头，参与者包括Tumblr创始人戴维·卡普(David Karp)。

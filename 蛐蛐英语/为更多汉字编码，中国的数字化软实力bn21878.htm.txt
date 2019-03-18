@@ -1,0 +1,28 @@
+NEW HAVEN — Looking at Chinese script, you might empathize with the words of an 18th-century Jesuit missionary: “One can only endure the pain of learning it for the love of God.” The piety may be gone, but the Chinese have heard this kind of complaint for over four centuries and are finally doing something about it.
+纽黑文——看着中文字，你可能会对18世纪耶稣会传教士的说法感同身受：“完全是出于对上帝的爱，一个人才能忍受学习它的痛苦。”那份虔诚可能已经消失，但这样的抱怨，中国人已经听了四百多年，如今他们终于决定做点什么。
+This month, the Chinese government plans to introduce codes for some 3,000 Chinese characters as part of a grand project, known as the China Font Bank, to digitize 500,000 characters previously unavailable in electronic form. Until now, only 80,388 characters have been encoded in the international computing standard, Unicode.
+本月，中国政府计划推出大约3000个中文字符的编码，此举属于“中华字库工程”的一部分。这个宏大的工程将把以前没有电子形式的50万个字符进行数字化。到目前为止，国际计算标准Unicode已经对80388个汉字进行了编码。
+The project highlights 100,000 characters from the country’s 56 ethnic minorities, and another 100,000 rare and ancient characters from China’s written corpus. Deploying almost 30 companies, institutions and universities, it’s the largest state-funded digitization project ever undertaken.
+该项目包含全国56个民族的10万个字符，以及来自中国书面语料库的另外10万个生僻字和古文字。该项目动员了近30家公司、机构和大学，是有史以来规模最大的政府资助数字化项目。
+Characters that have long resided in the dusty pages of old manuscripts will come to life in the digital medium. The online expansion will give people in China and around the world more access to the script, thereby helping spread the Chinese language and culture.
+这些字符长期囿居于蒙尘的古旧手稿上，它们将在数字媒体中获得新生。扩展到网上之后，中国和世界各地的人可以更加方便地接触这些文稿，这将有助于中国语言和文化的传播。
+China has struggled with the global information architecture that favors the Western alphabet. Not any of the significant innovations in modern communications — Morse Code, typewriters and the ASCII (American Standard Code for Information Interchange) encoding standard — were built with the Chinese script in mind.
+全球信息架构以使用西方字母表为主，给中国造成了一些困难。现代通信领域的重大创新——莫尔斯电码、打字机和ASCII（美国信息交换标准代码）编码标准——无一考虑到了中文字的使用。
+Chinese scientists toiled for decades to break into the alphabetic media. In 1974, the government directed Chinese engineers and mathematicians to develop a way to piggyback on to the American alphabetic keyboard. Eventually, hundreds of keystrokes were reconfigured to allow tens of thousands of characters to be typed into a computer on the standard keyboard.
+几十年来，中国科学家一直在努力打破字母媒介的壁垒。1974年，中国政府指示工程师和数学家寻找一种方式，来使用美国的字母键盘。最终他们配置了数千个击键组合，以便在计算机的标准键盘上键入数以万计的字符。
+The Chinese have long believed in the superiority of their written language. Beijing thinks the current number of encoded characters in Unicode inadequately represents the richness of China’s cultural past. Through the Font Bank, the Chinese will unlock their written treasures, from oracle bone scripts to ancient writings in minority languages.
+长期以来，中国人一直觉得他们在书面语言上具有优越性。北京政府认为，当前Unicode中编码字符的数量不足以代表中国古代文化的丰富性。通过字库工程，中国人将解锁他们的文稿宝库，从古代的甲骨文到少数民族语言文字，都将进行数字化。
+The spread of Chinese language and culture through Confucius Institutes and other efforts around the world has been part of Beijing’s soft-power strategy for the past decade. The Font Bank takes this mission into the digital realm.
+通过孔子学院等方式在世界各地传播中国语言和文化，是北京过去十年提升软实力战略的组成部分。字库工程将把这个使命带入数字领域。
+Anything from scholarly papers to tweets will help extend the reach of Chinese through its sheer availability. As more of the language enters cyberspace, more people will use it, and its status will rise with its visibility.
+从学术论文到Twitter消息的任何内容，只要能被人看到，就会有助于扩大中文的覆盖面。随着越来越多的中文进入网络空间，就会有更多的人开始使用它，其地位也将随着可见度的增加而上升。
+The digitization project will also hit close to home for many Chinese people, who have been ill-served by the incomplete digitization of their language.
+这个数字化项目也可以为很多中国人解决一个大难题，他们对中文数字化的不完善感到不满意。
+Last year a local Chinese media outlet reported the story of a 10-year-old boy whose auspicious name contained a rare character made up of “dragon” and “sky.” School authorities could not find the character in the computer system, and after he passed an important exam, the rare character was replaced with a common, less colorful one — meaning “white” — on his certificate. He was left with inadequate proof of his achievement, upsetting his father.
+去年，中国一家媒体报道了一个10岁男孩的故事。他有一个寓意吉祥的名字，使用了一个由“龍”和“天”组成的生僻字。校方在计算机系统中找不到这个字符，当他通过了一个重要考试后，他的姓名在证书上却只剩下一个普通而平淡的字——“皓”，意思是“白色”。他不能充分证明自己通过了考试，这让他的父亲很不满。
+There are many other personal examples with graver consequences: Some people can’t access health insurance or their money because the correct character for their name cannot be displayed on identification papers. In the old days, one could get away with filling in a rarely used character by hand. Today, if your proper name doesn’t have an electronic form, it might as well not exist.
+还有很多其他影响更严重的例子：一些人因为身份证件上无法显示正确的姓名而无法使用医保或取钱。过去，人们可以通过手动填写生僻字来解决这个问题。如今，如果姓名没有正确的电子形式，这个名字可能也就不存在了。
+There were enough cases like this that in the early 2000s China began to designate the characters people could use in their names. Authorities mandated that any name outside of the 1,605 specified characters had to be changed. The newly available characters will solve these headaches without restricting parents’ naming rights.
+像这样的案例实在太多，以至于中国在本世纪初开始指定哪些字可用于起名。当局规定，超出指定的那1605个字的姓名必须改名。新增加的这些文字将在不限制家长的起名权的情况下解决这些令人头痛的问题。
+Putting the largest vocabulary online has been described as “sailing out on a borrowed ship” — a strategy that makes use of other countries’ networks, infrastructure and resources to take China’s agenda global. Adding a half million more characters may not be what the Jesuits prayed for, but it marks a new form of smart power for a nation still on the rise.
+把最大的词汇表放到网上被称作“借船出海”，这是一项利用他国的网络、基础设施和资源让中国的议程走向全球的战略。增加50万个文字或许不是耶稣会会士所祈祷的，但它标志着一个仍处于崛起之势的国家有了一种新的“巧实力”形式。

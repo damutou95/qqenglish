@@ -1,0 +1,28 @@
+To the ever-growing list of ways humanity seems to have altered the earth, add another candidate: Air pollution may have had a major soothing influence on storm cycles in the North Atlantic.
+人类改变地球的方式越来越多，现在可能又多了一个：大气污染可能对北大西洋的风暴周期具有重要的缓解作用。
+That is the finding of a paper published this week, suggesting that industrial pollution from North America and Europe through much of the 20th century may have altered clouds in ways that cooled the ocean surface. That, in turn, may have suppressed storms, and particularly major hurricanes, below the level that would have existed in a purely natural environment.
+本周发表的一篇论文得出了以上发现。文中指出，北美洲和欧洲在20世纪大部分时间里的工业污染可能让云层有所改变，从而冷却了洋面，继而抑制了风暴、尤其是大型飓风的发生，使其低于纯自然环境中可能发生的水平。
+If the authors are right, the upturn in storms over the last couple of decades may be no accident. It could, instead, be at least partly a consequence of the clean air acts that have reduced pollution around the North Atlantic basin, thus returning the storm cycles to their more natural state.
+如果论文作者是正确的，那么过去数十年间风暴的增加也许并非巧合，可能至少在一定程度上跟多项与清洁空气有关的法律的实施有关，这些行动减少了北大西洋流域附近污染，从而让风暴周期回到了较自然的状态。
+The possible impact on storms emerged from sophisticated new computer analyses of the climate that attempt to take account of the indirect effects of particles in the air; it is leading-edge science that may or may not hold up over the long haul.
+这种对风暴的可能影响，是在对气候进行复杂的新型计算机分析时发现的，这些分析旨在计算大气中颗粒物的间接效应。这属于前沿科学，长期看来也不一定成立。
+“Our results show changes in pollution may have had a much larger role than previously thought,” said Nick J. Dunstone, a researcher with Britain’s meteorological service and the lead author of the new paper. He acknowledged, however, that “this is all quite new” and the science remains uncertain.
+这篇新论文的主要作者、英国气象局研究员尼克·J·邓斯通(Nick J. Dunstone)说，“我们的研究结果显示，污染的变化所起到的作用可能比之前认为的大得多。”不过，他也承认“这是全新的发现”，其科学性仍不确定。
+As many people will recall, the North Atlantic was quiescent in the 1970s and 1980s, especially for major hurricanes, creating a false sense of security and encouraging coastal development. But starting in the 1990s, storminess increased sharply, and the new study says that may be because clean air laws had started to take effect.
+正如许多人记忆中的那样，上世纪七八十年代，北大西洋很平静，尤其是没什么大型飓风，从而制造出一种虚假的安全感，并鼓励了海岸开发。不过，从90年代开始，风暴频率激增，新研究认为，这可能是由于清洁空气法规开始生效了。
+Previous work had suggested pollution could be playing a significant role in storminess, but the new paper is the most detailed exploration yet of the possible mechanism. It was published online Sunday by the journal Nature Geoscience.
+之前的研究曾指出，污染可能对风暴频率起到重要作用，不过这篇新论文对其中可能的机理进行了迄今为止最为详细的探索。文章于上周日发表于期刊《自然·地球科学》(Nature Geoscience)的网站上。
+The alternative to this new view is the one most climate experts have long held, that the variability in storminess in the North Atlantic is a function of large-scale natural oscillations in the ocean circulation.
+多数气候专家长期持有的看法与这种新观点有所不同，他们认为北大西洋风暴频率的变化取决于海洋环流中的大规模自然波动。
+Five scientists not involved in the new work said they found the findings believable in principle — “entirely plausible,” in the words of Kerry A. Emanuel, an atmospheric scientist at the Massachusetts Institute of Technology. Several of the experts added, however, that the effect of pollution on storms, even if real, could turn out to be smaller than the new paper proposes.
+没有参与本项研究的五名科学家表示，他们认为研究结果基本可信。用麻省理工学院(Massachusetts Institute of Technology)的大气科学家克里·A·伊曼纽尔(Kerry A. Emanuel)的话来说，是“看来完全合理”。不过，数名专家还补充说，污染对风暴的影响，即使存在，可能实际上也比这篇新论文提出的程度要小。
+The main effect on storm patterns would have come from particles of sulfur dioxide that entered the air from the combustion of sulfur-laden fuels like coal and diesel. Water can condense on these particles, and a surfeit of them in the air can change the properties of clouds, causing them to be made up of finer droplets.
+对风暴规律的主要影响可能来自煤炭和柴油等富硫燃料燃烧而进入大气的二氧化硫颗粒物。水分可以凝结到这些颗粒物表面，而大气中过量的颗粒物能改变云的性质，使其中的水滴更细微。
+That, in turn, can brighten the clouds and cause their tops to reflect more sunlight back to space — meaning less sunlight reaches the surface to heat it.
+于是云将变亮，并使得云顶将更多的阳光反射回太空，这意味着，抵达并加热洋面的阳光将减少。
+Getting an accurate representation of all this into computer programs that model the climate has been a long slog for researchers, which is why the evidence of a possible effect on storms is only just emerging.
+对研究人员而言，在为气候建模的计算机程序中准确地模拟所有因素一直是个难点，因此对风暴的潜在影响的证据一直到现在才显现出来。
+The authors of the new paper are working with one of the most advanced of these models, in Britain. The recent research using that model suggests that the huge increase in pollution around the North Atlantic basin in the mid-20th century cooled the surface enough to change the large-scale circulation of the atmosphere, suppressing storms.
+这篇新论文的作者采用英国的模型，属于同类中最先进之列。这一模型的近期研究表明，北大西洋流域附近20世纪中期激增的污染冷却了洋面，程度足以改变大规模大气环流，从而抑制风暴。
+In an interview, Dr. Dunstone emphasized not only that more work needed to be done, but that his group’s finding was no reason to stop cleaning up the air. Pollution has severe effects on human health and the environment, and the clean air laws are believed to have saved many lives.
+接受采访时，邓斯通博士不仅强调需要进行进一步的研究，而且强调他的小组发现不是停止净化空气的理由。污染严重影响人体健康和环境，而清洁空气法规被认为是挽救了众多生命的。

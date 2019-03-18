@@ -1,0 +1,20 @@
+China’s lunar rover has developed a problem that may prevent it from further exploration of the surface of the moon, Xinhua, the state-run news service, said.
+国家通讯社新华社称，中国的月球车出了一个问题，可能无法在月球表面进一步探索。
+The rover, known as Jade Rabbit, was part of the unmanned Chang’e-3 mission launched Dec. 1. The spacecraft successfully landed after a journey of nearly two weeks, and the Jade Rabbit emerged a day later and rolled onto the moon’s surface. It displayed a Chinese flag and took a photo of the Chang’e lander.
+这个名叫“玉兔”的月球车是12月1号发射的非载人探月任务“嫦娥三号”的一部分。“嫦娥三号”在经过约2周时间后，成功降落在月球表面。一天后“玉兔”从着陆器中开出驶到月球表面，它展示了一幅中国国旗并为“嫦娥三号”着陆器拍了照。
+The successful soft landing was the first in 37 years and made China only the third nation after the Soviet Union and the United States to carry out the maneuver.
+这是37年来首次在月球成功实现软着陆，中国成为继美国和前苏联之后完成这一操作的第三个国家。
+In its 42 days on the moon, the Jade Rabbit, which is named for a character from Chinese mythology who accompanies the moon goddess Chang’e, traveled more than 100 meters, or 330 feet, on the moon’s surface, Xinhua said.
+“玉兔”月球车得名于中国神话中陪伴月亮女神嫦娥的兔子，新华社称，它在月球上度过的42天中累计滚动了100多米。
+The problem with the rover appeared as it and the lander were preparing for the arriving lunar night, a period of about two weeks during which the probes go dormant because of a lack of sunlight to power their solar generators.
+月球车的问题发生在它和着陆器正准备进入下一个月夜之前，月夜的持续时间约为2周，其间由于没有阳光为它们的太阳能发电机提供能源，着陆器和月球车将进入休眠状态。
+While the lander was able to go into sleep mode, the Jade Rabbit experienced a “mechanical control abnormality,” Xinhua reported.
+新华社报道称，虽然着陆器成功地进入了休眠状态，但“玉兔”的“机构控制出现异常”。
+The State Administration of Science, Technology and Industry for National Defense said the problem was because of the “complicated lunar surface environment,” according to Xinhua. The ministry offered no further explanation for the rover’s difficulty.
+据新华社报道，国防科工局称这一问题是由于“月球表面复杂的环境”造成的，但对月球车的问题没有做进一步的解释。
+Before the mechanical control problem, the rover had been able to use its radar, panoramic camera, particle X-ray device and infrared imaging equipment to gather data, Xinhua reported.
+新华社消息称，在月球车出现机构控制异常之前，它一直在使用其负载的雷达、全景摄像机、粒子激发X射线谱仪、红外成像光谱仪等设备采集数据。
+The rover had an anticipated life span of three months, but the harshness of the lunar environment means that malfunctions are frequent, said Sun Kwok, an astronomer at the University of Hong Kong who is not involved in the Chang’e mission.
+香港大学天文学家郭新(Sun Kwok)说，该月球车的预计寿命为3个月，但月球严酷的环境意味着发生故障是常见的。他没有参与嫦娥探月工程。
+“It’s obviously not an ideal situation, but it’s not something we’ve not encountered before,” Mr. Kwok said. “Some missions fail immediately and are a total write-off. I don’t think that’s true in this case. In a couple weeks they got a lot of data, so I won’t consider it a failure.”
+郭新说，“这显然不是一个理想的情况，但也不是我们以前没有看到过的。有些任务很快就失败了，彻底报废。我认为这次不是那样的。在几周时间里，他们已经收集了很多数据，所以我不认为这是一次失败。”

@@ -1,0 +1,56 @@
+If you could design your dream laptop, how would you describe it?
+如果你能设计自己理想中的笔记本电脑，你希望它是什么样子？
+Superfast. Superthin. Superlight. Superlong battery life. Immense storage. Enough memory to keep lots of programs open at once. Stunning screen, comfortable keyboard, terrific sound. Fast start-up, rugged body, gorgeous looks.
+超快。超薄。超轻。超长的电池寿命。海量的存储空间。足以保证多个程序同时打开的内存。要有令人眼前一亮的屏幕、舒适的键盘、完美的声效。同时还要启动迅速、机身坚固、外表华丽。 
+And, of course, inexpensive.
+当然，价格还要便宜。
+The new Apple laptop that went on sale Monday hits an impressive number of those high notes in one radical swoop. As you might guess, the one it misses by the biggest margin is “inexpensive.”
+周一上市的最新一代苹果笔记本电脑一举实现了上述特性中的好些条。你可能猜到了，这款新品最不能满足的一条要求，就是“价格便宜”。
+Then again, the new 15-inch MacBook Pro with Retina display is intended for professionals whose laptop is the heart of everyday work. If they can scrounge up $2,200 (for the base model) to $3,750 (for the died-and-gone-to-heaven model), they’ll be well rewarded.
+话又说回来，配备了视网膜 (Retina) 显示屏的15英寸新款MacBook Pro 是专门面向那些每日工作离不开笔记本电脑的专业人士的。这些人只要能搞到到2200美元（标配版）或者3750美元（梦幻版），他们会觉得物有所值的。
+And if the early online reaction is any indication, a lot of them are already scrounging — if they’re not too busy mopping the drool from their chins.
+而且，如果先前网络上的反应可以说明一定的问题的话，他们中的很多人，在垂涎三尺之余，已经在忙着凑钱了。
+It’s been four years since Apple last redesigned its laptops. In that time, a funny thing happened to the computer industry: the MacBook Air. It’s a crazy thin aluminum wedge, two-thirds of an inch at its thickest point, that weighs very little, starts up very quickly and turns a lot of heads.
+苹果公司上一次重新设计自己旗下的笔记本电脑是在四年前。那一年，计算机产业迎来了一个有趣的新成员：MacBook Air。MacBook Air 采用了超薄的铝合金楔形机身设置，最厚的地方也只有三分之二英寸。而且，它很轻，开机速度也非常快，赢得了不少人的垂青。
+Apple achieved those goals by throwing out some then-standard features. A DVD drive. An Ethernet jack. And, most alarmingly of all, a hard drive.
+苹果舍弃了当时的一些标准配置才实现了上述目标。这些被舍弃的功能包括DVD驱动器和以太网接口。最令人惊讶的是，苹果还舍弃了硬盘驱动器 。
+Instead of the traditional spinning platters of a hard drive, the MacBook Air has flash storage — memory chips that store all your programs and files even when the computer is turned off.
+MacBook Air采用的是快闪存储器，而不是传统硬盘驱动器上的旋转磁盘。快闪存储是一种记忆芯片，即使电脑关机了也能把所有的程序和文件存储下来。 
+Flash storage has a number of benefits. It’s rugged, because there are no moving parts. It’s fast, especially in starting the computer and opening programs. It saves battery power, because there are no mechanical discs to spin. It’s silent. And it’s tiny, so the laptop itself can be thinner.
+快闪存储有很多优势：它更坚固耐用，因为没有运转的部件；速度更快，尤其是在开机和运行程序的时候；节省电池电量，因为没有旋转的机械盘片；更安静无噪音。而且它还很小巧，因此，MacBook Air能够比其他笔记本电脑薄。
+But flash drives are much, much more expensive than spinning hard drives. The prices are falling steadily, but flash storage won’t match the capacity of a hard drive for the same price any time soon.
+然而，同旋转的硬盘驱动器相比，闪存驱动器要贵得多。尽管它的价格在持续下降，但在近期内，同样价格的闪存驱动器的存储量还比不上硬盘驱动器。
+Anyway, despite its price (now $1,000 and up), the MacBook Air eventually became popular, and now you can get beautiful, thin Windows laptops, called ultrabooks, built on the same concept.
+不管怎么说，虽然价格不菲，MacBook Air 最终还是变得流行起来。现在，你也能买到又薄又漂亮的Windows笔记本电脑了。它采用的，就是和MacBook Air一样的设计理念。
+All of this brings us to the new MacBook Pro. Apple evidently felt that the price and capacity of flash storage had finally reached a point where it could replace hard drives in the company’s pro laptops.
+同样的理念把我们带向了新款MacBook Pro。显然，苹果公司意识到闪存的价格和性能终于都调整到了一个合适的点，可以在它的 pro系列笔记本电脑上取代硬盘驱动器了。
+With no hard drive or DVD drive, Apple could make the new machine much thinner and lighter than its predecessor, which Apple still sells (for $400 less). The new laptop is only 0.7 inch thick — about the same as the fat end of a MacBook Air — and weighs 4.5 pounds. It’s not the thinnest or lightest 15-incher (the Samsung Series 9 is fractionally thinner and 0.8 pound lighter, for example), but it’s easily one-handable.
+没有了硬盘驱动器和DVD驱动器，苹果公司可以让新产品比前一款产品薄得多、轻得多。旧款目前的价格便宜了400美元。新的MacBook Pro只有0.7英寸厚——和MacBook Air最厚的地方差不多——重4.5磅。在15英寸笔记本电脑里面，它不是最薄、最轻的（例如，三星9系列产品就稍微薄一些，也比它轻0.8磅。），但它无疑是一个可以单手持取的新机型。
+Apple calls the new machine the “most beautiful computer we’ve ever made.” The MacBook Air begs to differ. Even so, this new laptop certainly is pretty; it wouldn’t even make it past the lobby of the Ugly Museum Hall of Fame.
+苹果公司称其为“我们生产的最漂亮的电脑”。 MacBook Air表示反对。即便如此，这款新笔记本电脑确实很好看，如果有一个最丑电脑博物馆的话，那么新 MacBook Pro 一定连大门也进不去。
+The guts are top of the line and sizzling fast: the latest quad-core Intel processor, Bluetooth 4.0, a memory card slot and a cooling fan that has asymmetrical blades. That’s to make the fan quieter, since irregular blades spread the air noise over multiple frequencies. (Wow, Apple — perfectionist much?)
+这款电脑的配置堪称极品，运行速度超快：最新的英特尔四核处理器、蓝牙4.0、一个记忆卡插槽和一个不对称扇叶的冷却风扇。不对称扇叶设计是为了减少噪音，因为不规则的叶片可以将空气噪音分布到多个频率中去。（哇，苹果公司是完美主义者吗？）
+I didn’t sit there with a stopwatch, but I can attest that the “7-hour” battery easily lasts a full day of work, provided you break for lunch and a couple of phone calls. An HDMI jack appears on this Mac for the first time, for one-cable connection to TV sets and projectors (there is no traditional video jack).
+我没有拿着秒表坐在那里计时，不过我可以作证，“7小时”的电池可以很轻松地满足一整天的工作需要，如果你中间会休息、吃午饭，或者打一两个电话的话。HDMI 接口第一次出现在这款Mac产品上。通过这个接口，用一根电缆便可以把笔记本电脑同电视机和投影仪连在一起（没有传统的视频接口）。
+It also has terrific-sounding, powerful stereo speakers and dual microphones. Why dual? Because dictation — talk-to-type — is a new feature in the coming version of the Mac OS, Mountain Lion. Apple says that two mikes offer better background-noise elimination when you’re speaking.
+这款产品还配备有音效极好的大功率立体声扬声器和双麦克风。为什么要双麦克风呢？因为“以说代输”的口述输入方式是即将推出的新版Mac OS， Mountain Lion 操作系统的一个新特点。苹果公司表示，在用户说话的时候，双麦克风能有效地消除背景噪音。
+But you know what? Innards, schminnards. The headline component of the new MacBook Pro will hit you between the eyes the minute you open its lid: a Retina display.
+但是，你知道吗？什么内部的配置，且不管他。你只要一打开MacBook Pro 的上盖，首先就会被出现在眼前的视网膜显示屏震惊：这可是新MacBook Pro最抢眼的新元素。
+That’s Apple’s term for a screen with such high resolution — so many tiny dots — that you can’t make out individual pixels, even if you smash your face against the glass like a loon. Retina displays already distinguish the latest iPhone and iPad models, but this is the first real computer to get one, and it really is eye-popping.
+视网膜显示屏是苹果公司给超高分辨率屏幕的名称。这种屏幕上的视点多到哪怕你把脸贴在屏幕上看，也分辨不出单独的像素。尽管视网膜显示屏已经为最新的iPhone和iPad增色不少，但这是它第一次用在电脑上，的确很让人吃惊。
+The resolution of this screen is 2,880 by 1,800 pixels. That’s 5.1 million tiny dots, compared with 1 million or 2 million on a typical 15-inch laptop. It’s the highest-resolution laptop screen in the world.
+此款视网膜显示屏的分辨率为2880×1800像素。也就是说，屏幕上有510万个视点，而普通15英寸笔记本电脑屏幕上的视点数目只有100万到200万。这是世界上分辨率最高的笔记本电脑屏幕。
+Videos, photos and text benefit from this astonishingly sharp screen. But keep in mind that your programs won’t look any sharper until they’re updated for the Retina screen.
+不管是视频、照片还是文本，在这款令人震惊的高清屏幕上看，都会效果倍增。不过，要记住，要针对视网膜屏幕进行程序升级，否则原先的程序成像不会更清晰。
+That wait-for-updates business doesn’t add up to much of an objection to this dream machine. But other disappointments may.
+等待升级这件事不足以让你拒绝这台梦幻般的电脑。然而，其他不如人意的地方却有可能让你不喜欢它。
+For example, this laptop has only two USB jacks. True, they’re combination USB 2.0 and USB 3.0. But rival laptops have more USB jacks.
+比如，这款产品只有两个USB接口。的确，它们兼容USB 2.0和USB 3.0。但竞争对手的笔记本电脑配有更多USB 接口。
+As though to compensate, you get two Thunderbolt jacks, which are supposed to be high-speed miracle connectors for hard drives, screens and other add-ons. Unfortunately, there aren’t many yet.
+似乎是作为补偿，这款产品配有两个Thunderbolt接口，用作硬盘驱动器、屏幕和其他附加组件的高速连接器。但不幸的是，它们的数量还不够多。
+Remember, too, that this MacBook Air-inspired laptop lacks both a DVD drive and an Ethernet jack. Apple says that Wi-Fi is everywhere now, and if you want to watch a movie, you can stream it from the Internet.
+还有，这款灵感源于MacBook Air的产品没有DVD驱动器和以太网接口。苹果公司表示，现在到处都有Wi-Fi了，如果想看电影，尽可以在网上看。 
+Frankly, that’s a typically too-soon Apple conclusion. Wi-Fi isn’t everywhere, and lots of movies aren’t available legally for streaming. (Ever fly on a plane?) As a workaround, you can buy an external DVD drive ($80) and Ethernet adapter ($30).
+坦率地说，苹果公司总是把结论下得太早 。并不是所有地方都有Wi-Fi，也不是所有的电影都可以合法下载。（难道没有坐过飞机吗？）变通的方法是，你可以买一个外置DVD驱动器（80美元）和以太网适配器（30美元）。
+Final bummer: the new MacBook’s svelte figure demanded a new power-cord design. The new MacBook (and this week’s updated MacBook Air) requires a narrower MagSafe connector. Earlier power adapters won’t fit this laptop (at least without Apple’s $10 adapter), and vice versa — a crushing disappointment to anyone who’s paid $80 each for power cords to keep in different places.
+最后一个问题：这新MacBook要求重新设计电源线，配合它轻巧的机身。MacBook Pro（以及这周升级的MacBook Air）要求配备窄一些的MagSafe连接器。先前的电源适配器和新 MacBook Pro 也互不匹配（至少在没有售价10美元的苹果转换器的情况下是这样）。对任何先前为了在不同的地方使用而花80美元购买电源线的人来说，这真是令人非常失望。

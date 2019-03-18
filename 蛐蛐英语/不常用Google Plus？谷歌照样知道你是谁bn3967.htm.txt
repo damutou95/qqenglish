@@ -1,0 +1,52 @@
+SAN FRANCISCO — Google Plus, the company’s social network, is like a ghost town. Want to see your old roommate’s baby or post your vacation status? Chances are, you’ll use Facebook instead.
+旧金山——谷歌公司的社交网络Google Plus就像是一座鬼城。想看看以前室友的宝宝的照片，或者发布你的度假状态？可能你会使用Facebook而不是Google Plus。
+But Google isn’t worried. Google Plus may not be much of a competitor to Facebook as a social network, but it is central to Google’s future — a lens that allows the company to peer more broadly into people’s digital life, and to gather an ever-richer trove of the personal information that advertisers covet. Some analysts even say that Google understands more about people’s social activity than Facebook does.
+但谷歌自己并不担心。作为社交网络来说，Google Plus可能不是Facebook的对手，但它对谷歌的未来发展却起着核心作用——它是一个镜头，让谷歌可以更广泛地窥探人们的数字化生活，并收集广告主觊觎的、日益丰富的个人信息。一些分析师甚至表示，谷歌比Facebook更加了解人们的社交活动。
+The reason is that once you sign up for Plus, it becomes your account for all Google products, from Gmail to YouTube to maps, so Google sees who you are and what you do across its services, even if you never once return to the social network itself.
+原因在于，一旦你注册了Plus，它就成为了你使用谷歌旗下所有产品——从Gmail到YouTube，再到地图的账号，因此，即便你再也没有上过Plus，谷歌也能看到你是谁，你在该公司的服务上做了什么。
+Before Google released Plus, the company might not have known that you were the same person when you searched, watched videos and used maps. With a single Plus account, the company can build a database of your affinities.
+在发布Plus之前，当你搜索词条、观看视频和使用地图的时候，谷歌可能不知道做这些事的都是同一个人。但只要你用一个Plus账号登录，谷歌就可以建立你的喜好数据库。
+Google says Plus has 540 million monthly active users, but almost half do not visit the social network.
+谷歌表示，Plus的月度活跃用户为5.4亿人，但几乎有一半不会去这个社交网站。
+“Google Plus gives you the opportunity to be yourself, and gives Google that common understanding of who you are,” said Bradley Horowitz, vice president of product management for Google Plus.
+“Google Plus让你可以有机会做你自己，也让谷歌可以了解你是谁，”Plus的产品管理副总裁布拉德利·霍洛维茨(Bradley Horowitz)说。
+Plus is now so important to Google that the company requires people to sign up to use some Google services, like commenting on YouTube. The push is being done so forcefully that it has alienated some users and raised privacy and antitrust concerns, including at the Federal Trade Commission. Larry Page, Google’s chief executive, tied employee bonuses companywide to its success and appointed Vic Gundotra, a senior Google executive, to lead it.
+Plus现在对于谷歌来说非常重要，该公司要求人们注册它来使用谷歌的一些服务，比如在YouTube上发表评论。由于非常强势地推行这种做法，谷歌已经遭到了一些用户的疏远，并且在隐私和反垄断方面引起了美国联邦贸易委员会(Federal Trade Commission)等机构的关注。谷歌的首席执行官拉里·佩奇(Larry Page)把公司各部门员工的奖金跟Plus的成功挂起钩来，并任命谷歌的高层主管维克·冈多特拉(Vic Gundotra)领导这项业务。
+The value of Plus has only increased in the last year, as search advertising, Google’s main source of profits, has slowed. At the same time, advertising based on the kind of information gleaned from what people talk about, do and share online, rather than simply what they search for, has become more important.
+随着谷歌主要利润来源搜索广告的发展放缓，Plus的价值在去年只升不降。与此同时，基于人们在网上进行的谈论、行动和分享、而不仅仅是搜索来投放的广告，也已经变得越发重要。
+Brand advertisers already target ads based on assumptions about broad categories, like women who watch sports. But the ads can be even more targeted when web companies know more about their users — say, that a particular female soccer fan is also a mother who likes thrillers and wants to buy a home.
+品牌广告主已经在根据对大类的假设来投放定向广告，比如”观看体育节目的女性“就是一个大类。但是，如果网络公司对用户更加了解——例如了解某个特定的女性体育迷也喜欢恐怖片，是位母亲，而且想要买房——广告就可以变得更加精准。
+“The database of affinity could be the holy grail for more effective brand advertising,” said Nate Elliott, an analyst at Forrester studying social media and marketing.
+“喜好数据库也许会成为提高品牌营销效率的利器，”弗雷斯特公司(Forrester)研究社交媒体和市场营销的分析师内特·埃利奥特(Nate Elliott)说。
+Google says the information it gains about people through Google Plus helps it create better products — like sending traffic updates to cellphones or knowing whether a search for “Hillary” refers to a family member or to the former secretary of state — as well as better ads.
+谷歌表示，通过Google Plus获得的用户信息除了可以改善广告之外，还有助于打造更好的产品——比如发送路况信息到你手机上，或者知道你搜索“希拉里”时是在搜索家庭成员，还是在搜前美国国务卿的信息。
+“It’s about you showing up at Google and having a consistent experience across products so they feel like one product, and that makes your experiences with every Google product better,” Mr. Horowitz said.
+“这意味着你使用谷歌服务时，无论使用哪个产品，都能获得连贯一致的体验，感觉所有产品都天衣无缝地衔接在一起，这样一来，你使用每个谷歌产品的体验都会变得更好，”霍洛维茨说。
+Thanks to Plus, Google knows about people’s friendships on Gmail, the places they go on maps and how they spend their time on the more than two million websites in Google’s ad network. And it is gathering this information even though relatively few people use Plus as their social network. Plus has 29 million unique monthly users on its website and 41 million on smartphones, with some users overlapping, compared with Facebook’s 128 million users on its website and 108 million on phones, according to Nielsen.
+幸亏有Plus，谷歌才了解到人们在Gmail上的友谊，了解到他们去了地图上哪些地方，了解到他们是如何在200万个被谷歌广告网络覆盖的网站里消磨时间的。尽管只有相对较少的个别人把Plus作为自己的社交网络平台，它依然能收集到社交类的信息。根据尼尔森咨询公司(Nielsen)的数据，Facebook有1280万网站用户和1080万手机用户，Plus有290万月度独立用户和410万智能手机用户，其中有部分用户是重叠的。
+The company has also pushed brands to join Plus, offering a powerful incentive in exchange — prime placement on the right-hand side of search results, with photos and promotional posts.
+谷歌还给一些品牌提供了有力的优惠政策，那就是位于搜索结果右手边的最佳广告位，还可附带照片和推广信息，以此作为交换推动他们加入Plus。
+“It is literally promotion that money can’t buy,” Mr. Elliott said. “It is something that Google could make billions off of if they sell that space tomorrow, and they’re giving it away to try to get people onto the social platform.”
+埃利奥特说，“这简直是用钱都买不来的推广。如果谷歌把这块位置卖出去，一转眼就能挣到数十亿美元，可他们却在免费派送，以求让人们登录它的社交平台。”
+Starbucks, for instance, has three million followers on Plus, meager compared with its 36 million “likes” on Facebook. Yet it updates its Google Plus page for the sake of good search placement, and takes advice from Google representatives on how to optimize Plus content for the search engine.
+例如，和Facebook上3600万“赞”其账号的粉丝相比，星巴克咖啡(Starbucks)在Plus上只有区区300万粉丝。不过，为了保住位置优越的搜索植入广告，星巴克还是在更新它Google Plus上的页面，并听取谷歌代表关于如何针对搜索引擎优化Plus内容的建议。
+The way Google is tying its search engine, which dominates the market, with a less popular product in Plus has set off antitrust concerns. The Federal Trade Commission raised the issue during its recent antitrust investigation of Google, according to two people briefed on the matter. That investigation closed without a finding of wrongdoing.
+谷歌把Plus上流行度较低的产品和其独霸搜索市场的搜索服务挂钩的做法，已经引发反垄断担忧。据了解内情的两名人士透露，联邦贸易委员会(Federal Trade Commission)在最近针对谷歌的反垄断调查中提出了这个问题。此次调查已结案，未发现谷歌存在违法行为。
+“If you want Google search, they’re going to shove Google Plus at you pretty hard, so the consumer’s forced to take the product they don’t want to get the product they want,” said Tim Wu, a professor at Columbia Law School who studies antitrust law and the Internet.
+如果你要用谷歌搜索，他们就会强行向你推荐Google Plus，因此用户便会被迫为了得到想要的产品而接受不想要的产品，”研究反垄断法和互联网的哥伦比亚大学法学院(Columbia Law School)教授吴修铭(Tim Wu)说。
+“That raises big questions under antitrust law,” he said. “It reminds me a little bit of Microsoft when Microsoft was fearing Netscape and decided to bend over backward and do anything possible to tie Explorer to their operating system.”
+“按照反垄断法，这样做导致了严重的问题，”他说。“这有些让我想起了微软。那时，微软畏惧网景(Netscape)，决定不遗余力，采取一切力所能及的行动，将网络浏览器和自己的操作系统绑定在一起。”
+Google declined to comment on this issue.
+谷歌拒绝就此问题发表评论。
+Some Google users have been turned off by the push to sign up for Plus. Melissa Bright, a business analyst in Houston, stopped using some products because she did not want to join.
+强力推荐注册Plus账户的行为让谷歌的一些用户心生厌烦。休斯顿的业务分析人士梅利莎·布赖特(Melissa Bright)不再用部分产品了，因为她不想加入Plus。
+“It just seems really intrusive and easy to accidentally find yourself sent to it at every turn,” she said.
+“看上去真的很烦人，而且很容易一不小心就发现自己被转到了那里，”她说。
+After YouTube began requiring a membership to comment on YouTube videos, a founder of YouTube, Jawed Karim, deleted much of his account. And YouTube’s most popular video creator, who goes by the username PewDiePie, temporarily shut off comments on his videos.
+在YouTube开始要求只有会员才能对其上视频发表评论后，YouTube的创始人之一贾韦德·卡里姆(Jawed Karim)将自己的许多账户信息都删掉了。用户名PewDiePie的YouTube最受欢迎视频制作人关闭了自己视频的评论功能。
+Commenting on consumers’ reactions to Google Plus integrations, Mr. Horowitz of Google said, “We are attuned both to what people say and to what people do.”
+在评论用户对Google Plus整合信息的做法的反应时，谷歌的霍罗威茨说，“我们既会根据人们所说的，也会根据他们所做的来进行调整。”
+And despite what some vocal users have said, few have fled — a sign, perhaps, of Google’s sheer strength on the web.
+而且，尽管一些直言不讳的用户在这么说，但几乎没人离开——这或许是谷歌在网络上强大实力的一种表现。
+“If people want to use your platform enough,” Mr. Elliott said, “you can get away with quite a lot.”
+“如果人们非常想利用你的平台，”埃利奥特说，“你就可以逃脱许多指责。”

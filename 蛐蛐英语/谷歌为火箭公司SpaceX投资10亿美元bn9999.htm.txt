@@ -1,0 +1,16 @@
+SAN FRANCISCO — Google likes its ambitions sky high. This time, it has gone a little further.
+旧金山——谷歌(Google)向来不缺少凌云壮志。而这一次，它又有了更高的目标。
+The Internet giant, along with Fidelity, has invested $1 billion in SpaceX, the private rocketry company founded by Elon Musk. The move will help Google achieve its aim of bringing satellite Internet to remote corners of the world while giving SpaceX a round of fresh capital for its founder to pursue dreams of going to Mars.
+这家互联网巨头与Fidelity一道，为埃隆·马斯克(Elon Musk)创办的私营火箭公司SpaceX投资了10亿美元。此举有助于谷歌实现让世界上的偏远角落享有卫星互联网服务的目标，同时也让SpaceX获得了新一轮的注资，使它的创始人可以继续追寻登上火星的梦想。
+In a statement on its website, SpaceX said the money would be used “to support continued innovation in the areas of space transport, reusability and satellite manufacturing.”
+SpaceX在其网站上发表声明称，这笔资金将会用于“支持航天运输、重复利用和卫星制造领域的持续创新”。
+A Google spokesman said Don Harrison, Google’s vice president for corporate development, would join the board of SpaceX. In a statement, Mr. Harrison said: “Space-based applications, like imaging satellites, can help people more easily access important information, so we’re excited to support SpaceX’s growth as it develops new launch technologies.”
+谷歌的一名发言人说，谷歌的企业发展副总裁唐·哈里森(Don Harrison)将加入SpaceX的董事会。哈里森在一份声明中说：“太空技术的实际应用，比如成像卫星，可以帮助人们更加轻松地获取重要信息，因此能在SpaceX开发新的发射技术时，为它的成长提供支持，我们感到十分激动。”
+In addition to an interest in a decent payoff on its investment, Google may be seeking to put itself into orbit. Last year, Google bought Skybox Imaging, a maker of small, high-resolution imaging satellites, for about $500 million. Google already offers satellite imagery in its Google Earth product, but must purchase these images from multiple sources, often receiving what company executives have said is uneven image quality.
+除了可观的投资回报，谷歌可能还在寻求把自己的卫星送入轨道。去年，谷歌以大约5亿美元（约合30亿元人民币）的价格收购了Skybox Imaging，它是一家小型高分辨率成像卫星的制造商。谷歌已经在谷歌地球(Google Earth)产品中提供了卫星图像，但必须从不同来源购买这些图像，公司高管说，这些图像质量常常参差不齐。
+Google may also be interested in developing satellites with other kinds of sensors, like infrared detectors that show the health of crops, or lasers that can pierce forest canopies to show underlying terrain.
+谷歌可能还想要开发带有其他感应装置的卫星，比如展示庄稼健康状况的红外探测器，或是能够穿透森林覆盖展示地形的激光设备。
+The company has also shown interest in transforming the Internet connectivity business with high-altitude balloons that people can use to get online from remote locations. That same transmission technology could conceivably be put on satellites as well. Google is in competition with Facebook, which is also interested in advanced means of connectivity and which last year purchased a drone company potentially capable of carrying Internet devices.
+谷歌还表现出了用高空气球为互联网连接带来变革的愿望。这种高空气球可以让地处偏远的人接入互联网。可以想见，同样的传输技术能够用在卫星上。谷歌正在与Facebook展开竞争，后者也对先进的网络连接手段萌生了兴趣，并于去年收购了一家无人机公司，这种无人机有望搭载互联网设备。
+Google and Fidelity will collectively own 10 percent of SpaceX because of the investment.
+做出这笔投资后，谷歌和Fidelity将共同拥有SpaceX公司10%的股份。

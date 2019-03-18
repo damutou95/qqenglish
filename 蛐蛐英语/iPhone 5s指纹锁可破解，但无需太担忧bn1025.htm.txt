@@ -1,0 +1,46 @@
+Well, that didn’t take long. Only a couple of days after Apple’s iPhone 5s went on sale, somebody managed to fool its fingerprint sensor.
+看，没过多久。苹果(Apple)的iPhone 5s上市后才两天，就有人成功地骗过了指纹传感器。
+The headlines and blog comments were predictable and instantaneous: “Oooooh, Apple blew it! The star feature of its new phone is worthless!”
+不出所料，类似这样的新闻标题和博客评论立即就出现了：“嘿，苹果搞砸了！新款iPhone的明星功能弱爆了！”
+I’ll admit it: I love that darned sensor. You unlock your phone dozens of times a day. Each time is a few seconds of tedium and looking down at it, over and over and over, to enter your password. It’s a drag.
+我得承认，我喜欢那个“弱爆了”的传感器。我们每天解锁手机得有几十次，每次都需要繁琐地花几秒钟，要一次又一次地低头看，要输入密码，很麻烦。
+And then there are the 50 percent of iPhone users who don’t even bother with a password. If you’re among them, then your phone and your life are susceptible to snooping should you lose your phone, find it stolen or leave it on your desk while you get coffee.
+另外，还有50%的iPhone用户根本就懒得设置密码。如果你就是其中之一，那么一旦你丢失手机、被盗，或者在去买咖啡时把手机留在桌上，那么你的手机内容甚至生活都很容易遭人窥探。
+On the iPhone 5s, you wake the phone by pressing the Home button — and then just leave your finger on it for half a second, and boom: it unlocks.
+在iPhone 5s上，按主键就可以唤醒手机，而且只要手指在主键上停留半秒时间，它就能解锁。
+But should we be concerned, then, that the hacker’s exploits render the fingerprint reader useless?
+那么，我们需要担心，黑客破解后指纹传感器会变得毫无用处吗？
+Not at all. For three giant reasons.
+完全不用，有三个重要的理由。
+First of all, Apple doesn’t let you create a fingerprint “password” without also creating a regular password. Every so often, you’re required to enter the regular password as a security precaution — including every time you restart the phone and every time 48 hours have elapsed since you last used it. If someone managed to bypass the fingerprint scanner, the joyride wouldn’t last long.
+首先，苹果不允许只设置指纹“密码”，而不创建常规密码。你时常会需要输入常规密码作为安全防范的额外措施，包括每次重启手机的时候，和距离上次使用它已经过了48个小时的时候。如果有人的确突破了指纹传感器，随心所欲的时间也不会太长。
+Second, the fact that the fingerprint scanner was fooled is important, but so is how it was fooled.
+第二，有人骗过了指纹传感器，这是一件大事。但骗过指纹传感器的手法也同样重要。
+Marc Rogers, who works at Lookout, a mobile security company, and the guy who “hacked” the Touch ID fingerprint system (or, more properly, fooled it), wrote a blog post about his experiment. It’s “Why I Hacked Apple’s TouchID, And Still Think It Is Awesome.”
+供职于移动安全公司Lookout的马克·罗杰斯(Marc Rogers)“破解”了Touch ID指纹系统（更准确地说是“骗过”了指纹系统），他撰写了一篇博客文章讲述自己的实验，题为“为什么我破解了苹果的TouchID，但还是觉得它很棒”。
+He writes: “Practically, an attack is still a little bit in the realm of a John le Carré novel. It is certainly not something your average street thief would be able to do, and even then, they would have to get lucky. Don’t forget you only get five attempts before TouchID rejects all fingerprints, requiring a PIN code to unlock it.”
+他写道：“实际上，这种攻击仍然有点像是只有约翰·勒卡雷(John le Carré)的小说情节里才有的事情。这肯定不是街头普普通通的小偷能做到的事儿，而且要成功，窃贼也需要运气很好才行。不要忘了，只有五次尝试机会，之后TouchID就不再接受任何指纹，而且需要PIN码才能解锁。”
+The steps are ridiculously difficult and expensive.
+这些步骤超级困难，而且很昂贵。
+The first hard part is just getting the fingerprint. “A suitable print needs to be unsmudged and be a complete print of the correct finger that unlocks a phone. If you use your thumb to unlock it, the way Apple designed it, then you are looking for the finger which is least likely to leave a decent print on the iPhone.” To get your fingerprint, “a thief would have to work out which finger is correct AND lift a good clean print of the correct finger.”
+第一个大难点就是取得指纹。“合适的指纹不能模糊，而且得是能解锁手机的正确手指的完整指纹。如果你像苹果设计的那样，是用拇指解锁，那么找到这个手指在iPhone上留下完整指纹的可能性最低了。”要想搞到你的指纹，“窃贼必须首先确定你用哪根手指解锁，而且还要弄到正确手指的完整、干净的指纹。”
+Describing one technique, he goes on: “You take the cleaned print image and without inverting it, print it to transparency film. Next, you take the transparency film and use it to expose some thick copper clad photosensitive PCB board that’s commonly used in amateur electrical projects. After developing the image on the PCB using special chemicals, you put the PCB through a process called ‘etching’ which washes away all of the exposed copper leaving behind a fingerprint mold.”
+他这样解释其中的技术：“你用清理出来的指纹图片，不用反转，直接印到透明胶片上。接下来，你用透明胶片去对包铜的光敏PCB板（即印刷电路板。——译注）进行曝光，就是那种业余电子玩家常用的PCB。在PCB上利用特殊的化学药剂显影后，你要用一种叫做‘蚀刻’的工艺来处理PCB，把曝光过的铜洗掉，这样剩下的就是一个指纹模具。”
+Seriously?
+你开玩笑吗？
+His conclusion: “The reality is these flaws are not something that the average consumer should worry about.”
+他的结论是：“事实上这些缺陷不是普通消费者需要担心的事。”
+If you really think somebody wants to get into your phone that badly — “a dedicated attacker with time and resources to observe his victim and collect data” — well, spoofing your fingerprint is not the method he’d take.
+如果你真的认为有人这么渴望进到你的手机里——“一个持之以恒的攻击者，有足够的时间和资源来监视他的猎物并收集数据”——那么，伪造你的指纹可不是他会选择的方法。
+He’d save a lot of time and effort by learning your password instead. Maybe by holding a knife to your neck and asking for it.
+想办法弄到你的密码，可以帮他省下很多时间和精力。也许可以拿把刀架在你的脖子上，直接问你。
+It’s just not a real-world concern, if you ask me.
+要我说，这不是个现实世界需要担心的问题。
+But there’s a third reason that I still plan to use the fingerprint scanner. It’s very simple: If someone gets your iPhone, either because you lost it or it was stolen, you can erase it or lock it by remote control at iCloud.com.
+然而我之所以打算使用这个指纹扫描功能，还有第三个原因。很简单：如果有人拿到了你的手机，不管是丢了还是被盗，你可以通过iCloud.com的远程控制去抹掉数据或者把手机锁上。
+(Better yet, the new iOS 7 Activation Lock means that a stolen phone can never be erased without your Apple ID, even if it’s force-restored or jailbroken. It’s essentially a worthless brick.)
+（更妙的是，有了新出的iOS 7激活锁定功能，被盗手机在没有Apple ID的情况下是不可能被抹数据的，就算强行恢复系统或越狱都不行。它基本上就变成了一块没用的砖头。）
+Of course, we all know that some people won’t get past the phrase “hacked the fingerprint reader.” And that’s fine. The fingerprint reader is optional. If you feel safer using a password, you’re welcome to!
+当然，我知道有的人对“黑掉了指纹识别器”这几个字是无法释怀的。那没什么。指纹读取器是可选的。如果你觉得用密码更安全，完全可以用密码！
+But as Mr. Rogers himself concludes: “Fingerprint security will help protect you against the three biggest threats facing smartphone users today. Fingerprint security will protect your data from a street thief that grabs your phone. Fingerprint security will protect you in the event you drop/forget/misplace your phone. Fingerprint security could protect you against phishing attacks (if Apple allows it).”Let’s be vigilant about security threats. But let’s also be rational.
+但是，正如罗杰斯自己总结的：“指纹安全系统可以帮你防御当今智能手机用户面临的三大威胁。指纹安全可以让盗窃你的手机的街头罪犯无法获取你的数据。指纹安全可以在你丢失、忘记、找不到手机时保护你。指纹安全也许还可以让你免遭恶意攻击（如果苹果允许的话）。”我们要对安全威胁保持警惕。但也要保持理智。

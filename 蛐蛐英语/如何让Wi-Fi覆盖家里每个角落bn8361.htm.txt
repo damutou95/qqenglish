@@ -1,0 +1,24 @@
+Wi-Fi is awesome. But when the Wi-Fi signal is weak, it’s almost worse than having no signal at all. You see signal-strength bars, but you can’t connect. Or videos play, but with a lot of pauses. Or your e-mail program tries to download messages, but just hangs there.
+Wi-Fi非常棒。但当Wi-Fi信号很弱的时候，几乎比没有信号还要糟。你看到有信号，但却连接不上。或者能够播放视频，但却总是卡住；或者电子邮件程序试图下载邮件，但它就停在那儿不动了。
+I’ve always wondered about Wi-Fi range extenders — little $60 to $80 routerlike boxes that are supposed to grab a weak Wi-Fi signal and amplify it. Recently, I had the perfect chance to put one to the test.
+我一直对Wi-Fi范围扩展器感到好奇，这是一种类似路由器的小盒子，价格从60美元（约合373元人民币）至80美元不等。据说它能够捕捉到较弱的Wi-Fi信号，并使信号增强。最近，我有了一个测试这种装置的好机会。
+My fiancée’s San Francisco apartment is a chain of rooms off a single hallway. Living room in front, then bedroom, then dining room, then kitchen. Her Wi-Fi base station sits in the living room at the front of the house. That’s where the cable company’s jack enters the apartment.
+我的未婚妻在旧金山的公寓就是一个走廊连着一长串房间。首先是客厅，然后是卧室、餐厅和厨房。她的Wi-Fi基站放置在位于公寓最前端的客厅里，也就是宽带公司安装插口的地方。
+Trouble is, in this old, stately building, the walls are thick and strong. By the time the Wi-Fi signal reached her bedroom, it was too flaky to use. Now and then, she could pull up Web sites or check e-mail, but video and music were out of the question. The dining room and kitchen had no Wi-Fi signal at all. That was a disappointment for a skilled chef who likes to listen to Spotify or Pandora as she cooks.
+问题是，在这座古老、庄严的建筑里，墙壁非常厚实、坚固，Wi-Fi信号到达她的卧室时，已经变得很不稳定，几乎无法使用。她有时能打开网站或者查收邮件，但根本不可能看视频、听音乐。餐厅和厨房则完全没有Wi-Fi信号。对于一个做饭时喜欢在Spotify或者Pandora上听音乐的优秀厨师来说，这一点很让她失望。
+One possibility, of course, was to see about having a second router installed. But that would mean having the cable company install another jack. It seemed as if it would be faster, less expensive and less disruptive to get a Wi-Fi range extender — if those things really worked.
+当然，可以考虑再安装一个路由器。但那意味着宽带公司要再装一个插口。如果Wi-Fi范围扩展器真的有用，买一个扩展器好像会更方便、更便宜，而且破坏性也更小。
+On Amazon, the highest-rated extender at the time I shopped in December was the Securifi Almond. It was billed as the first touch-screen router and range extender, and had strong customer reviews.
+去年12月，我在亚马逊(Amazon)网站上购物时，好评最多的是Securifi Almond，它号称是首款触屏路由器和范围扩展器，而且顾客评价很高。
+It looks great. Some of the range extenders seem to have been designed to be as ugly as possible — they look like, well, networking equipment — but this one looks almost like an obese Windows Phone, thanks to the colorful tiles on its touch screen. It’s very small (4.5 by 4.75 by 1.5 inches).
+它的样子看上去不错。而有一些范围扩展器的外观设计理念似乎是越难看越好，看起来完全是一副网络设备的样子。可是这一款，由于触摸屏上有色块，因而看起来像是一台肥胖的Windows Phone手机。实际上它非常小（11.4厘米 x 12厘米 x 3.8厘米）。
+The touch-screen breakthrough is that you don’t need to connect the Almond to a computer — or to anything but a power outlet — to set it up. We placed it in the hallway outside the bedroom door; it sits nicely and nearly invisibly on the molding above the doorway. On the screen, I tapped the name of the existing Wi-Fi network, entered its password, waited about a minute, and that was it. Suddenly there was a new Wi-Fi network in the back half of the apartment, with the suffix “Almond” on the original network’s name.
+触摸屏的突破之处在于，只需要把Almond连接到电源接口，不需要连接电脑或其他任何设备就可以进行配置。我们把它放在了卧室外的走廊里，搁在门框上方刚刚好，而且几乎注意不到。我在屏幕上点选现有的Wi-Fi网络的名称，输入密码，大概等待了一分钟，就配置完毕了。突然之间，在公寓的后半块，多了一个新的Wi-Fi网络，名字是原有网络名称后面加上“Almond”后缀。
+This hot spot seems just as fast and capable as the real one, in the living room. My fiancée can now stream music or video, download files, do real work, everywhere in the apartment.
+这个Wi-Fi热点，似乎和客厅里那个真正的热点一样快、一样强大。我的未婚妻现在可以在公寓里随便哪个地方，用流媒体听音乐、看视频，下载文件，以及认真工作了。
+On her laptop, she has to switch manually to the Almond network when she moves into those rooms; my laptop usually hops onto it automatically when it wakes up.
+在她的笔记本电脑上，如果走到哪些房间里，就得手动切换到Almond的网络上。而我的笔记本电脑只要被打开，就会自动连接到那个网络。
+The fine print: The Almond is also a regular router; that is, you can plug your cable modem into it to create a Wi-Fi hot spot. We didn’t use it in that configuration. If you do, note that its Ethernet jacks are not gigabit speed.
+需要说明的是，Almond也是一台普通的路由器，也就是说，插上电缆调制解调器，就能用它建立Wi-Fi热点。我们没有使用这种模式，不过如果你要用的话，要注意它的以太网插口速度不是千兆比特级别的。
+You should also know that rival range extenders are dual-band (they offer both 2.4 and 5 gigahertz bands, if you know what that means), whereas the Almond is 2.4 only. Rival extenders can cost less and offer more networking features.
+你还需要知道，其他品牌的范围扩展器是双频段的（既有2.4GHz也有5GHz，如果你知道这是什么意思的话），可是Almond只有2.4GHz频段。其他品牌的扩展器价格可能更低，而且联网功能更多。

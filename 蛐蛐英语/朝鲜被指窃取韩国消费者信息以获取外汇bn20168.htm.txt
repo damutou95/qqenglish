@@ -1,0 +1,18 @@
+SEOUL, South Korea — The South Korean police said on Thursday that the North’s main intelligence agency had stolen the personal data of more than 10 million customers of an online shopping mall in the South, in what they said was an attempt to obtain foreign currency.
+韩国首尔——韩国警方周四表示，朝鲜主要的情报机构窃取了韩国一家网购商城逾千万顾客的个人信息，并称朝鲜此举旨在获取外汇。
+The online mall, Interpark, was subjected in May to an online attack on a server that contained customers’ names, email addresses, telephone numbers and other personal data, the National Police Agency said.
+大韩民国警察厅(National Police Agency)称，今年5月，在线商城Interpark保存着顾客姓名、电子邮件地址、电话号码和其他一些个人信息的一台服务器遭遇在线攻击。
+Interpark did not learn about the breach until July 11, when it received an anonymous message threatening to publicize the leak of personal data unless it paid the equivalent of $2.6 billion in South Korea’s currency, the won. After the attack was reported, thousands of Interpark customers threatened to sue for damages. Most of the customers whose data was stolen were South Koreans.
+Interpark于7月11日收到匿名消息，对方威胁，除非拿到约合173亿元人民币的韩元，否则便公开个人信息泄露一事。直到此时，Interpark才知道自己的系统被侵入。攻击被公开后，Interpark的大批顾客威胁要提起诉讼，索要赔偿。信息被盗的顾客中，大部分是韩国人。
+On Thursday, the National Police Agency attributed the attack to the General Bureau of Reconnaissance, North Korea’s main spy agency. It said the intrusion had used some of the same code and internet protocol addresses as in previous digital breaches attributed to the North.
+周四，大韩民国警察厅认定攻击是朝鲜主要的间谍机构侦查总局(Reconnaissance General Bureau)所为。警察厅称，此次网络攻击使用的部分代码和互联网协议地址，与之前被认为出自朝鲜之手的数字侵入所用的一致。
+The message sent to Interpark also used vocabulary specific to the North Korean dialect, the police agency said.
+警察厅称，发给Interpark的消息还使用了朝鲜语特有的词汇。
+The United States blacklisted the General Bureau of Reconnaissance after North Korean hackers were accused of breaking into the computer network of Sony Pictures in 2014.
+朝鲜黑客被控2014年侵入索尼影业(Sony Pictures)的计算机网络后，侦查总局被美国列入了黑名单。
+It was unclear on Thursday whether, or how, the hackers had exploited the stolen data, other than in their effort at blackmail. But it showed that the North, whose access to hard currency has been hampered by sanctions over its nuclear arms program, was “using computer hacking technology to try to steal our people’s property in a criminal act of earning foreign currency,” the police said in a statement.
+周四当天，尚不清楚除了试图敲诈外，黑客是否曾滥用被盗数据，以及是如何滥用的。但警察厅在声明中表示，此事表明，因核武器计划而受到制裁、进而导致硬通货获取途径受阻的朝鲜，正在“利用计算机黑客技术从事掠夺外汇的犯罪行为，试图窃取我国民众的财产”。
+South Korea has blamed the North for a number of online attacks on banks, government websites and media companies since 2008. In March, its intelligence agency told lawmakers that North Korea had broken into the mobile phones of 40 national security officials. The North denied that accusation.
+自2008年以来，韩国将多家银行、政府网站和媒体公司遭受的大量在线攻击归咎于朝鲜。今年3月，韩国情报机构对国会表示，朝鲜侵入了40位国家安全官员的手机。朝鲜否认了这一指控。
+In May, researchers working for the digital security firm Symantec said that they had found a potential link between North Korea and a recent spate of digital breaches of Asian banks, including one against the central bank of Bangladesh in February that resulted in the theft of more than $81 million. They said the intrusions appeared to be the first known case of a nation using digital attacks for financial gain.
+今年5月，效力于数字安全公司赛门铁克(Symantec)的研究人员表示，他们发现了朝鲜与不久前涌现的亚洲多家银行遭遇数字侵入事件之间的一个潜在关联。孟加拉国中央银行在2月遭受的那场攻击，造成逾8100万美元被盗。他们说，那些侵入似乎是一国利用数字攻击来获取经济利益的首桩已知案件。

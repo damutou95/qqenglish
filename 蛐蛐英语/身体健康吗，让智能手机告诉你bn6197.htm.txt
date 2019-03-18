@@ -1,0 +1,32 @@
+Whether they have chronic ailments like diabetes or just want to watch their weight, Americans are increasingly tracking their health using smartphone applications and other devices that collect personal data automatically, according to health industry researchers.
+健康产业研究者称，美国人正在越来越多地使用智能手机上的应用程序或其他自动收集个人资料的设备来追踪自己的健康状况，无论他们是身患糖尿病一类的慢性疾病，或仅仅是想控制体重。
+“The explosion of mobile devices means that more Americans have an opportunity to start tracking health data in an organized way,” said Susannah Fox, an associate director of the Pew Research Center’s Internet and American Life Project, which was to release the national study on Monday. Many of the people surveyed said the experience had changed their overall approach to health.
+“移动设备的空前流行意味着更多美国人可以开始有条理地追踪健康信息，”皮尤研究中心(Pew Research Center)“网络与美式生活计划”(Internet and American Life)副主管苏珊娜·福克斯(Susannah Fox)说。该研究中心于今年1月28日公布了一项全国性调查结果：很多人都说他们整个维系健康的方法都因此而改变。
+More than 500 companies were making or developing self-management tools by last fall, up 35 percent from January 2012, said Matthew Holt, co-chairman of Health 2.0, a market intelligence project that keeps a database of health technology companies. Nearly 13,000 health and fitness apps are now available, he said.
+至去年秋季，500家以上的公司都研究出台了健康自主管理工具，比去年1月多出35%。“健康2.0”（一个保存健康科技公司数据库的市场情报项目）的联合主席马修·霍尔特(Matthew Holt)说，现在已经有将近1.3万个健康与健身应用程序了。
+The Pew study said 21 percent of people who track their health use some form of technology.
+皮尤研究称，所有关注自己健康状况的人中，有21%都使用了某种科技产品。
+They are people like Steven Jonas of Portland, Ore., who uses an electronic monitor to check his heart rate when he feels stressed. Then he breathes deeply for a few minutes and watches the monitor on his laptop as his heart slows down.
+这些人中，就有俄勒冈州波特兰市的史蒂文·乔纳斯(Steven Jonas)。每当感到压力大时，他就用电子监测器测心率。然后他深呼吸几分钟，看着笔记本电脑上的监控器，让心率慢慢降下来。
+“It’s incredibly effective in a weird way,” he said.
+“方法怪，但出奇有效。”他说。
+Mr. Jonas said he also used electronic means to track his mood, weight, mental sharpness, sleep and memory.
+乔纳斯说他还用电子设备监测情绪、体重、思维敏捷度、睡眠和记忆。
+Dr. Peter A. Margolis is a principal investigator at the Collaborative Chronic Care Network Project, which tests new ways to diagnose and treat diseases. He has connected 20 young patients who have Crohn’s disease with tracking software developed by a team led by Ian Eslick, a doctoral candidate at the Media Lab at the Massachusetts Institute of Technology.
+彼得·A·马戈利斯(Peter A. Margolis)医生是“慢性病协同护理网络”(Collaborative Chronic Care Network Project)的主要研究者。该计划正在测试诊断和治疗疾病的新方法。马戈利斯利用麻省理工学院(Massachusetts Institute of Technology)媒体实验室(Media Lab)博士研究生伊恩·埃什利克(Ian Eslick)带领的小组开发的一款追踪软件，与20名患有克罗恩病（Crohn’s disease，一种炎性肠道疾病，可累及消化道任何部位，反复发作——译注）的小病人取得了联系。
+Data from their phones is reported to a Web site that charts the patients’ behavior patterns, said Dr. Margolis, a professor of pediatrics at Cincinnati Children’s Hospital. Some phones have software that automatically reports the data.
+马戈利斯医生说：“他们手机上的数据上传到网站，把病人的行为模式绘制了出来。有些手机的软件是自动上报数据的。”马戈利斯医生还是辛辛那提儿童医院(Cincinnati Children’s Hospital)的儿科学教授。
+Patients and their parents and doctors watch the charts for early warning signs of flare-up symptoms, like abdominal pain, nausea and vomiting, before the flare-ups occur. The physicians then adjust the children’s treatment to minimize the symptoms.
+病人、家长和医生可以在图表上看到炎症爆发前的早期预警症状，譬如腹痛、恶心呕吐。然后医生就可以调整这些儿童的治疗方案，以减轻症状。
+“One of the main findings was that many patients were unaware of the amount of variation in their symptoms that they were having every day,” Dr. Margolis said.
+“一个重要发现是，很多病人意识不到他们的症状每天会有多么大的变化，”马戈利斯医生说。
+The Pew survey found most people with several chronic conditions said that tracking had led them to ask a doctor new questions, led them to seek a second opinion or influenced their treatment decisions.
+皮尤研究发现，自我追踪健康状况使大多数患有严重慢性病的人能向医生提出新的问题、寻求其他意见，或影响他们的治疗决策。
+Mr. Holt said self-tracking products and services companies formed the fastest growing category among the 2,100 health technology companies in his database. He said venture capital financing in the sector rose 20 percent from January through September 2012, with $539 million allotted to new products and services for consumers by Sept. 30.
+霍尔特说，他的数据库显示，开发自主管理产品和服务的公司在2100家健康科技公司中发展最迅猛。他说这类公司的创业投资基金在去年1月到9月之间上涨了20%。截至2012年9月30日，5.39亿美元被用于为消费者开发新产品和新服务。
+He attributed the rise to a “perceived increase in consumer interest in wellness and tracking in general, and the expectation that at-home monitoring of all types of patients will be a bigger deal under the new accountable care organizations,” as President Obama’s health care law takes effect.
+他将此现象归因为，随着奥巴马总统的医保法开始实施，“消费者对自身健康及追踪健康状况的兴趣的普遍增加是可预见的；能够随时监控各类病人的病情在新的责任医疗组织机制中显得更为重要。”
+But even an enthusiast like Mr. Jonas said he saw “a dark side to tracking.”
+然而即便热忱如乔纳斯，也看到了“不利的一面”。
+“People who are feeling down may not want a tracking device to keep reminding them of their mood,” he said.
+“人们情绪低落的时候，可能不会想要一个追踪健康状况的仪器，反复提醒他们自己的心情有多么糟糕。”他说。

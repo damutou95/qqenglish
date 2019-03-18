@@ -1,0 +1,46 @@
+Researchers at the University of California, Berkeley, have unraveled one of life’s enduring mysteries: Why do shoelaces come undone?
+加利福尼亚大学伯克利分校的研究人员解开了我们生活中的一个谜团：为什么鞋带会自己松开？
+Forces at work
+什么力量在作祟
+The researchers — Oliver M. O’Reilly, a professor of mechanical engineering, and Christine E. Gregg and Christopher A. Daily-Diamond, students who are pursuing a Ph.D. in mechanical engineering — reported that the force of your foot striking the ground and the motion of your leg combine to help loosen and ultimately untie the knot.
+研究人员——机械工程教授奥利弗·M·奥莱利(Oliver M. O'Reilly)，以及正在攻读博士学位的机械工程专业学生克莉丝汀·E·格里格(Christine E. Gregg)和克里斯托弗·A·戴利-戴蒙德(Christopher A. Daily-Diamond)——发布报告说，脚踩地面的力量，和你腿部的运动加在一起，导致了鞋带变松并最终解开。
+When running, the foot hits the ground at about seven times the force of gravity. That impact is transmitted to the knot, which stretches and relaxes in response. As the knot loosens, swinging legs apply an inertial force on the free ends of the laces and — voilà! — pretty soon your laces are flopping around, looking like overcooked spaghetti.
+跑步的时候，脚以重力大约七倍的力量撞击地面。这种冲击力被传递到鞋结上，使其伸展和放松。随着鞋结松开，摆动的腿在鞋带的自由端上施加了惯性力——瞧吧——很快你的鞋带就会摆动，看起来就好像是煮过头了的意大利面条。
+Knots matter
+打结的方式很重要
+The researchers identified “strong” knots, those commonly associated with square knots, and “weak” ones tied in the style of a “granny” knot.
+研究人员发现牢固的鞋结通常是方结，而不牢固的鞋结是“老奶奶”结。
+For a quick way to know which is which, look at the loops of your laces. A weak knot will typically have one loop pointing toward the toes and one toward the ankle. A stronger knot typically has the loops oriented on opposite sides of each other, Mr. Daily-Diamond said.
+想要快速弄清鞋结属于哪种类型，要看一下鞋带打的环。不牢固的鞋结通常会有一个朝向脚趾的环，一个朝向脚踝的环。戴利-戴蒙德说：牢固鞋结的环通常都是彼此相对的。
+For the shoelace-challenged, there are, of course, other options, such as loafers or sneakers with Velcro fasteners.
+对于系不好鞋带的人来说，当然还有其他选择，例如使用魔术贴的乐福鞋或运动鞋。
+About the research
+关于这项研究
+“We spent countless weekends walking up and down the hallways and staring at shoelaces, watching them coming apart,” Ms. Gregg said.
+格雷格说：“我们花了无数的周末在走廊上走来走去，盯着鞋带，看着它们松开。”
+Initial experiments involved so-called barefoot running shoes, dress shoes, running sneakers and hiking boots.
+初期的实验使用了光脚跑鞋、时装鞋、跑步运动鞋和登山靴。
+Ms. Gregg said she spent hours sitting on a table, swinging her legs to see if the movement had any effect on the knot. It didn’t, and neither did merely stomping her feet.
+格雷格说，她花了很多个小时的时间坐在桌子旁摇摆双腿，看看运动对鞋结是否有任何影响。结果发现没有影响，如果仅仅是跺脚，也没有影响。
+Variables and unknowns
+变量和未知数
+The force of her feet hitting the floor when she was walking or hitting the treadmill when she was running, combined with her gait, eventually caused the shoelaces to come undone. In an article published on Wednesday in The Proceedings of the Royal Society A, the researchers wrote that the unraveling was “a sudden and catastrophic phenomenon.”
+在跑步时，她的双脚撞击地板或跑步机的力量，与步态相结合，最终导致了鞋带的松开。本周三在《英国皇家学报A》(Proceedings of the Royal Society A)上发表的一篇文章中，研究人员写道，这种松开是“突如其来的灾难性现象”。
+The researchers used a high-speed camera to record Ms. Gregg running, and an accelerometer was attached to the knots to measure the forces on her feet.
+研究人员使用高速摄像机记录了格雷格跑步的情景，并在鞋结上附加了一个加速计，以测量她脚上的力量。
+Many variables, such as shoe and lace types as well as the tightness of the knot, were not assessed. “If you do a whole bunch of other variables, it just explodes,” Mr. O’Reilly said.
+有很多变量没有进行评估，例如鞋和鞋带类型，鞋结的紧实度等等。奥莱利说：“若是添加一大堆其他变量，就没完没了了。”
+Coming up with the hypothesis and testing it took two years. Mr. O’Reilly added that the work was a “labor of love” that took place on nights and weekends after the researchers were done with their full-time jobs.
+从提出假设到进行测试花了两年时间。奥莱利说，这项工作是研究人员完成全职工作后用夜晚和周末开展的“爱心活动”。
+How does this research matter beyond the inconvenience of having to retie your laces? It has practical applications to things such as improving surgical sutures, he said.
+除了必须重新系鞋带的不方便之外，这项研究有什么重要意义吗？他说有实际用途，比如可以改善手术缝合线。
+Daughter inspired research
+这项研究受到了女儿的启发
+Mr. O’Reilly said the project began to germinate when he was teaching his daughter, Anna, now 14, how to tie her shoelaces when she was about five.
+奥莱利说，这个项目的最初萌发是在他教5岁的女儿安娜如何系鞋带的时候。现在安娜已经14岁了。
+He said that for just about all of his 52 years, his laces have come undone. “I didn’t want her to inherit my problems,” said Mr. O’Reilly, who wears Converse sneakers.
+他说，在他52年的人生中，经常遇到鞋带松开。穿着匡威运动鞋的奥莱利说：“我不想让她遇到同样的问题。”
+So, after his extensive research, how have his laces been?
+所以，经过了广泛的研究，他的鞋带还会松开吗？
+He said with a laugh: “It’s catastrophic. Every day.”
+他大笑着说：“每天都有这种灾难。”

@@ -1,0 +1,20 @@
+WASHINGTON — James B. Comey, director of the Federal Bureau of Investigation, said on Wednesday that no one should doubt that the North Korean government was behind the destructive attack on Sony’s computer network last fall.
+华盛顿——美国联邦调查局(Federal Bureau of Investigation)局长詹姆斯·B·科米(James B. Comey)周三表示，朝鲜政府的确是去年秋天针对索尼公司(Sony)电脑网络的破坏性攻击的幕后主使，这一点毋庸置疑。
+Mr. Comey said he had “high confidence” in the F.B.I.’s quick determination that North Korea was behind the attack. He said skeptics in the Internet security world who have suggested other theories for who was responsible did not have all the information he does.
+FBI快速认定了朝鲜是幕后主使。科米称，他对此“很有把握”。他表示，网络安全领域持怀疑态度的人士就攻击者的身份提出了其他看法，但他们并没有获得他所掌握的所有信息。
+The F.B.I. director said national security concerns limited just how far law enforcement officials could go in revealing evidence that points to North Korea. But at a conference on cybersecurity in New York, Mr. Comey offered some of the evidence the F.B.I. had found.
+这位FBI局长表示，国家安全方面的因素限制了执法官员披露指向朝鲜的证据的程度。不过，在纽约举行的一次网络安全会议上，科米还是给出了FBI找到的部分证据。
+One of the telltale pieces of evidence, he said, were a few I.P., or Internet Protocol, addresses that could be traced directly to North Korea. Mr. Comey said members of the group claiming responsibility for the hacking — Guardians of Peace — did a good job concealing their identities but slipped up in some cases.
+科米称，揭露线索的证据之一是，有一些IP地址可以直接追溯至朝鲜。他还说，声称为攻击事件负责的团体——“和平卫士”(Guardians of Peace)——的成员很好地掩盖了他们的身份，但他们有那么几次也疏忽大意了。
+"They used proxy servers to disguise” the trail of evidence, Mr. Comey said. “But sometimes they got sloppy.”
+“他们利用代理服务器来掩盖”证据线索，科米说。“但他们有时会马虎。”
+The Sony breach has become a focal point for the F.B.I. and other federal officials because it was one of the rare attacks on a big corporation that the United States has attributed to a foreign government. The government has said the attack, which resulted in internal emails and other sensitive information at Sony being made public, was in part a response to company’s production of the movie “The Interview,” a satire about the fictional assassination of the North Korean leader Kim Jong-un.
+索尼遭攻击一事之所以成为FBI等联邦机构关注的焦点，是因为美国很少将针对大型公司的攻击活动归咎于外国政府。此次攻击活动导致索尼公司的内部邮件及其他一些敏感信息公之于众。美国政府表示，此事在一定程度上是对该公司拍摄《采访》(The Interview)的回应。这部讽刺电影讲述了刺杀朝鲜领导人金正恩(Kim Jong-un)的虚构故事。
+Mr. Comey said the F.B.I. had not yet determined how the hackers managed to breach Sony’s network. But evidence points to a “spear phishing” campaign that began sometime in the fall before the hacking was discovered on Nov. 24.
+科米表示，FBI尚未确定黑客究竟是如何侵入索尼的网络的。不过，证据显示，在11月24日发现黑客活动之前，“鱼叉式钓鱼”攻击即于去年秋季的某个时间点开始了。
+Spear phishing is an attempt by hackers to trick people into providing information about themselves, like email passwords or other personal information, in an attempt to gain the ability to infiltrate a computer network.
+鱼叉式钓鱼攻击指的是黑客欺骗用户提供有关自己的信息，比如邮箱密码或其他个人信息，以便能够潜入计算机网络。
+Mr. Comey made his remarks about the Sony breach at a speech at the International Conference on Cyber Security, held at the Fordham University School of Law. The four-day event, coordinated by the F.B.I., brings together law enforcement officials and Internet security experts from around the world to discuss and analyze techniques hackers use to breach corporate computer networks. This year’s conference comes at a time of heightened attention on cyberattacks, especially after major breaches last year at Home Depot and JPMorgan Chase, as well as Sony.
+科米就索尼受攻击一事做出此番评论的场合，是在福特汉姆大学法学院(Fordham University School of Law)参加国际网络安全会议(International Conference on Cyber Security)时发表讲话。这次会议由FBI协调召开，为期四天，将世界各地的执法官员及网络安全专家聚集到一起，讨论并分析黑客侵入公司电脑网络所采用的技术。今年召开会议的时间点，正值网络攻击受到高度关注，特别是家得宝(Home Depot)、摩根大通(JPMorgan Chase)及索尼去年接连遭到严重入侵之后。
+Shortly after the F.B.I. blamed the North Korean government for the Sony attack, a number of digital security firms began to raise doubts about the government’s evidence. Some consulting firms have noted that the hackers did not initially voice concerns or objections about the movie in statements attributed to them about the hacking.
+在FBI指责朝鲜政府对索尼发动攻击后不久，好几家数字安全企业开始质疑政府的证据。一些咨询公司指出，在那些被认为是黑客就攻击行动发表的声明中，他们最初并没有表达对这部电影的关注或反对。

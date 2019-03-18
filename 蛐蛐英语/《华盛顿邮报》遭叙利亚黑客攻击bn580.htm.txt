@@ -1,0 +1,20 @@
+Visitors to some articles on The Washington Post’s Web site Thursday morning were being redirected to the site of the Syrian Electronic Army, a hacker collective that supports the Syrian president, Bashar al-Assad.
+周四早上，访客如果点击《华盛顿邮报》(Washington Post)上的一些文章，就会被带到叙利亚电子军(Syrian Electronic Army)的网站，后者是一个支持叙利亚总统巴沙尔·阿萨德(Bashar al-Assad)的黑客组织。
+The Post said on Thursday afternoon the episode was over and under control. “We have taken defensive measures and removed the offending module,” Emilio Garcia-Ruiz, The Post’s managing editor, wrote in an editor’s note on the site. “At this time, we believe there are no other issues affecting the Post site.”
+《华邮》周四下午表示，事情已经结束并已得到控制。“我们已经采取了防御措施，并且移除了问题模块，”《华邮》总编埃米利奥·加西亚-鲁伊斯(Emilio Garcia-Ruiz)在该报网站上的编辑寄语中写道。“现在，我们认为《华邮》网站已经不存在任何问题。”
+The paper reported that the Syrian collective had said in a Twitter post that it had also attacked Time magazine and CNN, suggesting it had tried to carry out a coordinated attack on American news outlets.
+《华邮》报称，这个叙利亚团体在Twitter上发布了讯息，称它还攻击了《时代》周刊(Time magazine)和CNN，说明它曾试图对美国新闻媒体发动系统性袭击。
+Mr. Assad has faced intense media scrutiny for the government’s role in the long, bloody civil war taking place in Syria, but the collective did not make it clear whether it targeted The Post because it was displeased with its coverage. An article in the newspaper indicated that it was mostly foreign coverage affected by the breach.
+叙利亚的血腥内战旷日持久，阿萨德也因为政府在战争中扮演的角色而受到了严格的媒体监督。不过，该组织并未明确表示，攻击《华邮》是否是因为对该报的报道感到不满。《华邮》在一篇文章中表示，此次攻击影响的大多是国际报道。
+In the editor’s note, Mr. Garcia-Ruiz said the Syrian Electronic Army had said in a tweet that it gained access to the site by hacking one of its business partners called Outbrain. A third-party content recommendation service, Outbrain works by embedding a widget on Web sites filled with sponsored links. Time and CNN also use the service.
+加西亚-鲁伊斯在编辑寄语中说，叙利亚电子军曾在推文中表示，它先是袭击了《华邮》的商业伙伴Outbrain，由此获得了通往《华邮》网站的路径。Outbrain是一家提供内容推荐服务的第三方公司，网站安装上它的插件之后，就会出现相关内容链接。《时代》周刊和CNN也使用了这项服务。
+A spokeswoman for Time, Jane Lehman, said the company’s sites were not hacked and the security was not compromised. “The content on some of our sites provided by Outbrain was impacted by the hacking activity at Outbrain,” she said.
+《时代》周刊女发言人简·莱曼(Jane Lehman)表示，公司网站没有遭受攻击，安全性没有遭到破坏。她说，“我们的部分网站上由Outbrain提供的内容受到了针对Outbrain的黑客活动的影响。”
+CNN also said its sites were not directly penetrated. “The security of a vendor plug-in that appeared on CNNi.com was briefly compromised today,” it said in a statement. “The issue was quickly identified and plug-in disabled.”
+CNN也表示，黑客没有直接侵入其网站。“今天，CNNi.com网站上的一个供应商插件的安全性暂时遭到了破坏，”CNN在一份声明中表示，“我们很快就发现了这个问题，禁用了该插件。”
+According to The Atlantic Wire, which also employs Outbrain, the recommendation service sent a statement to its business partners saying in part: “This morning, the Outbrain service was attacked, and as a result, we have taken the service down temporarily as a precautionary measure.”
+据也使用Outbrain服务的《大西洋连线》(The Atlantic Wire)透露，该内容推荐服务商向各个商业伙伴发送了一份声明，声明中称，“今天早上，Outbrain服务遭受了攻击，因此我们已暂停服务，以此作为预防措施。”
+Mr. Garcia-Ruiz’s post provided this background on the security breach: “A few days ago, The Syrian Electronic Army, allegedly, subjected Post newsroom employees to a sophisticated phishing attack to gain password information. The attack resulted in one staff writer’s personal Twitter account being used to send out a Syrian Electronic Army message. For 30 minutes this morning, some articles on our Web site were redirected to the Syrian Electronic Army’s site. The Syrian Electronic Army, in a tweet, claimed they gained access to elements of our site by hacking one of our business partners, Outbrain.”
+ 加西亚-鲁伊斯的公告提供了有关此次攻击的如下背景信息：“几天之前，叙利亚电子军据称向《华邮》编辑部员工发动了复杂的钓鱼式攻击，试图获得密码信息。此次攻击导致一名报社撰稿人的个人Twitter账户被盗，并被用于发布叙利亚电子军的信息。今天早晨，大约30分钟的时间里，一旦打开我们网站上的一些文章，页面就会跳转至叙利亚电子军的网站。叙利亚电子军在Twitter发布讯息称，他们通过攻击我们的商业伙伴Outbrain进入了我们的网站。
+On Wednesday, The New York Times’s site was down for several hours. The Times cited technical problems and said there was no indication the site was hacked.
+周三，《纽约时报》网站出现故障，瘫痪了几个小时。《纽约时报》将此归结为一些技术问题，并且表示，没有迹象表明网站遭受了攻击。

@@ -1,0 +1,46 @@
+WASHINGTON —Responding to a series of computer security breaches in government and the private sector, the House passed an expansive measure Wednesday that would push companies to share access to their computer networks and records with federal investigators.
+华盛顿——政府及私营部门发生一系列计算机安全事故之后，众议院做出了回应。周三，众议院通过了一项影响广泛的法案，该法案将迫使企业向联邦调查人员提供访问其计算机网络、查阅数据记录的权限。
+The bill, which came after years of false starts and bitter disappointment for the Obama administration, is similar to a measure approved by the Senate Intelligence Committee and headed for that chamber’s floor this spring. The House measure, already largely embraced by the White House, passed, 307 to 116.
+该法案过去数年中多次受挫，奥巴马政府也对该法案深深表达过失望，如今它终于有了进展。这项法案与经由参议院情报委员会(Senate Intelligence Committee)核准，并在今年春天提交到参议院的一项法案颇为相似。众议院以307票赞同、116票反对通过了这项已经在很大程度上得到白宫认可的法案。
+Should the House and Senate come together on final legislation, it would be the federal government’s most aggressive response yet to a spate of computer attacks that helped sink a major motion picture release by Sony Pictures Entertainment, exposed the credit card numbers of tens of thousands of customers of Target stores and compromised the personal records of millions of people who did business with the health insurer Anthem.
+如果众议院和参议院携手推出最终法案，这将是联邦政府到目前为止针对一系列网络攻击事件做出的最为激进的反应——网络攻击让索尼电影娱乐公司(Sony Pictures Entertainment)一部重要电影的上映受到了重挫，让塔吉特(Target)百货公司数千万名消费者的信用卡数据外流，也让医疗保险企业Anthem数千万名客户的个人信息遭到泄露。
+“The gravity of the emergency we have in cyberspace is setting in with lawmakers,” said Paul Kurtz, a cybersecurity expert who worked in the Bush and Obama administrations on the issue. “They now understand that companies can no longer fight the bad guys individually.”
+“议员们意识到了我们在网络世界遭遇的紧急情况有多严重，”网络安全专家保罗·库尔茨(Paul Kurtz)说。“他们现在明白了，企业对付那些坏蛋时不能再单打独斗了。”库尔茨曾供职于布什政府和奥巴马政府，从事网络安全方面的工作。
+The House bill would provide legal liability protections for companies that share cyber threat information with each other or with the government. But negotiators also added what they see as critical privacy protections.
+众议院通过的这项法案，将为那些在彼此之间或向政府部门共享网络威胁信息的公司提供保障，免除其法律责任。但参与了该法案磋商进程的人员，也在法案中添加了在他们看来十分关键的隐私保护条款。
+If a company shares information with the government, it would receive liability protection only if its data undergoes two rounds of washing out personal information — once by the company before it gives the data to the government and another round by the government agency that receives the data, which many experts believe is critical in getting companies to comply.
+如果一家公司向政府分享信息，那么只有其数据经过了两轮清理，筛除其中的个人信息，才能受到法律保护，免于承担责任。第一轮筛选工作由该公司在将信息提交给政府之前完成，第二轮筛选工作由接收信息的政府机构负责——很多专家都认为，这是让企业遵守法律规定的关键。
+“Liability protection is something needed to help companies share,” said Sarah Beth Groshart , director of government affairs at the Information Technology Industry Council. “And only Congress can provide that.”
+“要想让企业分享信息，就得为其提供保护，免除其责任，” 信息技术产业协会(Information Technology Industry Council)的政府事务总监萨拉·贝丝·格罗沙尔特(Sarah Beth Groshart)说。“只有国会可以提供这种保护。”
+Policing the nation’s computer networks has been complicated over the last decade by concerns from Republicans, who expressed concern for burdens placed on the private sector, and from those arguing for more stringent privacy protection in both parties.
+过去10年间，对美国的电脑网络进行执法的工作变得日益困难，部分原因在于共和党人担心这会增加私营部门的负担，而两党都有人主张采取更加严格的隐私保护举措。
+The 2013 exposure of the government’s extensive surveillance programs into American lives through the leak of classified documents by Edward Snowden further muddied an agenda that many national security experts insisted was critical to preventing large scale cyber attacks on American infrastructure and businesses. Further, jurisdiction for cybersecurity snaked over an array of congressional committees, making unified legislation at times difficult.
+2013年，爱德华·斯诺登(Edward Snowden)公开的机密文件揭露了政府对美国民众的全面监控项目，进一步破坏了一项议程。很多国家安全专家坚称，这一议程对于阻止针对美国基础设施及企业的大规模网络攻击十分关键。而且，网络安全的管辖权分散在国会的许多委员会中，这使得统一立法有时变得很难。
+Lawmakers have been grappling with cybersecurity legislation since 2012, when a bipartisan Senate effort twice failed over business concerns that the legislation was putting too onerous a burden on the private sector.
+参议院两党人士曾在2012年提出一项网络安全法案，但由于各大公司担心该法案会给私营部门增添沉重负担，法案两次均未获得通过。此后，议员们一直在努力解决网络安全立法问题。
+Leon E. Panetta, who was defense secretary at the time, and intelligence leaders implored lawmakers to shrug off the furious opposition of the U.S. Chamber of Commerce, but lawmakers were not persuaded.
+时任美国国防部长利昂·E·帕内塔(Leon E. Panetta)及情报部门负责人，恳求议员们不要顾忌美国商会(United States Chamber of Commerce)的强烈反对，但议员们没有被说服。
+A House effort in the last Congress mustered strong opposition from the White House, which was concerned that it would jeopardize the privacy rights of consumers.
+在上一届国会中，众议院的一项法案遭到了白宫的强烈反对，白宫担心这会危害消费者的隐私权。
+But since then, a series of cyberattacks has changed the political equation. The attack on Sony Pictures — Mr. Obama blamed the North Korean government for the attack — thwarted the wide release of a comedy portraying the assassination of North Korea’s leader, Kim Jong-un.
+但此后，一系列网络攻击活动改变了这种政治平衡。索尼影业遭受网络攻击，阻碍了一部涉及暗杀朝鲜领导人金正恩(Kim Jong-un)的喜剧电影的广泛上映，奥巴马指责称朝鲜政府是此次攻击事件的幕后主使。
+Early this year, Anthem reported a major breach that exposed the records of nearly 80 million people. Just last week, Target agreed to reimburse MasterCard $19 million for losses associated with the theft of 40 million credit and debit card numbers from its computer network in December 2013.
+今年早些时候，Anthem公司声称遭到严重的网络攻击，导致将近8000万人的记录遭到曝光。就在上周，塔吉特百货同意向万事达(MasterCard)支付1900万美元（约合1.2亿元人民币）的赔偿金，2013年12月，黑客通过塔吉特百货的计算机网络盗取了4000万张信用卡和借记卡的信息，造成巨额损失。
+“We are under attack as I speak,” said Representative Dutch Ruppersberger, Democrat of Maryland. “To do nothing is not an option.”
+“就在我说话的这个时刻，我们就在遭受攻击，”马里兰州民主党众议员达奇·鲁珀斯伯格(Dutch Ruppersberger)说。“什么也不做不是办法。”
+Privacy advocates continued to express anger legislation Wednesday on the House floor, creating unlikely alliances between some conservatives and left-leaning members.
+周三，隐私倡导者继续在众议院表达对法案的不满，促使一些保守派议员和左翼议员极其罕见地结成了同盟。
+“We’ve seen before that the federal government has a poor track record of safeguarding our information when entrusted with it,” said Representative Jared Polis, Democrat of Colorado, on the House floor. “The last thing we should be doing,” is empowering them with more information access, he said.
+“我们过去就看到过，在我们将信息托付给联邦政府后，政府对我们的信息保护得很糟糕，”科罗拉多州民主党众议员贾里德·波利斯(Jared Polis)在众议院说。他表示，“我们最不该做的事情”就是允许他们获得更多信息。
+His comments were echoed by Representative Darrell Issa, Republican of California. “Since 9/11 the government has begun to know more and more about what we are doing, where are, where we sleep, who we love,” he said, while consumers, “have known less and less.”
+加利福尼亚州共和党众议员达雷尔·伊萨(Darrell Issa)表达了类似的看法。“自9·11以来，政府开始了解我们的更多动态，我们在做什么，身处何处，在哪里睡觉，我们爱谁，”他说，而消费者“知道的却越来越少”。
+At the same time, some feel the bill does not go far enough on the national security front. “I do believe we will see a cybersecurity bill enacted and signed into law,” said Senator Susan Collins, Republican of Maine who has worked on the issue for years. “But it won’t be as strong as it should be to protect critical infrastructure.”
+与此同时，一些人感觉这项法案在国家安全方面的效力还远远不够。“我相信我们会看到国家安全法案出台，并被签署成为法律，”缅因州共和党参议员苏珊·柯林斯(Susan Collins)说。“但该法案在保护重要基础设施方面，效力还不够强。”柯林斯关注该问题已有多年的时间。
+However security experts said that the government would benefit from the information sharing as well. “The net effect of this legislation will be positive on national security side and economic security side,” said Mr. Kurtz.
+但安全专家表示，信息共享也会对政府有益。库尔茨表示，“在国家安全及经济安全方面，该法案产生的净效果，将是积极的。”
+The White House issued a statement on Tuesday that commended the effort in the House but did raise concerns about the liability protections offered to private companies in the House bill, raising fears that they would be so sweeping that they might backfire and prevent companies from reporting cyberthreats.
+白宫在周二发表声明，对众议院的法案表达了称赞。但也对该法案为私营公司提供的免责保护提出了担心，白宫表示，法案中的举措如此广泛，可能会适得其反，导致公司不愿上报网络威胁。
+Privacy changes in the bill won over Representative Adam Schiff, Democrat of California and ranking member on the House Intelligence committee, who opposed it last year, and both parties expect the president to come along as well.
+法案中有关隐私议题的修改，赢得了加州民主党众议员、众议院情报委员会(House Intelligence committee)资深成员亚当·席夫(Adam Schiff)的支持，他去年曾持反对态度。两党都预期，总统也会予以支持。
+The timing for passage of the Senate version of the bill may be impeded by time-consuming amendments. That chamber is already snarled over a bill that would give Congress more say in a nuclear deal with Iran and a major trade measure. The Highway Trust Fund is nearly broke and requires legislative action before the end of the month, and a national security program at issue also requires renewal.
+耗时较长的修订过程可能会阻碍参议院法案获得通过的时机。参议院已经陷入了混乱，原因是一项重要的贸易法案，以及一项将给予国会更多话语权，使其可以干预美国与伊朗的核协议的法案。公路信托基金(Highway Trust Fund)处于即将破产的状态，需要国会在月底前采取立法行动，一项存在争议的国家安全项目也需要讨论延长。

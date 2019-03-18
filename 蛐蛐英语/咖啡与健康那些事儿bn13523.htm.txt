@@ -1,0 +1,42 @@
+In an article on Monday, I reviewed the evidence behind coffee consumption and health in an effort to put to rest the idea that coffee is a “vice” or something we all need to cut back on.
+有人认为喝咖啡是一种“坏习惯”，需要努力改正。在周一的一篇文章中，我综述了有关喝咖啡与健康的证据，以期澄清这些误解。
+We received many comments and questions from readers. In fact, we received so many that we thought it might be useful to respond to some of the most frequently discussed ones.
+对此，读者们发表了很多评论，也提出了不少问题。于是，我们决定从中挑出一些最有代表性的问题作答，或许能对大家有所助益。
+Are the same beneficial relationships seen with decaffeinated coffee?
+饮用无咖啡因咖啡对健康也同样有益么？
+Most studies did not include data on decaffeinated coffee, either because too few people drank it or because data were not available. The few studies that did, though, had differing results. With respect to cardiovascular disease, decaffeinated coffee did not seem to have the same protective effects as regular coffee. With respect to the one stroke meta-analysis, it seemed to be just as protective as regular coffee. In two breast cancer analyses, decaffeinated had the same nonrelationship as regular coffee. Decaffeinated coffee was also protective against lung cancer, not as protective against Parkinson’s disease, and protective against diabetes and overall mortality, but perhaps to a lesser extent than regular coffee.
+大多数研究都没有纳入无咖啡因咖啡的数据，这或许是因为喝这种咖啡的人太少，也可能是因为拿不到相关的数据。仅有少数研究纳入了此类咖啡的数据，但并没有得出一致的结果。无咖啡因咖啡似乎不像普通咖啡那样可以预防心血管疾病。一项关于中风的荟萃分析则表明，无咖啡因咖啡与普通咖啡一样具有预防效果。两项针对乳腺癌的分析显示，无咖啡因咖啡与普通咖啡均无甚作用。无咖啡因咖啡也能预防肺癌，但对帕金森氏症没什么效果；在预防糖尿病并降低整体死亡率方面，无咖啡因咖啡有一定的作用，但或许比正常咖啡稍弱。
+But for most studies, there just aren’t data available. The conclusion to take away: There’s less evidence overall for a potential benefit, but still, there’s no evidence of harmful associations.
+但大多数的研究都缺乏相关数据。我们的结论是：总体而言，能证明无咖啡因咖啡潜在效益的证据较少，不过，也没有证据表明它有害。
+What constitutes a cup of coffee?
+一杯咖啡指的是多大容量？
+Pretty much all studies defined a cup of coffee as an 8-ounce serving. That’s smaller than what I imagine most people drink. A grande-size coffee at Starbucks (what is called simply “large” at most other coffee houses) is 16 ounces.
+几乎所有的研究都将一杯咖啡定义为8盎司（约合227克）的一份。我想这大概比大多数人平时喝的一杯要少些。星巴克(Starbucks)里的大杯(grande-size)咖啡是16盎司（约合454克）。
+Are the same benefits seen with tea?
+喝茶也像喝咖啡同样有益么？
+The literature on tea is about the same size as that for coffee, and reviewing it thoroughly would take more time than is appropriate for this column. However, a number of studies I reviewed did include tea in analyses, and those I can present here. People who drank more tea had a lower risk of Parkinson’s disease and of cognitive decline. Black tea had a potential protective effect against diabetes, but it was not statistically significant. Green tea had no relationship to the development of diabetes.
+有关茶的文献与关于咖啡的同样多，要将它们彻底查阅一番需要耗费很多时间，就本专栏而言似乎无需如此大费周章。不过，在我之前综述的研究中有一些确实也将茶纳入了分析，下面我就简单地介绍一下。喝茶较多的人患帕金森氏症以及认知功能减退的风险均较低。红茶或可预防糖尿病，但其不具备统计学显著性意义。绿茶与糖尿病的发生无相关性。
+If we think there’s enough interest in tea, though, we could devote a future column to the evidence on that beverage.
+然而，如果有很多人都对茶感兴趣的话，我们可以在未来的某一期专栏里讨论关于该饮料的科学证据。
+Is the benefit from caffeine or from some other element in coffee?
+喝咖啡有益健康，是因为咖啡因还是咖啡中含有的其它成分的缘故？
+It’s not known. I also don’t think it’s necessarily the same protective effect in each disease. I think that for many of the neurological issues, it could be caffeine acting as a stimulant in the brain. This hypothesis is supported by the fact that decaffeinated coffee doesn’t seem to be as protective, yet tea is. In some of the other diseases, though, the same benefits aren’t seen from other caffeine-containing beverages. No one is arguing that diet soda consumption is associated with less of a chance of getting cancer. Additionally, some protective effects are seen with decaffeinated coffee as well. It’s likely, therefore, that something else could be at work. We don’t know what, though.
+目前还不清楚。我认为，对不同疾病起预防作用的成分未必相同。比如，对于神经系统上的许多问题，可能是咖啡因在发挥大脑兴奋剂的作用。我的这个假设是有事实依据的：咖啡和茶都可以预防这些问题，而无咖啡因咖啡却无此功效。但是，对于别的一些疾病，饮用其它含咖啡因的饮料却未显示出同样的效益。从没有人提出饮用无糖汽水与患癌症的几率减少相关。此外，无咖啡因咖啡也同样可以预防某些疾病。因此，很可能还有别的东西在起作用，只不过我们还没有明确那具体是什么。
+What about high blood pressure or cholesterol?
+那么，喝咖啡对高血压或胆固醇有什么影响么？
+A 2005 meta-analysis found that in randomized controlled trials caffeine was associated with an increase in blood pressure. When that caffeine was from coffee, however, the blood pressure effect was small. A 2011 study found that caffeine intake could raise blood pressure for at least three hours. Again, though, there wasn’t a significant relationship between long-term coffee consumption and higher blood pressure. A 2012 meta-analysis of 10 randomized controlled trials and five cohort studies could find no significant effect of coffee consumption on blood pressure or hypertension.
+2005年的一项荟萃分析发现，在随机对照试验中，咖啡因与血压升高相关。但是，当咖啡因来源于咖啡时，对血压的影响却很小。2011年的一项研究发现，摄入咖啡因的升血压效果至少可持续三个小时。但长期饮用咖啡与较高的血压之间依旧没有显著相关性。2012年的一项荟萃分析纳入了10项随机对照试验和五项队列研究，结果发现饮用咖啡对血压或高血压并无显著影响。
+And, as has been reported in The New York Times, two studies have shown that drinking unfiltered coffee, like Turkish coffee, can lead to increases in serum cholesterol and triglycerides. But coffee that’s been through a paper filter seems to have had the cholesterol-raising agent, known as cafestol, removed.
+但是，正如《纽约时报》杂志(The New York Times)曾经报道的，有两项研究表明，饮用未过滤咖啡（如土耳其咖啡）可导致血清胆固醇和甘油三酯增加。但是，用滤纸过滤咖啡似乎可以去除掉升胆固醇的物质——咖啡醇。
+High blood pressure and high cholesterol would be of concern because they can lead to heart disease or death. Drinking coffee is associated with better outcomes in those areas, and that’s what really matters.
+高血压和高胆固醇会引起人们的重视，是因为它们会导致心脏病甚至死亡。而喝咖啡对这些问题都有益处，这才是问题的关键所在。
+Some readers were upset that I neglected to mention some of the deleterious effects of caffeine. What about jitteriness and mood changes?
+我忘了提及咖啡因的有害影响，这让一部分读者感到不满。那么，喝咖啡与神经过敏和情绪变化之间有什么样的关系？
+I want to reiterate that the point of the piece was not to tell people to drink coffee. As I said in my recent article on food recommendations, I don’t think there is much value in preaching or judging what others eat or drink. Moreover, this evidence is epidemiologic, that is, based on observations of patterns. I don’t want to fall prey to the mistake of recommending we change our eating behavior without evidence from randomized controlled trials.
+我想重申的是，本文的论点并非是要劝告大家都去喝咖啡。正如我在最近的一篇关于饮食建议的文章中所说，我认为对别人的食物和饮料指指点点说教评判没什么意义。而且，以上提出的都是流行病学证据，也就是说，它们都是从观测研究中发现的模式。在获得来自随机对照试验的证据之前，我可不想轻易建议大家改变当前的饮食行为，因为这种建议有可能是错误的。
+The point of the article was to show that there’s no evidence that coffee is bad for the average person. Data do not support the idea that we are drinking “too much.” Coffee does not appear to be associated with poor health outcomes — the opposite is true. In light of this, we should stop telling everyone to avoid it, or judging others for drinking it. We should also stop feeling guilty or feel we need to consume less.
+本文只是想要指出，尚无证据表明咖啡对普通人有害。有人觉得我们喝咖啡“过多”，但现有数据并不支持这一观点。咖啡与损害健康无相关性——事实上，恰恰相反。有鉴于此，我们不应该再阻止大家喝咖啡，或者对喝咖啡的人指手画脚，也无需再因为自己爱喝咖啡而感到羞愧或者认为自己应该克制。
+That is, unless it’s not making you feel well. As I also said before, individual trial and error is likely necessary when it comes to nutrition. Some people need to avoid caffeine for medical reasons, and they should. If coffee makes you feel bad, or makes it hard for you to sleep, or renders you a less likable person — then by all means feel free to cut back or stop.
+当然，要是喝咖啡会让你感觉不舒服就另当别论了。我之前也说过，在涉及到营养问题时，可能有必要根据个人的具体情况来一番试错。有些人因为医学上的原因不能摄入咖啡因，那么他们就不应该喝咖啡。如果喝咖啡会让你感觉不舒服，令你难以入睡，或者会让你变成一个不太讨人喜欢的人，那么，你也尽可以少喝或者不喝咖啡。
+But if you like it, then by all means enjoy it.
+但是，如果你喜欢咖啡，那就随心所欲地享用吧。

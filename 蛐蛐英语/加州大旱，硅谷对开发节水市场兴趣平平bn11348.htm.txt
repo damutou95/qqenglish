@@ -1,0 +1,36 @@
+Silicon Valley has a richly deserved reputation as the world’s engine of technology innovation, with a track record that includes developing integrated circuits, microprocessors, personal computers and smartphones. This is a culture of confidence and bravado. Ask a bunch of tech leaders about their goals, and it’s a good bet that many of them will utter the words, “To change the world.”
+硅谷被誉为全球的技术创新发动机，这个名号它当之无愧——集成电路、微处理器、个人电脑和智能手机都是在硅谷诞生的。这里盛行自信满满、言行强势的文化。当被问及有着怎样的目标时，很多科技领袖都会以“改变世界”作答。
+Now would seem a ripe opportunity to find some groundbreaking answers, with California facing such a severe drought that Gov. Jerry Brown has imposed water restrictions.
+眼下似乎是发掘具有突破创新意义的答案的大好时机，因为加利福尼亚州正面临严重的干旱，以至于州长杰瑞·布朗(Jerry Brown)不得不颁布了限水令。
+But the wizardry of the Valley’s innovation has its limits, at least for now.
+但硅谷的创新魔法有其局限性，至少现在如此。
+Here on Sand Hill Road, home of the region’s venture capital firms, there was a brief love affair with “clean tech” at the beginning of the last decade, but it fizzled and is now considered an ill-advised rush to invest in a range of sustainable energy startup firms. The Valley’s investors learned a hard lesson — that energy technologies often required larger investments and had longer development cycles than they would have liked. And when the market for solar panels was flooded by low-cost Chinese competitors, the “change the world” mantra of the venture capital community moved on to focus on social networking, software and other Internet investments.
+21世纪的头几年，在当地风投公司汇聚一堂的沙山路上，“清洁技术”受到过短暂追捧，但那股热潮很快就烟消云散了。风投们当年急不可耐地投资于一系列可持续能源初创企业的做法，如今被认为是不明智的。硅谷的投资者得到了一个惨痛的教训——能源技术常常需要更大规模的投资，其开发周期之长也是他们无法欣然接受的。当市场充斥着中国竞争者生产的低价太阳能组件时，口口声声要“改变世界”的风投们把着眼点放在了社交网络、软件以及其他互联网项目的投资上。
+The water crisis simply may be a poor match for the Valley’s skill set.
+加州的水资源危机或许与硅谷掌握的技能并不匹配。
+“Not sure I have much to say on the water crisis that is enlightening,” said Vinod Khosla, one of Silicon Valley’s pre-eminent venture investors who has made significant clean-tech investments, when asked about the drought last week.
+“我对这场水资源危机恐怕没有太多可以予人启迪的话好说。”上周被问及对旱情的看法时，硅谷最杰出的风险投资人之一、在清洁技术领域进行了大规模投资的维诺德·柯斯拉(Vinod Khosla)表示。
+The challenge of the water crisis has complications that give investors pause, too: The solutions may have more to do with changing policy than technology breakthroughs at this stage.
+水资源危机这一挑战所具有的复杂性也让投资人踌躇不前：现阶段，其解决方案或许在更大程度上与政策变革而非技术突破有关。
+“Water is not a rational market today,” said Brook Porter, a partner in Kleiner Perkins Caulfield and Byers Green Growth Fund. The problems, he said, include inefficient or nonexistent pricing mechanisms, and regulatory bodies that may be resistant to change.
+“今天的水资源市场并不是一个理性的市场，”凯鹏华盈(Kleiner Perkins Caulfield and Byers)旗下绿色成长基金(Green Growth Fund)的合伙人布克·波特(Brook Porter)表示。他说，其问题包括：定价机制效率底下，甚至根本没有定价机制，监管机构可能抗拒变革等等。
+“It is daunting for a startup to navigate,” he added. “The problem is more market-based than technology-based.”
+“这个市场让初创公司望而生畏，”他补充道。“问题更多地出在市场上，而非技术上。”
+The lack of interest by Valley investors in water can be seen in the drastic decline in new investments in water and wastewater startups last year, even in the face of a worsening drought. New investments declined 39 percent last year to $358 million, and the number of deals fell by 42 percent to the lowest level since 2009, according to the i3 research group of the Cleantech Group based in San Francisco.
+尽管旱情愈演欲烈，水资源和废水处理初创业企业去年新拿到的投资却急剧下降，由此可以看出硅谷投资人对水资源市场缺乏兴趣。来自洛杉矶清洁技术集团(Cleantech Group) i3研究小组的数据显示，去年的新增投资额下降39%至3.58亿美元，交易数量下降42%至2009年以来的最低水平。
+Where the region shines is in “disrupting” existing markets. The Valley’s idealized image is of two partners toiling in a garage, developing a technology with the promise of delivering accelerating returns.
+该地区的最大特色是对既有市场的“颠覆”。硅谷的理想化形象是，两个伙伴在一间车库里挥汗如雨，开发出一种能够带来无限回报的技术。
+The two Steves — Jobs and Wozniak — still embody this Silicon Valley ideal. One was an inventor who built a computer as a hobby to share with members of the Homebrew Computer Club (with no intention of creating a business or a product), and the other had the foresight to see a new commercial market.
+两个史蒂夫——乔布斯和沃兹尼亚克——仍然代表着这种硅谷理想。一个是发明家，出于爱好创造了一台电脑，分享给家酿计算机俱乐部(Homebrew Computer Club)的成员们（根本没打算创造什么企业或产品），另一个人则有能力预见到一个新的商业市场。
+But that model is a poor fit for the water conservation conundrum in California, where roughly 80 percent of the state’s water is consumed by agriculture. Water is still inexpensive, as well, which serves as another barrier to innovation.
+不过，这种模式并不适用于加州的水源保护难题，该州80%的水都被农业所消耗。水价仍然不贵，这也是创新的又一障碍。
+“Silicon Valley has been talking about water technology since they started talking about clean tech, but there are no new big ideas,” said Joel Makower, the chairman and executive editor of the GreenBiz Group, based in Oakland, Calif. “It all comes down to the price of water. When it’s cheap, efficiency doesn’t pay.”
+“自从开始谈论清洁技术以来，硅谷就在讨论水利技术，但一直没有什么新的伟大创意，”设在加州奥克兰的GreenBiz Group的董事长兼执行主编乔尔·麦科沃(Joel Makower)说。“归根结底还是水价，水价便宜时，效率就带不来效益。”
+To date, technology innovations around water conservation have largely come from Israel, home to an entrepreneurial culture that mirrors Silicon Valley’s, plus more flexible policies and market incentives. Indeed, the sensor-based irrigation innovations that might have been expected to come from the Valley have largely come from Israeli entrepreneurs, as well as more traditional businesses like the wine industry and farming equipment, said Michael Kleeman, a sustainability specialist and a senior fellow at the University of California at San Diego.
+迄今为止，水利方面的技术创新主要来自以色列。该国不仅拥有类似于硅谷的创业开拓文化，还有更灵活的政策和市场激励机制。加州大学圣迭戈分校(University of California, San Diego)的可持续性专家、高级学者迈克尔·克利曼(Michael Kleeman)说。事实上，那些基于传感器的灌溉创新产品，看上去仿佛来自硅谷，其实基本上出自以色列创业者以及该国相对传统的行业，比如酿酒业和农耕设备行业。
+He argues that the Valley has excelled in creating new markets rather than satisfying crying needs in existing ones. Much of the excitement in Silicon Valley today revolves around ideas like Elon Musk’s Hyperloop transportation system or colonizing Mars.
+他表示，硅谷擅长的是创造新市场，而非满足现有市场的迫切需求。硅谷目前很多令人兴奋的东西，都是围绕着埃隆·马斯克(Elon Musk)的Hyperloop运输系统或殖民火星这样的概念。
+There are exceptions. One example of a classic Silicon Valley startup that is growing quickly is WaterSmart, a San Francisco-based startup that marries the social networking reach of the Internet to the conservation needs of water utilities to change consumer behavior and to detect leaks. Earlier this month, the company announced a $7 million investment round.
+也有例外。水智能(WaterSmart)就是一个正在快速增长的典型的硅谷创业公司。这家总部设在旧金山的公司将互联网的社交网络力量，同水利机构的节水需求结合在一起，以改变消费者的行为，并检测漏水情况。本月早些时候，该公司宣布在一轮融资中筹集到了700万美元。
+One of the company’s early investors was Steve Westly, a politically savvy venture investor who was an early executive at eBay. He acknowledges the Valley’s lack of interest in the water problem, but says that has played to his advantage.
+史蒂夫·韦斯特利(Steve Westly)是该公司的早期投资者之一。曾是eBay早期高管的韦斯特利是一名对政治颇有见地的风险投资人。他承认硅谷对水的问题缺乏兴趣，但表示这对他自己有利。

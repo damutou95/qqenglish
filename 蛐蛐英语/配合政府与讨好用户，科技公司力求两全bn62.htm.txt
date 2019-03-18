@@ -1,0 +1,35 @@
+Technology companies, the custodians of reams of personal data from hundreds of millions of people around the world, have been under fire after recent revelations that they secretly handed over customer information, including e-mails, in response to requests by the federal government made in the name of national security.
+最近有消息披露，保管着全球几亿人的个人数据的技术公司，作为对联邦政府以国家安全名义所提要求的回应，暗地里把用户信息、包括电子邮件交给政府。为此，这些技术公司受到抨击。
+Now, one by one, the companies are putting out data intended to reassure their users that the government gets information on just a tiny number of people. Over the weekend, Facebook and Microsoft released reports about the overall number of data requests they had received from United States law enforcement agencies. On Monday, Apple and Yahoo joined the chorus.
+现在，这些公司一个接一个的公布数据，意在让用户放心，政府只得到了极小部分人的信息。上周末，Facebook及微软(Microsoft)发布报告，公开了美国执法部门要求它们提供数据的次数。周一，苹果(Apple)及雅虎(Yahoo)也异口同声地加入进来。
+But rather than provide clarity, some of the disclosures have left many questions unanswered.
+然而，所公布的某些内容不是让事情变得更清晰，而是留下很多没有回答的问题。
+Apple, for example, said that from Dec. 1, 2012, through May 31, 2013, it received between 4,000 and 5,000 requests for data, covering 9,000 to 10,000 accounts, from American law enforcement agencies. Facebook said it got 9,000 to 10,000 requests for information about its users, covering 18,000 to 19,000 user accounts, in the last six months of 2012.
+例如，苹果称，从2012年12月1日到2013年5月31日，收到美国执法部门的4000到5000个数据请求，涉及9000到10000个账号。Facebook称，在2012年的后六个月中，收到9000到10000个有关其用户信息的请求，涉及1.8万到1.9万个用户账号。
+How many of those requests were from investigators seeking to sniff out the next terrorist?
+这些请求中，有多少是来自寻找下一个恐怖分子的调查者呢？
+The companies said they were not allowed to say, although they noted that the requests were commonly related to things like local police investigations and searches for missing children. That continuing restriction prompted both Google and Twitter to say they would not publish similar data until they could separate national security requests from the rest.
+这些公司称政府不准它们明说，但是它们表示，这些请求通常与当地警方调查以及寻找失踪儿童有关。由于限制的继续存在，谷歌(Google)及Twitter称，在能够将国家安全请求与其它要求分开之前，他们不会公布类似的数据。
+“We still don’t know what is allowed and how these programs are being implemented,” said Amie Stepanovich, director of the Domestic Surveillance Project at the Electronic Privacy Information Center, a nonprofit group.
+非营利性机构电子隐私信息中心(Electronic Privacy Information Center)的国内监控项目主管艾米·斯塔帕诺维奇(Amie Stepanovich)说，“我们仍不知道，宣布什么是被允许的，以及这些项目是怎样实施的。”
+But the companies were under immense pressure to announce something. If customers do not trust that Facebook or Microsoft or Google will keep private data confidential, they could use those services far less, undermining the companies’ business model.
+但是这些公司处于巨大的压力之下，不得不宣布点什么东西。如果用户不信任Facebook、微软及谷歌能对用户的私人信息保密，他们就会少用这些服务，从而毁坏这些公司的商业模式。
+“They’ve got to say to the consuming public that we care about your data, we’re going to do everything we can to preserve your data, and absent a national security contingency, no one gets access to your data,” said Adonis Hoffman, an adjunct professor at Georgetown University, who has served as a legal adviser to both the government and the advertising industry.
+乔治城大学(Georgetown University)副教授阿多尼斯·霍夫曼(Adonis Hoffman)曾为政府及广告业担任法律顾问。他说，“他们需要告知消费大众，我们在乎你们的数据，我们会竭尽全力保护你们的数据，在没有国家安全意外时，没有人能接触到你们的数据。”
+Pressing on the companies from the other side are the country’s intelligence agencies, which prohibit companies from disclosing virtually anything about the requests for national security data without permission.
+从另一面对这些公司施压的是美国情报部门。这些部门禁止公司未经允许公布有关国家安全数据请求的几乎任何信息。
+“The nature of these orders are that they themselves are secret,” said one frustrated executive at a company involved in discussions with the government over disclosure issues.
+“这些命令的本质是，它们本身就是秘密”，一家公司的高管沮丧地说，他参与了公司就公开资料问题与政府的协商。
+Despite a week of arduous negotiations since the first reports about the National Security Agency’s seeking private data from nine major technology companies, the firms still cannot say much. “The government will only authorize us to communicate about these numbers in aggregate, and as a range,” Facebook wrote when it posted its data late Friday night.
+自从有关国家安全局(National Security Agency)向九家主要技术公司寻求私人数据的首份报道出现以来，尽管这些公司已经与政府进行了长达一周的艰难谈判，但它们仍有很多东西不能说。上周五晚，Facebook贴出自己的数据时写道，“政府只允许我们公开这些请求的总数，而且是以范围的形式。”
+Still, for tech companies that had never before released a transparency report, like Facebook and Apple, the data shed some light on their practices.
+尽管如此，对于Facebook及苹果等之前从未公布过透明度报告的技术公司来说，这些数据揭示了一些他们的运作方式。
+Apple, for example, noted in its report that it never gives the government copies of electronic conversations that take place over iMessage and FaceTime because they are protected by encryption that even Apple cannot break. “Similarly, we do not store data related to customers’ location, Map searches or Siri requests in any identifiable form,” the company said.
+例如，苹果在报告中称，苹果从未交给政府iMessage或FaceTime上的电子对话的拷贝，因为这些内容被加密保护，就连苹果也破解不了。公司称，“同样，我们也不以任何可识别的形式存储与客户位置、地图搜索或Siri请求相关的数据。”
+Google and Twitter, which had previously released transparency reports, said that lumping all law enforcement requests together, like Apple and the others did over the weekend, would be even less transparent.
+过去曾发布过透明度报告的谷歌及Twitter称，把所有的执法请求总数不加区分地公开，像苹果及其他公司在周末所做的那样，会带来更多的不透明。
+Microsoft, which put out its first transparency report in March, decided to disclose the aggregate numbers but said it was pressing for further disclosure. Google, which published its first transparency report in 2010, has been the most aggressive in pushing for more disclosure. In March, it began breaking out data on one type of government request — National Security Letters, which request information on Americans — saying it had received 0 to 999 requests.
+微软曾于3月公布其首份透明度报告，这次它决定公布总数，但说也在努力推动进一步的公开。谷歌是在2010年发布其首份透明度报告的，它在推动进一步公开的问题上最积极。3月，谷歌开始将一种政府请求区别出来，称其收到了0到999份国家安全密函(National Security Letters)。国家安全密函是对有关美国人信息的请求。
+Permission to disclose that came after more than a year of negotiations with the government, and Google had been seeking permission to publish data on the other major type of national security request — information on foreigners demanded under the Foreign Intelligence Surveillance Act — even before news of Prism, the government’s surveillance program, broke, according to a person briefed on those discussions. It is still in talks to try to publish more detailed data, the person said.
+一位知情人士称，在与政府谈判了一年多之后，谷歌才获准公开国家安全密函的数量；而且，甚至在美国政府的监视项目棱镜(Prism)的新闻爆出之前，谷歌就一直在寻求获准公开另一类主要国家安全要求，也就是政府依据《外国情报监视法案》（Foreign Intelligence Surveillance Act，简称FISA）提出的对外国人信息的要求。这位知情人士说，谷歌仍然在进行谈判，以图公布更多详细的数据。 Still, even if the government gives permission to break out FISA requests as a separate data point, the numbers are unlikely to tell the whole story. For every formal FISA request the government makes, intelligence agents are able to add names and additional search queries to that request for up to a year afterward, so the amount of data requested could be much higher.
+然而，即使政府允许把FISA请求作为一个分离的数据点予以公布，这些数字也不可能展现事情的全貌。在政府做出的每一份正式FISA请求上，情报人员都能在请求提出后的一年内，附带添加其他人的名字以及额外搜索的请求，因此，实际被请求的数据量可能会大得多。

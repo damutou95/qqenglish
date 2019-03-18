@@ -1,0 +1,44 @@
+Here is how the venture capital game used to be played around here:
+这里的风险投资游戏以前是这么玩的：
+A friend calls a friend who knows a guy. A meeting is taken. Wine is drunk (at, say, Madera lounge in Menlo Park). A business plan? Sure, whatever. But how does it feel?
+一个朋友给朋友打了个电话，这个朋友认识某个人。于是大家一起见了个面，喝了点酒（比如说在门洛帕克的马德拉餐厅）。商业计划书？当然，你说怎样就怎样好了。但是你感觉这个项目如何呢？
+This is decidedly not how Google, that apotheosis of our data-driven economy, wants to approach the high-stakes business of investing in the next, well, Google. Unlike venture capitalists of old, the company’s rising V.C. arm focuses not on the art of the deal, but on the science of the deal. First, data is collected, collated, analyzed. Only then does the money start to flow.
+投资高科技创业公司是一项风险很高的业务，作为我们数据驱动型经济的典范，谷歌决然不会像上述的那样对待这项业务。跟老派的风险资本家不一样，谷歌正在崛起的风投部门所关注的，不是交易的艺术，而是交易的科学。谷歌会首先收集、整理、分析数据，然后才会开始运作资金。
+Google Ventures and its take on investing represent a new formula for the venture capital business, and skeptics say it will never capture the chemistry — or, perhaps, the magic — of Silicon Valley. Would computer algorithms have bankrolled David Packard or Steve Jobs? Foreseen the folly of Pets.com?
+谷歌风投及其处理投资的方式，代表了风险投资业务的一套新方法，不过怀疑者们说，它永远无法捕捉到硅谷的火花或者魔法。计算机算法会支持你投资给戴维·帕卡德(David Packard)或史蒂夫·乔布斯(Steve Jobs)吗？它能预见到Pets.com的愚蠢吗？
+The data provides one answer to those questions, at least for now: Since its founding in 2009, Google Ventures has stood out in an industry that, for all its star power, has been dealing its investors a bad hand. In recent years, an investor would have done better with a ho-hum mutual fund that tracks the stock market than with some splashy V.C. fund. Venture capital funds posted an annual average return of 6.9 percent from 2002 to 2012, trailing major stock indexes, according to Cambridge Associates.
+至少在目前，数据为这些问题提供了一个答案：自2009年成立以来，谷歌风投在风投行业中的表现引人注目；这个行业尽管声名显赫，却没有给投资者带来实实在在的收益。最近几年，投资一些声势浩大的风投基金获得的收益，还比不上投一个无聊的共同基金去追股市行情。剑桥联合研究顾问公司(Cambridge Associates)的资料显示，从2002年至2012年，风险资金的平均年回报率为6.9%，弱于主要股指。
+Google Ventures, like all venture funds, does not publicly reveal returns. But its partners can count on one hand the number of its 170 investments that have failed, though it is too early to know how many will succeed, and it has missed investing in some superstar companies. Its successes include companies that have gone public, like HomeAway for vacation rentals and Silver Spring Networks for smart grid software, and start-ups sold to Google, Yahoo, Facebook and Twitter.
+像所有风投基金一样，谷歌风投也没有公布自己的投资回报率，但在它投资的170个项目中，已失败的项目，合伙人们一只手就数得过来；当然，现在还很难说其中有多少项目会取得成功，而且它也错过了一些巨星级的公司。谷歌投资成功的项目包括已经上市的公司，比如度假租赁服务HomeAway和智能电网软件Silver Spring Networks，也包括出售给给谷歌、雅虎、Facebook和Twitter的一些创业公司。
+Whether Big Data — that label for technology and decision-making that is upending so many businesses — can truly transform the industry that helped spawn it remains to be seen. Few deny that crunching data is increasingly important. But some insist that those old intangibles, like instinct and luck, are still paramount.
+大数据所代表的技术和决策方式正在颠覆多种业务，它能否真正转变这个曾经催生了它的行业仍有待观察。数据处理正在变得越来越重要，这一点很少有人否认。但是有些人坚称，那些无形的“老”因素，比如本能和运气，依然是最重要的。
+“V.C.’s, just like all of our portfolio companies, need to be analytically intuitive in the modern era of data analytics,” said Matt McIlwain, managing director of Madrona Venture Group, which has invested in companies like Amazon.com and Redfin, the real estate site. “But the intuition part is ultimately the biggest factor. And even with all that, a little good luck goes a long way.”
+“和我们投资的所有公司一样，在数据分析的摩登时代，风投机构需要有分析性的直觉，”麦德罗纳风险投资集团(Madrona Venture Group)总经理马特·麦克尔威恩(Matt McIlwain)说，他的公司曾投资给Amazon.com和房地产网站Redfin。 “但是最终直觉才是最重要的因素。就算是所有这些都已经具备，一点点好运气也能发挥相当大的作用。”
+Google Ventures was the first major firm to rely heavily on data. Since then, established funds like Kleiner Perkins Caufield & Byers, Sequoia Capital and Y Combinator have followed suit, and new firms like the Ironstone Group and Palo Alto Venture Science have been created to test the strategy.
+谷歌风投是第一家大量依赖数据的大型风投公司。之后，不仅像KPCB(Kleiner Perkins Caufield & Byers)、红杉资本(Sequoia Capital)和Y孵化器(Y Combinator)这样的知名基金纷纷效仿它，像铁石集团(Ironstone Group)和帕洛阿尔托风投科学公司(Palo Alto Venture Science)这样的新公司就是为了检测这种策略而成立的。
+Many venture capitalists agree that something needs to change. In the tech industry, where engineers believe any problem can be solved with data, the solution seemed obvious.
+很多风险资本家都同意，有些事情需要加以改变。在科技行业中，工程师相信任何问题都可以用数据来解决，因此采用这样的解决方案似乎也是顺理成章的事情。
+“If you can’t measure and quantify it, how can you hope to start working on a solution?” said Bill Maris, managing partner of Google Ventures. “We have access to the world’s largest data sets you can imagine, our cloud computer infrastructure is the biggest ever. It would be foolish to just go out and make gut investments.”
+“如果你不能衡量它，量化它，那你又怎么开始制定解决方案呢？”谷歌风投的管理合伙人比尔·马里斯(Bill Maris)说，“我们拥有你能想像到的世界上最大的数据集，我们的云计算机架构是有史以来最大的。如果我们投资的时候还随随便便跟着感觉走，那就有些冒傻气了。”
+Google Ventures has $1.5 billion under management — a pittance in the wider world of Google, which made $50 billion in revenue last year. It employs seven people who gather data, analyze it and present the results to the investors. 
+谷歌风投掌管着15亿美元的资金——对谷歌来说是小钱一笔，谷歌去年的营收是500亿美元。该公司雇佣了七个人来负责收集和分析数据，并向投资者演示结果。
+The firm feeds its algorithms data gleaned from academic literature, past experience and due diligence about start-ups and their founders. Even college dropouts who have never started a company have a quantifiable track record, Mr. Maris said.
+谷歌风投收集的数据来自跟创业公司及其创始人有关的学术文献，过去的经验，以及尽职调查，它们被输入到谷歌风投的算法中。马里斯说，即使是从来没有开过一家公司的大学辍学生，也会有一个量化的跟踪记录。
+Google declined to reveal its secret sauce — the algorithms it uses to parse the data. But it has learned a few lessons.
+谷歌拒绝透露其秘密武器——即它用来分析数据的算法。但是它已经从中学到了一些窍门。
+Here’s a riddle from Graham Spencer, a general partner at Google Ventures who oversees its data work: Is it better to invest in someone who started a company in a mediocre year for returns and did well, or started one in a good year with mediocre results?
+格雷厄姆·斯宾塞(Graham Spencer)是谷歌风投的普通合伙人，负责该公司的数据工作，下面就是他出的一道题：一家公司在年景不好的时候开业，取得了很好的业绩，另一家公司在年景很好的时候开业，但业绩平平，投资哪家公司会比较好？
+Most people say the first case. But results from academic studies show it is the second, because that indicates the founders have a better sense of market timing, Mr. Spencer said.
+大多数人都会选择第一家公司。但是斯宾塞说，一些学术研究结果表明，你应该投资给第二家公司，因为它的创始人更善于把握市场时机。
+Some of the lessons seem obvious. An entrepreneur who has started a successful company is more likely to do it again, Google Ventures found, and start-ups based in tech hubs like the San Francisco Bay Area are more likely to succeed.
+有些窍门似乎显而易见。比如谷歌风投发现，已经成功创办过一家公司的创业者更容易再次获得成功，而总部设在像旧金山湾区这样的科技中心的创业公司，获得成功的可能性也更大。
+But the key, Mr. Spencer said, is to be able to understand which elements are most important, as opposed to coming up with black-and-white rules. Google’s algorithms have shown that while location matters, for instance, past success is much more important. Investing only in experienced entrepreneurs, however, would have meant overlooking Mark Zuckerberg, as well as Larry Page and Sergey Brin.
+但是斯宾塞表示，关键在于能够了解哪些因素是最重要的，而不是得出非黑即白的规则。举例来说， 虽然谷歌的算法表明创业公司的地理位置很重要，但创始人过去的成功经历却更重要得多。然而，只投资给经验丰富的创业者，却意味着小看了创办Facebook的马克·扎克伯格(Mark Zuckerberg)，以及谷歌的两位创始人拉里·佩奇(Larry Page)和谢尔盖·布林(Sergey Brin)。
+Google says intuition and chemistry still play a crucial role, and can even override the data.
+谷歌说，直觉和火花仍然发挥着至关重要的作用，甚至可以推翻数据。
+“We would never make an investment in a founder we thought was a jerk, even if all the data said this is an investment you should make,” Mr. Maris said.
+“我们绝不会投资给那些我们觉得很混账的创始人，即使所有的数据都支持投资给他。”斯宾塞说。
+Some venture firms rely almost solely on algorithms to choose where to invest. That is the strategy of Ironstone, a venture firm started by William R. Hambrecht, one of the pioneers of tech investing. 
+一些风投公司几乎完全依赖于算法来决定在哪里投资，铁石的策略就是如此，创办这家风投公司的威廉·R·哈姆布雷特(William R. Hambrecht)是科技投资界的先驱者之一。
+Ironstone’s algorithms have produced conclusions that are heretical to traditional venture capitalists. They say, for instance, that a start-up’s founding team has only 12 percent predictive value, even though most investors rank that as one of the most important factors. And just 20 percent of Ironstone’s analysis focuses on the start-up itself, and the rest is on the market it is entering, because they say start-ups are likely to change course and the market has more predictive power.
+在传统风险资本家看来，铁石的算法得出的结论可谓是异端邪说。例如，尽管大多数投资者都认为创业团队是最重要的因素之一，但在铁石的预测值中，创业团队只占12％的比重。铁石的分析只把20％的权重放在创业公司本身上，其余全部分配到了该公司试图进入的市场上，它说这是因为创业公司有可能会转型，而市场的预测力更强。

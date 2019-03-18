@@ -1,0 +1,46 @@
+GENETICALLY modified mosquitoes are in the news for good reason: They may be our best hope for controlling the mosquito-borne Zika virus. The Food and Drug Administration has issued a preliminary finding of no significant environmental impact and is seeking public comment on a plan to test them in a field trial in the Florida Keys.
+经过基因改造的蚊子有理由被媒体关注和报道：在控制蚊媒传播的兹卡病毒方面，它们可能是我们最大的希望。美国食品与药品管理局(Food and Drug Administration)发布了这些蚊子不会带来重大环境影响的初步调研结果，正在就一项在佛罗里达群岛进行实地测试的计划征询公众意见。
+So you might think this will resolve the Zika crisis, which has caught the world’s attention because of an unexpected spike in microcephaly in babies born to women infected during pregnancy and in the incidence of the paralytic Guillain-Barré syndrome in Zika-infected adults.
+你可能觉得，如此这般我们就能解决这场引发全球关注的兹卡病毒危机了。这样的关注度是因为，在怀孕期间感染该病毒的妇女诞下小头症婴儿的几率出人意料地大大增加，感染兹卡病毒的成人出现可以导致瘫痪的格林-巴利综合征(Guillain-Barré Syndrome)的几率同样激增。
+You’d be wrong. People are apprehensive about the release of these mosquitoes simply because they are genetically modified. And the company that produces them must traverse a time-consuming federal regulatory process before they can be released in the United States.
+那你就错了。人们对投放这些蚊子存在担忧，因为它们是转基因的。而且生产这些蚊子的企业，必须经过一个非常耗时的联邦监管程序，才能在美国进行投放。
+This is unfortunate, because biological insect control can eradicate pests over large areas. This is what these genetically modified mosquitoes are intended to do to Zika-virus-carrying mosquitoes.
+这挺让人遗憾的，因为昆虫生物防治法可以做到大面积扫除虫害。这些基因改造的蚊子被研发出来，就是为了大面积根除能携带兹卡病毒的蚊子。
+The story of the screwworm, a particularly nasty insect that once caused millions of dollars of losses in the livestock industry, is instructive. Female screwworm flies lay eggs in open wounds of animals and humans. The larvae feed on the living flesh and attract more egg-laying females. If not treated, the animal dies.
+在这方面，螺旋蛆的例子就很能说明问题。这种极其令人作呕的昆虫，曾经给美国畜牧业带来成百上千万美元的损失。母螺旋蛆母虫会在动物和人类裸露的伤口上产卵。幼虫以新鲜的血肉为食，由此引来更多可以产卵的母虫。如果不接受治疗，感染的动物就会死亡。
+Around 1950, Edward Knipling, a Department of Agriculture scientist who had been exploring sterilization as a way to control screwworms, learned of the Nobel laureate H. J. Muller’s pioneering genetic work on the fruit fly Drosophila.
+大约在1950年，美国农业部的科学家爱德华·尼普林(Edward Knipling)了解到诺贝尔奖得主H·J·穆勒(H. J. Muller)就果蝇所做的具有开创性的基因研究。此前，尼普林一直在探索用绝育的方式控制螺旋蛆的繁殖。
+Dr. Muller had discovered that X-rays produced genetic changes in the fruit flies, but that high doses made them sterile. So Dr. Knipling wondered whether irradiated, sterile screwworm flies could still mate. His experiments showed that screwworm pupae could grow into sterile adults that could mate, but not reproduce.
+穆勒博士发现X光会为果蝇的基因带来变化，而且高剂量的X光会致使果蝇不育。于是尼普林博士开始琢磨，照射X光后无生育能力的螺旋蝇是否还能交配。他的实验表明，螺旋蝇的虫蛹可以成长为不育的成年螺旋蝇，届时可以交配，但无法繁殖。
+Dr. Knipling believed these sterile insects could suppress the screwworm biologically. The idea was to release lots of them to mate. Since they couldn’t produce offspring, the sterile screwworms flies should gradually eradicate the species.
+尼普林博士相信，从生物学的角度看，这些不育的昆虫可以让螺旋蝇销声匿迹。由于无法繁殖后代，它们应该会逐渐让螺旋蝇这个物种走向灭绝。
+The first large-scale test was conducted on Sanibel Island in Florida in 1951. It was a success, as was a 1954 trial that eradicated the screwworm from the Antilles island of Curaçao, followed by another successful trial in Florida.
+第一场大规模试验于1951年在佛罗里达州的萨尼伯尔岛展开。这场试验很成功。1954年的一场试验把荷属安的列斯库拉索岛的螺旋蝇同样消灭殆尽，此后在佛罗里达州进行的另一场试验也获得了成功。
+Over the next three decades, the eradication program was carried out first in Florida, then in the Southwest and eventually, in Mexico and beyond. Irradiated screwworm flies raised in Florida, Texas and Mexico were packed in boxes and released from small planes. At the program’s peak, upward of 300 million sterile flies were released weekly.
+接下来的30年时间里，这一灭蝇项目首先在佛罗里达州实施，随后是在整个美国东南部地区，最终扩展到了墨西哥等地。人们把受到过X光照射的螺旋蝇在佛罗里达州、德克萨斯州和墨西哥饲养大，然后再用小型飞机把它们投放出去。在该项目的全盛期，每周要放飞3亿只不具生育能力的螺旋蝇。
+The impact was decisive. The last cases of screwworm in the United States were reported in 1982. By the end of 1985, most of Mexico was screwworm-free and the eradication program had moved on to Guatemala and Belize, now also free of the pest. This ranks as perhaps the greatest insect-control success story.
+其效果显而易见。螺旋蝇最后一次在美国境内被发现，是在1982年。到1985年底，墨西哥大部分地区都没了螺旋蝇的踪迹，那时灭蝇项目已经拓展到了危地马拉和伯利兹，这两个国家现在也没有螺旋蝇。这或许是最伟大的成功灭虫案例。
+Now, the world is focused on the public health menace of the Zika virus. Zika is spread by Aedes aegypti, the same mosquito that transmits dengue, chikungunya and yellow fever.
+如今，全世界都在关注兹卡病毒对公众健康造成的威胁。传播这种病毒的埃及伊蚊，同时也会传播登革热、基孔肯雅热和黄热病。
+Mosquito-control efforts rely on insecticides and eliminating mosquito breeding places. But despite a relatively successful hemisphere-wide effort beginning in the 1940s, mosquitoes have roared back, becoming difficult to control because of growing resistance to insecticides.
+灭蚊行动有赖于使用杀虫剂和清除滋生蚊子的环境。尽管从1940年代开始在半个地球范围内展开的灭蚊行动是较为成功的，但蚊子已经卷土重来，而且由于逐渐对杀虫剂产生了抗药性，它们更难被消灭了。
+Diseases carried by mosquitoes that were once relatively well controlled are re-emerging along with newer ones, including the West Nile and Zika viruses.
+一度受到较好控制的蚊媒病毒，又和包括西尼罗和兹卡病毒在内的新病毒一起冒出头来。
+But there is a promising solution. Building on Dr. Muller’s legacy, scientists at a small start-up called Oxitec (now a subsidiary of Intrexon) endowed mosquitoes with a lethal gene that prevents development of their offspring. The pupae are sorted, and only the males are released.
+但眼下有一个行得通的解决方案。在一个名为Oxitec的小型初创公司（现在是Intrexon的子公司）工作的科学家们，以穆勒博士的研究成果为基础，向蚊子体内植入一种致死基因，可以阻止其后代的生长发育。虫蛹是经过筛选的，只有雄性蚊子会被投放出去。
+Unlike irradiated mosquitoes, which don’t compete well with wild ones for mates, genetically modified mosquitoes mate just fine, passing on the lethal gene. Small-scale tests conducted in the Cayman Islands, Panama and Brazil since 2009 reduced local mosquito populations by as much as 99 percent.
+和受到过辐射、难以跟野生同性争夺配偶的蚊子不同，转基因蚊子很容易找到配偶，把致死基因传递给下一代。2009年以来在开曼群岛、巴拿马和巴西开展的小规模试验，让当地的蚊子数量最多减少了99%。
+So why aren’t we quickly gearing up production and beginning large-scale programs to release these mosquitoes?
+那么，我们为什么不赶快多多生产这样的蚊子，并启动一些大型项目，把它们投放出去？
+It’s because the Oxitec mosquitoes are genetically modified organisms and subject to different regulatory oversight in different countries. In Brazil, for example, release of Oxitec mosquitoes has been approved by one government agency but awaits approval from another agency.
+原因在于Oxitec公司的蚊子是转基因生物，不同的国家对它们有不同的监管规则。举个例子，在巴西，投放Oxitec公司的蚊子一事已经得到了一家政府机构的批准，但还在等待另一部门的批准。
+Despite its substantial expertise in insect control, the Department of Agriculture has regrettably not taken a role in helping navigate the regulatory complexities for this mosquito. So these insects are being regulated as a “new animal drug” by the F.D.A. The agency is now accepting public comments on Oxitec’s plan and will then evaluate each one before deciding whether to approve the Florida trial.
+美国农业部在灭虫方面具有大量专业知识，但很遗憾的是，它一直没有出手相帮，好让这种蚊子不被复杂的监管规定束缚住。因此，这些昆虫现在是被美国食品药品监督管理局(FDA)当成“新动物药”来监管的。该机构目前在就Oxitec公司的计划征询公众意见，接着会对每一条意见做评估，然后才能决定是否批准佛罗里达州的试验。
+You get the picture. None of this happens fast.
+你了解了吧。上面说的哪一件事都快不了。
+Then there’s public opinion. More than 160,000 people signed a petition opposing Oxitec’s trial in the Florida Keys, but most signed before the Zika crisis. In a recent Purdue University survey, 78 percent of respondents supported the use of genetically engineered mosquitoes to control the spread of the Zika virus.
+再来说说公众的意见。共有超过16万人在一份请愿书上签名，反对Oxitec公司在佛罗里达群岛开展试验，但其中大多数人都是在兹卡危机爆发前签的。普渡大学(Purdue University)最近进行了一次调查，78%的受访者支持使用经过基因改造的蚊子控制兹卡病毒的蔓延。
+The released male mosquitoes have no effect on people because males don’t bite. While we might wait years for a Zika vaccine, the genetically modified mosquito is tested, scalable and ready to go.
+投放雄性蚊子对人类并无影响，因为它们不咬人。我们也许要等好几年才能看到兹卡疫苗问世，而经过基因改造的蚊子已经经过测试，可以适应不同规模的项目，并且做好了准备。
+Zika looks more devastating with every new study. Are the stakes finally high enough to expedite an effective, hemisphere-wide mosquito eradication program that makes use of modern genetic modification techniques?
+每一项新研究都揭示出兹卡病毒具有越来越大的危害性。但情况最终是会否严重到足以促使一个涉及半个地球、利用现代基因改造技术高效灭蚊的项目尽快得到实施呢？

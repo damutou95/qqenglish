@@ -1,0 +1,36 @@
+Amid the horror and devastation around Nepal’s Katmandu Valley after Saturday’s 7.8-magnitude earthquake, seismologists and earthquake-focused engineers are remarking on how low the death counts are — particularly in the capital — compared to many predictions for the densely populated, deeply impoverished and ill-prepared region.
+在尼泊尔加德满都谷地周六遭遇7.8级地震的恐慌与浩劫中，地震学家和地震方向的工程师们却一直在感叹死亡人数之少，尤其是首都的死亡人数。相对于诸多预估数据，这片人口密集、身陷赤贫又毫无准备的土地上，实际的遇难者要少得多。
+And this assessment presumes that fatalities will climb much higher than the 4000 counted so far. But to reach even the low end of past estimates, the death toll would have to rise enormously.
+这种说法所预计的死亡人数要比现在的4000多人高出很多。但即使是按照以往预估的最低值来算，现在的死亡人数也低得多。
+In 2012, for example, this was the warning for the Katmandu Valley from the United Nations Office for Disaster Risk Reduction:
+例如，2012年联合国减灾办公室(United Nations Office for Disaster Risk Reduction)就曾向加德满都谷地发出如下提醒：
+Conservative estimates are that the next big earthquake could result in 100,000 dead, 200,000 injured and one to two million people displaced
+保守估计，下一场大地震将造成10万人遇难，20万人受伤，100万至200万人无家可归。
+Why the difference? For one thing, it appears that, at least for the capital, this earthquake was not nearly a worst case.
+实际状况为何与此相去甚远？一方面，至少以首都的情况来看，这并非最严重的一次地震。
+If the great 1934 Bihar-Nepal earthquake occurred with today’s population and structures, vastly higher losses would occur, as GeoHazards International and Nepal’s National Society for Earthquake Technology found in a 1999 analysis.
+国际地质灾害组织(GeoHazards International)与尼泊尔国家地震技术科学会(Nepal's National Society for Earthquake Technology)1999年发布分析报告称，如果1934年的比哈尔-尼泊尔地震(Bihar-Nepal earthquake)重演，以如今的人口规模和结构来看，死亡人数将大幅上升。
+Susan E. Hough, a United States Geological Survey seismologist, sent these thoughts on Sunday:
+美国地质调查局的地震学家苏珊·E·哈夫(Susan E. Hough)周日时发表了如下观点：
+As tragic as the losses are, it seems clear the city was not flattened. I’ve been struck by damage photos — not only the damage they show, but the damage they don’t show to apparently intact buildings in the background. This seems to go hand-in-hand with the ShakeMap, which is poorly constrained but shows intensities 7-8 in the near-field, not 9-10.
+尽管伤亡人数令人悲叹，但很明显这座城市并没有被夷为平地。看到受灾地照片我很震惊——不仅是被它们所呈现的受灾状况震惊，更被它们所无意呈现的，背景里完好无损的建筑所震惊。这一切似乎和缺乏约束的地震动预测图(ShakeMap)相吻合，显示为7-8级烈度的近场地震，而非9-10级。
+I’m thinking it will be an interesting part of the earthquake story, understanding the ground motions in the near field. There should be at least some strong motion data from Katmandu, and maybe elsewhere. It kills me there isn’t more: I tried to put together a proposal a few years ago to install more dense low-cost accelerometers in the valley, working with NSET [Nepal’s National Society for Earthquake Technology] and Tribuvan University. I was involved with a proposal that went in a year or so ago…. I do think preparedness efforts made a difference. Amod Dixit and his team at NSET have worked tirelessly on outreach, education, and training.
+我想这会成为地震史上对近场地动认知的有趣一幕。加德满都应该至少有一些强烈地动的数据，也许其他地方也有。但只有这些，这让我很烦恼：我试图整合几年前和尼泊尔国家地震技术科学会(NSET)和特里万布大学(Tribuvan University)合作的一个在谷地更密集地安装低成本测震仪的提案。我还参与了一年多前的一个提案……我认为事先准备是有效可靠的。阿莫德·迪克斯特(Amod Dixit)和他在尼泊尔国家地震技术科学会的团队一直孜孜不倦地在范围、教育和训练方面探索研究。
+The population was not ignorant. Fatalism arises when problems are so far outside people’s control that they can’t do anything about it — or rather, they think they can’t do anything about it.
+人们并非完全一无所知。但当问题超出可控范围，人们无力回天的时候，宿命论就会占上风——或者说，人们自以为无力回天的时候。
+And yes that paragraph is contradictory. The thing is, the overall problem was far outside anyone’s control but it is still possible to make some difference.
+好吧，上一段的确很矛盾。关键在于，当整体问题完全失控的时候，我们依然是可以做出些改变的。
+Port-au-Prince is mostly the same story: big problems, big earthquakes, few resources. By my calculation, ground motions in Port-au-Prince were not intensity 9-10, but maybe 6-8. The story again was vulnerability.
+太子港的情况也差不多：问题棘手，地震严重，资源稀缺。据我个人计算，太子港地动烈度并非9-10级，可能是6-8级。那一次的问题，也是抗震能力。
+I also asked her if there’s any concern about this being misperceived as the worst that could happen.
+我还问了她此次地震误解为最严重的一次是否有什么影响。
+Could something bigger happen in Nepal? Sure.
+尼泊尔会发生更严重的地震吗？当然有可能。
+There’s the megathrust segment immediately west of this earthquake, which we believe last broke in 1505. It’s the usual story, though: we don’t know when. The odds of subsequent big earthquakes always go up after a major earthquake. Ironically, the most dangerous time, statistically, is always just after a major earthquake has happened. But still it’s a low probability. We quote a 1-in-20 chance that something bigger will happen within 3 days, but the odds drop quickly with each passing hour. By this time [Sunday], the odds are more like 1-in-100. And the odds of an earthquake much larger than 7.8 are much lower still. It is possible, maybe even inevitable, that both Port-au-Prince and Nepal will be hit with stronger ground motions than what they’ve seen in recent years.
+在地震发生地以西不远处就有一个大地震破裂段，据信，其上次破裂是在1505年。但通常情况是这样的：我们不知道它何时会破裂。随后发生大地震的几率总是在一次严重地震发生后攀升。讽刺的是，数据表明，最危险的时候，总是在一次严重地震刚刚发生之后。但是概率还是很低的。一场更大的地震将在3日内发生的可能，我们在此引用1比20这样一个几率，但是这种几率是逐小时迅速下降的。到现在（周日），这个几率大概是1比100。且发生一次远远强于7.8级的地震的几率比这还要低得多。太子港和尼泊尔都遭遇比近年来两地所经受过的更为强烈的地震，是可能的，甚至是不可避免的。
+So the city of Katmandu, while still reeling, has clearly been spared what could have been a far higher death count given rapid urbanization in recent years (driven in part as people fled political turmoil in the hinterlands), poor quality of construction, lack of emergency services and other glaring issues.
+所以加德满都这座城市——尽管其还在经受重重余震——鉴于其近年来迅猛的城市化进程（部分是人们逃离内陆政治动荡的结果）、差劲的建筑质量、应急服务的缺失及其他显而易见的问题，显然幸运地避免了更惨重的伤亡。
+The focus at the moment should be supporting rescue and relief efforts. But it’s also vital for Nepal and international aid agencies and organizations to redouble efforts to rebuild with the worse in mind.
+此刻的重点应该是支持救援救灾工作。但对尼泊尔和国际援助机构和组织来说，带着最糟糕的预设去加倍为重建努力至关重要。
+The geological forces creating the earthquake hazard in Nepal and throughout the region are not abating, as Kenneth Chang wrote.
+正如肯尼斯·张（Kenneth Chang，音译）所写道的，在尼泊尔及整个周边地区造成地震灾害的地质营力（指引起地质作用的自然力——编注）并未减弱。

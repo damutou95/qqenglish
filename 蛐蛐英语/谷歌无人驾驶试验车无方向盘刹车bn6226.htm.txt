@@ -1,0 +1,40 @@
+MOUNTAIN VIEW, Calif. — Humans might be the one problem Google can’t solve.
+加利福尼亚州山景市——人类或许是谷歌(Google)无法解决的一个问题。
+For the past four years, Google has been working on self-driving cars with a mechanism to return control of the steering wheel to the driver in case of emergency. But Google’s brightest minds now say they can’t make that handoff work anytime soon.
+在过去四年里，谷歌一直在研发自行驾驶汽车。这些汽车里都配有一旦出现危急情况，将方向盘的控制权交还给人类的机制。然而谷歌公司一些头脑最聪明的人现在却表示，不远的未来里，做不到让移交功能正常运作。
+Their answer? Take the driver completely out of the driving.
+他们给出的答案是，让司机完全脱离驾驶的操作。
+The company has begun building a fleet of 100 experimental electric-powered vehicles that will dispense with all the standard controls found in modern automobiles. The two-seat vehicle looks a bit like the ultracompact Fiat 500 or the Mercedes-Benz Smart car if you take out the steering wheel, gas pedal, brake and gear shift. The only things the driver controls is a red “e-stop” button for panic stops and a separate start button.
+谷歌已经开始生产100辆实验电动汽车，并在这些车辆中取消现代汽车中所具备的所有常规操控手段。这款有两个座位的汽车看起来有点像移除了方向盘、油门、刹车和变速杆的超小型的菲亚特500(Fiat 500)或梅赛德斯-奔驰(Mercedes-Benz)的Smart。司机能控制的东西，只有一个红色的“紧急制动”按钮，用于在意外情况发生时停车，还有一个单独的启动按钮。
+The car would be summoned with a smartphone application. It would pick up a passenger and automatically drive to a destination selected on a smartphone app without any human intervention.
+这款汽车可以用一个智能手机应用招来。接到乘客后，就会自动行驶到智能手机应用里选定的目的地，无须任何人为干预。
+Google won’t say if it intends to get into the car manufacturing business or simply supply technology to carmakers, but it says there are plenty of possibilities if it can persuade regulators to allow cars with no drivers. One potential use: driverless taxi cabs.
+谷歌不愿透露是打算进军汽车制造业务，还是只想向汽车制造商提供技术，但是该公司表示，有很大的可能性说服监管部门批准没有司机的汽车上路。一项可能的用途是：无司机出租车。
+In an interview at Google’s headquarters here, Sergey Brin, a Google co-founder who is actively involved in the research program, said the company decided to change the car project more than a year ago after an experiment in which Google employees used autonomous vehicles for their normal commutes to work.
+积极参与这个研究项目的谷歌联合创始人谢尔盖·布林(Sergey Brin)在这里的谷歌总部接受采访时表示，一年多以前，在邀请谷歌员工在日常通勤路上使用自行驾驶汽车进行实验之后，谷歌决定改变汽车的研发计划。
+There were no crashes. But Google engineers realized that asking a human passenger — who could be reading or daydreaming or even sleeping — to take over in an emergency won’t work.
+没有发生撞车事故。但是谷歌的工程师意识到，要求人类乘客在紧急情况下接管控制权是行不通的——人类乘客可能在读书、做白日梦，甚至睡觉。
+“We saw stuff that made us a little nervous,” said Christopher Urmson, a former Carnegie Mellon University roboticist who directs the car project at Google.
+谷歌汽车项目的主管克里斯托弗·厄姆森(Christopher Urmson)表示，“我们看到了一些让我们有点紧张的事情。”厄姆森曾在卡内基梅隆大学(Carnegie Mellon University)从事机器人研究。
+The vehicles will have electronic sensors that can see about 600 feet in all directions. Despite that, they will have rearview mirrors because they are required by California’s vehicle code, Dr. Urmson said. The front of the car will be made from a foamlike material in case the computer fails and it hits a pedestrian. It looks like a little bubble car from the future, streamlined to run by itself — a big change from the boxy Lexus SUV Google has been retrofitting the last few years with self-driving technology.
+这些车辆将装配可以在所有方向观察到600英尺（约合180米）远的电子传感器。但厄姆森说，即便如此，车辆还是要装上后视镜，因为加州的汽车法规有此要求。汽车的前部会用类似泡沫的材料制作，以防电脑运算失误撞到行人。它看起来像是一个来自未来的泡泡汽车，经过专门设计可以自行驾驶。与谷歌用自行驾驶技术改装的那些方方正正的雷克萨斯(Lexus)SUV相比，是一个极大的改变。
+The new Google strategy for autonomous cars is a break from many competing vehicle projects. Mercedes, BMW and Volvo have introduced cars that have the ability to travel without driver intervention in limited circumstances — though none completely eliminate the driver.
+谷歌对自行驾驶汽车采取的新战略，远离了许多竞争对手的相关汽车研发项目。奔驰、宝马(BMW)和沃尔沃(Volvo)已经推出了能够在有限的情况下，无需司机干预而自动行驶的汽车，不过都没有完全取消司机。
+That feature, which is generally known as Traffic Jam Assist, allows the car to steer and follow another vehicle in stop-and-go highway driving at low speeds. In the Mercedes version, the system disengages itself if the driver takes his hands off the steering wheel for more than 10 seconds.
+这种功能通常称作“堵车助手”(Traffic Jam Assist)，它可以让汽车在走走停停的公路上低速行驶时转动方向盘，跟随另一辆汽车。在奔驰的版本中，如果司机让手从方向盘上脱离超过10秒钟，系统就会自动停止。
+Volvo said that by 2017 it planned to have the cars in the hands of ordinary consumers for testing in the streets of Gothenburg, Sweden, where the company has its headquarters.
+沃尔沃表示，该公司计划到2017年把这类汽车交给普通消费者，在该公司总部所在地瑞典哥德堡(Gothenburg)街头进行试驾。
+In the interview, Mr. Brin acknowledged those advances, but said they were incremental. “That stuff seems not entirely in keeping with our mission of being transformative,” he said.
+在接受采访时，布林承认了上述的进展，但他表示，那些进展都是渐进性的。他说，“这种东西好像不完全符合我们推出变革性产品的目标。”
+Google’s prototype for its new cars will limit them to a top speed of 25 miles per hour. The cars are intended for driving in urban and suburban settings, not on highways. The low speed will probably keep the cars out of more restrictive regulatory categories for vehicles, giving them more design flexibility.
+谷歌新款汽车的原型会把最高时速限制在25英里（约合40公里）。这款汽车计划的行驶环境是市区和郊区，并不是高速公路。由于设计时速很低，这款汽车或许不会被划入监管限制较多的车辆类别，从而给设计赋予更大的灵活性。
+Google is having 100 cars built by a manufacturer in the Detroit area, which it declined to name. Nor would it say how much the prototype vehicles cost. They will have a range of about 100 miles, powered by an electric motor that is roughly equivalent to the one used by Fiat’s 500e, Dr. Urmson said. They should be road-ready by early next year, Google said.
+谷歌已经委托底特律地区的一家制造企业制造100辆汽车，但谷歌拒绝透露合作企业的名称，也不愿透露这些原型车成本有多高。厄姆森说，汽车的航程约有100英里，由一款电动发动机驱动，大致与菲亚特500e车型中的发动机相似。谷歌表示，明年年初应该就能够上路了。
+The current plan is to conduct pilot tests in California, starting with ferrying Google employees between buildings around its sprawling corporate campus here.
+目前的计划是在加利福尼亚开展行驶测试，首先是载着谷歌员工在该公司庞大的园区里穿行。
+Laws permit autonomous vehicles in California, Nevada and Florida. But those laws have generally been written with the expectation that a human driver would be able to take control in emergencies.
+加州、内华达州、佛罗里达州的法律允许自行驾驶汽车，但相关法律条文在撰写时，通常都预期人类驾驶员能够在紧急情况下接管控制权。
+Google executives said the initial prototypes would comply with current California automated-driving regulations, issued on May 20. They will have manual controls for testing on California public roads.
+谷歌高管表示，初期的原型车会遵守加州5月20日公布的，当前对自动驾驶的规定。在加州的公共道路上试驾时，会提供手动控制。
+In the future, Google hopes to persuade regulators that the cars can operate safely without driver, steering wheel, brake or accelerator pedal. Those cars would rely entirely on Google sensors and software to control them.
+谷歌期望能在未来说服监管机构，尽管这些车辆没有司机、方向盘、刹车或油门，但是仍然能安全地运行。这些车辆会完全依靠谷歌的传感器和软件来控制。

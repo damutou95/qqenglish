@@ -1,0 +1,42 @@
+The Internal Revenue Service may have just taken some of the fun out of Bitcoin. But that may mean that the virtual currency is growing up.
+美国国税局(Internal Revenue Service)可能刚刚让比特币少了一些乐趣，但是，这也可能意味着虚拟货币正在发展壮大。
+The I.R.S. announced on Tuesday that it would treat Bitcoin, the computer-driven online money system, as property rather than currency for tax purposes, a move that forces users who have grown accustomed to operating under the government’s radar to deal with new tax issues and reporting requirements.
+国税局本周二宣布，它将把比特币这种由计算机驱动的网上货币系统作为一种资产，而不是货币来计税。因此，那些已经习惯了不受政府监管的用户将不得不应对新出现的税务问题和申报义务。
+While that may seem like an expensive headache for some, some financial experts view the move as a way to push Bitcoin further away from the fringes and into the mainstream financial system.
+虽然对于一些人来说，这看上去似乎是一件费钱又费力的烦心事，但一些金融专家认为，此举可以让比特币进一步远离边缘处境，进入主流金融体系。
+“It’s getting legitimacy, which it didn’t have previously,” said Ajay Vinze, the associate dean at Arizona State University’s business school. The ruling, he said, “puts Bitcoin on a track to becoming a true financial asset.”
+“它正在获得之前没有的合法性，”亚利桑那州立大学(Arizona State University)商学院副院长阿贾伊·温泽(Ajay Vinze)说。他说这项决定“把比特币纳入了成为真正金融资产的轨道”。
+While many users already treat Bitcoin like a currency, the I.R.S. made it very clear that “it does not have legal tender status in any jurisdiction.”
+虽然很多用户已经在像交易货币一样交易比特币，但国税局清楚明确地表示，“在任何司法管辖区，它都不具有法定货币地位。”
+The industry had been expecting the government to come out with some sort of guidance on Bitcoin, so the announcement on Tuesday did not come as much of a surprise. But some users worry that treating it as an investment could discourage the use of Bitcoin as a payment method. If a user buys a product or service with Bitcoin, for example, the I.R.S. will expect the individual to calculate the change in value from the date the user acquired Bitcoin to the date it was spent. That would give the person a basis to calculate the gains — or losses — on what the I.R.S. is now calling property.
+业界之前就预计政府会出台某种针对比特币的指导标准，所以本周二的消息并不令人惊讶。但有些用户担心，把比特币作为一种投资可能会妨碍人们把它当做付款方式来使用。例如，如果你用比特币购买产品或服务，根据国税局的要求，你就需要计算出从获得这些比特币的那天到花掉它们的当日，它们所发生的价值变化。这会给你提供一个基础，让你计算国税局现在称之为财产的东西的收益或损失。
+“People might just be tempted to hoard rather than spend, because as soon as they spend they would be liable to incur capital gains taxes,” said Pamir Gelenbe, the co-founder of the CoinSummit conference and a partner at Hummingbird Ventures, a venture capital firm that recently invested in the online Bitcoin exchange Kraken.
+“这可能会鼓励人们囤积比特币而不是花掉它，因为只要你花掉它，你就有责任承担资本利得税了，”CoinSummit会议联合创办人、蜂鸟风投(Hummingbird Ventures)合伙人帕米尔·哥伦比(Pamir Gelenbe)说，蜂鸟风投最近投资了在线比特币交易平台Kraken。
+The I.R.S.’s decision would treat Bitcoin as property subject to capital gains taxes. Long-term capital gains taxes are capped at 20 percent, a more favorable rate than the top rate of 39.6 percent on federal income taxes. Individual traders in the currency markets — the British pound, for example — are expected to treat gains or losses as regular income for tax purposes.
+国税局的决定将让比特币成为一种资产，缴纳资本利得税。相较于最高税率为39.6%的联邦所得税来说，上限为20%的长期资本利得税更有利于用户。在英镑这样的外汇市场交易的个人投资者，在计税时需要把收益或亏损作为经常性收入来处理。
+“From a tax perspective, this is really the best possible outcome,” said Barry Silbert, the chief executive of SecondMarket, which is planning to introduce a new Bitcoin exchange.
+“从税收的角度来看，这确实是最好的结果，”SecondMarket的首席执行官巴里·希尔伯特(Barry Silbert)说。SecondMarket正在计划推出一个新的比特币交易所。
+Up until now, Bitcoin enthusiasts have been able to buy, sell and trade on their gains with few fees and little oversight, since the currency has no central bank and no government regulator. Over the years, the price of Bitcoin has also fluctuated wildly, from just a few cents to more than $1,000 to its current price of nearly $600.
+此前，比特币爱好者在买卖交易它们时只需要支付很少的费用，几乎不受监督，因为这种货币没有中央银行，也没有没有政府监管机构。这些年来，比特币的价格也出现了巨幅波动，从仅仅几美分涨到逾1000美元（约合人民币6200元），再回落到目前近600美元的价格。
+At the same time, an increasing number of merchants, including Virgin Galactic and Overstock.com, have begun accepting Bitcoin, supported by a growing cottage industry of companies who will exchange Bitcoins for dollars for a small fee.
+与此同时，在越来越常见的比特币兑换公司的支持下，越来越多的商家也已经开始接受比特币，比如维珍银河(Virgin Galactic)和Overstock.com。用户只需花少量费用，就可以在兑换公司把比特币兑换为美元。
+Created by an anonymous computer programmer, or group of computer programmers, Bitcoin has largely been the realm of technology enthusiasts and anti-establishment hobbyists, who often buy and sell Bitcoin on online exchanges. Programmers are also able to obtain them by “mining,” or figuring out obscure algorithms to “unlock” new coins.
+比特币是由一个隐姓埋名的计算机程序员或团队创建的，使用它的人主要是技术爱好者和反建制热衷者，他们经常在网上交易所买卖比特币。程序员也可以通过“挖矿”来获取比特币，即通过弄清令人费解的算法来“解锁”新的比特币。
+The I.R.S. now, however, says that these miners must report the fair market value of the virtual currency as part of their income.
+但是国税局表示，现在这些“矿工”必须申报他们“挖”到的比特币的公平市场价值，作为其收入的一部分来计税。
+The new guidelines also mean that online exchanges that buy and sell Bitcoin will now have to provide customers with annual reports of their transactions, just as stock brokerages and other investment firms do.
+新的指导标准还意味着，买卖比特币的在线交易所现在必须像股票经纪公司和其他投资公司一样，向客户提供其交易的年度报告。
+But some efforts may already be underway to ensure that the new reporting requirements will not discourage users from trading with Bitcoin.
+但是，为了确保新的申报要求不会打击用户交易比特币的积极性，一些办法可能已经在酝酿之中。
+“I can assure you that there are a number of companies that have come up with software to automate this entire process,” Mr. Silbert said.
+“我可以向你保证，一些公司已经在开发软件，让它自动完成整个过程，”希尔伯特说。
+The Bitcoin start-up Coinbase also said it supported the new guidelines.
+比特币创业公司Coinbase也表示，它会支持新的指导标准。
+“Exciting to see clarity from the I.R.S. Coinbase will help both consumers and merchants to meet the guidelines,” the company said in a Twitter message.
+“国税局明确这件事情让人感到振奋。Coinbase将帮助消费者和商家来遵循这个指导标准，”该公司在Twitter上表示。
+Bitcoin has attracted many of its users precisely because it operated outside the established financial system and offered the promise of cheaper transactions. But many Bitcoin advocates and experts have said that regulation is necessary to make Bitcoin a viable currency.
+比特币吸引很多用户的一个原因，正是由于它在现有金融系统之外运作，而且承诺用户可以用比较低的成本进行交易。但很多比特币倡导者和专家表示，要让比特币成为一种有生命力的货币，监管是必要的。
+“The people that feel ideologically that Bitcoin should be free of all regulation aren’t going to be happy,” said Gil Luria, a managing director at Wedbush Securities who has written about virtual currency. "If you’re trying to replace an existing financial system, then you need to have all the features that are required of that financial system.”
+“那些在意识形态上认为比特币不应受到监管的人，对此事是高兴不起来的，”曾撰写比特币研究报告的韦德布什证券(Wedbush Securities)执行董事吉尔·卢里亚(Gil Luria)说。“如果你想取代现有的金融体系，那么你就得有金融体系需要有的所有特征才行。”
+The few employers who pay in Bitcoin will have to report those wages just like any other payment made with property, and Bitcoin income will be subject to the normal federal income withholding and payroll taxes, the I.R.S. said.
+国税局表示，对于少数用比特币支付薪酬的雇主，它们也必须对这些薪酬进行申报，跟用其他资产支付一样，而比特币收入则要征收联邦代扣所得税和薪资税。

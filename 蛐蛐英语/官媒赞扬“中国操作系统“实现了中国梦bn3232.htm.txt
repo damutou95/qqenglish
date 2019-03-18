@@ -1,0 +1,28 @@
+Chinese researchers have developed a new mobile operating system intended to break the dominance in China of systems produced by Google, Apple and Microsoft.
+中国研究人员开发了一款新的移动操作系统，旨在打破谷歌、苹果和微软系统在中国的垄断。
+At a ceremony in Beijing on Wednesday, the Chinese Academy of Sciences and the Shanghai-based Liantong Network Communications Technology unveiled the domestically produced China Operating System, or COS, designed for use on many devices including smartphones and personal computers.
+上周三，中国科学院和总部位于上海的联彤网络通讯技术有限公司在北京发布了这款国产的“中国操作系统”(China Operating System)，它简称COS，可用于智能手机、个人电脑等多种设备。
+The Chinese Academy of Sciences called COS a strategic product for national security, urgently needed following revelations regarding United States surveillance and Microsoft Windows ending further support of its XP system, the state-run Global Times newspaper reported.
+官方媒体《环球时报》报道，中科院称COS是维护国家安全的一款战略性产品，在美国曝出监控丑闻和微软宣布将不再为Windows XP提供进一步支持后，中国急需一款这样的产品。
+The COS is “completely” independently developed, from the basic coding to the user interface, said an article posted on the Chinese Academy of Sciences website.
+中科院网站上的一篇文章称，COS系统从底层代码到用户界面构建“完全”是独立演进的。
+It said existing open-source operating systems pose security risks, and foreign-made systems have “acclimatization” difficulties in China, problems that COS addresses.
+文章说，目前基于开源的操作系统在安全性上存在很多问题，国外公司主导的操作系统存在“水土不服”的情况，而COS的出现将同时解决这两方面的问题。
+Li Mingshu, director of the Institute of Software at the Chinese Academy of Sciences, said Wednesday that the researchers intend to continue making improvements to COS and match or even overtake other systems that dominate the Chinese market today.
+中科院软件研究所所长李明树上周三表示，研究人员将继续改进COS系统，达到甚至超过现有主流操作系统的高度。
+Chen Feili, the deputy general manager of Liantong Network Communications Technology, told C114, a Chinese communications news website, that the Chinese telecom giants China Mobile and China Telecom have been testing phones based on COS over the past three months.
+联彤网络通讯技术有限公司副总经理陈斐利向C114中国通信网表示，中国电信业巨头中国移动和中国电信已对基于COS操作系统的两款手机产品进行了三个月的测试。
+There’s already “a certain consensus” about bringing a commercial version of COS to market, Mr. Chen said. He said that discussions about business models and compatibility issues were already underway.
+陈斐利说，对于向市场推出运营商版本的COS操作系统已经有了“一定的共识”。他表示，目前已经在与运营商讨论有关的商业模式和兼容性问题。
+Though he declined to mention the names of the manufacturers, Mr. Chen said that there are already four smartphone models that use COS.
+陈斐利表示，现在基于COS操作系统的智能手机已经推出了四款，但是还不便公布厂商的名字。
+COS can run Java applications, and supports HTML 5 web applications and games, the C114 article said. It is currently compatible with over 100,000 applications, it said.
+C114中国通信网的这篇文章称：COS可以运行JAVA应用程序，支持HTML5的网络应用与游戏，目前可以运行的各类应用程序已经超过10万种。
+The state broadcaster CCTV showed COS in action on Thursday, in a news segment in which a reporter demonstrated that people could play popular games, including “Cut the Rope” and “Angry Birds” on an unbranded black mobile phone.
+中国中央电视台CCTV上周四也报道了COS系统。在一个新闻节目中，一名记者在一部无标牌的黑色手机上演示了可以在COS系统上玩《割绳子》(Cut the Rope)、《愤怒的小鸟》(Angry Birds)等流行游戏。
+Mr. Chen said he has high ambitions for COS, saying the “ultimate goal” is to make it the main operating system in China. This is a lofty goal. According to the American market researcher International Data Corporation, China’s smartphone market is dominated by Android with nearly 90 percent of phones in 2013 running on the Google system.
+陈斐利表示，他对COS系统抱有很高期望，“终极目标”是做中国人主要在用的操作系统。这是一个宏伟的目标。美国市场调研机构国际数据公司(International Data Corporation)的数据显示，目前在中国智能手机市场上占据主导地位的操作系统是Android，2013年有接近90%的智能手机使用了这种谷歌的系统。
+COS is not the only domestically produced operating system to make headlines recently. On Jan. 9, the Chinese technology company Coship Electronics announced that it had produced the country’s first smartphone operating system with independent intellectual property rights. The company’s chairman, Yuan Ming, said that the system, called 960 OS, took 15 years to develop.
+COS系统并不是近期唯一登上头条的国产操作系统。1月9日，中国科技公司深圳同洲电子宣布已开发出国内首款拥有独立知识产权的智能手机操作系统。同洲电子董事长袁明表示，开发这款名为960 OS的操作系统前后花了15年时间。
+How long COS was under development and the costs of research and development were not disclosed.
+COS系统的研发周期和成本未作披露。

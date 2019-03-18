@@ -1,0 +1,48 @@
+Financial technology start-ups are creating new models of lending. They mine streams of digital data with clever software to calculate creditworthiness instead of relying on a person’s credit history, the main ingredient in traditional credit scoring.
+一些面向金融领域的科技初创公司正在推出新的贷款模式。它们用智能软件挖掘电子数据流来计算信誉，而不是像传统的信用评分那样，以个人的信用记录为基础。
+So far, the new breed of big data lenders has focused on niche markets — recent college graduates, immigrants and payday borrowers — where people often have scant or inconsistent repayment records, and the conventional math of risk analysis stumbles.
+目前已经有一帮新生的“大数据放款机构”专注于在利基市场上——刚毕业的大学生、移民和发薪日借款人。这类人的还款记录往往很少，或者不连贯，使用传统的风险分析数学手段效果不佳。
+ZestFinance, a pioneer in the field, is moving into a huge market where credit histories are scarce: China.
+ZestFinance是这个领域的先驱之一，目前正步入一个信用记录稀少的庞大市场：中国。
+ZestFinance and JD.com, a Chinese online retail giant, are announcing a joint venture to provide a consumer credit scoring service in China. The venture, JD-ZestFinance Gaia, will initially be used to assess credit risk and offer installment loans for purchases on JD.com, which has 100 million active customers and generates yearly revenue of $20 billion. The venture intends to eventually offer the credit-analysis service to corporate customers throughout China.
+ZestFinance和中国网络零售巨头京东宣布成立一家合资公司，在中国市场上提供消费者信贷评分服务。京东拥有1亿活跃用户，年营收达200亿美元。这家合资企业名为JD-ZestFinance Gaia，最初将为京东上的分期贷款购物行为评估信贷风险。公司打算最终为中国各地的企业客户提供信用分析服务。
+JD.com is also making a minority investment in ZestFinance, though the companies would not disclose the size of the investment or the valuation of the start-up.
+京东还对ZestFinance进行了少数股权投资，不过双方没有透露投资规模或是ZestFinance的估值。
+“This is a great validation that what we’ve built works,” said Douglas C. Merrill, founder and chief executive of ZestFinance.
+“这是对我们的巨大认可，证明我们的方法是行得通的，”ZestFinance的创始人兼首席执行官道格拉斯·C·梅里尔(Douglas C. Merrill)说。
+There is a lot of enthusiasm for the data science approach to credit analysis, and venture funding is flowing into this emerging field. The promise is that high-tech tools can give greater depth and detail to the basic principle of banking: know your customer. Start-ups in the field, beside ZestFinance, include Affirm, Earnest, Elevate and LendUp.
+人们对于用数据科学的方法来进行信用分析热情高涨，风险资本也正在流入这个新兴的领域。银行业的基本原则是了解客户，而高科技工具有望为此提供更深层次的剖析和更多的细节。除了ZestFinance之外，该领域的初创公司还有Affirm、Earnest、Elevate和LendUp。
+The start-ups’ methods vary, as do the data sources they tap. But their algorithms sift through data that can include a person’s social-network connections, web-browsing habits, how they fill out online forms and their online purchases.
+这些初创公司的方法各异，利用的数据源也不尽相同。不过，它们用来筛选数据的算法可能会涵盖个人在社交网络上的关系、浏览网页的习惯、填写网上表格的方式，以及网上购物的偏好。
+The software looks for patterns and correlations: digital signals that help assess an individual’s willingness and ability to repay. The picture that emerges from the data, enthusiasts say, should result in more accurate risk analysis, thus opening the door to extending consumer credit to millions more people at lower cost.
+这种软件寻找的是模式与相关性，即有助于评估一个人的偿还意愿和能力的数字信号。追捧者认为，数据勾勒出来的面貌，应该可以让风险分析变得更加精准，因此有助于以更低的成本把消费者信贷提供给额外的人，而其中涉及的人数成百上千万。
+Yet public policy experts say the enthusiasm for the new lending models is outrunning the evidence. The accuracy and fairness of big data credit technology is unproven, said Aaron Rieke, a former lawyer for the Federal Trade Commission and director of technology projects for Upturn, a policy consulting firm. Mr. Rieke was a co-author of a report last year, supported by the Ford Foundation, that cited ZestFinance as a prime example of big data underwriting, which deploys “fringe alternative scoring models.”
+然而，一些公共政策专家认为，人们对贷款新模式的热情跑在了证据的前面。阿隆·里克(Aaron Riek)称，大数据信用技术的准确性和公正性尚未经过证实。里克曾在联邦贸易委员会(Federal Trade Commission)任律师，目前是政策咨询公司Upturn的技术项目总监，去年参与撰写了福特基金会(Ford Foundation)赞助的一份报告。该报告将ZestFinance称为大数据贷款审批领域的一个典型，采用“非主流的替代性信用评分模型”。
+But JD.com sought out ZestFinance, tested its technology and came away impressed. Last fall, Chen Shengqiang, chief executive of the Chinese company’s finance unit, visited the ZestFinance offices in Los Angeles and spoke to Mr. Merrill and members of his team. Soon after, Mr. Merrill traveled to the Chinese company’s headquarters in Beijing to work on setting up a test of ZestFinance’s technology, working with JD.com data.
+但是京东找到了ZestFinance，测试了它的技术，并对它印象深刻。去年秋天，京东金融集团的首席执行官陈胜强参观了ZestFinance位于洛杉矶的办公室，并与梅里尔及其团队的成员进行交谈。不久后，梅里尔前往北京的京东总部，用该公司的数据对ZestFinance的技术进行了一次测试。
+ZestFinance, founded in 2009, began making loans itself and underwriting loans made by lending partners in 2010. In the United States, ZestFinance has focused its risk analysis on installment loans that are a lower-cost alternative to payday loans. Those borrowers are in the subprime market, and typically have experienced a credit setback in the past, like a personal bankruptcy.
+ZestFinance成立于2009年，从2010年开始自己为客户提供贷款，并审批合作伙伴的贷款。在美国，ZestFinance一直专注在分期贷款的风险分析上。对于发薪日贷款，分期贷款是一个成本较低的选择。其借款人来自次级贷款市场，通常以前都在信用上遭遇过问题，比如个人破产。
+In China, JD.com had a very different assignment for ZestFinance, using different data sources than in America. Only 20 percent of Chinese adults have a credit score, and they often are given credit through the People’s Bank of China, the nation’s central bank, and through affiliations with large state-owned corporations.
+在中国，京东交给ZestFinance的任务则大不相同，而且使用的数据源也有异于美国。在中国成年人中，只有20%拥有信用评分。他们获得信用的途径往往是通过央行中国人民银行，或是与大型国有企业之间的关系。
+Across the broader population, lending tends to be more personal and informal — cash loans from networks of friends and relatives.
+在更多的中国民众那里，贷款往往具有更加个人化的非正式性质——从亲戚朋友那里借钱。
+But China’s leaders are seeking to stimulate consumer spending to make its economy less dependent on industrial exports. Expanding consumer credit is part of the formula, and the government is allowing private companies, like JD.com, to innovate.
+但是中国领导层正在努力刺激消费，以使中国经济减轻对工业出口的依赖。扩大消费信贷是整个策略的一部分，政府准许如京东这样的私营企业在这一领域进行创新。
+Since early 2014, JD.com had been offering its own consumer loans of up to a few thousand dollars for purchases of televisions, smartphones, computers, refrigerators and other merchandise. JD.com’s business model is sometimes compared to a combination of Amazon and UPS.
+自2014年初开始，京东一直给它的用户提供贷款（最高达几千美元）用以购买电视、智能手机、电脑、冰箱和其他商品。京东的商业模式有时被比作亚马逊(Amazon)加UPS。
+Like Amazon, the company buys goods from manufacturers and has a national network of distribution centers and warehouses. It also has its own fleet of delivery vans. JD.com handles more than two million orders a day, and offers next-day delivery in much of China. It is a full-service online retailer, unlike its better-known rival, Alibaba, whose marketplace connects buyers and sellers.
+和亚马逊一样，京东也是从制造商那里进货，并建设了全国性的物流和仓储网络。此外，它还有自己的厢式送货车配送队伍。京东的日均交易处理量达200多万单，在中国大部分地区可实现下单次日送达。与它更为知名的对手阿里巴巴（其业务领域是作为一个平台，在买家和卖家之间搭桥）不同，京东是一个提供全方位服务的在线零售商。
+In its test run for the Chinese company, ZestFinance built risk models using JD.com transaction data: what people buy, when they buy it, what brands they choose, where they live and other nuggets of information in the sales data.
+在为其中国公司进行测试时，ZestFinance利用京东的交易数据——包括人们买什么、何时买、选什么品牌、住在哪里，及交易数据中其他有价值的信息——建立了风险模型。
+“There’s signals in there,” Mr. Merrill said. “But what would seem like simple signals can actually be very complex.”
+“这些数据里有一些信号，”梅里尔说道。“但那些看起来简单的信号，实际上可能非常复杂。”
+For example, one might expect that a person purchasing a lot of luxury goods online is a good credit risk. But Mr. Merrill said that often is not the case. It could be a sign of reckless overspending or even fraud, he said, when linked with other data.
+比如，人们可能觉得在网上买很多奢侈品的人信用风险小。但梅里尔表示，情况往往并非如此。他说，跟其他数据联系起来看，这可能意味着不计后果地过度消费，甚至可能是欺诈。
+If a person is making purchases during the day, that could be a signal that the buyer is unemployed. But, Mr. Merrill said, if the purchases are made during the midday lunchtime, from an office computer, it could well be a sign of a hard-working employee squeezing in time to buy necessities.
+如果一个人是在白天时间买东西，可能表示这个买家没有工作。但如果交易是在午餐时间发生，而且是在办公电脑上进行，梅里尔说，那就很可能代表这是一个勤奋的员工在挤时间买必需品。
+In its test, the creditworthiness predictions made by ZestFinance were compared to the results of JD.com’s experience making loans, which was essentially the control group. The ZestFinance algorithms won handily.
+在测试中，ZestFinance所作的资信预测，与京东自身放贷的结果作了对比，后者实质上就是对照组。ZestFinance的算法轻松胜出。
+The Chinese online retailer, said Josh Gartner, senior director for international communications for JD.com, hopes to “greatly improve the efficiency of deciding who should be offered credit or not.”
+京东国际公关高级总监约什·加德纳(Josh Gartner)表示，京东希望能“大大提高其贷款决策的效率”。
+Data science methods, Mr. Gartner added, can fill a gap “where traditional metrics tend to be less useful, and China would obviously be one of those places.”
+加德纳补充道，数据科学的方法可以在“传统衡量方法表现欠佳的地方”填补一个空白，“中国显然就是一个这样的地方”。

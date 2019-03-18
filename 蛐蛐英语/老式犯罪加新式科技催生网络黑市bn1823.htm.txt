@@ -1,0 +1,42 @@
+SAN FRANCISCO — So this is where they collared the man they call the Dread Pirate Roberts.
+旧金山——好吧，他们就是在这里擒住了那个被他们叫做“恐怖海盗罗伯茨”(Dread Pirate Roberts)的男子。
+It’s up a flight of stone steps, past the circulation desk and the Romance stacks, over in Science Fiction, far corner.
+走过一段石砌台阶，经过借阅柜台和言情小说的架子，在科幻小说区最幽深的角落。
+On a sunny Tuesday in October, federal officers entered the public library in the Glen Park section of this city and arrested a young man who they say ran a vast Internet black market — an eBay of illegal drugs.
+今年10月，在一个晴朗的周二，联邦探员进入旧金山市格伦公园地区的一家公共图书馆，逮捕了一名年轻男性。他们说，此人运营着一个庞大的线上黑市——相当于非法贩卖毒品的eBay。
+Their mark, Ross William Ulbricht, says he is not the F.B.I.’s Dread Pirate Roberts, the nom de guerre of the mastermind behind the marketplace, Silk Road. And the facts, his lawyer says, will prove that.
+他们的目标罗斯·威廉·乌布利希(Ross William Ulbricht)说，他并不是美国联邦调查局(FBI)要找的“恐怖海盗罗伯茨”。“恐怖海盗罗伯茨”是丝路(Silk Road)市场幕后主脑的化名。乌布利希的律师们表示，事实会证明一切。
+However this story plays out, Silk Road already stands as a tabloid monument to old-fashioned vice and new-fashioned technology. Until the website was shut down last month, it was the place to score, say, a brick of cocaine with a few anonymous strokes on a computer keyboard. According to the authorities, it greased $1.2 billion in drug deals and other crimes, including murder for hire.
+无论这件事结果如何，丝路已经成为老式犯罪和新式科技相结合的另类典范。网站上个月被关闭前，人们只需要在电脑键盘上敲几下就可以搞到1千克可卡因，而且完全是匿名的。根据当局的数据，该网站已经通过贩毒等非法交易获利12亿美元（约合73亿元人民币），其中还包括雇凶杀人。
+That this story intruded here, at a public library in a nice little neighborhood, says a lot about the dark corners of the Internet. Glen Park isn’t the gritty Tenderloin over the hills, or Oakland or Richmond out in East Bay. And that is precisely the point. The Dark Web, as it is known, is everywhere and nowhere, and it’s growing fast.
+这样一桩罪案竟入侵到了这里，一个温馨小社区的公共图书馆，恰好说明了互联网阴暗角落的诸多特点。格伦公园不是鱼龙混杂的田德隆，也不是东湾的奥克兰或里士满。关键就在这。人们口中的“黑暗网络”，无处不在，却又无处可寻，而且在急速扩张。
+No sooner was the old Silk Road shut down than a new, supposedly improved Silk Road popped up. Other online bazaars for illegal guns and drugs are thriving.
+老的丝路网站甫一关闭，一个新的加强版丝路就冒了出来。此外，其他的非法枪支和毒品的在线集市也在蓬勃兴起。
+And the Dread Pirate Roberts — the old one, a new one, who knows? — is back, taunting the authorities. (The pseudonym is a reference to a character in the film “The Princess Bride” who turns out to be not one man but rather many men passing down the title.)“It took the F.B.I. two and a half years to do what they did,” the Dread Pirate Roberts wrote last week on the new Silk Road site. “But four weeks of temporary silence is all they got.”
+而且，“恐怖海盗罗伯茨”——是以前那个，还是新出现的，谁知道呢？——又回来了，还对当局冷嘲热讽。（这个化名来自电影《公主新娘》[The Princess Bride]，他实际上不是一个人，而是许多男人沿用的头衔）。“恐怖海盗罗伯茨”上周在丝路网站上写道，“FBI花了两年半的时间才捉到了那个人，但是他们只得到了四周暂时的安宁。”
+So catch us if you can, the Dread Pirate is saying. The new Silk Road has overhauled its security and “marks the dawn of a brand new era for hidden services,” he wrote.
+“恐怖海盗”要表达的意思是，有本事就来抓我们吧。他还写到，新的丝路全面更新了安全措施，“标志着秘密服务的全新时代的黎明。”
+The question is, can anyone really stamp out the Dread Pirates? Like the rest of the Internet, the Dark Web is being shaped and reshaped by technological innovation.
+问题是，真的有人能够把这些恐怖海盗彻底消灭吗？就像互联网的其他领域一样，黑暗网络正在不断地被技术创新塑造和重组。
+First, there was Tor, short for The Onion Router, a suite of software and network computers that enables online anonymity. Edward J. Snowden used Tor to leak government secrets, and the network has been important for dissidents in places like Iran and Egypt. Of course, drug dealers and gunrunners prefer anonymity, too.
+首先出现了Tor，即“洋葱路由”(The Onion Router)的缩写。这是一个软件和网络计算机套件，能够保证用户在上网时不泄露自己的信息。爱德华·J·斯诺登(Edward J. Snowden)就是使用Tor泄露了政府机密。它也是伊朗和埃及等地异见人士的重要工具。当然了，毒贩和军火走私贩也喜欢匿名。
+Then there is bitcoin, the cryptocurrency that has been skyrocketing in value lately. Bitcoin is basically virtual cash — anonymous, untraceable currency stuffed into a mobile wallet. The kind of thing that comes in handy when buying contraband.
+还有比特币。这种加密货币的汇率最近一直在飙升。比特币本质上是一种虚拟货币——装在移动钱包里，匿名且难以追踪。在购买违禁品时，用这种东西支付很方便。
+It’s hardly news that there are bad actors on the Internet. People have been hacking this and stealing that for years. But the growth of the Dark Web is starting to attract attention in Washington. Senator Thomas R. Carper, the Delaware Democrat who is chairman of the Committee on Homeland Security and Governmental Affairs, warned recently that the authorities seemed to be playing Whac-a-Mole with websites like Silk Road. As soon as they hit one, up pops another. This, the senator said, “underscores the inescapable reality that technology is dynamic and ever-evolving and that government policy needs to adapt accordingly.”
+互联网上有坏人，这算不上新闻。多年以来，人们从来没有停止网络黑客和盗窃行为。但是，黑暗网络的扩张已经开始引起华盛顿的注意。参议院国土安全及政府事务委员会(Committee on Homeland Security and Governmental Affairs)主席、来自特拉华州的民主党人托马斯·R·卡珀(Thomas R. Carper)最近警告，当局似乎在与丝路这样的网站玩打地鼠游戏。他们打击一个，另一个马上就蹦出来了。他说，这突显了一个“棘手的事实，那就是技术是富有活力并不断发展的，政府政策需要作出相应的调整”。
+The F.B.I. declined to discuss the Silk Road case. But some security experts wonder how authorities can effectively police the Walter Whites of the web. Matthew D. Green, a research professor of computer science at Johns Hopkins, says buying illegal drugs online is now easier than buying them on the street corner. Mr. Green says that Tor is incredibly difficult to crack, but that what is really driving all this is digital cash like bitcoin.
+FBI拒绝对丝路案置评。可是一些安全专家想知道，当局怎样才能有效地监管网络上的沃尔特·怀特(Walter White)。约翰·霍普金斯大学(Johns Hopkins)的计算机科学教授马修·D·格林(Matthew D. Green)说，在网上购买非法毒品现在比在街角买还容易。他还说，攻破Tor的难度极大，但是真正驱动了这一切的是比特币这样的数字货币。
+“And cash, in small sums, is completely untraceable,” he said.
+“还有现金，小笔的现金，完全难以追查，”他说。
+Hsinchun Chen, the director of the Artificial Intelligence Laboratory at the University of Arizona, told me that the situation was getting worse, and that there had been a rapid rise in the last few years. Mr. Chen has done research on the Dark Web and found that programmers use a vast network to trade software for drugs and other contraband. Many of these sites are set up so they can be replicated quickly if authorities take them offline.
+亚利桑那大学(University of Arizona)的人工智能实验室主任陈炘钧(Hsinchun Chen)告诉我，情况正变得越来越糟，而且此类交易过去几年迅速增长。陈忻钧从事过黑暗网络的研究，他发现，程序员们利用一个庞大的网络交易，拿软件来交换毒品等违禁品。之所以建立许多这样的网站，是因为如果它们被当局关闭的话，可以很快进行复制。
+“This underground has grown so widespread in recent years that entire international virtual communities and black markets have been spawned across the Internet to help facilitate trade between cyber criminals scattered in different parts of the world,” Mr. Chen said.
+陈忻钧说，“这个地下网络最近几年变得非常庞大，网上遍布着国际虚拟社区和黑市。它们帮助世界各地的网络罪犯完成交易。”
+How many Silk Roads are out there? No one really knows. Silk Road claimed to have one million registered users worldwide. Another site, Black Market Reloaded, advertises illegal semiautomatic handguns and AR-15-style rifles. A third, Atlantis, specializes in prescription pills. And after the original Silk Road was shut down, Sheep Marketplace, which sells weapons, drugs and counterfeit documents, quickly rose in popularity, according to Forbes.
+到底有多少个丝路这样的网站？没人知道答案。丝路声称，它在全世界拥有100万注册用户。另一家叫做黑市重装(Black Market Reloaded)的网站在广告中宣传非法的半自动手枪和AR-15式步枪。还有一家叫做亚特兰蒂斯(Atlantis)，专门出售处方药。《福布斯》(Forbes)称，在丝路被关闭之后，销售武器、毒品和办假证的羊市场(Sheep Marketplace)人气飙升。
+Parmy Olson, the author of “We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency,” said that it was difficult to spot the criminals and troublemakers of the web in the real world. The bad guys on the Internet do not look like the bad guys we know, she said.
+著有《我们匿名：深入LulzSec、匿名者组织与全球网络反叛的幕后》(We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency)的帕尔米·奥尔森(Parmy Olson)表示，我们在真实世界里很难发现网络中的犯罪分子和捣乱者。她还说，互联网上的坏人和我们了解的混蛋一点也不像。
+After Jake Davis, the young hacker known as Topiary, was arrested in the Shetland Islands of Scotland in 2011, Ms. Olson flew over to meet him. Mr. Davis, who worked for Anonymous, LulzSec and other groups, eventually pleaded guilty to attacks on several sites.
+化名Topiary的年轻黑客杰克·戴维斯(Jake Davis)2011年在苏格兰的设德兰群岛被捕之后，奥尔森飞去与他见了面。戴维斯曾经为匿名者组织和LulzSec等团体工作，最终对攻击了几家网站的罪名提出了有罪抗辩。 
+He was nothing like she expected. “He was just a scruffy and shy teenager,” Ms. Olson said. And there are plenty of people like him — or the Dread Pirate Roberts — ready to step in and fill their shoes.
+他和她想象的截然不同。奥尔森说，“他就是一个邋遢而害羞的少年。”还有很多与他类似，或是像“恐怖海盗罗伯茨”一样的人，准备好了接他们的班呢。

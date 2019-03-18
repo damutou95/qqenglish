@@ -1,0 +1,36 @@
+Plastics. Computers. Metamaterials?
+塑料。电脑。超材料？
+Almost half a century after Dustin Hoffman was taken aside in “The Graduate” and given the famous “one word” line about the future, it may be time to update the script again. And metamaterials appear to have the same potential to transform entire industries. Over the past 15 years or so, scientists have learned how to construct materials that bend light waves, as well as radar, radio, sound and even seismic waves, in ways that do not naturally occur.
+在电影《毕业生》(The Graduate)中，有人将达斯汀·霍夫曼(Dustin Hoffman)叫到一旁，对他说出了那句著名的“一个词”未来预言。现在距离电影上映已过去将近半个世纪，或许是时候更新剧本了。超材料似乎也具有那种可以改变整个产业的潜力。在过去大约15年的时间里，科学家已经学会如何制造能够以非自然的方式使光波、雷达波、无线电波、声波，甚至地震波弯曲的材料。
+First theorized in 1967 by the Russian physicist Victor Veselago and invented in 1999 by a group led by the physicist David R. Smith, the new design approach was first seen as a curiosity that hinted at science fiction applications like invisibility cloaks.
+俄罗斯物理学家维克托·韦谢拉戈(Victor Veselago)于1967年首次在理论上提出设想，物理学家戴维·R·史密斯(David R. Smith)领导的研究小组于1999年将理论转变为现实。这种新方法起初被视作科幻小说中提到的稀奇之物，比如隐形披风。
+But today, researchers have gained a better understanding of the science and are generating innovations in an array of fields, including radio antennas, radar, cosmetics, soundproofing and walls that help protect against earthquakes and tsunamis.
+但如今，研究人员已经更好地了解了这项技术，正在各个领域进行创新，制造产品，比如无线电天线、雷达、化妆品、隔音材料，以及能抵御地震和海啸的墙壁。
+Last year, the aircraft manufacturer Airbus announced that it was joining with Lamda Guard, a Canadian company, to test a metamaterial-based coating for cockpit windows to protect pilots in commercial aircraft from being blinded by laser pointers.
+去年，飞机制造商空客(Airbus)宣布将与加拿大Lamda Guard公司合作，测试一种由超材料制成的驾驶舱窗户保护层，以使商用飞机飞行员的视力免受激光指示器的影响。
+A key innovation behind metamaterials is that they are constructed with subcomponents that are smaller than the wavelength of the type of radiation they are designed to manipulate. The precise, often-microscopic patterns can then be used to manipulate the waves in unnatural ways.
+超材料背后的关键创新在于他们是由子部件制成的，这种子部件小于它们将会控制的放射线的波长。这种精密的、通常十分微小的子部件可以用来以非自然的方式控制波动。
+The implications of these new materials can be seen in two prototype radar antennas being designed at Echodyne, a start-up firm here that has been funded with backing from Bill Gates, a Microsoft co-founder, and Madrona Venture Group.
+可以从Echodyne正在设计的两种雷达天线原型机中看到这些新材料的影响，这家初创公司获得了微软(Microsoft)联合创始人比尔·盖茨(Bill Gates)及麦德罗纳风险投资集团(Madrona Venture Group)提供的资金。
+There are obvious markets for the technology in automotive safety and self-driving cars. Google’s advanced experimental vehicles use a costly mechanical laser-based device called a lidar to create an instantaneous high-resolution map of objects around the car. Based on a rapidly spinning laser, Google’s lidars still cost roughly $8,000. The radars being designed by Echodyne may soon be able to create similar maps at a much lower cost.
+汽车安全及自动驾驶汽车方面的技术明显存在市场。谷歌先进的实验性汽车能够利用昂贵的激光机械设备——被称作激光雷达——创建一份有关车周围环境的即时高清地图。在快速旋转激光的基础上制成的谷歌激光雷达售价约为8000美元（约合4.97万元人民币）。Echodyne正在设计的雷达可能很快就会创建类似的地图，但成本会低很多。
+Echodyne is the third metamaterials company to be spun out of Intellectual Ventures, an investment and patent firm created by Nathan Myhrvold, a physicist who was Microsoft’s chief technology officer. Two other firms, Kymeta and Evolv Technology, are working on other metamaterial-based applications.
+Echodyne是高智发明(Intellectual Ventures)剥离出来的第三家超材料公司。高智发明是物理学家内森·梅尔沃德(Nathan Myhrvold)创办的投资和专利事务所，他曾在微软公司担任首席技术官。其他两家公司Kymeta和Evolv Technology正在研究超材料的其他应用方式。
+Evolv is pursuing higher-performance airport-security-scanning technology, and Kymeta recently announced a partnership with Intelsat to design land-based and satellite-based intelligent antennas that would greatly increase the capacity and speed of next-generation satellite Internet services.
+Evolv希望开发出性能更高的机场安全扫描技术。Kymeta最近宣布与Intelsat公司合作，共同设计一种安装在地面和卫星上的智能天线，可以大大提高下一代卫星互联网服务的容量和速度。
+Xiang Zhang, a professor of mechanical engineering at the University of California, Berkeley, runs a laboratory that has pioneered a number of applications for metamaterials, including so-called optical “superlenses” that may one day surpass the power of today’s microscopes.
+张翔是加州大学伯克利分校的机械工程教授，他领导的实验室在超材料的很多应用中处于前沿位置，其中包括光学“超级透镜”，有一天这种透镜的能力可能会超过目前的显微镜。
+Dr. Zhang says he hears from many military contractors and commercial companies that are interested in pursuing metamaterial applications.
+张翔说，很多军事承包商和商业公司都对超材料的应用很感兴趣。
+Several years ago, he said, he received several calls from what he thought was Loral Space & Communications, a military contractor. He then learned that the caller was the French cosmetics and beauty firm L’Oréal, which was interested in metamaterials that might be used to change appearance or to create a more effective sunblock.
+他说，数年前，他接到几个电话，本以为对方是军事承包商劳拉空间与通信公司(Loral Space& Communications)，结果发现打电话的是法国化妆品公司欧莱雅(L’Oréal)，该公司对超材料改变人体形象，或者调制出更有效的防晒霜的潜力很感兴趣。
+Dr. Zhang and others are pursuing applications that could drastically lower the cost and increase the performance of optical computer networks.
+张翔等人正在研究如何把超材料应用到大幅降低光学计算机网络的成本，并提高其性能上。
+In 2012, the Berkeley Nanosciences and Nanoengineering Institute published a paper with South Korean scientists describing a metamaterial-based electro-optical modulator made from a sheet of graphene just a single atom thick that was able to switch lightwaves at terahertz frequencies.
+2012年，伯克利纳米科学和纳米工程学研究所(Berkeley Nanosciences and Nanoengineering Institute)发表了一篇论文，韩国科学家在文中描述了一种超材料电光调节器，它使用了厚度只有一个原子直径的石墨烯片制作，可以用于太赫兹光波的开关。
+More recently, a group at City College of New York, led by the physicist Vinod Menon, demonstrated light emission from ultrafast-switching LEDs based on metamaterials. Together, such innovations could make possible optical computer networks far faster than today’s gigabit networks.
+近来，纽约市立学院(City College of New York)物理学家维诺德·梅农(Vinod Menon)率领的一个团队，展示了基于超材料的高速开关LED的发光。把这样的创新结合起来，就有可能研制出一种光学计算机网络，比现在的千兆网络远远更快。
+Indeed metamaterials are still finding their way into new fields. Papers have recently been published that explore the idea of using metamaterial-based “walls” to dampen the seismic waves in earthquakes or the effects of tsunamis.
+事实上，超材料还在陆续进入一些新的领域。最近发表的一些论文，探索了使用超材料“护墙”，在地震或海啸中衰减地震波影响的想法。
+In 2013, scientists at the French construction firm Menard published a paper on arxiv.org, an automated electronic archive for research articles, describing a test of a novel way of counteracting the effects of an earthquake from a metamaterial grid of empty cylindrical columns bored into soil. They reported that they were able to measure a significant dampening of a simulated earthquake with the array of columns.
+2013年，法国建筑公司梅纳尔(Menard)的科学家在自动化研究文献库arxiv.org上发表论文，描述了对一种新方法进行的测试。这种方法是把超材料制作的中空柱状栏杆插在土里，以抵消地震波的影响。论文称，他们的测量显示，在经过这些柱状栏杆后，一场模拟的地震出现了显著衰减。

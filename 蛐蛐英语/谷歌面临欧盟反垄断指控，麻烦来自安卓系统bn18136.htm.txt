@@ -1,0 +1,34 @@
+Google’s antitrust problems in Europe are about to get a whole lot bigger.
+谷歌(Google)在欧洲面临的反垄断问题可能会比想象中的严重许多。
+The company is expected to be charged with breaking the European Union’s competition rules by unfairly favoring Google services, like its search engine and Google Maps, on its Android smartphone operating system over those of rivals, according to three people. The three, who work in either government or the private sector, spoke on the condition of anonymity.
+该公司有可能被指控违反欧盟的企业竞争法规，理由是它在安卓智能手机操作系统上偏向谷歌自身的业务，比如它的搜索引擎和谷歌地图，使其获得了相对于竞争对手的不正当优势。上述信息来自三名供职于政府或私营机构的人士，他们都选择了匿名接受采访。
+The charges, known formally as a statement of objections, may be announced in Brussels as soon as Wednesday, though the announcement could still be postponed until later this month, according to one of the people.
+其中一人表示，这些正式名称为“异议声明”的指控，最早可能会于周三在布鲁塞尔宣布，不过也有可能被推迟到本月晚些时候。
+The expected charges against Google are the latest in a raft of regulatory problems that American tech giants have faced as the European Union has cracked down on these companies’ perceived dominance over how people in the 28-member bloc get access to digital services.
+在欧盟28个成员国的民众获得数字服务的方式上，美国科技巨头被认为占据了主导地位，随着欧盟针对这些企业的优势地位采取严厉措施，后者面临着一系列监管问题。有可能针对谷歌提出的指控就是最新的一例。
+That ranges from privacy complaints over how Facebook uses people’s online information to questions about Apple’s tax affairs from its headquarters in low-tax Ireland. These cases come after previous antitrust investigations into how the likes of Microsoft and Intel operated across regions.
+这些例子还包括有关Facebook如何使用人们的在线信息的个人投诉，以及因为苹果将国际总部设在税率比较低的爱尔兰而引起的税务问题质疑。在这些案例之前，还出现过针对微软(Microsoft)和英特尔(Intel)之类的公司如何跨区域经营的反垄断调查。
+Google denies that it has breached the region’s tough competition laws, and it will have several months to respond to the charges from the European Commission, the executive arm of the European Union.
+谷歌否认自己违反了欧洲严格的竞争法规。它将有数月时间，对来自欧盟执行机构欧盟委员会(European Commission)的指控做出回应。
+“Anyone can use Android with or without Google applications,” Mark Jansen, a Google spokesman, said in a statement when asked about the company’s mobile software. “Hardware manufacturers and carriers can decide how to use Android, and consumers have the last word about which apps they want to use on their devices.”
+“任何安卓系统用户都可以选择用或不用其中的谷歌应用，”被问到有关公司移动软件的问题时，谷歌发言人马克·詹森(Mark Jansen)在一份声明中这样讲道。“硬件制造商和运营商可以自己决定如何使用安卓，用户对于在自己的设备上使用哪些应用也拥有最终决定权。”
+A spokesman for the European Commission declined to comment.
+一名欧盟发言人拒绝置评。
+Despite the company’s denials, the expected charges linked to Android, which powers 77 percent of European smartphones, would represent a major setback for the Silicon Valley company as it grapples with a growing number of global competition investigations into Google’s vast operations.
+尽管谷歌否认违反欧盟法律，但就在这家硅谷公司忙于应对针对其庞大业务的不断增加的全球反垄断调查之际，欧盟即将提起的有关安卓系统的指控仍然会是一次沉重打击。欧洲77%的智能手机都安装了谷歌的安卓系统。
+The case against Android also comes as Google is trying to strengthen its position on mobile — increasingly the primary way that people go online — as its traditional desktop business has started to show some signs of fatigue.
+欧盟针对安卓系统提出指控，也恰逢谷歌试图巩固自身在移动端市场的地位之时，因为其传统桌面端业务已经开始显出疲态，而移动设备正越来越成为人们上网的首选设备。
+Europe’s antitrust officials have already accused Google of unfairly abusing its dominant market position across the 28-member bloc to favor some of its own search services. A conclusion into those separate charges is expected within months, and it could lead to a fine exceeding $7 billion, equivalent to about 10 percent of Google’s most recent annual revenue, the maximum allowable fine.
+欧洲反垄断官员之前就曾指控谷歌滥用自身在欧盟成员国的市场主导地位，使其搜索服务获得不正当优势。这次的指控将在数月内得出结论，可能会带来超过70亿美元的罚款，即目前允许的最高额罚金，相当于谷歌最近年收入的大约10%。
+The Federal Trade Commission in Washington is also looking into whether Google broke American antitrust laws by using its Android operating system to bolster the company’s products. American officials previously investigated claims that Google’s search services violated federal competition rules, though they eventually decided not to bring charges.
+位于华盛顿的美国联邦贸易委员会(Federal Trade Commission)也在调查谷歌，以明确该公司是否在利用安卓操作系统支持公司其他产品的销售，从而违反美国的反垄断法。之前做过调查的美国官员称，谷歌的搜索服务违反了联邦竞争法，不过他们最终决定撤销指控。
+Other countries, including India and Russia, have similarly either accused the company of breaking antitrust rules or opened antitrust investigations into Google’s activities.
+包括印度和俄罗斯在内的其他国家，也有类似举动，要么指控谷歌违反反垄断法，要么针对谷歌的经营活动展开反垄断调查。
+Canadian authorities, though, said on Tuesday that they had closed their investigation into claims that Google had misused its dominant position in online search. They added they would continue monitoring the company’s activities.
+不过加拿大当局周二表示，他们已经停止就谷歌滥用网络搜索领域市场主导地位的指控进行调查，并表示会继续监视该公司的活动。
+Apple continues to generate the largest share of revenue from global smartphone sales. The company also bundles its own services, including digital maps, into its mobile software, but has yet to face similar questions over whether it has broken Europe’s antitrust rules.
+苹果公司依然是从全球智能手机销售中获得营收最多的企业。该公司也将包括数字地图在内的自家服务植入自身的移动软件，但在是否违反欧洲反垄断法规这一问题上，它还不曾受到过类似的质疑。
+Google does not make money from licensing its basic Android software to cellphone manufacturers, but instead earns revenue through digital services like advertising from search, among other mobile services. It holds more than 80 percent of the smartphone operating system market worldwide, according to the technology research company Gartner.
+谷歌并不从给予手机生产商的基本安卓软件授权中获利，而是通过提供数字服务获得营收，比如在搜索等移动服务中的广告。据技术研究公司高德纳(Gartner)统计，谷歌占据了全球移动操作系统市场80%的份额。
+If European officials demand that the company provide rivals greater access to the Android universe — a possibility if Google is found to have broken the region’s laws — the search giant may find it more difficult to promote its own mobile services to users worldwide as well as to smartphone makers.
+如果欧洲官员要求谷歌为竞争对手进入安卓系统提供更多便利——如果谷歌被认定违反该地区反垄断法，就很可能会出现的一种情况——这家搜索巨头可能会发现自己更难向全球用户和智能手机生产商推广自己的移动服务。

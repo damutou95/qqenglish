@@ -1,0 +1,66 @@
+Shortly after he introduced the new Fire phone on Wednesday, I spoke with Jeff Bezos, Amazon’s founder and chief executive, about the device and Amazon’s goals in the smartphone business.
+周三在亚马逊(Amazon)创始人及首席执行官杰夫·贝佐斯(Jeff Bezos)推出新产品Fire手机后，我和他谈了这款新设备，以及亚马逊在智能手机领域中的目标。
+Here is an edited transcript of the conversation. Sadly, it does not do justice to Mr. Bezos’s booming laugh, which punctuated many of his sentences.
+下面是经过编辑的谈话记录。遗憾的是，文字无法呈现贝佐斯在交谈中时常插入的爽朗大笑。
+Q. Why did you make a phone?
+问：你为什么做了一款手机？
+A. Our product development process always starts the same way. We don’t start out by saying, “We have to build an X.” We say, “If we were going to build an X, how would it be different? How would it be better?” And it can’t just be different. It has to be different constrained by customers caring. It’s easy to be different if you don’t constrain it that way. But it has to be useful.
+答：我们的产品开发流程总是以同样的方式开始。我们开始时并不会说，“我们得做一个什么东西。”而是会说，“如果我们做一款什么东西，它能有什么不同？它怎样才能比现有的更好？”而且不能仅仅是不同，还需要是受到客户关怀约束的不同。如果不这样加以约束，做到不同是很容易的。可它还需要有用。
+Q. But are you too late into this market?
+问：可是你们进入这块市场会不会太晚了？
+A. I think in the whole evolution of this, we’re still pretty early. I don’t want to judge before all the facts are in, but I think this wireless thing is going to be big.
+答：我想从整个演化过程来看，我们还算挺早的。在了解所有事实之前，我不想下判断，不过我想无线产业会十分巨大。
+If we go back in time just five, six, seven years, we’re talking about different players — Nokia, BlackBerry and others. Things change very rapidly in this area.
+仅仅退回五年、六年、七年，我们谈论的就是完全不同的厂商——诺基亚(Nokia)、黑莓(BlackBerry)等等。在这个领域，变化很快。
+Q. I was surprised that you weren’t competing on price so aggressively. This is essentially the same price as rival devices.
+问：你们没有那么卖力地拼价格，这一点我很惊讶。它和市面上的竞品实际上价格是一样的。
+A. Well, it’s 32 gigabytes instead of 16, which is a big deal. So don’t forget that small fact! And it has Prime — for new or existing members, you get 12 months free.
+答：可它的存储空间有32G，而不是16G，这可了不得。所以，不要忘记这件小事！它还附赠Prime会员，无论是新客户还是老客户，都能免费得到12个月的Prime服务。
+But it’s a really premium phone. We’ve packed a lot of hardware, a lot of expensive materials into the phone.
+可它的确是一款高端手机。我们在这款手机里配置了很多硬件，很多昂贵的材料。
+Q. Are you saying you’re not making a profit on the phone? When you launched the Kindle tablets, you said you didn’t want to make money when people buy your devices — you want to make money when people use your devices.
+问：你是在说这款手机你们不会盈利吗？在发布Kindle平板的时候，你说过，你不想在人们买设备的时候赚钱，而是想在人们用设备的时候赚钱。
+A. I’m saying we haven’t changed our approach. We look at it holistically.
+答：我想说的是，我们没有改变这个方向。我们会整体地看。
+I still see people using second-generation Kindles, like if I go to the beach. Gosh, that’s a six-year-old Kindle. And we don’t have to feel bad about that. We don’t have to wish they were on the upgrade treadmill. I like the alignment with the customer.
+我还能看到人们在用第二代Kindle，比如我去海滩的时候。老天，那可是六年前的Kindle了。我们也没必要为此感到不开心，我们并不是非要看着他们不停地升级不可。我喜欢这样和顾客立场一致。
+With the $199 phone — that’s the same approach.
+这款199美元（约合1240元人民币）的手机，也是同样的策略。
+Q. The other thing that’s clear about the device is that it hooks you into buying from Amazon very directly.
+问：关于这款设备，另一件很清楚的事情是，它能吸引你很直接地从亚马逊买东西。
+A. We make those actions very simple. As we should. Guess what: One of the things people want to do with their phones is buy stuff, from Amazon and in general. So helping people take care of their shopping tasks is an important job to do in any smartphone.
+答：我们把那些操作设计得很简单，也应该这样设计。你猜怎么着？人们想用智能手机做的一件事情，就是购物，可能是从亚马逊，也可能是从其他地方。所以帮助人们打理购物任务，是任何智能手机必备的一项重要功能。
+But that’s not what the phone is about. It has to stand on its own as a fantastic phone. It even has to make phone calls.
+不过，这款手机不是只有这一项功能。它本身也需要成为一款出色的手机，况且也必须要能打电话才行。
+And most exciting for us is third-party developers. It’s easy to add custom actions to Firefly [the Fire's image-recognition system], and it’s going to be really interesting to see what they come up with.
+最令我们激动的是第三方开发人员。为Firefly（即Fire手机的图像识别系统）添加定制的动作很容易，看他们能想到什么，肯定会很有趣。
+Q. It sounds like you’ve been using the Fire phone as your own phone. What were you using before, and what’s it been like to use this?
+问：听起来好像你自己一直在用Fire手机。在这之前你用什么手机，使用这款手机是什么感觉？
+A. Well, Samsung. And the thing I’ve noticed is when I switch back to another phone, I’m still reaching for the gestures that work so reliably on Fire phone, like autoscroll.
+答：嗯，三星。我注意到的一个现象是，用回其他手机后，我还是会尝试Fire手机上功能很可靠的一些手势，比如自动滚屏。
+For the design team, invention is about stepping back and finding those things in technology that aren’t ideal, but you’re so inured to them that you don’t realize they could probably be improved. Traditionally scrolling is not that good. It’s often a two-handed gesture. You’re interjecting your finger in front of the screen.
+对于设计团队来说，发明就是要后退一步，找到科技产品中那些并不理想，但因为过于习惯，所以意识不到还可以改进的东西。传统上，滚动操作都不怎么好，常常需要两只手，要把手指捅到屏幕前面。
+Once you get used to autoscrolling, you’ll be trying to do it on another device — and that’s a good sign.
+习惯了自动滚屏之后，就会在另一台设备上尝试这么做——这是个好信号。
+Q. How will you know whether this phone is working? What are your benchmarks?
+问：你如何判断这款手机成功与否呢？你们有什么标准？
+A. We have a long history of getting started and being patient. There are lot of assets you have to bring to bear to be able to offer a phone like this. The huge content ecosystem is one of them. The reputation for customer support is one of them. We have a lot of those pieces in place.
+答：我们一直以来都是先开始，之后保持耐心。要拥有很多资源，才能推出这样样一款手机。其中一个是巨大的内容生态系统，顾客支持的声誉也是其中一个。许多类似的因素，我们都已经准备好了。
+It’s our job to keep inventing and to be patient. One thing leads to the next.
+我们的工作是不断地发明创新，之后要有耐心。事情是循序渐进的。
+Q. Is it too simplistic to point to one number — to say the phone is aimed at selling Prime memberships, say?
+问：只是指出一个目的，比如说推出这款手机是为了推销Prime会员服务——这样是不是太简单化了？
+A. Yes, that is too simplistic. If you looked at the ratio of hard work in this to selling Prime memberships, that would be the hardest thing we could do. If you just looked at the number of machine vision and computer scientists, hardware engineers, you’re talking about thousands of people building this phone.
+答：是的，这样说太简单化了。如果了解一下这个项目里投入的努力，比推销Prime会员服务多出多少倍，就会发现我们没有必要做这么难的事。看看有多少机器视觉专家、计算机科学家、硬件工程师参与研发这款手机，我们说的可是成千上万人。
+Now, all of these things are self-reinforcing. The phone will make Prime memberships better, and Prime looks great on this phone. It’s not that there’s no interaction between these elements. But to say that’s the primary purpose is too simplistic.
+现在所有这些因素都是相得益彰的，手机能让Prime会员更棒，Prime会员在手机上感觉也很棒。并不是说这些因素不会相互作用，只是说如果认为它是主要目的，就过于简单化了。
+Q. You showed a graph of Prime memberships rising sharply. Is that because of your media content?
+问：你展示了一幅Prime会员快速增长的图表。是因为多媒体内容吗？
+A. I think so. It’s always hard to know for sure. But when we started Prime Instant Video, we started with 5,000 videos. People loved it. They didn’t say, “It’s terrible, it’s just 5,000 videos.” They said, “I bought this for fast, unlimited shipping, and I just got this really cool thing at no additional charge.” And now it’s 40,000 videos, including much-sought-after exclusives.
+答：我想是的。很难准确判断，不过我们刚开始提供Prime即时视频(Prime Instant Video)服务时，才只有5000个视频。人们都很喜欢，他们也没说，“太糟了，才5000个视频。”而是说，“我买Prime会员是为了享受无限制的快速配送，可我没有额外花钱，就得到了这个很酷的东西。”现在已经有4万个视频了，包括很受关注的独家视频。
+We can track people who are joining Prime for the first time, and we know if they’re coming from a page about free shipping or a page about Prime Instant Video.
+我们第一次可以追踪购买Prime服务的用户，我们知道他们是来自免费配送的页面，还是来自Prime即时视频的页面。
+With every passing year, that is shifting toward Prime Instant Videos. There’s one group of customers who start their membership because of Prime Instant Video, but they’re like, “I got this free two-day shipping thing.”
+每过一年，数据都会朝Prime即时视频转移。还有一群顾客购买Prime会员是因为即时视频，不过他们想的是，“我免费得到了两天快速配送。”
+There’s this other group that starts with free shipping. That’s still the bigger group, and they’re like, “I can get this cool video.” All these things work together.
+另一群顾客则先是为了享受免费配送而加入的，这一群顾客的规模仍然是更大的。他们想的是，“我能看很酷的视频。”这些都是相互促进的。

@@ -1,0 +1,22 @@
+SEOUL, South Korea — North Korea on Sunday denied responsibility for hacking the computers of Sony Pictures Entertainment but appeared to relish the attack that crippled the computer systems of the Hollywood company, which is set to release a comedy that involves a plot to assassinate its leader, Kim Jong-un.
+韩国首尔——朝鲜上周日否认索尼电影娱乐公司（Sony Pictures Entertainment，下称索尼影业）电脑遭黑客入侵与他们有关，但似乎十分乐见这家好莱坞公司的电脑系统陷入瘫痪。据悉，该公司即将推出的一部喜剧中有朝鲜领导人金正恩(Kim Jong-un)遇刺的剧情。
+Sony Pictures is producing “a film abetting a terrorist act while hurting the dignity of the supreme leadership,” a spokesman of the National Defense Commission, Mr. Kim’s top governing agency in Pyongyang, was quoted as saying by the North’s Korean Central News Agency.
+朝鲜通讯社朝中社(Korean Central News Agency)引用了平壤最高执政机关国防委员会(National Defense Commission)的一名发言人的话，称索尼影业正在制作“一部煽动恐怖主义行为的电影，同时也侵犯了最高领袖的尊严。”
+The spokesman said North Korea did not know why Sony was targeted, but he speculated that the attack “might be a righteous deed of the supporters and sympathizers with” North Korea in its struggle to “put an end to U.S. imperialism.”
+这位发言人说，朝鲜不知道为什么索尼会成为黑客的袭击目标，但是他猜测袭击也许是朝鲜的“支持者和同情者的正义之举”，要和朝鲜一起“终结美帝国主义”。
+A hacking attack last month shut down the computer systems of Sony Pictures and exposed a trove of internal data, including salary figures. North Korea has since emerged as a possible suspect because it has been criticizing Sony Pictures for producing “The Interview,” a comedy starring Seth Rogen and James Franco that involves the assassination plot against Mr. Kim.
+上月的一场黑客袭击导致索尼影业的电脑系统宕机，包括薪资数目在内的大量内部数据遭泄露。随后朝鲜被列为嫌疑人之一，因为该国一直在批评索尼影业制作的影片《采访》(The Interview)，这部由赛斯·罗根(Seth Rogen)和詹姆斯·弗兰科(James Franco)主演的喜剧包含了刺杀金正恩的情节。
+North Korea saw no humor there. It has called the movie “an act of war” sponsored by Washington’s “hostile policy.”
+朝鲜不觉得这有什么可笑。它称电影是在华盛顿的“敌对政策”资助下发起的“战争行为”。
+Mr. Kim’s family has been ruling North Korea since the late 1940s with a totalitarian grip that has rested upon a personality cult. The government in Pyongyang lashes out at any attempt from the outside to criticize Mr. Kim, calling it a challenge to the “supreme dignity” of the entire country. It has been especially sensitive about such criticism in recent weeks because there was an American-supported attempt at the United Nations to ask the Security Council to refer Mr. Kim to an international criminal court for human rights abuses.
+金家自上世纪40年代开始统治朝鲜，建立了一种基于个人崇拜的集权统治。外界对金正恩的任何批评，都会引发平壤政府的激烈反应，称那是在挑战整个国家的“最高尊严”。近几周，该国政府对此类批评更是格外敏感，因为联合国正在酝酿一项由美国支持的行动，要以侵犯人权的罪名将金正恩告上国际刑事法庭。
+No direct evidence has emerged yet that links North Korea to the hacking attack at Sony Pictures, and digital-security analysts have been divided over the likelihood of its involvement.
+然而目前还没有直接证据表明索尼影业遭到的袭击跟朝鲜有关，数码安全分析师在这一问题上的看法存在分歧。
+On Sunday, North Korea said there were “a great number of supporters and sympathizers” with North Korea “all over the world,” including “champions of peace” who might initiate more “righteous reaction” against the United States’ “evildoings.”
+周日，朝鲜称其在“世界各地”拥有“大量的支持者和同情者”，其中一些“和平捍卫者”将针对美国的“邪恶行径”发起更多的“正义回击”。
+South Korean and American officials have been increasingly concerned about North Korea’s capability to carry out attacks on computers, especially after huge disruptions of bank, government, media and military websites in South Korea in recent years that South Korea attributed to attacks sponsored by the North. North Korea has denied involvement and instead blamed South Korea for disrupting its websites in recent years.
+对朝鲜在计算机袭击方面的能力，韩国和美国官员表现出日益加剧的担忧，尤其是近年针对韩国银行、政府、媒体和军事网站发起的大规模骚扰行动。韩国方面称，这些行动获得了朝鲜的资助。朝鲜否认与此有关，并转而指责韩国近年对其网站进行过骚扰。
+North Korea itself is cut off from the Internet, except for a handful of state-approved websites linked to the World Wide Web. But South Korean officials and defectors from North Korea said North Korea has been training specialists in computer attacks for decades to collect technological data through the Internet, spread the country’s propaganda online and initiate hacking attacks.
+朝鲜本身是隔绝于互联网之外的，只有寥寥几个政府认可的网站连入了万维网(World Wide Web)。但韩国官员和脱北者称，过去几十年来，朝鲜一直在培训计算机袭击方面的专家，通过互联网收集技术数据，进行政治宣传，并发动黑客攻击。
+In a report to Congress last year, the United States Defense Department said that given its bleak economic outlook, North Korea might see hacking attacks as “a cost-effective way to develop asymmetric, deniable military options.”
+在去年的一份国会报告中，美国国防部(Defense Department)称，考虑到其悲观的经济前景，朝鲜也许会视黑客攻击为“一种发展不对称、可否认性军事对策的高效方式。”

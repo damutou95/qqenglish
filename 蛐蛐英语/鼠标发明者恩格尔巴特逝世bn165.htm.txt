@@ -1,0 +1,48 @@
+Douglas C. Engelbart was 25, just engaged to be married and thinking about his future when he had an epiphany in 1950 that would change the world.
+1950年，道格拉斯·C·恩格尔巴特(Douglas C. Engelbart)25岁，刚刚订了婚，思考着他的未来，突然，一个将会改变世界的灵感闪现在他的脑海。
+He had a good job working at a government aerospace laboratory in California, but he wanted to do something more with his life, something of value that might last, even outlive him. Then it came to him. In a single stroke he had what might be safely called a complete vision of the information age.
+他有一份好工作，在位于加利福尼亚的某政府航天实验室任职，但他渴望在有生之年取得更大成就，做一些可能具有长久价值的事，甚至在他死后还能继续发挥作用。于是这个灵感来了。仅凭一个点子，他就当之无愧地勾画出了信息时代的全景。
+The epiphany spoke to him of technology’s potential to expand human intelligence, and from it he spun out a career that indeed had lasting impact. It led to a host of inventions that became the basis for the Internet and the modern personal computer. Among them was something he called “the bug.”
+这一顿悟让他想到了科技延伸人类智慧的潜力，并以此发展出一个具有深远影响力的职业生涯。这一顿悟也带来了一系列发明，而这些发明又成为互联网和现代个人电脑的基础。其中就有他所说的“虫子”(bug)。
+In later years, it was given a more warmhearted name, evoking a small, furry creature given to scurrying across flat surfaces: the computer mouse.
+后来，人们给它起了一个更温情的名字，让人想起一只喜欢在平整表面上乱蹿的毛茸茸的小家伙：电脑鼠标。
+Dr. Engelbart died on Tuesday at 88 at his home in Atherton, Calif. His wife, Karen O’Leary Engelbart, said the cause was kidney failure.
+恩格尔巴特博士于周二在加利福尼亚州阿瑟顿的家中去世，享年88岁。他的妻子卡伦·奥利里·恩格尔巴特(Karen O’Leary Engelbart)说他死于肾衰竭。
+Computing was in its infancy when Dr. Engelbart entered the field. Computers were ungainly room-size calculating machines. Someone would feed them information in stacks of punched cards and then wait hours for a printout of answers. Interactive computing was a thing of the future, or in science fiction. But it was germinating in Dr. Engelbart’s restless mind.
+当恩格尔巴特博士刚刚进入计算机科学领域时，该领域还处在发展初期。那时的电脑还只是笨拙的、房间般大的计算器。人们用一叠叠打孔卡向计算机输入信息，然后等几小时才能打印出答案。交互式计算还很遥远，或仅在科幻小说里出现。但它却正在恩格尔巴特博士不知疲倦的大脑中萌芽。
+In his epiphany, he saw himself sitting in front of a large computer screen full of different symbols — an image most likely derived from his work on radar consoles while in the Navy after World War II. The screen, he thought, would serve as a display for a workstation that would organize all the information and communications for a given project.
+灵光之中，他看见自己坐在一台大型电脑前，电脑屏幕满是不同的符号——这一场景极有可能来自二战后他在海军负责雷达控制台的工作经历。他认为，这个屏幕可以作为工作站的显示器，而工作站则是针对某特定工程，用来组织所有信息和通讯。
+It was his great insight that progress in science and engineering could be greatly accelerated if researchers, working in small groups, shared computing power. He called the approach “bootstrapping” and believed it would raise what he called their “collective I.Q.”
+他洞察到，如果以小组形式工作的研究人员能共享计算能力，那么科学和工程领域的进步会得到极大的加速。他称这一做法为“自举”(bootstrapping)，并认为这会提高他所称的“集体智商”(collective I.Q)。
+A decade later, during the Vietnam War, he established an experimental research group at Stanford Research Institute (later renamed SRI and then SRI International called Augmentation Research Center, known as ARC. In the main, computing industry professionals regarded Dr. Engelbart as a quixotic outsider.
+10年后，他于越战期间在斯坦福研究所（Stanford Research Institute，后来被重新命名为SRI，再后来是SRI国际）成立了一个实验性的研究小组，该小组被称为扩展研究中心（Augmentation Research Center，简称ARC）。但总的来说，计算机领域的专业人士都认为恩格尔巴特博士是一个堂吉诃德式的外来者。
+In December 1968, however, he set the computing world on fire with a remarkable demonstration before more than a thousand of the world’s leading computer scientists at the Fall Joint Computer Conference in San Francisco. Dr. Engelbart was developing a raft of revolutionary interactive computer technologies and chose the conference as the proper moment to unveil them.
+但在1968年12月旧金山举行的秋季联合计算机大会(Fall Joint Computer Conference)上，恩格尔巴特博士在一千多名世界顶级计算机科学家面前做了一次卓越的演示，让整个计算机世界为之兴奋。恩格尔巴特博士当时正在开发一系列革命性的交互计算机技术，他认为这次大会是首次展示这些技术的理想时机。
+For the event, he sat on stage in front of a mouse, a keyboard and other controls and projected the computer display onto a 22-foot-high video screen behind him. In little more than an hour, he showed how a networked, interactive computing system would allow information to be shared rapidly among collaborating scientists. He demonstrated how a mouse, which he invented just four years earlier, could be used to control a computer. He demonstrated text editing, video conferencing, hypertext and windowing.
+在大会上，他坐在讲台上，面前是一个鼠标、一个键盘和其他控制设备，电脑显示屏被投射在他身后一个22英尺（约合6.7米）高的屏幕上。在一个小时出头的时间里，他向在座的人展示了一个联网的、交互的计算机系统如何能让相互合作的科学家快速共享信息。他还演示了如何使用他在四年前发明的鼠标来控制电脑，并展示了文本编辑、视频会议、超文本和创建窗口。
+In contrast to the mainframes then in use, a computerized system Dr. Engelbart created, called the oNLine System, or NLS, allowed researchers to share information seamlessly and to create and retrieve documents in the form of a structured electronic library.
+和当时使用的大型主机不同，恩格尔巴特博士创建的计算机化系统（被称为联机系统）让研究人员可以无缝共享信息，并能以结构化电子图书馆的形式来创建和读取文件。
+The conference attendees were awe-struck. In one presentation, Dr. Engelbart demonstrated the power and the potential of the computer in the information age. The technology would eventually be refined at Xerox’s Palo Alto Research Center and at the Stanford Artificial Intelligence Laboratory. Apple and Microsoft would transform it for commercial use in the 1980s and change the course of modern life.
+与会人员都被他的演示所震惊。在一次演示中，恩格尔巴特博士展示了信息时代的电脑的实力和潜力。这一技术将最终在施乐公司(Xerox)的帕洛阿尔托研究中心（Palo Alto Research Center，简称PARC）和斯坦福人工智能实验室(Stanford Artificial Intelligence Laboratory)得以改进。苹果公司(Apple)和微软(Microsoft)将在20世纪80年代把这一技术付诸商用，并从此改变现代生活的进程。
+Years later, people in Silicon Valley still referred to the presentation as “the mother of all demos.” And it was the mouse, at least at first, that made the biggest impression.
+多年后，硅谷人依然把这次演示称为“演示之母”。但至少在最初，给人们留下最深印象的是鼠标。
+Douglas Carl Engelbart was born in Portland, Ore., on Jan. 25, 1925, to Carl and Gladys Engelbart. He spent his formative years on a farm in suburban Portland and attended Oregon State College. Toward the end of World War II, he was drafted. He spent two years in the Navy, one of them in the Philippines, as a radar technician.
+道格拉斯·卡尔·恩格尔巴特于1925年1月25日出生在俄勒冈州波特兰，他的父母是卡尔和格拉迪丝·恩格尔巴特(Carl and Gladys Engelbart)。他在波特兰的郊区长大成人，后就读于俄勒冈州立大学(Oregon State College)。他在二战快结束时应征入伍，并在海军服役两年，其中一年是在菲律宾任雷达技术员。
+After returning to Oregon State and graduating, he was hired to work at Ames Research Center, a government aerospace laboratory in California. While there, working as an electronics technician, he saw how aerospace engineers started with small models of their designs and then scaled them up to full-size airplanes.
+在回到俄勒冈州立大学并毕业后，他在加利福尼亚州的政府航天实验室艾姆斯研究中心(Ames Research Center)谋得一职。在那里担任电子技术员期间，他看到航天工程师如何从设计小模型开始，而后将它放大变成全尺寸的航天飞机。
+The idea of scaling remained with him. After getting his Ph.D. at the University of California, Berkeley, he wrote a seminal paper on the importance of scaling in microelectronics. He grew convinced that computers would quickly become more powerful. He was proved right.
+他一直没有忘记这种按比例生产的想法。从加州大学伯克利分校(University of California, Berkeley)取得博士学位后，他写了一篇有重大意义的论文，探讨微电子学领域的成比例生产。他开始确信，计算机将很快变得更强大。事实证明，他是对的。
+The idea for the mouse — a pointing device that would roll on a desk — occurred to Dr. Engelbart in 1964 while he was attending a computer graphics conference. He was musing about how to move a cursor on a computer display.
+1964年，当恩格尔巴特博士参加一场计算机制图大会时，他产生了鼠标——一种在桌面滚动的指针设备——这个创意。他当时在考虑如何能够移动电脑显示屏上的光标。
+When he returned to work, he gave a copy of a sketch to William English, a collaborator and mechanical engineer at SRI, who, with the aid of a draftsman, fashioned a pine case to hold the mechanical contents.
+回到研究院后，他将一份草图交给威廉·英格利希(William English)——他的合作者、斯坦福研究院的机械工程师。在一位绘图员的帮助下，英格利希还给这个机械装置做了一个漂亮的松木外壳。
+The importance of Dr. Engelbart’s networking ideas was underscored in 1969, when his Augment NLS system became the application for which the forerunner of today’s Internet was created. The system was called the ARPAnet computer network, and SRI became the home of its operation center and one of its first two nodes, or connection points.
+恩格尔巴特博士的联网理念的重要性，在1969年得到了强调，当时他的扩展型联机系统(Augment NLS)被应用到现代互联网的前身中。这一系统被称为ARPAnet，斯坦福研究院成为它的运营中心，也成为它最早的两个节点之一。
+SRI sold the NLS system in 1977 to a company called Tymshare. Dr. Engelbart worked there in relative obscurity for more than a decade until his contributions became more widely recognized by the computer industry. He was awarded the National Medal of Technology, the Lemelson-M.I.T. Prize and the Turing Award.
+斯坦福研究院在1977年把联机系统卖给一家名叫泰姆谢尔(Tymshare)的公司。恩格尔巴特博士在那里默默无闻地工作了十几年，直到后来他的贡献在计算机界得到更广泛的认可。他被授予了国家技术奖章(National Medal of Technology)、麻省理工学院莱梅尔逊奖(Lemelson-MIT Prize)和图灵奖(Turing Award)。
+His first wife, the former Ballard Fish, died in 1997. Besides his wife, his survivors include his daughters, Gerda and Christina Engelbart and Diana Mangan; a son, Norman; and nine grandchildren.
+他的第一任妻子巴拉德·菲什(Ballard Fish)于1997年去世。除了现在的妻子，恩格尔巴特的在世家人还有他的女儿格尔达·恩格尔巴特(Gerda Engelbart)、克里斯蒂娜·恩格尔巴特(Christina Engelbart)、和黛安娜·曼根(Diana Mangan)，儿子诺曼(Norman)，以及九个孙辈。
+Dr. Engelbart was one of the first to realize the accelerating power of computers and the impact they would have on society. In a presentation at a conference in Philadelphia in February 1960, he described the industrial process of continually shrinking the size of computer circuits that would later be referred to as “Moore’s Law,” after the Intel co-founder Gordon Moore.
+恩格尔巴特博士很早便认识到计算机的加速力以及计算机对社会的影响力，他是这方面的先驱之一。在1960年费城一场会议的报告中，他描述了如何不断缩小计算机电路的工业，这种想法后来被称为摩尔定律(Moore’s Law)，以英特尔(Intel)创始人之一高登·摩尔(Gordon Moore)命名。
+Speaking of the future, he said, “Boy, are there going to be some surprises over there.”
+谈及未来，他说，“还能有什么能让我们惊讶的吗？”

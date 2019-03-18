@@ -1,0 +1,40 @@
+HOMESTEAD, Fla. — An international competition to pave the way for a new generation of rescue robots was dominated by a team of Japanese roboticists who were students in the laboratory of a pioneer in the design of intelligent humanoid machines.
+佛罗里达州霍姆斯特德——在为新一代救援机器人做准备的一项国际竞赛中，一个来自日本的机器人研发团队遥遥领先，团队的成员都曾在一位智能人形机器人设计先驱的实验室学习。
+The early roboticist, Hirochika Inoue, began working in the field almost a half-century ago at the University of Tokyo, and in the mid-1990s led the design of robots that could both walk and manipulate objects.
+这名机器人专家名为井上博允(Hirochika Inoue)。近半个世纪前，他开始在东京大学(University of Tokyo)从事相关研究，并于上世纪90年代中期牵头设计了能行走并操控物件的机器人。
+Students from the lab where Dr. Inoue did his early work, who then studied under Masayuki Inaba, a roboticist who was one of Dr. Inoue’s pupils, emerged as the clear leaders at the Pentagon’s Darpa Robotics Challenge 2013 Trials on Friday and Saturday.
+在竞赛中领先的学生团队来自井上进行早期研究的实验室。他们师从于井上的弟子、计算机专家稻叶雅幸(Masayuki Inaba)。在上周五及周六举行的五角大楼国防高级研究计划局机器人挑战赛(Darpa Robotics Challenge)的2013年度选拔赛上，该团队大获全胜。
+Their team, called Schaft, completed the eight required tasks in the challenge almost flawlessly, losing points only because the wind blew a door out of its robot’s grasp and because the robot was not able to climb out of a vehicle after it successfully navigated an obstacle course.
+这支名为Schaft的团队几乎毫无瑕疵地完成了比赛中的八项任务，仅在两处地方失分：一处是风让机器人没能抓紧一扇门；另一处是机器人成功通过障碍场地后未能爬出车辆。
+The trials, held on the infield of the Homestead-Miami Speedway, included 16 teams that competed for a chance at a $2 million prize next year, and eight were selected to move on. The eight are now eligible for $1 million in support to help them prepare for the final event.
+选拔赛在霍姆斯特德-迈阿密赛车场(Homestead-Miami Speedway)的内场进行，共有16支队伍为入围明年举行的奖金为200万美元（约合1220万元人民币）的决赛展开争夺。这次晋级的八支队伍可以获得100万美元的资金来协助它们为决赛做准备。
+Gill Pratt, the Darpa program manager who is overseeing the Robotics Challenge, praised the scientist who paved the way for Team Schaft. “Dr. Inoue is a remarkable guy who really is the father of a lot of the stuff in Japan,” he said.
+负责机器人挑战赛的Darpa项目主管吉尔·普拉特(Gill Pratt)对Schaft团队的开路人予以了赞扬。“井上博士很了不起，他在日本真的开创了很多东西，”他说。
+He also noted that the team of Japanese roboticists had a striking work ethic. Starting from an agency handout, the team had built three prototypes and were already testing the machines when Darpa officials visited Tokyo last summer. Dr. Pratt said the officials were expecting to see only plans.
+他还指出，这支日本机器人专家团队工作极其勤奋。他们靠着机构捐赠起步，打造了三个原型，等到Darpa的官员今夏到访东京的时候，他们已经开始测试了。普拉特博士称，他们一行人本以为只会看到方案。
+“When we got there to do the site review and walked into their lab,” he said, “we were amazed.”
+“我们去那里做现场评估，结果走进他们的实验室后大吃一惊，”他说。
+The students recently left the university to enter the Darpa contest and created the company Schaft. It has since been bought by Google as part of the company’s new robotics initiative.
+这些学生最近离开了学校来参加Darpa的比赛，并且创办了Schaft公司。公司最近被谷歌(Google)收购，成为后者的新机器人计划中的一环。
+The Darpa event has been described as a grand challenge to open the way for an era in which a generation of mobile robots will aid in disaster situations, traveling and working where humans cannot. The research agency is trying to develop systems that could be used in situations like the meltdown of the Fukushima Daiichi nuclear plant. The fact that there were no robots that could quickly be called upon in that emergency led to consternation in Japan, a nation that has prided itself on its advanced robots.
+Darpa的活动被渲染成为机器人新时代开辟道路的大型挑战赛。新一代的移动机器人将能协助救灾，抵达人类到不了的地方，并从事我们无法进行的工作。这家日本研究机构正努力研发可在福岛第一核电站(Fukushima Daiichi)熔融等情况下使用的系统。事故当时没有机器人能快速应急，这一点让一直自豪于本国拥有先进机器人的日本人错愕不已。
+Darpa officials emphasized that the awards were not final, but were pending contract negotiations with the United States government.
+Darpa的官员强调，最终结果不只取决于比赛名次，还要等待与美国政府的合同谈判。
+IHMC Robotics from the Florida Institute for Human and Machine Cognition placed second. Third place went to Tartan Rescue, developed by the National Research Engineering Center at Carnegie Mellon University, and fourth place was awarded to a team from the Massachusetts Institute of Technology.
+佛罗里达人机认知研究所(Florida Institute for Human and Machine Cognition)打造的IHMC Robotics名列第二；卡内基梅隆大学国家机器人工程中心(National Robotics Engineering Center at Carnegie Mellon University)研发的Tartan Rescue位居第三；麻省理工学院(Massachusetts Institute of Technology)的团队则获得第四。
+The fifth-place robot, RoboSimian, designed by NASA’s Jet Propulsion Laboratory, would have fared better, but the Darpa judges disallowed a clever solution the team had come up with for one of the tasks.
+美国国家航空航天局(NASA)下属的喷气推进实验室(Jet Propulsion Laboratory)设计的RoboSimian获得了第五。它本可以表现得更好，不过在其中一项任务里，团队想出的巧妙办法被Darpa判为无效。
+In a debris-clearing test, in which the robots were supposed to painstakingly remove a simulated pile of two-by-fours and a metal girder piece by piece, the humans on Team RoboSimian decided that removing the entire pile of debris at once would be the most efficient way toward the maximum points.
+在清理废墟的测试中，机器人按照要求需细心地逐一搬运用来模拟的一堆2乘4英寸（约合5乘10厘米）粗的长木条以及一根金属主梁。不过，RoboSimian团队的人类成员认定，一次运走整堆废墟是得到最多分数的最有效途径。
+The RoboSimian robot was almost successful, but it did not get all of the material across a line until after the Darpa officials declared that the team had run out of time.
+RoboSimian机器人差一点就成功了，可是，Darpa官员宣布该团队在规定时间内未能把全部材料运过终点线。
+The incident suggested that there might still be room for human ingenuity in the robot era.
+这件事表明，在机器人时代，人类的聪明才智仍有用武之地。
+“That was our goal, to exploit human intelligence and give humans a tool,” said Max Bajracharya, the group leader and a member of the technical staff at the lab.
+“这就是我们的目标，开发人工智能，赋予人类一种工具，”实验室技师、队长马克斯·巴伊拉查里亚(Max Bajracharya)说。
+Although the robots were moving in slow motion, there was general agreement that the Darpa event was a watershed in the evolution of the technology, perhaps similar to the advent of the Homebrew Computer Club, which began the personal computer industry.
+尽管这些机器人都在做慢动作，但大家的共识是Darpa大赛是该领域技术革新的分水岭，或许相当于开启个人电脑行业的家酿计算机俱乐部(Homebrew Computer Club)的诞生。
+Marc Raibert, whose company, Boston Dynamics, demonstrated two of its agile and mobile robots, said he believed that the event signified merely a point in the evolution of a new industry. Still, he said, it was an event that would be remembered.
+波士顿动力公司(Boston Dynamics)此次展示了两款敏捷的移动机器人。高管马克·雷伯特(Marc Raibert)表示，他认为本次大赛不过是新行业革新的一个节点。不过，他也认为它会被人们铭记。
+“This was a Woodstock for robots,” he said.
+“这是机器人界的伍德斯托克节，”他说。

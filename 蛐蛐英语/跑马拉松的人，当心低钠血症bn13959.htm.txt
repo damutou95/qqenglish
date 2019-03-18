@@ -1,0 +1,22 @@
+Question:
+提问：
+Is it possible to drink too much water?
+人有可能会饮水过量吗？
+I typically drink far more than the recommended six to eight glasses per day, and feel dehydrated if I adhere to the guidelines. I have no underlying medical conditions, such as diabetes, that would lead to increased thirst.
+据说每天的建议饮水量是六到八杯，但我通常喝水都远多于此。如果要严格遵循上述指南饮水，我就感觉会脱水。补充一点，我并没有糖尿病之类会让人容易感觉口渴的病。
+Answer:
+回答：
+Absolutely, and if you do, you can develop a dangerous condition called hyponatremia, or water intoxication.
+人当然可以饮水过量，但这也可能会导致一种很危险的疾病：低钠血症，又称水中毒。
+Under normal conditions, the body beautifully maintains its fluid balance. Lose fluids through sweating, for instance, and your body responds with the feeling of thirst. You drink. If you swallow more liquid than needed just then, your body typically responds by excreting the excess through urination.
+在正常情况下，人体都很完美地保持着体液平衡。例如，在因出汗而丧失体液时，身体会做出反应让你感觉口渴，于是你就去喝水。如果摄入的液体量超过了所需，身体的反应通常是通过小便将多余的水分排泄出去。
+But should you consume so much fluid that your body can’t easily rid itself of the surplus, you dilute sodium levels in your blood. Osmosis then draws water from the blood into body cells to equalize sodium levels, and those cells swell. At that point, you have hyponatremia. If the cellular bloating occurs in the brain, it can be fatal.
+但如果你补液过多，以致身体没法一下子排出多余的水分，血液中的钠浓度就会下降。在渗透作用下，水从血液进入体细胞以平衡钠水平，这就会引起体细胞膨胀，你就患上了低钠血症。要是细胞水肿发生在大脑还可能导致致命后果。
+Until about 20 years ago, hyponatremia was extremely uncommon among healthy people. But then several marathon runners died from hyponatremia. In general, they had been middle- or back-of-the-pack, slower runners. They did not sweat much. But they drank plenty of water, trying to ensure that they would be well hydrated.
+直到大约20年前，低钠血症在健康人群中一直非常罕见。其后，有若干名马拉松运动员因低钠血症死亡。这些人大多是跑在参赛者群体的中后部、速度较慢的运动员。他们出汗不多，却大量饮水，一心想着要确保水分充足。
+Today, most knowledgeable coaches and exercise experts warn athletes not to overdrink. “You should drink only when you need to, when you are actually thirsty,” said Dr. James Winger, a professor of family medicine at Loyola University Medical Center, who has studied the hydration habits of athletes.
+如今，最有见识的教练和运动专家都警告运动员不要过量饮水。詹姆斯·温格(hydration habits)博士是洛约拉大学医学中心(Loyola University Medical Center)的家庭医学教授，一直在研究运动员的补水习惯。他说：“你应该只在需要时，也就是你确实渴了时再喝水。”
+If you’re not sure whether you’re drinking too much or too little during exercise, try weighing yourself before and after a lengthy workout, experts advise. If you have lost more than about 3 or 4 percent of your body weight, you’re probably flirting with dehydration and might want to drink a bit more next time. But if you have gained weight or your fingers seem swollen and your rings tight, you’re most likely drinking too much and should moderate intake.
+专家建议，要是你拿不准自己在锻炼时是否饮水过多或过少，可以试试在长时间运动前后分别称一下体重。如果运动后你的体重减少了3%或4%以上，你很可能已经有轻度脱水，那么下次可以酌情多喝点水。然而，如果你体重增加了，或是你的手指看起来有点肿，戒指也似乎变紧了，就可能是饮水过多了，以后要注意适量即可。
+Most important, listen to your body’s signals, Dr. Winger said. “Thirst is a very reliable indicator,” he said, of whether and how much to drink.
+温格博士说，最重要的是要听从身体给出的信号。要判断自己是否需要喝水以及需要喝多少，“口渴都是很可靠的指标，”他说。

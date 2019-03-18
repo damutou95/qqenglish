@@ -1,0 +1,58 @@
+People from various hacking collectives have tried for several months to block social media accounts that spread propaganda and attempt to recruit fighters for the Islamic State, but those campaigns gained a new energy on Twitter after the Paris attacks.
+几个月以来，各种黑客组织的成员一直试图封锁散布宣传内容、并企图为伊斯兰国(Islamic State)招募武装分子的社交媒体账号，但巴黎袭击过后，这些行动在Twitter上势头增强。
+Hashtags like #OpParis and #OpISIS have allowed the public to see the inner workings of those efforts, which seem to get results. The best-known group involved, the shadowy collective Anonymous, has claimed to have helped take down as many as 20,000 Twitter accounts since the attacks.
+这些行动似乎取得了成效。#OpParis和#OpISIS等标签，让公众得以看到它们的内部运转。参与其中的最有名的组织是“匿名者”(Anonymous)。该神秘组织声称，自袭击发生后，已帮助关闭了多达2万个Twitter账号。
+But experts have mixed views over whether the tactics risk creating a crude online dragnet that penalizes Arab speakers and sometimes sweeps up journalists and others with no Islamic State links.
+但专家意见不一，他们怀疑相关策略会不会有在网上引发一场不加甄别的大搜罗，让讲阿拉伯语的人陷于被动，且不时将记者，以及和伊斯兰国毫不相关的人一股脑儿地卷进去。
+On Twitter and on the website Pastebin, Anonymous has issued a rallying cry.
+在Twitter和Pastebin网站上，“匿名者”发出了战斗口号。
+The group also has an extensive how-to list for anyone interested in taking ISIS offline. Those tactics include posting the names of thousands of questionable accounts and deploying a tool that searches certain keywords on social media and uses a bot to report inappropriate behavior to Twitter.
+该组织还面向一切有志于把ISIS赶出网络的人，发布了一份指导目录，内容全面。相关战术包括公布数以千计的可疑账号的名称，并使用一种工具，在社交媒体上搜索特定关键字，并用机器人程序向Twitter举报不当行为。
+The keyword-search strategy is what hackers say can help shut down ISIS recruiters, but it is also a crude approach that can be controversial. In March, efforts by cybersecurity activists to identify more than 20,000 Twitter accounts of ISIS supporters inadvertently swept up the accounts of news organizations and journalists.
+黑客称关键字搜索战略能帮助关闭ISIS招聘人员的账号。但这也是一种粗暴的方式，可能会引起争议。3月，网络安全活动人士曾试图确认超过2万名ISIS支持者的Twitter账号，但这一行动就在不经意间把新闻机构和记者的账号包括了进去。
+And on Monday, affiliates of GhostSec, a subgroup of Anonymous that claims to have carried out more sophisticated efforts, like infiltrating ISIS message boards, warned against reporting all Arabic tweets.
+“匿名者”的附属组织GhostSec声称他们采取了更复杂的行动，比如潜入伊斯兰国的留言板。GhostSec的附属组织在周一警告称，不要举报所有阿拉伯语的Twitter帖子。
+Other groups, with different motivations and affiliations, claim to use different tactics, and ideological disagreements and infighting can sometimes play out in public.
+其他有着不同动机、属于不同派系的组织，声称采用了不同的策略，而意识形态分歧和内讧有时会公开呈现。
+For example, Ghost Security Group, which claims to help governments with intelligence reports, is not to be confused with the hackers of GhostSec.org. And not all participants in public Anonymous chats support the efforts. “Paris deserved everything it got,” one user wrote in a chat on Tuesday.
+例如，不要将“幽灵安全组织”(Ghost Security Group)与GhostSec.org的黑客混淆，前者声称为政府提供情报报告。而且并非所有加入“匿名者”公开聊天室的人都支持此类举措。周二，一名用户在聊天室写道，“那都是巴黎应得的”。
+The real danger is that keyword search tactics will shut down people who are trying to monitor the Islamic State, warned Lawrence Husick, co-chairman of the Foreign Policy Research Institute’s Center for the Study of Terrorism.
+外交政策研究所(Foreign Policy Research Institute)恐怖主义研究中心(Center for the Study of Terrorism)联合主席劳伦斯·胡西克(Lawrence Husick)警告称，真正的危险在于，这种关键词搜索策略会关闭试图监视伊斯兰国的用户的账号。
+“This is likely to implicate people who follow ISIS but don’t support it,” Mr. Husick said. “They follow it for research and intelligence purposes. So it’s painting with too broad a brush.”
+“这可能会将那些关注但并不支持伊斯兰国的人牵连进去，”胡西克说。“他们出于研究或情报目的关注伊斯兰国。所以说影响范围过大。”
+Mr. Husick said also that Anonymous had sometimes disseminated incorrect information.
+胡西克还表示，“匿名者”有时候会散布错误信息。
+“I’m never in favor of cybervigiliantism,” he said, “even when it serves what I think is a just purpose.”
+“我从来不赞成网络围攻，”他说。“即便它服务的，在我看来是正义的目的。”
+And in any case, Mr. Husick added, “ISIS has demonstrated that it’s pretty adept at putting up new accounts quickly.”
+胡西克还接着表示，无论如何“ISIS已经证明，他们相当擅长迅速建立新账号”。
+But Mark Wallace, the chief executive of the nonprofit Counter Extremism Project, supports the reporting and blocking of accounts en masse.
+但非营利组织“反极端主义项目”(Counter Extremism Project)的首席执行官马克·华莱士(Mark Wallace)支持大量举报和封锁账号。
+“When the puppet pops back up, in the context of social media it’s not as strong a puppet,” Mr. Wallace said. “You’re weakening that person’s presence on Twitter with each time you take them down.”
+“在社交媒体的背景下，即便换个马甲重新回归，也没有之前那么有力了，”华莱士说。“每次封锁他们的账号，都是在削弱那个人在Twitter上的影响力。”
+Mr. Wallace said Twitter serves as a funnel that attracts recruits with propaganda to public message boards that support ISIS and, from there, to encrypted channels. “It’s the funnel,” he said of Twitter. “Without the funnel, you wouldn’t have the flow of people.”
+华莱士称，Twitter充当着漏斗的作用，能用宣传把新加入进来的人，吸引到支持ISIS的公开留言板，再从那里吸引到加密渠道去。“它是一个漏斗，”他如此评价Twitter说。“没有这个漏斗，就不会有人员流动。”
+So far, Twitter has not followed the lead of another social networking behemoth, Facebook, which has historically cracked down on pages that align themselves with terrorist organizations.
+迄今为止，Twitter并未仿效另一个社交网络巨头Facebook，后者历史上打击过倾向于恐怖组织的页面。
+“There is no place for terrorists on Facebook,” Andrew Souvall, a spokesman for Facebook, told Wired. “We work aggressively to ensure that we do not have terrorists or terror groups using the site, and we also remove any content that praises or supports terrorism.”
+“Facebook上没有恐怖分子的容身之地，”Facebook发言人安德鲁·苏瓦尔(Andrew Souvall)对Wired表示。“我们极力确保没有恐怖分子或恐怖组织使用该网站，也会删除一切赞扬或支持恐怖主义的内容。”
+Getting the Islamic State off Twitter would be a monumental task. In a report released in March, the Brookings Institution said there were at least 46,000 active ISIS supporters on Twitter from September to December of last year. Based on geographic data, the most active users were in Saudi Arabia, Syria, Iraq and the United States.
+把伊斯兰国从Twitter上赶走将是一项艰巨的任务。在3月发表的一份报告中，布鲁金斯学会(Brookings Institution)称，去年从9月到12月，Twitter上至少有4.6万个活跃的ISIS支持者。从地理数据来看，最活跃的用户分布在沙特阿拉伯、叙利亚、伊拉克和美国。
+Mass reporting appears to be getting results on other platforms. Last Thursday, an account affiliated with GhostSec.org applauded efforts by activists in the takedown of hundreds of channels on Telegram, a Russian messaging app with encryption that drew scrutiny in the days after the Paris attacks.
+在其他平台上，大规模举报似乎取得了成效。上周四，GhostSec.org的一个附属账号，赞扬了活动人士为关闭Telegram上的数百个频道而开展的行动。Telegram是俄罗斯一款加密的即时通讯应用。巴黎袭击过后的几天里，该应用受到了调查。
+Mr. Wallace said Twitter could be doing more, adding that a detailed request from the Counter Extremism Project asking Twitter do a better job of identifying and shutting down propaganda accounts was met with a canned reponse. He says that safety could be sacrificed in the name of maintaining free speech.
+华莱士表示，Twitter可以采取更多举措。他还表示，反极端主义项目要求Twitter更加有效地确认并关闭宣传账户，但更详尽的要求得到的回应只是一些套话。他表示，维护言论自由，可能会牺牲安全。
+“They have to change the way to look at this and be part of the solution,” Mr. Wallace said of Twitter. “There’s no right to tweet in the Constitution. I think we have to have a debate about that.”
+“他们需要改变看待这个问题的角度，为解决问题出一份力，”华莱士评价Twitter时说。“宪法里没有提在Twitter上发帖的权利。我觉得我们需要就此展开一番争论。”
+In April, Twitter shut down 10,000 ISIS-related accounts in one day, and a representative said that some of the reports had come from online hacking groups. A spokesman for Twitter would not comment on how it is using the latest round of reports, but the website The Daily Dot reported last week that a Twitter representative, speaking on the condition of anonymity, said that the company was not using the lists generated by third parties, calling them “wildly inaccurate.”
+今年4月，Twitter在一天之内关闭了1万个与伊斯兰国相关的账号，一名代表表示，其中一些报告来自网络黑客组织。Twitter的发言人不会就如何利用最新一轮报告发表评论，但The Daily Dot网站上周报道称，Twitter的一名代表在要求匿名的前提下表示，该公司没有利用第三方提供的名单，并称那些信息“极不准确”。
+When American officials were asked to characterize the efforts of Anonymous and other groups, the State Department and the Department of Defense declined to comment on specific efforts made by hackers to close ISIS-related accounts. But the State Department did say it was “encouraged” by Telegram’s recent announcement that it had shut down 78 channels related to the Islamic State.
+当美国官员被要求评价“匿名者”及其他组织的举措时，国务院和国防部都拒绝就黑客尝试关闭与伊斯兰国相关的账户的具体举措发表评论。但国务院表示，Telegram最近宣布将关闭78个与伊斯兰国相关的频道的消息，让它感到“鼓舞”。
+“We are always tracking and evaluating technological changes in the radicalization messaging space, and are continually working to amplify and empower credible third parties to counter ISIL’s messages,” a State Department spokesman said on Friday.
+国务院的一名发言人周五表示，“我们一直在追踪并评估激进化的信息传播中所发生的技术变化，并不断努力让那些打击伊斯兰国的可信的第三方扩大影响力和实力。”
+In an interview posted on the website The Cryptosphere last week, representatives for GhostSec and Ghost Security Group offered details about their claims.
+“加密界”(The Cryptosphere)网站上周公布的采访信息显示，GhostSec和“幽灵安全组织”的代表就其说法提供了相关细节。
+Digita Shadow, a hacker who works with the Ghost Security Group, said that activists had succeeded in blocking 149 extremist websites and over 100,000 social media accounts to date. TorReaper of GhostSec.org said that hackers had infiltrated ISIS message boards to “learn from the inside.”
+与“幽灵安全组织”合作的一名黑客Digita Shadow表示，到目前为止，积极分子成功关闭了149个极端主义网站，以及10万多个社交媒体账号。GhostSec.org的黑客TorReaper表示，黑客们已经潜入了伊斯兰国的留言板，以便“从内部获取信息”。
+They said they had been inspired by the Paris attacks.
+他们表示，他们受到了巴黎袭击事件的激发。

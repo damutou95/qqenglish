@@ -1,0 +1,48 @@
+TAIPEI — Tien Wu, chief operating officer of Advanced Semiconductor Engineering, has a problem: The brightest young people in Taiwan do not want to work in the island’s signature business, chip making.
+台北——日月光半导体制造股份有限公司(Advanced Semiconductor Engineering)首席运营官吴田玉遇到了一个问题：台湾最优秀的年轻人不愿意投身本岛的标志性行业，也就是芯片制造。
+“All the college freshmen are asking, Why should I join the industry? I’d rather work for Facebook, Apple or Google,” Mr. Wu said in an interview.
+吴田玉在一次采访中说，“所有的大学毕业新生都在问，我为什么要加入这个行业？我宁愿为Facebook、苹果(Apple)或谷歌(Google)工作。”
+Taiwan, an island of 23 million people, is the world’s biggest chip maker. The industry generated about $63 billion in sales here last year — more than one-fifth of the global total, according to the Taiwan Semiconductor Industry Association. Made-in-Taiwan chips are key components in many of the world’s PCs, smartphones, cameras and other high-technology gadgets.
+人口2300万的台湾是全球最大的芯片制造基地。根据台湾半导体产业协会的数据，本土的半导体行业去年产生了约630亿美元（约合3854亿元人民币）的销售额，超出了全球半导体行业销售总额的五分之一。台湾制造的芯片是全球许多电脑、智能手机、照相机和其他高科技设备的核心部件。
+Why, then, has chip making lost its allure? Many semiconductor companies in Taiwan struggle with low profit margins or even lose money. At the same time, Silicon Valley giants like Google and Apple, whose wizardry would be impossible without the continuing innovations of the semiconductor industry, are sitting on so much cash they do not know what to do with it.
+那么，芯片制造业为什么失去了吸引力？这是因为，许多台湾半导体公司都在为微薄的利润苦苦挣扎，甚至出现了亏损。与此同时，谷歌和苹果之类的硅谷巨头却坐拥大把现金，不知该如何利用，尽管它们的奇迹要靠半导体行业的持续创新来维系。
+“We’re the guys in the hot room, forging the iron and taking the heat, and someone else is reaping the benefit,” Mr. Wu said.
+吴田玉说，“我们这些人在锻造房里忍着酷热打铁，其他人却坐享其成。”
+His lament was echoed by executives of other companies during a semiconductor trade show in Taiwan last week. So even as engineers toil away at the latest technological breakthroughs in chip design and manufacturing, industry leaders are also wrestling with a bigger question: How can the semiconductor business grab a bigger portion of the profits it enables?
+在台湾上周举办的半导体贸易展会上，他的慨叹得到了其他公司高管的呼应。因此，就在工程师们为芯片设计和生产的最新科技突破而埋头苦干之时，行业领导人还得全力应对一个更大的问题，那就是，半导体行业如何才能从它催生的利润中攫取更大的份额？
+The issue is gaining urgency because one of the old paradigms of the semiconductor business may be about to break down, putting new financial pressure on the industry. According to Moore’s Law, named after Gordon Moore, co-founder of Intel, the number of transistors on a chip doubles every two years, . But the transistors are now packed so densely on chips that it may be technically impossible to go further without corrupting data, experts say.
+由于半导体行业的一种典型模式可能面临崩溃，给该行业施加新的财务压力，这个问题正变得日渐紧迫。根据以英特尔(Intel)共同创始人戈登·摩尔(Gordon Moore)的名字命名的摩尔定律(Moore’s Law)，芯片上的晶体管数量每隔两年就会翻倍。然而，一些专家表示，芯片上镶嵌的晶体管目前已经如此密集，从技术角度说，要想在不破坏数据的情况下安装更多的晶体管，也许是不可能的事情。
+“Everybody is coming up against this,” said Pascal Viaud, chief strategy officer of Yole Développement, a consulting firm in Lyon. “The industry is going to need to find new ways of creating value.”
+位于里昂的咨询公司Yole Développement的首席战略官帕斯卡尔·维奥(Pascal Viaud)说，“所有人都会碰到这个问题。这个行业需要寻找创造价值的新途径。”
+One approach is to stack transistors on top of each other, creating so-called three-dimensional chips, rather than lining them up side by side. Samsung Electronics of South Korea announced this summer what it described as the first mass-produced 3D chips for flash memory, a key component in smartphones.
+方法之一是一层层地向上堆叠晶体管，制造所谓的三维芯片，而不是并排安装晶体管。韩国的三星电子(Samsung Electronics)于今夏宣布，该公司首次批量生产了3D芯片，芯片用于闪存，后者是智能手机的一种关键部件。
+Although 3D technology and other advances promise to lower the cost and increase the performance of consumer electronics, they make chip design and manufacturing more complicated and expensive. This has prompted semiconductor companies to rethink the industry’s structure.
+尽管3D技术和其他技术进步可望降低电子消费品的成本、改善其性能，但这些技术也会让芯片设计和生产变得更复杂、更昂贵。这样的前景已经促使半导体公司重新思考行业的架构。
+Several business models are competing for primacy.
+有几种商业模式正在争夺主导地位。
+The giants of the industry, including Samsung and Intel, offer one-stop shopping — designing, manufacturing and packaging chips into integrated circuits that are sold to the companies that design and assemble finished phones, cameras and other gear. Advocates of this approach, featuring chip making behemoths known as integrated device manufacturers, or I.D.M.’s, say it provides the financial scale and technological expertise to deal with the industry’s challenges.
+包括三星和英特尔在内的一些行业巨头提供了一站式采购服务方案，他们把芯片设计、生产、组装集成电路打包成一体化服务，销售给设计和组装成品手机、照相机和其他设备的公司。该方案的倡导者说，这种方案以芯片制造巨头，也就是一体化设备生产商（简称IDM）为代表，为应对行业挑战提供了资金规模和专业技术方面的优势。
+Another approach is more specialized, with separate companies handling different stages in the creation of an integrated circuit. Advanced Semiconductor Engineering, for example, packages and tests chips that have been made by so-called chip foundries and designed by others. Supporters of this approach say clients of electronics companies prefer to deal with more focused semiconductor contractors.
+另一个办法更为专门化，即各公司负责集成电路生产的不同阶段。比如，日月光半导体制造股份有限公司会对由所谓的芯片铸造厂制造、其他企业设计的芯片进行包装和检测。支持这个办法的人表示，电子企业的客户更喜欢与更专注的半导体承包商打交道。
+“Today, I can say with certainty that the I.D.M. model is dead,” said Ajit Manocha, chief executive of Global Foundries, a chip maker in Milpitas, California, that was created from the manufacturing arm of Advanced Micro Devices four years ago.
+“如今，我可以肯定地说，IDM的模式死路一条，”加利福尼亚州米尔皮塔斯的芯片制造企业格罗方德半导体股份有限公司(Global Foundries)首席执行官阿吉特·马诺查(Ajit Manocha)说。该公司成立于四年前，前身是超微（Advanced Micro Devices，简称AMD）的制造部门。
+Although semiconductor companies everywhere are wrestling with the question of structure, it is particularly pertinent in Taiwan because of the industry’s size and its relative fragmentation. Taiwan has been less affected by multiple rounds of consolidation that have concentrated the industry in a handful of big players elsewhere.
+全球各地的半导体企业都在勉力解决结构问题，但这个问题对台湾来说尤其要紧，因为台湾的半导体行业规模大，而且相对分散。多轮合并已经让其他地方几大巨头的业务实现了融合，但对台湾的影响都不那么大。
+To try to cope with the new challenges, the biggest chip maker on the island, Taiwan Semiconductor Manufacturing Company, or T.S.M.C., long considered to be purely a foundry, has recently moved to add new capabilities, like chip packaging.
+台湾最大的芯片制造商是台湾积体电路制造股份有限公司（Taiwan Semiconductor Manufacturing Company，简称TSMC），长期以来一直被视为一个纯粹的铸造厂。最近，为了应对最新挑战，该公司开始增加新的业务能力，比如芯片包装。
+United Microelectronics Corporation, the second-biggest foundry by revenue in Taiwan, has announced an alliance with IBM to develop new technology, as well as investments in other chip companies.
+台湾收入排名第二的联华电子(United Microelectronics Corporation)已宣布同IBM结成开发新技术的联盟，还投资了其他的一些芯片企业。
+Despite all the maneuvering, 2013 is shaping up as a pretty good year for chip makers in Taiwan, with revenue over all expected to rise to 1.87 trillion Taiwan dollars, or about $63 billion, up 14 percent from 2012, according to the Taiwan Semiconductor Industry Association. But the business is volatile; two years ago, sales plunged 12 percent.
+根据台湾半导体产业协会的数据，尽管进行了一些策略调整，但对台湾的芯片制造商而言，2013年正在朝收获颇丰的方向发展，整个行业的总收入预计会增至1.87万亿台币（约合3855亿元人民币），约合630亿美元，同2012年相比增幅达14%。然而，这个行业很不稳定：两年前，芯片销量曾骤跌12%。
+Some analysts say there are signs of a turnaround in one of the weakest parts of the business, memory chips. Memory prices have been weak for years, because chip makers expanded capacity just as sales of PCs, a big user of memory chips, began to slump. But consolidation has helped put capacity back in line with sales.
+一些分析人士称，这个行业最脆弱的部分之一，也就是存储芯片业务，已经出现好转迹象。多年来，存储芯片一直价格疲软，因为芯片制造商扩产之时正赶上个人电脑销量暴跌的局面。个人电脑是存储芯片的重要消费者。不过，整合已经帮助这部分产能回到了与销量相符的水平。
+The sensitivity of the market to changes in supply and demand was demonstrated in early September when a fire at a plant in China that is owned by SK Hynix of South Korea, the second-biggest producer of DRAM memory chips after Samsung, caused prices in the spot market to surge as much as 20 percent.
+9月初，市场显露出了对供求变化的敏感程度。当时，韩国SK海力士(SK Hynix)设在中国大陆的一家工厂发生火灾，现货市场的价格随即飙升20%。SK海力士是动态随机存取芯片的第二大生产商，仅次于三星。
+The market for other chips, including those that serve as the brains of computers and mobile devices, has been steadier, helped by the global boom in sales of smartphones and other mobile devices.
+有赖于全球智能手机和其他移动设备的热销，其他一些芯片的市场已经变得更为稳定，包括那些被用作电脑和其他移动设备的大脑的芯片。
+Some executives say concerns about the structure of the industry are overblown. Instead of coveting the lavish profits of the Internet companies and mobile phone makers like Apple and Samsung, they say, chip makers ought to work on developing new markets for their products in industries like automobiles and health care.
+一些高管表示，人们夸大了对这个行业的结构的担忧。他们说，芯片制造商应该致力在汽车和卫生保健等行业为自己的产品开拓新市场，而不是眼红互联网企业以及包括苹果和三星在内的移动电话制造商，觊觎它们的高额利润。
+“It’s about innovation,” said Jack Sun, chief technology officer of T.S.M.C. “We need to collaborate to create innovation together. Otherwise we won’t be able to retire.
+“要创新，”TSMC技术长孙元成(Jack Sun)说，“我们必须合作，一起创新。否则，我们干到老都退不了休。”
+“So leave the software guys and the O.E.M.’s alone for now,” he said, referring to the companies that assemble electronics devices, known as original equipment manufacturers.
+他说，“因此，目前不要去管软件领域的那些人和OEM。”他说的OEM指的是那些组装电子设备的企业，即代工生产厂商。

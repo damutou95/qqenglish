@@ -1,0 +1,42 @@
+OTTAWA, Ontario — Since becoming president and chief executive of BlackBerry in November, John S. Chen has revamped the company’s executive ranks, accelerated layoffs, farmed out some phone development, cut costs and sold real estate.
+加拿大渥太华——自从去年11月担任黑莓(BlackBerry)总裁兼首席执行官以来，程守宗(John S. Chen)对公司高层进行了大换血，加速了裁员的步伐，把一些手机开发工作外包，削减了成本，还出售了一些房产。
+Now he is turning his attention to the troubled company’s future, and it is one in which its once-popular smartphones will play a much less important role.
+如今，他正在把注意力转向公司的未来。在这家目前困境重重的公司的未来规划中，其一度广受欢迎的智能手机业务，重要性将大大降低。
+Mr. Chen wants to shift BlackBerry’s focus toward its smaller software and services business. BlackBerry, in Mr. Chen’s plan, will become a crucial supplier of software and services that help companies and government agencies manage employees’ use of smartphones and tablets, including iPhones and iPads and devices that run on Microsoft’s Windows Phone and Google’s Android operating system. Such systems also manage and safeguard the data moving to and from those devices.
+程守宗想要把黑莓的重心转移到较小的软件业务和服务业务上。根据程守宗的计划，黑莓将成为一家举足轻重的软件和服务供应商，帮助企业和政府机构管理员工的智能手机和平板电脑的使用情况，包括iPhone和iPad，以及搭载微软(Microsoft)的Windows和谷歌(Google)的Android操作系统的设备，这些系统还能管理和保护这些设备发送和接收的数据。
+While Mr. Chen will continue attempts to revitalize the once-popular BlackBerry Messenger instant messaging service, and the company will still sell phones, despite the collapse of that business in the crucial American market, his attention on a market BlackBerry effectively invented — securely managing mobile devices and their data — has given some analysts hope that all may not lost for the Canadian smartphone maker.
+程守宗还会继续尝试复兴曾经很受欢迎的黑莓Messenger即时通讯服务，此外，尽管手机业务在美国这一重要市场大幅下滑，该公司仍会销售手机。但由于程守宗对安全管理移动设备及其数据的市场给予了关注（这个市场实际上是黑莓发明的），一些分析师燃起了希望，相信这家加拿大手机制造商或许还有机会翻身。
+“This is one of the more realistic objectives I’ve seen them put on the table,” said Patrick Moorhead, the principal analyst at Moor Insights and Strategy in Austin, Tex. “If BlackBerry is going to have a rebound, this is their best chance.”
+德克萨斯州奥斯汀的穆尔咨询和战略公司(Moor Insights and Strategy)首席分析师帕特里克·穆尔黑德(Patrick Moorhead)说，“我认为这是他们所提出的较为切合实际的目标之一，如果黑莓想要重新站起来，这是他们最好的机会。”
+BlackBerry’s perilous situation was reinforced on Friday when Mr. Chen reported a fourth-quarter net loss of $423 million, bringing the loss for the company’s fiscal year to $5.9 billion. Quarterly revenue fell to $976 million, a 64 percent drop compared with the same period a year earlier, and annual revenue declined 38 percent to $6.8 billion. BlackBerry went through $553 million in cash for operating expenses during the quarter, leaving it with a $2.7 billion reserve.
+周五，程守宗称，该公司第四季度净亏损4.23亿美元（约合26.3亿元人民币），这样一来，公司在整个财年的亏损就达到了59亿美元，这让公司的处境更加岌岌可危。公司的季度营收降至9.76亿美元，较上年同期下降了64%，年营收下降了38%，降至68亿美元。黑莓四季度的营业费用为5.53亿美元现金，目前持有27亿美元现金。
+Mr. Chen is not the only one to see the potential in mobile security management. IBM, Citrix, VMware and Oracle, among others, recently acquired companies in a field already crowded with start-ups. And while he was at the German software company SAP, Mr. Chen developed similar software products.
+并非只有程守宗看到了移动设备安全管理的潜力。IBM、思杰(Citrix)、VMware和甲骨文(Oracle)等公司，最近都在这个充斥着大量初创企业的领域收购了一些公司。程守宗在德国软件企业SAP工作时，曾开发过类似的软件产品。
+But BlackBerry’s head start, along with other changes at the company, present an opportunity, Mr. Chen said in an interview.
+但黑莓所抢占的先机，以及公司发生的其他变化，带来了一个机遇，程守宗在接受采访时说。
+“We were once a $20 billion company,” Mr. Chen said. “It’s not out of the question that we could go back and recapture old ground. That may sound a little funny to you right now, but you never know.”
+程守宗说，“我们曾经是一家200亿美元的公司。我们不是不可能收复失地，现在听起来或许有点可笑，但未来会发生什么，谁也不知道。”
+Mr. Chen’s plan is a kind of return to the company’s roots. BlackBerry’s early success arguably came from software and services that were invisible to users but of great interest to corporate and government information technology departments.
+程守宗的计划是对黑莓公司根基的一种回归。黑莓早期的成功可以说来自一些个人用户根本感觉不到的软件和服务，那些软件和服务当时受到了企业和政府的信息技术部门的极大欢迎。
+When email security was a cause of constant corporate fretting, BlackBerry allayed concerns about less secure mobile email with its global network for securely moving messages. Along with that came BlackBerry Enterprise Server software, which allowed companies and governments to limit what employees could do with their BlackBerrys, to spy on how the phones were being used and, if necessary, to shut down phones by remote control.
+在电邮安全令企业头痛不已时，黑莓凭借自己的全球网络安全地传递信息，减轻了企业对手机电邮安全性的担忧。与此同时，黑莓还推出了黑莓企业服务器(BlackBerry Enterprise Server)软件，允许企业和政府限制员工在黑莓手机上的活动，监控手机的使用情况，甚至在必要的情况下，通过遥控关闭手机。
+The system was costly; users paid monthly fees for every BlackBerry, as well as service and support fees. But it was so secure it was sometimes a source of tension between BlackBerry and states wanting to monitor their citizens’ communications.
+这个系统价格不菲，用户需要按月为每台黑莓手机支付费用，同时还要支付支持和服务费。但这个系统是如此安全，有时甚至令黑莓公司与想要监控公民通讯的政府之间，产生紧张的关系。
+Until last year, BlackBerry’s software was useless for the iPhones and phones using Google’s Android software, which were swiftly dislodging BlackBerry handsets in the workplace. The resulting void was filled by a variety of relatively small, privately held companies like Good Technology, SOTI, MobileIron and AirWatch, which was acquired last month by VMware, a leading corporate software maker, for $1.54 billion.
+直到去年，黑莓的软件还不能在iPhone及搭载谷歌Android系统的手机上使用，而在工作场所，这两种手机迅速挤占了黑莓的位置。由此产生的安全软件的空白，被一系列相对较小的私人持有的企业填补，其中包括Good Technology、SOTI、思可信(MobileIron)和AirWatch。AirWatch是一家领先的企业软件制造商，上个月已被VMware以15.4亿美元的价格收购。
+The newcomers were also quicker than BlackBerry to develop software that addressed smartphone activities beyond email and web browsing.
+这些新竞争对手也比黑莓更快地研发出软件，处理智能手机上除了电子邮件和网页浏览之外的其他活动。
+BlackBerry recently updated its management software to include additional features for Apple and Android phones, and also to support Windows Phone. At the same time, many large corporations still operate BlackBerry Enterprise Servers to support the dwindling number of BlackBerrys used by their employees.
+黑莓最近更新了管理软件，新的版本增添了针对苹果和Android手机的功能，还能够支持Windows Phone。与此同时，许多大公司仍然运行着黑莓企业服务器，为员工手中数量越来越少的黑莓设备提供支持。
+“There’s a huge, huge opportunity,” Mr. Chen said. “I’m going to have a lot to build on for a long time.”
+程守宗说，“这是一个很大、很大的机会，未来很长一段时间里，我需要打造许多新的东西。”
+Like several analysts, Jack E. Gold of J. Gold Associates said he was cautiously optimistic about Mr. Chen’s strategy.
+J. Gold Associates公司的杰克·E·戈尔德(Jack E. Gold)说，他对程守宗的策略表示谨慎的乐观。其他几位分析师也持同样的态度。
+“This clearly is not a slam dunk for BlackBerry,” he said. “But it’s probably the best place for him to get revenue in the short term.”
+戈尔德说，“黑莓显然不是稳操胜券，但这可能是他在短期内取得收入的最好机会。”
+If he is successful with BlackBerry, it will not be the first company Mr. Chen has returned from near death. When he joined the database maker Sybase in 1998, many thought the company was a hopeless cause. After stabilizing its operation, Mr. Chen turned it into one of the first companies offering mobile software to corporations.
+如果程守宗能带领黑莓走向成功，这也并不是他从死亡边缘挽救的第一家公司。1998年，程守宗加入数据库系统公司Sybase时，许多人认为该公司已前途无望。在稳定其运营状况之后，程守宗使它成为了率先向企业提供手机软件的公司之一。
+One of BlackBerry’s biggest challenges is its image: a slow-footed company bleeding cash. Persuading corporations that its software is a safe investment will be a tough job for Mr. Chen.
+黑莓需要克服的一个最大挑战是它的形象：一个动作迟缓、现金不断减少的公司。让企业相信黑莓软件是一项安全的投资，将是程守宗需要面对的一个棘手任务。
+“It’s perhaps the most defining challenge he faces in turning this company around,” said John Jackson, a mobile data analyst at the research company IDC. “There is a need for him to strongly articulate why BlackBerry matters.”
+研究公司IDC的移动数据分析师约翰·杰克逊(John Jackson)说，“在扭转公司局面的过程中，这也许是他面临的最关键挑战。他需要明确有力地表达黑莓的价值何在。”

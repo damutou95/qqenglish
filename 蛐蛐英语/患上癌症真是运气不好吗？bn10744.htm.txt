@@ -1,0 +1,42 @@
+Unlike Ebola, flu or polio, cancer is a disease that arises from within — a consequence of the mutations that inevitably occur when one of our 50 trillion cells divides and copies its DNA.
+与埃博拉出血热、流感或脊髓灰质炎等因外来病原体感染导致的疾病不同，癌症源于人体内部的突变。我们体内约有50万亿个细胞，在这些细胞分裂、其DNA复制的过程中，不可避免地会产生突变。
+Some of these genetic misprints are caused by outside agents, chemical or biological, especially in parts of the body — the skin, the lungs and the digestive tract — most exposed to the ravages of the world. But millions every second occur purely by chance — random, spontaneous glitches that may be the most pervasive carcinogen of all.
+其中一部分遗传错误是外部的化学或生物原因造成的，在皮肤、肺部和消化道等受外部世界荼毒最多的部位中尤其如此。但每秒也有数百万个这样的错误纯粹是偶然发生——这种随机自发的突变可能是最普遍的一种致癌因素。
+It’s a truth that grates against our deepest nature. That was clear earlier this month when a paper in Science on the prominent role of “bad luck” and cancer caused an outbreak of despair, outrage and, ultimately, disbelief.
+这样的结论显然令我们极为不安。1月初，《科学》(Science)杂志上刊登了一篇文章，论述了“坏运气”在癌症中的重要作用，引起了巨大反响，绝望、愤怒以至猜疑等情绪纷纷爆发。
+The most intemperate of this backlash — mini-screeds on Twitter and hit-and-run comments on the web — suggested that the authors, Cristian Tomasetti and Bert Vogelstein of Johns Hopkins University, must be apologists for chemical companies or the processed food industry. In fact, their study was underwritten by nonprofit cancer foundations and grants from the National Institutes of Health. In some people’s minds, those were just part of the plot.
+Twitter评论和网页留言中都掀起了巨大的反对声浪，其中最激进者甚至指责文章的作者——约翰斯·霍普金斯大学的(Johns Hopkins University School of Medicine)的克里斯蒂安·托马塞蒂(Cristian Tomasetti)和伯特·福格尔斯泰因(Bert Vogelstein)是在为化工企业和食品加工行业开脱责任。虽然事实上这项研究是在非营利性质的癌症基金会和美国国立卫生研究院(National Institutes of Health)的资助下完成的，但在某些人看来，这些机构同样是阴谋的参与者。
+What psychologists call apophenia — the human tendency to see connections and patterns that are not really there — gives rise to conspiracy theories. It is also at work, though usually in a milder form, in our perceptions about cancer and our revulsion to randomness.
+人们很容易从不相关的事物间“发现”其实并不存在的“联系”和“模式”，这种倾向被心理学家们称为apophenia，阴谋论的根源正在于此。而我们之所以会排斥随机因素与癌症的密切关联，在一定程度上也是出于这种心理。
+It takes several mutations, in specific combinations, for a cell to erupt into a malignant tumor. The idea that random copying errors are prominent among them is thoroughly mainstream. What was new about the paper was its attempt to measure this biological bad luck and see how it compares with the two other corners of the cancer triangle: environment and heredity — mutations we inherit from our parents that can give cancer a head start.
+一般说来，一个细胞内要累积若干突变，还要以特定的方式组合起来，这才会爆发形成恶性肿瘤。主流观点一贯认为，随机的复制错误在这其中作用最为显著。而《科学》杂志论文的新颖之处在于它试图衡量这种生物学意义上的“坏运气”到底对癌症的发生有多大影响，并将其与癌症的另外两大因素：环境和遗传（也就是我们从父母那里继承到的有致癌倾向的突变）进行了比较。
+The mix of these influences varies. A lifetime of heavy smoking has been shown to multiply the risk of lung cancer — the most common malignancy in the world — by some twentyfold, or about 2,000 percent. But that is an anomaly. One of the great frustrations of cancer prevention has been the failure to find other chemical carcinogens so definitive or damaging, especially in the dilute amounts in which they reach most of the public.
+依具体情况的不同，这三个因素的影响也有所差异。研究显示，终生重度吸烟可将世界上最常见的恶性肿瘤——肺癌的风险增加二十倍。但这只是一个异常的个例。目前癌症预防事业中的一大挫折就是除此之外，人们始终未能找到其他能造成类似决定性损害的化学致癌物，更何况在大多数公共环境中，致癌物的浓度还受到了相当程度的稀释。
+For a handful of cancers, biological agents are important, like human papilloma virus in cervical cancer and helicobacter pylori in stomach cancer. On another level, inflammation and hormonal imbalances, like those associated with obesity and diabetes, can drive cells to multiply more frequently, increasing the chance of mutations causal and accidental.
+有极少数几种癌症的致病以生物因素为主，例如人乳头瘤病毒之于宫颈癌，幽门螺杆菌之于胃癌等。另一方面，炎症、肥胖症或糖尿病相关的内分泌失调等也有可能会加快细胞增殖，增加突变的必然及偶然几率。
+Finally, heredity — like the BRCA mutations involved in some breast cancers — can have a profound effect in individual cases. But inheritance appears to be involved in just 5 to 10 percent of all cancers.
+而在个别病例中，遗传因素可能是致癌的主要原因（例如BRCA突变可以导致某些类型的乳腺癌）。但总体而言，此类涉及遗传因素的癌症仅占5-10%左右。
+What that leaves is a large role for random, spontaneous mutations — the ones that just happen because of the microscopic grind of life.
+于是，这给仅仅因为生命微观层面上的琐事而造成的随机、自发突变留下了巨大的作用空间。
+That is not a reason for resignation. It is frequently estimated that some 40 percent of cancers are preventable. But that means some 60 percent are not.
+当然，我们不能因此就听天由命。毕竟按照普遍估计，约40%的癌症是可以预防的。但这个数字同时也意味着，约60%的癌症无法预防。
+To get a feel for that balance, the authors looked at stem cells — those that are capable of dividing indefinitely and renewing themselves. First, they estimated the number of these cells in different tissues of the body and how many times they would copy themselves during a human lifetime. The higher the count, the greater the vulnerability to mutations.
+为了对这个比例有一个更直观的了解，文章的作者研究了干细胞——一种可以无限分裂和自我更新的细胞。首先，他们估算了人体中不同组织中干细胞的数量以及在人一生中它们可以复制分裂的次数。这两项数字越大，就越容易发生突变。
+Then they compared that number with the likelihood that a tissue would develop a malignant tumor. The result was a strong correlation, a steep sloping line suggesting that two-thirds of the difference in cancer susceptibility could be explained by spontaneous errors.
+然后，他们将这些数字与不同组织发生恶性肿瘤的可能性结合起来进行了比较。结果显示两者之间存在强相关，相关系数曲线十分陡峭，这表明不同组织癌症易感性间的差异中，有三分之二可以通过自发的复制错误来解释。
+Tissues that deviated from the relationship, contracting cancer at a higher rate, were presumably swayed more strongly by something else. 
+而偏离上述关联曲线，也就是癌症发生率还要更高的那些组织，可能是受到了其他更强的因素的影响。
+For cancers like those of the bone and brain, chance seemed to rule. But at the other end of the spectrum were those that were more “deterministic” — like lung cancer and basal cell carcinoma, a usually harmless skin malignancy where sunlight plays a deciding part. Also at that extreme were rare cancers mostly determined by inherited defects, like some familial forms of colon cancer.
+骨骼和脑部的癌症的发病似乎以偶然因素为主。位于图谱另一端的则是较有“确定性”的一些癌症，如肺癌和基底细胞癌（一种通常无害的皮肤恶性肿瘤，阳光是致病的决定性因素）等。此外还有极端罕见的个别癌症，如某些家族性结肠癌主要是遗传缺陷的结果。
+The more common colon cancers were near the middle of the range. Random mutation was important, but environment — like the carcinogens in digestive waste — seemed to hold a modest edge.
+而较为常见的几种结肠癌则位于上述图谱的中间位置。即，随机突变固然重要，但环境——比如消化道废物中的致癌物质——也有一定的影响。
+There are still ambiguities to resolve. The cellular dynamics of two of the most common cancers, breast and prostate, were not certain enough to be included in the analysis. But however they might tilt the lineup, random mutations will remain a dominant driver.
+目前还有一些模糊的问题有待解决。譬如，人们对两种最常见的癌症，乳腺癌和前列腺癌的细胞动力学了解尚浅，不足以将其纳入分析中。但无论它们会使曲线的斜率有何变化，都不会改变随机突变是致癌的主要驱动力这一大趋势。
+It is always possible that what we call randomness will turn out to be complexity in disguise. Some mutations attributed to chance may eventually be revealed to have subtle causes.
+当然，也有可能现在我们所见的随机，只是一些更为复杂的机制混杂作用而产生的表象。很可能，一些现在看来是偶然发生的突变，背后还有非常微妙的因果关系。
+Over the years, however, the scale seems to be tipping the other way, with the discovery that some long-suspected agents like dietary fat and artificial sweeteners may not be so potent after all.
+然而，事实的天平更可能会向相反的方向倾斜——经过多年的研究，人们已经发现，很多此前长期以来都被怀疑是致癌元凶的物质，如膳食脂肪和人造甜味剂等似乎也并非那么罪大恶极。
+For all our agonizing, it can be liberating to accept and even embrace the powerful role chance plays in the biology of life and death. Random variation, after all, is the engine of evolution.
+虽然这给我们带来痛苦，但接受并承认偶然性在我们的生死存亡中扮演了相当重要的角色，这或许亦是一种解脱。毕竟，随机突变正是进化的力量源泉。
+Because of spontaneous mutations in germ cells — sperm and eggs — each generation of our species is subtly different. Some of the variations confer an advantage and others a vulnerability. They are sifted by natural selection, and so we adapt and evolve. 
+正是因为生殖细胞——精子和卵细胞中的自发突变，我们每一代人之间才会产生微妙的差异。有些突变赋予我们生存的优势，有些则可能相反。随着自然选择的筛选，我们不断地适应着环境，向前进化。

@@ -1,0 +1,46 @@
+Edward J. Snowden, the former National Security Agency contractor who leaked details about American surveillance, personifies a debate at the heart of technology systems in government and industry: can the I.T. staff be trusted?
+美国国家安全局(National Security Agency)前雇工爱德华·J·斯诺登(Edward J. Snowden)泄露了美国监听活动的细节，他的行为体现了处于政府和行业技术系统核心的一场辩论：可以信任信息技术(IT)人员吗？
+As the N.S.A., some companies and the city of San Francisco have learned, information technology administrators, who are vital to keeping the system running and often have access to everything, are in the perfect position if they want to leak sensitive information or blackmail higher-level officials.
+美国国家安全局、一些公司以及旧金山市政府都从教训中了解到，对于那些对保持系统运行至关重要而且往往有权限访问一切数据的信息技术管理员来说，泄露敏感信息或敲诈高层官员简直易如反掌。
+“The difficulty comes in an environment where computer networks need to work all the time,” said Christopher P. Simkins, a former Justice Department lawyer whose firm advises companies, including military contractors, on insider threats.
+“困难来自这个需要计算机网络不间断运行的环境，”美国司法部(Justice Department)前律师克里斯托弗·P·西姆金斯(Christopher P. Simkins)说。现在他的律所为军事承包商等公司提供有关内部威胁的咨询。
+The director of the N.S.A., Gen. Keith B. Alexander, acknowledged the problem in a television interview on Sunday and said his agency would institute “a two-man rule” that would limit the ability of each of its 1,000 system administrators to gain unfettered access to the entire system. The rule, which would require a second check on each attempt to access sensitive information, is already in place in some intelligence agencies. It is a concept borrowed from the field of cryptography, where, in effect, two sets of keys are required to unlock a safe.
+国家安全局局长基思·B·亚历山大(Keith B. Alexander)上将在周日接受电视采访时承认存在这个问题，他说，该局将实行“一种双人规则”，限制其1000名系统管理员自由访问整个系统的能力。一些情报机构目前已经开始实施该规则。按照该规则，每次访问敏感信息的尝试都要求受到二次审核。这个概念源自密码学领域，从根本上说就是每次打开一个保险箱都需要两套密钥。
+From government agencies to corporate America, there is a renewed emphasis on thwarting the rogue I.T. employee. Such in-house breaches are relatively rare, but the N.S.A. leaks have prompted assessments of the best precautions businesses and government can take, from added checks and balances to increased scrutiny during hiring.
+从政府机构到美国企业界，各方都再度重视阻止IT员工乱来。此类内部违规现象相对较少，但国家安全局泄密一事促使各方对企业和政府所能采取的最佳预防措施进行评估——从增加检查和制衡措施，到加强招聘阶段的审核。
+“The scariest threat is the systems administrator,” said Eric Chiu, president of Hytrust, a computer security company. “The system administrator has godlike access to systems they manage.”
+“最可怕的威胁是系统管理员，”计算机安全公司Hytrust的董事长埃里克·焦(Eric Chiu)说，“系统管理员对自己负责的系统拥有上帝般的权限。”
+Asked Sunday about General Alexander’s two-man rule, Dale W. Meyerrose, a former chief information officer for the director of national intelligence, said, “I think what he’s doing is reasonable.”
+周日，国家情报总监(Director of National Intelligence)的前首席信息官戴尔·W·迈尔罗斯(Dale W. Meyerrose)在被问及亚历山大上将的双人规则时说，“我认为他在做的事是合理的。”
+“There are all kinds of things in life that have two-man rules,” added Mr. Meyerrose, who now runs a business consulting firm. “We’ve had a two-man rule ever since we had nuclear weapons. And when somebody repairs an airplane, an engineer has to check it.”
+“生活中实行双人规则的事情很多，”现在经营一家商业咨询公司的迈尔罗斯说，“自从我们拥有核武器以来，我们一直有双人规则。如果有人修理了飞机，那么另一名工程师必须进行核查。”
+John R. Schindler, a former N.S.A. counterintelligence officer who now teaches at the Naval War College, agreed that the “buddy system” would help. “But I just don’t see it as a particularly good long-term solution,” he said.
+曾在国家安全局担任反间谍官员、如今在海军战争学院(Naval War College)执教的约翰·R·申德勒(John R. Schindler)也同意，这种“搭档制度”将带来帮助。他说，“但我不认为这是一种特别好的长期解决方案。”
+Mr. Meyerrose and Mr. Schindler both said that software monitoring systems can also help, though they can be evaded by a knowledgeable systems administrator. The biggest issue for government and industry, they said, is to vet the I.T. candidates more carefully and to watch for any signs of disillusionment after they are hired.
+迈尔罗斯和申德勒都说，软件监控系统也会有帮助，尽管真正内行的系统管理员能够躲过这种系统。他们说，对于政府和企业来说，最重要的是更仔细地遴选IT应聘者，并且在雇佣他们之后，留意任何失落情绪的迹象。
+“It’s really a personal reliability issue,” Mr. Meyerrose said.
+迈尔罗斯说，“这在本质上是人员可靠性的问题。”
+Insiders of all types going rogue have become a problem for the government and industry over the last decade. One of the most prominent is Pfc. Bradley Manning, who downloaded a vast archive of American military and diplomatic materials from his post in Iraq and gave it to WikiLeaks. But there have been others, including scientists and software developers who stole secrets from American companies where they worked and provided them to China.
+对于政府和企业界来说，各类内部人员缺乏忠诚的情况在过去十年间已经成为一个问题。其中最知名的是一等兵布拉德利·曼宁(Bradley Manning)，他在伊拉克任职时下载了大量美国军方及外交资料，并将文档交给了维基解密(WikiLeaks)组织。但还有其他违法者，包括从自己工作所在的美国公司盗取机密，然后将其提供给中国的科学家和软件开发者。
+Now the spotlight is on the system administrators, who are often the technology workers with the most intimate knowledge of what is moving through their employers’ computer networks.
+眼下人们关注的是系统管理员，他们往往最熟悉雇主电脑网络上流动的信息。
+Beyond their store of technical manuals to keep the system running, administrators at intelligence agencies can have access to specific top secret programs without necessarily being cleared for them, like other intelligence agents must be.
+除了拥有保证系统运行的技术操作手册外，为情报机构工作的系统管理员有可能在没有相应安全许可的情况下，了解具体的绝密项目，而其他情报人员必须获得相应级别的安全许可。
+If they can get into one part of the network with credentials for what is called “root access,” they can get into almost everything else. They are known as the “super user.”
+如果他们能够借助被称为“根访问”的授权进入网络的某个部分，他们就能在网络的几乎其它所有部分通行无阻。这些人被称为“超级用户”。
+“This is a dirty little secret that’s being revealed,” said Robert Bigman, a former chief information security officer at the Central Intelligence Agency. “When you log on with a root account, it doesn’t know if you’re staff employee or a contract employee. It just knows you’re root. You’re known as a superuser. You have all privileges.”
+“这是一个正在曝光的肮脏的小秘密，”曾在中央情报局(Central Intelligence Agency)担任首席信息安全官的罗伯特·比格曼(Robert Bigman)说，“当你利用根账号登录时，系统不知道你是编制内的员工还是合同工。系统只知道你有根账号的权限。你是有超级用户之称的人。你有全部特权。”
+At a New Jersey pharmaceutical firm in early 2011, a former I.T. administrator gained access to the company’s system, deleted several files — including those that tracked customer orders — and froze the firm’s operations for several days, causing $800,000 in damages. Prosecutors called it a revenge attack after the company, Shionogi, announced layoffs. The administrator, Jason Cornish, pleaded guilty in August 2011.
+2011年早些时候，在新泽西的一家制药公司，前IT管理员进入了该公司的系统，删除了几个文档——包括一些追踪客户订单的文档，致使该公司几天内无法运营，造成80万美元（约合491万元人民币）的损失。检察官称，这是盐野义制药公司(Shionogi)在宣布裁员后遭受的报复性攻击。管理员贾森·科尼什(Jason Cornish)于2011年8月认罪。
+And in 2008, a network administrator for the city of San Francisco named Terry Childs found out that he was about to be laid off and modified the city’s network in such a way that only he held the password. He refused to hand it over for 12 days, effectively disabling everything from the mayor’s e-mail to the city’s payroll records.
+2008年，旧金山市政府的网络管理员特里·蔡尔兹(Terry Childs)知道自己就要被辞退，于是修改了市政府网络的密码，而且只有他掌握这个密码。他在12天的时间里拒绝交出密码，实际上瘫痪了一切，从市长的电子邮箱到市政府的工资单记录。
+Mr. Schindler, the former N.S.A. counterintelligence officer, said that while a person’s political views are not considered in terms of security clearances, the reviews may need to be expanded to include Twitter posts and other online comments that could yield clues to a job candidate’s thinking.
+曾在国家安全局担任反间谍官员的申德勒表示，尽管美国官方在审核某人的安全许可时不考虑他的政治观点，但或许需要扩大审核范围，使其纳入Twitter帖子和其他在线言论，这可能会提供线索，帮助了解应聘者的思维。
+He said the N.S.A. could also do what Soviet officials did after one of their cipher clerks defected in 1945.
+申德勒表示，国家安全局也可以效仿苏联官员在一名译电员1945年叛变后的处理方式。
+“Their response wasn’t to crack down on code clerks, but to make them happier,” Mr. Schindler said. “They boosted their pay and gave them more reasonable hours, and they got no-knock privileges with the boss to keep them happy.”
+“他们的回应并不是严加管束译电员，”申德勒说，“而是给他们加薪，设定更合理的工作时间，他们获得了随便进入老板办公室的特权，一切都是为了让他们高兴。”
+Mr. Simkins, the former Justice Department counterespionage lawyer, said that it is “more difficult than it sounds” to address threats posed by rogue insiders.
+前司法部律师西姆金斯表示，应对不忠诚的内部人员构成的威胁，做起来“远比听起来难得多”。
+“At the end of day, there’s no way to stop an insider if the insider is intent on doing something wrong,” he said. “It’s all about mitigating.”
+“归根结底，如果内部人员蓄意为害，我们没有办法阻止他们，”他说，“我们只能减少损害。”

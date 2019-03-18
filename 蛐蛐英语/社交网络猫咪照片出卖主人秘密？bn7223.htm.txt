@@ -1,0 +1,16 @@
+Your cat may never give up your secrets. But your cat photos might.
+你的猫可能永远不会泄露你的秘密，但它们的照片就说不定了。
+Using cat pictures — that essential building block of the Internet — and a supercomputer, a Florida State University professor has built a site that shows the locations of the cats (at least at some point in time, given their nature) and, presumably, of their owners.
+使用猫照片——这是互联网必不可少的组成部分——以及一台超级电脑，佛罗里达州立大学的一位教授建立了一个网站，显示出这些猫的位置（鉴于猫的习性，至少是它们在某些时候的位置），并以此推测出它们的主人的所在地。
+Owen Mundy, an assistant professor of art who studies the relationship between data and the public, created “I Know Where Your Cat Lives” as a way of demonstrating “the status quo of personal data usage by startups and international megacorps who are riding the wave of decreased privacy for all,” Mr. Mundy wrote in a post about the site.
+欧文·芒迪(Owen Mundy)是艺术助理教授，研究数据与公众之间的关系，他创立了这个“我知道你的猫在哪儿”网站，他在网站的一则帖子中写道，这个网站是用来显示“个人数据被初创企业和网络巨头使用的现状，他们正在利用这股暴露个人隐私的潮流”。
+Using images of cats uploaded to photosharing services, including Flickr, Twitpic and Instagram, Mr. Mundy extracted latitude and longitude coordinates that many modern cameras, especially those in smartphones, attach to each image. His site displays random images from a sample of one million of the many millions of pictures tagged with the word “cat” online.
+芒迪使用个人用户上传到Flickr、Twitpic和Instagram等网络服务器的猫照片提取出用户所在的经度和纬度，很多新款照相机都会把这些信息附加在照片上，特别是智能手机。他的网站从网上标记有“猫”标签的100万张照片中，随机选出若干进行展示，而类似照片在网上还有成百上千万之多。
+The images are displayed on a map using satellite imagery, with nearby cat photos also visible. Specific street addresses are not displayed, but the geographic information can leave few details to the imagination in rural areas.
+这些照片被展示在一张卫星地图上，附近的猫照片也清晰可见。具体的街道地址没有被展示出来，但是在乡间地区，地理特征令人很容易想到具体地点。
+Not all of the images are of cats; some are of a picture of a picture of a cat, a cat owner or even a brochure for a production of “Alice in Wonderland” with the Cheshire cat’s smile. They come from around the world, although images from the United States, Russia, Britain and Brazil top the list of locations.
+网站里不仅有猫照片，有些是猫照片的照片，猫主人的照片，甚至还有以柴郡猫的微笑作为封面的《爱丽丝漫游奇境记》(Alice in Wonderland)的照片。它们来自世界各地，不过来自美国、俄国与巴西的照片最多。
+The owners of cats captured by the site might ask: What can I do to remove my cat’s picture from it? Although such an action seemingly goes against the very nature of the Internet itself, the answer is pretty simple, according to the site: “The way you would go about doing so is by increasing the privacy settings of the photos of your furry feline friends. Then within 30 days your photos will be gone from our site.”
+被网站收入的猫主人们可能会问：我该怎么把我家猫的照片从这个网站上删掉？尽管这样的举动似乎与互联网精神的本质相悖，但网站还是提供了答案，非常简单：“想这样做的话，只需为你毛茸茸的猫朋友的照片提高隐私设置级别，30天内你的照片就会从我们的网站上消除。”
+The lesson for people who share pictures online, whether it’s kittens or your children, is this: If you include more metadata than you have to with your photos — there are tools to scrub that data — don’t be surprised if it’s used online in ways you didn’t expect and can’t fully control.
+对于在网上晒照片（不管是猫的还是孩子的）的人们来说，教训是：如果你的照片中包含了太多不必要的元数据的话，有一些工具可以用来消除这些数据——否则如果你的照片被用在意外的地方，完全脱离你的掌控，你也不要过于惊讶。

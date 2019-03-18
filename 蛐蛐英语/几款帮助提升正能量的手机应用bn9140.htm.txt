@@ -1,0 +1,30 @@
+AT dinner with friends recently the conversation turned to things that were stressing us out. Yes, it was one of those moody evenings. But it ended up being upbeat because someone asked the inevitable “I wonder if there’s an app for that” question. And it turns out there are lots of apps to help you think positively or aim at happiness, and we all had fun examining them on our phones.
+最近与朋友吃晚饭时，讨论的话题变成了让我们疲惫不堪的事情。是的，这又是一个那种闷闷不乐的夜晚。但我们最终变得很开心，因为有人问了一个不可避免的问题，“不知道有没有应用能让我们开心起来”。结果发现有很多应用能够帮助人们积极思考，或以幸福感为目标去努力，我们在手机上试用了这些应用，玩得不亦乐乎。
+Happify is perhaps the most sophisticated positive vibes app available now. The idea of this free iOS app is to train you into thinking positively and feeling happy by engaging you in various “tracks” with different goals like improving your confidence or seeing new possibilities. By playing through games and activities for a few minutes each day, the aim is to ultimately get into the habit of thinking positively.
+Happify或许是目前市面上最成熟的改善情绪的应用。这款免费的iOS应用的理念是，通过让你采用不同的“路线”，达到增强自信或者发现新的可能性等目的，从而训练你积极思考，感受幸福的能力。通过每天花几分钟时间玩游戏，参加活动，让你养成积极思考的习惯。
+Happify, which claims its technique is based on science, starts by asking you some thought-provoking questions about your life and your goals in using the app. Then it recommends some tracks for you, and within a few taps you’ve begun.
+Happify声称，它的技巧基于科学，它开始会问你一些发人深省的问题，涉及你的生活及使用该应用的目的。然后，它会为你推荐一些路线，轻敲几下屏幕，你就可以开始使用了。
+Each track contains bite-size quizzes, games and activities that guide you to seeing more positive aspects of your daily life. For example, one may ask you to list things you’re grateful for at home, another will get you to notice positive words in a game where you lose points by clicking on negative words.
+每一条路线都包括一些小测验、游戏和活动，引导你发现你日常生活中更多积极的方面。例如，你会被要求列出家中令你感激的东西，在游戏中找出正面词汇，如果你点击了负面词汇，就会被扣分。
+The app also regularly helps you assess your happiness level, that way pointing out how you can feel more positive merely by changing your habits. There’s also a community page in the app where you can see inspirational comments by other users and even upload your own — though you don’t have to use this page.
+该应用还会定期帮你评估自己的幸福水平，指出如何只通过改变习惯使自己变得更加乐观。你还以在该应用的社区网页上看到很多鼓舞人心的评论，甚至还可以自己发表评论，但你也可以不去管它。
+The app is fun and definitely draws my attention to the happier side of life. Perhaps Happify’s only drawback is that while it’s free to download and use, access to its full range of activities costs $13 a month or $70 a year. It’s also only for iOS devices.
+这款好玩的应用确实让我注意到生活中比较快乐的一面。用户可以免费下载和使用该应用，但要想参与所有活动需要每月支付13美元（约合80人民币）或每年支付70美元，这可能是Happify唯一的缺点。而且这款应用仅限iOS设备使用。
+Other apps use a different route to developing positive thinking habits: repeated affirmation. These apps simply expose you repeatedly to motivational ideas, quotes and suggestions.
+其他应用利用另外一种途径培养正面思想的习惯：正向强化。这些应用不断给你灌输激励性的想法、名言和建议。
+On iOS, Positive Thinking by TapCoder.com is a relatively simple attempt at this kind of app. It uses colorful imagery and very simple controls, and has a list of motivational quotes and suggestions — everything from “do sports” to “stop thinking ... sit there relaxed.” The app can even pop a motivational notification on your screen automatically at certain times if you choose. It’s extremely basic, and there’s not a huge amount of content but you may find it has some good ideas and it is free.
+在iOS软件中，Positive Thinking是TapCoder.com在该领域一次相对简单的尝试。这款应用的图像丰富多彩，操作简单，列出了很多激励性的名言和建议——从“做点运动”到“别想了，坐下歇会儿”。你可以通过设置，使它在特定时间自动弹出鼓励信息。功能非常基础，也没有太多内容，但你或许会发现其中有些好主意，而且它是免费的。
+On Android the app Positive Thinking by Juniper Islet has a very similar goal, but offers extras like being able to add your own motivational quotes to its archive and to push quotes onto an Android widget so you can read them without opening the app. It’s also free.
+在Android系统中，Juniper Islet公司推出的Positive Thinking有着类似的目的，但它还提供其他服务，比如用户自己可以在档案库中添加一些激励性名言，还可以将这些名言放在桌面工具里，这样不用打开应用就可以看到它们。这款应用也是免费的。
+Another approach to thinking positively is to track your moods so you can either notice what makes you feel glum or simply be more aware of when you think positively.
+另一种积极思考的方式就是记录你的情绪变化，如此一来，就可以发现什么让你感到忧郁，或者更多地注意到自己什么时候会积极思考。
+The app iMoodJournal on iOS, which costs $2, is sophisticated and has a great-looking, easy-to-use interface. Through a suite of menus and text-entry controls you can make a diary-style note in the app of when you’re feeling positive (or not!), and also add a photo or a selfie.
+适用于iOS系统的iMoodJournal售价2美元，这款成熟的应用有一个非常漂亮的界面，而且操作简单。你可以通过一套菜单和文本输入控件，以日记的形式记录你什么时候觉得乐观（或者悲观），还可以添加照片或者自拍。
+When you’ve accumulated enough entries, the app presents some analytics in the form of graphs that show your positivity over time. This could help you plan strategies to be more positive.
+当你的记录达到一定量后，该应用会以图表的形式分析、展示你这段时间以来好的一面。这可以帮助你制定策略，变得更加积极。
+The T2 Mood Tracker app is a rough equivalent on Android, and has a few neat extras like letting you enter your own parameters to measure on a sliding scale so you could add very specific sensations or events that are meaningful to your emotional state. It’s free, and is also available for iOS devices.
+T2情绪跟踪器(T2 Mood Tracker)是一款适用于Android系统的类似应用。该应用有一些非常好的附加服务，比如让你设置自己的参数，衡量情绪变化，你可以输入对你的情绪状态有意义的详细感受和事件。这是免费的，iOS设备也能使用。
+If you prefer a more meditative approach to positive thinking, check out Smiling Mind, a free iOS and Android app. You enter data on how you’re feeling, using a number of slide controls that ask if you’re feeling “stormy” or “calm,” for example. Then you listen to a meditation-like voice track that talks you through different programs.
+如果你更喜欢用冥想的方法来保持乐观，那就试试Smiling Mind，这款免费的应用适用于iOS和Android设备。例如，该应用会问你是否感到“暴躁”或“平静”，你可以通过滑动控制输入有关自己感觉的数据。然后就可以听一个冥想式的语音，引导你完成不同的练习。
+Depending on the goal of the program, like breathing control or body awareness, each track asks you to think about your habits or past in different ways. Clearly meditation is a very personal experience, and your mileage may vary, but I found the app fascinating and relaxing.
+每个练习项目的目的不同，比如气息控制和身体意识；提示语音也会相应引导你以不同方式回想自己的习惯或过去经历。很明显，冥想是一种非常个人化的体验，效果因人而异，但我觉得这款应用非常棒，让我很放松。

@@ -1,0 +1,44 @@
+WASHINGTON — In the view of America’s spy services, the next potential threat from Russia may not come from a nefarious cyberweapon or secrets gleaned from the files of Edward J. Snowden, the former National Security Agency contractor now in Moscow.
+华盛顿——在美国的间谍机构看来，来自俄罗斯的下一个潜在威胁，可能并不是一种邪恶的网络武器，或者是从美国国家安全局(National Security Agency)前承包商雇员爱德华·J·斯诺登(Edward J. Snowden)泄漏的文件中取得的机密情报。斯诺登现在身在莫斯科。
+Instead, this menace may come in the form of a seemingly innocuous dome-topped antenna perched atop an electronics-packed building surrounded by a security fence somewhere in the United States.
+相反，这个威胁可能就来自一个看上去无害的圆顶天线。它就位于美国某地，被安装在一栋防护栏包围着的装满电子设备的大楼楼顶上。
+In recent months, the Central Intelligence Agency and the Pentagon have been quietly waging a campaign to stop the State Department from allowing Roscosmos, the Russian space agency, to build about half a dozen of these structures, known as monitor stations, on United States soil, several American officials said.
+几名美国官员称，最近几个月，中央情报局(Central Intelligence Agency)和五角大楼一直在悄悄运作，试图阻止国务院允许俄罗斯联邦航天局(Roscosmos)在美国领土上修建六座左右这样的设施——即所谓的监测站。
+They fear that these structures could help Russia spy on the United States and improve the precision of Russian weaponry, the officials said. These monitor stations, the Russians contend, would significantly improve the accuracy and reliability of Moscow’s version of the Global Positioning System, the American satellite network that steers guided missiles to their targets and thirsty smartphone users to the nearest Starbucks.
+这些官员称，他们担心这些设施将有助于俄罗斯暗中监控美国，提高俄罗斯武器的精准度。俄罗斯则表示，这些监测站将大幅度改进莫斯科版本的全球定位系统（Global Positioning System，简称GPS）的准确性和可靠性。GPS是一个美国的卫星网络，既可以指引制导导弹飞向目标，也能帮助口渴的智能手机用户找到最近的星巴克(Starbucks)。
+“They don’t want to be reliant on the American system and believe that their systems, like GPS, will spawn other industries and applications,” said a former senior official in the State Department’s Office of Space and Advanced Technology. “They feel as though they are losing a technological edge to us in an important market. Look at everything GPS has done on things like your phone and the movement of planes and ships.”
+“他们不想依赖美国的系统，而且认为他们的系统也能像GPS一样，催生很多其他产业和应用，”一名曾供职于国务院太空和先进技术办公室(Office of Space and Advanced Technology)的官员称。“他们觉得，自己似乎正在一个重要的市场失去技术优势，落后于我们。看看GPS在手机之类的东西上实现的功能，以及对飞机飞行、船舶航行发挥的作用吧。”
+The Russian effort is part of a larger global race by several countries — including China and European Union nations — to perfect their own global positioning systems and challenge the dominance of the American GPS.
+俄罗斯的计划是一场范围更广、有数个国家参与的全球竞争的一部分。中国和欧盟国家也参与了这场竞争。它们希望完善自身的全球定位系统，挑战美国GPS的主导地位。
+For the State Department, permitting Russia to build the stations would help mend the Obama administration’s relationship with the government of President Vladimir V. Putin, now at a nadir because of Moscow’s granting asylum to Mr. Snowden and its backing of President Bashar al-Assad of Syria.
+对于国务院来说，允许俄罗斯修建监测站将有助于修复奥巴马政府同俄罗斯总统弗拉基米尔·V·普京(Vladimir V. Putin)领导的政府之间的关系。由于俄罗斯政府准许斯诺登在该国避难，而且支持叙利亚总统巴沙尔·阿萨德(Bashar al-Assad)，两国的关系现在已经跌至谷底。
+But the C.I.A. and other American spy agencies, as well as the Pentagon, suspect that the monitor stations would give the Russians a foothold on American territory that would sharpen the accuracy of Moscow’s satellite-steered weapons. The stations, they believe, could also give the Russians an opening to snoop on the United States within its borders.
+但中情局及其他美国间谍机构，还有五角大楼都怀疑，监测站将成为俄罗斯在美国领土上的立足点，从而帮助莫斯科提高其卫星制导武器的精准度。它们认为，这些监测站也可能会给俄罗斯提供一个在美国境内进行监控的渠道。
+The squabble is serious enough that administration officials have delayed a final decision until the Russians provide more information and until the American agencies sort out their differences, State Department and White House officials said.
+国务院和白宫官员称，双方争执不下，以至于政府官员决定推迟做出最终决定，要求俄罗斯提供更多信息，而美国各机构之间也需要首先解决彼此间的分歧。
+Russia’s efforts have also stirred concerns on Capitol Hill, where members of the intelligence and armed services committees view Moscow’s global positioning network — known as Glonass, for Global Navigation Satellite System — with deep suspicion and are demanding answers from the administration.
+俄罗斯的计划也在国会引发了不安。情报委员会和军事委员会的成员认为，俄罗斯的全球定位系统——即“全球导航卫星系统”（Global Navigation Satellite System，简称Glonass）——十分可疑，要求奥巴马政府给出解释。
+“I would like to understand why the United States would be interested in enabling a GPS competitor, like Russian Glonass, when the world’s reliance on GPS is a clear advantage to the United States on multiple levels,” said Representative Mike D. Rogers, Republican of Alabama, the chairman of a House Armed Services subcommittee.
+众议院国防委员会(House Armed Services Committee)下辖的一个小组委员会主席、阿拉巴马州共和党人迈克·D·罗杰斯(Mike D. Rogers)说，“我很想弄明白为什么美国会有兴趣帮助GPS的竞争对手，比如俄罗斯的Glonass。毕竟，全世界都依赖GPS的话，显然对美国有多方面的好处。”
+Mr. Rogers last week asked the Pentagon to provide an assessment of the proposal’s impact on national security. The request was made in a letter sent to Defense Secretary Chuck Hagel, Secretary of State John Kerry and the director of national intelligence, James R. Clapper Jr.
+罗杰斯上周要求五角大楼对该计划的国家安全影响进行评估。在一封发给国防部长查克·哈格尔(Chuck Hagel)、国务卿约翰·克里(John Kerry)及国家情报总监小詹姆斯·R·克拉珀(James R. Clapper Jr.)的信中，他提出了这项要求。
+The monitor stations have been a high priority of Mr. Putin for several years as a means to improve Glonass not only to benefit the Russian military and civilian sectors but also to compete globally with GPS.
+普京多年来一直很重视监测站。作为改进Glonass系统的手段，它们不仅能对俄罗斯军用和民用部门有益，而且也能在全球与GPS开展竞争。
+Earlier this year, Russia positioned a station in Brazil, and agreements with Spain, Indonesia and Australia are expected soon, according to Russian news reports. The United States has stations around the world, but none in Russia.
+据俄罗斯媒体报道，今年早些时候，俄罗斯在巴西设置了一座监测站，与西班牙、印度尼西亚、澳大利亚的协议预计也会很快达成。美国在世界各地都设有监测站，但在俄罗斯一直都是空白。
+Russian and American negotiators last met on April 25 to weigh “general requirements for possible Glonass monitoring stations in U.S. territory and the scope of planned future discussions,” said a State Department spokeswoman, Marie Harf, who said no final decision had been made.
+国务院女发言人玛丽·哈夫(Marie Harf)表示，俄罗斯和美国的谈判代表上一次举行会晤是在4月25日，会上讨论了“未来假如可能在美国领土上建立Glonass监测站的话，需要的一般要求，以及未来计划举行的讨论的范围”。她还说，尚未做出最后决定。
+Ms. Harf and other administration officials declined to provide additional information. The C.I.A. declined to comment.
+哈夫等奥巴马政府的官员均拒绝透露更多信息，而中情局则表示无可奉告。
+The Russian government offered few details about the program. In a statement, a spokesman for the Russian Embassy in Washington, Yevgeniy Khorishko, said that the stations were deployed “only to ensure calibration and precision of signals for the Glonass system.” Mr. Khorishko referred all questions to Roscosmos, which did not respond to a request for comment last week.
+对于这项计划，俄罗斯政府也几乎没有透露什么细节。俄罗斯驻华盛顿大使馆的发言人耶夫根尼·霍里什科(Yevgeniy Khorishko)发表声明称，部署监测站“只是用于校准Glonass系统的信号，并确保其精确度”。霍里什科说，所有问题都要由俄罗斯联邦航天局解答，但在上周，后者没有回应发表评论的请求。
+Although the Cold War is long over, the Russians do not want to rely on the American GPS infrastructure because they remain suspicious of the United States’ military capabilities, security analysts say. That is why they have insisted on pressing ahead with their own system despite the high costs.
+尽管冷战已经过去了很久，但是安全分析人士表示，俄罗斯仍然不希望依赖美国的GPS基础设施，因为该国对美国的军事实力仍然心存怀疑。这也是为什么，即使成本高昂，俄罗斯也要坚持推行自己的系统。
+Washington and Moscow have been discussing for nearly a decade how and when to cooperate on civilian satellite-based navigation signals, particularly to ensure that the systems do not interfere with each other. Indeed, many smartphones and other consumer navigation systems sold in the United States today use data from both countries’ satellites.
+围绕着在民用卫星导航信号方面开展合作的方式和时机问题，美俄两国政府讨论了将近十年，尤其是为了确保双方的系统不要相互干扰。实际上，今天在美国出售的许多智能手机及其他民用导航系统在同时使用两国卫星的数据。
+In May 2012, Moscow requested that the United States allow the ground-monitoring stations on American soil. American technical and diplomatic officials have met several times to discuss the issue and have asked Russian officials for more information, said Ms. Harf, the State Department spokeswoman.
+2012年5月，俄罗斯政府请求美国允许在美国领土上建设地面监测站。国务院发言人哈夫透露，美国的技术和外交官员已经举行过数次会议，讨论这一问题，并曾要求俄罗斯官员提供更多信息。
+In the meantime, C.I.A. analysts reviewed the proposal and concluded in a classified report this fall that allowing the Russian monitor stations here would raise counterintelligence and other security issues.
+与此同时，中情局内部的分析师审阅了该项请求，并于今年秋天在一份机密报告中认定，允许俄罗斯在美国设置监测站的话，会产生反谍报等方面的安全问题。
+The State Department does not think that is a strong argument, said an administration official. “It doesn’t see them as a threat.”
+一位政府官员透露，国务院并不认为这种说法有充分的证据支撑。“它并不把这视为一种威胁。”

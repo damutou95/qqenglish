@@ -1,0 +1,72 @@
+CAMP EDWARDS, Mass. — The small drone, with its six whirring rotors, swept past the replica of a Middle Eastern village and closed in on a mosque-like structure, its camera scanning for targets.
+马萨诸塞州爱德华兹空军基地——这架带有六个嗡嗡转动的旋翼的小型无人机掠过一个仿造的中东村庄，靠近一个类似清真寺的建筑，它的摄像机在搜寻目标。
+No humans were remotely piloting the drone, which was nothing more than a machine that could be bought on Amazon. But armed with advanced artificial intelligence software, it had been transformed into a robot that could find and identify the half-dozen men carrying replicas of AK-47s around the village and pretending to be insurgents.
+没有人在远程操纵这架无人机，它跟亚马逊(Amazon)上卖的机器没有太大差别。但是装上先进的人工智能软件，它就变成了一个机器人，能够找到并识别出村子各处那几个手持仿真AK-47冲锋枪、装扮成叛乱分子的人。 
+As the drone descended slightly, a purple rectangle flickered on a video feed that was being relayed to engineers monitoring the test. The drone had locked onto a man obscured in the shadows, a display of hunting prowess that offered an eerie preview of how the Pentagon plans to transform warfare.
+在无人机微微降低高度时，一个紫色长方形在实时视频上闪烁，这段录像当时正被转发给监控此次测试的工程师们。无人机锁定了一个藏在暗处的人，这展现出它高超的侦查能力，同时也是五角大楼变革军事行为的计划的可怕预演。 
+Almost unnoticed outside defense circles, the Pentagon has put artificial intelligence at the center of its strategy to maintain the United States’ position as the world’s dominant military power. It is spending billions of dollars to develop what it calls autonomous and semiautonomous weapons and to build an arsenal stocked with the kind of weaponry that until now has existed only in Hollywood movies and science fiction, raising alarm among scientists and activists concerned by the implications of a robot arms race.
+在国防圈子之外，几乎没有人注意到，五角大楼已经把人工智能置于其维持美国全球主导军事大国地位的战略的核心。它正花费数十亿美元开发所谓的自动化和半自动化武器，建立军火库，存储到目前为止仅存在于好莱坞电影和科幻小说中的那种武器，这些已经引起了关注人工智能军备竞赛隐患的科学家和活动人士的警惕。
+The Defense Department is designing robotic fighter jets that would fly into combat alongside manned aircraft. It has tested missiles that can decide what to attack, and it has built ships that can hunt for enemy submarines, stalking those it finds over thousands of miles, without any help from humans.
+美国国防部正在设计可以和由人驾驶的飞机一起参加战斗的自动控制战斗机。它已经试射了可以自行确定打击目标的导弹，还建造了能不依赖任何人力就能在数千英里的范围内搜寻敌方潜水艇并跟踪它们的船舰。
+“If Stanley Kubrick directed ‘Dr. Strangelove’ again, it would be about the issue of autonomous weapons,” said Michael Schrage, a research fellow at the Massachusetts Institute of Technology Sloan School of Management.
+“如果斯坦利·库布里克(Stanley Kubrick)导演重拍《奇爱博士》(Dr. Strangelove)，就会拿自动武器说事，”麻省理工学院斯隆管理学院(Massachusetts Institute of Technology Sloan School of Management)研究员迈克尔·施拉格(Michael Schrage)说。
+Defense officials say the weapons are needed for the United States to maintain its military edge over China, Russia and other rivals, who are also pouring money into similar research (as are allies, such as Britain and Israel). The Pentagon’s latest budget outlined $18 billion to be spent over three years on technologies that included those needed for autonomous weapons.
+国防部官员表示，美国需要这些武器来保持它相对于中国、俄罗斯和其他对手的军事优势，这些国家也在投入大量资金进行类似的研究（我们的盟国也是如此，比如英国、以色列）。根据五角大楼最新的预算，在接下来的三年里，他们会花费180亿美元用于技术投资，其中包括与自动武器相关的必要技术。
+“China and Russia are developing battle networks that are as good as our own. They can see as far as ours can see; they can throw guided munitions as far as we can,” said Robert O. Work, the deputy defense secretary, who has been a driving force for the development of autonomous weapons. “What we want to do is just make sure that we would be able to win as quickly as we have been able to do in the past.”
+“中国和俄罗斯正在打造和我们的一样好的作战系统。他们可以看得和我们一样远；也能把制导弹药发射得和我们一样远，”一直在推动自动武器发展的国防部副部长罗伯特·O·沃克(Robert O. Work)说。“我们只是想确保，未来我们还能像过去一样快地赢得战争。”
+Just as the Industrial Revolution spurred the creation of powerful and destructive machines like airplanes and tanks that diminished the role of individual soldiers, artificial intelligence technology is enabling the Pentagon to reorder the places of man and machine on the battlefield the same way it is transforming ordinary life with computers that can see, hear and speak and cars that can drive themselves.
+正如工业革命带来了飞机和坦克等强大而具有破坏性的机器，并削弱了士兵个人在战斗中的角色，人工智能技术也使五角大楼重新调整了人和机器在战场上的位置，就像它在通过能够观看、倾听和说话的计算机，以及可以自动驾驶的汽车改变日常生活一样。
+The new weapons would offer speed and precision unmatched by any human while reducing the number — and cost — of soldiers and pilots exposed to potential death and dismemberment in battle. The challenge for the Pentagon is to ensure that the weapons are reliable partners for humans and not potential threats to them.
+这些新武器拥有人力无可匹敌的速度和精确度，同时又能减少士兵和飞行员的人数及他们付出的代价——这些军人在战斗中有可能出现阵亡和伤残的情况。五角大楼面临的挑战是确保这些武器是人类可靠的伙伴，而非潜在的威胁。
+At the core of the strategic shift envisioned by the Pentagon is a concept that officials call centaur warfighting. Named for the half-man and half-horse in Greek mythology, the strategy emphasizes human control and autonomous weapons as ways to augment and magnify the creativity and problem-solving skills of soldiers, pilots and sailors, not replace them.
+五角大楼设想的战略转变的核心，是一种被官员称为半人马作战的概念，这个名字取自希腊神话中一种半人半马的生物。该战略强调将人工控制和自动武器作为提高士兵、飞行员和海军士兵的创造性，增强他们解决问题能力的办法，而不是取代他们的工具。
+The weapons, in the Pentagon’s vision, would be less like the Terminator and more like the comic-book superhero Iron Man, Work said in an interview.
+在五角大楼的想象中，这些武器不太会像电影《终结者》(Terminator)，而更像漫画超级英雄“钢铁侠”(Iron Man)，沃克在接受采访时表示。
+“There’s so much fear out there about killer robots and Skynet,” the murderous artificial intelligence network of the “Terminator” movies, Work said. “That’s not the way we envision it at all.”
+“外界存在很多有关机器人杀手和天网(Skynet)的担忧，”沃克说道。后者是《终结者》中出现的杀人如麻的人工智能网络。“我们设想的根本不是那样。”
+When it comes to decisions over life and death, “there will always be a man in the loop,” he said.
+他还表示，在生死攸关的决策上，“永远会由人来决定。”
+Beyond the Pentagon, though, there is deep skepticism that such limits will remain in place once the technologies to create thinking weapons are perfected. Hundreds of scientists and experts warned in an open letter last year that developing even the dumbest of intelligent weapons risked setting off a global arms race. The result, the letter warned, would be fully independent robots that can kill, and are cheap and as readily available to rogue states and violent extremists as they are to great powers.
+不过，在五角大楼之外，有人深深怀疑一旦创造具有思考能力的武器的技术臻至完美，这样的限制是否还会存在。去年，数百名科学家和专家曾发公开信警告，研发哪怕最笨的智能武器也有可能引发全球军备竞赛。他们在信中告诫，结果将是出现能够取人性命、完全自主的机器人，它们价格低廉，有多么容易被各个大国获取，就能多么轻易地被流氓国家和暴力极端分子获得。
+“Autonomous weapons will become the Kalashnikovs of tomorrow,” the letter said.
+“自动武器将成为明天的卡拉什尼科夫冲锋枪，”信中写道。
+The debate within the military is no longer about whether to build autonomous weapons but how much independence to give them. Gen. Paul J. Selva of the Air Force, the vice chairman of the Joint Chiefs of Staff, said recently that the United States was about a decade away from having the technology to build a fully independent robot that could decide on its own whom and when to kill, though it had no intention of building one.
+军方内部的争论点已经不再是是否研发自动武器，而是赋予它们多大的自主权。空军上将、美国参谋长联席会议(Joint Chiefs of Staff)副主席保罗·J·塞尔瓦(Paul J. Selva)最近表示，美国无意制造可以自行决定何时和对谁发起攻击的完全自主的机器人，就算有这样的打算，实现这一技术也是十年之后的事。
+Other countries were not far behind, and it was very likely that someone would eventually try to unleash “something like a Terminator,” Selva said, invoking what seems to be a common reference in any discussion on autonomous weapons.
+在这件事上，其他国家并没有远远落后于美国，很有可能某些人最终会试图推出“终结者那样的东西”，塞尔瓦说道。他提到了在任何有关自动武器的讨论中似乎都会被提及的东西。
+Yet U.S. officials are only just beginning to contend with the implications of weapons that could someday operate independently, beyond the control of their developers. Inside the Pentagon, the quandary is known as the Terminator conundrum, and there is no consensus about whether the United States should seek international treaties to try to ban the creation of those weapons, or build its own to match those its enemies might create.
+但美国官员这才刚刚开始想办法应对有朝一日会脱离研发者控制、自主行动的武器将会带来的后果。在五角大楼内部，这种左右为难的境况被称为终结者难题。对于美国是该尽力签署国际条约以禁止这类武器的研发，还是自行研发，以便能对付敌人可能会制造的此类武器，他们也没有达成共识。
+For now, though, the current state of the art is decidedly less frightening. Exhibit A: the small, unarmed drone tested this summer on Cape Cod.
+不过，从眼下看，当前的最尖端科技的状况确实没那么令人恐惧。证物A：看看今年夏天在科德角测试的小型无人机。
+It could not turn itself on and just fly off. It had to be told by humans where to go and what to look for. But once aloft, it decided on its own how to execute its orders.
+它无法自动开启和起飞，必须由人发出指令，告诉它往哪里飞，以及寻找什么。不过一旦升空，它会自行决定如何执行收到的命令。
+The project is run by the Defense Advanced Research Projects Agency, known as DARPA, which is developing the software needed for machines that could work with small units of soldiers or Marines as scouts or in other roles.
+这个项目是由美国国防高级研究计划局（Defense Advanced Research Projects Agency，简称DARPA）展开的，该机构正在研发机器需要的软件，以便它们能与少量陆军或海军陆战队士兵协同完成侦查任务或扮演其他角色。
+Unlike the drones currently used by the military, all of which require someone at a remote control, “this one doesn’t,” said Maj. Christopher Orlowski of the Army, a program manager at DARPA. “It works with you. It’s like having another head in the fight.”
+与现在军队使用的全都需要有人遥控的无人机不同，“这种不需要远程控制，”DARPA的项目经理、陆军少校克里斯托弗·奥尔沃夫斯基(Christopher Orlowski)说。“它和你一起工作，就像有另一个人在一起作战。”
+It could also easily be armed. The tricky part is developing machines whose behavior is predictable enough that they can be safely deployed, yet flexible enough that they can handle fluid situations. Once that is mastered, telling it whom or what to shoot is easy; weapons programmed to hit only certain kinds of targets already exist.
+给它配备武器也比较容易。棘手的部分在于，如何让这些机器的行为足够可预测，能被安全部署，同时又足够灵活，能应对不断变化的情况。一旦实现这一点，告诉它对谁或什么东西发起袭击不成问题；设置成只对某些目标进行打击的武器业已存在。
+Yet the behavioral technology, if successfully developed, is unlikely to remain solely in American hands. Technologies developed at DARPA do not typically remain secret, and many are now ubiquitous, powering everything from self-driving cars to the internet.
+但是，如果这种行为技术被成功地研发出来，它不大可能只掌握在美国人手中。DARPA研发出的技术通常不会一直处在保密状态，其中有许多现在已经随处可见，它们在推动包括无人驾驶汽车和互联网在内的一切事物向前发展。
+Experts outside the Pentagon are far less convinced that the United States will be able to maintain its dominance by using artificial intelligence. The defense industry no longer drives research the way it did during the Cold War, and the Pentagon does not have a monopoly on the cutting-edge machine-learning technologies coming from startups in Silicon Valley, and in Europe and Asia.
+外部专家们远没有五角大楼那么确信，美国能通过使用人工智能来保持自己的优势地位。国防工业已经不再像冷战时期那样推动研究前进，在机器学习技术的前沿领域，五角大楼也没有什么垄断优势，这些技术来自硅谷、欧洲和亚洲的创业公司。
+Unlike the technologies and material needed for nuclear weapons or guided missiles, artificial intelligence as powerful as what the Pentagon seeks to harness is already deeply woven into everyday life. Military technology is often years behind what can be picked up at Best Buy.
+与核武器或制导导弹需要的技术和材料不同，像五角大楼试图掌握的那么强大的人工智能，已经深深融入了日常生活。军事技术往往比能在百思买(Best Buy)买到的产品的技术落后数年。
+“Let’s be honest, American defense contractors can be really cutting edge on some things and really behind the curve on others,” said Maj. Brian Healy, 38, an F-35 pilot. The F-35, America’s newest and most technologically advanced fighter jet, is equipped with a voice command system that is good for changing channels on the radio, and not much else.
+“老实讲，在某些领域，美国国防工程承包商确实非常领先，但在有些方面，也确实十分落后，”38岁的F-35战斗机飞行员布莱恩·希利(Brian Healy)少校说。F-35是美国最新、同时也是技术最先进的战斗机，配有声控系统，但这种系统所能实现也不过是用语音指令改变通话频道之类的小功能。
+“It would be great to get Apple or Google on board with some of the software development,” he added.
+“如果能让苹果或谷歌公司参与研发一些软件，那就太好了，”他接着说。
+Beyond the practical concerns, the pairing of increasingly capable automation with weapons has prompted an intensifying debate among legal scholars and ethicists. The questions are numerous, and the answers contentious: Can a machine be trusted with lethal force? Who is at fault if a robot attacks a hospital or a school? Is being killed by a machine a greater violation of human dignity than if the fatal blow is delivered by a human?
+在这些实际层面的担忧之外，日益先进的自动化和武器的结合，还在法律学者和伦理学家中引发了越来越激烈的争论。问题多到数不清，答案却并不确定：我们能放心地赋予机器致命的力量吗？如果一个机器人袭击一座医院或一所学校，谁来承担过错？比起由人给予致命一击，被一个机器人杀掉是对人类尊严更大的侵犯吗？
+A Pentagon directive says that autonomous weapons must employ “appropriate levels of human judgment.” Scientists and human rights experts say the standard is far too broad and have urged that such weapons be subject to “meaningful human control.”
+五角大楼的一项指令要求自动武器必须借用“适度的人类判断”。科学家和人权专家称这个标准太过宽泛，强烈要求将此类武器置于“明确的人类控制”之下。
+But would any standard hold up if the United States was faced with an adversary of near or equal might that was using fully autonomous weapons? Peter Singer, a specialist on the future of war at New America, a think tank in Washington, suggested there was an instructive parallel in the history of submarine warfare.
+但是，如果美国面对一个与它力量接近或相等、但却使用全自动武器的对手，还有什么标准是立得住的吗？在华盛顿智库机构新美国(New America)研究关未来战争的专家彼得·辛格(Peter Singer)认为，潜艇战争史上有一些可供参照的类似情况。
+Like autonomous weapons, submarines jumped from the pages of science fiction to reality. During World War I, Germany’s use of submarines to sink civilian ships without first ensuring the safety of the crew and passengers was seen as barbaric. The practice quickly became known as unrestricted submarine warfare, and it helped draw the United States into the war.
+就像自动武器一样，潜水艇也是从科幻小说中的想象突然变成了现实。在第一次世界大战期间，德国曾在没有首先确保船员和乘客安全的情况下，用潜艇击沉多艘民用船只，这被看作野蛮的行为。此种做法很快以无限制潜艇战的名字为人所知，并或多或少地促使美国加入了战争。
+After the war, the United States helped negotiate an international treaty that sought to ban unrestricted submarine warfare.
+一战结束后，美国帮助达成了一项国际协议，试图禁止无限制潜艇战。
+Then came the Japanese attack on Pearl Harbor on Dec. 7, 1941. That day, it took just six hours for the U.S. military to disregard decades of legal and ethical norms and order unrestricted submarine warfare against Japan. American submarines went on to devastate Japan’s civilian merchant fleet during World War II, in a campaign that was later acknowledged to be tantamount to a war crime.
+后来，日本在1941年12月7日袭击了珍珠港。那一天，美国只用6个小时便将维持几十年的法律和道德准则抛在一边，下令对日本发起无限制潜艇战。在二战期间一些后来被认为无异于战争罪行的战斗中，美国潜艇摧毁了大量日本民用商船。
+“The point is, what happens once submarines are no longer a new technology, and we’re losing?” Singer said. He added: “Think about robots, things we say we wouldn’t do now, in a different kind of war.”
+“重点是，当潜艇不再是一项新技术而我们又在失利，会发生什么，”辛格说。他接着讲道：“然后再想想机器人，想想在一种不同的战争中，我们现在说自己不会做的那些事。”

@@ -1,0 +1,56 @@
+SAN FRANCISCO — Life on Mars? Today? The notion may not be so far-fetched after all.
+旧金山——火星生命？今天？这个想法现在看来似乎也没那么夸张了。
+A year after reporting that NASA’s Curiosity rover had found no evidence of methane gas on Mars, all but dashing hopes that organisms might be living there now, scientists reversed themselves on Tuesday.
+一年前，科学家说美国国家航空航天局(NASA)的“好奇号”(Curiosity)火星探测车没有发现甲烷气体的迹象，几乎让在火星发现生物的希望彻底破灭。科学家在周二推翻了他们一年前的判断。
+Curiosity has now recorded a burst of methane that lasted at least two months.
+好奇号记录到了一次甲烷气体喷发，而且可能持续了至少两个月。
+For now, scientists have just two possible explanations for the methane. One is that it is the waste product of certain living microbes.
+目前，科学家只有两种可能的解释。其中一种是甲烷来源于某种活的微生物排放的废物。
+“It is one of the few hypotheses that we can propose that we must consider as we go forward,” said John P. Grotzinger, the mission’s project scientist.
+好奇号项目的科学家约翰·P·格罗青格(John P. Grotzinger)说：“这是不多的几个假设之一，是我们接下来必须要考虑的一个可能性。”
+The scientists also reported that for the first time, they had confirmed the presence of carbon-based organic molecules in a rock sample. The so-called organics are not direct signs of life, past or present, but they lend weight to the possibility that Mars had the ingredients required for life, and may even still have them.
+科学家还说，他们第一次在岩石样本中发现了碳基有机分子的存在。这些所谓的有机物不是生命的直接迹象，无论古代生命还是现存生物。但它让火星具备孕育生命条件的可能性变得更大了，甚至很可能火星上现在就有生命存在。
+“This is really a great moment for the mission,” Dr. Grotzinger told a news conference here at the fall meeting of the American Geophysical Union.
+“这真是好奇号历程中的一个伟大时刻，”格罗青格在美国地球物理学会(American Geophysical Union)秋季大会期间召开的记者会上说。
+The presence of methane is significant because the gas cannot exist for long. Calculations indicate that sunlight and chemical reactions in the Martian atmosphere would break up the molecules within a few hundred years, so any methane there now must have been created recently.
+发现甲烷意义重大，因为这种气体不会长时间存在。根据计算，火星大气中的化学反应和光照，可以在几百年时间里分解甲烷分子。因此，现在发现的甲烷一定是不久前产生的。
+It could have been created by a geological process known as serpentinization, which requires both heat and liquid water. Or it could be a product of life in the form of microbes known as methanogens, which release methane as a waste product.
+甲烷可能是一种叫做蛇纹岩化的地质过程产生的，这种过程需要高温和液态水的参与。或者，它也可能是一种叫做甲烷菌的微生物产生出来的；这种微生物代谢时会产生甲烷废物。
+Even if the explanation for the methane turns out to be geological, the hydrothermal systems would still be prime locations to search for signs of life.
+即使最后证明甲烷产生的原因是地质活动，这种水热并存的环境也是寻找生命迹象的首选地点。
+Scientists have always expected that some tiny amount of methane would be found on Mars. Cosmic dust falling on the planet contains organic compounds that are broken up by ultraviolet light from the sun, producing methane.
+科学家一直认为在火星上会发现微量甲烷。掉落到火星的宇宙尘埃包含有机化合物，经太阳光紫外线照射分解，会产生甲烷。
+But the new findings, which are described in detail in a paper this week in the journal Science, are a 180-degree flip from a year ago, when mission scientists said that Curiosity had found no signs of methane, placing an upper limit of 1.3 parts per billion by volume.
+但本周发表于《科学》(Science)杂志的这篇文章有了新发现，彻底颠覆了一年前的认识。当时好奇号的科学家还认为没有甲烷的迹象，火星大气中的甲烷体积占比最高不超过十亿分之一点三。
+Since then, the scientists refined their measurements, detecting a background level of 0.7 parts per billion. That is half of what was predicted, raising another mystery that somehow methane is also being destroyed.
+在那以后，科学家提高了计量精度，发现了十亿分之零点七的背景值，是预计的一半。甲烷似乎还在被破坏，这又成了一个谜。
+But in November 2013, two months after the scientists reported the absence of methane on Mars, the rover measured methane levels 10 times as high. “It was an ‘oh my gosh’ moment,” said Christopher R. Webster of the NASA Jet Propulsion Laboratory, the lead author of the Science paper.
+但就在2013年11月，科学家报告火星上没有甲烷的两个月之后，好奇号测到了10倍于已知值的甲烷。“那是一个让所有人吃惊得尖叫的时刻，”《科学》文章的第一作者、航天局喷气推进实验室(Jet Propulsion Laboratory)的克里斯托弗·R·韦伯(Christopher R. Webster)说。
+The methane levels stayed high through at least the end of January. They subsequently fell, to less than one part per billion.
+直到1月末，甲烷的浓度一直很高。然后浓度开始下降，降至不到十亿分之一。
+An earlier measurement in July had also been high, although it dropped by half a week later, and the margin of error made it unclear what was going on. Curiosity made no methane measurements between July and November 2013.
+7月的一次测量也测得高浓度甲烷，不过半个星期后浓度便降低了，误差导致无法得出明确的测量结论。7月以后到2013年11月之前，好奇号没有再测过甲烷浓度。
+Sushil K. Atreya of the University of Michigan, a member of the science team, said it was possible that elevated methane levels lasted from July through January. “It could have been over six months,” he said, “but we don’t know that.”
+好奇号科学小组成员、密歇根大学的苏什尔·K·阿特雷亚(Sushil K. Atreya)说，高浓度甲烷可能从7月一直持续到1月。“可能持续了六个多月，但我们不知道，”他说。
+Given its quick appearance and quick disappearance, the newly discovered methane was a relatively small burst, mission scientists suspect.
+科学家估计，鉴于这种忽然出现又忽然消失的情况，最新的发现相比之下算是一次小爆发了。
+A decade ago, three teams of scientists reported that they had detected methane in the Martian atmosphere — two using observations from Earth, one using the European Space Agency’s Mars Express orbiter.
+10年前，三个科学家小组报告在火星大气中发现了甲烷——两个小组是从地球上观测，一个利用了欧洲空间局(European Space Agency)的火星快车号卫星(Mars Express)。
+All of the measurements were at the edge of the instruments’ capabilities, and the methane appeared to disappear two years later. If true, that meant not only that was something creating methane on Mars, but also that something else was quickly destroying it.
+所有三次测量都达到了当时仪器能力的极限，两年后，甲烷似乎消失了。如果事实的确如此，那么不仅说明火星上有什么东西在制造甲烷，而且也意味着还有什么东西在破坏甲烷。
+Many Mars scientists decided that a simpler solution to the methane mystery was that the measurements were mistaken, a conclusion bolstered by the absence reported by the Curiosity team last year.
+很多火星科学家认为，甲烷之谜更简单的解释是，那些测量都不对。好奇号报告没有发现甲烷之后，这个结论更得到了支持。
+Now, Dr. Grotzinger said, “It’s back on the table.”
+现在，“这种可能性又回来了，”格罗青格说。
+Michael J. Mumma of NASA’s Goddard Space Flight Center in Greenbelt, Md., who led one of the teams that reported much larger methane plumes in the Mars atmosphere in 2003 based on measurements from Earth — and has found no methane since 2005 — said the new data was “pleasant” after years of doubts from critics.
+戈达德航天中心(Goddard Spaceflight Center)的迈克尔·J·穆玛(Michael J. Mumma)领导了2003年从地球上测到甲烷的一个科研小组，但他们2005年以后再没有测到甲烷。他说，经过这么多年被批评者质疑，新的发现令人“愉快”。
+The new Curiosity measurements “confirmed this startling reality that methane is being released, sporadically, and it is being destroyed quickly,” he said. “Both events are surprising.”
+好奇号的测量“证实了这个惊人的事实：的确有甲烷被间歇性地释放，而且也在很快地被破坏。两个现象都很惊人，”他说。
+As for the organic molecules, they showed up in a mudstone nicknamed Cumberland that Curiosity drilled in May 2013.
+至于有机分子，那是在一块被称作“坎伯兰”(Cumberland)的泥岩中发现的。好奇号2013年5月钻探获取了这块岩石。
+Within Curiosity is a miniature chemistry laboratory that detected significant amounts of the organic molecule chlorobenzene, in much higher concentrations than had been seen in other rocks it had examined.
+好奇号内部有一个袖珍化学实验室，检测到这块岩石样本含有大量氯苯有机物分子，比在其他岩石中发现的含量高许多。
+Scientists spent months analyzing whether the organic compounds came from Cumberland or contamination Curiosity had brought from Earth.
+科学家用了几个月的时间分析这种有机物是来自“坎伯兰”，还是好奇号带来的地球物质污染了样本。
+“You don’t want to be faked out,” Dr. Grotzinger said.
+“你可不想被假样本骗了，”格罗青格说。

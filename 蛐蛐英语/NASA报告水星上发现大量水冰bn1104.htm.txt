@@ -1,0 +1,36 @@
+Mercury is as cold as ice.
+水星上有冰。 
+Indeed, Mercury, the closest planet to the Sun, possesses a lot of ice — 100 billion to one trillion tons — scientists working with NASA’s Messenger spacecraft reported on Thursday.
+据美国宇航局(NASA)信使号探测器(Messenger)研究人员本周四报告，距离太阳最近的行星水星拥有大量水冰，数量在1000亿至1万亿吨之间。
+Sean C. Solomon, the principal investigator for Messenger, said there was enough ice there to encase Washington, D.C., in a frozen block two and a half miles deep.
+信使号的首席研究员肖恩·C·所罗门(Sean C. Solomon)说，这些冰足够把整个华盛顿特区冻在一个两英里半深的冰块里。
+That is a counterintuitive discovery for a place that also ranks among the hottest in the solar system. At noon at the equator on Mercury, the temperature can hit 800 degrees Fahrenheit.
+在太阳系中最热的行星之一上取得这一发现，似乎与人们的直觉相悖。在中午时分的水星赤道上，温度可高达华氏800度（约摄氏427度）。
+But near Mercury’s poles, deep within craters where the Sun never shines, temperatures dip to as cold as minus 370.
+但在水星的两极附近，在太阳永远照不到的环形山内部深处，温度可降至华氏零下370度（约摄氏零下223度）。
+“In these planetary bodies, there are hidden places, as it were, that can have interesting things going on,” said David J. Lawrence, a senior scientist at the Johns Hopkins University Applied Physics Laboratory working on the Messenger mission.
+“在这些行星上，有些隐秘的地方可能有一些有意思的事情，”参与信使号任务的约翰·霍普金斯大学应用物理实验室(Johns Hopkins University Applied Physics Laboratory)资深科学家戴维·J·劳伦斯(David J. Lawrence)说。
+The findings appear in a set of three papers published Thursday on the Web site of the journal Science. The ice could be an intriguing science target for a future robotic lander or even a resource for astronauts in the far future.
+本周四，《科学》杂志网站发表三篇论文，介绍了这些发现。这些冰可能成为一个耐人寻味的科学目标，迎来未来的机器人探测器，甚至在更遥远的未来成为宇航员可以利用的一种资源。
+Planetary scientists had strong hints of the ice a couple of decades ago when telescopes bounced radio waves off Mercury and the reflections were surprisingly bright. But some researchers suggested the craters could be lined with silicate compounds or sulfur, which might also be highly reflective.
+20年前，射电望远镜射向水星的无线电波，在反射回来时显现出令人惊讶的明亮区域，对行星科学家来说，这强烈暗示着水星上存在水冰。但当时一些研究人士提出，这些环形山可能覆盖着硅酸盐化合物或硫磺，这些物质也有高反射率。
+The Messenger spacecraft, which swung into orbit around Mercury in March 2011 and has completed its primary mission, took a closer look by counting particles known as neutrons that are flying off the planet. High-energy cosmic rays break apart atoms, and the debris includes neutrons.
+信使号探测器在2011年3月进入水星轨道，现在已经完成了主要任务，即通过计算飞离水星的中子数量，来进行近距离观测。高能量的宇宙射线会分裂原子，其碎片中包括中子。
+But when a speeding neutron hits a hydrogen atom, which is almost the same weight, it comes to almost a complete stop, just as the cue ball in billiards transfers its momentum when it hits another ball. Water molecules contain two hydrogen atoms, and thus when Messenger passed over ice-rich areas, the number of neutrons dropped.
+但是，当一个高速运动的中子，击中一个质量几乎相等的氢原子时，它会近乎完全停止运动。其原理就好比打台球时，白球在击中其他球时，会把自己的动量传递给对方。水分子含有两个氢原子，因此当信使号经过含冰量丰富的地区时，中子的数量会下降。
+The same technique was used to detect frozen water below the surface on Mars and within similar craters on the Moon.
+同样的技术曾被应用于探测火星地表下的水冰，以及月球上类似环形山内部的水冰。
+The neutron number would not have dropped if the bright surfaces had been made of sulfur or silicates.
+假如明亮地表是因为硫磺或硅酸盐造成，中子数就不会下降。
+“Water ice is the only candidate we’ve got that fits all those observations,” said Dr. Solomon, who is also director of Columbia’s Lamont-Doherty Earth Observatory.
+“水冰是唯一符合所有这些观测结果的解释。”所罗门博士说。他还是哥伦比亚大学拉蒙特-多尔蒂地球观测中心(Lamont-Doherty Earth Observatory)主任。
+The ice is almost pure water, which indicates that it arrived within the last few tens of millions of years, possibly from a comet that smacked into Mercury. Dr. Solomon said several young craters on the surface of Mercury could be candidates for such an impact.
+这些冰几乎由纯水构成，这表明它们可能是在最近几千万年里到达的，可能源自一颗撞入水星的彗星。所罗门博士说，水星地表几个形成较晚的环形山可能与这次撞击有关。
+Not all of the icy regions were bright. In slightly warmer regions, where temperatures exceed minus 280, the ice was covered by a dark layer about half a foot thick. The scientists believe in these places the water ice vaporized, leaving behind other materials that had been trapped, including carbon-based molecules known as organics.
+并非所有的冰冷区域都是明亮的。在稍微温暖的地区——那里的温度高于华氏零下280度（约摄氏零下173度），冰层被一层暗色、约半英尺厚的物质所覆盖。科学家相信，这些地方的水冰蒸发后，其它物质残留在此处，包括碳基分子，即有机物。
+That could be similar to how water and the building blocks of life reached Earth billions of years ago.
+这可能类似于几十亿年前，水和构成生命的基本元素到达地球的方式。
+The water could also be an intriguing resource for people. Between the scorched equator and the frozen poles, temperatures on Mercury can be temperate, especially a few feet below the surface, where the soil insulates against the temperature swings between day and night — an ideal location to build a colony.
+对人类来说，这些水也许会是一种迷人的资源。在灼热的赤道和冻结的两极之间，水星上可能存在适度的温度，尤其是在地表以下几英尺的地方，那里的土壤隔绝了日夜温差，这是建立殖民地的理想场所。
+“People joke about it, but it’s not so crazy, really,” said David A. Paige, a professor of geology at U.C.L.A. who calculated the crater temperatures.
+“人们拿这种构想开玩笑，但这其实并非那么疯狂。”加州大学洛杉矶分校(UCLA)的地质学教授戴维·A·佩奇(David A. Paige)说。他计算出环形山的温度。

@@ -1,0 +1,52 @@
+Leah H. Somerville, a Harvard neuroscientist, sometimes finds herself in front of an audience of judges. They come to hear her speak about how the brain develops.
+哈佛大学神经学家利娅·H·萨默维尔(Leah H. Somerville)有时面对的观众是一群法官。他们来听她谈论大脑是如何发育的。
+It’s a subject on which many legal questions depend. How old does someone have to be to be sentenced to death? When should someone get to vote? Can an 18-year-old give informed consent?
+它是很多法律问题的一个依据。多大年纪可以被判处死刑？多大年纪可以投票？18岁的人能够给予知情同意吗？
+Scientists like Dr. Somerville have learned a great deal in recent years. But the complex picture that’s emerging lacks the bright lines that policy makers would like.
+近些年，萨默维尔等科学家学到了很多东西。但是，这种正在显现的复杂认知缺乏政策制定者所需要的清晰界定。
+“Oftentimes, the very first question I get at the end of a presentation is, ‘O.K., that’s all very nice, but when is the brain finished? When is it done developing?’” Dr. Somerville said. “And I give a very nonsatisfying answer.”
+“通常，我讲完之后听到的第一个问题是，‘好的，这些都很好，但是，大脑什么时候发育好了呢？什么时候完成发育呢？’”萨默维尔说，“而我给出的答案让他们很不满意。”
+Dr. Somerville laid out the conundrum in detail in a commentary published on Wednesday in the journal Neuron.
+在周三发表在《神经元》月刊(Neuron)上的一篇评论文章中，萨默维尔详细阐述了这个难题。
+The human brain reaches its adult volume by age 10, but the neurons that make it up continue to change for years after that. The connections between neighboring neurons get pruned back, as new links emerge between more widely separated areas of the brain.
+人类大脑的容量在10岁时达到成人水平，但构成大脑的神经元在这之后的很多年里继续不断变化。相邻神经元之间的链接不断精简，相隔更远的区域之间出现新的链接。
+Eventually this reshaping slows, a sign that the brain is maturing. But it happens at different rates in different parts of the brain.
+这个重塑的过程最终放缓，这表明大脑正在成熟。不过，大脑不同部分的放缓速度不同。
+The pruning in the occipital lobe, at the back of the brain, tapers off by age 20. In the frontal lobe, in the front of the brain, new links are still forming at age 30, if not beyond.
+大脑后部的枕叶的精简从20岁开始逐渐减少。而大脑前部的额叶到30岁时甚至之后依然有新的链接在形成。
+“It challenges the notion of what ‘done’ really means,” Dr. Somerville said.
+“它挑战了‘完成’这个概念，”萨默维尔说。
+As the anatomy of the brain changes, its activity changes as well. In a child’s brain, neighboring regions tend to work together. By adulthood, distant regions start acting in concert. Neuroscientists have speculated that this long-distance harmony lets the adult brain work more efficiently and process more information.
+随着大脑结构的变化，它的活动也在发生变化。在儿童的大脑中，邻近区域往往一同协作。到成年后，相隔遥远的区域开始协作。神经学家猜测，这种长距离协作能让成人的大脑运作效率更高，处理更多信息。
+But the development of these networks is still mysterious, and it’s not yet clear how they influence behavior. Some children, researchers have found, have neural networks that look as if they belong to an adult. But they’re still just children.
+不过，这些网络的发展依然很神秘，尚不清楚它们如何影响行为。研究人员发现，有些儿童的神经网络看起来像成人的大脑。但他们依然只是孩子。
+Dr. Somerville’s own research focuses on how the changes in the maturing brain affect how people think.
+萨默维尔自己的研究集中在成熟中的大脑的变化如何影响人们的思考方式。
+Adolescents do about as well as adults on cognition tests, for instance. But if they’re feeling strong emotions, those scores can plummet. The problem seems to be that teenagers have not yet developed a strong brain system that keeps emotions under control.
+例如，在认知测试中，青少年做得几乎和成人一样好。但是，如果他们出现强烈的情绪，分数就可能骤降。问题似乎是，青少年还没有发展出能够控制情绪的强大的大脑系统。
+That system may take a surprisingly long time to mature, according to a study published this year in Psychological Science.
+据今年发表在《心理科学》(Psychological Science)期刊上的一项研究，这种系统需要经过十分漫长的时间才能达到成熟。
+The authors asked a group of 18- to 21-year-olds to lie in an fMRI scanner and look at a monitor. They were instructed to press a button each time they were shown faces with a certain expression on them — happy in some trials, scared or neutral in others.
+研究人员要求一组18岁至21岁的参与者躺在一个功能性磁共振成像仪(fMRI)上，看着监视器上出现的面孔，并要求他们在每次看到某种特定表情时按一下按钮——某些试验用的是高兴的表情，还有些是害怕或平静的表情。
+And in some cases, the participants knew that they might hear a loud, jarring noise at the end of the trial.
+在某些情况下，参与者知道可能会在试验结束时听到响亮刺耳的噪音。
+In the trials without the noise, the subjects did just as well as people in their mid-20s. But when they were expecting the noise, they did worse on the test.
+在没有噪音的试验中，这些参与者和25岁左右的人做得一样好。但当他们等待噪音出现时，他们在测试中的表现就会变差。
+Brain scans revealed that the regions of their brains in which emotion is processed were unusually active, while areas dedicated to keeping those emotions under control were weak.
+脑部扫描显示，他们大脑中负责处理情绪的区域异常活跃，而负责控制情绪的区域则很弱。
+“The young adults looked like teenagers,” said Laurence Steinberg, a psychologist at Temple University and an author of the study.
+“年轻成年人看起来像青少年，”该研究的一位作者、坦普尔大学(Temple University)心理学家劳伦斯·斯坦伯格(Laurence Steinberg)说。
+Dr. Steinberg agreed with Dr. Somerville that the maturing of the brain was proving to be a long, complicated process without obvious milestones. Nevertheless, he thinks recent studies hold some important lessons for policy makers.
+斯坦伯格赞同萨默维尔的观点，认为大脑的成熟被证明是一个漫长而复杂的过程，没有明显的里程碑。不过，他认为，最近的这些研究给政策制定者提供了一些重要启发。
+He has proposed, for example, that the voting age be lowered to 16. “Sixteen-year-olds are just as good at logical reasoning as older people are,” Dr. Steinberg said.
+比如，他建议将投票年龄降低至16岁。“在逻辑推理方面，16岁的人和年纪更大的人是一样的，”斯坦伯格说。
+Courts, too, may need to take into account the powerful influence of emotions, even on people in their early 20s.
+又如，法庭可能需要考虑情绪的强大影响力，甚至对20出头的人也是一样。
+“Most crime situations that young people are involved in are emotionally arousing situations — they’re scared, or they’re angry, intoxicated or whatever,” Dr. Steinberg said.
+“年轻人的犯罪案例大多是情绪引起的——害怕、愤怒，或极度兴奋，”斯坦伯格说。
+Dr. Somerville, on the other hand, said she was reluctant to offer specific policy suggestions based on her brain research. “I’m still in the learning stage, so I’d hesitate to call out any particular thing,” she said.
+不过萨默维尔说，她不想根据自己的大脑研究提供具体的政策建议。“我还在学习阶段，所以我不想做出任何具体的呼吁，”她说。
+But she does think it is important for the scientists to get a fuller picture of how the brain matures. Researchers need to do large-scale studies to track its development from year to year, she said, well into the 20s or beyond.
+不过，她的确认为，科学家们更全面地了解大脑的成熟过程很重要。她说，研究者需要进行大规模研究，逐年追踪大脑的发育，直到20多岁，甚至之后。
+It’s not enough to compare people using simple categories, such as labeling people below age 18 as children and those older as adults. “Nothing magical occurs at that age,” Dr. Somerville said.
+对人进行简单分类是不够的，比如，将18岁以下的称为儿童，18岁以上的称为成人。“18岁那年并没有发生什么神奇的事，”萨默维尔说。

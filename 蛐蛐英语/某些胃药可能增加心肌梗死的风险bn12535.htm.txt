@@ -1,0 +1,12 @@
+The widely used drugs known as proton pump inhibitors, or P.P.I.’s — gastric reflux preventives like Prilosec and Prevacid — may increase the risk for heart attack, according to analysis of data involving almost three million people.
+一项涉及近300万人的数据的分析显示，目前广泛用于预防胃反流的药物——质子泵抑制剂（proton pump inhibitors, P.P.I.，如奥美拉唑[Prilosec]和兰索拉唑[Prevacid]等）可能会增加心肌梗死的风险。
+Previous studies have found that P.P.I.’s are associated with poor outcomes for people with heart disease, probably because of an interaction with clopidogrel, a drug commonly prescribed after a heart attack. This new study examines the heart attack risk in otherwise healthy people.
+既往研究发现，P.P.I.与心脏病患者预后不良相关，这可能是因为它会与心肌梗死后的常用处方药氯吡格雷(clopidogrel)发生药物相互作用。而上面提到的这项新研究则分析了健康人中的心肌梗死风险。
+The researchers used data-mining, a mathematical method of looking at trends in large amounts of data, to analyze the use of the drugs over time. Evidence that they were increasing the risk for heart attack was clear as early as 2000.
+研究人员使用了数据挖掘，也就是一种从大量数据中寻找趋势的数学方法来分析药物使用随时间的变化。研究结果表明，早在2000年，这类药物会增加心机梗死风险的证据就已经十分明显。
+“This is the kind of analysis now possible because electronic medical records are widely available,” said the lead author, Nigam H. Shah, an assistant professor of medicine at Stanford. “It’s a benefit of the electronic records system that people are always talking about.”
+“是电子病历的广泛使用才使得这样的分析成为可能，”该研究的主要作者，斯坦福大学(Stanford)的医学助理教授尼加姆·H·沙阿(Nigam H. Shah)说。“这是电子病历系统为人津津乐道的优点之一。”
+There was no association of heart attack with another class of drugs used to treat gastric reflux, H2 blockers like Zantac, Tagamet and Pepcid. The researchers suggest that P.P.I.’s promote inflammation and clots by interfering with the actions of protective enzymes.
+治疗胃反流的另一类药物——H2受体拮抗剂/阻滞剂（如甲胺呋硫[Zantac，即雷尼替丁]、泰胃美[Tagamet]和法莫替丁[Pepcid]等）则与心机梗死无相关性。研究人员认为，P.P.I.会促进炎症和血栓是因为它可干扰保护酶的活动。
+A significant limitation of the study, in PLOS One, is that P.P.I. usage may be a marker of a sicker patient population, more subject to heart disease in any case.
+不过，这项发表在《公共科学图书馆：综合》(PLOS One)杂志上的研究也存在着显著的局限性：使用P.P.I.可能是病情较重的患者人群的一个标志，这些人本来就更容易患心脏病。

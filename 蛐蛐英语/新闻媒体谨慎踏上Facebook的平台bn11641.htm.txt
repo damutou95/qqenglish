@@ -1,0 +1,62 @@
+MENLO PARK, Calif. — Facebook’s long-rumored plan to directly host articles from news organizations will start on Wednesday, concluding months of delicate negotiations between the Internet giant and publishers that covet its huge audience but fear its growing power.
+加利福尼亚门洛帕克——市场早有传闻称，Facebook计划直接发布来自新闻机构的文章。随着这一互联网巨头与出版商之间为期数月的棘手谈判告一段落，这一计划将于周三启动。出版商们垂涎于Facebook上的大批受众，但却对Facebook与日俱增的影响力心怀忌惮。
+Nine media companies, including NBC News and The New York Times, have agreed to the deal, despite concerns that their participation could eventually undermine their own businesses.
+包括NBC新闻(NBC News)、《纽约时报》在内的九家媒体公司已经同意了这项交易，尽管它们担心，参与其中到头来会导致自身业务受损。
+The program will begin with a few articles but is expected to expand quickly. Users of iPhones will see glossy cover videos and photos tagged with map coordinates. Most important for impatient smartphone users, the company says, the so-called instant articles will load up to 10 times faster than they normally would since readers stay on Facebook rather than follow a link to another site.
+直接发布在Facebook上的文章起初不会太多，但其数量应该会迅速多。iPhone用户即将看到精彩的主体视频和标记有地图位置的封面图片。该公司称，对没什么耐心的智能手机用户而言，最重要的是这些所谓的“即时文章”，会让文章的加载速度比平常快10倍，因为读者可以待在Facebook上，而不必点击链接、登录另一个网站。
+Facebook has gone to unusual lengths to court the publishers participating in the project, some details of which were previously published by The New York Times and The Wall Street Journal.
+为了拉拢出版商参与该项目，Facebook可谓竭尽全力。时报和《华尔街日报》(The Wall Street Journal)对相关细节均有过报道。
+The news publishers can either sell and embed advertisements in the articles, keeping all of the revenue, or allow Facebook to sell ads, with the social network getting 30 percent of the proceeds. Facebook is also permitting the news companies to collect data about the people reading the articles with the same tools they use to track visitors to their own sites.
+这些新闻出版商可以将各自销售的广告嵌入文章所在页面，并保留全部收入；也可以让Facebook出售广告，Facebook将抽走30%的收入。新闻公司会在自营网站上追踪网站访客，Facebook还允许这些公司使用同样的工具来收集读者数据。
+For publishers, the Facebook initiative represents the latest in a series of existential balancing acts. The social network, which has more than 1.4 billion active users worldwide, captures more attention of mobile users — and prompts more visits to news sites — than virtually any other service.
+对出版商而言，Facebook的这一创举同它以往兼顾各方的举措一脉相承。Facebook在全世界有超过14亿活跃用户，它受到的手机用户的关注，以及向新闻网站带去的访问量，都超过了其他社交网络服务。
+Publishers have little choice but to cooperate with Facebook, said Vivian Schiller, a former executive at NBC, The New York Times and Twitter who now advises media companies and brands. “That’s where the audience is,” Ms. Schiller said. “It’s too massive to ignore.”
+曾在NBC、《纽约时报》和Twitter担任高管，目前为媒体公司以及各品牌提供咨询服务的维维安·席勒(Vivian Schiller)表示，除了与Facebook合作，出版商几乎别无选择。“受众都在Facebook上，”席勒说，“规模太庞大，不容忽视。”
+But Facebook’s role as a powerful distributor of news makes many people in the industry uneasy. The fear is that it could become more of a destination than their own sites for the work they produce, drawing away readers and advertising.
+但Facebook变身为强大的新闻发行商，让许多新闻从业者感到不安。他们担心，他们制作的内容会更多地以Facebook为目的地，而不是自身的网站，导致读者和广告业务的分流。
+James Bennet, editor in chief of The Atlantic, one of the project’s initial publications, said that publishing pieces through instant articles means “losing control over the means of your distribution.” On the other hand, he said, “we’re trying to get out stories to as many people as possible, and at the same time, continue to build a core, loyal, enthusiastic audience.”
+《大西洋月刊》(The Atlantic)总编辑詹姆斯·班内特(James Bennet)称，使用即时文章功能发布新闻报道，意味着“失去对发行渠道的控制权”。另一方面，他说，“我们也在一边努力地让更到人看到我们的报道，一边继续构筑忠诚、热情的核心受众群。”
+Facebook has a long history of changing the algorithm that determines what people see in their feeds. Zynga, the mobile gaming company, built its business on Facebook only to lose much of its traffic when the company changed the rules to make a user’s game activity less visible to friends.
+长期以来，Facebook一直不断更改用以决定用户会在信息流中看到哪些内容的算法。Zynga是一家依赖Facebook的手机游戏公司。Facebook更改算法后，用户的游戏活动呈现给朋友的频率降低了，这一举动曾让Zynga的流量大幅下降。
+Last year, Facebook decided to downgrade the prominence of viral content like cat videos and promote “high quality” news content. A month ago, it changed course again to highlight personal posts by users’ friends and family.
+去年，Facebook决定改变病毒式传播内容（如猫咪视频等）满目皆是的局面，要推广“高品质”的新闻内容。一个月前，它再次更改算法，突出了用户的朋友和家人发布的私人帖子。
+Chris Cox, Facebook’s chief product officer, was unapologetic about the shifting rules. In an interview at the company’s Silicon Valley headquarters, he said that Facebook’s mission was to give its users what they wanted most.
+Facebook首席产品官克里斯·考克斯(Chris Cox)并未因为算法变来变去而感到抱歉。他在位于硅谷的Facebook总部接受采访时表示，该公司的使命是为用户提供他们最想要的东西。
+“We see ourselves as first helping people connect with friends and family,” Mr. Cox said. “And second, helping people be informed about the world around them.”
+“我们认为自己首先要帮助人们与朋友和家人相联系，”考克斯说。“其次才是帮助人们了解身边的世界。”
+The Atlantic is going into the Facebook deal with its eyes open, Mr. Bennett said, referring to the prospect that Facebook might be in a position to dictate less favorable terms if its importance to publishers increases.
+班内特表示，《大西洋月刊》会在参与Facebook这个项目时保持警惕。他提到，在Facebook对出版商越来越重要时，它可能就会借势强加不利于出版商的条款。
+Five American organizations are initially participating in the instant articles project and will publish one item each on Wednesday in the new format: BuzzFeed, National Geographic, The Atlantic, NBC News and The Times.
+最初将有五家美国机构参与即时文章项目，分别是BuzzFeed、《国家地理》(National Geographic)杂志、《大西洋月刊》、NBC新闻和《纽约时报》。每周三，它们各自都将以新的格式发布一篇文章。
+Four European outlets are also joining: The Guardian, BBC News, Bild and Spiegel Online. Over time, Facebook expects to add other publishers to the project, which is officially a test, and expand it beyond the iPhone version.
+还有四家欧洲媒体参与：《卫报》(The Guardian)、BBC新闻(BBC News)、《图片报》(Bild)和明镜在线(Spiegel Online)。Facebook也希望，其他出版商也能逐步加入该项目，并将其扩大到iPhone版本之外的设备上。该项目的正式状态还是测试。
+For The Times, Facebook represents from 14 to 16 percent of its web traffic — a figure that has doubled in recent months, according to Mark Thompson, chief executive of The New York Times Company.
+对时报来说，Facebook代表了14%到16%的网络流量。据纽约时报公司首席执行官马克·汤普森(Mark Thompson)介绍，这个数字在最近几个月翻了一番。
+“This is a chance to expand and explore whether Facebook can become an even bigger part,” Mr. Thompson said. On balance, the company felt that it was an experiment worth taking part in, he added. Articles on Facebook will not initially count against the 10 free items people who are not Times subscribers are allowed to read each month.
+汤普森说，“这是一个扩大和探索Facebook能不能为我们带来更多流量的机会。”他接着表示，总的来说公司认为这个尝试值得参加。起初，Facebook上的文章不会算在非时报订阅用户每月可以免费阅读的10篇文章之内。
+Facebook is offering publishers new tools to showcase their work, including interactive maps and the ability to post high-resolution photos that readers can zoom into and view from any angle.
+Facebook正在向出版商提供展示内容的新工具，包括交互式地图，以及发布高清图片的功能。这种照片读者可以从任何角度查看和放大。
+“We’re not trying to position Facebook as a replacement for a newspaper, or a radio show that you love, or TV, at all,” Mr. Cox said. “We can be complementary.”
+“我们完全不是在试图将Facebook定位成报纸，或者你喜欢的广播或电视节目的替代品，”考克斯说。“我们可以互补。”
+Facebook clearly plays an important role as a gatekeeper to news. Nearly half of American Internet users said they got news about politics and government on Facebook during the course of a week, almost as many as got such news from local television, according to a survey last year by the Pew Research Center.
+Facebook明显扮演着新闻守门人的重要角色。从皮尤研究中心(Pew Research Center)去年的一项调查来看，近一半的美国网络用户表示，一周之中会在Facebook上获取有关政治和政府的新闻，几乎与从地方电视台上收看这类新闻的人一样多。
+Jonah Peretti, chief executive of BuzzFeed, said the instant articles format enhances the current approach of simply posting links.
+BuzzFeed的首席执行官乔纳·佩雷蒂(Jonah Peretti)表示，与目前只是发布链接的方式相比，即时文章的格式是一种改进。
+“The look and feel of this feels more like an app,” Mr. Peretti said in an interview. “I think that our bundle of content will get even more compelling when it loads faster.”
+“这样的外观和操作感受更像是一款应用，”佩雷蒂在接受采访时说。“我觉得，如果加载速度更快，我们输出的内容也会更有吸引力。”
+Declan Moore, chief media officer of the National Geographic Society, said the appeal of instant articles was the speed with which items, even those with complex video and interactive maps, loaded once a mobile Facebook user clicked on them. “The No. 1 thing on mobile is it has to be fast,” he said.
+国家地理学会(National Geographic Society)的首席媒体官德克兰·穆尔(Declan Moore)表示，即时文章的吸引力在于Facebook用户在移动端点击之后，新闻的加载速度，哪怕是那些配有复杂视频和交互式地图的新闻。“在移动设备上第一位的是必须要快，”他说。
+National Geographic, which gets about 25 percent of its traffic from Facebook, is one of the most popular news outlets on the service, with 35 million fans. Mr. Moore said that National Geographic had a long history of putting its content on as many platforms as possible.
+《国家地理》有大约25%的流量来自Facebook，也是该平台上最受欢迎的新闻媒体之一，有3500万名粉丝。穆尔表示，长期以来，国家地理一直都在把自己的内容，输出到尽可能多的平台上。
+It intends to use Facebook as a way to encourage more people to sign up for membership, he said. Indeed, its first instant article, about bees, will include two ads encouraging people to join.
+他说，《国家地理》打算把Facebook当成一个鼓励更多人成为会员的途径。实际上，它的第一篇即时文章，就将包含两条鼓励人们成为会员的广告，那篇文章是关于蜜蜂的。
+The New York Times has been cautious about the Facebook program, viewing it as an experiment that could help it learn more about subscribers and potential subscribers who are reading its articles on Facebook.
+时报一直对Facebook的项目持谨慎态度，认为这种新尝试会帮助Facebook更多地了解在其平台上阅读时报文章的订户和潜在订户。
+Unlike many news publishers, The Times generates significant revenue from digital subscriptions as well as online advertising, and the company is keenly interested in finding new ways to convert casual visitors to paid subscribers.
+与许多新闻出版商不同，时报的数字订阅和在线广告业务创造了大量营收，公司迫切希望找到新的方法，把偶尔访问的读者转变为付费的订户。
+The publishers said they did not plan to put more than a few articles a week into the new format, at least at first.
+参加项目的出版商说，它们每周只会以这种新格式发布几篇文章，至少一开始是这样。
+Facebook says it wants to be a good partner to news organizations. It began discussing its idea with around 20 publishers last August and tried to address the concerns they raised.
+Facebook表示，它想要成为新闻机构的好伙伴。该公司从去年8月开始与大约20家出版商讨论这个想法，并试图解决他们提出的关切。
+“We’re starting with something that we think is going to work for some publishers for some articles and for some business models,” Mr. Cox said. “We’re not trying to go, like, suck in and devour everything.”
+“我们一开始只打算做我们认为对某些出版商的某些文章和某些商业模式管用的东西，”考克斯说。“我们不打算一张嘴吞掉一切。”

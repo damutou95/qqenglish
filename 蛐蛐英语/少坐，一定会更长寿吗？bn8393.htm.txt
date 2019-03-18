@@ -1,0 +1,34 @@
+If people need motivation to get up from their office chairs or couches and become less sedentary, two useful new studies could provide the impetus. One found that sitting less can slow the aging process within cells, and the other helpfully underscores that standing up — even if you are standing still — can be good for you as well.
+如果人们需要一些动力才愿意从办公椅和沙发上站起来，少坐一会儿，那么两项有用的新研究能提供这种动力。其中一项研究发现，少坐能减缓细胞衰老速度；另一项研究强调站立——哪怕只是静静地站着——也对健康有益。
+For most of us nowadays, sitting is our most common waking activity, with many of us sitting for eight hours or more every day. Even people who exercise for an hour or so tend to spend most of the remaining hours of the day in a chair.
+静坐是我们大部分人清醒时最常见的状态，很多人每天坐八小时以上。甚至连那些每天锻炼一小时左右的人其他大部分时间也都是坐着。
+The health consequences of this sedentariness are well-documented. Past studies have found that the more hours that people spend sitting, the more likely they are to develop diabetes, heart disease and other conditions, and potentially to die prematurely — even if they exercise regularly.
+久坐会带来健康隐患，这一点证据确凿。过去的研究发现，人们坐的时间越长，越有可能患上糖尿病和心脏病等疾病，甚至可能早死——即使进行有规律地锻炼。
+But most of these studies were associational, meaning that they found a link between sitting and illness, but could not prove whether or how sitting actually causes ill health.
+但是这些研究大多得出的是关联性结论，也就是说，它们发现久坐与患病有关，但是不能证明久坐是否的确或者如何导致健康问题。
+So for the most groundbreaking of the new studies, which was published this month in the British Journal of Sports Medicine, scientists in Sweden decided to mount an actual experiment, in which they would alter the amount of time that people spent exercising and sitting, and track certain physiological results. In particular, with this experiment, the scientists were interested in whether changes in sedentary time would affect people’s telomeres.
+到目前为止，新研究中最具突破性的是本月在《英国运动医学杂志》(British Journal of Sports Medicine)上发表的研究——瑞典科学家们决定进行一项实际实验，他们在实验中改变人们锻炼和静坐的时间长度，然后追踪某些生理后果。科学家们对这个实验最感兴趣的是，这些改变是否会影响人们的染色体端粒。
+If you are unfamiliar with the componentry of your genes, telomeres are the tiny caps on the ends of DNA strands. They shorten and fray as a cell ages, although the process is not strictly chronological. Obesity, illness and other conditions can accelerate the shortening, causing cells to age prematurely, while some evidence suggests that healthy lifestyles may preserve telomere length, delaying cell aging.
+你可能对基因的组成部分不太了解，所以我简单介绍一下，染色体端粒是DNA链条末端的小帽子。随着细胞老化，它们会缩短、磨损，不过这一过程不完全由时间决定。肥胖、疾病和其他健康问题会加速端粒缩短，导致细胞提前老化，而有些证据表明健康的生活方式能维持端粒长度，延缓细胞衰老。
+For the new experiment, the Swedish scientists recruited a group of sedentary, overweight men and women, all aged 68, and drew blood, in order to measure the length of telomeres in the volunteers’ white blood cells. Then half of the volunteers began an individualized, moderate exercise program, designed to improve their general health. They also were advised to sit less.
+为了这个新实验，瑞典科学家招募了一群习惯久坐的68岁超重男女，采血测量他们白细胞中端粒的长度。然后，其中一半志愿者开始个性化的适度锻炼计划，旨在提高总体健康状况。同时建议他们少坐。
+The other volunteers were told to continue with their normal lives, although the scientists urged them to try to lose weight and be healthy, without offering any specific methods.
+科学家们让其他志愿者继续像往常那样生活，但是鼓励他们尽量减肥，保持健康，不过没有提供具体方法。
+After six months, the volunteers all returned for a second blood draw and to complete questionnaires about their daily activities. These showed that those in the exercise group were, not surprisingly, exercising more than they had been previously. But they were also, for the most part, sitting substantially less than before.
+六个月后，志愿者们第二次抽血，完成关于日常活动的问卷。结果表明，锻炼组的人不出所料比从前锻炼得更多。但是他们大部分人坐的时间也比从前少了很多。
+And when the scientists compared telomeres, they found that the telomeres in the volunteers who were sitting the least had lengthened. Their cells seemed to be growing physiologically younger.
+科学家们在比较端粒时发现，坐得最少的志愿者的端粒延长了。从生理上讲，他们的细胞似乎更年轻了。
+Meanwhile, in the control group telomeres generally were shorter than they had been six months before.
+与此同时，控制组志愿者的端粒总体来说比六个月前更短了。
+But perhaps most interesting, there was little correlation between exercise and telomere length. In fact, the volunteers in the exercise group who had worked out the most during the past six months tended now to have slightly less lengthening and even some shortening, compared to those who had exercised less but stood up more.
+但是也许最有趣的是，锻炼与端粒长度之间几乎没有联系。实际上，在锻炼组中，在这六个月里锻炼最多的人与锻炼得不多但是站立时间更长的人相比，端粒增长得略微少一些，有些甚至缩短了。
+Reducing sedentary time had lengthened telomeres, the scientists concluded, while exercising had played little role.
+科学家们得出结论，减少静坐时间延长了端粒长度，而锻炼对此几乎毫无作用。
+Exactly what the volunteers did in lieu of sitting is impossible to say with precision, said Per Sjögren, a professor of public health at Uppsala University in Sweden, who led the study, because the researchers did not track their volunteers’ movement patterns with monitors. But “it’s most likely,” he said, that “sitting time was predominantly replaced with low-intensity activities,” and in particular with time spent standing up.
+这项研究的领导者、瑞典乌普萨拉大学的公共健康教授佩尔·肖格伦(Per Sjögren)说，志愿者们用什么活动来代替静坐无从准确得知，因为研究者们没用监测器追踪志愿者们的活动模式。但是他说，“最可能的情况是，静坐时间主要是被低强度的活动代替”，尤其是站立。
+Which makes the second new study of sedentary behavior particularly relevant. Standing is not, after all, physically demanding for most people, and some scientists have questioned whether merely standing up — without also moving about and walking — is sufficiently healthy or if standing merely replaces one type of sedentariness with another.
+这让另一项关于静坐行为的新研究显得格外重要。毕竟，对大多数人来说，站立不是生理需求。有些科学家质疑，只是站立——不动，也不行走——是否足够健康；站立是否只是另一种形式的久坐。
+If so, standing could be expected to increase health problems and premature death, as sitting has been shown to do.
+如果是这样的话，站立可能会和静坐一样增加健康问题，导致早逝。
+To find out whether that situation held true, Peter Katzmarzyk, a professor of public health at the Pennington Biomedical Research Center in Baton Rouge, La., and an expert on sedentary behavior, turned to a large database of self-reported information about physical activity among Canadian adults. He noted the amount of time that the men and women had reported standing on most days over the course of a decade or more and crosschecked that data with death records, to see whether people who stood more died younger.
+为了弄清那种情况是否属实，路易斯安那州巴吞鲁日彭宁顿生物医学研究中心的公共健康教授、静坐行为研究专家彼得·卡兹马兹克(Peter Katzmarzyk)开始研究一个巨大的数据库，里面是加拿大成年人自我陈述的身体活动信息。他记下那些人在十年或更长时间内大部分日子里站立的时间，与死亡档案里的数据交叉检查，看看那些站得更多的人是否死得更早。

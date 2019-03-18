@@ -1,0 +1,60 @@
+There are some things you just don’t expect to read about in a column about electronics. Gluten-free waffles, for example. Ferrets. Moist towelettes.
+有些东西估计你不会指望在一篇关于电子产品的专栏文章上读到，例如无麸质华夫饼、雪貂和湿纸巾。
+And you’d probably expect that list to include pianos.
+你大概还认为其中也包括钢琴。
+No, not digital pianos. Not those plastic, flat appliances with 983 instrument sounds and realism that would fool nobody. I mean real pianos, the kind in concert halls, clad in glistening black lacquer, with three pedals and wooden keys that make felt-covered hammers strike taut metal strings. Those instruments have always been strictly analog. And very expensive.
+不，我说的不是数码钢琴。并不是那些塑料的扁平电器，带有983种乐器声音，实际上却骗不了任何人。我指的是真正的钢琴，它会出现在音乐厅里，涂着闪闪发光的黑漆，有三个踏板和木质琴键，令毛毡覆盖的琴锤敲打紧绷的金属琴弦。这种乐器一向都是机械的，而且很贵。
+A few years ago, Yamaha tried a crazy experiment. What if it produced a grand piano that was traditional in almost every respect — except that it replaced strings with sensors? What if the sound came from painstakingly recorded audio snippets, or samples, of each string from a $120,000 top-of-the-line grand piano, reproduced through a set of high-end speakers?
+几年前，雅马哈进行了一次疯狂的实验。如果以几乎完全传统的方法制作一架三角钢琴，除了以传感器代替琴弦，会怎样？如果声音来自精心录制的音频片段或曲样，这些片段又都来自一架12万美元（约合73.4万元人民币）的顶级三角钢琴，且通过一系列高端扬声器来播放呢？
+The result was the AvantGrand N3, a gorgeous baby grand hybrid piano that you can buy today for about $15,000. (Yamaha won’t reveal its pianos’ street prices, only ludicrously high suggested retail prices. The prices printed here come from Chicago’s Grand Piano Haus, but the three other dealers I called across the country were in the same ballpark.)
+其结果就是AvantGrand N3，这是一架非常漂亮的小型卧式钢琴，现在你可以用差不多1.5万美元买到。（雅马哈不会透露其钢琴的市价，只有高得近乎荒谬的建议零售价。这里标记的价格来自芝加哥的“三角钢琴屋”[Grand Piano Haus]，不过我打电话询问的美国其他三名经销商的报价也大致相同。）
+The feel of the N3’s wooden keys and hammers is identical to those on Yamaha’s real pianos; you even feel the keys subtly vibrate when you strike them hard, exactly as on a real piano. The samples and speakers are so good, most players would not even realize it’s not a real grand piano.
+N3的木质琴键和琴锤的感觉就和那些真正的雅马哈钢琴一样；当你用力弹琴时，你甚至可以感到琴键的微妙震动，恰如一部真正的钢琴。声音取样和扬声器是如此之好，以致于大多数演奏者甚至都不会察觉，这不是一架真正的三角钢琴。
+Then came the N2, a space-saving “upright grand” version with the same features ($11,000). And the N1, a less expensive upright ($8,000).
+随后有了N2，一个节约空间的“立式三角”版本，具有相同的特性与功能（1.1万美元）。还有N1，一款不那么昂贵的立式钢琴（8000美元）。
+All these pianos offer a few towering advantages over stringed pianos. First, they never need tuning. That’s a very big deal; real pianos have to be professionally tuned, string by string (there are about 230 of them on a grand piano), especially if they’re in rooms that aren’t humidity- and temperature-controlled. That’s pricey and time-consuming.
+所有这些钢琴都比有弦的钢琴具有一些突出的优势。首先，他们从不需要调音。这实在是件大事，真正的钢琴必须经过专业调音，一根弦接一根弦地进行（一架三角钢琴上有230根弦），特别是那些不在具备湿度和温度控制的房间里的钢琴。这一步骤昂贵而又耗时。
+Second, you can turn the volume up or down, or listen through headphones. That makes hybrids sensational for apartments, dorm rooms or anywhere else that your practicing might disturb others. Turning the speakers down is also useful when you’re accompanying a singer or soloist whose volume is no match for your impassioned playing.
+其二，你可以把音量调大或调小，或者通过耳机来听。这让混合钢琴极为适合公寓、宿舍或任何你的练习可能会打扰别人的地方。当你与一名歌唱者或独奏者合作时，如果对方的音量赶不上你的激情演奏，把扬声器音量调低也非常管用。
+Finally, hybrid pianos are much smaller and lighter than real ones. The N3, for example, sounds like a nine-foot grand, but it’s only four feet long.
+最后，混合钢琴比真钢琴要小得多，也轻得多。例如，N3听上去就像是九尺三角钢琴，但它只有四尺长。
+The only thing Yamaha never managed to do is fix the price. Real upright pianos usually cost $5,000 to $15,000; the world’s best selling piano, for example, is Yamaha’s U1 upright, which costs $7,500. And real grand pianos cost $10,000 to $50,000. So Yamaha’s hybrids may save space, weight and tuning, but they don’t save you much money.
+雅马哈唯一未能做到的就是搞对价格。一架真正的立式钢琴的价格通常在5000美元到1.5万美元之间；例如，世界上销量最大的钢琴，即雅马哈的U1立式钢琴的价格为7500美元。一架真正的三角钢琴的价格为1万美元到5万美元，所以，虽然雅马哈的混合钢琴或许能节省空间，重量更轻，也不用调音，但是却没能给你省多少钱。
+That, no doubt, is why Yamaha has now introduced a fourth AvantGrand model, the NU1 upright hybrid — with a street price of about $4,500. Finally, there’s a hybrid that costs less than its analog counterpart.
+毫无疑问，这就是为什么雅马哈现在要推出第四款AvantGrand系列产品——NU1立式钢琴的原因，其市价约为4500美元。这个系列终于有了一台价格较低的混合钢琴。
+The question is, how much of the AvantGrand amazingness did Yamaha have to leave out to reach that price?
+问题是，雅马哈要去除AvantGrand系列的多少特性，才能达到这个价格呢？
+First, the good news: the NU1 is still a beautiful, shiny black upright piano, a magnificent-looking piece of furniture — but it’s even more compact. It’s about 18 inches deep and 40 inches tall, making it fantastic for small spaces. (This means you, inhabitants of practice rooms and Manhattan apartments.)
+首先，好消息是：NU1仍然是一架漂亮、锃亮的黑色立式钢琴，一件外观相当不错的家具——但是它更加小巧。它宽约18英寸，高40英寸，对于狭小空间来说非常理想。（说的就是你，穿梭于练习室和曼哈顿公寓之间的人们。）
+It still has the real wooden keys and hammer mechanism — or “action,” as pianists call it — that makes all of these hybrids feel exactly the same as a real piano, giving you all of the same expressive capability. The action on the NU1 mimics the one on a real upright, meaning that it’s not quite as great as the ones on the N1, N2 and N3, which all feel like grand pianos. But it responds to heavy playing, light playing, fast playing, grace notes and clomping chords exactly the way an upright piano would.
+它仍拥有真正的木质琴键和琴锤系统——或者说是钢琴弹奏者所谓的“活动部件”，这一切都让混合钢琴弹起来感觉和真正的钢琴一样，能够为你提供一样的表现力。NU1上的活动部件对真正的立式钢琴进行了模仿，也就是说它并不像N1、N2和N3上的那样出色，那三款的活动部件感觉很像三角钢琴。但是，它对重击、轻弹、快弹、装饰音和重和弦的反应与立式钢琴基本相差无几。
+And the NU1 still produces sound recorded from the strings of one of the world’s finest pianos.
+而且，NU1弹出的声音仍然录自世界上最好的钢琴之一。
+Buying this budget model does, however, entail giving up some goodies. Most of them are minor. For example, this piano has white plastic on the tops of its wooden keys, rather than the synthetic ivory on the N2 and N3.
+但是，购买这款廉价型号必需放弃一些好处。这些好处大多都不太重要。例如，这架钢琴的木质琴键上覆盖着白色塑料，而不像N2和N3那样采用了人造象牙。
+The NU1 also lacks the two features that the more expensive AvantGrand pianos use to create subtle, realistic resonance and vibration: what Yamaha calls the Tactile Response System (the keys vibrate slightly) and the Soundboard Resonator (a flat-panel oscillating unit, on the N3 grand, that replicates the vibration of the strings themselves “singing”). Only a hard-core pianist would notice that these features are gone.
+NU1也没有更昂贵的AvantGrand钢琴所采用的两个特色功能，这两个功能都可以创造出细微而真实的共鸣和振动：雅马哈称其为触觉反应系统（Tactile Response System，即琴键的轻微震颤）和音响共鸣器（Soundboard Resonator，在N3三角钢琴上，这个平板振荡装置可以复制琴弦震动的声音）。只有高级钢琴弹奏者才会注意到这些特性的消失。
+Even a novice, however, will immediately miss the realism of the NU1’s sound. It’s just not as convincing as the other hybrids.
+然而，连初学者也会很快注意到NU1的声音有些失真。它的声音就是不像其他混合钢琴一样足以以假乱真。
+Part of the problem is the way the sounds were recorded. On the fancier pianos, Yamaha placed four microphones at carefully selected spots inside the piano; they’re reproduced in speaker configurations placed at the same positions. From where you sit as you play, the sound seems incredibly resonant and realistic.
+部分问题在于声音的录制方式。对于更贵的钢琴，雅马哈会仔细在钢琴内部挑选放置四个麦克风的地方；然后放在相同位置的扬声装置会对它们进行复制。这样，你在弹琴的时候，从你坐的地方听到的声音就会非常洪亮而真实。
+But not on this piano. The samples were recorded in stereo, and the speakers aren’t as sophisticated or as plentiful (4 instead of 12). As a result, the sound seems somehow flat, somehow slightly canned. It’s light-years better than what you’d hear on a typical synthesizer or digital piano; from the next room, you’d swear you were listening to a real piano. But the NU1’s sound simply isn’t as rich as the other N-series pianos.
+但这些都没有用在NU1上。样音是用立体声录制的，扬声器没那么精密，数量也没那么多（是4个，而非12个）。结果，声音听起来多少有点平淡，也稍微有点像是预先录制的。不过，它把普通合成器或电子琴发出的声音甩出几光年远；从隔壁房间，你会发誓，听到的声音来自真正的钢琴。但是，NU1的声音就是不及N系列的其他产品来得丰富。
+All of that changes when you listen through headphones or connect the piano’s output jack to a better sound system. Suddenly you’re hearing the fullness and depth of the original samples — and they’re spectacular.
+如果戴上耳机，或者是将更好的音响连到钢琴的外放插口上，一切就变了。突然之间，你就能听出原音的广度和深度，真是太棒了。
+Of course, the NU1 is digital. And so, as on its predecessors, it offers a few buttons that expand its flexibility. For example, you get a choice of keyboard sounds: two grand piano sounds, two electric pianos and an incredibly authentic-sounding harpsichord.
+当然，NU1是数码产品。因此，与同系列的前期产品一样，它提供了几个按钮可以扩展自身的灵活度。比方说，可以选择键盘音色：两种三角钢琴音色、两种电子钢琴音色，还有一种极其逼真的拨弦键琴音色。
+Buttons on the left-side control panel also let you transpose the entire instrument to a different key or fraction of a key, or even choose a different temperament, that is, a historical tuning; history buffs and music students know what that means.
+左侧控制面板上的按钮还能让你整体转到另一个全调或半调上，甚至还能选择不同的调律，也就是调音：历史迷和学音乐的人知道这是什么意思。
+You can connect a computer for recording and playback using MIDI software, through either the USB or the MIDI jacks on the back. You can also plug in a USB flash drive to save audio or MIDI recordings of your performances. And you get a built-in metronome, control over the amount of reverb (echo) you hear, and a choice of key sensitivity levels.
+你能通过背后的USB或MIDI插孔连上电脑，用MIDI软件进行录制和回放。你还能插上USB闪存，保存自己的演奏音频或MIDI录音。有个自带的节拍器，控制听到的混响（回音）量。还能选择音调的敏感度。
+The piano comes with 50 built-in classical-piano recordings and a printed book of the corresponding sheet music. Since you can slow down the playback, you wind up with a great way to learn these pieces.
+NU1自带50首经典钢琴曲录音，以及一本相应的曲谱。由于可以放慢回放的速度，你会获得一个相当不错的学会这些曲目的方式。
+With the N1, N2 and N3, Yamaha added phenomenal digital flexibility to its pianos without affecting their touch, their sound — or their price. The NU1 maintains the real touch of a piano and undercuts the price — with some sacrifice in sound quality.
+对于N1、N2和N3，雅马哈在没有影响它们的触感、声音——或价格的情况下，给它们增加了惊人的数码灵活性。NU1既保留了钢琴的真实触感，又降低了价格——只是音质有所牺牲。
+If you intend to perform on a hybrid piano, therefore, it’s probably worth the money to get Yamaha’s AvantGrand N2. It’s the upright with both the realistic action and the realistic sound of a real grand piano.
+如果你想用混合钢琴来表演，那么购买雅马哈的AvantGrand N2或许比较划算。这架立式钢琴既有真正的三角钢琴所有的真实活动部件，也拥有可以让人信服的真正钢琴的声音。
+But many people would happily sacrifice a little acoustical realism to save several thousand dollars. The compact, inexpensive NU1 makes a fantastic practice piano, apartment piano or starter piano — better, for most people, than an equivalently priced real piano.
+但是，许多人也愿意牺牲听觉上的真实性来节省几千美元。小巧而廉价的NU1是一架非常理想的练习用琴、对公寓或初学者来说极其合适——对大多数人而言，它都比价位相当的真钢琴要好。
+This line of products makes it clear that the beauty, clarity and expressiveness of real pianos has finally entered the digital age. Ferrets and waffles may take a little longer.
+这一系列产品表明，真钢琴的那种华丽感、清晰度和表现力终于进入了数码时代。而雪貂和华夫饼则可能需要更长的时间。

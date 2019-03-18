@@ -1,0 +1,14 @@
+A bedside light powered by the houseplant sitting next to it? It may be possible.
+盆栽植物给旁边的床头灯供电？这不是天方夜谭。
+Engineers in Sweden have managed to introduce electronic circuits into living plants, according to a new study in the journal Science Advances.
+根据《科学进展》杂志发表的一项新研究，来自瑞典的工程师们已在尝试将电子电路植入到活体植物当中。
+The scientists placed plant cuttings in water that contained a water-soluble polymer called PEDOT-S. After the plants absorbed the water, hardened polymer remained, distributed through the plant as a conductive “wire.” The researchers used rose cuttings in their study, as well as some living rose plants.
+科学家们将植物剪枝放入水中，水里含有一种被称作PEDOT-S的水溶性高聚物。当植物吸收水分后， 硬化聚合物被保留了下来，将植物作为导电“线”并通过其传播。在实验中，研究者们使用了一些玫瑰剪枝，也使用了一些活体玫瑰。
+By combining the wires with electrolytes naturally present in the plant, the researchers were able to create a transistor that converts electrochemical signals into electrical output.
+通过比较电线和植物中天然存在的电解质，研究者们能够发明一种晶体管，将电化学信号转化为电力输出。
+In the future, such a technology may help regulate plant physiology, perhaps controlling the rate or time flowers bloom, based on the weather or the availability of water, said Magnus Berggren, a materials engineer at Linköping University and one of the study’s authors.
+马格努斯.伯格伦（Magnus Berggren）介绍说， 在将来，这项科技可以用来调节植物的生理机能，甚至，还可以基于天气或水的供给来控制花朵开花的频率和次数。马格努斯.伯格伦是林雪平大学（Linköping University ）的一名材料工程师，也是该项研究的作者之一。
+But the experiment also suggests it may be possible to harvest energy from plants and trees. The amounts would be limited, but a few volts might be enough to power small gadgets.
+但是，该实验同样表明，从植物或树木中收集能源也是有可能实现的。虽然收集到的数量会比较有限，但是几伏特的电压对一些小玩意来说已经够用了。
+“Today the most natural way to convert the chemical energy of a tree is to burn it, but maybe we could actually gently tap out some of the energy without killing it,” Dr. Berggren said.
+柏格伦博士说“现在，我们将树木转换成化学能源最自然的方式是烧掉树木，但是也许我们真的可以以一种温柔的方式从中提取能源，而不需要杀死他们。”

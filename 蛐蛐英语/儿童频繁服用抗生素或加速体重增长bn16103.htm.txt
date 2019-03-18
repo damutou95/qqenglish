@@ -1,0 +1,20 @@
+Children who regularly use antibiotics gain weight faster than those who have never taken the drugs, according to new research that suggests childhood antibiotics may have a lasting effect on body weight well into adulthood.
+一项新的研究表明，对那些定期服用抗生素的儿童而言，他们的体重比不使用抗生素儿童要增加得更快，而且这种影响可能会持续到成年后。
+The study, published in the International Journal of Obesity, examined the electronic medical records of 163,820 children ages 3 to 18, counting antibiotic prescriptions, body weight and height. The records, which covered pediatric exams from 2001 through 2012, showed that one in five — over 30,000 children — had been prescribed antibiotics seven or more times. By the time those children reached age 15, they weighed, on average, about 3 pounds more than children who had received no antibiotics.
+这项发表在《国际糖尿病杂志》的研究涉及163820名年纪从3岁到18岁的儿童，研究人员查看他们服用抗生素的次数，身高以及体重的医疗记录。这些记录覆盖2001年到2012年这一时间段，结果表明有五分之一（超过3万名）儿童服用抗生素超过7次，待他们到15岁时，其体重比未服用抗生素的儿童平均要多3磅。
+While earlier studies have suggested a link between antibiotics and childhood weight gain, they typically have relied on a mother’s memories of her child’s antibiotic use. The new research is significant because it’s based on documented use of antibiotics in a child’s medical record.
+尽管之前有研究暗示服用抗生素和儿童体重增加之间存在联系，但是在这些研究中，儿童服用抗生素的次数多是依靠母亲的记忆。而这次研究要准确的多，其数据基于孩子们服用抗生素的处方记录。
+“Not only did antibiotics contribute to weight gain at all ages, but the contribution of antibiotics to weight gain gets stronger as you get older,” said Dr. Brian S. Schwartz, the first author and a professor in the department of environmental health sciences at the Johns Hopkins Bloomberg School of Public Health.
+Brain S. Schwartz博士说：“抗生素不仅会导致对所有年龄段人群的体重增加，而且年纪越大时该效果愈发明显。”Brian是本论文的第一作者，同时也是约翰霍普金斯公共卫生学院环境健康科学系的教授。
+Scientists have known for years that antibiotic use promotes weight gain in livestock, which is why large food producers include low doses of antibiotics in the diets of their animals.
+科学家之前就知道畜牧业中使用抗生素会导致牲畜体重增加，这也是为什么大型畜牧业公司在牲畜饲料中添加少量的抗生素。
+While researchers don’t know exactly why frequent use of antibiotics is associated with weight gain in children, it may be that the drugs wipe out the healthy bacteria in a child’s body. These may lead to permanent changes in the microbiome — the many and varied organisms that live in our gut. Shifts in the microbiome may change how food is broken down in our bodies, how food is absorbed and how many calories are released from foods.
+研究人员并不知道定期使用抗生素导致儿童体重增加的确切原因，他们推测可能和抗生素清除儿童体内的益生菌，永久性地改变肠道内的微生物种群有关。而这种变化可能影响食物在体内降解和吸收，以及有多少能量能从食物中释放出来。
+In July, a study of nearly 10,000 Danish schoolchildren found that a mother’s use of antibiotics during pregnancy was associated with a higher risk that her child would become overweight or obese.
+7月份，一项涉及10000名丹麦在校儿童的研究表明，那些母亲在怀孕期间服用抗生素的儿童，他们超重或肥胖的风险更大。
+The latest study linking frequent antibiotic use and weight gain doesn’t mean that parents should never give a child these medications. Some bacterial illnesses can be life-threatening without antibiotic treatment. However, researchers have documented that parents often want — and pressure pediatricians to give them — antibiotic prescriptions for ear infections and viruses that can’t be helped by the drugs.
+这项将定期使用抗生素和体重增加联系在一起的研究并不是让孩子拒绝使用抗生素。对一些细菌性疾病而言，如果不使用抗生素治疗可能会危及生命。但是研究人员说，父母常向儿科医生暗示，他们希望获得抗生素的处方用于治疗耳朵感染或者病毒性疾病，而事实上抗生素对上述疾病无效。
+For years the main concern about the overprescribing of antibiotics has been the fear that the drugs would eventually lose their effectiveness as bacteria develop drug resistance. The new research opens the door to a potential new strategy for curbing antibiotic use, warning parents that overuse has an immediate detrimental effect on a child’s health and puts them at risk for becoming fat.
+长期以来，人们主要关注抗生素滥用导致病菌可能产生耐药性这一问题。而这项新的研究给减少抗生素的使用提供一条新的理由：滥用抗生素的父母，你们的行为不仅会损害孩子的健康，而且还会宝宝变胖。
+“We’ve got to totally dissuade parents from advocating for antibiotics,’’ said Dr. Schwartz. “As parents we want to feel like we’re doing something active for our kids, but I think we’re doing our kids damage. If your doctor says you don’t need them, don’t take them. ”
+Schwartz博士说：“我们在劝告那些热衷使用抗生素的父母，作为家长我们希望自己所做的一切都对孩子有益，但是我认为你们是在伤害孩子。如果医生没有建议父母给孩子服用抗生素，那么就不要用。”

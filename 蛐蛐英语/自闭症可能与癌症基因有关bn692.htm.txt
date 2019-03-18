@@ -1,0 +1,72 @@
+Researchers studying two seemingly unrelated conditions — autism and cancer — have unexpectedly converged on a surprising discovery. Some people with autism have mutated cancer or tumor genes that apparently caused their brain disorder.
+从表面上来看，自闭症和癌症是两种风马牛不相及的疾病。然而，研究这两种疾病的科学家们却意外地得出了同一个惊人的发现：某些自闭症患者携带有突变型的癌症或肿瘤基因，很可能正是这些基因突变导致了他们的脑部功能紊乱。
+Ten percent of children with mutations in a gene called PTEN, which causes cancers of the breast, colon, thyroid and other organs, have autism. So do about half of children with gene mutations that can lead to some kinds of brain and kidney cancer and large tumors in several organs, including the brain. That is many times the rate of autism in the general population.
+PTEN基因的突变可引发乳腺、结肠、甲状腺以及其他器官发生癌症。在携带该突变的儿童中，有10%患有自闭症。而在携带可导致某些类型的脑癌、肾癌以及若干器官（包括脑部）大型肿瘤的突变基因的儿童中，自闭症患病率可达到约一半，是一般人群中该疾病患病率的数倍。
+“It’s eerie,” Evan Eichler, a professor of genome science at the University of Washington, said about the convergence.
+“真令人不寒而栗，”在谈及这一并发性时，华盛顿大学(University of Washington)的基因组科学教授埃文·艾克勒(Evan Eichler)说。
+He and others caution that the findings apply to only a small proportion of people with autism; in most cases, the cause remains a mystery. And as with nearly all genetic disorders, not everyone with the mutations develops autism or cancer, or other disorders associated with the genes, like epilepsy, enlarged brains and benign brain tumors.
+他和其他科学家告诫人们，该发现仅适用于一小部分的自闭症患者；大多数病例的病因仍是一个谜。而且，与几乎所有的遗传性疾病一样，并非每个基因突变携带者都会发生自闭症或癌症、或其他基因相关性疾病，如癫痫、脑部膨大和良性脑肿瘤等。
+But researchers say the findings are intriguing, given that there are no animals that naturally get autism, no way of analyzing what might cause autism in developing brains and no cure. The newly discovered link has enabled scientists to genetically engineer mice with many symptoms of the human disorder.
+但是，研究人员也表示，这些研究结果相当耐人寻味。鉴于目前尚无任何动物会自然发生自闭症，人们还无法分析导致发育中的脑部产生自闭症的原因，亦无法根治自闭症。这一新发现的关联启发科学家们对小鼠实施基因工程改造，使其表现出众多人类疾病的症状。
+And it has led to the first clinical trial of a treatment for children with autism, using the drug that treats tumors that share the same genetic basis.
+该发现还促使人们使用可治疗与自闭症具有共同遗传基础的肿瘤的药物，对自闭症患儿的治疗进行首次临床试验。
+Richard Ewing of Nashville, a 10-year-old who has a form of autism caused by a tumor-causing gene, is among those in the new study. His parents, Alexandra and Rick Ewing, know he is at risk for tumors in the brain, heart, kidney, skin and eyes. But that bad news was tempered by his eligibility for the clinical trial, which has only just started.
+纳什维尔的理查德·尤因(Richard Ewing)参与了这项刚刚起步的新研究，他今年10岁，患有致肿瘤基因引起的自闭症。他的父母，亚历山德拉(Alexandra)和里克·尤因(Rick Ewing)都清楚他存在罹患脑部、心脏、肾脏、皮肤和眼部肿瘤的风险。理查德符合参与临床试验的资格，这多多少少地缓和了癌症风险带来的阴影。
+“There is a big difference between us and the rest of the autism community,” Mr. Ewing said. “We have an honest-to-God genetic diagnosis.”
+“我们与其他自闭症群体之间存在重大的区别，”尤因先生说，“我们具备板上钉钉的遗传学诊断结果。”
+Not everyone agrees that the discovery is so promising. Steven McCarroll, a geneticist at Harvard, notes that autistic children with the cancer gene mutation have “a brain that is failing in many ways.” Autism in these children could be a manifestation of a general brain malfunction, he said, adding, “The fact that autism is one of the many neurological problems that arise in these patients doesn’t necessarily tell us anything penetrating about the social and language deficits that are specific to autism.”
+不过，并非所有人都如此看好这一发现。哈佛大学(Harvard)的遗传学家史蒂文·麦卡罗尔(Steven McCarroll)指出，携带致癌基因突变的自闭症患儿的“脑部在许多方面都存在功能障碍”。并补充道，“自闭症只是这些患儿表现出的众多神经系统问题之一，这一事实表明，社交和语言缺陷未必是自闭症的特有症状。
+But other scientists who are not involved in the research that produced these findings say the work is changing their understanding of autism and why it develops. Like cancer, autism can involve unregulated growth of cells, in this case neurons in the brain.
+但据未参与得出上述结果的研究的其他科学家称，这一工作改变了他们对自闭症及其发生原因的认识。就像癌症一样，自闭症也可能涉及不受调控的细胞增殖，只是在自闭症中，这种情况发生在脑部神经元。
+Jonathan Sebat, chief of the Center for Molecular Genomics of Neuropsychiatric Diseases at the University of California, San Diego, describes the parallels between cancer and autism as “quite uncanny.”
+加州大学圣迭戈分校(University of California, San Diego)精神疾病分子基因组学中心(Center for Molecular Genomics of Neuropsychiatric Diseases)的负责人乔纳森·塞巴特(Jonathan Sebat)认为，癌症与自闭症具有相似性这一点“相当不可思议”。
+“We haven’t solved it all; we have only solved a tiny bit,” he added. “But the small bit we solved has been very illuminating.”
+“目前我们只解决了其中的一小部分问题，”他补充道，“但仅仅这一点点成果已经为我们带来了不少启示。”
+It was Dr. Charis Eng, a cancer geneticist at the Cleveland Clinic, who first noticed a surprising incidence of autism in children whose parents had the PTEN mutation (pronounced p-10). Eventually, investigators discovered that the rate of autism was 10 percent, about 10 times what would normally be expected.
+克利夫兰诊所(Cleveland Clinic)的癌症遗传学家卡丽丝·恩格(Charis Eng)博士首先发现了在父母携带PTEN基因突变的儿童中，自闭症发病率惊人地高。最终，研究表明，该人群中的自闭症患病率可达10%，约为通常预期值的10倍左右。
+At the same time, researchers found that another genetic disorder was even more likely to result in autism. That disorder, tuberous sclerosis, increases the risk for kidney cancer and a type of brain cancer; half of tuberous sclerosis patients had autism.
+与此同时，研究人员发现，另一种遗传性疾病更可能导致自闭症。此病名为结节性硬化症，其患者发生肾癌和某一类脑癌的风险均有所增加；而且，有约半数的结节性硬化症患者同时患有自闭症。
+Although PTEN and tuberous sclerosis genes are not the same, they are part of the same network of genes that put a brake on cell growth. Disabling PTEN or one of the tuberous sclerosis genes releases that brake. One result can be cancer or tumors. Another can be abnormal wiring of nerve fibers in the brain and autism.
+虽然PTEN与结节性硬化症基因并不一致，但它们都隶属于可限制细胞生长的同一基因网络。当PTEN或某一结节性硬化症基因失效时，这一限制作用也随之失效，从而引发癌症或肿瘤，或造成脑部神经纤维的异常联接和自闭症。
+Dr. Mustafa Sahin of Boston Children’s Hospital decided to test whether drugs used to treat tumors caused by tuberous sclerosis gene mutations might also treat autism in people with the same mutated genes.
+波士顿儿童医院(Boston Children’s Hospital)的穆斯塔法·沙欣(Mustafa Sahin)博士决定进行一项研究，以测试可治疗因结节性硬化症基因突变导致的肿瘤的药物是否也可用于治疗具有相同突变基因的自闭症患者。
+He started with mice, deleting tuberous sclerosis genes in their cerebellums. Nerve fibers in the animals’ brains grew wildly, and the mice had unusual behaviors, reminiscent of autism. They had repetitive movements and groomed themselves constantly, so much that they sometimes rubbed their skin raw. And unlike normal mice, which prefer other mice to an inanimate object, these mice liked a plastic cup just as much.
+这项研究从小鼠开始。沙欣博士敲除了小鼠小脑中的结节性硬化症基因。这些小鼠脑部的神经纤维开始疯狂地生长，小鼠本身也表现出让人很容易联想到自闭症的异常行为：重复相同的动作，不停地梳理毛发以至于有时甚至将皮肤摩擦到红肿。正常小鼠总是更乐于与其他小鼠亲近，对无生命的物体则兴趣缺缺，但这些小鼠不同，在它们眼里，同类跟塑料杯子似乎并没有多大区别。
+But rapamycin, which targets the tuberous sclerosis gene and blocks a protein involved in cell division, changed the animals. They no longer compulsively groomed themselves, and they no longer liked the plastic cup as much as a live mouse. The animals did better on tests of learning and memory, and the growth of nerve fibers in their brains was controlled. Before treatment, for example, the mice had trouble learning that an underwater platform had been moved. Afterward, they learned its new location.
+但是，一种名为雷帕霉素(rapamycin)的药物（该药物以结节性硬化症基因为靶点，并可阻断参与细胞分裂的蛋白质）使这些动物发生了改变。它们不再表现出强迫性的梳理行为，也不再对塑料杯子和活蹦乱跳的小鼠一视同仁。这些动物在学习和记忆测试中的成绩有所改善，脑部神经纤维的生长也得到了控制。例如，在治疗前，小鼠们总也无法明白水下的平台已被人移动了位置。但在治疗后，它们很快发现平台换了新位置。
+Now Dr. Sahin is giving a similar drug, everolimus, to autistic children with a tuberous sclerosis gene mutation, asking if it can improve their mental abilities. Richard is among the children. Each child takes the drug or a placebo for six weeks. The study is scheduled to be completed by December 2014.
+如今，沙欣博士正对携带结节性硬化症基因突变的自闭症患儿使用一种类似的药物依维莫司(everolimus)，旨在探讨该药物能否改善他们的心理能力。理查德就是这些参与研究的患儿之一。他们分别服用药物或安慰剂，共计持续六周。该研究计划于2014年12月完成。
+While Dr. Eng started with cancer gene mutations and discovered a link to autism, Dr. Eichler, of the University of Washington, started with autism and found a connection to cancer genes.
+恩格博士的研究是从癌症基因突变入手，然后发现它们与自闭症之间存在关联，而华盛顿大学的艾克勒博士则是从自闭症着手研究，然后发现其与癌症基因有关。
+He focused on what he calls “out of the blue autism,” which occurs with no family history, recruiting 209 families with autistic children.
+他将自己重点研究的这类没有家族史的自闭症称为“意外发生的自闭症”，并招募了209个家有自闭症患儿的家庭。
+He saw a striking genetic difference. Compared with their parents and normal siblings, the autistic children had two to three times as many mutations that disabled a gene. The mutated genes were often part of a pathway that controls cells growth. At first, the researchers thought the pathway was ubiquitous, and its link to autism was murky.
+他发现了显著的遗传学差异。在自闭症患儿中，可导致基因失活的突变多至其父母和正常同胞兄弟姐妹的两到三倍。这些突变基因往往是调控细胞生长的某一途径的一部分。起初，研究人员以为该途径广泛存在，其与自闭症之间的关联并不明确。
+“We were a bit bummed,” Dr. Eichler said. “Then I said: ‘Wait, some of those genes are cancer genes.’ ”
+“我们有点失望，”艾克勒博士说，“然后我说：‘等一下，其中有几个基因是癌症基因。’”
+But he does not yet know whether these children with autism are also at risk for cancer.
+但目前他还不清楚这些自闭症患儿是否也存在癌症风险。
+“It’s obviously a significant issue,” Dr. Eichler said. “But we need to let the science nail it first.”
+“很显然，这个问题非常重要，”艾克勒博士说，“但我们首先需要从科学角度对它加以证实。”
+The Ewings, whose son is in the autism clinical trial, have learned to live with the tumor threat. For now, their biggest problems are dealing with Richard’s autism.
+尤因夫妇的儿子理查德是该自闭症临床试验的参与者之一。在以往的日子里，这对父母早已学会了如何在肿瘤的威胁下生活，现在他们最大的问题是如何应对儿子的自闭症。
+When Richard’s parents heard about Dr. Sahin’sstudy, they immediately signed him up, though it meant traveling to Boston from Nashville nine times in six months. They had not dared to take their son on planes before, worried that he could not handle the security lines and crowded airports.
+当理查德的父母听说沙欣博士的研究时，他们马上为他报了名，尽管这意味着要在六个月内在纳什维尔与波士顿之间往返九次。此前，因为担心儿子无法应付繁杂的安检程序和拥挤喧嚷的机场环境，他们从来都不敢带他乘坐飞机。
+But the study was too important to pass up, Mr. Ewing said.
+但尤因先生说，这项研究太重要了，他们不能放弃。
+“Traveling with a kid who can’t talk, who has food issues, who is not patient: we hadn’t really done these things,” Mr. Ewing said.
+“与一个无法交谈、存在进食障碍且极度缺乏耐心的孩子一同旅行，我们从来未曾进行过这样的尝试，”尤因先生说。
+They hope the drug will make a difference.
+他们都期冀这种药物能够改变现状。
+“We always thought Richard has a lot going on in his brain,” Mrs. Ewing said. “We feel there is a lot of untapped potential.”
+“我们一直相信理查德的脑中也有着非常活跃的思想，”尤因夫人说，“我们觉得他还有很多潜力尚未得到开发。”
+For Andrew and Lucy Dabinett’s 9-year-old son, Tommy, whose autism is caused by a PTEN gene mutation, there are no clinical trials as of yet.
+安德鲁(Andrew)和露西·达比尼特(Lucy Dabinett)夫妇九岁的儿子汤米(Tommy)也患有自闭症。他的病由PTEN基因突变引起，但目前尚无相关的临床试验。
+Tommy, who lives with his family in Rye, N.Y., has a limited vocabulary, flaps his arms, rocks back and forth, and needs diapers.
+汤米与他的家人住在纽约州的拉伊市。他会使用的词汇量非常有限，时常拍打双臂，来回摇摆，而且还需要使用尿布。
+When he was 3, a doctor told his parents that he had a PTEN mutation and that in addition to autism, he had a high risk of cancer.
+在他三岁时，医生告诉他的父母，除了自闭症之外，他还携带有PTEN突变，因此他患癌症的风险也很高。
+“Of course it is terrifying,” Ms. Dabinett said. “But I already knew there was something terribly wrong with my child. I just needed an answer.”
+“这当然很可怕，”达比尼特夫人说，“但我早就知道我的孩子患有非常可怕的疾病。我只是想要一个答案。”
+“Honestly,” she said, “it was a relief to have an answer.”
+“说老实话，”她说，“能得到答案也算一种解脱。”

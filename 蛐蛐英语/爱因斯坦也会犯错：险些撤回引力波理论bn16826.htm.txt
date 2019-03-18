@@ -1,0 +1,52 @@
+With the announcement Thursday that scientists had discovered direct evidence of gravitational waves, one of Albert Einstein’s wildest theories was validated. It was further proof (as if any were needed) of Einstein’s genius.
+上周四，科学家们宣布观测到了引力波存在的直接证据，从而证实了阿尔伯特·爱因斯坦(Albert Einstein)的一个最令人难以置信的理论。这又一次印证了爱因斯坦是个天才（说得好像还需要什么证明似的）。
+But being a genius did not prevent the scientist, who died in 1955, from making mistakes. Some of his most significant errors occurred when he refused to believe the implications of his own ideas.
+不过，身为天才，这位1955年辞世的科学家也不能避免自己犯错。他的一些最重大的失误源于不愿相信自己的理论能推导出一些结论。
+Lawrence M. Krauss, a theoretical physicist at Arizona State University, walked us through four of Einstein’s notable blunders.
+亚利桑那州立大学(Arizona State University)的理论物理学家劳伦斯·M·克劳斯(Lawrence M. Krauss)给我们介绍了爱因斯坦犯下的四个不小的错误。
+1. Quantum Entanglement
+一、量子纠缠
+Einstein referred to this physical phenomenon, which suggests that objects separated by great distances can affect one another, as “spooky action at a distance.” He rejected the possibility, refusing to believe that objects could influence each other no matter how far apart they were.
+这种物理现象意味着，相隔甚远的物体之间可以相互影响，曾被爱因斯坦称为“鬼魅般的超距作用”。他否认了这种可能性，拒绝相信无论离得有多远的物体之间都可能相互影响。
+“He didn’t think the spooky action at a distance would be verified, but it was,” Dr. Krauss said. “He thought that was somehow unphysical. He presented this as an example of why quantum mechanics is probably wrong, but in fact it’s right.”
+“他认为鬼魅般的超距作用不会被证实，但它就是被证实了，”克劳斯博士说。“他觉得这不符合物理原理。他举出这个例子，是为了说明为什么量子力学很可能是错误的，结果它其实是正确的。”
+A study released by a group of scientists in October provided the strongest evidence yet to support the claim. It followed a string of other experiments that have been conducted since the 1970s that suggest Einstein was too dismissive.
+去年10月，一群科学家公布的研究成果提供了迄今为止支持这种说法最为有力的证据。在此之前，有一系列自70年代以来的实验表明爱因斯坦太过武断。
+“These tests have been done since the late ’70s but always in the way that additional assumptions were needed,” one of the scientists involved told The Times in October. “Now we have confirmed that there is spooky action at distance.”
+“从70年代末开始就做了这些实验，但一直都需要做些额外的假设，”其中一名科学家在去年10月份告诉时报。“现在我们证实，的确存在鬼魅般的超距作用。”
+2. Gravitational Lensing
+二、引力透镜效应
+In 1936, Einstein published an article in Science magazine, detailing what he called “lens-like action of a star by the deviation of light in the gravitational field,” or, in less scientific terms, the idea that objects in space could divert light.
+在1936年，爱因斯坦在《科学》杂志(Science)上发表了一篇文章，详细解释了他口中的“恒星让通过引力场的光线发生偏差的类似透镜的效应”。用更平白的语言来说，就是太空中的物体可以扭曲光线。
+“Of course,” he wrote offhandedly, “there is no hope of observing this phenomenon directly.”
+“当然了，”他随手写到，“没有直接观测到这一现象的希望。”
+But Dr. Krauss said: “He only thought of lensing by stars and didn’t think of galaxies. He really wasn’t much of an astronomer.”
+然而，克劳斯说：“爱因斯坦只考虑到了恒星的透镜效应，没有想到星系。他的确不那么精通天文学。”
+Gravitational lensing has become one of the most useful techniques available to scientists in mapping the universe.
+引力透视效应如今成为了让科学家得以绘制宇宙图谱的最有用的技术之一。
+3. The Cosmological Constant
+三、宇宙常数
+In trying to apply his general theory of relativity to the structure of the universe, Einstein threw into his equation a term representing a “cosmological constant,” because he believed he needed to represent a repulsive force that would counter the attractive force of gravity in order to represent the universe as static.
+在尝试将相对论的基本理论运用到宇宙构造中的时候，爱因斯坦在方程中加入了代表“宇宙常数”的一项，因为他认为，为了得到静态宇宙，需要加上这一项来代表制衡引力的一种斥力。
+Years later, when it was discovered that the universe was expanding, Einstein discarded the term. He was said to have called it “his biggest blunder.” (Though in recent years, questions have been raised about whether that quote was misreported.) 
+多年以后，科学家发现宇宙在膨胀，于是爱因斯坦摒弃了这一常数。据称他把宇宙常数叫做“自己最大的错误”。（不过，近年来，有关这句话是否为误传的疑问浮出了水面。）
+In any case, Dr. Krauss said that Einstein should not be criticized for attempting to balance the equation, since the idea that the universe was static was accepted at the time. But, he said, that does not let Einstein off the hook.
+无论如何，克劳斯表示，那个年代大家公认宇宙是静态的，爱因斯坦不应该因为试图让方程成立而受到批评。但他又称，这并不意味着爱因斯坦就可以免责。
+“The second aspect is, it was also a mathematical blunder because the cosmological constant doesn’t produce a static universe,” he said. “It makes the universe expand faster and faster, which is what we’re experiencing right now.”
+“换个角度来看，这也是一个数学错误，因为宇宙常数并不能得到静态宇宙，”他说。“会得到的结论反而是宇宙在越来越快地膨胀，也就是我们现在的理解。”
+“Had he had the courage of his convictions, in some sense, he would have realized that his theory required a universe to be expanding, not one that was static, and he could have predicted it,” he added. “And as I often say, if he just could have predicted it, he would have been famous.”
+“在某种程度上，假如爱因斯坦有相信的勇气，就会意识到自己的理论成立的前提是宇宙在膨胀，而不是静态的，那么他就能做出这一预测，”克劳斯还表示。“我时常说，哪怕他只是预测出宇宙在膨胀，那他也会很出名。”
+(The cosmological constant, as it turns out, may not have been so wrongheaded. NASA scientists say that the term “significantly improves the agreement between theory and observation.” Dr. Krauss says that it is possible that dark energy may act in exactly the way that the term was originally meant to represent.)
+（现在看来，宇宙常数或许并非错得离谱。美国航空航天局[NASA]的科学家们表示，这个概念“极大地促进了理论与实测之间的融合”。克劳斯则称，有可能暗能量的行为恰好就符合这一概念当初代表的含义。）
+4. Gravitational Waves
+四、引力波
+Direct evidence of gravitational waves has Einstein back in the news again now, since he originally proposed their existence a century ago. So it’s funny to learn that he changed his mind, 20 years after suggesting the idea.
+引力波存在的直接证据如今让爱因斯坦再次回到了新闻里，因为正是他在一个世纪前最先提出了该理论。有意思的是，在提出这一概念20年后，他改变了主意。
+“He wrote a paper saying they don’t exist, and retracted the idea,” Dr. Krauss said. “It turned out he had made a mathematical error that was only discovered just before he was going publish” the retraction.
+“爱因斯坦写了篇论文说引力波并不存在，要收回这个理论，”克劳斯说。“结果是他犯了个数学错误，在他马上就要发表（收回）文章的时候，错误被发现了。”
+That paper was rejected by a first journal, Physical Review, Dr. Krauss said, after the mathematician and physicist reviewing the paper, Howard P. Robertson, found the error.
+克劳斯说，这篇论文先是投给了《物理评论》(Physical Review)，然而进行评议的数学家、物理学家霍华德·P·罗伯逊(Howard P. Robertson)发现了错误，于是文章被杂志拒收。
+Einstein, angry at having his paper reviewed, planned to publish it in another, obscure journal, but found his error independently and managed to rewrite the paper so that it was accurate before it was published
+爱因斯坦对自己的文章竟被拿去评议感到愤怒，准备把它发表到另一份不出名的期刊上。不过，他自己也发现了这个错误，设法重写了论文，弄准确了之后才发表。
+“He wanted to retract the very thing we just discovered this year,” Dr. Krauss said, chuckling. “I think it’s a nice bit of poetry.”
+“他想要收回我们今年刚刚实测到了的东西，”克劳斯自己笑了起来。“我觉得这真是有点诗意啊。”

@@ -1,0 +1,30 @@
+LONDON — In a broad legal rationale for collecting information from Internet use by its citizens, the British government has reportedly asserted the right to intercept communications that go through services like Facebook, Google and Twitter that are based in the United States or other foreign nations, even if they are between people in Britain.
+伦敦——据称，在一份论述其收集公民互联网使用信息的法律依据的文件中，英国政府强调说，自己有权利截取Facebook、谷歌(Google)和Twitter等基于美国或境外其他国家的服务平台上的通讯信息，即使通讯者在境内。
+The British position is described in a draft summary of a report to be released Tuesday by Privacy International and other advocacy groups. The summary, seen by The New York Times, says the findings are based on a government document that the groups obtained through a lawsuit.
+隐私国际(Privacy International)和另外一些倡导组织周二将发布一份报告，该报告的摘要草稿描述了英国的上述立场。《纽约时报》已经阅读了这份摘要。摘要称，上述发现来自这些倡导组织从一起诉讼中获取的政府文件。
+According to the summary, the government document says any contact between people in Britain through social networks based elsewhere, or use of search engines located outside Britain, constitutes “external communication,” and as such, is subject to interception, even when no wrongdoing is suspected.
+根据这份摘要，该政府文件称，英国境内的人员之间，通过其他国家的社交网络或境外的搜索引擎进行的任何联络，都构成“境外通讯”，并因此可能被截取，即使没有涉嫌任何不法行为。
+By contrast, under British law, “internal communication” between people based in the country may be intercepted only when there is suspicion of illegal activity as specified in a government-issued warrant overseen by the courts.
+相比之下，根据英国法律，国内公民之间的“境内通讯”只有在涉嫌非法行为的时候才可以被截取，而且需要一份由政府发出的、由法庭监管的授权令进行具体说明。
+It is not clear how loosely the British government is applying such an interpretation of “external communication” or how many warrants it may have obtained under those guidelines to intercept the communications of people in the country.
+目前还不清楚英国政府在何种程度上使用了“境外通讯”的这种解释，也不清楚根据这一指导原则，政府发出了多少授权令来截获国内公民的通讯信息。
+The British surveillance agency that oversees such activity, the Government Communications Headquarters, declined on Monday to affirm the portrayal of its position, citing “a longstanding policy that we do not comment on intelligence matters.” But it added, in a statement, that “all of G.C.H.Q.’s work is carried out in accordance with a strict legal and policy framework which ensures that our activities are authorized, necessary and proportionate.”
+在英国，负责掌控此类活动的机构是政府通讯总部(Government Communications Headquarters)，该机构周一拒绝证实对其立场的这种描述，理由是，“在情报问题上不发表评论，是我们的长期政策”。但它后来在一份声明中说，“政府通讯总部的所有工作，都合乎一个严格的法律和政策框架，它可以确保我们的行为是经过授权的、必要的，也是适当的。”
+The government’s position is attributed in the draft summary to Charles Farr, director general of the Office for Security and Counter Terrorism, a British government body that helps coordinate the country’s antiterrorism strategy.
+在摘要草稿中，上述政府立场被指来自安全和反恐怖主义办公室(Office for Security and Counter Terrorism)总干事查尔斯·法尔(Charles Farr)。这个英国政府机构负责参与协调国家的反恐战略。
+Privacy International declined to comment Monday on the summary of its report before its official release. Apprised of the contents of the summary, Google issued a statement that said in part: “We provide user data to governments only in accordance with the law. Our legal team reviews each and every request, and frequently pushes back when requests are overly broad or don’t follow the correct process.”
+隐私国际周一拒绝在报告正式发布前对摘要发表评论。在被告知了摘要内容后，谷歌发布了一份声明，其中说道：“我们只在合法的范围内向政府提供用户数据。我们的法务团队会逐一评估每个请求，当请求过于宽泛或没有遵守正确的程序时，我们经常予以回绝。”
+A Facebook representative declined to comment, and Twitter did not immediately respond to an invitation to do so.
+Facebook的一名代表拒绝置评。Twitter则没有立即回复置评请求。
+The British government’s defense was in response to a lawsuit filed last year by privacy advocates, including Privacy International and Amnesty International, related to disclosures about government surveillance by Edward J. Snowden, a former contractor for the National Security Agency.
+英国政府的辩护是为了回应隐私国际和国际特赦组织(Amnesty International)等机构去年提起的一次诉讼。该诉讼与前美国国家安全局(National Security Agency)承包商雇员爱德华·斯诺登(Edward J. Snowden)泄露的政府监控项目有关。
+Among other things, the privacy groups are calling for the British government to stop using information from Prism, a system that allows the N.S.A. to collect emails of non-Americans abroad, without individualized warrants, from American-based providers like Facebook, Gmail, Yahoo and Hotmail.
+这些隐私倡导组织的一个要求是，英国政府停止使用来自棱镜(Prism)项目的信息。该项目使NSA得以收集海外非美国人在Facebook、Gmail、雅虎(Yahoo)和Hotmail等美国平台上的电子邮件信息，而不需要单独的授权令。
+The privacy groups also want the British government to stop its Tempora surveillance program, under which an intelligence agency may tap fiber-optic cables carrying Internet traffic in and out of Britain. The cables each day transport millions of emails and web searches, among other personal data.
+这些组织还要求英国政府停止“时光”(Tempora)监控项目，在这个项目中，情报机构可以通过光纤电缆获取进入和离开英国的信息。这些电缆每天传输着数以百万计的邮件和网络搜索信息，以及其他个人数据。
+As part of the legal case, which is to be heard next month by the Investigatory Powers Tribunal, a British court that handles legal cases against the country’s intelligence agencies, Mr. Farr of the Office for Security and Counter Terrorism will be a crucial witness for the British government in its efforts to keep using the surveillance methods.
+该案将于下月在调查权力法庭(Investigatory Powers Tribunal)开审。这家英国法庭主要负责处理针对国家情报机构的法律案件。该案中，安全和反恐怖主义办公室的法尔将作为证人出庭，对于力图保留这些监控项目的英国政府而言，他的证言至关重要。
+When revelations surrounding Prism and the other surveillance activities first occurred last year, the British government said the country’s intelligence agencies abided by local rules aimed at protecting citizens’ privacy.
+当棱镜和其他监控活动去年首次被曝光时，英国政府称，该国的情报机构遵守了旨在保护公民隐私的本国法律。
+But the legal defense reflected in the draft summary of the privacy groups’ report would be the most detailed discussion that has surfaced of the government’s approach to collecting individuals’ communications on some of the most popular Internet services.
+但这些隐私倡导组织的报告摘要所反映的英国政府的法律辩护，将成为迄今为止出现的、有关英国政府在最流行的互联网服务上收集个人通讯信息的手段的最详细讨论。

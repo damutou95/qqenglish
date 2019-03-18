@@ -1,0 +1,40 @@
+SAN FRANCISCO — Google wants to be everywhere: in your home, your car and even on your wrist.
+旧金山——谷歌希望变得无处不在：在你的家里、车上，乃至手腕上。
+That vision became increasingly clear at the search giant’s annual conference for software developers here on Wednesday. The company unveiled plans to expand Android, its mobile operating system, for new categories like wearable computers and automobiles.
+在这家搜索巨头本周三举办的软件开发者年度大会上，这一愿景正在变得愈发清晰。该公司宣布了一些计划，准备把其移动操作系统Android扩张到新的类别，比如可穿戴电脑和汽车。
+The announcements came on the heels of the company’s recent acquisition of Nest Labs, the thermostat maker, for $3.2 billion, which gave Google a speedy entry into the nascent market of Internet-connected home appliances.
+不久之前，谷歌斥资32亿美元（约合人民币200亿元），收购了恒温器制造商Nest Labs，获得了一条迅速进军方兴未艾的联网家电市场的通道；转眼它就宣布了这样的计划。
+“This is one of the most comprehensive releases we have done,” said Sundar Pichai, chief of Google’s Android division, in front of a convention center crowded with 6,000 software developers.
+“这是我们开发过的最全面的版本，”谷歌Android部门负责人桑达尔·皮查伊(Sundar Pichai)在6000名软件开发者济济一堂的会场上说。
+Google’s annual software developers’ conference, called Google I/O, has become an important place for the company to woo app makers to build software for its Android software system, which powers more than one billion devices.
+谷歌的年度软件开发者大会被称为“Google I/O”，它已成为该公司吸引应用开发者，为Android软件系统开发软件的重要场合；目前有逾十亿台设备运行Android系统。
+Rallying app developers is increasingly vital for Google as competition grows with rivals like Apple and Samsung Electronics, which are also expanding their device and software portfolios.
+随着谷歌与苹果和三星电子之间的竞争加剧，争取应用开发者的支持正在变得日益重要。苹果和三星也正在扩大自己的设备和软件阵容。
+“What’s striking is the way each of these three major companies — Google, Microsoft and Apple — are seeking to participate across four key domains: the home, the car, the body and the mobile world at large,” said Jan Dawson, an independent telecom analyst for Jackdaw Research. Google said a coming version of Android for smartphones and tablets, tentatively named Android L, would include new features, like smarter authentication and anti-theft software.
+“引人注目的是，谷歌、微软和苹果这三大巨头，都在涉足以下四个关键领域：家、车、身体和整个移动世界，”Jackdaw研究公司电信领域独立分析师简·道森(Jan Dawson)称。谷歌表示，即将为未来的智能手机和平板电脑推出一个新的Android版本，暂定名为Android L，它增加了一些新功能，比如更加智能的认证和防盗软件等。
+If a user is wearing a smartwatch paired with the device, he can unlock the phone without entering a passcode. When the watch is removed, the phone will require a passcode again. Google also said that Android L, which will be available in the fall, would include a so-called kill switch for rendering a device unusable if it were stolen.
+如果你佩戴一只和这种设备连接的智能手表，你无需输入密码就可以给手机解锁。但当智能手表的连接断开，再解锁手机就需要密码了。谷歌还表示，计划于今年秋天面世的Android L提供了一个“死开关”功能，可以让被盗设备无法使用。
+In Android L, Google overhauled the design of its software system powering smartphones and tablets. Similar to Apple and Microsoft, Google adopted a “flat” design with more vibrant colors and added effects like shadows and animations. For example, when a user taps the screen, a small water ripple appears on the tapped area.
+在Android L中，谷歌大幅更改了其智能手机和平板电脑软件系统的设计。类似于苹果和微软，谷歌也选取更鲜艳的色彩，采用了“扁平化”设计，并增加了阴影和动画等特效。例如，当用户点击屏幕时，一个小小的水波纹就会出现在点击区域周围。
+Google also shared its ambition to push Android deeper into areas beyond mobile devices, revealing details on Android Wear, a special version of Android tailored for smartwatches, which it introduced this year.
+谷歌还展示了在移动设备之外的领域进一步推动Android发展的雄心，透露了Android Wear的一些细节。这是Android的一个特殊版本，专为智能手表打造，将于年内推出。
+Google said Android Wear was customized to show immediately useful information, like message notifications, the status of a package shipment or the status of traffic for a commuter. The smartwatch system is controlled by speaking or by swiping the touch screen.
+谷歌表示，Android Wear是专门定制的，为的是让智能手表立即显示一些有用信息，比如邮件通知，包裹配送状态，通勤者需要的交通信息等。这种智能手表系统靠语音或滑动触摸屏来进行操作。
+When a user is traveling, the watch system will continue to bring up relevant contextual information based on his location, like the local bus schedule or the weather, according to Google.
+谷歌说，当用户旅行时，这个手表系统仍然能够提供基于位置的相关背景信息，比如当地的公交车时刻表或天气状况。
+Google said two smartwatches including Android Wear — Samsung’s Gear Live and LG’s G watch — would be available to order in its online retail store, Play, on Wednesday.
+谷歌表示，消费者周三将能够在其网上零售店Play上预定两款搭载Android Wear的智能手表——三星的Gear Live和LG的G Watch。
+For television, Google announced Android TV. Users can speak voice commands into a smartwatch to search for programs and Google will find the programs if they are available for purchase in its online Play store.
+在电视方面，谷歌发布了Android TV。用户可以向智能手表发出搜索节目的语音指令，如果节目在Play在线商店有售的话，谷歌就会帮你找出来。
+Google has found some success with Chromecast, a stick that plugs into TVs and allows users to stream content from their smartphones or computers to the television. Released last year, Chromecast has been a top seller on Amazon. Google on Wednesday said it had improved Chromecast, allowing any phone to connect to the device without having to be on the same Wi-Fi network.
+谷歌的Chromecast已经取得了一些成功。Chromecast是一个插在电视上使用的工具，可以让用户通过智能手机或电脑向电视传输内容。去年发布的Chromecast在亚马逊上一直销售火爆。谷歌周三表示，已经对Chromecast进行了改进，现在这款设备可以和任何手机相连，而不需要在同一个Wi-Fi网络之中。
+Brian Blau, an analyst for Gartner, said Google’s new TV strategy fit much better with its apps and web ecosystem. But he noted that with the example of using a smartwatch as a remote for the TV, he felt the company was being unrealistic.
+高德纳(Gartner)的分析师布莱恩·布劳(Brian Blau)说，谷歌新的电视策略与其应用程序和网络生态系统更加契合。但他以把智能手表当做电视机遥控为例指出，他觉得谷歌有点不切实际。
+“They appeared to be implying that your watch should now be the center of your smart device attention, and that just won’t be the case,” he said. “It makes apps look dumb and less functional.”
+“他们似乎在暗示，手表现在应该成为你在所有智能设备中的关注焦点，而实际情况根本不会是这样，”他说，“这让应用程序显得很蠢，也不那么有用了。”
+Google also announced a version of Android customized for cars, called Android Auto. Google said it streamlined the design of the system to keep people’s eyes off the screen and on the road. It emphasizes access to maps, phone contacts and playlists, allowing users to use those features with the tap of a button or voice control. The car system will pair with a smartphone.
+谷歌还发布了一个为汽车量身定做的Android程序版本：Android Auto。谷歌说，为了让人们的目光远离屏幕专注于路面，它对系统进行了专门的设计。这个系统突出的是打开地图、手机联系人和播放列表的便捷性，用户通过一个按键或语音指令就可以启动这些功能。这个车载系统需要和一部智能手机协同工作。
+In addition, the company is also trying to aggressively expand in business computing. Google showed several changes to its businesses offerings, which include things like corporate email and spreadsheets delivered online, along with storage and videoconferencing.
+除此之外，谷歌还试图在企业计算领域强势扩张。谷歌展示了对几款企业产品的改进，包括企业邮件和在线表单，以及存储和视频会议方面的产品。
+Google unveiled additions to Drive, its online storage service, tailored for businesses. Google said companies would be able to audit which employees were reading what documents, more easily encrypt documents and gain access and work with documents stored in older formats, like Microsoft Office.
+谷歌还为在线存储服务Drive增添了一些专为企业设计的功能。谷歌说，企业将能够查看具体的某个员工正在阅读哪些文件，更轻松地为文件加密，以及更轻松地获得和使用以更早格式（比如微软的Office）存储的文件。

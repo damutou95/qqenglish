@@ -1,0 +1,32 @@
+You may think you are discreet about your political views. But Facebook, the world’s largest social media network, has come up with its own determination of your political leanings, based on your activity on the site.
+你可能觉得自己在表达政治观点时非常谨慎。不过，世界上最大的社交媒体网络Facebook已经根据你在该网站上的活动，自行决定了你的政治倾向。
+And now, it is easy to find out how Facebook has categorized you — as very liberal or very conservative, or somewhere in between.
+现在，很容易找出Facebook对你的归类——极端自由派、极端保守派，或者介于两者之间。
+Try this (it works best on your desktop computer):
+试一下吧（在台式电脑上最方便）：
+Go to facebook.com/ads/preferences on your browser. (You may have to log in to Facebook first.)
+在浏览器上打开facebook.com/ads/preferences（你可能得先登录Facebook）。
+That will bring you to a page with your ad preferences. Under the “Interests” header, click the “Lifestyle and Culture” tab.
+你会看到一个关于你的广告偏好的网页。点击“兴趣”(Interests)那一栏的“生活方式和文化”按钮(Lifestyle and Culture)。
+Then look for a box titled “US Politics.” In parentheses, it will describe how Facebook has categorized you, such as liberal, moderate or conservative.
+然后寻找一个名叫“美国政治”(US Politics)的方框。括号里写着Facebook对你的归类，比如自由派、温和派或保守派。
+(If the “US Politics” box does not show up, click the “See more” button under the grid of boxes.)
+（如果“美国政治”方框没有出现，那就点击那一堆方框下面的“更多”[See more]按钮。）
+Facebook makes a deduction about your political views based on the pages that you like — or on your political preference, if you stated one, on your profile page. If you like the page for Hillary Clinton, Facebook might categorize you as a liberal.
+Facebook根据你喜欢的网页对你的政治观点做出推断——或者是根据你在简介页面注明的政治倾向（如果你注明了的话）。如果你喜欢希拉里·克林顿(Hillary Clinton)的主页，那么Facebook可能把你归为自由派。
+Even if you do not like any candidates’ pages, if most of the people who like the same pages that you do — such as Ben and Jerry’s ice cream — identify as liberal, then Facebook might classify you as one, too.
+就算你不喜欢浏览候选人的主页，如果跟你浏览相同网页（比如Ben and Jerry’s牌冰激凌）的大部分人被认定为自由派，那么Facebook可能也把你归入自由派。
+Facebook has long been collecting information on its users, but it recently revamped the ad preferences page, making it easier to view.
+Facebook长期以来一直在收集用户信息，不过它最近改进了广告偏好网页，让它更易于浏览。
+The information is valuable. Advertisers, including many political campaigns, pay Facebook to show their ads to specific demographic groups. The labels Facebook assigns to its users help campaigns more precisely target a particular audience.
+这些信息很有价值。广告商，包括很多政治竞选机构，花钱让Facebook把自己的广告展示给特定的细分群体。Facebook给用户加的标签能帮助竞选团队更精准地锁定某些用户。
+For instance, Donald J. Trump’s presidential campaign has paid for its ads to be shown to those who Facebook has labeled politically moderate.
+比如，唐纳德·J·特朗普(Donald J. Trump)的总统竞选团队花钱把广告展示给被Facebook标记为温和派的用户。
+Campaigns can also use the groupings to show different messages to different supporters. They may want to show an ad to their hard-core supporters, for example, that is unlike an ad targeted at people just tuning in to the election.
+竞选团队还可以利用这些分组，把不同的信息展示给不同的支持者。比如，他们想给铁杆支持者展示的广告可能不同于给刚开始关心大选的人的广告。
+It is not clear how aggressively Facebook is gathering political information on users outside the United States. The social network has 1.7 billion active users, including about 204 million in the United States.
+尚不清楚Facebook在收集美国之外用户的政治信息方面的积极程度。这个社交网络共有17亿活跃用户，其中美国用户约为2.04亿。
+Political outlook is just one of the attributes Facebook compiles on its users. Many of the others are directly commercial: whether you like television comedy shows, video games or Nascar.
+政治观点只是Facebook新增的一项用户信息。其他很多信息都直接跟商业有关：你是否喜欢电视喜剧节目、电子游戏或全国汽车比赛协会(Nascar)的赛事。
+To learn more about how political campaigns are targeting voters on social media, The New York Times is collecting Facebook ads from our readers with a project called AdTrack. You can take part by visiting nytimes.com and searching for “Send us the political ads.”
+为了更多地了解政治竞选团队如何在社交媒体上锁定选民，《纽约时报》正在从读者中收集Facebook的广告，这个项目名叫AdTrack。你可以通过访问nytimes.com，搜索“给我们发政治广告”(Send us the political ads)进行参与。

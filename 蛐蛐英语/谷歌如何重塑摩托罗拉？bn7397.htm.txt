@@ -1,0 +1,36 @@
+SUNNYVALE, Calif. — Motorola Mobility, the ailing cellphone maker that Google bought in May, told employees Sunday that it would lay off 20 percent of its work force and close a third of its 94 offices worldwide.
+加利福尼亚森尼韦尔——5月被谷歌收购的手机制造商摩托罗拉移动公司(Motorola Mobility)面临经营困难，上周日向员工宣布将裁员20%，并关闭全球94个分公司的三分之一。 
+In addition to the coming cuts, Google has gutted Motorola management, letting go 40 percent of its vice presidents. It also hired new senior executives. It will shrink operations in Asia and India, and center research and development in Chicago, Sunnyvale and Beijing.
+除了这次计划裁员之外，谷歌已经掏空了摩托罗拉的管理层，解雇了原来40%的副总经理，还招聘了一批新高管。谷歌将减少其在亚洲和印度的运营，而把研发集中在芝加哥、森尼韦尔和北京。
+The cuts are the first step in Google’s plan to reinvent Motorola, which has fallen far behind its biggest competitors, Apple and Samsung, and to shore up its Android mobile business and expand beyond search and software into the manufacture of hardware.
+这次减员是谷歌重塑摩托罗拉的第一步，因为摩托罗拉已经远远落后于其最大的竞争者，苹果和三星。此举也是为了支持该公司的安卓移动业务，并从搜索引擎和软件方面拓展到硬件生产。
+The turnaround effort will also be a referendum on the management of Larry Page, Google’s chief executive, whose boldest move has been the $12.5 billion acquisition.
+这次人事大变动也将成为对谷歌首席执行官拉里·佩奇(Larry Page)的经营管理的一次投票打分。佩奇做的最大胆的一件事便是这笔价值125亿美元的收购。 
+Though Google bought Motorola partly because of its more than 17,000 patents, which can help defend against challenges to the Android operating system, it also planned to use Motorola to make its own, better smartphones and tablets.
+谷歌收购摩托罗拉的部分原因是看重摩托罗拉1.7万多项专利权，希望借此消除安卓系统专利问题的争议 ，但此外，谷歌还计划利用摩托罗拉来生产属于自己的、功能更完善的智能手机和平板电脑。
+One-third of the 4,000 jobs lost will be in the United States. The company plans to leave unprofitable markets, stop making low-end devices and focus on a few cellphones instead of dozens, said Dennis Woodside, Motorola’s new chief executive.
+这次即将裁减掉的4000个职位中有三分之一是在美国。摩托罗拉新任首席执行官丹尼斯·伍德赛德(Dennis Woodside)称，公司计划撤出不盈利的市场，停止生产低端设备，只专注于少数几款手机上，而不是几十款。
+“We’re excited about the smartphone business,” said Mr. Woodside, who previously led Google’s sales and operations for the Americas. “The Google business is built on a wired model, and as the world moves to a pretty much completely wireless model over time, it’s really going to be important for Google to understand everything about the mobile consumer.”
+“智能手机业务让我们感到很兴奋，”伍德赛德称，“谷歌的业务是基于有线模式，但是全世界正渐渐进入一个几乎是完全无线的模式，因此了解移动用户的一切信息，对谷歌来说至关重要。”他之前曾负责谷歌在美洲的销售和运营。
+But some analysts wonder whether Google can succeed in the brutally competitive, low-margin cellphone business.
+但是一些分析人士怀疑谷歌能否在竞争激烈、利润较低的手机业务中胜出。 
+“Ninety percent of the profits in the smartphone space are going to Apple and Samsung, and everyone else from Motorola to RIM to LG to Nokia are picking up the scraps of that 10 percent,” said Charlie Kindel, a former manager at Microsoft who writes about the mobile industry. “There’s no real sign that’s changing anytime soon.”
+“智能手机行业90%的利润都流向了苹果和三星，剩下的10% 由摩托罗拉、RIM、LG、诺基亚等其他厂家瓜分。”为移动行业撰文的微软前经理查利·金德尔(Charlie Kindel)称，“还没有任何迹象显示这种状态会在不久有任何改变。” 
+It was not always this way. Motorola executives like to talk about its glory days. The company, started in 1928 in Chicago, unveiled the first commercial cellphone in 1973. By 2004, it looked as if Motorola could again lead the cellphone industry when it introduced the popular Razr.
+事情并非总是如此。摩托罗拉的高管们乐于谈论过去的辉煌。该公司在1928年成立于芝加哥，1973年推出了第一款手机。到2004年，摩托罗拉推出流行的Razr，看上去它似乎要再一次引领手机行业。 
+But Apple and Samsung won consumers’ hearts with the more exciting iPhone and Galaxy phones. Motorola Mobility — which split last year from Motorola Solutions, the division that makes devices like police radios — lost $233 million in its first six weeks under Google. The phone business has been unprofitable for 14 of the last 16 quarters.
+然而，苹果和三星却分别以更激动人心的iPhone系列和Galaxy手机赢得了消费者。摩托罗拉移动于去年从制造警用无线电设备的摩托罗拉系统公司(Motorola Solutions)分离出来。在被谷歌收购后的六周内，摩托罗拉移动亏损了2.33亿美元。在过去的16个季度中，有14个季度其手机业务处于非盈利状态。 
+Mr. Woodside also plans to cut the number of devices Motorola makes from the 27 it introduced last year to just a few. He wants to make the company’s products cool again by loading them with things like sensors that recognize who is in a room based on their voices, cameras that take crisper photos and batteries that last for days.
+伍德赛德还计划削减摩托罗拉生产的设备种类。去年，摩托罗拉开发了27种设备，伍德赛德计划将这一数字减至少数几种。他希望为公司产品配备新的功能，比如能通过人的声音识别出是谁在房间里的传感器、能拍出更清晰的照片的摄像头以及能持续好几天的电池等，希望以此让他们的产品重放异彩。 
+Many of these new ideas will come from a group of just a few dozen people within the company that has the unassuming name of Advanced Technology and Projects.
+上述新创意中的很多都将出自公司内部一个只由几十人组成的团队。这个团队的名字很低调，叫先进技术和项目( Advanced Technology and Projects)。
+To foster innovation, Google created the group to drop a Silicon Valley-style start-up into a lumbering Midwestern company and recruited Regina Dugan from the Pentagon’s Defense Advanced Research Projects Agency, or Darpa, to run it.
+为了促进创新，谷歌创建了该团队，将一个硅谷式的初创公司模式注入了一个行动缓慢的中西部的公司，并从五角大楼国防高级研究计划局（Defense Advanced Research Projects Agency，简称 Darpa）请来了雷吉娜·杜根(Regina Dugan)任负责人。
+Ms. Dugan is hiring metal scientists, acoustics engineers and artificial intelligence experts. They will work for her for only two years so they feel a sense of urgency, she said, an idea she borrowed from Darpa, where people wear their resignation date on their name tags.
+杜根女士正在招聘金属科学家、音质工程师和人工智能专家。她说，他们将只在自己手下工作两年，这样他们才能有一种紧迫感。这是从 Darpa借鉴过来的。在那儿，工作人员的名牌上都注明了各自的离职日期。
+Motorola has been spending too much money on too many different cellphone components, said Mark Randall, whom Google recruited to run Motorola’s supply chain from Amazon.com, where he did that for the Kindle. He said he planned to jettison suppliers and buy 50 percent fewer components.
+谷歌请来负责摩托罗拉供应链的马克·兰德尔(Mark Randall)认为，一直以来，摩托罗拉在门类繁多的手机部件上投入了过多的资金。他此前在亚马逊负责Kindle的供应链业务。他表示，自己计划放弃一些供应商，采购的部件数量也将减少一半。 
+How to get people excited about Motorola phones when shiny iPhones are on the next shelf?
+在隔壁的货架上就是闪亮夺目的iPhone手机的情况下，如何让消费者为摩托罗拉手机倾倒呢？ 
+Gary Briggs, who ran consumer marketing at Google and now does so at Motorola, is working on advertisements that he said would be more like Google’s — simple and emotional. They will focus on Motorola’s storied past and the ways the products are better than the competition’s, like battery life.
+在摩托罗拉负责消费者市场开发的加里·布里格斯(Gary Briggs)现在负责广告宣传。曾在谷歌负责消费者市场开发的他表示，这些广告将会和谷歌的广告一样，简单却感人。这些广告的重点将是摩托罗拉传奇的过去以及摩托罗拉的产品在哪些方面胜于竞争对手，比如电池寿命。

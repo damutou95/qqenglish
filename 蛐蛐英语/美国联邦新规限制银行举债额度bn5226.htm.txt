@@ -1,0 +1,26 @@
+A campaign to make the financial system safer advanced on Tuesday, as federal regulators approved a rule that could put large banks on a firmer footing and persuade them to pare back potentially risky Wall Street activities.
+周二，旨在提高金融系统安全性的行动又向前推进了一步：联邦监管机构通过了一项规定，这可能会令大银行的财务基础更加坚实，并说服它们减少可能存在风险的华尔街交易活动。
+And in a move that could further unsettle the financial industry, the authorities made a change to the new rule that could make it even tougher. The regulators estimated that the nation’s eight largest banks would need to raise as much as $68 billion to $95 billion over all to meet the requirements of the new rule.
+此外，当局还对新规定进行了一处改动，此举可能会使该规定更加严苛，令金融业更加不适。监管机构估计，美国的八大银行总共将需要筹集多达680亿美元到950亿美元的资金，才能达到新规定的要求。
+The rule, known as the supplementary leverage ratio, puts a stricter cap on the amount of borrowing that banks do to raise money to make loans and buy securities. The new rule effectively requires big banks to raise more money from their shareholders and borrow less from depositors and creditors. When banks become overreliant on borrowing, known as leverage in the industry, they are more vulnerable to losses and market instability. This occurred in the run-up to the financial crisis of 2008, and was one of the main reasons that banks needed taxpayer bailouts.
+这项规定也被称作“补充杠杆率要求”，当银行要为发放贷款和购买证券筹集资金时，该规定对银行的举债额度进行了更严格的限制。新的规定实际上要求大型银行从股东那里筹集更多资金，减少从储户和债权人那里的借贷。如果银行过于依赖借贷——也就是行业中所称的杠杆，它们将更容易受到亏损和市场动荡的影响。2008年金融危机之前的情况就是如此，这也是银行当时需要纳税人的救助的主要原因之一。
+“Banks with stronger capital positions are in a better position to lend, to compete favorably in any market, and to achieve satisfactory results for investors,” Thomas M. Hoenig, vice chairman of the Federal Deposit Insurance Corporation, and a firm proponent of the rule, said in a statement. “Without sufficient capital, the opposite is true.”
+联邦存款保险公司（Federal Deposit Insurance Corporation，简称FDIC）的副董事长托马斯·M·洪尼格(Thomas M. Hoenig)是该规定的坚定拥护者，他在一份声明中说，“拥有较为强大的资本头寸的银行才更有资格放贷、在市场更有利地竞争，并为投资者实现满意的收益。没有足够的资本金，情况就会截然相反。”
+The Fed, along the F.D.I.C. and the Office of the Comptroller of the Currency, were scheduled to meet on Tuesday to approve the rule.
+美联储、FDIC和美国货币监理署(Office of the Comptroller of the Currency)定于周二举行会议，届时的议程包括对这项规定的批准。
+The banks fought the rule because they felt it was too blunt and in some ways unnecessary.
+银行之所以反对该规定，是因为它们觉得该规定过于死板，且从某些方面来看毫无必要。
+One regulator, William C. Dudley of the Federal Reserve Bank of New York, had raised concerns about the rule, and suggested that the rule writers consider whether it could work against monetary policy.
+监管官员之一、纽约联邦储备银行(Federal Reserve Bank of New York)的威廉·C·达德利(William C. Dudley)表达了对该规定的担忧，并建议制定规定的人考虑一下，它是否会对货币政策不利。
+The new rule requires banks to increase their leverage ratio, which measures their capital as a percentage of their assets. Capital mostly represents funds raised from shareholders, so as capital goes up, banks in theory borrow less.
+新的规定要求银行提高杠杆率——杠杆率衡量的是其资本金在资产中的比率。资本金主要是从股东那里筹集的资金，因此随着资本金的增加，理论上银行的借款就会减少。
+Under the new rule, the country’s largest banks would effectively be required to have a leverage ratio of 5 percent at their holding companies, and 6 percent at the subsidiary banks insured by the F.D.I.C.  They have until the start of 2018 to reach those levels, and beginning next year, they have to start disclosing their calculations of their leverage ratios.
+根据新的规定，美国最大几家银行的控股公司基本上需要达到5%的杠杆率，而其在FDIC参保的附属子银行需要达到6%的杠杆率。它们可以在2018年初之前达到这些标准，此外，从明年开始，它们将需要披露对杠杆率的统计。
+The change to the new rule  is likely to make it more onerous for banks that do a lot of Wall Street trading. The tweak requires banks to count a wider array of assets when calculating the ratio, even assets that might not be fully reflected on their balance sheets. As the asset total rises, the bank would have to hold more capital. A Wall Street product that will have more weight in the asset calculation is credit derivatives, the financial instruments that allow banks and investors to bet on the perceived creditworthiness of corporations.
+对新规定的改动可能会增加一些与华尔街从事大量交易活动的银行的负担。这项调整要求银行在统计杠杆率时计算更广泛类别的资产，甚至还包括那些可能不会在资产负债表上完全体现出来的资产。由于资产总数的增加，银行将需要持有更多资本金。其中一种将在资产统计中占更大比重的华尔街产品是信贷衍生品。信贷衍生品是一种允许银行和投资者押注企业信誉度的金融工具。
+The regulators did not disclose which banks fell short of the ratio today. But with the change, the holding companies of eight big banks would need to raise $68 billion in capital over all to meet the higher leverage ratio.
+监管机构没有披露目前哪些银行的杠杆率过低。但在规定变化之后，为了满足更高的杠杆率要求，八大银行的控股公司总共将需要筹集680亿美元的资本金。
+At the insured bank subsidiaries, the theoretical shortfall is even higher at $95 billion, according to a regulatory official on a press call on Tuesday. Regulators, however, said that banks could take steps to reduce the capital deficit by reducing their exposure to the risks of certain assets.
+周二，一名监管官员在电话中说，参保的银行子公司理论上的资本金缺口更大，为950亿美元。不过，监管机构说，银行可以通过减少对特定资产的风险敞口，降低其资本金差额。
+“The financial crisis showed that some financial companies had grown so large, leveraged and interconnected that their failure could pose a threat to overall financial stability,” Janet L. Yellen, chairwoman of the Federal Reserve, said in a statement. “Today’s action is another step in the Federal Reserve’s efforts to address those risks.”
+美联储主席珍妮特·L·耶伦(Janet L.Yellen)在一份声明中说，“上次的金融危机已经证明，一些金融公司已经如此庞大，举债规模如此之高，而且相互关联，以至于它们的破产可能对整体的金融稳定构成威胁。今天的行动是美联储着手应对这些风险的又一步骤。”

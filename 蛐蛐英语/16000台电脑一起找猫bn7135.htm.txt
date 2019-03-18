@@ -1,0 +1,42 @@
+MOUNTAIN VIEW, Calif. — Inside Google’s secretive X laboratory, known for inventing self-driving cars and augmented reality glasses, a small group of researchers began working several years ago on a simulation of the human brain.
+加利福尼亚州山景城——“X实验室”是谷歌的秘密实验室，以发明无人驾驶汽车和增强现实眼镜而闻名。几年前，一个研究小组开始在这里研究仿真人脑。
+There Google scientists created one of the largest neural networks for machine learning by connecting 16,000 computer processors, which they turned loose on the Internet to learn on its own.
+在这里，谷歌的科学家们将16000个计算机处理器联接起来，建造了一个超大规模的机器学习神经网络。他们把这个网络放置在互联网上，任其自主学习。
+Presented with 10 million digital images found in YouTube videos, what did Google’s brain do? What millions of humans do with YouTube: looked for cats.
+面对YouTube视频里的大约1000万张数码图片，“谷歌大脑”能做些什么呢？他们要做的是成千上万的人在YouTube上所做的事情：找猫。
+The neural network taught itself to recognize cats, which is actually no frivolous activity. This week the researchers will present the results of their work at a conference in Edinburgh, Scotland. The Google scientists and programmers will note that while it is hardly news that the Internet is full of cat videos, the simulation nevertheless surprised them. It performed far better than any previous effort by roughly doubling its accuracy in recognizing objects in a challenging list of 20,000 distinct items.
+这个神经网络自主学习识别猫儿的方法， 说实在的，这可不是什么琐碎无聊的举动。本周，研究人员将在苏格兰爱丁堡的一次会议上展示自己的研究成果。谷歌科学家和程序设计员将会说明，虽然互联网上充满猫儿视频的事情已经不再是什么新闻，模拟的结果还是让他们大吃了一惊。这个系统在20000个不同物体里识别目标物的精确度大致上提高了一倍，远远高于以往的任何一次同类实验。
+The research is representative of a new generation of computer science that is exploiting the falling cost of computing and the availability of huge clusters of computers in giant data centers. It is leading to significant advances in areas as diverse as machine vision and perception, speech recognition and language translation.
+新生代的计算机科学得益于计算成本的降低，以及在巨型数据中心使用大型计算机集群的可能性。这项研究便是其代表，将给机器视觉和知觉、语音辨识以及语言翻译等诸多领域带来重要进步。
+Although some of the computer science ideas that the researchers are using are not new, the sheer scale of the software simulations is leading to learning systems that were not previously possible. And Google researchers are not alone in exploiting the techniques, which are referred to as “deep learning” models. Last year Microsoft scientists presented research showing that the techniques could be applied equally well to build computer systems to understand human speech.
+虽然研究人员所使用的某些计算机科学概念以前就存在，此次软件模拟却拥有十分巨大的规模，足以构筑之前不可能实现的学习系统。利用此类科技的并非只有谷歌的研究人员，他们所做的研究被称为“深度学习”模式。去年，微软科学家所展示的研究成果表明，该科技也可以被用来建造能理解人类语言的计算机系统。
+“This is the hottest thing in the speech recognition field these days,” said Yann LeCun, a computer scientist who specializes in machine learning at the Courant Institute of Mathematical Sciences at New York University.
+在纽约大学库兰特数学科学研究所(the CourantInstitute ofMathematical Sciences at New York University)从事机器学习技术研究的计算机科学家严恩·勒坤(YannLeCun)说：“现在这是语音辨识领域最热门的事。”
+And then, of course, there are the cats.
+当然，还有猫。
+To find them, the Google research team, lead by the Stanford University computer scientist Andrew Y. Ng and the Google fellow Jeff Dean, used an array of 16,000 processors to create a neural network with more than one billion connections. They then fed it random thumbnails of images, one each extracted from 10 million YouTube videos.
+为了找到猫，由斯坦福大学(StanfordUniversity)的计算机学家安德鲁·吴(Andrew Y. Ng)和谷歌员工杰夫·迪安(Jeff Dean)领导的谷歌研究小组用16000个处理器建造了一个神经网络，这个网络有10亿多个连接点。随后，他们向这个系统随机提供从1000万个YouTube视频中截取的缩略图，每个视频截取一张。
+Currently much commercial machine vision technology is done by having humans “supervise” the learning process by labeling specific features. In the Google research, the machine was given no help in identifying features.
+目前，多数商业机器视觉技术都是通过标注详细特征，由人工“指导”学习过程来完成的。而在谷歌的此项研究中，机器在识别特征时未得到任何辅助。
+“The idea is that instead of having teams of researchers trying to find out how to find edges, you instead throw a ton of data at the algorithm and you let the data speak and have the software automatically learn from the data,” Dr. Ng said.
+吴说：“我们的理念就是，把大量数据交给算法去处理，然后让数据自己说话，让软件自动从这些数据中学习，而不是由大量的研究人员去突破推进。”
+“We never told it during the training, ‘This is a cat,’ ” said Dr. Dean, who originally helped Google design the software that lets it easily break programs into many tasks that can be computed simultaneously. “It basically invented the concept of a cat. We probably have other ones that are side views of cats.”
+“在训练中我们从未告诉过它，‘这就是猫，’”迪安说。最初，他帮谷歌设计了能轻松将程序集分解为多项任务的软件，以便同时处理多个任务。“基本上是这个系统自主创造了‘猫’这个概念。系统甚至可能会找出猫的侧影图片。”
+The Google brain assembled a dreamlike digital image of a cat by employing a hierarchy of memory locations to successively cull out general features after being exposed to millions of images. The scientists said, however, that it appeared they had developed a cybernetic cousin to what takes place in the brain’s visual cortex.
+面对成千上万张图像，“谷歌大脑”使用了一组存储单元，逐步筛选出猫的共同特征，合成了一张朦胧的数码图像。此外，科学家们表示，他们似乎创建了一个人工智能系统，功能与人脑视觉皮质中发生的活动类似。
+Neuroscientists have discussed the possibility of what they call the “grandmother neuron,” specialized cells in the brain that fire when they are exposed repeatedly or “trained” to recognize a particular face of an individual.
+神经系统科学家们还探讨过制造所谓“祖母神经元”的可能性。这是人脑中的一些特化细胞，当某人的头像反复出现，或者“训练”它们识别某个头像时，它们就会产生反应。
+“You learn to identify a friend through repetition,” said Gary Bradski, a neuroscientist at Industrial Perception, in Palo Alto, Calif.
+“只有通过不断重复，你才能记得朋友的长相，”加利福尼亚州帕洛阿尔托“工业知觉”(IndustrialPerception神经系统科学家加里·布拉德斯基(Gary Bradski)说。
+While the scientists were struck by the parallel emergence of the cat images, as well as human faces and body parts in specific memory regions of their computer model, Dr. Ng said he was cautious about drawing parallels between his software system and biological life.
+计算机模型特定记忆区域里同时出现的猫图像、人脸和人类身体部分让科学家们十分震惊，但吴表示，他的态度比较谨慎，不会把这个软件系统和生命体划上等号。
+“A loose and frankly awful analogy is that our numerical parameters correspond to synapses,” said Dr. Ng. He noted that one difference was that despite the immense computing capacity that the scientists used, it was still dwarfed by the number of connections found in the brain.
+吴说：“有人把我们所设置的数值参数比成神经元上的突触，这样的类比是不太严密甚至可怕的。”他表示区别在于，尽管科学家们所使用的计算机处理能力很强大，但在人脑连接点的数量面前，它还是很微不足道。
+“It is worth noting that our network is still tiny compared to the human visual cortex, which is 106 times larger in terms of the number of neurons and synapses,” the researchers wrote.
+研究人员写道：“值得注意的是，和人脑视觉皮质相比，我们的系统仍然渺小。人脑视觉皮质上的神经元和突触的数量比它多出了106倍。”
+Despite being dwarfed by the immense scale of biological brains, the Google research provides new evidence that existing machine learning algorithms improve greatly as the machines are given access to large pools of data.
+虽然在生物大脑的庞大规模面前显得渺小，谷歌的研究还是提供了新的证据，证明在给予机器海量数据之后，现有的机器学习算法可以得到极大的提高。
+“The Stanford/Google paper pushes the envelope on the size and scale of neural networks by an order of magnitude over previous efforts,” said David A. Bader, executive director of high-performance computing at the Georgia Tech College of Computing. He said that rapid increases in computer technology would close the gap within a relatively short period of time: “The scale of modeling the full human visual cortex may be within reach before the end of the decade.”
+佐治亚理工学院计算机系(Georgia Tech College ofComputing)高性能计算系统实验室执行主任戴维·巴德(David A. Bader)表示：“和原来相比，斯坦福和谷歌的研究报告把神经网络的规模上限提高了一个量级。”他说，计算机科技的迅速发展会在相对较短的时期内缩小电脑和人脑的差距。“在这个十年结束之前，整个儿地模拟人类视觉皮质也不是不可能的事情。”
+Google scientists said that the research project had now moved out of the Google X laboratory and was being pursued in the division that houses the company’s search business and related services. Potential applications include improvements to image search, speech recognition and machine language translation.
+谷歌的科学家表示，现在这一研究项目已经移出谷歌X实验室，由负责搜索业务及相关服务的部门接手。未来可能的应用方向包括改进图像搜索、语音识别和机器语言翻译。

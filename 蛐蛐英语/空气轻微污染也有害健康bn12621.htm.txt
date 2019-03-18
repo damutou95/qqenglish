@@ -1,0 +1,12 @@
+Even low levels of air pollution may not be safe, a new study suggests.
+一项新研究表明，即使空气污染水平较低也未必安全。
+The Environmental Protection Agency rates air pollution based on concentrations of particles smaller than 2.5 microns, or PM2.5. It generally regards as safe an annual average of 12 micrograms per cubic meter of air, or 35 micrograms per cubic meter over a one-day period.
+美国国家环境保护局(Environmental Protection Agency, E.P.A.)评定空气污染程度的依据是小于2.5微米的颗粒物(PM2.5)的浓度。一般认定的安全标准为：年均浓度不超过12微克/立方米，日均浓度不超过35微克/立方米。
+Researchers studied all Medicare recipients in New England, using satellite data to rate short- and long-term exposure. They tracked daily air pollution from 2003 to 2008 and used Medicare data on residents older than 65 to calculate death rates. More than 550,000 people were included in the analysis, published in Environmental Health Perspectives.
+一项发表在《环境与健康展望》杂志(Environmental Health Perspectives)上的新研究以新英格兰地区的所有医疗保险(Medicare)参保人为研究对象，并利用卫星数据评定了这些人对污染物的短期和长期暴露程度。研究人员跟踪了2003至2008年的日空气污染水平，并使用65岁以上居民的医保数据计算死亡率。分析共计纳入了超过550000人。
+Generally, E.P.A. standards were met. But each 10 microgram per cubic meter increase in PM2.5 was associated with a 2.14 percent increase in death rate over a two-day period, and a 7.52 percent increase over a year.
+总体而言，空气达到了E.P.A.标准。但是，PM2.5的浓度每提高10微克/立方米分别与一两天内的死亡率增加2.14%以及年死亡率增加7.52%相关。
+Even in rural areas like northern Maine, where the E.P.A. standard was consistently met, the results were similar. For each 10 microgram increase, there was a 2.14 percent higher death rate short-term, and 9.28 percent higher over a full year.
+即使是在缅因州北部这样空气质量始终满足E.P.A.标准的农村地区，分析也得出了类似的结果。PM2.5的浓度每提高10微克/立方米分别与短期死亡率增加2.14%及年死亡率增加9.28%相关。
+“The E.P.A. should tighten its standards,” said the lead author, Liuhua Shi, a doctoral student at the T.H. Chen Harvard School of Public Health, “and we need to reduce particles in the air, which we can do with off-the-shelf technologies.”
+“E.P.A.应该制定更严格的标准，”该研究的主要作者，哈佛大学公共卫生学院(Harvard T.H. Chan School of Public Health)的博士生施琉华（Liuhua Shi，音译）说，“我们需要减少空气中的颗粒物，用现成的技术就可以实现这一目标。”

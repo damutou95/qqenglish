@@ -1,0 +1,12 @@
+SEATTLE — Apple and Samsung have been suing each other for years over patent disagreements. But Microsoft and Samsung took a different tack, signing a patent licensing deal in 2011 that has kept the peace between the two companies.
+西雅图——多年来，苹果(Apple)和三星(Samsung)一直在因为专利纠纷相互起诉。但微软(Microsoft)和三星采取了不同的做法，双方于2011年签署了一项专利许可协议，从而让这两家公司和平共处。
+Until now. On Friday, Microsoft filed a lawsuit against Samsung, accusing the company of going back on the patent licensing deal the two signed three years ago.
+但现在，这种和平被打破了。周五，微软提起诉讼，指控三星违反了双方三年前签署的专利许可协议。
+In the lawsuit, Microsoft said that Samsung stopped making royalty payments on time last fall and is refusing to pay interest for the delay, as required by their 2011 agreement, which related to Samsung’s use of Microsoft’s intellectual property in its Android smartphones and tablets. Samsung threatened to violate the agreement again, according to Microsoft, because it felt that Microsoft’s acquisition of Nokia’s mobile business amounted to a breach of contract.
+微软在诉讼中称，三星去年秋天停止按时支付专利使用费，而且现在拒绝根据双方2011年签订的协议，支付拖欠款项的利息。双方签订的协议，涉及三星在其Android智能手机和平板电脑上使用微软的知识产权。微软称，因为认为微软收购诺基亚(Nokia)移动业务的举动构成违约，三星威胁会再次违反协议。
+Microsoft denied that the Nokia deal, which was completed in April, violated the previous agreement. In a blog post, David Howard, Microsoft’s deputy general counsel and corporate vice president, suggested that the real reason Samsung decided to stop paying was that its smartphones sales have quadrupled since the two companies signed their agreement. While the terms of the deal are confidential, royalty payments by licensees like Samsung typically go up as sales increase.
+微软和诺基亚之间的交易是在4月完成的，微软否认该交易违反了之前和三星签订的协议。在一篇博客帖子中，微软副总法律顾问、企业副总裁大卫·霍华德(David Howard)表示，三星决定停止付费的真正原因是，两家公司签订协议以来，三星智能手机的销量提高到了以前的四倍。尽管该协议的条款是保密的，但像三星这样的被许可方所支付的专利费，通常会随着销量的提高而上涨。
+In a statement, Samsung said it was still reviewing the complaint and would “determine the appropriate measures in response.”
+三星在一份声明中称，仍在研究相关起诉，并将“确定适当的措施予以回应”。
+The heavily redacted lawsuit does not say how much money Microsoft believes it is owed by Samsung. Analysts have estimated that Microsoft receives billions of dollars a year in payments through licensing agreements with Android-device makers.
+公布的起诉书经过了大幅删减，其中并未显示微软认为三星欠自己多少钱。分析人士估计，通过与Android设备制造商之间的许可协议，微软每年可以收取数十亿美元。

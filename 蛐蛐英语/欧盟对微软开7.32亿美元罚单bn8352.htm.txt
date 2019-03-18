@@ -1,0 +1,48 @@
+BRUSSELS — The European Union fined Microsoft $732 million on Wednesday for failing to respect an antitrust settlement with regulators. But in a highly unusual mea culpa, the European Union’s top antitrust regulator said that his department bore some of the responsibility for Microsoft’s failure to respect a settlement that caused the fine. 
+布鲁塞尔——周三，欧盟向微软公司(Microsoft)开出了7.32亿美元的罚单，因为该公司未能履行和监管者达成的一项反垄断和解协议。不过，欧盟最高反垄断监管者在一次非同寻常的认错行为中承认，对微软因未能遵守协议而被处以罚款一事，他的部门也负有一定责任。
+Joaquín Almunia, the E.U. competition commissioner, said the Union had been “naïve” to put Microsoft in charge of monitoring its adherence to the deal it agreed to in 2009, when his predecessor let the company escape a fine in exchange for offering users of its Windows software a wider choice of Internet browsers.
+欧盟竞争事务专员华金·阿尔穆尼亚(Joaquín Almunia)说，欧盟让微软自己监管自己对2009年达成的一项和解协议的遵守情况，这是很“幼稚”的做法。当年，他的前任取消了针对该公司的一项罚款，作为交换，微软公司承诺为Windows软件用户提供更多的网络浏览器选择。
+But Mr. Almunia insisted that the enforcement of settlements could be sufficiently strengthened to ensure that companies abide by their pledges, and he signaled that he would not retreat from his goal to use such deals to avoid lengthy legal battles with major companies in swiftly evolving technology markets.
+但阿尔穆尼亚坚持认为，和解协议本来是可以得到充分履行，由此确保公司遵守承诺的。他还示意，在迅速发展的科技市场，他会坚持自己的目标，继续使用这样的和解协议来避免和大公司打漫长的司法战。
+Settlements “allow for rapid solutions to competition problems,” Mr. Almunia said. “Of course such decisions require strict compliance” and the “failure to comply is a very serious infringement that must be sanctioned accordingly.”
+和解协议“可以快速解决竞争问题”， 阿尔穆尼亚说，“当然，这样的协议需要公司的严格遵守”，且“不守协议是很严重的违规行为，必须受到相应的制裁”。
+Microsoft agreed to alter Windows for five years to give users of newly purchased computers in Europe a ballot screen that would allow them to easily download other browsers from the Internet and to turn off Microsoft’s own browser, Internet Explorer.
+微软曾同意对Windows系统做出为期五年的改变，让购入新电脑的欧洲用户可以从选择界面上轻松下载其他浏览器，并可以关闭微软自己的Internet Explorer浏览器。
+Microsoft told the commission at the end of 2011 that it had been abiding by the deal. “We trusted the reports about the compliance,” Mr. Almunia said Wednesday.
+2011年底，微软告诉委员会，公司一直都遵守协议。“当时我们相信了他们的守约报告，”阿尔穆尼亚在周三说。
+In fact, the company had failed to include the ballot system in certain products starting in May 2011, affecting more than 15 million European users. The lapse came to light in July 2012, after rival companies reported its absence.
+实际上，从2011年5月开始，微软就没有把选择界面纳入旗下的某些产品中，影响了逾1500万欧洲用户。2012年7月，竞争对手举报了这一情况，微软公司的违规行为由此曝光。
+“We take full responsibility for the technical error that caused this problem and have apologized,” Microsoft said Wednesday. “We have taken steps to strengthen our software development and other processes to help avoid this mistake — or anything similar — in the future.”
+“对于导致该问题的技术错误，我们承担全责，并已经为此致歉，”微软在周三说，“我们已经采取措施来增强我们的软件开发和其他流程，以期避免同样或类似错误再次发生。”
+A Microsoft spokesman declined to comment on whether the company would appeal, but it seemed unlikely, as the company prefers to focus on its rivalry with Google. Microsoft is among the companies that have complained about Google’s business practices to Mr. Almunia
+一名微软发言人拒绝透露该公司是否会上诉，但上诉似乎不太可能，因为该公司更倾向于把重心放在和谷歌公司(Google)的竞争上。微软曾和其他公司一起向阿尔穆尼亚投诉谷歌的违规商业行为。
+The fine comes as Mr. Almunia’s office is negotiating with Google to try to resolve the commission’s concerns about the way it runs its Internet search service and its advertising business.
+微软受罚之际，阿尔穆尼亚的办公室正在和谷歌进行协商，力图解决委员会对谷歌网络搜索服务和广告业务运营方式的质疑。
+Mr. Almunia said Wednesday that attempts to reach a deal with Google were continuing and were unrelated to the decision taken against Microsoft. But he made it clear that the substantial fine was meant to serve as a warning to others.
+阿尔穆尼亚在周三表示，他们还在继续努力和谷歌达成协议，且此事和针对微软的处罚决定无关。但他明确表示，这笔数额巨大的罚款意在警醒其他公司。
+If Google eventually settles, it “will have to exert extra care to not give the impression that it is deviating from the commitments that such a settlement will entail” to avoid a similarly high fine, Mario Mariniello, a research fellow at Bruegel in Brussels and a former antitrust official, wrote in a blog post.
+布鲁塞尔布勒哲尔国际经济研究所(Bruegel)研究员、前反垄断官员马里奥·马林涅罗(Mario Mariniello)在博文中写道，如果最终同意和解，谷歌“需格外谨慎，以免造成这样一种印象，即公司违背了和解协议所规定的义务”，由此承受类似的高额罚款。
+But Mr. Almunia said some of the blame rested with regulators and indicated that the commission might never again, in effect, put the fox in charge of the henhouse.
+但阿尔穆尼亚表示，监管者对此负有一定责任。他还指出，实际上，委员会可能再也不会“让狐狸看管鸡舍”。
+“Maybe we should have tried to complement the responsibilities of the reports about the implementation, but we only reacted when we received the first complaint,” Mr. Almunia said. “Maybe in 2009 we were even more naïve than today.”
+“或许，我们本应该尝试完善关于协议履行报告的种种责任，事实却是，我们在收到第一例投诉之后才做出了回应，”阿尔穆尼亚说，“或许，在2009年的时候，我们比现在还要幼稚。”
+He said the commission would be more inclined to use trustees to police future settlements, would be more precise in defining their responsibilities and would “pay even more attention to the reports that the monitoring trustees will send to us.”
+他说，委员会更倾向于委托第三方来监督未来的和解协议，在定义他们的责任方面也会更加精准，并会“对受托监管者交给我们的报告给予更多重视”。
+Companies that agree to settlements usually pay for trustees, but the choices are vetted for conflicts of interest, according to E.U. officials.
+根据欧盟官员的说法，同意签订和解协议的公司通常应承担受托人的费用，但受托人应该接受有关利益冲突的审查。
+Since 2003, when the current settlement rule was introduced, the commission has taken 29 such decisions. But there were no appointments of independent monitoring trustees in the majority of those cases, including in a settlement with I.B.M. in late 2011.
+现行的和解协议规则于2003年出台，自那时以来，委员会一共达成了29项此类和解决议。不过，大部分和解案例都没有委任独立的受托监管者，包括在2011年和IBM达成的和解协议。
+Mr. Almunia said he had not yet decided whether to appoint a trustee to oversee whether Microsoft was adhering to the rest of its compliance period in the browser case, which runs to 2014.
+阿尔穆尼亚称，他尚未决定是否指派监管者去监督微软在浏览器协议的剩余时间里恪守规则。该协议将延续到2014年。
+Microsoft has been a special case in the history of E.U. antitrust enforcement, racking up a total of �2.26 billion, or $3.4 billion, in fines over about a decade.
+微软案件是欧盟反垄断执法史上的一个特殊例子。在约十年的时间里，罚款共达22.6亿欧元，约合34亿美元。
+Microsoft was the first company to pay so-called periodic penalties for failing to follow an order to make it easier for rival products to communicate with powerful server computers running Windows. That amount, nearly �900 million, was subsequently reduced to �860 million after the company appealed to the General Court of the European Union.
+微软是首家缴纳所谓周期性罚金的公司。因为微软未能执行相关命令，未能为竞争者的产品与使用Windows系统的强大服务器计算机接驳提供方便。微软向欧盟法院(General Court of the European Union)上诉之后，这笔近9亿欧元的罚金被降低至约8.6亿欧元。
+The decision against Microsoft was another milestone for E.U. antitrust law, and for Microsoft, which became the first company to be punished for failing to adhere to a settlement.
+对微软的处理是欧盟反垄断法的又一座里程碑，对微软来说也是一个重要事件，微软由此成为了首家因为未能执行和解协议而受罚的公司。
+Although the commission can levy fines of up 10 percent of a company’s most recent global annual sales, the penalty on Wednesday represented 1 percent of Microsoft’s annual sales, partly because the company cooperated with the commission after the issue came to light.
+尽管委员会可以课征高达微软最近一年全球年销售额10%的罚金，周三宣布的罚金却只有微软年销售额的1%，部分是由于在此事曝光之后，微软选择与委员会合作。
+Mr. Almunia said there had been no indication that Microsoft intentionally broke the settlement agreement.
+阿尔穆尼亚称，没有证据显示，微软违反和解协议是出于故意。
+The fact that nobody — apart, apparently, from rival companies — noticed the absence of the browser choice screen for more than a year has prompted critics of the European antitrust enforcement to question the effectiveness of the measure.
+无人注意到浏览器选择屏幕已经消失了一年多，当然，微软的竞争对手除外。这一事实使得欧洲反垄断执行状况的批评人士质疑，这一措施是否有效。

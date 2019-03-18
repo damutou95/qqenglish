@@ -1,0 +1,24 @@
+The year-end prediction lists from technology companies and research firms are -- let's be honest -- in good part thinly disguised marketing pitches: These are the big trends for next year, and -- surprise -- our products are tailored-made to help you turn those trends into moneymakers.
+老实说，科技公司和研究公司的年终预测清单在很大程度上就是稍加伪装的市场营销：这些是明年的大趋势，而且，你知道吗？我们为你量身定做的产品将帮助你把这些趋势转变为生财之道。 
+But I.B.M. has a different spin on this year-end ritual. It taps its top researchers worldwide to come up with a list of five technologies that are likely to advance remarkably over the next five years. The company calls the list Five in Five, with the latest released on Monday. And this year's nominees are innovations in computing sensors for touch, sight, hearing, taste and smell.
+但IBM在今年的年终预测上采取了不同的方式。公司让其全球的顶级研究人员们撰写了一份清单，描述五项可能在未来五年中显著发展的科技。该公司称这一清单为“五年中的五项科技”(Five in Five)，最新一期于周一发布。今年的提名是计算传感器领域的创新，涵盖触觉、视觉、听觉、味觉和嗅觉等方面。
+Touch technologies may mean that tomorrow's smartphones and tablets will be gateways to a tactile world. Haptics feedback techniques, infrared and pressure-sensitive technologies, I.B.M. researchers predict, will enable a user to brush a finger over the screen and feel the simulated touch of a fabric, its texture and weave. The feel of objects can be translated into unique vibration patterns, as if the tactile version of fingerprints or voice patterns. The resulting vibration patterns will simulate a different feel, for example, of fabrics like wool, cotton or silk.
+触摸技术可能意味着，未来的智能手机和平板可能会成为通往触觉世界的门户。IBM的研究人员预测，通过触觉反馈技术、红外和压敏技术，用户用手指划过屏幕就能感觉到纺织物的模拟触感，包括纺织物的质地和纹理。物体的触感可以被转化成独特的振动模式，就像触觉世界中的指纹或语音模式。生成的振动模式将模拟一种触感，例如像毛、棉或丝这类纺织物的触感。
+The coming sensor innovations, said Bernard Meyerson, an I.B.M. scientist and vice president of innovation, are vital ingredients in what is called cognitive computing. The idea is that in the future computers will be increasingly able to sense, adapt and learn, in their way.
+IBM科学家、创新部门的副总裁伯纳德·迈耶森(Bernard Meyerson)说，未来的传感器创新是认知计算领域的重要元素。其理念是，未来的电脑将越来越有能力以电脑自己的方式进行感知、适应和学习。
+That vision, of course, has been around for a long time -- a pursuit of artificial intelligence researchers for decades. But there seem to be two reasons that cognitive computing is something I.B.M., and others, are taking seriously these days. The first is that the vision is becoming increasingly possible to achieve, though formidable obstacles remain. I wrote an article in the Science section last year on I.B.M.'s cognitive computing project.
+当然，这种想法已经存在很长一段时间了——这是几十年来人工智能研究人员的追求。但似乎有两个原因可以解释IBM和其他公司如今对认知计算这一领域的重视。第一个原因是，这一理念已越来越可能实现，尽管依然存在巨大的障碍。我去年在科技版面发表过一篇有关IBM认知计算工程的文章。
+The other reason is a looming necessity. When I asked Dr. Meyerson why the five-year prediction exercise was a worthwhile use of researchers' time, he replied that it helped focus thinking. Actually, his initial reply was a techie epigram. "In a nutshell," he said, "seven nanometers."
+另一个原因是紧迫的必要性。我曾询问迈耶森博士，为什么让研究人员撰写五年预测是有意义的。他说这有助于集中思考。实际上，他最初的回答是一句科技的偈语。“简单地说，”他说，“7纳米。”
+Dr. Meyerson, who has a Ph.D. in solid-state physics, was talking about the physical limits on the width of semiconductor circuits, when they can't be shrunk any further. (The width of a human hair is roughly 80,000 nanometers.) Today, the most advanced chips have circuits 22 nanometers in width. Next comes 14 nanometers, then 10 and then 7, Dr. Meyerson said.
+固态物理学博士迈耶森说的是半导体电路宽度的物理限制，即不能被缩小到7纳米以下。（人类毛发的粗细大约是8万纳米。）今天，最先进的芯片所含的电路宽度是22纳米。迈耶森博士说，接下来还会出现14纳米宽的电路，然后是10纳米，然后是7纳米。
+"We have three more cycles, and then the biggest knobs for improving performance in silicon are gone." he said. "You have to change the architecture, use a different approach."
+“再经过三个周期，我们就超越了改善硅性能的最大极限。”他说。“你不得不改变这个体系，采用另一种方法。”
+"With a cognitive computer, you train it rather than program it," Dr. Meyerson said.
+“对于认知计算机，你是在训练它，而不是给它编程，” 迈耶森博士说。
+The cognitive path, if successful, would raise a machine's level of recognition of the world. Today, computers mimic human intelligence with brute force, collecting a vast amount of data and then sifting for statistical patterns that identify specific words, images, biological or chemical compounds.
+如果在认知领域取得成功，这将会提高一台计算机认知世界的水平。今天，电脑是以原始的编程方式来模拟人类智能，即在收集大量数据后筛选出的数据模式，以识别特定的词汇、图像、以及生物或化学混合物。
+But a cognitive computer, Dr. Meyerson said, would "not have to go for all the fine detail, but go up and see the interesting thing. This is about moving computing way, way up from where it is today."
+但迈耶森博士说，认知计算机“不一定要追求所有的细节，而是追求有趣的事。这意味着大大提升今天的计算水平”。
+He provides a sensor-based example. The computer is presented with a white powder in two piles. One is salt and the other is sugar. "It could taste the difference, without having to do a detailed chemical analysis," Dr. Meyerson explained.
+他举了一个基于传感器的例子：把两堆白色粉末放置在电脑前，一堆是盐，一堆是糖。“电脑不用进行详细的化学分析，而是通过尝味道，把他们区分出来，” 迈耶森博士解释道。

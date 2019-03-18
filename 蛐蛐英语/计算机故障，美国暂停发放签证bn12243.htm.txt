@@ -1,0 +1,18 @@
+The United States has been unable to issue visas to travelers around the world for two weeks because of a computer hardware failure that remains unresolved, State Department officials said Monday.
+本周一，美国国务院官员表示，由于计算机硬件故障仍然未排除，美国已有两周无法向全球各地的旅行者发放签证。
+The country gets an average of 50,000 visa applications worldwide every day. The vast majority of those applications are piling up while the department tries to fix a hardware issue linked to biometric data. The failure prevented officials from processing and transmitting fingerprints and photographs for security checks.
+美国平均每天会收到5万份来自全球各地的签证申请。目前绝大多数申请都堆积在案，因为国务院正在修复一个和生物识别数据相关的硬件问题。该故障导致官员无法处理和传输安检所需的指纹和照片。
+“We are working around the clock to fix it,” John Kirby, a department spokesman, said Monday. “More than 100 computer experts from both the private and public sectors across the United States are working on this.”
+“我们正在昼夜不停地修复故障，”该部门发言人约翰·柯比(John Kirby)本周一表示。“来自美国各地私营和公共部门的100多名计算机专家正在努力解决这个问题。”
+The system was not expected to come back online before next week, Mr. Kirby said. In the meantime, the department issued 1,500 visas deemed priority cases for medical or humanitarian reasons. The department also issued 750 visas for temporary farm workers from Mexico whose biometric data had been captured before the system crashed.
+柯比说，该系统估计直到下周才能重新投入使用。在此期间，该部门为医疗或人道主义服务申请者优先发放了1500张签证。同时还为来自墨西哥的临时农场工人发放了750张签证，因为这批申请者的生物特征数据在系统崩溃之前已经获取。
+There was no sign the computer failure was the result of a malicious act, nor was it the same software issue that caused shutdowns last year, officials said.
+官员说，没有任何迹象显示这起电脑故障是有人恶意为之，而且这和去年导致停机的软件故障不是同一个问题。
+Many embassies and consulates were forced last week to reschedule visa appointments, the department said in a notice posted on its website. Many people apply well before they plan to travel and will receive their visas in time for their trips, the statement said. Passports were still being issued in the United States and abroad, with some delays.
+该部门官网上张贴的公告称，上周，很多大使馆和领事馆不得不重新安排签证面谈时间。该公告说，在旅行计划之前及早申请签证的人，可以及时获得签证。在美国和国外，护照仍在发放中，只是有一些延迟。
+Ashley Garrigus, a spokeswoman for the Bureau of Consular Affairs, said that there had been a backup system in place, but that it had also failed.
+领事事务局(Bureau of Consular Affairs)发言人阿什利·盖瑞古斯(Ashley Garrigus)表示，他们有一个备份系统，但也失灵了。
+“While switching to the backup system, we discovered that the data was damaged and unusable,” she wrote in an email. “We deeply regret the inconvenience to travelers and recognize the hardship to those waiting for visas, and in some cases, their family members or employers in the United States.”
+“我们切换到备份系统时，发现数据已经损坏，无法使用，”她在一封电邮中写道。“对于给旅客造成不便，我们深感遗憾；我们明白那些等待签证的人——以及某些情况下，他们的家人——或者在美国的雇主，所面临的艰难处境。”
+People traveling for work, vacations and family visits were all among the affected. The Nigerian musician King Sunny Adé was forced to cancel a United States tour, said Par Neiburger, the artistic director of the World Music Institute, who was organizing his New York concert.
+受此影响的还有那些出差、度假和探亲的人。“歌王”桑尼·阿德(King Sunny Adé)的纽约音乐会主办者、世界音乐学院(World Music Institute)艺术总监帕·勒布格(Par Neiburger)说，这位尼日利亚音乐人已经被迫取消了美国巡演。

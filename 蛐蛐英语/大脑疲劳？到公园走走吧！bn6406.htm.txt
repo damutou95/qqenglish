@@ -1,0 +1,40 @@
+Scientists have known for some time that the human brain’s ability to stay calm and focused is limited and can be overwhelmed by the constant noise and hectic, jangling demands of city living, sometimes resulting in a condition informally known as brain fatigue.
+科学家早就发现，人类大脑保持镇静、全神贯注的能力是有限的，这种能力会在持续的噪音和城市生活忙乱嘈杂的逼迫下不堪重负。于是有时候，人们便产生了俗称“脑疲劳”的状态。
+With brain fatigue, you are easily distracted, forgetful and mentally flighty — or, in other words, me.
+脑疲劳时，你很难集中精力、容易忘事、精神错乱——换言之，就是我这个样子。
+But an innovative new study from Scotland suggests that you can ease brain fatigue simply by strolling through a leafy park.
+不过，苏格兰的一项创新性研究告诉人们：只需在绿叶丛生的公园里逛上一逛，脑疲劳就能够减轻。
+The idea that visiting green spaces like parks or tree-filled plazas lessens stress and improves concentration is not new. Researchers have long theorized that green spaces are calming, requiring less of our so-called directed mental attention than busy, urban streets do. Instead, natural settings invoke “soft fascination,” a beguiling term for quiet contemplation, during which directed attention is barely called upon and the brain can reset those overstretched resources and reduce mental fatigue.
+走进绿地——比如公园或种有很多树的广场——可以减压和提高注意力，这并不算是新奇发现。研究者早已论述过绿地具有镇定效果；比起忙碌的城市街道，绿地不要求人们有太多的“定向注意力”。自然环境激发出的“软引力” （soft fascination，一个形容静思冥想的迷人词语）几乎不需要人脑产生任何定向注意，从而大脑可重置被过度使用的精力，缓解脑疲劳。
+But this theory, while agreeable, has been difficult to put to the test. Previous studies have found that people who live near trees and parks have lower levels of cortisol, a stress hormone, in their saliva than those who live primarily amid concrete, and that children with attention deficits tend to concentrate and perform better on cognitive tests after walking through parks or arboretums. More directly, scientists have brought volunteers into a lab, attached electrodes to their heads and shown them photographs of natural or urban scenes, and found that the brain wave readouts show that the volunteers are more calm and meditative when they view the natural scenes.
+尽管此理论得到了广泛认同，但一直难于验证。以前有研究发现：比起主要生活在钢筋混凝土建筑中的人们，居住在树多或公园附近的人唾液中皮质醇（一种应激激素）水平较低。注意力有缺陷的儿童，在公园或植物园散步之后容易集中注意力，认知测验的成绩有所提高。更直接的研究是：科学家把志愿者带到实验室，在他们头上装戴检测电极，然后给他们看自然风景或城市街景的照片。脑电波信号表明，志愿者在看自然风景的照片时更加沉稳、镇静。
+But it had not been possible to study the brains of people while they were actually outside, moving through the city and the parks. Or it wasn’t, until the recent development of a lightweight, portable version of the electroencephalogram, a technology that studies brain wave patterns.
+然而实验室外、行走于城市与公园之间的人们，他们的大脑如何反应还一直无法被监测——或者说直至最近，在一种轻型便携的脑电图记录仪发明出来之前，还没被监测过。
+For the new study, published this month in The British Journal of Sports Medicine, researchers at Heriot-Watt University in Edinburgh and the University of Edinburgh attached these new, portable EEGs to the scalps of 12 healthy young adults. The electrodes, hidden unobtrusively beneath an ordinary looking fabric cap, sent brain wave readings wirelessly to a laptop carried in a backpack by each volunteer.
+新研究发表于2013年3月《英国运动医学杂志》(The British Journal of Sports Medicine)上。英国爱丁堡的赫瑞瓦特大学(Heriot-Watt University)和爱丁堡大学(University of Edinburgh)的科学家们把这种新型便携式脑电波仪(EEG, electroencephalo-graph)贴在了12名健康年轻的成年人的头皮上。电极不露痕迹地藏在一顶貌似普通的针织帽下面，通过无线网络将脑波数据传递到每个志愿者背包里的手提电脑上。
+The researchers, who had been studying the cognitive impacts of green spaces for some time, then sent each volunteer out on a short walk of about a mile and half that wound through three different sections of Edinburgh.
+这些研究者以前曾探索过绿地环境对认知的影响。他们让志愿者绕着爱丁堡三个不同地区步行大约1.5英里（约2.4千米）。
+The first half mile or so took walkers through an older, historic shopping district, with fine, old buildings and plenty of pedestrians on the sidewalk, but only light vehicle traffic.
+志愿者在第一个0.5英里内会穿过古老的历史购物区，那里有精致的古典建筑，便道上有很多行人，但车流量很小。
+The walkers then moved onto a path that led through a park-like setting for another half mile.
+接下来的0.5英里，志愿者会走进公园一类的地区。
+Finally, they ended their walk strolling through a busy, commercial district, with heavy automobile traffic and concrete buildings.
+最后一段步行在忙碌的商业区中结束。这里到处是水泥建筑、车水马龙。
+The walkers had been told to move at their own speed, not to rush or dawdle. Most finished the walk in about 25 minutes.
+志愿者被要求按自己的速度行走，不要着急也别太慢。大多数人在25分钟之内走完全程。
+Throughout that time, the portable EEGs on their heads continued to feed information about brain wave patterns to the laptops they carried.
+整个过程中，志愿者头上的便携式脑电波仪不断将脑电波的波形反馈到他们背着的手提电脑上。
+Afterward, the researchers compared the read-outs, looking for wave patterns that they felt were related to measures of frustration, directed attention (which they called “engagement”), mental arousal and meditativeness or calm.
+然后，研究者对输出信号进行比较，寻找认为与沮丧、定向注意力（他们称之为“投入度”）、精神唤醒(mental arousal)以及沉静和镇定相关的波形。
+What they found confirmed the idea that green spaces lessen brain fatigue.
+分析结果证实了绿地能减轻脑疲劳的理论。
+When the volunteers made their way through the urbanized, busy areas, particularly the heavily trafficked commercial district at the end of their walk, their brain wave patterns consistently showed that they were more aroused, attentive and frustrated than when they walked through the parkland, where brain-wave readings became more meditative.
+当最后走过高度城市化的、繁华的街道——特别是车流量很大的商业区时，志愿者的脑电波一致显示他们的精神处于更加被唤醒的状态，更留心四周环境，也更沮丧。然而当他们走在公园里时，脑电波波形变得更为沉静。
+While traveling through the park, the walkers were mentally quieter.
+穿行于公园时，步行者平静多了。
+Which is not to say that they weren’t paying attention, said Jenny Roe, a professor in the School of the Built Environment at Heriot-Watt University, who oversaw the study. “Natural environments still engage” the brain, she said, but the attention demanded “is effortless. It’s called involuntary attention in psychology. It holds our attention while at the same time allowing scope for reflection,” and providing a palliative to the nonstop attentional demands of typical, city streets.
+此研究的负责人、赫瑞瓦特大学建筑学院教授珍妮·罗伊(Jenney Roe)说，这并不是说他们不关注周围情况。她解释道，自然环境仍然会“吸引大脑注意”，不过此类吸引力是“无需花费精力的”，心理学称之为“无意注意” (involuntary attention)。它占有一定的注意，但同时也为精神反应留有余地；可作为由典型市区街道诱发的不停歇注意力的缓和剂。
+Of course, her study was small, more of a pilot study of the nifty new, portable EEG technology than a definitive examination of the cognitive effects of seeing green.
+当然，她的实验样本量小，更像是为新型小巧的便携脑电波仪所做的初步研究，而非眼观绿色对认知影响的决定性研究。
+But even so, she said, the findings were consistent and strong and, from the viewpoint of those of us over-engaged in attention-hogging urban lives, valuable. The study suggests that, right about now, you should consider “taking a break from work,” Dr. Roe said, and “going for a walk in a green space or just sitting, or even viewing green spaces from your office window.” This is not unproductive lollygagging, Dr. Roe helpfully assured us. “It is likely to have a restorative effect and help with attention fatigue and stress recovery.”
+尽管如此，罗伊教授说，他们的发现还是具有一致性并强有力的。而且，从我们这些生活在城市里、注意力被迫高度集中的人的角度来说，是很有价值的。罗伊说，研究结果意味着，现在，你就应当考虑“放下工作休息一会。到绿地走一走，坐一坐；甚至仅仅从你的办公室窗户向外眺望绿地也可以。”这可不是什么没有效率地浪费时间，罗伊教授适时地让我们放心：“这样做很有可能帮你恢复精力，解决脑疲劳，减轻压力。”

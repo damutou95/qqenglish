@@ -1,0 +1,46 @@
+Chances are, you plug in your phone before you go to bed at night, thinking it’s best to greet the morning with a fully charged device.
+晚上睡觉前，你可能会把手机接上电源，想着第二天一早就能看到一部电量满格的设备。
+Is this a good idea?
+这是个好主意吗？
+That depends.
+不一定。
+Here’s the thing. Many people don’t expect to keep their phones for much longer than two years.
+问题在于，许多人并没有让一部手机用满两年以上的打算。
+For the most part, experts say, those people are not going to notice much damage to their phone batteries before they start hankering for a new device.
+业内人士称，大多数情况下，这些人在对一部新设备心生向往之前，并不会注意到旧设备的电池受损有多严重。
+If that sounds like you, feel free to charge every night, and as often as you like in between.
+如果你就属于这种情况，那你大可以每天晚上都充电，白天也可以想充几次就充几次。
+But frequent charging takes a toll on the lithium-ion batteries in our phones. And it’s not because they can be overcharged, said Edo Campos, a spokesman for Anker, which produces phone chargers.
+但频繁充电会伤害手机的锂离子电池。而手机充电器厂商Anker的发言人埃多·坎波斯(Edo Campos)说，原因并不在于它们不可以被过度充电。
+“Smartphones are, in fact, smart,” Mr. Campos said. “They know when to stop charging.”
+“事实上，智能手机很聪明，”坎波斯说。“它们知道该在何时停止充电。”
+Android phones and iPhones are equipped with chips that protect them from absorbing excess electrical current once they are fully charged.
+安卓手机和iPhone一旦充好电，内置的芯片就会防止它们吸收多余的电流。
+So in theory, any damage from charging your phone overnight with an official charger, or a trustworthy off-brand charger, should be negligible.
+因此，理论上用原厂充电器或信得过的其他厂牌的充电器给手机彻夜充电，所造成的损害基本可以忽略不计。
+But the act of charging is itself bad for your phone’s battery.
+但充电行为本身对手机电池是有害的。
+Here’s why.
+理由如下。
+Most phones make use of a technology that allows their batteries to accept more current faster. Hatem Zeine, the founder, chief scientist and chief technical officer of the wireless charging company Ossia, says the technology enables phones to adjust to the amount of charge that a charger is capable of supplying.
+大多数手机都采用了一种可以让电池快速充电的技术。无线充电装置生产企业Ossia的创始人、首席科学家及首席技术官哈特姆·泽恩(Hatem Zeine)说，这种技术会让手机做出调整，适应充电器能够供应的电量。
+The technology allows power to pulse into the battery in specific modulations, increasing the speed at which the lithium ions in the battery travel from one side to the other and causing the battery to charge more quickly.
+该技术允许以特定的脉冲调制方式将电充入电池，可以提高锂离子在电池中的移动速度，从而让电池更快地充好电。
+But this process also leads lithium-ion (and lithium-polymer) batteries to corrode faster than they otherwise would.
+但与常规充电方式相比，这一过程也会导致锂离子（以及锂聚合物）电池的耗损速度加快。
+“When you charge fast all the time, you limit the life span of the battery,” Mr. Zeine said.
+“总是快速充电的话，电池的使用寿命就会降低，”泽恩说。
+Is there a solution?
+有什么解决办法吗？
+If you’re intent on preserving a lithium-ion battery beyond the lifetime of the typical phone or tablet, Mr. Zeine suggested using a charger meant for a less powerful device, though he couldn’t guarantee that it would work.
+如果你有意保护锂离子电池，想让它的寿命比一般的手机或平板电脑更长，泽恩建议使用专为小功率设备配备的充电器，但他不能保证该方法一定有效。
+“For example, if you used an iPhone charger on an iPad Pro, it’s going to charge very slowly,” Mr. Zeine said. “If the electronics are right, they can actually preserve the battery because you’re always charging it slowly.”
+“举个例子，如果用iPhone充电器给iPad充电，速度会很慢，” 泽伊内说。“如果用对了充电器，它们真的能保护电池，因为你始终在用很慢的速度充电。”
+People looking to preserve their batteries should make sure their phones don’t become overheated, Mr. Campos advised, because high temperatures further excite the lithium-ion in batteries, leading to even quicker deterioration.
+坎波斯建议，想要保护电池的人应该确保其手机不会过热，因为高温会让电池中的锂离子以更快的速度移动，从而导致电池更快地耗损。
+Apple’s website says temperatures above 95 degrees Fahrenheit (or 35 Celsius) can “permanently damage battery capacity.”
+苹果官网称，温度超过95华氏度（或35摄氏度），“会对电池性能造成永久性损害”。
+Both Mr. Zeine and Mr. Campos noted that given the constant demand for new cellphones, charging overnight might not be a point of great concern for many people.
+泽恩和坎波斯都指出，鉴于对新手机的持续需求，很多人可能不太关心彻夜充电的问题。
+“All this actually doesn’t make a huge difference for consumers,” Mr. Campos said, citing a 2015 Gallup survey showing that 44 percent of smartphone users planned to upgrade their devices as soon as their providers allowed it — usually after two years, about the length of time it takes for batteries to start showing signs of wear.
+“对消费者而言，这一切其实并没有太大意义，”坎波斯援引盖洛普(Gallup)公司2015年开展的一项调查称，只要供应商允许，44%的智能手机用户会立刻更新手上的设备——那通常是在使用了两年之后，大体上也是电池开始出现老化迹象的时候。

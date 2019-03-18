@@ -1,0 +1,42 @@
+The Federal Aviation Administration, citing fire hazards, has warned against using Samsung Galaxy Note 7 smartphones on aircraft. Three Australian airlines and the German carrier Lufthansa have outright banned their use onboard.
+美国联邦航空管理局(Federal Aviation Administration)以火灾危险为由警告不要在飞机上使用三星盖乐世Note 7(Samsung Galaxy Note 7)智能手机。三家澳大利亚航空公司和德国汉莎航空公司(Lufthansa)则明确禁止在机上使用该产品。
+But the threat of airliner fires is not limited to Samsung devices, which the company has offered to replace. And the hazard is far more than theoretical.
+不过，飞机上的火灾威胁不仅限于三星的电子设备（三星已提出调换）。这些危险也不仅是理论上的。
+Qantas, one of the Australian carriers, had an onboard fire during a trans-Pacific flight this year when a passenger’s cellphone was crushed in the mechanism of a business-class seat and the phone’s lithium-ion battery ignited.
+今年，澳洲航空公司(Qantas)的飞机在一次跨太平洋飞行中发生火灾，一名乘客的手机被商务舱座位的机械装置压碎，锂离子电池起火。
+In January as a Delta Air Lines flight from Minneapolis to Atlanta arrived at the gate, crew members discovered that a carry-on bag containing two laptop computers had burst into flames, according to the FAA The smoke prompted some passengers to use the emergency exits and wait on the wings until help arrived.
+今年1月，美国联邦航空管理局报告，一架从明尼阿波利斯飞往亚特兰大的达美航空公司(Delta Air Lines)客机抵达登机口时，机组成员发现一件装有两台笔记本电脑的随身行李起火。烟雾迫使一些乘客使用紧急出口离开，在机翼上等待，直至救援人员到达。
+The problem is lithium-ion batteries, which have become the standard for portable consumer electronics, including phones, tablets and laptops, because of the power they can pack into a small package. They are also highly volatile.
+问题出在锂离子电池身上，它已成为便携式电子产品的标配，包括手机、平板电脑和手提电脑，因为一块小小的锂离子电池能存储大量电能。但它们也非常不稳定。
+Battery fires were considered a contributing factor in the crashes of three cargo planes in the last 10 years: an Asiana 747 in 2011, a UPS 747 in Dubai in 2010 and a UPS DC-8 in Philadelphia in 2006.
+电池起火被认为是过去10年中三架货运飞机坠毁的一个诱因：2011年韩亚航空公司(Asiana)的747飞机；2010年UPS的747飞机（在迪拜），以及2006年UPS的DC-8飞机（在费城）。
+In January, the FAA issued a warning that lithium-ion batteries in a cargo hold carried the “risk of a catastrophic hull loss” on an airplane.
+今年1月，美国联邦航空管理局发布警告，货舱中的锂离子电池对飞机具有“灾难性壳体损失风险”。
+So far there have been no airliner disasters specifically attributed to passengers’ digital devices. But experts worry about the sheer mathematics. The Royal Aeronautical Society in Britain estimates that even a single-aisle jet with only 100 passengers might have more than 500 lithium-ion batteries aboard. Those numbers, and the attendant fire risks, could eventually catch up with the air-traveling public.
+到目前为止，还没有明确因乘客的数码设备而造成的空难。但简单统计一下数字，就足以让专家担心。英国皇家航空协会(Royal Aeronautical Society in Britain)估计，就连一架仅能搭载100名乘客的单通道飞机也可能装有500多块锂离子电池。那些电池以及伴随的火灾风险可能最终伤害搭飞机旅行的公众。
+The question is: What to do about it — besides issuing advisories?
+问题：除了发布警告之外，我们还能怎么办？
+The FAA administrator, Michael P. Huerta, said in an email statement that the agency recognized that the batteries posed risks and that it was tracking all incidents in aircraft cabins “to help us determine what we can do.” Huerta urged passengers to put their devices “in a carry-on bag or other safe location” when not using them.
+美国联邦航空管理局局长迈克尔·P·胡尔塔(Michael P. Huerta)在电子邮件声明中称，该机构认识到电池具有风险，正在研究所有机舱事故，“帮助我们确定能做些什么”。胡尔塔强烈建议乘客把不用的电子设备“放入随身行李或其他安全的地方”。
+But the FAA is in a tough situation. Under the regulatory rules, it cannot ground the Galaxy Note 7 until the Consumer Product Safety Commission orders a recall. On Friday, the safety commission said it was working with Samsung on the terms of a recall and urged owners of the phones to stop using them. On Saturday, Samsung offered new guidance to owners: Turn off your phone and bring it in for a replacement.
+不过，美国联邦航空管理局处于艰难的境地。按照管理规定，它不能禁止盖乐世Note 7上飞机，除非消费产品安全委员会(Consumer Product Safety Commission)命令召回。周五，该安全委员会称，正在与三星协商召回事宜，并敦促那些手机的所有者不要使用它们。周六，三星给顾客们提供了新方案：关掉手机，拿来更换。
+Congress has limited the FAA’s ability to place restrictions on battery-powered devices on airplanes beyond the recommendations of the International Civil Aviation Organization, according to Laura Brown, an FAA spokeswoman. The organization, a U.N. agency, says the devices should not be transported on passenger planes as cargo or in checked baggage. As for in-cabin use, the organization defers to each country’s rules.
+据美国联邦航空管理局的发言人劳拉·布朗(Laura Brown)称，国会限制美国联邦航空管理局在国际民用航空组织(International Civil Aviation Organization)的建议之外，对机上电池供电设备进行更多限制。后者是联合国的下属机构，它表示，这些设备不应该在客机上作为货物运输，也不应在托运行李中运输。至于在机舱内的使用，该组织留给每个国家自行规定。
+Any attempt to seriously restrict or even ban devices powered by lithium-ion batteries would probably face an outcry from travelers, who have come to consider them an indispensable part of modern life. There would also be the question of who would enforce such rules, and how. Airport security check-in processes are already long and tedious, without adding a new layer of scrutiny.
+旅客们已经把手机视为现代生活不可缺少的一部分，任何严格限制甚至禁止这些以锂离子电池设备的尝试都可能招致强烈抗议。另外，还有谁来执行以及如何执行这些规定的问题。机场安检托运过程已经很漫长无聊，更别提再加一层审查。
+Until a few years ago, before the in-cabin use of phones and other electronic devices was allowed below 10,000 feet, it was widely known that passengers surreptitiously defied the rule. Flight attendants complained that it was impossible to police.
+几年前，在1万英尺以下的机舱内使用手机等电子设备不再被禁止。在那之前，众所周知，乘客往往偷偷地自行其是。乘务员抱怨说，他们无法管束。
+So the goal is to contain the hazard. In the event of a lithium-ion battery fire in flight, FAA standards may help minimize the damage.
+所以，目标是控制危险。当飞行中遇到锂离子电池着火的情况时，美国联邦航空管理局的标准也许可以帮助把损失降低到最小。
+Seat covers, carpets, curtains and dividers are made of special materials that are flame retardant, even against a lithium-ion battery fire, which burns in the neighborhood of 1,000 degrees Fahrenheit, according to Isidor Buchmann, an engineer who runs the informational site BatteryUniversity.com.
+座套、地毯、窗帘和分割帘由特殊的阻燃材料做成，甚至能抵挡锂离子电池引发的火情。据信息网站BatteryUniversity.com的运营工程师伊西多·布克曼(Isidor Buchmann)称，这种材料在周围温度达到1000华氏度（约合538摄氏度）时会燃烧。
+Some experts say those standards could suffice.
+有些专家称，这些标准已经足够。
+“It’s damned near impossible to propagate a fire on an airplane,” said George J. Ringger, an aeronautical engineer with his own consulting company who specializes in cabin interiors. “Could a passenger get burned? Yes. Would there be smoke that would propagate in the cabin? Do crews have protocols? Yes.”
+“在飞机上，火势几乎不可能蔓延，”航空工程师乔治·J·林格(George J. Ringger)说。他自己的咨询公司专门提供机舱内部设施方面的建议。“乘客是否有可能被烧伤？有可能。烟雾是否有可能在机舱蔓延？机组成员是否有应急方案？是的。”
+But some other fire and safety experts are not as sanguine. A laptop battery fire could take hours to burn itself out. And the smoke emitted would be abundant and toxic.
+但是其他一些火灾和安全专家不这么乐观。如果手提电脑的电池起火，可能要在数小时后才能烧尽。可能释放大量有毒烟雾。
+Michael Gilchrist is an engineer and co-owner of PlaneGard, a maker of a case meant to contain the fire and smoke if a battery starts to malfunction. Customers include Air Tahiti Nui, which carries the PlaneGard case on transoceanic flights.
+工程师迈克尔·吉尔克里斯特(Michael Gilchrist)是PlaneGard公司的联合所有者。该公司生产一种箱子，电池功能失常时放进去，可以限制火和烟雾蔓延。它的客户包括塔希提航空公司(Air Tahiti Nui)，后者在跨大洋的航班上配备了PlaneGard盒。
+“With a full-blown laptop, you see what happens,” Gilchrist said. “You have a 35- or 40-minute event. That could cause a lot of problems.”
+“对于一台完整的笔记本电脑，情况会是这样，”吉尔克里斯特说，“那会是一场持续35至40分钟的事故。会导致很多问题。”

@@ -1,0 +1,36 @@
+Frito-Lay is developing a new potato chip flavor, which, in the old days, would have involved a series of focus groups, research and trend analysis.
+菲多利食品公司(Frito-Lay)正在开发一种新口味的薯片，这在过去，就需要进行一系列的焦点小组调查、市场调研和趋势分析。
+Now, it uses Facebook.
+而现在，它使用了Facebook。 
+Visitors to the new Lay’s Facebook app are asked to suggest new flavors and click an “I’d Eat That” button to register their preferences. So far, the results show that a beer-battered onion-ring flavor is popular in California and Ohio, while a churros flavor is a hit in New York.
+菲多利在Facebook上的新应用程序邀请用户为新口味提供建议，并且按下“我会吃这个”的键，提交他们的偏好。目前为止，结果显示在加利福尼亚州和俄亥俄州啤酒洋葱圈口味较受欢迎，而在纽约西班牙油条口味则很流行。
+“It’s a new way of getting consumer research,” said Ann Mukherjee, chief marketing officer of Frito-Lay North America. “We’re going to get a ton of new ideas.”
+“这是开展市场调查的新手段，” 菲多利北美市场总监安·慕克吉(Ann Mukherjee)说道。“我们会收到大量的点子。”
+While consumers may think of social media sites like Facebook, Twitter and Foursquare as places to post musings and interact with friends, companies like Wal-Mart and Samuel Adams are turning them into extensions of market research departments. And companies are just beginning to figure out how to use the enormous amount of information available.
+消费者可能认为如Facebook、Twitter和Foursquare之类的社交媒体是发表想法、同朋友交流互动的平台，而像沃尔玛(Wal-Mart)和塞缪尔·亚当斯(Samuel Adams)啤酒公司等企业则把它们变为市场调查部门的延伸。而且这些公司正开始研究如何利用这些网站上的大量信息。
+When Wal-Mart wanted to know whether to stock lollipop-shaped cake makers in its stores, it studied Twitter chatter. Estée Lauder’s MAC Cosmetics brand asked social media users to vote on which discontinued shades to bring back. The stuffed-animal brand Squishable solicited Facebook feedback before settling on the final version of a new toy. And Samuel Adams asked users to vote on yeast, hops, color and other qualities to create a crowdsourced beer, an American red ale called B’Austin Ale that got rave reviews.
+当沃尔玛想知道是否应该在店里储备棒棒糖蛋糕机时，它研究了Twitter上的内容。雅诗兰黛(Estée Lauder)的MAC化妆品品牌让社交媒体用户投票，希望哪些颜色色度重新上市。而填充动物玩具公司Squishable在决定一个新玩具最终造型前，也收集了Facebook上的反馈意见。塞缪尔·亚当斯则让用户在酵母、啤酒花、色泽和其他质量方面进行投票，调和众口，创造出一种叫做B’Austin Ale的新品种，这种美国红啤获得了如潮好评。
+“It tells us exactly what customers are interested in,” said Elizabeth Francis, chief marketing officer of the Gilt Groupe. Gilt asks customers to vote on which products to include in a sale, and sets up Facebook chats between engineers and customers to help refine products. “It’s amazing that we can get that kind of real feedback, as opposed to speculating,” Ms. Francis said.
+“社交媒体可以准确地告诉我们顾客的喜好，” 吉尔特(Gilt Groupe)的市场总监伊丽莎白·弗朗西斯(Elizabeth Francis)说道。吉尔特邀请顾客投票选择要将哪些产品进行打折出售，并且在Facebook上发起讨论，让工程师和顾客交流，以改进产品。“这真是太棒了，现在我们可以得到真正的反馈，而不是靠猜测，”弗朗西斯说。
+Wal-Mart acquired the social media company Kosmix last year for an estimated $300 million, chiefly because of Kosmix’s ability to extract trends from social media conversations.
+去年，沃尔玛以约3亿美元的价格收购了社交媒体公司Kosmix，主要就是考虑到Kosmix能够从社交媒体上的对话中提取分析出市场趋势。
+The unit, now called @WalmartLabs, looks at Twitter posts, public Facebook posts and search terms on Walmart.com, among other cues, to help Wal-Mart refine what it sells. Its technology can identify the context of words, distinguishing “Salt,” the Angelina Jolie movie, from salt, the seasoning, for example. It sets baselines for what a normal level of buzz around, say, electronics or toys is, so it can measure when interest is getting high. It also analyzes sentiment, because if people overwhelmingly dislike a new video game, ordering pallets of the game is not a great bet.
+该部门现在被称做@WalmartLabs，负责研究Twitter、Facebook上公开发布的内容以及在Walmart.com上的搜索关键词，并结合另外一些线索，帮助沃尔玛改进其产品销售。它的技术可以辨别词语出现的不同语境，例如它可以区分 “Salt” 一词是指安吉丽娜·朱莉(Angelina Jolie)出演的电影《特工绍特》(Salt)还是调味品的“盐”。它会对某一产品获得的关注度设置一条基准线，如一个电子产品，或者一个玩具，这样它就能监测消费者兴趣的上升。它还能分析市场情绪，如果某个新出的电子游戏极其不受欢迎，那么买进大量这款游戏就不明智了。
+“There’s mountains and mountains of data being created in social media,” said Ravi Raj, vice president for products for @WalmartLabs, adding that the company used the data to decide what merchandise to carry where.
+@WalmartLabs产品副主管拉维·拉杰(Ravi Raj)说，“社交媒体产生着海量的信息。”他补充道，公司利用这些信息来决定在哪些地方出售哪些产品。 
+In one of its first analyses, performed last summer, @WalmartLabs found that cake pops — small bites of cake on lollipop sticks — were becoming popular. “Starbucks had just started getting them in their cafes, and people were talking a lot about it,” Mr. Raj said.
+@WalmartLabs在去年夏天进行了首批调查分析，其中他们发现，棒棒糖蛋糕——插在棒棒糖棍上的小蛋糕——变得流行了起来。拉杰说，“星巴克刚开始卖这些东西，而且人们对它的讨论也很多。”
+His team alerted merchants at Wal-Mart headquarters. The merchants had also heard about the product, and decided to carry cake-pop makers in Walmart stores. They were popular enough that the company plans to bring them back this holiday season.
+拉杰的团队将这一情况报告给了沃尔玛总部负责进货的人。他们也听说了这个产品，于是决定在沃尔玛商店里出售棒棒糖蛋糕机。该产品十分受欢迎，以致于公司计划在这个假期销售季再次推出。
+More recently, @WalmartLabs found that enthusiasm for “The Avengers” and “The Dark Knight Rises” was surging before the movies were released, and suggested that stores increase their orders of related merchandise. 
+不久前，@WalmartLabs发现在电影《复仇者联盟》(“The Avengers”)和《蝠侠前传3：黑暗骑士崛起》 (“The Dark Knight Rises”)放映前，人们对它们的兴趣急剧增长，于是建议沃尔玛商店增加对周边产品的进货。
+For Frito-Lay, seeking product ideas on Facebook, via the Lay’s Do Us a Flavor app, has a few advantages. Once the company sees what is popular and where, it can tailor its products to specific areas of the country. 
+对于菲多利而言，通过其在Facebook的应用程序“帮菲多利选个口味”搜集关于产品的建议好处颇多。一旦公司发现哪些产品在什么地方受欢迎，它就能在美国不同区域有针对性地销售。
+Frito-Lay has already run the contest overseas, resulting in chip flavors like hot and spicy crab in Thailand and pickled cucumber in Serbia.
+菲多利也在国外开展了此调查，于是在泰国就出现了辣螃蟹口味薯片，而塞尔维亚则有了腌黄瓜口味薯片。
+For the most part, when someone uses a brand’s Facebook app, the brand can obtain a range of personal information, said Mark LaRow, senior vice president for products at the software company MicroStrategy. MicroStrategy has built its own app, Wisdom Network, that can gain access to about 13 million private Facebook profiles once a user gives it permission.
+软件公司微策略(MicroStrategy)的高级产品副主管马克·拉罗(Mark LaRow)说，通常情况下，一个人使用了某一品牌的Facebook应用程序，该品牌就能获得他的一系列信息。微策略已经建立了自己的应用程序，“智慧网络”(Wisdom Network)，在得到许可的情况下，该程序能够获得约1300万个Facebook个人用户的基本资料。
+The app gathers information about users and their friends. Marketers might use the data to see what current or potential customers do and like, or what rich customers prefer versus poorer ones. (MicroStrategy cross-references app users’ job titles and locations, part of the standard information Facebook asks for, to estimate their likely salaries.)
+该应用程序会收集用户和他们朋友的信息。而营销人员可能利用这些数据，来研究当前以及潜在用户做什么或喜欢什么，或者富裕用户和相对低收入用户的偏好有何差异。（微策略建立了应用程序用户工作职位和地址的交叉互见，来估算他们的工资水平，而这些信息都是Facebook要求的基本信息。） 
+For instance, Mr. LaRow said that if the soccer team FC Barcelona, a MicroStrategy client, saw that a large number of its fans liked the actor Vin Diesel, it might pursue new partnerships.
+比如，拉罗说，如果微策略的客户，巴塞罗那足球俱乐部(FC Barcelona)发现很多球迷都喜欢范·迪塞尔(Vin Diesel)，它也许会考虑建立新的伙伴关系。

@@ -1,0 +1,40 @@
+LONDON — Ireland’s government on Tuesday responded to the clamorous criticism of its business-friendly tax arrangements by closing a loophole used by multinational giants like Google.
+伦敦——周二，爱尔兰政府表示将封堵一个被谷歌(Google)等大型跨国公司利用的税务漏洞，以此回应外界对该国有利于企业的税务安排提出的强烈批评。
+The European Union and the Obama administration have been increasingly vocal about the tax-avoidance strategies of multinational companies and the countries that enable them. The European Commission is conducting a broad investigation into the relationships between multinationals and perceived tax havens like Ireland, Luxembourg and the Netherlands.
+欧洲联盟(European Union)和奥巴马政府对跨国公司的避税策略，以及为它们提供避税条件的国家，提出了越来越强烈的批评。欧盟委员会(European Commission)正在对跨国公司与爱尔兰、卢森堡及荷兰之间的关系开展广泛的调查。这些国家被认为是避税港。
+In recent decades, Ireland has based much of its economic growth and jobs strategy on its low corporate tax rate and other incentives that enticed foreign companies like Google, Apple, Microsoft and Abbott Laboratories. Joe Tynan, tax partner at PricewaterhouseCoopers in Dublin, estimates that the loophole collectively saved companies billions of euros, although it’s difficult to pinpoint the exact amount.
+最近数十年，爱尔兰的经济增长和就业政策的基础，在很大程度上都是靠低廉的公司税和其他优惠政策，来吸引谷歌、苹果(Apple)、微软(Microsoft)和雅培(Abbott Laboratories)等外国企业。 普华永道(PricewaterhouseCoopers)驻都柏林税务合伙人乔伊·泰南(Joe Tynan)估计，这些漏洞给企业节省了数以十亿欧元计的资金，不过准确数字很难确定。
+But the change, announced on Tuesday as part of the annual budget statement, won’t necessarily make Ireland any less alluring to companies. For one, the government isn’t touching the country’s tax rate.
+但是，周二宣布的这项变动是年度预算的部分内容，不一定会减弱爱尔兰对各个企业的吸引力。比如，政府并未调整该国的税率。
+Critics also point to the type of Irish tax strategies that have enabled Apple to potentially avoid billions of dollars in taxes over the years. Those deals, which are part of the separate investigation by the European Commission, do not appear to involve the tax loophole the Irish government says it will close.
+批评者还把矛头对准了爱尔兰的一种税收策略，它让苹果公司在很多年时间里可能避税达数十亿美元。欧委会单独开展的调查就涉及这些税收安排，它们似乎与爱尔兰政府声称要封堵的税收漏洞没有关系。
+“I am skeptical as to how big a deal this really is,” said Crawford Spence, an accounting professor at Warwick Business School in Coventry, England. “In general, corporations don’t see much legitimacy in corporation tax, and Western countries don’t appear that interested in making them pay it, either.”
+“我怀疑这件事究竟有多大影响，”英格兰考文垂华威商学院(Warwick Business School)的会计学教授克劳福德·斯宾塞(Crawford Spence)说。“总体而言，企业并不认为公司税有多少正当性，而西方国家似乎也对征收这些税款不感兴趣。”
+The government is phasing out what is known as the “double Irish” provision. It allows corporations with operations in Ireland to make royalty payments for intellectual property to a separate Irish-registered subsidiary. That subsidiary, though incorporated in Ireland, typically has its home in a country that has no corporate income tax.
+政府正在逐步取消所谓的“爱尔兰面包片”模式所涉及条款。它允许在爱尔兰经营的企业，向该企业在爱尔兰注册的另外一家子公司支付知识产权使用费。这家子公司虽然在爱尔兰注册，但是其总部往往位于不征收企业所得税的国家。
+Take Google. Its Dublin headquarters are its main hub outside the United States, employing more than 2,500 people. A Dublin-based subsidiary for Google generates revenue, mostly from online advertising, and then pays it in royalties to a separate Google unit that is registered in Ireland but is resident in Bermuda for tax purposes.
+以谷歌为例，它在都柏林的总部是该公司在美国以外的主要处所，员工超过2500人。谷歌设在都柏林的一家子公司负责创造收入，主要是依靠网络广告；然后再把这些收入以知识产权使用费的名义，支付给在爱尔兰注册的另一家谷歌子公司。但是为了避税，后者登记的住所是百慕大群岛。
+Reuters reported that Adobe Systems and Yahoo were also among the multinationals with Irish-registered companies that were not tax residents of Ireland.
+路透社报道，跨国公司奥多比系统(Adobe Systems)和雅虎(Yahoo)也拥有在爱尔兰注册，但登记的住所不在爱尔兰，因而不向爱尔兰纳税的子公司。
+“Aggressive tax planning by the multinational companies has been criticized by governments across the globe and has damaged the reputation of many countries,” Michael Noonan, Ireland’s finance minister, told the Irish Parliament on Tuesday as part of a budget speech. “I am abolishing the ability of companies to use the ‘double Irish’ by changing our residency rules to require all companies registered in Ireland to also be tax-resident.”
+“跨国公司激进的税收计划受到了各国政府的批评，而且玷污了许多国家的名誉，”爱尔兰财政部长迈克尔·努南(Michael Noonan)周二在议会发表预算演讲时说。“我现在要修改关于住所规定，要求所有在爱尔兰登记的公司也必须是这里的税务居民，从而让那些公司无法再利用‘爱尔兰面包片’的模式。”
+Google declined on Tuesday to comment on the specifics of the double-Irish technique.
+周二，谷歌拒绝就“爱尔兰面包片”的具体情况发表评论。
+“As we’ve always said, it’s for governments to decide the law and for companies to comply with it,” Google said in a statement. “We’re deeply committed to Ireland and will work to implement these changes as they become law.”
+“我们始终认为，政府制定法律，企业遵守它们，”谷歌在一份声明中说。“我们非常重视在爱尔兰的业务，将在这些变动成为法律之后予以实施。”
+Apple and Microsoft declined to comment about their Irish tax strategies. Abbott Laboratories did not respond to calls.
+苹果和微软拒绝谈论在爱尔兰的税务策略，雅培没有回复记者多次提出的置评请求。
+Dublin’s defending the double-Irish provision has become steadily more difficult in the growing political debate about the tax payments made by multinationals.
+随着关于跨国公司纳税金额的政治讨论愈演愈烈，都柏林为“爱尔兰面包片”涉及的条款进行辩护的难度也越来越大。
+“I think this is part of an overall drive to try to get international companies to pay more tax,” Mr. Tynan said. “Ireland wants to be very competitive, but it has to do that within international rules, and there was a feeling that this was at the boundaries of those rules.”
+“我认为这是让跨国公司缴纳更多税款的整体趋势的一部分，”泰南说。“爱尔兰希望拥有很强的竞争力，但它这么做必须在国际规则的范围内。而且人们感到，这件事已经触碰到了这些规则的边界。”
+Along with Ireland’s tax dealings, the European Commission is also investigating Luxembourg’s relationship with Amazon and a finance unit of Fiat, the Italian automaker. The commission is also questioning Starbucks’s tax arrangements in the Netherlands. These investigations are separate from Ireland’s efforts to phase out certain tax policies.
+除了爱尔兰的税收政策，欧委会还在调查卢森堡与亚马逊(Amazon)以及意大利汽车制造商菲亚特(Fiat)旗下一家金融子公司的关系。欧委会也对星巴克(Starbucks)在荷兰的税务安排提出了质疑。这些调查与爱尔兰逐步取消某些税收政策的做法无关。
+At a meeting in Luxembourg on Tuesday, European Union officials gave the Irish announcement a cautious welcome. The European Commission, the union’s executive arm, “will have to look at the details and how it will work in practice,” said Algirdas Semeta, the bloc’s tax commissioner, “but the intention is a very good one.”
+欧盟官员周二在卢森堡的一次会议上对爱尔兰的决定表达了谨慎的欢迎。作为欧盟的行政分支，欧委会负责税收的委员阿尔及达斯·塞米塔(Algirdas Semeta)说，欧委会“必须关注具体细节，以及它们如何在实践中起到作用，但爱尔兰的意图很好”。
+A spokeswoman for the Irish Department of Finance said the government did not know how many of the many of 1,100 or so multinationals operating in Ireland use the double-Irish technique.
+爱尔兰财政部的一名发言人透露，爱尔兰政府并不清楚在该国开展业务的约1100家跨国公司中，究竟有多少公司采用了“爱尔兰面包片”手法。
+“As the measure largely relates to companies that are not currently within the scope of Irish taxation because they are not tax-resident here, accurate data on the number of companies affected by this change is not available,” she said, asking not to be identified by name in keeping with the department’s policy.
+“这些措施涉及的企业大多不是爱尔兰的税务居民，目前不在爱尔兰税收政策涵盖的范围内，因此无法得到有多少企业将受到政策变化影响的具体数据，”她说。为遵守财政部的规定，她要求不具名。
+Even as Ireland announced the end of the “double Irish,” it indicated that it was interested in creating something akin to an onshore alternative. Mr. Noonan said the government would explore developing a “knowledge development box,” which would provide tax breaks for revenue and royalties derived from intellectual property.
+在宣布终结“爱尔兰面包片”的同时，爱尔兰仍然表示，有兴趣创造一种类似于国内替代方案的东西。努南称，政府将研究制定一个“知识发展盒”政策，为源自知识产权的收入和使用费提供税收优惠。

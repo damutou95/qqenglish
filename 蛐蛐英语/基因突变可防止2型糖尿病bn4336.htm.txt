@@ -1,0 +1,42 @@
+A new study based on genetic testing of 150,000 people has found a rare mutation that protects even fat people from getting Type 2 diabetes. The effect is so pronounced — the mutation reduces risk by two-thirds — that it provides a promising new target for developing a drug to mimic the mutation’s effect.
+新发表的一项研究发现，一种罕见的基因突变可以防止人们患上2型糖尿病，即使是胖人。它把患病风险降低了三分之二，如此显著的效果为制药公司开辟了一个新的前景：开发一种药物来模仿这种基因突变的效果。这项新研究是以15万人的基因测试结果为基础进行的。
+The mutation destroys a gene used by pancreas cells where insulin is made. Those with the mutation seem to make slightly more insulin and have slightly lower blood glucose levels for their entire lives.
+产生胰岛素的胰细胞使用的一个基因遭到这种突变的破坏。有这种基因变异的人，产生的胰岛素比正常人略多，一生中的血糖水平都较普通人略低。
+Already Pfizer, which helped finance the study, and Amgen, which owns a company whose data played a key role in the research, are starting programs aimed at developing drugs that act like the mutation, the companies said.
+安进(Amgen)公司和资助这项研究的辉瑞公司(Pfizer)均表示，它们已经开始研制效果跟这种突变效果相似的药物了。安进旗下的一家公司提供的一些数据在这项研究中发挥了关键作用。
+But Timothy Rolph, a Pfizer vice president, cautioned it can take 10 to 20 years to get a drug to market after discovering something new about human genetics and disease.
+但辉瑞公司副总裁蒂莫西·罗尔夫(Timothy Rolph)提醒说，人类遗传学和疾病方面的新发现，可能需要10至20年时间才能转化成可以投放市场的药物。
+The study, published Sunday in Nature Genetics, involved a mutation so rare that finding it was only recently possible, with vast data from large numbers of people, researchers said.
+这项研究上周日发布在了《自然-遗传学》(Nature Genetics)上，研究人员说这种突变非常罕见，不久之前人们还无法发现它，这需要使用大量人口的海量数据。
+“The study is a tour de force, and the authors are the top people in the field,” said Dr. Samuel Klein, director of the center for human nutrition at Washington University School of Medicine, who was not involved in the study.
+“这项研究出类拔萃，论文作者是该领域的顶尖人士，”塞缪尔·克莱因(Samuel Klein)博士说。他是华盛顿大学医学院(Washington University School of Medicine)的人类营养中心主任，没有参与这项研究。
+This is the first time in diabetes research that a mutation that destroys a gene has proved beneficial, noted Louis Philipson, director of the Kovler Diabetes Center at the University of Chicago. For drug development, he said, “that is very powerful.”
+芝加哥大学(University of Chicago)科夫勒糖尿病中心(Kovler Diabetes Center)主任路易斯·菲利普森(Louis Philipson)指出，在糖尿病研究中，这还是第一次出现破坏基因的突变被证实是有益的情况。他说，对于药物研发而言，“这是相当重大的发现。”
+For scientists, the result was a surprise because the same mutation that protects people from diabetes, by destroying one copy of the gene, known as ZnT8, has the opposite effect in some strains of mice. Destroying that gene actually causes diabetes in the animals.
+对科学家来说，这是一个惊喜，因为这种让人免受糖尿病危害的突变（即破坏了一种名为ZnT8的基因），在某些品系的小鼠身上产生了截然相反的效果。ZnT8基因受到破坏，实际导致这些小鼠患上了糖尿病。
+The work began four years ago when a group of geneticists from academic institutions and Pfizer decided to search for gene mutations that protect against diabetes. Usually researchers look for mutations that increase — rather than decrease — the risk of diseases, with the aim of determining who gets a disease, and why.
+这项研究开始于四年前，当时一组来自学术机构和辉瑞公司的遗传学家决定寻找让人们免受糖尿病危害的基因突变。通常研究人员会寻找提高（而不是降低）患病风险的基因突变，目的是发现哪些人会因为何种原因罹患某种疾病。
+The group started with populations in Finland and Sweden, where 28,000 people had been studied for years. The data included their ages, weights and diseases, including diabetes.
+这个团队从芬兰和瑞典的人口着手进行研究，那里已经对2.8万人进行了多年研究。数据包括他们的年龄、体重，以及包括糖尿病在内的疾病。
+They compared people at either end of the spectrum of diabetes risk. One group of 352 people had Type 2 diabetes even though their risk seemed low. Their average age was about 50, they were lean and they did not smoke. The other group of 406 people was just the opposite. Their average age was about 80, and, Dr. Rolph said, “they had all the bad habits — they were overweight, they drank, they smoked.” And yet these people did not have diabetes.
+他们把糖尿病患病风险最高和最低的人群进行了比较。其中一组有352人患有2型糖尿病，尽管他们的患病风险似乎比较低：平均年龄在50岁左右，身材较瘦，不吸烟。另一组406人刚好相反：他们的平均年龄在80岁左右，罗尔夫博士说他们“有各种坏习惯——体重超重，而且喝酒、抽烟”。但这些人没有患上糖尿病。
+Two of the fat older people who were free of diabetes turned out to have a mutation that destroyed one copy of the ZnT8 gene. It was intriguing, but hard to know if the association was meaningful with only two people.
+他们发现，在两位没有患上糖尿病的肥胖老年人身上，突变破坏了ZnT8基因。这很有趣，但由于只有两个人，要了解这种联系是否普遍存在很困难。
+So the researchers expanded their work, studying the genes of 18,000 people in Sweden, fat and thin, old and young, with diabetes and without. They found another 31 people who seemed protected from diabetes and had mutations that destroyed the ZnT8 gene.
+因此，研究人员扩大了调查范围，在瑞典研究了1.8万人的基因，这些人中有胖有瘦，有老有少，有些患有糖尿病，有些没有。他们发现了另外31个似乎不会受到糖尿病危害，而且ZnT8基因也受到突变破坏的人。
+Then Dr. David Altshuler, deputy director of the Broad Institute of Harvard and M.I.T. and the study’s lead author, met with Dr. Kari Stefanson, chief executive of deCODE Genetics, a company with data on genes and diseases for the entire population of Iceland. The American drug company, Amgen, bought deCODE and its valuable genetic database.
+这时，该项研究的主要作者、哈佛大学和麻省理工学院博德研究所(Broad Institute)副主任戴维·阿特舒勒(David Altshuler)博士找到了基因解码(deCODE Genetics)公司的首席执行官卡里·斯蒂芬森(Kari Stefanson)博士。基因解码拥有冰岛全国人口的基因和疾病数据，该公司及其宝贵的基因库已经被美国制药公司安进收购。
+Dr. Stefanson searched deCODE’s database and quickly found 39 people out of 5,440 who had a mutation that destroyed the gene and who did not have diabetes. In contrast, just nine out of 3,727 diabetes patients had the mutation.
+斯蒂芬森博士在该公司的数据库里进行搜索，很快就在没有糖尿病的5440人中找到了39名携带这种破坏ZnT8基因的突变的人。与之形成对照的是，在3727名糖尿病患者中，只9人携带这种基因突变。
+“It took us five minutes,” Dr. Stefanson said. “It was a lovely little afternoon in our conference room.”
+“我们花了五分钟时间，”斯蒂芬森说。“那是在我们的会议室里度过的一个美妙下午。”
+At that point, Dr. Altshuler said, the group wrote a paper and submitted it to a medical journal. It was rejected, he said, after one of the reviewers said it must be wrong because it contradicted what was known from studies with mice.
+之后该团队撰写了一篇论文，并提交给一家医学期刊，阿特舒勒博士说。但文章被拒了，他说，审稿人说这肯定是错的，因为它跟用小鼠进行的研究结果相矛盾。
+The group went back for more data. They mapped the genes of 13,000 more people and once again found mutations destroying the same gene and associated with a markedly reduced risk of Type 2 diabetes.
+于是这个团队继续寻找更多的数据。他们绘制了另外1.3万人的基因图谱，同样发现了这种破坏ZnT8基因的突变，而且证实了这与患上2型糖尿病的风险显著降低之间存在联系。
+This time their paper was accepted for publication by Nature Genetics, Dr. Altshuler said.
+阿特舒勒说，这一次，他们的论文被《自然-遗传学》采纳了。
+Now the researchers are asking whether the mutation has any bad health effects.
+现在，研究人员正在调查这种突变是否会对健康产生任何不良影响。
+So far, Dr. Stefanson said, none has been found. With his data he has established that people with the mutation are no more likely to get 750 diseases he searched for.
+斯蒂芬森说，迄今为止还没有发现任何不良影响。根据他掌握的数据，他确定带有这种基因突变的人，患上他搜索的750种其他疾病的可能性并未提高。

@@ -1,0 +1,62 @@
+I AM afraid you’re eligible to read this column only if you can answer this question faced by eighth graders around the world:
+下面这个题是用来考世界各地八年级学生的，如果你答不上来，恐怕就不适合阅读这篇专栏了：
+What is the sum of the three consecutive whole numbers with 2n as the middle number?
+三个连续整数，中间一个是2n，它们的总和是多少？
+A. 6n+3
+A. 6n+3
+B. 6n
+B. 6n
+C. 6n-1
+C. 6n-1
+D. 6n-3
+D. 6n-3
+More than three-quarters of South Korean kids answered correctly (it is B). Only 37 percent of American kids were correct, lagging their peers from Iran, Indonesia and Ghana.
+超过四分之三的韩国孩子回答正确（答案是B）。美国孩子只有37%答对，落后于伊朗、印度尼西亚和加纳的同龄人。
+We know Johnny can’t read; it appears that Johnny is even worse at counting.
+我们知道美国小孩的阅读能力不行；看来他们的算术能力更糟糕。
+The Educational Testing Service released a global report finding that young adults from the United States rank poorly in reading but are even worse in math — the worst of all countries tested. This is the generation that will be in the labor force for the next half-century, struggling to compete with citizens of other countries.
+美国教育考试服务中心（Educational Testing Service，简称ETS）发布的一份全球报告称，美国年轻人的阅读能力排名不佳，但数学能力排名更糟——是所有参加测试的国家中最低的。这代人将在今后半个世纪成为劳动者，他们难与其他国家的公民竞争。
+It’s not just that American results are dragged down by poverty. Even American millennials with graduate degrees score near the bottom of international ranks in numeracy.
+这不仅仅是说美国人的测试结果受到了贫困的拖累。即使有研究生学位的美国千禧一代，在算术上的得分也在国际排名中接近垫底。
+We interrupt this column for another problem:
+下面再试试另一个问题：
+How many degrees does a minute hand of a clock turn through from 6:20 a.m. to 8 a.m. on the same day?
+从早上6:20到同一天的8点，时钟的分针旋转了多少度？
+A. 680 degrees
+A. 680度
+B. 600 degrees 
+B. 600度
+C. 540 degrees 
+C. 540度
+D. 420 degrees
+D. 420度
+Only 22 percent of American eighth-graders correctly answered B, below Palestinians, Turks and Armenians.
+只有22%的美国八年级学生给出了正确回答B，落后于巴勒斯坦人、土耳其人和亚美尼亚人。
+In a recent column, I offered a paean to the humanities. But it’s also true, as a professor notes in a letter to the editor, that science majors do take humanities courses. In contrast, humanities majors often desperately avoid any semblance of math or science (except for classes like “Physics for Poets”).
+在最近的专栏中，我为人文学科奉上了一曲赞歌。但是正如一位教授在给编辑的信中指出的，科学专业的学生事实上有在学习人文课程。相形之下，人文专业的学生往往拼命逃避任何和数学或科学沾边的东西（除了“诗人物理学”这样的课程）。
+Numeracy isn’t a sign of geekiness, but a basic requirement for intelligent discussions of public policy. Without it, politicians routinely get away with using statistics, as Mark Twain supposedly observed, the way a drunk uses a lamppost: for support rather than illumination.
+会算术不是怪咖的标志，而是对公共政策进行理性讨论的基本要求。路灯在醉鬼的眼里是用来支撑身体而不是照明的——据说语出马克·吐温(Mark Twain)，如果没有算术，政客三天两头像醉鬼利用路灯一样去利用统计数据，也不会被发现。
+(I believe American high schools and colleges overemphasize calculus and don’t sufficiently teach statistics. Statistical literacy should be part of every citizen’s tool kit.)
+（我相信美国高中和大学过分强调了微积分，而在统计方面教得比较少。统计应该是每一个公民应有的基本素养。）
+Public debates often dance around basic statistical concepts, like standard deviation, because too few Americans understand them. And people assume far too much of “averages.”
+公开辩论常常避开基本的统计概念，比如标准差，因为了解它们的美国人太少了。而人们对“平均数”有太多一厢情愿的理解。
+After all, American adults have, on average, one ovary and one testicle. But try finding such an “average person.”
+美国成年人平均每人有一个卵巢和一个睾丸。但你找到一个这样的“一般人”试试。
+Another pop quiz:
+再来一个临时小测验：
+A piece of wood was 40 centimeters long. It was cut into 3 pieces. The lengths in centimeters are 2x -5, x +7 and x +6. What is the length of the longest piece?
+一块木头有40厘米长。它被切成3段。以厘米为单位，三段木头长度分别是2x-5、x+7和x+6。最长的那段有多长？
+Only 7 percent of American eighth graders got that one right (the answer is 15 centimeters). In contrast, 53 percent of Singaporean eighth graders answered correctly.
+只有7%的美国八年级学生回答正确（答案是15厘米）。相比之下，新加坡八年级学生中有53%回答正确。
+I know many readers will grumblingly protest that they’re just not good at math! True, there are math prodigies who are different from you and me. When the great mathematician Carl Gauss was a young boy, his teacher is said to have asked his class to calculate the sum of all the numbers from 1 to 100. Gauss supposedly supplied the answer almost instantly: 5,050.
+我知道很多读者会发牢骚抗议说，他们只是不擅长数学而已！诚然，世界上有些数学天才异于你我常人。据说伟大的数学家卡尔·高斯(Carl Gauss)还是一个小男孩时，他的老师在课上要求学生计算从1到100所有数字的总和，高斯几乎瞬间就得出答案：5050。
+The teacher, flabbergasted, asked how he knew. Gauss explained that he had added 1 and 100, 2 and 99, and realized that there would be 50 such pairs each summing 101. So 50 times 101 equals 5,050.
+老师大吃一惊，问他怎么知道。高斯解释说，他把1和100相加，2和99相加，他意识到这样的对子有50个，每对的和为101。所以，50乘以101等于5050。
+So I agree: Let’s resent the Gausses of the world for being annoyingly smart. But let’s not use that as an excuse to hide from the rigor of numbers. Countries like Singapore manage to impart extraordinary math skills in ordinary children because they work at it.
+所以我同意：大家一起来怨恨高斯这种聪明得让人恼火的人。但我们不能把那当作借口来躲开严谨的数字。像新加坡这样的国家，就成功地让普通孩子掌握了良好的数学技能，因为他们在这方面努了力。
+Numeracy isn’t just about numbers, of course. It’s also about logic. Let me leave you with a logical puzzle — a family favorite, one that I first heard as a little kid — that isn’t mathematical at all. Yet people with math training seem better at thinking it through and solving it:
+算术当然不仅仅是数字。它还涉及逻辑。下面有一个逻辑题——是我家里人最喜欢的一个，我第一次听到它的时候还是一个小孩——完全和数学无关。然而，接受过数学培训的人似乎更善于思考并解决它：
+You’re in a dungeon with two doors. One leads to escape, the other to execution. There are only two other people in the room, one of whom always tells the truth, while the other always lies. You don’t know which is which, but they know that the other always lies or tells the truth. You can ask one of them one question, but, of course, you don’t know whether you’ll be speaking to the truth-teller or the liar. So what single question can you ask one of them that will enable you to figure out which door is which and make your escape? 
+你在一个地牢里，地牢有两扇门，其中一扇是生门，另一扇是死门。地牢里除你之外只有两个人，其中一人总是讲真话，另一个总是说谎。你不知道谁讲真话谁说谎，但他们互相知道。你可以问他们其中一人一个问题，当然，你不知道你问的究竟是老实人还是骗子。那么，这个问题该怎么问，才能知道哪扇是生门，哪扇是死门，从而死里逃生？
+It’s not a trick question. When you hear the answer, you’ll see it’s straightforward. First reader who doesn’t know this problem, works it out and tweets me the correct answer or posts it on my Facebook page gets a signed copy of my latest book or a Saddam Hussein poster that I liberated in Iraq during the war there. I’ve posted the answer on my blog, but you won’t need the help, will you?
+这不是一个脑筋急转弯。一旦你听到答案，你会觉得它很简单。之前不知道这个问题，但想出答案的人，可以在Twitter上把答案发给我，或者贴在我的Facebook页面上，第一个给出正确答案的人，可以获得我签名的新书一册，或者一张我从战时的伊拉克解救出来的萨达姆·侯赛因(Saddam Hussein)海报。我已经把答案贴在博客里了，但你不需要看答案，对吗？

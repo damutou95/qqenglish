@@ -1,0 +1,50 @@
+After studying Chinese in the early 1990s and hosting a travel show on state-run television in China, Porter Erisman went to work for a public relations firm. Then, during the dot-com boom in 2000, he joined a tiny, Chinese Internet start-up called Alibaba.
+上世纪90年代初，波特·埃利斯曼(Porter Erisman)曾学习中文，并在中国的国有电视台主持了一档旅游节目。之后，他又为一家公关公司工作。然后，在2000年互联网高速发展的时期，他加入了一家小型中国互联网初创企业，这家公司叫做阿里巴巴。
+Mr. Erisman, who grew up in Colorado, was one of just a handful of Westerners working inside Alibaba shortly after it was founded in 1999.
+埃利斯曼在美国科罗拉多州长大，他是在阿里巴巴1999年成立之后不久，就开始为该公司工作的为数不多的西方人之一。
+He worked at the company as a vice president for international marketing and corporate affairs for eight years, watching it develop an online presence, demolish the Chinese operation of the American company eBay and grow into an e-commerce giant that was recently valued at $130 billion. Alibaba is now preparing to list its shares on the New York Stock Exchange in what could be the biggest stock offering in history.
+他担任公司国际市场营销和公司事务副总裁长达八年，见证了阿里巴巴从在网络上占有一席之地，到摧毁美国企业eBay的中国业务，然后成长为一家电子商务巨头的过程——阿里巴巴最近的估值为1300亿美元（约合8000亿元人民币）。目前，阿里巴巴正计划在纽约证券交易所(New York Stock Exchange)上市，这可能会成为史上规模最大的一宗IPO。
+When he left in 2008, he started work on a documentary about his experience at the company, hoping it might inspire other entrepreneurs and explain some of the challenges they could face in seeking to build their own company.
+2008年，埃利斯曼离开公司时，开始拍摄一部关于自己在这家公司的经历的纪录片，希望这个纪录片能给其他企业家带来启发，并说明他们在创立公司时可能会遇到哪些挑战。
+The result is “Crocodile in the Yangtze,” an hourlong documentary based on hundreds of hours of video footage Mr. Erisman collected, mostly from the archives of the company and other television outlets.
+于是，埃利斯曼拍摄出了片长一小时的纪录片《扬子江大鳄》。片子以他收集的数百小时的视频资料为基础，其中大多来自公司档案和其他电视媒体。
+The film, which was released in 2012, offers a largely positive portrayal of Alibaba as a scrappy and dynamic start-up, and Jack Ma as its flamboyant and relentless leader. But it also shows some of the company’s internal struggles, and hints that it came close to collapse in 2001, when spending got out of control. The documentary, which is available on the video sharing website Vimeo on Demand, was awarded the best film on innovation and entrepreneurship at the Silicon Valley Film Festival.
+这部纪录片于2012年发行，它对阿里巴巴的描述基本是正面的。从纪录片来看，阿里巴巴是一个生机勃勃、充满活力的初创公司，马云则是公司高调而执着的领导人。但是它也体现了公司的一些内部斗争，而且还显示出，公司在2001年时因为开支失控几乎濒临崩溃。视频分享网站Vimeo on Demand上也可以找到这段视频，它还在硅谷电影节(Silicon Valley Film Festival)上获得了“创新及企业家精神最佳影片奖”。
+Mr. Erisman, 44, answered questions about the company from David Barboza, the Shanghai bureau chief of The New York Times. This interview has been edited and condensed:
+《纽约时报》上海分社社长张大卫(David Barboza)就阿里巴巴对44岁的埃利斯曼进行了采访，以下采访内容经过编辑与整理。
+Q. We now know that Alibaba is one of the world’s biggest Internet companies. But what was it like when you joined the company in April 2000?
+问：我们现在知道，阿里巴巴是世界最大的互联网公司之一。但你在2000年4月加入时，这家公司是什么样子的？
+A. When I joined Alibaba, the offices were shiny and new, with the energy and enthusiasm of a start-up that had “just graduated” from an apartment to a real office building. But when I walked around the office, I was surprised to find a room filled with 12 bunk beds and staff sleeping in the bunks. Even in the afternoon, it was a stuffy, dark room filled with the stench of 12 snoring engineers who had been working round-the-clock on the website. So while the company had “graduated” from an apartment (where staff often slept on the floor) to an office, some of the old habits had carried over.
+答：我加入阿里巴巴时，办公室闪闪发亮而且很新，有那种刚刚从居民楼里“毕业”，搬到真正的写字楼里的初创公司所具有的那种能量和热情。但是，我去参观办公室时，我惊讶地发现了一间摆着高低铺，有12张床的房间，员工们就睡在床上。即便是在下午，这个闷热、阴暗的屋子里，仍然充斥着12名打着呼噜的工程师所散发出来的恶臭，他们一直在不分昼夜地为网站工作。所以，虽然公司已经从公寓里（员工经常在地板上睡觉）搬进了写字楼里，但有些旧习惯延续了下来。
+It was a good indication of how hard we’d be working over the next few years. When Savio Kwan joined the company as its chief operating officer, one of his first steps was to get rid of the room filled with bunk beds, arguing that it was unsustainable to have a mature company that had people sleeping in the offices round the clock. I was happy to see the bunk beds eventually go, but I admired their hard-working spirit.Q.
+这很好地说明了我们在接下来的几年里，会多么努力地工作。关明生(Savio Kwan)加入公司，担任首席运营官的时候，他首先做的就是清空那间摆满高低铺的屋子。他说，如果一家成熟的公司还一直有员工睡在办公室里，这家公司是难以持续的。看到高低铺最终被撤走，我很高兴，但我很欣赏他们努力工作的精神。
+What was it like to be an American working for a Chinese start-up?
+问：作为一个美国人，为一家中国初创公司工作是什么感觉？
+A. On good days, it felt like I was serving as a bridge between East and West. On bad days, it felt like I was the cartilage between two bones that would otherwise destroy each other.
+答：好的时候，我会觉得自己是东西方之间的桥梁。不好的时候，我会感觉自己是两块骨头之间的软骨，如果没有我，那两块骨头就会相互磕坏。
+But mostly it was a lot of fun. It helped that I had studied Chinese, had an interest in China and had already lived in China for a while. Chinese entrepreneurs tend to move quickly, improvise and rely on gut instinct, while American entrepreneurs are used to a more analytical approach to decision making. Being flexible and open-minded was essential. Sometimes, I had to channel my inner Taoist and just go with the flow.Q.
+但大部分时间都很有趣。我曾学过中文，对中国感兴趣，而且已经在中国生活了一段时间，这些都有帮助。中国企业家一般都行动迅速，善于随机应变，而且做事会靠直觉，而美国企业家在决策时则习惯使用分析性更强的方法。灵活性和开放的思维很重要。有时，我必须调动内心里的道家思想，顺其自然。
+Jack Ma was a former English teacher turned entrepreneur. What was it about him that helped make Alibaba so successful?
+问：马云原来是一名英语教师，后来才成为企业家。他有什么特质让阿里巴巴如此成功？
+A. Jack’s great talent is in bringing together a team of ordinary people to achieve things they never thought possible. It sounds very familiar when I hear people describe Steve Jobs’s “reality-distortion field,” as Jack has a similar way of aligning ordinary people to achieve goals that seemed impossible.
+答：马云伟大的才能就在于，他能让一群普通的人凝聚成团队，使他们达成从来没想过可能达成的目标。当我听到人们谈论史蒂夫·乔布斯(Steve Jobs)的“现实扭曲力场”时，感觉非常熟悉，因为马云也能以相似的方式把普通人团结起来，达到看似不可能的目标。
+I think this talent starts with great intuition about people, which he developed while absorbing ideas from the foreigners he befriended alongside Hangzhou’s West Lake at a time when China was relatively closed to the world. And later, as an English teacher, he further developed his leadership skills by learning how to motivate his students in creative ways.
+我认为这种才能源于对人有很强的直觉，中国对世界还相对封闭的时候，他就在杭州西湖边交到了外国朋友，从那些人身上吸收的灵感帮助他产生了这种直觉。随后，作为英语老师，他又学会了如何用具有创造性的方式，激发学生的积极性，从而进一步提升自己的领导才能。
+Q. One of the triumphs for Alibaba was the formation of Taobao, the online Chinese marketplace that allows consumers to sell to other consumers. How did that get started in 2003?
+问：建立淘宝是阿里巴巴的一大成功。淘宝是中国的一个网上市场，消费者可以在那里销售东西给其他消费者。2003年淘宝是怎么推出的呢？
+A. It started out as a defensive move to protect Alibaba’s business-to-business marketplace, Alibaba.com. EBay had just bought Eachnet (the dominant Chinese e-commerce company). We feared that eBay would eventually come after our business customers, so we launched Taobao to slow down eBay’s advance in China.
+答：推出淘宝是一个防御性的举措，目的在于保护阿里巴巴的B2B市场Alibaba.com。EBay那时刚刚买下了易趣网（当时主导中国市场的电子商务企业）。我们担心eBay有朝一日会撬走我们的企业客户，所以我们推出了淘宝，想减慢eBay在中国的发展步伐。
+The first time Jack told me about Taobao, I went to the apartment, where this secret project was underway. I went over there and there were rolling blackouts that day, so some people were sleeping on the floor waiting for the electricity to come back on. But eventually, we launched Taobao and I grew confident we’d beat eBay. E-commerce came late to China. But we knew once it took off, it’d be even more important in China than in other countries.
+马云第一次告诉我淘宝的事情后，我去了那所公寓，淘宝项目正在那里秘密推进。我到的时候正好停电，所以有些人睡在地板上等着来电。但最终，我们推出了淘宝，我有很强的信心，觉得我们能打败eBay。在中国，电子商务姗姗来迟。但我们知道，一旦发展起来，它在中国的重要程度，就会远远超过其他国家。
+Q. In that battle, Jack Ma seemed to know that eBay would come under pressure from investors to deliver quick profits in China. It was a public company after all. Was that a factor?
+问：在那次较量中，马云似乎知道eBay会承受压力，因为投资者需要它在中国迅速盈利。毕竟它是一家上市公司。那是一个影响因素吗？
+A. We knew that, as a public company, eBay would be under a lot of pressure from Wall Street investors to quickly recoup its large investment in China. So our early strategy was to focus on member growth over revenues, which is why we made Taobao’s services free, while eBay continued to charge. As Taobao’s growth took off, eBay China’s growth stalled and, after investor pressure finally caught up with them, eBay shut down its China site.
+答：我们当时知道eBay作为一家上市公司，会承受华尔街投资者的巨大压力，需要迅速收回其在中国的投资。所以我们早期的策略是聚焦在会员增长而不是收入上，这就是为什么eBay在继续收费的时候，我们提供的淘宝服务却是免费的。淘宝发展壮大起来的时候，eBay中国公司的增长陷入了停顿，最后他们承受不了投资者的压力，关闭了在中国的网站。
+After watching so many of our competitors follow investor expectations right off a cliff, we learned that it’s important for entrepreneurs to protect their long-term investors from the short-term investors and day-traders who may just be looking to make a quick buck.
+看到那么多的竞争对手遵从投资者的预期，掉下了悬崖，我们认识到，创业者需要保护自己的长期投资者，不要让那些急功近利的短线投资者和投机客影响他们。
+Q. What was the low point for you at the company?
+问：你在这家公司的低潮期是怎样的？
+A. Two thousand one had to be the lowest point of my time at Alibaba. The Internet bubble had burst and the entire industry had entered a cold winter. We were burning through money and laying off staff. And we had not yet come up with a viable revenue model. I was working in our Shanghai office, where we had downsized from 40 people to 5 people. The landlord wouldn’t allow us to break our lease so the five of us who remained had to work in a huge office filled with empty seats.
+答：2001年肯定是我在阿里巴巴的谷底了。当时互联网泡沫破灭，整个行业进入了严冬。我们的钱入不敷出，还裁掉了一些员工。而且我们还没想出一个可行的盈利模式。我在公司的上海办公室工作，原本有40人，当时已经缩减到五个人。房东不同意我们改变租约，所以我们五个人就在一个到处都是空座位的大办公室里工作。
+Coming to work every day and staring at those empty seats was a depressing reminder that our early hopes and dreams might never be realized.
+每天来上班的时候，看着那些空座位，心情特别沮丧，感觉我们起初的那些希望和梦想，可能永远都无法实现了。

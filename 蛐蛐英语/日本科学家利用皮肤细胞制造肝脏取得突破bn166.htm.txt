@@ -1,0 +1,44 @@
+Researchers in Japan have used human stem cells to create tiny human livers like those that arise early in fetal life. When the scientists transplanted the rudimentary livers into mice, the little organs grew, made human liver proteins, and metabolized drugs as human livers do.
+日本研究人员用人类干细胞制造出了小型的人类肝脏，与早期胎儿体内的肝脏相近。科学家把这种早期肝脏移植到小鼠体内后，这些小小的器官就开始成长起来，制造人类肝脏蛋白质，像人类肝脏一样分解药物。
+They and others caution that these are early days and this is still very much basic research. The liver buds, as they are called, did not turn into complete livers, and the method would have to be scaled up enormously to make enough replacement liver buds to treat a patient. Even then, the investigators say, they expect to replace only 30 percent of a patient’s liver. What they are making is more like a patch than a full liver.
+和其他研究人员一样，他们提醒人们要注意，这是初期成果，而且只是非常基础的研究。这种被他们称为肝芽的东西不会变成完整的肝脏，要想制造出足够用于治疗的替代肝脏，必须对这种方法进行大幅度的提升。研究者称，既便如此，他们估计也只能替代病人肝脏的30%。他们在做的更像是一个肝脏补丁，而不是完整的肝脏。
+But the promise, in a field that has seen a great deal of dashed hopes, is immense, medical experts said.
+但是医学专家说，在这个目睹了无数希望破灭的领域，该研究的前景是巨大的。
+“This is a major breakthrough of monumental significance,” said Dr. Hillel Tobias, director of transplantation at the New York University School of Medicine. Dr. Tobias is chairman of the American Liver Foundation’s national medical advisory committee.
+“这是一个有着里程碑意义的重大突破，”纽约大学医学院(New York University School of Medicine)器官移植主任希娄·图拜亚斯(Hillel Tobias)说。图拜亚斯是美国肝脏基金会(American Liver Foundation)的全国医学顾问委员会主席。
+“Very impressive,” said Eric Lagasse of the University of Pittsburgh, who studies cell transplantation and liver disease. “It’s novel and very exciting.”
+在匹兹堡大学从事细胞移植和肝病研究的埃里克·拉加斯(Eric Lagasse)说，“非常了不起。这是个新奇而激动人心的消息。”
+The study was published on Wednesday in the journal Nature.
+此项研究的论文发表在了周三的《自然》(Nature)期刊上。
+Although human studies are years away, said Dr. Leonard Zon, director of the stem cell research program at Boston Children’s Hospital, this, to his knowledge, is the first time anyone has used human stem cells, created from human skin cells, to make a functioning solid organ, like a liver, as opposed to bone marrow, a jellylike organ.
+虽然距离人体研究还有很长的一段路要走，但波士顿儿童医院(Boston Children’s Hospital)干细胞研究项目主任莱昂纳德·佐恩(Leonard Zon)说，这是有史以来第一次有人用人类皮肤细胞制成的人类干细胞制出了一个具备机能的器官，而且是像肝脏一样的实体，不是果冻状的骨髓。
+Ever since they discovered how to get human stem cells — first from embryos and now, more often, from skin cells — researchers have dreamed of using the cells for replacement tissues and organs. The stem cells can turn into any type of human cell, and so it seemed logical to simply turn them into liver cells, for example, and add them to livers to fill in dead or damaged areas.
+研究人员起初从胚胎中获取人类干细胞，现在更多地使用皮肤细胞，但自从发现了这种方法以来，他们一直梦想着用细胞来制造组织和器官的替代物。干细胞可以变成任何类型的人体细胞，所以像这样直接把它们转变成肝脏细胞，然后加入到肝脏中填补坏死或损伤的区域，就是很自然的选择了。
+But those studies did not succeed. Liver cells did not take up residence in the liver; they did not develop blood supplies or signaling systems. They were not a cure for disease.
+但是像这样的研究一直都没能成功。肝脏细胞不愿意在肝脏里安顿下来；它们无法发育出血循环或信号系统。它们不能治愈疾病。
+The investigators, led by Dr. Takanori Takebe of the Yokohama City University Graduate School of Medicine, began with human skin cells, turning them into stem cells. By adding various stimulators and drivers of cell growth, they then turned the stem cells into human liver cells and began trying to make replacement livers.
+在横滨市立大学医学研究科的武部贵则(Takanori Takebe)带领下，研究人员从人类皮肤细胞入手，将它们变成干细胞。在加入了各种细胞生长的刺激和驱动因子后，这些干细胞就变成了人体肝脏细胞，然后再尝试制作肝脏替代物。
+They say they stumbled upon their solution. When they grew the human liver cells in petri dishes along with blood vessel cells from human umbilical cords and human connective tissue, that mix of cells, to their surprise, spontaneously assembled itself into three-dimensional liver buds, resembling the liver at about five or six weeks of gestation in humans.
+他们说他们是误打误撞找到解决办法的。他们把人体脐带和结缔组织上的血管细胞放到培养皿里，和人体肝脏细胞一起培养，结果意外地发现这些细胞混合在一起会自发地组成三维的肝芽，接近妊娠第五或六周的人类胎儿的肝脏。
+Then the researchers transplanted the liver buds into mice, putting them in two places: on the brain and into the abdomen. The brain site allowed them to watch the buds grow. The investigators covered the hole in each animal’s skull with transparent plastic, giving them a direct view of the developing liver buds. The buds grew and developed blood supplies, attaching themselves to the blood vessels of the mice.
+之后，研究人员将肝芽移植到小鼠身上，将它们植入两个部位，一部分植入脑部，另一部分植入腹部。研究人员可以从脑部位置观察肝芽的生长，它们将每只小鼠头颅上的孔，用透明的塑料覆盖，从而可以直接看到肝芽的发育。随着肝芽的生长，其中也产生了供血机制，将其自身连接到了小鼠的血管上。
+The abdominal site allowed them to put more buds in — 12 buds in each of two places in the abdomen, compared with one bud in the brain — which let the investigators ask if the liver buds were functioning like human livers.
+研究人员可以在腹部位置植入更多肝芽，这样研究人员就可以研究肝芽是否能像人类肝脏一样运作。腹部位置的两个点各植入了12个肝芽，而脑部位置则只有一个肝芽。
+They were. They made human liver proteins and also metabolized drugs that human livers — but not mouse livers — metabolize.
+这些肝芽的确能像人类肝脏一样运转。它们制造出了人类肝脏的蛋白质，而且代谢了人类肝脏代谢的药物，而不是小鼠肝脏代谢的药物。
+The approach makes sense, said Kenneth Zaret, a professor of cellular and developmental biology at the University of Pennsylvania. His research helped establish that blood and connective tissue cells promote dramatic liver growth early in development and help livers establish their own blood supply. On their own, without those other types of cells, liver cells do not develop or form organs.
+宾夕法尼亚大学(University of Pennsylvania)细胞和发育生物学教授肯尼斯·扎雷特(Kenneth Zaret)说，这种方法是合理的。扎雷特通过研究，帮助证实了血细胞和结缔组织细胞能够在发育初期极大地促进肝脏的生长，并帮助肝脏建立自身的血液供应。如果没有这些其他类型的细胞，肝细胞就无法发育或形成器官。
+“They were letting nature do its thing rather than trying to conceive of what the right signals might be,” Dr. Zaret said. But, he said, the mice were studied for only a couple of months. He would like to see what happens over a longer time.
+扎雷特说，“他们让大自然自行其是，而不是自己研究正确的信号是怎样的。”但是他说，小鼠只研究了几个月，他想看看更长时间后会发生什么。
+“We don’t know if the cells will grow out of control or will poop out,” Dr. Zaret said.
+扎雷特说，“我们不知道细胞的生长会不会失控，或者会不会脱落。”
+Even if the liver buds never fulfill their clinical promise, they still could be enormously important for pharmaceutical research, Dr. Zon said. Drugs must be tested to see if they damage the liver, a major site of drug toxicity. Companies do this with liver cells taken from cadavers and grown in petri dishes. But the liver buds could be a big improvement and offer a large supply of rudimentary livers for testing.
+佐恩说，即使肝芽无法实现其临床潜力，它们对药物研究也极为重要。药物必须接受测试，研究它是否会损害肝脏，肝脏是因药品毒性而受损的主要器官。制药企业通过从尸体身上获取的肝脏细胞，或者在培养皿中培养的肝脏细胞来进行试验。但肝芽可能是个重大改进，也能提供大量的小块肝组织用于试验。
+“That would be huge,” Dr. Zon said. “It would open up lots of drugs in the pipeline and bring them to the clinic much more quickly.”
+“这会产生巨大的影响，”佐恩说。“将会使很多等待上市的药物走出测试程序，更快地进入临床应用。”
+Dr. Takebe and his colleagues, though, are more focused on scaling up their process so they can think of trying to take it to the clinic, perhaps to treat babies and children whose livers have failed. Dr. Takebe estimates they would need hundreds of thousands, perhaps millions, of liver buds to replace 30 percent of the liver.
+不过武部贵则和他的同事们更关注的是扩大实验的规模，从而着眼于将其用于临床，其治疗对象可能是肝衰竭的婴儿和儿童。武部贵则估计，需要数十万乃至数百万的肝芽，才能替代30%的肝脏。
+Dr. Tobias, the transplant surgeon, hopes they succeed.
+器官移植医生图拜亚斯希望他们能够成功。
+“This is obviously the wave of the future,” he said.
+他说，“很显然这是未来的潮流。”

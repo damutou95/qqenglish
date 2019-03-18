@@ -1,0 +1,88 @@
+Maybe you diligently read an instruction manual from cover to cover before you even turn on a new product. Or perhaps you ‘file’ the information in the kitchen drawer never to be found again – preferring to rely on instinct (and perhaps a degree of stubbornness) in assembling a new piece of furniture. Either way, and even if it’s only months after your purchase, there is almost always a time and a place when instruction manuals come in handy.
+也许你会在使用新产品前已逐页仔细阅读完整本使用说明书，也许你会把它扔到厨房抽屉里不再理它，宁愿自己凭直觉（或一点固执）组装新的家具。无论怎样，就算东西才买几个月，说明书也总会有用得着的时候。
+While we may think of them as the dense paper booklets that fall out in a tumble of bubblewrap and polystyrene when we are unpacking our new bedside cabinet, instruction manuals are much more. They exist for a multitude of purposes and take many different forms. What’s more, they are not an especially modern invention: they have, in fact, been around for at least two centuries.
+你可能觉得，说明书不过是拆封新床头柜时从一堆泡泡纸和塑料泡沫里掉出来的厚厚一本小册子，但实际远非如此。说明书用途广泛，形式多样，而且并非现代产物——它们已经存在了至少两个世纪。
+“Wherever you are in life, there's always a manual somewhere, hidden behind the scenes,” says Paul Ballard, Managing Director of 3di, a company that specialises in technical writing.
+"你生活的方方面面，背后都有本说明书，"技术写作公司3di的董事总经理巴拉德（Paul Ballard）这样说。
+More than just a practical how-to list, instruction manuals can reveal much about the time and society in which they were written. How they have evolved tells us about how we’ve changed too.
+说明书不仅是本实用的指导手册，它还能披露当时的时代和社会面貌。说明书的演变过程也揭示了消费者的演变轨迹。
+According to Roger Bridgman, a former curator at London’s Science Museum, “instructions are there to compensate for the inabilities of machines by employing the abilities of users, and therefore tell you something about the state of both at the time they were produced.”
+伦敦科学博物馆前馆长伯里曼（Roger Bridgman）说："说明书借助用户的能力来弥补机器的不足，因此说明书可反映出当时机器和人的情况。"
+The earliest instruction manual that Bridgman found during his tenure was attached to a machine made by famous engineer James Watt. But the machine wasn’t a steam engine: it was an office copier. Watt realised that copies of his letters would be very useful to others and so he invented a machine that transferred damp ink from a freshly written letter to another sheet of paper, creating a copy of it.
+伯里曼任馆长期间发现的最早一份使用说明是著名工程师瓦特（James Watt）制造的一部机器的说明，但不是蒸汽机，而是办公用复印机。瓦特发现他的信件副本对别人很有帮助，于是发明了一部机器，将墨迹还未干的信纸复印到另一张纸上，制成一个副本。
+The instructions included are in their most basic form. They say to take a sheet of paper, put it on top of the other sheet of paper. Put the felt blanket on top. And put it through the rollers.
+这部机器的说明非常简单直白：取一张纸，放到另一张纸上，将原稿放在上面，通过滚筒。
+“As James Watt was a very practical man, the instructions are not a booklet,” Bridgman told a 2009 BBC radio documentary, How to Write an Instruction Manual. “They are actually a sheet of paper glued to the machine so you can’t lose them – a rule that modern manufacturers could do well to emulate.”
+"瓦特非常务实，所以使用说明不是本小册子，而是贴在机器上的一张纸，这样你就不会弄丢了——现在的制造商也该好好效仿。"伯里曼在英国广播公司2009年一部广播纪录片《如何撰写说明书》中说道。
+In fact, for Ballard, Watt’s instructions exemplify a successful manual’s fundamental principles. The first is “findability”: making it easy for people to find the information they need, whether that means being able to find the manual itself by putting it in an obvious location or having an intuitive structure that has anticipated the way the reader thinks about their problem.
+在巴拉德看来，瓦特的说明体现了一本成功说明书的基本原则。首先是"好找"：方便用户找到所需信息——将说明书放在显眼位置容易找到，以及内容能为用户设身处地，预见用户可能遇到的问题和处理方法。
+The second is making the instructions easy to understand. “Clarity will win every time,” says Ballard. Simplicity and directness in both language and design is key.
+其次是通俗易懂。"清晰最重要"，巴拉德说。语言和设计都要简单明了。
+The final rule? “Get out of the way,” Ballard says. This means making sure people know what to do next when their particular need has been met – whether that is finding out something else or cracking on with using the product.
+最后呢？"开门见山，不要挡路，"巴拉德说，这是说要确保用户在问题解决之后知道下一步要做什么，无论是发现其他问题或是继续使用产品。
+This, Ballard jokes, is why instruction manuals face an “existential crisis”. “The whole point is the product, not the manual; the more you're spending time looking at the manual, the less you're getting out of the product.”
+巴拉德笑称这就是为何说明书面临着"存在危机"。"产品才是意义所在，你在说明书上花的时间越多，从产品中获得的就越少。"
+Top tips
+重要贴士
+Not every manual today is as simple and elegant as Watt’s. But there is a resurgence of manufacturers applying this same idea of integrating the instructions into the product itself. This could take the form, for example, of a big label of instructions on the side of a generator, or a help file that pops up in the same generator’s control panel.
+现在，并非所有说明书都像瓦特那样简单明了，不过现在的制造商们开始将使用说明附着在产品上。譬如在发电机侧面贴上写有使用说明的大标签，或是在发电机的控制板上设置一个弹出式的帮助文件。
+Another exemplary early manual is that for the Kodak Box Brownie camera, one of the earliest cameras produced. “The document is very beautiful. It tells you how to load the film but it also gives you advice about how to take a picture,” Mark Miodownik, director of the Institute of Making at University College London, told the BBC back in 2009.
+另一个早期说明书的范例属于一款早期相机，柯达Box Brownie。伦敦大学学院制造学院的院长米奥多尼克（Mark Miodownik）2009年接受英国广播公司采访时说，"这本说明书非常棒，既告诉你怎么装胶卷也提供了拍照建议。"
+Along with detailed technical information for operating the camera, there is guidance on how to take good photographs, from capturing the optimum portrait to considering the effect of the weather (from “bright sun” to “cloudy dull”) or even how light or dark an interior wall colour is.
+除了详细介绍相机操作方法外，这本说明书还讲解了如何拍摄优秀照片，包括如何捕捉最佳人像、如何考虑天气因素影响（艳阳天、阴云天），甚至室内墙壁颜色的明暗等。
+Harry’s is an example of a modern brand adopting the same approach of talking to its customers not only about how to operate its products, but how to get the most out of them – in this case, proffering tips on the perfect shave.
+现代品牌哈里剃须刀也采用了同样方法，不止告诉顾客如何使用产品，还说明了如何获得最佳效果——对哈里剃须刀而言是完美剃须的小秘方。
+Creating this more personal connection through the instruction manual makes good business sense. If consumers are made to feel good about the product they have bought, they are more likely to feel favourably towards the brand in future.
+通过说明书建立更个人化的联系很有商业意义。消费者如果对产品感觉良好，日后对该品牌会更有购买倾向。
+Meanwhile, the visually striking Haynes car manuals are instantly recognisable and strangely evocative. Even for those who have never so much as got their hands dirty with car oil, Haynes manuals are redolent of a certain era (for me, the 80s and my own father’s slightly grubby Ford Cortina manual on the shelf in the garage). As the company’s strapline has it, Haynes “shows you how”.
+与此同时，海恩斯汽车富有视觉冲击力的说明书则辨识度很高，给人一种异乎寻常回味无穷的感觉。就算你没有亲手碰过车搞脏手，海恩斯的说明书也能唤起你对某个时期的回忆（对我而言是80年代以及车库架子上爸爸那有点脏的福特Cortina说明书）。正如公司标语所说，海恩斯"秀给你看如何动手"。
+For more than 50 years, Haynes has provided high quality technical advice in a manner that is easy to understand and practical to use. The company’s manuals are “like a travel guide to a foreign land – it makes the unfamiliar manageable”, as Martin Love, motoring editor at British newspaper Observer, describes it.
+50多年来，海恩斯以实用易懂的方式提供了高质量的技术指导。英国报刊《观察者》汽车专页编辑洛夫（Martin Love）形容海恩斯的说明书"像是一本异域导游书，让未知的东西变得可以掌控"。
+What is it about the Haynes’ approach that makes it so effective? The company uses a practical combination of highly detailed technical drawings showing component parts and in-depth instructions on testing, repair and maintenance, accompanied by photographs.
+海恩斯的说明书为何如此有效？因为它结合了展示产品部件的详细技术图纸，以及关于产品测试、维修和保养的深入说明，并配有照片，非常实用。
+Haynes was founded in 1960, after John Haynes wrote and published his first book on building an Austin 7 Special. The first ‘proper’ Haynes Owners Workshop Manual, for the Austin Healey “Frogeye” Sprite, was published in 1966.
+海恩斯（John Haynes）创作并出版了他的处女作，一本介绍如何制作奥斯汀7型特别版汽车的书，随后在1960年成立了海恩斯公司。第一本"象样"的海恩斯用户使用说明书1966年出版，介绍奥斯汀希利Sprite车型。
+At the time, instruction manuals were formal and written by manufacturers in very technical language. “I was very fortunate to find, as they say, a gap in the market. A huge gap, I later found out,” Haynes told the BBC back in 2009.
+那个时候，制造商写的说明书都很正规，用的是很深奥的技术性语言。海恩斯2009年对英国广播公司表示："我很幸运找到了大家所谓的市场空缺，后来我才发现这是个大缺口。"
+Despite staying true to its original style, Haynes has moved with the times and now publishes a vast range of nearly 2,000 manuals across a diverse array of topics. From pet care to computers and from music to sci-fi, there are even tongue-in-cheek guides to the English and to the inner workings of Teenagers.
+海恩斯保持了自己的风格，但也与时俱进，现在出版近2000种说明书，涉及诸多领域，从饲养宠物到计算机，从音乐到科幻，甚至包括以戏谑方式介绍英国人的习俗和青少年圈内的行为。
+Look books
+视觉阅读
+Some manuals have got rid of words almost altogether – as at Ikea, the Swedish homeware giant. Some say that Ikea’s wordless instructions make assembly of its furniture as easy as it can be, while others are flummoxed by the company’s famous pictograms. At the very least, though, they help the company avoid the cost of translating instruction into multiple languages.
+有些说明书完全摒弃了文字，譬如瑞典家具巨头宜家。有些人认为宜家这种无文字说明令组装家具非常简单，有些则被那些象形图搞得晕头转向。但至少，图片说明帮公司节省了文字翻译成本。
+Ikea’s instruction manuals were internationally recognised when they won the 2015 Paul Mijksenaar Design for Function Award. As Paul Mijksenaar, the visual design expert behind the award, put it: “Ikea has managed to create an almost unparalleled, consistent and beautifully executed oeuvre. An oeuvre that, rather than being merely recognisable, has proven to be effective for more than 30 years”.
+宜家的说明书获得了国际认可，2015年赢得保罗•米森纳设计功能组别大奖 (Paul Mijksenaar Design for Function Award)。该奖项的策划人视觉设计专家米森纳（Paul Mijksenaar）这样评价："宜家创造了一套无与伦比、风格一致、精美绝伦的说明书作品集，不仅辨识度高，而且30多年来都证明实用有效。"
+So why do we sometimes struggle so much with Ikea’s manuals? According to Ballard, “it's not because the manual itself is poor. It's because the product itself is too complicated. Ikea manuals start fundamentally with the product. The manuals which are least popular are the ones where the product itself has fundamentally not quite been designed to its best.”
+那我们为何有时看不明白宜家说明书呢？巴拉德认为，"并不是说明书不好，而是产品设计得太复杂。宜家的说明书都是以产品为基础，最不受欢迎的说明书是因为该产品本身设计有不足。"
+The fact that Ikea manuals have the constraint of simple black and white two-dimensional illustrations forces the products themselves to be better designed to ensure straightforward assembly.
+宜家说明书采用黑白平面插图的做法也促使产品本身提升设计质量，务求能简便组装。
+Outside of Ikea, many products are getting more complicated to assemble or use. And that means more complicated instructions. But that, too, may be changing. “The abilities of machines have increased so greatly that users can connect to them without much instruction – and much of what is needed can be provided in real time by the machines themselves,” says Bridgman.
+除了宜家外，许多产品的组装和使用却越来越麻烦，说明也就越来越复杂，但这种情形也在起变化。伯里曼说："机器的能力已经大大提升，用户不太需要说明也能使用，而且很多说明也能在真正使用时由机器提供。"
+“Often products don't have manuals – either because the product has been designed so well so that you never need to know how to do anything with it, or you're 'not allowed' to get under the bonnet and do anything with it,” says Ballard. “I think that's a major shift: that people don't expect to have to do anything with the product anymore.”
+"很多产品没有说明书，有些是因为设计优良完全不需要，有些是'不允许'你打开机罩调试机器，"伯里曼说："我认为这是一个重大转变，用户将不必修理机器。"
+Apple’s iPhone, for example, is purposefully difficult to tinker with.
+譬如苹果手机就专门设计得难以维修。
+One aspect of instruction manuals that seems unlikely to go away any time soon is that they must now include health and safety guidelines. They may seem superfluous to some users, but reflect the manufacturer’s responsibility to keep people safe when operating their product.
+说明书短期内不会消失的一个原因是它目前必须包含健康及安全指引。有些用户觉得这些指引非常多余，但它们体现了制造商对用户使用产品时的安全负责。
+Another factor affecting how instruction manuals have evolved is globalisation. Companies frequently distribute their products to markets around the world, necessitating translations of the instructions into sometimes dozens of languages. Unless care is taken, this can result in confusion or frustration for the end user – and reflect badly on the brand.
+另一个影响说明书演变的因素是全球化。公司需要将产品运送至世界各地，有时需要将说明翻译成几十种语言，稍有不慎就会给用户造成疑惑和困扰，有损品牌形象。
+How consumers use manuals also has changed. They used to be solely reference guides that would accompany a product. Increasingly, however, people will refer to a product’s instructions to check out its technical specifications in advance of buying: the manual now is part of the purchase process.
+消费者使用说明书的方式也发生了改变。过往说明书只是依附于产品的参考指南，但现在人们会在购买前阅读说明书了解产品的技术性能，因此说明书进入到购买的环节。
+And, of course, the format of instruction manuals has changed. Today they can just as easily be a YouTube video demonstrating the different functions of a buggy or a dedicated website to help businesses understand a complex new phone system or a user-generated online guide to fix a glitch on a troublesome smartphone. There also has been a move in recent years, enabled by web-based technology, for users themselves to create and share instruction manuals. Ifixit.com, for example, is “the free repair guide for everything, written by everyone.” As of March 2018, it offered 37,192 free manuals and, 122,145 solutions for over 10,570 devices.
+说明书的形式当然也在变化。如今，它可以是介绍越野车各项性能的一段YouTube视频；也可以是一个专门网站，帮助企业了解新出的复杂电话系统；还可以是用户在网上发布的指南，用来解决智能手机问题。近年来网站科技还让用户可以自行创建并分享使用说明。譬如Ifixit.com网站就是个"任何人都可以参与编写维修任何东西的免费指南"，截至2018年3月已经提供了37,192项免费说明书 ，为10,570多个设备提供了122,145个解决方案。
+In some ways, instruction manuals issued by the company itself have to work harder than ever to justify their worth. Businesses are now tapping into tools such as Google Analytics to determine how investment in manuals saves money in other areas. For example, if several thousand people have used the booklet that comes with their product, they may not need to call a helpdesk.
+从某些方面来说，公司要更加努力来证明自己发布的说明书有存在价值。企业现在会用谷歌分析等工具，计算在说明书上的投资如何帮公司节省了其他成本，譬如几千客户都用了随机附送的说明书，他们就不用打服务热线来询问了。
+“Instruction manuals have to do a much broader job than simply ticking a box – expectations are much higher,” Ballard says.
+巴拉德说："说明书不仅是让人勾勾选项这么简单，大家的期望远高于此。"
+But however intuitive a new piece of kit, there still remains the need for instruction manuals in many situations. Consider for example the vital instructions written to operate the equipment used to accurately analyse blood samples.
+无论新产品多容易上手，很多时候说明书还是必不可少，譬如用机器分析血液样本时那些重要的文字说明。
+Future directions
+未来发展
+Databases and the markup language of XML are already used extensively to organise the modular way manuals are built and managed. QR codes are being integrated to facilitate quick access to pertinent instructions.
+数据库和XML标记语言（可由人自定义并被计算机理解的标记符号）已经广泛用于说明书的模块式编写和管理当中，也可以使用二维码来快速获取相关说明。
+New technologies such as artificial intelligence (AI) and augmented reality (AR) are also starting to be used. AI enables the process of finding information to be accelerated by anticipating the questions people may have. In time, as understanding of user behaviours increases, AI may largely replace metadata and tags. And AR can allow instructions to be layered so users can interact with a product while learning how to use it.
+人工智能以及扩增实景等新科技也开始被采用。人工智能可以预测用户遇到的问题，更快找到相关信息。随着人工智能逐步理解用户行为，它很可能会广泛取代计算机元数据和卷标。扩增实景可以将说明层次化，用户可以在学习使用产品的同时与它互动。
+No matter what future instruction manuals look like, Ballard is optimistic about their existence. “The basic requirements that people have in their relationship in buying a complex product haven't changed,” he says. “That gap between the product and what the user is expecting from having bought that product, will always exist – and the gap will get filled somehow.”
+无论使用说明未来是什么样子，巴拉德都相信它不会消失。"人们在购买复杂产品时的基本需求没有改变，产品本身与用户预期也总会有差别，需要说明填补。"
+And as products themselves develop, instruction manuals will need to evolve accordingly. Ballard predicts: “New requirements will come up that we can't imagine at the moment.”
+随着产品的发展，使用说明也要随之演变，巴拉德预测"会有现在意想不到的新要求出现" 。

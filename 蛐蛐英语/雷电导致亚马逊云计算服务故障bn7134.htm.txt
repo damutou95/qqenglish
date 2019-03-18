@@ -1,0 +1,28 @@
+The cutting edge of the Web just bled a little.
+尖端的网络技术刚刚遭遇了小挫折。
+On Friday night, lightning in Virginia took out part of Amazon’s cloud computing service, called Amazon Web Services, which hundreds of companies use for data storage and computation. Well-known sites like Netflix, Pinterest and Instagram were not accessible for hours. There was little information for customers about what had happened, or even whether user data was safe.
+周五晚上，弗吉尼亚州的闪电致使亚马逊的部分云计算服务中断。该服务名为亚马逊网络服务 (AWS)，为几百个公司提供数据储存和计算服务。一些知名网站，比如 Netflix、Pinterest 以及Instagram，几小时内都无法访问。客户们不清楚发生了什么，甚至不知道用户数据是否安全。
+The interruption underlined how businesses and consumers are increasingly exposed to unforeseen risks and wrenching disruptions as they increasingly embrace life in the cloud. It was also a big blow to what is probably the fastest-growing part of the media business, start-ups on the social Web that attract millions of users seemingly overnight.
+这次的网络中断突显了一个问题：在公司和客户越来越依赖云终端的时代，他们也越来越多的受到不可知危险以及服务中断的威胁。这也给社交网络服务当头一棒， 这项刚刚起步的业务似乎在一夜之间就吸引了数百万用户，很可能是传媒产业中成长速度最快的领域。
+Besides Internet-connected computers, tablets and smartphones, which people rely on daily, consumers and business are connected to the Web through everything from cars and appliances to utility monitors and surveillance cameras. How well the systems behind these are built, and how they handle unforeseen disruptions, will increasingly affect the larger economy.
+除了人们每天使用的联网电脑，平板电脑和智能手机，消费者和公司还通过汽车、家用电器、设备监控装置和监控摄像头等设备与网络连接。这些设备所依赖的系统怎么样，又是如何应对突然的网络中断的，这将会日益影响整体经济的发展。
+Amazon has built a thriving business in cloud computing, with a range of customers including Intercontinental Hotels, Fox Entertainment, Unilever, Spotify, as well as 187 government agencies and hundreds of small start-ups looking for the cheapest possible computing.
+亚马逊的云计算业务蒸蒸日上，客户包括洲际酒店 (Intercontinental Hotels)、福克斯娱乐集团 (Fox Entertainment)、联合利华 (Unilever)、Spotify 以及187个政府机关和成几百个寻求最低价云计算服务的新创公司。
+None of these big customers reported any service disruptions. While it was not clear if they were using the Amazon center that was crippled, analysts said the disruption would cause renewed scrutiny of their dependence on cloud computing.
+没有大客户报告说遭遇服务中断。虽然无法确定这些公司是否使用了受雷电影响的亚马逊中心提供的服务，但分析人士说，这次服务中断应该让他们重新审视对云计算服务的依赖。
+“The way companies view it is in terms of reliability generally,” said Michael Chui, a senior fellow at McKinsey & Company. Big customers of Amazon, he said, “have the opportunity to shape the marketplace and make demands that make products better. They will push for improvements.”
+“公司对云计算主要是从它的可靠性来考虑的，”麦肯锡 (McKinsey & Company) 高级研究员迈克尔·崔(Michael Chui) 说，“亚马逊的大客户们有机会影响市场，要求商家生产更好的产品，推动产品升级。”
+They will also have another option. On Thursday, Google said it would offer computing over the Internet at half the price of Amazon.
+他们还有另一个选择。周四，谷歌 (Google) 宣布将会提供云计算服务，价格是亚马逊的一半。
+The weekend’s disruption happened after a lightning storm caused the power to fail at the Amazon Web Services center in Northern Virginia containing thousands of computer servers. For reasons Amazon was still unsure of on Sunday, the data center’s backup generator also failed.
+周末的雷雨导致位于弗吉尼亚州北部的亚马逊网络服务中心电力遭到破坏，那里设有几千个电脑服务器。周日，数据中心的备用发电机也无法供电，亚马逊还没有找到事故原因。
+By midday Saturday, Amazon said in a statement that it had restored service “to most of our impacted customers, and continue to work to restore service to our remaining impacted customers,” adding, “we will share more details on this event in the coming days.” The company had no further comment.
+周六中午，亚马逊发表声明称，他们已经为“大部分受影响的客户”恢复服务，“并且正在努力为剩下的客服恢复服务，”声明还补充说，“在接下来几天我们会公布这次事件的更多细节。”亚马逊公司没有发表进一步的评论。
+It was at least the second major failure for Amazon in that area. In April 2011, a problem in Amazon’s networking at a nearby data center took down a number of applications and popular Web sites, including Reddit and Quora, for more than a day.
+这至少是亚马逊服务中心在该区域的第二次大事故。2011年4月，亚马逊中心附近的一个数据中心的网络系统出现问题，导致许多应用程序和包括Reddit 和Quora在内的一些知名网站无法正常使用超过一天之久。
+To be sure, Amazon Web Services held up better than many utilities affected by the storm, which left more than four million homes and businesses without power on the East Coast. By Sunday, some Instagram customers in the Washington area could, through their cellphones, share pictures on the Web before they had lights or safe drinking water.
+应该说，亚马逊网络服务的承受力比其他受暴雨影响的设备好一些。这次暴风雨致使东部海岸超过400万家庭和商场断电。直至周日， 华盛顿地区还没有恢复电力和饮用水供给，而Instagram 用户已经可以通过手机在网页上分享照片了。
+Netflix, along with Pinterest and Instagram, did not respond to requests for comment Sunday. Netflix was able to restore service in a couple of hours. Many more Amazon customers, including the small start-ups that make up the bulk of its customers, did not report any problems, but may have scrambled to make sure their systems were secure.
+Netflix、Pinterest和Instagram 都没有对周日的采访请求做出回应。Netflix在几个小时内就恢复了服务。那些刚刚成立的小公司是亚马逊的主要客户群，包括他们在内的许多用户都没有反映有任何问题，但是他们也许紧急确认了他们系统的安全性。
+“We were late at work, playing an online video game that went down, then got a notification from our own system that it was starting to fail,” said Benjamin Coe, the founder of Attachments.me, a start-up in San Francisco that connects e-mail attachments to online data storage services. “We had built for redundancy, but our system failed in two areas, making it hard for the third to work.”
+“那天我们在公司待到很晚，大家一直在玩一种在线视频游戏，突然游戏停止了。之后，我们收到了内部系统的通知，说我们的服务中断了，” Attachments.me的创始人本杰明·科 (Benjamin Coe) 说。该公司是位于旧金山的一家刚成立的公司，主要业务是将电子邮件中的附件上传到在线数据库。“我们建立了冗余，但我们的系统在两个区域还是不能使用，这使第三个区域的工作更困难了。”

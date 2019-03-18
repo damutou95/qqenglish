@@ -1,0 +1,56 @@
+In the race to develop technologies to slow climate change, the world is off track.
+在抓紧时间开发技术从而减缓气候变化的过程中，全世界都偏离了正轨。
+That’s the latest assessment from the International Energy Agency, which presented a bleak outlook ahead of the planned climate summit meeting in Paris this December, where countries rich and poor are hoping to agree on a strategy to slow global warming.
+这是来自国际能源署（International Energy Agency，简称IEA）的最新评估。今年12月计划在巴黎举行的气候峰会前夕，该机构发布了一份前景惨淡的展望报告。无论贫富，各国都希望在峰会上就一项战略达成共识，以便让全球变暖减慢。
+Even under the more optimistic assessments of humanity’s technological capabilities, limiting the atmosphere’s warming to two degrees Celsius above the average in the preindustrial era — considered by many scientists to be a tipping point toward climatic upheaval — seems to be slipping out of reach.
+即便是根据对人类技术能力较为乐观的评估，将大气变暖的速度控制在比前工业时代平均水平高出两摄氏度的水平，似乎也正在变得遥不可及。很多科学家认为，这个程度的升温将是气候剧变的一个转折点。
+“For the first time since the I.E.A. started monitoring clean energy progress, not one of the technology fields tracked is meeting its objectives,” Maria van der Hoeven, the agency’s executive director, wrote in a foreword to the report. “Our ability to deliver a future in which temperatures rise modestly is at risk of being jeopardized.”
+“自开始监测清洁能源领域的进展以来，IEA首次发现，被监测的技术领域中无一达到目标，”IEA总干事玛丽亚·范德胡芬(Maria van der Hoeven)在报告前言中写道。“我们需要将气温升高控制在有限的程度，但这种能力恐怕正在受到威胁。”
+Deployment of renewable energy is progressing, but not fast enough. Nuclear power is behind the curve. Key technologies like carbon capture and storage, which the Intergovernmental Panel on Climate Change has deemed critical to staying within the target, are still in their infancy.
+可再生能源的部署正在取得进展，但还不够快。核电发展落后。碳捕集与封存这样的关键技术，仍处于起步阶段。政府间气候变化专门委员会(Intergovernmental Panel on Climate Change)认为，碳捕集与封存技术对于让气温保持在目标水平以内是至关重要的。
+The only commercial scale coal-fired power plant equipped with carbon dioxide capture technology opened last October in Canada. In the absence of a carbon price that might make removing carbon dioxide from the air a worthwhile investment, inventors in the United States hope they might make a profit by turning carbon dioxide into baking soda.
+去年10月，唯一一家配备了二氧化碳捕集技术的商用规模的火电站在加拿大启动。碳排放价格可能会让去除空气中的二氧化碳成为一种值得做的投资，在尚未对碳排放定价的情况下，美国的发明家希望自己可以通过让二氧化碳变成小苏打来获利。
+Perhaps most critically, the world’s collective effort to reshape energy infrastructure seems to be losing steam. In 2014, global investments in renewable energy declined for the fourth year in a row, to under $250 billion.
+全世界为改造能源基础设施而采取的集体努力，似乎正在失去动力。这或许是最危险的。2014年，全球可再生能源投资减少到不足2500亿美元，这已是连续第四年下降。
+The United States, the most technologically proficient nation on earth, could be expected to take the lead in developing new energy alternatives. It isn’t.
+人们本以为，全球技术最精湛的美国，会在新型替代能源的开发中起到带头作用。但它没有。
+Awash in cheap energy from shale oil and gas — the product of a surge in federally funded research decades ago — America has lost sight of the goal: decarbonizing the world’s energy supply within a matter of decades.
+得益于数十年前联邦政府资助的研究急剧增加，美国从页岩油和页岩气中获得了丰富的廉价能源。它已经忘记了目标：在几十年时间内，让全世界的能源供应做到脱碳。
+Consider the sun. The world has made huge leaps in solar technology. The price of solar panels has fallen sharply — in substantial part because of significant Chinese investment in panel manufacturing. Smart grid technologies have enabled owners of solar homes to buy power from the grid when the sun is down and sell it back when it is shining, and new business models have encouraged a boom in residential solar installations. In some parts of the country, solar energy has become competitive with conventional power from fossil sources.
+再来看太阳能。全球太阳能技术突飞猛进。太阳能组件的价格大幅下降，在很大程度上是因为中国在光伏制造领域进行了巨额投资。在使用太阳能的家庭，智能电网技术让屋主能在太阳下山后，从电网中买电，在太阳升起后再把电卖给电网。新的商业模式促进了住宅太阳能设施的繁荣发展。在美国部分地区，太阳能与来自化石能源的传统电力相比，已经具有了竞争力。
+Yet solar energy today accounts for only about 1 percent of the world’s power. To keep up with rising demand for electricity, solar energy might have to supply 27 percent of electric power by 2050, according to one model by the International Energy Agency that assumes nuclear power will be constrained by high costs and public opposition.
+但目前，太阳能仅占全球电力的大约1%。从IEA创建的一个模型来看，为了与不断上涨的用电需求保持同步，到2050年，太阳能供电的比例可能必须要提高到27%。IEA认为，核电会受制于高昂的成本和民众的反对。
+A recent report from researchers at the Massachusetts Institute of Technology highlighted the challenge.
+麻省理工学院（Massachusetts Institute of Technology，简称MIT）的研究人员前不久发布的一份报告，突显了相关的挑战。
+To provide a big share of the world’s energy, the M.I.T. researchers wrote, solar power must overcome three big obstacles: It is still more expensive than fossil fuels; it is tiny relative to the scale it will need to play a major role in the global energy system; and it is intermittent.
+MIT的研究人员写道，要想在全球能源中占据较大比重，太阳能发电必须克服三大障碍：它依然比化石燃料贵；现有的规模太小，还不足以使它在全球能源体系中扮演重要角色；而且太阳能供应是间断的。
+For starters, this calls for energy storage at large scale: huge batteries, perhaps, or alternatively, natural gas generators with carbon capture technology to pick up the slack when the sun is down. Neither exists yet.
+首先，要求有大规模的能源存储技术：或许可以用巨型电池，或者使用具备碳捕集技术的天然气发电机，以便在太阳下山时弥补电力需求。但这两种设备都尚不存在。
+And turning to the sun for a big chunk of power requires a leap in the basic technology converting photons into electric power to sharply reduce the price. The silicon-based solar panels that produce most solar energy today won’t cut it.
+让太阳能提供大量电力，需要基本的光电转化技术取得巨大进步，才能大幅降低价格。眼下，大部分太阳能发电设备，都要依赖以硅为基础的光伏组件。这种技术不会带来价格的下降。
+Scientists and entrepreneurs have developed promising approaches to these challenges, including perovskites or colloidal quantum dot photovoltaics. A critical question — to be discussed by scientists, policy makers and entrepreneurs at the Energy Thought Summit starting Wednesday in Chicago — is how to scale these early ideas into commercially viable alternatives.
+针对这些挑战，科学家和企业们已经开发出了一些前景看好的解决办法，包括钙钛矿或胶状量子点太阳能光电。一个关键性的问题是，如何让这些初步的想法提升为商业上可行的替代能源。科学家、政策制定者和企业家会在周三于芝加哥开幕的能源思想峰会(Energy Thought Summit)上讨论这个问题。
+Still, the private sector will not, on its own, step in to fill this gap.
+但私营部门并不会仅凭一己之力去填补这个空白。
+“It’s pathetic how little resources are being devoted,” said a speaker at the conference, David Miller of the Clean Energy Venture Group, an angel investor that provides seed capital to energy innovators. “They could reach a commercial scale but don’t have the funding to get there.”
+“投入到这个领域的资源少得可怜，”峰会的演讲嘉宾戴维·米勒(David Miller)说。“它们可以达到商业规模，但却没有走到那一步所需的资金。”米勒供职于清洁能源风险投资集团(Clean Energy Venture Group)，这家天使投资机构为能源领域的创新者提供种子资本。
+In the absence of a carbon tax, investors are subject to the ups and downs of the energy market. “The price of fossil fuels has had a tremendous impact, because it lowers the base line against which you are benchmarking your technology,” said Jason Blumberg, chief executive at Energy Foundry, a venture capital firm focusing on new energy technologies. “It doesn’t kill off everything but reduces the number of options.”
+在没有碳排放税的情况下，投资者受制于能源市场的起伏。“化石燃料的价格影响巨大，因为它降低了衡量技术时所参照的基准，”侧重新能源技术的风险投资公司能源铸造车间(Energy Foundry)的首席执行官贾森·布隆伯格(Jason Blumberg)说。“什么问题都解决不了，却还减少了选项。”
+And despite all the public commitment of the Obama administration to curbing climate change, the federal government is failing to fill the gap.
+尽管奥巴马政府公开承诺要控制气候变化，但联邦政府未能弥补这个缺口。
+“Spending on solar RD&D has been low relative to spending on other energy technologies with less long-term potential, it has been variable over time, and it has been too focused on short-term gains rather than long-term reductions in the cost of solar electricity,” the M.I.T. report noted, referring to research, development and demonstration.
+“相对于用在长远潜力不那么大的其他能源技术上的支出，用在太阳能技术的研发和演示上的开支很少，而且还会随着时间的推移发生变化，而且太注重短期收益，而非长久性地降低太阳能发电的成本，”MIT的报告指出。
+The uproar after the solar panel maker Solyndra defaulted on $528 million worth of federally guaranteed loans illustrates the government’s quandary. Despite the criticism over the loss, the main weakness in the federal government’s support for solar energy is that it has been too safe, unlikely to produce real breakthroughs. It has lost, in fact, too little money.
+光伏组件制造商Solyndra一笔价值5.28亿美元的联邦担保贷款违约后引发的骚动，突显了政府左右为难的处境。尽管这笔亏损备受指责，但是联邦政府对太阳能的支持存在的主要缺点在于，它的投资太安全了，不太可能催生真正的突破。实际上，它损失的钱还是太少了。
+The tragedy is that the riskiest investments in basic science — the first building block of a new energy future — are stalling.
+悲剧的是，对基础科学领域风险最大的投资已陷于停滞，而这是未来新能源的根基。
+The Energy Department’s budget for research, development and demonstration remains stuck at some $5 billion, roughly the same level of half a decade ago.
+能源部用于研究、开发和演示的预算，仍保持在大约50亿美元，和五年前的水平大致持平。
+At barely 2 percent of the federal government’s total research and development budget, it pales next to other countries’ efforts. China, for instance, spends a fifth of its government research budget on energy.
+在联邦政府总的研发预算中，能源预算也仅占2%，在其他国家的研发项目面前相形见绌。比如，中国将五分之一的政府研发预算用在了能源上。
+“A step-change in the United States’ commitment to federal energy innovation is critical,” noted a report released in February by the American Energy Innovation Council. “Any serious business leader would recognize that the country needs to take advantage of its current strength and act now to create a clean energy future.”
+“美国大力提升对联邦能源创新的支持力度是很关键的，”美国能源创新委员会(American Energy Innovation Council)在2月发布的一份报告指出。“任何一个认真的商业领袖都会承认，美国需要利用当前的优势，现在就行动起来，创造清洁能源的未来。”
+Too many political leaders think otherwise. So far, federal support for basic energy research has been limited by the many Republicans in Congress who deny man-made climate change and oppose spending more money to prevent it.
+但有太多的政治领袖并不这样想。迄今为止，联邦政府对基础性能源研究的支持，一直受到很多共和党国会议员的限制。他们否认人类活动造成了气候变化，反对为遏制气候变化而加大资金投入。
+With Congress blocking funding for innovation, the Obama administration has turned to its only available tool to change the nation’s energy profile: regulation. The Environmental Protection Agency will unveil the final rules of its Clean Power Plan soon, which, if it survives legal challenges, would force power plants to cut back on greenhouse gas emissions.
+鉴于国会阻挠为创新提供资助，奥巴马政府转而借助唯一可用的工具，即行政监管，来改变美国的能源格局。美国国家环境保护局(Environmental Protection Agency)很快将出台清洁电力计划(Clean Power Plan)的最终条文。若能经受住法律上的挑战，它将迫使发电厂减少温室气体的排放。

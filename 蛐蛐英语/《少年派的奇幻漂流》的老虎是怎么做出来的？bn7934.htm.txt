@@ -1,0 +1,28 @@
+THE book “Life of Pi,” a contemplative story about a boy lost at sea with a tiger companion, is not the most obvious candidate for a film. There’s that tiger, for starters. But when Ang Lee set out to adapt Yann Martel’s acclaimed novel, he conceived an intricate plan for extensive visual effects.
+ 《少年派的奇幻漂流》讲的是一个男孩与一只老虎在海上漂流的哲理故事，并不很适合改编为电影。首先，就要面对老虎这个棘手的问题。但当李安着手把扬·马特尔(Yann Martel)这部广受好评的小说搬上银幕时，他为影片大量的视觉效果构思出一个复杂的方案。
+That plan involved hundreds of artists. The film’s credits read almost like a short story, including people who worked around the world and around the clock to create sequences involving, for example, neon whale splashes and flying fish in bright skies.
+数百名艺术家参与了这个方案。影片的演职员表长得简直像一部短篇小说。世界各地的工作人员全天侯工作，创造出霓虹色彩的鲸鱼在水中嬉戏，鱼儿在明亮的天空中飞行之类镜头效果。
+“I’m dramatically trained, not visually trained,” Mr. Lee said during an interview in New York. “So to me all the visuals, whatever you see, came from dramatic needs: the mood of the situation or the emotion of the character.”
+“我在戏剧方面训练有素，在视觉方面就不太行，”李安先生在纽约接受采访时说，“所以对于我来说，不管观众看到什么样的视觉效果，终归都是戏剧效果的需要，要为场景气氛或者人物情感服务。”
+Those emotions run high in this film, which begins as a family drama then moves on to one of high-seas adventure and survival. The character with the most screen time is Pi Patel (Suraj Sharma), whose father owns a zoo in India. When the family decides to move to Canada, they take some of the animals along on a trans-Atlantic voyage. A tragic storm during the crossing strands Pi on a lifeboat with a feisty Bengal tiger he names Richard Parker.
+人物的情感在片中很激烈，影片开头是一幕家庭剧，之后讲述大洋上的冒险与求生故事。出镜最多的人物是由苏拉·沙玛(Suraj Sharma)饰演的派·帕特尔(Pi Patel)，他的父亲在印度拥有一家动物园。全家移居加拿大时决定带上一些动物一同穿越大西洋。旅途之中，一场海上风暴过后，派和一只活泼好动、被他取名为理查德·帕克(Richard Parker)的孟加拉虎一起被困在大洋中一条救生船上。
+Shooting a movie with a tiger as co-star presented some real-world challenges. “We didn’t want our actor to get eaten,” Bill Westenhofer, the visual effects supervisor, said, speaking by phone from Los Angeles. For this reason, and for more creative freedom, the tiger that primarily appears in the film is a digital creation from the effects house Rhythm & Hues.
+和老虎一起拍戏有许多现实困难。“我们可不希望自己的演员被吃掉，”视觉效果总监比尔·威斯坦霍芬(Bill Westenhofer)在洛杉矶接受电话采访时说。鉴于这个原因，同时也为了电影能有更多创作自由，片中的老虎主要使用由特效公司“节奏与色彩”(Rhythm & Hues)制作的数码特效。
+Here Mr. Westenhofer discusses the technical challenges of creating a tiger that looked and felt like the real thing. 
+怎样在银幕上创造出一只栩栩如生的老虎？威斯坦霍芬先生在这里谈了一些相关技术问题。
+Genuine Big Cat Feeds a Digital Big Cat
+取材自真实的猫科动物
+For the digital version of Richard Parker, Mr. Westenhofer’s team studied reference footage of an actual tiger, top. And real tigers were used for a few important shots, including one with Richard Parker swimming in the ocean. Four tigers along with a trainer, Thierry le Portier, were brought in, and the crew set up a movable “boat” inside a tiger enclosure to shoot some scenes.
+为了制作数码版的理查德·帕克，威斯坦霍芬先生的团队首先对一只真实老虎进行摄像，作为参考，进行研究。这只真实的老虎也在片中的几个重要场景中出镜，包括理查德·帕克在大洋中游泳的一幕。驯兽师蒂里·勒·波蒂埃(Thierry le Portier)带着4只老虎进入剧组，工作人员在老虎呆的围栏里搭起了一条可移动的“小船”，在围栏里拍了一些场景。
+“We used them for single shots, where it was just the tiger in the frame, and they’re doing something that didn’t have to be all that specific in the action that we were after,” Mr. Westenhofer said. There was a debate about whether to include a real tiger at all, but Mr. Westenhofer pushed for it. “By doing that, it set our bar high for CGI,” he said, referring to computergenerated imagery. “We couldn’t cheat at all. It pushed the artists to go and deliver something that’s never been done before, something as photo-real as anyone has ever done with an animal.”
+“我们在单独的镜头中使用它们，取景器里只有老虎，拍的是某些不需要我们进行特殊制作的动作，”威斯坦霍芬先生说。他们讨论过，是不是干脆就不要使用真正的老虎了，但威斯坦霍芬先生极力主张使用真虎。“这样会提高我们CGI的标准，”他口中的“CGI”是指电脑特效画面(computer generated imagery)。“这样一来我们就根本不能作弊。这推动着艺术家们全力以赴，做出之前做不到的事情，有些画面像照片一样真实，达到了动物特效画面的极致。”
+Mr. Westenhofer said some animators have a tendency to anthropomorphize animals, giving them more human qualities. But the “Pi” crew was careful not to do that and to keep the digital tiger, bottom, fierce and spontaneous with animalistic instincts.
+威斯坦霍芬先生说，有些动画师会倾向于让动物拟人化，赋予它们一些人类的特性。但《派》剧组小心翼翼地避免这样做，让这只数码老虎保持原始、凶猛和天然自发的动物本能。
+Building a Predator by Bone, Muscle, Flesh and Fur
+用骨骼、肌肉、皮肤和毛发塑造一只食肉动物
+These images take a progressive look through the meticulous process that went into constructing the digital tiger. Artists developed each layer of the animal’s physical makeup almost as if they were working on a biology experiment.
+构建这只数码老虎是一项极度精密的工作，这些图片呈现出工作进展过程中的各阶段。艺术家们绘制了老虎身体结构中的每一层次，感觉就像在做生物实验。
+They started with the skeleton, which they used to control basic movements (segments with common colors, top right, move together), then added muscle, skin and fur. More than a dozen artists were assigned to the fur alone, focusing, for example, on how light shimmered on it.
+他们先从用来控制老虎基本动作的骨架开始（见右上图，以常见的颜色绘出各部分，之后合在一起），之后再添上肌肉、皮肤与毛发。光是毛发就有十几个艺术家在负责，专心处理皮毛上的光泽之类的细节。
+“We studied the reference and dialed up the muscle flexing,” Mr. Westenhofer said. “Tigers are really a mass of solid muscle surrounded by loose, baggy skin. And the way it moves and shakes and bounces around is really important to see.” He added that they got to a point where, in most animation projects, they would have considered their work done. But they continued for three more weeks, further refining the creature’s mannerisms. (In all the process took about a year.) Among the details fine-tuned were how his paws twitched as he shifted his weight and how he swallowed.
+“我们研究了参考录像，测算了肌肉弯曲度，”威斯坦霍芬先生说，“老虎这种动物有着大块坚实的肌肉，外面覆盖着宽松下垂的皮肤。它移动、摇摆和弹跳的样子都要重点观察。”他还补充说，他们一度已经接近完工，大部分动画本来已经做得可以了，但他们又接着干了三个星期，进一步修改老虎的特殊动作。这些经过微调的细节包括老虎站起身来和吞咽食物时爪子的抽搐。整个过程花费了大约一年。

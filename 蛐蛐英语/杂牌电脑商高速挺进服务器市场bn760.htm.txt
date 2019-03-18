@@ -1,0 +1,20 @@
+This quarter’s market-share reports on computer server shipments and sales from Gartner and IDC are an unusually eloquent statement about the world’s transition to cloud computing and commodity machines that don’t command a big profit margin.
+调研公司高德纳(Gartner)和国际数据公司(IDC)发布的本季度电脑服务器出货量和销售量市场份额报告，极具说服力地展示了世界正在向云计算和利润率不高的通用服务器过渡。
+The reports are bad news for well-known companies selling servers that suit a specific purpose or those that hope a household brand name, like Hewlett-Packard, will help sales.
+对于销售适用于特定目的服务器的知名公司，以及希望利用像惠普(Hewlett-Packard)这样的知名品牌来推升销售量的公司来说，这两份报告带来的是一个坏消息。
+At first pass, you might think little has changed. I.B.M.’s high-end machines still held the most revenue, bringing in about $3.2 billion, according to Gartner, and $3.3 billion, according to IDC. That was off 9.7 percent and 10 percent, however, from the analysts’ year-ago numbers.
+乍看上去，你可能会觉得没有什么变化。IBM高端机的营收仍然独占鳌头，在高德纳的报告中​约为32亿美元（约合196亿元人民币），IDC的报告中为33亿美元。但是，与这两家分析公司去年同期的数字相比，IBM的这部分营收减少了9.7%和10%。
+Hewlett-Packard shipped the most units of any company, Gartner said. These were mostly commodity servers, built on the X86 chip, the most common chip architecture used in PCs and servers.  Intel is the biggest producer of these kinds of chips. Once again, H.P.’s leadership position was off 13.6 percent compared with the third quarter of 2012.
+高德纳的报告显示，各种电脑总出货量最大的公司是惠普。其中主要是搭载X86芯片的通用服务器，X86是个人电脑和服务器上最常见的芯片架构，英特尔(Intel)是这类芯片最大的生产商。同样，与2012年第三季度相比，惠普虽然在出货量上保持了领先，但降幅却达到13.6%。
+But the real story here is losses by big companies and impressive gains by the category both analyst firms call “Others,” which are largely Taiwanese and Chinese makers who ship very cheap machines with little or no brand association.
+但报告中真正的亮点在于，大公司在失去市场份额，“其他”公司的增长势头却颇为迅猛。两家分析公司所说的“其他”公司，主要是指台湾和中国大陆的制造商，它们售出的电脑非常便宜，但品牌知名度很小，或者没有品牌 。
+“Others” came in third after I.B.M. and H.P. in revenue, Gartner said, growing 7.9 percent to $2.7 billion (like I.B.M., H.P.’s server revenue was down significantly.) I.D.C. had Dell slightly higher, and it put the “Others” in fourth place.
+在高德纳的报告中，“其他”公司的营收为27亿美元，仅次于IBM和惠普，排在第三位，增幅达7.9%（与IBM一样，惠普的服务器营收也出现了大幅下降）。在IDC的报告中，戴尔(Dell)的营收略高一些，把“其他”公司挤到了第四位。
+The “Others” blew everyone away in volume. Gartner said they shipped 969,342 units, a stunning 14.4-percent increase.  Cisco’s growth rate was far lower than the commodity manufacturers’.
+“其他”公司的出货量让所有人都大吃一惊。高德纳表示，这些公司的出货量为969342台，增幅相当惊人，为14.4%。思科(Cisco)的增长率远逊于通用服务器制造商。
+Companies like Quanta ship these computers in shrink-wrapped racks that go into the world’s biggest data centers. According to a Facebook engineer, last year Quanta racks made up 80 percent of Facebook’s servers.
+这种计算机是由广达(Quanta)这样的公司出产的。它们装在紧凑包装的机架中，进入世界上的大型数据中心。Facebook的一名工程师称，去年，广达生产的机架在Facebook的服务器中占80%。
+There were other stories inside the numbers: Dell’s push into servers is making impressive gains, probably at the expense of H.P. It is not clear that this will translate into new demand from cloud consumers. Cisco’s network-based servers, part of the company’s overall push into network-based cloud computing, is gaining ground.
+这些数字中还有其他亮点：戴尔进军服务器市场，获得了令人瞩目的成果，它侵占的可能主要是惠普的份额。这是否会转化为云计算用户的新需求，目前尚不清楚。思科基于网络的服务器也有所增长，它们与该公司向着基于网络的云计算整体推进有关。
+But for now, the real tale is the rise of the faceless suppliers, and the incessant demand for their undistinguished raw power by cloud-computing data centers.
+但就目前而言，真正的亮点是不知名的供应商正在崛起，对于它们不露声色的强劲力量，云计算数据中心有着源源不断的需求。

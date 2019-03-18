@@ -1,0 +1,32 @@
+BRUSSELS — Europe’s resentment of the American technology giant Google reached a new noise level on Thursday as the European Parliament passed a nonbinding vote to break up the company.
+布鲁塞尔——欧洲对美国科技巨头谷歌(Google)的厌恶，在周四达到了一个新的噪音水平：欧洲议会(European Parliament)投票通过了一项分拆这家公司的非约束性决议。
+Although merely symbolic — the resolution carries no legal weight — the move came the day after a separate European body sought to further expand citizens’ “right to be forgotten” privacy protections against Google.
+尽管此举只是象征性的——该决议没有法律效力，但就在投票前一天，另一家欧洲机构曾寻求进一步扩大公民的“被遗忘权”，防止谷歌侵犯公民的隐私权。
+Both moves are also playing out against the backdrop of a long-running investigation by the European authorities of Google, on which the European Union’s new antitrust chief, Margrethe Vestager, is still getting up to speed.
+上述两个动作出现的同时，欧洲一些机构已经对谷歌展开了长期调查。欧盟新任反垄断负责人玛格丽特·韦斯塔格尔(Margrethe Vestager)正寻求加速这项调查。
+A breakup of Google in Europe will almost certainly not happen, legal experts say. And whether any of the various policy moves afoot will ever significantly curtail the company’s business operations across the region is still too soon to gauge.
+法律专家说，在欧洲对谷歌进行分拆几乎是不可能的。而要评估正在进行的政策行动是否会令谷歌在该地区的业务大幅减少，也为时过早。
+But taken together, the level of policy-making activity being devoted to the company signifies the growing antipathy to American technological dominance in the European Union even as its citizens grow ever more reliant on its gadgetry and conveniences. Not since European officials spent years seeking to rein in the powers of an earlier tech titan, Microsoft, has an American company drawn such scrutiny on this side of the Atlantic.
+但总体上看，针对谷歌的决策活动却代表着欧盟对美国在科技领域主导地位日益增长的反感，虽然与此同时，这里的公民已经越来越依赖美国技术的精巧设计和种种便利。欧洲官员曾长年寻求遏制此前的科技巨头微软(Microsoft)的势力，但在那之后，还没有哪家美国公司在大西洋的这一边受到过如此严密的审视。
+European fears of American technology giants have been stoked in the last 18 months by the revelations of Edward J. Snowden, the former National Security Agency contractor, about American intelligence agencies’ spying activities and perceived easy access to the world’s tech infrastructure. Chancellor Angela Merkel of Germany publicly complained when it was discovered last year that her cellphone had most likely been tapped by American intelligence.
+过去18个月，由于美国国家安全局(National Security Agency)前合同雇员爱德华·J·斯诺登(Edward J. Snowden)的泄密，欧洲对美国科技巨头的担忧已经加剧。斯诺登揭露了美国情报机构的间谍活动，而且美国被认为可以轻易地进入全世界的科技基础设施。去年，当发现自己的手机极有可能被美国情报机构监听时，德国总理安格拉·默克尔(Angela Merkel)公开表达了愤怒。
+In one sense, Thursday’s vote amounts to little more than political posturing because the Parliament has no formal power over antitrust policy in the 28 countries of the European Union. That power rests with the European Commission, the bloc’s executive arm. Yet the vote could raise pressure on Ms. Vestager to speed a decision on whether to bring formal antitrust charges against Google in an investigation that began in 2010. That inquiry involves Google’s dominant position in Europe’s Internet search business and asks whether the company’s search results favor other Google-related services and hobble competing search advertising platforms.
+在某种意义上，周四的投票只不过是一种政治姿态，因为欧洲议会对欧盟28国的反垄断政策没有真正的决定权。该权力属于欧盟的行政分支欧盟委员会(European Commission)。然而，这次表决可能会迫使韦斯塔格尔加快做出是否对谷歌提出正式反垄断指控的决定。相关调查从2010年就已经开始，涉及谷歌在欧洲互联网搜索业务的主导地位，调查想要解决的问题是：谷歌的搜索结果是否更加有利于其他与谷歌有关的服务，并且对竞争对手的搜索广告平台造成了不利影响。
+But even if Ms. Vestager finds fault on Google’s part, analysts said, the most likely outcome might be changes in its business practices and even possibly a big fine — as happened in past European investigations with Microsoft as well as another American tech giant, the chip maker Intel.
+但分析人士说，即使韦斯塔格尔判定谷歌有过错，最有可能的结果可能是谷歌商业操作的改变，或者甚至是巨额罚款——就像欧洲以往对微软及另一家美国科技巨头、芯片制造商英特尔的调查后果一样。
+“Breaking up Google would be unprecedented in all kinds of ways and seems hugely unlikely in absence of massive, proven consumer harm — and it’s very unclear to me whether the commission is going to find that harm,” said Mario Mariniello of Bruegel, a research organization in Brussels.
+“从各方面来看，拆分谷歌都是史无前例的，并且鉴于未能证明它给消费者造成了巨大危害，此事似乎不大可能，我非常怀疑委员会能做出存在损害的裁决，”位于布鲁塞尔的研究机构布勒哲尔国际经济研究所(Bruegel)的马里奥·马林涅罗(Mario Mariniello)说。
+He noted that United States antitrust officials had never found reason to censure Google, despite its market power on both sides of the Atlantic. He said it was “hard to see how Europe could do this alone, and what would be the basis for doing something so fundamentally different from the U.S. authorities.”
+他指出，尽管谷歌在大西洋两岸都握有市场权力，但美国反垄断官员从未找到审查它的理由。他说，“很难想象欧洲能单独做到这一点，以及做这种与美国当局有着根本性不同的事情，依据是什么。”
+Ricardo Cardoso, spokesman for Ms. Vestager, said after the parliamentary vote that she would not be swayed by the result. Antitrust should be “independent from politics” so that Europe’s “procedures are not put into question,” he said.
+韦斯塔格尔的发言人里卡多·卡多索(Ricardo Cardoso)在议会投票结束后表示，韦斯塔格尔不会被投票结果左右。他说，反垄断应该“独立于政治之外”，这样欧洲的“程序就不会受到质疑”。
+A Google spokesman, Al Verney, declined to comment.
+谷歌发言人阿尔·韦尔内(Al Verney)拒绝置评。
+The vote was taken on a broader resolution on the digital economy that passed with 384 votes in favor, 174 against and 56 abstentions.
+此次投票是针对一项更广泛的有关数字经济的决议进行的，该决议以384票赞成、174票反对、56票弃权的结果获得通过。
+The lengthy resolution broadly called on the European authorities to break down barriers in digital commerce and was backed by significant numbers of lawmakers in the main conservative and socialist political blocs in the Parliament, the only directly elected body in the European Union.
+该项洋洋洒洒的决议泛泛地呼吁欧洲当局打破数字商业领域的障碍，得到了相当多来自欧洲议会中主要的保守派和社会主义政治集团的议员的支持。欧洲议会是欧盟唯一一个通过直接选举产生的机构。
+For Google, its inability to reach a settlement with the European Commission despite years of trying means the company could still potentially face a fine of nearly $6 billion, or 10 percent of global annual sales, and restrictions on its freedom to do business in Europe if it is eventually found to have broken the bloc’s competition laws.
+数年来，谷歌一直试图与欧盟委员会达成和解，但却未能成功。这意味着，该公司依然可能面临着近60亿美元（约合370亿元人民币）的罚款，这相当于其全球年销售额的10%。如最终被发现违反了欧盟的竞争法，谷歌在欧洲做生意的自由也可能受限。
+Among the proponents of tough antitrust action against Google in Europe are major American technology companies like Microsoft and Yelp, as well as powerful German and French publishing groups that have formed a lobbying group called the Open Internet Project. That Microsoft now finds itself lobbying against the current market giant indicates how quickly the dynamics can change in the digital economy.
+支持对谷歌在欧洲的业务采取严厉的反垄断行动的，是微软和Yelp等大型美国科技公司，以及势力强大的德国和法国出版集团。这些出版集团已经组成了一个名为开放互联网计划(Open Internet Project)的游说组织。微软自己正为了对目前的市场巨头采取行动而展开游说表明，数字经济领域的形势是多么瞬息万变。

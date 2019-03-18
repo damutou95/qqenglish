@@ -1,0 +1,52 @@
+MOSCOW — For years, Igor A. Artimovich had been living in a three-room apartment he shared with his wife in St. Petersburg, sitting for long hours in front of his Lenovo laptop in his pajamas, drinking sugary coffee.
+莫斯科——多年来，伊戈尔·A·阿尔季莫维奇(Igor A. Artimovich)一直和妻子住在圣彼得堡一套三居室公寓里。他每天穿着睡衣，喝着甜腻腻的咖啡，在他的联想牌笔记本电脑前一坐就是好几个小时。
+If he were known at all to Western security analysts who track the origins of spam, and in particular the ubiquitous subset of spam e-mails that promote male sexual enhancement products, it was only by the handle he used in Russian chat rooms, Engel.
+对于追踪网络垃圾邮件源头（特别是其中那些遍地泛滥的男性性功能提升产品的垃圾广告的源头）的西方安全分析人士而言，即使他们知道有这样一个人存在，也仅仅是通过他在俄罗斯网络聊天室里的网名“恩格尔”（Engel，德语“天使”——译注）。
+His pleasant existence, living in obscurity, changed this summer when a court in Moscow linked Mr. Artimovich and three others with one of the world’s most prolific spambots, or illegal networks of virus-infected computers that send spam.
+今年夏天，他默默无闻的愉快生活出现变故。莫斯科一所法院认定，阿尔季莫维奇和另外三人，与全球活跃程度排名位居前列的一家“垃圾僵尸”(spambot)网络有牵连。所谓的“垃圾僵尸”网络是指遭病毒感染的电脑组成的非法网络，这种网络被用来发布垃圾信息。
+The ruling provided a peek into the shrouded world of the Viagra-spam industry, a multimillion-dollar illegal enterprise with tentacles stretching from Russia to India. Around the world every day, millions of people open their e-mail in-boxes to find invitations to buy Viagra or some other drug, potion or device to enhance sexual performance.
+这项判决让人得以管窥裹着神秘面纱的“万艾可”(Viagra)垃圾广告产业。该非法业务规模高达数千万美元，其触手从俄罗斯一直延伸到印度。每一天，全球数百万人打开电子邮箱，就会看到招徕收件人购买万艾可，或其他可以增进性功能的药物、饮品和器械的广告。
+Who sends these notes and how they make money had remained a mystery to most recipients. The court put names and faces to a shadowy global network of infected computers known outside Russia as Festi and inside the country as Topol-Mailer, named after an intercontinental ballistic missile, the Topol-M. It was powerful enough to generate, at times, up to a third of all spam e-mail messages circulating globally.
+对大多数接收者来说，是谁在发送这些邮件、他们通过什么赚钱，一直是个谜。法院给染毒电脑组成的神秘全球网络，赋予了对应的人名和面孔。在俄罗斯之外，这一垃圾僵尸网络被称为Festi，而在该国国内则称为“白杨邮件网”(Topol-Mailer)，它得名于“白杨-M”(Topol-M)型洲际弹道导弹。该网络功能强大，有些时候它产生的垃圾邮件，能达到全球垃圾邮件流通总量的三分之一。
+Prosecutors say Mr. Artimovich was one of two principal programmers who controlled the network of infected computers in a group that included a former signals intelligence officer in the Federal Security Service, or F.S.B., the successor agency to the K.G.B.
+检察官称，阿尔季莫维奇是染毒计算机网络控制团伙的两名主要程序员之一，团伙还包括一名俄罗斯联邦安全局（Federal Security Service，简称FSB）的前信号情报官员，该局的前身是克格勃(KGB)。
+Once they control the virus-infected computers, they are able to use software embedded on home and business computers to send persistent e-mails. The owner of an infected computer usually never knows the PC has been compromised.
+他们一旦控制了这些受病毒感染的电脑，就能动用安装在家用和办公电脑上的软件，持续不断地发送电子邮件。染毒电脑的主人往往根本不知道自己的电脑被侵入了。
+More often than not these days, those infected computers are in India, Brazil and other developing countries where users cannot afford virus protection. But the high-end programming of viruses often takes place in Russia.
+目前，这些染毒电脑多分布于印度、巴西以及其他发展中国家，这些地方的用户常无力负担病毒防护的费用，而编制病毒的高端工作通常是在俄罗斯进行的。
+While the business model has been well understood — it was the subject of an extensive study by the University of California, San Diego — the individuals behind one of the largest spam gangs using it have largely avoided official scrutiny, until recently.
+加州大学圣迭戈分校(University of California, San Diego)对这种网络做过一项深入研究。虽然人们已经熟知其运作模式，但使用这种网络发送垃圾邮件的最大团伙之一，其幕后人物直到最近才受到官方惩戒。
+The Tushino Court in Moscow convicted two people of designing and controlling the Festi botnet, and two others of paying for its services, but none of them specifically of distributing spam. Instead, the court convicted the group of using the Festi network in 2010 to turn thousands of browsers simultaneously to the Web page of the online payment system of Aeroflot, the Russian national airline, crashing it in what is known as a distributed denial of service attack.
+莫斯科市图什诺法院判决，二人设计和控制Festi僵尸网络的罪名成立，而另外二人犯有购买其服务的罪行，但他们的罪名中并不具体包括散布垃圾邮件。不过，该法院判决，该团伙2010年曾利用Festi网络控制数以千计的网络浏览器程序，同时连接国有航空公司俄罗斯航空(Aeroflot)的网上支付系统，导致其崩溃。这种攻击手法被称为“分布式拒绝服务”(distributed denial of service)。
+The spambot problem has vexed Western law enforcement officials, who complain the Russians ignore losses to global businesses that pay about $6 billion annually for spam filters, and to companies like Pfizer for sales lost to counterfeit pills.
+垃圾僵尸网络问题一直令西方国家的执法官员烦恼不已。他们指责俄罗斯对世界各国企业每年耗费在垃圾邮件过滤系统上的60亿美元损失坐视不管，而且漠视假药销售让辉瑞(Pfizer)等企业蒙受的损失。
+Computer security experts have long been intrigued by the possibility that the Russian government has turned to so-called black hat hackers for political tasks in exchange offering protection from prosecution. But any direct evidence has been lacking, though the Festi case adds to the circumstantial evidence.
+计算机安全专家一直在怀疑，俄罗斯政府有可能以免受指控为条件，招揽所谓的“黑帽子黑客”开展政治任务。不过尚无直接证据证明此种怀疑，尽管Festi案件提供了又一旁证。
+For years, spam has been a very good business for Russian criminal gangs. An estimated $60 million a year is pulled in through these networks. Despite the Russian prosecutors’ victory this summer, similar networks remain active as tools for fraud and hacker attacks. Computer security experts say that suggests either the wrong men were convicted or the controlling codes were passed to somebody else.
+多年来，垃圾邮件一直是俄罗斯犯罪团伙丰厚的收入来源。据估计，这些网络每年赚取的收入达6千万美元。虽然今年夏天俄罗斯的检察官获得了胜诉，类似的网络仍然在活跃运转，被用作诈骗和黑客攻击的工具。计算机安全专家称，这说明要么被判罪的人并非真正主使，要么控制网络的代码已经转移给他人。
+Stefan Savage, a professor in the systems and networking group at the University of California, San Diego, studied the Festi scheme, in part by making test purchases.
+加州大学圣迭戈分校系统与网络研究团组的教授斯蒂芬·萨维奇(Stefan Savage)曾研究过Festi的组织，其中包括试探性的购买。
+The spam opened links to sites called “Canada Pharmacy” or “Canadian Pharmacy,” though they were in fact Russian-based companies that had privileges to process online payments from Visa through banks in Azerbaijan and Iceland. The sales were responsible for about a fifth of the $300 million global industry of selling fake drugs online, mostly to Americans, Mr. Savage said in an interview.
+萨维奇接受采访时称，这种垃圾邮件会打开所谓“加拿大药厂”(Canada Pharmacy/Canadian Pharmacy)的网站链接，但它们实际上是设在俄罗斯、有权限通过位于阿塞拜疆和冰岛的银行受理Visa在线付款的公司。它们的业务量在全球3亿美元假药网购销售额中占据了五分之一，这些假药主要卖给了美国人。
+What arrived in the mail was Viagra counterfeited in India, where intellectual property rights on pharmaceutical industry products are loosely enforced. Mr. Savage tested the pills in a gas spectrometer; they were close enough chemically to real Viagra that they most likely functioned safely, and as intended, for tens of thousands of American men.
+买家收到的邮包里装的其实是印度产的仿冒万艾可，该国对制药业知识产权的执法十分松懈。萨维奇用气相色谱仪检测了药片的成分。它们在化学成分上足够接近真正的万艾可，因此很有可能对数万名美国男性买家，产生了安全而符合预期的药效。
+The Internet has experienced the ill effects. About 70 percent of all e-mail sent globally is still spam, according to Symantec, the antivirus company. Most of it violates a number of American laws.
+但互联网却承受了它的“副作用”。据反病毒公司赛门铁克(Symantec)称，全世界电子邮件总量中仍有70%是垃圾邮件。大多数垃圾邮件违反了多项美国法律。
+For a three-month period last year, the Festi botnet was bursting with activity. It generated about a third of all global spam for those months, Paul Wood, the cybersecurity intelligence manager at Symantec, said in an interview.
+去年有三个月里，Festi僵尸网络异常活跃。赛门铁克公司网络安全情报经理保罗·伍德(Paul Wood)接受采访称，那段时间里该网络制造了全球垃圾邮件总量的三分之一。
+Why Russian authorities allowed Festi to function for years is unclear. Russians had little incentive to invest law enforcement resources in a crime that primarily affected Americans. But the illegal computer networks like Festi that are so useful for sending spam are also capable of crashing Web sites by flooding them with an overwhelming numbers of visits — the distributed denial of service attacks.
+俄罗斯当局容忍Festi数年来持续运转的原因不得而知。俄罗斯没有多大动力投入执法资源，去阻止一项主要影响美国人的犯罪活动。不过，Festi这种在散布垃圾邮件上大显身手的非法电脑网络，也能通过不计其数的大量访问冲垮网站，使之崩溃，这就是分布式拒绝服务攻击。
+It was used last year inside Russia to crash opposition Web sites during the presidential election. The Festi network was the tool of choice in a prominent denial of service attack on LiveJournal, one of the blog-hosting services used by the Russian dissident and blogger Aleksei Navalny, according to Hacker, a Russian magazine focused on cybersecurity issues.
+去年，俄罗斯国内就发生过这种攻击。在总统大选期间，这种攻击被用于冲垮反对派的网站。俄罗斯网络安全专业杂志《黑客》(Hacker)称，在一场针对LiveJournal网站发起的声势浩大的分布式拒绝服务攻击中，Festi网络正是首选的工具。而LiveJournal正是俄罗斯异见人士、博客作者阿列克谢·纳瓦尔尼(Aleksei Navalny)使用的博客托管网站之一。
+In one of the few crackdowns, the Russian court case singled out four men: Pavel Vrublevsky, the owner of an online payment settlement business called ChronoPay, who for years has denied accusations of ties to Viagra spam schemes; Maksim Permakov, an employee of Mr. Vrublevsky and a former F.S.B. agent; Igor Artimovich, a former employee of Sun Microsystems in Russia; and his brother Dmitry Artimovich, a freelance programmer.
+这宗案件是为数不多的打击行动中的一次。此次，俄罗斯的这家法庭具体挑出了4个人：在线支付结算公司ChronoPay的所有人帕维尔·弗卢布列夫斯基(Pavel Vrublevsky)，他数年来一直否认自己和万艾可垃圾邮件组织有关系；弗卢布列夫斯基的雇员、前FSB特工马克西姆·彼尔马科夫(Maksim Permakov)；太阳微系统公司(Sun Microsystems)俄罗斯分部前员工伊戈尔·阿尔季莫维奇；还有他的兄弟、自由职业程序员季米特里·阿尔季莫维奇(Dmitry Artimovich)。
+All denied the charges and have said through their lawyers that they intend to appeal the sentences, which range from two to two and a half years in prison, except for Mr. Permakov, who conceded his role in using Festi and cooperated with investigators in exchange for a suspended sentence.
+除了彼尔马科夫以外，他们都否认了受到的指控，并通过律师表示打算上诉推翻判决。判决分别为监禁两年到两年半。而彼尔马科夫承认了他使用Festi网络的行为，与检方合作，换取了缓刑处理。
+Prosecutors argued that Igor Artimovich designed Festi. They say the executives at ChronoPay hired him to crash the Aeroflot site because they were angry at losing a tender for Aeroflot’s business.
+检方指控伊戈尔·阿尔季莫维奇设计了Festi网络。ChronoPay曾投标俄罗斯航空的一项业务，但投标最后失败。检方称该公司管理层对此感到愤怒，因而雇用他让俄罗斯航空的网站崩溃。
+The police say the executives asked Mr. Artimovich to settle the score. Analysts of Russian cybercrime say a line had been crossed by attacking a Russian site.
+警方称，该公司管理层指使阿尔季莫维奇进行报复。分析俄罗斯网络犯罪的人士称，对俄罗斯国内网站发动攻击，突破了官方容忍的底线。
+In an interview before his sentencing, Mr. Artimovich said he was working on code under contract with ChronoPay, but for an antivirus program, not a virus. He said the police planted evidence on his laptop hard drive after his arrest.
+在被判刑前接受的采访中，阿尔季莫维奇表示他当时受ChronoPay合同委托，正在编写程序，但开发的是一款反病毒软件而非病毒。他说警方将他逮捕后，把证据拷贝到他笔记本电脑的硬盘上，给他栽赃。
+Mr. Vrublevsky, in an interview, denied any role in creating Festi and noted that in court a witness testified that the F.S.B., which investigated the case, had forged evidence.
+弗卢布列夫斯基在采访中否认他在编写Festi的过程中起到了任何作用。他还强调道，有证人出庭作证，指出调查此案的FSB伪造了证据。

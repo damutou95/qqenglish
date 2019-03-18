@@ -1,0 +1,20 @@
+WASHINGTON — A new public database aims to catalog the genetic codes of 100,000 types of bacteria found in food, vastly increasing the amount of data that scientists can use to trace the causes of food-borne illness.
+华盛顿——科研人员建立了一个新的公共数据库，将极大地增加科学家用于追踪食源性疾病病因的数据总量。该数据库的目标是对食品中发现的10万种细菌进行遗传密码编目。
+The free database, being set up at the University of California, Davis, will enable scientists to pinpoint not only what food carries the bacteria responsible for a given outbreak — raw tuna in sushi, for example — but also what country it came from. And while responses to such outbreaks have typically taken weeks, the new database is expected to reduce that to days.
+这个免费数据库是由加州大学戴维斯分校(University of California, Davis)建立的。它不仅能帮科学家确定导致疫情爆发的细菌是哪种食品携带的，如寿司里的金枪鱼刺身，而且还能确定来自哪个国家。通常，对疫情爆发作出反应需要几周时间，而这套新数据库有望把时间缩减到几天。
+“It’s actually a big deal from a scientific standpoint,” said Steven M. Musser, the Food and Drug Administration official who announced plans for the database on Thursday.
+上周四公布该数据库计划的美国食品和药品管理局（Food and Drug Administration，简称F.D.A）官员史蒂文·M·马瑟(Steven M. Musser)说，“从科学的角度看，这套数据库的建立实在是件了不起的事。”
+Genetic sequencing is new. To date scientists have identified as many as 3,000 sequences, and only about 1,000 are related to food.
+基因测序是一种新做法。到目前为止，科学家已经识别出多达3000个基因序列，其中只有约1000个序列和食品有关。
+The Centers for Disease Control and Prevention has the largest such database, but the gene maps it contains are only partial, not enough to determine which food the illness came from or its geographic origin, said Dr. Musser, director of the office of regulatory science at the F.D.A.’s Center for Food Safety and Applied Nutrition.
+马瑟是F.D.A.下属的食品安全与应用营养中心(Center for Food Safety and Applied Nutrition)监管科学办公室主任。他说，疾病预防与控制中心(Centers for Disease Control and Prevention)拥有规模最大的此类数据库，不过该数据库包含的基因图谱并不完整，不足以用来断定疾病是哪种食品引起的，也不能断定疾病的地理源头。
+Cataloging gene codes is time-consuming. Salmonella alone has about 2,700 different strains, almost three times as many as all the sequences for food-borne bacteria that have been cataloged to date. Dr. Musser said his laboratory had cataloged just 500 in about three years of work. It is contributing those sequences to the project, all related to salmonella.
+为遗传密码编目相当费时。仅沙门氏菌就含有2700种不同的菌株，数量几乎是今天所有已编目的食源性细菌的基因序列的三倍。马瑟说，他的实验室在过去三年里仅完成了500个序列的编目。他的实验室已将这些已编目的基因序列提供给了该数据库项目，这些序列都与沙门氏菌有关。
+But the database, which includes contributions from the disease centers and from the biotechnology company Agilent Technologies, aims to have mapped 100,000 sequences in five years, making it the single largest genome project in the world, said Bart C. Weimer, a professor of microbiology at U.C. Davis who is directing the project.
+负责该数据库的加州大学戴维斯分校微生物学教授巴特·C·韦默(Bart C. Weimer)说，数据库中会包括疾控中心和生物科技公司安捷伦科技(Agilent Technologies)作出的贡献，该项目计划在五年内完成10万种细菌的基因测序，将成为世界上最大的一个基因组项目。
+The cost of such work has dropped sharply in recent years, he said, but having enough people trained to sort through all the data was the main concern.
+他说，近些年，进行类似基因测序工作的成本已经大幅下降。找到充足的人员，经过培训后将数据整理归类才是工程的关键问题。
+The first sequencing started in March, Dr. Weimer said, shortly after researchers at the F.D.A. and at the university realized they were working simultaneously on similar things and decided to join forces.
+韦默博士说，最初的测序工作已于今年3月开始。测序工作开始前不久，F.D.A.和加州大学的研究人员发现他们正在同时开展相似的工作，于是决定联手协作。
+“You need a big volume of information to make an impact in the public health arena,” he said. “That improves accuracy and the capability of doing things fast.”
+他说，“要想在公共卫生领域产生影响，就需要海量的信息，那样就能提高准确度和快速处理事务的能力。”

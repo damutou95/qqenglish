@@ -1,0 +1,62 @@
+How would you like to move into a stunning mansion on a bluff overlooking the sea — in Somalia? Or would you like the chance to own a new Ferrari — that has to be refueled every three miles? Would you take a job that pays $1 million a year — cutting football fields with toenail clippers?
+你想不想搬进一栋位于断崖之上绝好的海景别墅——但是是在索马里？或者你想不想拥有一部全新的法拉利汽车(Ferrari)——不过每跑4.8公里就需重新加油？或者你想不想得到一份年薪100万美元（约合625万元人民币）的工作——要求你用脚趾甲剪修建足球场地？
+That’s the sort of choice Microsoft is asking you to make with the spectacularly designed, wildly controversial Surface tablet.
+微软(Microsoft)推出设计精美、却极具争议性的Surface平板电脑，无异于在让你做这种选择。
+Now, for the very first tablet it has ever manufactured (in fact, its very first computer), Microsoft could have just made another iPad ripoff. But it aimed much higher. It wanted to build a tablet that’s just as good at creating work as it is at organizing it.
+平心而论，对于其首款平板电脑（事实上也是它推出的第一台电脑），微软本来可以只是模仿iPad。但这家公司的志向高远得多。它希望拿出一款在制作和管理两方面都让用户得心应手的平板电脑。
+On the hardware front, Microsoft has succeeded brilliantly. Read the specs and try not to drool on your keyboard.
+在硬件方面，微软取得了卓越的成功。读一读Surface的配置吧，小心别把口水流到键盘上。
+The Surface shares some measurements with the full-size iPad (1.5 pounds, 0.4 inches thick). But at 10.8 by 6.7 inches, it’s a wider, thinner rectangle, a better fit for movie playback. It has stereo speakers instead of mono. Both front and back video cameras are 720p high definition.
+Surface和全尺寸iPad有一些相同的物理规格（1.5磅重，约1厘米厚）。但Surface长约27.4厘米，宽约17厘米，是一个更宽、更薄的长方体，更适合观看电影。它的扬声器是立体声而不是单声道。其前置和后置摄像头都拥有720p 的高分辨率。
+It has ports and jacks that iPad owners can only dream about: a memory-card slot to expand the storage, a video output jack and a USB 2.0 jack. You can connect almost any USB device: keyboard, mouse, flash drive, speakers, hard drive and so on.
+它有着iPad拥有者只能梦想的端口和接口：一个用来扩大储存容量的存储卡插槽、一个视频输出端口和一个USB 2.0端口。它几乎可以连接任何USB设备：键盘、鼠标、闪存盘、扬声器、外接硬盘等等。
+Each Surface model has double the storage of the same-price iPad. For example, the $500 Surface offers 32 gigabytes; the 64-gig Surface is $600.
+每个型号的Surface的储存容量都是同等价位iPad的两倍。比如，售价500美元（约合3125元人民币）的Surface有着32G储存容量；而64G的Surface售价600美元（约合3750元人民币）。
+There are some disappointments on the spec sheet. The battery life is advertised as eight to 10 hours, less than the iPad. There’s no cellular version; it’s Wi-Fi only. The screen is very sharp (1,366 by 768 pixels), but it doesn’t approach the iPad’s Retina screen clarity (2,048 by 1,536 pixels).
+Surface的规格表单上也有些令人失望的地方。宣称的电池续航时间为8至10小时，不如iPad。而且它不能接通移动通信网络；只支持Wi-Fi。显示屏很清晰（1366×768像素），但不及iPad的Retina显示屏（2048×1536像素）。
+And you can charge the Surface only from its wall adapter — not from a computer’s USB jack. Microsoft’s reasoning is that you won’t have a computer to charge from, since your days of carrying both a tablet and a laptop are over. Besides, a wall outlet recharges far faster than USB can.
+而且Surface只能用其自带的插墙式适配器来充电，不能通过电脑的USB插口充电。微软的逻辑是，因为你不再需要同时携带平板电脑和笔记本电脑，所以你手边不会有一台电脑可用来充电。而且，用插墙式适配器充电要比用USB充电快很多。
+The front is all touch screen. The edges of the black magnesium body are angled and crisp, like a prop from a Batman movie.
+Surface的正面为全触屏。其镁合金黑色外壳的周边棱角分明，样子简洁，就像是《蝙蝠侠》(Batman)电影里的一个道具。
+Then there’s the kickstand. The lower half of the back is a hinged panel, held shut magnetically until you pop it out with a fingernail. It snaps to a 22-degree angle, ready to prop the tablet sturdily upright.
+还有就是它的支架。Surface背面的下半部是一块平时靠磁性吸附着的铰链面板，用指甲一掰，它就弹开来，并锁定在22度角的位置，稳稳地支撑起这款平板电脑。
+A lesser kickstand would add weight, bulk or ugliness. But this one is razor-thin and disappears completely when you’re not using it.
+差一点的支架会增加平板电脑重量，让它看上去更笨或影响其美观。但这个支架和刮胡刀一样薄，不用的时候完全看不到。
+You do use it, though — especially when you flip open the optional keyboard.
+然而，你确实会用得到它——尤其是当你翻开可选的键盘时。
+Yes, keyboard. You know Apple’s magnetically hinged iPad cover? Microsoft’s Touch Cover is the same idea — same magnet hinge — except that on the inside, there are key shapes, and even a trackpad, formed from slightly raised, fuzzy material. Flip the cover open, flip out the kickstand and boom: you have what amounts to a 1.5-pound PC that sets up anywhere.
+是的，键盘。你知道苹果有一个磁性吸附的可翻转iPad保护罩吧？微软的触控键盘保护罩(Touch Cover)采用同样的设计思路——同样的磁性铰链——只是保护罩的内侧有一些用微凸的模糊材料做成的按键，甚至还有一个触控板。打开保护罩，支起支架，你就有了一台可以放置在任何地方的重1.5磅的个人电脑。
+This is nothing like those Bluetooth keyboard cases for the iPad. The Touch Cover is much, much thinner, 0.13 inches, cardboard thin. The magnet clicks, and keyboard is ready for typing. When you want just a tablet, the keyboard flips around against the back. The Surface automatically disables its keys and displays the on-screen keyboard when it’s time to type.
+这可不同于iPad的那些蓝牙键盘。触控键盘保护罩薄得多，厚度仅3毫米，像一张硬纸板一样。随着磁铁咔哒锁定，你就可以用键盘来打字了。当你只想要一台平板电脑时，可将键盘翻转到电脑背面。Surface会自动关闭保护罩上的键盘功能，并且在需要打字时自动显示屏幕键盘。
+You can buy this cover, in a choice of colors, with the Surface for $100, or later for $120.
+这种保护罩随机购买需要100美元（约合625元人民币），而单独购买需要120美元（约合750元人民币），有多种颜色可以选择。
+It’s an incredibly slick idea, but the keys don’t move. You’re pounding a flat surface. If you type too fast, the keyboard skips letters.
+这是十分聪明的一个创意，但是那些按键不会动。你只是在平面上进行敲打。如果你打得太快，键盘会漏掉一些字母。
+Fortunately, Microsoft also offers the Type Cover ($130), with real keys that really travel. At 0.24 inches thick, it’s not as unnoticeable as the Touch Cover, but Microsoft says it’s the thinnest moving-keys keyboard on earth, and it types nicely.
+幸运的是，微软还提供实体键盘保护罩（Type Cover，售价130美元，约合812元人民币），该款保护罩拥有真实可动的按键。实体键盘保护罩的厚度有0.24英寸（约0.6厘米），不像触控键盘保护罩那样隐蔽，但微软说这是世界上最薄的一款实体键盘，而它打起字来确实不错。
+So that’s the amazing, amazing hardware. Now the heartbreak: software.
+Surface的硬件确实很棒很棒 。现在要讲一下它让人心碎的地方：软件。
+This computer runs Windows RT, a variation of Windows 8, which Microsoft hopes will run on all PCs from now on. RT is wildly different from the old Windows. You’ll be thrilled or appalled, depending on your fondness for change.
+这款电脑在Windows RT上运行，这是Windows 8的一种变体，微软希望从现在起所有个人电脑都使用Windows 8操作系统。RT和旧版的windows系统有极大不同。你可能为其兴奋不已，也可能大惊失色，取决于你对改变的喜欢程度。
+In this Windows, the Start screen is a patchwork of colorful, interactive tiles. You tap one to open an app, swipe down on one to “right click” it, swipe across to reveal more pages of them. Each tile is also a tiny dashboard, showing your next appointment, latest Facebook post, today’s weather and so on. It’s fast, fluid and fun to use.
+在这个Windows系统下，“开始”屏幕由一系列互动的彩色磁贴组成。点击磁贴就可打开应用程序，往下滑动相当于“右键点击”，横向滑动可显示更多页面。每个磁贴也是一个小小的“仪表盘”，显示你的下一个约会、 Facebook上的最新帖子、今天的天气等。这些磁贴用起来快速、流畅、且相当好玩。
+Swiping in from the edges of the screen summons useful hidden panels. Swipe in from the top or bottom to reveal your app’s menus; from the left to switch apps; from the right for important controls like Share and Settings.
+从屏幕边缘向里滑动，可显示有用的隐藏面板。从屏幕上端或下端向里滑动，可显示应用程序菜单；从左往里滑动可切换应用程序；从右往里滑动可打开重要的控制功能，如分享和设置等。
+Unfortunately, Windows RT is not the full Windows. The Surface comes with preview 2013 versions of Word, Excel and PowerPoint — workable, but sometimes sluggish.
+不幸的是，Windows RT并不是完整的Windows。Surface带有Word、Excel和PowerPoint的2013预览版本——可以用，但有时很慢。
+Otherwise, though, Windows RT can’t run any of the four million regular Windows programs. Or the 275,000 iPad apps. Or the 17 Android tablet apps. (That’s a joke! There are actually 19 Android tablet apps.)
+但除此之外，Windows RT不能运行400万个常见Windows软件中的任何一个，也不能运行27.5万个iPad应用程序和17个Android平板电脑应用程序中的任何一个。（其实我是在开玩笑，实际上有19个Android应用程序。）
+Instead, it requires all new apps. They’re available exclusively from the online Windows App Store, and there aren’t many to choose from; for example, there’s no Facebook, Spotify, Angry Birds, Instagram, Draw Something or New York Times app. The total in the United States is about 3,500 apps so far; many are bare-bones or junky.
+相反，Windows RT只能运行全新的应用程序，而这些程序只能从网上的Windows应用程序商店(Windows App Store)获得，且选择不多。例如，没有Facebook、Spotify、愤怒的小鸟(Angry Birds)、Instagram、你画我猜(Draw Something)、或《纽约时报》等应用程序。就美国而言，目前的应用程序总数大约为3500，其中还有很多只是空架子或劣等货。
+In some ways, the far more intriguing prospect is the Surface Pro tablet, which Microsoft says will be available in 90 days. It has a real Intel chip inside, and can run real Windows programs. That’s right: Photoshop, iTunes, Quicken and classic PC games on your tablet.
+在某种程度上，更诱人的前景是Surface Pro平板电脑，微软公司表示此款平板电脑将在90天内上市。Pro装有真正的英特尔芯片，可以运行真正的Windows软件。没错，Photoshop、iTunes、 Quicken以及经典电脑游戏软件都可在Pro上运行。
+The Pro will be heavier (two pounds), thicker (half an inch) and much more expensive (around $1,000). For those sacrifices, of course, you could buy an ultrathin laptop — but the Surface’s keyboard cover and touch screen make it far more flexible.
+Pro更重（2磅，约908克）、更厚（0.5英寸，即1.27厘米）、也更贵（大约1000美元，约合6248元人民币）。当然，用这笔钱你可以买一台超薄笔记本电脑——但Surface的键盘保护罩和触摸屏让其更具灵活性。
+But both Surface tablets, and indeed Windows 8 itself, suffer from an insanely confusing split personality. Beneath the colorful, edge-to-edge world of RT apps, the menus, icons, taskbar and overlapping windows of the traditional Windows desktop is still there. On the Surface, that old desktop pops bafflingly and unnecessarily into view whenever you use the Office programs.
+但这两款Surface平板电脑，乃至Windows 8本身，都有极度混乱的人格分裂。在五彩缤纷、全屏幕的RT应用程序世界之下，传统Windows桌面的菜单、图标、任务栏以及重叠窗口等仍然存在。每当你在Surface上使用Office软件时，传统桌面就会不必要地跳出来，十分碍事。
+That’s not all that’s wrong with Windows RT, either. There’s no speech recognition, let alone Siri; no app folders; no automated guidance in Maps. The Control Panel offers features like typing suggestions and autocorrect, but I couldn’t get them to work anywhere.
+而且Windows RT的问题并不仅限于此。该系统没有语音识别功能，更别提Siri了；没有应用程序文文件夹；地图软件也没有自动指引功能。控制面板(Control Panel)提供了输入建议和自动更正等功能，但我怎么也用不起来。
+Little inconsistencies and bafflements are everywhere. Such as the way Word constantly informs me that “there is insufficient memory or disk space.” (Well, gee, Microsoft — whose fault is that?)
+不一致和令人困惑的小地方很多。例如，Word不断提醒我“内存或磁盘空间不足”。（天哪，微软，这是谁的错？）
+Look, here’s the thing. You’d have to be fairly coldblooded to keep your pulse down the first time you see the Surface: its beauty, its potential, its instant transformation from table to PC. How incredible that this bold, envelope-pushing design came from Microsoft, a company that for years produced only feeble imitations of other companies’ fresh ideas.
+问题是，在你第一次见到Surface之时，你得相当冷血才能平定脉搏：它的美感、它的潜力、它从平板到电脑的瞬间转变。这一挑战极限的大胆设计出自微软这家多年来只会可怜地模仿其他公司新创意的公司，真让人难以置信。

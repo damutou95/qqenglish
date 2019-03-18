@@ -1,0 +1,30 @@
+WASHINGTON — When the National Transportation Safety Board opens two days of hearings here Tuesday on the deadly crash of an Asiana jumbo jet in San Francisco in July, investigators will have little difficulty establishing the immediate causes, including the three pilots’ failure to monitor their airspeed.
+华盛顿——美国国家运输安全委员会（National Transportation Safety Board，简称NTSB）周二在华盛顿开始进行为期两天的听证会，对今年7月发生在旧金山并造成人员伤亡的韩亚航空公司(Asiana)坠机事件进行调查时，调查人员应该可以毫不费力地确认坠机的直接起因，其中的一个起因是三名飞行员未能监控航速。
+But people involved in the investigation say the board intends to show that the core issues are widespread, notably the pilots’ evidently limited ability to manage the ubiquitous automated systems in a modern cockpit.
+不过，参与调查的人员表示，NTSB有意指出，造成坠机的核心问题是普遍存在的，尤其是飞行员操作现代驾驶舱内无所不在的自动化系统的能力，显然相当有限。
+In the Asiana crash, none of the three pilots in the cockpit noticed that the airspeed was far too low and that the plane was descending too fast as a result. They flew the plane as if they expected its speed to be controlled by the auto-throttle, a device that can control an aircraft’s engines to maintain safe airspeed. But the auto-throttle, part of the autopilot system, was off.
+在韩亚航空坠机事件中，驾驶舱内的三名飞行员里，没有一人注意到航速过低，从而导致飞机下降得太快。他们驾驶飞机时，仿佛以为飞机的速度会由自动油门控制。自动油门是一个能控制飞机引擎，进而保持安全航速的装置。然而，作为自动驾驶系统组成部分的自动油门，是关闭的。
+The National Transportation Safety Board raised the possibility a few days after the crash that the Asiana crew could have taken action that shut off the autopilot without realizing it.
+坠机发生几天后，NTSB提出了一种可能性，即韩亚航空的机组人员关闭了自动驾驶系统，却没有意识到它被关闭了。
+The Boeing 777 hit the sea wall near the end of the runway, breaking off the tail.
+这架波音777客机撞上了跑道尽头附近的防波堤，机尾被折断。
+“Humans are bad automation monitors,” said one person involved in the investigation, who asked not to be identified because the safety board imposes a code of silence on the participants until the hearing.
+一名参与调查的人士说，“人类很不擅长监视自动化设备。”由于NTSB勒令参与调查的人员在听证会举行前保持缄默，该人要求匿名。
+Among the previous incidents that experts cite as evidence that there is a widespread problem that needs industry attention is the crash of a Boeing 737 on approach to Amsterdam’s Schiphol Airport in February 2009. The Turkish Airlines flight had a faulty altimeter that wrongly indicated the plane’s position. It was coupled to an auto-throttle that then slowed the plane down.
+专家援引之前的事故为例，证明有一个普遍存在的问题需要得到航空业的关注，其中的一个例子发生在2009年2月。当时，土耳其航空公司(Turkish Airlines)一架波音737客机在阿姆斯特丹史基浦机场(Schiphol Airport)降落时坠毁。这是由于，这架班机的高度表出了故障，把飞机的位置显示错了。高度表和自动油门联动，之后自动油门降低了飞机的航速。
+By the time the crew noticed the problems with the automatic system, it was too late to prevent a crash. Nine passengers and three crew members were killed.
+等机组人员注意到自动系统的问题时为时已晚，坠机已不可避免。事故中有九名乘客和三名机组人员丧生。
+In September 2007, another 737, operated by Thomsonfly, slowed to about 93 miles per hour, too slow to stay in the sky. The nose pitched up 44 degrees, also too high for flight, on approach to Bournemouth Airport in southern England. The auto-throttle had disconnected, and the crew failed to notice. But the crew recovered the plane and landed safely.
+2007年9月，另一架由汤姆森航空(Thomsonfly)运营的737客机把航速降到了约每小时93英里（约150公里），由于速度太慢，飞机无法停留在空中。飞机在英格兰南部的伯恩茅斯机场降落时，机头拉抬起了44度，角度太高无法飞行。机组人员没有注意到，自动油门已经关闭。不过，机组人员恢复了正常飞行，安全着陆了。
+One issue the safety board will consider is whether the design of the cockpit could be improved to make it harder for crews to overlook problems like low airspeed. Some carriers based in the United States already seem to have eliminated that problem by mandating that a pilot keep a hand on the throttle, to sense its position, during descent.
+NTSB将考虑的一个问题是，能否改进驾驶舱的设计，从而让机组人员更难忽略航速过低等问题。总部位于美国的一些航空公司似乎已经消除了这个问题，它们的做法是要求飞行员在降落时手动控制油门，感受飞机位置。
+The South Korean pilots, who by most accounts are accustomed to programming the autopilot to land their planes, do not follow such a procedure. In addition, part of the instrument landing system at the airport was out of service for maintenance, so they could not follow the procedure with which they were most familiar.
+韩国飞行员并不执行类似的程序，大部分人描述道，他们习惯于利用自动驾驶系统的程序，来控制飞机的降落。此外，机场的部分仪表着陆系统因为正在维修并未启动，所以，飞行员无法按照他们最熟悉的程序进行操作。
+“It’s more broad than bad pilots,” said the person involved in the investigation.
+一名参与调查的人士说，“远不只是飞行员太差劲的问题。”
+The hearing will also examine pilot training and procedures. American carriers stress “crew resource management,” which includes making clear who is responsible for each function. American carriers teach crew members to speak up if they sense a problem, even if the pilot at the controls has seniority, and to listen to subordinates.
+听证会还会对飞行员的培训和着陆程序展开调查。美国的航空公司强调“机组资源管理”，其中包括明确每项功能具体由谁负责。美国航空公司教育机组人员，如果他们感觉到问题，就要提出来，哪怕驾驶飞机的是资深的飞行员，还教育机组人员要倾听下级的意见。
+The hearing will also look into the crash response by airport firefighters. After the crash, the San Mateo County coroner said that one passenger, a 16-year-old Chinese girl, had died from blunt-force trauma “consistent with having been run over by a motor vehicle,” presumably a fire truck. How she got out of the plane and on the runway is not clear, although the safety board has been studying the video recordings from cameras on the fire trucks.
+听证会还将调查机场消防员在坠机事故中的反应。坠机发生后，圣马特奥县的验尸官说，一名16岁的中国女孩死于钝力伤，与“机动车碾压造成的损伤一致”，那辆机动车大概是一辆消防车。虽然NTSB研究了消防车摄像头拍摄的监控录像，但目前尚不清楚，这名女孩是如何来到机外的跑道上的。
+Airports have increasingly turned to larger trucks, which can quickly spray thousands of gallons of water or foam, but the foam could obscure a driver’s view. After the crash, San Francisco International announced several improvement steps, including using social media to inform passengers of delays and keeping restaurants open to serve passengers stranded in terminals. Some changes were more substantive, like using the same emergency response system in the two counties, San Francisco and San Mateo, that are most likely to respond to an airport accident. The airport has not publicly addressed the bigger problem of how to keep large fire trucks from running over passengers.
+机场越来越需要更大型的消防车，它们能迅速喷洒数千加仑的水或泡沫。可是，泡沫可能会遮挡司机的视线。坠机发生后，旧金山国际机场公布了几项改进措施，包括通过社交媒体向旅客通报航班延误信息，要求餐厅继续营业，为被困在候机楼的旅客提供服务。还有一些更实质性的改进，比如在旧金山和圣马特奥两个县使用同一套应急响应系统，这两个县极有可能会应对同一场机场事故。机场还没有公开着手处理更大的问题，即如何避免大型消防车撞倒旅客。

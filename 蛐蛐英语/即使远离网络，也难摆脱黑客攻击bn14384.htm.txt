@@ -1,0 +1,46 @@
+It took the hackers less than two hours to take over Patsy Walsh’s life.
+不到两个小时，黑客就接管了帕斯蒂·沃尔什(Patsy Walsh)的生活。
+On a recent Friday, Mrs. Walsh, a grandmother of six, volunteered to allow two hackers to take a crack at hacking her home. How bad could it be?
+沃尔什是六个孩子的祖母，最近一个周五，她志愿参加一个活动，允许两名黑客入侵她家。这能有多糟呢？
+Mrs. Walsh did not consider herself a digital person. As far as she knew, her home was not equipped with any “smart devices,” physical objects like refrigerators and thermometers that transmit information to the Internet. Sure, she has a Facebook account, which she uses to keep up on friends’ lives, but rarely does she post about her own.
+沃尔什自认为不是一个数码爱好者。就她所知，她家中也没有任何“智能设备”，即可以将信息上传互联网的物品，比如智能冰箱和智能温度计。当然，她有一个Facebook帐号，她通过这个帐号来了解朋友们的生活状况，但她很少发布关于自己的内容。
+“I don’t post things about myself and don’t really understand why other people do,” Mrs. Walsh said. “The fact you can go from one friend’s profile to their friends’ profiles is creepy. I guess you could find out a lot of information about somebody if you really wanted to.”
+“我不怎么发关于自己的内容，我也真不明白为什么其他人会这么做，”沃尔什说。“你可以挨个查看朋友的主页，这有点吓人。我猜，只要你真心想查某人的信息，你就可以查出一大堆。”
+Indeed. Days before hackers even set foot in Mrs. Walsh’s home overlooking Mount Tamalpais in Marin County, Calif., they found her Facebook account and — though it was comparatively locked down — uncovered just enough to begin to take over her digital life. The New York Times was invited to witness the hacking, on the condition that Mrs. Walsh’s town not be named.
+的确如此。沃尔什居住在加利福尼亚州，可以从家中远眺马林县的塔玛珮斯山，而黑客在踏足她家的数日之前，就发现了她的Facebook账号——尽管它相对来说是保密的——获得了足以接管她的数字生活的信息。《纽约时报》应邀见证了这起黑客行动，前提是不透露沃尔什住在哪个城镇。
+The twist was that once the hackers found their way in, they discovered someone else had already been there.
+亮点在于，黑客在成功侵入之后，发现已经有人来过这里。
+The hackers could see that Mrs. Walsh had liked a page organized by Change.org. That was all they needed to construct some convincing click bait. Within 10 minutes, they composed a fake email from Change.org asking her to sign a fake petition about land use in Marin County.
+黑客可以看到沃尔什赞过Change.org发布的一个页面。仅仅是这样，他们就构建了一些令人信服的点击诱饵。不到10分钟，他们伪造了一份来自Change.org的假电邮，请她在一份关于马林县土地利用的假请愿书上签名。
+When that link led her to a page that asked her to enter her email address and password, she complied. To spare Mrs. Walsh any actual harm, the hackers used a service called Phish5, which does not actually store passwords and is often used by employers to test employees’ ability to spot malicious phishing cons.
+点击该链接后，她登上一个网页，要求她输入电邮地址和密码，她照做了。为了不让沃尔什遭受任何实质上的危害，黑客使用了一个名为Phish5的服务，它并不真正存储密码，雇主通常用它来测试雇员识别恶意仿冒内容的能力。
+Had the two been actual attackers, they would have had all the information they needed to “pwn” Mrs. Walsh — hacker speak for taking over someone’s digital life — from afar, particularly because, Mrs. Walsh confessed, she was guilty of using the same password across many accounts.
+如果这两名黑客是动真格的，他们就已经远程获取了“pwn”沃尔什所需的一切信息。“pwn”是黑客的行话，指接管某人的数字生活。沃尔什承认，她在不同的账户上使用了同样的密码，而这让黑客入侵变得尤为轻松。
+All this before they had even set foot in Mrs. Walsh’s home.
+所有这一切还是在他们登门造访沃尔什之前完成的。
+The hackers, Reed Loden, the 27-year-old director of security of HackerOne, a San Francisco security start-up, and Michiel Prins, the 25-year-old co-founder of HackerOne, were greeted warmly when they arrived at her home.
+这两名黑客是旧金山初创安全企业HackerOne公司27岁的安全总监里德·洛登(Reed Loden)和25岁的联合创始人米希尔·普林斯(Michiel Prins)。到沃尔什家时，他们受到了热烈的欢迎。
+“Welcome Hackers” was scrawled on a heart-shaped chalkboard on the front door, and deviled eggs, tuna sandwiches and fresh iced tea were waiting. Mrs. Walsh said she expected the hackers would wear black, but Mr. Loden and Mr. Prins did not fit that stereotype. Mr. Loden, who hails from Mississippi, ended his sentences with a warm “thank you, ma’am” — his manners intact even while explaining that he had just hacked Mrs. Walsh’s power of attorney form.
+前门挂着一块心形的黑板，上面写着“黑客请进”。还有魔鬼蛋、金枪鱼三明治和爽口的冰茶等着他们。沃尔什以为黑客会穿黑色的衣服，但洛登和普林斯并不符合这种刻板印象。来自密西西比州的洛登在发言结束时热情地说了句“谢谢您，夫人”。即便是在解释自己刚刚侵入了沃尔什的法律授权书时，神情也并没有变化。
+“They’re very polite,” Mrs. Walsh noted. (Later, she invited both to Thanksgiving dinner.)
+“他们非常有礼貌，”沃尔什说（后来，她还邀请两人共进感恩节晚餐）。
+Over an hour and a half, they discovered a way to open the Walshes’ garage door. It was simply a matter of using a “brute force attack” against an older door opener. The process entailed testing thousands of code combinations until hitting the correct one. Earlier this year, the hacker Samy Kamkar demonstrated how to do this in less than 10 seconds using a Mattel toy.
+在一个半小时的时间里，他们找到了打开沃尔什家车库门的办法，只需要“用蛮力”攻击上了年头的开门器即可。这个过程需要试验数千个密码组合，直到试出正确的那个。今年早些时候，一个名叫萨米·卡姆卡尔(Samy Kamkar)的黑客演示了如何在不到十秒钟的时间里，用一个美泰(Mattel)玩具完成这件事。
+Mr. Loden and Mr. Prins also found a way to intercept Mrs. Walsh’s television. A service worker had not installed her DirecTV securely, with a password, which meant anyone with knowledge of the device’s I.P. address could control the television remotely.
+洛登和普林斯还发现了控制沃尔什家电视的办法。服务人员给她安装DirecTV时的做法并不安全，没有设置密码，这意味着任何人，只要知道这台设备的IP地址，就能远程控制电视。
+In this case, the hackers used their access to purchase a three-hour pass to an array of adult channels — the names of which would not be suitable for print here.
+在这个案例里，两名黑客利用自己取得的权限，购买了三小时的观看许可，可以收看一系列成人频道。这些频道的名字不宜在此刊出。
+Still, Mrs. Walsh was not impressed. “What’s so wrong about getting into my TV?” When Mr. Loden pointed out that someone could blast pornography in her living room in the middle of a dinner party, Mrs. Walsh conceded, “I can see how that would be a little shocking to guests.”
+但沃尔什并没有很在意。“破解我家的电视有什么大问题吗？”但当洛登指出，有人可以在她举办家宴时，让客厅的电视突然播放色情作品之后，沃尔什承认，“我能想象客人会有些震惊。”
+From there, the hackers made their way to the back of Mrs. Walsh’s house, where her PC was waiting. With her passwords posted on the nearby router, their task was easy. Within minutes, they had not only broken into Mrs. Walsh’s email account, but also that of her daughter — who at some point had allowed the computer’s browser to auto-fill her password. (As a courtesy, the hackers made sure to send Mrs. Walsh’s daughter an email from her own account with the subject line: “Reminder: Change my password.”)
+然后，两名黑客来到沃尔什家的后院。她的个人电脑放在那里，正等待黑客侵入。因为密码贴在了附近的路由器上，他们的任务很容易。只用了几分钟，他们不仅进入了沃尔什的电子邮箱账户，还进入了她女儿的账户。她女儿在某个时刻允许了这台电脑的浏览器自动输入她的密码。（两人做了件好事，用沃尔什女儿自己的账户给她发了一封电子邮件，主题栏上写着：“提醒：改密码。”）
+They searched Mrs. Walsh’s email for the term “SSN” and within seconds had access to her Social Security number, her PayPal account, her air miles account and her insurance information. They had even gotten their hands on her power of attorney form.
+他们在沃尔什的邮件中搜索“SSN”，几秒钟后便获取了她的社会安全号码、PayPal账号、航空里程积分账号和保险信息。他们甚至还能对她的法律授权书做手脚。
+What’s worse, they weren’t the only ones with access to all of the above. Mr. Loden and Mr. Prins ran a scan for malicious programs running on Mrs. Walsh’s machine and found roughly 20, including InstallBrain, an installer that can download malicious programs on demand, like one that helps attackers mine for Bitcoin. And others like DefaultTab, FunWebProducts, SearchProtect, SlimCleaner and Supreme Savings that can change a victim’s home page, spy on search and browsing histories, or replace ads on websites like Facebook and Google with intrusive programs.
+更糟糕的是，他们不是唯一能获取上述所有信息的人。在对沃尔什电脑上运行的程序进行扫描后，洛登和普林斯发现了大约20个恶意程序，包括InstallBrain。这是一个安装程序，能够按指令下载恶意程序，如一款帮助攻击者生成比特币(Bitcoin)的程序。其他像DefaultTab、FunWebProducts、SearchProtect、SlimCleaner和Supreme Savings这样的程序，更改受害者的主页，并监视用户的搜索和浏览记录，或是将Facebook和谷歌等网站上的广告替换成侵入性的程序。
+After they were through “pwning” Mrs. Walsh, the two hackers sat down with their victim for a debriefing. Critical points were that Mrs. Walsh needed a new garage door opener, a password for her television and a password manager to help her set unique and far more complicated passwords for each of her accounts.
+结束对沃尔什的数字生活进行的“pwn”后，两名黑客和受害人坐了下来，简单向对方介绍了情况。关键的点是，沃尔什的车库门需要换一个新的开门器；电视机需要设置密码；需要一个密码管理程序，来帮她给每个账户设置独一无二的、复杂度远高于现在的密码。
+The hackers advised her to turn on two-step authentication, a service that sends a second, one-time password to users’ phones when they try to log in from an unrecognized machine. They also gave her a quick lesson in phishing attacks and a lecture on the importance of installing software updates.
+两位黑客建议沃尔什开启两步验证。这项服务会在用户试图从陌生设备上登录时，向用户的手机再发送一个一次性的验证码。他们还向她简要介绍了钓鱼攻击和安装软件更新的重要性。
+Best to switch on automatic updates, they said, for core services like Apple’s iOS operating system, Google’s Chrome browser and Windows. And, they said, her PC needed to be completely wiped. The good news was they promised to return to do this for her, possibly when they visit for Thanksgiving dinner.
+他们说，最好是为苹果的iOS操作系统、谷歌的Chrome浏览器和Windows等核心服务，打开自动更新。他们还表示，需要彻底清除沃尔什个人电脑上的东西。好消息是，他们许诺会在下次来的时候帮她清理。可能就是来共进感恩节晚餐的时候。

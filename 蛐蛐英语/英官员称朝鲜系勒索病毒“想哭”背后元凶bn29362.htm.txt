@@ -1,0 +1,36 @@
+Britain believes “quite strongly” that North Korea was behind the “WannaCry” cyberattack in May that wreaked havoc on the National Health Service’s computer systems and spread to more than 150 countries, a senior official said on Friday.
+英国一名高级官员在周五表示，该国“相当肯定”朝鲜是5月份“想哭WannaCry”网络攻击背后的元凶，那次攻击严重破坏了英国国民健康服务系统(National Health Service，简称NHS)的计算机系统，并扩散到了150多个国家。
+The minister of security, Ben Wallace, told the BBC that several other countries had concluded the same thing: North Korea unleashed “ransomware” that buffeted institutions including universities in China, rail systems in Germany and the Russian Interior Ministry.
+负责安全的国务大臣本·华莱士(Ben Wallace)告诉英国广播公司，其他几个国家也得出了同样的结论：朝鲜释放了“勒索病毒”，它袭击的机构包括中国的大学、德国的铁路系统，以及俄罗斯内政部。
+“This attack, we believe quite strongly, came from a foreign state,” he said. “North Korea was the state that we believe was involved this worldwide attack.”
+“我们相当肯定地认为，这场攻击事件来自某个外国。”他说，“我们认为朝鲜就是这场全球性攻击背后的国家。”
+Mr. Wallace declined to elaborate on the evidence that had led to the conclusion. “I can’t obviously go into the detailed intelligence, but it is widely believed in the community and across a number of countries that North Korea had taken this role,” he said.
+华莱士拒绝详细说明这个结论的证据是什么。他表示：“我显然不能谈论情报细节，但是在这个社区和不少国家中，人们普遍认为是朝鲜扮演了这个角色。”
+The cyberattack on May 12, which struck thousands of computers around the word, was the largest ever to hit the N.H.S. The cyberattackers exploited gaps in the security of Windows XP to send malicious software by email that locked users out of their computer systems.
+这场网络攻击发生在5月12日，感染了全球数以千计的计算机，是英国的国民健康服务系统有史以来遭到的最大一次攻击。网络攻击者利用Windows XP的安全漏洞，通过电邮发送恶意软件，让用户无法使用自己的计算机系统。
+They encrypted the information on them and then demanded payment of $300 or more in Bitcoin to unlock the devices.
+他们对用户系统中的信息进行了加密，然后要求用比特币支付300美元（约合人民币2000元）或更多的赎金来解锁设备。
+In Britain, the attack resulted in the abrupt cancellation of patients’ operations and delays in medical appointments at dozens of hospitals that struggled to retrieve essential medical information and patient histories.
+在英国，这场袭击导致几十家医院紧急取消病人的手术，推迟预约就诊，因为这些医院无法检索重要的医疗信息和患者病史。
+Britain’s National Audit Office said on Friday that at least 6,900 appointments had been canceled during the attack, which affected more than one-third of England’s 236 N.H.S. trusts. Up to 19,000 appointments may have been affected, it said.
+英国国家审计办公室(National Audit Office)周五表示，攻击期间至少有6900个预约被取消，英国NHS旗下236所医院的三分之一以上受到病毒感染。它表示，受到影响的预约可能高达1.9万个。
+Hospital authorities have said that no patient data was compromised or stolen during the attack. But it had particular resonance in Britain where the N.H.S., though chronically underfunded, is a vaunted part of the nation’s identity.
+医院管理部门表示，攻击期间没有任何病人的资料遭到泄露或被盗。不过，此事在英国引起极大反响，因为NHS虽然长期资金不足，却是英国形象当中一个受到过度赞誉的部分。
+Mr. Wallace warned that it was difficult to respond to a cyberattack committed by a “hostile state.” North Korea, which has ambitions to develop a nuclear weapon and has been repeatedly testing missiles despite international sanctions, has also proved adept at sowing havoc through cyberattacks.
+华莱士警告说，对“敌对国家”所进行的网络攻击作出反应是很困难的。朝鲜虽然不顾国际制裁，雄心勃勃地开发核武器，并反复试射导弹，但事实证明他们也擅于通过网络攻击大搞破坏。
+“North Korea has been potentially linked to other attacks about raising foreign currency,” he said, in an apparent reference to an attack last year in which North Korean hackers tried to steal $1 billion from the New York Federal Reserve, and almost succeeded before being stopped by a spelling error.
+“朝鲜与其他一些意图筹集外币的攻击之间可能也存在联系，”他说，他明确提到去年朝鲜黑客试图从纽约的美联储(Federal Reserve)窃取10亿美元，如果不是出了一个拼写错误，那次攻击差点就成功了。
+The North has an army of 6,000 hackers, and experts in Britain and the United States say their ability to wage effective cyberattacks has improved. In 2014, the country unleashed a cyberattack against Sony Pictures aimed at blocking the release of a satirical film deemed disrespectful of its leader, Kim Jong-un.
+英国和美国的专家说，朝鲜有6000名黑客，他们开展有效网络攻击的能力已经获得了提升。2014年，该国发动了针对索尼影业公司的网络攻击，阻止索尼发行一部被认为对其领导人金正恩不恭的讽刺电影。
+Mr. Wallace said it was imperative for Britain to reinforce its efforts to defend against future attacks. “It’s a salient lesson for us all that all of us, from individuals to governments to large organizations, have a role to play in maintaining the security of our networks,” he said.
+华莱士说，英国必须加紧努力，防御未来的攻击。他说：“这对我们所有人都是一个重要的教训，从个人到政府，到大型机构，都能在维护网络安全方面发挥重要作用。”
+The National Audit Office said on Friday that the WannaCry attack had been relatively unsophisticated and could have been prevented had the N.H.S. followed rudimentary procedures to protect its systems. It said that N.H.S. management had recklessly ignored security recommendations.
+国家审计办公室周五表示，“想哭”病毒的袭击相对来说并不复杂，如果NHS遵循了保护计算机系统的基本程序，就可以抵御那次攻击。它说，NHS管理层草率地忽视了安全建议。
+Amyas Morse, the head of the National Audit Office, on Friday criticized the preparedness of the N.H.S.
+国家审计办公室主管埃米亚斯·莫尔斯(Amyas Morse)周五批评NHS缺乏准备。
+“The WannaCry cyberattack had potentially serious implications for the N.H.S. and its ability to provide care to patients,” he said in a statement. He added that the N.H.S. needed to get its “act together.”
+“‘想哭’网络攻击对NHS及其医护能力产生潜在的严重影响。”他在一份声明中说。他表示，NHS需要“采取有序的行动”。
+In the immediate aftermath, Amber Rudd, the British home secretary, acknowledged that, despite several warnings of a possible attack, the N.H.S. had been ill prepared to defend itself and was vulnerable because its computers had outmoded software.
+英国内政大臣安伯·拉德(Amber Rudd)在事件发生后很快承认，尽管接到过几个可能被攻击的警告，但NHS没有做好自我防护的准备，其计算机使用的软件是过时的，很容易被攻破。
+While the ransom demanded in the attack in Britain was modest, the National Audit Office said evidence indicated that no N.H.S. organization had paid, which experts say could have encouraged further attacks.
+虽然遭受攻击的英国组织被勒索的赎金金额并不大，但国家审计办公室表示，NHS没有支付过任何赎金，专家表示那样做可能会激发进一步的攻击。

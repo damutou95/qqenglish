@@ -1,0 +1,40 @@
+SAN FRANCISCO — Closing the era of one chief executive and entering another under temporary leadership, Twitter exceeded investor expectations on Tuesday, reporting a 61 percent increase in revenue and a narrower loss than a year ago.
+旧金山——刚刚结束一位首席执行官的时代、处在临时领导层掌管下的Twitter，在周二拿出了超出投资者期待的财报，营收实现61%的增长，亏损较去年有所减少。
+But company executives warned that the social network was still too difficult for the majority of potential users and turning that around would take considerable time. “You should expect Twitter to be easy to use as looking out your window,” said Jack Dorsey, the company’s interim chief executive, in a conference call to discuss the results.
+但公司管理层仍然提出了警告，这个社交网络对大多数潜在用户来说还是太难用，扭亏为盈尚需不少时日。Twitter临时首席执行官杰克·多尔西( Jack Dorsey)在一次讨论财报的电话会议中说，“使用Twitter应该像往窗外看一样简单。”
+The grim outlook sent the company’s shares down more than 5 percent in after-hours trading, after they rose initially on the results.
+财报发布后公司股价一度有所上涨，但这种令人忧心的前景致其在盘后交易中跌幅超过5%。
+Twitter said that the number of people using its social network rose by only two million over the past three months, to 304 million. The user growth numbers are closely watched by Wall Street.
+Twitter称过去三个月里其社交网络的用户数量仅增加了200万，达到3.04亿。而用户增长是华尔街密切关注的一项指标。
+Revenue, most of which comes from advertising, was $502 million, compared with $312 million a year ago. The company posted a net loss of $137 million, or 21 cents a share, as it spent heavily on stock compensation to attract and retain employees. In the same quarter last year, it posted a loss of $145 million, or 24 cents a share.
+以广告为主的营收为5.02亿美元，去年是3.12亿美元。为了吸引和留住员工，公司在股票薪酬上投入很大，本季报净亏损1.37亿美元，即每股21美分。去年同一季度亏损为1.45亿美元，即每股24美分。
+Excluding stock compensation and certain other expenses, Twitter posted a profit of $49 million, or 7 cents a share.
+除去股票薪酬及其他部分开销，Twitter实现了4900万美元的利润，即每股7美分。
+The quarter that ended June 30 was the last under the leadership of Dick Costolo, who resigned as chief executive effective July 1 after months of complaints by investors disappointed in the company’s performance.
+于6月30日结束的这一季度，是迪克·科斯特罗(Dick Costolo)任内的最后一个季度，在投资人反复表达了对公司业绩的失望后，科斯特罗辞去了首席执行官职务，于7月1日正式离职。
+Mr. Dorsey and Anthony Noto, the chief financial officer, implicitly acknowledged the validity of that criticism, saying that Twitter’s performance had been unacceptable.
+多尔西和首席财务官安东尼·诺托(Anthony Noto)含蓄地承认了这些批评的合理性，称Twitter这样的业绩表现是不可接受的。
+“Simply said, the product remains too difficult to use,” Mr. Noto said.
+“简单地说，产品仍然太难用，”诺托说。
+Mr. Dorsey declined to give an update on the C.E.O. search.
+多尔西拒绝透露物色CEO人选的最新进展。
+After several warnings by the company, Wall Street analysts had been cautious in their expectations for the quarter. On average, analysts had projected that the company would post revenue of $481 million and profit of 4 cents a share, after eliminating the compensation expenses.
+在公司发出多次警告后，华尔街分析师对这一季度的预期持谨慎态度。分析师对营收的预期平均值为4.81亿美元，去除薪酬支出后的盈利为每股4美分。
+“Over all in social media, spending trends are improving,” Colin Sebastian, an analyst with Robert W. Baird & Company, said in an interview before the results were released. “But Facebook is taking the lion’s share, and Twitter is trying to find its way, both in terms of growing the number of users and advertising dollars.”
+“总体上，社交媒体的支出趋势在改善，”贝雅公司(Robert W. Baird & Company)分析师克林·塞巴斯蒂安(Colin Sebastian)在财报发布前接受采访说。“但是Facebook拿走了大头，Twitter正在用户增长和广告收入方面摸索自己的路。”
+Twitter also offered its outlook for the rest of the year. For the third quarter, the company projected revenue of $540 million to $560 million and adjusted earnings before interest, taxes, depreciation and amortization of $110 million to $115 million.
+Twitter还对下半年的情况做了预测。预计第三季度收入在5.4到5.6亿美元之间，调整后EBITDA（利息、税、折旧、摊销前盈利收入）在1.1到1.15亿美元之间。
+For the full year, the company projected revenue of $2.2 billion to $2.27 billion and Ebitda of $520 million to $540 million. That is generally in line with what analysts had expected.
+公司预计全年收入在22到22.7亿美元之间，EBITDA为5.2到5.4亿美元之间。和分析师的预测基本一致。
+Although Twitter has made small improvements in its design recently and added new advertising features, those changes have yet to affect the company’s results significantly, Mr. Dorsey said.
+Twitter近来对产品的设计做出了少量改进，增加了新的广告功能，但多尔西说，这些变化尚未对业绩构成明显的影响。
+But Twitter has high hopes for Project Lightning, a set of changes due in the fall that will make it easier for dedicated Twitter users and casual visitors to find the most important posts about breaking news and live events.
+但Twitter对“闪电计划”(Project Lightning)寄予厚望，它包含了一系列定于今年秋天实现的改变，旨在方便重度用户和偶然访客找到有关突发新闻和实时事件的最重要推文。
+Much as people used to flock to cable news channels during crises, traffic on Twitter’s network spikes during public events like the World Cup and new episodes of popular television shows. The company has been working on ways to take advantage of that surge in interest.
+每逢世界杯或热播电视剧播出新的一集这样的公共事件，Twitter的网络流量就会急升，这和爆发危机时人们会纷纷去看有线电视新闻频道是差不多的。公司正在想办法利用这种突发的关注。
+Last week, Twitter announced new tools to help advertisers of all sizes find relevant events and direct their messages to people tuning into them. For example, a restaurant can now advertise Mother’s Day dinner specials to men and women ages 20 to 40 who live nearby, said Ameet Ranadive, Twitter’s senior director of revenue products, in an interview last week.
+上周Twitter发布了一种新工具，让各种规模的广告商都可以找到相关的事件，从而把宣传讯息发向在关注这些事件的人。Twitter收益产品高级总监阿密特·拉纳戴夫(Ameet Ranadive)在上周接受采访时举例说，餐馆可以向住在附近的20到40岁男性和女性用户推广母亲节晚餐特选。
+“The main thing that we’re doing is trying to make it easier for marketers to connect consumers around live events,” he said.
+“我们主要在做的就是让营销商能更方便地围绕实时事件和消费者建立联系，”他说。
+Twitter has also been courting new users through a text message version of its services and if those people were included, it would have had an additional 12 million active users.
+Twitter还在通过其平台的一种短信息版来争取新用户，如果把这些用户也算入在内，Twitter就又多出了1200万活跃用户。

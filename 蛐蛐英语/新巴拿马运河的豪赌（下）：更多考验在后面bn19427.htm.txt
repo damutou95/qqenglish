@@ -1,0 +1,46 @@
+A Suspect Design
+设计存疑
+The canal authority made one fact abundantly clear: The new canal would operate very differently from the old one.
+运河管理局非常清楚地展现出了一个事实：新运河的运行方式将与旧运河大相径庭。
+This weighed on de la Guardia, the stocky chief of the tugboat captains’ union, as he sat in a Panama City cafe one afternoon in December 2015. “We don’t think it is going to work,” he said.
+这让拖轮船长工会的主管德拉瓜迪亚承受了不小的压力。在2015年12月的一天下午，这个敦实的男人坐在巴拿马城的一家餐吧里接受采访。“我们觉得这不会成功，”他说。
+His opinion carries weight. A native Panamanian who graduated from the U.S. Merchant Marine Academy, de la Guardia has spent 20 years running tugboats in the canal. “We think it’s going to be a real mess,” he said. “I think something awful is going to happen.”
+他的观点举足轻重。德拉瓜迪亚是土生土长的巴拿马人，毕业于美国商船学院(U.S. Merchant Marine Academy)，拥有20年的在巴拿马运河上运行拖船的经验。“我们认为会乱成一团，”他说。“我觉得情况会变得很糟。”
+His concern stems from the canal authority’s decision to abandon locomotives to guide the ships. Tugboats will now push and pull vessels stacked with up to 13,000 containers, nearly three times as much as the old, smaller ships.
+他的担心源于运河管理局的一个决定：放弃使用火车头牵引船只通过运河的做法。现在要仅靠拖轮来推拉船只通过，而这些船上可能会搭载多达1.3万个集装箱，是过去较小船只的近三倍。
+The locks’ size is the captains’ biggest concern. The new locks are 1,400 feet long and 180 feet wide. Big container ships are 1,200 feet long and 160 feet wide. Tugboats fore and aft measure nearly 100 feet each. Do the math, they say.
+水闸的尺寸是这些拖轮船长最大的忧虑。新运河的水闸为1400英尺（约合427米）长、180英尺宽。大型集装箱货轮为1200英尺长、160英尺宽。前后拖轮分别近100英尺长。不妨掐算一下。
+In fact, a feasibility study done by the canal authority in 2003 concluded that “for the tugboat system to work safely and efficiently in the locks,” the locks needed to be 328 feet longer and 40 feet wider than the big ships passing through. By that standard, the new locks should have been 1,528 feet long and 200 feet wide.
+实际上，运河管理局2003年进行的一项可行性报告得出的结论是，“为了让拖轮系统在水闸中安全有效地运行”，水闸需要比通过的大型船只长328英尺、宽40英尺。按照这样的标准，新水闸应当为1528英尺长、200英尺宽。
+Quijano said the captains had received proper training, including classes and simulations. He added that the locks could be made longer by using a backup gate; that would not, however, increase their width.
+基哈诺表示，拖轮船长们受到了正规的训练，包括听课和模拟。他还称，用上一个备用闸门的话，水闸可以变长。然而，这对宽度无能为力。
+To assess the safety and efficacy of the canal authority’s plan, the International Transport Workers’ Federation hired experts to conduct simulations involving neo-Panamax ships. The study, released this year, concluded that the ships could pass through the locks under perfect, windless conditions, but would have trouble on windier days.
+为了评估运河管理局计划的安全性和功效，国际运输工人联合会(International Transport Workers’ Federation)聘请专家进行了关于新巴拿马型船只的模拟。研究报告于今年公布，得出的结论是，在完美的无风状况下，船只可以通过水闸，但在风大的日子里会遭遇困难。
+Cracks in the Concrete
+混凝土上的缝隙
+By the middle of last year, the end was in sight.
+到了去年年中，终于可以看到工程完工的势头了。
+Then, suddenly, during water tests in the canal, a public relations disaster: photographs and video showing water gushing from concrete in one of the Pacific locks — the same locks near the earthquake faults.
+可是突然之间，在运河进行注水测试期间，冒出了一个公关灾难：图片与视频显示，一个太平洋水闸的混凝土构造中喷出了水——这恰好是靠近地震断层的那侧水闸。
+The problem had remained a secret for more than a week. But the images, posted anonymously on Aug. 23 by a canal worker, seemed to confirm everyone’s worst fears. This was no small leak. Water spurted from cracks extending across nearly the entire width of the lock, according to Ilya Espino de Marotta, executive vice president for engineering at the canal authority.
+本来问题隐瞒了逾一周的时间。但是一位匿名的运河员工在8月23号的时候将图像放到了网上，而这些画面似乎印证了所有人最大的担忧。这可不是什么小漏洞。运河管理局负责工程事务的执行副总裁伊利亚·埃斯皮诺·德马罗塔(Ilya Espino de Marotta)表示，水从几乎覆盖水闸整个宽度的缝隙里喷涌了出来。
+Some days later, a consensus emerged: The design, not the concrete, was at fault. Marotta said in an interview that the leak had occurred only because the concrete was subjected to extreme pressure when one chamber was empty and the next was full. During normal operations, both chambers would contain water.
+过了些日子，大家达成了共识：有问题的是设计，而非混凝土本身。德马罗塔接受采访时表示，之所以会漏水，只是因为一个闸室注满了水，而另一个是空的，这使混凝土承受了巨大的压力。在正常操作中，两个闸室都会有水。
+To fix the problem, the authority had two options: Tear down the concrete and rebuild it, an expensive remedy that would cause further delays, or drill holes and insert steel reinforcement bars. The decision was made to reinforce.
+为了解决这个问题，摆在运河管理局面前的有两个选择：要么拆除混凝土结构进行重建，而这一补救措施会进一步拖延完工时间，而且成本高昂；要么在其中钻孔插入钢筋。最终的决定是进行加固。
+Canal officials said all the problems had been properly repaired. “We are confident the concrete will last 100 years,” Quijano said.
+运河官员称，所有问题都得到了妥善修复。“我们有信心，混凝土结构可以经受100年的考验，”基哈诺说。
+Epilogue
+后记
+On the morning of June 9, the training wheels came off as the first neo-Panamax ship, the Baroque Valletta, entered the first of three locks on the Atlantic side. With the official opening just two weeks away, canal officials wanted to be sure their locks worked as planned.
+在6月9日的上午，第一艘新巴拿马型的“巴洛克·瓦莱塔”号(Baroque Valletta)驶入了大西洋一侧三道闸门的第一道，标志着新运河的首次通航。正式揭幕只剩两周时间，运河管理方希望保障水闸能按计划运行。
+Under a mostly sunny sky, history was made, as the Baroque passed through all three locks before anchoring in Gatun Lake. Leading the way was a familiar tugboat, the Cerro Santiago. A second Spanish tug was in the rear. The applause on shore was acknowledged with blasts from the ship’s horn.
+在基本晴朗的天空之下，“巴洛克”号通过了全部三道闸门，开进加通湖下锚，历史就此书写。在它前面的是人们熟悉的拖轮“塞罗·圣迭哥”号(Cerro Santiago)，后面则是另一艘西班牙拖轮。岸上掌声响起，船上则汽笛声大作，以示回应。
+The degree of difficulty for Baroque’s passage was actually quite low. The ship fit easily in the 1,400-foot lock because it is only 836 feet long, roughly two-thirds the length of the larger vessels. And it presented a small profile in the wind because it had no stacked containers.
+“巴洛克”号通过运河的难度其实相当低。这艘船仅有836英尺长，大概是巨型船只的三分之二，能够轻易地装入1400英尺长的水闸。而且它并未载有层层叠叠的集装箱，在风中行驶的难度较小。
+The canal authority’s plan to move about 12 neo-Panamax ships a day now appears unrealistic — at least for the time being, according to shippers, given that many East Coast ports are still preparing the infrastructure to accommodate the big ships.
+运河管理局原本计划每天通过12艘新巴拿马型船只，如今看起来这并不现实。按照船运公司的说法，至少目前做不到，理由是东海岸的港口还没准备好相应的基础设施来容纳巨轮。
+The authority now says that, during the rollout period, it expects the new locks to handle no more than three ships a day.
+运河管理局现在表示，在运行初期，新水闸每天处理的船将不超过三艘。
+There are other loose ends, including assessing the project’s final cost.
+工程还存在其他一些问题，包括如何评估项目的最终成本。

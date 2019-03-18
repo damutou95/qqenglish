@@ -1,0 +1,42 @@
+In the United States, technology giants like Amazon are often celebrated as fonts of innovation and jobs.
+在美国，像亚马逊(Amazon)这样的科技巨头，往往被作为创新和就业的源泉而受到赞颂。
+But across the Atlantic — nein, non, no.
+但在大西洋对面的欧洲，情况却并非如此。
+Even as President Obama spoke about middle-class jobs last week at an Amazon warehouse in Tennessee, Amazon was facing strikes at warehouses in Germany, its second-biggest market. Unions there say the company has imported American-style business practices — in particular, an antipathy to organized labor — that stand at odds with European norms.
+上周，当奥巴马总统在田纳西州的亚马逊仓库谈论中产阶级就业时，在亚马逊的第二大市场德国，一些仓库却在举行罢工。工会表示，亚马逊引入了一些美国式的、跟欧洲规范不一致的商业习惯——特别是对工会组织的反感。
+“In Germany, the idea that warehouse workers are going to be getting opposition from an employer when it comes to the right to organize, that’s virtually unheard-of,” said Marcus Courtney, a technology and communications department head at Uni Global Union, a federation of trade unions based in Nyon, Switzerland. “It puts Amazon out in left field.”
+“在德国，仓库工人组织工会的权利遭到雇主的反对是闻所未闻的，”马库斯·考特尼(Marcus Courtney)说，他是总部设在瑞士尼翁的工会联合会统一全球联盟 (Uni Global Union)技术和传讯部门的一位负责人。“这让亚马逊显得格格不入。”
+Amazon is hardly out there alone, however. Large American technology companies are increasingly running into obstacles as they expand in Europe. For Facebook and Google, the running issue is privacy. Google was fined this year by German authorities for illegally collecting personal data while creating its Street View mapping service, after facing minimal sanctions over Street View at home. Meanwhile, European privacy regulators are considering tough regulations to protect consumers on the Internet, a direct challenge to Google, Facebook and other online companies that mine personal data.
+但是，亚马逊也不是唯一格格不入的公司。在欧洲扩张的美国大型科技公司正在越来越多地遭遇障碍。Facebook和谷歌的问题是在个人隐私方面。因为在创建街景地图服务的时候非法收集个人资料，谷歌今年被德国当局罚款，而之前在它的家乡美国，谷歌因街景受到的处罚非常轻微。与此同时，欧洲隐私监管机构正在考虑制定严格规定，以保护消费者在互联网上的隐私，这是对谷歌、Facebook以及其他挖掘个人数据的网络公司的直接挑战。
+Antitrust officials in Europe are scrutinizing Apple’s relationships with wireless carriers, as well as Google’s competitive practices. And Google, Apple and Amazon have all been criticized by European lawmakers for tactics that help them minimize their tax bills.
+欧洲的反垄断官员正在审查苹果与无线运营商的关系，以及谷歌的竞争活动。而谷歌、苹果和亚马逊由于采取了把应纳税款尽量降低的措施，都遭到了欧洲立法者的批评。
+Amazon has been criticized for its working conditions in the United States — but not nearly to the same extent as in Europe. On the surface, Amazon’s labor problems in Germany revolve around wages.
+亚马逊美国公司的工作条件已经备受诟病，但在欧洲，它遭到的批评更加严重得多。从表面上看，亚马逊德国劳工问题是围绕着工资展开的。
+The union says workers in warehouses in two small German cities are properly classified as retail employees, and should be paid at the higher rate required for people who work in department stores and other retail outlets. Amazon says they are more properly classified as warehouse workers, and paid at a lower rate.
+工会说，德国两个小城市的仓库工人应该被归为零售员工，因此他们的工资水平也应该更高一些，跟在百货公司及其他零售店工作的人员持平。但亚马逊表示，把他们归类为仓库工人更适当。仓库工人的工资水较前者更低。
+The subtext, though, is Amazon’s opposition to unions in its warehouses as a general principle, because the company fears unions will slow down the kind of behind-the-scenes innovation that has propelled its growth.
+但是，这件事的潜台词在于：亚马逊反对仓库工人的工会活动是它的基本原则，因为它担心为增长提供动力的内部创新会受到工会的拖累。
+Dave Clark, the company’s vice president of worldwide operations and customer service, says Amazon views unions as intermediaries that will want to have a say on everything from employee scheduling to changes in processes for handling and packaging orders. Amazon prizes its ability to quickly introduce changes like these into its warehouses to improve the experience of its customers, he said.
+亚马逊全球营运及客户服务副总裁戴夫·克拉克(Dave Clark)说，在亚马逊看来，工会是一个中间人，从给员工排班到改变订单处理和包装流程的所有事情上，这个中间人都想拥有发言权。他说亚马逊非常重视自己那种可以让仓库快速转变、从而提升顾客体验的能力。
+In the United States, Amazon successfully thwarted efforts to unionize. Over a decade ago, Mr. Courtney of Uni Global led an unsuccessful effort in the company’s home state of Washington to organize Amazon’s customer service representatives.
+在美国，亚马逊成功地挫败了成立工会的努力。早在十几年前，在亚马逊的总部所在地华盛顿州，统一全球联盟的考特尼就试图把亚马逊的客户服务代表组织起来，但是没有成功。
+And the strikes in Germany raise especially knotty problems for the company, which has ambitious expansion plans there.
+亚马逊在德国制定了雄心勃勃的扩张计划， 而在这里发生的罢工，给该公司提出了一些尤为棘手的问题。
+Germany is Amazon’s second-biggest market after North America, accounting for $8.73 billion, or 14 percent, of total company revenue in 2012. Even as workers in Bad Hersfeld and Leipzig began their recent strikes, Amazon announced plans to open a ninth logistics center in Germany, in the former East German state of Brandenburg, west of Berlin.
+德国是亚马逊仅次于北美的第二大市场，2012年带来了87.3亿美元的营收，占该公司总营收的14％。尽管巴赫斯菲德和莱比锡的工人最近开始罢工，亚马逊仍然宣布它将开设在德国的第九个物流中心，位置就在柏林以西的前东德州勃兰登堡。
+The strike was organized by the powerful service workers union ver.di, which has about 2.3 million members across Germany, and a sizable war chest to pay striking workers.
+这次罢工是由强大的服务工人工会ver.di组织的，它在德国有约230万会员和一个可观的“战争基金”，用来付钱给罢工工人。
+Thomas Schneider, ver.di’s point man for organizing the strike at the Leipzig plant, argued that Amazon’s tactics, along with its refusal to even enter into talks with the unions, created an image of being against its own work force that could hurt it in the long run.
+托马斯·施耐德(Thomas Schneider)是ver.di负责组织莱比锡工厂罢工的负责人，他表示，亚马逊的策略以及它连工会谈判的机会都不给的做法，给人留下了一个和自家工人作对的印象，长期来说可能对它不利。
+“When it is put under pressure, Amazon reacts,” Mr. Schneider said.
+“在给亚马逊施加压力后，它做出了回应，”斯耐德说。
+The company says that after a year, its German workers make more money on average than those in similar businesses. And it says it has complied with German labor laws by allowing worker councils at its warehouses. But these councils are legally forbidden from getting involved in wage deals, which is why the union wants to get involved.
+亚马逊表示，入职一年后，该公司德国工人的平均工资比类似行业的其他工人是要高的。它说它一直都遵守德国劳工法， 允许仓库工人组织委员会。但是法律禁止这些委员会卷入工资谈判，这就是工会希望参与进来的原因。
+In Germany, Amazon’s Mr. Clark said, the strikes had not disrupted its business because the number of workers walking out had been relatively small. When necessary, the company has been able to shift orders to other facilities that are not striking, he said.
+亚马逊的克拉克说，这次罢工没有影响它在德国的业务，因为罢工的工人相对较少。他说在必要时，亚马逊还可以把订单转到没有罢工的仓库去配货。
+The union, though, credits the strikes for recent improvements to overtime scheduling, an increase in the number of break rooms and a pledge by Amazon to pay Christmas bonuses, a standard practice in German industry.
+不过，工会把最近该公司加班安排的改善、休息室数量的增加，以及支付圣诞奖金的成果归功于这次罢工。发放圣诞奖金是德国公司的一种标准做法。
+At a strike in June with hundreds of workers who gathered outside the gates of the Leipzig plant, the head of ver.di, Frank Bsirske, played on Amazon’s motto of “Work hard. Have fun. Make history,” telling the strikers they should take it to heart.
+数百名工人参与了6月的这次罢工，他们聚集在莱比锡工厂外面，ver.di的负责人弗汉克·斯尔斯克(Frank Bsirske)一语双关，告诉罢工者们应该把亚马逊的口号“努力工作，享受生活，创造历史”(Work hard. Have fun. Make history.)放在心上。
+“You are making history by striking,” Mr. Bsirske told the crowd to cheers and whistles. “You are making history by demanding higher wages. We are not going to let a big American company come here and play Wild West. This is a clash of cultures.”
+“你们正在通过罢工创造历史，”斯尔斯克要大家尽情欢呼和吹口哨。“你们正在通过要求更高的工资创造历史。我们不会让一家美国大公司来这儿玩‘狂野西部’的游戏。这是一种文化冲突。”

@@ -1,0 +1,40 @@
+If greenhouse emissions continue their steady escalation, temperatures across most of the earth will rise to levels with no recorded precedent by the middle of this century, researchers said Wednesday.
+研究人员周三称，如果温室排放继续稳步增长，地球上大部分地区的气温到本世纪中叶将达到史无前例的高水平。
+Scientists from the University of Hawaii at Manoa calculated that by 2047, plus or minus five years, the average temperatures in each year will be hotter across most parts of the planet than they had been at those locations in any year between 1860 and 2005.
+位于马诺阿的夏威夷大学(University of Hawaii)的科学家们计算得出，到2047年（误差不超过5年），全球大部分地区的年平均气温将高于1860年到2005年期间的任何一年。
+To put it another way, for a given geographic area, “the coldest year in the future will be warmer than the hottest year in the past,” said Camilo Mora, the lead scientist on a paper published in the journal Nature.
+在《自然》杂志(Nature)上发表这篇研究论文的主要科学家卡米洛·莫拉(Camilo Mora)说，换句话说，对一个给定的地区，“未来最冷年份的气温将比过去最热年份的气温还要高。”
+Unprecedented climates will arrive even sooner in the tropics, Dr. Mora’s group predicts, putting increasing stress on human societies there, on the coral reefs that supply millions of people with fish, and on the world’s greatest forests.
+莫拉博士的团队预测，空前的气候在热带将更早到来，给这些地区的人类社会、给那里的珊瑚礁（它们目前为数以百万计的人们带来鱼类）、以及世界上最大的森林造成越来越大的压力。
+“Go back in your life to think about the hottest, most traumatic event you have experienced,” Dr. Mora said in an interview. “What we’re saying is that very soon, that event is going to become the norm.”
+莫拉博士在一次采访中说，“回想一下你经历过的那些最热、最痛苦的事情吧。我们在说的是，这样的事情很快就会成为常态。”
+The research comes with caveats. It is based on climate models, huge computer programs that attempt to reproduce the physics of the climate system and forecast the future response to greenhouse gases. Though they are the best tools available, these models contain acknowledged problems, and no one is sure how accurate they will prove to be at peering many decades ahead.
+当然，这一研究是带有注意事项的。它基于气候模型，即试图重现气候系统的物理作用、预测未来温室气体会引发什么反应的巨大计算机程序。虽然这是目前可用的最佳工具，但这些模型存在一些已知问题，而且没有人能确定它们对几十年后情况的预测有多准确。
+The models show that unprecedented temperatures could be delayed by 20 to 25 years if there is a vigorous global effort to bring emissions under control. While that may not sound like many years, the scientists said the emissions cuts would buy critical time for nature and for human society to adapt, as well as for development of technologies that might help further reduce emissions.
+这些模型显示，如果全球大力采取措施控制排放，这些史无前例的气温有望被推迟20到25年。虽然这听上去不像是很多年，但科学家们表示，减排将换来宝贵时间，让自然和人类社会设法适应，并研发出有助于进一步减排的技术。
+Other scientists not involved in the research said that slowing emissions would have a bigger effect in the long run, lowering the risk that the climate would reach a point that triggers catastrophic changes. They praised the paper as a fresh way of presenting information that is known to specialists in the field, but not by the larger public.
+其他一些未参与这项研究的科学家称，从长远来看，减缓排放将产生更大的影响，降低气候达到引发灾难性变化的程度的风险。他们称赞这篇论文用一种新颖的方式展现了该领域专家们已知、但公众还不知道的信息。
+“If current trends in carbon dioxide emissions continue, we will be pushing most of the ecosystems of the world into climatic conditions that they have not experienced for many millions of years,” said Ken Caldeira, a climate researcher at the Carnegie Institution for Science in Stanford, Calif.
+位于加州斯坦福的卡内基科学研究所(Carnegie Institution for Science)气候研究者肯·卡尔代拉(Ken Caldeira)说，“如果当前的二氧化碳排放趋势持续下去，我们将把世界上大多数生态系统推入它们在几百万年时间里没有经历过的气候状况。”
+The Mora paper is a rarity: a class project that turned into a high-profile article in one of the world’s most prestigious scientific journals.
+莫拉的研究论文很少见：它起源于一个课堂项目，最终成了世界最负盛名的科学刊物之一上一篇令人瞩目的文章。
+Dr. Mora is not a climate scientist; rather he is a specialist in using large sets of data to illuminate environmental issues. He assigned a class of graduate students to analyze forecasts produced by 39 of the world’s foremost climate models. The models, whose results are publicly available, are operated by 21 research centers in 12 countries, and financed largely by governments.
+莫拉博士并不是气候科学家，他是一个利用大型数据集解释环境问题的专家。他让一班研究生分析39个世界上首屈一指的气候模型。这些模型由12个国家的21个研究中心运行，得到政府的资金支持，运算结果可公开获得。
+Thousands of scientific papers have been published about the model results, but the students identified one area of analysis that was missing. The results are usually reported as average temperature changes across the planet. But that gives little sense of how the temperature changes in specific places might compare with historical norms. “We wanted to give people a really relatable way to understand climate,” said Abby G. Frazier, a doctoral candidate in geography.
+围绕这些模型的结果发表的科学论文不计其数，但这些学生发现，其中缺少了一个分析领域。在报告这些结果时，通常是以全球平均气温的变化为形式。但这不能让人一目了然地了解特定地区的温度变化与历史常态相比可能是怎样的。地理学博士候选人阿比·G·弗雷泽 (Abby G. Frazier)说，“我们想让人们以一种真正切身相关的方式理解气候变化。”
+So Dr. Mora and his students divided the earth into a grid, with each cell representing 386 square miles. Averaging the results from the 39 climate models, they calculated a date they called “climate departure” for each location — the date after which all future years were predicted to be warmer than any year in the historical record for that spot on the globe.
+莫拉博士和学生将地球划分成网格，每一个为386平方英里（约为999.74平方公里）。他们对来自39个气候模型的结果求平均值，对每个网格计算出他们所称的“气候偏离”日期，预计过了这个日期之后，该地未来所有年份的气温都将高于历史上最热的一年。
+The results suggest that if emissions of greenhouse gases remain high, then after 2047, more than half the earth’s surface will experience annual climates hotter than anything that occurred between 1860 and 2005, the years for which historical temperature data and reconstructions are available. If assiduous efforts were made to bring emissions down, that date could be pushed back to 2069, the analysis found.
+这些结果似乎表明，如果温室气体排放量依然很大，那么2047年以后，地球上一半以上的地表每年气温都将高于该地从1860年到2005年期间的气温记录；从1860年到2005年期间的历史气温数据和重建是可以获得的。分析发现，如果大力减排，这个日期有望推迟到2069年。
+With the technique the Mora group used, it is possible to specify climate departure dates for individual cities. Under high emissions, climate departure for New York City will come in 2047, the paper found, plus or minus the five-year margin of error. But lower emissions would push that to 2072.
+使用莫拉团队所用的方法，可以为每个城市找到具体的气候偏离日期。这篇论文发现，在高排放的情况下，纽约市的气温偏离日期是2047年。但如果排放较少的话，这一日期将会推迟到2072年。
+For Beijing, climate departure would come in 2046 under high emissions, or 2078 under lower emissions. The dates for Moscow are 2063 and 2092; for Washington, 2047 and 2071.
+对北京来说，在高排放的情况下，气候偏离日期将会是2046年，而排放较少时这一偏离日期将会是2078年。莫斯科的这两个日期分别是2063年和2092年；华盛顿则是2047年和2071年。
+Perhaps the most striking findings are in the tropics. Climate variability there is much smaller than in high latitudes, and the extra heat being trapped by greenhouse gases will push the temperature beyond historical bounds much sooner, the research found. Under high emissions, the paper found a climate departure date of 2031 for Mexico City, 2029 for Jakarta and for Lagos, Nigeria, and 2033 for Bogotá, Colombia.
+最令人吃惊的发现可能是在热带地区。这里的气候变率比高纬度地区小得多，研究发现，温室气体蓄积的额外热量将使这些地区的气温更快超出历史范围。这篇论文发现，在高排放的情况下，墨西哥城的气候偏离日期是2031年，雅加达、尼日利亚拉各斯是2029年，哥伦比亚波哥大则是2033年。
+Many people perceive climate change to be most serious at the poles, and the largest absolute changes in temperature are already occurring in the Arctic and parts of Antarctica. But the Mora paper dovetails with previous research suggesting that the biggest risks to nature and to human society, at least in the near term, may actually be in the tropics.
+很多人认为，气候变化对两极的影响最严重，而最大的气温变化绝对值也已经出现在北极以及南极部分地区。但是莫拉的论文和以前的研究相符，似乎表明自然和人类社会面临最大风险的地方，至少是就短期而言，其实可能是热带地区。
+People living in the tropics are generally poor, with less money to adapt to climate change than people in the mid-latitude rich countries that are burning the most carbon-based fuels and contributing most of the emissions. Plants and animals in the tropics also are accustomed to a narrow temperature range. Organisms that do not have the genetic capacity to adapt to rapid climatic changes will be forced to move, or will be driven to extinction, climate scientists say.
+热带居民一般比较贫穷，和生活在中纬度富裕国家的人相比，他们没有很多钱适应气候变化，而中纬度富裕国家的人燃烧的碳基燃料最多，造成的排放也最多。热带地区的植物和动物也已经习惯了一个狭小的气温范围。气候科学家说，那些没有适应快速气候变化的遗传能力的生物将被迫转移，或者将会灭绝。
+“I am certain there will be massive biological and social consequences,” Dr. Mora said. “The specifics, I cannot tell you.”
+莫拉博士说，“我确信会有巨大的生物和社会后果。但我没办法告诉你具体细节。”

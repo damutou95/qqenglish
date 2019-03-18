@@ -1,0 +1,34 @@
+SEATTLE — Few golden geese in technology have survived as long as Office has for Microsoft.
+西雅图——在科技领域，像微软Office那样长盛不衰的摇钱树寥寥无几。
+The suite of applications that includes Word, Excel and PowerPoint, first released in 1990, generated nearly a third of Microsoft’s revenue during its last fiscal year — about $26 billion of $87 billion in total. By some estimates, the software accounted for an even higher portion of the company’s gross profits.
+这套包括Word、PowerPoint和Excel的应用程序于1990年首次发布，在上一财年里，Office带来260亿美元的营收，几乎占了微软总营收870亿美元的三分之一。据估计，该软件在微软总利润中的占比更高。
+But in a sign of the seismic changes underway in the tech industry, Microsoft, the world’s largest software company, said on Thursday that it would give away a comprehensive mobile edition of Office. The free software for iPads, iPhones and Android tablets will do most of the most essential things people normally do with the computer versions of the product.
+但本周四，全球最大的软件公司微软表示，它将免费提供Office的完整移动版；此举是高科技产业正在发生翻天覆地变化的一个标志。Office的免费iPad、iPhone和Android平板电脑版本，将会支持人们通常用Office计算机版本进行的大部分最基本工作。
+Just a few years ago, giving away a full free version of Office would have earned a Microsoft chief executive a visit from a witch doctor. Now, the move is following through on the rallying cry coming from Satya Nadella, Microsoft’s new chief executive, who has pushed cloud and mobile computing as lodestars for the company’s future.
+就在几年前，如果微软首席执行官做出免费提供Office完整版的决定，人们会以为他发了疯。现在，这一举措是在响应新任首席执行官萨蒂亚·纳德拉(Satya Nadella)的号召。纳德拉已经把云计算和移动计算列为该公司未来的发展方向。
+The old Microsoft hemmed and hawed about creating Office apps for mobile platforms from Google and Apple, pushing its Windows platform instead. But the center of gravity in the tech industry has quickly shifted to mobile and cloud computing. And the company’s about-face comes after rivals like Apple and Google and many of the most successful new start-ups offered free software, often with premium perks for sale.
+之前，对于为谷歌和苹果的移动平台创建Office应用，微软有些犹豫不决，它把精力放在了推动自己的Windows平台上。但高科技业的重心已经迅速转移到了移动和云计算上。像苹果和谷歌这样的竞争对手，以及一些大获成功的新兴创业公司，都已经提供了很多免费的、但常常带有付费高级功能的软件，微软这次改弦更张，就是在这样的背景下进行的。
+“Lots of consumers don’t need a PC,” said Rick Sherlund, an analyst at Nomura Securities. “They just need an Internet connection. They don’t need Office as much.”
+“很多消费者并不需要一台PC，”野村证券(Nomura Securities)分析师里克·谢伦德(Rick Sherlund)说。“他们只需要设备连接上互联网。他们不是非常需要Office。”
+That reality has started to weigh on Office. While sales of the software to businesses grew about 8 percent last year, consumer revenue rose only 2 percent. Sales declined by double-digit percentage points during the first two quarters of the year.
+这一现象已开始影响到Office。虽然该软件面向企业的销售额去年增长了8%左右，但从消费者那里获得的营收仅增长了2%。今年前两个季度，Office销量下滑的百分率达到了两位数。
+The Office business suffered in recent years from a global slump in sales of PCs, which were hurt as people began to do more and more basic computing chores on tablets and smartphones. For years, Office was not available on mobile devices, and many consumers began to wonder whether they needed the software at all. Those who needed productivity apps turned to free or cheap alternatives from Apple, Google and start-ups like Evernote.
+近年来，人们日益用平板电脑和智能手机开展比较基本的计算任务，导致全球PC销售下滑，也给Office业务带来损失。多年来，Office一直没有推出移动设备版本，许多消费者已经开始思考，自己是否真的还需要它。那些需要工作软件的人，转而开始使用苹果、谷歌和Evernote等初创公司的免费或廉价替代品。
+The outlook for Microsoft’s apps has improved in recent quarters with the growth of Office 365, a cloud version of the product that includes constantly updated apps, unlimited online file storage and free Skype calling to traditional phones. Consumers pay $7 to $10 a month for the service, rather than buying a copy of Office for about $150.
+最近几个季度，随着Office365业绩的增长，微软应用的前景也获得了改善。Office365是这个套件的云版本，提供持续更新、不限量的在线文件存储空间、免费的Skype电话拨打服务等等。消费者每月只需支付7至10美元的服务费，无需购买售价约150美元的Office。
+“We’d like to dramatically increase the number of people trying Office,” John Case, corporate vice president of Office marketing at Microsoft, said about the new offering. “This is about widening the funnel.”
+“我们希望能大幅增加尝试Office的用户人数，”微软Office企业营销副总裁约翰·凯斯(John Case)在谈到免费版时表示。“关键是拓宽渠道。”
+Microsoft started to suggest a more open posture earlier this year, when it released an iPad version of Office that could be used to read documents, spreadsheets and presentations.
+微软表现出更加开放的姿态，是从今年早些时候开始的，当时它发布了iPad版的Office，可以用来读取文档、电子表格和演示文稿。
+If users wanted to edit or print those documents, though, they needed to pay a subscription fee to Microsoft. Now Microsoft is doing away with those hindrances. It is starting to test similarly full-featured and free Office apps for tablets running Android, Google’s mobile operating system. And it is updating Office apps for iPhone to allow editing, at a time when Apple’s new big-screen smartphones are making it easier to get work done on the devices.
+不过，如果用户想编辑或打印这些文档，就需要支付订阅费给微软。现在，微软正在清除这些障碍。它正在开始测试同样功能齐备而且免费的Android平板电脑版Office应用；Android是谷歌移动操作系统。它也正在更新iPhone版Office应用，以便提供编辑功能。苹果新推出的大屏幕智能手机，让一些工作任务变得更易完成了。
+Microsoft says it has more than 7 million consumers subscribing to Office 365. It says there have been more than 40 million downloads of its Office apps for the iPad. In its most recent quarter, which ended Sept. 30, Microsoft said its consumer Office revenue grew 7 percent.
+微软表示，已经有逾700万用户订阅了Office365，iPad版Office应用的下载量超过了4000万次。微软表示，在9月30日截至的最近一个季度里，Office从消费者那里获得的营收增长了7%。
+By making an unabridged version of Office available for free on mobile, Microsoft is betting it can get even more people to start using the software, without stealing sales from the PC and Mac versions of the product, where it still makes truckloads of money.
+微软认为，通过免费提供完整的Office移动版本，会有更多的人开始使用Office软件，而且也不会分流PC和Mac版Office的销售额，计算机版Office仍然非常赚钱。
+The calculation is similar to the one made by software makers in the mobile industry. Instead of the one-time fees long associated with software sales, most app makers give away basic versions of their products — from games to productivity software to online storage services — while charging for premium features.
+这和移动领域软件开发商的思路很相似。在软件销售业务中，长期以来费用都是一次性收取的，而大多数应用开发商都会免费提供产品——从游戏到工作软件，再到在线存储服务，但只限基本功能，高级功能则会收取费用。
+“We’re seeing the consumer valuation for those things start to approach zero,” said Wes Miller, an analyst at Directions on Microsoft, a research firm that tracks the company.
+“我们看到，消费者对软件的估值开始趋近于零，”分析微软状况的研究公司Directions on Microsoft的分析师韦斯·米勒(Wes Miller)说。
+Apple, for example, made its iWork suite of productivity applications free a year ago for new buyers of Macs and Apple mobile devices. Google has won converts to a free suite of Web apps that competes with Office.
+以苹果公司为例，一年前，它开始为Mac电脑和Apple移动设备的新顾客免费提供工作应用iWork套件。谷歌推出Web应用免费套件与Office竞争，也赢得了一些用户。

@@ -1,0 +1,38 @@
+LONDON — Gemalto, a French-Dutch digital security company, said on Wednesday that it believed that American and British intelligence agencies had most likely hacked into the company’s networks in an attempt to gain access to worldwide mobile phone communications. But it said that the intrusions had only limited effect.
+伦敦——法国荷兰合资的数字安全公司金雅拓(Gemalto)周三表示，美国和英国情报机构很有可能入侵了该公司的网络，以便监听全球移动电话通信。但它说，这些入侵活动的影响有限。
+Gemalto said that the attacks had occurred over two years, starting in 2010, but that the National Security Agency of the United States and its British counterpart, the Government Communications Headquarters, or GCHQ, had failed to gain wholesale access to the company’s SIM card encryption codes.
+金雅拓说，攻击活动从2010年开始，持续了两年多时间，但美国国家安全局(NAS)和英国的对应机构政府通讯总部(GCHQ)未能大规模窃取该公司SIM卡密钥。
+The company is the world’s largest producer of cellphone SIM cards — the small chips that hold an individual’s personal security and identity information — and its networks could have given American and British intelligence agencies the ability to collect mobile voice and data communications without the permission of governments or telecommunications providers.
+SIM卡是存储个人安全身份信息的小芯片，而金雅拓是全球最大的手机SIM卡生产商，英美情报机构如果成功侵入了该公司的网络，就可以在没有政府或电信运营商许可的情况下，搜集移动语音和数据通信信息。
+This hacking was first reported last week by the website The Intercept based on documents from 2010 provided by Edward J. Snowden, the former N.S.A. contractor whose leak of agency documents has set off a national debate over the proper limits of government surveillance.
+上周，截击(The Intercept)网站依据前NSA承包商雇员爱德华·J·斯诺登(Edward J. Snowden)提供的2010年的一些文件，率先报道了这一攻击活动。斯诺登之前曝光的情报文件已经在美国掀起了全国性的辩论，一些人要求对政府监控加以适当限制。
+“At the time, we were not able to identify the perpetrators of the attacks,” Patrick Lacruche, Gemalto’s head of security, said at a news conference in Paris on Wednesday. “We now think that they could have been linked to the GCHQ. and N.S.A. operation.”
+“当时，我们无法确定是谁发起了攻击，”本周三，金雅拓安全主管帕特里克·拉克鲁切(Patrick Lacruche)在巴黎的新闻发布会上说。“我们现在认为，这些攻击可能与GCHQ和NSA有关。”
+The leaked documents from Mr. Snowden suggested that millions of SIM cards could have been affected. Olivier Piou, Gemalto’s chief executive, disputed that claim, but he declined to provide an exact figure.
+从斯诺登泄露的文件来看，数以百万计的SIM卡可能都遭受了影响。金雅拓首席执行官奥利维耶·皮乌(Olivier Piou)否认了这种说法，但他拒绝提供确切数字。
+“At the very most, very little,” said Mr. Piou when questioned by reporters about how many SIM cards were potentially infiltrated.
+当记者问及有多少SIM卡可能遭到渗透时，“往最糟的情况估计，也非常少，”皮乌说。
+The company’s share price rose about 3 percent in afternoon trading in Amsterdam. Last week, analysts had warned that the suspected government hacking could affect Gemalto’s operations, though the company’s stock has fallen only about 2 percent since The Intercept published its article late Thursday.
+该公司的股价在阿姆斯特丹股市下午的交易中上涨了约3%。虽然自从截击网站上周四晚进行报道后，该公司的股价跌幅仅为大约2%，但上周曾有分析师警告说，金雅拓的业务可能会受政府入侵消息的影响。
+A GCHQ spokesman declined to comment on the intelligence matters, and the N.S.A. did not respond to requests for comment.
+GCHQ发言人拒绝就相关情报问题发表评论，NSA则没有回应记者的置评请求。
+Gemalto, whose customers include some of the world’s largest carriers, including Verizon Wireless and China Mobile, started its investigation into the possible hacking by the intelligence agencies after the company’s share price fell on Friday in the wake of the revelations. It was impossible to independently verify the company’s internal investigation into the hacking.
+金雅拓公司的客户中包括威瑞森无线(Verizon Wireless)和中国移动这样的全球顶级运营商，入侵事件曝光后，该公司股价在上周五出现下跌，金雅拓也开始调查情报机构可能对该公司展开的入侵行动。独立核实该公司对入侵事件的内部调查是不可能的。
+The revelations are the latest in a series of suspected hacking activities by American and British intelligence agencies that were made public by Mr. Snowden.
+斯诺登公开了英美情报机构涉嫌开展的一系列黑客活动，金雅拓遭受的攻击则是最新曝光的一起。
+Targets of the surveillance programs have included high-profile figures like Angela Merkel, the German chancellor, whose cellphone conversations American intelligence agencies are suspected of monitoring. The services of a number of the world’s largest tech companies, including Google and Facebook, were also infiltrated, according to the Snowden leaks.
+这些监听计划的目标包括德国总理安吉拉·默克尔(Angela Merkel)这样的显要人士，她的手机通话有可能遭受了美国情报机构的窃听。从斯诺登曝光的文件来看，谷歌和Facebook等全球顶级高科技公司的服务也遭到了渗透。
+The tapping of people’s online communications has led to widespread criticism of what is perceived as overreaching by American and British intelligence agencies.
+窃听人们在线通信信息的做法遭到了广泛批评，一些人认为英美情报机构过度行使了职权。
+“Trust in the security of our communications systems are essential for our society and for businesses to operate with confidence,” Eric King, deputy director of Privacy International, an advocacy group based in London, said in a statement on Wednesday. “The impact of these latest revelations will have ripples all over the world.”
+“对于我们的社会，以及对于企业经营的信心来说，人们对通信系统安全的信任是至关重要的，”总部设在伦敦的隐私国际(Privacy International)组织的宣传部副主任埃里克·金(Eric King)在周三的声明中说。“这些最新曝光信息的影响将波及世界各地。”
+Gemalto said in a news release that it had experienced many attacks in 2010 and 2011 and that it detected “two particularly sophisticated intrusions which could be related to the operation.” But it said that the attacks “only breached its office networks and could not have resulted in a massive theft of SIM encryption keys.”
+金雅拓在一份新闻稿中表示，它在2010年和2011年间经历了大量攻击，发现“两次特别复杂的入侵可能与情报机构有关”。但该公司说，攻击“仅仅侵入了办公网络，不会导致SIM密钥的大规模失窃”。
+In June 2010, an unknown third party, which Gemalto said it now believed was either an American or British intelligence agency, had tried to spy on its communications network. A month later, Gemalto said, emails containing malware were sent to some of its customers, many of which are the world’s largest cellphone carriers. The emails had pretended to come from Gemalto’s employees.
+2010年6月，曾有人试图入侵金雅拓的通信网络，现在该公司认为，攻击者可能就是美国或者英国情报机构。该公司还表示，一个月后，含有恶意软件的邮件被发送到它的一些客户那里，其中很多客户都是世界上最大的手机运营商。这些电邮被伪装成来自金雅拓员工的邮件。
+“We immediately informed the customer, and also notified the relevant authorities both of the incident itself and the type of malware used,” Gemalto said, adding that it had detected several attempts to gain access to its employees’ computers during that time.
+“我们立即通知了客户，同时也向有关部门通报了攻击事件本身以及这些恶意软件的类型，”金雅拓说，在那段时间，它发现好几次有人试图入侵公司员工的计算机。
+The company said that its SIM encryption codes and other customer data had not been stored on the networks that were targets of the attack, and that it had upgraded its internal security software beginning in 2010 to limit the impact of future hacking.
+该公司表示，其SIM卡密钥和其它客户数据并没有存储在那些遭受攻击的网络上，而且它从2010年开始就升级其内部安全软件，以便抵御未来的黑客攻击。
+Gemalto did admit, however, that the hacking attempts in 2010 may have given some access to SIM cards based on outdated telecom technology, known as 2G.
+然而，金雅拓也承认，该公司2010年遭受的攻击可能给会让某些SIM卡蒙受损失，这些SIM卡采用的是过时的2G电信技术。

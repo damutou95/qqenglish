@@ -1,0 +1,34 @@
+SAN FRANCISCO — There in Yahoo’s quarterly financial report on Tuesday — Marissa Mayer’s first day as the company’s chief executive — was the basic problem she faces.
+旧金山——周二，雅虎(Yahoo)发布了季度财务报告，当天也是玛丽莎‧梅耶尔(Marissa Mayer)走马上任成为雅虎首席执政官的第一天。报告内容正是她所面临的基本问题。
+Revenue and net income were stalled at last year’s levels. Although Yahoo has amassed an enormous audience, some advertisers are looking elsewhere.
+公司收入和净收益依然停留在去年的水平。虽然雅虎有很大访问量，但广告客户仍在流失。
+But on Tuesday, for the first time in a long time, people took an interest in Yahoo. The day before, Ms. Mayer left a senior post at Google to lead the company that Google had left in its wake.
+但是周二，人们突然对雅虎提起了兴趣，长久以来这是第一次。梅耶尔于周一辞去了谷歌(Google)的高管职位，来掌管被谷歌远远落在后面的雅虎。
+Analysts and shareholders — desperate for signs of life from the moribund company — are eager to see whether Ms. Mayer, 37, can lure back advertisers, reinvigorate a muddled brand and improve morale at a company marred by executive churn, constant cost-cutting initiatives and mass layoffs.
+那些渴望能在这家凋敝的公司看到复苏迹象的分析人士和股东都翘首以待，看时年37岁的梅耶尔能否重新吸引广告商，重振这个混乱的品牌，让这个饱受高层变动、频繁的降低成本政策以及大量裁员困扰的公司恢复士气。
+“Bringing in Marissa Mayer gets people’s attention,” said David Hallerman, a principal analyst at eMarketer. “The sheer attention that they are getting because of hiring her will be helpful for a while. But it will only carry them so far,” he warned.
+“玛丽莎·梅耶尔的加盟会吸引人们的注意力，”eMarketer的首席分析师戴维·哈勒曼(David Hallerman)表示。他还提出警告，“因为雇佣她而获得的关注，会暂时对雅虎有所帮助。但是也仅此而已。”
+The first problem she faces is Yahoo’s identity crisis.
+梅耶尔所面临的第一个问题就是雅虎的身份危机。
+Previous chief executives — and there have been four of them in the last five years, plus two interim chiefs — have had a difficult time trying to define what Yahoo actually does. Most people cannot explain the company in a single simple sentence. “The age-old question with Yahoo has been: Is it technology first or is it media or content first?” said David Cohen, the chief media officer at Universal McCann.
+在过去五年中，雅虎更换了四任首席执政官，另外还有两位临时的，他们都没能给雅虎一个准确的定位。大多数人都不能用一句简单的话来描述这家公司。优势麦肯(Universal McCann)的媒体总经理戴维·科恩(David Cohen) 说：“多年来困扰雅虎的问题就是：到底把什么放在第一位，技术、媒体，还是内容？”
+Most recently, under Ross Levinsohn, who has been the acting chief since May, Yahoo seemed focused on content. It announced a number of prominent deals with ABC News, including a new weekly Web video show starring Katie Couric called “Katie’s Take.” During a presentation made to a room full of advertisers in April in Manhattan, Mr. Levinsohn highlighted Yahoo’s own coverage of sports, finance, the presidential campaign and the coming Summer Olympics.
+罗斯·莱文索恩(Ross Levinsohn)从5月开始担任代理首席执政官，最近，在他的领导下，雅虎似乎开始专注于内容。公司宣布将与美国广播公司新闻网(ABC News)进行一系列大的合作，其中包括一个由凯蒂·库瑞克(Katie Couric)主持的网络视屏节目，名为“凯蒂有约”(Katie’s Take)，每周播放。4月在曼哈顿，面对满屋子的广告商，莱文索恩发表了一个演说，他强调雅虎将会开始对体育、财经、总统大选以及即将到来的夏季奥运会做自己的报道。
+With 700 million users, Yahoo still draws one of the largest audiences on the Web. More people use Yahoo’s e-mail service than any other service. Yahoo Sports, Yahoo Finance and Flickr, the photo site, are the most popular destinations in their categories.
+拥有7亿名用户的雅虎，仍然是用户量最大的门户网站之一。使用雅虎邮箱的用户数量比使用雅虎其他服务的都要多。雅虎体育(Yahoo Sports)，雅虎财经(Yahoo Finance)以及图片网站Flickr，在同类型服务中都是最欢迎的。
+But over the last few years advertising technology has grown more sophisticated and advertisers themselves have come under financial pressures, prompting many of them to buy ads more cheaply and more quickly through ad networks and auction-based sales. Yahoo’s advertisers are now experimenting with new platforms, most notably Facebook.
+但是，在过去几年里，广告技术变得日益复杂，广告商本身也面临着经济压力，从而促使他们中的很多人都开始通过广告网络和拍卖销售来购买广告，这样更便宜也更快捷。雅虎的广告商现在正在尝试一些新的平台，其中最突出的就是Facebook。
+To challenge Google’s ad dominance, Yahoo formed a partnership with Microsoft and AOL last year on a deal to sell advertising for one another. And in January, Yahoo bought the online advertising company Interclick, which allows marketers to tailor ads to specific demographics.
+为了挑战谷歌在广告领域的主导地位，雅虎去年与微软(Microsoft) 和美国在线(AOL)联手合作，彼此出售对方的广告。今年1月份，雅虎完成对网上广告公司Interclick的收购，使营销人员能够针对特定人群定制广告。
+The two moves led to the creation of Genome, Yahoo’s new digital advertising product, which offers advertisers data about their users and crunches that data so marketers can create custom ad campaigns. But Yahoo’s revenue from online display ads rose just 2 percent in the second quarter compared with a year ago, and it continues to lose market share.
+这两招诞生了雅虎新的数字广告产品Genome, 该产品能够为广告商提供用户数据，并对数据进行分析，以便营销人员根据情况定制广告，组织活动。但是雅虎第二季度的网站广告收入与一年前相比只增长了2%，市场份额也继续下跌。
+The choice of Ms. Mayer, who oversaw some of Google’s most successful products — the search engine business, Gmail and Google Maps among them — suggests that Yahoo may turn its focus to new products, like mobile technologies. “Yahoo has a very healthy search advertising and display advertising business,” Ms. Mayer said in an interview on Monday. “I’m interested in what Yahoo can do with video and mobile, both of which are very promising.”
+梅耶尔负责谷歌一些最成功的产品，其中包括搜索引擎业务、谷歌邮件(Gmail)和谷歌地图(Google Maps) 。选她做新任首席执行官说明雅虎可能将业务重点集中在新产品上，比如移动技术。“雅虎的搜索广告业务和展示广告业务都运行良好，”梅耶尔周一接受采访时说，“我对雅虎在视频和移动技术方面能做什么非常感兴趣，这两项业务拥有广阔的前景。” 
+Brian Wieser, a senior research analyst at Pivotal Research Group, said advertisers had grown largely indifferent toward Yahoo. “What would get them more money is if they have a sexier brand,” he said. That’s where Ms. Mayer’s Google sheen could help the company. “We don’t know that she’s not the next Steve Jobs,” Mr. Wieser said.
+市场研究公司Pivotal Research Group的高级研究分析师布赖恩·威泽(Brian Wieser)表示，广告商越来越不重视雅虎了。“是否拥有一个更具吸引力的品牌是他们赚钱的关键，”他说。而梅耶尔在谷歌公司的丰富经历能够在这方面帮助雅虎。“没人敢说她不会是下一个史蒂夫·乔布斯(Steve Jobs)，”威泽说。
+Ms. Mayer may have the hardest time taking Yahoo into the mobile advertising arena, a market dominated by her former employer. Unlike Yahoo, Google and Apple dominate the mobile advertising space with hardware and software options.
+梅耶尔将雅虎业务扩展至移动广告领域可能会经历一段艰难的阶段，她的前雇主谷歌在该领域占主导地位。与雅虎不同，谷歌和苹果利用硬件和软件占领了移动广告领域。
+And that’s where it runs headlong into its identity problem. “Yahoo is still mainly a media company. It doesn’t have an operating system. It doesn’t have the devices,” Mr. Hallerman, of eMarketer, said. “I don’t know if there’s room in the market for a fourth mobile platform.”
+正是在这个问题上，雅虎遭遇了公司定位的问题。“雅虎仍然主要是一个媒体公司。它没有操作系统，没有硬件设备，” eMarketer的哈勒曼说。“我不知道在移动技术市场，是否还有发展空间留给第四个移动平台。”
+Asked whether she plans to run Yahoo as a media company or a technology company, Ms. Mayer said, “It’s not the right question. The most important thing is to give end users something valuable, inspiring and delightful that makes them want to come to Yahoo every day.”
+当被问及雅虎会向媒体公司还是技术公司方向发展时，梅耶尔表示，“这个问题问得不对。对我们来说，最重要的是为终端用户提供有价值的，令人兴奋、愉快的产品，吸引他们每天访问雅虎网站。”

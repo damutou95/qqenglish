@@ -1,0 +1,42 @@
+I can’t be the only person who needs fewer gadgets in his life.
+我肯定不是唯一一个希望生活中的设备能再少些的人。
+Over the last decade, my home has turned into an electrical outlet battle zone, with family members bouncing one another off the power grid so they can charge their Kindles, iPhones, Android phones, laptops, iPods, iPads, Bluetooth headsets and a flip phone or three.
+过去十年里，我家变成了电源插座的战场。为了给自己的Kindle、iPhone、Android手机、笔记本电脑、iPod、iPad、蓝牙耳机和两三部翻盖手机充电，家人们将彼此踢出电网。
+Some ingenious 14-year-old will soon make a fortune designing a tabletop nuclear reactor with a USB port, or maybe a powerstrip the size of a Cadillac Escalade.
+很快就会有某个别出心裁的14岁少年因设计了一台带USB端口的台式核反应堆，或是一个凯迪拉克(Cadillac)越野车大小的插线板而一夜暴富。
+Until then, I will put a fat checkmark next to tech items that let me move one step closer to single-outlet nirvana. Actually, the first such device just hit my hands, and if my eyes did not deceive me, this baby did not come from the Company That Invents Products You Didn’t Know You Needed, otherwise known as Apple.
+在那之前，任何科技设备，只要能帮我向着单一插座的极乐世界迈进一步，我都会对它大加肯定。事实上，我手上刚拿到了第一款这样的设备，而且，如果眼睛没有欺骗我的话，这台问世不久的设备不是来自那个“发明你不知道自己会需要的产品的公司”，也就是苹果(Apple)。
+Instead, it came from Microsoft. The device is the Surface 2 ($450 for the 32-gigabyte version), a tablet/laptop hybrid that, unlike its predecessor and competitors, may put a dent in the demand for powerstrips in my house.
+相反，这台设备出自微软(Microsoft)。它就是Surface 2（32G版售价450美元[约合2700元人民币]）。不同于上一代产品和竞争对手，集平板与笔记本为一身的Surface 2可能会降低我家里对插线板的需求。
+Apps remain an open question, but good Microsoft mobile hardware finally arrived this year, with the release in October 2012 of the Surface and last February of the Surface Pro. These are tablets that can double as laptops because of a beautifully designed kickstand and a detachable keyboard (the Type Cover, $130). Put another way, these were entertainment machines that could double as workhorses. The Surface runs the company’s basic level software for desktops, laptops and other devices, Windows RT (version 8.1), while the Surface Pro runs Windows Pro (version 8.1).
+应用的问题仍有待解决，但微软终于在今年推出了不错的移动硬件设备。之前，微软分别在2012年10月和今年2月发布了Surface和Surface Pro。因为有设计优美的支架和可拆键盘，这些都是能兼作笔记本用的平板（Type Cover键盘售价130美元）。换句话说，它们既是娱乐设备，也是工作设备。Surface运行的是微软台式机、笔记本和其他设备的基础系统，即Windows RT（8.1版本），而Surface Pro运行的则是Windows Pro（8.1版本）。
+The upsides were significant. Here, at last, were Windows machines that let users experience the company’s mobile and desktop software in one device, with a nifty interface, and, most notably, the Type Cover, which enabled a seamless transition between tablet and laptop. (The Type Cover’s less versatile sibling, the Touch Cover, sells for $80.)
+优点很显著。现在至少有了可以让用户在一台设备上体验移动和台式电脑软件的Windows产品，界面优美，而且最显著的是，Type Cover能实现平板和笔记本之间的无缝连接。（稍逊于Type Cover的同类产品Touch Cover售价80美元。）
+The downsides, sadly, were also significant. Among them: a rigidly designed stand, a battery with a short life — someone get me the powerstrip! — and, on the base Surface version, the omission of Outlook, the popular email and scheduling program.
+遗憾的是，缺点同样也很显著，其中包括：支架设计刻板，电池寿命短——谁给我拿一下插线板！——而且在基本款的Surface上，颇受欢迎的电子邮件和日程安排程序Outlook没有了。
+But the second version of the Surface, which went on sale in late October, most of those downers have been addressed. The new Surface includes Outlook, an upgraded battery, a kickstand with two viewing angles instead of just one and faster USB ports, and other goodies.
+不过，在10月末发售的第二版Surface上，这些令人沮丧的问题大多都得到了解决。新版Surface重新加进了Outlook程序，升级了电池，支架的角度从原来的一个变成了两个，USB端口速度更快，而且还有其他一些优点。
+It has roughly the same thickness and weight as the iPad — it weighs 1.5 pounds without the cover — and the overall screen size is 10.6 inches, giving it slightly more viewing space. With a Type Cover, it feels similar in your hands to an iPad with a cover. In all, the device falls nicely below the “bulky” threshold.
+第二版Surface在厚度和重量上和iPad大致相当——不加保护套的重量是1.5磅（680克）——10.6英寸的整体屏幕让它的观看空间略有增加。连上Type Cover后，它在手里的感觉和加了一个保护盖的iPad差不多。总的来说，这款设备完美地脱离了“大块头”的行列。
+The company says the battery lasts up to 10 hours, two hours more than the previous version. I tested it by streaming video with the screen at full brightness and had power for 8.5 hours.
+微软称电池的使用时间最高可达10小时，比之前那一版多了两个小时。我测试了一下，在将屏幕亮度调到最大的情况下播放流视频，电池工作了8.5小时。
+Why buy the Surface 2 instead of the Surface Pro 2? The Surface Pro 2 is a $900 machine, not including the $130 keyboard, and at that price the detachable tablet would have to provide a great all-around experience to justify the cost. While the Pro has an excellent high-definition screen (1080p) and a feather-light feel, you can get better apps — and many more of them designed for a mobile experience — on Apple and Android devices. (Disclosure: I co-created an iPad app.)
+为什么要买Surface 2而不是Surface Pro 2呢？Surface Pro 2售价900美元，不包括130美元的键盘，在这样的价位上，这台可分拆的平板电脑必须得在各方面提供极佳的使用体验，才能和价钱相称。Pro有一块优秀的高分辨率屏幕（1080p），拿起来感觉很轻盈，但应用的品质不及苹果和Android的设备，毕竟这两款设备上的很多应用是针对移动体验进行设计的。（披露一点：我和人一起开发了一款iPad应用。）
+The value proposition of the base Surface 2 seems about right. For around the price of an iPad, you get a tablet that’s great for watching movies, checking email, browsing the web and using most of the basic apps you’ll need.
+基本配置的Surface 2在性价比上似乎是个正确的选择。用差不多一台iPad的价钱买到这样一台很好的平板电脑，用来看电影、收发邮件、上网，还有其他多数所需的基本应用。
+The selection of apps still is not what you’ll find for Android or Apple devices, but basic apps like Facebook, Twitter, Flipboard and Slacker are there, as are many games, including popular Xbox titles. Strangely, games like Angry Birds Space and Angry Birds Star Wars cost $3.50, while they’re free on Apple and Android. And that premium price for apps isn’t limited to the Angry Birds franchise, so if apps and games are your thing, and you’ve spent time on other mobile platforms, prepare for an occasional case of sticker shock.
+可选的应用依然不如在Android或苹果设备上那么多，但Facebook、Twitter、Flipboard和Slacker这样的基本应用还是有的，还有很多游戏，包括一些热门的Xbox游戏。奇怪的是像“愤怒的小鸟太空版”(Angry Birds Space)和“愤怒的小鸟星战版”(Angry Birds Star Wars)这种游戏要卖3.5美元，在苹果和Android设备上却是免费的。这种溢价出售的应用不仅限于“愤怒的小鸟”系列，如果你对应用和游戏很留意，然后在其他移动平台上有很多经验，那么做好心理准备，可能会被一些价签吓到。
+But still. The Surface is a bargain machine that packs a tremendous amount of value for the price. The software sparkles with thoughtful and innovative touches that will most likely find their way to competing platforms. When a website or page includes information that spills over onto another page, for instance, part of that page peeks out at you as you browse, so you know it’s only a swipe away.
+不过，Surface依然是一台很实惠的机器，这样的价钱能换来这么多有价值的东西。软件中时常可见一些贴心的、有新意的处理，相信有一天会在竞争对手的平台上出现。比如在浏览一个网站或页面时，如果信息太多无法在同一页内显示，那么另一页的内容在你浏览的时候会露个头，这样你就知道只需一扫就能看到它。
+You can toggle between the traditional Windows interface and the mobile interface by just tapping the home button. And if you want to devote a small portion of your screen to one thing — say, your Twitter feed — while using the rest for another app, the software lets you do that easily.
+只需按一下主屏按钮，你就可以在传统的Windows界面和移动界面之间切换。如果你想指定屏幕的某一小块区域用于做某件事——比如显示你的Twitter信息源——其他地方放另一个应用，通过它的软件可以很简便地做到。
+I found the touchpad on the Type Cover less responsive than the touchpads found on laptops, but then I realized: Who needs one when you can swipe and tap the screen?
+我发现在Type Cover上的触控板不如笔记本电脑上的触控板那么灵敏，但是我转念一想：既然可以在屏幕上直接划扫，为什么还要触控板呢？
+As one might expect from any successful device birthed in the Windows realm, competitors have quickly emerged. There are more than a dozen Windows tablets with keyboard attachments on Microsoft’s online store. (The company refers to these devices as 2-in-1 PCs.)
+每当Windows王国里出现一款成功的设备，我们都能想到很快会有竞争对手出现。在微软的网络商店里已经有十多款配有可装卸键盘的Windows平板电脑。（微软称这些设备叫二合一电脑。）
+So if the Surface doesn’t quite fit your needs, cast about. Nokia’s new Lumia 2520, for instance, offers a cellular connection. It’s available for $400 with a two-year contract on Verizon or AT&T. But the Nokia Power Keyboard attachment ($150) is not included, and even if it were, it’s not nearly as good as Microsoft’s Type Cover. Among other things, the keyboard is thicker, and I found it harder to type on.
+所以，如果Surface不太符合你的需求，看看别的。比如诺基亚(Nokia)的新款Lumia 2520有蜂窝网络连接。在威瑞森(Verizon)或AT&T签两年合约加400美元可以买到。但这不包括诺基亚的Power Keyboard附件（150美元），就算包括在内，这种键盘也远不如微软的Type Cover好用。比如它要更厚一些，而且我发现在上面打字很困难。
+Perhaps competing manufacturers will catch up. Maybe Nokia, now that it is being bought by Microsoft, will build a better keypad.
+也许其他生产商能赶上来。也许现在已经被微软买下的诺基亚会造出更好的键盘。
+In the meantime, Microsoft gets to enjoy a first-out-of-the gate advantage in the category. Imagine that.
+与此同时，微软将得以享受这一门类先行者的优势。真难得。

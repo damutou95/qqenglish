@@ -1,0 +1,18 @@
+WASHINGTON — The Supreme Court on Monday blocked one of the Obama administration’s most ambitious environmental initiatives, one meant to limit emissions of mercury and other toxic pollutants from coal-fired power plants.
+华盛顿——美国最高法院周一推翻了奥巴马政府最雄心勃勃的环保措施之一，该措施旨在限制燃煤发电厂汞及其它有毒污染物的排放。
+Industry groups and some 20 states challenged the Environmental Protection Agency’s decision to regulate the emissions, saying the agency had failed to take into account the punishing costs its regulations would impose.
+行业团体及约20个州对美国环境保护局（Environment Protection Agency，简称EPA）控制排放的决定提出挑战，称该机构没有考虑其规则会带来的惩罚性成本。
+The Clean Air Act required the regulations to be “appropriate and necessary.” The challengers said the agency had run afoul of that law by deciding to regulate the emissions without first undertaking a cost-benefit analysis.
+《清洁空气法》(Clean Air Act)要求规则需是“适当和必要的”。挑战方认为，环保局在没有先做出成本效益分析的情况下，就决定控制排放，违反了法律。
+The agency responded that it was not required to take costs into account when it made the initial determination to regulate. But the agency added that it did so later in setting emissions standards and that, in any event, the benefits far outweighed the costs.
+环保局回应说，机构在做出要控制排放的初步决定时，无需考虑成本问题。但该机构补充说，在后来制定排放标准时考虑了成本，而且不论如何，收益都远远大于成本。
+The two sides had very different understandings of the costs and benefits involved. Industry groups said the government had imposed annual costs of $9.6 billion to achieve about $6 million in benefits. The agency said the costs yielded tens of billions of dollars in benefits.
+双方对所涉及的成本和收益有非常不同的理解。行业团体说，政府为得到约600万美元的收益，强加了每年高达96亿美元的成本。环保局则称，这些成本产生了数百亿美元的收益。
+The decision, Michigan v. Environmental Protection Agency, No. 14-46 was a setback for environmentalists.
+最高法院对14-46号案、密歇根州诉环境保护局(Michigan v. Environmental Protection Agency)的判决对环保人士来说是个挫折。
+In the term that ended in June 2014, the justices heard cases on two other sets of environmental regulations — one aimed at limiting power plant pollution that wafts across state lines, the other at cutting planet-warming greenhouse gas emissions. The E.P.A. won the first case and largely prevailed in the second, though the Supreme Court indicated that it remained prepared to impose limits on the agency’s regulatory authority.
+在2014年6月结束的最高法院开庭期里，大法官受理了有关其他两组环保规则的案件，一个旨在限制发电厂的污染跨州排放，另一个旨在减少导致地球变暖的温室气体的排放。环保局赢了第一个案子，并在第二个案子上取得了很大程度的胜利，虽然最高法院当时曾表示，它仍准备对环保局的控制权做出限制。
+Monday’s decision reversed one from the United States Court of Appeals for the District of Columbia Circuit, which ruled that the agency’s interpretation of the Clean Air Act was reasonable.
+最高法院周一的决定推翻了哥伦比亚特区联邦巡回上诉法院的判决，该判决裁定，环保局对《清洁空气法》的解释是合理的。
+“For E.P.A. to focus its ‘appropriate and necessary’ determination on factors relating to public health hazards, and not industry’s objections that emission controls are costly, properly puts the horse before the cart,” Judge Judith W. Rogers wrote for the majority.
+巡回法院法官朱迪斯·W·罗杰斯(Judith W. Rogers)代表多数派意见在判决书上写道，“EPA把其‘适当和必要的’注意力集中在与公众健康危害有关的因素上，而不是行业反对控制排放的理由、即控排成本高这个因素上，是合乎道理的做法。”

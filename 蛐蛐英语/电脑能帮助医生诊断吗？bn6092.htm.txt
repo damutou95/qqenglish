@@ -1,0 +1,70 @@
+SAN FRANCISCO — The man on stage had his audience of 600 mesmerized. Over the course of 45 minutes, the tension grew. Finally, the moment of truth arrived, and the room was silent with anticipation.
+旧金山——台上的这位男士俘获了台下600名观众的心。在这场45分钟的讲演中，台下的气氛变得越来越紧张。最终，就在答案即将揭晓的那一刻，房间变得鸦雀无声，观众们都在凝神期待着。
+At last he spoke. “Lymphoma with secondary hemophagocytic syndrome,” he said. The crowd erupted in applause.
+最后，台上的人发话了。他说，“淋巴瘤伴继发性噬血细胞综合征”。台下立刻掌声雷动。
+Professionals in every field revere their superstars, and in medicine the best diagnosticians are held in particularly high esteem. Dr. Gurpreet Dhaliwal, 39, a self-effacing associate professor of clinical medicine at the University of California, San Francisco, is considered one of the most skillful clinical diagnosticians in practice today.
+每个行业都有其所尊崇的泰斗级人物，在医学界，最高明的诊断专家尤为受尊敬。39岁的戈普瑞特·达利瓦博士(Gurpreet Dhaliwal)是加州大学旧金山分校(University of California, San Francisco)副教授，为人谦逊的他被认为是当今最娴熟的诊断专家之一。
+The case Dr. Dhaliwal was presented, at a medical  conference last year, began with information that could have described hundreds of diseases: the patient had intermittent fevers, joint pain, and weight and appetite loss.
+去年，达利瓦博士在医学大会上收到的这个病例的初始症状可以用来描述上千种疾病：病人间歇性发热、关节疼痛、体重减轻、没有胃口。
+To observe him at work is like watching Steven Spielberg tackle a script or Rory McIlroy a golf course. He was given new information bit by bit — lab, imaging and biopsy results. Over the course of the session, he drew on an encyclopedic familiarity with thousands of syndromes. He deftly dismissed red herrings while picking up on clues that others might ignore, gradually homing in on the accurate diagnosis.
+观察他的诊断过程无异于观看史蒂芬·斯皮尔伯格(Steven Spielberg)研判剧本或罗里·麦克罗伊(Rory McIlroy)参加高尔夫球赛。他逐渐得到了更多的新信息——化验、影像以及组织切片结果。在整个讲演过程中，他旁征博引了无数病症，巧妙地剔除了那些无关的结论，同时又不忘提及那些他人可能忽略的线索，并一步一步地向正确的诊断靠拢。
+Just how special is Dr. Dhaliwal’s talent? More to the point, what can he do that a computer cannot? Will a computer ever successfully stand in for a skill that is based not simply on a vast fund of knowledge but also on more intangible factors like intuition?
+达利瓦博士的天赋到底有多特别？更为重要的一点是，他能做的事计算机是否做不到？今后电脑是否能通过广博的知识库以及更为无形的因素，例如直觉，来获取这项技能，成功地取而代之？
+The history of computer-assisted diagnostics is long and rich. In the 1970s, researchers at the University of Pittsburgh developed software to diagnose complex problems in general internal medicine; the project eventually resulted in a commercial program called Quick Medical Reference. Since the 1980s, Massachusetts General Hospital has been developing and refining DXplain, a program that provides a ranked list of clinical diagnoses from a set of symptoms and laboratory data.
+计算机辅助诊断的历史是漫长而又丰富的。在上个世纪70年代，匹兹堡大学(University of Pittsburgh)的研究人员开发了用于诊断普内科复杂病症的软件；这个项目最终成为了一个名为“快捷医疗参考”(Quick Medical Reference)的商业项目。自上个世纪80年代以来，麻省总医院(Massachusetts General Hospital)一直在开发和完善DXplain项目，该项目可以根据一系列症状和实验室数据提供一个诊断排序表。
+And I.B.M., on the heels of its triumph last year with Watson, the Jeopardy-playing computer, is working on Watson for Healthcare.
+去年，IBM的电脑沃森(Watson)在《危险边缘》(Jeopardy)知识竞赛栏目中获胜，之后，该公司开始研发电脑“医用沃森”(Watson for Healthcare)。
+In some ways, Dr. Dhaliwal’s diagnostic method is similar to that of another I.B.M. project: the Deep Blue chess program, which in 1996 trounced Garry Kasparov, the world’s best player at the time, to claim an unambiguous victory in the computer’s relentless march into the human domain.
+在某些方面，达利瓦博士的诊断方式与IBM的另一个项目很类似，即国际象棋电脑深蓝(Deep Blue)。这台电脑曾于1996年打败了当时世界头号选手加里·卡斯帕罗夫(Garry Kasparov)，是电脑不断向人类领域迈进的一次不争的胜利。
+Although lacking consciousness and a human’s intuition, Deep Blue had millions of moves memorized and could analyze as many each second. Dr. Dhaliwal does the diagnostic equivalent, though at human speed.
+虽然缺乏知觉和人类的直觉，但深蓝记住了上亿步棋，并能在每秒钟运算上亿次。而达利瓦博士在诊断时用的是同样的方式，只不过是以人脑的速度运算。
+Since medical school, he has been an insatiable reader of case reports in medical journals, and case conferences from other hospitals. At work he occasionally uses a diagnostic checklist program called Isabel, just to make certain he hasn’t forgotten something. But the program has yet to offer a diagnosis that Dr. Dhaliwal missed.
+从医学院开始，他便成为了医学杂志病例报告的狂热读者，并经常参加其他医院的病例会诊。在工作当中，他有时会使用名为Isabel的诊断查漏软件，为的是确保不会出现漏诊的情况。但是到目前为止，这个软件还没有列出过达利瓦未能察觉的诊断。
+Dr. Dhaliwal regularly receives cases from physicians who are stumped by a set of symptoms. At medical conferences, he is presented with one vexingly difficult case and is given 45 minutes to solve it. It is a medical high-wire act; doctors in the audience squirm as the set of facts gets more obscure and all the diagnoses they were considering are ruled out. After absorbing and processing scores of details, Dr. Dhaliwal must commit to a diagnosis. More often than not, he is right.
+达利瓦博士会经常收到其他医师无法解决的疑难病症病例。在医学会议上，有人向他提交了一个异常复杂的病例，并给他45分钟的时间来做出诊断。这无异于医学界的高空走钢丝；观众席里的医生们纷纷面露难色，因为一系列情况变得越来越不明了，而且他们所能想到的所有诊断都被推翻了。在消化和处理了诸多细节之后，达利瓦必须做出诊断。跟往常一样，他的诊断是正确的。
+When working on a difficult case in front of an audience, Dr. Dhaliwal puts his entire thought process on display, with the goal of “elevating the stature of thinking,” he said. He believes this is becoming more important because physicians are being assessed on whether they gave the right medicine to a patient, or remembered to order a certain test.
+当在观众面前解决疑难病例时，达利瓦博士会演示他的整个思考过程，按他的话来说，目的是“提升思考的高度”。他认为这一点变得越来越重要，因为人们会以开药的对错或是否曾要求病人做必要的测试来评价医师。
+Without such emphasis, physicians and training programs might forget the importance of having smart, thoughtful doctors. “Because in medicine,” Dr. Dhaliwal said, “thinking is our most important procedure.”
+离开这个侧重点，医师和培训计划可能会将拥有医术高明、思考周全的医生的重要性抛之脑后。达利瓦博士说：“因为在医学界，思考是医生做诊断时最重要的步骤。”
+He added: “Getting better at diagnosis isn’t about figuring out if someone has one rare disease versus another. Getting better at diagnosis is as important to patient quality and safety as reducing medication errors, or eliminating wrong site surgery.”
+他还说：“提高诊断水平并不在于发现别的医生没有发现的罕见疾病。提高诊断水平对于病人的生活质量和安全是非常重要的，同样，它对于减少用药错误或杜绝错误部位手术也有着重大意义。”
+Clinical Precision
+临床精度
+Dr. Dhaliwal does half his clinical work on the wards of the San Francisco V. A. Medical Center, and the other half in its emergency department, where he often puzzles through multiple mysteries at a time.
+临床工作期间，达利瓦博士一半时间会呆在旧金山V. A.医疗中心的住院部，另一半时间在该医院的急诊室。在这家医院，他经常在同一时间解决多个难题。
+One recent afternoon in the E.R., he was treating a 66-year-old man who was mentally unstable and uncooperative. He complained of hip pain, but routine lab work revealed that his kidneys weren’t working and his potassium was rising to a dangerous level, putting him in danger of an arrhythmia that could kill him — perhaps within hours. An ultrasound showed that his bladder was blocked.
+最近一天下午，他在急诊室治疗一位66岁的老先生，病人的情绪不稳定，不是很合作。这位老先生说他髋部疼，而常规化验显示他的肾功能衰竭，而且血钾含量已升至危险水平，病人可能会在几小时之内因心率失常而丧命。超声检测显示他的膀胱被堵塞了。
+There was work to be done: drain the bladder, correct the potassium level. It would have been easy to dismiss the hip pain as a distraction; it didn’t easily fit the picture. But Dr. Dhaliwal’s instinct is to hew to the ancient rule that physicians should try to come to a unifying diagnosis. In the end, everything — including the hip pain — was traced to metastatic prostate cancer.
+需要做的工作就是：排空膀胱中的尿液，纠正钾水平。人们往往很容易把髋部疼痛当作干扰因素而加以忽略；因为这和整体情况并不是很一致。但是一直以来达利瓦博士所崇尚的一条古老的准则就是，医师应该争取做出一个统一的诊断。最终，所有的症状——包括髋部疼痛——指向了转移性前列腺癌。
+“Things can shift very quickly in the emergency room,” Dr. Dhaliwal said. “One challenge of this, whether you use a computer or your brain, is deciding what’s signal and what’s noise.” Much of the time, it is his intuition that helps figure out which is which.
+达利瓦说：“急诊室里的情况瞬息万变。不管你是使用电脑还是大脑，其中的一个难题在于辨别哪些是有用的信息，哪些是干扰。”多数时候，他的直觉帮助他将两者分辨开来。
+An expert clinical diagnostician like Dr. Dhaliwal might make a decision without being able to explain exactly what is going on in the back of his mind, as his subconscious continuously sifts the wheat from the chaff.
+像达利瓦博士这样的临床诊断专家在做诊断的时候，可能难以解释他是如何思考的，因为他的潜意识在不断地进行着筛选和甄别。
+While computers are good at crunching numbers, people are naturally good at matching patterns. To make a decision, physicians must combine logic and knowledge with their pattern-matching instincts.
+电脑善于计算，而人类天生擅长类比。在做诊断的时候，医师必须将逻辑、知识和类比本能结合在一起。
+Isabel, the diagnostic program that Dr. Dhaliwal sometimes uses, was created by Jason Maude, a former money manager in London, who named it for his daughter. At age 3, Isabel came down with chickenpox and doctors failed to spot a far more dangerous complication — necrotizing fasciitis, a flesh-eating infection. By the time the disease was identified, Isabel had lost so much flesh that at age 17she is still having plastic surgery.
+达利瓦博士有时会用到的诊断软件Isabel的开发人是杰森·莫德(Jason Maude)。他曾是伦敦的理财经理，软件是以她女儿的名字命名的。在3岁的时候，Isabel因为水痘而病倒了，但是医生未能察觉远比水痘危险的并发症——坏死性筋膜炎(necrotizing fasciitis)，一种侵蚀肌肉组织的感染。在发现这个病情之时，Isabel已经失去了大量的肌肉组织，以至于在17岁的时候，她仍在接受整型手术。
+Mr. Maude said that while someone like Dr. Dhaliwal would probably have thought of necrotizing fasciitis, his daughter’s doctors were so stuck in what is called anchoring bias — in this case, Isabel’s simple chickenpox — they couldn’t see beyond it.
+莫德说，虽然像达利瓦博士这样的医生可能会想到坏死性筋膜炎，但是他女儿的医生却固执于所谓的“锚定偏见”——也就是这一案例中Isabel只是患有简单的水痘——他们没能跳出这一范畴。
+Had they entered her symptoms — high fever, vomiting, skin rash — into a diagnostic program, Mr. Maude said, the problem would probably have been identified.
+莫德说，如果他们把她的症状——高烧、呕吐、皮疹——输入诊断软件，这种病可能就会被识别出来。
+Thousands of diseases are known, and many are rare. “Low-frequency events are hard to put on the brain’s palette, and that’s part of Isabel’s strength,” Mr. Maude said. “It’s impossible for any one person to remember how each of those diseases presents, because each presents with a different pattern.”
+目前已知的病有上万种，而且很多都是罕见的。莫德说：“大脑很难对低概率事件有深刻的印象，而这是Isabel的强项之一。单凭一人要记住所有疾病的症状是不可能的，因为每一种疾病都有各自不同的发病模式。”
+He added that Isabel was aimed not so much at the Dr. Dhaliwals of the world, but at more typical physicians.
+他还说，Isabel针对的并不是像达利瓦博士这样的医生，而是世界各地更为普通的医师。
+Dr. David J. Brailer, chief executive of Health Evolution Partners, which invests in health care companies, agreed. “If everyone was a diagnostic genius, we wouldn’t need these decision support tools,” he said.
+从事医疗公司投资的健康进化伙伴公司(Health Evolution Partners)首席执行官大卫·布雷勒博士(Dr. David J. Brailer)也同意这一观点，他说，“如果每个医生都是诊断高手，那么我们就不需要这些决策支持工具了。”
+Diagnostic mistakes account for about 15 percent of errors that result in harm to patients, according to the Institute of Medicine. Yet diagnostic software has been slow to make its way into clinical settings, and Dr. Dhaliwal, who uses Isabel as a “second check,” said he could understand why.
+医学研究所(Institute of Medicine)指出，在造成病人伤害的医疗过失中，误诊占15%。然而诊断软件进军临床的进度一直十分缓慢。使用Isabel作为“复查”手段的达利瓦博士说他能理解个中缘由。
+Not only is it hard to integrate software into an already busy daily work flow, he said, but “most of us don’t think we need help at diagnosis, especially with routine cases, which account for the majority of our work.”
+他说，在日常已然十分繁忙的工作中整合软件诊断是十分困难的，而且，“大多数医生认为自己在进行诊断的时候并不需要帮助，尤其是那些常规病例，因为这些病例占据了医生大多数的工作量。”
+Mimicking Human Analysis
+模拟人脑分析
+I.B.M.’s Watson for Healthcare has yet to focus directly on diagnosis. The company is working with Memorial Sloan-Kettering Cancer Center to teach Watson to interpret clinical information and, eventually, help determine treatment. I.B.M. also recently began a collaboration with Cleveland Clinic to broaden Watson’s analytical capabilities into the area of medicine.
+IBM的“医用沃森”并未直接针对诊断。该公司正与纪念斯隆-凯特琳癌症中心(Memorial Sloan-Kettering Cancer Center)合作来教授沃森理解临床信息并最终帮助制定治疗方针。IBM还于最近与克利夫兰诊所(Cleveland Clinic)开展合作，以拓宽沃森在医学领域的分析能力。
+Dr. Martin Kohn, chief medical scientist for I.B.M. Research, is careful to point out that Watson for Healthcare is intended to be “neither omniscient nor omnipotent.” Yet, Dr. Kohn noted, most physicians set aside five hours or less each month to read medical literature, while Watson can analyze the equivalent of thousands of textbooks every second. The program relies heavily on natural language processing. It can understand the nature of a question and review large amounts of information, such as a patient’s electronic medical record, textbooks and journal articles, then offer a list of suggestions with a confidence level assigned to each.
+IBM研究首席医疗科学家马丁·科恩博士(Dr. Martin Kohn)谨慎地指出，医用沃森并不会成为“无所不知、无所不能”的设备。然而，科恩博士注意到，大多数医师每个月用于阅读医学文献的时间只有5个小时或者更少，然而沃森每秒分析的数据可以涵盖上万本教科书。这一软件十分依赖于自然语言的处理。它能理解问题的性质，并查阅大量的信息，例如病人的电子医疗记录、教科书和医学期刊文章，然后提供一个建议列表，每项建议后面都会标注可信级别。
+For physicians, Dr. Kohn said, one problem is what he calls “the law of availability.”
+科恩博士说，医师所面临的一个问题用他的话来说，就是“可用性法则。”
+“You aren’t going to put anything on a list that you don’t think is relevant, or didn’t know to think of,” he said. “And that could limit your chances of getting a correct diagnosis.”
+他说，“人们不会把他们认为毫无关联的事物或想象不到的事物列出来，而这可能会限制医生做出正确诊断的机会。”

@@ -1,0 +1,54 @@
+SAN FRANCISCO — When Marissa Mayer, Yahoo’s chief executive, recently announced the company’s biggest security overhaul in more than a decade, she did not exactly receive a standing ovation.
+旧金山——不久前，当雅虎(Yahoo)首席执行官玛丽莎·梅耶尔(Marissa Mayer)宣布该公司将进行十几年来最大的安全改进时，她并没有赢得太大的掌声。
+Ordinary users asked Ms. Mayer why Yahoo was not doing more. Privacy activists were more blunt. “Even after today’s announcement, Yahoo still lags far behind Google on web security,” said Christopher Soghoian, a technology analyst at the American Civil Liberties Union.
+普通用户问梅耶尔，为什么雅虎没有做更多的改进。隐私维权者则更加直白。“即使今天宣布了这则消息，雅虎在网络方安全方面仍然远远落后于谷歌。”美国公民自由联盟(American Civil Liberties Union)的技术分析师克里斯托弗·索戈延(Christopher Soghoian)说。
+For big Internet outfits, it is no longer enough to have a fast-loading smartphone app or cool messaging service. In the era of Edward J. Snowden and his revelations of mass government surveillance, companies are competing to show users how well their data is protected from prying eyes, with billions of dollars in revenue hanging in the balance.
+对于大型互联网公司来说，拥有快速加载的智能手机应用和炫酷的通讯工具已经不够了。在爱德华·J·斯诺登(Edward J. Snowden)时代，在他揭露了政府大规模的监视项目之后，互联网公司正在争相向用户展示，他们的数据受到了良好的反监控保护，因为这会影响数十亿美元的营收。
+On Thursday, Microsoft will be the latest technology company to announce plans to shield its services from outside surveillance. It is in the process of adding state-of-the-art encryption features to various consumer services and internally at its data centers.
+周四，微软(Microsoft)将成为最新一家宣布计划，保护其服务免受外部监视威胁的科技公司。该公司正在把最先进的加密功能应用到各种客户服务及内部数据中心上。
+The announcement follows similar efforts by Google, Mozilla, Twitter, Facebook and Yahoo in what has effectively become a digital arms race with the National Security Agency as the companies react to what some have called the “Snowden Effect.”
+谷歌、Mozilla、Twitter、Facebook和雅虎已经在微软之前宣布了类似的举措，随着各家公司对一些人所说的“斯诺登效应”做出回应，这实际上已经变成了它们与美国国家安全局（National Security Agency，简称NSA）之间进行的一场数字军备竞赛。
+While security has long simmered as a concern for users, many companies were reluctant to employ modern protections, worried that upgrades would slow down connections and add complexity to their networks.
+虽然安全性长期以来都是用户关心的一个问题，且在不断激化，但很多公司过去都不太愿意使用最先进的保护措施，担心升级会减慢连接速度，并让自己的网络变得更复杂。
+But the issue boiled over six months ago, when documents leaked by Mr. Snowden described efforts by the N.S.A. and its intelligence partners to spy on millions of Internet users. More than half of Americans surveyed say N.S.A. surveillance has intruded on their personal privacy rights, according to a Washington Post-ABC News poll conducted in November.
+但是半年前，当斯诺登泄漏的文件曝光了NSA及其情报合作伙伴窥探数以百万计互联网用户的项目时，这个问题爆发了。《华盛顿邮报》(Washington Post)和ABC新闻频道11月进行的一项调查显示，在参与调查的美国人中，有超过一半的人认为NSA的监视活动已经侵犯了他们的个人隐私权。
+The revelations also shook Internet companies, which have been trying to reassure customers that they are doing what they can to protect their data from spying. They have long complied with legal orders to hand over information, but were alarmed by more recent news that the N.S.A. was also accessing their data without their knowledge.
+这件事也令互联网公司受到震动，它们一直向用户保证，正在尽最大努力保护用户信息不受监视。这些公司长期以来都遵循法院指令提交相关资料，但当不久前听说，NSA也在它们不知情的状况下访问其数据时，它们感到十分震惊。
+“We want to ensure that governments use legal process rather than technological brute force to obtain customer data — it’s as simple as that,” said Bradford L. Smith, Microsoft’s general counsel, in an interview.
+“我们希望确保，各国政府运用法律程序，而不是技术上的蛮力，来获得用户数据——就是这么简单。”微软的法律总顾问布拉德福德·L·史密斯(Bradford L. Smith)在接受采访时说。
+Mr. Smith said his company would also open “transparency centers” where foreign governments can inspect the company’s code in an effort to assure them that it does not plant back doors for spy agencies in its products.
+史密斯说，微软还将推出“透明度中心”，外国政府可以在那里检视该公司的代码，微软这样做是为了让他们放心：该公司没有在产品中为间谍机构植入后门。
+Already, the Snowden revelations threaten to erode the market share of American technology companies abroad.
+斯诺登的泄密行为已经威胁到了美国科技公司的海外市场份额。
+In India, government officials are now barred from using email services that have servers located in the United States. In Brazil, lawmakers are pushing for laws that would force foreign companies to spend billions redesigning their systems — and possibly the entire Internet — to keep Brazilian data from leaving the country.
+印度禁止政府官员使用服务器在美国的电子邮件服务。巴西国会议员正在推动的一些法律将迫使外国公司花费数十亿资金重新设计它们的系统——也许是整个互联网——以免巴西人的数据流到国外。
+Forrester Research projected the fallout could cost the so-called cloud computing industry as much as $180 billion — a quarter of its revenue — by 2016.
+弗雷斯特研究公司(Forrester Research)预计，这将会造成云计算产业到2016年损失高达1800亿美元（约合1.1万亿元人民币），这相当于它四分之一的营收。
+“The world is quickly being divided into companies that are secure and companies that are not,” said Bhaskar Chakravorti, a dean of international business and finance at the Fletcher School at Tufts University.
+“世界正在迅速地被划分为安全的公司和不安全的公司。”塔夫茨大学(Tufts University)弗莱彻学院(Fletcher School)国际商业和金融主任巴斯卡·查克拉沃提(Bhaskar Chakravorti)说。
+One by one, technology companies have been scrambling to plug security holes.
+一个接一个地，科技公司正在争先恐后地堵塞安全漏洞。
+The best defense, security experts say, is using Transport Layer Security, a type of encryption familiar to many through the “https” and padlock symbol at the beginning of Web addresses that use the technology. It uses a long sequence of numbers — a master key — that scrambles sensitive data like passwords, credit card details, intellectual property and personal information between a user and a website while in transit.
+安全专家表示，最好的防御是使用安全传输层协议（Transport Layer Security，即TLS），很多人是通过使用这种技术的网址开头的“https”和挂锁图标了解到它的。它用一个长的数字序列，即主密钥，将在用户和网站之间传输的密码、信用卡信息、知识产权和个人信息等敏感数据进行打乱加密。
+Banks and other financial sites have used such security for years, and Google and Twitter along with Microsoft’s email service made it standard long ago. Facebook adopted https systemwide this year. And Ms. Mayer said Yahoo would finally allow consumers to encrypt all their Yahoo data in January.
+银行和其他金融站点使用这个安全标准已经有些年头了，谷歌、Twitter以及微软的电邮服务很早之前就使其成为了标准。Facebook今年也在整个系统中采用了https。梅耶尔说，到明年1月，用户们将终于能够加密所有的雅虎数据了。
+But as many sites move to https, security experts say more advanced security measures are needed. If a government can crack the master key — or obtain it through court orders — it could go back and decrypt past communications for millions of users.
+但在很多站点采用https的同时，安全专家却表示，公司需要采取更加先进的安全措施。如果政府可以破解主密钥——或者通过法庭命令获得它——那它就可以破解数百万用户以前的通信。
+That’s why companies like Google, Mozilla, Facebook and Twitter have added another layer of protection, called Perfect Forward Secrecy. That technology adds a second lock to each user’s transmissions, with the key changed frequently. Microsoft plans to add the encryption method next year, but Yahoo has not said whether it will add it.
+这也是为什么谷歌、Mozilla、Facebook和Twitter等公司添加了另一层保护的原因，这被称为“完全向前保密”(Perfect Forward Secrecy)技术。该技术给每位用户的信息传输加上了第二把锁，钥匙会频繁更换。微软计划于明年添加这种加密技术，不过雅虎还未表示，是否会采用这种手段。
+“Perfect Forward Secrecy is a billion different secrets, and it’s not protected by one central secret,” said Scott Renfro, a Facebook software engineer who works on the company’s security infrastructure.
+在Facebook负责安全基础设施的软件工程师斯科特·伦弗罗(Scott Renfro)说，“完全向前保密技术包含几十亿个不同的密钥，它不是只受某一个核心密钥的保护。”
+So even if an outsider obtained the master key, it would still have to crack the other keys, over and over again.
+所以，即使是入侵者得到了主密钥，他依然得一次又一次地破解其他密钥。
+“This type of protection should have been engineered into all web systems and all Internet systems to begin with,” said Jacob Hoffman-Andrews, an engineer at Twitter.
+Twitter的工程师雅各布·霍夫曼-安德鲁斯(Jacob Hoffman-Andrews)说，“所有的网络系统和互联网系统一开始就应该加入这种保护设计。”
+The technology has existed for two decades, but companies were slow to adopt it because it added complexity and introduced a delay to Internet transactions, which can encourage impatient users to flee for faster sites. But many of those issues were resolved by Google when it applied Perfect Forward Secrecy in 2011, said Adam Langley, a software engineer at the company. Google shared its improvements with the broader tech community.
+这项技术已经存在了20年，不过公司对它的反应并不积极，因为它增加了复杂性，也使得互联网数据处理延迟，这可能会让急性子的用户转投速度更快的站点。不过，谷歌软件工程师亚当·兰利(Adam Langley)说，谷歌在2011年应用完全向前保密技术时，解决了其中的许多问题。谷歌在科技界里分享了这种改进。
+Still, technical solutions can be trumped by law. While https and Perfect Forward Secrecy protect the data transmission, law enforcement agencies can still compel companies to hand the data over from their servers, where it is stored.
+尽管如此，技术方案依然可能被法律打败。虽然https和完全向前保密技术能保护数据的传输，但执法机构依然能够强迫公司交出服务器中存储的数据。
+So Internet companies are trying to ensure they are at least blocking unauthorized access by addressing other security issues, including a hole that leaves users vulnerable at the very beginning of a site visit. When users want to log into, say, Google’s Gmail, their Internet browser checks the site’s security certificate to make sure it’s not an impostor.
+所以，互联网公司正在设法保证自己至少能通过解决其他安全问题来阻止未获授权的侵入，这些安全问题包括一个漏洞，会让用户从访问网站的那一刻起就容易受到攻击。比如说，当用户想登录谷歌的Gmail邮箱时，他们的网络浏览器会检查网站的安全证书，以确保登录的不是假冒的Gmail网站。
+Some security experts believe that hackers are nearly capable of cracking the 1024-bit encryption keys that protect the certificates. But an industry standards group is requiring that, starting next year, all new and renewed certificate keys use 2048-bit encryption, which is far more difficult to break.
+一些安全专家认为，黑客差不多能够破解保护证书的1024位密钥。不过，一个行业标准组织正在提出，自明年开始，所有的新证书和更新证书都要使用2048位密钥，这种密钥要更难破解得多。
+Ultimately, however, every security advance is met by new threats. “Attacks don’t get worse,” Mr. Langley said. “They only get better.”
+然而说到底，每一次的安全进步都会再遭遇新威胁。兰利说，“攻击不会变得更糟。它们只会变强。”

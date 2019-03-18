@@ -1,0 +1,54 @@
+The robots are coming. Every week, it seems, announcements hail a coming era of personal robots: machines that will ingratiate themselves into our homes by liberating us from despised chores like folding fitted sheets.
+机器人来了。似乎每个星期都有大量消息预示着个人机器人时代的到来：这些机器将大受欢迎，进入我们的家中，把我们从叠床单这种烦人的家务中解放出来。
+Vacuuming is one of those chores. And for that, help is already here in the Roomba by iRobot.
+吸尘就是这样一种家务。现在，在这件事情上，iRobot公司的Roomba已经能帮上忙。
+More than 10 years ago, I bought the first-generation version of the Roomba, intrigued by the algorithm that sent it scooting automatically around the room, entertaining my cat along the way. But the vacuum didn’t clean very well, and when the battery no longer held a charge, the expensive cat toy found its way down to the basement where I imagine it still sits.
+10多年前，我买了第一代的Roomba，让Roomba在房间里自动穿梭的技术令我着迷，另外，我也想顺便用它来娱乐我的猫。但它的吸尘效果并不是很好，当电池无法充电之后，这个价格不菲的猫玩具被遗忘在了地下室。我猜想它现在仍在那里。
+The latest Roomba, the 880, will probably not share that fate. The machine, which has the same hockey-puck profile of the earliest Roombas, not only cleans floors as well as an upright or canister vacuum cleaner, it may actually do a superior job on pet hair.
+最新的Roomba880可能不会是这个下场。这款机器有和早期的Roomba一样的冰球形机身，清洁地板的效果堪比直立或罐式真空吸尘器，不仅如此，它在清洁动物毛发方面堪称表现出众。
+The algorithm still sends the robot careening around a room in what seems like a random pattern. When it comes across a bit of dirt, the little machine focuses on the spot, twirling around in a spiral until it licks the problem.
+这个型号的机器人仍然会在房间里转来转去，路线毫无章法。但是如果遇到了一块污垢，这个小机器就会集中于这一点，呈螺旋形转动，直到把污垢清除。
+A little spinning brush under the Roomba whisks the dirt into two rotors that never seem to get tangled with hair and string, unlike many of the most expensive vacuum cleaners. (The trick? No bristles on the rotors.)
+Roomba底部的一个小滚刷可以把灰尘扫进两个转子之间，而且这两个转子似乎永远不会被头发和线头缠住，许多昂贵的真空吸尘器都做不到这一点。（秘密何在？因为转子里没有刷毛。）
+The machine signals when the dirt bin is full, and when I was alerted I found a large clump of cat hair and dirt inside. Very satisfying.
+当集尘盒满了之后，机器会发出提醒，我接到提醒后发现，里面有一大团猫毛和灰尘。我非常满足。
+The Roomba emits a pleasant hum, not the high-pitched whine of most vacuums. Aside from it gently thumping into table legs and walls, you get used to it working in the background as you go about more important tasks.
+Roomba会发出一种悦耳的嗡嗡声，不像大多数吸尘器的那种刺耳的声响。在你做更重要的事时，你完全可以习惯它工作的声音，除非它轻轻地撞击到了桌子腿或墙壁。
+And like the previous generations of Roombas, you don’t need to worry about it crashing down stairs. Sensors stop it from going over the edge.
+就像之前几代的Roomba一样，你不需要担心它从楼梯上掉下去，因为它配备了有防止跌落功能的感应器。
+The machine comes with two pillars that block off portions of the room that you don’t want cleaned. The pillars shoot off an infrared beam that acts as a fence, maybe to wall off a precious vase or the pet bowls on the floor.
+这个机器配有两个灯塔箱，可以把你不想清扫的区域隔出来。这两个灯塔箱可以发射红外射线，其功能如同防护栏，可以保护一个珍贵的花瓶，或是地板上的宠物碗。
+In my experience, the Roomba never grabbed carpet tassels, which can’t be said of many regular vacuum cleaners I’ve tried. (The iRobot engineers added what they call “anti-tassel mode,” by making the rotors momentarily go in reverse if it detects a cord or carpet fringe.) And at 3.6 inches high, the machine can slip under most furniture, a chore that with a regular vacuum cleaner would force you to bend and twist.
+根据我的经验，Roomba从来不会刮住地毯上的流苏，我用过的许多普通的真空吸尘器就无法保证这一点。（iRobot的工程师们增加了一个他们称作“防刮模式”的功能，原理是，如果检测到了线状物或地毯边饰，转子就会暂时反向转动。）由于高度只有3.6英寸，它可以钻到任何家具下面，而如果使用普通的真空吸尘器，你就不得不弯腰和扭动身体。
+It’s also easy to schedule the robot, so the machine can work every day without you raising a finger. You can see the house getting cleaner. Every day there is less debris in the bin so you know it is working.
+你还可以轻松地让机器定时启动，每天不用动手指，它就会自动干活。你会发现屋子变干净了。集尘盒里垃圾越来越少，你就知道它在工作了。
+The robot returns by itself to its recharging station when it runs low on power. It docks itself, beeps out a little salute and prepares itself for its next bout of cleaning.
+机器人在电量不足时可以自行回到充电基座上。就位后发出提示音，然后为下一波打扫做好准备。
+But you may want to know, how does it do as a cat toy? I suppose results may vary, but in a test of four temperamental cats and one dog that is frightened of its own shadow, let alone vacuum cleaners with tubes and hoses, we got unanimous approval. The dog ignored it. The cats were intrigued and spent hours watching it, though they didn’t ride around on it like the cat in the YouTube video wearing a shark costume.
+但是你可能要问，它作为猫的玩具表现如何？我猜想这可能不是绝对的，但我测试了四只喜怒无常的猫和一只能被自己的影子吓一跳的狗（更不用说带有轮胎和管子的真空吸尘器了），结果屡试不爽。狗忽视了它的存在。猫被吸引了，盯着它看了几个小时，虽然没有像YouTube视频里那只穿着鲨鱼服装的猫咪一样骑在上面。
+(There is an entire Tumblr page devoted to cats riding Roombas if you care to verify the Roomba’s usefulness as a cat toy. )
+（如果你想要证明Roomba可以成为猫玩具，Tumblr上有一个页面上全都是骑在Roomba上的猫。）
+If the Roomba is at the vanguard of the robot army that will take over our lives by folding our clothes and cooking and serving us dinner, well then I say, bring them on. It made my life a lot easier.
+如果Roomba是机器人大军的先锋，而这个机器人大军将通过为我们折叠衣服、做饭和盛饭来占领我们的生活，那么我要说，来吧。它让我的生活轻松了太多。
+IRobot makes other consumer robots, like a new floor scrubbing device, the Scooba, and one that cleans roof gutters of leaves and debris, the Looj. (It also makes some scary robots for the military.)
+IRobot还生产其他消费型机器人，比如新的刷地设备Scooba和那个清洁房顶上的树叶和垃圾的机器人Looj。（该公司还制作了一些可怕的军用机器人。）
+IRobot also does something that I rarely see in consumer electronics today, and certainly not in a Dyson, a machine honored for its great design: You can easily take apart its products and replace modules that fail. You can even replace the Roomba’s battery, which iRobot says is good for about three years.
+IRobot还提供了一个我在当今的消费电子产品中很少看到的功能：你可以很容易地把它拆开，更换坏掉的组件。你甚至可以更换Roomba的电池，iRobot说，Roomba的电池能使用大约三年。而这就连戴森也没有做到，戴森的吸尘器可是一向以其伟大的设计而著称。
+But this robot is not yet perfect. The 880 has a remote control so I can focus the Roomba’s attention if necessary — sometimes it gets a mite confused — but the vacuum lacks a connection to the Internet so I can’t schedule it via a mobile device from the office. (I can control my thermostat that way, why shouldn’t I be able to manage my robots?)
+但这个机器人也并非完美无暇。880配有遥控，所以我可以控制Roomba的关注点——这有时会让它有点糊涂——而且它不能连接互联网，所以我不能在办公室通过一个移动设备来定时启动它。（我可以这样控制温度自动调节器，用这种方式管理机器人为什么就不可以呢？）
+And here is the real downside to our little robot friend: its $700 price tag. When a Dyson costs $400 or $500, that seems a little steep. (An older model, the Roomba 630, sells for $350.)
+我们的小小机器人朋友还有一个真正的缺点：700美元（约合4200元人民币）的价格。对比戴森四五百美元的价格，它似乎就有点儿贵了。（早期型号Roomba630的价格是350美元。）
+I’d have to go through considerable financial contortions to justify the purchase. But when it comes to finding ways to avoid housework, I can be pretty flexible.
+我得在财务上使点手段，才能让这笔购买说得通。但在逃避家务方面，我可以相当灵活。
+Here is my thinking: The Roomba saves me a half-hour of vacuuming every other day. That’s about two hours a week, 52 times a year. If I value my time at $15 an hour, the Roomba saves me $1,560 a year.
+我是这么想的：Roomba使我不用每隔一天花半个小时来清洁地板。每周差不多两个小时，一年52次。如果我每小时值15美元，Roomba每年就为我省了1560美元。
+Slam dunk for this wonderful machine. Right?
+没有理由拒绝这个美妙的机器了，对吧？
+Not so quick. On second thought, I’d still have to own another vacuum cleaner and use it on occasion to clean tight corners, the stairs, couches and chairs, and the spots between the furniture that the Roomba can’t reach. And to really have a work-free life with robot vacuum cleaners, I’d ideally have one for every floor. So my outlay could be at least $1,400, making my timesaving investment far less appealing.
+别急。再一想，我还得再有一台吸尘器，用它来清洁死角、楼梯、沙发和椅子，以及家具之间Roomba够不到的地方。此外，要想真的用机器人吸尘器来逃避所有劳动，理想的状况是我每层楼都得配一个。这样以来，我的支出至少就是1400美元，这样一来，我为节省时间所花的投资的吸引力就大大降低了。
+But oh, did I enjoy the extra free time that the Roomba provided. And the truth is, when I used the Roomba every day, very few dust bunnies accumulated in corners. And I could use a cheap hand-held to do the stairs and couch. The Roomba is light (8.4 pounds) and portable, so I could move it from one floor to the other each day without much trouble.
+但是，还有，我是否享受了Roomba带来的多余的空闲时间呢。事实是，当我每天使用Roomba的时候，角落里几乎积不下什么灰尘球了。我可以用便宜的手动工具来清理楼梯和沙发。Roomba很轻（约3.8公斤），而且便携，因此我可以把它拿到其他楼层，费不了多大功夫。
+And did I mention that it works fabulously as a cat toy?
+我说过了吧，它还是一个很棒的猫咪玩具。
+Welcome, robots.
+欢迎你们，机器人。

@@ -1,0 +1,32 @@
+Tingye Li, an electrical engineer whose calculations in the early 1960s helped guide the development of the laser and propel the dizzying increase in the speed of fiber-optic communication, died on Dec. 27 in Snowbird, Utah. He was 81.
+电气工程专家厉鼎毅于12月27日在美国犹他州雪鸟(Snowbird)滑雪度假村逝世，享年81岁。厉鼎毅在20世纪60年代早期的研究帮助引领了激光技术的发展，也推动了光纤通信速度的大幅提高。
+The cause was a heart attack while he was on a family ski trip, his family said. He lived in Boulder, Colo.
+据厉鼎毅的家人透露，他与家人在滑雪度假时，突发心脏病去世。厉鼎毅生前居住在科罗拉多州博尔德。
+Lasers were in the early stage of development when Dr. Li and a colleague at Bell Labs, A. Gardner Fox, developed a computer simulation of how lasers produce the focused light energy that has transformed fields from medicine to space travel. They reported their findings in a paper published in 1961.
+在激光的发展还处于初级阶段时，厉鼎毅博士与他在贝尔实验室(Bell Laboratories)的同事A·加德纳·福克斯(A. Gardner Fox)共同开发了计算机模拟程序，展示了激光怎样产生聚焦在一起的光能。这种聚焦的光能后来给医疗、航天等各个领域带来了翻天覆地的变化。他们在1961年发表的一篇论文中公布了研究结果。
+Dr. Arno Penzias, a former director of Bell, called their paper a tool kit for subsequent designers of lasers and other optical systems. He said it helped transform the “wonderful invention” of the laser — the word is an acronym for light amplification by stimulated emission of radiation — into “a practical communications platform.”
+贝尔实验室前负责人阿尔诺·彭齐亚斯博士(Arno Penzias)称，他们的论文成了激光及其他光学系统的后继设计者的工具包。他表示，这篇论文在将激光这种“了不起的发明”转变成“一种实用的通信平台”的过程中起到了帮助作用。
+In essence, the researchers provided a mathematical model for how light bounces about inside a laser between two mirrors as it gathers energy, predicting factors like the shape and intensity of light beams. Alan Willner, an electrical engineering professor at the University of Southern California, called the work “the foundational teaching” on the innards of lasers.
+实质上，这两位研究人员提供了一个数学模型，说明激光在两面镜子间反射时，光如何在激光内部跳跃活动并汇聚能量，并预测了光束的形状和强度等因素。南加州大学(University of Southern California)电气工程教授艾伦·威尔纳(Alan Willner)称，这项工作是有关激光内在原理的“基础教学”。
+“There aren’t many papers that help define a field, but this was one of them,” he said in an interview.
+他在一次采访中说，“能够帮助定义一个领域的论文并不多，这篇论文就是其中之一。”
+The research that led to nearly instantaneous communication by light waves was itself snail-like. Dr. Li and Dr. Fox had to write their own programs, punching them into decks of cards, for a room-size computer that was less powerful than a palm-size calculator today. The computer ran the program for two or three hours. A frequent error message meant that the researchers had to scour the cards for a single improperly punched letter, Jeff Hecht wrote in “Beam: The Race to Make the Laser” (2010).
+这项研究促使利用光波的近似瞬时通信成为现实，但其研究过程本身却十分缓慢。厉鼎毅和福克斯需要自己编写程序，并将程序指令打到一叠一叠的穿孔卡上，以输入到有房间大小的电脑中。那台电脑的计算能力还不如现在的一个巴掌大的计算器强大，电脑运行该程序需要两、三个小时。杰夫·赫克特(Jeff Hecht)在2010年出版的《光束：制作激光器的竞争》(Beam: The Race to Make the Laser)一书中写道，错误消息经常出现，一旦出现研究人员就需要仔细检查每张卡片，寻找那个打错孔的字母。
+Bell Labs was virtually unchallenged as the largest and most inventive laboratory in the world, having a hand in many of the 20th century’s most important inventions. Dr. Li, who wrote or helped write more than 100 papers, patents and books, led research teams at Bell for more than three decades.
+贝尔实验室曾是世界上最大、发明最多的实验室，这个地位几乎无人能比。20世纪许多最重要的发明，都有该实验室的参与。厉鼎毅撰写或协助撰写的论文、书籍，以及获得的专利总数过百，他在贝尔实验室带领研究团队达30多年。
+Some of their work laid the groundwork for today’s broadband. One area of study was in finding ways to use light waves to convey information on optical fiber rather than copper wire or radio waves. Another team Dr. Li led developed optical amplifiers, which amplify an optical signal directly without the need to first convert it into an electrical signal.
+他们的某些工作，为今天的宽带打下了基础。其中一个研究领域是，找到方法利用光波在光导纤维中传播信息，而不是通过铜线或无线电波。厉鼎毅领导的另一个团队，研发了光放大器，这种仪器能够直接增强光信号，而无需首先将其转化成电信号再进行放大。
+Dr. Li was an early proponent of using the rare earth metal Erbium in the amplifiers, an improvement that helped raise their capacity more than a hundredfold.
+厉鼎毅是在放大器中使用稀土金属铒的早期推动者之一。这一技术改进，使得放大器的效能提高了100倍以上。
+“Tingye Li has shaped the lightwave network infrastructure we know today,” the Institute of Electrical and Electronics Engineers said when presenting him with its Edison Medal in 2009.
+电气电子工程师学会(Institute of Electrical and Electronics Engineers)在2009年颁发爱迪生奖(Edison Medal)时评价，“厉鼎毅塑造了今天众所周知的光波网络的基础架构。”
+Li Ding Yi, as his name is transliterated from Chinese, was born in Nanking, China, on July 7, 1931. His mother, Lily, belonged to the first generation of Chinese women to receive a modern higher education. She became an activist for women’s rights.
+厉鼎毅1931年7月7日生于中国南京。他的母亲谢纬鹏是中国第一代接受现代高等教育的女性，后来投身妇女权益运动。
+His father, Chao, was a Chinese diplomat who was consul general in Vancouver, where Tingye attended middle school, and was later posted to South Africa, where Tingye earned an undergraduate degree in electrical engineering from the University of Witwatersrand. He earned a Ph.D. in electrical engineering from Northwestern University in Evanston, Ill.
+其父厉斯昭为中国外交官。父亲担任驻温哥华总领事期间，厉鼎毅在温哥华上中学。后来其父调职南非，厉鼎毅则在南非金山大学(University of Witwatersrand)取得电气工程本科学位。厉鼎毅在伊利诺伊州埃文斯顿的西北大学(Northwestern University)取得电气工程博士学位。
+Dr. Li joined the Bell Telephone Laboratories (later AT&T Bell Laboratories) in 1957 and worked there until 1998. He worked there with the Nobel Prize recipients Charles Hard Townes and Arthur L. Schawlow, who together invented the maser, which amplified microwaves the way lasers would soon amplify light.
+厉鼎毅在1957年加入贝尔电话实验室(Bell Telephone Laboratories)，该实验室后来成为了AT&T贝尔实验室(AT&T Bell Laboratories)，他在这里一直供职到1998年。在贝尔实验室，厉鼎毅与诺贝尔奖得主查尔斯·哈德·汤斯(Charles Hard Townes)和亚瑟·L·肖洛(Arthur L. Schawlow)共事，并共同发明了激微波(maser)。这种技术放大了微波，一如之后激光对光的放大。
+“There was a lot going on and a lot of people helping each other,” Dr. Penzias said.
+彭齐亚斯说，“在当时，有很多项研究同时进行，许多人也都会互相帮助。”
+Dr. Li often quoted Confucius, though friends suspected he occasionally concocted his own learned sayings and then attributed them to the sage. He frequently went to China to help it develop optical communications. The Chinese Academy sent his family a letter at his death praising him for helping China “leapfrog to a higher level” in handling telecommunications traffic.
+厉鼎毅经常引用孔子的话，不过朋友们怀疑，他有时会自己编造格言，并假托圣人之名。他生前经常前往中国，帮助中国发展光学通讯。中国科学院(Chinese Academy)在向厉鼎毅家人发出的吊唁信中，称赞他在处理电信流量领域，帮助中国“跨越到了更高水平”。

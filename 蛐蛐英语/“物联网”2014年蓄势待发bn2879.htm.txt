@@ -1,0 +1,22 @@
+Tech companies have been talking for years about the so-called connected home, in which home appliances and accessories connect to the Internet. Judging from Christmas with my family — as well as the news expected at the International Consumer Electronics Show next week — this year it might become a reality.
+多年以来，科技企业一直在谈论着所谓的“物联网”，也就是将家用电器和小设备联到网上。从圣诞期间我家人的经历——以及下周的国际消费者电子产品展(International Consumer Electronics Show)预计将传出的消息——看来，它或许今年终会成为现实。
+The most popular example has been a fridge that sends a text message when the milk is running low. Some home builders imagine building a connected home from the ground up. But most consumers and suppliers are starting by connecting smaller devices that use smartphones as a remote control, said Frank E. Gillett, an analyst at Forrester.
+最受欢迎的产品是能在牛奶快喝完的时候给主人发短信的一款冰箱。一些建筑商畅想着打造全方位的物联之家。不过，弗雷斯特(Forrester)的分析师弗兰克·E·吉莱特(Frank E. Gillett)称，多数消费者和供应商正处于起步阶段，即采用智能手机来遥控小型物联网设备。
+My mother received Hue lightbulbs, for instance, made by Philips and controllable with her iPhone. She can set custom lighting for ambience in the dining room, turn lights on or off remotely, and set lights to slowly brighten in the morning.
+比如，我母亲得到的一份礼物是飞利浦(Philips)制造的可用iPhone操控的Hue灯泡。她能为餐厅设置与气氛匹配的照明、遥控开关，并且设定早间灯光逐渐变亮。
+My father received a Nest Protect smoke alarm, which sends his phone messages if it senses smoke or has low batteries. He planned to install it near the kitchen, because if it senses smoke from cooking, it speaks with a human voice before sounding a loud alarm and can be silenced with a wave. He can connect it to his Nest Thermostat, which will automatically turn off the gas furnace if there is a carbon monoxide leak.
+我父亲则得到了一款Nest公司出品的Protect烟雾警报器。如果它探测到烟雾或是自身电量较低，就会往他的手机上发短信。父亲准备把它安在厨房附近，因为如果探测到烧出烟来，它就能首先发出人声，然后拉起响亮的警报，而要静音的话只需挥挥手。他还能把这款警报器与Nest推出的Thermostat温控仪联起来。如果发生一氧化碳泄露，后者可以自动关掉燃气炉。
+The devices join my parents’ Withings scale and Bose music system, controllable with a smartphone.
+除了这几款设备，我父母还拥有可用智能手机操控的Withings体重计和Bose音响系统。
+The connected home is still more popular with classic early adopters than with mainstream consumers, according to Forrester. Just 1 or 2 percent of people have connected devices to control lighting, climate, energy, appliances and home monitoring, Forrester found. About a third say they are interested in connecting their homes, but almost half say they are not interested.
+根据弗雷斯特的分析，物联网仍只在典型的尝鲜者中受到欢迎，尚未打动主流消费者。该公司发现，仅有1%或2%的人拥有控制照明、室内环境、能源、电器和家庭监控的物联网设备。约三分之一的人表示对物联网有兴趣，但近一半的人自称不感兴趣。
+“I think we’re at the beginning of the industry hype cycle but not at the beginning of mainstream consumer adoption,” Mr. Gillett said.
+“我认为，我们正处在行业热潮周期的开端，但还没到主流消费者开始接纳的阶段，”吉莱特说。
+The most popular connected home device is security systems, according to Forrester.
+弗雷斯特称，最畅销的物联网设备是安保系统。
+There are also electronic door locks (people can give a repair person an electronic key that expires that night or receive an alert when someone enters), garage door openers, cameras like Dropcam for baby or pet monitoring, weather stations for vacation homes, sensors like those made by Lively for monitoring the activity and health of elderly people, and a connected egg tray so people know if they need to buy new eggs.
+此外，还有电子门锁（户主可以给维修人员一把当晚失效的电子钥匙，或是在有人闯入的情况下收到警报）、车库门开关、Dropcam等监护婴儿或宠物的摄像头、度假屋温控仪、Lively等公司查看老年人活动与健康状况的感应器，以及能在鸡蛋快吃完的时候发出信号的物联网蛋托。
+Companies like Revolv and SmartThings create apps to tie different connected devices together and control a home from a single app.
+诸如Revolv和SmartThings的企业开发出了应用程序，可将不同的物联网设备连在一起， 让单个应用来操控整个家。
+“Most consumers aren’t proactively saying, ‘I want X,’” Mr. Gillett said. “This is one of those things where it’s like, ‘Oh, wow, I can get that? Great.’”
+“多数消费者还没有主动说，‘我要这玩意，’”吉莱特表示。“它们还属于那种，‘噢，啊，还有这种东西？不错嘛。’”

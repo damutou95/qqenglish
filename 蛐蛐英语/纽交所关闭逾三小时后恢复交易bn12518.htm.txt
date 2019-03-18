@@ -1,0 +1,34 @@
+Trading on the New York Stock Exchange was shut down for hours on Wednesday as the exchange tried to cope with what appeared to be a technical glitch, rather than an attack.
+周三，纽约证券交易所(New York Stock Exchange)关闭了几个小时，以处理技术方面的问题。这似乎是一起技术故障，而不是遭受了攻击。
+It was the longest such suspension of trading at the exchange in recent years, although trading in the stocks listed on the N.Y.S.E. was able to continue on other stock exchanges, like Nasdaq.
+这是纽交所近年来时间最长的一次暂停交易，不过在纽交所上市的股票，可以继续在纳斯达克(Nasdaq)等其他证券交易所交易。
+Trading resumed late Wednesday afternoon, almost four hours after the shutdown began, less than an hour before the 4 p.m. closing bell.
+周三下午晚些时候，纽交所恢复交易。此时已经是宕机开始将近四小时之后，距离下午4点收盘不到一小时。
+When the shutdown began, Peter Costa, a trader on the floor with Empire Executions, said that exchange employees manually canceled about 700,000 orders that were in the system.
+股票经纪公司Empire Executions在纽交所交易厅的交易员彼得·科斯塔(Peter Costa)说，宕机开始后，交易所的员工手动取消了系统中约70万笔订单。
+After canceling the orders, the exchange rebooted its systems, which was expected to take about 45 minutes.
+取消订单之后，交易所重新启动了系统，估计耗时约45分钟。
+The first technical problems appeared soon after the opening bell rang at 9:30 a.m. on Wednesday, when orders for several smaller stocks failed to go through, Mr. Costa and another trader on the floor said.
+在周三上午9:30开盘后不久，技术问题首次出现，当时几只较小股票的订单未能通过，科斯塔和场内另一位交易员说。
+The initial issues only hit a small number of stocks, and the exchange appeared to have dealt with the problem, but they reappeared, on a more widespread basis, later in the morning, the traders said.
+问题最初只影响了一小部分股票，交易所似乎已经处理了这个麻烦。但在上午的晚些时候，问题又再次出现，而且影响了更多股票，交易员表示。
+At 11:32 am, the exchange announced that it was shutting down all trading.
+上午11:32，交易所宣布关闭所有交易。
+While the exchange said on Twitter that it decided to shut down trading to deal with the technical problems, it gave traders on the floor no warning before making the move.
+纽交所在Twitter上说，它决定关闭交易来处理技术问题，而在采取这个动作之前，并没有向场内的交易员发出任何警告。
+“I was about to order my lunch and when I turned around the screens all went blank,” Mr. Costa said.
+“我正要订午餐的时候，一转身，屏幕一片空白，”科斯塔说。
+The shutdown was especially troubling because it came only hours after United Airlines temporarily grounded all of its flights following a technical issue. Other businesses had problems with their websites.
+这次宕机尤其令人不安的是，因为美国美联航公司(United Airlines)几小时前才因为一个技术问题而暂时停飞了所有航班。其他一些企业的网站也遇到了问题。
+But both United and the New York Stock Exchange were adamant that the problems were a result of internal technical problems, rather than malicious hackers.
+但美联航和纽交所都坚称，这是内部技术问题导致的，不是恶意的黑客攻击。
+While there was no indication that the incidents were related, one prominent investor, Doug Kass, noted that the problems were a reminder that “in a paperless (and ‘cloudy’) world, investors and citizens are not likely as safe as the markets assume.”
+虽然没有迹象表明这些事件之间存在关联，但一位著名的投资人道格·卡斯(Doug Kass)指出，这些问题提醒大家，“在一个无纸化（而且‘云端化’）的世界里，投资者和市民可能不像市场以为的那样安全。”
+The New York Stock Exchange, which is now owned by Intercontinental Exchange, has had, like other stock exchanges, technical difficulties in the past, but the scale of the problem on Wednesday has little precedent.
+像其他证券交易所一样，美国洲际交易所(Intercontinental Exchange)旗下的纽交所过去也遇到过技术故障，但本周三出现的问题规模罕有先例。
+Other exchanges operated by the New York Stock Exchange, such as its options exchange, continued operating normally on Wednesday.
+纽交所经营的其他交易所，比如旗下的期权交易所，本周三一直运行正常。
+Federal regulators and law enforcement agencies are monitoring the situation but as of midday Wednesday there was no indication of anything malicious with the troubles at the N.Y.S.E., said several people briefed on the situation.
+联邦监管机构和执法机构正在密切关注这一情况，但截至周三午间，没有迹象显示纽交所的这起故障与任何恶意行为有关，几名知情者表示。
+Mary Jo White, the chairwoman of the Securities and Exchange Commission, which oversees the nation’s securities markets, said in a statement, “We are in contact with N.Y.S.E. and are closely monitoring the situation and trading in N.Y.S.E.-listed stocks.”
+美国证券交易委员会(Securities and Exchange Commission)负责监管全美证券市场，其主席玛丽·乔·怀特(Mary Jo White)在一份声明中说，“我们正与纽交所接触，并且会密切留意纽交所上市股票的状态和交易情况。”

@@ -1,0 +1,50 @@
+For all the jobs that machines can now do — whether performing surgery, driving cars or serving food — they still lack one distinctly human trait. They have no social skills.
+尽管机器现在可以从事各种工作，如手术、驾车、上菜，但无疑它们还缺少一个独特的人类特征，那就是社交技巧。
+Yet skills like cooperation, empathy and flexibility have become increasingly vital in modern-day work. Occupations that require strong social skills have grown much more than others since 1980, according to new research. And the only occupations that have shown consistent wage growth since 2000 require both cognitive and social skills.
+然而，合作、同理心和灵活性等能力，在现代工作环境里已变得越来越重要。新的研究显示，1980年以来，需要很强社交能力的职位大幅增加，远远超出了其他职位。而且自2000年来，仅有的一些工资有持续增长的职业种类，都要求良好的认知和社交能力。
+The findings help explain a mystery that has been puzzling economists: the slowdown in the growth even of high-skill jobs. The jobs hit hardest seem to be those that don’t require social skills, throughout the wage spectrum.
+这些研究结果有助于让经济学家揭开一个一直让他们很困惑的谜题：为什么尽管是高技能职位，也会有工资增长缓慢的情况。从各个工资水平来看，工资最难增长的职业都是不需要社交能力的。
+“As I’m speaking with you, I need to think about what’s going on in your head — ‘Is she bored? Am I giving her too much information?’ — and I have to adjust my behavior all the time,” said David Deming, associate professor of education and economics at Harvard University and author of a new study. “That’s a really hard thing to program, so it’s growing as a share of jobs.”
+“我们对话时，我要想着你头脑里是怎么想的──‘她是觉得无聊吗？我说的信息太多了吗？’──所以我还要随时调整自己的行为，”哈佛大学教育和经济学副教授、一项新研究的作者戴维·戴明(David Deming)说。“这真的很难通过编程办到，所以社交技巧在工作中越来越重要了。”
+Some economists and technologists see this trend as cause for optimism: Even as technology eliminates some jobs, it generally creates others. Yet to prepare students for the change in the way we work, the skills that schools teach may need to change. Social skills are rarely emphasized in traditional education.
+一些经济学家和科技专家以乐观的态度看待这个趋势：尽管科技会淘汰某些职位，但一般还会创造其他的。为了让学生对现在的工作情况做好准备，学校所教的技能也应该改变。传统教育模式很少会注重社交技巧。
+“Machines are automating a whole bunch of these things, so having the softer skills, knowing the human touch and how to complement technology, is critical, and our education system is not set up for that,” said Michael Horn, co-founder of the Clayton Christensen Institute, where he studies education.
+“机器正把很多硬技巧自动化，所以具有较软性的技巧，懂得与人交流，懂得怎样为科技提供补充是非常重要的，我们的教育系统没有为这一点做准备，”克莱顿克里斯滕森研究所(Clayton Christensen Institute)联合创始人迈克尔·霍恩(Michael Horn)说。霍恩在该研究所开展教育学研究。
+Preschool classrooms, Mr. Deming said, look a lot like the modern work world. Children move from art projects to science experiments to the playground in small groups, and their most important skills are sharing and negotiating with others. But that soon ends, replaced by lecture-style teaching of hard skills, with less peer interaction.
+戴明说，幼儿园的教室跟现代工作环境很像。孩子们组成小群体，参加艺术项目、科学实验，再到操场里玩耍，此时最重要的技巧就是与人分享和协商。可这一切很快就结束了，取而代之的是讲授式的教育：教授硬技巧，但朋辈互动的机会减少了。
+Work, meanwhile, has become more like preschool.
+同时，工作变得更像幼儿园了。
+Jobs that require both socializing and thinking, especially mathematically, have fared best in employment and pay, Mr. Deming found. They include those held by doctors and engineers. The jobs that require social skills but not math skills have also grown; lawyers and child-care workers are an example. The jobs that have been rapidly disappearing are those that require neither social nor math skills, like manual labor.
+戴明发现，同时需要社交和思考能力（特别是数学思考）的职业，在工作岗位和工资方面的处境是最好的。这些职业包括医生和工程师。需要社交能力而不需要数学能力的职业，数量也有增加，如律师和儿童护理工作者。社交和数学能力都不需要的职业则正在迅速消失，如体力劳动者。
+Despite the emphasis on teaching computer science, learning math and science is not enough. Jobs that involve those skills but not social skills, like those held by bookkeepers, bank tellers and certain types of engineers, have performed worst in employment growth in recent years for all but the highest-paying jobs. In the tech industry, for instance, it’s the jobs that combine technical and interpersonal skills that are booming, like being a computer scientist working on a group project.
+尽管如今强调计算机科学的教育，但只学数学和科学是不够的。涉及这些技能但不涉及社交技巧的工作，像会计、银行柜员和某些类别的工程师，近年来的就业增长是最低的，这些领域中薪酬最高的岗位除外。举例来说，在科技产业里，技术和社交技能相结合的工作岗位数量激增，如在小组项目里工作的计算机科学家。
+“If it’s just technical skill, there’s a reasonable chance it can be automated, and if it’s just being empathetic or flexible, there’s an infinite supply of people, so a job won’t be well paid,” said David Autor, an economist at the Massachusetts Institute of Technology. “It’s the interaction of both that is virtuous.”
+“如果只是技术性技能，就有理由认为它可能会被自动化。而如果只要求有同理心和灵活性，社会也有无限的人力供应，所以这种工作的工资也不会高，”麻省理工学院(Massachusetts Institute of Technology)经济学家戴维·奥托尔(David Autor)说。“只有结合两者的职业才最好。”
+Mr. Deming’s conclusions are supported by previous research, including that of Mr. Autor. Mr. Autor has written that traditional middle-skill jobs, like clerical or factory work, have been hollowed out by technology. The new middle-skill jobs combine technical and interpersonal expertise, like physical therapy or general contracting.
+戴明之前的研究也支持了他的结论，包括奥托尔撰写的论文。奥托尔曾写道，文书和工厂工作等传统的中等技能岗位，已被科技淘汰。新的中等技能工作结合了技术和人际专长，像物理治疗和项目承包。
+James Heckman, a Nobel Prize-winning economist, did groundbreaking work concluding that noncognitive skills like character, dependability and perseverance are as important as cognitive achievement. They can be taught, he said, yet American schools don’t necessarily do so.
+诺贝尔奖得主、经济学家詹姆斯·赫克曼(James Heckman)开展了突破性的研究，得出了性格、可靠性和毅力等非认知技能，与认知技能同样重要的结论。他说，非认知技能都是可以透过教育习得的，但美国的学校却未必会教授。
+These conclusions have been put into practice outside academia. Google researchers, for example, studied the company’s employees to determine what made the best manager. They assumed it would be technical expertise. Instead, it was people who made time for one-on-one meetings, helped employees work through problems and took an interest in their lives.
+在学术界以外的地方，这些研究成果已经付诸实践。例如，谷歌的研究人员为了找出造就优秀管理者的因素，对该公司的员工进行了研究。他们以为该因素是技术性的专业知识。然而研究发现，抽空与人单独会面、帮助员工解决问题、对他们的生活感兴趣的那些人，才是优秀的管理者。
+Mr. Deming’s study quantifies these types of skills. Using data about the tasks and abilities that occupations require from a Department of Labor survey called O*NET, he measured the economic return of social skills, after controlling for factors like cognitive skill, years of education and occupation.
+戴明的研究量化了这些类型的技能。他从劳工部名为O*NET的一项调查中，取得了关于就业岗位职责和所需能力的数据。在控制认知技能、学历和职业等因素后，他计算了社交技巧所带来的经济回报。
+The extent to which jobs required social skills grew 24 percent between 1980 and 2012, he found, while jobs requiring repetitive tasks, like garbage collecting, and analytical tasks that don’t necessarily involve teamwork, like engineering, declined.
+他发现，在1980年至2012年间，要求社交技巧的工作增多了24%。与此同时，重复性的工作岗位，如垃圾收集，以及涉及分析但不一定需要团队合作能力的工作，如工程师却减少了。
+Mr. Deming explains it in terms of the economic notion of comparative advantage.
+戴明以经济学中的比较优势概念，解释了这种现象。
+Say two workers are publishing a research paper. If one excels at data analysis and the other at writing, they would be more productive and create a better product if they collaborated. But if they lack interpersonal skills, the cost of working together might be too high to make the partnership productive.
+假设两名员工要发布一份研究报告。如果一个擅长数据分析，另一个擅长写作，他们合作便能更有效率，产生的报告亦会较佳。但是，如果他们缺乏人际交往技巧，便可能要付出很高的成本，才能令两人的合作具有成效。
+Women seem to have taken particular advantage of the demand for social skills. The decline in routine jobs has hit women harder than men. Yet women have more successfully transitioned into collaborative jobs like managers, doctors and professors.
+面对社交技巧的需求，女性似乎拥有独特的优势。重复性工作的减少对女性的冲击比男性更重。但是，过渡到如经理、医生、教授等合作性工作方面，却是女性更成功。
+That might be because, starting in infancy, females traditionally excel at things like social perceptiveness, emotional intelligence and working with others, Mr. Deming and other researchers say.
+戴明和其他研究人员说，这可能是因为从婴儿期开始，传统上女性便拥有更强的社交洞察力、更高的情商，也更擅于与他人合作。
+These conclusions do not mean traditional education has become unnecessary, researchers say — in fact, traditional school subjects are probably more necessary than ever to compete in the labor market. But some schools are experimenting with how to add social skills to the curriculum.
+研究人员说，这些结论并不代表传统教育已经多余的，相反，因为需要在就业市场竞争，传统的学校科目可能会变得前所未有地必要。虽然如此，有些学校正试验把社交技巧加入课程范围内。
+At many business and medical schools, students are assigned to small groups to complete their work. So-called flipped classrooms assign video lectures before class and reserve class for discussion or group work. The idea is that traditional lectures involve too little interaction and can be done just as well online.
+在许多商学院和医学院中，学生会分成小组完成工作。所谓的“颠倒课堂”则会在上课前把讲课视频发给学生，留出上课时间开展小组合作或讨论。传统课堂太少互动，透过网络也可以办到，因此便有了这个构思。
+The Minerva Schools in San Francisco, a start-up college, takes that approach. The idea is to transmit facts outside of class, said its dean, Stephen Kosslyn, and use class to teach effective communication and interaction. “It involves creativity, judgment, all that stuff that is hard for a machine to be programmed to do,” he said.
+旧金山一所刚开办的大学密涅瓦学校(Minerva Schools)也采取了这个做法。院长斯蒂芬·科斯林(Stephen Kosslyn)说，其构思是希望在课堂以外的地方传递事实性的知识，利用班级教导学生有效的沟通和人际交往。“它涉及创造力、判断力和其他东西。这些东西不是给机器编了程序就能做到的，”他说。
+Another way to teach these skills is through group activities like sports, band or drama, said Deborah Slaner Larkin, chief executive of the Women’s Sports Foundation. Students learn important workplace skills, she said: trusting one another, bringing out one another’s strengths and being coachable.
+女子体育基金会(Women’s Sports Foundation)首席执行官黛博拉·斯蕾娜·拉金(Deborah Slaner Larkin)说，另一个教导学生这些技能的方法是透过团体活动，如运动、乐队或戏剧。她说，学生能学到重要的职场技能：彼此信任、激发彼此的长处，可以接受指导。
+Someday, nearly all work could be automated, leaving humans to revel in never-ending leisure time. But in the meantime, this research argues, students should be prepared for the actual world of work. Maybe high schools and colleges should evaluate students the way preschools do — whether they “play well with others.”
+总有一天，差不多所有工作都可以自动化完成，人类将享有无穷无尽的闲暇时间。但是目前，这份研究的论点是，学生应该为现实的职场做好准备。或许，高中和大学应该用幼儿园的标准来评估学生——那就是他们能否和别人“玩到一起”。

@@ -1,0 +1,54 @@
+The Chinese comedian Xu Deliang knows what it means to be on the wrong end of a joke.
+相声演员徐德亮知道成为笑柄是什么滋味。
+For five years Mr. Xu has worked to keep assertions that he never graduated from college and did not write his own material out of an entry about him on a popular Wikipedia-like site run by Baidu, the Chinese Internet company. Mostly, he has failed to correct the entry, which he says was changed by people who wish him ill.
+五年来，他一直竭力想在中国互联网公司百度的一个类似维基百科(Wikipedia)的热门网站——百度百科上修改关于他的词条，去掉他大学没毕业，以及他的相声作品并非自己所创等内容。大多数情况下，他都无法修改该词条的内容，但他表示里面的内容被想恶意中伤他的人修改了。
+Now, a Beijing court has agreed to hear his case in what lawyers say could be a new marker for how China’s courts work to help individuals combat false and malicious online content written about them.
+现在，北京某法院已经同意审理他的案件，他的律师表示，此案可能会开中国法院的先河，首次帮助个人对抗网上散播的有关他们的虚假和恶意内容。
+Although people have sued Baidu over violations of privacy and won, Mr. Xu’s case stands out in that he is seeking a court order to block any future attempt to create an entry on Baidu Baike about him, regardless of content. By arguing that he should have control over an encyclopedia entry created by anonymous Web users, Mr. Xu is entering unchartered waters.
+此前曾有人起诉百度侵犯个人隐私并获胜，但徐德亮的情况有所不同，他寻求的是法院下令禁止百度百科上再出现有关他的词条，不管是什么内容。徐德亮提出的主张是，自己应该对百科全书式平台上的匿名网络用户创建的有关他的词条内容有控制权，这就等于进入了一片未知的水域。
+“There are no precedents,” said Meng Zhaoping, executive director of the Institute for Internet Law at the Beijing Institute of Technology.
+“这方面没有先例，”北京理工大学互联网法律政策研究平台常务董事孟兆平说道。
+Mr. Xu is not pushing quite as far as cases elsewhere that have called for the right to be “forgotten” by the Internet, but his case could be an important step for Chinese courts, which have been moving slowly to do more to protect individuals online.
+徐德亮的要求不像其他国家的此类案件要求得那么彻底，后者已经在要求被互联网“遗忘”的权利，但他的案件对于在保护公民个人网上安全方面进展缓慢的中国法庭来说，可能将是重要的一步。
+Mr. Xu’s grievances started more than five years ago, when the Baike entry describing him was mysteriously changed to say he was not in fact a graduate of the prestigious Peking University, as he claimed. After six months of complaints to Baidu, the entry was changed to say he graduated, but an unwelcome additional sentence read: “Guo Degang used to make fun of him for being a college dropout.”
+徐德亮对百度的不满产生于五年前，当时百度百科上介绍他的词条被神秘地修改，说他实际上是知名的北京大学的肄业生，而非如他所说是毕业生。在向百度不断投诉六个月以后，词条内容被改为毕业，但让徐德亮不快的是，它额外加了一句“曾被郭德纲开涮为肄业”。
+Mr. Guo is a former, estranged, partner. They broke up on such bad terms that Mr. Xu has avoiding mentioning Mr. Guo’s name in public. But Mr. Xu said he suspected “someone” must have been spreading rumors about him while hiding behind the anonymity of the Internet.
+郭德纲是徐德亮的前搭档，后来二人失和。他们的决裂过程十分难看，以至徐德亮一直避免在公开场合提及郭德纲的名字。但徐德亮表示，他怀疑“某人”一定一直在传播有关他的谣言，只不过是躲在匿名的网络背后。
+“It felt like someone had a back channel into Baidu to work against me,” Mr. Xu said.
+“就好像有人在百度有后门，可以做对我不利的事，”徐德亮说。
+Baidu says its Baike service is a platform for user-generated content, but contributors often use aliases, which makes it impossible to tell who contributed to an entry.
+百度公司表示，百度百科是一个用户生成内容的平台，贡献内容的人经常使用假名，所以无从判断是谁撰写了某个词条。
+“When I go on a show, and the host introduces me to the audience, chances are she looked me up first on Baidu Baike,” he said. “So I have to explain every time how I did not drop out of Peking University.”
+“我出去演出的时候，主持人要向观众介绍我，她有可能事先在百度百科上查看了我的资料，”他说。“所以我每次都不得不解释一下，自己并没有从北京大学退学。”
+Baike employees review submissions and decide themselves whether to clear or reject information for posting.
+百度的员工会对用户上传内容进行审查，自己决定是否删除或拒绝发布用户上传信息。
+Kaiser Kuo, the international communications director for Baidu, declined to comment on the lawsuit or the administration of Baike.
+百度国际媒体公关总监郭怡广(Kaiser Kuo)拒绝就这一诉讼案和百度百科的管理情况置评。
+The previous versions of Mr. Xu’s entry, preserved in easily accessible archives, also listed several shows of which it said he was co-author with a former colleague. Mr. Xu insists he wrote those scripts himself.
+徐德亮的百度百科词条之前的几个版本保存在很容易找得到的档案里，上面还曾列出几个相声作品，并表示这些作品是他和前同事一起创作，徐德亮坚称这些相声是他自己所写。
+Trying to set the record straight, Mr. Xu approached Baidu to see if he could edit his own entry. According to an exchange of emails seen by The Times, a Baidu employee named Liu Ying instructed him to provide supporting evidence for the proposed changes. Ms. Liu told Mr. Xu to “provide enough references to prove all the aforementioned information,” including “basic personal information (date of birth, place of ancestral origin, blood type, height, etc.), awards and prizes won, biography, milestone events and works published.”
+为澄清是非，徐德亮曾联系百度公司，想了解他能否编辑自己的词条。时报看到的几封沟通邮件显示，一位名为刘颖（音）的百度员工告知他，需要提供可以支持修改内容的证据。刘颖告诉徐德亮，他“需要提供足够多的证据，以证明前面所提及所有信息的真实性”，包括“基本个人信息（出生年月、籍贯、血型、身高等），曾获得荣誉和奖励、个人经历、重要事件和已发表作品。”
+She defined references as “content with impeccable credibility from prestigious websites.”
+她所说的证据是指“曾发布于知名网站的确凿可信的内容”。
+Mr. Xu said that was an impossible standard, because much of the information he wanted to include in his Baike entry had never been documented on such sites. He also wondered whether “those who said I dropped out of college meet the verification standards Baidu set for me.”
+徐德亮表示，那是一个无法达到的标准，因为他当时想纳入百度百科中的内容，有很多都不曾在这样的网站发布过。他好奇的是，“那些说我从大学退学的人，在修改信息时有没有达到这样的标准。”
+Unable to meet those reference requirements, Mr. Xu submitted a statement meant to shield Baidu from any possible legal consequences by claiming sole responsibility for his own words.
+由于无法达到这些要求，徐德亮提交了一份旨在不让百度承担任何潜在法律后果的声明，声称会为自己的言论承担全部责任。
+When the new version of his Baike entry came out, it still maintained that he was a co-author of his shows. That was when Mr. Xu sued. (The co-author claim was subsequently dropped, on Aug. 12.)
+有关他的新百科词条仍称他的作品是他与其他人一起创作的。徐德亮提起了诉讼。（针对合著问题的诉讼随后在8月12日被撤销。）
+In the civil complaint filed with the Haidian District Court, which announced on its Weibo microblog site on July 22 that it had agreed to hear the case, Mr. Xu’s legal team argued that errors in his entry were defamatory.
+在向海淀区法院提起的民事诉讼中，徐德亮的律师团队辩称，相关词条中的错误信息属于诋毁。该法院于7月22日在其微博宣布受理该案。
+“The plaintiff is a well-known cross-talk performer and published writer,” read the complaint, referring to a form of Chinese comic dialogue. “As a public figure, he draws attention to his person and his works. When members of the public search Baidu Baike for the plaintiff, the misinformation that shows up causes serious misunderstanding about his person and his works and damages to his reputation.”
+“原告是有名的相声演员及作家，作为公众人物其个人形象和作品受到关注，”起诉书写道。“然而当公众通过百度词条搜索原告时，显示的不实信息将使公众对原告及其作品产生重大误解，损害原告的形象和声誉。”
+The complaint asked Baidu to delete Mr. Xu’s entry and promise never to post a new one.
+起诉书要求百度删除其百度词条，承诺不再建立新词条。 
+“I would go further and ask to become unsearchable on Baidu,” said Mr. Xu, alluding to European cases against Google in which courts granted citizens a right to be forgotten on the Internet.
+“我想更进一步，要求让百度搜索搜不到我，”徐德亮说，他提到了谷歌在欧洲遭到的诉讼，在那些案件中，法院判定公民有被互联网遗忘的权利。
+His lawyers decided to be more realistic. “This is not exactly one of those cases,” said Xiong Chao, an intellectual property rights lawyer representing Mr. Xu. “Chinese laws would not support that.”
+他的律师决定现实一些。“这跟那些案件并不一样，”代表徐德亮的知识产权律师熊超说。“中国法律不会支持。”
+“China is not there yet,” said Mr. Meng, the Internet law expert. “Our justice system has just started to safeguard the more fundamental rights of private citizens on the Internet and needs more time to perfect its legal protection. It’s too soon to bring up the right to be forgotten.”
+“中国还没达到那种程度，”互联网法律专家孟兆平说。“我们的司法系统刚刚开始保护普通公民在网络上的更多基本权利，需要更多时间完善法律保护。现在提被遗忘权还为时过早。”
+Still, Mr. Xu’s lawyers are insisting that what Mr. Xu is asking for is different. They are arguing that unlike Wikipedia, Baidu Baike is a revenue-making product and that Baidu cannot use Mr. Xu’s information, correct or not, to earn profit without his consent. Hence he has a right to disappear from Baike, they argue.
+但徐德亮的律师坚称，徐德亮在寻求不同的东西。他们辩称，与维基百科不同，百度百科是一款盈利产品，百度不能在未经徐德亮同意的情况下利用他的信息赚取利润，无论这些信息正确与否。
+Mr. Xiong expressed caution about what his client can achieve with the lawsuit. “We are arguing that a citizen has the right to disappear on one of the most popular Internet services,” he said. “This has not been done before.”
+熊超对其委托人的诉讼能取得什么样的成果持谨慎态度。“我们认为公民有权利从最受欢迎的网络服务上消失，”他说。“这在之前没有做过。”

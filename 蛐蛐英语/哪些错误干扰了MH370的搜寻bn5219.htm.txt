@@ -1,0 +1,38 @@
+More than a month after the disappearance of Malaysia Airlines Flight 370, searchers pledged to scour the ocean for the plane’s black boxes. But as the batteries powering the data and voice recorders’ sonic beacons fade, so do the chances that the airliner’s wreckage and the 239 bodies of the passengers and crew on board will be found. Several missteps, red herrings and bureaucratic delays have thwarted the search.
+马来西亚航空(Malaysia Airlines)370航班客机失踪一个多月后，搜寻人员承诺将在海洋中彻底搜索，找到飞机的黑匣子。但随着为数据和声音记录器的声学信标供电的电池逐渐耗尽，找到飞机残骸以及239名乘客和机组人员遗骸的可能性也愈加渺茫。多次的失误、干扰以及政府方面的延误令这次搜寻行动效率低下。
+Initial reports of the plane’s location when it disappeared may have been inaccurate.
+一些有关飞机失踪地点的最初报告可能是不准确的。
+When the plane was last in contact with air traffic controllers, at 1:19 a.m. on March 8, about 40 minutes after takeoff, the communication was routine. Minutes later, the plane’s transponder, which signals its identity, altitude and speed to ground radar, failed or was shut off without transmitting any indication to ground control that the plane was veering west. With only that information available, searchers concentrated initially on the area where the plane was when it lost contact — the Gulf of Thailand and East China Sea.
+3月8日凌晨1点19分，飞机起飞大约40分钟后与空管人员进行了最后一次联系，当时的通讯情况是正常的。几分钟后，向地面雷达发射有关飞机身份、高度和速度等信号的应答器失灵，或者被关闭，没有向地面控制人员发送任何将要向西转弯的信号。凭借着仅有的这些信息，搜寻人员最初把主要精力放在飞机失去联系时所在的区域——泰国湾和中国东海。
+The plane veered off its flight path just as responsibility for guiding it was passing from Malaysian to Vietnamese ground controllers. The cockpit signed off with air traffic controllers in Malaysia but never connected with the Vietnamese. This may have caused delays in even recognizing that the plane was missing. Malaysian military radar operators detected an unidentified plane flying erratically westward but did not take action.
+就在飞机的监控责任从马来西亚的空管人员转移到越南方面时，飞机偏离了航线。驾驶舱内人员与马来西亚的空管人员结束了通话，但从未与越南方面建立联系。这可能导致就连人们意识到飞机失踪的时间也被延迟。马来西亚军方雷达操作人员监测到一架身份不明的飞机异常地向西飞行，但没有采取行动。
+Days passed before it was revealed that radar signals had showed the missing plane experiencing changes in altitude and veering drastically off course more than once. Some search efforts were then redirected to the Strait of Malacca and the Andaman Sea, where the radar traces ended, but more days passed before attention was completely diverted from the original search area.
+几天之后人们才得知，雷达信号显示，失踪飞机不止一次地改变了高度，并严重偏离航线。于是，一些搜寻力量被转移到了马六甲海峡和安达曼海——飞机的雷达信号消失的地方，但更多天过去后，注意力才彻底从原来的搜索区域转移。
+False sightings distracted searchers.
+错误消息分散了搜寻人员的注意力。
+An object bobbing in the Gulf of Thailand that, from a distance, looked like a life raft turned out to be the lid of a large box, Vietnamese authorities said. An oil slick in Malaysian waters was found not to contain any jet fuel. An object that appeared to resemble an aircraft tail was a bale of logs lashed together. Other sightings of purported aircraft debris proved similarly fruitless.
+越南当局说，泰国湾上一个远远看上去像是救生筏的漂浮物，结果被证明是一个大箱子的盖子。马来西亚水域发现的一片浮油膜中不含有任何飞机燃油。貌似飞机尾部的一个物体是一捆烂木头。其他传闻中发现的飞机残骸结果都被证实是假的。
+Investigators searching for an explanation for the plane’s disappearance focused initially on two passengers who boarded the aircraft using stolen passports. 
+调查飞机失踪原因的工作人员最初把注意力放在了两名使用偷来的护照登机的乘客身上。
+The two Iranian men were later identified and determined to have no known links to terrorist groups and were dismissed as suspects in the case; they were probably illegal migrants.
+这两名伊朗男子的身份后来被证实，并被确认与恐怖组织没有已知的联系，两人的嫌疑被排除；他们可能是非法移民。
+Officials directing the search did not learn for a week that satellite signals received from the plane showed that it had flown on for several hours after it left its scheduled flight path.
+指挥搜寻行动的官员们在一周的时间里一直不知道，从飞机那里接收到的卫星信号显示，在离开了预定航线之后，飞机又飞行了几个小时。
+Technicians at Inmarsat, the satellite communications firm, pulled the logs of all transmissions from the plane within four hours of its disappearance, but missed a series of fleeting pings between Flight 370, a satellite over the Indian Ocean and a ground station in Perth, Australia. By the time the pings were analyzed and vetted, a week had passed.
+卫星通讯公司Inmarsat公司的技术人员在飞机失踪四小时内就获取了所有传输记录，但却错过了一系列短暂的脉冲信号，这些信号来自370航班、印度洋上空的一颗卫星以及澳大利亚珀斯一个地面站之间。等到开始分析和审查这些脉冲信号时，已经过去了一个星期。
+Early satellite data indicated two possible paths, one north across Central Asia and another south over the Indian Ocean.
+早期的卫星数据指向了两条可能的路径，一条是在北部，穿越亚洲中部的路径，另一条是在南部，印度洋上空的路径。
+Days of search efforts along the northern arc proved to be wasted when further analysis of the signals showed the plane must have flown south instead.
+进一步的分析显示飞机一定是飞向了南部走廊，沿着北部弧线的多日搜寻结果只是白白浪费了时间。
+Satellite data can’t determine the plane’s altitude, leaving searchers to guess about how far it could have flown before running out of fuel. 
+卫星数据无法确定飞机的飞行高度，搜寻者只能猜测飞机在燃油耗尽之前飞了多远。
+By the time of the last recorded signal, the plane would have been nearly out of fuel over a rough, deep ocean. The absence of an altitude indicator has made it challenging to narrow the search zone, which was around 90,000 square miles on Monday before it was narrowed to 30,000 square miles on Tuesday.
+记录到最后一个信号时，飞机可能已经几乎耗尽燃油，在一片凶险深邃的海洋上空。由于没有记录飞机高度的仪器，更加难以缩小搜寻范围，周一的搜寻范围为大约9万平方英里（23.3万平方公里），周二缩小到了3万平方英里。
+The latest search area in the Indian Ocean is remote, deep and difficult to access.
+位于印度洋的最新搜索区域十分遥远，深不见底，难以抵达。
+Angus Houston, the retired Australian air chief marshal who is coordinating the search, said that the task of combing the bed of such a large swath of the Indian Ocean more than 900 miles off the coast of Australia was “herculean.”
+协调这次搜寻行动的澳大利亚退役空军上将安格斯·休斯顿(Angus Houston)说，在印度洋中如此庞大的区域内，对海底进行地毯式搜寻，这项任务“无比艰巨”。
+The batteries of the plane’s black boxes may have expired, which would extinguish the pings.
+飞机黑匣子的电池电量可能已经耗尽，脉冲信号也会因此消失。
+Since the detection of signals, possibly from the black boxes, on April 4-5 by the Chinese ship Haixun 01 and the Royal Australian Navy vessel Ocean Shield, no sounds have been picked up. These pings can only be heard over short distances in the ocean, and water pressure at great depths can affect the signal. Also, the batteries that power the sonic beacons of the plane’s data and voice recorders only last a month or so.
+4月4日至5日，中国舰船“海巡01”和澳大利亚皇家海军(Royal Australian Navy)的船只“海盾号”(Ocean Shield)检测到了这些可能来自黑匣子的信号，但此后再没有探测到信号。这些脉冲信号在海洋中要距离很近才能听到，水下极深位置的压强可能对信号造成影响。此外，为飞机数据和声音记录器的声学信标供电的电池寿命只有一个月左右。

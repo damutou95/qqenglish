@@ -1,0 +1,40 @@
+SAN FRANCISCO — An elaborate, three-year cyberespionage campaign against United States military contractors, members of Congress, diplomats, lobbyists and Washington-based journalists has been linked to hackers in Iran.
+旧金山——一场煞费苦心、持续时间长达三年的网络间谍行动已被认定与伊朗黑客有关，其目标是美国军方的承包商、国会议员、外交官、游说人士和驻华盛顿的记者。
+The campaign compromised the computers of some 2,000 victims and went unnoticed since 2011, according to a report to be released Thursday by iSight Partners, a computer security firm in Dallas.
+达拉斯电脑安全公司iSight Partners周四公布的一份报告称，自2011年以来，前述间谍行动侵害了大约2000名受害者的电脑，且此前一直未被发现。
+American intelligence officials have long said Iranian hackers are a serious threat, not for their technical skills, but because of the country’s vow to retaliate for Stuxnet, the computer virus created by the United States and Israel and unleashed on an Iranian nuclear site.
+长期以来，美国情报官员一直称伊朗的黑客是严重的威胁，不是因为他们的技术，而是因为伊朗发誓要为“震网”事件(Stuxnet)进行报复。“震网”是美国和以色列联合设计的电脑病毒，曾用于攻击伊朗的一处核设施。
+The new report suggests that the Iranian skills gap may be closing.
+这份新报告称，伊朗的技术差距可能正在缩小。
+“This marks the emergence of Iran on the cyberespionage landscape,” said John Hultquish, the head of cyberespionage intelligence at iSight Partners.
+“这表明伊朗正在网络间谍领域崭露头角，”iSight Partners的网络间谍情报负责人约翰·哈特奎什(John Hultquish)说。
+The report details elaborate attacks by a group that has been able to flourish, largely unnoticed.
+这份报告详细记述了一个设法兴旺起来的组织发起的精密攻击，该组织此前鲜为人知。
+The campaign, called “Newscaster” by iSight Partners researchers, employed “social engineering.” Hackers used a dozen fake personas and connected with victims over Facebook, LinkedIn, Twitter and YouTube. They sent their targets malicious links, which downloaded malware onto their machines, or directed them to fake login screens to steal the usernames and passwords.
+被iSight Partners研究人员称作“新闻广播员”(Newscaster)的这一行动使用了“社交工程”的手法。黑客们用了十多个虚假的人物角色，通过Facebook、LinkedIn、Twitter和YouTube与受害者取得联系。他们把恶意链接发给攻击目标，恶意链接会将恶意软件载入攻击目标的机器，或是将目标引向伪造的登陆页面，以窃取用户名和密码。
+Among the fake personas employed by the hackers were the names of real journalists. In one case, hackers purported to be Sandra Maler, a Reuters reporter. In others, they claimed to be employees at military contractors, a tax adviser and reporters for NewsOnAir.org, a fake news organization set up by the hackers. They tried to make the site look legitimate by copying and posting news articles and swapping out the real bylines with one of the fake names.
+这些黑客使用的虚假人物冒用了一些真记者的名字。在其中一起案例中，他们自称是路透社记者桑德拉·马勒(Sandra Maler)。在其他一些案例中，这些黑客称自己是军方承包商雇员、税务顾问以及他们成立的假新闻机构NewsOnAir.org的记者。他们复制并发布新闻稿件，还用假名字替换真正的署名，以便让那个网站显得真实。
+Hackers gave their personas Facebook pages, Twitter accounts, LinkedIn profiles and interacted with one another, even posting news about the death of a family dog. A hacker managing another persona also used social media platforms to publicize a personal blog about depression, aptly titled “My Loneliness.”
+这些黑客给自己的人物角色配备了Facebook页面、Twitter账户和LinkedIn个人简介，相互之间还有交流，甚至发布家里一只狗死了的消息。管理另一个人物角色的黑客还通过社交媒体平台宣传一个有关抑郁的个人博客，那个博客有一个很贴切的名字，叫“我的孤独”。
+“The fact that this has gone largely unnoticed for three years suggests they’ve been very successful in this approach,” said Tiffany Jones, iSight Partners’ senior vice president.
+“这一行动在长达三年的时间里几乎无人察觉，说明他们的招数非常成功，”iSight Partners高级副总裁蒂法尼·琼斯(Tiffany Jones)说。
+Both Ms. Jones and Mr. Hultquist described the effort as the “most elaborate social engineering campaign” they had seen.
+琼斯和胡尔特奎斯特都说，这一行动是他们见过的“最周密的社交工程运动”。
+The iSight report did not say what types of data hackers were able to steal, but Ms. Jones said the list of targets, particularly military contractors, raised concerns that the hackers were after plans for military weapons systems.
+iSight的报告没有说明这些黑客能窃取什么类型的数据，但琼斯说，攻击目标的清单，尤其是列入其中的军方承包商，让人担心这些黑客试图窃取关于军用武器系统的计划。
+There were many clues. The fake NewsOnAir.org website was registered in Tehran and sites that hackers used to deploy their malware were also hosted in Iran. The malware that the hackers used contained several Persian words. The time stamps of hackers’ activity tracked with professional working hours in Tehran. They even took the day off on Iranian weekends and holidays.
+相关的线索很多。伪造的NewsOnAir.org网站在德黑兰注册，黑客用来埋设恶意软件的网站也设在伊朗。黑客们使用的恶意软件包含几个波斯语单词。黑客活动的时间段与德黑兰专业人员的工作时间一致。赶上伊朗的周末和节假日，他们甚至还会放假。
+Another telltale sign, researchers said, was the content the hackers posted on their personas’ social media. In some cases, they posted Iranian jokes to their Facebook pages. One hacker used a Facebook page to ask followers, “What’s kind of sanction will lead to undermining the Iranian nation?”
+研究人员说，另一个明显迹象是黑客发布在他们的角色使用的社交媒体上的内容。有些时候，他们在角色的Facebook页面上发布的是伊朗笑话。一名黑客曾在一个Facebook页面上询问粉丝，“什么样的制裁能对伊朗造成损害？”
+ISight researchers said that because the attacks targeted victim’s personal profiles, much of the malicious activity occurred beyond the watch of their employers at defense contractors, lobbying firms, media outlets and Congress, allowing the attackers to operate undetected for so long.
+ISight的研究人员说，因为攻击目标是受害者的个人页面，许多恶意活动都不会受到受害者在国防承包商、游说公司、媒体或国会的雇主的监控，使得袭击者神不知鬼不觉地活动了这么长的时间。
+“This is a particular threat that can’t be seen and operates outside the perimeter of the enterprise,” Ms. Jones said.
+琼斯说，“这是一种看不见的特殊威胁，活动在机构监控的范围之外。”
+That kind of stealth hasn’t been seen in other attacks attributed to Iranian hackers, who in the past have been connected to blunt attacks meant to slow down or shut down banking sites.
+在被认定为伊朗黑客所为的其他袭击中，人们从未见过如此隐秘的手法。过去，人们曾认定伊朗黑客与一些旨在降低银行网站速度或迫使其关闭的拙劣攻击有关。
+Iranian hackers are also believed to have infected 30,000 computers belonging to Saudi Aramco, the world’s largest oil producer, replacing their contents with an image of a burning American flag.
+据信，伊朗黑客还曾侵入沙特阿美(Saudi Aramco)的3万台电脑，用美国国旗着火燃烧的画面代替了网站的内容。沙特阿美是世界上最大的石油生产商。
+And last year, American officials said Iranian hackers were behind a wave of attacks on several American oil, gas and electricity companies,that officials described as probes looking for ways to disrupt critical processing systems.
+美国的几家石油、天然气和电力公司曾遭受一轮攻击，美国官员去年表示，实施攻击的就是伊朗黑客。官员称，这轮攻击是试探性的，目的是寻找扰乱关键处理系统的方法。
+But the stealth of the Newscaster campaign, which continues, suggests Iranian hackers are not just set on business disruption, the researchers said. Now they are also aiming to steal intellectual property and military and trade secrets.
+但是，研究人员称，仍在持续的“新闻广播员”行动如此隐秘，说明伊朗黑客的目的不只是干扰企业。他们现在还打算窃取知识产权，以及军事和贸易机密。

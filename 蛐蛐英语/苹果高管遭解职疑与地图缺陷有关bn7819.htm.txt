@@ -1,0 +1,36 @@
+Apple fired the executives in charge of the company’s mobile software efforts and retail stores, in a management shake-up aimed at making the company’s divisions work more harmoniously together.
+苹果公司解雇了负责移动软件和零售店业务的高管，此次管理层调整的目的是为了推动公司各部门的合作更加和谐。
+The biggest of the changes involved the departure of Scott Forstall, an Apple veteran who for several years ran software development for Apple’s iPad and iPhone products. Mr. Forstall was an important executive at the company and the one who, in many respects, seemed to most closely embody the technology vision of Steven P. Jobs, the former chief executive of Apple who died a year ago.
+这次人事调整最大的变动是斯科特·福斯特尔(Scott Forstall)的离职，这位苹果的老员工七年来一直在负责苹果iPad和iPhone产品的软件开发。福斯特尔曾是公司举足轻重的高管，在许多方面，他似乎都最大程度地代表了苹果公司一年前去世的前首席执行官史蒂文·P·乔布斯(Steven P. Jobs)的技术理念。
+But Mr. Forstall was also known as ambitious and divisive, qualities that generated more friction within Apple after the death of Mr. Jobs, who had kept the dueling egos of his senior executives largely in check. Mr. Forstall’s responsibilities will be divided among a few other Apple executives.
+然而，福斯特尔也以野心十足和爱闹矛盾著称。乔布斯在世时，基本上能够辖制麾下那些好斗、自大的高管们。但他死后，福斯特尔的这些特点引发了苹果公司更多的内部摩擦。福斯特尔的职责将被分配给其他几位苹果高管。
+While tensions between Mr. Forstall and other executives had been mounting for some time, a recent incident appeared to play a major role in his dismissal. After an outcry among iPhone customers about bugs in the company’s new mobile maps service, Mr. Forstall refused to sign a public apology over the matter, dismissing the problems as exaggerated, according to people with knowledge of the situation who declined to be named discussing confidential matters.
+尽管在此之前，福斯特尔和其他高管之间的矛盾已积聚了一段时间，但最近发生的一件事似乎是他离职的主要原因。据知情人士称，在iPhone用户对苹果公司新推出的移动地图服务的诸多漏洞纷纷表示不满后，福斯特尔拒绝在一封针对此事的公开道歉信上签字，他认为问题被夸大了。由于是在讨论保密事宜，这些知情人士拒绝具名。
+Instead, Timothy D. Cook, Apple’s chief executive, in September signed the apology letter to Apple customers over maps.
+于是苹果公司首席执行官蒂莫西·D·库克(Timothy D. Cook)今年9月在就地图问题致苹果用户的道歉信上签了字。
+Apple said in a news release on Monday that the management changes would “encourage even more collaboration” at the company. But people briefed on Apple’s moves, who declined to be identified talking about confidential decisions at the company, said Mr. Forstall and Mr. Browett were fired.
+周一，苹果在其发布的一份新闻稿中称，管理层人事变动将“鼓励公司内部更多的合作”。然而获悉苹果举动的人士透露，福斯特尔和布劳伊特(Browett)是被解雇的。这些人士谈及苹果公司的保密决定时要求隐去姓名。
+Steve Dowling, an Apple spokesman, said neither executive was available for an interview. Mr. Forstall did not respond to interview requests over e-mail and Facebook.
+苹果公司发言人史蒂夫·道林(Steve Dowling)说两位高管均无法接受采访。福斯特尔也没有对通过邮件和Facebook发出的采访请求做出回应。
+John Browett, who took over as head of the company’s retail operations in April, will also leave the company after a number of missteps. Apple said that a search for a new head of retail was under way and that the retail team would report directly to Mr. Cook in the meantime.
+今年4月成为公司零售业务主管的约翰·布劳伊特(John Browett)，在几次失误后也将离开苹果。苹果表示，目前正在寻找一位新的零售业务主管。与此同时，零售团队将直接向库克报告。
+Mr. Forstall will leave Apple next year and serve as an adviser to Mr. Cook until then.
+福斯特尔将于明年离开苹果，在那之前，他会担任库克的顾问。
+Eddy Cue, who oversees Apple’s Internet services, will take over development of Apple maps and Siri, the voice-activated virtual assistant in the iPhone. Both technologies have been widely criticized by some who say they fall short of the usual polish of Apple products.
+负责苹果网络业务的埃迪·库埃(Eddy Cue)，将接手苹果地图和iPhone语音虚拟助手Siri的开发工作。这两项技术受到了广泛批评，一些人称它们缺乏苹果产品所惯有的细致雕琢。
+Jonathan Ive, the influential head of industrial design at Apple, will take on more software responsibilities at the company by providing more “leadership and direction for Human Interface,” Apple said. Craig Federighi, who was previously in charge of Apple’s Mac software development, will also lead development of iOS, the software for iPads and iPhones.
+苹果公司说，负责工业设计的乔纳森·艾夫(Jonathan Ive)将担负更多软件方面的职责，这位极有影响力的设计师将在“用户界面方面担当更多领导和指引的责任”。曾负责苹果Mac软件开发的克雷格·费代里吉(Craig Federighi)将领导iPad和iPhone软件iOS的开发。
+Apple said Bob Mansfield, an executive who previously ran hardware engineering and was planning to retire from Apple, will lead a new group, Technologies. That group will combine Apple’s wireless and semiconductor teams. Apple in a statement said the semiconductor teams had “ambitious plans for the future.”
+苹果说，以前负责硬件工程并准备从苹果退休的鲍勃·曼斯菲尔德(Bob Mansfield)将领导一个新的部门——技术部。该部门将融合苹果的无线开发和半导体团队。苹果在一份声明中指出，半导体团队“对未来有宏伟的规划”。
+Recently, Mr. Mansfield had been working on his own projects at the company, operating without anyone reporting to him directly. One of the areas of interest Mr. Mansfield had been exploring is health-related accessories and applications for Apple’s mobile products, said an Apple partner who declined to be named discussing unannounced products.
+近来曼斯菲尔德主要在苹果公司做自己的一些项目，没有直接向他汇报的下属。苹果公司的一位合作伙伴说，曼斯菲尔德研究的方向包括为苹果移动产品开发一些与健康相关的配件和应用程序。由于内容涉及未发布的产品，该合作伙伴要求保持匿名。
+Mr. Forstall was a staunch believer in a type of user interface, skeuomorphic  design, which tries to imitate artifacts and textures in real life. Most of Apple’s built-in applications for iOS use skeuomorphic design, including imitating thread of a leather binder in the Game Center application and a wooden bookshelf feel in the newsstand application.
+福斯特尔热衷于模仿现实物品设计的用户界面，这种设计理念会努力仿造实体物品及其真实质感。多数苹果iOS里内置的应用程序都运用了模仿现实物品的设计，包括Game Center程序里仿皮质记事本的条状图样，以及“报刊杂志”(Newsstand)程序里的木质书架设计。
+Mr. Jobs was also a proponent of skeuomorphic design; he had a leather texture added to apps that mimicked the seats on his private jet. Yet most other executives, specifically Mr. Ive, have always believed that these artifacts looked outdated and that user interface design on the computer had reached a point where skeuomorph was no longer necessary.
+乔布斯也一直是仿现实物品设计这一理念的拥趸，他曾仿照自己私人飞机座椅的质感，给一些程序增加了皮质外观。但是多数管理层，特别是艾夫始终认为，这些设计效仿的物品看上去已经过时，而且电脑用户界面设计也已经发展到了不再需要模仿现实物品的阶段。
+Mr. Forstall, who trained as an actor at a young age, also shared with Mr. Jobs a commanding stage presence at events introducing Apple products, often delivering his speeches with a pensive style that echoed that of Mr. Jobs.
+福斯特尔年轻时曾接受过表演训练。和乔布斯一样，福斯特尔在发布苹果产品时控场能力也很强，他在讲话时往往神情严肃，颇有乔布斯的风范。
+According to two people who have worked with Apple to develop new third-party products for the iPhone, the relationship between Mr. Forstall and Mr. Ive had soured to a point that the two executives would not sit in the same meeting room together.
+两位曾与苹果合作，为iPhone开发第三方产品的人士透露，福斯特尔和艾夫的关系一度闹僵，以至于这两位高层拒绝坐在同一间会议室里。
+A senior Apple employee who asked not to be named said Mr. Forstall had also incurred the ire of other executives after inserting himself into product development that went beyond his role at the company. One person in touch with Apple executives said the mood of people at the company was largely positive about Mr. Forstall’s departure.
+一位要求匿名的苹果高级员工提到，福斯特尔介入产品开发时超出了他在公司的职权范围，曾激起其他高层的不满。一个和苹果高层有接触的人士指出，苹果员工对于福斯特尔即将离职基本上持积极态度。

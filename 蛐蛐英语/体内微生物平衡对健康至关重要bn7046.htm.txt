@@ -1,0 +1,40 @@
+We may think of ourselves as just human, but we’re really a mass of microorganisms housed in a human shell. Every person alive is host to about 100 trillion bacterial cells. They outnumber human cells 10 to one and account for 99.9 percent of the unique genes in the body.
+我们或许认为自己只是一个人，但我们实际上是寄存在人体躯壳内的大量微生物。每个活着的人体内都有大约100万亿个微生物细胞。微生物细胞的数量是人体细胞的10倍，在人体的独特基因中占99.9%。
+Katrina Ray, a senior editor of Nature Reviews, recently suggested that the vast number of microbes in the gut could be considered a “human microbial ‘organ’” and asked, “Are we more microbe than man?”
+《自然评论》(Nature Review)的高级编辑卡特里娜·雷(Katrina Ray)最近表示，可以把内脏中的大量微生物当作一个“人类微生物‘器官’”，并问道，“我们更多的是微生物，还是人？”
+Our collection of microbiota, known as the microbiome, is the human equivalent of an environmental ecosystem. Although the bacteria together weigh a mere three pounds, their composition determines much about how the body functions and, alas, sometimes malfunctions.
+我们的微生物菌群，也就是微生物组，相当于人体中的环境生态系统。虽然细菌的总重量只有三磅，它们的构成在很大程度上决定着人体的运转，哎，以及机能失常。
+Like ecosystems the world over, the human microbiome is losing its diversity, to the potential detriment of the health of those it inhabits.
+就像全世界的生态系统一样，人类微生物菌群正在失去它们的多样性，以至于可能会损害它们所寄居的主体的健康。
+Dr. Martin J. Blaser, a specialist in infectious diseases at the New York University School of Medicine and the director of the Human Microbiome Program, has studied the role of bacteria in disease for more than three decades. His research extends well beyond infectious diseases to  autoimmune conditions and other ailments that have been increasing sharply worldwide.
+纽约大学医学院(New York University School of Medicine)传染病专家、 人类微生物组计划(Human Microbiome Program)负责人马丁·J·布拉泽(Martin J. Blaser)博士在过去30多年间，一直研究细菌在疾病中发挥的作用。除传染病外，他的研究范围还囊括了自体免疫疾病，以及其他在世界范围内急剧增加的疾病。
+In his new book, “Missing Microbes,” Dr. Blaser links the declining variety within the microbiome to our increased susceptibility to serious, often chronic conditions,  from allergies and celiac disease to Type 1 diabetes and obesity. He and others primarily blame antibiotics for the connection.
+布拉泽在他的新书《消失的微生物》(Missing Microbes)中表示，微生物组多样性的减少导致我们更容易感染严重且通常都是慢性的疾病——从过敏、乳糜泻到一型糖尿病和肥胖症。布拉泽及其他人认为，这主要是由抗生素造成的。
+The damaging effect of antibiotics on microbial diversity starts early, Dr. Blaser said. The average American child is given nearly three courses of antibiotics in the first two years of life, and eight more  during the next eight years. Even a short course of antibiotics like the widely prescribed  Z-pack (azithromycin, taken for five days), can result in long-term shifts in the body’s microbial environment.
+布拉泽表示，抗生素很早就开始对微生物多样性产生破坏。普通的美国儿童在出生的头两年要接受大约三个疗程的抗生素，在接下来的八年里，要再进行八个疗程。很短疗程的抗生素就能致使人体的微生物环境发生长期转变，比如被广泛使用的Z-pack（阿奇霉素，服用五天）。
+But antibiotics are not the only way the balance within us can be disrupted. Cesarean deliveries, which  have soared  in recent decades, encourage the growth of microbes from the mother’s skin, instead of from the birth canal, in the baby’s gut, Dr. Blaser said in an interview.
+但抗生素并不是破坏平衡的唯一因素。布拉泽接受采访时表示，近几十年，选择剖腹产的人激增，剖腹产促使婴儿内脏中的微生物来自母亲的皮肤，而不是产道。
+This change in microbiota can reshape an infant’s metabolism and immune system. A recent review of 15 studies involving 163,796 births found that, compared with  babies delivered vaginally, those born by cesarean section were 26 percent more likely to be overweight and 22 percent more likely to be obese as adults.
+微生物组的变化能够改变婴儿的新陈代谢和免疫系统。最近，相关人员查阅了15项共涉及16万3796个分娩案例的研究，结果发现，与顺产的婴儿相比，剖腹产婴儿成人后超重的几率要高26%，肥胖的风险要高22%。
+The placenta has a microbiome of its own, researchers have discovered, which may also contribute to the infant’s gut health and help mitigate the microbial losses caused by cesarean sections.
+胎盘有自己的微生物组，研究人员发现，这个微生物组可能也有助于婴儿的内脏健康，减少由剖腹产引发的微生物损耗。
+Other studies have found major differences in the microorganisms living in the guts of normal-weight and obese individuals. Although such studies cannot tell which came first — the weight problem or the changed microbiota — studies indicate obese mice have gut bacteria that are better able to extract calories from food.
+其他研究发现了正常体重者与肥胖者肠道中微生物的主要差异。虽然这些研究不能说明最先出现的是哪个问题——体重问题或微生物组的变化，但研究说明，肥胖的老鼠体内存在能够更好地从食物中吸取热量的肠道菌群。
+Further evidence of a link to obesity comes from farm animals. About three-fourths of the antibiotics sold in the United States are used  in  livestock. These  antibiotics change the animals’ microbiota, hastening their growth.
+与肥胖相关的进一步证据来自农场里的动物。在美国出售的抗生素中，大约有四分之三都用在牲畜身上。这些抗生素改变了动物的微生物菌群，加快了它们的生长速度。
+When mice are given the same  antibiotics used on livestock, the metabolism of their liver changes, stimulating an increase in body fat, Dr. Blaser said.
+布拉泽说，当我们把用于牲畜的抗生素用在老鼠身上时，它们的新陈代谢就会发生改变，并促使它们的体脂增加。
+Even more serious is  the increasing number of serious disorders now linked to a distortion in the microbial balance in the human gut. They include several that are becoming more common in developed countries: gastrointestinal ailments like Crohn’s disease, ulcerative colitis and celiac disease; cardiovascular disease; nonalcoholic fatty liver disease; digestive disorders like chronic reflux; autoimmune diseases like multiple sclerosis and rheumatoid arthritis; and asthma and allergies.
+更严重的是，如今有越来越多严重的功能失调都与人类内脏的微生物平衡被破坏有关。其中有几种在发达国家中变得越来越常见：克隆氏症、溃疡性结肠炎和乳糜泻等胃肠疾病；心血管疾病；非酒精性脂肪肝；慢性反流症等消化失调问题；多发性硬化和风湿性关节炎等自体免疫疾病，以及哮喘和过敏。
+Some researchers have even speculated that  disruptions of gut microbiota play a role in celiac disease and the resulting explosion in demand for gluten-free foods even among people without this disease.  In a mouse model of Type 1 diabetes, treating the animals with antibiotics accelerates the development of the disease, Dr. Blaser said.
+有些研究人员甚至推断，内脏微生物菌群失调是造成乳糜泻的原因，所以甚至连没得这种病的人对无麸质食物的需求也会激增。布拉泽说，以患1型糖尿病的老鼠为例，对这些动物使用抗生素，只会加速疾病的发展。
+He and other researchers, including a team from Switzerland and Germany, have also linked  the serious rise in asthma rates to the “rapid disappearance of Helicobacter pylori, a bacterial pathogen that persistently colonizes the human stomach, from Western societies.” Once, virtually everyone harbored this microbe, which European researchers have shown protected mice from developing hallmarks of allergic asthma. 
+他和其他研究人员，其中包括来自瑞士和德国的一组研究人员也认为哮喘患病率的大幅上升与“幽门螺杆菌从西方社会快速消失有关，幽门螺杆菌是一种长期寄存在人类胃里的细菌性病原体”。曾几何时，几乎每个人体内都有这种细菌，欧洲研究者已经证明它能防止老鼠出现过敏性哮喘的症状。
+H. pylori colonization in early life encourages  production of regulatory T-cells in the blood, which Dr. Blaser said are needed to tamp down allergic responses. Although certain strains of H. pylori are linked to the development of peptic ulcer and stomach cancer, other strains are protective, his studies indicate.
+在生命的早期阶段，幽门螺杆菌的存在能促使血液中产生T细胞。布拉泽表示，压制过敏反应就需要这种细胞。他的研究表明，虽然有些类型的幽门螺杆菌与消化性溃疡和胃癌有关，但其他类型则具有保护作用。
+Research by Dr. Blaser and his colleagues further suggests that H. pylori in the stomach protects against gastroesophageal reflux disease, Barrett’s esophagus and esophageal cancer.
+布拉泽和同事的研究进一步表明，胃部的幽门螺杆菌能够防止胃食管返流疾病、巴雷特氏食管和食道癌。
+Still, it is not always possible for researchers to tell whether disruptions in gut microbiota occur before or after people become ill. However, studies in laboratory animals often suggest the bacterial disturbances come first.
+然而，研究者不是总能说明肠道菌群紊乱会在人们生病之前还是之后出现。不过，对实验室动物的研究往往表明，菌群紊乱会发生在生病之前。
+Dr. Blaser, among many others, cautions against the overuse of antibiotics, especially the broad-spectrum drugs now commonly prescribed. He emphasized in particular the importance of using fewer antibiotics in  children.
+布拉泽等人提醒人们注意不要滥用抗生素，尤其是现在普遍使用的用途广泛的药物。他突出强调了减少在儿童身上使用抗生素的重要性。

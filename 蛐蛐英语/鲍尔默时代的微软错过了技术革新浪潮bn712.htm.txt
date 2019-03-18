@@ -1,0 +1,34 @@
+By now, you’ve probably heard: Steven A. Ballmer will soon be stepping down as chief executive of Microsoft.
+现在大家或许都听说了：史蒂文·A·鲍尔默(Steven A. Ballmer)很快就会从微软(Microsoft)首席执行官的位置上离开。
+It’s supposedly a voluntary retirement, but that holds about as much credibility as a public official’s leaving a job “to spend more time with family.” Microsoft has been flailing, and many prominent voices have been calling for Mr. Ballmer to step aside.
+表面看来这是自愿退休，不过这话的可信度跟政界人士号称“为了花更多时间与家人在一起”而离职差不多。微软一直处于挣扎之中，许多重要人物也在呼吁鲍尔默让位。
+Many of the factors in his departure — stock price, internal politics, shareholder pressure, public relations — aren’t my area of expertise. I’m a tech critic, a reviewer of products. But even from my particular angle of examination, Mr. Ballmer’s time as the head of Microsoft has been baffling.
+他离去的许多因素，比如股价、内斗、股东施压、公共关系等，都不属于我的专业范畴。我是个技术评论人，专长产品评测。然而，就算是从我这个小小的领域来审视，鲍尔默在微软当老大的日子也可谓困扰不断。
+He completely missed the importance of the touch-screen phone. (“There is no chance that the iPhone is going to get any significant market share,” he said in 2007.) He missed the importance of the tablet, too. Yes, Microsoft now sells attractive phones and tablets, but they came years too late. They have minuscule market share and little influence.
+他完全忽视了触屏手机的重要性。（2007年，他曾宣称，“iPhone不可能占据很大的市场份额。”）他也忽视了平板电脑的重要性。没错，微软现在销售的手机和平板是挺诱人，但是晚了几年。它们的市场份额微乎其微，影响力小之又小。
+It doesn’t take a psychologist to understand why Microsoft missed these tidal shifts: It’s always been a PC company. It helped to create the PC revolution, its bread and butter was the PC — and so of course the company kept insisting that the PC was the future.
+无需请教科学家就能明白，微软为何错失了这些变革浪潮：它从头到尾就是家PC企业。它促成了PC革命的到来，PC就是公司的口粮，那么自然而然地，它一直要嘴硬地宣称PC代表着未来。
+It would have taken an exceptional thinker, an out-of-the-box visionary, to admit that the company’s foundation was crumbling. Mr. Ballmer wasn’t that guy.
+要承认微软的根基正在崩塌，必须得是个智慧超群、高瞻远瞩、不按常理出牌的人物。鲍尔默并不是这种人。
+Indeed, his instinct to cling to the past is also responsible for the train wreck that is Windows 8. Under Mr. Ballmer, Microsoft created an elegant, clean, easy-to-use, unnamed new operating system that I call TileWorld; it’s the touch-screen face of Windows.
+实际上，他吃老本的本能也对Windows 8的惨败负有责任。在鲍尔默的领导下，微软本来打造了一款优雅、清爽且易用的未命名新操作系统。它是Windows的触屏版本，我称之为“磁贴世界”(TileWorld)。
+But Mr. Ballmer and his team lacked the courage to break completely with the increasingly complex, bloated desktop version of Windows. So they created Windows 8 simply by grafting TileWorld onto the old desktop Windows. The result is exactly twice as complicated as before, because now you have twice as much to learn.
+鲍尔默及其团队没有胆量与日益复杂而膨胀的Windows桌面版本决裂。所以他们创造出来了Windows 8，干脆把“磁贴世界”嫁接到老版的桌面Windows上。结果就是，复杂度正好翻番，因为用户要学习的东西翻番了。
+As I wrote in my review:
+我在评测中写道：
+“You have what feels like two different Web browsers, each with different designs and conventions. In TileWorld, the address bar is at the bottom; in Desktop Windows, it’s at the top. In the desktop version, your bookmarks appear as a Favorites list; in TileWorld, they’re horizontally scrolling icons. TileWorld has no History list at all (only autocomplete for recently visited sites).
+“你就像是有两个设计和使用习惯迥异的浏览器，在‘磁贴世界’操作系统中，地址栏位于底部，而在‘桌面Windows’中则位于顶部。在‘桌面Windows’中，书签以收藏夹列表的形式出现，而在‘磁贴世界’中，则是水平滚动的图标。‘磁贴世界’里压根就没有历史记录（只会自动补充最近浏览过的网址）。
+“Settings are now in three different places. In TileWorld, basic settings like brightness and volume are accessible from the panel that appears when you swipe in from the right. A second set of settings appears when you tap Change PC Settings on that panel. A third, more complete set still resides in the Control Panel back in Desktop Windows.”
+“设置功能出现在三个不同的地方。在‘磁贴世界’里，亮度和音量等基本设置可以在从右向左轻扫后出现的面板中找到。在该面板上轻点‘修改PC设置’后，会出现另一组设置选项。更完整的选项则隐藏在‘桌面Windows’的‘控制面板’里。”
+How could Microsoft not see that this was a design disaster?
+微软怎么会看不出这是一场设计灾难呢？
+Windows 8 computers haven’t sold well; Microsoft’s Surface tablets have bombed; Windows Phone has about 4 percent market share. The dawn of the touch-screen-PC era that Microsoft predicted hasn’t come to pass, either. And PC sales, all over the world, are way down. That may be partly because of the phone-and-tablet revolution — but the Windows 8 mess certainly didn’t help.
+Windows 8电脑销量不佳；微软的Surface平板一败涂地；Windows Phone的市场占有率约为4%。微软预言的触屏PC时代的黎明也没有到来，而PC的销量，在世界各地都呈下降趋势。这里面也许有手机与平板革命的原因，但糟糕的Windows 8无疑帮了倒忙。
+In some ways, Microsoft has been frozen in time since Mr. Ballmer took the helm 13 years ago. It’s still raking in money from its big three cash cows: Office, Windows and XBox. Even if it did nothing but rearrange the toolbars in each year’s new versions, they’d still sell.
+在某些方面，自打鲍尔默13年前执掌微软以来，公司就停滞不前。通过Office、Windows和XBox这三大摇钱树，微软还是赚得盆满钵满。就算是在每年的新版本里头除了调整工具栏之外什么都不干，仍然会大卖。
+But most of Mr. Ballmer’s initiatives haven’t fallen on fertile ground.
+但是，鲍尔默的大部分计划都没有开花结果。
+As the New York Times article about Mr. Ballmer’s resignation makes clear, it won’t be easy for his successor, whoever that turns out to be. Microsoft is a sprawling empire without a particularly clear vision, other than, “Keep Windows, Office and XBox alive.”
+正如《纽约时报》关于鲍尔默辞职的文章阐明的那样，不管他的继任者是谁，都不会轻松。微软帝国在持续扩大疆土，但除了“保住Windows、Office和XBox不倒”之外，并没有一个清晰的远景规划。
+But here’s hoping that whoever takes his place will have the courage to break with the past, to make the big changes that Microsoft would need to become a tech leader again. Right now, the company’s ship is chained to the traditional PC — and it’s turning out to be a very heavy anchor.
+不管谁接替鲍尔默，希望此人能有胆量与过去决裂，进行必需的巨大变革，让微软重新成为技术的引领者。此时此刻，微软这艘船与传统PC拴在了一起，要起锚航行实在是太艰难了。

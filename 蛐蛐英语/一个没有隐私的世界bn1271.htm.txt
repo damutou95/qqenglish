@@ -1,0 +1,32 @@
+In his great and prophetic novel “1984,” George Orwell laid out his vision of what totalitarianism would look like if taken to its logical extreme. The government — in the form of Big Brother — sees all and knows all. The Party rewrites the past and controls the present. Heretics pop up on television screens so they can be denounced by the populace. And the Ministry of Truth propagates the Party’s three slogans:
+《1984》是乔治·奥威尔(George Orwell)的伟大著作。在这本预言式的小说里，他把极权主义进行了逻辑推演，展示了它在极端情况下的模样。政府以老大哥的形象出现，监视一切、知道一切。党重写历史，掌控当下。异端会出现在电视屏幕上，以供群众批判。还有一个真理部宣传着党的三大口号：
+WAR IS PEACE.
+战争即和平。
+FREEDOM IS SLAVERY.
+自由即奴役。
+IGNORANCE IS STRENGTH.
+无知即力量。
+Dave Eggers’s new novel, “The Circle,” also has three short, Orwellian slogans, and while I have no special insight into whether he consciously modeled “The Circle” on “1984,” I do know that his book could wind up being every bit as prophetic.
+在戴夫·埃格斯(Dave Eggers)的新小说《圆圈》(The Circle)中，也存在着奥威尔式的三条简短口号。他是不是有意模仿《1984》来构建《圆圈》？对此我并没有什么深刻的见解，但我知道，他的新书最后也很可能具备同样的预见性。
+Eggers’s subject is what the loss of privacy would look like if taken to its logical extreme. His focus is not on government but on the technology companies who invade our privacy on a daily basis. The Circle, you see, is a Silicon Valley company, an evil hybrid of Google, Facebook and Twitter, whose cultures — the freebies, the workaholism, the faux friendliness — Eggers captures with only slight exaggeration.
+埃格斯这本书的主题是，如果按照逻辑推演，丧失隐私的情况达到极致，将会出现怎样的景象。他的注意力并没有放在政府上，而是放到了日复一日地闯入我们隐私地带的科技公司身上。你将看到，圆圈是一家硅谷公司，是谷歌(Google)、Facebook和Twitter的邪恶混血。埃格斯成功地捕捉了此类公司的文化——免费、工作狂，外加虚情假意——就算夸张也夸张得不多。
+The Circle has enormous power because it has become the primary gateway to the Internet. Thanks to its near-monopoly, it is able to collect reams of data about everyone who uses its services — and many who don’t — data that allows The Circle to track anyone down in a matter of minutes. It has begun planting small, hidden cameras in various places — to reduce crime, its leaders insist. The Circle wants to place chips in children to prevent abductions, it says. It has called on governments to be “transparent,” by which it means that legislators should wear a tiny camera that allows the world to watch their every move. Eventually, legislators who refuse find themselves under suspicion — after all, they must be hiding something. This is where The Circle’s logic leads.
+圆圈公司拥有巨大的权势，因为它已演变为互联网的主要门户。由于几近一统天下，它有能力从每个用户身上搜集大量的数据，进而能在几分钟之内找到任何人的下落。它甚至搜集了很多非用户的数据。圆圈已开始在各种地方安置小型隐蔽摄像头——公司高层坚称，这样做是为了减少犯罪。它还想往小朋友体内植入芯片；公司声称，这样就能够避免诱拐。圆圈呼吁政府保持“透明”，意思是说，议员需要佩戴微型摄像头，这样全世界都能看清他们的一举一动。最后，那些拒绝佩戴的议员发现，自己成为了怀疑的对象——毕竟，他们肯定是有什么不可告人。而这，就是圆圈公司的逻辑推演下的结果。
+Of course, nobody who works for The Circle thinks what he or she is doing is evil. On the contrary, like many a real Silicon Valley executive, they view themselves as visionaries, whose only goal is benign: to make the world a better place.
+当然，没有一个公司员工认为自己在作恶。恰恰相反，他们自视为梦想家，只有一个善意的目标：让世界变得更加美好。这跟现实世界里的许多硅谷高管的想法如出一辙。
+“We’re at the dawn of the Second Enlightenment,” says one of The Circle’s founders in a speech to the staff. “I’m talking about an era where we don’t allow the majority of human thought and action and achievement and learning to escape as if from a leaky bucket.” It believes if it can eliminate secrecy people will be forced to be their best selves all the time. It even toys with the idea of getting the government to require voters to use The Circle — to force them to vote on Election Day. And, of course, it has found multiple ways to monetize the data it collects. As for the potential downside of this loss of privacy, it is waved away by Circle executives as if too trifling to even consider.
+圆圈公司的一名创始人在对员工讲话时提到，“我们即将迎来第二次启蒙运动。在这个新时代里，我们不会允许人类大多数的思想、行为、成就和知识流逝，就像从一个漏桶里溜走。”公司相信，如果它能消灭人的秘密，那么大家就不得不无时无刻做最好的自己。它甚至还有一种想法，要让政府要求选民使用圆圈系统——这样就能强制他们在选举日投票。当然，对于掌握在手中的数据，公司也找到了很多方法来赢利。至于说消灭隐私的负面影响，圆圈的高管大手一挥，似乎认为太无足轻重，根本用不着考虑。
+Is this vision of the future far-fetched? Of course it is — though no more than “1984” was. “The Circle” imagines where we could end up if we don’t begin paying attention. Indeed, what is striking is how far down this road we have already gone. Thanks to Edward Snowden, we know that the National Security Agency has the ability to read our e-mails and listen to our phone calls. Google shows us ads based on words we use in our Gmail accounts. Last week, Facebook — which has, in shades of Orwell, a chief privacy officer — removed a privacy setting so that any Facebook user can search for any other Facebook user. The next day, Google unveiled a plan that would make it possible for the company to use its customers’ words and likeness in ads for products they like — information that Google knows because, well, Google knows everything.
+此番对未来的展望是否过于离奇了？当然是，不过也没有超过《1984》的程度。《圆圈》一书设想的是，如果我们不开始关注这个问题的话，可能会有怎样的后果。实际上，让人震惊的是，我们已经在这条路上走了很远。因为爱德华·斯诺登(Edward Snowden)的揭秘，我们现在知道，美国国家安全局(National Security Agency)有能力阅读我们的电子邮件并监听我们的电话。我们在Gmail账户中使用的关键字，会被谷歌用来显示相应的广告。让人联想起奥威尔的是，Facebook有一个首席隐私官。它上周取消了一项隐私设定，于是每个Facebook用户都能搜索到任意一个该网站的用户。第二天，谷歌就推出了一项计划，允许它利用消费者的言论和好恶来推介受他们青睐的产品的广告——谷歌之所以知道这些信息，是因为，好吧，谷歌全知全能。
+So, yes, while we’re not in Eggers territory yet, we are getting closer. I don’t have either a Facebook or a Twitter account, yet every few days I get an e-mail from one of the two companies saying that so-and-so is waiting for me to join them in social media land. The people it picks as my potential “friends” are very often people with whom I’ve never been a true colleague, but I’ve briefly met at some point in my life. It is creepy to me that the companies know that I know these particular people.
+所以，就算还没有走到埃格斯描绘的那一步，我们也在越来越靠近。我没有Facebook或者Twitter账号。但每隔几天，我总会收到这两家公司中某一家的电子邮件，告诉我谁谁谁正等着我加入他们的行列，进入社交媒体的世界。邮件中选取的人士，即那些我潜在的“朋友”，往往不过是我在生命中短暂接触过，绝不是什么真正的同事。这些公司知道我还认识这些人，真让我不寒而栗。
+“If you have something that you don’t want anyone to know,” Eric Schmidt, the former chief executive of Google, once said, “maybe you shouldn’t be doing it in the first place.” That line could easily have been uttered by one of Dave Eggers’s characters. That is the thought-process that could someday cost us our last shred of privacy. “The Circle” is a warning.
+谷歌公司前首席执行官埃里克·施密特(Eric Schmidt)曾经说过，“如果你有什么事情，不想让任何人知道，也许一开始你就不应该去做这件事。”这句话很像出自戴夫·埃格斯笔下的人物之口。这种思维方式或许哪天就会让我们失去最后的一点隐私。《圆圈》真是警世良言。
+(And in case you’re wondering, here are The Circle’s three slogans:
+（如果大家还惦记着，那么，以下就是《圆圈》里的三大口号：
+SHARING IS CARING.
+共享即关怀。
+SECRETS ARE LIES.
+秘密即谎言。
+PRIVACY IS THEFT.)
+隐私即盗窃。）

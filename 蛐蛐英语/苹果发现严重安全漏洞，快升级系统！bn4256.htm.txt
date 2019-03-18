@@ -1,0 +1,20 @@
+This week, Apple rushed out a patch for its iOS 7 and iOS 6 operating systems to fix a serious security issue. Before I explain further, let me just say this: If you’ve gotten the prompt to update and you haven’t, do it now. If you’re still running older versions of iOS on your iPhone, iPod, or iPad, update now.
+本周，苹果匆匆推出了针对iOS7和iOS6操作系统的补丁，来修补一个严重的安全问题。在我进一步解释之前，我想简单地说：如果你收到了更新的提示，却还没有做，那么现在就更新吧。如果你的iPhone、iPod或iPad上还在用老版的iOS系统，那么现在就更新。
+Done? O.K., good.
+完成了吗？好，很好。
+While you’re at it, go download either Chrome or Firefox for your Mac, and stop using Safari immediately until you see a security update for OS X Mavericks, as well.
+更新的同时，同时为你的Mac下载Chrome或Firefox浏览器，立即停止使用Safari，直到你看到针对OS X Mavericks的安全更新。
+In a nutshell, Apple has a security hole in both its mobile and desktop operating systems that could let a malicious hacker jump in on what you think is a secure Web transaction if you’re on a public Wi-Fi network like those at a coffee shop, airport or some other location.
+简而言之，苹果(Apple)的移动操作系统和桌面操作系统都存在一个安全漏洞。当你在咖啡馆、机场等地使用公共Wi-Fi网络时，你以为你正在进行一次安全的网络交易，但这个漏洞可能会允许一位恶意的黑客趁机打劫。
+The vulnerability affects SSL/TLS, or Secure Socket Layer and Transport Layer Security. These are the two technologies that supposedly encrypt the conversation between your browser and the server you’re trying to access when you visit a website. They’re represented by an “https” rather than “http” in your browser’s URL bar, and they’re supposed to mean you’ve got a secure browsing session in effect.
+这个漏洞会影响SSL/TLS，也就是安全套接层（Secure Socket Layer，缩写SSL）和传输层安全性（Transport Layer Security，缩写TLS）。当你浏览一个网站时，这两种技术从理论上会将网站服务器和你浏览器之间的会话进行加密。你浏览器的地址栏里会显示出https而不是http，这应该意味着，你的浏览是安全的。
+In fact, thanks to this bug, it’s very possible you don’t. The problem lies in validating the security certificates that are sent back and forth when you’re establishing a secure connection. Thanks to this flaw, your browser can’t verify the authenticity of an encryption certificate, meaning someone could easily be pretending to be your bank’s website, your doctor’s office site or a credit card application form.
+事实上，由于出现了这一漏洞，你所进行的浏览很可能是不安全的。当你建立一个安全连接时，会对往来传送的安全证书进行验证，问题就出现在这里。正是因为这一缺陷，你的浏览器无法验证一个加密证书的真实性，也就是说有人能够轻而易举地假冒你的银行网站、你医生的官方网站或一个信用卡申请表。
+There are excellent posts here and here about the severity, technicalities and potential of the vulnerability.
+在这里和这里，你可以找到一些有关该漏洞的严重性、技术细节和潜在风险的文章，都写得很不错。
+The update to iOS fixes the problem, but as of now, it’s still an issue on OS X Mavericks (although it may not exist in earlier versions of the operating system) for Macintosh computers. There’s a workaround on your Mac, though — use an alternative browser and avoid public Wi-Fi hotspots until there is a fix. That method won’t work on an iPhone, iPad or iPod, because alternatives like Chrome for iOS use the same security background as Safari.
+更新iOS可以解决这个问题，但是截至目前，这对苹果电脑的OS X Mavericks系统来说还是一个问题，但OS X的早期版本可能没有这个问题。你可以在你的苹果电脑上采取一些变通的办法——换一个浏览器，并且避免使用公共Wi-Fi热点，直到有补丁推出。但这种方法在iPhone、iPad或iPod上没用，因为针对iOS推出的Chrome等其他浏览器和Saferi用的是同样的安全架构。
+Yes, by the way, people are deeply suspicious of both the timing of when this bug appeared and how it got there, in light of recent revelations about spying activity by the National Security Agency. I’ve also spoken to one engineer who said the errant line of code that caused the security hole could easily have been a copy/paste error that would have been extremely hard to detect.
+是的，顺便说一句，由于最近揭露出的国家安全局(National Security Agency)的监听活动，人们对于这个漏洞出现的时机，以及怎么会有这么个漏洞，都深表怀疑。我也和一位工程师有所交流，他说造成这一安全漏洞的代码错误有可能就是在复制粘贴中出了一个很难发现的失误。
+In today’s environment, I tend to assume the worst, but the important thing now is to download the patch, watch for the Mavericks fix, and as usual, trust no one.
+在如今的背景之下，我倾向于做最坏的打算。现在，重要的事情就是下载补丁，留心Mavericks的更新，然后一如既往地，别轻信任何人。

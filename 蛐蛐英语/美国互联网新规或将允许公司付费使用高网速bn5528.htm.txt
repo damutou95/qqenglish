@@ -1,0 +1,46 @@
+The principle that all Internet content should be treated equally as it flows through cables and pipes to consumers looks all but dead.
+当互联网内容经过线缆和通道传输到消费者那里时，所有的互联网内容都应该受到平等的对待——现在这个原则似乎行将就木。
+Companies like Disney, Google or Netflix will be allowed to pay Internet service providers like Comcast and Verizon for special, faster lanes to send video and other content to their customers under new rules to be proposed by the Federal Communications Commission, the agency said on Wednesday.
+美国联邦通信委员会（Federal Communications Commission，简称FCC）本周三表示，根据该机构拟议的新规则，像迪士尼(Disney)、谷歌(Google)和Netflix这样的公司将可以向康卡斯特(Comcast)和Verizon等互联网服务供应商(ISP)支付费用，从而取得更快的专用通道，把视频和其他内容更快地传输给用户。
+The proposed rules are a turnaround for the agency on what is known as net neutrality — the idea that Internet users should have equal ability to see any legal content they choose, and that no providers of legal content should be discriminated against in providing their offerings to consumers.
+在拟议的规则中，FCC彻底改变了其在“网络中立性”(net neutrality)上的立场。网络中立性是指：互联网用户对于自己选择查看的任何合法内容，都应该拥有同等的查看能力，而在提供产品给用户的过程中，所有合法的内容提供者都不应受到区别对待。
+The proposal comes three months after a federal appeals court struck down, for the second time, agency rules intended to guarantee a free and open Internet.
+三个月前，联邦上诉法院第二次推翻了旨在保障互联网自由性和开放性的FCC规则，新提出的规则就是在这样的背景下拟订的。
+The rules could radically reshape how Internet content is delivered to consumers. For example, if a gaming company cannot afford the fast track to players, customers could lose interest and its product could fail.
+新的规则可能会从根本上重塑将互联网内容传输给消费者的方式。举例来说，如果某家游戏公司无力承担快速通道的费用，用户可能就会对其产品失去兴趣，这些产品也就无法成功。
+The rules are also likely to eventually raise prices as the likes of Disney and Netflix pass on to customers whatever they pay for the speedier lanes, which are the digital equivalent of an uncongested car pool lane on a busy freeway.
+新的规则最终可能还会导致价格上涨，因为迪士尼和Netflix等公司可能会把快速通道的使用费用转嫁在用户头上。这样的快速通道，仿佛是拥堵的高速公路上，那条畅通的拼车专用道。
+Consumer groups immediately attacked the proposal, saying that not only would costs rise, but that big, rich companies with the money to pay large fees to Internet service providers would be favored over small start-ups with innovative business models — stifling the birth of the next Facebook or Twitter.
+消费者团体立即对这个提案发起了攻击，他们认为此举不仅会导致费用上升，而且资金充裕的大公司在向ISP支付大笔费用后就会受到优待，不利于创新商业模式的小型初创公司——这遏制了下一个Facebook或Twitter的诞生。
+“If it goes forward, this capitulation will represent Washington at its worst,” said Todd O’Boyle, program director of Common Cause’s Media and Democracy Reform Initiative. “Americans were promised, and deserve, an Internet that is free of toll roads, fast lanes and censorship — corporate or governmental.”
+“如果新的规则通过了，这种屈服将体现出华盛顿最糟糕一面，”托德·奥博伊尔(Todd O’Boyle)说，他是“共同事业”组织(Common Cause)媒体和民主改革倡议项目(Media and Democracy Reform Initiative)的主任。“美国人得到过承诺，而且理应得到这个承诺：互联网上没有收费公路、快速通道和审查制度——无论是来自企业还是政府。”
+If the new rules deliver anything less, he added, “that would be a betrayal.”
+他还说，如果新规则在这个方面打了任何折扣，“那都将是背叛。”
+Broadband companies have pushed for the right to build special lanes. Verizon said during appeals court arguments that if it could make those kinds of deals, it would.
+宽带公司已经在奋力争取铺设专用车道的权利了。Verizon在上诉法院论辩时表示，如果它获准进行这种类型的交易，它就会那么做。
+F.C.C. officials defended the proposal, saying the rules would still protect an open Internet because the agency would evaluate on a case-by-case basis whether particular charges by Internet service providers were fair to consumers and allowed for adequate competition.
+FCC官员为新规则进行了辩护，称这些规则仍能保障互联网的开放性，因为该机构将对ISP的特别收费项目进行逐一评估，考察它对消费者来说是否公平，能否提供充分的竞争空间。
+The providers would have to disclose how they treat all Internet traffic and on what terms they offer more rapid lanes, and would be required to act “in a commercially reasonable manner,” agency officials said. That standard would be fleshed out as the agency seeks public comment.
+FCC官员说，新的规则要求ISP说明会如何对待所有互联网流量，以及会以什么条件提供快速通道，而且还要求ISP以一种“商业上合理的方式”行动。FCC向公众征询意见时，会提供该标准的细节。
+The proposed rules will also require Internet service providers to disclose whether in assigning faster lanes, they have favored their affiliated companies that provide content. That could have significant implications for Comcast, the nation’s largest provider of high-speed Internet service, because it owns NBCUniversal.
+拟议的新规则还要求ISP披露，在分配快速通道的过程中，是否偏袒了本公司旗下的内容提供商。对于全美最大的高速ISP康卡斯特来说，这一规定可能非同小可，因为它拥有NBC环球(NBCUniversal)。
+Also, Comcast is asking for government permission to take over Time Warner Cable, the third-largest broadband provider, and opponents of the merger say that expanding its reach as a broadband company will give Comcast more incentive to favor its own content over that of unaffiliated programmers.
+而且，康卡斯特正在向政府申请，批准它和第三大宽带提供商时代华纳有线电视公司(Time Warner Cable)的合并。反对这桩合并案的人说，作为一家宽带公司，康卡斯特扩大网络规模后，会有更大动力偏袒该公司自身的内容，而与该公司无关的内容就不会得到同等的优待。
+Tom Wheeler, the F.C.C.’s chairman, has signaled for months that the federal appeals court decision striking down the earlier rules could force the commission to loosen its definitions of what constitutes an open Internet.
+FCC主席汤姆·惠勒(Tom Wheeler)数月前就已经开始暗示，联邦上诉法院的裁决推翻了之前的规则，这可能会迫使FCC放宽对“怎样才算是开放的互联网”的定义。
+Those earlier rules barred Internet service providers from making deals with services like Amazon or Netflix to allow those companies to pay to stream their products to viewers through a faster, express lane on the web. The court said that because the Internet is not considered a utility under federal law, it was not subject to that sort of regulation.
+之前的规则禁止ISP与亚马逊(Amazon)或Netflix等公司做交易，让这些公司付费使用快速通道，以更快的网速把流媒体内容传输给观众。该法院表示，联邦法律没有把互联网列为公用事业，因此不能套用公用事业的监管方式。
+Opponents of the new proposed rules said they appeared to be full of holes, particularly in seeking to impose the “commercially reasonable” standard.
+反对者表示，这些新规则似乎漏洞很多，特别是试图强加“商业上合理”的标准时。
+“The very essence of a ‘commercial reasonableness’ standard is discrimination,” Michael Weinberg, a vice president at Public Knowledge, a consumer advocacy group, said in a statement. “And the core of net neutrality is nondiscrimination.”
+“‘商业上合理’这个标准的本质是歧视，”消费者权益团体“公共知识”(Public Knowledge)副会长迈克尔·温伯格(Michael Weinberg)在一份声明中说。“而网络中立性的核心是无歧视。”
+He added that the commission and courts had acknowledged that it could be commercially reasonable for a broadband provider to charge a content company higher rates for access to consumers because that company’s service was competitively threatening.
+他还表示，FCC和法院已经承认，如果一家内容提供商的服务对竞争产生了威胁，那么在该内容企业通过网络接触消费者时，ISP收取更高费率在商业上是合理的。
+“This standard allows Internet service providers to impose a new price of entry for innovation on the Internet,” Mr. Weinberg said.
+“按照这个标准，ISP可以强行给互联网上的创新设置一个新的价格门槛，”温伯格说。
+Consumers can pay Internet service providers for a higher-speed Internet connection. But whatever speed they choose, under the new rules, they will get some content faster, depending on what the content provider has paid for.
+消费者可以付钱给ISP，从而获得速度更快的互联网服务。但无论他们选择何种网速，在新的规则下，他们总是会更快地接收到某些内容，这取决于内容提供商为哪些内容付了钱。
+The fight over net neutrality has gone on for at least a decade, and is likely to continue at least until the F.C.C. settles on new rules. Each of the last two times the agency has written rules, one of the Internet service providers has taken it to court to have the rules invalidated.
+关于网络中立性的争斗已经持续了至少10年，并且还有可能至少持续到FCC新规则的正式出台。该机构前两次制定的规则，都被ISP诉至法院，导致规则被裁决为无效。
+If anything, lobbying over the details of the new net neutrality standard is likely to increase now that the federal court has provided a framework for the F.C.C. to work from as it fills in the specifics of its regulatory authority.
+关于新的网络中立性标准，由于联邦法院现在已经为FCC提供了一个框架，让它填充监管举措的具体细节，因此针对其细节的游说活动现在有可能增多。

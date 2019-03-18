@@ -1,0 +1,64 @@
+Since taking the reins at Yahoo, Marissa Mayer has been trying to convince customers and employees that there is still life in a company that Silicon Valley long ago left for dead.
+自从玛丽莎·梅耶尔(Marissa Mayer)执掌雅虎(Yahoo)以来，她一直试图让消费者和员工们相信，这个硅谷很早以前就认为已经死亡，不再关注的公司，现在仍有生命。
+Yahoo, an Internet pioneer, missed the boat on social networks and mobile devices as the new gateways for information and, in recent years, had been losing advertisers and employees to rivals like Facebook and Google.
+当社交网络和移动设备成为信息流动的新路径时，互联网的先驱者雅虎，却没能抓住机会。此外，近年来雅虎的广告商和员工，一直在向Facebook和谷歌(Google)等竞争对手流失。
+Critical to Ms. Mayer’s turnaround effort is infusing fresh blood and ideas into the company by buying creative start-ups and integrating them into the company. So since she took over last July, she has been on a splashy shopping spree, spending tens of millions of dollars to acquire six start-ups.
+梅耶尔扭转雅虎努力中，关键的一点是注入新鲜血液和新想法。她的手段是收购有创造力的创业公司，并将它们融入雅虎。所以，自从去年7月上任以来，她一直在高调收购，花费数千万美元收购了六家创业公司。
+But in many ways, it has been a tough sell.
+但从很多方面看，这些收购都很难让人乐观。
+In part, that is because of the past problems with acquisitions. Yahoo’s neglect of Flickr, a pioneering photo service that was the Instagram of its time, and Delicious, an early social bookmarking tool that predated Twitter’s rise, are prominent examples of the company’s mishandling of promising acquisitions.
+部分原因在于雅虎过去的收购案例产生的问题。Flickr是图片分享服务的先驱，地位曾经相当于现在的Instagram，而Delicious起步很早的社会化网址收藏工具，当时Twitter还未流行。对于一些很有前景的收购案例，雅虎没能妥善处理，它对这两个网站的忽视就是很好的例子。
+These days, too, Ms. Mayer has to compete against the deep pockets of competitors like Twitter, Google and Facebook, which are also trying to buy great technologies and hire top talent.
+现在，梅耶尔还必须跟Twitter、谷歌及Facebook等财力雄厚的对手竞争。这些公司也在试图收购好技术，聘请顶级的人才。
+Still, there is evidence that she is making inroads.
+不过，仍然有证据表明，她正在取得进展。
+Increasingly, entrepreneurs say, she is getting personally involved in acquisitions, focusing particularly on mobile-minded engineers. She is also trying to reverse Yahoo’s reputation as a company that acquires talent and innovative technologies and then lets them wither.
+创业者们透露，她越来越多地亲自参与收购，尤其关注移动领域的工程师。人们认为雅虎在收购人才和创新的技术后，会置之不理任其枯萎。梅耶尔也在努力转变雅虎的这种坏名声。
+Last month, Yahoo made headlines when it acquired Summly, a newsreading mobile app started by a 17-year-old in England, for an undisclosed sum. In October, it acquired Stamped, a mobile recommendation service.
+上个月，雅虎收购Summly受到了媒体广泛的报道。Summly是一款阅读新闻的移动应用，由一名17岁的英国少年开发。收购价格并未对外披露。去年10月，雅虎收购了移动推荐服务Stamped。
+Robby Stein, who sold Stamped to Yahoo, said he was willing to take a chance on the company given Ms. Mayer’s solid track record at Google, where she helped perfect Web search and was largely credited with the clean aesthetic of the Google home page.
+把Stamped卖给雅虎的罗比·斯坦因(Robby Stein)称，由于梅耶尔在谷歌做得很好，他愿意把赌注押在雅虎身上。梅耶尔在谷歌时，曾帮助完善网络搜索服务。而且，谷歌主页简洁的美感，在很大程度上也归功于梅耶尔。
+“After conversations with Marissa and others, it became very clear that this was a unique moment in time where we could have a phenomenal impact and affect millions of people,” said Mr. Stein, a former Google employee himself, who worked alongside Ms. Mayer on Google’s mail products. “There are few opportunities like that.” (The New York Times Company was a small investor in Stamped.)
+斯坦因曾在谷歌工作，还曾在谷歌的邮件产品上与梅耶尔合作过。他说，“跟梅耶尔和其他人谈过后，我很清楚这是一个独一无二的机会，我们可以产生巨大的影响，影响数以百万计的用户。这样的机会可没有多少。”纽约时报公司(The New York Times Company)也是Stamped公司的一个小投资者。
+Mr. Stein said he was now concentrating on building a “major mobile development center in New York” for Yahoo. He is determined to imbue it with the ethos of an agile, lean start-up, not as an outpost of a large corporation.
+斯坦因称，他现在专注于为雅虎“在纽约建立一个大型的移动开发中心”。他决心要让这个中心具备创业公司那种灵活、简捷的精神，而不是像大公司的一个分支。
+Stamped’s offices are covered in chalkboard paint and whiteboards, for scribbling down ideas and code, and also feature a fully stocked kitchen. They are decorated with posters of software applications the employees admire and aim to compete with. The team has also installed two large television screens for testing app prototypes and has built a game room with club chairs.
+Stamped的办公室里到处都贴着黑板墙纸、放着白板，以便于随手写下创意和代码，还有一个食物充足的厨房。办公室里装饰着一些软件应用的海报。员工们崇拜这些应用，把它们当成竞争的目标。团队安装了两个大电视屏幕，用来测试应用原型，还建了一个放着舒适皮椅的游戏室。
+“I feel remarkably empowered and able to get things done,” Mr. Stein said. “I’m supported to the fullest extent by Marissa and the executive team.”
+斯坦因说，“我感觉被赋予了很大的权力，能够做成事情。梅耶尔和管理团队全力支持我的工作。”
+Ms. Mayer’s other acquisitions include OnTheAir, an online video service; Snip.it, a clipping service for the Web; Propeld, a maker of location-based apps; and Jybe, a social recommendation site.
+梅耶尔的收购还包括在线视频服务OnTheAir、网络剪辑服务Snip.it、制作基于地点的应用的Propeld，以及社会化推荐网站Jybe。
+Despite the string of purchases, some say Ms. Mayer’s pitch — which could be a part of the biggest technology turnaround since Steven P. Jobs’s return to Apple in 1996 — seems as if it is still in rehearsal.
+尽管梅耶尔进行了一系列收购，有人说梅耶尔的行动看起来似乎还只是彩排。梅耶尔动作或许会是雅虎东山再起历程的一部分，而那将是1996年史蒂文·P·乔布斯(Steven P. Jobs)回到苹果公司(Apple)以来，技术产业中最为重大重生案例。
+Analysts say Ms. Mayer needs to make smart acquisitions to quickly obtain smart young developers who understand the mobile world to help Yahoo compete against Facebook and Google, which have stolen its onetime lead as the biggest seller of display ads.
+分析人士称，梅耶尔需要进行明智的收购，迅速获得那些深谙移动领域的年轻开发者，来帮助雅虎与Facebook和谷歌竞争。雅虎曾经是页面展示广告的最大出售者，现在这两家公司已经夺走了它的领先地位。
+Ms. Mayer declined to be interviewed for this article, but she told analysts last October that the company was looking for “smaller-scale acquisitions” in the “size and scale of double-digit millions and low hundreds of millions.”
+梅耶尔拒绝就本文接受采访。但是，去年10月她曾告诉分析人士，雅虎正在寻求“较小规模的收购”，即“规模在几千万至低于五亿美元的收购”。
+She has promised some entrepreneurs that if they join Yahoo, they would have the option of working from Yahoo’s satellite offices in places like New York, San Francisco and Santa Monica, Calif., instead of the company’s corporate headquarters in Sunnyvale, Calif.
+她向一些创业者承诺，如果加入雅虎，他们可以选择在雅虎位于纽约、旧金山和加利福尼亚州圣莫尼卡等地的卫星办公室工作，而不是位于加利福尼亚州森尼维尔的雅虎总部。
+But she will have to do more than offer free snacks and cool gadgets to get Yahoo back on track.
+但要让雅虎重回正轨，她还需要采取更多措施，而不仅仅是提供一些小恩小惠。
+“If you are a quality start-up, Yahoo is still not the place to be,” said Colin Gillis, an Internet analyst at BGC Partners. “It’s hardly your first pick.”
+“如果你是一家优质的初创企业，雅虎依然不是你该去的地方，”BGC Partners的互联网分析师科林·吉利斯(Colin Gillis)说。“雅虎可不会是你的首选。”
+Entrepreneurs say that with Ms. Mayer’s personal involvement, those on her team in charge of mergers and acquisitions are setting up meetings with as many people as possible, particularly the engineers with mobile expertise who could add muscle and fresh product ideas to Yahoo’s core strengths, which include e-mail, sports and finance.
+创业者们透露，在梅耶尔个人的介入之下，她的团队中负责并购的人正在安排同尽可能多的人会面，特别是那些具有移动领域专业知识的工程师，这些人能为雅虎的核心优势增添实力和新鲜的产品创意。雅虎的优势包括电子邮箱服务、体育和财经版块。
+And she is focusing on proving that Yahoo can be a good place for entrepreneurs.
+而且，她也在关注于如何证明雅虎也可以是创业者的好去处。
+After Yahoo’s last big shopping spree — roughly 10 years ago, when it picked up some of the most promising Web properties of the time, including Flickr, Delicious and Upcoming.org, a social calendar — many of the start-ups languished, deprived of resources and guidance.
+雅虎的上一次大采购是大约10年前，当时雅虎收购了当时一些最有前途的网站，包括Flickr、Delicious和社交活动日历网站Upcoming.org。但在那以后，那些创业企业中的许多都没落了，失去了资源和方向。
+“When we got there, I realized we were at capacity and we needed servers,” said Joshua Schachter, the founder of Delicious, who sold his company to Yahoo in 2005. “It was a process, a big deal to get them. I ended up sidelined for a year and a half.”
+“当我们发展到一定阶段的时候，我意识到，我们超负荷了，需要服务器，”Delicious的创始人乔舒亚·沙克特(Joshua Schachter)说。他在2005年把自己的公司卖给了雅虎。“花了一些工夫，找到他们收购公司是件大事。后来我却靠边站了一年半。”
+It was a similar story with Flickr. After Yahoo acquired the photo-sharing site in 2005, it faded somewhat while other services like Picasa, acquired by Google in 2004, and Instagram, bought last year by Facebook, quickly gained a following.
+Flickr的故事也大致一样。2005年，雅虎收购了这家照片分享网站后，它的光芒就黯淡了下来，而其他一些网站，比如2004年被谷歌(Google)收购的Picasa和去年被Facebook收购的Instagram，却迅速赢得了追随者。
+That experience was not lost on other Valley entrepreneurs. In 2009, Yelp turned down an acquisition offer from Yahoo, that was 50 percent higher than what Google had bid, simply because the employees refused to work at Yahoo, according to one person who was involved in the acquisition talks but was not authorized to speak publicly.
+这种经历影响了硅谷的其他创业者。据一位参与了收购谈判，不过无权公开谈论此事的人士称，2009年，雅虎给Yelp开出的收购价比谷歌的出价高50%，但却被Yelp拒绝了，仅仅是因为Yelp的员工拒绝在雅虎工作。
+But both Mr. Schachter and Caterina Fake, a co-founder of Flickr, said Yahoo appears to be a much different company than when they left several years ago. “There was a lot of defeatism and calcification at the time,” Mr. Schachter said. “Would that happen now? I don’t know.”
+但沙克特和Flickr的联合创始人卡泰丽娜·费克(Caterina Fake)都表示，现在的雅虎看起来和他们几年前离开时大不一样了。“那时存在严重的失败主义情绪和僵化的问题，”沙克特说。“那些现在还会发生吗？我不知道。”
+Perhaps to address that question, one of the first things Ms. Mayer did at Yahoo was overhaul Flickr’s mobile app, to the surprise and delight of its fans, who praised the new design.
+或许是为了解决这个问题，梅耶尔入主雅虎后首先做的事情之一，就是对Flickr的移动应用进行了大幅升级。此举让喜欢这款应用的人又惊又喜，他们对新设计赞誉有加。
+Ms. Fake said that gesture could be interpreted as a sign of good faith that Yahoo has “changed a great deal since we were there.”
+费克说，这个举动可以解读为善意的信号，即雅虎“与我们在那工作时相比，已经改变了许多”。
+“They do care about the developers now, which was less true than when we were there,” she said.
+她说，“他们现在的确很关心开发人员，而我们还在雅虎的时候，并没有那么关心。”
+It remains to be seen whether Ms. Mayer’s purchases will be enough to right Yahoo’s course.
+梅耶尔的收购是否足以拨正雅虎的道路，还有待观察。

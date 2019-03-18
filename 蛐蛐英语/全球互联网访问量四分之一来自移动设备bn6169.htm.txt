@@ -1,0 +1,22 @@
+Mary Meeker puts out an annual report on Internet trends every year that is a sort of farmer’s almanac for the tech industry. It puts all the crucial data in one place, with Ms. Meeker’s particular spin on what’s most important.
+玛丽·米克尔(Mary Meeker)每年都会发布年度互联网趋势报告，对于技术行业来说，她的报告差不多算是农事历书。该报告将所有关键数据汇集在一起，米克尔还会对最重要的内容进行特别诠释。
+Presenting this year’s report at the Code conference in Southern California on Wednesday, Ms. Meeker said that growth in overall Internet usage was slowing, especially in developed countries.
+周三，米克尔在南加利福尼亚州的Code大会上公布了今年的报告。她在会上表示，网络使用的增长正在放缓，特别是在发达国家。
+But mobile data consumption is up 81 percent as the world turns more to tablets and smartphones, especially to watch video. Globally, mobile now accounts for 25 percent of web usage, up from 14 percent a year ago.
+但是，随着人们更多地使用平板电脑和智能手机，特别是使用这些设备观看视频，移动数据用量增加了81%。在全球范围内，移动设备在网络用量中占了25%，去年的比例则仅为14%。
+Mobile is also taking a bigger share of Internet advertising, and Ms. Meeker sees great potential for future growth there. In 2013, people spent 20 percent of their time on mobile devices, yet only 5 percent of the ad spending was there.
+移动设备在互联网广告中所占份额也在增长，米克尔认为未来还有更大发展空间。2013年，人们花费了20%的时间来使用移动设备，用于移动设备的广告支出却只占广告总支出的5%。
+Ms. Meeker, a partner at the venture capital firm KIeiner Perkins Caufield & Byers, dismissed talk of a growing bubble in Internet stocks, despite screaming valuations for private companies like Uber and Airbnb. She said initial public offerings of tech stocks are 73 percent below the 1999 peak, and venture financing is 77 percent below its 2000 peak. (Of course, the excesses of the dot-com bubble were so extreme that if investing got close to those levels again, the markets would be in real trouble.)
+米克尔是风险投资公司凯鹏华盈(Kleiner Perkins Caufield & Byers)的合伙人，她驳斥了互联网股票泡沫越来越大的说法，尽管 Uber和Airbnb等私营公司的估值令人感到惊讶。她表示，科技股的首次公开发行价格比1999年的峰值下降了73%，风险融资也比2000年的峰值低77%。（当然，网络泡沫时期的情况极度夸张，如果投资水平再次接近那种水平，市场会陷入真正的麻烦。）
+Ms. Meeker expressed great hopes for online education and health care, which always seem to be on the verge of breaking out without really doing so.
+米克尔对网络教育和医疗保险表达了很高的期望，这些行业总是显出一副即将飞速发展的模样，但却始终没有实现飞速发展。
+The evidence is more clear that people want to share information more privately. Messaging services like WhatsApp, Tencent and Line are growing at exponential rates — a trend that companies like Facebook, which emphasizes sharing among large groups of friends, have noticed. (Facebook has agreed to buy WhatsApp for $19 billion.)
+更加明显的迹象是，人们希望以更私密的方式分享信息。WhatsApp、腾讯和连我(Line)等信息传输服务正在呈指数倍增长——Facebook等主要关注在大量朋友之间分享信息的公司也注意到了这个趋势。（Facebook已同意以190亿美元[约合1189亿元人民币]收购WhatsApp。）
+People are media junkies, sharing articles via social media and tapping into streaming services. Apps are replacing linear TV channels as the way to consume video, with Americans aged 16 to 34 watching just 41 percent of their TV live, she said.
+人们沉迷于媒体，通过社交媒体分享文章，享受流服务的好处。应用程序正在取代线性的电视频道，成为人们观看视频的主要方式。她说，16岁到34岁之间的美国人收看的电视节目中，只有41%是实时收看的。
+Google’s YouTube is also booming with consumers. “They are increasingly loving short-form video,” she said. “Consumers even love ads.”
+谷歌(Google)YouTube的用户也在飞速增加。“他们越来越喜欢短视频，”她说。“消费者甚至还喜欢广告。”
+And 22 percent of video watching globally is done on mobile devices.
+全世界民众观看的视频当中，有22%是通过移动设备观看的。
+The country to watch is China, she said, which has more Internet users than any other country: about 618 million last year, about 80 percent of whom only access the Internet via mobile. Four of the world’s 10 largest Internet companies are Chinese, up from one a year ago.
+她说，值得关注的国家是中国。中国的互联网用户比其他任何国家都多：去年约为6.18亿人，其中大约80%的人只用移动设备上网。世界十大互联网公司当中有四家是中国公司，而一年前只有一家。

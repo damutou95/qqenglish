@@ -1,0 +1,12 @@
+SAN FRANCISCO — China’s largest Internet company, Alibaba, is adding to its modest presence in Silicon Valley, but not in the way many have expected.
+旧金山——中国最大的互联网公司阿里巴巴准备增加它在硅谷有限的存在感，但其方式并不像许多人预期的那样。
+In an announcement on Wednesday, the Chinese e-commerce giant said it planned to open its first data center outside of China in Silicon Valley. Instead of supporting the company’s hugely popular e-commerce sites, the center will help Alibaba spread a less well-known but growing side of its business: cloud services for businesses.
+这家中国电商巨头周三发表声明称，它计划在硅谷开设它在中国以外的首家数据中心。这座中心不是为了给阿里巴巴极受欢迎的电商网站提供支持，而是将帮助它扩展不那么有名但却在一直增长的业务领域：企业云服务。
+Similar to the services offered by Amazon that lease computing power to businesses, Alibaba has been slowly wooing clients in China to use its services. Many vendors who sell on Alibaba’s e-commerce sites use the services, but it has been slowly adding larger clients.
+与亚马逊向企业出租计算能力的服务相似，阿里巴巴一直在慢慢拉拢中国客户，希望他们能使用自己的服务。阿里巴巴电商网站上的许多卖家会使用这些服务，但大客户的增长较为缓慢。
+The company said the new data center would first cater to Chinese businesses operating in China, but in the second half of the year do more to aim at foreign clients. The company did not specify when the center would open, how much it was investing in the center, or how large it would be.
+阿里巴巴表示，这座新数据中心将首先满足在中国运营的中国企业的需求，但他们下半年将采取更多措施来吸引外国客户。声明中并未说明这个中心的开放时间、投资金额和规模大小。
+Using the name Aliyun to refer to the company’s cloud operations, Ethan Sicheng Yu, a vice president, said: “Aliyun hopes to meet the needs of Chinese enterprises in the United States, and the ultimate objective of Aliyun is to bring cost-efficient and cutting-edge cloud computing services to benefit more clients outside China to boost their business development.”
+谈到公司的这种名为“阿里云”的服务时，阿里巴巴副总裁喻思成表示，“阿里云希望能够满足在美中国企业的需求，阿里云的最终目标是带来合算而先进的云计算服务，使更多海外客户受益，推动他们的业务发展。”
+Though Alibaba has a significant share of the market selling computing services to businesses in China, it’s an open question whether the company can win over more foreign clients. A Chinese company first, it will have to put into place English-speaking staff members to support and sell to the businesses, while also making its software easy to use in other languages.
+虽然阿里巴巴在中国的计算服务市场占据重要份额，但该公司能否吸引更多外国客户还很难说。它首先是一家中国公司，需要安排会讲英语的员工来支持工作并说服其他企业使用其产品，同时还要使其软件在其他语言中可以简便操作。

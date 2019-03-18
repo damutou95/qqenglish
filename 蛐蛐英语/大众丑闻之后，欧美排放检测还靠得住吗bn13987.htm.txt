@@ -1,0 +1,54 @@
+In the United States, automakers conduct their own emissions tests and submit the results to the government. In Europe, automakers pick who conducts the tests and where they are done. And these two regulatory systems are considered the world’s gold standards.
+在美国，汽车制造商自己进行排放测试，然后把结果提交给政府。在欧洲，汽车制造商挑选由谁在哪里进行测试。这两种监管机制被视为全球最佳标准。
+Questions about the wisdom of allowing automakers so much sway in how air pollution standards are enforced grew this week after the resignation of Volkswagen’s chief executive, following the company’s diesel emissions cheating scandal.
+在大众汽车(Volkswagen)爆出柴油车排放作弊丑闻，其首席执行官辞职之后，本周出现了一些疑问的声音：让汽车制造商在空气污染标准的执行上发挥这么大的作用，是否明智？
+Regulators in several European countries have opened investigations, attorneys general in the United States have joined federal inquiries, and there has been broader criticism of Volkswagen, and diesels, in markets from South Korea to Brazil.
+欧洲一些国家的监管机构已经在开展调查，美国检察长们也加入联邦调查的行列，而从韩国到巴西的很多市场出现了对大众和柴油车的广泛批评。
+Volkswagen has admitted installing software in 11 million vehicles that was used to provide false results about emissions, though it was not clear if it was used in all countries where the cars were sold. But the breadth of the scandal could finally threaten to bring change to an industry with a record of cheating since cars were first regulated.
+大众汽车已经承认，公司在1100万辆汽车上安装了软件，以提供有关排放的虚假结果，目前还不清楚，它是否在所有销售大众汽车的国家都使用了这种软件。但这起丑闻的广泛影响可能最终会给这个行业带来变化；汽车业自从受到监管的那一天起，作弊事件就陈出不穷。
+While United States automakers are allowed to test their own cars, the Environmental Protection Agency does its own random checking, and the vast majority of enforcement actions are undertaken by American regulators.
+虽然美国汽车制造商获许自己进行车辆测试，但美国国家环境保护局（Environmental Protection Agency，简称EPA）也会进行抽查，而绝大部分执法行动是由美国监管机构开展的。
+In the European Union, by contrast, automakers can get new car models tested in any member state and can hire private companies, which regard them as clients, to conduct the testing. Member states have regulatory jurisdiction, and enforcement is scant.
+相比之下，欧盟的汽车制造商可以在任何一个成员国测试新车型，也可以聘请私人公司进行测试；对于这些私人公司来说，汽车制造商就是客户。欧盟成员国拥有监管管辖权，执法行动非常不足。
+One of the testing firms used by automakers in Europe is Applus Idiada of Spain, which has counted the major automakers, including Volkswagen, among its clients, though no company beyond Volkswagen has been implicated in the current scandal.
+欧洲汽车制造商常用的一家测试公司是西班牙的Applus Idiada。其客户包括大众汽车和其他一些大牌汽车制造商，但除大众之外，没有哪家公司卷入当前的丑闻。
+But advocates say tactics used by such companies highlight flaws in the European system. Applus Idiada markets itself as being able to provide “optimization of engine behavior to fulfill emissions and F.E. targets” — F.E. refers to fuel economy — in one of its publications, and uses similar language in others.
+但一些维权者认为，这些公司使用的策略突显了欧洲机制的缺陷。 Applus Idiada在一份宣传资料中称自己能够“优化发动机行为，以满足排放和FE目标”—— FE指燃油经济性。该公司在其他宣传资料中也使用了类似语言。
+What does that mean for automaker clients?
+对于汽车制造商客户来说，这意味着什么呢？
+“They will find ways to artificially lower the test results using flexibilities in the testing methods,” Greg Archer, a former director at Britain’s renewable-fuels regulator who now works at Transport and Environment, a Brussels-based advocacy group that has done its own testing, said in an interview.
+“他们会找到办法，使用灵活的测试方法，人为地降低测试结果，”格雷格·阿彻(Greg Archer)在接受采访时说。阿彻是英国可再生燃料监管机构的前总监，现在在权益团体“交通运输和环境“(Transport and Environment)工作。这个总部设在布鲁塞尔的组织进行了自己的测试。
+The way the system is set up creates inherent problems, Mr. Archer added.
+这种制度的安排存在其固有问题，阿彻说。
+“Carmakers ‘shop’ for the best deal from agencies across Europe and directly pay for their services,” he said in a recent statement on the Volkswagen scandal. “The job of the engineer overseeing the test is ultimately dependent on the next contract from the carmaker.”
+“汽车制造商在欧洲各地的测试机构中‘选购’最划算的服务，并直接为这种服务买单，”他近日在关于大众丑闻的一份声明中说。“负责测试的工程师能不能保住饭碗，最终取决于和汽车制造商签订的下一份合同。”
+The company did not have an immediate comment.
+该公司没有当即予以置评。
+Automakers have the same incentive to shop around for lenient testing companies that bond issuers have long had to shop around for the credit rating agency that would give them the highest credit rating. Overgenerous ratings of complex financial instruments based on mortgage prices were widely blamed as helping to set off the global financial crisis.
+就像债券发行人长期以来“选购”可以给予他们最高信用评级的信用评级机构一样，汽车制造商同样也会“选购”比较宽松的测试公司的服务。那些基于抵押贷款价格的复杂金融工具获得了过分高的评级，被广泛指责为引爆全球金融危机的原因之一。
+Volkswagen’s rivals have had a clear response to the emissions cheating scandal: not us. “There is no evidence that this is an industrywide issue,” the European Automobile Manufacturers’ Association said in a statement on Wednesday, adding, “We cannot comment on an issue affecting one individual company.”
+大众汽车公司的竞争对手对排放作弊丑闻做出了明确回应：我们不这样。“没有证据表明，这是整个行业的问题，”欧洲汽车制造商协会(European Automobile Manufacturers’ Association)本周三在一份声明中表示：“对于影响个别公司的问题，我们不予置评。”
+Lawmakers in the European Parliament on Wednesday debated the implications of the scandal at length, with members in several parties advocating a greater regulatory and oversight role for the European government, instead of the member states.
+本周三，欧洲议会(European Parliament)的议员深入辩论了丑闻的影响，有几方的成员主张由欧盟政府而不是成员国自己发挥更大的监管和监督作用。
+“Of course that will be a big fight with the member states,” said Bas Eickhout, a Dutch Green Party member who sits on the Parliament’s committee on Environmental, Public Health and Food Safety.
+“当然，这会是与成员国之间的一场大争斗，”荷兰绿党成员、欧洲议会环境、公共卫生和食品安全(Environmental, Public Health and Food Safety)委员会成员巴斯·埃克豪特(Bas Eickhout)说。
+He said he wanted the European Commission, the government’s executive branch, to move quickly on plans to put new emissions testing into effect that will take place at independent laboratories. And he wanted commission officials to quickly determine if the Volkswagen software was used to evade European tests, something that has still not been disclosed by Volkswagen.
+他说，他希望欧盟的行政机构欧盟委员会(European Commission)能迅速让新的排放测试计划生效；该计划要求在独立实验室进行测试。他希望委员会的官员迅速确定大众汽车是否用软件来逃避欧洲的测试；大众汽车尚未披露相关情况。
+He said some lawmakers also lamented that Europe lagged on enforcement, leaving American regulators to take on such cases.
+他说，一些议员还哀叹欧洲的执法落后了，要让美国监管机构去应对这些问题。
+“We are better in talking. The U.S. is better in acting,” he said, adding, “That’s a bit of a painful conclusion.”
+“我们善于谈论。美国善于行动，”他说，“这个总结有点让人难受。”
+In the United States, as attorneys general across the country opened investigations, Dan Becker, director of the safe climate campaign at the Center for Auto Safety, said the country also needed to rethink how emissions were tested. Independent testing has shown a widening gap between results in laboratories and the real world, raising suspicion.
+在美国，各地的检察长开启了调查行动。汽车安全中心(Center for Auto Safety)的安全气候活动主管丹·贝克尔(Dan Becker)表示，美国需要重新考虑如何进行排放测试。独立测试显示，实验室和现实世界测试结果之间的差距正在拉大，已经引起了一些人的怀疑。
+“The automakers have proven that they’re not trustworthy,” Mr. Becker said. “The government has to overhaul the testing to make sure that independent parties ensure that the cars that are put on the road pollute less and are safe.”
+“汽车制造商已经证明了他们不值得信赖，”贝克尔说。“政府必须对测试机制进行全面修改，让独立机构来确保路上的汽车污染更少，更加安全。”
+The new scandal could also crush the efforts of German automakers to open more export markets to diesel. Volkswagen had struggled for many years to win governments’ permission to sell diesel cars outside Europe, and that goal now seems especially challenged.
+德国汽车制造商正在努力为柴油车开辟更多的出口市场，这起新丑闻可能会让他们的努力付诸东流。多年来，大众汽车一直在试图获得一些政府的许可，以便在欧洲以外的地方销售柴油车，现在要实现这个目标似乎变得特别困难。
+In China, there has been little official response to the Volkswagen revelations. Xinhua, the official Chinese news agency, made a terse mention, referring to reports that South Korea would investigate three Volkswagen models. But Chinese regulators may have unintentionally saved Volkswagen from bigger problems.
+在中国，官方几乎没有对大众汽车丑闻做出回应。中国官方通讯社新华社简短地提到此事，主要是报道韩国将调查大众的三种车型。但中国监管机构可能在无意中让大众汽车免于陷入更大的麻烦。
+Although China only uses Euro 4 emissions standards for diesel cars, government officials have exercised their considerable regulatory discretion to discourage mass production within China of diesel engines for cars. Volkswagen has lobbied unsuccessfully for years against that policy, and sells fewer than 1,000 diesels a year in China, all imported, out of overall annual sales of about 3 million cars, virtually all of them gasoline-powered.
+中国对于柴油车仅仅采用了欧4排放标准，但政府官员行使了相当大的监管自由裁量权，阻止了柴油车在中国的大规模生产。关于这项政策，大众汽车进行了多年的游说，但都不成功，公司每年在中国销售的柴油车不到1000辆，而且全部是进口的。大众在中国的年销量约300万辆，几乎全都是汽油动力车。
+But there was much chatter online in China, with little positive for the company's image.
+但是中国网民对此事的议论相当多，而且对该公司看法几乎都是负面的。
+“I just want to ask, as a world famous corporation that ranks the second in the industry,” wrote Zhong Xiaoyi on the website Zhihu, “why is it so difficult for you to manufacture good cars, to do something good?”
+“作为世界知名企业，作为行业前二，好好做好汽车本身，好好做些实事，真的那么难吗？”知乎网站的钟小逸问道。

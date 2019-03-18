@@ -1,0 +1,34 @@
+SAN FRANCISCO — John Doerr really needed a win, and late Friday the esteemed venture capitalist got one of the biggest of his career: a jury’s complete dismissal of gender discrimination claims against his firm, Kleiner Perkins Caufield & Byers.
+旧金山——约翰·德尔(John Doerr)的确需要一场胜利，周五晚些时候，这名受人尊敬的风险投资人获得了职业生涯中最大的胜利：陪审团全面驳回了针对其公司凯鹏华盈(Kleiner Perkins Caufield & Byers)的性别歧视指控。
+But success in the courtroom is a tricky thing, and Kleiner’s victory contains perils that his company will still have to overcome, such as its image as a boys’ club. There is a less obvious one, too, which is how the details that came out during the trial may upend perhaps the most celebrated aspect of venture capitalism: investing on instinct, almost impulsively.
+但法庭里的胜利是一件微妙的事情。凯鹏华盈胜诉之后，该公司仍然需要克服一些问题，如“男孩俱乐部”的形象。还有一个不那么明显的问题是，案件审理期间揭示出的细节，可能会对风险投资或许最著名的特点——凭直觉，甚至是靠冲动投资——产生怎样的影响。
+Instead, expect more bureaucracy.
+现在不同了，可能要面对更繁杂的程序。
+In its glory days, venture capital was a freewheeling enterprise with few rules and scant documentation. That may all be over now.
+在最辉煌的时期，风险投资是一种随心所欲的行业，几乎没有什么规则，也没有多少文书和存档。这种情况现在可能不会存在了。
+This probability became apparent during the testimony of Ellen Pao, the former junior partner who was suing Kleiner. She said that she had discovered Twitter as a potential investment for the venture capital firm. But Kleiner disputed that Ms. Pao had found Twitter because she could not prove it. Twitter is now worth $32 billion.
+在对凯鹏华盈提起诉讼的前初级合伙人鲍康如出庭作证期间，这种可能性体现了出来。她表示，她为公司推荐了潜在的投资对象Twitter。但凯鹏华盈对此提出异议，称鲍康如无法证明。Twitter目前的市值为320亿美元（约合1990亿元人民币）。
+“There is not a single piece of evidence to suggest Ellen Pao ever sourced Twitter,” Kleiner’s lawyer, Lynne C. Hermle, told the jury. “Not one. I can say I sourced Twitter, too, but that doesn’t mean it’s so. There should be evidence — written evidence, consistent with the practices of Kleiner — if that’s true, and there is nothing.”
+“没有任何一份证据能表明，鲍康如推荐了Twitter，”凯鹏华盈的律师琳内·C·赫尔姆勒(Lynne C. Hermle)告诉陪审团。“一份证据都没有。我也可以说，是我推荐了Twitter，但这并不意味着事实的确如此。如果她说的是真的，应该留下证据——与凯鹏华盈的规范做法一致的书面证据，然而没有任何证据。”
+The issue of having to document an idea is now set to ripple through Silicon Valley. While the truth of what did or did not happen with Twitter was one of the many unresolved points of the trial — Kleiner did invest later in Twitter, but at such a high valuation that it did not qualify as a home run — it is a pretty good bet that the next time a junior partner at Kleiner or any other venture firm thinks he or she has come up with something great, the partner will record it in emails, memos, diaries and possibly stone tablets.
+有必要记录想法的问题，现在开始影响到整个硅谷。虽然有没有推荐投资Twitter的问题，只是这起案件里许多尚未解决的问题中的一个，但是可想而知，凯鹏华盈或其他风投公司的初级合伙人下一次想出好主意时，大概都会在邮件、备忘录、日记，甚至可能是石板上记录下来。凯鹏华盈后来确实对Twitter进行了投资，但当时Twitter的估值已经很高，算不上多么理想。
+“As a result of hearing the testimony, I would advise my clients to document any information and make notes, and perhaps formal memoranda, regarding their contributions to the firm and their decisions,” said Kathleen M. Lucas of the Lucas Law Firm in San Francisco.
+旧金山卢卡斯律师事务所(Lucas Law Firm )的凯瑟琳·M·卢卡斯(Kathleen M. Lucas)表示，“听完证词之后，我会建议我的客户，记录所有信息并且多做笔记，甚至是正式的备忘录，记下他们对公司的贡献，以及自己做过的决定。”
+Formalizing so much about the venture capital process goes directly against the go-with-your-instinct approach that has been a cornerstone of the industry. Mr. Doerr rose to fame because his intuition was so good about which entrepreneur to invest in. Not much separated the potential winners from the losers.
+将风投过程如此形式化，直接违背了凭直觉投资的方式，而这是风投行业的基石。德尔之所以名声大震，就是因为对于投资支持哪个创业者有很准的直觉。潜在的赢家和输家之间，往往没有什么差别。
+“I’m still looking for a bunch of burrito-eating Stanford kids who walk in with no idea what a business plan is, we write them a check and work intensively with them for several months, and — boom! — you’ve got a company with a market cap of $2 billion,” Doerr said in a 1999 book, “The Silicon Boys.” In cartoon form, that summarizes Kleiner’s investment in Google, made at about that time.
+“我依然在寻找一群吃着玉米卷的斯坦福年轻人，他们来的时候不知道商业计划书为何物，但我们开支票给他们，与他们一起紧锣密鼓地工作几个月，然后——轰的一下！——就有了一家市值20亿美元的公司，”德尔在1999年的著作《硅谷小伙》(Silicon Boys)中写道。该书以漫画的形式，概述了凯鹏华盈在谷歌(Google)的投资。那笔投资正是大概在那个时间进行的。
+Yet now the stakes are too high in venture capital for any approach other than writing it all down, however much it goes against the go-with-your-gut heritage. The testimony in the trial with Ms. Pao repeatedly circled back to the issue of who got credit for profitable investments.
+但现在，在风险投资领域，不管全部写下来的做法与跟着直觉走的传统有多大的冲突，除此之外的其他任何做法的风险都太高了。鲍康如一案中的证词，多次绕回到了赚钱的投资应归功于谁的问题。
+“Kleiner needed a win. Everybody needed a win. I could use some wins,” Mr. Doerr testified about another disputed find of Ms. Pao’s, RPX.
+“凯鹏华盈需要胜利。所有人都需要胜利。我的确需要一些胜利，”德尔作证期间，在提到鲍康如另一个存在争议的发现RPX时说。
+Margaret O’Mara, an associate professor of history at the University of Washington who has studied the history of technology, said the Pao case highlighted how Silicon Valley has been based on a culture of personal connections and personality-driven deals. Those considerations still drive decisions “even though the Valley is no longer this little outlier community of small electronics manufacturers,” she said.
+华盛顿大学(University of Washington)研究科技史的历史学副教授玛格丽特·奥玛拉(Margaret O’Mara)表示，鲍康如一案突显出，硅谷建立在一种个人关系文化的基础之上，惯于由名人来推动交易。她说，“尽管硅谷不再是那个由小型电子生产商组成的边缘小群体”，但那些思路依然会推动决策。
+Beyond the impact on venture capital, reaction to the verdict and analysis of what it means for Silicon Valley diversity has been swift.
+这起案件除了对风险投资产生影响之外，人们也很快对判决本身做出了反应，此外也迅速开始分析案件对硅谷的多样性意味着什么。
+“There are people that will take this ruling and say there is no problem with gender discrimination, and that would be a horrible shame,” said Sam Altman, president of Y Combinator, who sits on the board of directors of Reddit, where Ms. Pao is now interim chief executive. “I hope it makes men and women listen to people’s experiences in their careers and form their opinions about challenges that any group, and in this case women, face.”
+“有人会以这个判决为例，说性别歧视没问题，那就太令人遗憾了，”Y Combinator总裁萨姆·奥特曼(Sam Altman)说。奥特曼也是Reddit的董事，而鲍康如则在Reddit担任临时CEO。“我希望它能让人们先倾听他人在职场中的经历，再就任何群体在职场中遭遇的挑战形成自己的观点——具体到这个案件，就是女性。”
+Alexis Ohanian, co-founder and chairman of Reddit, added that he was “glad to see that her actions have helped to push forward the conversation about gender parity not just in the tech sector but in the business world.”
+Reddit联合创始人兼主席亚历克西斯·瓦尼安(Alexis Ohanian)补充说，他“高兴地看到，她的行动帮助推动了有关性别平等的讨论，不仅是在科技领域，还包括商业领域”。
+Even without a victory for Ms. Pao, the case succeeded in putting the issue of women in technology in the spotlight. Tracy Young, a founder and chief executive of PlanGrid, a San Francisco start-up that offers apps for construction workers, said Ms. Pao highlighted how “sexual discrimination is a real problem. There is a lot we must do and can do to prevent it.”
+尽管鲍康如没有胜诉，但此案成功地让女性在科技领域的地位受到了关注。旧金山创业公司PlanGrid的创始人兼首席执行官特蕾西·扬(Tracy Young)说，鲍康如案突显出“性别歧视是一个现实问题。为了避免这个问题，有很多事我们可以做也必须做”。该公司提供面向建筑工人的应用。

@@ -1,0 +1,30 @@
+SAN JOSE, Calif. - Back in the early 1930s, a magician by the name of Horace Goldin went to court to defend his signature illusion: sawing a woman in half.
+加利福尼亚州圣何塞——20世纪30年代早期，一位名为霍勒斯·戈尔丁(Horace Goldin)的魔术师走上法庭，捍卫自己的招牌魔术：把女演员锯成两半。
+Mr. Goldin filed a lawsuit against the R. J. Reynolds Tobacco Company for using this magic trick in an advertisement and explaining how it worked. According to an article in The New York Times from March 1933, Mr. Goldin, who had won a patent for the illusion a decade earlier, asserted that the ad had adversely affected his ability to get people to see his shows. He asked for $50,000 in damages. (That's about $865,000 in today's dollars.)
+戈尔丁起诉雷诺烟草公司(R.J. Reynolds Tobacco Company)在广告中使用了他的魔术，并且解释了魔术原理。根据《纽约时报》1933年3月刊登的一篇文章，戈尔丁十年前取得了该魔术的专利，他坚称广告对吸引观众来看他的演出产生了负面影响。为了弥补损失，他索赔5万美元。（大约相当于今天的86.5万美元。）
+I thought about Mr. Goldin last week as I sat in a federal courtroom here in the capital city of Silicon Valley. I listened to evidence presented in a patent lawsuit that Apple has brought against Samsung Electronics. Apple claims that Samsung copied its designs for the iPhone and the iPad.
+上周，坐在“硅谷首府”一个联邦法庭里的时候，我想起了戈尔丁。我旁听了苹果公司(Apple)对三星电子(Samsung Electronics)提起的专利诉讼案，苹果呈交了证据。苹果宣称，三星剽窃了自己的iPhone和iPad设计。
+You see, even just by filing his patent, and then using it to litigate, Mr. Goldin publicly drew attention to the secrets of his profession. Apple, by going to a jury trial to defend the patents of its most prized products, is also allowing competitors and the public to see inside one of the most secretive companies in the world.
+但你们知道，仅仅是申请专利，以及后来用它来对薄公堂，戈尔丁就将公众的注意力吸引到了他的职业秘密上。苹果用陪审团庭审的方式去捍卫自己最有价值产品的专利，同样也使得竞争对手和公众有机会一窥这家世界上最神秘公司的究竟。
+Steven P. Jobs, the co-founder of Apple, was very much in the mold of a magician. People often spoke of being sucked into a "reality distortion field" as he pitched his new products. Anyone who closely watched those dramatic announcements may recall how he repeatedly used the word "magical" to describe his latest devices.
+苹果的联合创始人史蒂文·P·乔布斯(Steven P. Jobs)很大程度上也是魔术师的模子里刻出来的。人们常常提到，当他推销新产品时，会被吸引到“现实扭曲场”中去。任何认真观看了这些戏剧感十足的发布会的人都可能记得，他一遍遍使用“魔力”这个词来形容自己的最新设备。
+And as Mr. Jobs knew so well, one thing that makes magic so, well, magical, is that you don't know how it works. It's also one reason Apple is so annoyingly tight-lipped.
+乔布斯也深知，让魔术保持魔力的秘诀之一，就是不让外界知道是怎么做的。这也是为什么苹果一贯口风紧得让人恼火。
+Based on early depositions and courtroom documents that have been submitted for the Apple v. Samsung trial - including photos, e-mails and prototypes - we're starting to learn just how Mr. Jobs pulled off his tricks.
+但是，基于呈交给“苹果诉三星案”的早期证词和法庭文件——包括照片、电子邮件和原型机——我们开始明白乔布斯到底是如何施展他的魔术的了。
+On the first day of the trial, Christopher Stringer, a longtime industrial designer at Apple with a flair for the theatrical - he wore an ice-cream-white suit - explained the process the company goes through to create these prototypes.
+庭审第一天，苹果的资深工业设计师克里斯托弗·斯特林格(Christopher Stringer)解释了公司创造出这些原型机的过程。他爱好戏剧化效果，穿了一身雪白的西装。
+For example, 15 or 16 designers worked together around a kitchen table. When it came time to plan the devices, the company tried almost everything. There are iPads of various exaggerated shapes and sizes. They are white, black or metallic. One iPad has a strange stand that protrudes from the back.
+比方说，十五六位设计师围着一张餐桌工作。设计设备的时候，苹果会尝试几乎所有可能性。设计iPad的时候，有各种夸张的形状和尺寸，颜色有白色、黑色或金属色。还有一款iPad原型机，背后伸出了一个奇怪的支架。
+Some of the early prototypes of the iPhone are bizarre. One, a long black rectangle, looks as if it is twice the size it should be. Others have beautifully curved glass screens. Another resembles an old silver iPod that just happens to be a phone, too. And there's the strangest of all: an iPhone that looks like a stretched hexagon made of cheap black plastic.
+有些iPhone的早期原型机稀奇古怪。有一款是长长的黑色矩形，看起来比正常尺寸大了一倍。另外一些的玻璃屏幕有优美的弧线。还有一款与银色旧版iPod类似，就是还能打电话。其中最奇怪的是：看似由黑色廉价塑料做成的拉长了的六边形iPhone。
+While in court on Friday, Philip W. Schiller, Apple's senior vice president for worldwide product marketing, pulled the curtain further back when he divulged the company's advertising budgets - often more than $100 million a year for the iPhone alone. Also at the hearing, Scott Forstall, senior vice president for iPhone software, explained that the early iPhone was called "Project Purple." Mr. Forstall said it was built in a highly secure building on Apple's campus. A sign on the back of the building read "Fight Club." Behind the security cameras and locked doors, most employees on the project did not even know what they were working on.
+周五在庭上，苹果负责全球产品营销的高级副总裁菲利普·W·席勒(Philip W. Schiller)透露了公司的广告预算——仅iPhone一项就常常超过每年1亿美元，从而进一步揭开了公司的帷幕。也是在聆讯中，负责iPhone软件的高级副总裁斯科特·福斯特尔(Scott Forstall)解释道，早期的iPhone称为“紫色计划”(Project Purple)。福斯特尔称，它是在苹果园区高度戒备的一栋建筑中制造的。楼背后的标牌上写着“搏击俱乐部”(Fight Club)。监控摄像头和紧锁的门背后，大部分的项目员工甚至不知道他们做的是什么。
+This is just the beginning. There will be weeks of trials and other executive inquisitions that will explain how other magic tricks work inside Apple.
+这才刚刚开始。接下来几周的审判和其他高管接受问询的时候，苹果内部更多的魔术秘密也将被揭开。
+For its part, Samsung accuses Apple of copying from Sony - Sony! - and other electronics makers. It even sent out a news release containing evidence that the court would not allow to be presented before the jury that showed what it says is truly behind the magic.
+三星这方则指责苹果剽窃了索尼公司(Sony)——索尼！——以及其他电子产品生产商。三星甚至发布了一份新闻稿，里面包含了未获法庭许可呈送陪审团的证据。三星说，这些证据展示了魔术背后到底有什么。
+It seems that even if Apple wins the patent case against Samsung, it may find itself in the same pickle that Mr. Goldin did 80 years ago.
+看来，即便苹果赢得了针对三星的专利案，也会发现自己陷入了80年前戈尔丁同样的窘境。
+Although the federal court threw out Mr. Goldin's claim in 1938, the damage had already been done. Besides the large legal fees, the news media brought more attention to how the magic trick of sawing a woman in half actually worked - it was no longer magical. (The secret involved two women. The first woman's feet protruded from the base of the box, the other's head stuck out of the top.)
+尽管联邦法院于1938年驳回了戈尔丁的诉讼请求，但损失已然造成。除了大笔的法律费用，新闻媒体还把更多的注意力集中到了到底如何将女人锯成两半的魔术上——它不再有魔力了。（秘密就是，有两个演员。其中一人的脚从魔术箱的底部伸出，另外一人的头则从顶部探出。）

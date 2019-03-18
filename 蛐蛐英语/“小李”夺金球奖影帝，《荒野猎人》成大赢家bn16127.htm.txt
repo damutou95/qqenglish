@@ -1,0 +1,52 @@
+Here are the movies and TV shows that received the top awards. 
+以下是第73届金球奖电影类和电视类获奖名单。
+Movie
+电影类：
+Best picture, drama: “The Revenant”
+最佳影片（剧情类）：《荒野猎人》
+Best picture, comedy or musical: “The Martian”
+最佳影片（音乐/喜剧类）：《火星救援》
+Actress, drama: Brie Larson, “Room”
+最佳女主角（剧情类）：布丽·拉尔森《房间》
+Actor, drama: Leonardo DiCaprio, THE REVENANT
+最佳男主角（剧情类）：莱昂纳多·迪卡普里奥 《荒野猎人》
+Actress, musical or comedy: Jennifer Lawrence, “Joy”
+最佳女主角（音乐/喜剧类）：詹妮弗·劳伦斯《奋斗的乔伊》
+Actor, musical or comedy: Matt Damon, “The Martian”
+最佳男主角（音乐/喜剧类）：马特·达蒙《火星救援》
+Supporting actress: Kate Winslet, “Steve Jobs”
+最佳女配角：凯特·温丝莱特《史蒂夫·乔布斯》
+Supporting actor: Sylvester Stallone, “Creed”
+最佳男配角：西尔维斯特·史泰龙《奎迪》
+Director: Alejandro G. Iñárritu, “The Revenant”
+最佳导演：亚利桑德罗·冈萨雷斯·伊纳里多《荒野猎人》
+Screenplay: Aaron Sorkin, “Steve Jobs”
+最佳编剧：阿伦·索尔金《史蒂夫·乔布斯》
+Animated film: “Inside Out”
+最佳动画长片：《头脑特工队》
+Foreign language film: “Son of Saul,” Hungary
+最佳外语片：《索尔之子》（匈牙利）
+Original score: Ennio Morricone, “The Hateful Eight”
+最佳配乐：《八恶人》
+Original song: “Writing’s on the Wall,” “Spectre”
+最佳歌曲：“Writing’s On The Wall”- Sam Smith  《007：幽灵党》
+Television
+电视类：
+Best series, comedy or musical: “Mozart in the Jungle” (Amazon)
+音乐喜剧类最佳剧集：《丛林中的莫扎特》
+Best television movie or mini-series: “Wolf Hall” (PBS)
+最佳电视电影/迷你剧：《狼厅》
+Actress, mini-series or television movie: Lady Gaga, “American Horror Story: Hotel”
+电视电影/迷你剧最佳女主角：Lady Gaga《美国恐怖故事》
+Actor, mini-series or television movie: Oscar Isaac, “Show Me a Hero”
+电视电影/迷你剧最佳男主角：奥斯卡·伊萨克《黑色乌托邦》
+Actor, drama: Jon Hamm, “Mad Men”
+剧情类最佳男主角：乔恩·哈姆《广告狂人》
+Actress, comedy or musical: Rachel Bloom, “Crazy Ex-Girlfriend”
+音乐喜剧类最佳女主角：蕾切尔·布鲁姆《疯狂前女友》
+Actor, comedy or musical: Gael García Bernal, “Mozart in the Jungle”
+音乐喜剧类最佳男主角：盖尔·加西亚·贝纳尔《丛林中的莫扎特》
+Supporting actress, mini-series or television movie: Maura Tierney, “The Affair”
+剧情/喜剧/电视电影类最佳女配角：毛拉·蒂尔内《婚外情事 第二季》
+Supporting actor, mini-series or television movie: Christian Slater, “Mr. Robot”
+剧情/喜剧/电视电影类最佳男配角：克里斯蒂安·史莱特《黑客军团》

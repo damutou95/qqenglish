@@ -1,0 +1,44 @@
+Imagine that you’re driving on the freeway at 60 miles per hour and your car suddenly screeches to a halt, causing a pileup that injures dozens of people. Now imagine you had absolutely nothing to do with the accident because your car was taken over by hackers.
+想象这样一个场景，高速路上，你在以每小时60英里（约合97公里）的速度驾驶，你的车突然“呲”地一声刹住，造成连环相撞事故，导致数十人受伤。再想象一下，你和这起事故完全无关，因为你的车是被黑客控制了。
+Charlie Miller, a security researcher at Twitter, and Chris Valasek, director of security intelligence at IOActive, a security research company, recently demonstrated car hacks at the DefCon computer security conference in Las Vegas. The researchers completely disabled a driver’s ability to control a vehicle. No brakes. Distorted steering. All with a click of a button. While the demos were with hybrid cars, researchers warn that dozens of modern vehicles could be susceptible.
+在近期拉斯维加斯的DefCon电脑安全大会上，Twitter的安全研究员查理·米勒(Charlie Miller)和安全研究公司IOActive的安全情报主任克里斯·瓦拉塞克(Chris Valasek)展示了黑进汽车系统的过程。研究者彻底夺走了司机对汽车的控制。刹车失灵、方向盘失控，这一切都只需要点一下按钮。虽然演示是在混合动力汽车上，但研究者警告称，数十种现代车辆也可以被黑。
+Hackers and security researchers are moving away from simply trying to break into — or protect — people’s e-mail accounts, stealing credit cards and other dirty digital deeds. Now they’re exploring vulnerabilities to break through the high-tech security of homes, cause car accidents or, in some extreme cases, kill people who use implanted medical devices.
+黑客和安全研究人员正在离开传统阵地，即试图闯入或保护人们的电子邮件帐户，窃取信用卡信息和其他不良数字行为。现在他们在探索漏洞，这些漏洞能用于突破高科技房屋安全系统和造成车祸，在某些极端情况下，甚至能杀死使用植入式医疗器械的人。
+“Once any single computer in a car is compromised, safety of the vehicle goes out the window,” Mr. Miller said in an e-mail interview. Modern cars typically have 10 to 40 little computers in them.
+“一旦汽车内的任何一台计算机被侵入，整辆车的安全就荡然无存了，”米勒在一次邮件采访中说。现代汽车内部通常拥有10到40台小型电脑。
+“Right now, there aren’t a lot of ways for hackers to remotely attack cars: Bluetooth, wireless tire sensors, telematics units,” he added. “But as cars get Internet connections, things will get easier for the attacker.”
+“黑客远程攻击汽车的方法现在还不是很多，包括蓝牙、无线轮胎传感器和车载远程信息处理单元，”他补充说。“但随着汽车获得互联网连接，情况对攻击者来说就会更加容易。”
+Carmakers and the government are aware that our vehicles are vulnerable. In fact, Mr. Miller and Mr. Valasek received a grant from the Defense Advanced Research Projects Agency, or Darpa, to research ways carmakers can thwart attacks. The biggest fear is the future: as cars become more computerized — or become fully automated, computers on wheels that drive for you — they’ll become more inviting targets.
+汽车制造商和政府意识到我们的汽车易受攻击。实际上，米勒和瓦拉塞克得到了国防高级研究计划局（Defense Advanced Research Projects Agency，简称Darpa）的资助，来研究汽车制造商抵御袭击的方法。未来的最大恐惧是：随着汽车越来越计算机化——即全自动化，变成带轮子的电脑，替你开车——它们就会越来越易受攻击。
+But the demonstrations by security experts and hackers weren’t a peek at what’s to come. The researchers hacked a Toyota Prius and Ford Escape, two hybrid cars that are already on the road.
+然而安全专家和黑客所展示的，并不是未来将发生的事情。研究者们黑进了一辆丰田(Toyota)普锐斯(Prius)和一辆福特(Ford)翼虎(Escape)，这两种混合动力汽车都已经上路行驶。
+Certainly, hackable cars are a troubling development for people who don’t even like to use cruise control.
+对于那些甚至都不愿使用巡航定速功能的人来说，能被黑客侵入的汽车显然是种自讨苦吃的进步。
+Now, to add to your paranoia, security researchers warn that our homes are more vulnerable to attackers than our cars. That is, if burglars trade in their lockpicks and crowbars for laptops and Wi-Fi scanners.
+现在足以增加你偏执的是，安全研究人员警告说，我们的家比汽车更容易受到攻击，那就是当窃贼把他们的开锁器和撬棒换成笔记本电脑和无线网扫描仪的时候。
+Devices like the Lockitron, a Wi-Fi-enabled front-door lock that can be used with a smartphone, could open a way for technically skilled thieves to break into your home. That’s not to pick on Lockitron. They just happen to be on the cutting edge of wireless home security.
+诸如Lockitron（一种由智能手机控制、由无线网支持的前门锁）之类的设备，可能会帮助具有技术能力的小偷闯入你家大门。这不是在数落Lockitron。他们恰好是走在无线家居安全领域最前沿的。
+“We’ve built Lockitron from the ground up with security in mind,” the company said in a statement, while acknowledging that “anyone claiming their system is ‘unhackable’ is wrong.” At the conferences, security experts lauded the company for the protection it has built into the Lockitron.
+“Lockitron从一开始就是很关注安全问题的，”公司在一份声明中说，同时还承认，“任何声称自己的系统‘无懈可击’的人都是错误的。”在大会上，安全专家称赞了该公司在Lockitron内置入的保护措施。
+Hackers could also turn our televisions and webcams against us, monitoring everything we’re saying and doing. Next-generation light bulbs that are connected to the Web could be tampered with. Digital refrigerators could be turned off, allowing food to spoil without your knowledge.
+黑客还可以策反我们的电视和网络摄像头，通过它们来监视我们的一言一行。下一代有网络接入的灯泡也是可以被篡改的。数字冰箱会被关掉，里面的食物都烂了，你却一无所知。
+Some hacks could be mere practical jokes, albeit messy ones. Researchers have warned that the Bluetooth-enabled INAX Satis model toilets, which can be controlled via a smartphone app, could easily be hacked to spray water up instead of down. In response to warnings that its toilets could be hacked, INAX said it issued a security update for its toilets this month.
+某些黑客攻击也许只是恶作剧，尽管后果可以非常棘手。研究人员已经警告称，使用蓝牙操控的INAX Satis型马桶可以通过智能手机控制，这种马桶能够轻易地在黑客控制下向上喷水，而不是向下喷水。INAX回应了旗下马桶可能会被黑客攻击的警告，说该公司于本月为其马桶产品发布了一款安全更新补丁。
+Yes, in the future, you may need to download security updates for your toilet.
+不错，在未来，你也许需要为你的马桶下载安全更新补丁。
+And then, there are the usual smartphones fears. At BlackHat, Kevin McNamee, the director of Kindsight Security Labs, demonstrated how to take over an Android smartphone by injecting code through the game Angry Birds. Once he had control of the phone, Mr. McNamee was able to remove photos and personal data from the device without the owner having any clue.
+不止如此，还存在老生常谈的智能手机恐惧。在黑帽技术大会(BlackHat)上，Kindsight安全实验室(Kindsight Security Labs)负责人凯文·麦克纳米(Kevin McNamee)展示了如何利用《愤怒的小鸟》(Angry Birds)这款游戏来植入代码，从而接管Android智能手机的过程。一旦他控制了手机，他就能在手机主人毫无察觉的情况下，删除手机里的照片和个人数据。
+Other researchers took over an iPhone by hacking a power adapter — yes, a little white power cord — to suck passwords and e-mails from a device that ran operating systems earlier than iOS 7.
+其他研究人员通过对电源适配器（对，就是那根不起眼的白色电源线）发动黑客攻击来接管一部iPhone，从而窃取里面的密码和电子邮件，被他们攻陷的是一部运行着早于iOS 7的操作系统的iPhone。
+But some of the most advanced security researchers are thinking about even scarier hacks, of implanted medical devices.
+不过，其中一些技术最领先的安全研究员想到的攻击甚至还要更吓人，那就是攻击植入型医疗装置。
+Barnaby Jack, who was perhaps best known for a hack that made an A.T.M. spit out cash, was supposed to demonstrate at Black Hat how implantable medical devices, including a pacemaker, can be hacked to kill someone. But Mr. Jack, who was in his 30s, died shortly before he was to make his presentation, of causes that have yet to be determined. He was often referred to as an “ethical hacker” and hoped to show the pacemaker exploit as a warning to device makers.
+巴纳比·杰克(Barnaby Jack)本应在黑帽技术大会上展示如何通过攻击包括单个起搏器在内的植入型医疗装置来杀人，杰克最为知名的一次黑客攻击，是让一台自动柜员机往外吐钱。不过，就在做演示之前不久，现年三十来岁的杰克就身亡了，死因尚未确定。他常常被称作是一名“有道德的黑客”，他希望把攻击起搏器的演示壮举，作为对器材制造商的警示。
+So, should we dig holes in our yards, bury our computers and smartphones and never drive our cars again? Some researchers said many of these demonstrations were provocative, but they were more theoretical than posing any sort of real risk we had to worry about today.
+那么，我们是否应该在院子里挖些洞，把电脑和手机埋进去，永远不再开车？一些研究人员表示，其中的许多演示是有争议的，不过，它们在很大程度上还是理论性的探索，而不会产生任何形式的、让我们现在就开始忧心忡忡的真实风险。
+“Sometimes there is a gap between the researcher community and the real world. Researchers bridge this gap often, but it’s not uncommon to see conference talks on exotic technologies that don’t really impact our everyday lives just yet,” said Chris Rohlf, founder of Leaf Security Research, a security consulting company, in an interview. “As technology embeds itself into these everyday devices and other parts of our lives, you will see an increased focus on their security. Anywhere you find technology you’ll inevitably find hackers.”
+树叶安全研究公司(Leaf Security Research)创始人克里斯·罗尔夫(Chris Rohlf)在一次采访中说，“有时候，研究界和真实世界之间存在一道鸿沟。研究人员往往会弥合这条鸿沟，不过我们还是时常在一些研讨会上看到，有人会讨论起一些不会马上对我们的日常生活构成影响的奇异技术。随着这些技术融入上述日常设备，融入我们生活中的其他方面，你会见到，大家对它们的安全越来越关注。但凡有科技的地方，你都会无可避免地发现黑客的身影。”
+When these technologies do arrive, I would not count on the companies that are installing computers in our cars, homes and bodies to be able to stop rogue hackers.
+当这些技术的的确确成真的时候，我不会指望给我们的车子、房子和身体安装电脑的公司能够制止猛烈的黑客攻击。
+“We haven’t figured out how to stop attacks against Web browsers in personal computers despite trying for the last 10 years, so there isn’t any reason to think that we can stop attacks against cars or other devices in the near future,” Mr. Miller said. “We should be concerned and start taking action now before something bad happens. I’ll still be using my car and refrigerator in the meantime, though.”
+米勒说，“尽管已经尝试了10年，我们还是不知道该如何制止针对个人电脑的网络浏览器的黑客攻击，因此，我们没有任何理由认定，我们能够在不久的将来制止针对车子或其他装置的黑客攻击。我们应该提起注意，赶在情况变糟之前采取行动。不过，与此同时，我依然会驾驶我的车，会使用冰箱。”

@@ -1,0 +1,40 @@
+A few weeks ago, I awoke one morning at 7 a.m. to a flood of messages in my email inbox. All 48 messages linked to a new video that had gone viral overnight. In the video, Robert Downey Jr., star of the Iron Man movie franchise, presented a customized 3-D printed bionic hand to a boy named Alex Pring, one year younger than my son.
+几个星期前的一天早上，我7点钟起床后发现，电子邮箱里收到了大量新函件。这48封信都附上了同一个链接，是一段在网上迅速传播的新视频。视频中，《钢铁侠》(Iron Man)系列电影的主演小罗伯特·唐尼(Robert Downey Jr.)把一个特制的3-D打印仿生手臂交给了一个名叫亚历克斯·布林(Alex Pring)的男孩。他比我的儿子小一岁。
+Each email said the same thing: “This is amazing! Immediately thought of you.”
+这些邮件都包含同样的内容：“太棒了！让我立刻想到你了。”
+My 8-year-old, Thaddeus, was born without his right hand. And as a mother wanting every opportunity for her child, I had started exploring prosthetic options for him when he was a toddler.
+我8岁的儿子撒迪厄斯(Thaddeus)生来没有右手。作为一个想要为孩子争取一切机会的母亲，在他还是一丁点大的时候，我就开始为他探索可以选择的各种假肢。
+Since he qualifies for state disability, Thaddeus has been lucky to receive access to an excellent team of doctors, occupational therapists, prosthetists, and state-funded basic hand models. When he turned 5, he was overjoyed to be fitted for his first prosthetic: a Hosmer model arm that he wore with a holster and that offered a pincher “hand” grip. He looked like some mini noir-novel detective, wearing the holster over his Pokemon T-shirt. When he shrugged his shoulders, the pincher hand mechanically opened and closed.
+由于他符合获得国家残疾保险的条件，撒迪厄斯一直有幸接触到一批优秀的医生、职业理疗师、修复师，并能获得国家资助的基本款手臂模型。他5岁的时候，喜出望外地试戴了自己的第一个假肢：霍斯莫(Hosmer)手臂模型。它通过皮套穿戴，可以像手一样夹起东西。他把假肢的皮套戴在宠物小精灵T恤外面，看上去就像是一部黑色小说里的小侦探。当他耸肩的时候，假手可以机械地打开和关闭。
+With the Hosmer model, Thaddeus learned how to pick up heavy objects, ride a bike with both “hands,” and balance better. But it didn’t last long. The prosthetic was too hot for him to wear even in the winter, and the holster rubbed too hard against his shoulder. It was highly uncomfortable and hard to turn certain ways to get a more realistic grip on items. He abandoned it after a year.
+凭借着霍斯莫模型，撒迪厄斯学会了如何抓起重物、用双“手”骑自行车，以及更好地保持平衡。但好景不长。即使在冬天，穿戴这个手臂也太热了，而且皮套和肩膀的摩擦太厉害。它很不舒服，也很难转动到特定的位置，获取抓握物品更真实的感觉。他一年之后放弃了它。
+Last fall, a professor friend of mine and I started exploring the more affordable and customizable world of 3-D printed prosthetics, which held huge promise for Thaddeus. He saw some of the robot-like pieces and immediately got excited.
+去年秋天，一个教授朋友和我一起开始探索费用较为合理的特制3-D打印假肢。这种技术很有希望解决撒迪厄斯的问题。看到了一些像机器人似的零部件之后，他立刻兴奋了起来。
+My friend and I picked out a blueprint that matched my son’s specific needs and slowly started working on it in our spare time. He had access to his college’s 3-D printing lab. It would be manual, not electronic, to start. And it would be a long road, but held a huge price difference of $50 versus $5,000, and a lot more design options that kids would like: cool colors, superhero aesthetic additions, breathable materials, even lights.
+朋友和我选择了一个符合我儿子特殊需求的设计，在空闲时间慢慢开始了这项工作。他可以使用同事的3-D打印实验室。一开始的工作要靠手工完成，而不是电子设备。完成这个任务需要很长时间，不过其间的价格差距是50美元对5000美元，而且提供了孩子喜欢的更多设计选项：酷炫的颜色、超级英雄的美学元素、可呼吸材料，甚至还带有灯光效果。
+When I mentioned this project to friends and family, our community rejoiced and begged us to keep them updated on the process. We printed out the initial pieces and kept going.
+当我对朋友和家人提到这个项目时，他们都很兴奋，恳请我们随时报告进展。我们打印出了最初的零件，并在稳步推进。
+Three-D printed prosthetics for children hold great potential — and they’ve received great press. Hundreds of designs are uploaded every day and shared across the Internet. A “Handomatic” web app [link to: ] exists on the ever-growing e-Nable volunteer site; simply enter your measurements and generate your own customized files to print pieces on a local 3-D printer and start the process. Caught up in the waves of technology, I became an evangelist for 3-D technology and medical design.
+3-D打印的儿童假肢有很大潜力——它们也得到了媒体的积极报道。每天有数百个假肢的设计方案在网上传播和分享。在不断扩张的e-Nable志愿者网站上，有一个叫做“Handomatic”的网页版应用：只需要输入你的尺寸，生成自己的定制档案，就能在本地3-D打印机上打印出零部件，开启这个过程。我被这样的科技浪潮淹没，成为了3-D技术和医疗用品设计的狂热信徒。
+Local journalists had privately reached out to me, asking for an exclusive human interest piece on Thaddeus and his new 3-D prosthetic once it was finished and fitted. Family had brought it up on vacations. Friends had constantly messaged me on Facebook.
+本地的记者私底下联系我，希望能在撒迪厄斯的新3-D假肢完成和试戴以后，让他们写一篇关于他和假肢的温情的独家文章。家人会在度假时提起此事。朋友也经常在Facebook上给我发消息。
+Later that morning, when I showed Thaddeus the Robert Downey Jr. and Alex Pring video, I already had visions of him learning how to cut steak with a knife in his new robotic fingers. “Isn’t this great?” I said, smiling. “That’s going to be you very soon!”
+那天上午晚些时候，我向撒迪厄斯展示了小罗伯特·唐尼和亚历克斯·布林的视频。我早已开始想象他是如何用新机械手指来学着切牛排。“是不是特别棒？”我微笑着说。“你很快也能那样！”
+We were sitting on the couch, and he turned toward me. “I’ve been thinking about it,” he said. “And I don’t want a new hand.”
+我们当时并排坐在沙发上，然后他转过身来。“我一直在思考这件事，”他说。“我不想要一只新的手。”
+“But why?” I was devastated. All that time, research and enthusiasm. He was throwing away a chance to have a five-fingered hand? He was quiet for a moment, then started to explain his three reasons.
+“为什么？”我极度震惊。我们耗费了那么多的时间、研究和热情。他要放弃拥有一只有五个指头的手的机会？他沉默了一会，然后开始解释自己的三个理由。
+First of all, he said, he didn’t want to lose his sense of touch. “I don’t want to lose the way things feel.” This caught me off guard. I hadn’t thought of how much he could physically feel at the tip of his wrist, how stifled it was under something else like plastic.
+他说，首先，他不希望失去触觉。“我不想放弃对事物的感知。”这让我猝不及防。我从没想过他用手腕尖端可以拥有多少身体上的感知，而在外面套上塑料这样的东西又会多么地压抑。
+“I can figure out how to do stuff my own way.” It was true. Thaddeus had figured out how to leverage his arms, feet and neck to open jars, marker and pen caps, and even play baseball. “My brain just works different because of my hand, and I think that’s a good thing.”
+“我能找到自己的做事方式。”这是真的。撒迪厄斯已经知道如何平衡手臂、双脚和脖子来打开罐子、记号笔和笔盖，甚至还能玩棒球。“因为我的手，我的大脑也在以不同的方式运行。我觉得这是好事。”
+I nodded in agreement.
+我点头表示赞同。
+“And my friends like me just the way I am,” he said. If he started wearing a new hand, he explained, it would draw more attention to him — the kind he didn’t want. “I don’t think kids would be my friend because of me. They would just want to play with my robot hand.”
+“朋友们也喜欢我的本来面目，”他说。他解释道，如果开始穿戴一只新的假肢，他就会受到更多关注——而他不想要那样的关注。“我觉得，小朋友们就不会因为我本人而要和我做朋友了。他们肯定只会想和我的机械手玩。”
+“So, is that O.K.?” he asked. “That I don’t want a hand?”
+“那么，这样没问题吧？”他问道。“我不想要机械手的事？”
+I hugged him tightly. For eight years, I had focused on only what was lost with my son. What was missing. What was less than, and what was separated from him. And during that time, he had seen what was there to stay for his lifetime — an arm that simply ended at the wrist — and the possibilities that could grow from that, even if those possibilities didn’t have five fingers. As a mother, I had wanted to add to him, because I wanted the best for him.
+我紧紧地抱住了他。八年来，我关注的一直是儿子失去的东西，他缺失的部分，他的弱点，以及他无法得到的一切。而在同样的时间里，他却看到了会与自己相伴一生的东西——一只止于腕部的手臂——以及随之而来的各种可能性，即便这些可能性中不包含五根手指。作为一名母亲，我总想给他增加一点什么，因为我希望他凡事能得到最好的。
+That morning, I finally saw that he was perfectly whole.
+但在那天上午，我终于懂得，他本来就是个完美的健全人。

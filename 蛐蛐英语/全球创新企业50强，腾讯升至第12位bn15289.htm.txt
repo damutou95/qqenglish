@@ -1,0 +1,26 @@
+Innovation is an essential yet elusive ingredient in corporate success, and one that is notoriously difficult to measure.
+创新对于企业的成功至关重要，但它往往难以实现，而且众所周知，它也很难衡量。
+But for the past decade, the Boston Consulting Group has picked up the challenge, publishing a ranking of the 50 most innovative companies in the world and an accompanying analysis of successful innovators. The 2015 ranking and report, published on Wednesday, shows the top two companies, Apple and Google, are the same pair as last year.
+但是在过去十年，波士顿咨询集团(Boston Consulting Group)直面这项挑战，持续发布全球最具创新力企业50强榜单，同时也对最成功的创新者进行分析。周三发布的2015年榜单和报告显示，排名最靠前的两家公司，仍是去年高居榜首的苹果(Apple)和谷歌(Google)。
+American corporations account for six of the top 10. In addition to Apple and Google, they are Tesla (ranked third), Microsoft (fourth), Gilead Sciences (eighth) and Amazon (ninth). But the company that has climbed the most since last year, up 35 places to the 12th spot, is the Chinese company Tencent.
+排名前十的公司，有六个都是美国公司。除了苹果和谷歌，还有特斯拉（Tesla，排名第三）、微软（Microsoft，第四）、吉利德科学(Gilead Sciences，第八)和亚马逊（Amazon，第九）。但和去年相比，排名上升最快的是中国公司腾讯，它今年上升了35个位次，排名第12位。
+Technology companies occupy the most slots at the top of the list, but car companies are a rising presence. Besides Tesla, the top auto innovators include Toyota (sixth), BMW (seventh) and Daimler (10th). The automotive ascent on the list has been evident for the last three years, said Andrew Taylor, a senior partner at Boston Consulting Group and co-author of the report.
+榜单顶端的位置大多被科技企业占据，但汽车厂商的排名正在上升。除了特斯拉，最具创新力的汽车企业还有丰田（Toyota，第六）、宝马（BMW，第七）和戴姆勒（Daimler，第十）。波士顿咨询集团高级合伙人、同时也是这份报告共同作者的安德鲁·泰勒(Andrew Taylor)表示，过去三年，汽车企业排名上升非常明显。
+“Cars have become delivery systems for technology,” Mr. Taylor explained, including hybrid and electric power systems, driver-assisting safety features, heads-up displays and touch screens for entertainment and information. “The amount of consumer-facing technology is incredible compared with five years ago,” he added.
+“汽车已经成为技术应用的载体，”泰勒解释说，比如混合动力和电力系统、安全驾驶辅助功能、平视显示器和用来提供娱乐和信息的触摸屏。“相比于五年前，面向消费者的技术数量之多，让人难以置信，”他接着说。
+The rankings are determined largely by a survey of 1,500 chief executives and senior executives worldwide. They are asked what companies in their own industry and in general they consider most innovative. They can’t name their own company. The rest of the ranking formula, 40 percent, is based on a company’s total return to shareholders over five years.
+这些排名主要基于对全球1500名企业首席执行官和高管进行的问卷调查。他们需要回答在自己所在领域，以及在普遍意义上，哪些企业最具创新力，还需要将自己所在企业排除在外。剩余40%的排名依据是各企业在过去五年的股东权益总回报率。
+But the ranking questions are only a few of the dozens included in the annual survey. The Boston Consulting Group report is grounded mainly in answers to the wider set of responses, supplemented by the management consultant’s other research.
+但有关排名的问题，只是这个年度问卷中出现的几十个问题中的少数。波士顿咨询集团的报告主要是基于高管们针对更广泛问题的回答，然后再结合该咨询公司的其他研究。
+Reading the report, two themes seem most prominent: speed and technology. The executives were asked which of more than a dozen “areas of innovation, research and development or product development will have the most impact on your industry over the next three to five years?” The top three choices were “speed of adopting new technology,” “big-data analytics” and “technology platforms.”
+这份报告似乎有两个最为显著的主题：速度和技术。高管们被问到，在所列出的十多个“创新、研发或产品开发领域中，哪一个会在未来三五年对你所在行业产生最大影响？”被提到最多的前三个选项是“采用新技术的速度”、“大数据分析”和“技术平台”。
+In the survey and in follow-up interviews with executives, Mr. Taylor said, “The word that keeps coming up is speed” — accelerating traditional innovation processes to rapidly develop products and experiment with ideas.
+泰勒表示，在对高管们进行的问卷调查和后续采访中，“不断被提到的词是速度”——加速传统创新过程，以快速开发产品和实践新想法。
+Technology, Mr. Taylor noted, opens the door to faster innovation — as even industrial companies, for example, use sensors and software to build more intelligence and flexibility into their products. And techniques originally employed by software engineers, like agile programming and quickly building prototypes and testing them on customers, are being embraced in many industries. “It’s all about learning fast,” Mr. Taylor said.
+泰勒还指出，技术可以带来更快的创新——比如，即使是工业公司，也可以利用传感器和软件使自己的产品更智能、更灵活。而且，原先只有软件工程师使用的技术，如敏捷编程、快速建模和在消费者中进行测试，也正被很多行业采用。“重要的是快速学习，”泰勒说。
+However achieved, innovation seems to be increasingly valued by senior executives. This year, 79 percent replied that innovation was either their company’s top priority or among the top three. That is the highest percentage since the survey began in 2005, when the innovation priority share was 66 percent.
+无论以什么方式实现，创新似乎都越来越被高管们看重。今年接受采访的高管有79%都回答，创新是他们所在企业的第一要务，或者头三要务之一。自2005年进行这项问卷调查以来，今年这个比例是最高的。在2005年，这个数字是66%。
+Have they just browbeaten by the term over the years, so that nearly everyone would say yes? That is not the explanation Mr. Taylor offered.
+是不是因为他们在过去数年被创新这个词给唬住了，所以几乎所有人都给了肯定的回答？泰勒可不是这么解释的。
+Instead, he suggested that so many of the other steps to create higher corporate value — like acquisitions, cost-cutting and outsourcing, restructuring and financial engineering — have run their course at many major companies. “As the toolkit gets narrower, innovation rises to the top,” he said. And Wall Street investors, he added, bid up the shares of companies that produce strong organic growth through innovation, like Apple and Google.
+相反，他表示，很多其他的创造更高企业价值的方法，比如收购、削减成本、外包、重组和金融工程，都已经被很多大公司采用过。“当可选择的工具选项减少时，创新就一跃成为首选，”他说。他还表示，华尔街投资者也会抬高通过创新实现有机增长的企业的股价，比如苹果和谷歌。

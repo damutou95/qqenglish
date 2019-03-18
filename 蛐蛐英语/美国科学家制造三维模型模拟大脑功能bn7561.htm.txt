@@ -1,0 +1,32 @@
+A doughnut created in a lab and made of silk on the outside and collagen gel where the jelly ought to be can mimic a basic function of brain tissue, scientists have found.
+科学家发现，实验室里制造的一个类似甜甜圈的东西，可以模仿脑组织的一项基本功能。这个圆圈的环状部分由丝材料制成，圈里面填的是胶原蛋白凝胶。
+Bioengineers produced a kind of rudimentary gray matter and white matter in a dish, along with rat neurons that signaled one another across the doughnut’s center. When the scientists dropped weights on the material to simulate traumatic injury, the neurons in the three-dimensional brain model emitted chemical and electrical signals similar to those in the brains of injured animals.
+生物工程师在培养皿中制成了相当于原始灰质和白质的材料，其中用了大鼠神经元，这些神经元能通过圆圈中间的物质相互交换信号。当科学家让重物掉到这个圆圈上，以模拟创伤性损伤时，这个三维大脑模型中的神经元释放出了化学信号和电信号，与受伤动物的大脑释放的信号类似。
+It is the first time scientists have been able to so closely imitate brain function in the laboratory, experts said. If researchers can replicate it with human neurons and enhance it to reflect other neurological functions, it could be used for studying how disease, trauma and medical treatments affect the brain — without the expense and ethical challenges of clinical trials on people.
+专家们表示，这是科学家首次能在实验室里如此逼真地模仿大脑功能。如果研究人员能用人的神经元重建这个模型，并提升到足以反映其他一些神经系统功能的水平，那么这个模型或可用于研究疾病、创伤和治疗如何影响大脑，从而避免人体临床试验的高费用和伦理问题。
+“In terms of mechanical similarity to the brain, it’s a pretty good mimic,” said James J. Hickman, a professor of nanoscience technology at the University of Central Florida, who was not involved in the research. “They’ve been able to repeat the highest level of function of neurons. It’s the best model I’ve seen.”
+“从与大脑的机械相似性来看，这是一个相当不错的模仿，”詹姆斯·J·希克曼(James J. Hickman)说。他是中佛罗里达大学(University of Central Florida)的纳米科学与技术教授，没有参与这项研究。“他们能够复制出最高水平的神经元功能。这是我看到过的最好的模型。”
+The research, led by David Kaplan, the chairman of the bioengineering department at Tufts University, and published Monday in the journal PNAS, is the latest example of biomedical engineering being used to make realistic models of organs such as the heart, lungs and liver.
+该研究由塔夫茨大学(Tufts University)生物工程系主任戴维·卡普兰(David Kaplan)主持，于周一发表在《美国科学院院刊》(PNAS)上。这是用生物医学工程手段制造器官——比如心脏、肺和肝脏——仿真模型的一个最新例子。
+Most studies of human brain development rely on animals or on brain slices taken after death; both are useful but have limits.
+研究人类大脑发育的工作大多依赖于动物实验，或人死亡后获取的大脑切片；两者都有用，但都具局限性。
+Brain models have been mostly two-dimensional or made with a three-dimensional gel, said Rosemarie Hunziker, program director of tissue engineering and biomaterial at the National Institute of Biomedical Imaging and Bioengineering, which funded Dr. Kaplan’s research.
+美国国家生物医学成像和生物工程研究所(National Institute of Biomedical Imaging and Bioengineering)的组织工程与生物材料项目主任罗斯玛丽·亨齐克(Rosemarie Hunziker)称，以前的大脑模型大多是二维的，或是用三维凝胶制作。该研究所资助了卡普兰的工作。
+None of those systems replicate the brain’s gray or white matter, or how neurons communicate, Dr. Hunziker said. “Even if you get cells to live in there, they don’t do much,” she said.
+亨齐克还表示，过去的系统都没有复制大脑的灰质或白质，也没有复制出神经元如何传导信号。“就算你能让细胞在模型中存活，它们基本上也做不成什么。”
+Dr. Kaplan’s team found that a spongy silk material coated with a positively charged polymer could culture rat neurons, a stand-in for gray matter. By itself, silk did not encourage neurons to produce axons, branches that transmit electrical pulses to other neurons.
+卡普兰的研究小组发现，一种涂有带正电聚合物的海绵状丝制材料可以培养大鼠神经元，用以替代灰质。丝制材料本身并不能让神经元产生轴突，也就是把电脉冲传递给其他神经元的突出部分。
+The researchers formed the silk material into a doughnut and added collagen gel to the center. Axons grew from the ring through the gel — the white matter substitute — and sent signals to neurons across the circle.
+这些研究人员将丝制材料做成一个圆圈，在其中心添加了胶原蛋白凝胶。轴突从圆圈的一边长出来，通过替代白质的凝胶，把信号发送给圆圈另一边的神经元。
+They got “these neurons talking to each other,” Dr. Hunziker said. “No one’s really shown that before.”
+亨齐克说，他们让“这些神经元互相交流。以前没人真正做到了这一点。”
+By adding nutrients and growth factors, scientists kept the brainlike tissue alive in an incubator for two months, at which point they experimented on it.
+通过添加营养物质和生长因子，科学家把这个类似脑的组织放在孵化器中，让其存活了两个月，然后开始在它上面做试验。
+Adding a neurotoxin essentially killed the neurons, as it would in a real brain. To simulate traumatic brain injury, they dropped weights from different heights.
+添加一种神经毒素基本上会把神经元杀死，就像在真正的大脑中那样。为了模拟脑外伤，他们从不同高度让重物掉到模型上。
+Dr. Kaplan said the brain-in-a-dish “didn’t go splat,” but reacted like “a kitchen sponge, and it would compress down and then partially spring back up.”
+卡普兰称，这个培养皿中的大脑“没有四处飞溅”，其反应更像是“厨房里的海绵，先是向下压缩，然后部分反弹起来。”
+He said measurements of glutamate, a neurotransmitter that surges in injury, showed that “the more severe the damage, the higher the spike” in glutamate.
+他说，大脑受伤会导致神经递质谷氨酸激增，而对模型中谷氨酸的测量显示，“受伤越重，激增的峰值越高。”
+Gordana Vunjak-Novakovic, a biomedical engineering professor at Columbia who has worked with Dr. Kaplan on other studies, described the model as a kind of “Lego approach,” a “modular structure” that can be expanded and made more complex.
+哥伦比亚大学生物医学工程系教授戈尔达娜·乌尼亚克-诺瓦科维奇(Gordana Vunjak-Novakovic)曾与卡普兰在其他研究上有过合作。她称这个模型的建造有点像“乐高用的方法”，是一种“模块结构”，可以扩展成更复杂的形态。

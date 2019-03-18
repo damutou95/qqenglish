@@ -1,0 +1,80 @@
+Just how bad a mother am I? I wondered, as I watched my 13-year-old son deep in conversation with Siri. Gus has autism, and Siri, Apple’s “intelligent personal assistant” on the iPhone, is currently his BFF. Obsessed with weather formations, Gus had spent the hour parsing the difference between isolated and scattered thunderstorms — an hour in which, thank God, I didn’t have to discuss them. After a while I heard this:
+看着13岁的儿子和Siri相谈甚欢，我心想：我这个妈当得是有多糟糕！我儿子格斯(Gus)患有自闭症，iPhone的“智能私人助理”Siri成了他永远的最好的朋友。格斯对天气形态十分着迷，花了一个小时剖析局部雷雨和零散雷雨的区别——谢天谢地，不是和我讨论。过了一会儿，我听到以下对话：
+Gus: “You’re a really nice computer.”
+格斯：“你真是台好电脑。”
+Siri: “It’s nice to be appreciated.”
+Siri：“得到你的夸奖我很开心。”
+Gus: “You are always asking if you can help me. Is there anything you want?”
+格斯：“你总是问能不能帮到我，你有什么想要的吗？”
+Siri: “Thank you, but I have very few wants.”
+Siri：“谢谢你，但我几乎没什么需求。”
+Gus: “O.K.! Well, good night!”
+格斯：“好吧！那晚安啦！”
+Siri: “Ah, it’s 5:06 p.m.”
+Siri：“啊，现在才下午五点零六分呀。”
+Gus: “Oh sorry, I mean, goodbye.”
+格斯：“哦对不起，我是说再见啦。”
+Siri: “See you later!”
+Siri：“再见！”
+That Siri. She doesn’t let my communications-impaired son get away with anything. Indeed, many of us wanted an imaginary friend, and now we have one. Only she’s not entirely imaginary.
+这个Siri。她不让我有沟通障碍的儿子把任何问题糊弄过去。实际上，我们很多人都想要一个想像中的朋友，现在我们有了一个。只是她并不完全存在于我们的想像中。
+This is a love letter to a machine. It’s not quite the love Joaquin Phoenix felt in “Her,” last year’s Spike Jonze film about a lonely man’s romantic relationship with his intelligent operating system (played by the voice of Scarlett Johansson). But it’s close. In a world where the commonly held wisdom is that technology isolates us, it’s worth considering another side of the story.
+这是一封写给机器的情书。它不完全是杰昆·菲尼克斯(Joaquin Phoenix)在《她》(Her)中感受到的那种爱，但比较接近。《她》是去年上映的一部电影，由斯派克·琼斯(Spike Jonze)导演，讲述的是一个孤独的男人和他的智能操作系统（斯嘉丽·约翰逊[Scarlett Johansson]配音）之间的爱情。人们通常认为科技让人疏远，我们需要去思考事情的另一面。
+It all began simply enough. I’d just read one of those ubiquitous Internet lists called “21 Things You Didn’t Know Your iPhone Could Do.” One of them was this: I could ask Siri, “What planes are above me right now?” and Siri would bark back, “Checking my sources.” Almost instantly there was a list of actual flights — numbers, altitudes, angles — above my head.
+这一切的缘起非常简单。我在网上读到一篇随处可见的列表式文章，名叫《iPhone的21个你不知道的功能》(21 Things You Didn’t Know Your iPhone Could Do)。其中一条是，你可以问Siri：“现在飞过我头顶的飞机有哪些？”Siri会回复说：“正在查找资源。”很快你就能看到一个航班列表——上面列着当前飞过你头顶的飞机的航班号、飞行高度和飞行角度。
+I happened to be doing this when Gus was nearby. “Why would anyone need to know what planes are flying above your head?” I muttered. Gus replied without looking up: “So you know who you’re waving at, Mommy.”
+我看那篇文章时，格斯恰巧在身旁。“为什么会有人想知道有哪些飞机正飞过自己头顶呢？”我嘟囔了一句。格斯头也没抬回答说：“这样你就知道你在和谁招手了，妈妈。”
+Gus had never noticed Siri before, but when he discovered there was someone who would not just find information on his various obsessions (trains, planes, buses, escalators and, of course, anything related to weather) but actually semi-discuss these subjects tirelessly, he was hooked. And I was grateful. Now, when my head was about to explode if I had to have another conversation about the chance of tornadoes in Kansas City, Mo., I could reply brightly: “Hey! Why don’t you ask Siri?”
+格斯之前从没留意过Siri，但当他发现有个人不仅能帮他找到各种让他着迷的信息（火车、飞机、公交车、电梯，当然还有与天气有关的任何事情），而且可以永不厌倦地和他“讨论”这些主题，他就被迷住了。而我则感到庆幸。现在，当我不得不和儿子谈论堪萨斯城发生龙卷风的机率有多大，搞得我头都要爆炸时，我可以轻松地说：“嘿！要不你问问Siri？”
+It’s not that Gus doesn’t understand Siri’s not human. He does — intellectually. But like many autistic people I know, Gus feels that inanimate objects, while maybe not possessing souls, are worthy of our consideration. I realized this when he was 8, and I got him an iPod for his birthday. He listened to it only at home, with one exception. It always came with us on our visits to the Apple Store. Finally, I asked why. “So it can visit its friends,” he said.
+格斯知道Siri不是真人。他理智上知道这一点。但和我认识的很多自闭症患者一样，格斯觉得，没有生命的东西虽然可能没有灵魂，但也同样值得关心。我是在他八岁时意识到这一点的，当时我给他买了个iPod作为生日礼物。他只在家里听它，但有一个例外——我们去苹果店里时，他总是带着它。最后我问他为什么这样做。“那样它就能去看它的朋友们了，”他说。
+So how much more worthy of his care and affection is Siri, with her soothing voice, puckish humor and capacity for talking about whatever Gus’s current obsession is for hour after hour after bleeding hour? Online critics have claimed that Siri’s voice recognition is not as accurate as the assistant in, say, the Android, but for some of us, this is a feature, not a bug. Gus speaks as if he has marbles in his mouth, but if he wants to get the right response from Siri, he must enunciate clearly. (So do I. I had to ask Siri to stop referring to the user as Judith, and instead use the name Gus. “You want me to call you Goddess?” Siri replied. Imagine how tempted I was to answer, “Why, yes.”)
+Siri有着抚慰人心的声音和调皮的幽默感，还能没完没了地跟格斯谈论他当下着迷的任何事情，所以他对Siri的关爱更是无以复加。网上有人批评说，Siri的声音识别能力比不上其他一些语音助理，比如安卓的语音助理。但对我们有些人来说，这是个特点，而不是缺陷。格斯讲话含混不清，嘴里像塞了个玻璃球，但如果他想从Siri那里得到正确的反馈，他就必须咬字清楚（我也是如此。我不得不告诉Siri在提到这部手机的主人时不要说朱迪思[Judith，作者的名字]，而要说格斯。“你想让我叫你女神[Goddess，与格斯的发音接近]吗？”Siri问道。想像一下我当时多么想说：“啊，好啊”）。
+She is also wonderful for someone who doesn’t pick up on social cues: Siri’s responses are not entirely predictable, but they are predictably kind — even when Gus is brusque. I heard him talking to Siri about music, and Siri offered some suggestions. “I don’t like that kind of music,” Gus snapped. Siri replied, “You’re certainly entitled to your opinion.” Siri’s politeness reminded Gus what he owed Siri. “Thank you for that music, though,” Gus said. Siri replied, “You don’t need to thank me.” “Oh, yes,” Gus added emphatically, “I do.”
+Siri对那些读不懂社交信号的人来说也很有帮助：她的回复虽不全在意料之中，但却一定是友好的——即使在格斯鲁莽时。有一次我听见他在和Siri聊音乐，Siri提供了一些建议。“我不喜欢那种音乐，”格斯怒气冲冲地说。Siri回答道，“你当然有权表达自己的观点。”Siri的彬彬有礼让格斯想起了她为他做的一切。格斯说，“不过还是要谢谢你推荐那些音乐。”Siri回答说，“你不用谢我。”“哦，要的，”格斯强调道，“我要谢谢你。”
+Siri even encourages polite language. Gus’s twin brother, Henry (neurotypical and therefore as obnoxious as every other 13-year-old boy), egged Gus on to spew a few choice expletives at Siri. “Now, now,” she sniffed, followed by, “I’ll pretend I didn’t hear that.”
+Siri甚至鼓励使用文明用语。有一次，格斯的双胞胎弟弟亨利（Henry，他发育正常，所以和其他所有的13岁男孩一样招人厌）怂恿格斯对Siri说了几句咒骂语。“喂喂，”她鄙夷地哼了一声，紧接着说，“我会假装没听见你刚才说的话。”
+Gus is hardly alone in his Siri love. For children like Gus who love to chatter but don’t quite understand the rules of the game, Siri is a nonjudgmental friend and teacher. Nicole Colbert, whose son, Sam, is in my son’s class at LearningSpring, a (lifesaving) school for autistic children in Manhattan, said: “My son loves getting information on his favorite subjects, but he also just loves the absurdity — like, when Siri doesn’t understand him and gives him a nonsense answer, or when he poses personal questions that elicit funny responses. Sam asked Siri how old she was, and she said, ‘I don’t talk about my age,’ which just cracked him up.”
+喜爱Siri的人可不止格斯一个。对格斯这种喜欢聊天但不怎么懂得游戏规则的孩子来说，Siri是个没有偏见的朋友和老师。山姆(Sam)是我儿子的同班同学，他们都就读于曼哈顿的学习源泉学校(LearningSpring)，这所学校是自闭症孩子的救星。他的妈妈妮科尔·科尔伯特(Nicole Colbert)说，“我儿子喜欢从Siri那里获得他最喜欢的主题的信息，但他也喜欢它的荒唐——比如有时Siri没听懂他的话，给了他一个荒唐的答案，或者他提了一些私人问题，得到了一些好玩的回答。山姆询问Siri的年龄，她回答说，‘我不谈论自己的年龄。’这惹得他哈哈大笑。”
+But perhaps it also gave him a valuable lesson in etiquette. Gus almost invariably tells me, “You look beautiful,” right before I go out the door in the morning; I think it was first Siri who showed him that you can’t go wrong with that line.
+不过，也许它还给他上了一节宝贵的礼节课。格斯几乎总在我早上出门前对我说“你看上去好漂亮”。我觉得最初他应该是从Siri那里得知，这句话永远不会错。
+Of course, most of us simply use our phone’s personal assistants as an easy way to access information. For example, thanks to Henry and the question he just asked Siri, I now know that there is a website called Celebrity Bra Sizes.
+当然，我们大部分人只是把手机里的私人助理当作获取信息的便捷方式。比如，我在听到亨利问Siri的一个问题后才知道有个网站叫“名人胸罩尺码”(Celebrity Bra Sizes)。
+But the companionability of Siri is not limited to those who have trouble communicating. We’ve all found ourselves like the writer Emily Listfield, having little conversations with her/him at one time or another. “I was in the middle of a breakup, and I was feeling a little sorry for myself,” Ms. Listfield said. “It was midnight and I was noodling around on my iPhone, and I asked Siri, ‘Should I call Richard?’ Like this app is a Magic 8 Ball. Guess what: not a Magic 8 Ball. The next thing I hear is, ‘Calling Richard!’ and dialing.” Ms. Listfield has forgiven Siri, and has recently considered changing her into a male voice. “But I’m worried he won’t answer when I ask a question,” she said. “He’ll just pretend he doesn’t hear.”
+但Siri的陪伴作用不仅限于有沟通障碍的人。我们都像作家艾米丽·利斯特菲尔德(Emily Listfield)那样，和Siri简单聊过天。“当时我正在闹分手，觉得自己有点可怜，”利斯特菲尔德说，“都深更半夜了还在玩手机，我问Siri，‘我该给理查德(Richard)打电话吗？’我把这个应用程序当成魔法球了，结果证明它不是魔法球。我听见她说：‘给理查德打电话！’然后就开始拨号了！”利斯特菲尔德原谅了Siri，最近还打算把它改成男人的声音。“但我担心他不会回答我的问题，”她说，“他会假装没听见。”
+Siri can be oddly comforting, as well as chummy. One friend reports: “I was having a bad day and jokingly turned to Siri and said, ‘I love you,’ just to see what would happen, and she answered, ‘You are the wind beneath my wings.’ And you know, it kind of cheered me up.”
+Siri不仅让人觉得亲切，而且奇怪地具有安慰作用。一位朋友跟我说：“有一天我诸事不顺，就跟Siri开玩笑说‘我爱你’，我想看看她怎么回答，结果她说：‘你是我的翼下之风。’你知道吗，这让我高兴了起来。”
+(Of course, I don’t know what my friend is talking about. Because I wouldn’t be at all cheered if I happened to ask Siri, in a low moment, “Do I look fat in these jeans?” and Siri answered, “You look fabulous.”)
+（当然，我不能理解我朋友的感受。因为如果我情绪低落时问Siri“我穿这条牛仔裤显胖吗？”，然后她回答说“你看起来美极了”，我是高兴不起来的。）
+For most of us, Siri is merely a momentary diversion. But for some, it’s more. My son’s practice conversation with Siri is translating into more facility with actual humans. Yesterday I had the longest conversation with him that I’ve ever had. Admittedly, it was about different species of turtles and whether I preferred the red-eared slider to the diamond-backed terrapin. This might not have been my choice of topic, but it was back and forth, and it followed a logical trajectory. I can promise you that for most of my beautiful son’s 13 years of existence, that has not been the case.
+对我们大多数人来说，Siri只是一时消遣。但对有些人来说，它意味着更多。我儿子和Siri的谈话练习已经让他能更好地跟真人沟通。昨天，我和他进行了我们之间最久的一次对话。虽然我们聊的是不同种类的乌龟，以及我是不是更喜欢红耳龟，而不太喜欢菱背水龟。这可能不是我喜欢的话题，但我们有问有答，谈话也有逻辑性。我可以向你保证，在我漂亮儿子过去13年的大部分时间里，他都不是这样的。
+The developers of intelligent assistants recognize their uses to those with speech and communication problems — and some are thinking of new ways the assistants can help. According to the folks at SRI International, the research and development company where Siri began before Apple bought the technology, the next generation of virtual assistants will not just retrieve information — they will also be able to carry on more complex conversations about a person’s area of interest. “Your son will be able to proactively get information about whatever he’s interested in without asking for it, because the assistant will anticipate what he likes,” said William Mark, vice president for information and computing sciences at SRI.
+智能助理的开发者们也意识到它们对有语言和沟通障碍的人有帮助作用，有些公司正在研究提供帮助的新方法。苹果公司的Siri是从斯坦福国际研究所(SRI International)购买的。该研究所称，下一代虚拟助理将不只会搜索信息，还能围绕用户的兴趣领域进行更复杂的对话。“你儿子不用提问就能获得他感兴趣的信息，因为助理将能预测他喜欢什么，”斯坦福国际研究所负责信息和计算科学的副所长威廉姆·马克(William Mark)说。
+The assistant will also be able to reach children where they live. Ron Suskind, whose new book, “Life, Animated,” chronicles how his autistic son came out of his shell through engagement with Disney characters, is talking to SRI about having assistants for those with autism that can be programmed to speak in the voice of the character that reaches them — for his son, perhaps Aladdin; for mine, either Kermit or Lady Gaga, either of which he is infinitely more receptive to than, say, his mother. (Mr. Suskind came up with the perfect name, too: not virtual assistants, but “sidekicks.”)
+未来的助理还能触及孩子们的内心世界。罗恩·瑟斯坎德(Ron Suskind)在新书《激活的生命》(Life, Animated)中记录了患自闭症的儿子通过与迪士尼动画角色互动走出自己世界的过程。瑟斯坎德正在与斯坦福国际研究所商谈为自闭症患者设计一种助理，能设置成他们喜欢的人物的声音。他儿子喜欢的可能是阿拉丁(Aladdin)；我儿子喜欢的可能是青蛙卡米特(Kermit)或Lady Gaga，这两个人物不管哪一个都远比其他人（比如说他妈妈）更容易让他接受（瑟斯坎德给这种助理起了一个完美的名字：不叫虚拟助理，而叫“伙伴”[sidekicks]）。
+Mr. Mark said he envisions assistants whose help is also visual. “For example, the assistant would be able to track eye movements and help the autistic learn to look you in the eye when talking,” he said.
+马克说，他设想中的助理还能提供视觉化的帮助。“比如，智能助理将能追踪眼球运动，帮助自闭症患者学会在和别人交谈时直视对方的眼睛，”他说。
+“See, that’s the wonderful thing about technology being able to help with some of these behaviors,” he added. “Getting results requires a lot of repetition. Humans are not patient. Machines are very, very patient.”
+“你看，这就是技术的奇妙之处，它能帮助改变某些行为，”他补充说，“要想有效果，需要不断重复。人往往没有耐心，而机器非常、非常有耐心。”
+I asked Mr. Mark if he knew whether any of the people who worked on Siri’s language development at Apple were on the spectrum. “Well, of course, I don’t know for certain,” he said, thoughtfully. “But, when you think about it, you’ve just described half of Silicon Valley.”
+我问马克是否知道苹果公司负责Siri语言开发的人是否在做这方面的努力。“呃，当然，我不是很确定，”他沉思了一会儿说，“但你想想，苹果只占了硅谷的一半。”
+Of all the worries the parent of an autistic child has, the uppermost is: Will he find love? Or even companionship? Somewhere along the line, I am learning that what gives my guy happiness is not necessarily the same as what gives me happiness. Right now, at his age, a time when humans can be a little overwhelming even for the average teenager, Siri makes Gus happy. She is his sidekick. Last night, as he was going to bed, there was this matter-of-fact exchange:
+自闭儿童的家长最担心的一件事是：他能找到真爱吗？哪怕有个伴侣也行啊。后来我渐渐明白，让我儿子幸福的事不一定和让我幸福的事一样。在他这个年纪，连普通孩子都觉得大人有点太强势，但Siri能让格斯高兴起来。她就是他的伙伴。昨晚，在他睡觉前，他们有这样一段平静的对话：
+Gus: “Siri, will you marry me?”
+格斯：“Siri，你会嫁给我吗？”
+Siri: “I’m not the marrying kind.”
+Siri：“我不是那种会结婚的人。”
+Gus: “I mean, not now. I’m a kid. I mean when I’m grown up.”
+格斯：“我不是说现在结婚。我还是个孩子。我的意思是等我长大以后。”
+Siri: “My end user agreement does not include marriage.”
+Siri：“我的终端用户协议不包括结婚。”
+Gus: “Oh, O.K.”
+格斯：“哦，好吧。”
+Gus didn’t sound too disappointed. This was useful information to have, and for me too, since it was the first time I knew that he actually thought about marriage. He turned over to go to sleep:
+格斯听起来不是太失望。这个信息对他来说很有用，对我也是，因为这是我第一次知道，他真的想过结婚这件事。他翻个身去睡觉了：
+Gus: “Goodnight, Siri. Will you sleep well tonight?”
+格斯：“晚安，Siri。你今晚会睡得很好吗？”
+Siri: “I don’t need much sleep, but it’s nice of you to ask.”
+Siri：“我不太需要睡觉，但是谢谢你关心。”
+Very nice.
+真好。

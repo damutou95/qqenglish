@@ -1,0 +1,54 @@
+PALO ALTO, Calif. — In an out-of-the-way Google office, two life-size humanoid robots hang suspended in a corner.
+加利福尼亚州帕洛阿尔托——在一间不起眼的谷歌(Google)办公室里，两个真人大小的类人机器人吊挂在角落里。
+If Amazon can imagine delivering books by drones, is it too much to think that Google might be planning to one day have one of the robots hop off an automated Google Car and race to your doorstep to deliver a package?
+既然亚马逊(Amazon)能够想到利用无人机送书，那认为谷歌可能计划有一天让机器人跳下谷歌自动汽车，迅速将包裹送到你家门口是想太多了吗？
+Google executives acknowledge that robotic vision is a “moonshot.” But it appears to be more realistic than Amazon’s proposed drone delivery service, which Jeff Bezos, Amazon’s chief executive, revealed in a television interview the evening before one of the biggest online shopping days of the year.
+谷歌高管承认，这方面的机器人构想相当于“登月计划”。但这似乎比亚马逊的无人机送货服务更加现实一些。亚马逊首席执行官杰夫·贝佐斯(Jeff Bezos)在本年度异常重要的一个网络购物日的前夜接受电视台采访时，透露了该公司的无人机送货计划。
+Over the last half-year, Google has quietly acquired seven technology companies in an effort to create a new generation of robots. And the engineer heading the effort is Andy Rubin, the man who built Google’s Android software into the world’s dominant force in smartphones.
+在过去半年的时间里，谷歌悄悄收购了七家科技公司，尝试研发新一代机器人。负责该计划的工程师——安迪·鲁宾(Andy Rubin)曾将谷歌的Android软件打造成了智能手机领域的主导力量。
+The company is tight-lipped about its specific plans, but the scale of the investment, which has not been previously disclosed, indicates that this is no cute science project.
+该公司对具体计划守口如瓶，但之前没有透露的投资规模说明，这不是一个小型科学项目。
+At least for now, Google’s robotics effort is not something aimed at consumers. Instead, the company’s expected targets are in manufacturing — like electronics assembly, which is now largely manual — and competing with companies like Amazon in retailing, according to several people with specific knowledge of the project.
+至少目前，谷歌在机器人方面的尝试没有以消费者为目标。据几名知情人士透露，谷歌的预期目标是制造业——比如目前基本上由手工完成的电子装配工作，并希望与亚马逊等公司在零售业开展竞争。
+A realistic case, according to several specialists, would be automating portions of an existing supply chain that stretches from a factory floor to the companies that ship and deliver goods to a consumer’s doorstep.
+据几名专家透露，一条较为现实的路就是，使现存的供应链——从工厂到运载、配送货物的公司，再到消费者——部分实现自动化。
+“The opportunity is massive,” said Andrew McAfee, a principal research scientist at the M.I.T. Center for Digital Business. “There are still people who walk around in factories and pick things up in distribution centers and work in the back rooms of grocery stores.”
+“发展机会非常大，”麻省理工学院(MIT)数字商业中心(Center for Digital Business)首席研究科学家安德鲁·麦卡菲(Andrew McAfee)说。“仍有人在工厂走动，在配送中心收拾东西，在食品杂货店的库房里工作。”
+Google has recently started experimenting with package delivery in urban areas with its Google Shopping service, and it could try to automate portions of that system. The shopping service, available in a few locations like San Francisco, is already making home deliveries for companies like Target, Walgreens and American Eagle Outfitters.
+近期，谷歌已经开始在市区通过谷歌购物(Google Shopping)服务平台开展包裹递送试验，谷歌可以尝试让该系统实现部分自动化。谷歌购物服务目前只覆盖了旧金山等少数地方，谷歌已经为塔吉特(Target)、沃尔格林(Walgreens)及美洲鹰奥菲特(American Eagle Outfitters)等公司提供送货到家服务。
+Perhaps someday, there will be automated delivery to the doorstep, which for now is dependent on humans.
+或许有一天，会有自动送货到家的服务，而目前这个行业都是依靠人力送货。
+“Like any moonshot, you have to think of time as a factor,” Mr. Rubin said. “We need enough runway and a 10-year vision.”
+“像任何登月计划一样，你得考虑时间因素，”鲁宾说，“我们需要足够长的跑道，以及一个十年愿景。”
+Mr. Rubin, the 50-year-old Google executive in charge of the new effort, began his engineering career in robotics and has long had a well-known passion for building intelligent machines. Before joining Apple Computer, where he initially worked as a manufacturing engineer in the 1990s, he worked for the German manufacturing company Carl Zeiss as a robotics engineer.
+现年50岁的谷歌高管鲁宾负责这一新计划，鲁宾在机器人领域开启了自己的工程师职业生涯，他制造智能机器的激情早已众所周知。在加入苹果公司(Apple Computer)之前，鲁宾在德国制造公司卡尔·蔡司(Carl Zeiss)担任机器人工程师。20世纪90年代，鲁宾加入苹果公司，最初担任该公司的制造工程师。
+“I have a history of making my hobbies into a career,” Mr. Rubin said in a telephone interview. “This is the world’s greatest job. Being an engineer and a tinkerer, you start thinking about what you would want to build for yourself.”
+“一直以来，我将自己的爱好发展成事业，”鲁宾接受电话采访时表示。“这是世界上最棒的工作。作为一名工程师、一个喜欢捣鼓东西的人，你开始思考你愿意为自己制造什么东西。”
+He used the example of a windshield wiper that has enough “intelligence” to operate when it rains, without human intervention, as a model for the kind of systems he is trying to create. That is consistent with a vision put forward by the Google co-founder Larry Page, who has argued that technology should be deployed wherever possible to free humans from drudgery and repetitive tasks.
+他举出雨刷器为例，作为他正试图创造的这种系统的一个样本，这种雨刷器拥有足够的“智能”，能在不受人为干预的前提下，在下雨时自动作业。这和谷歌联合创始人拉里·佩奇(Larry Page)提出的构想一脉相承，他曾主张，技术应该被配备到所有可能的领域，以使人类摆脱单调而重复的工作。
+The veteran of a number of previous Silicon Valley start-up efforts and twice a chief executive, Mr. Rubin said he had pondered the possibility of a commercial effort in robotics for more than a decade. He has only recently come to think that a range of technologies have matured to the point where new kinds of automated systems can be commercialized.
+鲁宾曾在不少过往的硅谷初创企业里任职，是一名老将，还曾两次担任首席执行官，他说，对于开发机器人商业项目的可能性，他已斟酌了十多年。直到最近，他才觉得，一系列技术已经足够成熟，可以对新型自动化系统进行商业开发了。
+Earlier this year, Mr. Rubin stepped down as head of the company’s Android smartphone division. Since then he has convinced Google’s founders, Sergey Brin and Mr. Page, that the time is now right for such a venture, and they have opened Google’s checkbook to back him. He declined to say how much the company would spend.
+今年早些时候，鲁宾卸下了谷歌Android智能手机系统分部主管的职务。自那之后，他说服了谷歌创始人谢尔盖·布林(Sergey Brin)和佩奇，让他们相信，现在正是展开此类冒险的恰当时机。二人已拿出谷歌的资金支持他，但他拒绝透露公司将为此支出多少资金。
+Mr. Rubin compared the effort with the company’s self-driving car project, which was started in 2009. “The automated car project was science fiction when it started,” he said. “Now it is coming within reach.”
+鲁宾比较了这个项目和公司的无人驾驶汽车项目，后者于2009年上马。他说，“自动汽车项目开始时是一个科幻故事。现在它正触手可及。”
+He acknowledged that breakthroughs would still be necessary in areas like software and sensors, but said that hardware issues like mobility and moving hands and arms had been resolved.
+他承认，在软件和传感器等领域依然需要突破一些难关，不过他说，像移动能力和手与臂的运动等硬件问题已经得到解决。
+Mr. Rubin has secretly acquired an array of robotics and artificial intelligence start-up companies in the United States and Japan.
+鲁宾已在美国和日本秘密收购了不少机器人和人工智能创业公司。
+Among the companies are Schaft, a small team of Japanese roboticists who recently left Tokyo University to develop a humanoid robot, and Industrial Perception, a start-up here that has developed computer vision systems and robot arms for loading and unloading trucks. Also acquired were Meka and Redwood Robotics, makers of humanoid robots and robot arms in San Francisco, and Bot & Dolly, a maker of robotic camera systems that were recently used to create special effects in the movie “Gravity.” A related firm, Autofuss, which focuses on advertising and design, and Holonomi, a small design firm that makes high-tech wheels, were acquired as well.
+这其中包括Schaft和工业知觉公司(Industrial Perception Inc.)，前者是由一小队刚刚离开东京大学(Tokyo University)的日本机器人学家组成的公司，正在开发一种人形机器人，后者是一家美国创业公司，已经开发了一种用于卡车装卸货的计算机视觉系统和机械臂。被收购的公司还包括Meka和红木机器人公司(Redwood Robotics)，他们是位于旧金山的人形机器人和机械臂制造商，还有自动摄像系统制造商Bot & Dolly，该公司的系统最近被应用于电影《地心引力》(Gravity)的特效制作。主营广告和设计的相关公司Autofuss和一家制造高科技轮胎的小型设计公司Holonomi也被收购了。
+The seven companies are capable of creating technologies needed to build a mobile, dexterous robot. Mr. Rubin said he was pursuing additional acquisitions.
+这七家公司能够开发出制造一个移动、灵活的机器人所需要的技术。鲁宾说他正在寻求收购更多公司。
+Unlike Google’s futuristic X lab, which does research on things like driverless cars and the wearable Google Glass device, the robotics effort — moonshots aside — is meant to sell products sooner rather than later. It has not yet been decided whether the effort will be a new product group inside Google or a separate subsidiary, Mr. Rubin said.
+和研究无人驾驶汽车、可佩戴谷歌眼镜设备的谷歌X未来实验室不同，机器人计划——虽然也是登月计划一般——是打算尽快能开始卖产品的。鲁宾说，目前还没决定这项计划会在谷歌内部新创一个产品团队，还是会交给一个独立的子公司。
+The Google robotics group will initially be based here in Palo Alto, with an office in Japan. In addition to his acquisitions, Mr. Rubin has begun hiring roboticists and is bringing in other Google programmers to assist in the project.
+谷歌机器人小组最初将把基地建在帕洛阿尔托，并在日本设一个办公室。除收购公司外，鲁宾还开始雇用机器人专家，并把其他一些谷歌程序员拉进来协助项目。
+While Google has not detailed its long-term robotics plans, Mr. Rubin said that there were both manufacturing and logistics markets that were not being served by today’s robotic technologies, and that they were clear opportunities.
+尽管谷歌还未透露其长期的机器人开发计划相关细节，但鲁宾表示，在制造业市场和物流业，都存在当前机器人技术未服务到的地方，而这些是明显的市场机会。
+This is not the first time that Google has strayed beyond the typical confines of a tech company. It has already shaken up the world’s automobile companies with its robot car project. Google has not yet publicly stated whether it intends to sell its own vehicles or become a supplier to other manufacturers. Speculation about Google’s intentions has stretched from fleets of robotic taxis moving people in urban areas to automated delivery systems.
+这不是谷歌第一次偏离科技公司常规业务了。它已经在推出其机器人汽车计划时撼动了全球汽车制造业。谷歌还没有公开表示是否希望自产自销，还是要为制造商供货。对于谷歌的打算，人们有各种各样的猜测，从在城区出现大批载人出行的机器人出租车，到自动递送系统，不一而足。
+Mr. Rubin said that one of his frustrations about today’s consumer electronics industry was its complexity. He is hoping robotics will be different.
+鲁宾说自己对现在的民用电子产品业的一个不满就是，它太复杂。他希望机器人可以不同。
+“I feel with robotics it’s a green field,” he said. “We’re building hardware, we’re building software. We’re building systems, so one team will be able to understand the whole stack.”
+“我觉得机器人还是个待开发的新领域，”鲁宾说，“我们在造硬件和软件。我们在建系统，这样一来，一个团队就会对一个整体都有了解。”

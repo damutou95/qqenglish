@@ -1,0 +1,70 @@
+In our new Augmented Reality column, BBC Capital will explore scenarios you might encounter in your not-so-distant future. First, we’re going to look at what would happen if your 40-hour workweek were entirely devoid of other people.
+在我们的增强现实（Augmented Reality）专栏中，BBC Capital 探索了你在不远的将来可能遇到的场景。我们首先会探讨一个问题：倘若在你每周40小时的工作时间内，完全不跟其他同事面对面相处，将会是一种怎样的感受。
+Throughout my career I’ve worked with people that I’ve never met in person. In theory, I could spend an entire day without meeting another human face-to-face.
+我的整个职业生涯都在跟那些素未谋面的人打交道。从理论上讲，我可以一整天都不跟任何人面对面接触。
+But could this kind of self-imposed isolation become standard working practice in the future?
+但这种自愿的隔离是否会成为未来的标准工作方式呢？
+Studies show that in the US, the number of telecommuters rose 115% between 2005 and 2017. And in early 2015, around 500,000 people used Slack, the real-time chat room programme, daily. By last September, that number soared to over 6 million.
+研究表明，美国远程办公的人数在2005至2017年间增长115%。2015年初，约有50万人每天使用实时聊天软件Slack。到去年9月，这一数字飙升到600多万。
+In 2017 a Gallup poll revealed that 43% of 15,000 Americans say they spend at least some of their time working remotely, a 4% rise from 2012. And a 2015 YouGov study found that 30% of UK office workers say they feel more productive when they work outside their workplace.
+盖洛普在2017年对1.5万美国人进行的一项调查发现，43%的受访者表示他们至少有一部分时间在远程办公，较2012年增加4%。YouGov在2015年进行的研究发现，有30%的英国办公室员工认为，在办公场所之外工作的效率更高。
+How would we feel if we never had to work with another person face-to-face again? Would we care? Have things gone so far that we might not even notice?
+如果不必与其他人面对面工作，你会作何感想？我们是否会在乎这种情况？当前的形势是否已经发展到我们根本注意不到这种变化的程度？
+Our drift towards working alone could have a significant impact on our physical and mental health, the way our companies run and even shape our cities. We spoke to a group of experts to find out what they think.
+这种独自工作的潮流可能会对我们的身心健康、企业的运作方式甚至城市的面貌产生重要影响。我们与一些专家展开对话，希望了解他们内心的想法。
+What could a human-free workplace look like?
+没有人的工作场所是什么样子？
+In 2018 it seems we’re in the middle of a work-from-home era of pyjamas and Slack. But futurists envisage something a lot more science-fiction in decades to come. The working day could start, for instance, by uploading our schedules and daily goals into virtual reality doppelgangers - representations of ourselves that we then dispatch to online meetings in our stead.
+在2018年，我们似乎正处于穿着睡衣、用着Slack "在家工作"的时代。但根据未来学家的设想，今后几十年可能会出现更多类似科幻小说里的东西。例如，在开始一天的工作时，可以把每天的日程和目标上传给虚拟现实化身——这是我们的代表，之后让它们代替我们去参加在线会议。
+“My digitally-engineered persona might be interacting with clients and employees and customers around the world simultaneously,” says James Canton, CEO of the Institute for Global Futures, and who has advised three White House administrations on future workplace trends. “I can direct it and it can have a certain degree of autonomous decisions.”
+"我的数字化角色或许可以同时与全球各地的客户、员工和顾客进行互动。"全球未来机构（Institute for Global Futures）首席执行官詹姆斯·坎顿（James Canton）说，他曾为三届白宫政府就未来办公场所的趋势提供过建议，"我可以指挥它，它也可以获得一定程度的自主决策权。"
+He’s working with scientists to develop these online bots: “On the back end, there will be massive supercomputer capabilities and The Cloud.” But they’ll look like whatever we want them to look like: “Kids may want to choose a dinosaur, guys might want to choose Emma Stone,” says Canton.
+他正在与科学家合作开发这些在线机器人："后端会有巨大的超级计算能力和云。"但是它们会按照我们的意愿随意变换样子："孩子们可能想要恐龙，而男人可能会选择艾玛·斯通（Emma Stone）。"坎顿说。
+Office workers are already happily abandoning their face-to-face interactions in droves, in favour of what’s widely referred to as flexible working, or telecommuting. But if human beings “are such social creatures” then won't sitting hunched over glowing screens all day risk damaging our mental health, or even impair our emotional intelligence?
+办公室员工已经很高兴地放弃了面对面的互动，转而支持灵活工作制或远程办公。但是，如果人类"真的是群居动物"，那么整天坐在那里盯着发光的屏幕，难道不会损害我们的心理健康，甚至破坏我们的情商吗？
+What does working alone do to your mind?
+独自工作会对你的内心产生何种影响？
+Some believe the increase in telecommuting will inevitably lead to employee ennui at best, and a rise in depression at worst.
+一些人认为远程办公的增多必然会导致员工倦怠，在最糟糕的情况下，甚至会引发抑郁。
+Faith Popcorn, a futurist who has advised giants like AT&T, IBM and Coca-Cola on the future of the workforce says, “you’re going to have to go somewhere. Find some amusement.” And that diversion could involve companies sanctioning staff down time to watch YouTube videos or listen to music or even going on trips, she says. Still, Popcorn believes a human-free, remote-only workplace will inevitably prompt some employees to go on “fantasy adventures”: that could meaning anything from extra holidays to retreats to immersive VR worlds to even pornography addiction.
+菲斯·帕帕考恩（Faith Popcorn）是一名未来学家，还曾就未来的劳动力问题为AT&T、IBM和可口可乐公司提供过建议。他们说:"你必须到某个地方娱乐了一下。"她表示，这种变化可能会导致公司批准员工停下手中的工作去看看YouTube视频，听听音乐，甚至出门旅行。不过，帕帕考恩还是认为，一个没有人的远程工作场所将不可避免地促使一些员工进行"奇幻冒险"：这可能意味着各种各样的活动，例如享受额外的假期、沉浸在虚拟现实世界里，甚至对色情内容成瘾。
+“For some people, (telecommuting) is not a good fit – the lack of informal interactions with co-workers throughout the day wears on them,” says David Ballard, a doctor at the American Psychological Association who oversees its Center for Organizational Excellence. “Or the lack of structure, when they’re left to their own devices at home or in a remote setting. It’s harder to stay organised.”
+"对有些人来说，（远程办公）不太合适——白天与同事之间缺乏非正式的交流，会让他们感到厌烦。" 作为美国心理学协会组织卓越中心负责人的大卫·巴拉德（David Ballard）医生说，"或者，当他们在家里或者其他地方使用自己的设备远程工作的时候，也有可能缺乏条理。这就更难保持井井有条。"
+And while sending holographic likenesses of ourselves along to board meetings sounds pretty fun, going through the cycles of the workweek entirely alone might not. It will likely make it harder for workers and their managers to build any sort of sense of collaborative team.
+虽然让我们自己的全息形象去参加董事会议听起来很有趣，但独自一人从事整整一周的工作恐怕就没那么有趣了。这可能会使员工和他们的管理者更加难以建立任何形式的团队合作意识。
+“It certainly makes it more challenging to build that camaraderie when you’re not physically there sharing meals at a lunch room – that does change the dynamic,” Ballard adds.
+"如果你没有亲身到餐厅与大家共进午餐，想要建立同志之间的友情就会面临更多挑战——这确实会改变你的动态。" 巴拉德补充道。
+There’s nothing that can really replace face-to-face interaction and connection. The things you pick up from meeting someone in person – such as body language, intonation, or the intuition that senses when someone’s upset or something’s off in a conversation – are the advantages that humans use at work that technology cannot.
+没有什么能代替面对面的交流和联系。你在与某人见面时所能接收的信号——比如谈话中的肢体语言、语调，或者感到某人心烦意乱或某事出现问题的直觉——都是人类可以在工作中使用的优势，但科技却不具备这种优势。
+Kate Lister, president of Global Workplace Analytics, a firm that specialises in analysing emerging workplace strategies, says emotional intelligence is declining. “In part because people are on their computers instead of out on the playground.”
+Global Workplace Analytics是一家专门分析职场新兴策略的公司，其总裁凯特·李斯特（Kate Lister）表示，人们的情商正在下降。"部分原因是人们沉迷于电脑，而脱离了现实。"
+A steady drop in emotional intelligence (EQ) has been tracked by researchers over several years: back in 2010, a University of Michigan study found that university students show 40% less empathy than students a couple decades ago, less frequently agreeing with statements like “I sometimes try to understand my friends better by imagining how things look from their perspective" and "I often have tender, concerned feelings for people less fortunate than me."
+研究人员已经对情商（EQ）的稳定下降展开了多年的跟踪：早在2010年，密歇根大学的一项研究就发现，那时的大学生同理心较20年前低了40%。他们不太同意下面这样的说法：例如，"我有时试图更好地理解我的朋友，想象如何从他们的角度看问题"和"我经常心软，关心那些没有我幸运的人的感受。"
+But it's developing this type of emotional intelligence that will be key to navigating jobs of the future, especially if those jobs will require being surrounded by fewer humans and more technology.
+但这却在形成一种对未来工作至关重要的情商，尤其是当这些工作牵扯更少的人和更多的技术时。
+The argument against working from home
+在家工作也有不利因素
+At first glance it looks like firms will save millions and stand only to gain from granting more employees flexible working. They can potentially save massive amounts of money: according to Global Workplace Analytics, each company could stand to save $11,000 per employee per year, from cost savings in areas like property, turnover and electricity bills.
+乍一看，允许更多员工灵活工作，似乎可以帮助企业节省数百万美元，对他们非常有利。他们可以节省大量的资金：根据Global Workplace Analytics的数据，每家公司每名员工每年可以因此节省1.1万美元，在物业、营业额和电费等领域节省费用。
+But the reality of managing an entire workforce that are out-of-office could have some significant unforeseen costs. Last year, IBM reversed its position on flexible working when it called employees back to offices in-person, after stating in 2007 that 40% of its 400,000 employees no longer reported to a traditional office. Yahoo did something similar in 2013; a leaked memo to Yahoo staff was reported to suggest that some of the best decisions and insights at the firm came from "hallway and cafeteria discussions, meeting new people, and impromptu team meetings in the office."
+但是，要管理一大批不在办公室的员工，却可能产生一些数额不菲且不可预见的成本。去年，IBM转变了在弹性工作制上的立场，将员工召回办公室工作。而在此之前，该公司曾在2007年宣布其40万员工中有40%不再向传统办公室汇报工作。雅虎也在2013年采取了类似的措施；据报道，一封泄露出来的雅虎员工备忘录显示，该公司的一些最佳决策和见解来自"走廊和餐厅里的讨论，与新人会面，以及在办公室里临时召开的团队会议"。
+Though there isn’t yet much hard data that suggests firms will lose any money by letting a majority of its workers telecommute, the persistent fear is that these workers might end up being less efficient or loyal. After all, “you don’t want employees running their own start-ups on company time,” Ballard says.
+尽管目前还没有太多的数据表明，企业会因为让大多数员工远程办公而损失金钱，但长期的担忧在于，这些员工的效率和忠诚度最终可能下降。毕竟，"你不希望员工在工作时间里经营自己的创业公司。"巴拉德说。
+Still, the rise of the “gig economy”  has created a surge of skilled freelancers and remote workers. Walk into any trendy, Fairtrade café in any major city and no doubt you’ll find waves of hip, tattooed professionals hunched over Macbooks and drip coffees. But monitoring this out of office workforce and keeping tabs on their productivity is tricky. Although companies like Humanyze, a start-up in Boston, have developed employee ID badges that track biometric data from human employees, like physical movements, voice tone and length of conversation which could help.
+不过，"零工经济"的兴起造就了一批熟练的自由职业者和远程工作人员。走进任何一个大城市的时尚咖啡厅，你肯定都会发现有很多有纹身的时尚专业人士边喝咖啡边用Macbook办公。然而，想要监督办公室之外的工作人员及其工作效率却并非易事。但像Humanyze（一家波士顿创业公司）这样的企业已经开发出了员工ID卡，可以追踪员工的生物识别数据，比如肢体动作、语音声调和对话时长，从而为企业提供帮助。
+Preparing managers for the transition
+让管理者为过渡做好准备
+More people working from home is an inevitability, if recent statistics are to believed. And the onus will be on managers to adapt to the new environment.
+如果最近的统计数据可信的话，必然会有更多在家工作的人。管理人员也必须适应新的环境。
+“Part of the problem is that we still manage people the way we did in the Industrial Revolution, like when people were working on an assembly line – if they see you, they think you’re being productive,” says Ballard of the American Psychological Association. “We need to train managers and supervisors how to better manage a remote workforce.”
+"问题的部分原因在于，我们仍然像在工业革命那样管理人们，就好像人们在流水线上工作一样——如果他们能看到你，就会认为你很有生产力。" 美国心理学协会的巴拉德说，"我们需要培训管理人员和主管，让他们知道如何更好地管理远程工作的员工。"
+How do they do that? Well, in 2015, Harvard Business Review wrote that many companies that allow telecommuting “focus too much on technology and not enough on process. This is akin to trying to fix a sports team’s performance by buying better equipment.” There needs to be emphasis on basics like communication and coordination, HBR argues.
+究竟应该怎么做？《哈佛商业评论》（Harvard Business Review）在2015年发表文章称，很多允许远程办公的公司都"过于关注技术，但却对流程关注不足。这就好比通过购买更好的设备来提高运动队的表现一样。"《哈佛商业评论》认为，应该重视沟通和协调等基本要素。
+That means that managers must still able to explain complex ideas to employees, even in a virtual setting. HBR mentions one exercise in which subject A describes an image to subject B over the phone. Then subject B must attempt to describe the description via email to subject C – and sure enough, subject C’s interpretation often ends up wonky.
+这意味着，即使在虚拟环境中，管理者也必须能够向员工解释复杂的想法。《哈佛商业评论》提到了一种练习，在这个练习中，A通过电话向B描述一幅图画，然后由B尝试用电子邮件向C描述这幅图画——当然，C的解释通常都靠不住。
+It is also suggested that managers also be readily available to all employees in all time zones to build trust and efficiency.
+此外，管理者还必须对所有时区的员工作出响应，以此建立信任，提高效率。
+And that's the real challenge that could develop, one that's more probable (or at least more pressing) than working alone and being surrounded by talking holograms.
+这才是真正的挑战，与独自一人工作，并与周围的各种全息图像展开对话相比，这更有可能发生（或者说，至少更加迫切）。
+An already blurred line separating work and not work is becoming increasingly blurred as working remotely becomes more popular. We might end up with the freedom to work where we want, but those technologies that grant us mobility will simultaneously chain us more to our jobs, as we become instantly and freely accessible, regardless of time or place.
+随着远程工作越来越流行，工作与不工作之间原本就已经模糊的界限变得更加模糊。我们或许最终可以获得想要的工作自由，但那些赋予我们流动性的技术同时也会把我们更多地束缚在自己的工作上，我们会因此而随时待命，无论身处何时何地。

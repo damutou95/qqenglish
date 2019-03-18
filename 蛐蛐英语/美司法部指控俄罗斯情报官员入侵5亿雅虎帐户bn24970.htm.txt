@@ -1,0 +1,16 @@
+SAN FRANCISCO — In a development that can only heighten the distrust between U.S. and Russian authorities on cybersecurity, the Justice Department on Wednesday charged two Russian intelligence officers with directing a sweeping criminal conspiracy that broke into 500 million Yahoo accounts in 2014.
+旧金山——司法部于周三指控两名俄罗斯情报官员下令实施了一场范围极广的犯罪阴谋，在2014年侵入5亿个雅虎(Yahoo)帐户，当前的事态发展只能进一步加剧美国与俄罗斯当局在网络安全方面的不信任。
+The Russian government then used the information it obtained from the intelligence officers and two others named in the indictment — a Russian hacker and a Kazakh national living in Canada — to focus on foreign officials, business executives and journalists, federal prosecutors said. The targets included numerous financial executives, executives at an American cloud computing company, an airline official and even a casino regulator in Nevada.
+联邦检察官说，俄罗斯政府随后使用从情报官员和起诉书中提到的另外两人（一名俄罗斯黑客，以及一名居住在加拿大的哈萨克人）那里获得的信息，把目标对准外国官员、企业高管和记者。其中包括许多财务主管、美国云计算公司主管，一名航空公司官员，甚至还有一个内华达州赌场监管者。
+That U.S. and Russian authorities are often at loggerheads in their approaches to criminal breaches was made clear in the indictment. The two Russian agents were supposed to be helping Americans hunt for hackers but were instead working against them.
+起诉书中明确指出，美国和俄罗斯当局在对犯罪行为的处理方面经常有严重分歧。这两名俄罗斯特工本应帮助美国人抓捕黑客，却反而对此进行阻挠。
+And one of the outside hackers, a Russian named Alexsey Belan, had been indicted twice before for three intrusions into American e-commerce companies and had been arrested in Europe, but escaped to Russia before he could be extradited. Prosecutors said they received no response to their requests to the Russian government to turn over Belan to U.S. authorities.
+两名外部黑客之中，有一个名叫阿列克谢·别兰(Alexsey Belan)的俄国人，曾因三次侵入美国电子商务公司遭到两次指控，并在欧洲被捕，但在可能被引渡之前逃到俄罗斯。检察官说，他们要求俄罗斯政府将别兰交给美国当局，但没有得到答复。
+The hackers also used the Yahoo data to send spam and steal credit card and gift card information. In addition, they sought to break into at least 50 Google accounts, including those of Russian officials and employees of a Russian cybersecurity firm.
+黑客还使用雅虎数据发送垃圾邮件并窃取信用卡和礼品卡信息。此外，他们试图打入至少50个谷歌帐户，包括俄罗斯官员和俄罗斯网络安全公司员工的账户。
+On Wednesday, prosecutors unsealed an indictment containing 47 criminal charges against the two agents of Russia’s Federal Security Service, or FSB, as well as two outside hackers with whom they worked on the scheme, one of the largest known thefts of data from a private corporation.
+周三，检察官公布了一份起诉书，其中包括对俄罗斯联邦安全局(FSB)的两名特工及同他们合作的两名外部黑客提起的47起刑事指控，他们合谋的这项计划是迄今针对一家私营公司进行的最大规模数据盗窃案之一。
+The four men together face 47 criminal charges, including conspiracy, computer fraud, economic espionage, theft of trade secrets and aggravated identity theft, the Justice Department said in a news release.
+司法部在新闻稿中说，四人一共面对47项刑事指控，包括密谋罪、计算机诈骗、经济间谍、盗窃商业秘密和严重身份盗窃。
+“The criminal conduct at issue, carried out and otherwise facilitated by officers from an FSB unit that serves as the FBI’s point of contact in Moscow on cybercrime matters, is beyond the pale,” the acting assistant attorney general, Mary B. McCord, said in a statement.
+代理助理司法部长玛丽·B·麦科德(Mary B. McCord)在声明中说：“本案所涉犯罪行为是由俄罗斯联邦安全局一个部门的官员实施或促成其顺利实施的，该部门是联邦调查局在莫斯科的网络犯罪问题联系方，这种行为令人难以接受。”

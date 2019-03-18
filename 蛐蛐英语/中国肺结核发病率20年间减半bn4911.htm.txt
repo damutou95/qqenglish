@@ -1,0 +1,26 @@
+China has cut the prevalence of tuberculosis by more than half since 1990 thanks to the widespread implementation of a World Health Organization-backed control strategy, according to a new research paper. The findings, which were published this week in The Lancet medical journal, found that the prevalence of tuberculosis had dropped to 59 cases per 100,000 in 2010 from from 170 cases per 100,000 in 1990.
+一篇新的研究报告表示，由于广泛实施了世界卫生组织(World Health Organization)支持的控制策略，自1990年以来，中国已将肺结核患病率降低了一半以上。医学杂志《柳叶刀》(The Lancet)上周发表的文章称，肺结核患病率已经从1990年的每10万人170例，降低到了2010年的每10万人59例。
+The authors credited a strategy known as directly observed, short-course treatment, or DOTS. It involves government support of broad detection efforts combined with standardized drug treatment monitored by health care workers.
+作者对一种称为“短期直接观察治疗方案”，简称DOTS的策略提出了赞扬。从大规模的诊断工作，再到由卫生保健工作者监督执行的标准药物治疗，政府都提供了支持。
+The strategy requires that every case be diagnosed by sputum sample, and every patient be given a standard regimen of four antibiotics to take daily for about six months, and be watched taking the pills every day. The observer can be a nurse, a family member, a neighbor or any other trusted person.
+这一策略要求，每个病例都要根据痰液样本进行诊断；每天给每个病人提供四种抗生素的标准药剂，并坚持六个月左右；然后每天有人观察病人的用药情况。观察者可以是护士、家人、邻居或其他信任的人。
+The study was conducted by researchers from the Chinese Center for Disease Control and Prevention in Beijing.
+开展这项研究的是位于北京的中国疾病预防控制中心的研究人员。
+In an accompanying commentary, Giovanni Battista Migliori, director of the WHO Collaborating Center for Tuberculosis and Lung Diseases in Italy, and Giovanni Sotgiu of the University of Sassari in Italy, called the study’s findings “crucial.”
+位于意大利的世卫组织结核病与肺部疾病合作中心(Collaborating Center for Tuberculosis and Lung Diseases)负责人乔瓦尼·巴蒂斯塔·米廖里(Giovanni Battista Migliori)和意大利萨萨里大学(University of Sassari)的乔瓦尼·索特朱(Giovanni Sotgiu)在随论文同时刊发的评论中评价，该研究发现“非常重要”。
+“Any major Chinese advance in controlling tuberculosis will inevitably move all global indicators in a positive direction,” they wrote.
+他们写道，“中国在控制结核病方面取得的任何重大进步，都必然会使全球指标朝积极方向发展。”
+China’s success showed that the goal of halving global cases by 2025 is feasible, they wrote. But, it said, the world needs new drugs against drug-resistant strains and must adopt the new diagnostic machines that rapidly detect such strains.
+中国的成功表明，到2025年将全球肺结核病例减半的目标是能够实现的，他们写道。但是报告称，世界还需要对抗耐药菌株的新药物，而且必须采用能够迅速发现此类菌株的新诊断机。
+China has one of the world’s highest populations of people with the disease, with about one million new cases in 2010 and 11 percent of the world’s caseload. Before DOTS, most patients were identified by chest fluoroscopy, got various unmonitored drug regimens and were hospitalized if they fell seriously ill.
+中国是世界上肺结核患者最多的国家之一，2010年的新增病例有100万例，在全世界病例总数中占11%。在DOTS实行以前，大多数患者都通过胸部透视确诊，拿到的各种药方也没有经过审核，如果病情严重还会入院治疗。
+Any treatment strategies that are effective in China also help bring down global infection rates and show that large countries can be effective at controlling the disease’s spread.
+在中国效果明显的治疗策略还有助于降低全球感染率，这表明大国在控制肺结核传播方面能发挥很大作用。
+The researchers found that during the first decade they studied, 1990-2000, tuberculosis prevalence dropped by 19 percent, and then 57 percent from 2000 to 2010. They attributed the decrease over the second half of the study period to a national effort to step up the detection of tuberculosis and to expand the treatment strategy nationwide.
+研究人员还发现，在他们进行研究的头10年，即1990年至2000，肺结核患病率降低了19%，从2000年到2010年又降低了57%。他们认为，后半个研究期的数字之所以会下降，是由于国家加强了肺结核的诊断工作，并在全国范围对这个治疗方案进行了推广。
+Tuberculosis prevalence fell to 59 cases per 100,000 population, from 170 cases in 1990. The more provinces that adopted DOTS, the faster it fell.
+肺结核患病率从1990年的每10万人170例，下降到了每10万人59例。采用DOTS的省份越多，肺结核患病率就降低得越快。
+The scientists compared vast numbers of samples taken in 1990, 2000 and 2010, including more than 250,000 patients at 176 clinics for the last one.
+科学家比较了1990年、2000年和2010年所采集的大量样本，其中2010年的样本来自176家诊所的超过25万名患者。
+Despite the success in treating the disease, China faces several obstacles in continuing to lower infection rates. The country has a serious problem with drug-resistant strains of tuberculosis, according to a 2012 study. And more prosperous eastern regions of the country had a higher rate of successfully combating the disease, meaning future control strategies will need to increase focus on poorer western regions.
+虽然在治疗肺结核方面取得了极大成功，但是中国在继续降低感染率的问题上仍然面临着一些阻碍。2012年的一次研究表明，中国面临着肺结核菌株耐药的严重问题。此外，中国经济条件较好的东部地区能够成功对抗肺结核的几率更高，这意味着将来的控制策略要加强对比较贫困的西部地区的关注。

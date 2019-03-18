@@ -1,0 +1,36 @@
+Mark Zuckerberg is one of the most powerful men in the world because billions of people give Facebook, which he founded, free access to their personal data. In return, users receive carefully curated snapshots of his life: baby photos, mundane office tours and the occasional 5K.
+由于数十亿人允许他创办的Facebook自由访问他们的个人信息，马克·扎克伯格(Mark Zuckerberg)成了全世界最有影响力的人之一。而反过来，用户只能看到他经过精心策划的生活概况：婴儿照、乏味的办公室介绍，偶尔跑一个5K。
+On Tuesday, observers were reminded that Mr. Zuckerberg, 32, is not just a normal guy who enjoys running and quiet dinners with friends. In a photo posted to his Facebook account, he celebrated the growing user base of Instagram, which is owned by Facebook. An eagle-eyed Twitter user named Chris Olson noticed that in the image’s background, his laptop camera and microphone jack appeared to be covered with tape.
+周二，旁观者再次被提醒，32岁的扎克伯格不仅仅是一个喜欢跑步和与朋友安静地聚餐的普通人。在扎克伯格的Facebook账号发布的一张照片中，他庆祝了公司旗下的Instagram用户增加。一个名叫克里斯·奥尔森(Chris Olson)的Twitter用户敏锐地注意到，在照片的背景中，扎克伯格的笔记本电脑的摄像头和麦克风似乎被用胶带遮住了。
+Other publications, including Gizmodo, used the tweet to raise the question: Was this paranoia, or just good practice?
+包括Gizmodo在内的其他刊物利用这条推文提出了一个问题：这是多疑，还是好习惯？
+The taped-over camera and microphone jack are usually a signal that someone is concerned, perhaps only vaguely, about hackers’ gaining access to his or her devices by using remote-access trojans — a process called “ratting.” (Remote access is not limited to ratters: According to a cache of National Security Agency documents leaked by Edward J. Snowden, at least two government-designed programs were devised to take over computer cameras and microphones.)
+用胶带封住摄像头和麦克风通常标志着此人担心，或许只是略微有些担心，黑客会用远程访问木马进入自己的设备——这个过程叫“ratting”。（远程访问不仅限于远程访问木马的使用者。爱德华·J·斯诺登[Edward J. Snowden]披露的一些国家安全局[National Security Agency]秘密文件显示，美国政府至少设计了两个用来接管电脑的摄像头和麦克风的计划。）
+Security experts supported the taping, for a few good reasons:
+安全专家支持扎克伯格用胶带遮住电脑的摄像头和麦克风，是出于以下几个充分的理由：
+• The first is that Mr. Zuckerberg is a high-value target.
+首先，马克扎克是一个高价值目标。
+“I think Zuckerberg is sensible to take these precautions,” Graham Cluley, an online security expert and consultant, wrote in an email Wednesday. “As well as intelligence agencies and conventional online criminals who might be interested in targeting his billions, there are no doubt plenty of mischievous hackers who would find it amusing to spy upon such a high-profile figure.”
+“我觉得扎克伯格采取这些预防措施是明智的，”网络安全领域的专家和顾问格雷厄姆·克卢利(Graham Cluley)周三在一封电子邮件中写道。“除了情报机构和可能觊觎他那数十亿财富的传统网络犯罪分子之外，无疑还有大量喜欢恶作剧的黑客，他们会认为暗中监视这么有名的人是一件有趣的事情。”
+• The second is that covering photo, video and audio portals has long been a basic and cheap security safeguard.
+其次，遮住照片、视频和音频入口向来是一种划算的基本安全保护措施。
+“Covering the camera is a very common security measure,” Lysa Myers, a security researcher at the data security firm ESET, said in an email. “If you were to walk around a security conference, you would have an easier time counting devices that don’t have something over the camera.”
+“盖住摄像头是一项非常普遍的安全措施，”数据安全公司ESET的安全研究员莉莎·迈尔斯(Lysa Myers)在一封电子邮件中说。“在安全会议的会场上四处走走，遮盖了摄像头的设备会比没遮盖的多。”
+• Third, Mr. Zuckerberg is not immune to security breaches.
+第三，扎克伯格也免不了要面临安全威胁。
+A recent hacking of his Twitter and LinkedIn accounts shows that he most likely committed two basic privacy faux pas: He may have used the same password across several websites and did not use two-factor authentication.
+前不久扎克伯格的Twitter和领英(LinkedIn)账户被黑一事表明，他极有可能犯了两个基本的隐私错误：在多个网站使用相同的密码，且未使用两步验证。
+Judging from his photo, however, it appears that Mr. Zuckerberg was taking simple precautions to protect himself from anyone who may try to gain remote access. The practice is fairly technologically simple: Hackers trick people into clicking on links or unfamiliar websites containing malware that allows them access to the devices.
+然而，从前述照片来看，扎克伯格似乎只是采取了简单的预防措施，来保护自己远离可能会尝试进行远程访问的人。这种做法在技术上相当简单：黑客骗人们点击含恶意软件的链接或不熟悉的网站。恶意软件使他们能够进入对方的设备。
+Mr. Zuckerberg is not the only high-profile case: James Comey, the director of the F.B.I., also puts tape over his computer’s webcam, for surprisingly simple reasons, according to NPR:
+扎克伯格不是唯一一个采取这种方式的名人：联邦调查局(FBI)局长詹姆斯·科米(James Comey)也用胶带遮住了他电脑上的摄像头，原因简单得出人意料。据NPR报道：
+“I saw something in the news, so I copied it,” Mr. Comey said. “I put a piece of tape — I have obviously a laptop, personal laptop — I put a piece of tape over the camera. Because I saw somebody smarter than I am had a piece of tape over their camera.”
+“我在新闻上看到的，于是就照着做了，”科米说。“我用一段胶带——我当然有一台笔记本电脑，我私人的笔记本电脑——我用一段胶带把摄像头遮住了。因为我看到比我聪明的人也是用胶带遮摄像头的。”
+People who are not billionaires or high-ranking government officials are not without risk, said Stephen Cobb, a senior security researcher at ESET.
+ESET的高级安全研究员斯蒂芬·科布(Stephen Cobb)表示，不是亿万富翁或政府高官的人并非没有风险。
+“For people who are not C.E.O.s, the threat is people scanning the internet for accessible webcams for a range of motives, from voyeurism to extortion,” Mr. Cobb wrote in an email.
+“对于不是重要人物的人来说，威胁在于，在网上寻找可操纵摄像头的人可能是出于一系列动机，从窥探他人隐私到敲诈勒索，”科布在一封电子邮件中写道。
+Experts don’t have a good estimate for how often such attacks occur, but according to a 2015 report released by the nonprofit Digital Citizens Alliance, the practice is a growing problem for consumers, especially young women. The report also said that trojans account for some 70 percent of all malware.
+对于这类袭击发生的频率，专家没有一个好的估算方法，但非营利组织数字公民联盟(Digital Citizens Alliance)在2015年发布的一份报告显示，这种做法越来越成为消费者尤其是年轻女性面临的一个问题。报告还称所有恶意软件中木马占大约70%。
+“They’ve been one of the most popular types of malware on every operating system, for quite a long time,” Ms. Myers, of ESET, said. “The best ways to protect against them are to update all your software on your machine regularly, and use reputable security software, including anti-malware and a firewall.”
+“在相当长一段时间里，它们一直是所有操作系统面临的最常见的一种恶意软件，”ESET的迈尔斯说。“防御它们的最好方法是定期升级所有软件，并使用口碑好的安全软件，包括反恶意软件和防火墙。”

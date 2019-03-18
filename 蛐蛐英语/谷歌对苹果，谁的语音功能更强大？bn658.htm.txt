@@ -1,0 +1,60 @@
+“Your review was the dumbest thing I’ve ever read. It strains me to avoid profanity in describing how stupid you sound.”
+“你的点评是我读过最愚蠢的东西。要描述你的愚蠢又同时避免任何侮辱性语言，让我倍感压力。”
+That’s the kind of e-mail that brightened my day after I reviewed Google’s Moto X phone two weeks ago.
+两周前点评了谷歌(Google)的Moto X手机后，这样的电子邮件已成为我每日生活的亮点。
+My correspondents seemed especially unhappy with one sentence in that review: “Android’s voice commands are still no match for Siri.”
+这些写信给我的人似乎对我点评中的一句话尤其不满：“Android的语音命令功能还是无法与Siri相提并论。”
+Man, I really was stupid. Who’d be dumb enough to take sides in a religious war? I’d have been better off writing, “Conservatives are better-looking than liberals” or “Pro-life people are worse drivers than pro-choice.”
+天呐，我真的是犯傻了。谁会傻到在一场宗教战争中站队呢？我要是写了“保守派人士比自由派人士长得好看”，或是“在堕胎问题上支持生命的人车开得不如支持选择权的人好”，都会比这下场要好些。
+But the superiority of cellphone speech-recognition technology is not an idle question. Once touch screens became the future of phones, voice recognition became desperately important. Without physical keys or buttons, entering text and manipulating software controls are fussy, multistep procedures.
+但是，手机语音识别技术孰优孰劣，这可不是一个无关紧要的问题。一旦触屏成为手机的未来发展趋势，语音识别就变得至关重要。没有物理按键或按钮，输入文字和运行软件控制则会对操作精度要求极高，步骤也很繁复。
+So I’ve just spent two weeks immersed in voice recognition. I carried an iPhone and a phone running Google’s Android operating system with me everywhere. I spoke to both phones simultaneously. I wanted to get to know the differences, the strengths, the weaknesses.
+所以，我干脆花了两周时间潜心研究语音识别功能，到哪里都带着一部iPhone和一部运行谷歌Android操作系统的手机。我会同时对着两部手机讲话。我想要了解它们之间的不同之处以及优缺点。
+When people talk about speech recognition, they mean, and often confuse, three different functions. There’s dictation, where the phone converts speech to text; commands, where you operate the phone by talking; and Internet information searches. There are vast differences among the successes of the three.
+当人们说起语音识别的时候，他们其实指的是三类不同的功能，也常常会加以混淆。它们分别是口述功能，手机将语音转化为文字；命令功能，用户通过说话来操作电话；还有网络信息搜索功能。这三类功能的优劣有很大的分别。
+Dictation, for example, is still fairly poor on both systems. Both Android phones and Siri, the iPhone’s speech feature, make many transcription errors. When you hear people bashing cellphone transcription, declaring, “I gave up on it,” they’re usually referring to dictation.
+举例说，这两个系统的口述功能都还相当差劲。Android手机和iPhone的语音功能Siri都会在听写时出很多错。当你听到人们狂批手机的听写问题，宣布“我放弃了”，他们通常指的是口述功能。
+That’s forgivable, but come on. You’re asking your phone to understand varying accents at varying distances from its microphone, in rooms with varying background noise. It’s a wonder this feature works at all.
+这是可以原谅的，可是想想吧。你要求手机能够理解不同的口音，且发声时距离麦克风的距离各异，房间里的背景杂音也各不相同。这个功能真能管用的话，那就是奇迹了。
+The latest Android version doesn’t require an Internet connection to do basic dictation. And in Android, the words appear on the screen as you utter them; Siri doesn’t transcribe until you stop talking.
+最新版本的Android操作系统不需要网络连接就能够进行基本的口述操作。在Android系统中，你一边说，文字就会一边出现在屏幕上。而只有当你停止发声时，Siri才会开始显示文字。
+On the other hand, Siri understands formatting controls like “capital,” “all caps” and “no space,” as well as all kinds of punctuation — “colon,” “dash,” “asterisk,” “ellipsis” and so on. Android understands only the basic symbols, like “period,” “comma” and “exclamation point.”
+从另一方面来说，Siri能够理解格式化指令，如“大写”、“全部大写”和“不空格”，还有各种标点符号：“冒号”、“破折号”、“星号”、“省略号”等等。而Android只理解基本的符号，如“句号”、“逗号”和“感叹号”。
+The second category, phone-control commands, is far more successful for far more people. This is when you say: “Call Mom,” “Text Emily,” “Wake me at 7:30,” “Play some Billy Joel,” “Remind me to feed the cat when I get home,” and so on.
+第二类功能，手机控制指令，对更多人来说则要成功许多。你可以说：“打电话给妈妈”、“给埃米莉(Emily)发短信”、“7点30分叫醒我”、“放点比利·乔尔(Billy Joel)的歌”、“提醒我到家时喂猫”等等。
+Controlling your phone without touching it is important for safety, of course. If you must interact with your phone while driving, speaking to it certainly seems safer than looking at it.
+当然，能在不触碰手机的情况下进行操控，这对安全很重要。如果你必须在开车的时候与你的电话进行互动，与它对话肯定会比盯着它看要安全。
+But don’t forget the convenience factor. It’s much faster to say, “Open Angry Birds” than to flip through home screens full of icons. And “Set my alarm for 8 a.m.” is about 375 finger-taps quicker than using the clock app.
+但也不要忘记了便利的因素。说“打开愤怒的小鸟(Angry Birds)”要远比翻看满是图标的主屏幕快得多。另外，“将我的闹钟设在早上8点”，也要比使用时钟应用省上375次手指按键的时间。
+Here, Siri has the edge. As you’re driving along, for example, and you hear the incoming message sound, you can say, “Read my new messages,” and Siri reads them aloud. It even invites you to dictate a reply, without ever taking your eyes off the road. Android can’t do that.
+在这方面，Siri具有优势。举例说，开车的时候，你听到短信的声音，你可以说“读出我的新信息”，Siri就会高声地读出来。它甚至会询问你是否要口述回复，在此期间你都无须将视线从路上移开。Android则无法做到这一点。
+Both systems can tap into some of the phone’s own apps. They recognize commands like “Make a meeting with Bob Barnett Thursday at noon” (a calendar interaction), “Make a note to pay back Harold” (notes), “Send an e-mail to Danny Cooper” (mail) and “What’s Steve Alper’s home address?” (contacts).
+这两个操作系统都可以调用手机自带的一些应用。它们能够识别像“约鲍勃·巴尼特(Bob Barnett)周四中午见面”（日历[calender]中的一个交互功能）、“记住要还钱给哈罗德(Harold)”（备忘录[notes]）、“发一封电子邮件给丹尼·库珀(Danny Cooper)”（邮件[mail]），还有“史蒂夫·阿尔珀(Steve Alper)的家庭住址是什么？”（通讯录[contacts]）这样的指令。
+Android blows away iOS, though, in Web searches. Both kinds of phones do an amazing job fetching weather updates (“What will the weather in Detroit be this weekend?”), times (“What time is it in Belgium?”), stock prices, sports information (“When’s the next Cowboys game?”), conversions (“How many dollars in 32 euros?”), calculations (“How many days until Valentine’s Day?”) and every kind of Web-search query (“How many calories are in a Hershey bar?”, “When is the next solar eclipse?”, “How do you spell schadenfreude?”, “Show me pictures of a 1985 Corvette,” and so on).
+然而，Android系统在网络搜索功能上要远超iOS。这两种手机在某些方面都十分出色，如获取天气预报的更新（“本周末底特律的天气会怎样？”）、时间（“比利时现在几点？”）、股票价格、体育信息（“下一场牛仔队[Cowboys]的比赛是什么时候？”）、兑换（“32欧元兑换成美元是多少？”）、计算（“离情人节[Valentine’s Day]还有多少天”？），以及其他各种网络搜索指令（“一块好时[Hershey]巧克力中含多少卡路里的热量？”、“下一次日食是什么时候？”、“怎么拼写schadenfreude[幸灾乐祸]一词？”、“找一张1985年款科尔维特[Corvette]车的照片”等等）。
+But Google’s bread and butter is Web searches, so Android responses are generally much, much faster. (To try this speak-and-ye-shall-find business on an iPhone, download the Google Search app.)
+但网络搜索是谷歌的看家本领，因此Android系统的反应速度总的来说要快得多。（想在iPhone上尝试这种“说什么找什么”的感觉，可以下载谷歌搜索[Google Search]的应用。）
+Android is especially amazing at dialing places without having to look them up (“Call the Macy’s on 34th Street”) and directions (“Get me to La Guardia Airport by public transportation”), since its Map app is so unbelievably good. It’s also smarter about connecting questions. If your first question was, “Who is Hillary Clinton?”, you can follow up with, “Who is her husband?”
+Android特别令人惊艳的地方在于，它可以不进行查找就向某地拨打电话（“呼叫34号街上的梅西百货[Macy’s]”），以及指示方向（“告诉我如何通过公共交通前往拉瓜迪亚机场[La Guardia Airport]”），因为它的地图应用好得不可思议。它在回答关联问题时也更智能。如果你的第一个问题是，“希拉里·克林顿(Hillary Clinton)是谁”？你可以接着问，“她的丈夫是谁？”
+Unfortunately, Android has an Achilles’ heel — actually, more like Achilles’ entire leg. To issue spoken commands, you have to tap the microphone icon on the Google search bar. And it’s only on the home screen or the Google Now screen (swipe up from the bottom). So you can’t speak commands when your phone is locked, or when you’re in another app.
+不幸的是，Android有一个阿喀琉斯之踵，实际上，更像是阿喀琉斯的整条腿。想要发布语音指令，你必须点击谷歌搜索栏上的麦克风图标。而且它只在主屏幕或谷歌即时(Google Now)的界面下显示（从底部向上划）。所以当你的手机处于锁定状态，或在使用另一个应用时，就无法发出任何语音指令。
+On the iPhone, you hold down the Home button or the clicker on your earbuds cord, so the voice command feature works when the phone is asleep or in any app.
+在iPhone上，你只需按住主键或是耳机线上的遥控器，就能在手机睡眠或在使用其他任何应用时启动语音控制功能。
+In other words, to use an Android phone’s speech features, you frequently have to pick it up, and you always have to look at it, which defeats much of the purpose. The exception: Motorola’s new phones, like the Moto X, can be set to listen all the time.
+换句话说，想要使用Android手机的语音功能，你必须常常拿起手机，还得总是看着它，这让该功能失去了许多意义。例外的是：像Moto X这样的摩托罗拉新手机，可以设置为随时收听指令。
+Siri is better with restaurants and movies, too. Both phones understand, “Good Indian restaurants around here” or “Call the Olive Garden on Daleford Road.” But Siri can also book reservations, thanks to integration with OpenTable.com. You can say, for example, “Make a reservation at an inexpensive Italian restaurant Saturday night at 7.”
+Siri在搜索餐厅和电影的表现上也更好。两部手机都能听懂“附近不错的印度餐厅”或“呼叫代尔福德路上的橄榄园餐厅(Olive Garden)”。但Siri还能够订座，这多亏了它与OpenTable.com服务的结合。例如，你可以说，“预订周六晚7点的一家平价意大利餐厅。”
+Similarly, Siri provides attractive, consolidated answer screens for, “What movies are opening this week?” “Give me the reviews for ‘The Way, Way Back,’ ” or “What are today’s showtimes for ‘The Smurfs 2’?” Android just shows you Google search results.
+同样，针对问题，Siri的应答界面会给出迷人的、经过整理的答案，“本周有什么电影上映？”“给我找出《迷途知返》(The Way, Way Back)的影评。”或“今天的《蓝精灵2》(The Smurfs 2)的场次是什么？”而Android只是显示出谷歌搜索的结果。
+And then there’s the issue of personality: Siri has it, Android doesn’t.
+这也关乎个性：Siri有，而Android没有。
+We’re talking about wisecracks, jokes, attitude, addressing you by name. If you ask Siri, “Who’s your daddy?”, she replies: “You are. Can we get back to work now?” Say, “Beam me up, Siri,” and she says: “Please remove your belt, shoes and jacket, and empty your pockets.” Say, “Talk dirty to me,” and she replies, “Humus. Compost. Pumice. Silt. Gravel.”
+这里我们指的是俏皮话、笑话、态度，以及直呼你的姓名。如果你问Siri，“你老爸是谁？”她回答：“就是你。我们可以开始谈正事了吗？”你说，“把我传送上去，Siri。”她会说，“请除去你的腰带、鞋子和上衣，掏空你的口袋。”你说，“说脏话挑逗我吧。”她回答，“腐殖质、堆肥、浮石、淤泥、砾石。”
+Now, on the great battlefield of the Apple-Google fanboy war, humor is small potatoes. Apple haters practically claw their eyes out when you mention Siri’s personality. “It’s not useful! It’s a parlor trick! It strains me to avoid profanity in describing how stupid you sound!”
+现在，在苹果和谷歌的男粉丝大战中，幽默可谓小把戏。当你提到Siri的个性时，仇视苹果的人会气得把自己眼睛挖出来。“这不实用！只是廉价的把戏！要描述你的愚蠢又同时避免任何侮辱性语言，让我倍感压力！”
+And that’s fine. That’s why there’s choice: two camps in this philosophical school. (Well, there’s also Windows Phone and BlackBerry, but their speech recognition is extremely rudimentary.)
+这也没什么。这就是为什么我们可以选择：一个哲学流派里的两个阵营。（当然，还有Windows Phone和黑莓[BlackBerry]，但它们的语音识别功能十分有限。）
+And so: Put down your swords, fanboys. Both systems are exceedingly useful, once you spend the time to learn them. (Here’s a site with a good list of Android voice commands: j.mp/12kEFDo. And here’s one for Siri: j.mp/16Yy4yy.)
+所以，放下武器吧，男粉丝们。一旦你花时间了解，两套系统都特别好用。（这个网站上有个非常出色的Android语音指令列表：j.mp/12kEFDo。Siri的也有一个：j.mp/16Yy4yy。）
+Though Siri has the edge, the gap has closed substantially, and both systems are rapidly improving. Very soon, we’ll do less talking through our phones — and more talking to them.
+尽管Siri具有优势，但差距已经大大缩小了，而且两套系统都在迅速改进。很快，我们会更少地借助手机进行交流，而是会更多地与手机交流。

@@ -1,0 +1,32 @@
+With the aid of the Chinese military, Intel has won itself big bragging rights: the world’s fastest supercomputer runs entirely on Intel semiconductors. It is the first time in 15 years, Intel says, that an all-Intel machine has held top honors.
+在中国军方协助下，英特尔(Intel)有了一件值得夸耀的成就：世界上最快的超级计算机完全使用英特尔的半导体运行。英特尔说，这是15年来首次有一台全部使用英特尔芯片的机器获得这项至高荣誉。
+More important is what this news says about computing: the kind of work done by supercomputers is increasingly applicable to the kind of work done by business. Intel doesn’t want to sell its biggest computers to researchers and the world’s armies; it wants to sell them to companies like Amazon for its Amazon Web Services.
+更重要的是，这个消息让我们看到计算领域的变化：超级计算机的工作，正越来越适用于商业领域。英特尔不打算把它最庞大的计算机系统卖给研究机构和世界各国的军方；它想卖给亚马逊(Amazon)这样的公司，用于亚马逊网络服务(Amazon Web Services)。
+The new computer, called a Tianhe-2, or Milkyway-2, was built at the National University of Defense Technology in Changsha, China. At its peak, it can perform at a speed of nearly 55 petaflops – with a petaflop akin to one thousand trillion instructions per second. The previous record-holder, announced last November, had a peak performance of 27.1 petaflops. Five years ago, a single petaflop machine was record-breaking.
+这台名叫“天河二号”的计算机是由位于中国长沙的国防科技大学建造的。运算峰值速度每秒可达将近5.5万万亿次运算。此前保持的纪录是去年11月宣布的，峰值速度为每秒2.71万万亿次。在五年前，峰值运算速度达每秒一千万亿次就可以破纪录了。
+In addition to the usual supercomputing tasks like weather analysis or geophysical research, makers of the new supercomputer also listed its capabilities for Big Data analysis. The Tianhe-2 can process 600 terabytes of data on just 1,024 of its 16,000 computing nodes.
+除了天气分析或地球物理研究等超级计算机的常见用项之外，这台新超级计算机的建造者还列举了它在大数据分析方面的能力。天河二号只需动用其1.6万个计算节点中的1024个，就能处理600太字节(terabyte)的数据。
+Details on the machine were first revealed at a meeting of supercomputing specialists in late May. Its formal ranking as the world’s fastest was announced Monday at a meeting in Germany, where Intel also laid out its business vision.
+今年5月底的一场超级计算机专家会议上披露了这台计算机的一些细节。周一在德国的一次会议上，天河二号被正式宣布为全世界最快的计算机，英特尔还在这次会议上表达了它的商业愿景。
+Intel believes that many ordinary businesses, possibly even consumers, will soon be accessing what were once the most expensive and rarefied computers.
+英特尔相信许多普通的企业，甚至可能还包括消费者，很快就能用到这种曾经极其昂贵而尖端的计算机。
+“The insatiable need for computing is driving this” rapid development, said Raj Hazra, the head of Intel’s high performance computing business.
+英特尔高性能计算业务主管拉吉·哈兹拉(Raj Hazra)说，这种快速的发展是“由对计算的无止境需求驱动的”。
+Even traditional uses appear to be affected by both the power of the machines, and a new sensibility of the way problems should be addressed. Mr. Hazra noted that this much power enables atmospheric climate models to also take into account the effect of ocean behavior as well. Geologists can examine not just rock formations, but the behavior of gasses and liquids within different rocks.
+这种计算机的威力，以及应对问题的全新思维，对传统用途似乎也产生了影响。哈兹拉指出当计算机强大到如此地步时，大气气候模型就可以将海洋特性也考虑进去。地理学家的研究可以不再仅限于岩层，还可以拓展到岩石内的气体和液体特性。
+This ecosystem view of data analysis has its own parallels in the commercial world. Increasingly, companies are deploying sensors across many environments to see how their products perform in the real world, or looking at mixtures of human and machine behavior to analyze things like traffic flow.
+这种数据分析的生态系统应用，在商业领域也可以找到对应。越来越多的公司开始在许多环境中部署传感器，以了解它们的产品在真实世界里表现如何，或者对人机行为的混合加以观察，分析交通流量之类的东西。
+Google and NASA recently obtained a kind of superfast quantum computer to look at things like facial recognition. Lockheed Martin has also purchased one to examine complex systems.
+谷歌(Google)和美国国家航空航天局(NASA)最近拿到了一种速度极快的量子计算机，用于面部识别等领域。洛克希德·马丁公司(Lockheed Martin)也采购了一台用于复杂系统的检测。
+Intel is hoping that its familiarity has an edge in this arcane world, however. Many computer engineers are already trained in Intel’s basic architecture, x86, and so could arguably move into supercomputing without having to learn the particulars of other machines. “If you force people to learn new things, your total addressable market is slowed,” Mr. Hazra said. “A world that has invested 30 years of software and knowledge shouldn’t have to learn something new.”
+英特尔希望能靠着品牌知名度在这个高深莫测的世界里脱颖而出。许多计算机工程师已经接受了英特尔基础架构x86方面的训练，应该是可以过渡到超级计算领域的，不需要专门去学习其他机器的细节。“如果你强迫别人去学习新东西，你的整体目标市场的发展就被拖慢了，”哈兹拉说。“一个已经在软件和知识上投入了三十年的世界，不应该再被逼着还去学新东西。”
+“We have a close relationship with all the cloud computing providers,” he said, “you could see high performance computing as a service.”
+“我们和各家云计算提供商有着密切联系，”他说，“你可以把高性能计算看做是一种服务。”
+Mr. Hazra said the computer was being used for “open science,” or access by different researchers over a network. He could not say, however, whether China was also using the computer for defense purposes such as nuclear weapons research. “We are a worldwide business,” he said. “This was no different than any other business deal.”
+哈兹拉说这台计算机被用于“开放科学”，即通过网络提供给各种研究人员使用。不过关于中国是否还将它用于国防领域，如核武器研究，他表示无可奉告。“我们是一家国际性企业，”他说。“这次与其他商业合同之间没什么分别。”
+The x86 supercomputing world is, of course, a convenient argument for Intel. It is likely that Nvidia, which contributed to last November’s record-holding supercomputer, will make its own run at the next title, however. Even more likely, according to the author of the initial report on the Tianhe-2, is the prospect that China will develop its own chips and designs.
+对英特尔来说，征服x86超级计算的世界自然并非难事。不过，曾为去年11月那台创纪录的超级计算机贡献力量的Nvidia，可能会角逐下一个最快计算机的头衔。而在关于天河二号的首份报告的作者看来，一个更有可能的变化是中国将自主研发芯片和设计。
+“The Tianhe-2 is using processors from Intel, but think of the processor as a motor and they are building a racecar. They can easily swap out the motor for one of their own,” Jack Dongarra, a professor at the University of Tennessee and Oak Ridge National Lab, another supercomputing center, said in an e-mail. “Most features of the system were developed in China.”
+田纳西大学(University of Tennessee)和橡树岭国家实验室(Oak Ridge National Lab)教授杰克·唐佳拉(Jack Dongarra)在一封电子邮件中说，“天河二号使用了英特尔的处理器，但这就好比这些处理器是发动机，他们在建造的是一辆赛车。他们可以很轻易地换上一台他们自己的发动机。系统中的多数部件是在中国研发的。”橡树岭实验室也是一个超级计算机中心。
+“Intel would think the world is x86,” he said, but “the parts that go around the motor are more important.” In addition, he noted, engineers elsewhere are working on supercomputers using designs from low-power cellphone chips.
+“英特尔会认为世界是x86的，”他说，但是“发动机周围的那些零件更重要”。此外他还指出，别的地方还有工程师正在用基于低功耗手机芯片的设计来制造超级计算机。

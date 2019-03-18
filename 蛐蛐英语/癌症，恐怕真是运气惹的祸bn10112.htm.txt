@@ -1,0 +1,48 @@
+It may sound flippant to say that many cases of cancer are caused by bad luck, but that is what two scientists suggested in an article published last week in the journal Science. The bad luck comes in the form of random genetic mistakes, or mutations, that happen when healthy cells divide.
+如果说，很多人患上癌症只是因为“运气不好”，你听了是否会觉得太过轻率？然而，在上周发表在《科学》(Science)杂志上的一篇文章里，两位科学家确实提出了这样一种说法。这里，所谓的“运气不好”指的是在健康细胞分裂时随机发生的遗传错误或突变。
+Random mutations may account for two-thirds of the risk of getting many types of cancer, leaving the usual suspects — heredity and environmental factors — to account for only one-third, say the authors, Cristian Tomasetti and Dr. Bert Vogelstein, of Johns Hopkins University School of Medicine. “We do think this is a fundamental mechanism, and this is the first time there’s been a measure of it,” said Dr. Tomasetti, an applied mathematician.
+这篇文章的作者，约翰斯·霍普金斯大学医学院(Johns Hopkins University School of Medicine)的克里斯蒂安·托马塞蒂(Cristian Tomasetti)和伯特·福格尔斯泰因(Bert Vogelstein)博士指出：就人们罹患多种癌症的风险而言，有三分之二可归因于随机突变，而人们一般印象中的癌症元凶——遗传和环境因素——的贡献只占三分之一。“我们认为这是一种基本机制，而且，这也是人们第一次对其进行衡量。”应用数学家托马塞蒂博士如是说。
+Though the researchers suspected that chance had a role, they were surprised at how big it turned out to be.
+虽然研究人员早就怀疑偶然性在癌症发生中具有一定的作用，但这次发现其影响居然如此之大，让他们也颇感惊讶。
+“This was definitely beyond my expectations,” Dr. Tomasetti said. “It’s about double what I would have thought.”
+“这绝对出乎我的意料，”托马塞蒂博士说，“大概是我预想的两倍。”
+The finding may be good news to some people, bad news to others, he added.
+他又补充道，对于一些人来说，这项研究成果可能是个好消息，对其他人来说则可能相反。
+Smoking greatly increases the risk of lung cancer, but for other cancers, the causes are not clear. And yet many patients wonder if they did something to bring the disease on themselves, or if they could have done something to prevent it.
+吸烟会大大增加患肺癌的风险，但其他癌症的病因尚不十分清楚。有很多患者都怀疑是不是自己做了什么不该做的事才导致癌症降临在自己身上，也想知道自己是否本可以采取某些措施来防止癌症的发生。
+“For the average cancer patient, I think this is good news,” Dr. Tomasetti said. “Knowing that over all, a lot of it is just bad luck, I think in a sense it’s comforting.”
+“我觉得，对于普通的癌症患者，这是个好消息，”托马塞蒂博士说。“知道总的来说，大部分癌症只是运气不好惹的祸，从某种意义上也算是一种宽慰和解脱。”
+Among people who do not have cancer, Dr. Tomasetti said he expected there to be two camps.
+托马塞蒂博士预计，没有患癌症的人可分为两个阵营。
+“There are those who would like to control every single thing happening in their lives, and for those, this may be very scary,” he said. “ ‘There is a big component of cancer I can just do nothing about.’
+“有些人喜欢把生活中的每一件事情都纳入掌控之中，对他们来说，这研究结果恐怕就非常可怕了，”他说。“因为它代表在癌症中有相当一部分因素是人力无法控制的。”
+“For the other part of the population, it’s actually good news. ‘I’m happy. I can of course do all I know that’s important to not increase my risk of cancer, like a good diet, exercise, avoiding smoking, but on the other side, I don’t want to stress out about every single thing or every action I take in my life, or everything I touch or eat.’ ” Dr. Vogelstein said the question of causation had haunted him for decades, since he was an intern and his first patient was a 4-year-old girl with leukemia. Her parents were distraught and wanted to know what had caused the disease. He had no answer, but time and time again heard the same question from patients and their families, particularly parents of children with cancer.
+“而对于抱持其他态度的人，这实际上是个好消息。‘这真让我开心。当然，我仍然可以继续坚持我所知道的所有不会增加癌症风险的好习惯，比如良好的饮食、锻炼身体、避免吸烟等等，但另一方面，我也无需紧张兮兮事无巨细地留神生活中的每一件小事、每一个动作，以及我触摸或者食用的任何东西。’ ”福格尔斯泰因博士称，自从他做实习医生时接诊了第一名患者——一名患有白血病的四岁女孩起，数十年来癌症的原因问题就一直困扰着他。那女孩的父母悲痛欲绝，想知道是什么原因导致了这种疾病。他却没有答案，只能一次又一次地听着患者及其家属，尤其是癌症患儿的父母提问同样的问题。
+“They think they passed on a bad gene or gave them the wrong foods or exposed them to paint in the garage,” he said. “And it’s just wrong. It gave them a lot of guilt.”
+“他们认为是自己把不良基因遗传给了孩子，或者是给孩子们吃了不对头的东西，又或者是不该让孩子们接触车库里的颜料，”福格尔斯泰因博士回忆道。“但事实并非如此。这些想法只是徒令他们深感内疚和自责罢了。”
+Dr. Tomasetti and Dr. Vogelstein said the finding that so many cases of cancer occur from random genetic accidents means that it may not be possible to prevent them, and that there should be more of an emphasis on developing better tests to find cancers early enough to cure them.
+托马塞蒂博士和福格尔斯泰因博士发现，很多癌症病例的发生是因为随机的遗传学意外事件导致的，这意味着你可能根本无法去进行预防，相反，倒是应该更加重视开发更好的检测手段，以便尽早发现癌症，从而治愈它们。
+“Cancer leaves signals of its presence, so we just have to basically get smarter about how to find them,” Dr. Tomasetti said.
+“癌症只要存在，就会留下一些信号，所以基本上我们只需要学会如何更明智地寻找这些信号就行了，”托马塞蒂博士说。
+Their conclusion comes from a statistical model they developed using data in the medical literature on rates of cell division in 31 types of tissue. They looked specifically at stem cells, which are a small, specialized population in each organ or tissue that divide to provide replacements for cells that wear out.
+上述结论的得出是基于一个统计学模型。在建立这个模型时，两位博士采用了关于31种不同组织中细胞分裂率的医学文献中的数据。干细胞是他们特别关注的对象，这是一种存在于各种器官或组织中的为数并不多的特殊细胞，可以分裂产生新的子细胞，以替换原来那些受损或老化的细胞。
+Dividing cells must make copies of their DNA, and errors in the process can set off the uncontrolled growth that leads to cancer.
+在细胞分裂时必须完成DNA的复制，这一过程中发生的错误可能触发细胞不受控制地生长增值，进而导致癌症。
+The researchers wondered if higher rates of stem-cell division might increase the risk of cancer simply by providing more chances for mistakes.
+研究人员想知道，较高的干细胞分裂率可增加患癌症的风险，这是否单纯是因为分裂次数越多，发生错误的机会也越大。
+Dr. Vogelstein said research of this type became possible only in recent years, because of advances in the understanding of stem-cell biology.
+福格尔斯泰因博士表示，随着近几年来对干细胞生物学的认识有所进展，这种类型的研究才具有了可行性。
+The analysis did not include breast or prostate cancers, because there was not enough data on rates of stem-cell division in those tissues.
+但该分析中并未包含乳腺癌或前列腺癌，因为尚无有关这些组织中干细胞分裂率的足够数据。
+A starting point for their research was an observation made more than 100 years ago but never really explained: Some tissues are far more cancer-prone than others. In the large intestine, for instance, the lifetime cancer risk is 4.8 percent — 24 times higher than in the small intestine, where it is 0.2 percent.
+两位博士进行这项研究的一个出发点是一项在100多年前就已经被人观察到，却从未真正得到解释的现象：某些组织比其他组织更容易发生癌症。例如，大肠的终生癌症风险为4.8%,，是小肠(0.2%)的24倍。
+The scientists found that the large intestine has many more stem cells than the small intestine, and that they divide more often: 73 times a year, compared with 24 times. In many other tissues, rates of stem cell division also correlated strongly with cancer risk.
+科学家们发现，大肠内的干细胞远多于小肠，且它们的分裂也更加频繁，约为一年73次，而小肠干细胞一年只分裂24次。在其他的许多组织中，干细胞分裂速率也与癌症风险密切相关。
+Some cancers, including certain lung and skin cancers, are more common than would be expected just from their rates of stem-cell division — which matches up with the known importance of environmental factors like smoking and sun exposure in those diseases. Others more common than expected were linked to cancer-causing genes. To help explain the findings, Dr. Tomasetti cited the risks of a car accident. In general, the longer the trip, the higher the odds of a crash. Environmental factors like bad weather can add to the basic risk, and so can defects in the car.
+某些癌症（包括特定的肺癌和皮肤癌）的发生率比单纯根据干细胞分裂速率推断出的要高，这是因为在这些疾病中，已知的重要环境因素，吸烟和日光暴露也发挥了一定作用。另外，还有一些癌症较之预期更为常见是因为它们与致癌基因有关。托马塞蒂博士以车祸风险为例对该研究结果进行了阐释。一般来说，行程越长，发生车祸的几率就越高。恶劣天气等环境因素以及车辆故障等都可能令这一基本风险进一步增加。
+“This is a good picture of how I see cancer,” he said. “It’s really the combination of inherited factors, environment and chance. At the base, there is the chance of mutations, to which we add, either because of things we inherited or the environment, our lifestyle.”
+“这个类比生动地描述了我对癌症的看法，”他说。“其实，它是遗传因素、环境和偶然性三者综合作用的结果。其基础是突变机会，其上再加上遗传或者环境和生活方式的影响。”
+Dr. Kenneth Offit, chief of the clinical genetics service at Memorial Sloan Kettering Cancer Center in Manhattan, called the article “an elegant biological explanation of the complex pattern of cancers observed in different human tissues.”
+位于曼哈顿的纪念斯隆-凯特琳癌症中心(Memorial Sloan Kettering Cancer Center)的临床遗传学服务主任肯尼思·奥夫特(Kenneth Offit)博士称赞这篇文章“对在不同人体组织中观察到的复杂的癌症模式进行了优雅的生物学解释。”
+He said the hypothesis “appears to be correct,” but added that it is “just a first approximation,” and he noted that certain types of cancer did not fit the model. One form of thyroid cancer, for instance, has a much bigger hereditary component than the model would suggest, he said.
+他认为该假说“应该是正确的”，但他也补充道这“只是一个初始近似值”，并指出，某些类型的癌症并不符合这一模型。例如，有一种甲状腺癌中的遗传成分就大于模型中的预期值。

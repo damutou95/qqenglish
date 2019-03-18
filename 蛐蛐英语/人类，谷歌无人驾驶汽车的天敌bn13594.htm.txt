@@ -1,0 +1,34 @@
+MOUNTAIN VIEW, Calif. — Google, a leader in efforts to create driverless cars, has run into an odd safety conundrum: humans.
+加利福尼亚州山景城——作为无人驾驶汽车研发领域的领头羊，谷歌(Google)遇到了一个奇怪的安全难题：人类。
+Last month, as one of Google’s self-driving cars approached a crosswalk, it did what it was supposed to do when it slowed to allow a pedestrian to cross, prompting its “safety driver” to apply the brakes. The pedestrian was fine, but not so much Google’s car, which was hit from behind by a human-driven sedan.
+上月，当谷歌的一辆自动驾驶汽车来到人行横道前时，它像设想的那样放慢速度让一名行人先行，促使“安全驾驶员”启动刹车。那个行人没事，但谷歌那辆车却没那么幸运。它被后面的一辆由人驾驶的轿车追尾了。
+Google’s fleet of autonomous test cars is programmed to follow the letter of the law. But it can be tough to get around if you are a stickler for the rules. One Google car, in a test in 2009, couldn’t get through a four-way stop because its sensors kept waiting for other (human) drivers to stop completely and let it go. The human drivers kept inching forward, looking for the advantage — paralyzing Google’s robot.
+按照设计，谷歌的自动测试车会严格遵守法律条文。但如果拘泥于规则，上路可能都会变得困难。在2009年的一次测试中，谷歌的车没能通过一个十字路口，因为它的传感器一直在等着其他（人类）司机彻底停下来，让它过去。但其他司机一直在向前蹭，寻找有利时机。这种情况让谷歌的机器人陷入了瘫痪。
+It is not just a Google issue. Researchers in the fledgling field of autonomous vehicles say that one of the biggest challenges facing automated cars is blending them into a world in which humans don’t behave by the book. “The real problem is that the car is too safe,” said Donald Norman, director of the Design Lab at the University of California, San Diego, who studies autonomous vehicles.
+这不仅仅是谷歌面临的问题。自动化车辆这一新兴领域的研究人员称，自动车面临的最大挑战之一是让它们融入一个人类不照章行事的世界。“真正的问题是，这些车太追求安全了，”研究自动车辆的加州大学圣迭戈分校设计实验室(Design Lab at the University of California, San Diego)主任唐纳德·诺曼(Donald Norman)说。
+“They have to learn to be aggressive in the right amount, and the right amount depends on the culture.”
+“它们得学会适度强硬，而什么叫做适度则取决于不同的文化。”
+Traffic wrecks and deaths could well plummet in a world without any drivers, as some researchers predict. But wide use of self-driving cars is still many years away, and testers are still sorting out hypothetical risks — like hackers — and real world challenges, like what happens when an autonomous car breaks down on the highway.
+正如一些研究人员预言的那样，世界上如果没有驾驶员，交通事故造成的伤亡会大大减少。然而，广泛使用自动驾驶汽车仍是多年后的事，测试人员仍在应对像黑客这种假设的风险和现实世界里的挑战，比如自动驾驶车辆在公路上出故障了应该怎么办。
+For now, there is the nearer-term problem of blending robots and humans. Already, cars from several automakers have technology that can warn or even take over for a driver, whether through advanced cruise control or brakes that apply themselves. Uber is working on the self-driving car technology, and Google expanded its tests in July to Austin, Tex.
+目前，让机器人和人类同时上路这个问题更紧迫。多家汽车生产商的车辆已经掌握了警告或是代替驾驶员的技术，不管是通过先进的巡航控制，还是可以自行启动的刹车。Uber正在研发自动驾驶汽车技术，谷歌也于今年7月把测试扩展到了德克萨斯州的奥斯汀。
+Google cars regularly take quick, evasive maneuvers or exercise caution in ways that are at once the most cautious approach, but also out of step with the other vehicles on the road.
+谷歌汽车通常会迅速采取回避操作，或是谨慎行事。后者立即会变成最谨慎的应对方式，但同时也将导致与路上其他车辆格格不入。
+“It’s always going to follow the rules, I mean, almost to a point where human drivers who get in the car and are like ‘Why is the car doing that?’” said Tom Supple, a Google safety driver during a recent test drive on the streets near Google’s Silicon Valley headquarters.
+“它永远都会遵守规则，我是说，几乎到了坐在车里的人类驾驶员会想‘这车干嘛那么做？’的地步，”汤姆·苏普莱(Tom Supple)说。最近，谷歌在其位于硅谷的总部附近的街道上进行了一次试驾，而苏普莱正是当时的安全驾驶员。
+Since 2009, Google cars have been in 16 crashes, mostly fender-benders, and in every single case, the company says, a human was at fault. This includes the rear-ender crash on Aug. 20, and reported this morning by Google. The Google car slowed for a pedestrian, then the Google employee manually applied the brakes. The car was hit from behind, sending the employee to the emergency room for mild whiplash.
+自2009年以来，谷歌汽车发生了16次撞车事故，大部分是轻微碰撞。谷歌称，每次碰撞都是人的错，包括公司今天上午通报的发生在8月20日的那起追尾。当时，谷歌的车因为行人放慢了速度，安全驾驶员随后手动刹车。接下来，车子被追尾，导致此人因颈椎轻微受伤而进了急诊室。
+Google’s report on the incident adds another twist: While the safety driver did the right thing by applying the brakes, if the autonomous car had been left alone, it might have braked less hard and traveled closer to the crosswalk, giving the car behind a little more room to stop. Would that have prevented the collision? Google says it’s impossible to say.
+谷歌有关这起事故的报告揭示了另一个问题：尽管安全驾驶员启动刹车的行为是正确的，但如果让自动汽车独自行驶，它的刹车力度可能不会那么强，因此会行驶到离人行横道更近的地方，给后车留出稍微多一点的刹车空间。这样能避免撞车吗？谷歌表示无从得知。
+There was a single case in which Google says the company was responsible for a crash. It happened in August 2011, when one of its Google cars collided with another moving vehicle. But, remarkably, the Google car was being piloted at the time by an employee. Another human at fault.
+谷歌称，只有一次撞车事故责任在自己身上。那是2011年8月，谷歌的一辆车与另一辆正在行驶中的车相撞。但需要注意的是，当时谷歌的车是由一名工作人员操控的。所以，错还是在人。
+On a recent outing with New York Times journalists, the Google driverless car took two evasive maneuvers that simultaneously displayed how the car errs on the cautious side, but also how jarring that experience can be. In one maneuver, it swerved sharply in a residential neighborhood to avoid a car that was poorly parked, so much so that the Google sensors couldn’t tell if it might pull into traffic.
+前不久载着《纽约时报》的记者出行时，谷歌的无人驾驶车采取的两次避让操作，既显示出了它因过于谨慎而出错的情形，也表明了那种经历会令人多么恼火。一个操作是，它为了避开一辆车而在一个住宅区急转弯。那辆车停得很糟糕，以致于谷歌的传感器无法识别它会不会开到车道上来。
+More jarring for human passengers was a maneuver that the Google car took as it approached a red light in moderate traffic. The laser system mounted on top of the driverless car sensed that a vehicle coming the other direction was approaching the red light at higher-than-safe speeds. The Google car immediately jerked to the right in case it had to avoid a collision. In the end, the oncoming car was just doing what human drivers so often do: not approach a red light cautiously enough, though the driver did stop well in time.
+对车里的乘客来说，车子行驶到一处红灯前时采取的操作更是令人气恼。当时，车流量属中等。安装在那辆无人驾驶车顶部的激光系统检测到，反方向的一辆车正在以高于安全水平的车速朝着红灯开来。于是，谷歌的车猛地右拐，以防撞车。但其实，那辆车的行为不过是人类驾驶员通常会做的：遇到红灯时不够小心，但司机还是很及时地停了下来。
+Courtney Hohne, a spokeswoman for the Google project, said current testing was devoted to “smoothing out” the relationship between the car’s software and humans. For instance, at four-way stops, the program lets the car inch forward, as the rest of us might, asserting its turn while looking for signs that it is being allowed to go.
+谷歌无人驾驶车项目的发言人考特妮·霍恩(Courtney Hohne)说，当前的测试是为了“理顺”车的软件和人之间的关系。比如，在十字路口，程序允许车像我们其他人可能会做的那样，慢慢向前蹭，在寻找其他车让自己过的迹象时果断转弯。
+The way humans often deal with these situations is that “they make eye contact. On the fly, they make agreements about who has the right of way,” said John Lee, a professor of industrial and systems engineering and expert in driver safety and automation at the University of Wisconsin.
+威斯康星大学(University of Wisconsin)的工业与系统工程教授、驾驶员安全与自动化问题专家约翰·李(John Lee)说，遇到这种情况时，人类通常会“进行眼神交流。在行进中，他们会对谁有先行权达成协议”。
+“Where are the eyes in an autonomous vehicle?” he added.
+“那么自动车辆的眼睛在哪里呢？”他接下来问道。

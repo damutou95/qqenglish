@@ -1,0 +1,40 @@
+Three physicists have been awarded the Nobel Prize for revolutionizing the way the world is lighted.
+三位物理学家因带来了人类照明方式的革命而获得了诺贝尔奖(Nobel Prize)。
+The 2014 physics award went to Isamu Akasaki and Hiroshi Amano of Japan and Shuji Nakamura of the University of California, Santa Barbara, for “the invention of efficient blue light-emitting diodes, which has enabled bright and energy-saving white light sources.”
+2014年的物理奖获得者为日本的赤崎勇(Isamu Akasaki)和天野浩(Hiroshi Amano)，以及加州大学圣芭芭拉分校(University of California, Santa Barbara)的中村修二(Shuji Nakamur)，因为他们“发明了高效的蓝光二极管，带来了明亮而节能的白光源”。
+The three scientists, working together and separately, found a way to produce blue light beams from semiconductors in the early 1990s. Others had produced red and green diodes, but without blue diodes, white light could not be produced, the Royal Swedish Academy of Sciences said on Tuesday morning in its prize citation.
+这三位科学家既进行了合作，也展开过单独研究；20世纪90年代初，他们找到了一种从半导体中制造蓝色光束的办法。周二上午，瑞典皇家科学院(Royal Swedish Academy of Sciences)在其荣誉状中说，有人已经制造出了红色和绿色二极管，但如果没有蓝光二极管，就无法制造出白光。
+“They succeeded where everyone else had failed,” the academy said.
+瑞典皇家科学院称，“他们完成了别人没有做到的事情。”
+Their work has spurred the creation of a whole new industry. The committee that chose the winners said light-emitting diodes, or LEDs, would be the lighting source of the 21st century, just as the incandescent bulb illuminated the 20th.
+他们的工作催生了一个全新的工业领域。负责甄选获奖者的委员会称，发光二极管（或称LED）将成为21世纪的主要光源，正如白炽灯照亮了20世纪那样。
+The three scientists will split a prize of $1.1 million, to be awarded in Stockholm on Dec. 10.
+三位科学家将共享110万美元的奖金，颁奖典礼将于12月10日在斯德哥尔摩举行。
+Dr. Akasaki, 85, of Meijo University and Nagoya University, and Dr. Amano, 54, of Nagoya University, are Japanese. Dr. Nakamura, 60, is American. Awakened by a phone call from the Swedish academy, he described it in a news conference as “unbelievable.”
+85岁的赤崎勇博士在名城大学(Meijo University)和名古屋大学(Nagoya University)任教，54岁的天野浩来自名古屋大学，他们二人是日本人。60岁的中村修二是美国人。在被瑞典皇家科学院的电话叫醒后，他在一次新闻发布会中说，这“令人难以置信”。
+In its announcement, the academy recalled Alfred Nobel’s desire that his prize be awarded for something that benefited humankind, noting that one-fourth of the world’s electrical energy consumption goes to producing light. This, it said, was a prize more for invention than for discovery.
+瑞典皇家科学院在声明中提到，阿尔弗雷德·诺贝尔(Alfred Nobel)的愿望就是，诺贝尔奖被颁给那些为人类造福的事物，声明还指出，世界四分之一的电能消耗都用在了照明之上。声明称，这个奖项更重视发明而非发现。
+Frances Saunders, president of the Institute of Physics, a worldwide scientific organization based in London, agreed with those sentiments. Noting in an email statement that 2015 is the International Year of Light, she said, “This is physics research that is having a direct impact on the grandest of scales, helping protect our environment, as well as turning up in our everyday electronic gadgets.”
+设在伦敦的世界性科学机构物理研究所(Institute of Physics)负责人弗兰西斯·桑德斯(Frances Saunders)也同意这些看法。她在一封通过电子邮件做出的声明中指出，2015年是“国际光年”(International Year of Light)，她说，“这项物理研究正在产生大规模的直接影响，它能帮我们保护环境，而且正应用于我们的日常电子设备。”
+In Africa, millions of diode lamps that run on solar power have been handed out to replace polluting kerosene lamps.
+在非洲，依靠太阳能发电的数百万二极管电灯已经被分发出去，以替代具有污染性的煤油灯。
+For the same amount of energy consumption, LED bulbs produce four times the light of a fluorescent bulb and nearly 20 times the light of an incandescent bulb.
+在消耗同等能源的情况下，LED灯泡能产生四倍于荧光灯、近20倍于白炽灯的灯光。
+LED bulbs are also more durable, lasting 10 times as long as a fluorescent bulb and 100 times as long as an incandescent bulb.
+LED灯泡的使用寿命也更长，是荧光灯的10倍、白炽灯的100倍。
+Light-emitting diodes are already ubiquitous — in pockets and purses, in smartphones, as well as in televisions, lasers and optical storage devices.
+发光二极管已经十分普及，在日常生活中的智能手机，以及电视、激光器和光存储装置中均有应用。
+And their future is vaster still. “The LED lamp holds great promise for increasing the quality of life for over 1.5 billion people around the world who lack access to electricity grids,” the Nobel committee said. “Due to low power requirements, it can be powered by cheap local solar power.”
+而它们的未来更广阔。“LED灯非常有望改善全世界逾15亿未用上电的人的生活质量，”诺贝尔委员会说。“因为电源要求低，各地的低价太阳能便可带动LED灯。”
+Nick Holonyak Jr. of the University of Illinois, who invented the first red-light diode in 1962, has called the LED the “ultimate lamp” because “the current itself is the light.”
+1962年，伊利诺伊大学(University of Illinois)的小尼克·霍洛尼亚克(Nick Holonyak Jr.)发明了首个红光二极管。他把LED称作“终极之灯”，因为“它本身就是光”。
+Red- and green-emitting diodes have been around for a long time, but nobody knew how to make a blue one, which was needed for blending with the others to create white light. The amount of information that can be packed into a light wave increases as its wavelength shortens, making blue the color of choice for conveying information.
+红色和绿色发光二极管已经普及很长时间了，但之前没人知道如何做出蓝色发光二极管。若要发出白光，则需要用蓝色发光二极管与其他发光二极管混合。进入光波的信息量会随着波长的缩短而增加，这使得蓝色成为传输信息的颜色。
+That is where the new laureates, working independently, came in. The key was to grow high-quality crystals of gallium nitride, a semiconductor for producing blue light — a fraught process that had frustrated researchers.
+这正是独立工作的新一届获奖者的研究领域。其中的关键是培植高质量的氮化镓结晶体，这是个令人担忧的过程，让很多研究人员头疼不已。氮化镓结晶体是用于产生蓝光的一种半导体。
+Dr. Akasaki first tried to grow the crystals in the late 1960s as a young research associate at Matsushita Research Institute in Tokyo. It was not until 1986 that he and Dr. Amano, who was then his graduate student, succeeded in growing high-quality crystals on a layer of sapphire coated with aluminum nitride, and found out their properties were enhanced when they were scanned with an electron beam.
+上世纪60年代末，还是东京松下研究室(Matsushita Research Institute)一名年轻的助理研究员的赤崎勇，就开始尝试培植这种结晶体。直到1986年，他和那时还是他的研究生的天野浩，才成功地在一层覆盖着氮化铝的蓝宝石上培植出了高质量的结晶体，并发现用电子束对其进行扫描时，结晶体的性能会提高。
+The royalties from their work subsequently funded the construction of a whole new research institute, the Nagoya University Akasaki Institute.
+后来，他们的工作带来的使用费，为建立一个全新的研究所名古屋大学赤崎纪念研究馆(Nagoya University Akasaki Institute)提供了资金。
+Dr. Nakamura, then at the Nichia Corporation, a chemical engineering and manufacturing company, succeeded in growing his own crystals, improving on the other two scientists’ method. In 2006 he was awarded the Millennium Technology Prize of one million euros (about $1.3 million) for inventing the first efficient blue-light laser, opening the way for things like Blu-ray players..
+当时任职于化学工业和制造公司日亚化学工业株式会社(Nichia Corporation)的中村修二在其他两名科学家的方式上进行了改善，成功地培植出了自己的结晶体。2006年，他因为发明出了首台高效的蓝光激光器，为蓝光播放器等开辟了道路，而被授予千禧年科技奖(Millennium Technology Prize)的100万欧元（约合130万美元）奖金。

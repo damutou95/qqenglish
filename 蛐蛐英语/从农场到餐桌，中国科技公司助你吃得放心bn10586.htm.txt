@@ -1,0 +1,54 @@
+HONG KONG — The smartphone tells the story of a kiwi fruit in China.
+香港——在中国，智能手机能够呈现一颗猕猴桃的完整故事。
+With a quick scan of a code, shoppers can look up the fruit’s complete thousand-mile journey from a vine in a lush valley along the upper Yangtze River to a bin in a Beijing supermarket. The smartphone feature, which also details soil and water tests from the farm, is intended to ensure that the kiwi has not been contaminated anywhere along the way.
+通过快速扫描代码，购物者可以查询这种水果从长江上游苍翠山谷的藤蔓上到北京超市箱子里的千里之旅。用于智能手机的这项功能还能提供有关农田土壤和水质检测的详细信息。它的目的是确保猕猴桃在这整套流程中不受污染。
+“I have scanned some electronic products before, but never any food,” said Xu Guillin, who recently tested the tracking function at the supermarket while shopping with her 3-year-old grandson. “We pay lots of attention to food safety. Most families with young kids would.”
+“我以前扫描过一些电子产品，但从来没有试过食物，”最近带着3岁的孙子在超市购物的许桂林在尝试了手机追踪功能后说。“我们非常关注食品安全。大多数有小孩的家庭都会关注。”
+Controlling China’s sprawling food supply chain has proved a frustrating endeavor. Government regulators and state-owned agriculture companies have tried to tackle the problem in a number of ways — increasing factory inspections, conducting mass laboratory tests, enhancing enforcement procedures, even with prosecutions and executions — but food safety scandals still emerge too often.
+事实证明，控制中国庞大的食品供应链是一项令人沮丧的工作。政府监管部门和国有农产品公司一直在设法通过多种方式来应对这一问题，比如加强工厂检查、进行大规模的实验室检测、强化执法程序，乃至起诉和处决违法人员，但食品安全丑闻仍旧时有发生。
+Chinese technology companies believe they can do it better. From the farm to the table, the country’s biggest players are looking to upgrade archaic systems with robust data collection, smartphone apps, online marketplaces and fancy gadgetry.
+中国的科技企业相信自己可以做得更好。从农场到餐桌，中国的科技业巨头期待利用强大的数据搜集能力、智能手机应用程序、网上市场和酷炫的电子设备来升级过时的旧系统。
+The founder of the computer maker Lenovo started Joyvio, the agricultural company that tracks kiwis and other fruit from planting to delivery. The Internet giant Alibaba directly connects consumers with farmers via an online produce-delivery service. A gaming entrepreneur is running a pig farm on the side. And Baidu, the country’s leading search engine, is developing a “smart” chopstick that tests whether food is contaminated.
+电脑生产商联想的创始人后来创立了农业公司佳沃。它会追踪记录猕猴桃等水果从种植到运送的各种细节。网络巨头阿里巴巴通过从生产到配送的一条龙在线服务将消费者与农民直接连接起来。一名掌管游戏公司的企业家另外还经营了一家养猪场。中国主要的搜索引擎公司百度则是正在研发一款可以检测食品是否受到污染的“智能”筷子。
+“In the food production and agriculture industry, transparency is fundamental,” said Chen Shaopeng, chief executive of Joyvio. “But in China this is not the case.”
+“在食品生产和农业产业里，保持透明是基本原则，”佳沃集团总裁陈绍鹏说。“但是在中国，情况并非如此。”
+While technology companies may not have the scandal-tainted past of the traditional food industry, they will still have to earn customers’ trust. A shopper at another Beijing supermarket, BHG Market Place, tested the trackable kiwi and was intrigued, although not enough to buy it.
+虽然科技公司可能不像传统食品行业那样承受着丑闻迭出的历史负担，但它们仍然需要赢得消费者的信任。在北京的另一家超市——华联高级食品超市，一名顾客试着了解了一下这种可追踪的猕猴桃，而且很感兴趣，但这并不足以让她购买。
+“This looks impressive. But the thing is, I don’t really trust any certificate,” said Ms. Jiang, who declined to give her full name, looking closely at a three-page report on the fruit. “We all know that certificates can be faked.”
+“让人印象深刻。但问题是，我其实不相信任何认证，”拒绝透露全名的姜女士说。她仔细查看着一份有关这种水果的长达三页的报告。“我们都知道证书可以造假。”
+The size of the problem alone is daunting. With more than a billion mouths to feed, China has one of the world’s most complex food chains. At almost every link, there have been problems.
+单是食品问题的规模就会令人气馁。中国有十几亿人要吃饭，拥有世界上最复杂的食品供应链。几乎每一个环节都存在问题。
+In one of the country’s biggest food scares, in 2008 dairy producers sold milk formula laced with melamine, which put 300,000 babies in the hospital and killed six. Last year, a supplier to McDonald’s and KFC was caught putting rotten and expired meat into products. Penny-pinching chefs cook with waste oil from fryers and sewers, a toxic ingredient known as gutter oil that generally goes unnoticed until diners get sick.
+2008年，中国曝出了一桩巨大的食品丑闻：多家乳制品生产商出售掺有三聚氰胺的配方奶粉，致使30万名婴儿入院治疗，六人死亡。去年，麦当劳(McDonald’s)和肯德基(KFC)的一家供应商被发现向产品中掺入腐烂和过期的肉。吝啬的厨师会用从油炸锅及下水道中回收的废油做菜，而这种名为“地沟油”的有毒原料通常不会被注意到，直到食用者患病。
+Such food scandals have shaken consumer trust and spurred outcries and protests. The cynicism is so visceral that jokes about food contamination are standard fare on social media and online video shows.
+此类食品丑闻动摇了消费者的信心，引发了强烈的不满和抗议。人们出于本能地对此冷嘲热讽，在社交媒体和在线视频中，拿食品污染开玩笑已经成为一种惯例。
+Baidu’s smart chopsticks were supposed to be a joke for April Fools’ Day. The search engine giant published a fake advertisement for a set of chopsticks that would determine whether food had been cooked with gutter oil. The ad struck a chord, and it quickly went viral on Chinese social media sites.
+百度的智能筷子本来是愚人节的一个玩笑。这家搜索引擎巨头发布了一则假广告，称有一种筷子能判别食物是不是由地沟油烹饪的。广告引发了共鸣，迅速在中国的社交媒体上火了起来。
+With such a strong response, Baidu decided to create a real product. Embedded with sensors, the chopsticks primarily test for gutter oil, but they also indicate pH levels and temperature. The product’s charger allows consumers to identify different fruits and vegetables as well as where they were grown and the calories they contain. The company is debating whether to add a feature that would indicate salinity, allowing users to determine whether mineral water is fake.
+由于反响极为强烈，百度决定创造出实物。这种装有传感器的筷子主要用于检测地沟油，但也能够显示酸碱度和温度。它的充电器能让消费者识别不同的水果和蔬菜，以及它们的产地和所含热量。公司正在讨论是否加入显示盐度的功能，使得消费者能够据此判断矿泉水是不是假冒产品。
+Baidu is currently manufacturing a small batch of prototypes for testing. The company says it has not yet decided when to release the product or how much it will cost. Even so, it has already generated interest.
+百度目前正在生产一小批用于测试的样品。公司表示尚未决定这款产品的发布时间和价格。即便如此，它已经激起了人们的兴趣。
+“With Baidu smart chopsticks, I don’t have to worry about gutter oil any more,” one person recently commented on Weibo, a Chinese microblog. “I will definitely buy one once it is on shelves.”
+“有了百度的智能筷子，我就不用再担心地沟油了，”新浪微博上的一名用户前不久评论道。“一旦上架，我肯定会买一副。”
+City dwellers can buy directly from farmers through Jutudi, a pilot program created by Alibaba that has about 10,000 users. An e-commerce twist on the “buy local” movement, Jutudi lets users buy regular deliveries of vegetables and fruits from farms across China. Consumers can even pick their own plots in a sort of virtual farming, although deliveries may come from multiple places.
+通过阿里巴巴创立的试点项目“聚土地”，城市居民可以直接从农民那里购买产品。该项目目前拥有大约一万名用户。它是电子商务特色的“当地消费”运动，能让用户从全国各地的农场购买定期配送的蔬菜和水果。消费者甚至还能在某种虚拟农场中挑选自己的地盘，不过配送的产品可能来自多个地方。
+Alibaba is tapping into consumers’ nostalgia for their rural roots with a heavy dose of marketing. The site features a Socialist Realist illustration of two women in a field of golden grain — harking back to the days of Mao Zedong, when farmers were lionized by propaganda. With images of shiny, red tomatoes, well-groomed pigs and other succulent fruits and vegetables, the program also promotes quality. Higher-end packages include tours of the farms.
+阿里巴巴正在通过大举营销来挖掘消费者对他们根在农村的怀念之情。在聚土地网站的突出位置上，是一幅社会主义现实主义风格的图画，表现的是两名女子站在一片金黄的麦田中，让人想起了农民被宣传成了名人的毛泽东时代。网站还对产品质量进行了宣传，张贴了很多图片，上面是红得闪闪发亮的西红柿、皮毛干净的猪以及其他一些鲜美的水果和蔬菜。较为高端的套餐中包括参观农场的选项。
+The idea of having one’s own plot of land is attractive to Jiang Hui, a 27-year-old web editor. Typical for her generation, Ms. Jiang goes online to buy just about everything, so produce was an easy next step.
+自己有块地这个概念，对27岁的网站编辑蒋慧颇具吸引力。她几乎什么都是网购的。对她这一代人来说，这种情况很典型。因此，农产品顺理成章地成为了她的网购对象。
+“The increasing number of food scandals is turning everyone into a food safety expert,” said Ms. Jiang, who lives with her parents in Beijing. “The more we read, the more scared we are and the more careful we are.”
+“食品丑闻越来越多，把大家都变成了食品安全专家，”和父母生活在北京的蒋女士说。“我们看的文章越多，就越害怕，越谨慎。”
+Alibaba has set ground rules for farmers. Farmers are required to separate the crops and treat them with lower amounts of pesticides.
+阿里巴巴为农民制定了基本规则，要求他们分开种植农作物，并减少农药的用量。
+“I am only allowed to spray pesticide on that piece of land once for every harvest. So I hire workers to pick pests by hand,” said Zhang Zhaohui, a 38-year-old farmer in the program. Samples of the mangoes are also independently tested before being shipped, he added.
+“那块地我每一季收成只能喷一次农药。所以我请了工人用手捉虫，”参加该项目的37岁农民张朝晖说。他还表示，装运前芒果样品还要接受独立检测。
+Despite the extra costs, Mr. Zhang says he makes more on the mangoes he sells to Jutudi. “To me, they all seem really rich,” Mr. Zhang said of the customers.
+尽管会产生额外的成本，但张朝晖称，卖给聚土地的芒果会让他赚得更多。谈到消费者，他表示，“要我说，他们好像都真的很有钱。”
+Joyvio is taking on a bigger challenge: the entire food chain.
+佳沃集团则在应对更大的挑战：整个食品供应链。
+Started in 2009, it is now the largest provider of kiwis and blueberries in China. It controls everything, picking what seeds are planted, then tracking and collecting data each step of the way.
+佳沃集团创立于2009年，现在是中国最大的猕猴桃和蓝莓供应商。它控制着一切工序，从挑选种子，到追踪和搜集整个过程中每一步的数据。
+Its nurseries are the stuff of science fiction. The room temperature and irrigation schedules are automatic and can be controlled remotely via a mobile phone or a computer. Seeds are grown in greenhouses, and plant tissue is cultivated in research labs.
+它的育苗室像是来自科幻小说。室温和灌溉计划都是自动的，并且能通过移动电话或电脑远程控制。种子播撒在温室里，植物组织则是在研究实验室里培育。
+Taking a similar approach to Lenovo’s, Joyvio focused on acquiring technology and know-how to build its business.
+佳沃采取了与联想类似的方式，把精力主要放在了获取技术和实践来打造自己的业务上。

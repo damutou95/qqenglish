@@ -1,0 +1,50 @@
+When computers speak, how human should they sound?
+计算机说话的声音，应该与人类相似到什么程度？
+This was a question that a team of six IBM linguists, engineers and marketers faced in 2009, when they began designing a function that turned text into speech for Watson, the company’s “Jeopardy!”-playing artificial intelligence program.
+这是2009年时，IBM的一个团队所面临的问题，该团队由六名语言学家、工程师和营销人员组成，当时正在为“沃森”(Watson)设计一个文字转语音功能。“沃森”是一个玩《危险边缘》(Jeopardy!)游戏的人工智能程序。
+Eighteen months later, a carefully crafted voice — sounding not quite human but also not quite like HAL 9000 from the movie “2001: A Space Odyssey” — expressed Watson’s synthetic character in a highly publicized match in which the program defeated two of the best human “Jeopardy!” players.
+18个月后，在一场万众瞩目的比赛中，“沃森”击败了《危险边缘》两名最优秀的参赛者，其精心调校的声音——听起来不是很像真人，但也不太像电影《2001：太空漫游》(2001: A Space Odyssey)中的HAL 9000——展现了“沃森”的人造性格。
+The challenge of creating a computer “personality” is now one that a growing number of software designers are grappling with as computers become portable and users with busy hands and eyes increasingly use voice interaction.
+如今，随着计算机便携度的提高，以及手和眼睛没有空闲的用户越来越多地使用语音与之交互，计算机“人格”也成为了越来越多的软件设计师努力应对的一个挑战。
+Machines are listening, understanding and speaking, and not just computers and smartphones. Voices have been added to a wide range of everyday objects like cars and toys, as well as household information “appliances” like the home-companion robots Pepper and Jibo, and Alexa, the voice of the Amazon Echo speaker device.
+机器设备正在倾听、理解和发出声音，这些设备不仅仅包括计算机和智能手机。语音功能已被广泛添加到汽车、玩具等等日常物品，以及信息“家电”中，比如家用机器人Pepper和Jibo，亚马逊Echo扬声器设备的语音功能Alexa。
+A new design science is emerging in the pursuit of building what are called “conversational agents,” software programs that understand natural language and speech and can respond to human voice commands.
+一种新的设计科学正在成型，其目标是构建出被称为“交谈代理”的软件程序，能够理解自然语言和语音，并对人类语音命令做出反应。
+However, the creation of such systems, led by researchers in a field known as human-computer interaction design, is still as much an art as it is a science.
+但是，在“人机交互”设计领域的研究人员率领下对此类系统进行的构建，不仅是一门科学，也是一门艺术。
+It is not yet possible to create a computerized voice that is indistinguishable from a human one for anything longer than short phrases that might be used for weather forecasts or communicating driving directions.
+目前计算机发出的声音，除了很短的词组之外，尚未逼真到和人声难于区分，可以用来播送天气预报和行车路线的程度。
+Most software designers acknowledge that they are still faced with crossing the “uncanny valley,” in which voices that are almost human-sounding are actually disturbing or jarring. The phrase was coined by the Japanese roboticist Masahiro Mori in 1970. He observed that as graphical animations became more humanlike, there was a point at which they would become creepy and weird before improving to become indistinguishable from videos of humans.
+大多数软件设计人员都承认，他们尚未穿越“恐怖谷”阶段，这指的是设备发出的声音很像真人，但却让人心烦、很不谐调的状况。“恐怖谷”的说法是日本机器人专家森政弘(Masahiro Mori)在1970年提出的。他发现随着图形动画越来越逼真，但又尚未达到和真人视频难以区分的程度时，会有一个让人觉得毛骨悚然而怪异的阶段。
+The same is true for speech.
+这种现象同样也适用于语音。
+“Jarring is the way I would put it,” said Brian Langner, senior speech scientist at ToyTalk, a technology firm in San Francisco that creates digital speech for things like the Barbie doll. “When the machine gets some of those things correct, people tend to expect that it will get everything correct.”
+“我会说这是一种不协调的声音，”ToyTalk高级语音科学家布赖恩·朗纳(Brian Langner)说。“当机器在某些地方做得不错时，人们往往会期待它每件事都做好。”ToyTalk是一家位于旧金山的科技公司，在为芭比娃娃之类的东西创造数字语音。
+Beyond correct pronunciation, there is the even larger challenge of correctly placing human qualities like inflection and emotion into speech. Linguists call this “prosody,” the ability to add correct stress, intonation or sentiment to spoken language.
+除了正确发音，在语音中体现语调变化及感情等人类特质是一个更大的挑战。语言学家称之为“韵律”，也就是在口语中正确重读、添加语调或情绪的能力。
+Today, even with all the progress, it is not possible to completely represent rich emotions in human speech via artificial intelligence. The first experimental-research results — gained from employing machine-learning algorithms and huge databases of human emotions embedded in speech — are just becoming available to speech scientists.
+如今，即便有了这些进步，仍然无法通过人工智能完全体现人声中的丰富情感。第一批实验性研究的成果刚刚开始为语音学家所用，这些成果是通过使用机器学习算法和有关人声所蕴含的情感的巨大数据库取得的。
+Synthesized speech is created in a variety of ways. The highest-quality techniques for natural-sounding speech begin with a human voice that is used to generate a database of parts and even subparts of speech spoken in many different ways. A human voice actor may spend from 10 hours to hundreds of hours, if not more, recording for each database.
+合成语音可以通过各种方式制作完成。最高品质的自然语音技术会先通过人声以不同方式生成一个语音组成部件甚至子部件的数据库。一名配音员可能要耗费至少10到几百个小时为每个数据库录音。
+The roots of modern speech synthesis technology lie in the early work of the Scottish computer scientist Alan Black, who is now a professor at the Language Technologies Institute at Carnegie Mellon University.
+现代语音合成技术源于苏格兰计算机科学家阿朗·布莱克(Alan Black)的早期工作。布莱克目前在卡内基梅隆大学(Carnegie MellonUniversity)语言技术研究所(Language Technologies Institute)任教授。
+Mr. Black acknowledges that even though major progress has been made, speech synthesis systems do not yet achieve humanlike perfection. “The problem is we don’t have good controls over how we say to these synthesizers, ‘Say this with feeling,’ ” he said.
+布莱克承认，尽管已经取得重大进步，语音合成系统尚未达到接近人声的完美程度。他说，“问题是我们无法很好地控制我们如何对着合成器说话，‘有感情地说。’”
+For those like the developers at ToyTalk who design entertainment characters, errors may not be fatal, since the goal is to entertain or even to make their audience laugh. However, for programs that are intended to collaborate with humans in commercial situations or to become companions, the challenges are more subtle.
+对于ToyTalk公司那些设计娱乐角色的开发人员来说，这种错误可能不会带来严重后果，因为他们的目标就是使听众开心，甚至是大笑。然而，对于那些旨在与人合作用于商业用途或与人成为伙伴的程序来说，这种挑战要更为微妙。
+These designers often say they do not want to try to fool the humans that the machines are communicating with, but they still want to create a humanlike relationship between the user and the machine.
+设计者们经常称，他们不想让人以为自己正在跟人对话，但他们仍想在用户与机器之间创造一种类似人类之间的关系。
+“Jeopardy!” was a particularly challenging speech synthesis problem for IBM’s researchers because although the answers were short, there were a vast number of possible mispronunciation pitfalls.
+《危险边缘》对于IBM研究员来说是一个极具挑战性的语音合成问题，因为虽然回答很短，但有很多潜在的发音错误陷阱。
+“The error rate, in just correctly pronouncing a word, was our biggest problem,” said Andy Aaron, a researcher in the Cognitive Environments Laboratory at IBM Research.
+“单词发音方面的出错率是我们面临的最大问题，”IBM研发中心(IBM Research)认知环境实验室(Cognitive Environments Laboratory)研究员安迪·埃伦(Andy Aaron)说。
+Several members of the team spent more than a year creating a giant database of correct pronunciations to cut the errors to as close to zero as possible. Phrases like brut Champagne, carpe diem and sotto voce presented potential minefields of errors, making it impossible to follow pronunciation guidelines blindly.
+该团队的几名成员花了一年多的时间创建了一个巨大的正确发音数据库，以尽可能地将错误降至接近零的水平。像brut Champagne（干香槟）、carpe diem（抓住今天）、sotto voce（低声地）等短语属于容易出错的潜在雷区，因此无法盲目遵从发音指南。
+The researchers interviewed 25 voice actors, looking for a particular human sound from which to build the Watson voice. Narrowing it down to the voice they liked best, they then played with it in various ways, at one point even frequency-shifting it so that it sounded like a child.
+研究人员采访了25名配音员，寻找可以创建沃森语音的特别人声。他们将范围缩小至他们最喜欢的声音，然后通过各种方式呈现声音，甚至一度通过频移使其听起来像是孩子的声音。
+“This type of persona was strongly rejected by just about everyone,” said Michael Picheny, a senior manager at the Watson Multimodal Lab for IBM Research. “We didn’t want the voice to sound hyper-enthusiastic.”
+“几乎每个人都强烈反对这种人物设定，”IBM研发中心沃森多模式实验室(Watson Multimodal Lab)高级管理人员迈克尔·皮彻尼(Michael Picheny)说。“我们不希望声音听起来过于亢奋。”
+The researchers looked for a machine voice that was slow, steady and most importantly “pleasant.” And in the end, they, acting more as artists than engineers, fine-tuned the program. The voice they arrived at is clearly a computer, but it sounds optimistic, even a bit peppy.
+研究人员要寻找一种缓慢、平稳，最重要的是“令人愉悦”的机器语音。最终在对程序进行调试时，他们更多地是在扮演艺术家而不是工程师的角色。他们形成的声音明显是计算机的声音，但听起来很乐观，甚至有点活泼。
+“A good computer-machine interface is a piece of art and should be treated as such,” Mr. Picheny said.
+皮彻尼说，“好的计算机-机器界面是一种艺术，应该当艺术来对待。”

@@ -1,0 +1,38 @@
+The air on Mars — what there is of it — is leaking away, about half a pound a second sputtering into space, scientists announced on Thursday.
+周二，科学家宣布，火星上仅存的空气正在消失，每秒大约有两磅重的大气喷射到太空中。
+The planet’s early atmosphere is thought to have been as thick as or thicker than Earth’s today, and even over the 4.5-billion-year history of the solar system, that slow leak would not explain how it atrophied to its current wisps.
+拒信，火星早期的大气曾经和现在的地球一样多，或者比地球更多。但是经历了45亿年的火星大气为何衰退到今天这么少，缓慢的泄露好像并不能解释这一问题。
+But new readings from NASA’s Mars Atmosphere and Volatile Evolution mission — Maven, for short — show that when Mars is hit by a solar storm, the ferocious bombardment of particles from the sun strips away the upper atmosphere much more quickly.
+但是，有关最新报道NASA’s Mars Atmosphere and Volatile Evolution mission，简称Maven，展示了当火星遭受太阳风暴时，太阳因子的猛烈攻击会更加快速的剥离火星上层的大气。
+That could help explain the disappearance of the atmosphere. The sun during its youth was more unsettled, with many more solar storm eruptions, and it shone brighter in the ultraviolet wavelengths that also help knock atoms out of Mars’ atmosphere.
+这种说法可以解释火星大气消失的原因。在太阳诞生早期，它比现在更加不稳定，会有更多的太阳风暴发生，也会发出更容易将大气元素赶出火星大气的紫外线。
+“What this tells us is loss through space has been an important process,” said Bruce M. Jakosky, a scientist at the Laboratory for Atmospheric and Space Physics at the University of Colorado and the principal investigator for the Maven mission.
+州立科罗拉多大学大气太空物理实验室的科学家，同时也是Maven的主要研究人员，Bruce M. Jakosky说，所有这些告诉我们，泄露到太空是一个重要的过程。
+The answer to what happened to the Martian air is key to understanding how Mars might have once been a warm, habitable planet with lakes and maybe an ocean covering the northern hemisphere. When the air disappeared, liquid water largely disappeared, too.
+解决火星空气问题的关键是要理解火星是怎样一个曾经温暖、宜居的星球，湖泊甚至海洋覆盖着北半球。当空气消失时，液态水也基本消失了。
+Dr. Jakosky and other scientists reported their findings from Maven in four scientific papers published on Thursday in the journal Science. More than 40 additional papers by the Maven team appear in the journal Geophysical Research Letters.
+贾科斯基博士和其他科学家把他们基于Maven的研究成果在周二的科学杂志上发布了四篇科学论文。Maven团队在地球物理研究快报发布了40多篇附加论文。
+“We’ve been trying to piece together its upper atmospheric physics from a bunch of incomplete views from other spacecraft,” said Michael W. Liemohn, a professor of atmospheric, oceanic and space sciences at the University of Michigan who is not directly involved with Maven. “These are great stories that they’ve put together from the initial data sets.”
+密歇根大学一位没有直接参与Maven项目的Michael W.Liemohn，他是大气、海洋和空间科学方面的教授，他说，根据其他航天器的一系列不完整的观点我们已经拼凑出上层大气的物理特性，从最初的数据集里，将他们放在一起是一件很有趣的事。
+The Maven spacecraft, which entered orbit around Mars in September last year, carries a suite of instruments to analyze the solar wind and its effects on the atmosphere.
+去年九月，Maven探空器进入了火星轨道周围，他携带者一些列设备用来分析太阳风暴和风暴对大气的影响。
+The air disappears in mainly two ways. Sometimes an electron is knocked off an atom in the upper atmosphere, and then the charged atom is accelerated away by the electric and magnetic fields of the solar wind. Particles of air can also be knocked into space through collisions with incoming solar wind particles, like billiard balls.
+大气消失主要有两种方式。有时，上层大气中的空气原子被剥夺一个电子后，这个原子就会被太阳风的电磁场加速离开大气层。空气粒子也可能由于与被吹来的太阳风粒子发生碰撞而进入太空，就像台球一样。
+Dr. Jakosky said the two phenomena are roughly equal in importance. The current papers focus on the effect on the charged atoms, usually escaping at a rate of about 100 grams, or almost a quarter of a pound, per second. During a solar storm on March 8, the rate of charged atoms flying into space was 10 to 20 times as high, as much as five pounds a second. That gave the team the first good measurements of what happens when a solar storm hits Mars. “This is hopefully going to help us fill in many pieces of that puzzle,” Dr. Jakosky said.
+贾科斯基博士说这两种情况重要性基本相同。现在论文主要关注的是改变了的原子，通常每秒会消失100克或者4/1磅。在3月8日的太阳风暴中，这种概率浮动在10到最高20之间，最多每秒5磅。这就给Maven小组提供了测量火星遭受太阳风暴时发生事件的良好方法。贾科斯基博士说，这很可能帮助我们解决很多以前疑惑的问题。
+Jasper Halekas, a professor of physics and astronomy at the University of Iowa and a member of the Maven team, said the energy hitting the Martian atmosphere during the storm was equivalent to a million tons of TNT an hour. “That’s one large nuclear weapon per hour, if you like,” he said.
+爱荷华大学的太空物理学教授贾斯珀和一个Maven小组成员说，太阳风暴中撞击火星大气的能量等于每小时100万吨TNT的能量。换句话说，这相当于每小时使用一个大型核武器。
+Such solar storms are not everyday events, but they are also not rare, happening perhaps a few times a year, Dr. Halekas said. He gave an analogy of a geologist studying beach erosion, wondering whether more sand is washed away by the steady, daily effects of waves and tides or by one or two big tsunami.
+Halekas博士说，这种太阳风暴并不是每天发生，但也绝不少见，一年可能有好几次。他也给了一个地质学家研究海岸侵蚀的对比，他们怀疑大量的沙子是否被日常的波浪和潮汐带走，或者是一到两个大海啸。
+The solar storm, Dr. Halekas said, “is the equivalent of the tsunami at Mars.”
+Halekas博士说“在火星上太阳风暴等同于海啸”。
+Maven’s instruments also captured, to the surprise of the scientists, occasional ultraviolet auroras glowing in the Martian atmosphere — one episode lasting several days last December and then three briefer episodes in February and March.
+令科学家们惊奇的是，Maven的设备也捕捉到了火星大气层的偶发的北极光——其中一次在去年12月持续了好几天，还有三次在二月和三月的出现时间较短。
+On Earth, the planet’s magnetic field channels the solar wind toward the poles, and the nighttime light shows are seen mostly at the higher latitudes and rarely near the Equator.
+在地球上，地磁场把太阳风导向两极，北极光多数出现在高纬度地区，几乎不会出现杂赤道。
+Mars does not possess a global magnetic field, and scientists thought Maven might observe auroras near some ancient magnetic fields that persist in hardened lava flows. “That’s what we expected, naïvely, on Mars,” said Nick Schneider, a planetary scientist at the University of Colorado who is also on the Maven team.
+火星不具备一个整体磁场，科学家考虑Maven可能在凝固了的火山岩浆里傍边的古老磁场观测到的极光。“这就是我们天真地以为火星上发生的”来自科罗拉多大学的一名星球学家同时也是Maven小组的一员的Nick Schneider如是说。
+Instead, during a few periods of intense solar wind, Maven spotted diffuse auroras over much of Mars. “What we in hindsight were pretty foolish about was, what Earth’s magnetic field really does is prevent auroras from happening everywhere on Earth,” Dr. Schneider said. “Mars, without a global magnetic field, should have auroras everywhere, certainly when solar conditions are right. We sort of did this dope slap, saying, ‘Well, of course, what’s going to prevent those particles from the sun from slamming into Mars’ atmosphere anywhere and maybe everywhere?’”
+在强烈的太阳风的那段时间里，Maven在火星上好多地点观测到了四散开的极光。Schneider博士说，“很傻的是我们后知后觉到，地球磁场真正做的是避免极光在地球上任何地方出现。而火星没有整体磁场，在适当太阳条件下，每个地方应该都有极光。我们把这些笨拙的发现排序整理后得到：到底是什么阻止那些太阳粒子猛烈的攻击火星上每一处的大气？”
+Another set of observations measured dust in the Martian upper atmosphere, so high and so evenly distributed that the scientists concluded the grains came from interplanetary space and not the surface or Mars’ moons.
+另一组是关于火星上层大气的尘埃测量。这些尘埃很高而且分布均匀，所以科学家们得出这样一个结论：这些颗粒来自星球内部空间，而并非来自星球表面更不来自火星的卫星。

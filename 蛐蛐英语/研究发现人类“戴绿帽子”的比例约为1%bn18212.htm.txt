@@ -1,0 +1,58 @@
+Five days a week, you can tune into “Paternity Court,” a television show featuring couples embroiled in disputes over fatherhood. It’s entertainment with a very old theme: Uncertainty over paternity goes back a long way in literature. Even Shakespeare and Chaucer cracked wise about cuckolds, who were often depicted wearing horns.
+每周五天，电视上都会播出《父性法庭》(“Paternity Court”)节目，每期节目都邀请了一些围绕孩子是否父亲亲生而陷入纠纷的夫妇们来做嘉宾，这也是该节目的最大特色。其实，这个娱乐节目的主题一点也不新鲜：在很久以前的文学作品中，就有涉及无法确定的亲子关系的情节。甚至连莎士比亚和乔叟(Chaucer)也曾拿被戴了绿帽子的男人们开玩笑。
+But in a number of recent studies, researchers have found that our obsession with cuckolded fathers is seriously overblown. A number of recent genetic studies challenge the notion that mistaken paternity is commonplace.
+这样的文化氛围很容易让人误以为此类事情司空见惯。但近期的一些遗传学研究对该观念提出了挑战。研究人员发现，我们对那些头顶绿油油的男人们的执迷实在是太夸张了些。
+“It’s absolutely ridiculous,” said Maarten H.D. Larmuseau, a geneticist at the University of Leuven in Belgium who has led much of this new research.
+“绝对太荒谬了，”新研究的主要负责人、比利时鲁汶大学(University of Leuven)的遗传学家马尔滕·H·D·拉姆索(Maarten H.D. Larmuseau)说。
+The term cuckold traditionally refers to the husband of an adulteress, but Dr. Larmuseau and other researchers focus on those cases that produce a child, which scientists politely call “extra-pair paternity.”
+“戴绿帽”一词的传统含义是指妻子与人私通，不过，拉姆索博士和同事们主要研究的是私通且生下孩子的案例，科学家们通常礼貌地称之为“婚外父权(extra-pair paternity)”。
+Until the 20th century, it was difficult to prove that a particular man was the biological father of a particular child.
+在20世纪以前，想要证明某一特定男子是某一特定孩子的生父非常困难。
+In 1304 a British husband went to court to dispute the paternity of his wife’s child, born while he was abroad for three years. Despite the obvious logistical challenges, the court rejected the husband’s objection.
+1304年，一个英国人向法院提出，他怀疑妻子生下的孩子不是自己的，因为那孩子是在他出国的三年期间出生的。尽管这位丈夫的质疑具有如此明显的逻辑基础，但法院还是驳回了他的异议。
+“The privity between a man and his wife cannot be known,” the judge ruled.
+法官裁定：“外人无法知悉并确定丈夫与妻子之间的私密。”
+Modern biology lifted the veil from this mystery, albeit slowly. In the early 1900s, researchers discovered that people have distinct blood types inherited from their parents.
+不过，现代生物学还是慢慢地揭开了这一谜题的神秘面纱。20世纪初，研究人员发现，人群中存在着多种血型，且血型可以遗传。
+In a 1943 lawsuit, Charlie Chaplin relied on blood-type testing to prove that he was not the father of the actress Joan Barry’s child. (The court refused to accept the evidence and forced Chaplin to pay child support anyway.)
+在1943年的一场官司中，查理·卓别林(Charlie Chaplin)依靠血型检测结果证明了自己并非女演员琼·巴里(Joan Barry)所生孩子的父亲（但法院拒绝接受这一证据，并强迫卓别林支付孩子的抚养费）。
+It wasn’t until DNA sequencing emerged in the 1990s that paternity tests earned the legal system’s confidence. Labs were able to compare DNA markers in children to those of their purported fathers to see if they matched.
+直到20世纪90年代DNA测序技术出现后，亲子鉴定才赢得了司法体系的认可。实验室的技术人员将孩子与那些据称是父亲的男人们的DNA标记加以比对，通过观察它们的匹配程度确定亲子关系。
+As the lab tests piled up, researchers collated the results and came to a startling conclusion: Ten percent to 30 percent of the tested men were not the biological fathers of their children.
+随着此类实验室检测进行得越来越多，研究人员在整理结果后得出了一个惊人的结论：在前来接受测试的男性中，有10%到30%都不是他们孩子的生父。
+Those figures were spread far and wide, ending up in many science books. But the problem with the lab data, Dr. Larmuseau said, was that it didn’t come from a random sample of people. The people who ordered the tests already had reason to doubt paternity.
+这些数字广为传播，已至白纸黑字地写在了许多科学书籍当中。但这些实验数据是有问题的，拉姆索博士说，因为它们并非来自人群的随机样本。会去做亲子鉴定的，肯定是那些已经对孩子的身世产生了怀疑的人。
+Dr. Larmuseau and other scientists developed other methods to get an unbiased look at cuckoldry.
+于是，拉姆索博士和其他科学家设计了别的方法来公正地研究绿帽子。
+In a 2013 study, Dr. Larmuseau and his colleagues used Belgium’s detailed birth records to reconstruct large family genealogies reaching back four centuries. Then the scientists tracked down living male descendants and asked to sequence their Y chromosomes.
+在2013年的一项研究中，拉姆索博士和他的同事利用比利时详细的出生记录重建了可以追溯四个世纪之久的庞大家族谱系（简称“家系”）。然后，科学家们寻访到了家系中目前仍在世的男性后裔，并要求对其Y染色体进行测序。
+Y chromosomes are passed down in almost identical form from fathers to sons. Men who are related to the same male ancestor should also share his Y chromosome, providing that some unknown father didn’t introduce his own Y somewhere along the way.
+Y染色体为男性特有，总是由父亲遗传给儿子。因此，在某一家系中，可以沿着父子关系链追溯到同一男性祖先的所有男性应该拥有几乎完全相同（考虑到可能会有遗传突变）的Y染色体。反之，则必有某人的生父另有其人，以致令其他的Y染色体进入该家系并遗传下来。
+Comparing the chromosomes of living related men, Dr. Larmuseau and his colleagues came up with a cuckoldry rate of less than 1 percent. Similar studies have generally produced the same low results in such countries as Spain, Italy and Germany, as well as agricultural villages in Mali.
+拉姆索博士和同事们分别比对了各家系中符合上述亲缘关系的在世男性的染色体，并计算出了这些家系中的绿帽子比率不足1%。在西班牙、意大利和德国以及马里的农村进行的类似研究得出了绿帽子比例同样很低的结论。
+The scientists got the same results after trying a different tack. They studied men in Flanders, a part of Belgium to which French people emigrated in the late 1500s.
+科学家们又尝试了不同的策略，也得到了相同的结果。这一次，他们研究了比利时的法兰德斯地区，因为此地有许多人是16世纪晚期法国移民的后裔。
+The Y chromosomes in Flemish men with French surnames, the researchers found, had the same genetic markers found in men who live today in the region of France where their ancestors originated. Had there had been a lot of cuckoldry over the centuries, the link between genetics and surnames should have been weaker, or disappeared altogether.
+研究人员发现，冠有法国姓氏的法兰德斯男性与至今仍生活在他们法国故乡的男性，Y染色体上带有相同的遗传标记。而如果在这数百年来中曾出现过大量绿帽子的话，同一姓氏的男性之间的遗传学关联必然会有所削弱，乃至完全消失。
+In a commentary in Trends in Ecology and Evolution, Dr. Larmuseau and his colleagues argue that it’s long past time to toss out frequent cuckoldry as a myth. Studies relying on different methods in different cultures all point to cuckoldry rates of about 1 percent.
+拉姆索博士及其同事在《生态学和演化学趋势》杂志(Trends in Ecology and Evolution)上发表评论文章指出，我们早就该抛弃“绿帽子现象非常普遍”这种陈腐观念了。依托各种方法在不同的文化背景下进行的多项研究都发现：绿帽子的比率约为1%。
+And because many of those studies are based on genealogies that reach back many generations, he argues, these rates must have been low for at least several centuries.
+而且，由于其中很多研究都建立在可追溯许多世代的家系的基础之上，拉姆索博士认为，这种绿帽子比例很低的状况少说已经持续了几个世纪之久。
+Beverly I. Strassmann, a University of Michigan anthropologist who gathered the data on paternity rates in Mali, agreed that widespread cuckoldry “was an urban legend. It seemed to have a life of its own.”
+密歇根大学(University of Michigan)的人类学家贝弗利·I·施特拉斯曼(Beverly I. Strassmann)收集了马里的亲子关系数据，她也赞同“戴绿帽子现象非常普遍”只是“一则颇具生命力的都市传奇(urban legend)而已。”
+The evidence of low rates of cuckoldry comes not just from gene studies, she noted. In species where females mate with many males, the males tend to evolve sperm that are good at competing for fertilization. The males may produce large amounts of sperm, for example, and a high percentage swim well.
+她指出，除了基因研究，还有其他可以证明绿帽子比例很低的证据。在一雌多雄交配的物种中，演化压力会促使雄性以一种有利于竞争授精的策略来制造精子。例如，雄性可能会产生大量的精子，而且绝大部分都具有很强的游动能力。
+Humans, however, don’t rate in the sperm department.
+但人类的精子在这方面并不见长。
+“It’s of amazingly low quality,” Dr. Strassmann said. “Half the sperm can be duds; they can have two heads; they can be defective in all sorts of ways.”
+“人类精子的质量低得令人惊讶，”施特拉斯曼说。“有一半精子是‘哑弹’；要么两个头，要么在各种各样的方面存在缺陷。”
+The only way for men to have evolved comparatively ineffectual sperm, she added, was for them to have experienced high rates of paternity over time.
+只有一种情况会令男性演化出如此“没用”的精子，她补充道，那就是长期以来存在高比例的戴绿帽子现象。
+It’s not that widespread cuckoldry doesn’t exist in some cultures, Dr. Larmuseau said. Some South American tribes with high rates share a belief that more than one man can contribute to the formation of a fetus.
+拉姆索博士承认，在某些文化中，赠人绿帽子确实挺常见的。例如，某些南美部落就是这样，因为他们相信女子与多名男性性交可以促进胎儿的形成。
+But Dr. Larmuseau suspects that these populations are the exception, not the rule. Humans have evolved to avoid cuckoldry, he said, because of our peculiar biology.
+但拉姆索博士非常怀疑这些不过是人类当中的一些特例，并非什么约定俗成的普世规则。他说，由于我们特有的生物学特性，人类一直在朝着避免戴绿帽子的方向演化。
+Human infants are born quite helpless, compared with the newborns of other animals, and they need a lot of food over a long period to fuel the growth of their calorie-hungry brains. Mothers needed fathers to help find the food.
+与其他动物的新生儿相比，人类的婴儿在出生时极其虚弱无能，有很长时间都依靠他人供给大量食物才能获得脑部发育所需的巨大能量。这就意味着母亲需要父亲来帮助寻找食物。
+“Babies really need good investment from the fathers,” Dr. Larmuseau said, “and the paternity has to be very sure in order for them to make those investments.”
+“婴儿的成长需要父亲的巨大投入，”拉姆索博士说，“父亲们肯定得非常确定孩子是自己的骨肉，才会愿意为他们如此付出。”

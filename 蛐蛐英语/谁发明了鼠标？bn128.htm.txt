@@ -1,0 +1,32 @@
+In the late 1950s, computers ran so slowly that you might wander off for coffee, or even go home to bed, while you waited for your office’s machine to work through a problem. But Doug Engelbart, an electrical engineer, envisioned a computer fast enough to react instantly to commands. And a machine like that, he decided, would need a driver’s seat.
+20世纪50年代末，电脑运行异常缓慢，等待办公室的电脑完成一项工作期间，你都能出去喝杯咖啡，或者干脆回家躺会儿了。但是电子工程师道格·恩格尔巴特(Doug Engelbart)预见到将来电脑可以快到足以马上对命令做出反应。他觉得，这样一台机器需要配备“驾驶席”才行。
+Engelbart had always been good at solving mechanical problems. When he was 13, his neighbor had an old Ford sitting in his barn, his daughter Christina told me. “My dad got it running again,” she said. “A car in those days — you used the steering wheel, a choke and both of your feet on the pedals. Your whole body was involved.” (Her father, now 88, is no longer giving interviews.)
+恩格尔巴特的女儿克里斯蒂娜(Christina)跟我说，她父亲一向擅长解决机械方面的问题，说他13岁那年，邻居谷仓里有一辆弃置不用的旧福特车。“我爸爸后来让它又跑起来了，”她说，“那个年代的汽车使用方向盘、阻气门、两只脚都得踩在踏板上。开车时整个身体都得跟着动。”（她的父亲现年88岁，已经不再接受采访。）
+Engelbart wanted to give people the same kind of physical control over a computer. In 1963, he began a series of experiments at his lab at the Stanford Research Institute, placing subjects in front of a monitor that looked like a 1950s TV set. The screen, as round as a porthole, displayed flickering words. Various devices were used to move the cursor — to correct an error or add a sentence — requiring so much new technology that the workstation cost about $100,000. Engelbart even rigged a helmet-mounted pointer that let you move the cursor with a nod of your head, but users found it awkward. In the end, the best cursor-control device turned out to be a box on wheels that you rolled around the desk like a toy car, which Engelbart designed himself.
+恩格尔巴特希望让人们能像开车那样，用身体控制电脑。1963年，他在自己位于斯坦福研究所(Stanford Research Institute)的实验室里开始了一系列试验，把各种东西放在一台好像20世纪50年代电视机的监控器前面。它的屏幕是舷窗一样的圆形，上面显示着闪动的字词。各种用来移动屏幕上光标的设备（修改错误，增添句子）需要大量新技术，足足花了工作站10万美元。恩格尔巴特甚至制造出装在头盔上的指针，可以通过点头的动作控制光标，但使用者觉得它太不灵活。最后，恩格尔巴特亲手设计出了最好的光标控制装置——一个带滚轮的小盒子，可以像玩具车一样滑过桌面。
+The researchers in his lab nicknamed this device the mouse. “It was just what they called it affectionately,” Christina Engelbart said. Her father thought the name sounded unprofessional, so he christened it the “X-Y position indicator for a display system.” But with its wire tail and way of scampering across the desk, the gizmo was born cute. The name stuck.
+实验室里的其他研究者们给这个装置起外号叫“老鼠”。“这只是他们的爱称，”克里斯蒂娜·恩格尔巴特说。她的父亲觉得这个名字太不专业了，于是给它正式命名为“显示系统中的X-Y方位指示器”。但这个带着电线尾巴，在桌上到处乱窜的小玩意天生就那么可爱，这个绰号也就一直跟随着它。
+MOUSEKETEER
+鼠标专家
+Bill English, an engineer at the Stanford Research Institute lab in the ’60s, was instrumental in the design of the first mouse.
+比尔·英格里希(Bill English)是20世纪60年代斯坦福研究所实验室里的工程师，曾经参与设计了第一只鼠标。
+In Doug Engelbart’s lab, you also tried out a knee-operated pointer, right? 
+在道格·恩格尔巴特的实验室里，你还试验过由膝盖控制的指针，对吗？
+Oh, yes, the knee pointer, in terms of functionality, turned out to be second only to the mouse.
+啊，是的，膝盖指针，最后它在功能性方面仅次于鼠标。
+The knee? Who knew? 
+膝盖？怎么回事？
+The knee can be a good controller. You’re rotating your foot, so you can precisely move the cursor to the left or right, up and down. But of course it was impractical, because the device had to be built to fit the person who operated it.
+膝盖是很好的控制工具。转动脚踝，就能让指针精确地上下左右移动。但是，当然，它并不实用，因为这种装置得为操作者量身定做。
+What kind of design considerations went into the mouse? 
+鼠标中有什么特别的设计考虑吗？
+One of the fundamental things you had to decide was the ratio of mouse movement to the movement of the cursor on the screen. I remember sitting there playing with a box on my desk and thinking, How far would I be willing to move my hand to make the cursor move across a line of text? That’s how I got a feel for how big the wheel ought to be.
+鼠标移动幅度与屏幕上光标移动幅度的比例，是要考虑的最基本要素之一。我记得当时曾经坐在那儿，一边在桌子上摆弄一个盒子一边思考，为了让光标移过一行文字，我希望手移动多远？我就是这样为设计鼠标滚轮大小找感觉的。
+So you had to figure out what kind of hand gestures would be ideal for moving the cursor? 
+所以你得找出最适合移动光标的手势，是吗？
+Yeah, I just moved a box around the desk and thought, That feels about right.
+对，我就是在桌上一边移动一个盒子一边想，这个感觉差不多了。
+Are we still using the same kind of hand movements?
+我们现在还在使用和当年同样的手势吗？
+Well, let’s see. I’m sitting here at my screen right now and moving my mouse. Yeah, it’s pretty much the same as the original one.
+这个嘛。我现在就坐在屏幕前面，移动着鼠标。对，和最早的那个手势没什么两样。

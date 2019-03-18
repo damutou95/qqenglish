@@ -1,0 +1,38 @@
+MUSIC is not tangible. You can’t eat it, drink it or mate with it. It doesn’t protect against the rain, wind or cold. It doesn’t vanquish predators or mend broken bones. And yet humans have always prized music — or well beyond prized, loved it.
+音乐是看不见摸不着的东西，不能吃也不能喝，更不能与它发生肉体的接触。它不能帮你遮风挡雨，保暖御寒。不能帮你击溃敌人，也不能为你愈合断骨。但人类却总是珍视音乐——或者比珍视更甚——我们热爱它。
+In the modern age we spend great sums of money to attend concerts, download music files, play instruments and listen to our favorite artists whether we’re in a subway or salon. But even in Paleolithic times, people invested significant time and effort to create music, as the discovery of flutes carved from animal bones would suggest.
+现代人花很多钱去听音乐会、下载音乐、演奏乐器，聆听心爱艺术家的作品，不管置身地铁还是沙龙。但是考古学家发现，早在旧石器时代就有由动物骨头制成的笛子，足以说明那时人们就花费大量时间与努力去创作音乐。
+So why does this thingless “thing” — at its core, a mere sequence of sounds — hold such potentially enormous intrinsic value?
+音乐的核心无非只是一系列声音而已，那么，为什么这种没有形体的事物蕴含着如此巨大的本质价值？
+The quick and easy explanation is that music brings a unique pleasure to humans. Of course, that still leaves the question of why. But for that, neuroscience is starting to provide some answers.
+快速简单的解释是，音乐可以为人类带来独特的欢愉。当然，这仍然不能解释“为什么”这个问题。但是基于这一点，神经科学可以提供若干答案。
+More than a decade ago, our research team used brain imaging to show that music that people described as highly emotional engaged the reward system deep in their brains — activating subcortical nuclei known to be important in reward, motivation and emotion. Subsequently we found that listening to what might be called “peak emotional moments” in music — that moment when you feel a “chill” of pleasure to a musical passage — causes the release of the neurotransmitter dopamine, an essential signaling molecule in the brain.
+十几年前，我们的研究团队使用大脑成像技术，显示被人们描绘为“非常感人”的音乐如何作用于大脑深处负责奖赏系统(reward system)的脑区——我们知道，触发皮质下核(subcortical nuclei)在奖赏系统，以及行为动机与感情系统中是非常重要的。最后我们发现，聆听音乐中所谓“情感的高潮时刻”（就是那些让你听到“起鸡皮疙瘩”的那些乐段），会导致大脑释放神经传递素多巴胺，这是大脑中一种必不可少的信号传递分子。
+When pleasurable music is heard, dopamine is released in the striatum — an ancient part of the brain found in other vertebrates as well — which is known to respond to naturally rewarding stimuli like food and sex and which is artificially targeted by drugs like cocaine and amphetamine.
+当听到令人愉悦的音乐时，多巴胺便会从纹状体(striatum)中涌出——纹状体是大脑一个古老的器官，其他脊椎动物也有，它会对满足本能的刺激（诸如食物和性爱）做出反应，可卡因和安非他命这样的人工药物也会对它产生效果。
+But what may be most interesting here is when this neurotransmitter is released: not only when the music rises to a peak emotional moment, but also several seconds before, during what we might call the anticipation phase.
+但最有趣的是神经传递素释放的时机——不仅是在音乐到达情感高潮的时刻，而是这个时刻到来几秒前就开始释放，也就是我们所谓的“期待”阶段。
+The idea that reward is partly related to anticipation (or the prediction of a desired outcome) has a long history in neuroscience. Making good predictions about the outcome of one’s actions would seem to be essential in the context of survival, after all. And dopamine neurons, both in humans and other animals, play a role in recording which of our predictions turn out to be correct.
+“奖赏”与“期待”（或者说对自己所渴望结果的预期）是相联系的，这个看法在神经科学史上由来已久。毕竟，对行为的结果做出正确预期，对于生存来说似乎至关重要。而在人类与其他动物大脑中负责记录预期是否正确的系统中，分泌多巴胺的神经细胞扮演着重要角色。
+To dig deeper into how music engages the brain’s reward system, we designed a study to mimic online music purchasing. Our goal was to determine what goes on in the brain when someone hears a new piece of music and decides he likes it enough to buy it.
+为了进一步挖掘音乐是如何对大脑的奖赏系统发生作用，我们设计了这样一项模拟在线音乐购买的实验——当某人听到一段新的音乐，认为自己非常喜欢它，想把它买下来，这个时候，他的大脑里究竟发生了什么事情呢？这就是我们想要找出来的。
+We used music-recommendation programs to customize the selections to our listeners’ preferences, which turned out to be indie and electronic music, matching Montreal’s hip music scene. And we found that neural activity within the striatum — the reward-related structure — was directly proportional to the amount of money people were willing to spend.
+我们使用了音乐推荐程序，为接受实验的听者定制了他们喜欢的音乐选择范围，最后锁定的是独立音乐与电子音乐，与蒙特利尔的嬉皮音乐氛围正好相称。最后我们发现，纹状体（也就是与奖赏制度相联系的大脑构造）内的神经活动同人们愿意支付的金钱数目有直接联系。
+But more interesting still was the cross talk between this structure and the auditory cortex, which also increased for songs that were ultimately purchased compared with those that were not.
+但更有趣的是纹状体与负责听觉的大脑皮层之间的互动，在听到那些最终买下的歌曲时，二者之间的互动比听那些没有买下的歌曲时更多。
+Why the auditory cortex? Some 50 years ago, Wilder Penfield, the famed neurosurgeon and the founder of the Montreal Neurological Institute, reported that when neurosurgical patients received electrical stimulation to the auditory cortex while they were awake, they would sometimes report hearing music. Dr. Penfield’s observations, along with those of many others, suggest that musical information is likely to be represented in these brain regions.
+为什么是负责听觉的大脑皮层呢？50年前，著名神经外科医师与蒙特利尔神经学研究院的创办者怀尔德·潘菲尔德(Wilder Penfield)发现，接受神经外科手术的患者在清醒状态下，其听觉大脑皮层受到电击刺激时会产生听到音乐的感觉。潘菲尔德医生认为，与其他信息相比，音乐信息更容易被传导到大脑的那些区域之中。
+The auditory cortex is also active when we imagine a tune: think of the first four notes of Beethoven’s Fifth Symphony — your cortex is abuzz! This ability allows us not only to experience music even when it’s physically absent, but also to invent new compositions and to reimagine how a piece might sound with a different tempo or instrumentation.
+在脑海中想象一段旋律也会令负责听觉的大脑皮层活跃：试想贝多芬《第五交响曲》的前四个音符——你的大脑皮层顿时热闹起来了！这项能力让我们在身边没有音乐的时候也可以感受音乐，而且还可以在脑海里创作新曲，以及想象如何用不同的速度或乐器来重新演绎一段音乐。
+We also know that these areas of the brain encode the abstract relationships between sounds — for instance, the particular sound pattern that makes a major chord major, regardless of the key or instrument. Other studies show distinctive neural responses from similar regions when there is an unexpected break in a repetitive pattern of sounds, or in a chord progression. This is akin to what happens if you hear someone play a wrong note — easily noticeable even in an unfamiliar piece of music.
+我们还知道，大脑的这些区域可以解析声音之间的抽象联系——比如，不管音调和乐器如何变化，总有某个特定的声音模式令大三和弦成为大三和弦。其他研究表明，当重复出现的声音或和弦序列中突然出现意外中断时，大脑中的类似区域也会出现特定的神经反应。这和你听到某人演奏出错时的反应很类似——即便是演奏一首不熟悉的乐曲，人们也会很容易注意到弹错的地方。
+These cortical circuits allow us to make predictions about coming events on the basis of past events. They are thought to accumulate musical information over our lifetime, creating templates of the statistical regularities that are present in the music of our culture and enabling us to understand the music we hear in relation to our stored mental representations of the music we’ve heard.
+这些大脑皮层的活动令我们在已经发生的事情的基础上预测即将发生的事情。它们在我们的有生之年一直收集音乐信息，根据我们文化中的音乐所提供的统计规则制造模版；我们过去所听过的音乐在大脑中储存了心理象征，而这些大脑皮层的活动则将我们此时正在听的音乐与过去听过的音乐联系起来，令我们得以理解此时的音乐。
+So each act of listening to music may be thought of as both recapitulating the past and predicting the future. When we listen to music, these brain networks actively create expectations based on our stored knowledge.
+所以每一个聆听音乐的行为都可以被视为既是对过去的总结，又是对未来的预测。当我们听音乐时，大脑在我们已有知识的基础上活跃地创造各种期待。
+Composers and performers intuitively understand this: they manipulate these prediction mechanisms to give us what we want — or to surprise us, perhaps even with something better.
+作曲家与表演者们本能地理解这个原理：他们操纵这种预期机制，带给我们想要的东西，又或许是用更好的东西令我们惊喜。
+In the cross talk between our cortical systems, which analyze patterns and yield expectations, and our ancient reward and motivational systems, may lie the answer to the question: does a particular piece of music move 
+音乐与负责解析固有模式的大脑皮层、产生期待的大脑皮层，以及古老的、负责奖赏与动机机制的大脑皮层都有关系，正是在这些大脑皮层系统的互动之中，产生了这个问题的答案：某段音乐能感动我们吗？
+When that answer is yes, there is little — in those moments of listening, at least — that we value more.
+当答案为“是”的时候，至少在聆听的那一刻，我们别无所求。

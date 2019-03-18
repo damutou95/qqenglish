@@ -1,0 +1,46 @@
+Has Dave Eggers written a parable of our time, an eviscerating takedown of Silicon Valley and its privacy-invading technology companies?
+戴夫·埃格斯(Dave Eggers)的新小说是反映当今时代的一则寓言？对硅谷及其侵犯隐私的科技公司的一记透彻羞辱？
+Or has he missed his target, producing a sanctimonious screed that fails to humanize its characters and understand its subject?
+还是说他失诸正鹄，炮制出一部假模假样的乏味小说，既无法为书中角色注入人性，也未能把握其主题？
+Book critics are divided over the quality of Mr. Eggers’s highly anticipated novel “The Circle,” which went on sale Tuesday. But in Silicon Valley and beyond, the book’s theme promises to spark an even bigger debate over the 21st-century hyperconnected world that Mr. Eggers describes.
+埃格斯备受期待的小说《圆圈》(The Circle)本周二开始发售，书评人对它的看法分歧毕现。但是在硅谷以及其他地方，对于埃格斯描绘的那个21世纪超互联世界， 该书的主题有望引发更大的争论。
+Set in an “undefined future time,” Mr. Eggers’s novel tells the story of Mae Holland, a young idealist who comes to work at the Circle, an immensely powerful technology company that has conquered all its competitors by creating a single log-in for people to search, shop and socialize online.
+《圆圈》的故事发生在“未来某个不确定的时间”，主角梅·霍兰(Mae Holland)是一名年轻的理想主义者，在圆圈公司上班。圆圈是一家非常强大的科技公司，用户用一个账号登录后就可以得到搜索、购物和社交一站式服务，公司藉此击败了所有的竞争对手。
+Initial orders have lifted the book to the No. 21 spot on Amazon, no small achievement for literary fiction, and booksellers reported selling copies almost immediately after opening their doors on Tuesday.
+最初的一批订单已经把这本书推到了亚马逊排行榜的第21位，对于小说而言已经是一个不错的战绩。书店经营者们表示，本周二一开门，几乎立马就有人购买《圆圈》。
+In the tech world, some readers have bristled at the reflection of their world. “It makes me feel defensive because it hits home,” said Esther Dyson, an investor in tech start-ups.
+在科技界，一些读者对书中的描绘感到不悦。高科技创业公司投资者埃丝特·戴森(Esther Dyson)说，“它激起了我的防备心理，因为它说到了点子上。”
+Other early readers of the book said they were reconsidering their attachment to the Internet. In an essay titled “Dave Eggers Made Me Quit Twitter,” Michele Filgate, a writer and bookseller in Brooklyn, wrote about her experience swearing off social media for a week, an experiment prompted by the unsettling feeling the book produced.
+其他一些早期读者则说，他们正在重新考虑自己对互联网的态度。布鲁克林的米歇尔·菲尔盖特(Michele Filgate)是一名作者，也是书店经营者，在一篇名为《戴夫·埃格斯让我退出了Twitter》的文章中，她描述了自己因受《圆圈》刺激，心绪不宁，于是实验跟社交媒体隔绝一个星期的经历。
+“I hope that it allows people to step back and have a conversation about how we want to use technology,” said Jennifer Jackson, Mr. Eggers’s editor at Knopf. “I don’t think that this book is really going to make people stop using social media and I don’t think that’s at all Dave’s intent. This book is going to make people be more thoughtful — that’s my hope.” Mr. Eggers, who lives in the Bay Area, declined to be interviewed. He is not doing any readings or events to publicize the book.
+“我希望它能让人们后退一步，讨论一下我们希望如何利用科技，”珍妮弗·杰克逊 (Jennifer Jackson)说，她是埃格斯在诺夫出版社(Knopf)的编辑。“我不认为这本书真的想让大家停止使用社交媒体，我不认为那是戴夫的真正意图。这本书会促使人们更加深入地进行思考——我希望会是这样。”目前居住在湾区的埃格斯拒绝接受采访，而且也不会参加这本书的朗读会或者见面会等宣传活动。
+The Circle most closely resembles Google, with its Google Glass-like retinal computers, initiatives to map far-flung parts of the world, a triumvirate running the company, antitrust investigations and a secret lab for future projects. TruYou, the fictional company’s core product, has the letters of one of the founder’s names, just like PageRank, Google’s search algorithm, is named after the Google co-founder Larry Page. 
+圆圈最肖似的公司是谷歌，它也有一个类似谷歌眼镜(Google Glass)的视网膜电脑，也推出了为这个世界的辽远疆域绘制地图的计划，也有一个三人领导小组，也经历了反垄断调查，也通过一个秘密实验室来研发未来项目。谷歌的搜索算法PageRank，是用该公司联合创始人拉里·佩奇(Larry Page)的名字命名的，而圆圈公司核心产品TruYou的名字中，也嵌入了一位创始人的名字。
+The Circle’s founders have mantras that paint a troubling, dystopian picture, like “sharing is caring” and “secrets are lies.”
+圆圈公司的创始人有一些口头禅，比如“共享即关怀”、“秘密即谎言”等，描绘了一幅令人不安的、反乌托邦的景象。
+Those refrains are similar in tone to remarks made by executives like Mark Zuckerberg of Facebook and Eric E. Schmidt of Google, who once said, “If you have something that you don’t want anyone to know, maybe you shouldn’t be doing it in the first place.”
+这些口头禅跟一些硅谷高管的论调很相似，比如Facebook的马克·扎克伯格(Mark Zuckerberg)和谷歌的埃里克·E·施密特(Eric E. Schmidt)，后者曾经说：“如果你有什么事情，不想让任何人知道，也许一开始你就不应该做这件事。”
+Mr. Eggers portrays Silicon Valley as a place with ostentatious goals and an idealistic belief that its technology will change the world for the better, no matter the potential consequences. The Circle’s SeeChange cameras, for instance, stick to walls and broadcast live video, so they can do things like capture protests in the Middle East when journalists have been kicked out. The trade-off is that they also secretly broadcast people’s private moments at home.
+在埃格斯的书中，硅谷是一个有着浮夸目标和理想主义信念的地方，这个信念就是，它的科技将让世界向好的方向发展，无论潜在后果如何。例如，圆圈公司的SeeChange摄像头可以贴附在墙壁上现场直播视频，因此可以用来做很多事情，比如在中东的抗议活动中，记者已经被赶走，但还可以继续采集现场画面。问题是，他们也可以用来偷偷直播人们在家里的私密活动。
+Benedict Evans, a tech and media analyst at Enders Analysis, a London research firm, said that Mr. Eggers’s descriptions capture two qualities typical of tech companies: unbridled optimism and the failure to understand real-world consequences of new technologies.
+分析师本尼迪克特·埃文斯(Benedict Evans)来自设在伦敦的高科技和媒体研究机构恩德斯分析公司(Enders Analysis)，他说，埃格斯的小说捕捉到了高科技公司的两种典型特质：一是毫无节制的乐观，二是不理解新科技给现实世界带来的后果。
+“There is a massive bias toward optimism, and that’s why we have computers and all this stuff, because if people sat down rationally at every moment and said, ‘Would that work?’ we wouldn’t have anything,” Mr. Evans said.
+埃文斯说：“高科技界过于偏乐观了，这就是为什么我们会有电脑和其他科技产品的原因。如果任何时候人们都安坐下来，理性地思考‘那样能行吗？’那么我们就什么都不会有了。”
+But, he added, “The flip side is there is a sort of utopian and a Panglossian approach that comes from never having seen a failure and never having to deal with the reality of people who aren’t in Silicon Valley.”
+但是他也说，“事情的另一面是，高科技界有点儿乌托邦式的感觉，还有一种盲目乐观的心态，因为他们从来没有见识过失败，也永远不必应对硅谷之外的世事。”
+Some of Mr. Eggers’s references ring false. He misuses technical terms like “operating system,” for instance, and there is little public outrage in the book over the privacy violations the Circle commits, in contrast to the real-life anger that often accompanies privacy intrusions.
+书中一些地方缺乏真实感。比如，埃文斯会用错“操作系统”之类的科技术语，此外，书里几乎没有描写公众对圆圈公司侵犯隐私的愤怒，而在现实生活中，这种事情往往会激起公愤。
+Yet part of the reason “The Circle” can seem unnerving is because it stops short of far-fetched science fiction. Many of the inventions are just one small step further than tech companies have already gone.
+然而，《圆圈》令人不安的部分原因似乎在于，它并非天马行空的科幻小说。书中描述的很多虚构产品，只比高科技公司的现实产品领先了一小步。
+Sometimes, the book’s characters use technology that is already available. Circle employees and lawmakers “go transparent,” meaning they wear cameras that broadcast everything they see — much like Google Glass can do. In other cases, Mr. Eggers’s dystopian imaginings seem to have come true in the time since he wrote the novel.
+有时候，这本书中的角色会使用现在已经存在的技术。圆圈员工和议员们会“透明化”，即穿戴着摄像头，直播他们看到的一切——就像谷歌眼镜可以做到的那样。而且，埃格斯想象出来的一些反乌托邦式产品，在他写作这部小说期间，似乎成为了现实。
+In the last week, articles in The New York Times have described several real-life situations that sound uncannily similar to plot twists in “The Circle,” like the privacy risks for children from schools that collect data about students and store it in the cloud, and the ability to search people’s names and find their arrest photos .
+《纽约时报》上周发表的文章描述了一些现实生活场景，跟《圆圈》里的情节惊人地相似，比如学校搜集学生数据，把它们存储在云服务里，给孩子们带来隐私风险，又比如你搜索别人的名字时，可以找到警方逮捕他们时拍下的照片。
+Mr. Eggers is using fiction to ask questions that writers like Rebecca Solnit, Jaron Lanier and Evgeny Morozov have raised in nonfiction. The novel continues the debate, and asks whether the semi-imaginary world of “The Circle” is inevitable.
+透过虚构小说，埃格斯提出丽贝卡·索尔尼特(Rebecca Solnit)、杰伦·拉尼尔(Jaron Lanier)和叶夫根尼·莫罗佐夫(Evgeny Morozov)在他们的非虚构作品中提出的问题。《圆圈》延续了辩论，并问到：《圆圈》中的半虚构世界是否会不可避免地成真。
+In Silicon Valley, some tech people have criticized the book for its lack of verisimilitude, echoing a column for Reuters in which Felix Salmon criticized the novel.
+硅谷的一些科技人士批评这本书，说它不够逼真；和菲力克斯·萨尔蒙(Felix Salmon)为路透社写的一篇专栏文章遥相呼应。
+“Eggers is preaching to a group of people which has already made up its collective mind that social media is dangerous,” Mr. Salmon wrote.
+“有些人本来就已经形成了一个集体意识，认为社交媒体是危险的，埃格斯是在向这些人布道，”萨尔蒙写道。
+But others thought the tech community doth protest too much. “It’s more of a stark look in the mirror,” said Perry Hewitt, who has worked at tech companies and is now chief digital officer at Harvard. “It’s less about Silicon Valley and it’s more about looking at ourselves.”
+但另一些人认为，科技人士过分喜欢抗议了。“这部小说的主要意义是让我们好好照一下镜子，”佩里·休伊特(Perry Hewitt)说。他曾经在科技公司工作，现在是哈佛大学的首席数字官。“重点不在于硅谷，而是在于审视我们自己。”

@@ -1,0 +1,24 @@
+Cisco Systems, the world’s largest maker of computer networking equipment, delivered quarterly results on Wednesday that slightly surpassed Wall Street’s expectations in a challenging environment for corporate technology spending.
+全球最大的计算机网络设备生产商思科系统公司(Cisco Systems)周三公布了季度业绩。在企业技术支出面临挑战环境之时，思科公司公布的业绩表现略优于华尔街的预期。
+In a conference call on Wednesday, John T. Chambers, Cisco’s chief executive, said he saw improvement in the United State market, especially toward the end of the quarter. But he cautioned that it was “way too early to call this a trend.” While orders were strong in Asia, especially in China, he said, they were falling in Europe and would most likely fall further.
+思科首席执行官约翰·T·钱伯斯(John T. Chambers)在周三的电话会议上说，他发现美国市场行情见涨，特别是在本季度即将结束之时。但他警告说，“现在将其称之为趋势还为时太早。”他说，虽然亚洲尤其是中国的订单数量很大，但欧洲的订单数量在减少，并且极有可能进一步下降。
+Cisco faces challenges from competing makers of networking equipment, like Huawei of China, which are seeking to gain market share by cutting prices. In the longer run, Cisco faces competition from the shift of more and more networking capabilities from hardware to software. 
+思科面临着来自竞争对手的挑战，如中国的网络设备生产商华为公司，该公司正在寻求通过削减价格来增加市场份额。从长期来看，由于越来越多的网络功能从硬件转向软件，思科将面临更大的竞争。
+But Cisco was encouraged enough by its results to sharply increase its quarterly dividend payment 75 percent, to 14 cents a share, up from 8 cents.
+但思科仍然从良好的业绩当中收获了足够的鼓励，以至于大幅度提高了季度股利支付，从每股8美分增加到了14美分，增幅达75%。
+The company’s routers and switches shuttle data around corporate data centers and across the Internet. So its results are a bellwether of the strength of investment in the engine rooms of the digital economy.
+思科公司生产的路由器和交换器可以实现数据在企业数据中心之间的传输及在互联网上的传输。因此，思科的业绩能率先反映对数字经济动力源的投资强度。
+It reports its financial results in quarters that close a month later than the period used by most companies. The quarter reported on Wednesday, Cisco’s fiscal fourth quarter, tracked the company’s performance for May, June and July.
+思科每个季度都会发布财务业绩报告，但它的季度终止时间比大多数公司晚一个月。周三发布的季度报告是思科的第四财政季度业绩，反映的是该公司在5月、6月和7月的表现。
+In closing its quarter a month later, Cisco, based in San Jose, sometimes gains an early glimpse of economic and industry trends. In May, for example, Cisco was one of the first companies to warn of the darkening outlook for business globally, as the financial crisis in Europe drags on and other markets weaken as well.
+由于财政季度的结束时间比别的公司晚一个月，位于圣何塞的思科公司有时候能更早窥探到经济和行业趋势。例如，思科和其他一些公司于今年5月率先发出警告，称欧洲的持续金融危机和其他市场的疲软会造成全球商业前景晦暗。
+The company reported that its net profit rose to $1.9 billion, a 56 percent increase from the quarter a year earlier.
+思科的报告显示，公司第四季度的净利润为19亿美元，和去年同期相比增长了56%。
+Cisco’s operating profit in the quarter increased 15 percent to $2.5 billion, or 47 cents a share. The results slightly exceeded the average estimate by analysts of 45 cents a share, as compiled by Thomson Reuters.
+思科的第四季度营业利润为25亿美元，较去年同期增长了15%，合每股收益47美分，略高于汤森路透(Thomson Reuters)统计的分析师平均估计数字，即每股45美分。
+Erik Suppiger, a JMP Securities analyst, said, “The quarter looked reasonably good, as Cisco is executing well on its plan.”
+JMP Securitie的分析师埃里克·苏皮格(Erik Suppiger)说，“这一季度的表现看起来相当不错，思科公司的计划执行得很好。”
+Part of that plan is cost-cutting. Last month, Cisco announced it would lay off 1,300 workers. But mostly, Cisco seems to be shifting its work force to tap markets abroad, where growth is faster than in developed nations and skilled workers are paid less. In the most recent quarter, Cisco said it increased its worldwide head count by 1,400, to more than 66,600 workers. More than half of the new hires, often engineers, were in emerging markets.
+该计划的一部分是削减成本。上月，思科宣布将裁员1300名。但在很大程度上，思科似乎是把自己的劳动大军转向了海外市场，因为一些海外市场的发展快于发达国家，技术工人的报酬也更低。思科称，在最近这个季度， 其全球员工人数增加了1400，超过了6.66万，其中一半以上的新员工位于新兴市场，且多数是工程师。
+Yet Cisco has dominant positions in digital networking gear, like switches, where it holds 64 percent of the market, according to the research firm IDC. The shift to cloud computing will reduce demand from some of Cisco’s corporate customers, analysts say, but overall demand for Cisco’s technology, should increase as many companies build their own cloud environments and the amount of data zipping across computer networks continues to surge.
+科技研究公司IDC的数据显示，思科仍然在数字网络设备（如交换机）的生产上占主导地位，拥有64%的市场份额。分析师指出，云计算的兴起会减少部分企业客户的需求，但对思科科技的总需求应该会增加，因为很多公司都需要建立自己的云环境，计算机网络上的数据压缩量也在继续猛增。

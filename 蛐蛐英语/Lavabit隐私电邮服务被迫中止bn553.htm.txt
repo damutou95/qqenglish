@@ -1,0 +1,36 @@
+Ladar Levison was not yet 20 years old when Congress passed the Patriot Act after the Sept. 11 terror attacks. It gave him a start-up idea: an e-mail service for what he thought of as “a tech-savvy crowd” that cared about privacy.
+在“9·11”恐怖袭击后国会通过《爱国者法案》(Patriot Act)时，拉达尔·莱韦森(Ladar Levison)还不到20岁。这给了他一个创业的点子：一种重视隐私的电子邮件服务，专为他心目中的“通晓技术人士”准备。
+“I’ve always sort of believed it’s important for Americans to have private conversations with other Americans,” Mr. Levison said in a telephone interview Monday, “and not fear that their conversations were being monitored by the government.”
+“我一直认为，美国人能和别的美国人进行私密的交谈是很重要的，”莱韦森在周一接受电话采访时说，“不用担心他们的对话被政府监听。”
+His start-up thrived for nearly 10 years until Thursday, when he abruptly shut it down, leaving little more than an ominous note on the site. He said he did not want to be “complicit in crimes against the American people” and hinted, obliquely, at a government search that he believed to be unconstitutional and that he would challenge in a federal appeals court.
+他的创业公司蓬勃发展了将近十年，直到周四突然关闭，只剩网站上一段令人不安的留言。他说他不想“串谋参与针对美国人民的罪行”，并旁敲侧击地暗示，自己遭到了政府搜查，而且他认为搜查是违宪的，会向联邦法院发起诉讼。
+He offered no details in his closing announcement or in the interview on Monday. He is under a gag order that has led him to give up e-mail altogether.
+在关闭服务的声明或周一的采访中，他都没有透露更多细节。他目前受到禁言令制约，也是这个命令导致他彻底放弃电子邮件服务。
+“My principal concern was to give people the ability to communicate privately,” he said. “When I was no longer able to do that I felt I had the obligation to shut down the service.”
+“我首先考虑的是让人们可以私密地交流，”他说，“当我做不到这一点时，我觉得我有义务把这项服务关掉。”
+Lavabit’s mysterious legal drama began six weeks ago. One of its more than 400,000 users was Edward J. Snowden, the leaker who had worked as a National Security Agency contractor. Mr. Levison has not said whether or what kind of government order he was served with, or how it might have been served.
+电子邮件服务商Lavabit的这出神秘的法律剧是六周前开场的。在它的40多万用户中就有爱德华·J·斯诺登(Edward J. Snowden)，那位曾为国家安全局(National Security Agency)承包商工作的泄密者。莱韦森并没有表示他接到了政府命令，或他在服从怎样的命令，也没有说对他用何种方式发出了命令。
+His lawyer, Jesse Binnall, made it clear that Lavabit had complied with “narrowly tailored” court orders for user information on at least two dozen occasions in the past.
+他的律师杰西·宾纳尔(Jesse Binnall)明确表示，Lavabit在以往至少有二十多次执行法庭判令的经历，这些要求提供用户信息的判令都“非常具体”。
+Mr. Levison, now 32 and living in Dallas, added: “What I’m opposed to are blanket court orders granting government access to everything.”
+但现年32岁、住在达拉斯的莱韦森补充道：“我反对的是空白判令，把一切都交给政府。”
+After his announcement last Thursday, a second company, Silent Circle, based in Maryland, said it would close its secure e-mail service. That company said it had not been served with a government order of any kind. In a pre-emptive bid to protect its customers’ data, Silent Circle said it had obliterated everything in its server.
+在上周四发表声明后，第二家公司——马里兰州的Silent Circle——宣布将关闭其安全电子邮件服务。公司称其没有执行过任何政府命令。Silent Circle此举是先发制人，旨在保护客户的数据，并且宣称已经删除了服务器上的所有数据。
+Lavabit, by contrast, still holds the data on its server, Mr. Levison said. He said he was prohibited from saying why, or whether a government order compels him to do so.
+反观Lavabit，莱韦森说数据至今仍保存在服务器中。他说他被禁止说出个中缘由，也不能说是不是政府命令迫使他这么做。
+“I can’t talk about it,” Mr. Levison said. “It’s frustrating. Even today I don’t know if I’m going to be arrested.”
+“我不能谈论这件事，”莱韦森说。“这很折磨人。直到今天，我还是不知道自己会不会被逮捕。”
+His lawyer, Mr. Binnall, won’t even say whether he has filed a legal challenge yet, only that they “intend to bring legal challenge to the constitutionality of the government snooping on e-mail.”
+他的律师宾纳尔甚至不肯透露，他们是否已经发起法律挑战，只是说他们“有意就政府秘密监测电子邮件的合宪性发起法律挑战”。
+Mr. Levison had made a living off Lavabit; the site charged a monthly fee for subscribers who did not wish to see advertisements. “I wasn’t shopping for any Italian sports cars but it paid rent and paid for pizza,” he said.
+莱韦森是靠Lavabit谋生的；网站向不想看到广告的付费用户每月收取费用。“我没钱买什么意大利跑车，但是能付得起房租和披萨钱，”他说。
+The shutdown of the service has compelled him to turn to his parents once for financial support. Lavabit has raised $90,000 so far for a legal defense fund, and he says he fears his legal troubles could be “a long, drawn-out battle.”
+服务关停后他一度被迫去向父母寻求财务援助。Lavabit至今已经募集了9万美元的抗辩资金，他说他担心自己的官司会是“一场漫长、拖沓的战斗”。
+He says he will look for a job soon, and though he has also spent time with technology, he will not be working in the technology sector. “I don’t want to be put in this position again,” he said.
+他说他会很快找一份工作，虽然还会花时间在技术上，但不会在技术领域工作。“我不想再陷进这种困局了，”他说。
+Maybe he will start a restaurant or bar in or around Dallas, he surmised, “where I won’t have to deal with the F.B.I.”
+他说他可能会在达拉斯或周边地区开个餐馆或酒吧，“不用跟FBI打交道的地方。”
+He quickly added: “Hypothetically speaking.”
+接着他很快又说：“都是假设。”
+Asked whether he has had to deal with the F.B.I. during these last six weeks, he said he could not comment. 
+在被问及过去六周里是否不得不跟FBI打交道时，他说自己不能置评。

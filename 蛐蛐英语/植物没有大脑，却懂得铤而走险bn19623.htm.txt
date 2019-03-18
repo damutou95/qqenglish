@@ -1,0 +1,28 @@
+Plants may not be getting enough credit. Not only do they remember when you touch them, it turns out that they can make risky decisions that are as sophisticated as those made by humans, all without brains or complex nervous systems. And they may even judge risks more efficiently than we do.
+植物或许被低估了。它们不仅记得在何时被人触碰过，而且有研究表明，它们不必借助大脑或复杂的神经系统，就能进行复杂程度与人类的决策不相上下的风险决策。它们评判风险的效率甚至比我们还要高。
+Those are the findings of a study published Thursday in Current Biology. Researchers showed that when faced with the choice between a pot containing constant levels of nutrients or one with unpredictable levels, a plant will pick the mystery pot when conditions are sufficiently poor.
+这一研究成果已于周四发表在《当代生物》(Current Biology)上。研究人员发现，面对两个花盆，其中一个营养含量恒定，另一个营养含量变化不定，如果营养条件足够差，植物会偏好条件神秘莫测的那个花盆。
+“It raises a question, not about plants, but about animals and humans, because if plants can solve this problem simply,” then maybe humans can, too, said Hagai Shemesh, a plant ecologist at Tel-Hai College in Israel who worked on the study. “We have a very fancy brain, but maybe most of the time we’re not using it.”
+“这提出了一个关于动物和人类，而非植物的问题。因为如果植物可以简单地解决问题”，那人类或许也能做到，参与了这项研究的以色列特尔海学院(Tel-Hai College)植物生态学家哈加伊·谢梅什 (Hagai Shemesh)说。“我们拥有奇妙的大脑，但我们在大部分时间里或许并未使用它。”
+In a set of experiments, Dr. Shemesh and Alex Kacelnik, a behavioral ecologist at Oxford University, grew pea plants and split their roots between two pots. Both pots had the same amount of nutrients on average, but in one, the levels were constant; in the other, they varied over time. Then the researchers switched the conditions so that the average nutrients in both pots would be equally high or low, and asked: Which pot would a plant prefer?
+在一系列试验中，谢梅什博士和牛津大学(Oxford)行为生态学家亚力克斯·卡切尔尼克(Alex Kacelnik)种植了一些豌豆，并将豌豆根部一分为二，放进两个花盆。两个花盆的营养含量均值相同，但其中一个的营养含量是恒定的，另一个的营养含量会随着时间的推移而变化。随后，研究人员改变了营养条件，让两个花盆的营养含量均值同样高或同样低。他们的问题是：豌豆会更偏好哪一个花盆呢？
+When nutrient levels were low, the plants laid more roots in the unpredictable pot. But when nutrients were abundant, they chose the one that always had the same amount. The plants somehow knew the best time to take risks.
+当营养不足时，营养含量变化不定的花盆里的豌豆生出了更多的根。但当营养充足时，它们更倾向于营养含量恒定的花盆。豌豆以某种方式知道，该在什么时候冒险。
+“They are less than pea brains, they are no brains,” said Dr. Kacelnik. “But they did it.”
+“它们连智力低下都算不上，它们没有大脑，”卡切尔尼克博士说。
+Evolutionarily, this makes sense for a plant trying to survive.
+从进化角度看，竭力求存的植物如此行事是说得通的。
+“In bad conditions, the only chance of success is to take a chance and hope it works out, and that’s what the plants are doing,” said Nick Chater, a behavioral psychologist at the University of Warwick in Britain, who was not involved in the study.
+“在糟糕的条件下，成功的唯一机会就是放手一搏并期待有好的结果，植物就是这样做的，”英国华威大学(University of Warwick)的行为心理学家尼克·沙特尔(Nick Chater)说。沙特尔没有参与该项研究。
+This complex behavior in a plant supports an idea, known as risk sensitivity theory, that scientists have long had trouble testing in insects and animals. It states that when choosing between stable and uncertain outcomes, an organism will play it safe when things are going well, and take risks when times are hard.
+植物的这种复杂行为，为所谓的风险敏感性理论提供了支撑。科学家一直难以在昆虫和动物身上检验这种理论。根据该理论，当一个有机体要在确定和不缺确定的结果之间做出选择时，如果情况良好，有机体便会谨慎行事，如果情况很糟糕，则会选择冒险。
+It explains why people gamble more when they’re losing money, or why birds that must eat enough food to survive a cold night will forage not knowing what they’ll find, rather than settle for a certain, but insufficient amount of food.
+用这个理论可以解释，为什么赌博输钱的人会继续赌下去，为什么只有吃下足够的食物才能捱过寒冷夜晚的鸟儿即便不知能找到什么也要四处觅食，而不是待在某处，守着数量确定但并不够吃的食物。
+But the theory doesn’t explain, for instance, why people would prefer a 25 percent chance of losing $200 to a guaranteed loss of $50, but would also prefer to buy insurance for $50 to cover a 25 percent risk of losing $200, which is a classic conundrum for scientists studying risk. The mathematical outcome is the same, but they “feel” different.
+但它也无法解释一些事情，譬如，为什么在有25%的几率损失200美元，和肯定会损失50美元之间，人们更愿意选择前者，同时又宁愿花50美元购买保险，抵御有25%的几率损失200美元的风险，这对致力于风险研究的科学家而言是一道经典难题。数学运算结果是相同的，但是“感觉”不同。
+Dr. Kacelnik said that instances like this, when data defies risk assessment theory, don’t necessarily mean it’s wrong; it just means the tests aren’t sensitive enough. The simplicity of plants makes it much easier to create a proper test for at least one reason: Plants don’t worry about feelings.
+卡切尔尼克博士说，在这类例子中，测试数据与风险评估理论相悖，但这并不一定意味着该理论就是错的；只能说明相关测试还不够精细。植物具有简单性，至少从一个方面看，这让开展精准的测试变得容易得多：植物并不会考虑感情。
+How brainless pea plants evaluate risk is still unclear, but Dr. Shemesh thinks they must be following simple rules, not reasoning. “Even if you have no cognition or fancy nervous system, you can still get some pretty complicated behavior.”
+目前尚不清楚没有大脑的豌豆是如何评估风险的，但谢梅什博士认为，它们一定是遵循着某些简单的规则，而不是进行推理。“即便没有认知能力或者奇妙的神经系统，还是可以做出一些相当复杂的行为。”
+Perhaps, we all should embrace our pea brains.
+或许，我们都应该欣然接纳自己那并不十分聪慧的大脑。

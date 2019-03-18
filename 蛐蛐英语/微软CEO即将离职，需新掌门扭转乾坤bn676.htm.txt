@@ -1,0 +1,48 @@
+TWO months ago, Bill Gates met with members of the New York Times editorial board and a few editors and reporters. Public health was on his mind, and he spoke eloquently about the progress being made to combat diseases like tuberculosis and malaria, and the work of the Bill and Melinda Gates Foundation.
+两个月前，比尔·盖茨(Bill Gates)和《纽约时报》编委会的成员，及一些编辑和记者见了面。当时他想的是公共卫生的问题，他滔滔不绝地讲述了在对抗肺结核和疟疾上正取得的进步，以及比尔及梅琳达盖茨基金会(Bill and Melinda Gates Foundation)的工作。
+About an hour into the conversation, someone asked about Microsoft. The company seemed to be treading water, the mantle of high-tech leadership had passed to Apple and Google, and investors were impatient with Microsoft’s stagnant stock price. The question: Would Mr. Gates, the Microsoft chairman, consider going back to run the company?
+对话进行约一小时后，有人问及微软(Microsoft)。该公司似乎正深陷困境，它在科技行业的领军地位已被苹果(Apple)和谷歌(Google)所取代，而投资者也对微软停滞的股价颇为不满。那人提的问题是：身为微软董事长的盖茨是否会考虑回归，重掌公司经营权呢？
+That question comes to mind again, after Microsoft announced on Friday that Steven A. Ballmer, the chief executive, would step down within a year.
+在周五微软宣布现任首席执行官史蒂文·A·鲍尔默(Steven A. Ballmer)将在一年内离职后，这个问题再次引起人们的注意。
+The prospect of Mr. Gates’s riding to the rescue at Microsoft is intriguing but highly unlikely. Steven P. Jobs, the other celebrity entrepreneur of the early personal computer era, returned to Apple in 1997 and remade it. But in June, Mr. Gates brushed aside any suggestion that he would again lead Microsoft. The messiah option, he insisted, was not on the table. He had moved on, he said.
+盖茨回去拯救微软的想法，引发了极大兴趣，但其可能性却很小。个人电脑时代早期的另一位著名企业家，史蒂文·P·乔布斯(Steven P. Jobs)就在1997年回归苹果，重塑了该公司。但在6月份，盖茨推倒了任何关于他重掌微软的可能性。他坚称，他充当微软救星这一选择是不存在的。他不会回去了，盖茨说。
+Mr. Gates stepped down as C.E.O. in 2000 after a bruising courtroom battle with the Justice Department. A federal court ruled that Microsoft had repeatedly violated the nation’s antitrust laws.
+2000年，在和美国司法部进行了一次激烈的法庭交锋后，盖茨从微软首席执行官的职位上卸任。一家联邦法院判定，微软多次触犯美国的反垄断法律。
+“Gates felt he was being penalized for success,” says Michael A. Cusumano, a professor at the Sloan School of Management at the Massachusetts Institute of Technology. “He left at a critical time, when Microsoft was facing new challenges, and he didn’t really look back.”
+麻省理工学院斯隆管理学院(Sloan School of Management)的教授迈克尔·A·库苏马诺(Michael A. Cusumano)说，“盖茨觉得自己是因为成功而被处罚。他在最关键的时期离开，当时微软正面临新的挑战，而他走的很决绝。”
+Mr. Ballmer was Mr. Gates’s old friend and chosen successor, but there is no obvious successor to Mr. Ballmer. One thing is clear: “Being the next chief executive of Microsoft isn’t going to be an easy task for anyone,” Mr. Cusumano says.
+鲍尔默是盖茨的老朋友，也是他亲选的继任者，而现在谁将接任鲍尔默却不明朗。不过确定的一点是，“担任微软的下任首席执行官，对任何人而言都不会是一个轻松的任务，”库苏马诺说。
+Mr. Cusumano is the co-author of two books about the company, “Microsoft Secrets” and “Competing on Internet Time,” which chronicled Microsoft’s assault on the commercial pioneer in Internet browsers, Netscape.
+库苏马诺曾合著过两本关于微软的书，《微软的秘密》(Microsoft Secrets)以及《网络争霸战》(Competing on Internet Time)，后者详细讲述了微软对网络浏览器的商业开拓者图景(Netscape)的冲击。
+Mr. Cusumano and his co-author on the Microsoft-Netscape book, David B. Yoffie, a professor at the Harvard Business School, are now writing a book that examines the strategy and leadership lessons to be learned from three technology executives, Mr. Gates, Mr. Jobs and Andrew S. Grove, former chief executive of Intel.
+库苏马诺和与他合著关于微软和网景(Netscape)斗争一书的哈佛商学院教授戴维·B·约菲(David B. Yoffie)，现在正在写一本新书，该书将探究从三位科技高管身上所能学到的有关战略和领导力的经验教训。这三位高管分别是盖茨、乔布斯，以及英特尔(Intel)前首席执行官安德鲁·S·葛洛夫(Andrew S. Grove)。
+There are examples for Microsoft to follow: a onetime technology leader has experienced a revival each decade since the 1980s. Back then, Intel was staggering under the Japanese challenge in the memory chip market. I.B.M. stepped in to make a 20 percent investment because Intel was a valued supplier, and the help gave the chip maker some financial breathing room. Intel then made the leap into microprocessors, the brainy chips that power personal computers.
+其中就有微软可以借鉴的例子：从20世纪80年代以来，每隔十年都看到一个曾经的科技领域领导者浴火重生。在80年代，面对日本企业的竞争挑战，英特尔在存储芯片市场步履维艰。IBM出手，购得英特尔20%的股份，原因是后者是IBM重要的供应商，IBM的帮助一定程度上缓解了这家芯片制造商的资金困境。然后，英特尔又进军微处理器市场，即支撑个人电脑运转的智能芯片。
+In the 1990s, I.B.M. almost went under as the profits from its mainframe business were gutted by competition from low-cost PC-style computing. But I.B.M. retooled its mainframe business and moved into higher-margin software and services businesses.
+20世纪90年代，由于通行的计算方式转变为个人电脑，IBM大型机业务的利润受到冲击，让该公司几近破产。但IBM对其大型机业务进行了调整，转而进入利润率更高的软件和服务市场。
+In the 2000s, it was Apple’s turn. Under Mr. Jobs, the company first stabilized its desktop computer business with some nifty designs. Then Apple went on to transform the digital music business and smartphones, with the iPod, the iTunes store and the iPhone. And the iPad created the modern tablet market.
+21世纪伊始，轮到了苹果。在乔布斯的带领下，这家公司首先通过一些精巧的设计，巩固了桌面电脑业务，之后苹果又推出了iPod、iTunes商店和iPhone，让数字音乐和智能手机市场改头换面。随后，iPad又开创了当下的平板电脑市场。
+Can Microsoft pull off a similar revival act in this decade?
+微软能在这个十年里，以类似的方式重新崛起吗？
+Microsoft is different from the other three companies in one important respect. It is facing a crisis of technology leadership, but not a financial crisis. Microsoft’s Windows operating systems and Office productivity software remain immensely profitable. By contrast, Intel, I.B.M. and Apple were fighting for survival. In each case, it was clear that drastic action was needed — and it was taken, successfully.
+微软与其他三家公司在一个重要方面上存在差异，尽管它正面临着一场失去科技产业领导地位的危机，但是并没有面临财务危机。微软的Windows操作系统和Office办公软件仍然能赚取丰厚的利润。与之相对比，英特尔、IBM和苹果则曾为了生死存亡而战。在每个案例中，公司都需采取大刀阔斧的举措，而且在采取激进措施后也取得了成功。
+Microsoft’s seeming strength, according to George F. Colony, the chief executive of Forrester Research, has proved a weakness.
+弗雷斯特研究公司(Forrester Research)的CEO乔治·F·科隆尼(George F. Colony)表示，微软看似强大的实力，实际上是一种弱点。
+“I would argue Microsoft does have a financial problem, and it’s been the fear of losing those massive profits from Windows and Office,” Mr. Colony says. “By doing everything it can to try to protect those profits, Microsoft has taken a defensive position for more than a decade. And in technology, if you play defense you’re going to lose.”
+“我认为微软的确存在财务问题，问题就在于他们担忧会失去Windows和Office的巨大利润，”科隆尼说。“微软使用了一切手段试图保护这些利润，因而在过去超过十年的时间里，一直处于守势。而在科技产业，防守就会输。”
+Still, thanks to the success of its mainstay businesses, Microsoft has been able to afford multibillion-dollar investments in newer fields like Internet search, digital media players, smartphone software and, recently, tablets.
+不过，幸好其主营业务很成功，微软能负担得起在新领域做出数十亿美元的投资，如互联网搜索、数字媒体播放器、智能手机软件，以及最近的平板电脑。
+The problem for Microsoft has been that it has often been forced to make those investments while playing catch-up. In the search and smartphone markets, all the snowballing effects of leadership, brand recognition and consumer habits that helped Microsoft in the PC market are working against it as it tries to catch Google and Apple.
+微软的问题一直是，常常是在追赶别人的时候，被迫做出上述投资。市场领导地位、品牌认知度、消费者习惯等因素产生的放大效果，在个人电脑市场上对微软起到了帮助。可是在搜索和智能手机市场上，正当微软努力追赶谷歌和苹果之时，这些因素却成了阻碍。
+Past success can obscure new opportunities when emerging markets or technologies don’t operate by the same rules as a company’s tried-and-true products. And Microsoft has suffered from that kind of corporate myopia. In an interview with me in 2007, Mr. Ballmer acknowledged the problem.
+如果新涌现出的市场或技术的运行规则，与该公司在成功产品上获得的丰富经验不符，过去的成功就可能遮蔽新的机遇。企业经营中的这种短视情况就让微软吃过亏，在2007年接受我的采访时，鲍尔默就承认过这个问题。
+“One of the biggest mistakes I’ve made over time is not wanting to nurture innovations where I either didn’t get the business model or we didn’t have it,” he said.
+他说，“长期以来我犯过的最大的错误之一，就是对于那些我不明白商业模式，或者没有商业模式的创新，不愿意进行培育。”
+In his memo to Microsoft employees on Friday, Mr. Ballmer pointed to the challenge ahead for the company. At 57, he has decided to make way for a successor who can guide “our transformation to a devices and services company.”
+在周五发给微软员工的备忘录中，鲍尔默阐述了公司未来面临的挑战。现年57岁的鲍尔默决定腾出位置，迎接一位能够引领“我们转变成一家设备和服务公司”的继任者。
+No mention of software as such. But a big part of the job for Mr. Ballmer’s successor will be re-engineering Windows and Office for delivery over the Internet onto all kinds of devices including smartphones and tablets, according to Mr. Yoffie of the Harvard Business School.
+没有提到软件本身。但哈佛商学院的约菲表示，鲍尔默的继任者一大部分职责将是对Windows和Office进行重构，使其能通过互联网交付到所有设备上，包括智能手机和平板电脑。
+Even if that is successful, the profit margins of the PC days will probably never return, especially when competing against free and low-cost alternatives, like Google’s Android operating system and Google Docs.
+即使这能够成功，个人电脑时代的利润率可能也永远不会回来了，尤其是在与免费和廉价的替代产品开展竞争时，如谷歌的Android操作系统和Google Docs服务。
+“But unless Microsoft makes that transition with its core products,” Mr. Yoffie says, “the company is in danger of heading into the kind of crisis it is trying to avoid.”
+“除非微软对其核心产品实现转型，”约菲说。“否则这家公司就有可能陷入它正努力避免的那种危机。”

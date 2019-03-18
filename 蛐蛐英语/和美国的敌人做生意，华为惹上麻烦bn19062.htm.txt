@@ -1,0 +1,18 @@
+One of China’s biggest threats to an American technology leader just found life a lot tougher.
+对美国科技领导者地位威胁最大的一家中国公司，发现自己的处境正急剧恶化。
+Huawei Technologies, which over the last decade has become a leading global supplier of internet and communications gear, has been subpoenaed by the United States Commerce Department to turn over information about its sales to Cuba, Iran, North Korea, Sudan and Syria, Paul Mozur writes.
+据孟宝勒(Paul Mozur)报道称，美国商务部向华为发出了传票，要求其交出与面向古巴、伊朗、朝鲜、苏丹和叙利亚的销售业务有关的信息。这家公司在过去10年里已经发展成全球领先的互联网和通讯设备供应商。
+These countries are, in American eyes, outlaw states or places where the United States restricts exports of American gear, and the subpoena was issued at Huawei’s headquarters in Texas. It deals with exports of United States gear, which could mean things that Huawei made even in part in the United States.
+在美国人看来，这些国家是法外之地。美国禁止向这些地区出口美国设备。传票是发给华为在德克萨斯州的总部的。它针对的是美国设备的出口，也就是说，即便是部分在美国生产的华为设备也可能在范围内。
+It couldn’t come at a worse time for Huawei. The Chinese company has 170,000 employees and annual sales of $60 billion, an increase of 50 percent in the last three years. Almost none of that comes from the American market, where Cisco Systems dominates sales of the computer switches and internet routers both companies sell.
+对华为来说，在这个时间点收到传票非常不妙。这家中国公司有17万员工，年销售额600亿美元，过去三年里增幅为50%。但这些成绩几乎和美国市场无关。在这里，市场由同样在销售电脑交换机和互联网路由器的思科系统公司(Cisco Systems)统治着。
+A congressional panel in 2012 named Huawei, along with another Chinese company called ZTE, a security threat, largely curbing its sales in the United States.
+2012年，一个国会委员会判定华为和另外一家中国公司中兴对美国的安全构成了威胁，大幅限制了华为在美国的销量。
+Huawei has worked hard to be a good citizen since then, boasting about its business practices and respect for intellectual property. Last week, it took the extraordinary step of suing Samsung of China for stealing Huawei’s inventions in wireless technology.
+自那时起，华为一直努力想要成为一名好公民，夸耀自己的商业惯例和对知识产权的尊重。上周，该公司反常地起诉三星中国公司窃取华为在无线技术领域的发明。
+That amounted to a coming-out party for the company as a normal international technology player. Now the attention will turn to the Chinese habit of selling things to the enemies of the United States.
+这是公司在表明自己作为跨国科技公司的常态。而现在，外界的注意力将转向中国人和美国的敌人做生意这一习性。
+More broadly, it is another example of the ways that governments appear increasingly willing to rein in tech companies, something Farhad Manjoo wrote about earlier this week.
+从更广泛的层面说，此事又一次体现政府似乎越来越希望对科技公司加以限制。本周早些时候，法哈德·曼朱(Farhad Manjoo)曾就此撰文。
+The borderless world, it turns out, still has some very powerful guard posts.
+事实证明，在这个无国界的世界里，还是有一些非常强大的哨卡。

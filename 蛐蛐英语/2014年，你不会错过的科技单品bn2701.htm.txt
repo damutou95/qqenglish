@@ -1,0 +1,48 @@
+For technological innovation, 2013 was a remarkably boring year. Apple, often the hotbed of “new,” mostly just updated familiar devices in different colors and with crisper screens. Social media companies fought over who had better photo filters. And Silicon Valley start-ups offered more of less, with slight iterations on existing products.
+从科技创新角度来看，2013年可以说相当地乏善可陈。常被视作“新概念”温床的苹果公司(Apple)基本上只是升级了人们所熟悉的产品，换以不同的颜色和更清晰的屏幕。社交媒体公司竞争的焦点只是更好的滤镜。而硅谷初创企业所推出的产品，多多少少都与现有的产品大同小异。
+But 2014 has a lot of promise.
+但2014年则十分令人期待。
+Predicting the future is a lot more difficult than evaluating the past, but you could wake up on Jan. 1, 2015, in a different digital winter wonderland.
+相比评价过去，预测未来要难得多，但是当你在2015年1月1日那个冬日的早晨醒来时，世界也许已经变成了一个不同的数字仙境。
+No, you won’t lie in bed while your humanoid robot helper makes you bacon and eggs and walks the dog — which is also possibly a robot, made by Google. That’s more of a 2035 prediction. But you might wake up to the call of a watch on your wrist — not your cellphone on your night table. This year we’ve seen some efforts at smartwatches, like those made by Pebble; next year, these gadgets could look a lot better.
+不，不会有人形的机器人助手在你还躺在床上时为你煎培根和鸡蛋、帮你遛狗——这只狗可能也是谷歌(Google)生产的机器狗。这更像是对2035年的预言。但可能会是手上的腕表将你唤醒，而不是床头柜上的手机。这一年我们已经目睹了智能手表领域的一些探索，像Pebble生产的那些；明年，这些小设备看上去会好得多。
+“Smartwatches, which connect to your smartphone, are going to create an entirely new category of computing in the coming year,” said Sarah Rotman Epps, a former Forrester analyst who specializes in wearable computing. She noted that the long-awaited Apple smartwatch, which is expected to be announced in 2014, could change the way we engage with our wrist in the same way Apple changed the cellphone industry in 2007.
+“明年，能够连接智能手机的智能手表将会打造一个全新的计算机市场，”前弗雷斯特(Forrester)分析师、可佩戴计算设备专家莎拉·罗特曼·埃普斯(Sarah Rotman Epps)说道。她指出，苹果预计会在2014年发布人们期待已久的智能手表，这一产品会像2007年苹果改变手机行业那样，改变我们与手腕互动的方式。
+Smartwatches will allow us to peer at messages without having to pull cellphones out of our pockets or purses. They will make it easier to monitor our health with heartbeat and movement sensors, recording daily how much we have exercised, or how much we haven’t.
+利用智能手表，我们不需要从口袋或包里拿出手机，就能查看消息。智能手表所配备的心跳和运动传感器会让我们更容易监控健康状况，记录每天的运动量，或者计算每天欠缺多少运动量。
+According to Citigroup, the global watch industry generated $60 billion in sales in 2013. Numerous research estimates expect the smartwatch industry to generate billions more in revenue for consumer tech companies in 2014.
+据花旗集团(Citigroup)统计，全球手表行业2013年的总销售额达到了600亿美元（约合3640亿元人民币）。各种研究评估预测，2014年，消费科技企业会从智能手表领域增加数十亿美元的销售额。
+Your cellphone next year will look almost exactly the same as the one in your pocket today — though slightly larger and a little slimmer. But the software on it will be a bit smarter because of improved location sensors. Rather than your having to look at your phone all the time, your phone will start letting you know when you need to look.
+明年，你的手机看起来还是会和现在口袋里的那台几乎一模一样，不过会略大一些、略薄一些。但手机中的软件会更智能一些，因为位置传感器会有所改进。你不再需要总是盯着手机看，你的手机会开始提醒你，什么时候需要查看。
+Foursquare, the location-based social network, is at the forefront of this innovation. Its app works in the background to corral different pieces of information — including your location, the time of day and where your friends have been — and then makes suggestions for what to do. “It looks like you’re near the Sightglass Coffee,” the company’s app says if I walk by a coffee shop in the morning, “Your friend Dennis has been there and recommends the cappuccino.”
+基于位置的社交网络Foursquare正走在这一创新潮流的前沿。它的应用在后台运行，收集不同的信息——包括你的位置、时间，以及你的好友去过的地方——然后建议你该做些什么。“看来你离窥镜咖啡(Sightglass Coffee)不太远，”如果我早上走过一家咖啡店，这家公司的应用会这么说，“你的朋友丹尼斯(Dennis)去过那儿，推荐那里的卡布奇诺。”
+Now imagine all your apps start doing this? Twitter could tell you when a news event happens near your house. Facebook could let you know if your friends are saying “congratulations” to someone’s specific post — and you should too. Your phone automatically could keep emails, texts and phone calls at bay while you’re sitting down for dinner with the family, all by sensing that your spouse and children’s phones are in the dining room at the same time in the evening.
+现在设想一下，你所有的应用都能这么做会是怎样的情景：Twitter可以通知你，你家附近发生的新闻事件；Facebook会让你知道，你的朋友们在对某人的某个帖子说“恭喜”，你也应该这么做。当你坐下来和家人一起共进晚餐时，你的手机会感知到，你的配偶和孩子们的手机在傍晚时分也都位于餐厅，进而自动关闭邮件、短信和电话的提醒。
+Smartphones are also expected to get other kinds of unusual sensors next year. Benedetto Vigna, a general manager at STMicroelectronics, a company that creates sensors for mobile devices, said 2014 would be when we would start to see mood-detecting sensors in phones. Imagine playing a video game that determines your excitement level and adjusts the experience accordingly, he said.
+人们预计，智能手机明年也会配置上其他一些不同寻常的传感器。为移动设备生产传感器的意法半导体公司(STMicroelectronics)的总经理贝内代托·维尼亚(Benedetto Vigna)表示，从2014年开始，我们可能会开始看到手机中出现可以监测情绪的传感器。他说，想象玩一个能监测你的兴奋程度，并随之调整体验的电子游戏。
+What about the home?
+那么在家中呢？
+Until now, television screens have been pretty standard sizes and shapes: rectangular. While that won’t change in 2014, we will probably see prototypes of something different.
+到现在为止，电视屏幕基本上一直是标准的尺寸和形状：长方形。虽然这在2014年还不会改变，但我们可能会看到一些有所不同的产品原型。
+“We’ve been working on flexible displays for more than a decade and this past year we finally came up with solutions,” Peter Bocko, the chief technology officer for Corning Glass Technologies, said earlier this year. This means screens could wrap around clothing we wear, or the packages we buy.
+今年早些时候，康宁玻璃科技(Corning Glass Technologies)的首席技术官彼得·博科(Peter Bocko)说，“十多年来，我们一直在研发柔性显示屏，过去一年，我们终于找到了解决方案。”这意味着，我们可以把显示器裹在我们所穿衣服的外面，或者我们买的包装盒外面。
+In our homes, this flexible technology could translate into wallpaperlike screens that can be stuck to a wall.
+在家中，这种柔性技术可以打造出紧贴墙面，仿佛是墙纸的屏幕。
+But don’t be alarmed if you sit down to enjoy a nice cup of tea in front of your new flexible display and hear a buzzing sound outside: That’s probably your neighbor’s drone inspecting the back garden to see if his grass is greener than yours.
+但是坐在家中，手捧一杯好茶观看新的柔性屏幕时，如果你听到外面有嗡嗡的声音，也不用惊慌，那可能是邻居的无人机在侦查你的后院，窥探是不是他家的草比你家的绿。
+Till now, drones have been mostly used by hobbyists and photographers, but the Federal Aviation Administration is expected to issue rules for expanded commercial drone use by January.
+直到现在，基本上都是爱好者和摄影师在使用无人机，但美国联邦航空管理局(Federal Aviation Administration)预计会在1月底之前出台新规，扩大商用无人机的使用范围。
+Jonathan Downey, the chief executive of Airware, which makes drones, said we will then start to see people use these vehicles for agriculture and farming, or to reach places that are dangerous for human workers today. Rooftop inspection, for example, could be done with high-resolution thermal imaging sensors attached to a drone.
+制造无人机的Airware公司首席执行官乔纳森·唐尼(Jonathan Downey)说，到那时我们就会开始看到人们将无人机用于农业和畜牧，或者前往一些对人类过于危险的地方。例如，可以在无人机上安装高分辨率热成像传感器，从而完成屋顶检查的任务。
+Mr. Downey predicted that any privacy concerns about drones would abate.
+唐尼预计，对无人机的任何隐私担忧都会消退。
+“When GPS first came out from the government, people saw it as something that could track them and they said absolutely not,” Mr. Downey said. Yet now, we all have GPS in our cars and smartphones. “I think we’ll see something very similar happen with drones.”
+“当政府最早推出GPS的时候，人们认为这是一种可以跟踪他们的东西，而且说绝不会使用，”唐尼说。然而如今，我们的车上和智能手机上都装了GPS。“我想，我们会看到无人机领域出现十分相似的情况。”
+This year we did see the improvement of 3-D printers that can make physical objects from digital files. In 2014, we could start to see these devices become a fixture in our homes just as inkjet printers became a norm in the late 1980s.
+今年，我们的确看到，能按照电子文件制作实物的3D打印机得到了改进。2014年，我们可能会开始目睹这些设备成为家中常见的设备，就像上世纪80年代末，喷墨打印机成为家庭必备物品一样。
+According to Gartner, the research firm, consumers and companies will spend more than $600 million on 3-D printer-related products in 2014.
+根据研究公司高德纳(Gartner)的统计，2014年，个人消费者和企业将会在3D打印机的相关产品上花费6亿多美元。
+What will you use these for? Maybe you’ll make your own iPhone covers rather than buy them from stores, print out new salt and pepper shakers, or download a pattern and print a new part for your drone.
+你会用它们做什么？也许你会自己制作iPhone手机壳，而不是从店里买，打印出新的盐瓶和胡椒瓶，或者下载一个模型来为你的无人机打印一个新部件。
+And who knows, if you do get a 3-D printer next year, maybe you could start downloading the parts for your very own humanoid robot helper that can make your breakfast and walk your dog in 2015.
+谁知道呢，如果你明年真的买了一部3D打印机，也许你就可以下载部件，装配自己的人形机器人助手了。或许这位助手真的会在2015年，开始为你做早饭、遛狗。

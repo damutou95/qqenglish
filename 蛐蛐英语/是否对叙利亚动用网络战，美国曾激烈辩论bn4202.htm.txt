@@ -1,0 +1,52 @@
+WASHINGTON — Not long after the uprising in Syria turned bloody, late in the spring of 2011, the Pentagon and the National Security Agency developed a battle plan that featured a sophisticated cyberattack on the Syrian military and President Bashar al-Assad’s command structure.
+华盛顿——2011年晚春，叙利亚动乱演变为血腥冲突后不久，五角大楼和国家安全局(National Security Agency)制订了一个作战计划，其中包括对叙利亚军队和巴沙尔·阿萨德总统(Bashar al-Assad)的指挥系统实施精密的网络袭击。
+The Syrian military’s ability to launch airstrikes was a particular target, along with missile production facilities. “It would essentially turn the lights out for Assad,” said one former official familiar with the planning.
+叙利亚军队的空中打击能力是一个重点目标，此外还有导弹生产设施。“基本上就是要让阿萨德两眼一摸黑，”一名了解该计划的前官员说。
+For President Obama, who has been adamantly opposed to direct American intervention in a worsening crisis in Syria, such methods would seem to be an obvious, low-cost, low-casualty alternative. But after briefings on variants of the plans, most of which are part of traditional strikes as well, he has so far turned them down.
+奥巴马总统一直坚决反对美国直接介入到局势日益恶化的叙利亚危机中，因此这样的方法就成了一种显而易见的低成本、低伤亡替代方案。但是，在听取了该计划多个版本的简报后，他目前还是持否定的态度。该计划的大部分仍然从属于传统的打击方式。
+Syria was not a place where he saw strategic value in American intervention, and even covert attacks — of the kind he ordered against Iran during the first two years of his presidency — involved a variety of risks.
+美国对叙利亚进行干预，在他看来是缺乏战略价值的，即便只是秘密袭击——即他上任最初两年里下令对伊朗实施的那种——都涉及各种风险。
+The considerations that led Mr. Obama to hesitate about using the offensive cyberweapons his administration has spent billions helping develop, in large part with hopes that they can reduce the need for more-traditional military attacks, reflect larger concerns about a new and untested tactic with the potential to transform the nature of warfare. It is a transformation analogous to what happened when the airplane was first used in combat in World War I, a century ago.
+奥巴马政府投入了大量资金推动进攻性网络武器的开发，很大程度上就是希望这些武器能减少对较传统的军事攻击的依赖。然而，奥巴马在该战术的运用上表现出的犹豫，反映了一种更广泛层面上的担忧。这是一种全新的、未经检验的战术，有可能会带来战争本质的转变。这种转变堪比一个世纪前的第一次世界大战中首次将飞机用于作战。
+The Obama administration has been engaged in a largely secret debate about whether cyberarms should be used like ordinary weapons, whether they should be rarely used covert tools or whether they ought to be reserved for extraordinarily rare use against the most sophisticated, hard-to-reach targets. And looming over the issue is the question of retaliation: whether such an attack on Syria’s air power, its electric grid or its leadership would prompt Syrian, Iranian or Russian retaliation in the United States.
+对于网络武器是否应该当做常规武器来使用，它们是否应该只是极少使用的秘密手段，或者是否应该只在极不寻常的情况下用于打击最复杂、最难以触及的目标，奥巴马政府进行了一场基本上秘而不宣的讨论。其中一个困扰是报复的问题：对叙利亚的空中力量、电网或领导层发起这样的打击，是否会促使叙利亚、伊朗或俄罗斯展开对美国的报复行动？
+It is a question Mr. Obama has never spoken about publicly. Because he has put the use of such weapons largely into the hands of the N.S.A., which operates under the laws guiding covert action, there is little of the public discussion that accompanied the arguments over nuclear weapons in the 1950s and ’60s or the kind of roiling argument over the use of drones, another classified program that Mr. Obama has begun to discuss publicly only in the past 18 months.
+这是一个奥巴马从未公开谈论的问题。因为这些武器的使用主要由美国国安局来负责，而该机构的运转依据的是规范秘密行动的法律，所以此事很少有公开讨论。这和上世纪五六十年代就核武器进行的争论非常不一样，也不同于无人机的使用所引发的喋喋不休的争吵。后者也是一个机密项目，奥巴马开始公开谈论它也不过是18个月前的事。
+But to many inside the administration, who insisted on anonymity when speaking about discussions over one of America’s most highly classified abilities, Syria puts the issue back on the table. Mr. Obama’s National Security Council met Thursday to explore what one official called “old and new options.”
+但据许多政府内部的人称，叙利亚促使这个问题重新进入奥巴马的考虑范围。由于涉及美国最高度保密的一项能力，这些人要求在本文中不具名。奥巴马的国家安全委员会(National Security Council)于周四会面，探讨一位官员所说的“新旧选择”。
+Caitlin Hayden, the spokeswoman for the National Security Council, declined to discuss “the details of our interagency deliberations” about Syria. “But we have been clear that there are a range of tools we have at our disposal to protect our national security, including cyber,” she said, noting that in 2012 “the president signed a classified presidential directive relating to cyberoperations that establishes principles and processes so that cybertools are integrated with the full array of national security tools.”
+安全委员会女发言人凯特琳·海登(Caitlin Hayden)拒绝谈论就叙利亚进行的“跨部门商议的细节”。“但是有一点是明确的，我们手中有保护国家安全的诸多手段可供选择，其中包括网络，”她说，她指出总统在2012年“曾签署一项事关网络行动的保密总统令，以建立原则和程序，将网络手段整合到国家安全的整体部署中”。
+The directive, she said, “enables us to be flexible, while also exercising restraint in dealing with the threats we face. It continues to be our policy that we shall undertake the least action necessary to mitigate threats.” 
+她表示，该指令“赋予我们灵活性，同时也对我们应对威胁的方式进行了限制。我们应该采取尽可能少的必要行动去缓解威胁，这始终是我们的策略。”
+One of the central issues is whether such a strike on Syria would be seen as a justified humanitarian intervention, less likely to cause civilian casualties than airstrikes, or whether it would only embolden American adversaries who have themselves been debating how to use the new weapons.
+其中一个核心问题是，对叙利亚进行这样的打击是否能视作是一次正义的人道主义干预——毕竟这种行动不像空中打击那样容易造成平民伤亡——或者，它会不会只是给美国的那些在讨论如何使用这种新武器的对手们壮了胆？
+Jason Healey, the director of the Cyber Statecraft Initiative at the Atlantic Council, argues that it is “worth doing to show that cyberoperations are not evil witchcraft but can be humanitarian.”
+大西洋理事会网络治国行动(Cyber Statecraft Initiative at the Atlantic Council)总监杰森·希利(Jason Healey)认为，“有必要让人们看到，网络行动不是邪恶的巫术，它也可以是人道主义行动。”
+But others caution whether that would really be the perception.
+但其他一些人持谨慎态度，不确定人们是否真的这样看。
+“Here in the U.S. we tend to view a cyberattack as a de-escalation — it’s less damaging than airstrikes,” said Peter W. Singer, a Brookings Institution scholar and co-author of the recently published book “Cybersecurity and Cyberwar: What Everyone Needs to Know.”
+布鲁金斯学会(Brookings Institution)的学者彼得·W·辛格(Peter W. Singer)说，“在美国，我们往往将网络攻击视作降级的战争，破坏性小于空袭。”辛格最近与人合作出版了《网络安全与网络战：大家需要了解的事情》(Cybersecurity and Cyberwar: What Everyone Needs to Know)一书。
+“But elsewhere in the world it may well be viewed as opening up a new realm of warfare,” he said.
+“但在世界其他地方，人们很可能认为，这开启了一个新的战争领域，”他说。
+There’s little doubt that developing weapons for computer warfare is one of the hottest arenas in defense spending. While the size of the Army and traditional weapons systems are being cut in the Pentagon budget that was released on Monday, cyberweapons and Special Forces are growth areas, though it is difficult to tell precisely how much the government spends.
+毫无疑问，计算机战争武器的研发是最热门的国防开支项目。虽然在本周一公布的五角大楼预算中，陆军和传统武器系统的开支规模都遭到了削减，但网络武器和特种部队的预算都有所增加，尽管很难确切地说出政府在这方面的开支到底有多少。
+But Mr. Obama has made no secret of his concerns about using cyberweapons. He narrowed Olympic Games, the program against the Iranian nuclear enrichment program, to make sure that it did not cripple civilian facilities like hospitals.
+不过，奥巴马毫不掩饰对使用网络武器的担忧。他缩小了代号为“奥运会”(Olympic Games)的针对伊朗核计划的行动的规模，确保不会致使医院等民用设施瘫痪。
+What he liked about the program was that it was covert and that, if successful, it could help buy time to force the Iranians into negotiations. And that is exactly what happened. But when a technological error in the summer of 2010 resulted in the broadcast of the Stuxnet computer worm around the world, ultimately leading to the revelation of the program’s origins with the N.S.A. and Unit 8200 of Israel, Mr. Obama’s hopes of keeping such programs at arm’s length were dashed.
+网络项目吸引他的地方在于行事隐秘，而且如果获得成功，可以争取时间，迫使伊朗参与谈判。事实也的确如此。但是，2010年夏天，一个技术失误导致名为“震网”(Stuxnet)的计算机蠕虫病毒为全球所知，最终致使项目源头曝光——NSA和以色列8200部队。奥巴马与此类项目保持距离的希望就此破灭。
+Since then, there has been no clear evidence that the United States has used the weapons in another major attack. It was considered during the NATO attacks on Libya in the spring of 2011, but dismissed after Mr. Obama’s advisers warned him that there was no assurance they would work against Col. Muammar el-Qaddafi’s antiquated, pre-Internet air defenses.
+此后，没有确切的证据表明美国曾在其他重要攻击行动中使用过网络武器。美国曾在2011年春天北约(NATO)攻击利比亚期间考虑使用，但奥巴马的幕僚警告，无法保证这会对穆阿迈尔·卡扎菲上校(Col. Muammar el-Qaddafi)陈旧的、前互联网时代的防空系统发挥作用，美国因此放弃了这一计划。
+The head of the N.S.A., Gen. Keith B. Alexander, said in an interview last year that such weapons had been used only a handful of times in his eight-year tenure.
+NSA局长基思·B·亚历山大上将(Gen. Keith B. Alexander)去年接受采访时表示，在他任职的八年时间里，美国只在几次行动中使用过此类武器。
+But Syria is a complicated case, raising different issues than Iran did. 
+然而，叙利亚的情况比较复杂，带来了不同于伊朗的问题。
+Even if the United States wanted to act covertly, a cyberattack on Syria would be hard to keep secret. Anything that grounded the air fleet, or turned out the lights at key facilities in Damascus and at major military outposts, would be instantly noticed — and would not necessarily be accomplished quickly.
+就算美国希望秘密开展行动，针对叙利亚的网络攻击也很难保密。任何阻止机群升空，或是切断大马士革主要设施及重要军事岗哨电源的行动，都会被立刻发觉，而且此类行动未必能迅速完成。
+American military planners concluded after putting together options for Mr. Obama over the past two and a half years that any meaningful attack on Syria’s facilities would have to be both long enough to make a difference and targeted enough to keep from making an already suffering population even worse off.
+在向奥巴马提供了两年半的各种选择之后，美国军事规划人员断定，针对叙利亚设施的任何有效攻击，不仅需要维持足够长的时间来发挥作用，还需要具备足够强的针对性，才能避免给本已痛苦不堪的民众雪上加霜。
+For those and other reasons, there are doubters throughout the military and intelligence establishment. “It would be of limited utility, frankly,” one senior administration official said.
+出于上述原因及其他一些理由，军事及情报部门的各管理层中都存在质疑网络武器的人。奥巴马政府的一名高级官员表示，“坦白说，使用范围有限。”
+For instance, an attack could disrupt or shut down the navigational systems for Syria’s aircraft, including the Russian-designed Mi-8 and Mi-17 helicopters that are carrying out many of the so-called barrel-bomb attacks against civilians in Homs and Aleppo.
+例如，发动能够破坏或关闭叙利亚军机导航系统的网络攻击。这些飞机包括，实施针对霍姆斯和阿勒颇平民的、所谓的“桶式炸弹”袭击的俄制Mi-8和Mi-17直升机。
+But Syrian commanders would probably just shift to other weapons in their arsenal, like an array of rockets and missiles, including longer-range Scud missiles, that Mr. Assad’s forces have already employed with deadly effect.
+不过，叙利亚政府军的指挥官们可能只需转而使用军械库中的其他武器，比如，包括远程飞毛腿导弹(Scud)在内的一系列火箭弹和导弹。阿萨德军队已经部署了这些武器，并带来了致命的影响。

@@ -1,0 +1,48 @@
+The largest known prime number, newly discovered, is almost five million digits longer than the previous record-holder.
+最新发现的最大质数要比之前的记录长出了近500万位!
+In a computer laboratory at a satellite campus of the University of Central Missouri, an otherwise nondescript desktop computer, machine No. 5 in Room 143, multiplied 74,207,281 twos together and subtracted 1.It then checked that this number was not divisible by any positive integer except 1 and itself — the definition of a prime number.
+在美国中央密苏里大学一分校区的计算机实验室里，一台位于143室编号为5号的台式电脑，将74，207，281个2乘起来后减1后，发现这个数无法被任何非1的正整数及其本身整除——即质数的定义。
+This immense number can only be practically written down in mathematical notation using exponents: 274,207,281 -1.
+这个巨大的数字只能以数学上的表达式274,207,281 -1来表示。
+The previous largest was 257,885,161 -1, which has a mere 17 million or so digits.
+在此之前的最大质数为257,885,161 -1，此数值仅仅有约1700万位。
+This is the 15th prime number found by the Great Internet Mersenne Prime Search, or Gimps, for short, a volunteer project that has been running for 20 years. "I've always been interested in prime numbers," said George Woltman, who founded Gimps after he had retired. "I had a lot of time on my hands," he said. 
+这是已经运营了20年的志愿项目“互联网梅森质数大搜索”，（Gimps）发现的第15个质数。“我一直都对质数感兴趣，”乔治·沃尔特曼说。他在退休后创立了这个项目，“我空余时间多的是。”他这样说道。
+Mersenne primes are those that can be written in the form 2n -1 where n is an integer. They are named after Marin Mersenne, a French theologian and mathematician who studied them in the early 17th century.
+梅森质数是那些可以以2n -1来表达的质数，其中的n为整数。它们以法国神学及数学家马林·梅森的名字命名，梅森本人曾在17世纪对质数进行过研究。
+For example, 3 is a Mersenne prime. Plug in '2' for n, and you find 22 －1 = 4 − 1 = 3.
+例如，3是梅森质数，将n替换成2，你会得到2×2-1=3。
+But not all integers plugged into this expression generate a prime number. Put in n = 4, and the result is 24 －1 = 15, which is not a prime number, because 15 is divisible by 3 and 5.
+但并不是所有的整数替换进此表达式都会得出一个质数。比如n=4时，结果就成了4×4-1=15，15并不是一个质数，因为15可以被3和5整除。
+As integers get bigger, prime numbers become rarer, but there is always a bigger prime number to be found. It is just much harder to find. In total,only 49 Mersenne primes are known.
+整数越大，质数出现的频率会降低，但总是会有一个更大的质数出现。只是更难去发现。目前总共只有49个已知的梅森质数。
+Gimps takes advantage of otherwise idle computers. Volunteers download free software that runs unobtrusively when no one is using the computer.
+Gimps项目借助那些平淡无奇的电脑，在它们无人使用时，志愿者们就下载一种可以在后台运行的免费软件进行工作。
+At the University of Central Missouri, Curtis Cooper, a math professor, was one of the early enthusiasts, joining Gimps in 1997. He has the program currently installed on 800 PCs on the university's two campuses. Dr. Cooper does research in the mathematical realm of number theory and teaches computer science classes. "This kind of marries the two fields together," he said.
+中央密苏里大学的数学教授科提斯·库珀就是这些热心成员中的一位，他1997年加入了Gimps项目。他将程序安装在大学两个校区的800台电脑上。库珀博士的研究领域就是数值理论，他还担任计算机科学的课程教学任务，对此他曾这样说：“这就像是两个领域的联姻。”
+The university's computers had previously turned up three other Mersenne primes, most recently in 2013.
+2013年，该大学的电脑曾经计算出另外三个梅森质数。
+PC No. 5 in Room 143 churned for 31 days before completing its calculation that 274,207,281 -1 is a prime. It dutifully reported the result on Sept. 17 to a computer server in Seattle that coordinates the worldwide Gimps effort.
+143室的5号电脑用了31天才完成了质数274,207,281 -1的运算。9月17日，它准时向位于西雅图负责全球Gimps项目协调的服务器报告了结果。
+No one noticed.
+但没有人注意到。
+Because of a glitch on the server, emails that should have been sent to Dr. Cooper and Gimps administrators were never sent.
+由于服务器的故障，本应发送给库珀博士和Gimps项目管理层的电子邮件并未发出。
+The discovery remained unknown until Jan. 7, when Aaron Blosser, the administrator of the server, came across it during routine maintenance. He verified it on a much faster computer and notified Dr. Cooper two days later.
+直到1月7日，服务器管理员阿伦·布罗塞在例行维护中发现了结果。他在一台更快的电脑上进行了验证，并于两天后通知了库珀博士。
+After further checking, the new finding was announced publicly on Tuesday.
+在进一步检查后，这一新发现于周二公之于众。
+Prime numbers are crucial to fields like cryptography, but this one is so big that it has no practical use, at least not anytime soon. (The Gimps software does have a practical use, playing a key role in uncovering a flaw in Intel's latest Skylake processors.)
+在密码学等领域中，质数非常重要，但是由于这一数字非常巨大，以至于在短期内它并不会有什么实际用途。（而Gimps软件则有一个实际用处，它在发现英特尔最新的Skylake处理器缺陷中发挥了关键作用）
+How big is this big prime number?
+那么，到底这个质数有多大？
+I timed how quickly I could write down a number: about four seconds for 10 digits. If I had enough paper and ink — and made the impossible assumption that my hand could maintain this pace — it would take me more than three months to write down the 22,338,618 digits of 274,207,281 -1.
+笔者计算了一下自己写下一个数字的速度：约4秒写一个10位数。如果有足够的纸和墨水，再假设我的手可以持续保持这样一个速度的话，那么得需要超过三个月的时间，我才能写下质数274,207,281 -1的22,338,618位数值。
+Printing it out could fill 6,000 to 7,000 sheets of paper, depending on the font size.
+若要打印出来的话，依据不同字体大小，则要花费6000到7000页纸。
+If you' re wondering: If a prime number is discovered and no one is there to notice, is it really discovered? — the answer is no. The official discovery date is Jan. 7, when Mr. Blosser found it, and not when the computer calculated it.
+你可能会想：如果一个质数被发现了，但没有被人注意到，那么它是被真正发现了吗？答案是否定的。该质数的正式的发现日期是1月7日，即布罗塞先生发现的日子，而不是电脑计算出结果的日期。
+Dr. Cooper said, however, that the computer would be set aside for posterity, like the ones that had made the three earlier discoveries.
+但库珀博士决定将这台电脑留给子孙后代们，就像其他那些早前发现三个质数的电脑一样。
+"It's kind of a dumb computer," he said. "It doesn't know it's so popular."
+“它就是一台沉默无声的电脑，”他说道，“它不知道自己有多么出名。”

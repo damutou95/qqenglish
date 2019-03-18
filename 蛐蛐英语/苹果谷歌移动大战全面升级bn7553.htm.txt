@@ -1,0 +1,46 @@
+SAN FRANCISCO — Once the best of friends, Google and Apple have become foes, battling in courtrooms and in the consumer marketplace. Last week, the hostilities took a new turn when they spilled right onto smartphone screens.
+谷歌(Google)和苹果(Apple)曾是最亲密的朋友，如今却成为仇敌。他们在法庭里和消费市场中处处争斗。上周，他们的争斗再次升级，蔓延到智能手机领域。
+In the latest version of Apple’s iPhone software, which became available Wednesday, Apple removed two mainstay apps, both Google products — Maps and YouTube.
+上周三，当苹果推出iPhone的新版本软件时，它移除了两个主要的应用程序——地图以及YouTube，这两款都是谷歌的产品。
+The disappearing apps show just how far-reaching the companies’ rivalry has become, as well as the importance of mobile users to their businesses.
+这两款程序从iPhone的消失意味着，谷歌和苹果的竞争已全面展开，同时也表明移动终端领域对这两家公司极其重要。
+“It’s the two big kids kicking sand in the sandbox,” said Colin Gillis, an analyst who covers Google and Apple for BGC Partners. “They’re now competing against each other with phones, with maps, with content, with search. They’re going head-to-head.”
+BGC Partner负责研究谷歌和苹果的分析师科林·吉利斯(Colin Gillis)说，“他们就像两个在沙箱里踢沙子的孩子。不管是电话，地图，内容还是搜索引擎，他们处处竞争。肉搏战已经开始。”
+Maps are particularly crucial on mobile devices, where location-based services and ads have emerged as the pathway to making money. Google and Apple are not the only warriors in the fight. Amazon, Nokia, Microsoft, AOL and Yahoo are competing, too.
+地图服务衍生一系列的定位服务以及广告，已经成为新的赢利点，因此对于移动终端来说非常重要。谷歌和苹果并非此场战争中的唯一参与者。亚马逊(Amazon)、诺基亚(Nokia)、微软(Microsoft)、美国在线(AOL)以及雅虎(Yahoo)都不甘落后。
+“If you own a mobile ecology, as Google does, the other mobile ecology owners are not going to allow you to own tons of data in their world,” said Scott Rafer, chief executive of Lumatic, which makes city map apps. “And so neither Apple nor Amazon were going to let Google know where every one of their users was at every time.”
+Lumatic公司的首席执行官斯科特·雷弗(Scott Rafer)说，“像谷歌那样拥有一套自己的移动“生态系统”的公司，同类的公司是不会允许让它掌握自己的大量信息。 因此苹果、亚马逊也不会愿意让谷歌随时掌握他们的用户身处何处。”Lumatic是一家制作城市地图应用程序的公司。
+Being kicked off the iPhone has potentially significant consequences for Google, whose Maps service earns more than half its traffic from mobile devices, and almost half of that mobile traffic has been from iPhone users. Apple’s move strikes at the heart of Google’s core business, search, because about 40 percent of mobile searches are for local places or things.
+对于谷歌来说，被iPhone除名可能带来严重后果。因为谷歌的地图服务有超过半数的流量来自移动终端，而这些来自移动终端的流量中的约一半恰恰来自iPhone用户。同时，约40％的移动搜索是为了找到当地的地点或事物。因而，苹果的这一举措直击谷歌的核心业务。
+“Local is a huge thing for Google in terms of advertising dollars, and search is very tied to that,” said Barry Schwartz, an editor at Search Engine Land, an industry blog. “Knowing where you are, when you search for coffee, it can bring up local coffee shops and ads that are much more relevant for the user.”
+知名行业博客“搜索引擎天地”(Search Engine Land)的编辑巴里.施瓦茨说，“对于谷歌来说，本地服务对其广告收入极其重要，而搜索引擎服务也离不开本地服务。掌握了你在搜索咖啡店时的所在，搜索引擎可以为他们找到符合需求的本地咖啡馆信息和广告，
+The war between Google and Apple escalated abruptly before breaking out on the iPhone screen. At the height of their friendship, their chief executives together unveiled the first iPhone, packed with Google services like maps, search and YouTube. But since Google introduced its own mobile operating system, Android, the companies have battled over everything mobile, from patents to ads and apps.
+就在iPhone应用程序事件之前，谷歌和苹果的战争突然升级。在二者关系的蜜月期，这两家公司的执行官曾共同推出了充斥着地图，搜索引擎和YouTube等谷歌服务的第一代iPhone。但是自从谷歌推出了自己的移动操作系统安卓之后，这两家公司开始了全面的移动终端领域的竞争，从专利、广告到应用程序。
+The brawl has played out most publicly in the courtroom, where Apple and phone manufacturers that use Google’s Android software have sued one another. Most recently, on Friday and Saturday, Apple and Samsung each filed papers to amend or overturn a jury verdict that awarded Apple $1 billion in a patent trial with Samsung. Apple wants more money and Samsung wants a new trial. The companies will return to court Dec. 6 to discuss their demands.
+他们的公开战场主要是法庭：苹果和使用谷歌安卓系统的电话生产商们相互起诉彼此。就在上周五、六，苹果和三星(Samsung)各自向法院提出了修改或取消一项判决的申请。该判决要求三星赔偿苹果10亿美元的专利费。苹果认为赔偿金额应该更多，而三星则认为案件应该发回重申。12月6日，两家公司将重回法庭，讨论他们各自的诉求。
+Though Apple’s rejection of YouTube is part of its effort to cut ties with its former friend, it is different from the battle over maps because Apple has no competing video service. Google has introduced a new YouTube app in the App Store, which has become the No. 1 free app.
+虽然苹果拒绝YouTube主要是为了和它的前好友割断友情，但这一举措和地图之争又有不同，因为苹果本身尚无能取代YouTube的视频服务。而谷歌已经在应用软件商店(App Store)推出了一个新的YouTube程序，该程序很快成为下载量第一的免费软件。
+But with maps, Google, which has long been the dominant digital mapmaker, now must adjust to a new rival, along with the loss of valuable iPhone users.
+对于数字地图服务来说，谷歌虽然曾经长期占据领导者的地位。但它如今也必须适应一个新的竞争对手，同时还必需面对失去宝贵iPhone用户的后果。
+Even though Android phones far outnumber iPhones — 60 percent of smartphones run Android, versus 34 percent for iPhones, according to Canalys, a research firm — iPhone users account for almost half of mobile traffic to Google Maps.
+尽管Android手机的数量远远超过iPhone，但iPhone用户几乎占到谷歌地图移动流量的半壁江山。根据研究机构Canalys的数据，使用Android系统的手机占智能手机的60%，iPhone则占34%。
+In July, according to comScore Mobile Metrix, 12.6 million iPhone users visited Maps each day, versus 7.6 million on Android phones. And iPhone users spent an hour and a half using Maps during the month, while Android users spent just an hour.
+根据comScore公司移动矩阵系统(comScore Mobile Metrix)的统计，今年7月访问谷歌地图的iPhone用户每天有1260万，Android手机用户则为760万。当月，iPhone用户花在谷歌地图上的平均时间为1.5小时，而Android用户仅为1小时。
+Those users are a valuable source for Google, because it relies on their data to determine things like which businesses or landmarks are most important and whether maps have errors.
+这些用户是谷歌的宝贵资源，因为该公司依赖他们的数据来决定哪些商铺或地标最重要，以及地图上是否存在错误。
+Google also risks losing the allegiance of app developers who build apps that tie in to maps.
+谷歌还面临失去一些应用程序开发人员忠诚度的风险。这些开发人员开发的是与地图相关联的应用程序。
+“Overnight, Apple has really taken out a significant chunk of Google’s market, and it’s much harder for Google to say to developers, ‘We’re the only game in town, come play with us,’ ” said Tony Costa, a senior analyst who studies mobile phones at Forrester. “It will affect the Google ecosystem, putting it back in the same game of their apps lagging behind Apple, and that’s not a good position for them to be in.”
+Forrester公司研究手机的高级分析师托尼·科斯塔(Tony Costa)说，“一夜之间，苹果的确拿走了很大一部分谷歌的市场，而且谷歌将很难再对开发商说‘我们是市场上唯一的选择，跟着我们混吧’。这将影响谷歌的生态系统，让它退回到应用程序落后于苹果的旧格局中。这对谷歌而言不是一个好处境。”
+Still, Google is no doubt feeling a bit of satisfaction as Apple is loudly criticized for the errors in its maps.
+虽说如此，当苹果因为地图中的错误受到高声指责的时候，谷歌无疑感到了一丝满足。
+Apple Maps users have been tallying its blunders. A Tumblr devoted to the topic included a missing lake in Hyderabad, India, misplaced restaurants in Cambridge, Mass., and the placement of Berlin in Antarctica.
+苹果地图用户一直在列举它的错误。一篇专门用来讨论这一话题的Tumblr帖子里包含了印度海得拉巴消失的一个湖泊、美国马萨诸塞州坎布里奇标错的一些餐馆，以及被标在了南极洲的柏林。
+Apple responded Thursday with a statement that its map service was a work in progress and would improve as more people used it.
+苹果周四发表声明称，他们的地图服务并不是最终的成品，随着更多人的使用会得以改进。
+Google, meanwhile, has been reminding people of its seven years of experience in mapping.
+与此同时，谷歌一直在提醒人们，他们有七年的制图经验。
+But the company would not say whether it was building an iPhone app for users to download. Its only public statement on the matter has been vague: “Our goal is to make Google Maps available to everyone who wants to use it, regardless of device, browser, or operating system.”
+但谷歌拒绝说出是否会开发一个地图应用程序供iPhone用户下载。在这个问题上，谷歌发表的唯一一篇公开声明言辞模糊，“我们的目标是让希望使用谷歌地图的每个人都能得到它，不论他们使用什么样的设备、浏览器和操作系统。”
+Google could decide not to build an app, as a gamble that iPhone users depend on its maps so much that they might switch to Android.
+谷歌有可能决定不开发iPhone的地图应用程序，押宝iPhone用户十分依赖谷歌地图，以致于转而使用Android手机。

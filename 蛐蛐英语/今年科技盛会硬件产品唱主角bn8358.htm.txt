@@ -1,0 +1,24 @@
+AUSTIN, Tex. — Each year, thousands of tech enthusiasts flock to South by Southwest, the technology, music and film conference here, hoping to be among the first to find the next big thing in social networking and mobile apps.
+德克萨斯奥斯汀——每年，成千上万的科技迷都会蜂拥至西南偏南(South by Southwest)这个科技、音乐和电影的盛会，希望能先人一步发现社交网络和移动应用领域的下一个热门产品。
+But this year, it might be a piece of hardware that steals the show. The most talked-about start-ups this year include the maker of a camera that automatically takes a photo every 30 seconds, a new game console and a gadget that lets people control their computers and devices by waving their hands. Hugh Forrest, the director of the technology portion of South by Southwest, estimated that at least two dozen panels, talks and presentations involve some sort of new device or gadget at this year’s event — a much higher portion than he could recall from previous years.
+但是今年，大会可能会被一款硬件喧宾夺主。今年人们谈论最多的创业公司包括一些硬件厂商，在它们创造的产品中，有一款每30秒钟可自动拍摄一张照片的照相机、一款新游戏机，以及一种允许用户通过挥手来控制电脑等设备的装置。西南偏南科技展部分的负责人休·福里斯特(Hugh Forrest)估计，在今年的活动中，至少有二十多个小组讨论会、座谈会和展示会都将与某种新的设备或装置有关，据福斯特回忆，这一比例远高于此前几年。
+“We always hope to be a showcase for new products and ideas in technology and that is reflected this year,” he said.
+“我们一直都希望能成为展示科技领域中新产品和新想法的媒介，今年就体现了这一点，”他说道。
+The new emphasis on devices over software reflects a much larger shift in the start-up and tech world, driven by tools like crowdfunding and 3-D printing that make it cheaper, faster and easier to create prototypes. The trend is accelerating partly because of the popularity of and excitement around small companies making items like wearable fitness devices as well as smartwatches developed by Pebble and smart thermostats created by Nest.
+大会的重点从软件转向硬件设备反映的是在创业和科技世界中一种更大的转变，这种转变是以众筹和3D打印等作为推动力，让人以更低的价格、更快的速度、更加容易地创造出硬件原型。这种转变正在加速，其部分原因在于那些正在制作可穿戴健康设备等硬件的小型公司颇受欢迎，它们的成就令人振奋。这些硬件还包括Pebble开发的智能手表和Nest开发的智能恒温控制器。
+And now the devices are taking over the halls and convention center of South by Southwest, which has historically been known as a launchpad for new software services; Twitter, Foursquare, GroupMe and Highlight all got their inaugural push on those convention center grounds.
+现在，各种硬件设备正在占领西南偏南大会的各个展厅和会议中心。从历史上来说，这个大会一直都以新软件服务的发射台著称。这些会议中心是Twitter、Foursquare、GroupMe以及Highlight最初崭露头角的地方。
+“This is where software development is going,” said Oskar Kalmaru, one of the founders of Memoto, a company that makes a Kickstarter-financed wearable automatic camera that takes pictures at 30-second intervals, creating a kind of personal photographic memory. “The innovating new technology is hardware that has a software component.”
+“这里代表了软件开发的趋势。”创业公司Memoto的联合创始人奥斯卡·卡尔马如(Oskar Kalmaru)说道。这家公司在众筹网站Kickstarter的融资支持下开发了一种可穿戴式自动照相机，能每隔30秒拍摄照片，从而创造出了一种新的个人照相记忆。“这种创新性的新技术是一种含有软件成分的硬件。”
+The dropping costs of designing and building inventive new hardware products has prompted a wave of creativity and innovation that echoes the software boom a decade or two ago in Silicon Valley.
+设计及生产创新性新硬件产品的成本正在下降，这已经引发了一轮创造和创新活动，与10年或20年以前硅谷经历过的软件繁荣发展遥相呼应。
+But chief executives of the hardware companies Nest and Jawbone will be there for the first time, although other executives from their companies have attended in years past.
+硬件公司Nest和Jawbone的首席执行官将首次出现在大会上。不过在过去几年中，这两家公司的其他高管曾出席大会。
+Julie Uhrman, the founder and chief executive behind Ouya, a Kickstarter-financed Android gaming machine, is a keynote speaker. The company recently announced that its consoles would begin shipping in late March.
+Ouya创始人兼首席执行官朱莉·乌尔曼(Julie Uhrman)将在大会上发表主题演讲，她在Kickstarter融资支持下开发了一种新的Android游戏机。该公司最近宣布，将从3月底开始销售这种游戏机。
+Bre Pettis, the founder of the Makerbot 3-D printers, is delivering the opening remarks of the festival and speaks again at a presentation by Supermechanical, a hardware company based in Austin that makes Wi-Fi-enabled sensors that can be used to detect things like moisture. Such a device could alert its owner by text message that the basement is flooding.
+3D打印机厂商Makerbot的创始人布里·佩蒂斯(Bre Pettis)将在大会上致开幕词，并将在超级机械公司(Supermechanical)召开的一次展示会上发表讲话。超级机械公司是一家总部位于奥斯汀的硬件公司，主要生产支持Wi-Fi功能的传感器，这种传感器能用来探测湿度等指标。使用这种传感器的设备能以短消息的形式向主人发出警告，提醒其地下室淹水了。
+Like the software companies, hardware makers want to capture the attention of influential people who are inclined to tell their friends about a hot new device. It is also likely that the type of people attending South by Southwest will be interested in purchasing a “lifelogging” camera or a gesture-based controller.
+跟软件公司一样，硬件厂商也希望吸引有影响力的人的关注，这些人倾向于向朋友谈起热门的新设备。而且，参加西南偏南大会的人群也很可能有兴趣购买一台“记录生活”照相机或是基于手势的控制器。
+“The right kind of social experience can take off there,” said Kira Wampler, a vice president at Lytro, which makes a sleek, rectangular camera that lets users refocus photographs after they are taken. “It is a group of people who are really interested in exploring what is new.”
+“我们所需的社会经验可以从那里开始。”基拉·万普勒(Kira Wampler)说道，她是Lytro副总裁，这家公司生产一种外表美观的长方形照相机，允许用户在相片拍成后再重调焦点。“与会者是那些真正有兴趣探索新事物的人。

@@ -1,0 +1,71 @@
+On the tiny Mediterranean island of Malta, two Italian hackers have been searching for bugs — not the island’s many beetle varieties, but secret flaws in computer code that governments pay hundreds of thousands of dollars to learn about and exploit.
+在地中海的弹丸岛国马耳他，两名意大利黑客一直在搜寻“bugs”（小虫）——这并非是指岛上众多的甲虫品种，而是各国政府花费数十万美元想要了解和利用的计算机代码的秘密漏洞。
+The hackers, Luigi Auriemma, 32, and Donato Ferrante, 28, sell technical details of such vulnerabilities to countries that want to break into the computer systems of foreign adversaries. The two will not reveal the clients of their company, ReVuln, but big buyers of services like theirs include the National Security Agency — which seeks the flaws for America’s growing arsenal of cyberweapons — and American adversaries like the Revolutionary Guards of Iran.
+这两名黑客分别是32岁的路易吉·奥列马(Luigi Auriemma)和28岁的多纳托·费兰特(Donato Ferrante)，他们出售此类漏洞的技术细节，给那些想要闯入外国对手计算机系统的国家。这两人不会透露他们的ReVuln公司的客户是谁，不过他们这类服务的大买家包括美国国家安全局（National Security Agency，简称NSA）和伊朗的革命卫队(Revolutionary Guards)等美国的对手。NSA的目的是搜寻漏洞来为美国不断增长的网络武器库提供用武之地。
+All over the world, from South Africa to South Korea, business is booming in what hackers call “zero days,” the coding flaws in software like Microsoft Windows that can give a buyer unfettered access to a computer and any business, agency or individual dependent on one.
+从南非到韩国，在全球范围内，黑客们称为“零日漏洞”(zero days)的业务可谓生意兴隆。这是一种微软(Microsoft)的Windows之类软件的编码漏洞，能够令其买主自由地访问一台计算机，或是获取任何依赖计算机的公司、机构和个人的数据。
+Just a few years ago, hackers like Mr. Auriemma and Mr. Ferrante would have sold the knowledge of coding flaws to companies like Microsoft and Apple, which would fix them. Last month, Microsoft sharply increased the amount it was willing to pay for such flaws, raising its top offer to $150,000.
+仅仅几年之前，奥列马和费兰特这样的黑客还会把编码漏洞的信息卖给微软和苹果(Apple)等公司，令其能将之修复。上个月，微软大幅增加了愿意为这此类缺陷支付的金额，把最高出价提高到了15万美元（约合92万元人民币）。
+But increasingly the businesses are being outbid by countries with the goal of exploiting the flaws in pursuit of the kind of success, albeit temporary, that the United States and Israel achieved three summers ago when they attacked Iran’s nuclear enrichment program with a computer worm that became known as “Stuxnet.”
+但企业越来越多地在被各国政府的竞价打败，而这些国家的目标是利用这些缺陷来追求某种成功，即使只是暂时性的。例如在3年前的夏季，美国和以色列曾利用一种名为“震网”(Stuxnet)的蠕虫病毒攻击了伊朗的核浓缩计划。
+The flaws get their name from the fact that once discovered, “zero days” exist for the user of the computer system to fix them before hackers can take advantage of the vulnerability. A “zero-day exploit” occurs when hackers or governments strike by using the flaw before anyone else knows it exists, like a burglar who finds, after months of probing, that there is a previously undiscovered way to break into a house without sounding an alarm.
+这类漏洞得名于这样一个事实，当它们被发现时，计算机系统的用户能在黑客利用其缺陷之前来修复它们的时间只有“零日”。所谓“零日漏洞利用”，就是黑客或政府利用一个尚不为人知的漏洞发起攻击，好比是一名盗贼在数月的调查之后发现了一条之前无人知晓的通道，能够在不触动警报的情况下入户盗窃。
+“Governments are starting to say, ‘In order to best protect my country, I need to find vulnerabilities in other countries,’ ” said Howard Schmidt, a former White House cybersecurity coordinator. “The problem is that we all fundamentally become less secure.”
+“各国政府开始说，‘为了最好地保护我的国家，我需要找出其他国家的网络漏洞’，”美国白宫前网络安全协调员霍华德·施密特(Howard Schmidt)说。“问题是，我们所有人的网络安全性都从根本上降低了。”
+A zero-day bug could be as simple as a hacker’s discovering an online account that asks for a password but does not actually require typing one to get in. Bypassing the system by hitting the “Enter” key becomes a zero-day exploit. The average attack persists for almost a year — 312 days — before it is detected, according to Symantec, the maker of antivirus software. Until then it can be exploited or “weaponized” by both criminals and governments to spy on, steal from or attack their target.
+一个零日漏洞或许非常简单，例如一名黑客发现一个要求密码的网络账户实际上并不需要输入密码就能登录。通过点击回车键绕过系统就是一次零日漏洞利用。跟据杀毒软件开发商赛门铁克(Symantec)的说法，在零日漏洞被发现前，其平均攻击时间可以持续将近一年（312天）。在这期间，漏洞可以被犯罪分子和政府利用或“武器化”，来对目标进行监视、剽窃或攻击。
+Ten years ago, hackers would hand knowledge of such flaws to Microsoft and Google free, in exchange for a T-shirt or perhaps for an honorable mention on a company’s Web site.
+10年前，黑客们会免费地把这类漏洞信息告知微软和谷歌(Google)，以换取一件T恤，或是在公司的网站上被鸣谢。
+Now, the market for information about computer vulnerabilities has turned into a gold rush. Disclosures by Edward J. Snowden, the former N.S.A. consultant who leaked classified documents, made it clear that the United States is among the buyers of programming flaws. But it is hardly alone.
+如今，计算机漏洞信息的市场掀起了一轮淘金热。泄露机密文件的NSA前顾问爱德华·J·斯诺登(Edward J. Snowden)揭发出来的信息已经明确说明，美国就是程序漏洞的买主。不过它肯定不是唯一一家。
+Israel, Britain, Russia, India and Brazil are some of the biggest spenders. North Korea is in the market, as are some Middle Eastern intelligence services. Countries in the Asian Pacific, including Malaysia and Singapore, are buying, too, according to the Center for Strategic and International Studies in Washington.
+以色列、英国、俄罗斯、印度和巴西都在最大的买家之列。朝鲜和一些中东国家的情报部门也在该市场中。位于华盛顿的美国国际战略研究中心(Center for Strategic and International Studies)称，包括马来西亚和新加坡在内的一些亚太国家也在购买。
+To connect sellers and buyers, dozens of well-connected brokers now market information on the flaws in exchange for a 15 percent cut. Some hackers get a deal collecting royalty fees for every month their flaw is not discovered, according to several people involved in the market.
+为了连接买卖双方，几十名人脉颇广的经纪人目前在推销漏洞信息，以换取15%的提成。跟据几名业内人士的说法，一些黑客达成的交易是，如果他们的漏洞未能被发现，他们就能每个月得到一笔使用费。
+Some individual brokers, like one in Bangkok who goes by “the Grugq” on Twitter, are well known. But after the Grugq spoke to Forbes last year, his business took a hit from the publicity, according to a person familiar with the impact, primarily because buyers demand confidentiality.
+一些经纪人非常知名，例如曼谷的一个在Twitter上名为“the Grugq”的人。不过一名知情人士称，去年与《福布斯》(Forbes)交谈后，“the Grugq”的生意由于曝光遭受了打击，主要是因为买家要求保密。
+A broker’s approach need not be subtle. “Need code execution exploit urgent,” read the subject line of an e-mail sent from one contractor’s intermediary last year to Billy Rios, a former security engineer at Microsoft and Google who is now a director at Cylance, a security start-up.
+经纪人的手法并不隐晦。“亟需代码执行利用”，承包商中间人发给比利·里奥斯(Billy Rios)的一封电子邮件的标题写道。里奥斯曾在微软和谷歌担任安全工程师，现在是网络安全初创企业Cylance的一名主管。
+“Dear Friend,” the e-mail began. “Do you have any code execution exploit for Windows 7, Mac, for applications like Browser, Office, Adobe, SWF any.”
+“亲爱的朋友，”电子邮件开始处这样写道。“你有没有Windows 7和Mac上的任何代码执行利用，针对浏览器、Office软件、奥多比(Adobe)软件、SWF文件，什么都行。”
+“If yes,” the e-mail continued, “payment is not an issue.”
+“如果有的话，”电子邮件继续写道，“报酬不是问题。”
+For start-ups eager to displace more established military contractors, selling vulnerabilities — and expertise about how to use them — has become a lucrative opportunity. Firms like Vupen in Montpellier, France; Netragard in Acton, Mass.; Exodus Intelligence in Austin, Tex.; and ReVuln, Mr. Auriemma’s and Mr. Ferrante’s Maltese firm, freely advertise that they sell knowledge of the flaws for cyberespionage and in some cases for cyberweapons.
+对于那些急于取代更成熟的军方承包商的初创企业，出售漏洞及如何利用它们的专业知识，已经成为一个有利可图的商机。法国蒙彼利埃的Vupen、美国马萨诸塞州阿克顿的Netragard、德克萨斯州奥斯汀的Exodus情报公司(Exodus Intelligence)，以及奥列马和费兰特的马耳他企业ReVuln都毫无顾忌地做广告称，它们销售的漏洞信息可以用于网络间谍活动，有时甚至可用其制造网络武器。
+ReVuln specializes in finding remote vulnerabilities in industrial control systems that can be used to access — or disrupt — water treatment facilities, oil and gas pipelines and power plants. “They are engaging in willful blindness,” said Christopher Soghoian, a senior policy analyst at the American Civil Liberties Union.
+ReVuln公司专门寻找工业控制系统的远程漏洞，此类漏洞可被用来访问或破坏水处理设施、油气管道和发电厂。“他们对自己从事的工作的可能后果视而不见，”美国公民自由联盟(American Civil Liberties Union)高级政策分析师克里斯托弗·索戈延(Christopher Soghoian)说。
+Many technology companies have started “bug bounty” programs in which they pay hackers to tell them about bugs in their systems rather than have the hackers keep the flaws to themselves — or worse, sell them on the black market. Nearly a decade ago the Mozilla Foundation started one of the first bounty programs to pay for bugs in its Firefox browser. Since then, Google, Facebook and PayPal have all followed suit. In recent months, bounties have soared.
+许多技术企业启动了“漏洞赏金”计划，向黑客支付酬金以获取系统中的漏洞，以免他们自己保守秘密，或出现更糟的情况，也就是在黑市中出售漏洞信息。近10年前，谋智基金会(Mozilla Foundation)首次启动了赏金计划，为火狐(Firefox)浏览器的漏洞支付酬金。自那之后，谷歌、Facebook、贝宝(Paypal)纷纷仿效。最近几个月，赏金规模大幅飙升。
+In 2010, Google started paying hackers up to $3,133.70 — the number is hacker code for “elite” — for bugs in its Web browser Chrome. Last month, Google increased its cash prize to $20,000 for flaws found in some of its widely used products. Facebook began a similar program in 2011 and has since paid out $1 million. (One payout included $2,500 to a 13-year-old. The most it has paid for a single bug is $20,000.)
+2010年，谷歌开始向发现Chrome网络浏览器漏洞的黑客提供最多3133.70美元的赏金，这个数字在黑客中是“精英”的代码。上个月，谷歌将发现其部分畅销产品中漏洞的现金酬劳提高到了2万美元。2011年，Facebook启动了一个类似的计划，至今已支付了100万美元。（其中一笔酬金是向一名13岁少年提供的2500美元，而单个漏洞的最高酬金为2万美元。）
+“The program undermines the incentive to hold on to a bug that might be worth nothing in a day,” said Joe Sullivan, Facebook’s chief security officer. It had also had the unintended effect of encouraging ethical hackers to turn in others who planned to use its bugs for malicious use. “We’ve seen people back-stab other hackers by ratting out a bug that another person planned to use maliciously,” he said.
+Facebook的首席安全官乔·沙利文(Joe Sullivan)说，“该计划降低了自己保留漏洞的动力，这些漏洞可能一天之内就变得一文不值。”它还产生了一个意料之外的后果，那就是鼓励有原则的黑客揭发计划恶意利用漏洞的那些人，“我们看到黑客揭发同道，方法是先行举报他人计划恶意利用的漏洞，”他说。
+Microsoft, which had long resisted such a program, did an about-face last month when it announced that it would pay hackers as much as $150,000 for information about a single flaw, if they also provided a way to defend against it.微软过去曾长期抵制此类计划，但上个月来了个180度大转弯。公司宣布，如果黑客发现一个漏洞并提供抵御方法，它将向其提供至多15万美元的酬金。
+Apple still has no such program, but its vulnerabilities are some of the most coveted. In one case, a zero-day exploit in Apple’s iOS operating system sold for $500,000, according to two people briefed on the sale.
+苹果尚未启动类似计划，不过，该公司产品的漏洞属于最受追捧的信息之列。两名知情人士称，有一次，苹果的iOS操作系统中某个零日漏洞的售价达到了50万美元。
+Still, said Mr. Soghoian of the A.C.L.U., “The bounties pale in comparison to what the government pays.” The military establishment, he said, “created Frankenstein by feeding the market.”
+美国公民自由联盟的索戈延表示，尽管如此，“与政府的手笔比起来，这些赏金相形见绌。”他还说，军方“培育了这一市场，一手打造了‘科学怪人’”。
+In many ways, the United States government created the market. When the United States and Israel used a series of flaws — including one in a Windows font program — to unleash what became known as the Stuxnet worm, a sophisticated cyberweapon used to temporarily cripple Iran’s ability to enrich uranium, it showed the world what was possible. It also became a catalyst for a cyberarms race.
+从许多方面来看，是美国政府创造了这一市场。当美国和以色列利用一系列漏洞——其中包括Windows字体程序中的一个漏洞——释放出名为“震网”的蠕虫病毒时，它向世界展示了一种新的可能性。震网是一件高超的网络武器，一时让伊朗的铀浓缩能力遭到重创。该事件也成为了网络军备竞赛的催化剂。
+When the Stuxnet code leaked out of the Natanz nuclear enrichment plant in Iran in the summer of 2010, the flaws suddenly took on new value. Subsequent discoveries of sophisticated state-sponsored computer viruses named Flame and Duqu that used flaws to spy on computers in Iran have only fueled interest.
+当震网代码在2010年夏天流出伊朗纳坦兹的核浓缩厂时，漏洞突然显示出了全新的价值。后来人们还发现了分别名为“火焰”(Flame)和Duqu的精密电脑病毒，它们由国家资助开发，利用漏洞来监视伊朗的电脑。这让外界的兴趣更加高涨。
+“I think it is fair to say that no one anticipated where this was going,” said one person who was involved in the early American and Israeli strategy. “And today, no one is sure where it is going to end up.”
+曾参与美以行动早期策划的一名人士称，“我认为，公平地讲，当时无人预料到此事的走势。而现在，没人确切地知道结局如何。”
+In a prescient paper in 2007, Charlie Miller, a former N.S.A. employee, described the profitable alternatives for hackers who may have otherwise turned their information about flaws over to the vendor free.
+2007年，美国NSA前雇员查利·米勒(Charlie Miller)发表了一篇颇具前瞻性的文章。文中描述了黑客如何利用漏洞信息牟利，以取代将信息免费提供给厂商的做法。
+He described how one American government agency offered him $10,000 for a Linux bug. He asked another for $80,000, which agreed “too quickly,” Mr. Miller wrote. “I had probably not asked for enough.”
+米勒写道，一家美国政府机构出价1万美元购买他发现的一个Linux漏洞。他还向另一个部门要价8万美元，由于“过于迅速地”获得了对方的首肯，“很可能我要得还不够多，”他这样写道。
+Because the bug did not work with a particular flavor of Linux, Mr. Miller eventually sold it for $50,000. But the take-away for him and his fellow hackers was clear: There was serious money to be made selling the flaws.
+由于该漏洞不适用于某种特殊的Linux，最后的成交价是5万美元。不过，他及黑客同道从中得出的结论非常明确：出售漏洞可以赚大钱。
+At their conventions, hackers started flashing signs that read, “No more free bugs.”
+参加会议时，黑客们开始打出诸如“漏洞不能再免费了”的标语。
+Hackers like Mr. Auriemma, who once gave away their bugs to software vendors and antivirus makers, now sound like union organizers declaring their rights.
+像奥列马这样的黑客，过去曾将自己发现的漏洞免费提供给软件商和反病毒产品开发商，如今说起话来却像是宣示权利的公会组织者。
+“Providing professional work for free to a vendor is unethical,” Mr. Auriemma said. “Providing professional work almost for free to security companies that make their business with your research is even more unethical.”
+“免费给厂商提供专业服务是不道德的。近乎免费地给安全企业提供专业服务，让它们基于你的研究来做生意，这更加不道德，”奥列马说。
+Experts say there is limited incentive to regulate a market in which government agencies are some of the biggest participants.
+专家表示，监管市场的动力十分有限，因为一些最大的市场参与者是政府机构。
+Mr. Schmidt said: “If someone comes to you with a bug that could affect millions of devices and says, ‘You would be the only one to have this if you pay my fee,’ there will always be someone inclined to pay it.”
+施密特称，“如果有人主动推销一个可以影响数百万台设备的漏洞，并声称，‘按我的报价付钱的话，你将成为唯一拥有该漏洞信息的人’，永远都会有人愿意支付这笔费用。”
+“Unfortunately,” he said, “dancing with the devil in cyberspace has been pretty common.”
+“不幸的是，在网络空间中，与魔鬼共舞的现象变得十分普遍，”他说。

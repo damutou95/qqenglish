@@ -1,0 +1,44 @@
+For middle-aged women struggling with their weight, a recent spate of scientific findings sounds too good to be true. And they may be, researchers caution.
+对于苦苦减肥的中年女性来说，最近涌现的一批科学发现听上去太美好了，简直不像真的。而研究人员也告诫，可能的确是这样。
+Studies in mice indicate that a single hormone whose levels rise at menopause could be responsible for a characteristic redistribution of weight in middle age to the abdomen, turning many women from “pears” to “apples.” At the same time, the hormone may spur the loss of bone.
+对小鼠进行的研究表明，于更年期开始升高的一种激素可能是导致体重向腹部重新分配这一中年人典型特征的重要原因，将许多女性从“梨形身材”转为“苹果形身材”。与此同时，这种激素可能导致骨质疏松。
+In mouse studies, blocking the hormone solves those problems, increasing the calories burned, reducing abdominal fat, slowing bone loss and even encouraging physical activity.
+在小鼠研究中，阻断这种激素可以解决这些问题，增加热量燃烧，减少腹部脂肪，减缓骨质疏松，甚至可以激发身体活力。
+The notion that such a simple intervention could solve two big problems of menopause has received the attention of researchers and has prompted commentaries in prestigious journals like The New England Journal of Medicine and Cell Metabolism.
+这种据称可以解决更年期两大问题的简单干预措施，得到了研究人员的关注，并得到《新英格兰医学杂志》(New England Journal of Medicine)和《细胞-代谢》(Cell Metabolism)等著名期刊的报道。
+“It’s a super interesting idea,” said Dr. Daniel Bessesen, an obesity expert and professor of medicine at the University of Colorado School of Medicine. With obesity rising, “we definitely need some new ideas.”
+“这是一个超级有趣的想法，”科罗拉多大学医学院肥胖问题专家和医学教授丹尼尔·贝塞森(Daniel Bessesen)说。随着肥胖问题的增加，“我们肯定需要一些新的想法。”
+The work began when Dr. Mone Zaidi, a professor of medicine at the Icahn School of Medicine at Mount Sinai in New York City, became curious about whether a reproductive hormone — F.S.H., or follicle-stimulating hormone — affects bone density.
+这项工作始于纽约市西奈山伊坎医学院(Icahn School of Medicine at Mount Sinai)的医学教授莫尼·扎伊迪(Mone Zaidi)，他对FSH生殖激素（或称促卵泡激素）给骨密度带来的影响感到好奇。
+It had long been assumed that the hormone’s role was limited to reproduction. F.S.H. stimulates the production of eggs in women and sperm in men.
+长期以来，人们认为这种激素的作用仅限于繁殖。FSH激素可以促进女性卵子和男性精子的产生。
+Researchers knew that blood levels of F.S.H. soar as women’s ovaries start to fail before menopause. At the same time, women rapidly lose bone — even when blood levels of estrogen, which can preserve bone, remain steady.
+研究人员已经知道，当女性的卵巢在更年期前开始逐渐丧失功能之际，血液中FSH的含量会上升。与此同时，女性开始出现骨质疏松——即便血液中能维持骨质的雌激素水平保持稳定也是如此。
+Dr. Zaidi reasoned that F.S.H. could be a culprit in bone loss. So he and his colleagues created an antibody that blocked F.S.H. in female mice whose ovaries had been removed.
+扎伊迪认为FSH激素可能是骨质疏松的罪魁祸首。所以他和同事们创造了一种阻断FSH激素的抗体，对已被切除卵巢的雌性小鼠使用。
+Since the mice were making no estrogen at all, they ought to have been losing bone. Indeed, the bone marrow in such mice usually fills with fat instead of developing bone cells. Much the same happens in women: That’s why their bones become less dense.
+由于小鼠根本不会产生雌激素，所以应该已经开始出现骨质疏松。事实上，这样的小鼠中的骨髓中通常充满脂肪，而不是产生骨骼细胞。女性也是如此：所以她们的骨密度会下降。
+But in Dr. Zaidi’s lab, the mice that received the antibody did not developed fat-filled bone marrow — and, to his enormous surprise, they lost large amounts of fat.
+但是在扎伊迪的实验室中，接受抗体的小鼠没有产生充满脂肪的骨髓，而且令他惊讶的是，它们还丧失了大量的脂肪。
+“This is a weird, weird finding,” he recalled telling his friend Dr. Clifford J. Rosen, a bone specialist at Maine Medical Center Research Institute. Dr. Zaidi persuaded Dr. Rosen to help repeat the experiments independently, each in his own lab.
+“这是一个非常奇怪的发现，”他回忆自己当时把这个发现告诉了朋友、缅因州医学中心研究所(Maine Medical Center Research Institute)的骨科专家克利福德·J·罗森(Clifford J. Rosen)。扎伊迪劝说罗森，在后者的实验室中独立地重复这一实验。
+At first, Dr. Rosen was dubious: “I said, ‘I don’t believe it, I think it’s not going to work, and it will cost a lot of money.’” But he received a grant for the research, and the two labs got started.
+起初，罗森表示怀疑：“我说，‘我不相信，我觉得行不通，而且会花掉很多钱。’”但是他获得了研究资助，两个实验室得以开始研究。
+Two and a half years later, they had their results — and they replicated Dr. Zaidi’s original findings. The researchers also came up with a theory that might explain increased metabolic rates in mice in which F.S.H. is blocked.
+两年半后，他们取得了成果——他们复制了扎伊迪的最初发现。研究人员还提出了一种可能解释FSH被阻断时小鼠代谢率升高的理论。
+There are two kinds of fat in the body: White fat primarily stores energy, and brown fat burns calories and throws off heat.
+动物和人体内有两种脂肪：白脂肪主要储存能量，棕脂肪燃烧卡路里，释放热量。
+Brown fat is more common in children, but researchers have found that adults also carry small amounts. In the experimental mice, white fat was being converted to brown fat.
+棕脂肪在儿童中更为常见，但研究人员发现，成年人也携带少量棕色脂肪。在接受实验的小鼠当中，白脂肪被转化为棕脂肪。
+At the moment, Dr. Rosen is withholding judgment about whether the results will apply to humans. “I think the idea has some credibility,” he said. “But does it mean anything? I don’t know.”
+目前，罗森尚未对结果是否适用于人类做出判断。“我认为这个想法有一定的可信度，”他说。“但它有什么样的意义？我不知道。”
+But these are not the only researchers to find a link between obesity and the strange interplay of hormones.
+但他们不是唯一在肥胖和激素的怪异作用之间找到关联的研究人员。
+Wendy Kohrt, a professor of medicine at the University of Colorado, has been studying the effects of menopause on women’s body fat and the amount of calories women burn.
+科罗拉多大学医学教授温迪·柯尔特(Wendy Kohrt)一直在研究更年期对女性体脂以及女性卡路里燃烧的影响。
+Dr. Kohrt has given healthy premenopausal women a drug that blocks production of estrogen and F.S.H., putting them into a reversible state of menopause.
+柯尔特给予健康的更年期前女性一种阻止雌激素和FSH生产的药物，使她们处于可逆的更年期状态。
+Within five months, she found, the women’s fat moves to their abdomens, increasing by 11 percent on average. And they burn 50 fewer calories per day.
+她发现在五个月内，这些女性的脂肪向腹部的移动平均增长了11％。她们每天的热量燃烧减少了50卡路里。
+The effect is reversed when the participants stop taking the drug or when Dr. Kohrt gives them estrogen.
+当参与者停止服用药物，或者柯尔特给她们雌激素时，这种效应会被逆转。

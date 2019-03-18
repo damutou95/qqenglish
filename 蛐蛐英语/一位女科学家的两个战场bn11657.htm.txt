@@ -1,0 +1,96 @@
+BERKELEY, Calif. — As a child in Hilo, one of the less touristy parts of Hawaii, Jennifer A. Doudna felt out of place. She had blond hair and blue eyes, and she was taller than the other kids, who were mostly of Polynesian and Asian descent.
+加利福尼亚州伯克利——在游客稀少的夏威夷城市希洛(Hilo)，孩提时的詹妮弗·A·杜德纳(Jennifer A. Doudna)感觉自己和这个地方格格不入。她拥有一头金发，蓝色的眼睛，又比其他孩子高出一截，周围的孩子大部分是波利尼西亚裔或亚裔。
+“I think to them I looked like a freak,” she recently recalled. “And I felt like a freak.”
+“我想在他们看来我像是一个怪胎，”不久前杜德纳回忆道，“而且我感觉自己也像是个怪胎。”
+Her isolation contributed to a kind of bookishness that propelled her toward science. Her upbringing “toughened her up,” said her husband, Jamie Cate. “She can handle a lot of pressure.”
+与外界的隔阂带给她的是促使她走向科学的一种书卷气。这样的生长环境“让她在磨砺中成长”，她的丈夫杰米·凯特(Jamie Cate)说。“她能够应对巨大的压力。”
+These days, that talent is being put to the test.
+近来，这位才女正面临着考验。
+Three years ago, Dr. Doudna, a biochemist at the University of California, Berkeley, helped make one of the most monumental discoveries in biology: a relatively easy way to alter any organism’s DNA, just as a computer user can edit a word in a document.
+杜德纳博士是加州大学伯克利分校的生物化学家。3年前，她帮助完成了生物学界堪称不朽的一项发现：用一种比较简单的方法来改变任何生物体的DNA，犹如电脑使用者可以在文档中编辑一个单词一样。
+The discovery has turned Dr. Doudna (the first syllable rhymes with loud) into a celebrity of sorts, the recipient of numerous accolades and prizes. The so-called Crispr-Cas9 genome editing technique is already widely used in laboratory studies, and scientists hope it may one day help rewrite flawed genes in people, opening tremendous new possibilities for treating, even curing, diseases.
+这一发现让杜德纳成为名人，她获得了无数的荣誉和奖项。这一被称为Crispr-Cas9的基因组编辑技术已经被广泛应用于实验室研究，科学家们希望，未来它可以帮助重新编写人类有缺陷的基因，为治疗甚至是治愈疾病带来新的、巨大的可能性。
+But now Dr. Doudna, 51, is battling on two fronts to control what she helped create.
+不过现在，51岁的杜德纳正奋战在两个战场，来控制她帮助发明的Crispr-Cas9技术。
+While everyone welcomes Crispr-Cas9 as a strategy to treat disease, many scientists are worried that it could also be used to alter genes in human embryos, sperm or eggs in ways that can be passed from generation to generation. The prospect raises fears of a dystopian future in which scientists create an elite population of designer babies with enhanced intelligence, beauty or other traits.
+就在每个人都乐见Crispr-Cas9成为治疗疾病的一种策略时，许多科学家担忧，它可能会被用于改变人类胚胎、精子或卵子中的基因，如此一来，这些基因改变可以被遗传给一代又一代人。这样的前景让我们对未来充满恐惧：在这个反乌托邦的未来，科学家制造出一个精英群体，经过设计的婴儿拥有增强的智力、美貌或其他特性。
+Scientists in China reported last month that they had already used the technique in an attempt to change genes in human embryos, though on defective embryos and without real success.
+上个月，中国科学家宣称，他们已经使用这项技术尝试改变人类胚胎的基因，这个实验是在有缺陷的胚胎上进行，并没有成功。
+Dr. Doudna has been organizing the scientific community to prevent this ethical line from being crossed. “The idea that you would affect evolution is a very profound thing,” she said.
+杜德纳博士一直在组织科学界人士防止伦理底线遭到破坏。“影响进化的想法是一件非常严重的事。”她说。
+She is also fighting for control of what could be hugely lucrative intellectual property rights to the genome editing technique. To the surprise of many, the first sweeping patents for the technology were granted not to her, but to Feng Zhang, a scientist at the Broad Institute and M.I.T.
+杜德纳同时也在争取控制这项基因编辑技术的知识产权，它可能会带来巨大的财富。令人惊讶的是，与这项技术相关的第一批专利并没有授予她，而是授予麻省理工学院和布罗德研究所(Broad Institute)的科学家张锋。
+The University of California is challenging the decision, and the nasty skirmish has cast a bit of a pall over the field.
+加州大学对这一决议提出了质疑。因为巨大的争议，基因编辑技术笼罩在阴云之中。
+“I really want to see this technology used to help people,” Dr. Doudna said. “It would be a shame if the I.P. situation would block that.”
+“我真的希望看到这项技术用于帮助人类。”杜德纳博士说，“如果知识产权机构阻止这么做，这将令人遗憾。”
+The development of the Crispr-Cas9 technique is a story in which obscure basic biological research turned out to have huge practical implications. For Dr. Doudna, though, it is only one accomplishment in a stellar career.
+Crispr-Cas9技术的发展，可以被认为是一个鲜为人知的基础生物学研究发展为巨大应用价值的故事。不过，对杜德纳博士来说，Crispr-Cas9只是她辉煌职业生涯中的一项成就而已。
+“She’s been a high-impact scientist from the time she was a graduate student,” said Thomas Cech, a Nobel laureate and professor of chemistry and biochemistry at the University of Colorado, for whom Dr. Doudna was a postdoctoral researcher. “New topics, new fields of science, but she just has a knack for discovery.”
+“从研究生时代开始，她就一直是个具有高度影响力的科学家。”诺贝尔奖得主托马斯·切赫(Thomas Cech)说，他是科罗拉多州大学化学和生物化学教授，杜德纳曾跟随他做博士后研究。“新的主题，新的科学领域，但是她就是有发现的技能。”
+Dr. Doudna was 7 when she moved to Hilo, where her father taught literature at the University of Hawaii campus there, and her mother lectured on history at a community college. Their daughter loved exploring the rain forests and was fascinated by how things worked. She found her calling in high school after hearing a lecture by a scientist about her research into how normal cells became cancerous.
+杜德纳7岁时，全家搬到希洛。父亲在夏威夷大学教文学，母亲在一个社区大学讲授历史，他们的女儿喜欢探索热带雨林，对事物如何运行很着迷。在高中时期，她听了一个科学家的讲座，这位科学家讲解了自己是怎样研究正常的细胞如何变成癌细胞的。因为这次讲座， 杜德纳找到了自己的使命。
+“I was just dumbstruck,” Dr. Doudna recalled. “I wanted to be her.”
+“我当时目瞪口呆。”杜德纳回忆道，“我希望自己成为像她那样的科学家。”
+After studying biochemistry at Pomona College in California, she went to Harvard for graduate school. There her adviser, the future Nobel laureate Jack Szostak, was doing research on RNA. Some scientists believe that RNA, not DNA, was the basis of early life, since the molecule can both store genetic information and catalyze chemical reactions.
+在加州的波莫纳学院(Pomona College)学习生物化学后，她去了哈佛的研究生院。她的导师、2009年诺贝尔生理学或医学奖获得者杰克·绍斯塔克(Jack Szostak)当时在做RNA的研究。一些科学家相信，RNA是早期生命的基础，而不是DNA，因为RNA分子可以同时存储遗传信息，又能催化化学反应。
+Dr. Doudna earned her doctoral degree by engineering a catalytic RNA that could self-replicate, adding evidence to that theory. But her inability to visualize this catalytic RNA hindered her work.
+杜德纳凭借改造催化性RNA使之具有自我复制能力获得博士学位，这也为RNA是早期生命基础的理论增加了证据。但是，无法使这种催化性RNA可视化阻碍了她的研究。
+So as a postdoctoral researcher in Colorado, she decided to try to determine the three-dimensional atomic structure of RNA using X-ray diffraction — and succeeded, though she had had no formal training in the technique. Structural and biochemical studies of RNA in action have been her forte ever since.
+因此，在科罗拉多州从事博士后研究时，她决定尝试使用X射线衍射确定RNA的三维原子结构并且取得了成功，尽管她没有经过正规的技术训练。自那之后，RNA结构和生物化学研究成为她的特长。
+In 2000, while on the faculty at Yale, she won the Alan T. Waterman Award, given each year by the National Science Foundation to an exceptional young scientist. She moved to Berkeley in 2002.
+2000年，还是耶鲁教员的杜德纳获得艾伦·沃特曼奖(Alan T. Waterman Award)，这一奖项由美国国家科学基金每年授予一位杰出的青年科学家。2002年，她赴伯克利任职。
+In 2005, Dr. Doudna was approached by Jillian Banfield, an environmental researcher at Berkeley who had been sequencing the DNA of unusual microbes that lived in a highly acidic abandoned mine. In the genomes of many of these microbes were unusual repeating sequences called “clustered regularly interspaced short palindromic repeats,” or Crispr.
+2005年，伯克利大学的一位环境科学的研究者吉利安·班菲尔德(Jillian Banfield)找到杜德纳，班菲尔德当时正在对高度酸性的废气矿井中的罕见微生物进行DNA测序。许多这些微生物的基因组存在罕见的重复序列，被称作“规律成簇的间隔短回文重复”，即Crispr。
+No one was quite sure what they did, though over the next few years scientists elsewhere established that these sequences were part of a bacterial immune system. Between the repeated sequences were stretches of DNA taken from viruses that had previously infected the bacteria — genetic most-wanted posters, so to speak.
+即便在此后的几年时间里，没有人确定它们的功能，直到其他地方的科学家证实，这些序列是细菌免疫系统的一部分。这些重复序列之间的DNA片段源自于曾经侵染细菌的病毒——可以这么说，这是细菌最想得到的遗传标识。
+If the same virus invaded again, these stretches of DNA would permit the bacteria to recognize it and destroy it by slicing up its genetic material. Dr. Doudna was trying to figure out exactly how this happened.
+如果相同的病毒再次入侵，这些DNA片段将允许细菌识别这一病毒并通过切割它的遗传物质摧毁它。杜德纳试图弄清楚这到底是如何发生的。
+“I remember thinking this is probably the most obscure thing I ever worked on,” she said.
+“我记得，我当时认为这可能是我研究过的最难懂的东西。”她说。
+It would prove to have wide use. At a conference in early 2011, she met Emmanuelle Charpentier, a French microbiologist at Umea University in Sweden, who had already made some fundamental discoveries about the relatively simple Crispr system in one bacterial species.
+日后它将被证明有着广泛的用途。在2011年初的一个会议上，她遇到了瑞典于默奥大学(Umea University)的法国微生物学家埃马纽埃尔·卡彭蒂耶(Emmanuelle Charpentier)，她已经在一个细菌物种中发现了一个相对简单的Crispr系统。
+The bacterial expert and the structural biologist decided to work together.
+细菌专家和结构生物学家决定联手研究。
+“It was very enjoyable, because we were complementary,” said Dr. Charpentier, who recalled sitting in her office near the North Pole while Dr. Doudna regaled her with stories about Hawaii.
+“合作很愉快，因为我们刚好互补。”卡彭蒂耶博士说。她坐在靠近北极的办公室回忆起，杜德纳讲述的关于夏威夷的故事让她乐不可支。
+Along with postdoctoral researchers Martin Jinek and Krzysztof Chylinski, the two scientists eventually figured out how two pieces of RNA join up with a protein made by the bacteria called Cas9 to cut DNA at a specific spot. The researchers also found that the two RNA pieces could be combined into one and still function.
+杜德纳的两个博士后马丁·伊内克(Martin Jinek)和克日什托夫·黑林斯基(Krzysztof Chylinski)，最终找到了两段RNA以及由细菌产生的蛋白质系统，又被称为Cas9蛋白系统，它可以在DNA特定位置进行剪切。研究人员还发现，这两个RNA片段可组合成一个片段，并仍能发挥作用。
+In a eureka moment, the scientists realized that this cellular defense system might be used to edit genomes, not just kill viruses.
+在这灵光闪现的时刻，科学家们意识到，这种细菌防御系统不仅可用来杀死病毒，也可用来编辑基因组。
+A specific sequence of guide RNA could be made to attach to a spot virtually anywhere on the genome, and the Cas9 protein would cleave the DNA at that spot. Then pieces of the DNA could be deleted or added, just as a film editor might cut a film and splice in new frames.
+Cas9蛋白系统中一个特定的向导RNA 序列可附着在基因组上几乎任何一个位置， Cas9蛋白会切开DNA序列的特定位点，然后在这个位点添加或删除特定的DNA片段，如同电影剪辑那样，删掉或拼接上一个新的电影片段。
+The researchers demonstrated this using DNA in a test tube. While there were other genome editing techniques, they found that Crispr-Cas9 was much simpler.
+研究人员在试管中演示了DNA编辑这一操作过程。虽然目前还有其他的基因组编辑技术，但是他们发现Crispr-Cas9技术要简单得多。
+The paper describing the technique, published by the journal Science in June 2012, set off a race to see if it would work in human, plant and animal cells.
+对这项技术的最早研究发表在2012年6月的《科学》杂志上，随后引发了一场对该技术是否可应用于人类、植物和动物细胞的争论。
+Dr. Doudna, whose expertise was in working with molecules, not cells, reported such a demonstration in human cells in January 2013. But her report came four weeks after two papers were published simultaneously, one by George Church at Harvard and the other by the Broad Institute’s Dr. Zhang.
+杜德纳博士的专业知识是在分子生物学领域，而不是细胞生物学领域。2013年1月，她在开放期刊eLife上发表了这项技术在人类细胞中的应用，就在4周之前，哈佛大学的乔治·切奇(George Church)以及布罗德研究所的张锋博士分别发表了一篇论文。
+Now the University of California and the Broad Institute are arguing before the federal patent office over whether Dr. Doudna or Dr. Zhang, who last year received the Waterman Award for young scientists that Dr. Doudna had won years earlier, was the first to invent the genome editing technique. So far, the patents have gone to Dr. Zhang.
+Crispr-Cas9技术专利之战悄然打响，现在，加州大学和布罗德研究所在美国联邦专利局就Crispr-Cas9技术专利应授予谁而争论不休。张锋博士去年也获得了杜德纳多年前获得过的沃特曼奖。不过，到目前为止，张锋博士仍是Crispr-Cas9技术专利的拥有者。
+The Broad Institute claims that the paper by Dr. Doudna and Dr. Charpentier in 2012 did not demonstrate how to alter DNA in cells with nuclei, including human cells, something requiring the inventive steps that Dr. Zhang took. His patent application included pages from a lab notebook he said demonstrated that he was doing Crispr genome editing even before the 2012 paper was published.
+布罗德研究所称，杜德纳博士和卡彭蒂耶博士2012年的那篇论文，并没有说明这项技术在包括人类细胞在内的有核细胞中如何改变DNA， 而张锋的工作则阐明了这一点。在Crispr-Cas9技术的专利申请材料中，包含有张锋的实验记录，显示他在2012年杜德纳的研究发表之前， 就在使用 Crispr编辑技术。
+The University of California says it filed for a patent months before Dr. Zhang did, though the Broad Institute says that initial application lacked necessary details. The university’s request to the patent office says that once the 2012 paper laid out the recipe, it was obvious how to use it in cells. The university also says Dr. Zhang’s notebook does not prove he could edit genomes before the 2012 paper.
+尽管布罗德研究所认为，最初的申请材料缺乏必要的细节，加州大学表示，他们提出专利申请的时间比张锋早几个月。加州大学还向美国专利局表示，杜德纳博士2012年的这篇论文一经发表，在细胞中如何使用它就变得显而易见，还说，张锋的实验记录材料并不能证明他在杜德纳发表论文之前就能编辑基因组。
+Patent disputes are often settled in time. In any event, Dr. Church of Harvard said, before Crispr-Cas9 could be used to treat disease, it would need important refinements from many other researchers.
+解决专利纠纷通常需要时日。哈佛大学切奇教授称，无论如何，在Crispr-Cas9技术可用来治疗疾病之前，还需要许多研究者对其加以改进。
+“It’s going to be hard to use Feng’s without Jennifer’s, and it would be hard to use either of them without further improvements,” he said.
+“如果没有杜德纳的发现，张锋的发明很难得到应用，而（这项技术）如果没有进一步的改进，他们二人的方法都难以应用。” 切奇教授说。
+The scientists have formed competing companies with rights to their patents and pending patents. Dr. Doudna co-founded Caribou Biosciences to work on research uses of Crispr-Cas9, and more recently, Intellia Therapeutics to work on disease treatments.
+此后，两位科学家凭借已有的专利以及申请中的专利分别成立了自己的公司。杜德纳博士与其他人共同创立Caribou Biosciences公司来继续Crispr-Cas9技术的研究，最近则成立了另一家公司Intellia Therapeutics，专注于疾病治疗。
+Dr. Church and Dr. Zhang are co-founders of Editas Medicine, which Dr. Doudna also helped start but then withdrew from. Dr. Charpentier, who is now at the Helmholtz Center for Infection Research in Germany, helped start Crispr Therapeutics. She and Dr. Doudna remain friends, but no longer collaborate on research.
+张锋与切奇教授联合创立了Editas Medicine公司，杜德纳博士也参与了公司的创建，但是之后她退出了。在德国亥姆霍兹感染研究中心(Helmholtz Center for Infection Research)工作的卡彭蒂耶博士帮助创建了Crispr Therapeutics公司。尽管她和杜德纳仍是朋友，但是她们两人不再合作研究。
+Even before the dust settles, researchers are moving ahead. While contending with the patents, Dr. Doudna began hearing reports that researchers were trying to use Crispr-Cas9 to make inheritable DNA changes in embryos. Genetically altered monkeys had already been created in China using the technique.
+在专利归属尘埃落定之前，研究人员仍在继续探索Crispr-Cas9技术。不过，最近杜德纳博士开始注意到，有研究者开始利用这一技术修饰人类胚胎细胞DNA的报告。去年，中国研究者就利用这一技术让基因编辑猴子成为现实。
+“It’s very far afield from the kind of chemistry I think about and know about,” she said. Still, she felt it would be irresponsible to ignore the rumors.
+“这和我所理解以及思考的化学领域相距甚远。”杜德纳说。但是她认为如果自己忽视这一传言，将是不负责任的。
+She organized a meeting of leading biologists in Napa, Calif., in January. In a subsequent commentary published in Science, the group called for a moratorium on attempts to create altered babies, though they said basic research on inheritable changes should still be done.
+今年1月，杜德纳在加利福尼亚纳帕(Napa)地区组织了一场由顶尖生物学家参加的会议。随后，这一群体有关呼吁暂停尝试创造基因改造的婴儿的评论发表在《科学》杂志上，尽管他们认为，关于人类遗传物质改变的基础研究仍可以进行 。
+Dr. Doudna said it was not practical to prohibit basic research. “You can’t really put a lid on it, even if you wanted to,” she said. She and others are trying to organize a bigger international meeting with participants from companies and governments as well as universities, possibly to set new guidelines.
+杜德纳博士称，禁止这一领域的基础研究工作并不现实。“即使你想要禁止，绝对的禁止显然是不可能的。”她说。目前，她正与其他研究者组织一个更大的国际会议，其中包括企业、大学以及政府的代表，将共同制定新的指导方针。
+She is also trying to cope with her newfound quasi-celebrity status. She has been invited to hobnob with entrepreneurs in Silicon Valley, to speak to science fiction writers, to advise Hollywood on science-themed movies. The garden, her hobby, has had to wait.
+杜德纳正在努力地适应她的准名人生活。她经常被企业家们邀请去硅谷演讲，参与科幻小说作家的畅谈，以及为好莱坞科学电影提供科学咨询。而她却无瑕顾及自己对花园种植的爱好 。
+In November, Dr. Doudna and Dr. Charpentier were each awarded $3 million Breakthrough Prizes, endowed by leading Internet entrepreneurs. They accepted their awards at an Oscars-like black-tie affair attended by movie stars like Cameron Diaz and Benedict Cumberbatch. Recently Time magazine listed the two scientists among the 100 most influential people in the world.
+2014年11月，杜德纳博士和卡彭蒂耶博士共同获得了生命科学突破奖(Breakthrough Prizes)，每人获得300万美元的奖金，该奖项由互联网领域的巨头企业家们创立。生命科学突破奖授奖仪式就如同奥斯卡奖一样隆重，参加者身着盛装，电影明星卡梅隆·迪亚兹(Cameron Diaz)和本尼迪克特·康伯巴奇(Benedict Cumberbatch)也受邀出席。同年，这两位女科学家被美国《时代》杂志评选为世界上100位最有影响力的人物。
+Dr. Doudna, who has a 12-year-old son, Andrew, also finds herself a role model for women in science. Her secret: “I have a great partner,” with whom she shares the chores.
+杜德纳有一个12岁的儿子，名叫安德鲁(Andrew)。杜德纳也深知自己成为女性科学家的榜样，而她的秘诀是，“有一个伟大的伴侣”，帮她分担家务活。

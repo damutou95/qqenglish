@@ -1,0 +1,20 @@
+MUNICH — WhatsApp, the popular Internet messaging service, will soon be free.
+慕尼黑——WhatsApp，一个流行的互联网通讯软件，将来不久后免费。
+That was the message from Jan Koum, the service’s founder, who announced on Monday that WhatsApp would stop charging people 99 cents annually for the service (individuals could use it for free for the first year).
+这是由创始人简·库姆带来的消息，他在星期一宣布，WhatsApp会停止收取99美分的年服务费（个人用户可以在第一年免费使用这款软件）。
+As part of the overhaul, the Internet message service — which now boasts almost a billion users worldwide and was bought by Facebook in 2014 for $19 billion — said that it would start experimenting with new ways to make money, including potentially charging companies like banks and airlines that wanted to contact WhatsApp users directly.
+作为大调整的一部分，这项互联网通讯服务目前在全球拥有骄人的10亿名客户，并且在2014年被Facebook（脸书）以190亿美元收购，当时宣称将开始探索新型的盈利模式，包括像银行、航空公司等想直接与WhatsApp用户构成联系的公司。
+Mr. Koum said that his team was still experimenting with how such services could work, and that many companies were already using the messaging service, particularly in developing countries, to connect with mobile-savvy customers.
+库姆先生提到，考虑到很多公司已经开始去连接那些精通移动生活的人，特别是在发展中国家，他的团队将继续探寻如何让这些构想变成现实。
+“We all get these messages elsewhere today – through text messages and phone calls,” the company said in a blog post on Monday, in reference to how companies talk directly with consumers. “So we want to test new tools to make this easier to do on WhatsApp.”
+“如今我们全部在别处通过短信或者电话得到这些生活信息，”Facebook周一在博客上关于怎样让公司直接联系客户发文说道，“所以我们想去测试一些新的办法，让这些事情通过使用WhatsApp来变得更简单。”
+By potentially charging companies to contact WhatsApp users, Mr. Koum’s new plan will see him go head-to-head with Facebook Messenger, the social network’s separate Internet messaging service, which also allows individuals to talk with companies. Facebook also has a deal with Uber, the ride-booking service, to allow users to hail a taxi directly from its messaging application.
+通过向这些想联系WhatsApp客户的公司收费，库姆先生的新计划将使WhatsApp与Facebook Messenger产生正面交锋。Facebook Messenger是一款从Facebook社交网络中独立出来，同样允许个人用户与公司进行联系的互联网通讯服务。Facebook也与租车服务公司Uber达成了一项协议，允许用户直接从通讯软件中叫车。
+WhatsApp’s founder did not say on Monday when the company’s new business model would begin, though individuals’ current subscriptions will be phased out over the coming weeks.
+虽然WhatsApp的个人续费服务会在未来的几周逐步停止，但其创始人在周一并没有提到这个新的商业模式何时开始。
+Despite WhatsApp’s pledge to offer the service free, analysts had questioned how much money the Internet messaging service had made from charging people less than a dollar a year to send messaging to friends and family around the world.
+尽管WhatsApp保证免费提供通讯服务，但分析家们就这项每人每年只收费不到一美元，却可以免费发送消息给朋友和家人的服务到底能在全球赚多少钱充满了疑问。
+Still, the company said on Monday that as more people had joined the service, it had proved too unwieldy to find ways for people to pay even the modest annual charge.
+当然，WhatsApp在周一也提到了，随着越来越多的人加入这项服务，为了支付如此低廉、合适的价格依然被证明是充满了不便。
+“As we’ve grown, we’ve found that this approach hasn’t worked well,” the company said. “Many WhatsApp users don’t have a debit or credit card number and they worried they’d lose access to their friends and family after their first year.”
+“随着我们的发展，我们发现收取年费这个方式并不太好，”WhatsApp解释道，“因为我们的许多用户并没有一张借记卡或者信用卡，因此他们担心一年后他们会失去与朋友与家人联系的机会。”

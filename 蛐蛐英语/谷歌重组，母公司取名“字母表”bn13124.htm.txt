@@ -1,0 +1,24 @@
+SAN FRANCISCO — Google was born as a company that did Internet search. Over time, it has broadened its interests into everything from drones to pharmaceuticals to venture capital.
+旧金山——谷歌(Google)诞生时是一个互联网搜索公司。随着时间推移，它的兴趣已经扩大到了从无人机、制药到风险投资的诸多领域。
+Now Google is changing its corporate structure to reflect that it has essentially become a holding company with a disparate collection of businesses.
+谷歌实质上已经成为一家控股公司，旗下囊括各种不同的业务。现在，谷歌对公司的架构做出了调整，以反映这种变化。
+Larry Page, co-founder and chief executive of Google, said in a blog post on Monday that he was creating a new company named Alphabet that he would run along with Sergey Brin, the other co-founder of Google.
+周一，谷歌联合创始人兼首席执行官拉里·佩奇(Larry Page)在博客中表示，他要建立一家名为“字母表”(Alphabet)的公司；并将与谷歌的另一位创始人谢尔盖·布林(Sergey Brin)共同经营这家新公司。
+Alphabet is to act as a parent entity, with several other companies operating under the structure. The biggest among them would be Google. In addition, Alphabet is to house other businesses such as Nest, the smart thermostat maker, and Calico, a company focused on longevity, among others.
+Alphabet将充当一个母实体，在其架构中包括若干家其他企业，其中最大的一家是谷歌。此外，Alphabet还会囊括其他业务，比如智能温控器生产商Nest，以及关注于让人类延年益寿的Calico等等。
+“For Sergey and me this is a very exciting new chapter in the life of Google — the birth of Alphabet,” wrote Mr. Page in the blog post. “We liked the name Alphabet because it means a collection of letters that represent language, one of humanity’s most important innovations, and is the core of how we index with Google search.”
+“对于布林和我来说，这是谷歌的生命中一个非常令人兴奋的新篇章——Alphabet的诞生，”佩奇在博客文章中写道。“我们很喜欢Alphabet这个名字，因为它指的是反映语言的一套字母，而语言是人类的最重要的创新之一，也是我们在谷歌搜索中建立索引的核心。”
+For Mr. Page, the decision to shake up Google’s structure is driven by the desire to reinvigorate the company with an entrepreneurial culture and to give operating divisions more leeway to make their own decisions. The structure is reminiscent of that of Berkshire Hathaway, Warren E. Buffett’s industrial empire, a giant conglomerate that includes railroads and Fruit of the Loom underwear.
+对于佩奇来说，改变谷歌的架构是为了重振这家公司的创业文化，并为业务部门自行决策提供更多的灵活性。该架构有些类似沃伦·巴菲特(Warren E. Buffett)的产业帝国伯克希尔-哈撒韦公司(Berkshire Hathaway)，那是一个巨型集团，旗下业务包括铁路和“鲜果布衣”(Fruit of the Loom)内衣。
+Over the past few years, investors have expressed concern that Google has become distracted from its core web search business, instead pursuing projects fancied by its founders, like self-driving cars or a pill to detect cancer. The new structure formalizes the different initiatives under a portfolio-like approach.
+过去的几年里，投资者已经表达了一些担忧，他们认为，谷歌的注意力从网络搜索这个核心业务，分散到了其创始人热衷的项目上，比如无人驾驶汽车和检测癌症的药物。现在这个新的架构，则以类似于投资组合的方式，正式确定了不同业务的地位。
+The move also provides more financial transparency. Starting in the fourth quarter of this year, Alphabet, the holding company, will break out financial results for Google Inc., as well as the overall company. Investors will not be able to see individual results for other companies, but it will make it easier to get a sense of how Google’s core business is doing. Wall Street has been pushing for more details on how Google’s advertising business is faring, as well as how much money it is plowing into new, more speculative areas.
+此举也提供了更多的财务透明度。从今年四季度起，控股公司Alphabet将分别披露谷歌以及公司整体的财务业绩。投资者无法看到其他公司各自的业绩，但可以更容易地了解谷歌核心业务的经营状况。华尔街一直在力促谷歌，更详细地披露广告业务的情况，以及它把多少钱分配到了投机性更高的新领域中。
+Under the new structure, Google will be run by Sundar Pichai as chief executive; Mr. Pichai has been Google’s senior vice president in charge of products. Google will encompass most of the company’s Internet businesses such as search, maps, YouTube and applications like Gmail.
+在新的架构下，负责谷歌产品的高级副总裁桑达尔·皮查伊(Sundar Pichai)将成为谷歌首席执行官，负责其经营管理。谷歌将涵盖该公司的大部分互联网业务，比如搜索、地图、YouTube，以及Gmail这样的应用。
+Ruth Porat, chief financial officer of Google, will remain in that role and also be chief financial officer for Alphabet.
+谷歌首席财务官露丝·波拉特(Ruth Porat)将兼任Alphabet的首席财务官。
+Other entities under Alphabet will include Google Fiber, a provider of ultrafast Internet service. There will also be two financial businesses, Google Ventures, the venture capital arm, and Capital, which does private-equity-like deals. Google X, which includes projects like self-driving cars, a drone delivery service and an attempt to make Internet-connected balloons, will also be managed separately and be run by Mr. Brin.
+Alphabet下辖的其他实体包括超高速互联网服务的提供商谷歌光纤(Google Fiber)，还有两家金融公司——谷歌风投(Google Ventures)和开展私募股权类交易的Capital。而无人驾驶汽车、无人机送货服务，以及互联网接入气球项目所属的Google X也将单独管理，并由布林负责经营。
+“We’ve long believed that over time companies tend to get comfortable doing the same thing, just making incremental changes,” Mr. Page wrote. “But in the technology industry, where revolutionary ideas drive the next big growth areas, you need to be a bit uncomfortable to stay relevant.”
+“我们一直觉得，随着时间推移，企业往往会安于做同样的事情，只采取一些增量的变化，”佩奇写道。“但是在科技行业，革新性的想法会驱动下一个重要的增长领域，你需要做一点脱离舒适区的事情，才不会靠边站。”

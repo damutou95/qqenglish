@@ -1,0 +1,64 @@
+In a significant advance in the study of mental ability, a team of European and American scientists announced Monday that they had identified 52 genes linked to intelligence in nearly 80,000 people.
+周一，欧洲和美国的一个科学家团队宣布，他们在心理能力研究方面取得了重大进展，在近8万人中确定了52个与智力相关的基因。
+These genes do not determine intelligence, however. Their combined influence is minuscule, the researchers said, suggesting that thousands more are likely to be involved and still await discovery. Just as important, intelligence is profoundly shaped by the environment.
+不过，这些基因并不能决定智力。研究人员称，它们的综合影响微不足道，很可能还有数千个基因也参与其中，等待被发现。同样重要的是，智力深受环境影响。
+Still, the findings could make it possible to begin new experiments into the biological basis of reasoning and problem-solving, experts said. They could even help researchers determine which interventions would be most effective for children struggling to learn.
+不过专家表示，这些发现可以让他们开始对推理和解题的生物基础进行新的实验。它们甚至可以帮助研究者确定哪些干预方式会对学习不好的儿童最有效。
+“This represents an enormous success,” said Paige Harden, a psychologist at the University of Texas, who was not involved in the study.
+“这是巨大的成功，”德克萨斯大学(University of Texas)的心理学家佩奇·哈登(Paige Harden)说。她没有参与这项研究。
+For over a century, psychologists have studied intelligence by asking people questions. Their exams have evolved into batteries of tests, each probing a different mental ability, such as verbal reasoning or memorization.
+一个多世纪以来，心理学家通过问人们问题来研究智力。他们的测试发展为一系列测验，每项测验针对不同的心理能力，比如口头推理能力或记忆力。
+In a typical test, the tasks might include imagining an object rotating, picking out a shape to complete a figure, and then pressing a button as fast as possible whenever a particular type of word appears.
+一项典型的测试可能包括的任务是想像一个物体的旋转；选出一个图形，补全一个图像；每当特定类型的单词出现时，尽可能快地按下一个按钮。
+Each test-taker may get varying scores for different abilities. But overall, these scores tend to hang together — people who score low on one measure tend to score low on the others, and vice versa. Psychologists sometimes refer to this similarity as general intelligence.
+每位受试者在不同的能力测试中可能获得不同的分数。但总体来讲，这些分数趋于一致——在某项测试中得分较低的人，往往在其他测试中的得分也比较低，反之亦然。心理学家有时将这种类似性称为一般智力。
+It’s still not clear what in the brain accounts for intelligence. Neuroscientists have compared the brains of people with high and low test scores for clues, and they’ve found a few.
+尚不清楚大脑的哪个方面决定智力。神经系统科学家对比了得分较高和较低的人的大脑，找到了一些线索。
+Brain size explains a small part of the variation, for example, although there are plenty of people with small brains who score higher than others with bigger brains.
+比如，大脑的大小可以解释一小部分变量，虽然有很多大脑较小的人得分比大脑较大的人更高。
+Other studies hint that intelligence has something to do with how efficiently a brain can send signals from one region to another.
+还有一些研究表明，智力与大脑可以将信号从一个区域传递到另一个区域的效率有关。
+Danielle Posthuma, a geneticist at Vrije University Amsterdam and senior author of the new paper, first became interested in the study of intelligence in the 1990s. “I’ve always been intrigued by how it works,” she said. “Is it a matter of connections in the brain, or neurotransmitters that aren’t sufficient?”
+阿姆斯特丹自由大学(Vrije University Amsterdam)遗传学家、这篇新论文的责任作者丹妮耶勒·波斯杜马(Danielle Posthuma)从上世纪90年代开始对智力研究产生兴趣。“我一直想知道它是如何运转的，”她说，“它与大脑内部的连接有关，还是与神经递质是否充足有关？”
+Posthuma wanted to find the genes that influence intelligence. She started by studying identical twins who share the same DNA. Identical twins tended to have more similar intelligence test scores than fraternal twins, she and her colleagues found.
+波斯杜马想找出影响智力的基因。她先是研究具有相同DNA的同卵双胞胎。她和同事们发现，同卵双胞胎在智力测试中的得分往往比异卵双胞胎更接近。
+Hundreds of other studies have come to the same conclusion, showing a clear genetic influence on intelligence. But that doesn’t mean that intelligence is determined by genes alone.
+成百上千项其他研究也得出了相同的结论，表明基因对智力有明显影响。但那并不意味着，智力完全是由基因决定的。
+In 2014, Posthuma was part of a large-scale study of more than 150,000 people that revealed 108 genes linked to schizophrenia. But she and her colleagues had less luck with intelligence, which has proved a hard nut to crack for a few reasons.
+2014年，波斯杜马参与了一项涉及逾15万人的大规模研究，发现了108个与精神分裂症有关的基因。但她和同事们在智力研究方面就没有这么幸运，后者被证明是个很难解决的问题，原因包括多个方面。
+Standard intelligence tests can take a long time to complete, making it hard to gather results on huge numbers of people. Scientists can try combining smaller studies, but they often have to merge different tests together, potentially masking the effects of genes.
+标准的智力测试要花很长时间完成，所以很难收集大量人群的测试结果。科学家可以尝试把更小规模的研究结果综合起来，但他们因此不得不经常把不同的测试融合起来，这有可能掩盖基因的效果。
+As a result, the first generation of genome-wide association studies on intelligence failed to find any genes. Later studies managed to turn up promising results, but when researchers turned to other groups of people, the effect of the genes again disappeared.
+结果，第一代关于全基因组与智力关系的研究没有找到任何基因。后来，有些研究得出了前景不错的结果，但是当研究者转向其他群体时，这些基因的效果又消失了。
+But in the past couple years, larger studies relying on new statistical methods finally have produced compelling evidence that particular genes really are involved in shaping human intelligence.
+但在过去几年里，依靠新统计方式的更大规模的研究最终得出了令人信服的证据，表明某些基因的确与人类智力相关。
+“There’s a huge amount of real innovation going on,” said Stuart J. Ritchie, a geneticist at the University of Edinburgh who was not involved in the new study.
+“出现了大量真正的创新，”爱丁堡大学(University of Edinburgh)的遗传学家斯图尔特·J·里奇(Stuart J. Ritchie)说。他没有参与这项新研究。
+Posthuma and other experts decided to merge data from 13 earlier studies, forming a vast database of genetic markers and intelligence test scores. After so many years of frustration, Posthuma was pessimistic it would work.
+波斯杜马和其他专家决定把之前13项研究的数据融合起来，组成一个庞大的关于基因标记物和智力测试分数的数据库。经过这么多年的挫折，波斯杜马一度对它能否奏效感到悲观。
+“I thought, ‘Of course we’re not going to find anything,'” she said.
+“当时我心想，‘我们当然不会有任何发现，’”她说。
+She was wrong. To her surprise, 52 genes emerged with firm links to intelligence. A dozen had turned up in earlier studies, but 40 were entirely new.
+她错了。出乎她的意料，他们发现52个基因与智力存在确定的联系。其中十几个是在之前的研究中就已经被发现的，但还有40个完全是新发现的。
+But all of these genes together account for just a small percentage of the variation in intelligence test scores, the researchers found; each variant raises or lowers IQ by only a small fraction of a point.
+不过研究者发现，所有这些基因加在一起，只占智力测试分数变量的一小部分，每个变量对智商分数的影响还远远不到1%。
+“It means there’s a long way to go, and there are going to be a lot of other genes that are going to be important,” Posthuma said.
+“那意味着，还有很多工作要做，还会发现其他很多重要的基因，”波斯杜马说。
+Christopher F. Chabris, a co-author of the new study at Geisinger Health System in Danville, Pennsylvania, was optimistic that many of those missing genes would come to light, thanks to even larger studies involving hundreds of thousands, perhaps millions, of people.
+该研究的合作者克里斯托弗·F·查布里斯(Christopher F. Chabris)对此表示乐观，他认为很多遗失的基因会被发现，因为会出现涉及数十万甚至数百万人的更大型的研究。这项新研究是宾夕法尼亚州丹维尔市的盖辛格健康系统(Geisinger Health System)组织进行的。
+“It’s just like astronomy getting better with bigger telescopes,” he said.
+“这就像是有了更好的望远镜，天文研究也进展得更好，”他说。
+In the new study, Posthuma and her colleagues limited their research to people of European descent because that raised the odds of finding common genetic variants linked to intelligence.
+在这项新研究中，波斯杜马和同事们仅研究了欧洲裔，因为这样能增加发现与智力相关的共同基因变量的几率。
+But other gene studies have shown that variants in one population can fail to predict what people are like in other populations. Different variants turn out to be important in different groups, and this may well be the case with intelligence.
+不过，其他基因研究表明，一个人群中的变量可能无法预测其他人群的情况。结果证明，不同的变量在不同人群中的重要程度不同，关于智力的情况很可能也是这样的。
+“If you try to predict height using the genes we’ve identified in Europeans in Africans, you’d predict all Africans are 5 inches shorter than Europeans, which isn’t true,” Posthuma said.
+“如果你试图用我们在欧洲人身上找到的基因预测非洲人的身高，你得到的预测结果是非洲人整体上比欧洲人矮五英寸，但那不是事实，”波斯杜马说。
+Studies like the one published today don’t mean that intelligence is fixed by our genes, experts noted. “If we understand the biology of something, that doesn’t mean we’re putting it down to determinism,” Ritchie said.
+专家们指出，今天出版的这类研究并不意味着，智力是由基因决定的。“我们了解某项活动的生物基础，并不意味着我们认为那是决定性的，”里奇说。
+As an analogy, he noted that nearsightedness is strongly influenced by genes. But we can change the environment — in the form of eyeglasses — to improve people’s eyesight.
+他举例说，近视深受基因的影响。但我们可以通过改变环境来提高人们的视力，比如戴上眼镜。
+Harden predicted that an emerging understanding of the genetics of intelligence would make it possible to find better ways to help children develop intellectually. Knowing people’s genetic variations would help scientists measure how effective different strategies are.
+哈登预测，新出现的对智力的遗传学理解将有助于我们找到帮助儿童开发智力的更好方式。知道人们的基因变量将帮助科学家衡量不同策略的效果。
+Still, Harden said, we don’t have to wait for such studies to change people’s environments for the better. “We know that lead harms children’s intellectual abilities,” she said. “There’s low-hanging policy fruit here.”
+不过，哈登表示，我们不必等待这些研究的结果，就可以改善人们的环境。“我们知道，铅损害儿童的智力，”她说，“在这方面，很容易取得一些政策成果。”

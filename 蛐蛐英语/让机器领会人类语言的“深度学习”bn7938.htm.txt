@@ -1,0 +1,52 @@
+Using an artificial intelligence technique inspired by theories about how the brain recognizes patterns, technology companies are reporting startling gains in fields as diverse as computer vision, speech recognition and the identification of promising new molecules for designing drugs.
+一些科技公司宣称，利用一项基于人脑识别规律模式理论的人工智能技术，它们在计算机视觉、语音识别，以及辨识可望用于制药的新分子等众多领域取得了惊人的成果。
+The advances have led to widespread enthusiasm among researchers who design software to perform human activities like seeing, listening and thinking. They offer the promise of machines that converse with humans and perform tasks like driving cars and working in factories, raising the specter of automated robots that could replace human workers.
+这些成果在那些设计执行看、听、思考等人类活动的软件的研究者中激起了广泛热情。它们提供了科技前景，让人们有望制造出能够与人类交流、能够完成开车及工厂劳动等任务的机器，同时也让人们更加担心，能够取代人工的自动机器人即将问世。
+The technology, called deep learning, has already been put to use in services like Apple’s Siri virtual personal assistant, which is based on Nuance Communications’ speech recognition service, and in Google’s Street View, which uses machine vision to identify specific addresses.
+目前，这种名为“深度学习”的技术已经被应用于以纽昂斯通讯公司(Nuance Communications)的语音识别技术为基础的虚拟个人助手“苹果语音助手”(Apple's Siri)，以及利用机器视觉来辨识地址的“谷歌街景”(Google’s Street View)等服务软件。
+But what is new in recent months is the growing speed and accuracy of deep-learning programs, often called artificial neural networks or just “neural nets” for their resemblance to the neural connections in the brain.
+但是，近几个月才有的新事物是深度学习程序不断提高的速度和精确度，这些程序通常被称作人工神经网络，或者简称为“神经网”，原因是它们与人脑的神经连结相似。
+“There has been a number of stunning new results with deep-learning methods,” said Yann LeCun, a computer scientist at New York University who did pioneering research in handwriting recognition at Bell Laboratories. “The kind of jump we are seeing in the accuracy of these systems is very rare indeed.”
+“深度学习的方法取得了一系列令人惊讶的新成果，”曾在贝尔实验室(Bell Laboratories)从事开创性笔迹识别研究的纽约大学(New York University)计算机科学家严恩·勒坤(Yann LeCun)说。“这些系统在精确度上的巨大进步的确非常罕见。”
+Deep learning was given a particularly audacious display at a conference last month in Tianjin, China, when Richard F. Rashid, Microsoft’s top scientist, gave a lecture in a cavernous auditorium while a computer program recognized his words and simultaneously displayed them in English on a large screen above his head.
+上个月，深度学习在中国天津的一次会议上得到了十分高调的展示。当微软(Microsoft)首席科学家理查德·F·拉希德(Richard F. Rashid)在巨大的礼堂里发表演说时，电脑程序对他的讲话内容进行了识别，还用英语把这些内容实时显示在了他上方的大屏幕上。
+Then, in a demonstration that led to stunned applause, he paused after each sentence and the words were translated into Mandarin Chinese characters, accompanied by a simulation of his own voice in that language, which Dr. Rashid has never spoken.
+之后，他在讲完每句话之后稍作停顿，程序就把这些话翻译成了中文，同时还附上了模拟他嗓音的汉语配音，尽管拉希德从来都没说过汉语。这个展示震惊了观众，现场掌声雷动。
+The feat was made possible, in part, by deep-learning techniques that have spurred improvements in the accuracy of speech recognition.
+之所以能取得这个成果，部分是由于深度学习技术推动了语音识别精确度的提高。
+Dr. Rashid, who oversees Microsoft’s worldwide research organization, acknowledged that while his company’s new speech recognition software made 30 percent fewer errors than previous models, it was “still far from perfect.”
+负责监管微软在全球各地的研究机构的拉希德表示，虽然微软新语音识别软件的误差要比之前的版本低30%，但“还是离完美很远”。
+“Rather than having one word in four or five incorrect, now the error rate is one word in seven or eight,” he wrote on Microsoft’s Web site. Still, he added that this was “the most dramatic change in accuracy” since 1979, “and as we add more data to the training we believe that we will get even better results.”
+“现在的误差率是七分之一到八分之一，不再是四分之一到五分之一，”他在微软的官方网站上写道。但是，他表示这仍然是自1979年以来“精确度方面的最显著进步”，“而且，随着我们将更多的数据加入训练过程，我们相信自己能取得更好的结果。”
+Artificial intelligence researchers are acutely aware of the dangers of being overly optimistic. Their field has long been plagued by outbursts of misplaced enthusiasm followed by equally striking declines.
+人工智能研究者非常清楚过分乐观的危险。长期以来，他们的研究领域一直充斥着不合时宜的爆发热情，随之而来的则是同样引人注目的倒退。
+In the 1960s, some computer scientists believed that a workable artificial intelligence system was just 10 years away. In the 1980s, a wave of commercial start-ups collapsed, leading to what some people called the “A.I. winter.”
+20世纪60年代，有些计算机科学家相信，他们距离可行的人工智能系统只有十年之遥。而在20世纪80年代，一大批商业科技新兴公司纷纷倒闭，导致了一些人所说的“AI之冬”（AI winter，即人工智能之冬——译注）。
+But recent achievements have impressed a wide spectrum of computer experts. In October, for example, a team of graduate students studying with the University of Toronto computer scientist Geoffrey E. Hinton won the top prize in a contest sponsored by Merck to design software to help find molecules that might lead to new drugs.
+然而，近期的成就给计算机领域的很多专家留下了深刻印象。举例来说，今年十月，在默克集团(Merck)赞助的用于寻找有可能衍生新药的分子的软件设计竞赛中，一个与加拿大多伦多大学(University of Toronto)的计算机科学家杰弗里·E·欣顿(Geoffrey E. Hinton)一起从事研究工作的研究生小组获得了头奖。
+From a data set describing the chemical structure of 15 different molecules, they used deep-learning software to determine which molecule was most likely to be an effective drug agent.
+利用深度学习软件，他们从描述了15种不同分子的化学结构的数据组中挑出了最可能成为有效药物助剂的那种分子。
+The achievement was particularly impressive because the team decided to enter the contest at the last minute and designed its software with no specific knowledge about how the molecules bind to their targets. The students were also working with a relatively small set of data; neural nets typically perform well only with very large ones.
+这个成果尤其令人震惊，因为这个团队是事到临头才决定参赛的，而且他们设计软件的时候，对分子和目标之间的联系并没有特别深刻的了解。同时，这些学生面对的是一个相对较小的数据组，而神经网络通常要在非常大的数据组中才会有良好表现。
+“This is a really breathtaking result because it is the first time that deep learning won, and more significantly it won on a data set that it wouldn’t have been expected to win at,” said Anthony Goldbloom, chief executive and founder of Kaggle, a company that organizes data science competitions, including the Merck contest.
+“结果真的非常惊人，因为这是深度学习方法首次胜出，更值得一提的是，人们根本想不到它会在这样一个数据组中取胜，”预测分析公司Kaggle的首席执行官及创始人安东尼·戈德布卢姆(Anthony Goldbloom)说。该公司经常组织数据科学竞赛，包括由默克赞助的上述竞赛。
+Advances in pattern recognition hold implications not just for drug development but for an array of applications, including marketing and law enforcement. With greater accuracy, for example, marketers can comb large databases of consumer behavior to get more precise information on buying habits. And improvements in facial recognition are likely to make surveillance technology cheaper and more commonplace.
+规律模式辨识领域所取得的成就不仅将对药品研发产生影响，还将对市场营销和执法等诸多方面产生影响。例如，随着精确度的提高，市场营销人员可以通过梳理关于消费者行为的大型数据库来获得更准确的消费习惯信息。面部识别技术的进步也会降低监察技术的成本，使之更加普及。
+Artificial neural networks, an idea going back to the 1950s, seek to mimic the way the brain absorbs information and learns from it. In recent decades, Dr. Hinton, 64 (a great-great-grandson of the 19th-century mathematician George Boole, whose work in logic is the foundation for modern digital computers), has pioneered powerful new techniques for helping the artificial networks recognize patterns.
+人工神经网络的理念源于20世纪50年代，旨在模拟人脑吸收信息并从中学习的方式。近几十年，64岁的欣顿博士（19世纪数学家乔治·布尔[George Boole]的玄孙，布尔在逻辑领域的工作构成了现代数码计算机的基础）率先推出了一些强大的新技术，用来帮助人工神经网络识别规律模式。
+Modern artificial neural networks are composed of an array of software components, divided into inputs, hidden layers and outputs. The arrays can be “trained” by repeated exposures to recognize patterns like images or sounds.
+现代人工神经网络由一系列软件组成，分为输入、隐藏层和输出几个部分。通过反复对图像或声音等规律模式进行识别，这些软件就可以得到“训练”。
+These techniques, aided by the growing speed and power of modern computers, have led to rapid improvements in speech recognition, drug discovery and computer vision.
+在现代计算机日益增长的计算速度和计算能力的帮助下，这些技术推动了语音识别、新药研制和计算机视觉等领域的快速发展。
+Deep-learning systems have recently outperformed humans in certain limited recognition tests.
+最近，在一些特定的有限认知测试中，深度学习系统的表现甚至超过了人类。
+Last year, for example, a program created by scientists at the Swiss A. I. Lab at the University of Lugano won a pattern recognition contest by outperforming both competing software systems and a human expert in identifying images in a database of German traffic signs.
+例如，卢加诺大学(University of Lugano)瑞士AI实验室(Swiss A. I. Lab)的科学家开发的一个程序在去年的一场规律模式辨识竞赛中胜出，在德国交通标志的数据库中分辨图像时，其表现超过了参与竞赛的其他软件系统和人类专家。
+The winning program accurately identified 99.46 percent of the images in a set of 50,000; the top score in a group of 32 human participants was 99.22 percent, and the average for the humans was 98.84 percent.
+在包含5万张图像的数据组中，获胜的程序精确地辨识出了其中99.46%的图像；而由32人组成的人类参赛小组所取得的最好成绩是99.22%，人类的平均水平则是98.84%。
+This summer, Jeff Dean, a Google technical fellow, and Andrew Y. Ng, a Stanford computer scientist, programmed a cluster of 16,000 computers to train itself to automatically recognize images in a library of 14 million pictures of 20,000 different objects. Although the accuracy rate was low — 15.8 percent — the system did 70 percent better than the most advanced previous one.
+今年夏季，谷歌的技术人员杰夫·迪安(Jeff Dean)和斯坦福大学(Stanford University)的计算机科学家安德鲁·吴(Andrew Y. Ng)把1.6万台电脑连在一起，使其能够自我训练，对2万个不同物体的1400万张图片进行辨识。尽管准确率较低，只有15.8%，但该系统的表现比之前最先进的系统都要好70%。
+One of the most striking aspects of the research led by Dr. Hinton is that it has taken place largely without the patent restrictions and bitter infighting over intellectual property that characterize high-technology fields.
+欣顿博士领导的研究项目最突出的方面之一是，研究工作基本不受专利权的限制，也没有因为争夺知识产权而发生激烈的内部斗争，虽然这种斗争在高科技领域很常见。
+“We decided early on not to make money out of this, but just to sort of spread it to infect everybody,” he said. “These companies are terribly pleased with this.”
+“我们很早就决定不利用这个挣钱，只是想把它推广开来，影响到每个人，”他说。“这些公司都对这一点感到非常高兴。”

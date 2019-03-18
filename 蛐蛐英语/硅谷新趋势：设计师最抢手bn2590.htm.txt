@@ -1,0 +1,28 @@
+Silicon Valley has always been obsessed with efficiency. But lately, it is also obsessed with beauty.
+硅谷总是醉心于效率。但近来，它也开始对美着迷。
+In a place where engineers have reigned supreme, the new tech talent war is for designers. Tech companies are focusing not just on the behind-the-scenes technology that makes a site or app run, but also how it looks to users and how attractive and intuitive it is — analyzing things like shadow, color and font.
+在这样一个工程师占据至尊地位的地方，新一轮科技人才大战的争夺目标却是设计师。科技公司不只专注于让网站或应用得以运转的幕后技术，也开始注重用户对它的感观，以及它的吸引力和易用程度——分析诸如阴影、颜色、字体之类的元素。
+“If you look at these apps, they’re pretty darn beautiful, usable apps, so now everyone’s game has got to rise to that standard,” said Rick Devine, chief executive of TalentSky, a Silicon Valley recruiting firm. “You can’t put out something that’s ugly or clunky but functional. So user interface engineers are in high demand.”
+“看看这些应用，它们真的很美，用起来也不错，所以如今每个人都必须提高到那种水平，”硅谷猎头公司TalentSky的首席执行官里克·迪瓦恩(Rick Devine)说道。“你不能推出一些丑陋、难用但实用的东西。因此现在对用户界面工程师的需求很大。”
+Newer companies like Pinterest and Instagram, for instance, are more focused on appearance and ease of use than older Web companies including Amazon, eBay and even Facebook and Twitter.
+例如，相比成立更久的亚马逊(Amazon)、eBay，甚至是Facebook和Twitter等网络公司，Pinterest和Instagram等较新的公司更关注外观和易用性。
+Design has become more important in software, people in tech say, because software has become more intimate. People use it all day in every facet of their lives and on mobile devices, which require more thoughtful design because of the small screen. The new emphasis on design also extends to hardware, like the Nest thermostat and smoke alarm.
+科技界人士表示，软件的外观设计已变得更加重要，因为软件与人的距离已变得更近。人们整天都会在生活的方方面面、在移动设备上用到软件，而由于移动设备的屏幕很小，针对它的软件设计也需要更多缜密的思考。这种对设计的重视也延伸到了硬件设备上，如Nest的室内恒温器和烟雾报警器。
+When Peek, a start-up for booking travel activities, designed its first iPhone app, its co-founder and chief executive, Ruzwana Bashir, said she prioritized design over other factors. The app shows large photos instead of a list of activities, for instance, even though it meant Peek could not fit as many activities on each screen.
+当预订旅行活动的初创公司Peek设计它第一款iPhone应用时，它的联合创始人和首席执行官露兹瓦纳·巴希尔(Ruzwana Bashir)说，比起其他方面，她最重视设计。例如，这款应用的界面由大图组成，而不是单单列举出不同的活动选项，即便这意味着Peek在每个屏幕上显示出的活动数量要少一些。
+“Great design has gone from being a nice-to-have to an absolute must-have,” Ms. Bashir said.
+“好的设计已经从值得拥有到必不可少了，”巴希尔说。
+Google, not always known for its sense of style, overhauled its design over the last few years after its co-founder, Larry Page, took over as chief executive and said he wanted the company to shift its focus to making its products cohesive and “beautifully simple.”
+谷歌(Google)并不以其时尚感见长。但它的联合创始人拉里·佩奇(Larry Page)接管首席执行官一职后，表示他希望公司转移工作重心，使产品具有整体感，并且“优美简洁”。自那以后，谷歌已经在过去几年革新了它的设计。
+“One pillar of great design is beauty – having an emotional quality to our design and an emotional resonance — and that wasn’t really baked into the original Google products so much,” said Jon Wiley, who leads design for Google search.
+“好设计的一个基本支柱就是美——让我们的设计具有情感色彩，引发情感共鸣——而最初的谷歌产品中并没有太多考虑这一元素，”领导谷歌搜索设计的乔恩·威利(Jon Wiley)说道。
+Google has been increasing its hiring of designers, including from new disciplines like visual, industrial and animation design. (Mr. Wiley has a degree in theater.)
+谷歌一直在增加对设计师的招聘，包括视觉、工业和动画设计等新领域的人才。（威利本人就有一个舞台领域的学位。）
+One of its most recent design recruits, AJ Maiorano, came from Square and Apple, which he joined a decade ago. “It was not like it is today,” Mr. Maiorano said. “It’s absolutely astonishing to me just how these companies all over Silicon Valley are looking for designers.”
+谷歌最近招聘的一位设计师AJ·马约拉诺(AJ Maiorano)曾在Square工作，十年前加入苹果(Apple)。“从前可不是现在这样的，”马约拉诺说。“现在硅谷到处都是在寻找设计师的公司，这对我来说简直太出人意料了。”
+Venture capital firms including Kleiner Perkins Caufield & Byers and NEA have started programs to recruit and coach designers.
+Kleiner Perkins Caufield & Byers和NEA等风投公司已启动了一些项目，来招聘和培训设计师。
+“Designers as founders are very interesting and make up critical DNA of new companies,” said Dayna Grayson, a partner at NEA, which started what it calls NEA Studio, a workshop for designers who want to start companies.
+NEA的合伙人戴娜·格雷森(Dayna Grayson)说，“设计师作为创始人是非常有意思的，会为新公司带来关键基因。”NEA发起了一个名为NEA Studio的工作室，专门针对想要创办公司的设计师。
+Designers need technical understanding, but not always engineering skills. They need art skills and an understanding of how people behave online. And, Mr. Wiley said, “first and foremost I look for empathy, because design is not art, it’s actually solving real problems for people.”
+设计师需要有理解技术的能力，但不一定要掌握工程技术。他们需要具有艺术技能，也理解人们在网上的行为方式。威利表示，“首先，也是最重要的，我寻找的是理解他人情感的能力，因为设计并不是艺术，它实际上是为人们解决真实的问题。”

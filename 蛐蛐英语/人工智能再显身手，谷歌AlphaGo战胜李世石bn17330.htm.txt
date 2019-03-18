@@ -1,0 +1,38 @@
+SEOUL, South Korea — Computer, one. Human, zero.
+韩国首尔——计算机，1分。人类，0分。
+A Google computer program stunned one of the world’s top players on Wednesday in a round of Go, which is believed to be the most complex board game ever created.
+本周三，谷歌的一个计算机程序令一名世界顶尖围棋手措手不及。围棋被认为是有史以来最复杂的棋类游戏。
+The match — between Google DeepMind’s AlphaGo and the South Korean Go master Lee Se-dol —was viewed as an important test of how far research into artificial intelligence has come in its quest to create machines smarter than humans.
+这场比赛在谷歌DeepMind的AlphaGo与韩国棋手李世石(Lee Se-dol)之间展开，被视为一次重大测试：在创建比人类更聪明的机器方面，人工智能研究目前达到了何种水平。
+“I am very surprised because I have never thought I would lose,” Mr. Lee said at a news conference in Seoul, South Korea. “I didn’t know that AlphaGo would play such a perfect Go.”
+“我很惊讶，因为我从未想过会失败，”李世石在韩国首尔的新闻发布会上说。“我不知道AlphaGo下围棋下得这么好。”
+Mr. Lee acknowledged defeat after three and a half hours of play.
+李世石在比赛开始三个半小时后投子认输。
+Demis Hassabis, the founder and chief executive of Google’s artificial intelligence team DeepMind, the creator of AlphaGo, called the program’s victory a “historic moment.”
+AlphaGo的创造者、谷歌的人工智能团队DeepMind的创始人兼首席执行官戴米斯·哈萨比斯(Demis Hassabis)说，程序的这个胜利是“历史性的时刻”。
+The match, the first of five scheduled through Tuesday, took place at a Seoul hotel amid intense news media attention. Hundreds of reporters, many of them from China, Japan and South Korea, where Go has been played for centuries, were there to cover it. Tens of thousands of people watched the contest live on YouTube.
+这是五盘比赛中的第一盘，本周二在首尔的一家酒店里进行，受到了新闻媒体的热切关注。有数百名记者到场报道，其中很多来自有千年围棋历史的中、日、韩三国。数以万计的人在YouTube上观看了比赛直播。
+Go is a two-player game of strategy said to have originated in China 3,000 years ago. Players compete to win more territory by placing black and white “stones” on a grid measuring 19 squares by 19 squares.
+围棋是一种由两名棋手对弈的策略型棋类游戏，据说3000年前起源于中国。棋手在纵横各19条直线组成的方格棋盘上摆放黑色和白色的棋子，以围地多者为胜。
+The play is more complex than chess, with a far greater possible sequence of moves, and requires superlative instincts and evaluation skills. Because of that, many researchers believed that mastery of the game by a computer was still a decade away.
+与国际象棋相比，围棋更加复杂，落子的可能性远远更多，需要棋手有最出类拔萃的直觉和评估技能。由于这个原因，很多研究者认为，计算机要精通围棋仍需10年时间。
+AlphaGo posed Mr. Lee a unique challenge. In a human-versus-human Go match, which typically lasts several hours, the players “feel” each other and evaluate styles and psychologies, he said.
+AlphaGo对李世石来说是一个独特的挑战。他说，在人与人对弈中，棋手会“感知”对方，评估对方的风格和心理。这种比赛通常会持续数小时。
+“This time, it’s like playing the game alone,” Mr. Lee said on the eve of the match. “There are mistakes humans make because they are humans. If that happens to me, I can lose a match.”
+“这一次，就好像是一个人在下棋，”李世石在比赛前夕说。“人类会犯一些错误，因为他们是人类。如果这种事发生在我身上，我可能会输掉比赛。”
+To researchers who have been using games as platforms for testing artificial intelligence, Go has remained the great challenge since the I.B.M.-developed supercomputer Deep Bluebeat the world chess champion Garry Kasparov in 1997.
+对于把下棋当作人工智能测试平台的研究者来说，1997年IBM超级计算机“深蓝”(Deep Blue)在战胜国际象棋世界冠军加里·卡斯帕罗夫(Garry Kasparov)之后，围棋就一直是最大的挑战。
+“Really, the only game left after chess is Go,” Mr. Hassabis said on Wednesday.
+“的确，在国际象棋之后，唯一剩下的棋类游戏就是围棋了，”哈萨比斯周三表示。
+AlphaGo made news when it routed the three-time European Go champion Fan Hui in October, 5-0.
+去年10月，AlphaGo以5-0击败了三界欧洲围棋冠军樊麾，成为一大新闻。
+But Mr. Lee, 33, is one of the world’s most accomplished professional Go players, with 18 international titles under his belt. He has called the European champion’s level in Go “near the top among amateurs.”
+但现年33岁的李世石是世界上成就最高的职业围棋选手之一，拥有18个国际冠军头衔。他曾说欧洲冠军的围棋水平“在业余棋手中几乎是顶尖的”。
+AlphaGo has become much stronger since its matches with Mr. Fan, its developers said. It challenged Mr. Lee because it was ready to take on someone “iconic,” “a legend of the game,” Mr. Hassabis said. Google offered Mr. Lee $1 million if he wins the best-of-five series.
+AlphaGo的开发者说，自从战胜樊麾之后，它又有了很大的进步。哈萨比斯说，挑战李世石是因为它已经准备好与一个“偶像级的”、“传奇的”棋手对弈。如果李世石能够五盘三胜，谷歌将付给他100万美元。
+Mr. Hassabis said AlphaGo does not try to consider all the possible moves in a match, as a traditional artificial intelligence machine like Deep Blue does. Rather, it narrows its options based on what it has learned from millions of matches played against itself and in 100,000 Go games available online.
+哈萨比斯说，与深蓝那样的传统人工智能机器不一样，AlphaGo不会尝试考虑一盘棋中所有可能的走法。它会根据自己与自己对弈数百万盘棋的经验，以及网上提供的10万个棋局来缩小选项。
+Mr. Hassabis said that a central advantage of AlphaGo was that “it will never get tired, and it will not get intimidated either.”
+哈萨比斯说，AlphaGo的核心优势是“它永远不累，也不会被吓倒。”
+Kim Sung-ryong, a South Korean Go master who provided commentary during Wednesday’s match, said AlphaGo made a clear mistake early on, but that unlike most human players, it did not lose its “cool.”
+本周三对比赛进行解说的韩国围棋高手金成龙(Kim Sung-ryong)说，AlphaGo在比赛开始不久出现了一个明显失误，但和大多数人类棋手不一样，AlphaGo并没有失去“从容”。

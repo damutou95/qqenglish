@@ -1,0 +1,34 @@
+SAN FRANCISCO — When Apple wants to make a big splash, it returns to its history.
+旧金山——当苹果(Apple)希望掀起一层巨浪时，它选择回归自己的历史。
+Thirty years ago at the Flint Center for the Performing Arts, a roomy auditorium in Cupertino, Calif., Steven P. Jobs introduced the original Macintosh. On Tuesday, Apple will return to the center to unveil a set of long-anticipated products: two iPhones with larger screens and a wearable computer that the media has nicknamed the iWatch.
+三十年前，在加州库珀蒂诺弗林特表演艺术中心(Flint Center for the Performing Arts)的一间宽敞的礼堂里，史蒂芬·P·乔布斯(Steven P. Jobs)向人们介绍了初代麦金塔电脑(Macintosh)。下周二，苹果将回到这个中心，推出人们期待已久的一系列产品：两款屏幕更大的iPhone，以及一款可穿戴电脑，媒体给它取了个绰号叫“iWatch”。
+The so-called smartwatch will be the first brand-new product unveiled under Timothy D. Cook, Apple’s chief executive, who took the helm three years ago, shortly before Mr. Jobs’s death.
+这款所谓的智能手表将是首席执行官蒂莫西·D·库克(Timothy D. Cook)领导下的苹果推出的第一款全新产品，库克是三年前乔布斯去世后不久接掌公司的。
+It is expected to come in two sizes and combine functions like health and fitness monitoring with mobile computing tasks like displaying maps. It will have a flexible screen and, like the new phones, will support technology that allows people to pay for things wirelessly.
+预计这款产品会包括两种尺寸，将健康和体能监测等功能和地图显示等移动计算任务结合在一起。它将有一块可弯曲的屏幕，并和新款手机一样，将支持让人可以无线支付购物的技术。
+“I believe it’s going to be historic,” said Tim Bajarin, a consumer technology analyst for Creative Strategies who attended the original Mac event in 1984. He added, “The design of this product is all Tim’s fingerprints.”Apple, which is highly secretive, has not officially commented on any of the new products. But multiple employees of Apple and its partners who were briefed on the products shared some details on the condition that they not be identified.
+“我相信那将是一个历史性的时刻，”创意策略公司(Creative Strategies)的消费科技分析师、参加过1984年Mac初代发布会的本·巴加林(Ben Bajarin)说。他还说，“这个产品的设计处处显露蒂姆的影响。”行事极其隐秘的苹果没有公开评论过以上的任何一款新产品。但是多位苹果雇员和对产品情况有了解的合作伙伴分享了一些细节，条件是在本文中不透露身份。
+With its first wearable computer, Apple will enter a growing market for fitness-tracking gadgets and smartwatches from Fitbit, Nike and Samsung Electronics. And with the two larger phones, Apple will fight back against Samsung, whose big-screen Galaxy smartphones have wrested sales away over the last few years.
+随着该公司第一款可穿戴电脑的推出，苹果将进入一个正在成长的健康跟踪设备和智能手表市场，已经存在于该市场的有Fitbit、耐克(Nike)和三星电子(Samsung Electronics)。而凭借两款屏幕更大的手机，苹果将对三星发起反击，后者的大屏Galaxy智能手机在过去几年里抢走了不少销量。
+While the iPhones are expected to be released in the coming weeks, the watch is unlikely to be in stores until next year, several of the people with knowledge of the products said. The price of the new devices is not yet publicly known.
+多位了解产品的人说，iPhone有望在未来几周内发布，不过手表可能要到明年才能上架出售。新设备的价格尚未公布。
+Some said the smartwatch was one of Apple’s most ambitious projects to date.
+有人说智能手表是苹果迄今为止最具雄心的项目之一。
+The company put an enormous amount of time and money into designing the wearable device’s sensors so that they can track movements and vital signs, like heart rate and footsteps, much more accurately than existing fitness devices, two employees said.
+两位公司雇员说，公司花了大量的时间和金钱用于设计可穿戴设备的传感器，在追踪运动和心率、步伐等生命体征时，要比现有的健康设备准确得多。
+It has a flexible display panel that is protected by synthetic sapphire, which is tougher than glass, they said. The device’s circuit board, which includes its sensors and chips, was described as tiny, about the size of a postage stamp.
+他们说手表有一块可弯曲的显示板，使用比玻璃更坚硬的合成蓝宝石进行保护。包含传感器和芯片在内的设备电路板据他们形容是极其微小的，大概是一张邮票的大小。
+For replenishing the battery, the smartwatch will rely on a wireless charging method. Apple had at one point tested solar charging for the watch, but that experiment failed.
+为了让电量保持充沛，智能手表将依赖一种无线充电手段。苹果一度测试过太阳能充电，但实验失败了。
+For software, the watch will take advantage of HealthKit, a set of tools for storing health data that Apple introduced in June. The device will also rely heavily on Handoff, a new software feature that allows users to push content between their Apple devices.
+软件方面，手表将利用苹果在六月推出的HealthKit，一套用于存储健康数据的工具。设备将非常依赖Handoff，这种新软件特性让用户可以在自己的苹果设备之间推送内容。
+The bigger iPhones, which have been widely written about over the last year, will come in two screen sizes, one measuring 4.7 diagonal inches and the other 5.5 diagonal inches. The larger version will cost more. Unlike the older iPhones, which have somewhat sharp edges, the new ones have softer, rounded edges similar to those of the latest iPads.
+过去一年里，屏幕加大的iPhone得到了广泛的关注，它将包括两种屏幕尺寸，分别为4.7寸和5.5寸。更大的那款售价会更高。和以往iPhone相对尖锐的边缘相比，新款会采用更柔和的、圆角的边缘，和最新的几款iPad类似。
+To deal with concerns that a bigger phone will make typing with one hand difficult (the current iPhone has a four-inch screen), some changes to the design of the iPhones’ user interface will allow people to type or use apps with just one hand; there will be a one-handed mode that can be switched on and off, two employees said.
+有人担心更大的手机屏幕会增加单手打字的难度（目前的iPhone是4寸屏），为此苹果将对iPhone的用户界面设计做出改动，让用户可以用一只手打字或使用应用；两位雇员还说，将会有一个可以开关的单手模式。
+The wearable device and the smartphones will include hardware and software that support a technology called near-field communication, or NFC, which allows devices to exchange information wirelessly over very short distances. It could make paying for things with a phone less of a hassle.
+可穿戴设备和智能手机的硬件和软件将支持一种叫做近场通讯（即NFC）的技术，设备通过这种技术可以在很短的距离内无线交换信息。这样一来用户在用手机做支付时可以省却一些麻烦。
+Apple has teamed up with American Express, MasterCard and Visa to support the payment system, said several people involved in the partnerships. With the deal, these people said, iPhone owners will be able to use their devices as a sort of digital wallet, improving their ability to pay for items at select partner merchants without handing over cash or a credit card.
+多位参与合作事宜的人说，苹果已经和美国运通(American Express)、万事达(MasterCard)和Visa联手，支持其支付系统。这些人说，根据协议，iPhone用户将可以把设备当作某种数码钱包来使用，在一些特定合作商户那里进行支付的过程将得到改进，不需要取出现金或信用卡。
+Along with these partnerships, the abundance of new NFC-enabled iPhones could jump-start mobile payment, which has so far failed to gain traction among American consumers. Google, for instance, released a digital wallet in 2011 that has achieved little success. And Isis — a mobile wallet backed by three major American phone carriers, which was renamed Softcard this week — never caught on either.
+在建立这些合作关系的同时，配备了NFC技术的新款iPhone还将以其丰富的功能推动移动支付的发展，迄今为止，这种支付手段没能得到美国消费者的垂青。例如Google在2011年推出了一款数码钱包，几乎没收到什么成效。而由三大美国手机运营商资助的移动钱包服务Isis同样无功而返，本周这款产品已经改名为Softcard。

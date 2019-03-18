@@ -1,0 +1,14 @@
+Raymond Tomlinson, the computer programmer who in 1971 invented email as it is known today, and in the process transformed the “at” sign — @ — from a sparely used price symbol to a permanent fixture in the lives of millions of computer users around the world, died on Saturday at his home in Lincoln, Mass. He was 74.
+周六，雷蒙德·汤姆林森(Raymond Tomlinson)在自己位于马萨诸塞州林肯市的家中去世，享年74岁。1971年，他发明了今天被称为电子邮件的东西，并在这个过程中把@符从一个很少用到的价格符号，变成了全球数以百万计的计算机用户生活中的永恒存在。
+His daughter Brooke Tomlinson McKenzie confirmed the death but said that the cause had not been determined.
+汤姆林森的女儿布鲁克·汤姆林森·麦肯齐(Brooke Tomlinson McKenzie)证实了他去世的消息，但她表示，死亡原因还没有确定。
+In the late 1960s and early 1970s Mr. Tomlinson was working at a research and development company, Bolt, Beranek & Newman, on projects for the Arpanet, a forerunner of the Internet that was created for the Defense Department. At the time, the company had developed a messaging program, Sndmsg, that allowed multiple users of a time-share computer to send messages to one another. But it was a closed system, limited to users of a single computer.
+上世纪六十年代末、七十年代初，汤姆林森在研究与开发公司博尔特－贝拉尼克和纽曼(Bolt, Beranek & Newman)工作，做一个为国防部研发的名为Arpanet的程序，它后来成了互联网的前身。当时，这家公司开发了一个名为Sndmsg的通信程序，可以让分时使用计算机的多名用户彼此发送信息。但它是一个封闭的系统，只限于一台计算机的多名用户之间使用。
+Mr. Tomlinson, filching code from a file-transfer program he had created called Cypnet, modified Sndmsg so that messages could be sent from one host computer to another throughout the Arpanet system. To do this, he needed a symbol to separate a user name from a destination address. He settled on the plump little @ sign because it did not appear in user names and did not have any meaning in the Tenex paging program used on time-sharing computers.
+汤姆林森借用自己之前开发的名为Cypnet的文件传输程序的代码，对Sndmsg进行了修改，实现了在整个Arpanet系统内从一台主机向另一台发送信息。为了做到这一点，他需要用一个符号，将用户名字和信息发送地址分开。最终他选用了圆圆的小@符，因为它不会出现在用户名里，在分时计算机上使用的支持分页的Tenex系统中也没什么含义。
+In 2010, the Museum of Modern Art included the symbol in its architecture and design collection, calling it “a defining symbol of the computer age.”
+2010年，现代艺术博物馆(Museum of Modern Art)把这个符号纳入了它的建筑和设计部收藏，称它是“一个足以定义计算机时代的符号”。
+The Internet Society in Geneva, on inducting him into the newly created Internet Hall of Fame in 2012, honored Mr. Tomlinson for “having brought about a complete revolution, fundamentally changing the way people communicate.”
+2012年，位于日内瓦的互联网协会(Internet Society)将他列入当年的“互联网名人堂”(Internet Hall of Fame)，以表彰汤姆林森“带来一场彻底的革命，深刻地改变了人们交流的方式。”
+In accepting the honor, Mr. Tomlinson said: “I’m often asked, did I know what I was doing? And the answer is, yes, I knew exactly what I was doing. I just had no notion whatsoever of what the ultimate impact would be. What I was doing was providing a way for people to communicate with other people.”
+在接受这一荣誉时，汤姆林森说，“我经常被问到，你当时知道自己在做什么吗？我会回答，是的，我很清楚自己在做什么。但我完全不知道它最终会带来什么影响。我当时所做的，是给人们提供了一种和其他人交流的方式。”

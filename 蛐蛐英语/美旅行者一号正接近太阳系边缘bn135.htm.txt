@@ -1,0 +1,34 @@
+At the edge of the solar system, there are no signs that proclaim, “You are now entering interstellar space.”
+在太阳系的边缘可不会有个路牌写着，“你现在正进入星际空间。”
+NASA’s Voyager 1 spacecraft, launched more than 35 years ago and now 11.5 billion miles from where it started, is closing in on this boundary. In recent years scientists have been waiting eagerly for it to become the first artificial object to leave the solar system and enter the wider reaches of the Milky Way, which they fully expect it to do. But there has been at least one false alarm.
+美国国家航空航天局(NASA)的旅行者一号(Voyager 1)航天器是35年前发射的，已经航行了115亿英里（约合185亿公里），目前正在接近这个边缘地带。近年来，科学家热切期盼着它能成为第一个离开太阳系、驶向更广阔的银河系的人造物，对此他们很有信心。但迄今为止，至少出现了一次误报。
+On Thursday, scientists reported that, no, Voyager 1 still had not reached interstellar space, but it had entered a region that no one expected and no one can yet explain, a curious zone that is almost certainly the last layer of our Sun’s empire — technically speaking, the heliosphere. Three papers published in the journal Science describe in detail the sudden and unpredicted changes encountered in the surroundings of Voyager 1, which left Earth about three months after the original “Star Wars” movie was released and is heading for the cosmos at 38,000 miles per hour.
+科学家们于周四报告称，旅行者一号还没有进入星际空间，但是它进入了一个从未预想过的区域，没人能解释那是什么，一个很不寻常的地带，几乎可以肯定处在我们的太阳帝国——术语叫做太阳圈——的最外层。发表在《科学》(Science)期刊上的三篇论文详细描述了旅行者一号周遭发生的突然而意外的变化，这个航天器是“星球大战”第一部上映大约三个月后离开地球的，此后以每小时3.8万英里的速度飞向宇宙。
+Scientists had expected that Voyager 1 would detect two telltale signs as it passed through the heliosheath, the outermost neighborhood of the solar system, which is thought to abut the heliopause, as the actual boundary is known. Happily, the key instruments on Voyager 1, as well as those on its twin, Voyager 2, are still working after all these years, and its nuclear power source will last until at least 2020.
+科学家曾预计，旅行者一号在穿过日鞘，也就是太阳系最外层时，会探测到两项说明问题的指标，日鞘被认为是紧挨着太阳系顶层的，而后者才是严格意义上的边缘。令人欣喜的是，旅行者一号和它的双胞胎兄弟旅行者2号一样，内部的关键仪器经过多年航行后还在正常运转，它的核能可以至少维持到2020年。
+Last summer, one of the two events occurred, but not the other, leaving scientists perplexed. Scientists had predicted that at the boundary between solar system and interstellar space, the solar wind — a stream of charged particles blown out by the Sun — would fade away, and that Voyager 1 would no longer detect it. That happened.
+去年夏天，两项指标中的一项出现了，另一项没有，这让科学家很困惑。根据科学家的预测，在太阳系和星际空间的交界处，太阳风——从太阳喷射出的带电粒子流——会衰减消失，旅行者一号因此就探测不到了。这个情况已经发生。
+They also expected that the direction of the magnetic field would change as Voyager 1 emerged from the Sun’s magnetic bubble. That did not.
+他们还预测，随着旅行者一号摆脱太阳的磁泡，磁场的方向会发生改变。这一点那时没有出现。
+“Nature is far more imaginative than we are,” said Stamatios M. Krimigis, a scientist at the Johns Hopkins Applied Physics Laboratory who is the principal investigator of an instrument that records charged particles hitting Voyager 1. Dr. Krimigis is an author of one of the papers in Science.
+“自然的想象力远在我们之上，”约翰·霍普金斯应用物理实验室(Johns Hopkins Applied Physics Laboratory)科学家斯塔马迪奥斯·M·克里米基斯(Stamatios M. Krimigis)说，他是旅行者一号上一台带电粒子碰撞记录仪的首席调查员。克里米基斯博士是刊登在《科学》杂志上的其中一篇论文的作者。
+Last July, the spacecraft — which is roughly 1,600 pounds and would fit inside a cube about 13 feet on each side, according to NASA — observed a momentary dip in the intensity of the solar wind. “It was exciting,” said Edward C. Stone, the project scientist for the two Voyagers. “We had never seen such a drop before. It happened in less than a day. Then five days later, it was back up.”
+据NASA介绍，旅行者一号重约1600磅（约725公斤），大小刚好能装进一个边长13英尺（约4米）的方盒内。去年7月它观测到太阳风强度出现了短暂的减弱。负责两架旅行者的项目科学家爱德华·C·斯通(Edward C. Stone)说，“这是个激动人心的消息。我们以前从来没见过这种下降。不到一天就降下去了。然而五天后，一切又恢复正常。”
+In mid-August, there was a deeper momentary dip.
+到8月中旬，又出现了更大幅度的短暂下降。
+Then, on Aug. 25, the solar wind dropped by a factor of more than a thousand, vanishing to imperceptible levels, and it has remained at essentially zero since. At the same time, the number of cosmic rays from outside the solar system jumped by 9.3 percent.
+而后在8月25日，太阳风的强度下降至原来的千分之一还不到，到了难以察觉的水平，接下来基本上一直保持着零值。与此同时，来自太阳系以外的宇宙射线增加了9.3%。
+“It looked like we were outside,” Dr. Stone said.
+斯通博士说，“看似我们已经到外面了。”
+But the magnetic field has steadily, stubbornly pointed in the same direction, indicating that Voyager 1 is still ensconced within the Sun’s magnetic field. Scientists guess that in this region the magnetic fields of the solar system partly connect to those of the surrounding interstellar space, allowing the solar particles to escape. (Charged particles travel along magnetic field lines.) They have named the zone through which Voyager 1 is hurtling the heliosheath depletion region.
+但是磁场却稳定而顽固地指向同一个方向，表明旅行者一号仍然舒舒服服地待在太阳的磁场里。科学家们猜测，这个区域的太阳系磁场和外围的星际空间磁场是部分相连的，让太阳粒子可以逃离出去。（带电粒子是沿着磁场线运动的。）他们将旅行者一号正在飞过的这个区域命名为日鞘耗竭区。
+“I think it’s clear we do not have a model which explains all of this,” Dr. Stone said.
+“我想有一点很明确，我们手中没有一个可以解释一切的模型，”斯通博士说。
+Voyager 2, which is moving slightly more slowly and is not as far from the Sun, has not yet encountered this region.
+旅行者二号的移动略慢一些，距离太阳也没那么远，还没有进入这个区域。
+Dr. Stone noted that when the two Voyagers launched in 1977 on a grand tour of Jupiter, Saturn, Uranus and Neptune, the space age was just 20 years old, and there was no way to know that NASA had built something that would last 35 years, long after it passed the planets. But the designers of the mission were prescient to be prepared if they lasted that long.
+斯通博士指出，1977年两架旅行者踏上前往木星、土星、天王星、海王星的旅程时，太空时代也就才过去20年，没人知道NASA造了一个可以维持35年的东西，能将那些星球远远抛在身后。但是项目的设计师凭着他们的先见之明，为航天器做了准备。
+“It turns out that in fact we designed the cosmic ray instrument specifically for this phase of this mission,” Dr. Stone said. “We were planning, and it really paid off. We’ve begun to see what’s outside even though the magnetic field says you’re not outside.”
+“我们的确专门针对这个阶段的任务设计了宇宙射线仪器，”斯通博士说。“我们当时计划了，现在尝到了甜头。我们开始看到外面的样子，虽然从磁场看我们还没到外面。”
+As for actually reaching the outside of the solar system, Dr. Stone said, “it could be a few months, or it could be several more years.”
+至于说什么时候能真的到达太阳系之外，斯通博士说，“可能只有几个月，也可能要再等几年。”

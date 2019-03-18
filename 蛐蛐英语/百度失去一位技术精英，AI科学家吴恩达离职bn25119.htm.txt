@@ -1,0 +1,30 @@
+HONG KONG — In 2014, Baidu announced a hiring coup in the world of artificial intelligence: It had brought in the Stanford and Google alumnus Andrew Ng to lead a new research lab in Silicon Valley.
+香港——2014年，百度宣布招聘到了人工智能领域一位不可多得的人才：曾在斯坦福大学和谷歌工作的吴恩达(Andrew Ng)，他将领导新成立的百度硅谷实验室。
+Just under three years later, Mr. Ng said in a blog post on Tuesday that he was leaving the Chinese search engine company.
+在还不到三年之后的本周二，吴恩达在一篇博文中说，他即将离开这家中国搜索引擎公司。
+His departure is a blow to Baidu, which has been betting big on artificial intelligence, a technology that is expected to undergird a range of others, like voice recognition and driverless cars.
+他的离职对百度来说是个打击，百度一直在人工智能（简称AI）方面大力投资，该技术预计会为诸如语音识别、无人驾驶汽车等其他技术打下基础。
+In a post on Facebook and Twitter, Baidu said: “Andrew Ng joined Baidu with a shared goal, to improve life through artificial intelligence. Today, that goal remains strong. Thank you, and all the best on your new chapter!”
+百度在Facebook和Twitter上发的一个帖子中说：“恩达加入百度是因为我们对人工智能的未来有着共同美好的追求。即使今天分别，我们仍有着一致的目标。感谢恩达，并祝他未来取得更大成就！”
+The company now has more than 1,300 employees dedicated to A.I. In a signal of just how critical the efforts are to the company, it said in January that it had hired Qi Lu, a former executive at Microsoft and an A.I. specialist, to become the chief operating officer.
+百度目前有1300多名员工投入到人工智能领域。这些努力对公司来说有多么重要的一个信号是，公司今年1月表示，已聘请了微软前高管、人工智能专家陆奇担任公司首席运营官。
+Mr. Ng’s announcement comes after the technology executive Hugo Barra left Xiaomi, a Chinese phone maker and e-commerce company, for Facebook. Mr. Ng and Mr. Barra were viewed as part of a nascent trend of Silicon Valley executives jumping to well-funded Chinese internet companies. They seemed to represent a new era of closer ties, and competition, between America’s tech giants and China’s.
+吴恩达的宣布出来之前，中国手机制造商和电子商务公司小米的技术执行官雨果·巴拉(Hugo Barra)宣布离开小米，加盟Facebook。吴恩达和巴拉曾被视为是硅谷高管跳槽资金丰厚的中国互联网公司这一新兴趋势的一部分。他们似乎代表了美国技术巨头与中国技术巨头之间更紧密联系、更激烈竞争的新时代。
+The resignations underline how that trend never materialized. Few American tech executives followed them, and China’s internet behemoths remain mostly focused on their home markets.
+他们两人的离职表明，这个趋势并未真正成为现实。没有几位美国技术主管步他们的后尘，而且中国互联网巨头的主要精力仍集中在国内市场上。
+Even so, analysts say, the Chinese companies have grown ever more innovative, particularly in A.I. For instance, last year when Microsoft researchers declared they had created software capable of matching human skills in understanding speech, Mr. Ng chided Microsoft, pointing out that Baidu had achieved a similar feat in 2015.
+分析人士表示，即使如此，中国企业在创新方面已越来越强，尤其是在人工智能领域。比如，当微软研究人员去年宣称，他们开发出了语言理解能力与人类相当的软件后，吴恩达批评了微软，指出百度在2015年就已取得了类似的成就。
+In his post on Tuesday, Mr. Ng struck a positive note: “Baidu’s A.I. is incredibly strong, and the team is stacked up and down with talent; I am confident A.I. at Baidu will continue to flourish.”
+吴恩达在周二的帖子中对前景表示乐观：“百度在AI方面非常强大，整个队伍人才济济；我对百度将继续在AI方面蓬勃发展充满信心。”
+Mr. Ng wrote that he would continue working to ensure A.I. made “life better for everyone.” He wrote that he saw the technology’s impact going far beyond large tech companies like Google and Baidu.
+吴恩达写道，他将为确保人工智能让“每个人的生活更美好”这个目标继续努力。他写道，在自己眼里，该技术的影响远远超过谷歌和百度等大型技术公司。
+“In addition to transforming large companies to use A.I., there are also rich opportunities for entrepreneurship as well as further A.I. research.”
+“除了把大公司转变为使用AI之外，丰富的机会也在等待着创业者和进一步的AI研究。”
+Mr. Ng is part of a still-small coterie of researchers who are experts in deep learning, a branch of artificial intelligence that seeks to use computers to emulate the functions of the human brain. During his time at Baidu, Mr. Ng said the lab at Silicon Valley had helped create two different business units, one that works on speech recognition and another focused on driverless cars.
+吴恩达属于AI领域中一个仍然不大的研究圈子，这个圈子里的人都是深度学习的专家，深度学习是人工智能的一个分支，试图用计算机来模拟人脑的功能。吴恩达在百度工作期间曾表示，百度硅谷实验室帮助公司建立了两个不同的业务部门，其中一个致力于语音识别，另一个专注于无人驾驶汽车。
+As China’s most dominant search engine, Baidu has long had a lock on a profitable section of online advertising. Yet as more Chinese consumers picked up smartphones, the company has struggled to keep its hold on ad spending. In a bid to surpass its rivals, the company has poured money into A.I. technology that executives say will support next-generation products.
+百度作为中国最大的搜索引擎，早就在有利可图的在线广告市场有可靠的收入。但是，随着越来越多的中国消费者开始使用智能手机，百度不得不在维持广告收入上不断努力。为了超越竞争对手，公司已在人工智能方面投了大钱，公司的管理层认为AI技术将支持下一代的产品。
+Mr. Ng wrote that the lab he helped start and is now leaving is working on many of those technologies, “such as face-recognition (used in turnstiles that open automatically when an authorized person approaches), Melody (an A.I.-powered conversational bot for health care) and several more.”
+吴恩达写道，他帮助成立并即将离开的实验室正在开发许多这方面的技术，“例如，人脸识别（用于在已被授权的人走近时自动打开的旋转门），Melody（医疗保健方面一个以AI为后盾的对话机器）等等。”
+“As the principal architect of Baidu’s A.I. strategy, I am proud to have led the incredible rise of A.I. within the company,” he wrote.
+“作为百度AI战略的首席架构师，我为领导了公司在AI方面令人难以置信的兴起感到自豪，”他写道。

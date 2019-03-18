@@ -1,0 +1,10 @@
+Those subway poles you avoid touching because you’re convinced they are covered with harmful germs may not be as dangerous as you thought.
+你或许认为地铁车厢的扶杆上沾满了细菌，因此碰都不碰一下，但事实上它们并没有危险到那个地步。
+With the cooperation of the Massachusetts Bay Transit Authority, researchers at Harvard swabbed seats, walls, poles, hand grips and ticket machines in the Boston transit system, and then did DNA analyses to figure out what kinds of organisms they had collected. The study is online in mSystems.
+在马萨诸塞湾交通局(Massachusetts Bay Transportation Authority)的配合下，哈佛大学的研究人员提取了波士顿地铁座椅、墙壁、扶杆、拉环和售票机的拭子标本，而后进行DNA分析，以明确采集到了何种有机组织。该研究已经在mSystems网站上公布。
+All the surfaces were contaminated with generally innocuous human skin bacteria, including various strains of propionibacterium, corynebacterium, staphylococcus and streptococcus, among others. Some strains of these bacteria can cause disease under certain circumstances, but all are carried by healthy people and usually cause no problems.
+所有表面都沾染了通常无害的人体皮肤细菌，包括丙酸杆菌、棒状杆菌、葡萄球菌和链球菌等属的许多菌株。其中一些菌株在一定条件下可以致病，但它们都是健康人会携带的细菌，通常不会有问题。
+Unsurprisingly, oral germs were found on poles at mouth level, and microbes that infest the skin on hand grips. Outdoor ticket machines had microbes that are prevalent in soil and the air.
+不出意外的是，在嘴部高度的扶杆上找到了口腔细菌，在手环上有常见于皮肤的微生物。室外售票机有大量存在于土壤和空气中的微生物。
+“We were specifically checking for bad bugs or the kind of DNA that can make good bugs go bad,” said the lead author of the study, Curtis Huttenhower, an associate professor at the Harvard T.H. Chan School of Public Health. “But even though we think of it as dirty, the transit system has only the kind of microbes you run into shaking people’s hands.”
+“我们专门检查了不好的细菌，或者能导致好细菌变成坏细菌的DNA，”该研究第一作者、哈佛大学陈曾熙公共卫生学院(Harvard T.H. Chan School of Public Health)副教授柯蒂斯·哈滕豪尔(Curtis Huttenhower)说。“但是，尽管我们觉得应该很脏，地铁系统上的微生物，只不过是那些与人握手时会接触到的。”

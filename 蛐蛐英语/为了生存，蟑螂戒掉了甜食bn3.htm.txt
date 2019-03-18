@@ -1,0 +1,36 @@
+Everyone knows that cockroaches are the ultimate survivors, with enough evolutionary tricks up their carapaces to have thrived for 350 million years and to have completely adapted to the human species.
+众所周知，蟑螂是终极生存高手，它们的身体拥有足够强大的进化能力，使该物种能繁衍3.5亿年，并且完全适应与人类共存。
+But the nature of the adaptation that researchers in North Carolina described on Thursday in the journal Science is impressive even for such an ancient, ineradicable lineage, experts say. Some populations of cockroaches evolved a simple, highly effective defense against sweet-tasting poison baits: They switched their internal chemistry around so that glucose, a form of sugar that is a sweet come-hither to countless forms of life, tastes bitter.
+然而，专家称，北卡罗来纳州研究者周四在《科学》杂志(Science)上对其适应性本质的描述，即便是对于这一古老而且无法消灭的物种来说，也令人印象深刻。蟑螂中的某些群体进化出了一种避开甜味毒药的简单高效防御系统：它们通过改变自身的感应机制，让葡萄糖这种糖类显得十分苦涩，虽然它对无数生命体来说是甜蜜诱惑。
+The way the roach’s senses changed, experts say, is an elegant example of quick evolutionary change in behavior, and offers the multibillion-dollar pest control industry valuable insights into enemy secrets, perhaps even revealing some clues for the fight against malaria-carrying mosquitoes, which are far more dangerous to human health than roaches.
+专家称，蟑螂的这种感知改变是其行为快速进化的一个绝佳例证，这为价值数十亿美元的灭虫行业提供了有关敌人秘密的珍贵建议，甚或还为如何消灭携带疟疾病毒的蚊子提供了一些线索，而蚊子对人类的危害远远超过蟑螂。
+“This is a fantastic discovery,” said Walter S. Leal, the head of the entomology department in the College of Agricultural and Environmental Sciences at the University of California, Davis. (Dr. Leal was not part of the research.)
+加州大学戴维斯分校(University of California, Davis)农业与环境科学学院(College of Agricultural and Environmental Sciences)昆虫系主任沃尔特·S·利尔(Walter S. Leal)没有参与该项研究，但他表示，“这是个了不起的发现。”
+“Sometimes,” he said, “the science is beautiful but you don’t know whether there is going to be an application five years from now, 10 years from now or 100 years.” But in this case, he said, the impact is both fundamental and practical.
+他说，“有时候，科学研究很美好，但你不知道五年，10年或者是100年后它能不能得到应用。”他说，但这个发现的影响是巨大的，而且非常实用。
+Ayako Wada-Katsumata, Jules Silverman and Coby Schal, all at North Carolina State University, who wrote the report in Science, set out to explain a well-known phenomenon: Some populations of German cockroaches (the ones that apartment dwellers see scurrying around in the kitchen at night) avoid poison bait that is laced with glucose, which is supposed to attract them.
+在《科学》杂志上撰文的研究员文子·瓦达-胜间田（Ayako Wada-Katsumata，音译）、朱尔斯·西尔弗曼 (Jules Silverman)、科比·沙尔(Coby Schal)都来自北卡罗来纳州立大学(North Carolina State University)，他们着手解释了一个著名的现象：一些德国小蠊群体（就是那些公寓住户在夜间看到在厨房里快速跑来跑去的蟑螂）能避开裹有葡萄糖的毒饵。
+This behavior, discovered by Dr. Silverman, “first appeared in the early ’90s,” said Jim Fredericks, chief entomologist at the National Pest Management Association, shortly after exterminators — who now prefer to be called pest management professionals — started using poison baits instead of spraying as the main method of battling roaches. To get around the problem, the industry developed new baits, but the change in roach behavior was a puzzle.
+国家害虫管理协会(National Pest Management Association)昆虫科负责人吉姆·弗雷德里克斯(Jim Fredericks)称，西尔弗曼博士发现，这种行为“最早出现在20世纪90年代早期”，也就是灭虫师，即今天倾向于被称为害虫管理专家的人，开始使用毒饵代替喷药来作为除蟑的主要办法之后不久。为了解决这一问题，该行业研发了新诱饵，但蟑螂行为的变化在当时是个迷。
+Grzegorz Buczkowski, an entomologist at Purdue University who was not involved in the research, said the industry was always developing new poisons, because roaches and other pests become resistant to their effects, just as bacteria become resistant to antibiotics.
+普渡大学(Purdue University)昆虫学者格热戈日·布奇科夫斯基(Grzegorz Buczkowski)也没有参与这一研究，他称灭虫行业一直在研发新的毒饵，因为蟑螂和其他害虫会变得对毒药有很强的抗药性，就像细菌适应抗生素那样。
+“We lose baits all the time,” he said.
+“不断会有诱饵失效，”他说。
+But in this case, the problem was not a poison that had become ineffective. The cockroaches just seemed to avoid any bait that had glucose.
+但这一次，问题不是毒药变得无效，而是蟑螂好像会避开任何含有葡萄糖的诱饵。
+Dr. Silverman showed that this behavior was inherited, not something an individual roach learned during its brief life. And a few years ago the North Carolina researchers decided to investigate what caused the change.
+西尔弗曼博士展示了，这一行为是遗传下来的，并非某只蟑螂在其短暂的一生中学来的。几年前，北卡罗来纳州的研究人员决定探究到底是什么导致了这种变化。
+Instead of taste buds, roaches have taste hairs on many parts of their bodies. The three North Carolina researchers concentrated on those around the mouth area and on two types of nerve cells that sense tastes and respond by firing electrical signals to the brain. One responds only to sugars and other sweet substances; the other responds only to bitter substances. Whenever a molecule of something sweet attaches to a sweet detector, it fires electrical impulses and the roach brain senses sweetness, which makes it want to eat whatever it is tasting. Whenever a molecule of something bitter attaches to the bitter detector, that cell fires and the brain senses bitterness, which makes the roach want to avoid that substance.
+蟑螂的许多身体部位上都有味毛，而不是味蕾。北卡罗来纳州的三名研究人员集中研究了蟑螂嘴附近的那些味毛和两种神经细胞，这两种神经细胞能感知味道，并通过向大脑发送电子信号来做出反应。其中的一种神经细胞只会对糖和其他甜的东西做出反应，另外一种则只会对苦的东西做出反应。每当只会对糖和甜东西做出反应的神经细胞接触到少量甜的东西时，它会发出电脉冲，蟑螂的大脑会感知到甜，这会让它想吃那个东西，不管那是什么。而每当只会对苦的东西做出反应的神经细胞接触到少量苦东西时，它也会发出信号，蟑螂的大脑便能感知到苦，进而希望避开那种东西。
+But somehow the roaches had changed so that the glucose made the bitter detector fire.
+但不知如何，蟑螂发生了变化，葡萄糖会让感知苦味的神经细胞发送信号。
+“Basically,” said Dr. Buczkowski, “when cockroaches taste glucose, they’re repelled by it because it tastes bitter to them.”
+“基本上，”布奇科夫斯基博士说，“当尝到葡萄糖时，蟑螂会避开，因为对它们来说，葡萄糖的味道是苦的。”
+Dr. Schal said the next step was to figure out the details of the genetic mutation that had occurred. Perhaps a mutation changed the molecules that detect bitter substances so that they would be sensitive to glucose, too. Or a different sort of mutation could have caused the dedicated bitter neurons to have lots of standard glucose detectors, which did not exist on those neurons before — a shift that also would have made the insects register sweet glucose as bitter.
+沙尔博士说，下一步是找出已经发生的基因突变的细节。或许，变异让识别苦的东西的分子发生了变化，以至于它们对葡萄糖非常敏感。又或许，某种不同的变异导致专门识别苦东西的神经细胞具有了许多标准的葡萄糖检测物质，以前，这些神经细胞上并没有此类物质。这种转变还可能让这些昆虫记住了甜的葡萄糖是苦的。
+The research may be relevant far beyond roach control, perhaps helping to explain the behavior of mosquitoes that spread malaria, Dr. Schal said.
+沙尔博士表示，这一研究影响到的可能远不止蟑螂的控制，它或许会有助于解释传播疟疾的蚊子的行为。
+“The mosquito changed its behavior,” he said, “and no longer rests on walls that are treated with insecticide. Instead it tends to rest on the ceiling, or it tends to rest on the outside walls that are not treated with insecticide.
+“蚊子也改变它们的行为，”他说，“不再停歇在有杀虫剂的墙上。相反，它们往往会停歇在天花板上，或是没有杀虫剂的外墙上。”
+“We still don’t understand the cellular, the neural mechanism responsible for this change in behavior of the mosquito,” he said, so the approach that yielded results with the cockroach could offer useful insights.
+“我们还不了解导致蚊子的行为发生这种改变的细胞神经机制，”他说，因此，研究蟑螂时的有效方法可能会带来一些有益的洞见。

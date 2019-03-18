@@ -1,0 +1,28 @@
+SAN FRANCISCO — Just in time for the back-to-school and holiday shopping seasons, Apple on Wednesday announced a series of hardware upgrades for the iPhone, iPad and Apple TV.
+旧金山——就在开学季和假日购物季到来之际，本周三，苹果公司(Apple)为iPhone、iPad和Apple TV发布了一系列硬件升级。
+With the iPhone, the company added a feature called 3D Touch, which lets users control some of the software by exerting pressure on the touch screen. The Apple TV got its first big upgrade in more than three years with a more powerful chip and a redesigned remote control. Apple’s family of iPads also gained a bigger sibling with the iPad Pro, a tablet with a 12.9-inch screen — much larger than the older 9.7-inch iPad.
+iPhone新增一个名叫3D Touch的三维触控功能，用户可以通过在触摸屏上施加压力来控制一些软件。Apple TV进行了三年多来的第一次大幅升级，搭载了更强劲的芯片，并对遥控器进行了重新设计。苹果的iPad家族也增加了一名个头更大的新成员：12.9英寸的iPad Pro平板，比老款9.7英寸的 iPad大很多。
+At the event, I tried out the new products in a demonstration booth. Here are some first impressions.
+在发布会上，我在一座展台上试用了各款新产品。以下是我的一些第一印象。
+The 3D Touch capability is the iPhone’s signature new feature. Pressing down on the screen starts different actions, depending on how much force is exerted.
+3D Touch是 iPhone的标志性新功能。按压屏幕时力度不同，会启动不同的操作。
+A light press on an email, for example, shows a preview of the message, and a hard press then opens the email. You can also press down hard on an app icon to open shortcuts to different actions — for example, pushing down on the Instagram app shows a list of next steps, including the ability to create a new post. When you press down hard, the device responds with a tapping sensation.
+比如，轻按一封电子邮件，手机会显示内容预览，再用力按，邮件就会打开。你也可以用力按压应用图标，打开不同操作的快捷方式——例如按压 Instagram应用，它会显示一个“下一步”列表，其中包括发新贴。当你用力按下，手机会有触觉反馈。
+I found the new iPhones pretty straightforward to use. The 3D Touch feature is easy to get used to, and I quickly figured out how to create a new calendar appointment by pressing down hard on the calendar app icon.
+我发现新款iPhone使用起来相当简单。3D Touch功能很容易上手，我很快就明白了该如何通过用力按压日历应用的图标来创建一个新事项。
+The new smartphones are also slightly thicker and heavier than their predecessors, though I confess I noticed that only after reading the specifications on Apple’s website and not when holding the devices.
+新iPhone比老款略厚重一些，不过坦白说，我在握持它的时候并没有注意到这一点，直到看了苹果网站上的规格表后才发现。
+The iPad Pro’s jumbo screen obviously gives more room for content to breathe, but interacting with it still feels the same as with older iPad tablets.
+iPad Pro硕大的屏幕明显让内容有了更多的显示空间，但人机互动时感觉和老款iPad一样。
+The iPad Pro is capable of running two full-size iPad apps on the screen at the same time. Previous iPads could run two apps at the same time, but with a primary app taking up a larger portion of the screen.
+iPad Pro能同时在屏幕上运行两款全尺寸的iPad应用。之前的iPad也能同时运行两款应用，但主应用占据的屏幕空间更大一些。
+The large device will be familiar to most because apart from its size, it works the same as previous versions of the tablet. The big-screen iPad also felt comfortable to hold. It weighs about 1.5 pounds, which is the same weight as the very first iPad.
+这款设备会让大部分人感到熟悉，因为除尺寸外，它的运行和以前的平板是一样的。大屏iPad的握感也颇为舒服。其重量和第一款iPad一样，约为1.5磅（约合0.7千克）。
+The Apple TV is significantly different from past models. The software interface has a white background and vivid colors, similar to Apple’s Music app. The new remote control includes a touch pad for scrolling around the menu and a microphone for finding things to watch using Siri, Apple’s voice assistant. The remote also includes motion sensors for gaming.
+新推出的Apple TV和过去的版本有很大变化。软件界面的背景是白色的，图案配上鲜艳的色彩，和苹果的Music应用类似。新推出的遥控器有一个触摸板和一个麦克风，分别可以用来滚动菜单，以及用苹果的语音助手Siri来查找想看的内容。遥控器还有用来打游戏的动作传感器。
+I decided to have some fun by asking Siri to help me navigate content on Apple TV. For example, I tried using Siri to steer a spaceship in a Star Wars game. But that was difficult, perhaps because of my inexperience with the game.
+我决定玩一会儿，让Siri帮忙在Apple TV上寻找内容。比如，我试着在一款星球大战的游戏中用Siri驾驶宇宙飞船。但操控起来很难，或许是因为我对这款游戏缺乏经验。
+I also tried searching for action movies and comedy movies with the remote control’s microphone. Siri misunderstood me when I said “comedy,” thinking I had said “comity.” But it did a better job with action movies — when I said “show me action movies,” Siri brought up a list of titles including “Mad Max” and “Furious 7.”
+我还试着用遥控器上的麦克风搜动作片和喜剧片。我说“喜剧”(comedy)时，Siri误以为是“礼仪”(comity)。但搜动作片时，Siri的表现就好些了。我说出“显示动作片”，Siri便给出了一个电影名单，上面有《疯狂的麦克斯》(Mad Max)和《速度与激情7》(Furious 7)等。
+The new remote control is thicker than the previous one, and in this case, that’s a good thing. The previous Apple TV remote was so thin that it had a tendency to disappear between couch cushions.
+新款遥控器比之前的厚。就这一点来说倒是件好事。老款的Apple TV遥控器太薄了，容易掉进沙发垫之间的空隙里。

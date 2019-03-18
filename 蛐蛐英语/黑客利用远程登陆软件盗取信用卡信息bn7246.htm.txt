@@ -1,0 +1,38 @@
+SAN FRANCISCO — The same tools that help millions of Americans work from home are being exploited by cybercriminals to break into the computer networks of retailers like Target and Neiman Marcus.
+旧金山——帮助数以百万计的美国人从家里上班的同样工具正被网络犯罪分子利用，成为侵入塔吉特百货(Target)和尼曼(Neiman Marcus)等零售商计算机网络的手段。
+The Homeland Security Department, in a new report, warns that hackers are scanning corporate systems for remote access software — made by companies like Apple, Google and Microsoft — that allows outside contractors and employees to tap into computer networks over an Internet connection.
+美国国土安全部在一份新报告中警告说，黑客在搜查企业计算机系统以发现其中的远程访问软件，这类软件由苹果(Apple)、谷歌(Google)和微软等公司提供，能让外部承包商和公司员工通过互联网进入公司的计算机网络。
+When the hackers discover such software, they deploy high-speed programs that guess login credentials until they hit the right one, offering a hard-to-detect entry point into computer systems.
+当黑客发现这种软件后，他们使用快速猜测登录信息的程序，直到碰上一个正确的，这就给他们提供了一个难以识破的打进计算机系统的切入点。
+The report, which Homeland Security produced with the Secret Service, the National Cybersecurity and Communications Integration Center, Trustwave SpiderLabs, an online security firm based in Chicago, and other industry partners, is expected to be released on Thursday. It provides insight into what retailers are up against as hackers find ways into computer networks without tripping security systems.
+这份报告是国土安全部与其他部门合作产生的，合作单位包括特勤局(Secret Service)、国家网络安全和通信集成中心(National Cybersecurity and Communications Integration Center)、总部设在芝加哥的在线安全公司Trustwave SpiderLabs，以及其他行业的合作伙伴，报告预计于周四公布。它为零售商面临的挑战提供了深入了解，黑客在寻找不触发安全系统报警的方法进入计算机网络。
+It is also a reminder that a typical network is more a sprawl of loosely connected computers than a walled fortress, providing plenty of vulnerabilities — and easily duped humans — for determined hackers.
+报告也提醒人们，典型的网络由松散连接的计算机组成，不是一个有围墙的堡垒，对有决心的黑客来说，这样的网络存在着大量的漏洞，还有容易上当的用户。
+“As we start to make more secure software and systems, the weakest link in the information chain is the human that sits on the end — the weak password they type in, the click on the email from the contact they trust,” said Vincent Berq of FlowTraq, a network security firm.
+“随着我们开始把软件和系统变得更安全，信息链中最薄弱的环节就是那些坐在用户端的人：他们键入弱密码，他们点击所信任的联系人发来的电子邮件，”网络安全公司FlowTraq的文森特·伯尔克(Vincent Berq)说。
+While the report does not identify the victims of these attacks, citing a policy of not commenting on current investigations, two people with knowledge of these investigations say that more than a dozen retailers have been hit. They include Target, P. F. Chang’s, Neiman Marcus, Michaels, Sally Beauty Supply, and as recently as this month, Goodwill Industries International, the nonprofit agency that operates thrift stores around the country.
+虽然这份报告援引不评论目前调查的政策为由，没有指明攻击的受害者，但两位对调查知情的人士说，有十多家零售商都受到过网络攻击，包括塔吉特百货、华馆(P. F. Chang)、尼曼、迈克尔斯公司(Michaels)、莎莉美容用品(Sally Beauty Supply)，以及直到本月还受过攻击的国际好意企业(Goodwill Industries International)，这是一家在美国各地的经营旧货店的非营利机构。
+Once inside the network, the hackers deploy malicious software called Backoff that is devised to steal payment card data off the memory of in-store cash register systems, the report says. After that information is captured, the hackers send it back to their computers and eventually sell it on the black market, where a single credit card number can go for $100.
+报告说，黑客一旦进入网络，他们使用一个名为Backoff的恶意软件，从店内收银器系统的内存上窃取支付卡的数据。在捕获到这些信息后，黑客将其发送回自己的计算机，并最终将信息在黑市出售，一个信用卡号在黑市上可卖到100美元(相当于620元人民币)。
+In each case, criminals used computer connections that would normally be trusted to gain their initial foothold. In the Target breach, for example, hackers zeroed in on the remote access granted through the retailer’s computerized heating and cooling software, the two people with knowledge of the inquiry said.
+在每次这种攻击中，犯罪分子用的都是通常被信任的连接，让他们获得进入计算机的最初立足点。比如，在塔吉特百货的例子中，让黑客钻空子的，是该零售商计算机化的制热制冷系统软件的远程登录许可，两位了解调查情况的人表示。
+In an interview, Brad Maiorino, recently hired as Target’s chief information security officer, said a top priority was what he called “attack surface reduction.”
+在接受记者采访时，塔吉特百货最近聘请的首席信息安全官布拉德·迈奥里诺(Brad Maiorino)表示，当务之急是他称之为“减少受攻击面”的工作。
+“You don’t need military-grade defense capabilities to figure out that you have too many connections,” Mr. Maiorino said. “You have to simplify and consolidate those as much as possible.”
+迈奥里诺说，“你不需要军用级的防御能力就知道你有太多的连接。你需要尽可能地简化和合并这些连接。”
+The Secret Service first discovered the Backoff malware (named for a word in its code) in October 2013. In the last few weeks, the agency said that it had come across the malware in three separate investigations. Most troubling, the agency said that even fully updated antivirus systems were failing to catch it.
+特勤局是在2013年10月首次发现Backoff这个恶意软件的(其名称来自软件编码中的一个词)。该机构表示，在过去几周里，它已在三个不同的调查中遇到这个恶意软件。该机构说，最令人不安的是，就连全面更新的防病毒系统都未能查出这个恶意软件。
+Low detection rates meant that “fully updated antivirus engines on fully patched computers could not identify the malware as malicious,” the report concluded.
+低查出率意味着“打了所有补丁的计算机系统上的全面更新的防病毒引擎无法识别这个恶意软件是恶意的”，上述报告的结论说。
+Backoff and its variants all perform four functions. First, they scrape the memory of in-store payment systems for credit and debit card “track” data, which can include an account number, expiration dates and personal identification numbers, or PINs.
+Backoff及其变异版本都有四项功能。首先，它们从店内支付系统的内存中获取信用卡和借记卡的“踪迹”数据，这些数据可能包括账户号、有效期，以及个人识别码(简称PIN)。
+The malware logs keystrokes, as when a customer manually enters her PIN, and communicates back to the attackers’ computers so they can remove payment data, update the malware or delete it to escape detection.
+这个恶意软件能记录按键动作，比如一个顾客用手输入自己的PIN这种动作，把其传回攻击者的计算机，使他们能够取得支付数据，更新恶意软件或将其删除以免被发现。
+The hackers also install a so-called backdoor into in-store payment machines, ensuring a foothold even if the machines crash or are reset. And they continue to tweak the malware to add functions and make it less detectable to security researchers.
+黑客还在店内付款机上安装所谓的后门软件，确保即使在机器死机或重置后仍能进入系统。他们不断调整恶意软件，增添新功能，使其更不易被研究计算机安全的人察觉到。
+Security experts say antivirus software alone will not prevent these attacks. They recommend companies take what is called a “defense in depth” approach, layering different technologies and empowering security professionals to monitor systems for unusual behavior.
+安全专家说，杀毒软件本身并不能阻止这些攻击。他们建议公司采取所谓的“纵深防御”方法，用不同层次的技术，授权安全专家来监视系统中的不寻常行为。
+Among the report’s recommendations: Companies should limit the number of people with access to its systems; require long, complex passwords that cannot be easily cracked, and lock accounts after repeated login requests.
+这份报告的建议包括：公司应限制登录其系统的人数；要求登录者使用不能被轻易破解的长且复杂的密码，出现多次重复的登录请求后封锁帐户。
+The report also suggests segregating crucial systems like in-store payment systems from the corporate network and making “two factor authentication”— a process by which employees must enter a second, one-time password in addition to their usual credentials — the status quo.
+报告还建议，把关键系统，比如店内支付系统，与企业的网络隔离，让“双重认证”程序成为常态，“双重认证”指的是除了通常需要的登录密码外，员工必须另外输入第二个、一次性的密码。

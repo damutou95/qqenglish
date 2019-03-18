@@ -1,0 +1,36 @@
+WASHINGTON — Russian submarines and spy ships are aggressively operating near the vital undersea cables that carry almost all global Internet communications, raising concerns among some U.S. military and intelligence officials that the Russians might be planning to attack those lines in times of tension or conflict.
+华盛顿——俄罗斯潜艇和间谍船正在重要的海底光缆附近积极行动，这些光缆传输着全球几乎所有的互联网通信。一些美国军方和情报官员担忧，俄罗斯可能会在局势紧张或冲突时期攻击这些光缆。
+The issue goes beyond old Cold War worries that the Russians would tap into the cables — a task U.S. intelligence agencies also mastered decades ago. The alarm today is deeper: The ultimate Russian hack on the United States could involve severing the fiber-optic cables at some of their hardest-to-access locations to halt the instant communications on which the West's governments, economies and citizens have grown dependent.
+冷战时期，美国曾担心俄国人会窃听这些光缆——美国情报机构也在几十年前掌握了这种能力。但现在的担忧更加严重：俄罗斯在针对美国开展最极端的黑客行动时，可能会在美国最难到达的位置切断光纤线缆，中断西方政府、经济和公众日益依赖的实时通信。
+While there is no evidence yet of any cable cutting, the concern is part of a growing wariness among senior U.S. and allied military and intelligence officials over the accelerated activity by the Russian armed forces around the globe. At the same time, the internal debate in Washington illustrates how the United States is increasingly viewing every Russian move through a lens of deep distrust, reminiscent of the Cold War.
+虽然目前尚无任何光缆遭到切割的证据，但对于俄罗斯武装力量在世界各地加速活动，美国及其盟国的高级军事和情报官员变得日益警觉。与此同时，华盛顿内部的辩论说明，美国看待俄罗斯的一举一动时，眼光越来越不信任，这不禁让人想起冷战时期。
+Inside the Pentagon and the nation's spy agencies, the assessments of Russia's growing naval activities are highly classified and not publicly discussed in detail. U.S. officials are secretive about what they are doing both to monitor the activity and to find ways to recover quickly if cables are cut. But more than a dozen officials confirmed in broad terms that it had become the source of significant attention in the Pentagon.
+对于俄罗斯日益增多的海军活动，五角大楼和美国间谍机构的评估过程和结果属于高度机密，不会进行详细的公开讨论。如何监控这些活动，以及光缆被切断后又如何迅速恢复，美国官员对这些问题守口如瓶。但至少十多名官员已经用泛泛的措辞证实，此事已经受到五角大楼的极大关注。
+“I'm worried every day about what the Russians may be doing,” said Rear Adm. Frederick J. Roegge, commander of the Navy's submarine fleet in the Pacific, who would not answer questions about potential Russian plans for cutting the undersea cables.
+“我每天都在担忧，俄罗斯可能正在做些什么，”美国海军太平洋潜艇舰队的指挥官弗雷德里克·J·罗吉少将(Rear Adm. Frederick J. Roegge)说。对于俄罗斯可能计划切断海底光缆的问题，他也不愿回答。
+Cmdr. William Marks, a Navy spokesman in Washington, said: “It would be a concern to hear any country was tampering with communication cables; however, due to the classified nature of submarine operations, we do not discuss specifics.”
+美国海军发言人威廉·马克斯中校(Cmdr. William Marks)在华盛顿表示：“听到有任何国家计划攻击通信光缆，都会令人担心；然而由于潜艇行动具有保密性，我们不会讨论具体细节。”
+In private, however, commanders and intelligence officials are far more direct. They report that from the North Sea to Northeast Asia and even in waters closer to U.S. shores, they are monitoring significantly increased Russian activity along the known routes of the cables, which carry the lifeblood of global electronic communications and commerce.
+但是，私下里，指挥官和情报官员的措辞远远更加直接。他们说，从北海到东北亚，甚至是更接近美国海岸的海域，在已知光缆的沿线都监测到，俄罗斯的活动显著增加。这些光缆是全球电子通信和商业的命脉。
+Just last month, the Russian spy ship Yantar, equipped with two self-propelled deep-sea submersible craft, cruised slowly off the East Coast of the United States on its way to Cuba — where one major cable lands near the U.S. naval station at Guantánamo Bay. It was monitored constantly by U.S. spy satellites, ships and planes. Navy officials said the Yantar and the submersible vehicles it can drop off its decks have the capability to cut cables miles down in the sea.
+就在上个月，配备了两个自走式深海潜水器的俄罗斯间谍船“扬塔尔号”(Yantar)从美国东海岸缓缓驶向古巴，而一处主要光缆就位于关塔那摩湾美国海军基地附近。美国的间谍卫星、舰艇和飞机一直监控着那次巡航。海军官员说，扬塔尔号和它放出的潜水器，有能力切断海面以下数英里处的光缆。
+“The level of activity,” a senior European diplomat said, “is comparable to what we saw in the Cold War.”
+“活动的程度堪比冷战时期，”一位欧洲高级外交官说。
+One NATO ally, Norway, is so concerned that it has asked its neighbors for aid in tracking Russian submarines.
+北约(NATO)盟友挪威非常担心，以至请求邻国协助追踪俄罗斯潜艇。
+Adm. James Stavridis, formerly NATO's top military commander and now dean of the Fletcher School of Law and Diplomacy, said in an email last week that “this is yet another example of a highly assertive and aggressive regime seemingly reaching backwards for the tools of the Cold War, albeit with a high degree of technical improvement.”
+前北约最高军事指挥官、现弗莱彻法律与外交学院(Fletcher School of Law and Diplomacy)院长詹姆斯·斯塔夫里迪斯上将(Adm. James Stavridis)在上周的一封电子邮件中表示，“这个例子再次表明，尽管技术上取得了极大进步，但这个极度自负、强势的政权，似乎倒退了回去要使用冷战时期的手段。”
+The operations are consistent with Russia's expanding military operations into places like Crimea, eastern Ukraine and Syria, where President Vladimir Putin has sought to demonstrate a much longer reach for Russian ground, air and naval forces.
+这些行动与俄罗斯向克里米亚、乌克兰东部和叙利亚等地扩张军事行动的做法相符。俄罗斯总统弗拉基米尔·普京(Vladimir Putin)试图在这些地方证明，俄罗斯陆军、海军和空军的势力范围要大得多。
+“The risk here is that any country could cause damage to the system and do it in a way that is completely covert, without having a warship with a cable-cutting equipment right in the area,” said Michael Sechrist, a former project manager for a Harvard-MIT research project funded in part by the Defense Department.
+“这里的风险是，任何国家都可能破坏这个系统，并且是以一种完全隐蔽的方式，都不用向该区域派遣配有光缆切割设备的军舰，”哈佛与麻省理工学院合作开展的一个研究项目的前项目主管迈克尔·西克里斯特(Michael Sechrist)说。该项目的部分资金由国防部提供。
+“Cables get cut all the time — by anchors that are dragged, by natural disasters,” said Sechrist, who published a 2012 study of the vulnerabilities of the undersea cable network. But most of those cuts take place within a few miles from shore, and can be repaired in a matter of days.
+“光缆被切断的事件时常发生，有时是被拖在后面的锚切断，有时是因为自然灾害而切断，”西克里斯特说。他在2012年发表了一篇论文，主题是海底光缆网络的缺点。但大部分情况都发生在距离海岸几英里的地方，几天便能修复。
+What worries Pentagon planners most is that the Russians appear to be looking at vulnerabilities at much greater depths, where the cables are hard to monitor and breaks are hard to find and repair.
+最让五角大楼的规划者担心的是，俄罗斯关注的似乎是更深处的薄弱环节，那里的光缆很难监测，被破坏的地方也难以发现和修复。
+Sechrist noted that the locations of the cables are hardly secret. “Undersea cables tend to follow the similar path since they were laid in the 1860s,” he said, because the operators of the cables want to put them in familiar environments under long-standing agreements.
+西克里斯特指出，光缆的位置几乎不是秘密。“自从1860年代开始铺设海底线缆以来，水下线缆的路径往往都是相似的，”他说，因为光缆服务运营商希望铺设在有长期协议的熟悉环境里。
+The exception are special cables, with secret locations, that have been commissioned by the United States for military operations; they do not show up on widely available maps, and it is possible the Russians are hunting for those, officials said.
+美国为军事行动委托埋放的特殊光缆是例外，位置保密，它们不会出现在广泛传播的地图上。官员称，俄罗斯可能是在寻找这种光缆。
+The role of the cables is more important than ever before. They carry more than $10 trillion a day in global business, including from financial institutions that settle their transactions on them every second. Any significant disruption would cut the flow of capital. The cables also carry more than 95 percent of daily communications.
+光缆的作用比以往任何时候都更重要。全球每天有价值超过10万亿美元的商业活动通过光缆进行，包括金融机构每时每刻都在结算的交易。海底光缆还承载着超过95%的日常通讯。

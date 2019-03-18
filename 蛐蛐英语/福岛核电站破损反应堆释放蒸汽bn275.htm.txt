@@ -1,0 +1,24 @@
+A damaged reactor at the Fukushima Daiichi nuclear power plant suddenly began releasing steam again, but the operator of the plant said Thursday it did not appear to be a result of renewed nuclear reactions — a worst-case situation that could lead to a large new release of radioactive materials.
+福岛第一核电站(Fukushima Daiichi nuclear power plant)的一个破损反应堆突然再次释放蒸汽，不过，核电站运营商周四表示，蒸汽似乎不是核反应再次启动引起的。如果是的话，局面将会极其严重，可能会引起又一次放射性物质大量泄漏。
+Still, the steam was another indicator of the fragile state of the plant more than two years after the worst nuclear disaster after the accident at Chernobyl. The latest news adds to revelations of a slew of other problems at the plant, including indications that radioactive water may have been leaking into the ocean since the disaster.
+尽管如此，蒸汽仍然是又一个信号，显现了福岛第一核电站受灾之后的脆弱状态，两年多以前，该电站发生了自切尔诺贝利核电站(Chernobyl)事故以来最严重的核灾难。最近的新闻让福岛第一核电站已有披露的大量问题又多了一条，问题包括有迹象显示，自灾难发生后，放射性污水可能一直在渗入大洋。
+The issues have led critics to question the stewardship of Tokyo Electric Power Company, or Tepco, which operated Fukushima Daiichi before the triple meltdowns there and is now in charge of its cleanup. Distrust has also run high because of Tepco’s continued tendency to play down or hide problems at the plant.
+这些问题已经引发批评者对东京电力公司的质疑（Tokyo Electric Power Company，简称东电），该公司在核电站发生三重熔融事故之前负责电站运行，现在则负责电站的清理工作。还有一个原因导致不信任情绪高涨，那就是东电一直倾向于淡化或隐藏核电站的问题。
+Tepco said it based its conclusion that there was no new chain reaction at Reactor No. 3 on its failure to find xenon, a byproduct of fission that lingers for only a few hours and would be an indication of new nuclear activity. Tepco also said the temperature remained stable.
+东电说，它之所以断定三号核反应堆(Reactor No. 3)没有发生新的反应，依据是公司没有发现氙，氙是裂变反应的一种副产品，只会存在数小时，可以成为新起核活动的一个指标。东电还说，反应堆的温度依然稳定。
+Hiroki Kawamata, a spokesman for Tepco, said officials were unsure what was generating the steam and hypothesized that rainwater seeping into the reactor’s damaged containment vessel may have turned to vapor because of heat inside the vessel.
+东电发言人广树川俣(Hiroki Kawamata)说，公司的管理人员还不确定是什么因素催生了蒸汽，他们推测，也许是渗入受损的反应堆保护壳的雨水被保护壳内部的高温转化成了蒸汽。
+David Lochbaum, a nuclear analyst at the Union of Concerned Scientists, a group based in Cambridge, Mass., which is generally critical of nuclear power, said that there were many phenomena that could produce steam, including something as simple as a live electrical cable falling into a puddle.
+核分析员戴维·洛赫鲍姆(David Lochbaum)说，很多情况都可能产生蒸汽，包括充电电缆落入一个水坑。洛赫鲍姆来自马萨诸塞州坎布里奇的忧思科学家联盟(Union of Concerned Scientists)，该组织总体上对核能持批评态度。
+In an indication of the complexities of the cleanup effort, the company is still struggling to get a covering over the reactor building to protect the reactor and the remaining nuclear fuel. Workers cannot replace the roof until they have removed highly radioactive debris from the upper sections of the building, a job that requires using remotely controlled cranes.
+清理工作十分复杂，证据之一就是东电至今仍在努力给反应堆建筑加盖，以保护反应堆和剩下的核燃料。工作人员无法更换顶盖，除非先除去建筑靠上部分的高放射性碎片，这项工作需要使用远程控制的起重机。
+Video images seemed to show less steam on Thursday evening, but after sundown it became too dark to accurately check for any vapor, Masayuki Ono, acting general manager of Tepco’s nuclear power and plant siting division, said at a news conference.
+东电核能与电站选址部执行总经理尾野昌之(Masayuki Ono)在一次新闻发布会上表示，周四晚上的视频画面显示蒸汽已经变少，但太阳下山后太过昏暗，无法准确查看蒸汽的情况。
+Workers were ready to inject water containing boric acid into the reactor from the outside at any signs of further trouble, like a rapid rise in temperature, the company said in an e-mailed statement.
+东电在通过电子邮件发出的一则声明中说，工作人员已经做好准备，若有迹象表明会再出问题，如温度迅速上升，便会将含有硼酸的水从外部注入反应堆。
+Such spikes would raise the possibility of criticality in the reactor’s damaged fuel, most of which is thought to have melted and slumped to the bottom of its containment structure after a hydrogen explosion, one of several after an earthquake and tsunami in March 2011 knocked out crucial cooling systems. Boric acid would be expected to choke off a nuclear chain reaction.
+类似的温度升高会增加反应堆内受损燃料达到临界状态的可能性，大部分受损燃料被认为已在一次氢气爆炸后熔化并流到了保护壳结构的底部。2011年3月的地震海啸破坏了关键的冷却系统后，反应堆发生了好几起氢气爆炸。使用硼酸的目的是阻止核连锁反应。
+The No. 3 reactor’s damaged core, like the cores of two other crippled reactors at the site, is being cooled by water that is pumped into the reactor, filtered and recycled. Among the recent mishaps at the site, the cooling system for the reactor shut down for hours in April. Tepco later said a rat had somehow short-circuited a vital switchboard, possibly by gnawing on cables.
+和该电站其他两个受损反应堆的堆芯一样，三号反应堆的受损堆芯正在被用水冷却，水被泵进反应堆，经过过滤之后再投入循环使用。电站最近发生的事故还包括，该反应堆的冷却系统在4月停止运转了好几个小时。东电后来称，事故原因是一只老鼠莫名其妙地让一个关键的配电盘发生了短路，可能是因为老鼠啮咬电缆。
+More than 100,000 people fled their homes after the meltdowns at Fukushima. While many areas not immediately surrounding the plant are beginning to be repopulated, the news of the residents’ return has been overshadowed by the continued problems at the plant.
+福岛核电站堆芯熔融事故之后，超过十万人离井背乡。尽管许多距电站稍远的地区又开始有人居住，核电站接连出现的问题还是压过了居民回归的好消息。

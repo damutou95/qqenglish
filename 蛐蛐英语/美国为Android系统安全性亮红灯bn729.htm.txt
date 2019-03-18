@@ -1,0 +1,12 @@
+Google’s Android operating system is the most widely used mobile software system in the world, which makes it a big target for makers of malicious software, the way Microsoft Windows system is. Now the American government has issued a warning about the potential security threat of Android.
+谷歌(Google)的Android操作系统是世界上应用最广泛的移动设备软件系统，因此也成为恶意软件制造者的重要目标，和微软(Microsoft)的Windows系统一样。如今，美国政府已经发布警告，称Android系统可能存在安全隐患。
+In a document recently made public, though issued last month, the Department of Homeland Security warned police officers, firefighters, emergency medical services and security personnel about the security issues in Android. It said earlier versions of Android, released in 2011, had several security vulnerabilities that were fixed in later versions of the software.
+在于上月下发、但最近才公布的一份文件中，国土安全部(Department of Homeland Security)就Android系统的安全问题向警察、消防员、急救服务人员及安全人员发出警告。国土安全部称，2011年发布的Android系统的早期版本出现了一些安全漏洞，后来的版本已经修补了这些漏洞。
+The report says Android accounts for 79 percent of mobile malware, while Apple’s iOS accounts for 0.7 percent.
+报告称，79%的移动设备恶意软件是针对Android系统，而针对苹果(Apple)iOS系统的恶意软件占0.7%。
+“The growing use of mobile devices by federal, state, and local authorities makes it more important than ever to keep mobile OS patched and up-to-date,” said the unclassified report, which was recently published by Public Intelligence.
+Public Intelligence最近公布的这份非保密报告称，“联邦、州及地方政府越来越多地使用移动设备，因此修复、更新移动设备操作系统比以往更加重要。”
+The document lays out some of the common security threats in earlier versions of Android, including a vulnerability in text messaging, where malicious software can steal money by making secret charges to a user’s phone bill — a method called toll fraud.
+文件展示了Android早期版本中的一些常见安全威胁，比如短信方面的漏洞，恶意软件可以通过秘密收费，增加用户的电话费——一种被称为话费欺诈的方法——来盗取金钱。
+Google did not immediately respond to a request for comment.
+谷歌没有立即对置评要求作出回应。

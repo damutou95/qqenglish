@@ -1,0 +1,38 @@
+The time has come for Google, the king of online search, to show whether it has any business selling hardware.
+对互联网搜索之王谷歌(Google)来说，一个证明自己的重要时刻已经到来，向世人展示它有没有能力卖硬件。
+After lackluster results selling devices made by other companies, Google is giving hardware another try — this time with a smartphone made by a company it owns. On Thursday, Motorola Mobility, the handset maker Google bought last year for $12.5 billion and then retooled, introduced the Moto X, the company’s first major device since the deal.
+谷歌在销售别家公司生产的硬件方面，业绩平平，如今它在硬件领域再次出击，这次是一部智能手机，来自它旗下的公司。周四，去年被谷歌以125亿美元（约合766亿元人民币）收购并重组的摩托罗拉移动公司(Motorola Mobility)推出了Moto X，这是该公司被收购以来生产的第一款主要硬件产品。
+The phone has all the standard features expected of today’s top smartphone, with a twist: the ability to control the phone by talking to it, without lifting a finger.
+这部手机具备如今所有顶级智能手机应有的功能，此外还有个令人意外的特性：用户能够不动一根手指，通过语音来控制这部手机。
+The stakes are big for Google, and not only because of the high price that it paid for Motorola. Google is enormously profitable, but its growth is slowing because of lagging ad sales. Finding success with the new phone could lead to a new source of revenue and a way to get more users to view the company’s ads.
+对谷歌来说，这一产品的成败至关重要，不仅是因为它为摩托罗拉支付了高昂价格。谷歌公司的利润极其丰厚，但其增长正因为广告销售疲软而放缓。以一部新手机来争取成功，可能会带来新的收入来源，并让更多用户来观看谷歌的广告。
+The company has been aggressive in absorbing Motorola. It put a former top executive, Dennis Woodside, in charge of Motorola, laid off thousands of Motorola workers and formed a new team with many employees from its fiercest competitors, including Apple, Samsung and Amazon. A major marketing effort is expected for the Moto X.
+谷歌一直积极地推动摩托罗拉的融入。它让前高管丹尼斯·伍德赛德(Dennis Woodside)来负责摩托罗拉，裁去了数千名摩托罗拉员工，并组建了一个新团队，其中不少人来自它最强劲的竞争对手，如苹果(Apple)、三星(Samsung)和亚马逊(Amazon)等。为了推广Moto X，预计谷歌将展开大型营销攻势。
+“I think we’ve created an awesome company,” said Iqbal Arshad, Motorola’s senior vice president of global product development. “And Moto X represents who we are.”
+“我想我们已经打造了一家出色的公司，”摩托罗拉负责全球产品开发的高级副总裁伊克巴尔·艾尔沙德(Iqbal Arshad)说。“而Moto X代表了我们的价值。”
+Still, sales could be an uphill climb. The phone, decked out with multiple processors, sensors and voice controls, is landing squarely in the brutally competitive market for high-end smartphones. And Google has a lot to prove before it is taken seriously as a hardware maker.
+不过，销售之路或许不容易。这部手机装配了多个处理器、传感器和语音控制器，并由此被纳入竞争残酷的高端智能手机领域。但是，要作为硬件制造商获得认可，谷歌还要做出很多努力。
+Motorola’s executives think they have something special with the Moto X, which will be sold by all the major American phone carriers beginning in late August or early September. It has a 4.7-inch touch screen, which puts it right between the smaller iPhone 5 and the larger Galaxy S4 from Samsung. And it has a sophisticated camera and high-speed connections.
+摩托罗拉高管们认为，他们的Moto X相当独特，在8月底或9月初，美国所有的主要移动运营商将开始销售这款手机。它有一个4.7英寸的触摸屏，大小在较小的iPhone 5和较大的三星Galaxy S4之间。它还拥有精巧的照相机和高速网络连接。
+But what executives hope makes the Moto X stand out is its voice command capabilities — like continually listening for a user’s voice and quickly reacting to commands. Saying “O.K. Google, now find me my way home” will quickly pull up a Google map with directions to a user’s house, for example. The phone learns the voice of its owner and responds only to it. Some people might find this creepy, but it is a feature that a user must turn on voluntarily.
+但高管们希望，Moto X能以其语音控制能力脱颖而出——包括持续听用户的语音，并对命令迅速作出响应。例如，用户说“好，谷歌，找出我回家的路”，手机会迅速显示出一张谷歌地图，其中有通往用户住宅的指示。手机会学习用户的声音，并仅对这种声音作出回应。有些人可能会觉得这个功能有些吓人，不过该功能必须由用户自行开启。
+Google executives have long talked about building computers that are so integrated into our space that we can ask them to do things without lifting a finger. The Moto X is a big step in that direction.
+谷歌高管一直说要制造与人们的生活空间浑然一体的电脑，人们可以不动一根手指就让它们做事情。而Moto X就是向着这个方向迈出的重大一步。
+Mr. Arshad said the company had to develop a new computing system, X8, to make Moto X work well. One low-powered processor in the phone is devoted to processing natural language. Another low-powered processor is dedicated to detecting movements of sensors — two twists of the wrist will open the phone’s camera, for example. The design of the computing system allows the phone to constantly listen for the user’s input and quickly respond without constantly draining the battery, he said. (The phone’s battery is supposed to last 24 hours handling various tasks.)
+艾尔沙德表示，摩托罗拉不得不开发了一套新的运算系统X8来确保Moto X的稳定运行。这部电话中一个低功率处理器是用来处理自然语言的。另一个低功率处理器是用来识别传感器的移动，例如，扭动手腕两次就能打开手机上的照相机。他表示，运算系统的设计允许电话不断留意用户表达的各种信息，并做出快速响应，同时也不会因此耗尽电池。（按照设计，这部电话的电池能够在处理不同任务的情况下持续24小时。）
+“We want to change the way people call, we want to change the way people search and we want to change the way people navigate,” Mr. Arshad said. “That’s what touchless control enabled you to do. So we had to design a mobile computing system to do that.”
+艾尔沙德说，“我们想要改变人们打电话的方式，我们想要改变人们搜索的方式，我们还想要改变人们进行导航的方式。非接触控制功能就能让你做到这一点。所以，我们必须设计一个移动运算系统来实现这一功能。”
+Still, as other device makers have learned, it takes more than snazzy features to gain traction in the handset business. Samsung and Apple dominate the market, and some Asian manufacturers like Huawei and ZTE are selling low-cost smartphones and quickly gaining ground in economically disadvantaged markets.
+然而，如同其他一些手机制造商已经发现的，单靠时髦的功能不足以在手机市场获得认可。三星和苹果已在市场中占据统治地位，在一些经济落后的市场，像华为和中兴通讯这样一些亚洲生产商正在出售低成本智能手机，并很快取得了不俗的成绩。
+Tero Kuittinen, a telecom analyst at Alekstra, a mobile diagnostics firm, said it was bad timing for Google to be competing in the high end of the smartphone market. The smartphone business is still expanding — in the second quarter this year, it grew 52 percent compared with last year, according to the research firm I.D.C. But most of that growth is coming from manufacturers offering cheap smartphones in emerging markets, he said.
+移动科技咨询公司Alekstra的电信分析师泰罗·库伊蒂宁(Tero Kuittinen)表示，谷歌现在加入高端智能手机市场的竞争，时机不佳。智能手机行业仍在增长，根据调查公司IDC的统计，今年第二季度较去年同期增长52%。但他表示，多数增长来自向新兴市场供应低价智能手机的生产商。
+Chetan Sharma, an independent telecom analyst who does consulting for carriers, said it was unlikely that customers will flock to the Moto X. Plenty of people are chained to family plans and won’t be able to upgrade to a new phone yet.
+电信产业的独立分析师切旦·夏尔马(Chetan Sharma)为电信公司提供咨询，他表示，不太会有大量消费者蜂拥购买Moto X。许多人受制于家庭计划，还不能升级购买新手机。
+“That leaves only a sliver of consumers who are up for grabbing a new phone,” he said.
+他说，“这样一来，只有少数消费者可以购买一部新手机。”
+But Motorola executives say Moto X is just the beginning. The company plans to offer a broad portfolio of products. Moto X is a high-end phone, but the company will introduce a lower-cost smartphone later this year, said Rick Osterloh, the company’s senior vice president of product management.
+但是，摩托罗拉的高管表示，Moto X只是一个开始而已。公司计划推出一系列不同的产品。摩托罗拉移动负责产品管理的高级副总裁里克·奥斯特洛(Rick Osterloh)说，Moto X是一款高端手机，但公司在今年下半年会推出一款较低成本的智能手机。
+Motorola may also contribute to Google’s efforts in making wearable computers like Google Glass, or eventually a smartwatch. Mr. Arshad said that the company’s X8 computing system was part of the company’s long-term goal to make mobile devices smarter and fit in the next generation of mobile devices.
+摩托罗拉可能也对谷歌制作可穿戴式电脑做出了贡献，如“谷歌眼镜”(Google Glass)，或未来的智能手表。艾尔沙德表示，公司的长远目标是使移动设备更加智能化，推出下一代移动设备，而X8运算系统是这一计划的一部分。
+“You could easily see the same technology we have here applicable to all sorts of different form factors in addition to wearables,” he said.
+他说，“你很容易就能看到，我们拥有的这种技术，除了可用于可穿戴设备以外，还可适用于各种不同规格的平台。”

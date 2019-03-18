@@ -1,0 +1,70 @@
+Every time you look, our computers have moved closer to us.
+我们每次观察一下，就发现电脑离我们更近了一步。
+In the beginning, they existed only in corporate headquarters. Then came the desktop PC — three feet away. Then the laptop — one foot. Then the smartphone — in our pockets. What’s next — computers on our wrists?
+起初，只有公司总部才有电脑。之后出现了台式个人电脑，距离我们只有三英尺（约合0.9米）远。后来是笔记本电脑，只有1英尺远。再后来就是智能手机，放在口袋里。接下来会出现什么——手腕上的电脑？
+Exactly. As though by silent agreement, the gadget industry seems to have decided that 2013 is the year of the smartwatch.
+非常正确。硬件制造行业似乎心照不宣，一致认定，2013年将是智能手表之年。
+The central idea is sound. You already have an iPhone or Android phone. Wouldn’t it be neat if your watch could communicate with it wirelessly?
+核心理念非常有道理。我们已经有了iPhone和Android手机。如果你的手表能与手机建立无线连接，那岂不是更棒？
+Imagine: the watch could beep or vibrate whenever you get an incoming call, text message or e-mail. No more, “Sorry I didn’t get your call; my phone was in my backpack.” No more fumbling for your phone when that would be inconvenient or unsafe — like while you’re skiing, skateboarding or driving.
+想象一下，每当有来电、短信或者邮件的时候，这种手表会发出提示声音或者震动。不会再有，“抱歉，我没接到你的电话，手机在背包里”的情况。不会再有在不方便或者不安全的情况下到处摸索手机的情况，比如滑雪、玩滑板或者开车的时候。
+These watches can also make your phone beep loudly when it’s lost in the house. That’s much quicker than using Find My iPhone, which involves logging into a Web site.
+当你在屋子里找不到手机时，这些手表还会使手机发出大声的提示音。这比登录网站使用“寻找我的iPhone(Find MyiPhone)”应用程序快得多。
+They can also serve as a digital “leash”: if you wander away, accidentally leaving your phone on some restaurant table, the watch buzzes to warn you.
+它们还能充当电子“手机链”，如果你一时疏忽，偶然将手机忘在餐馆的桌子上，手表会发出“嗡嗡”的声音提醒你。
+I tested the Meta Watch ($180), Cookoo ($130), Casio G-Shock GB-6900 ($180), Martian ($300), and I’m Watch ($400, coming in July). More, like a Kickstarter favorite, Pebble Watch, are on the way. (The Martian, Cookoo and Meta Watch also began life on Kickstarter, the Web site where inventors seek financing from the public.) Even Apple is said to be toying with an iWatch.
+我试用了Meta手表(Meta Watch)（180美元，约合1119元人民币）、Cookoo（130美元）、卡西欧G-Shock GB-6900（180美元）、Martian（300美元）和I’m Watch（400美元，7月推出）。还有融资平台Kickstarter最喜欢的Pebble智能手表等都将相继问世。（Martian、Cookoo 和Meta手表都是从Kickstarter网站集资开启项目的，发明者在该网站上寻求公众的资助。）据悉，甚至连苹果(Apple)都有意推出一款iWatch。
+The designs are all over the map. Some have touch screens. Some look like regular analog watches; others are basically iPod Nanos with straps. Some require daily charging; others take watch batteries.
+手表的设计可谓是五花八门。有的有触摸屏，有的看起来像普通的指针表，其他一些基本上算是有表带的iPod Nano。有一些手表需要每天充电，其他一些使用手表电池。
+They do have some things in common. First, these early smartwatches are thick and chunky — a desirable quality in a stew, maybe, but not for the delicate of wrist.
+它们确实有一些共同之处。首先，这些早期的智能手表都很厚实，是一大块。如果是炖锅，一大块可能很好，但那不是腕上精品应有的特点。
+Second, they communicate with your phone over Bluetooth. You have to “pair” the watch to your phone on the first day — and whenever you exit Airplane Mode.
+其次，它们通过蓝牙与手机连接。你需要在第一天使用及每次退出飞行模式时，将手表与手机“配对”。
+Most models require a companion phone app for this purpose.
+为了完成配对，大多数手机都需要安装一个相应的手机应用。
+Most of these watches use Bluetooth 4.0, which means your phone will lose only a small amount of battery charge each day — maybe 5 or 10 percent — but only recent models, like the iPhone 4S and 5, are compatible.
+大多数手表使用蓝牙4.0，这意味着你的手机每天用于和智能手表连接的耗电量将会非常小，可能只有5%至10%的电量，但只有iPhone 4S和iPhone 5等比较新款的手机才能兼容这版蓝牙程序。
+Finally, the instruction manuals are terrible or nonexistent; it’s as if, in their zeal to make these things work, the companies forgot all about explaining it to you.
+最后，手表的操作指南要么非常差，要么根本就没有。好像公司一心想着怎么做成一款智能手表，却完全忘了解释如何使用。
+Wrists ready? Here we go.
+你的手腕准备好了吗？我们开始吧。
+CASIO G-SHOCK GB-6900 ($180). This watch closely resembles Casio’s other G-Shocks: popular, masculine, rugged, waterproof digitals.
+卡西欧 G-SHOCK GB-6900（180美元）。这款手表与卡西欧G-Shocks系列中的其他手表十分相似：流行、阳刚、坚固、防水。
+But this one can beep or vibrate when calls or e-mails come to your iPhone — though not, alas, text messages. There’s no Caller ID; a cramped scrolling display says only “Incoming call.” For e-mail, the sender’s address scrolls slowly. You can dismiss these alerts with a double-tap on the glass — that’s the only thing this watch’s “touch screen” does. The watch can also set itself as you cross time zones by checking in with your phone.
+但当手机收到电话或者邮件的时候，这款手表可以发出提示音或者震动，不过收到短信时没有提示（唉！）。手表没有来电显示，狭窄的滚屏只能显示“有来电”。邮件发件人的邮箱地址滚动地非常慢。你可以双击手表玻璃盖忽略提醒，这是该手表的“触摸屏”唯一能做的事情。当你跨越时区时，手表还可以核对你的手机，自动设置时间。
+These limited functions are solid and power-stingy; one watch battery lasts two years. 
+这些有限的功能非常实用，而且省电，一块手表电池可以使用两年。
+COOKOO WATCH ($130). The round face and analog hands offer spartan good looks; only the watch’s alarming thickness (three-quarters of an inch) and four edge buttons let you know that it’s not a Swatch.
+COOKOO WATCH（130美元）。圆圆的表盘和指针非常简单美观，只有那厚厚的表体（四分之三英寸，约合1.9厘米）和一圈四个按钮才让人感觉这不是一块Swatch手表。
+There’s no screen. Instead, icons dimly appear on the watch’s black background as notifications of incoming calls, calendar reminders or Facebook posts. If you want to know what they are or who they’re from, you need your phone.
+这款手表没有显示屏。手表黑色底盘上模糊闪现的图标会提醒你有来电、日历或者Facebook帖子。如果你想知道内容或者其来源，你需要打开手机。
+The Cookoo offers a bidirectional “find” feature and can also set off your phone’s camera by remote control, which is great for self-portraits. A standard watch battery lasts nine months, and the price is reasonable. But there are lots of rough edges and missing features.
+Cookoo腕表提供了双向“查找”功能，还可以通过遥控开启手机的照相机，这对自拍来说非常理想。一块普通手表电池可以使用九个月，而且价格公道。但是它存在很多瑕疵，还缺失一些功能。
+META WATCH The text and graphics are white-on-silver, which is sometimes hard to read. The phone alerts you when text messages or calls come in, but notifications for e-mail, appointments, Facebook posts, tweets and alarms are “coming soon.”
+META手表 文字或图形是白色的，显示在银色背景上，有时很难辨识。每当有短信或电话进来时，手表会提示你，但是对电子邮件、预约、Facebook讯息、Twitter讯息和闹铃的通知还是“即将推出”。
+No instructions come with the watch, and even the online help page doesn’t tell you what the watch’s six buttons do.
+手表没有附带说明书，甚至连网上的帮助页面都没告诉你它的六个按钮是做什么的。
+That’s too bad, because there’s some promise here. The Frame model ($200) isn’t much thicker than a real watch. (The $180 Strata model is plastickier.) Both last about five days on a charge.
+这太糟了，因为这款产品还是大有希望的。一只Frame型号的手表（售价200美元）并不比一只真正的手表厚多少。（售价180美元的Strata型号塑料感更强）它们在充满电后都可以使用五天左右。
+The watch also runs widgets — the three Home screens hold four each — like stocks and weather. Someday, the company hopes, app writers will create new functions. For now, though, this watch feels like a prototype.
+这种表还可以运行一些小程序。它有三个主页面，每个主页面上都有四个小程序，比如股票和天气。公司希望，应用程序写手将来会创造出一些新功能。然而现在，这款表感觉还像是一个雏形。
+I’M WATCH ($400 to $20,000, for jeweled versions). Although this weirdly named watch runs an ancient version of Android, it looks like an iPod Nano on your wrist.
+I’M WATCH （珠宝版售价400美元到2万美元）。虽然这种名字怪异的手表运行的是旧版的Android操作系统，但它看起来更像是在手腕上带着一个iPod Nano。
+It’s the only contender with true touch-screen operation. You swipe through pages of tiny icons: Facebook and Twitter-reading apps, a compass, a calculator, address book, music player and so on.
+它是唯一一个真正使用触摸屏进行操作的智能手表。你可以滑动带有微型图标的页面：阅读Facebook 和Twitter讯息的应用程序、指南针、计算器、通讯录、音乐播放器等等。
+Unfortunately, the I’m is big, baffling, buggy and slow, and the battery doesn’t last a day. You’re supposed to be able to use it to make calls, but you get nothing but garbled snippets.
+不幸的是，I’m Watch体积较大、设置混乱、存在故障且运行缓慢，电池坚持不了一天。你应该可以用它来打电话，但是你只能听到模糊而断断续续的声音。
+Here’s a better name for this watch: I’m Unfinished.
+这款手表还不如叫“我未完工”(I’m Unfinished)。
+MARTIAN WATCH ($250 to $300). This classy-looking watch has analog hands; a crisp, bright scrolling line of text appears only when the watch has something to say. It notifies you of text messages, incoming calls, e-mails, Twitter or Facebook posts.
+MARTIAN手表（售价250美元到300美元）。这款造型时尚的手表配有指针；只有当手表需要通知某些事情时，上面才会出现一条简洁的、发光的滚动文字。如果有短信、电话、电子邮件、Twitter或Facebook讯息，它就会通知你。
+Even then, you see only the first 40 characters of text messages and the first 20 of Facebook/Twitter posts; the e-mail alert shows only how many new messages you have, not what they are.
+即便如此，你也只能看到短信的前40字，以及Twitter或Facebook讯息的前20条；电子邮件提醒只会显示你有多少条新邮件，而不显示具体内容。
+Cool: you can decline an incoming call by shaking your wrist a certain way. The watch can set off your phone’s camera remotely, and it can read incoming texts aloud. One USB charge lasts several days.
+亮点：你可以通过以某种方式晃动手腕来拒绝来电。它还可以通过遥控来开启手机的照相机，而且它还可以大声读出收到的讯息。用USB接口充满电后，可以使用好几天。
+By far the most astonishing feature, though, is that the Martian is a full-blown speakerphone. It communicates with Android’s voice-dialing feature or, even more flexibly, the iPhone’s Siri. You press the top button and say, for example, “Call mom’s cellphone,” and bingo — you’re having a phone conversation with your mother through your watch.
+然而，目前最令人惊讶的功能是，Martian手表是一个成熟的语音电话。它可以与Android的语音拨号功能交流，或者，甚至还可以更加灵活地与iPhone的语音助手Siri进行信息交流。例如，你只需要按下手表上方的按钮，然后说“给妈妈打电话”，你就能通过手表与母亲打电话了。
+You can also dictate text messages and e-mails or check your calendar by voice, all thanks to Siri. Audio is surprisingly clear on both ends, though it’s not powerful enough for loud places.
+在Siri的帮助下，你还可以通过语音输出短信、邮件，或检查日程表。两端的声音都非常清晰，但是在喧哗的地方音量仍不够大。
+But seriously: what a giddy, useful feature. This is it, people: Dick Tracy. James Bond. The future.
+但是真的，这是一个多么有趣而又有用功能啊。各位，就是它了：至尊神探(Dick Tracy)、詹姆斯·邦德(James Bond)；未来的手表。

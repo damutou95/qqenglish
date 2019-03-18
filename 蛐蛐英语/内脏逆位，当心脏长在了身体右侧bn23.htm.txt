@@ -1,0 +1,58 @@
+One day in 1788, students at the Hunterian School of Medicine in London were opening a cadaver when they discovered something startling. The dead man’s anatomy was a mirror image of normal. His liver was on his left side instead of the right. His heart had beaten on his right side, not his left.
+1788年的某天，伦敦亨特医学院(Hunterian School of Medicine)的学生们正在解剖一具尸体，他们发现了一件惊人的事情。那位死去男子的构造正好是正常人的镜像。原本应该在右边的肝脏长在了左边。死之前，他的心脏一直是在他的右侧跳动，而不是左侧。
+The students had never seen anything like it, and they rushed to find their teacher, the Scottish physician Matthew Baillie, who was just as stunned as they were. “It is so extraordinary as scarcely to have been seen by any of the most celebrated anatomists,” he later wrote.
+学生们从没见过这样的情况，他们匆匆找来他们的老师、苏格兰内科医生马修·贝利(Matthew Baillie)，而他也同样震惊。“这太不寻常了，就连那些最著名的解剖学家也几乎没见过，”他后来写道。
+His report was the first detailed description of the condition, which came to be known as situs inversus and is thought to occur in about 1 in 20,000 people. Baillie argued that if doctors could figure out how this strange condition came to be, they might come to understand how our bodies normally tell the right side from the left.
+他的报告是对这种后来被人称为内脏逆位(situs inversus)症状的首次详细描述，这种症状出现的几率约为每两万人中一例。贝利指出，如果医生们能够找出这种奇怪症状出现的原因，那么他们可能就会明白，我们的身体通常如何分辨左右。
+Over two centuries later, the mystery of left and right still captivates scientists.
+两百多年以后，这一左右之谜依然困扰着科学家们。
+“I know what it is, you know what it is, but how does the embryo learn what it is?” asked Dominic P. Norris, a developmental biologist at the University of Cambridge in England.
+“我知道是左是右，你知道是左是右，那么胚胎如何发现是左是右呢？”英国剑桥大学(University of Cambridge)研究发育生物学的多米尼克·P·诺里斯(Dominic P. Norris)问道。
+Now Dr. Norris and other scientists are beginning to answer that question. They have pinpointed some of the steps by which embryos’ organs develop on the left or right. And their research may do more than simply solve an old puzzle.
+现在诺里斯和其他一些科学家正开始回答这个问题。他们已经精确指出了胚胎器官发育在左或在右的一些具体步骤。并且，他们的研究可能不只是会解开这个古老的谜团。
+Mutations that cause situs inversus can lead to a number of serious disorders, including congenital heart defects. Deciphering the effects of mutated genes could lead to diagnoses and treatments for those conditions.
+由变异引起的内脏逆位可能导致一系列严重的疾病，包括先天性心脏缺陷。破解变异基因带来的影响可能会最终对这些症状做出合理诊断和治疗。
+“Understanding how you put this axis together has a lot of implications for understanding congenital heart disease,” said Rebecca Burdine, a molecular biologist at Princeton.
+“了解身体如何决定左右轴心将对理解先天性心脏疾病带来许多影响，”普林斯顿大学(Princeton)的分子生物学家丽贝卡·伯丁(Rebecca Burdine)说。
+Our bodies start out symmetrical, the left side a perfect reflection of the right. “Visible signs of left-right asymmetry in the human body are apparent around six weeks,” said Sudipto Roy of the Institute of Molecular and Cell Biology in Singapore, an author of a review of left-right asymmetry that was published last week in the journal Open Biology.
+我们的身体最初是对称的，左右完全一致。新加坡分子和细胞生物学研究所(Institute of Molecular and Cell Biology)的苏迪普图·罗伊(Sudipto Roy)说，“发育到第六周前后，人体的左右不对称现象就开始显现了。”上周，罗伊撰写的研究左右不对称的文章发表在《开放生物学》(Open Biology)期刊上。
+The heart shows the first visible asymmetry. Starting out as a simple tube, it loops to the left. The heart then starts to grow different structures on each side, producing the chambers and vessels required to pump blood.
+心脏首先表现出了明显的不对称。最初仅仅是简单的管状，现在却弯向了左侧。然后，心脏在两侧开始形成不同的结构，有了供血所需的心腔及血管。
+Meanwhile, other organs start moving. The stomach and liver each move clockwise away from the midline of the embryo. The large intestines sprout an appendix on the right. The right lung grows three lobes, the left only two.
+同时，其他器官也开始改变位置。胃和肝脏都以顺时针方向偏离胚胎的中轴线。大肠在右侧长出了一根阑尾。右肺长出三个肺叶，而左肺只有两个。
+But these visible changes arise long after the embryo has developed differences on its left and right. Experiments have revealed that the early embryo produces different proteins on each side while it still looks symmetrical.
+但是，胚胎左右两侧出现差异之后很久，这些明显的变化才发生。实验发现，早期胚胎会在两侧产生不同的蛋白质，但仍然看起来是对称的。
+Biologists have pinpointed a single spot where this symmetry breaking starts: a tiny pit called the node, on the embryo’s midline. The interior of the node is lined with hundreds of tiny hairs, called cilia, which whirl round and round at a rate of 10 times a second.
+生物学家找到了一个点，这种对称就是从这里开始打破的：胚胎中轴线上的一个小坑，称为节点。结点内排列着数以百计的细小毛发，称为纤毛。纤毛以每秒10次的速度旋转。
+These whirling cilia are tilted, pointing away from the head. The tilt is essential to their ability to divide the body into left and right. Recently Kathryn V. Anderson and her colleagues at Memorial Sloan-Kettering Cancer Center disabled genes required to tip the cilia in the node. As they report in the journal Development, that mutation led to some mouse embryos’ developing a mirror-image anatomy.
+这些旋转的纤毛是倾斜的，向远离胚胎头部的方向倾斜。这种倾斜对纤毛分割身体左右的能力来说很关键。最近，斯隆-凯特琳纪念癌症中心(Memorial Sloan-Kettering Cancer Center)的凯瑟琳·V·安德森(Kathryn V. Anderson)及其同事破坏了那种纤毛在节点内倾斜所需的基因。他们在《发展》(Development)期刊发表文章称，这种基因变异使得一些小鼠的胚胎形成了镜像结构。
+Once the cilia start pushing the thin film of fluid that bathes the embryo, it takes only three or four hours for the left and right sides to be determined. Scientists have only a patchy understanding of the steps in between.
+一旦纤毛开始推动包裹着胚胎的那一薄层液体时，只需要三、四个小时就能决定左右边。对于这中间的过程，科学家还只有一知半解。
+In the first step, the fluid flows across the node until it reaches the left side of the rim. The rim is ringed by cilia that do not spin. Somehow, they respond to the flow. They may physically bend, or the flow may deliver some protein to them. “We don’t know the nitty-gritty,” Dr. Norris said. “We don’t know the actual mechanics in these cells of what is happening.”
+首先，液体流过节点，一直流到左端边缘。边缘由不旋转的纤毛环绕。它们以某种形式对这股液体做出反应。它们可能会出现弯曲，或者这股液体带给了它们一些蛋白质。诺里斯博士说，“我们不知道细节。我们不知道这些细胞变化的实际过程。”
+Regardless of those details, the cilia on the rim of the node respond to the flow — possibly by releasing calcium atoms that then spread to surrounding cells. Those cells respond by spewing out a protein called Nodal, which spreads through the left side of the embryo, in turn spurring other cells to spew out Nodal of their own in a kind of feedback loop that leaves the left side loaded with Nodal and the right with almost none. “Nodal begets Nodal, and then we’re off,” Dr. Norris said.
+不考虑这些细节，节点边缘处的纤毛对这股液体的反应可能是，释放随后会扩散到周边细胞的钙原子。而这些周边细胞的反应则是排出节点蛋白，散布到整个胚胎左侧，然后刺激其他细胞排出自己的节点蛋白，这种反馈循环会使得胚胎左侧充满节点蛋白，而右侧几乎没有。诺里斯博士说，“节点细胞带来更多节点细胞，然后我们的身体就不对称了。”
+Scientists are still working out how Nodal helps determine the anatomy on each side of the body. In recent years, many researchers have focused not on mice but on zebra fish, which have the advantage of having transparent embryos; cells in the embryos can be engineered to glow so the organs can be observed taking shape.
+科学家仍在研究节点蛋白是怎样帮助决定人体左右两侧的结构。最近几年中，很多研究人员不再关注小鼠，而是开始观察斑马鱼，斑马鱼的优势在于其胚胎是透明的；胚胎细胞可以经过处理而发光，这样就能观察到器官如何成型。
+Some studies suggest that these early signals also influence brain development. Scientists have long known that the two sides of the human brain have some important differences. The right hemisphere, for example, plays a big role in understanding the mental lives of other people; the left hemisphere is important for focusing attention. Other vertebrates also have left-right brain differences, but the origins of the imbalance are mostly a mystery.
+一些研究表明，这些早期信号也会影响大脑发育。科学家长期以来都知道，人脑的左右两个半球有着重要差异。例如，右半球在理解他人的精神世界时起着很大作用；左半球对集中注意力很重要。其他脊椎动物也有左右半脑差异，但差异的起源在很大程度上仍是一个迷。
+As they look at these biological signals, scientists are also studying disorders that may be tied to their disruption.
+但科学家在研究这些生物信号时，他们也会研究这些信号被打乱后可能会引发的紊乱。
+Situs inversus, the complete flip of the organs that Baillie described in 1788, may be the most dramatic of these disorders, but it is also one of the most harmless.
+内脏逆位可能是这些紊乱症状中最显著的一种，但也是最无害的一种，贝利曾在1788年描述过这种器官完全反转的情况。
+“People can walk around with their axis completely inverted, and no one knows until your doctor figures out your heart’s not where it should be,” Dr. Burdine said.
+“人们可以在中轴完全反置的情况下生活，没人会发现，除非你的医生发现你的心脏不在该在的位置，”伯丁博士说。
+The reversal is relatively safe because all the organs line up with one another. “You look at yourself in the mirror, and you look perfectly normal,” Dr. Norris said. “You don’t stop looking like a human being just because you see yourself backward.”
+逆位是相对安全的，因为所有器官都整齐组合在一起。“你看着镜中的自己，看起来再正常不过，”诺里斯博士说。“你不会因为左右相反就不像一个人了。”
+The real danger, it appears, is in incomplete reversals — “when you get a confusion, when you get things not quite meeting,” as Dr. Norris put it.
+真正的危险似乎是不完全逆位——“当你出现混乱，当你的器官不完全配合，”诺里斯这样说。
+Most worrisome are cases in which the heart is affected. “If you put the heart in the wrong place, and everything else is correct,” Dr. Burdine said, “that’s almost always fatal.”
+最令人担心的是心脏受到影响的情况。“如果心脏位于错误的地方，而其他器官都在正确的位置，”伯丁说，“这几乎总是致命的。”
+In other cases, the heart grows correctly on the left side of the body, but the structures inside the heart — the valves and chambers — grow on the wrong side. These disorders may not be immediately fatal, but they can become dangerous later in life, requiring complex surgery to rearrange the heart.
+在其他病例中，心脏正确地长在身体的左边，但心脏的内部结构——心脏瓣膜和心腔——却在错误的一边。这些紊乱可能不会立即致命，但会给今后的生活造成危险，需要进行复杂的手术来重新构建心脏。
+Dr. Burdine hopes that research on left-right disorders will lead to genetic tests that can predict the risk of these hidden heart defects. She even sees an application to attempts to rebuild damaged hearts with stem cells.
+伯丁博士希望，对左右紊乱进行研究能最终实现可预测潜在心脏缺陷风险的基因测试。她甚至预见可将这应用于实践，用干细胞来重建受损心脏。
+“It’s going to be more than just making the right cells,” she said, adding that they would need to be placed in the proper three-dimensional structure and given the correct signals on where to go.
+“这需要的不只是培养正确的细胞，”她说，并补充道，这些细胞需要被排列成正确的三维结构，获得正确的位置信号。
+“And one of those signals,” she said, “is the left-right signal.”
+她说，“其中的一个信号就是左右信号。”

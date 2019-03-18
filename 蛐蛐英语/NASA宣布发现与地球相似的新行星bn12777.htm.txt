@@ -1,0 +1,30 @@
+Inching ahead on their quest for what they call Earth 2.0, astronomers from NASA’s Kepler planet-hunting spacecraft announced on Thursday that they had found what might be one of the closest analogues to our own world yet.
+美国航空航天局(NASA)开普勒行星探测飞船项目的天文学家们在寻找“地球2.0”的工作中取得了些许进展。本周四，他们宣布发现了一颗或许与地球极为接近的行星。
+It is a planet a little more than one and a half times as big in radius as Earth. Known as Kepler 452b, it circles a sunlike star in an orbit that takes 385 days, just slightly longer than our own year, putting it firmly in the “Goldilocks” habitable zone where the temperatures are lukewarm and suitable for liquid water on the surface — if it has a surface.
+该行星名为“开普勒452b”(Kepler 452b)，半径比地球的一倍半稍大。它环绕一颗类似于太阳的恒星运动，周期为385天，只比地球上的一年略长一点，因此确定地处在“宜居带”，温度不冷不热，表面适合液态水存在——如果它有表面的话。
+The new planet’s size puts it right on the edge between being rocky like Earth and being a fluffy gas ball like Neptune, according to studies of other such exoplanets. In an email, Jon Jenkins of NASA’s Ames Research Center, home of the Kepler project, and lead author of a paper being published in The Astronomical Journal, said the likelihood of the planet’s being rocky was 50 percent to 62 percent, depending on uncertainties in the size of its home star. That would mean its mass is about five times that of Earth.
+根据对其他此类系外行星的研究推断，以这颗新行星的大小而论，它正好介于地球这样的岩石星球和海王星那样的气体星球之间。乔恩·詹金斯(Jon Jenkins)来自负责开普勒项目的NASA艾姆斯研究中心(NASA Ames Research Center)，也是《天体物理学报》(The Astronomical Journal)上即将刊发的一篇相关论文的第一作者。他在电子邮件中表示，该行星属于岩石构造的可能性为50%至62%，具体取决于其主星大小的不确定性。这将意味着，它的质量大约是地球的五倍。
+Such a planet would probably have a thick, cloudy atmosphere and active volcanoes, Dr. Jenkins said, and twice the gravity of Earth. Describing the planet during a news conference, Dr. Jenkins lapsed into lines from John Keats’s poem “On First Looking Into Chapman’s Homer”: “Then felt I like some watcher of the skies / When a new planet swims into his ken.”
+詹金斯博士称，这样一颗行星很可能拥有较厚的浑浊大气层及活火山，引力是地球的两倍。在新闻发布会上描述这颗行星时，他引用了约翰·济慈(John Keats)在《初读查普曼译荷马有感》(On First Looking Into Chapman’s Homer)中的诗句，“于是我有如夜观星象，忽见有新星游入眼底。”（此处采用余光中译本——译注）
+The star that lights this planet’s sky is about 1.5 billion years older than our sun and 20 percent more luminous, which has implications for the prospects of life, Dr. Jenkins said.
+为这颗行星提供光照的恒星比太阳古老约15亿年，亮度高出20%。詹金斯博士表示，这或许表示该行星存在孕育生命的可能性。
+“We can think of Kepler-452b as an older, bigger cousin to Earth, providing an opportunity to understand and reflect upon Earth’s evolving environment,” he said. “It’s awe-inspiring to consider that this planet has spent six billion years in the habitable zone of its star, longer than Earth. That’s substantial opportunity for life to arise, should all the necessary ingredients and conditions for life exist on this planet.”
+“我们可以把开普勒452b想成是地球的一个表亲，但它年龄比较大，块头也更大。它提供了一个机会，让我们理解和思考地球上不断演化的环境，”他说。“这颗行星在它的恒星的宜居区域内已经活动了60亿年，比地球更长，令人惊叹。如果它具备生命出现的各种必要成分和条件，那么它孕育生命的机会就相当可观。”
+Asked if any radio telescopes had pointed at the planet to try to detect exterrestrial radio broadcasts, Dr. Jenkins said, “I hope so.”
+当被问及是否已经有射电望远镜指向这颗行星，以检测地外生命无线电波时，詹金斯博士说，“我希望如此。”
+To determine whether Kepler 452b deserves a place on the honor roll of possible home worlds, however, astronomers have to measure its mass directly, which requires being close enough to observe the wobbling of its star as it is tugged around by the planet’s gravity. For now that is impossible, as Kepler 452 is 1,400 light-years away.
+不过，为了判断开普勒452b是否应该在潜在宜居星球的光荣榜上占有一席之地，天文学家们必须直接测量它的质量，而这就需要近距离观测它围绕的恒星在被它的引力拖拽时的摇摆。目前来说，这不可能实现，因为开普勒452b距离地球1400光年。
+The planet is the first to be confirmed in a new list of candidates unveiled by Kepler astronomers on Thursday. It brings the number of possible planets discovered by Kepler to 4,696, many of them small like Earth. “We are the bread crumbs of the universe,” said Jeff Coughlin, of the SETI Institute in Mountain View, Calif., who compiled the catalog.
+开普勒项目的天文学家们周四公布了一份新的候选名单，而452b是其中第一个有待确认的。开普勒发现的潜在行星的数量至此增加至4696个，其中很多像地球一样小。加州山景城地外文明搜寻计划研究所(SETI Institute)的杰夫·库格林(Jeff Coughlin)表示，“我们是宇宙的面包屑。”该研究所编制了这份目录。
+The spacecraft, launched in 2009, spent four years staring at a patch of the Milky Way on the border between the constellations Cygnus and Lyra, looking for the dips in starlight caused by the passage of planets. Its pointing system failed in 2013, but astronomers are still analyzing the data Kepler collected. Every time they sift through it, new planets pop out.
+于2009年发射的开普勒飞船在四年的时间里观测银河系天鹅座与天琴座的交界处，以发现行星通过导致的恒星亮度的减弱。开普勒的指向系统在2013年失灵，但天文学家们仍在分析它此前搜集到的数据。每次梳理数据时，他们都会发现新的行星。
+In the meantime, Kepler has switched to a different mode of observing in a mission called K2.
+与此同时，开普勒切换至另一个观测模式，以便执行名为K2的任务。
+The NASA news conference coincided with a major anniversary: It was only 20 years ago this fall that Michel Mayor and Didier Queloz, of the University of Geneva, discovered a planet circling the star 51 Pegasi, about 50 light-years from here. It was the first planet known to belong to a sunlike star outside our solar system, and its discovery ignited an astronomical revolution.
+NASA举行此次新闻发布会的时间是一个重要的周年纪念：在20年前的秋季，日内瓦大学(University of Geneva)的米歇尔·马约尔(Michel Mayor)和迪迪埃·奎洛兹(Didier Queloz)发现了一颗围绕着距离地球50光年的恒星飞马座51(51 Pegasi)旋转的行星。这是人类发现的第一颗属于类似太阳的恒星的系外行星。这一发现引发了一场天文学革命。
+Dr. Queloz, who is now at the University of Cambridge in England, told the news conference, “This is a great time we live in.”
+目前在英国剑桥大学(University of Cambridge)任职的奎洛兹博士在本次新闻发布会上表示，“我们生活在一个伟大的时代。”
+“If we keep working so well and so enthusiastically,” he went on, it is not too optimistic to think that in the future, “the issue of life on another planet will be solved.”
+“如果我们保持这种出色而热情的工作，”他还说，认为未来“会解决在另一颗行星发现生命的问题”并非一个过于乐观的想法。
+Astronomers say they now know from Kepler that about 10 percent of the 200 billion stars in the Milky Way have potentially habitable Earth-size planets, Kepler 452b probably among them. This means that of the 600 stars within 30 light-years of Earth, there are roughly 60 E.T.-class abodes, planets that could be inspected by a future generation of telescopes.
+天文学家们表示，通过开普勒望远镜，他们现在得知，在银河系2000亿颗恒星中，大约有10%可能拥有与地球大小相近的潜在宜居行星，而开普勒452b很可能就是其中之一。这意味着，在距离地球不超过30光年的600颗恒星中，大约有60颗地球级别的宜居行星，而这些行星或许可以通过未来一代的望远镜观测到。

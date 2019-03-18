@@ -1,0 +1,44 @@
+MOUNTAIN VIEW, Calif. — At Google, data is king. Now the company is using data to figure out if it can anoint a few queens.
+加利福尼亚山景市——在谷歌(Google)，数据为王。现在，公司正在试图通过数据，想方设法册立几位女王。
+The company hopes its famous algorithms can solve one of the most vexing problems facing Silicon Valley: how to recruit and retain more women. Google has generally been considered a place where women have thrived, but it wants to figure out how to compete even more vigorously for the relatively few women working in technology.
+谷歌希望能用它著名的程序运算法来解决硅谷目前面临的一个棘手的问题：如何雇佣并且留住更多的女性员工。谷歌被普遍认为是一家女性员工发展极其成功的公司，但是该公司仍然希望能有更强的竞争力，延揽科技领域里相对较少的女性从业者。 
+Executives had been concerned that too many women dropped out in the interviewing process or were not promoted at the same rate as men, so they created algorithms to pinpoint exactly when the company lost women and to figure out how to keep them. Simple steps like making sure prospective hires meet other women during their interviews and extending maternity leaves seem to be producing results — at least among the rank and file.
+许多女性在面试过程中退出，或者获提拔的速度不及男性员工更快，这个问题已经引起了公司高管的关注，因此，他们设计了一种算法，用来发现公司究竟在什么时间点流失女员工，并试图找到留住她们的方法。一些简单的措施，如确保未来的女雇员在面试期间见到其他女性职工，或延长产假等，似乎都起到了一定作用——至少在普通员工中是这样。
+Still, senior women at the company are losing ground. Since Larry Page became chief executive and reorganized Google last year, women have been pushed out of his inner circle and passed over for promotions. They include Marissa Mayer, who left last month to run Yahoo after being sidelined at Google.
+但尽管如此，公司的女性高级员工仍在逐渐失去一席之地。自从去年拉里·佩奇(Larry Page)成为谷歌首席执行官，并重组公司后，女性高管便被摒除在其权力核心之外，并且无法获得升职机会。这其中就包括了玛丽莎·梅耶尔(Marissa Mayer)，在谷歌受到冷落后，梅耶尔上月辞职，担任了雅虎的首席执行官。
+“There was a point at Google when the cadre of women leadership was pretty strong,” said a former Google executive who would speak only anonymously to preserve business relationships. “That has changed.”
+“谷歌一度有着强势的女性管理者队伍，”一名谷歌前高管说，“但现在已经变了。”为维护商业关系，该高管不愿透露姓名。
+The valley’s longtime image as unwelcoming to women became a topic of conversation recently when Ellen Pao, a junior partner in the venture capital firm of Kleiner Perkins Caufield & Byers, filed a sexual discrimination suit against her employer. And it persists even though more women than ever are leading or in top positions at technology companies — including Yahoo, I.B.M., Hewlett-Packard, Xerox and Facebook.
+硅谷长期以来被认为是不欢迎女性的地方，这成为近来人们议论的话题。不久前，风险投资公司凯鹏华盈(Kleiner Perkins Caufield & Byers)的初级合伙人鲍康如(Ellen Pao)以性别歧视为由，将自己的老板告上了法庭。尽管现在科技公司女性高级职员或女主管比以往时候都多——包括雅虎，I.B.M.，惠普(Hewlett-Packard)、施乐(Xerox)和Facebook等公司——但对此话题的热议仍在继续。
+Ms. Mayer, 37, was the first woman to be an engineer at Google and ran its most profitable business, search, for years. But in 2010, she was given a new assignment that many at Google considered a demotion, and then Mr. Page removed her from his committee of close advisers.
+37岁的梅耶尔是谷歌第一位女工程师，并且多年来负责管理公司利润最高的搜索引擎业务。但在2010年，她被调到一个新职位，谷歌的很多人认为这是降职，接着佩奇又把梅耶尔从自己的顾问委员会中调离。
+That committee shrank from about 15 people, four of whom were women, under Eric E. Schmidt, Google’s previous chief executive, to 11 with just one woman, under Mr. Page.
+在谷歌前任首席执行官埃里克·E·施密特(Eric E. Schmidt)领导下，该委员会有15人，其中包括四名女性。佩奇上任之后，委员会缩减为11人，只有一名女性。
+Also removed from the L Team, for Larry Page, were Rachel Whetstone, who oversees communications, and Shona Brown, who oversaw business operations and now leads Google.org, the company’s philanthropic arm, a lower-profile job. Only one woman remains — Susan Wojcicki, who oversees advertising. Several men were also removed in the shuffle.
+同时被调离拉里·佩奇核心小组的还有传播与公共政策高级副总裁雷切尔·惠特斯通 (Rachel Whetstone) 以及曾负责公司业务运营肖纳·布朗 (Shona Brown)，而布朗现的职位相对低调，负责管理公司的慈善事业部门Google.org。只有一名女性高管被留在了委员会——分管广告事务的苏珊·沃西基 (Susan Wojcicki)。在权力洗牌的过程中，也有几名男性高管被调离。 
+Of the seven people Mr. Page appointed to lead product areas when he reorganized the company last year, just one, Ms. Wojcicki, was a woman.
+去年重组公司时，佩奇安排了七个人负责产品管理，其中只有沃西基一人是女性。
+People familiar with Mr. Page’s management style and the company’s reorganization said gender played no role in his decisions.
+熟悉佩奇的管理风格和公司重组流程的人士称，他做出这个决定时，没有考虑性别的因素。
+“Larry focused on certain products, and the people who happened to lead those products and became his direct reports were men,” said Laszlo Bock, who oversees people operations at Google.
+“拉里把重心放在一些产品上，恰巧，负责那些产品并成为他下属的人是男性，”谷歌主管人力资源的拉兹洛·博克(Laszlo Bock)说道。
+“Being here so long, it has been a very supportive place for women,” said Ms. Wojcicki, who is the sister-in-law of Sergey Brin, Google’s co-founder. “The founders understood it was something that was good to build into the culture early on.”
+“我在这里呆了很久，这是一个相当支持女员工的公司，”沃西基说。她是谷歌的联合创始人，谢尔盖·布林(Sergey Brin)妻子的姐姐。“公司的各位创始人明白，应该从一开始就把这作为公司文化的一部分建立起来，这对公司有利。”
+But others say the dearth of women at the top of Google reflects what is, over all, a male-driven engineering culture. Mr. Page values product people like himself over business people, they say, and at Google, as at many technology companies, product engineers tend to be men.
+不过，其他人说，高层中女性人数寥寥，反映了谷歌仍是一种男性主导的工程师文化。他们说，相比商业人才，佩奇更看重产品人才，像他自己一样。而在谷歌其他许多科技公司，负责产品开发的工程师一般都是男性。 
+“Part of the issue is who Larry wants around him, and those are the guys he’s most comfortable with because he knows their whole engineering and computer science background,” said a former longtime senior Google employee.
+“这个问题的部分关键在于，拉里想让谁接近自己。在他身边的，都是那些他乐意与之相处的人，因为他对这些人的工程和电脑科学背景都了如指掌。”一位曾在谷歌长期任职的前员工这样说道。
+Another former Google executive said, “I don’t think there’s a gender bias per se, but I think the c-suite at Google is going to belong to product owners, not business people. People witness it as a demotion of women. I don’t view it as that. I view it as a demotion of business.”
+另一名谷歌前高管说，“我不认为谷歌存在严格意义上的性别偏见。不过，我想谷歌的最高管理层将由产品的拥有者执掌，而不是商务人士。人们认为这么做降低了女性的地位。我不这么看。我认为这是降低了商务的地位。”
+Google is hardly alone in its struggle to attract, retain and promote technical women. The number of women working in professional computing jobs dropped 8 percent, to 25 percent of the total, between 2000 and 2011 while the number of men climbed 16 percent, according to the Bureau of Labor Statistics.
+谷歌并非唯一一家努力吸引，留住和提升女性技术人员的科技公司。根据美国劳动统计局(Bureau of Labor Statistics)披露的数据，从事专业电脑技术工作的女性人数在2000到2011年之间下降了8%，只占这类员工总数的25%。而男性人数则上升了16%。
+More than half of women in technology at big companies leave midcareer, but half of those who leave stay in technical jobs, moving to the public sector or start-ups, indicating that there is something about big companies that pushes them out, said Catherine Ashcraft, senior research scientist at the National Center for Women and Information Technology.
+全国妇女与信息产业协会(National Center for Women and Information Technology)资深调研员凯瑟琳·阿什克拉夫特(Catherine Ashcraft)说，在大公司，有过半从事技术岗位的女性在职业道路的中途离职，不过，其中有一半离开的女性还在从事和技术有关的工作，只是转到了公共部门，或者新创公司。这说明，大公司的某些因素促使了她们离开。
+Google’s founders hired Ms. Wojcicki, Ms. Mayer and Jen Fitzpatrick, now an engineering vice president, early; they believed they would have more luck luring technical women once several already worked there, Ms. Wojcicki said. She was pregnant when she started, so the founders promised her subsidized child care.
+谷歌的创始人很早就聘用了沃西基、梅耶尔和珍·菲茨帕特里克(Jen Fitzpatrick)。菲茨帕特里克现在是工程部的副总裁。沃西基说，谷歌的创始人相信，一旦已有几位女性进入谷歌从事技术类工作，公司就应该能更容易招揽更多技术类女性员工。沃西基刚刚上任时已经怀孕，所以创始人许诺，会给她提供儿童保育津贴。
+That continues to be a benefit at Google, as are other family-friendly perks like a $500 stipend for takeout meals after a baby is born, paid leave of up to five months for new mothers and seven weeks for new fathers, and conveniences like dry cleaners on Google’s campus so people can complete errands during the workday.
+这一直是谷歌提供的一项福利待遇，其他优待家庭的待遇还包括，婴儿出生后发放的500美元食品外卖补助，新为人母的女性员工能获得长达五个月的带薪产假，父亲则享有七周的带薪陪护假。员工在谷歌园区内还享有便利的干洗服务，以便让他们在工作日内也能完成家务。 
+Meanwhile, there is the very Google-y approach of gathering data on precisely when the company loses women, then digging deeper to figure out what is happening and to try to fix it.
+同时，谷歌还以非常有谷歌特色的方式收集数据，以确切地知道公司流失女员工的时间，之后再深究事情的真相，并尝试加以解决。
+The results, Mr. Bock said, have been noticeable — at least outside the senior levels of the company. One-third of Google’s 34,300 employees are women. He would not say what percentage of technical employees were women, but he said it was better than the national average of about 25 percent.
+博克说，至少在公司高层以下，谷歌取得了显著效果。谷歌的3.43万名员工中，有三分之一是女性。他拒绝透露技术工种女员工的比例，不过，他说，这个比例比25%的全国平均水平要高。

@@ -1,0 +1,46 @@
+Leslie James Pickering noticed something odd in his mail last September: a handwritten card, apparently delivered by mistake, with instructions for postal workers to pay special attention to the letters and packages sent to his home.
+去年9月，莱斯利·詹姆斯·皮克林(Leslie James Pickering)在他的信件中发现了不同寻常的东西：一张明显是因为出错才投递到他家的手写卡片，上面指示邮政职工对送往他家的信件和包裹予以特别关注。
+“Show all mail to supv” — supervisor — “for copying prior to going out on the street,” read the card. It included Mr. Pickering’s name, address and the type of mail that needed to be monitored. The word “confidential” was highlighted in green.
+“在出发投递之前，把所有信件拿给监督员，由其复印，”卡片上写道。上面还写着皮克林的姓名、地址和需要被监视的邮件类别。“保密”这个词还涂着绿色以示强调。
+“It was a bit of a shock to see it,” said Mr. Pickering, who with his wife owns a small bookstore in Buffalo. More than a decade ago, he was a spokesman for the Earth Liberation Front, a radical environmental group labeled eco-terrorists by the Federal Bureau of Investigation. Postal officials subsequently confirmed they were indeed tracking Mr. Pickering’s mail but told him nothing else.
+“看到它确实让人有些震惊，”皮克林说。他和妻子在布法罗拥有一家小书店。10多年前，他曾是地球解放阵线(Earth Liberation Front)的一名发言人，这一激进的环保组织被联邦调查局（Federal Bureau of Investigation，简称FBI）贴上了“生态恐怖分子”的标签。邮政官员后来证实，他们确实在追踪皮克林的邮件，但除此之外什么都没告诉他。
+As the world focuses on the high-tech spying of the National Security Agency, the misplaced card offers a rare glimpse inside the seemingly low-tech but prevalent snooping of the United States Postal Service.
+当国家安全局（National Security Agency，简称NSA）的高技术间谍活动成为世界的关注点时，这张错误投递的卡片提供了一个罕见的机会，令人得以一窥美国邮政服务(United States Postal Service)看似技术含量不高却很普遍的监视行为。
+Mr. Pickering was targeted by a longtime surveillance system called mail covers, a forerunner of a vastly more expansive effort, the Mail Isolation Control and Tracking program, in which Postal Service computers photograph the exterior of every piece of paper mail that is processed in the United States — about 160 billion pieces last year. It is not known how long the government saves the images.
+皮克林是被称为“邮检”(mail covers)的长期监视系统的监视目标，近年还有一项规模大得多的行动——“邮件隔离控制和追踪”计划(Mail Isolation Control and Tracking)，即邮政部门用电脑拍摄下在美国境内处理的每一封纸质邮件（去年大约有1600亿件）的外表。尚不清楚政府会把这些图片保存多久。
+Together, the two programs show that postal mail is subject to the same kind of scrutiny that the National Security Agency has given to telephone calls and e-mail.
+这两个计划加在一起显示出，邮递邮件受到类似于国家安全局给予电话通话和电子邮件的那种严密关注。
+The mail covers program, used to monitor Mr. Pickering, is more than a century old but is still considered a powerful tool. At the request of law enforcement officials, postal workers record information from the outside of letters and parcels before they are delivered. (Opening the mail would require a warrant.) The information is sent to the law enforcement agency that asked for it. Tens of thousands of pieces of mail each year undergo this scrutiny.
+用来监视皮克林的邮检计划已经有一个多世纪历史了，但仍被视为一种强有力的手段。应执法官员的要求，邮政职工在投递信函和包裹之前，会记录下信封上的信息。（打开邮件需要法院的搜查令。）信息会发给提出请求的执法机构。每年有数以万计的邮件接受这项审查。
+The Mail Isolation Control and Tracking program was created after the anthrax attacks in late 2001 that killed five people, including two postal workers. Highly secret, it seeped into public view last month when the F.B.I. cited it in its investigation of ricin-laced letters sent to President Obama and Mayor Michael R. Bloomberg. It enables the Postal Service to retrace the path of mail at the request of law enforcement. No one disputes that it is sweeping.
+“邮件隔离控制和追踪”计划是在2001年末的炭疽邮件袭击事件之后创建的，该事件导致五人死亡，包括两名邮政工作人员。这项高度保密的行动上月进入公众视野，当时FBI在调查报告中提到了这一计划，该调查是关于寄送给奥巴马总统和纽约市长迈克尔·R·布隆伯格(Michael R. Bloomberg)的含蓖麻毒素信件。它使得邮政服务能够应执法部门的请求，全程追溯邮件的寄送路径。各方均不否认该项目覆盖范围极广。
+“In the past, mail covers were used when you had a reason to suspect someone of a crime,” said Mark D. Rasch, who started a computer crimes unit in the fraud section of the criminal division of the Justice Department and worked on several fraud cases using mail covers. “Now it seems to be, ‘Let’s record everyone’s mail so in the future we might go back and see who you were communicating with.’ Essentially you’ve added mail covers on millions of Americans.”
+马克·D·拉施(Mark D. Rasch)在美国司法部刑事部门刑事欺诈分部创建了一个电脑犯罪小组，处理过一些动用了邮检的欺诈案。他说，“过去，当你有理由怀疑某人犯罪时，邮检就会被启用。现在情况似乎变成，‘让我们记录每个人的邮件，这样将来就能进行追溯，看看你在跟谁联系。’实际上这意味着对数以百万计的美国人进行邮检。”
+Bruce Schneier, a computer security expert and an author, said whether it was a postal worker taking down information or a computer taking images, the program was still an invasion of privacy.
+电脑安全专家和作家布鲁斯·施奈尔(Bruce Schneier)说，无论是靠邮政职工记录信息，还是用电脑抓取图片，这类项目都是对隐私的侵犯。
+“Basically they are doing the same thing as the other programs, collecting the information on the outside of your mail, the metadata, if you will, of names, addresses, return addresses and postmark locations, which gives the government a pretty good map of your contacts, even if they aren’t reading the contents,” he said.
+“基本上，他们是在做和其他项目一样的事情，从邮件的信封收集信息，即元数据，包括姓名、地址、回信地址和邮戳地点，这为政府绘制出一张很好的联系人地图，即便他们不去看里面的内容，”他说。
+But law enforcement officials said mail covers and the automatic mail tracking program are invaluable, even in an era of smartphones and e-mail.
+但执法官员称，邮检和邮件自动追踪计划的价值都无法估量，即便是在这个智能手机和电子邮件的时代。
+In a criminal complaint filed June 7 in Federal District Court for the Eastern District of Texas, the F.B.I. said a postal investigator tracing the ricin letters was able to narrow the search to Shannon Guess Richardson, an actress in New Boston, Tex., by examining information from the front and back images of 60 pieces of mail scanned immediately before and after the tainted letters sent to Mr. Obama and Mr. Bloomberg showing return addresses near her home. Ms. Richardson had originally accused her husband of mailing the letters, but investigators determined that he was at work during the time they were mailed.
+在德克萨斯东区联邦地区法院6月7日的一份刑事起诉书中，FBI称，一名追踪蓖麻毒素信件的邮政调查员通过查看60封邮件的正面和背面图像——这些邮件被扫描的时间与寄给奥巴马和布隆伯格的毒素信件的寄出时间相仿，而回信地址也邻近嫌疑人的住址——能够把目光聚焦于德州新波士顿的女演员香农·格斯·理查森(Shannon Guess Richardson)。理查森最初指控她的丈夫寄出了这些信件，但调查人员查明，这些邮件寄出时他正在上班。
+Other agencies, including the Drug Enforcement Administration and the Department of Health and Human Services, have used mail covers to track drug smugglers and Medicare fraud.
+其他政府机构，包括美国禁毒署(Drug Enforcement Administration)和卫生与公众服务部(Department of Health and Human Services)，曾使用邮检来追踪毒品走私贩和联邦医疗保险(Medicare)欺诈。
+For mail cover requests, law enforcement agencies submit a letter to the Postal Service, which can grant or deny a request without judicial review. Law enforcement officials say the Postal Service rarely denies a request. In other government surveillance programs, like wiretaps, a federal judge must sign off on the requests.
+在请求进行邮检时，执法机构会向邮政服务发函，后者可在不经司法审核的情况下接受或拒绝要求。执法官员称，邮政服务很少拒绝请求。在其他政府监视项目（例如电话监听）中，必须由一名联邦法官批准这类请求。
+Law enforcement officials need warrants to open the mail, although President George W. Bush asserted in a signing statement in 2007 that the federal government had the authority to open mail without warrants in emergencies or in foreign intelligence cases.
+执法官员需要有法院的搜查令才能打开邮件，不过乔治·W·布什总统(George W. Bush)于2007年签署了一项声明，规定遇到紧急情况或涉及外国情报案件时，联邦政府有权在没有搜查令的情况下打开邮件。
+Court challenges to mail covers have generally failed because judges have ruled that there is no reasonable expectation of privacy for information contained on the outside of a letter. Officials in both the Bush and Obama administrations, in fact, have used the mail-cover court rulings to justify the N.S.A.’s surveillance programs, saying the electronic monitoring amounts to the same thing as a mail cover. Congress briefly conducted hearings on mail cover programs in 1976, but has not revisited the issue.
+在法庭上向邮检发起挑战通常会以失败告终，因为法官曾裁定，对于信封上的信息，不存在合理的隐私预期。实际上，布什政府和奥巴马政府的官员都曾使用邮检的法院裁决来为NSA的监视计划辩护，称电子监视等同于邮检（即只收集元数据——译注）。美国国会曾在1976年举行关于邮检的简短听证会，但此后就没有再讨论这一问题。
+Postal officials refused to discuss either mail covers or the Mail Isolation Control and Tracking program.
+邮政官员拒绝评论邮检或“邮件隔离控制和追踪”计划。
+Mr. Pickering says he suspects that the F.B.I. requested the mail cover to monitor his mail because a former associate said the bureau had called with questions about him. Last month, he filed a lawsuit against the Postal Service, the F.B.I. and other agencies, saying they were improperly withholding information.
+皮克林说，他怀疑FBI请求通过邮检来监视他的邮件，是因为一名前同事称，该局询问了关于他的问题。上月，他向邮政服务、FBI和其他机构提起诉讼，称它们不恰当地隐瞒信息。
+A spokeswoman for the F.B.I. in Buffalo declined to comment.
+FBI在布法罗的一名女发言人拒绝置评。
+Mr. Pickering said that although he was arrested two dozen times for acts of civil disobedience and convicted of a handful of misdemeanors, he was never involved in the arson attacks the Earth Liberation Front carried out. He said he became tired of focusing only on environmental activism and moved back to Buffalo to finish college, open his bookstore, Burning Books, and start a family.
+皮克林说，尽管他曾因公民抗命行为被捕二十多次，并被判犯过一些轻罪，但他从未参与地球解放阵线进行的纵火袭击。他说，他对于仅仅关注环境行动主义感到疲惫，于是回到布法罗完成大学学业，然后开了一家叫“焚书”(Burning Books)的书店，并成了家。
+“I’m no terrorist,” he said. “I’m an activist.”
+“我不是恐怖分子，”他说，“我是一名活动人士。”
+Mr. Pickering has written books sympathetic to the liberation front, but he said his political views and past association should not make him the target of a federal investigation. “I’m just a guy who runs a bookstore and has a wife and a kid,” he said.
+皮克林曾经写过同情解放阵线的书，但他说他的政治观点和过去的同事关系不应让他成为联邦调查的目标。“我只不过是个经营一家书店，并有妻儿的人，”他说。

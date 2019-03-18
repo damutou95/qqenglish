@@ -1,0 +1,34 @@
+It is a mystery that has beguiled observers of the art world: the identity of Banksy, the puckish street artist who has maintained anonymity through more than a decade of widespread fame.
+喜欢恶作剧的街头艺术家班克西(Banksy)享誉世界已经十几年，但他的真实身份一直是个谜，令艺术界的观察家们大惑不解。
+Though his profile has continued to grow as his artwork has appeared in public view around the world — and regularly sells for hundreds of thousands of dollars — his true identity has never been officially confirmed.
+尽管随着他的艺术创作出现在全球公众视野，且经常以数十万美元的价格售出，他的名气也越来越大，但他的真实身份从未被官方宣布。
+But researchers appear to have advanced a theory first put forth in 2008 by The Daily Mail linking the artist to a man named Robin Gunningham. The scientists used a variation of a forensic technique called geographic profiling, originally developed to help law enforcement authorities track down criminals.
+但是研究者们开始提出推测，先是2008年，《每日邮报》(The Daily Mail)认为这位艺术家是一个名叫罗宾·甘宁汉(Robin Gunningham)的男子。科学家们使用一种名叫“地缘侧写”的法医学技术进行鉴定，它原本是用来帮助执法者追踪罪犯的。
+Banksy and the Gunningham family in Bristol have denied the connection, though Mr. Gunningham himself has never been reached for comment. He has no listed telephone number, and his most recent London address on record is more than a decade old. A representative for Banksy who responded to a request sent through his website declined to comment.
+班克西和布里斯托尔的甘宁汉家族都否认了这个联系，尽管“甘宁汉先生”本人从未出面对此发表评论。班克西没有公开的电话号码，他最近一次登记在册的伦敦地址还是十几年前的。记者通过班克西的个人网络提出疑问，而他的一位代表表示无可奉告。
+The researchers behind the study, which was published online last week in The Journal of Spatial Science, compared Banksy and the information they said they could find out about Mr. Gunningham. Though their results did not prove that Banksy was Mr. Gunningham, as more than a couple of publications have reported, they did indicate some correlation.
+上个星期“空间科学日志”(The Journal of Spatial Science)网站发表了相关研究，把班克西和能找到的甘宁汉先生的信息进行对比。正如若干报告表明的，尽管结果并不能证明班克西就是甘宁汉先生，但他们之间的确存在某种相关性。
+“I would call him an excellent suspect,” said Dr. Kim Rossmo, one of the study’s four authors and a professor at Texas State University who pioneered geographic profiling as a police inspector in Vancouver, British Columbia, in the 1990s. “He’s got connections to two entirely different cities that are involved here.”
+“我觉得他是最佳嫌疑人，”研究报告的四位作者之一，得克萨斯州立大学教授基姆·拉斯莫博士(Dr. Kim Rossmo)说道，“他们在两个完全不同的城市都有关联。”上世纪90年代，他在不列颠哥伦比亚省温哥华担任警督期间是地缘侧写的先驱。
+The method involves running a set of crime locations through an algorithm to establish an area in which an offender likely lives. It doesn’t solve crimes on its own, but helps investigators narrow down lists of suspects.
+这个方法包括将一系列犯罪地点使用算法分析，建立一个犯罪者可能生活的区域。它本身并不能破案，但是可以帮助调查者缩小嫌疑人范围。
+For Banksy’s case, the researchers only had one serious “suspect” — Mr. Gunningham, who was identified as Banksy by The Daily Mail in 2008 after what the tabloid called an “exhaustive year-long investigation.”
+在班克西的例子里，研究者只有一位重要的“嫌疑人”——甘宁汉先生。2008年，《每日邮报》自称经过了“为时一年的辛勤调查”，认为他就是班克西。
+The researchers listed the locations of what they identified as 192 of Banksy’s street pieces in London and Bristol — where the artist is thought to have grown up — and graphed them against seven “suspect sites” they connected to Mr. Gunningham: three homes in London where he is believed to have lived and four sites in Bristol, including what they believe to be a house in which he lived, a school he attended, and a field where he used to play soccer.
+研究者列出了班克西在伦敦和布里斯托尔创作街头涂鸦的192个地点——人们认为这位艺术家是在布里斯托尔长大的——并将它们和七个与甘宁汉先生有关的“可疑地点”进行对比：甘宁汉先生在伦敦的三个家，以及据信他在布里斯托尔住过的四个地点，其中包括他们确信甘宁汉先生住过的房子、他上过的学校，以及他踢过足球的地方。
+They said they did not make contact with Mr. Gunningham themselves, and thus could not independently confirm details about him, but used information about him found in press clippings and electoral rolls.
+他们说，他们并没有和甘宁汉先生取得联系，因此无法独立确认和他有关的细节，只是使用了媒体报道和选举名册中的信息。
+But their analysis showed that the artwork’s sites appeared to correlate well with addresses associated with Mr. Gunningham, according to the technique’s ranking system. Four of the seven sites were in the right geographic spot to earn a score relatively close to those that data crunchers would expect, Dr. Rossmo said.
+但是他们的分析表明，根据这项技术提供的评级系统，涂鸦艺术所在的位置的确与甘宁汉的地址存在相关性。拉斯莫博士说，七个地址当中有四个位于数据计算器认为可以为二人的相关性加分的地缘地点。
+Though the researchers said that geographic profiling has been used by law enforcement organizations like the Bureau of Alcohol, Tobacco, Firearms and Explosives, the Los Angeles Police Department, and the United States Marine Corps, it has been increasingly applied to biological and epidemiological data, helping to track a malaria outbreak in Cairo or to find the source of an invasive species.
+尽管研究者称，地缘侧写被像烟酒枪支及爆炸物管理局、洛杉矶警察局等这样的执法部门与美国海军陆战队使用，它也越来越多地被用在了生物学与流行病学数据中，比如跟踪监测开罗一场疟疾的爆发，或是寻找外来入侵物种的源头。
+The team behind the Banksy study said they turned their attention to the artist as a test case to see whether their model could be applicable in more scenarios involving political messages, propaganda and information, such as for tracking extremist groups.
+班克西研究背后的团队说，他们关注这位艺术家是进行一项测试，看看他们的模型在涉及政治消息、政治宣传与信息的多种情况下是否具有适用性，比如是否可以用来追踪极端组织。
+“There has been a suggestion that terrorist groups frequently engage in low-level activities to build up to big events. And that often involves graffiti, banner posting and leafletting,” said Dr. Steven Le Comber, a co-author of the study and a senior lecturer at Queen Mary University of London. “When you think graffiti, you think Banksy.”
+“有人认为恐怖组织经常采取低级行动，为大型行动积累经验。这些低级行动中通常包括涂鸦、悬挂条幅和散发传单，”报告的合作作者、伦敦玛丽王后大学的资深讲师史蒂文·勒·康伯博士(Dr. Steven Le Comber)说。“而一提涂鸦，你就会想到班克西。”
+Dr. Le Comber and Dr. Rossmo said they were pleasantly surprised by how much attention their study received, but less flattered by the accusations that they had “outed Banksy” or that their number-crunching had lent itself to privacy invasions. They said they were also unimpressed with headlines asserting that they had somehow proved Banksy’s identity. “It does show a trend that overall we need to be worried about,” said Dr. Rossmo. “It’s kind of hard to know what to believe.”
+勒·康伯博士与拉斯莫博士说，他们惊喜地发现自己的研究吸引了很多关注，但是也有人指责他们“暴露了班克西”，说他们的数据计算侵犯隐私，这令他们不怎么高兴。他们说，他们也不关注那些声称他们证实了班克西真实身份的新闻标题。“这确实表明了一种我们总体来说都需要担心的趋势，”拉斯莫博士说：“要想知道该相信什么，这有点难。”
+Depending on who you believe, the mystery of Banksy’s identity may continue. But The Daily Mail was already claiming vindication.
+班克西的身世之谜或许仍将延续，这取决于你到底相信谁。但是《每日邮报》已经声称自己的说法得到了证实。
+“Scientists say the Mail on Sunday got Banksy’s identity right,” a headline boasted. “Hi-tech tools confirm our discovery that graffiti artist is Robin Gunningham.”
+“科学家说周日邮报说对了班克西的身份，”报纸上的一则新闻称，“高科技工具证实了我们的发现，这位涂鸦艺术家就是罗宾·甘宁汉。”

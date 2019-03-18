@@ -1,0 +1,38 @@
+NEW DELHI — Standing alongside some of the titans of Indian industry and senior ministers in his cabinet, Prime Minister Narendra Modi announced the start of a “Digital India week” at a packed stadium in the capital last week, highlighting his government’s push for greater Internet connectivity and services for more of the country’s people and a desire to jump-start Indian manufacturing in electronics.
+新德里——上周，印度总理纳伦德拉·莫迪(Narendra Modi)在印度首都一座拥挤的体育馆里宣布启动“数字印度周”，身边站着一些印度工业界巨头和内阁高级部长。此举突显了莫迪政府为了使更多印度民众享受到更好的网络连接和服务所做的努力，以及推动印度电子制造业发展的愿望。
+With an analogy, he evoked the image of a small child, once enthralled with a pen, or a pair of glasses in an adult’s pocket, now captivated by a mobile phone.
+他用小孩打了一个比方：曾经对大人口袋里的笔或眼镜着迷的孩子，现在却会被手机吸引。
+“That means that he may or may not understand anything else, but he can understand digital power,” he said on Wednesday. “Time demands that we understand this change, and if we don’t understand this change, then we will be left in a corner and the world will move far away and we will be left watching.”
+“这说明，不论是否理解其他东西，他都能理解数字技术的力量，”他在上周三表示。“时代要求我们理解这种变化。如果我们不理解这种变化，就会被遗忘在角落，而世界将会离我们远去，留我们在原地观望。”
+The statement was not, analysts said, needlessly overwrought. India has lagged behind much of the world in digital infrastructure. It ranked 115th on its average connection speed in the first quarter of this year, according to a study by Akamai Technologies. Just over 100 million subscribers, in a population of more than 1.2 billion, have broadband connections, data in April from a government regulatory body showed.
+分析师人士表示，此番表态并非不必要的过度紧张。在数字基础设施方面，印度确实落后于世界许多地区。美国阿卡迈技术公司(Akamai Technologies)的研究表明，今年第一季度，印度的平均联网速度排在世界第115位。一家政府管理机构4月的数据显示，在拥有逾12亿人口的印度，宽带用户只有1亿多一点。
+The problem lies partly in the slow progress of a project started in 2011 to expand the country’s fiber optic network.
+这个问题的部分原因在于始于2011年的一项工程进展缓慢。该工程的目的是扩大印度光纤网络的覆盖范围。
+But India also represents great opportunity in the digital economy because of its bulging population and a fast-growing market for electronic goods. Mr. Modi noted that imports of electronic goods were second only to oil.
+不过，由于膨胀的人口和发展迅速的电子产品市场，印度也代表着数字经济中的一个巨大机遇。莫迪指出，印度电子产品的进口额仅次于石油。
+“Why can’t we make quality electronic goods that are globally competitive?” he asked.
+他反问道，“我们为什么不能制造具有国际竞争力的高质量的电子产品呢？”
+Mr. Modi underscored his government’s aim to substantially cut his country’s imports of electronics by 2020, an ambitious goal for an India that, according to Neeraj Aggarwal, a senior partner and director at the Boston Consulting Group in India, is “almost not a player in this space.”
+莫迪强调了政府的目标：要在2020年时大幅减少印度的电子产品进口。波士顿咨询集团(Boston Consulting Group)印度分部高级合伙人兼董事尼拉杰·阿加瓦尔(Neeraj Aggarwal)表示，印度“几乎没有涉足这一领域”。对该国而言，这是一个雄心勃勃的目标。
+In addition, the Digital India campaign includes a commitment to providing citizens with access to health care, education, banking, insurance, pension and agricultural services through a network of “common service centers” that are supposed to be open in 250,000 villages across the country by 2019.
+此外，数字印度活动还包括，承诺通过一个“公共服务中心”网络来为民众提供医疗、教育、银行、保险、养老金和农业服务。根据计划，到2019年，这样的中心将在全国各地的25万座村庄开放。
+“In a sense it’s what we’ve been waiting for,” said Nikhil Pahwa, the founder and editor of MediaNama.com, which analyzes India’s digital economy. “No government till now had made a strong, concerted effort on focusing on digitizing India.”
+“从某种意义而言，这就是我们一直等待的东西，”分析印度数字经济的网站MediaNama.com的创始人和总编尼克希尔·帕瓦(Nikhil Pahwa)说。“以前还没有哪届政府为实现印度的数字化而齐心协力地做过大的努力。”
+Industrialists at the announcement, including Mukesh Ambani, the chairman of Reliance Industries, and the leaders of some of India’s largest outsourcing companies, pledged nearly $71 billion to realize the government’s goals.
+出席莫迪声明现场的实业家包括信赖工业公司(Reliance Industries)的董事长穆凯什·安巴尼(Mukesh Ambani)，以及印度最大的一些外包企业的领导人。他们承诺出资710亿美元来实现政府的目标。
+The event on Wednesday was a statement of intent more than a detailed policy brief, and the path to the goals the government described is not easy.
+周三的活动更像是发表一番意图声明，而非具体的政策通报，而通往政府描述的目标的道路并不平坦。
+While Mr. Modi spoke of empowering young people to build start-ups and innovate, Mr. Pahwa complained of byzantine regulations for technology companies. He cited the government’s efforts to regulate Uber, the American ride-hailing company.
+尽管莫迪提到要使年轻人具备创业和革新的能力，但帕瓦抱怨高科技企业受到了太过繁冗的政府监管。他举出的例子是政府为美国打车企业Uber设置了重重管制。
+Entrepreneurs complain that online payments in India have also been hamstrung by a series of measures.
+创业人士申诉，印度的网上支付因为一系列措施而受阻。
+Some expressed skepticism that the government could keep its promises.
+还有人表示，他们怀疑政府是否能信守承诺。
+“The Internet in India has grown despite government policy, not because of government policy,” said Mr. Pahwa, who also worked on a campaign in India for net neutrality, a concept that all data should be treated equally.
+“印度互联网得到发展是克服了政府政策的限制，并不是因为政府的政策，” 帕瓦说。他还在参与印度的宣扬网络中立性的活动。所谓网络中立性，就是所有数据都应该得到平等对待。
+But Mr. Aggarwal, of the Boston Consulting Group, said the expansion of infrastructure and services could have the potential to pull in a huge base of consumers.
+不过，波士顿咨询集团的阿加瓦尔表示，基础设施和服务的扩展可能会吸引大批消费者。
+“It creates an enabling infrastructure, and a lot of private sector innovation can ride on top of that,” he said.
+他说，“这将创造可以带动其他方面发展的基础设施，而大量私营部门的创新将能以此为基础。”
+As for the manufacturing of electronics, India faces tough competition from China, which has incentives for foreign companies and a well-established manufacturing structure.
+在制造电子产品的问题上，印度面临着来自中国的激烈竞争。中国有不少针对外国企业的激励措施，而且制造业的结构也比较完善。

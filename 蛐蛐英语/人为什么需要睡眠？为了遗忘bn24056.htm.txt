@@ -1,0 +1,68 @@
+Over the years, scientists have come up with a lot of ideas about why we sleep.
+关于我们为什么要睡觉，多年来，科学家提出了很多想法。
+Some have argued that it’s a way to save energy. Others have suggested that slumber provides an opportunity to clear away the brain’s cellular waste. Still others have proposed that sleep simply forces animals to lie still, letting them hide from predators.
+有些人认为这是一种节约能量的方法。其他人提出，睡眠为大脑提供了清除细胞废物的机会。还有一些人认为，睡眠只是迫使动物静静地躺下来，让它们可以躲过捕食者。
+A pair of papers published on Thursday in the journal Science offer evidence for another notion: We sleep to forget some of the things we learn each day.
+周四在《科学》(Science)期刊上发表的两篇论文为另一个观念提供了证据：我们睡觉是为了忘记每天所学到的一些东西。
+In order to learn, we have to grow connections, or synapses, between the neurons in our brains. These connections enable neurons to send signals to one another quickly and efficiently. We store new memories in these networks.
+为了学习，我们必须增加大脑神经元之间的连接，或者叫突触。这些连接使神经元能够快速有效地在彼此之间发送信号。我们就是在这些网络之中存储新的记忆。
+In 2003, Giulio Tononi and Chiara Cirelli, biologists at the University of Wisconsin-Madison, proposed that synapses grew so exuberantly during the day that our brain circuits got “noisy.” When we sleep, the scientists argued, our brains pare back the connections to lift the signal over the noise.
+2003年，威斯康星大学麦迪逊分校的生物学家朱利奥·托诺尼(Giulio Tononi)和基娅拉·奇雷利(Chiara Cirelli)提出，突触在白天生长得非常激烈，令大脑电路变得“嘈杂”。当我们睡觉时,大脑得以减少连接，这样真正的信号才可以超过噪声。
+In the years since, Dr. Tononi and Dr. Cirelli, along with other researchers, have found a great deal of indirect evidence to support the so-called synaptic homeostasis hypothesis.
+在此之后的几年里，托诺尼博士和奇雷利博士与其他研究者发现了大量间接证据，支持这一所谓的突触自稳态假说。
+It turns out, for example, that neurons can prune their synapses — at least in a dish. In laboratory experiments on clumps of neurons, scientists can give them a drug that spurs them to grow extra synapses. Afterward, the neurons pare back some of the growth.
+比如，事实证明，神经元可以修剪它们的突触——至少是在实验室里。在对神经元丛进行实验室实验时，科学家给它们一种药物，刺激它们生长额外的突触。之后，神经元削减了一些生长。
+Other evidence comes from the electric waves released by the brain. During deep sleep, the waves slow down. Dr. Tononi and Dr. Cirelli have argued that shrinking synapses produce this change.
+其他证据来自大脑释放的电波。在深度睡眠期间，电波减慢。 托诺尼博士和奇雷利博士认为，这种变化是由突触缩小带来的。
+Four years ago, Dr. Tononi and Dr. Cirelli got a chance to test their theory by looking at the synapses themselves. They acquired a kind of deli slicer for brain tissue, which they used to shave ultrathin sheets from a mouse’s brain.
+四年前，托诺尼博士和奇雷利博士得以通过观察突触本身来检验他们的理论。他们获得了一种用于脑组织的切片机，用它从小鼠的大脑上得到超薄切片。
+Luisa de Vivo, an assistant scientist working in their lab, led a painstaking survey of tissue taken from mice, some awake and others asleep. She and her colleagues determined the size and shape of 6,920 synapses in total.
+该实验室的助理科学家路易莎·德·维沃(Luisa de Vivo)对这些从小鼠大脑取出的组织进行了精心研究，一些小鼠是醒着的，其他一些处于睡眠状态。她和同事们确定了6920个突触的大小和形状。
+The synapses in the brains of sleeping mice, they found, were 18 percent smaller than in awake ones. “That there’s such a big change over all is surprising,” Dr. Tononi said.
+他们发现，睡眠小鼠脑中的突触比清醒小鼠的突触小18％。“整体而言，那个巨大的变化颇为惊人，”托诺尼博士说。
+The second study was led by Graham H. Diering, a postdoctoral researcher at Johns Hopkins University. Dr. Diering and his colleagues set out to explore the synaptic homeostasis hypothesis by studying the proteins in mouse brains. “I’m really coming at it from this nuts-and-bolts place,” Dr. Diering said.
+第二项研究由约翰霍普金斯大学博士后研究员格雷厄姆·H·迪林(Graham H. Diering)领导。迪林博士和同事们通过研究小鼠脑中的蛋白质来探索突触自稳态假说。“我真的是从这种细节出发来研究这个问题的，”迪林博士说。
+In one experiment, Dr. Diering and his colleagues created a tiny window through which they could peer into mouse brains. Then he and his colleagues added a chemical that lit up a surface protein on brain synapses.
+在一个实验中，迪林博士和同事们创建了一个小窗口，通过它可以窥看小鼠的大脑。然后，他和同事们在小鼠大脑内添加了一种化学物质，能够点亮脑突触上的表面蛋白。
+Looking through the window, they found that the number of surface proteins dropped during sleep. That decline is what you would expect if the synapses were shrinking.
+透过窗口，他们发现，在睡眠期间突触表面蛋白的数量下降。如果突触缩小，这种下降就应该会出现。
+Dr. Diering and his colleagues then searched for the molecular trigger for this change. They found that hundreds of proteins increase or decrease inside of synapses during the night. But one protein in particular, called Homer1A, stood out.
+迪林博士和同事们随后开始寻找这种变化的分子触发因素。他们发现，在突触内，有数百种蛋白质在夜间增加或减少。但有一种名为Homer1A的蛋白质格外突出。
+In earlier experiments on neurons in a dish, Homer1A proved to be important for paring back synapses. Dr. Diering wondered if it was important in sleep, too.
+在对神经元进行的早期实验室实验中，Homer1A被证明在突触减少过程中发挥了重要作用。迪林博士想知道它是否在睡眠中也很重要。
+To find out, he and his colleagues studied mice genetically engineered so that they couldn’t make Homer1A proteins. These mice slept like ordinary mice, but their synapses didn’t change their proteins like the ones in ordinary mice.
+为了发现这一点，他和同事研究了经基因工程改造、不能制造Homer1A蛋白的小鼠。这些小鼠可以像普通小鼠一样睡觉，但是它们的突触不像在普通小鼠中那样改变其蛋白质。
+Dr. Diering’s research suggests that sleepiness triggers neurons to make Homer1A and ship it into their synapses. When sleep arrives, Homer1A turns on the pruning machinery.
+迪林博士的研究表明，困倦引发神经元制造Homer1A，并将其运送到突触。当睡眠开始时，Homer1A也打开了它的修剪机制。
+To see how this pruning machinery affects learning, the scientists gave regular mice a memory test. They put the animals in a room where they got a mild electric shock if they walked over one section of the floor.
+为了观察这种修剪机制如何影响学习，科学家对普通小鼠进行了记忆测试。他们把这些动物放在一个房间里，如果它们走到地板的某一部分，就会受到轻微的电击。
+That night, the scientists injected a chemical into the brains of some of the mice. The chemical had been shown to block neurons in dishes from pruning their synapses.
+当天晚上，科学家将一种化学物质注入若干小鼠的脑中。在实验室中，这种化学物质已被证明可以阻止神经元减少其突触。
+The next day, the scientists put all the mice back in the chamber they had been in before. Both groups of mice spent much of the time frozen, fearfully recalling the shock.
+第二天，科学家把所有小鼠都放回之前所在的房间。两组小鼠大部分时间都是一动不动，恐惧地回忆起电击的记忆。
+But when the researchers put the mice in a different chamber, they saw a big difference. The ordinary mice sniffed around curiously. The mice that had been prevented from pruning their brain synapses during sleep, on the other hand, froze once again.
+但当研究人员把老鼠放入不同的房间，他们看到了很大的区别。普通组的老鼠好奇地到处嗅着。另一边，在睡眠期间被阻止减少大脑突触的小鼠再次一动不动。
+Dr. Diering thinks that the injected mice couldn’t narrow their memories down to the particular chamber where they had gotten the shock. Without nighttime pruning, their memories ended up fuzzy.
+迪林博士认为，受注射的小鼠不能把记忆缩小到它们遭受电击的特定房间范围内。没有夜间的修剪，它们的记忆最后变得模糊。
+In their own experiment, Dr. Tononi and his colleagues found that the pruning didn’t strike every neuron. A fifth of the synapses were unchanged. It’s possible that these synapses encode well-established memories that shouldn’t be tampered with.
+在他们自己的实验中，托诺尼博士和同事们发现，修剪并不是针对每个神经元。1/5的突触没有改变。有可能这些突触之中编码了已经良好地建立起来、且不应被修改的记忆。
+“You can forget in a smart way,” Dr. Tononi said.
+“你可以用一种聪明的方式来忘记，”托诺尼博士说。
+Other researchers cautioned that the new findings weren’t definitive proof of the synaptic homeostasis hypothesis.
+其他研究者警告说，新的发现并不能为突触自稳态假说提供决定性的证据。
+Marcos G. Frank, a sleep researcher at Washington State University in Spokane, said that it could be hard to tell whether changes to the brain at night were caused by sleep or by the biological clock. “It’s a general problem in the field,” he said.
+华盛顿州立大学斯波坎分校的睡眠问题研究者马科斯·G·弗兰克(Marcos G. Frank)说，很难判断大脑夜间的变化是由睡眠还是生物钟引起的。“这是该领域的一个普遍问题，”他说。
+Markus H. Schmidt, of the Ohio Sleep Medicine Institute, said that while the brain might prune synapses during sleep, he questioned whether this was the main explanation for why sleep exists.
+俄亥俄睡眠医学研究所(Ohio Sleep Medicine Institute)的马库斯·H·施密特(Markus H. Schmidt)说，虽然大脑可能在睡眠期间修剪突触，但他质疑这一点是否是睡眠存在的主要原因。
+“The work is great,” he said of the new studies, “but the question is, is this a function of sleep or is it the function?”
+“这项工作很好，”他谈起这项新研究时说，“但问题是，这是睡眠的功能之一，还是它的主要功能？”
+Many organs, not just the brain, seem to function differently during sleep, Dr. Schmidt pointed out. The gut appears to make many new cells, for example.
+不仅大脑，许多器官在睡眠时的功能似乎都不一样，施密特博士指出。比如肠道似乎就会产生许多新的细胞。
+Dr. Tononi said that the new findings should prompt a look at what current sleeping drugs do in the brain. While they may be good at making people sleepy, it’s also possible that they may interfere with the pruning required for forming memories.
+托诺尼博士说，新的发现可以促使人们审视目前的睡眠药物在大脑中发挥什么作用。虽然它们可以让人们感到困意，但它们也可能干扰形成记忆所需的突触修剪。
+“You may actually work against yourself,” Dr. Tononi said.
+“你可能其实是在损害自己，”托诺尼博士说。
+In the future, sleep medicines might precisely target the molecules involved in sleep, ensuring that synapses get properly pruned.
+在将来，睡眠药物或许可以精确瞄准参与睡眠的分子，确保突触得到适当的修剪。
+“Once you know a little bit of what happens at the ground-truth level, you can get a better idea of what to do for therapy,” Dr. Tononi said.
+“一旦你知道一点基本事实层面发生的情况，就可以得到更好的治疗思路，”托诺尼博士说。

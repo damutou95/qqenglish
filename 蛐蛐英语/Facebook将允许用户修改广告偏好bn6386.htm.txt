@@ -1,0 +1,36 @@
+SAN FRANCISCO — If you have ever wondered why Facebook showed you that advertisement for a new iPhone game or a cheap flight to Bermuda, you will soon be able to find out.
+旧金山——如果你曾经感到好奇，为什么Facebook会向你展示某个新的iPhone游戏广告，或者一个飞往百慕大的廉价航班，马上你就会知道答案了。
+Facebook announced on Thursday that it is going to give its users the ability to see the dossiers of likes and interests it keeps on them, as well as the ability to change, add or delete information in those files. And if you don’t like an ad, you will be able to tell the social network what types of marketing messages you would rather see.
+Facebook本周四宣布，它将为用户提供一些功能，让用户能够查看该公司保存的关于他们喜好和兴趣的文件，并更改、添加或删除这些文件中的信息。而且如果你不喜欢某个广告，也可以告诉Facebook，你愿意看的是什么类型的营销信息。
+But even as the social network gives its users more insight into the data it collects on them, it said it would also begin adding even more details to their profiles gleaned from watching what they do on other websites and from their smartphone apps. Users can opt out of such extended tracking, but they will have to visit a special ad industry website and adjust their smartphone settings to do so.
+但是，就在用户对Facebook从他们身上收集了什么数据有了更多了解的同时，该公司也表示，它还会通过了解用户在其他网站上或智能手机应用中的行为，逐步把更多的细节添加到用户的个人资料中。Facebook默认用户接受这种扩大化的跟踪，用户也可以选择退出，但是要做到这一点，他们必须访问一个特殊的广告行业网站，并调整智能手机上的设置才行。
+The additional tracking immediately raised the hackles of privacy advocates, who warned that the end result will be a Facebook that knows more about its users than ever before and uses that information to sell products to them.
+这种变本加厉的跟踪活动立即引发了隐私保护倡导者的盛怒，他们警告说，这最终将导致Facebook比以往更多地了解用户信息，并利用这些信息来向用户销售产品。
+“The privacy announcements today are a political smokescreen to enable Facebook to engage in more data gathering,” said Jeff Chester, executive director of the Center for Digital Democracy, a nonprofit group that promotes privacy rights. “They claim to protect user privacy at the same time as they work to undermine it.”
+“今天宣布的隐私公告是在放政治烟幕，以便Facebook开展更多的数据收集活动，”数字民主中心(Center for Digital Democracy)总干事杰弗瑞·切斯特(Jeffrey Chester)说，该中心是一个促进私隐权利的非营利组织。“他们声称要保护用户隐私，同时却在做一些破坏用户隐私的事情。”
+Detailed tracking of people’s digital activities has become commonplace. Other big companies like Google and Yahoo, as well as data brokers and small players that most people have never heard of, scoop up data on people’s online, and even offline, activities to develop detailed profiles that are used to market products.
+对人们的数字活动进行详尽跟踪已经成为家常便饭。谷歌和雅虎等其他大公司，以及大多数人从来没有听说过的数据经纪公司和小公司，都在收集人们的网上数据，有时甚至还收集线下活动的数据，以便开发出用于产品营销的详尽个人资料。
+Consumers are largely unaware of the monitoring and often don’t know how to limit it. Both the Federal Trade Commission and the White House recently called on Congress to pass legislation that would better protect such private data, including requiring companies to give people more control over the digital files collected on them.
+消费者大多不知道自己遭受着这种监视，而且往往也不知道如何限制它。无论是联邦贸易委员会(Federal Trade Commission)还是白宫，最近都呼吁国会通过相关立法，以便更好地保护这些私人数据，比如要求公司为用户提供更多权限，让用户更好地控制公司收集的关于自己的数字文件等。
+The F.T.C., which was briefed on the company’s plans, declined to comment.
+对Facebook的计划有所了解的联邦贸易委员会拒绝置评。
+For Facebook, giving users a bit more control over their data even while collecting more information about them could be smart business.
+对于Facebook来说，在收集用户更多信息的同时，也让用户在数据方面多获得一点控制权，不失为一个明智之举。
+Companies are likely to buy more ads and pay higher prices if they know that their pitches are reaching a receptive audience, and the audience is more likely to be receptive if the ad is relevant to them.
+如果对受众来说，某个广告具有相关性，他们对这个产品的接受度可能就会比较高。而如果公司知道，它们的营销广告被推送到了接受度比较高的受众那里，公司就有可能购买更多的广告，支付更高的价格。
+“The thing that we have heard from people is that they want more targeted advertising,” said Brian Boland, Facebook’s vice president in charge of ads product marketing. “The goal is to make it clear to people why they saw the ad.”
+“我们听到人们说，他们希望看到针对性更强的广告，”Facebook负责广告产品营销的副总裁布莱恩·博兰(Brian Boland)说。“我们的目标是要向人们清楚表示，为什么他们会看到某些广告。”
+Right now, the company’s marketing profiles are based mostly on people’s activities on Facebook, such as liking brand pages or sharing a funny ad. That record of user interests is the basis of ad targeting on the social network. For example, an auto advertiser like Toyota might pay to, say, reach 30-something men in the United States who like Ford and S.U.V.s.
+眼下，该公司营销资料的主要依据是用户在Facebook上的活动，比如赞了某些品牌的专页，或者分享了某个有趣的广告。这些和用户兴趣有关的记录，是Facebook上广告定向投放的基础。例如，丰田(Toyota)这样的汽车广告主，可能会付比较高的价钱，把广告定向投放给30多岁的、身在美国的、喜欢福特和运动型多功能汽车(SUV)的男性。
+Facebook is now simultaneously inviting users to improve the accuracy of its existing list of their interests while it adds to that list from other sources.
+在邀请用户改善现有兴趣列表的准确性的同时，Facebook还在从其他来源往该列表添加内容。
+“At the end of the day, it’s all about data,” said Debra Aho Williamson, who studies social media for the research firm eMarketer. “Marketers want more data to be able to target people. And Facebook wants more data to make the advertising as relevant as possible.”
+“到头来都是为了数据，”研究公司的eMarketer社交媒体分析师黛布拉·阿霍·威廉姆森(Debra Aho Williamson)说。“营销商希望拥有更多数据，以便更精准地定向投放广告。而Facebook希望拥有更多数据，以便让广告具备尽可能高的相关性。”
+Facebook began informing its American users about the changes on Thursday, and they will receive access to their profiles within the next few weeks. The company said it would introduce similar access to other users around the world in coming months.
+Facebook已于周四开始向美国用户告知这些改变，美国用户在未来几周之内将拿到他们的个人资料。Facebook表示，将在未来几个月内让世界各地的其他用户也能得到类似的权限。
+Although Facebook will now give its users a way to modify the customer profiles that drive the ads they see, users cannot completely get rid of ads. If people were to delete everything Facebook had collected about them, they would simply see more generic pitches based on other information that they have given Facebook, like their location, gender and age.
+尽管Facebook用户现在可以修改资料，从而影响自己能看到哪些广告，但他们仍无法彻底摆脱广告。如果人们删掉Facebook收集的所有有关自己的信息，他们就会看到一些更普通的广告，这些广告会基于留给Facebook的其他信息，比如位置、性别和年龄。
+Most other big Internet companies already allow consumers to see, change or block some of the personal attributes that they use to deliver ads. Last year, the data broker Acxiom also began allowing people to see at least a portion of the profiles it had collected on them.
+大多数其他大型互联网公司已经允许用户查看、更改和屏蔽一些公司用以推送广告的个人信息。去年，数据经纪公司Acxiom也开始让人们至少能够查看该公司收集的关于自己的部分资料。
+But Facebook will be the first major Internet company to show consumers how a specific ad for, say, a new television, is linked to a particular assessment of their interests, such as a fondness for electronics.
+此前还没有哪家大型互联网公司会让消费者看到，一则特定的广告是如何与他们的某个兴趣的具体评估联系起来的，比如一种新款电视机和消费者对电子产品的爱好的联系，Facebook将是第一家。

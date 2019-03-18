@@ -1,0 +1,11 @@
+已有研究表明，抑郁会增加中风风险。现在，一项新的分析发现，即使在抑郁症状消退后，上述风险仍然存在。
+Researchers interviewed 16,178 stroke-free men and women, average age 65, on two occasions, two years apart. They used a well-validated scale to assess whether they had symptoms of depression, characterizing them as consistently low or none, having an onset or remission between interviews, or consistently high.
+研究参与者为16178名在基线（即研究开始）时无中风的男性和女性（其时他们的平均年龄为65岁）。在研究期间，科学家们每隔两年对他们进行了访谈，并使用经过充分验证的量表分别评估了他们是否存在抑郁症状。根据连续两次访谈的结果，研究人员评估了参与者在那四年里的抑郁情况：始终无抑郁或症状很轻，在两次访谈之间出现抑郁症状或已有的抑郁症状缓解，始终存在重度抑郁。
+The researchers followed them for two years after the second interview, during which 1,192 strokes occurred. The study is in the Journal of the American Heart Association.
+在随访期间，参与者共计报告了1192例中风事件。研究人员分析了参与者连续两次访谈评估出的抑郁水平与参与者在其后两年内的中风风险之间的关联。该研究发表在《美国心脏协会杂志》(Journal of the American Heart Association)上。
+Unsurprisingly, they found that persistently high depressive symptoms were associated with more than double the risk for stroke, and those with no or low symptoms were not at elevated risk.
+不出所料，研究人员发现，持续存在重度抑郁症状与中风风险增加一倍以上相关，而那些无症状或症状较轻的参与者的中风风险则并未增加。
+But they also found that even those whose symptoms had remitted between interviews were still at higher risk, and the difference between these people and those whose depression remained high was statistically insignificant.
+但他们也发现，曾经存在重度抑郁症状的患者，即使其症状在访谈间期已然缓解，他们的中风风险仍然较高，与那些始终存在重度抑郁症状的人相比，两者的风险差异无统计学显著性意义。
+Whether treatment for depression would decrease the risk for stroke remains unknown, said the lead author, Paola Gilsanz, a postdoctoral research fellow at Harvard. “We did not differentiate why people recovered from depression,” she wrote in an email. “It seems very plausible that different reasons for recovery might have different consequences, but we cannot tell from our study.”
+该研究的主要作者，哈佛大学(Harvard)的博士后葆拉·希尔桑斯(Paola Gilsanz)表示，目前尚不清楚抑郁症治疗能否降低中风风险。“我们并没有对参与者从抑郁中恢复的原因加以区分，”她在电子邮件中写道。“不同的恢复原因可能会引起不同的后果，听起来这很有道理，但从我们的研究中无法证明这一点。”

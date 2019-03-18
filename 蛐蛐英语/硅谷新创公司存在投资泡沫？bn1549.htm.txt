@@ -1,0 +1,50 @@
+Pinterest is a kind of Internet message board where people post their favorite images of clothes or furniture. It’s a three-year-old company and though it has an estimated 50 million unique monthly users, it doesn’t have any revenue yet.
+拼趣网(Pinterest)是一个布告栏网站，人们可以把自己最喜欢的图片，服装或者家具什么的，贴在上面。这间公司创立至今已满三年，虽然据估计它拥有5000万独立月均用户，但是该公司还没有获得任何收入。
+Still, the investors behind a $225 million round of financing that was announced last week estimated the company’s value at $3.8 billion.
+尽管如此，上个礼拜，该公司宣布了2.25亿美元的新一轮融资，相关投资者对该公司的估值高达38亿美元。
+To put that in perspective, the estimated value of Pinterest, based in San Francisco, is about a third of Twitter’s. The micro-messaging service could have $600 million in revenue this year (though it isn’t profitable) and is set to go public in a few weeks.
+形象点说，总部位于旧金山的拼趣网，其估值将近Twitter网的三分之一。而作为一家短消息服务提供商的Twitter，今年的营业收入预计为6亿美元（虽然该公司仍然没有盈利），并将于几周之后上市。
+Even in Silicon Valley, where financiers don’t often let pesky business measures like revenue and profits dampen their enthusiasm for a start-up, Pinterest’s new financing seemed like a reach.
+在硅谷，虽说投资者不会让营业收入和盈利等麻烦的商业指标影响他们对于初创公司的热情，但是拼趣网的新一轮融资确实让人大跌眼镜。
+So why the eye-popping numbers? A pessimist would say more big money finding its way to tech start-ups is a sure sign of an investment bubble, because Pinterest is hardly the only young company landing huge investments.
+那么究竟是什么原因，该公司能够获得这样令人瞠目的高估值？悲观主义者会说，大量资金涌入科技初创企业，这当然是投资泡沫的信号。毕竟，拼趣网绝对算不上唯一一家获得巨额投资的年轻公司。
+This year, Fab, the designer e-commerce site that hasn’t made a profit, increased its valuation to $1 billion by taking a $150 million investment from the Chinese Internet conglomerate Tencent Holdings. This month, Alibaba Group Holding, a Chinese e-commerce company, led a $206 million investment in ShopRunner, which offers unlimited two-day shipping from retailers, that valued the company at $600 million.
+法伯(Fab)是一家服务于设计师的电商网站。虽然该网站尚未盈利，但是今年，他们获得了中国互联网巨头腾讯控股(Tencent Holdings)1.5亿美元的投资，公司估值相应地提高到10亿美元。ShopRunner是一家物流公司，他们与零售商合作，提供包年的两日内送货服务。这个月，中国电商企业阿里巴巴集团(Alibaba Group Holding)领投了2.06亿美元的新一轮融资，对该公司的估值达到了6亿美元。
+On Friday, AllThingsD reported that Snapchat, the messaging app based in Los Angeles, which also lacks revenue, is weighing a “huge” investment round that would value it at $3.5 billion.
+科技网站AllthingsD上周五报道，一家位于洛杉矶的短信息应用公司阅后即焚(Snapchat)正在就一轮“巨额”投资进行谈判。虽然该公司同样没有营收，但是融资后的估值预计高达35亿美元。
+At the very least, that’s a frothy list that argues enthusiasm is once again getting ahead of reality in the tech industry.
+最起码，这充满了泡沫的名单说明了：在科技界，热情又一次冲在了现实的前面。
+The Pinterest investment is also an opportunity to see how big, outside money is added to the mix in Silicon Valley. While the latest Pinterest round included Valley heavyweights like the venture capital firm Andreessen Horowitz, the bulk of the money came from Fidelity Investments, the mutual fund giant in Boston.
+通过观察对拼趣网的投资，人们能借此机会看到大量外界资金成了硅谷纷繁生态中的新元素。一方面，拼趣网的最新一轮融资包括了硅谷重量级风险投资公司，如安德森·霍洛维茨基金(Andreessen Horowitz)，另一方面，大量的资金来自波士顿的共同基金巨头富达投资(Fidelity Investments)。
+And Fidelity plays by different rules than the typical tech investor.
+而且，和典型的科技投资者不同，富达投资遵循不一样的投资法则。
+Cash-rich financial outfits like Fidelity, which has more than $1.7 trillion in managed assets, are not as worried about hitting the home run ball as typical tech investors. Double your money when you invest $200 million? That’s fine for Fidelity. And if the investment doesn’t work out, it’s still minimal for a company that large.
+手握巨额现金的金融机构，例如管理资产超过1.7万亿美元的富达，并不像典型的科技投资者那样为了击出一枚全垒打而殚精竭虑。你投资两亿美元，然后再翻一番？对于富达投资来说，这是可以接受的。如果投资失败的话，对于富达投资这样大体量的公司，影响也微乎其微。
+That would never do for venture capitalist firms. First, they can’t throw around that kind of money. Second, those firms typically promise their own backers a return 10 times or more on the money they’ve put into a company. They have to. Many of the companies they put money into never pan out, and they’re always looking for the next Facebook or Google to make up for the numerous bad bets.
+但是对于风险投资公司来说，这种做法是行不通的。首先，他们不可能随意扔出那么多钱。其次，这些风险投资公司往往承诺他们的投资人，投入资本的回报会在10倍甚至更高。他们必须做到这一点。风险投资公司对很多企业投资时，钱都打了水漂；于是他们总想要寻找下一个Facebook或者谷歌，这样才能够弥补另外不可胜数的坏投资。
+Venture capital is a high-risk business. As risky as throwing $200 million at a company with no revenue? It’ll be a while before we know the answer to that one.Likewise, when foreign financiers put money into start-ups, they’ also don’t look for huge returns. Following the lead of Yuri Milner’s investment company, which put money into companies like Facebook and Twitter, they also have more modest goals: turn a profit, improve their cachet among the start-up community and — as is often the case — learn from the companies in which they are investing.
+风险资本是一个高风险行业。但高风险到对一个尚无营收的公司投资两亿美元？要知道问题的答案，我们还得等一阵子。同样的，当外国投资人对初创企业进行投资的时候，他们也不是冲着巨额回报来的；他们的榜样是俄罗斯人尤里·米尔纳(Yuri Milner)的投资公司，该公司曾经对Facebook和Twitter进行过投资。这些外国投资人也有一个不高的目标：获得一些回报，在初创公司界获得口碑——且实际情况经常是——向这些接受投资的公司学些什么。
+“It depends on the glasses you’re wearing whether these investments are too high,” said Mark Leslie, a managing partner at his own venture firm, Leslie Ventures, and a lecturer at the Stanford Graduate School of Business.
+马克·莱斯利(Mark Leslie)是自己的风险投资公司，莱斯利风险投资(Leslie Ventures)的管理合伙人，他也是斯坦佛大学商学院的讲师。他说，“究竟这些投资是不是太高了，取决于你看问题的角度。”
+Fidelity declined to comment on its investment. Pinterest said it was using the money to invest in the core of the company and international expansion, but would not discuss the valuation.
+对于这笔注资，富达拒绝发表评论。拼趣网则表示，这笔钱会用来提升公司的核心竞争力，并进行海外扩张，但不愿谈及估值的问题。
+Now the idea of Silicon Valley’s investment community — which brought you Pets.com and other Web wonders — wagging fingers and noting that others are driving irrational valuations might strike some people as, well, funny. Or sour grapes.
+硅谷的投资界也曾经投资过诸如Pets.com等一系列失败的网络产品。当他们摇着手指指出，他人正在推动非理性的估值，有些人可能觉得他们好笑，或者就是酸葡萄心理。
+But start-ups court risk when they lure investments at such generous valuations. As I’ve written before, once a start-up reaches a $1 billion valuation, they limit the number of big companies capable of acquiring them.
+但是，以这样慷慨的高估值获得投资，初创企业自己也会有风险。我前面就提到过，如果一家初创企业的估值达到10亿美元，有实力收购他们的大公司就非常有限了。
+Of course, it can be difficult to say for certain how much a young company should or should not be worth. Private investors may gamble that a fast-growing start-up with no obvious revenue may figure out, as Google did, how to pair a smart business model with millions of users.
+当然，要评价一家年轻公司究竟值多少钱，这相当有难度。私人投资者可能会对一家成长迅速，但是没什么明确收入的初创企业下赌注，期望这家初创企业能够在数百万用户的基础上找到聪明的商业模式，就像谷歌那样。
+That said, it can be hard to figure how these valuations add up.
+话虽如此，想要清楚这些估值是怎么加总出来的，也是很难的。
+Take Square, the mobile payments start-up best known for its slick credit card reader. Last year, it raised a reported $200 million from investors that valued the company at $3.25 billion.
+Square是一家研发手机支付的初创企业，以其漂亮的信用卡读卡器为人所知。根据去年的报道，该公司从投资人那里融资两亿美元，使其估值高达32.5亿美元。
+Square is expected to process $15 billion in transactions in 2013. Compare that with MasterCard, which processes more than $3.6 trillion in credit card transactions annually. MasterCard is valued at $90 billion on the public market. If the market were applying valuations based on transaction volume alone, MasterCard would be valued at almost $800 billion.
+外界预期，2013年，Square或将结算总金额高达150亿美元的交易。可以与之相比的是，万事达卡(MasterCard)年均结算3.6万亿美元的信用卡交易。在公开市场上，万事达卡的估值是900亿美元。如果市场仅按照交易金额这一项标准来评判的话，那么万事达卡的估值应该高达将近8000亿美元。
+Not surprisingly, “unlike Square’s previous financing rounds, which prominently featured big venture capital names like Sequoia Capital and Kleiner Perkins Caufield & Byers,” its most recent round was not led by a traditional Silicon Valley backer, The New York Times reported at the time.
+《纽约时报》当时的报道就指出，“Square之前的几轮融资，投资人是声名显赫的风险投资界巨头，例如红杉资本(Sequoia Capital)和凯鹏华盈(Kleiner Perkins Caufield & Byers)。”但是与前面几次不同，该公司最新一轮的融资，领投人并不是一家传统的硅谷投资机构。这都有些见怪不怪了。
+Instead, the majority of the financing came from Suhail Rizvi, the head of Rizvi Traverse Management, a private equity group. Rizvi Traverse and Square both declined to comment about the company’s financing.
+事实上，绝大部分的融资来自于苏哈尔·里兹维(Suhail Rizvi)，后者是私募股权集团里兹维·特拉维斯资产管理(Rizvi Traverse Management)的负责人。里兹维·特拉维斯资产管理和Square均拒绝对融资事宜发表评论。
+Does Mr. Rizvi, who is also among Twitter’s biggest investors, have a greater appetite for risk than tech’s usual financiers? Perhaps.
+里兹维也是Twitter最大的投资人之一。与科技界的一般投资人相比，里兹维是否对于风险的胃口更大？有可能。
+Or maybe, as Mr. Leslie put it, he’s looking at his investment with a different set of glasses.
+或者，按照莱斯利的话来说，里兹维是从另外的角度在看自己的投资。

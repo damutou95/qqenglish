@@ -1,0 +1,36 @@
+THE tinkering of federal government accountants is rarely newsmaking stuff. But after a few tweaks to the way the Bureau of Economic Analysis calculates the gross domestic product, those accountants have pulled off something seemingly remarkable: in the blink of an eye this week, they made the size of the American economy grow by $560 billion.
+联邦政府会计师的小打小闹基本不会制造出新闻。不过，经济分析局(Bureau of Economic Analysis)对国内生产总值(GDP)的核算方法进行几处微调之后，那里的会计师完成了看似相当了不起的事情：一眨眼的功夫，他们就在本周让美国的经济规模增长了5600亿美元（约合3.4万亿元人民币）。
+Not only is this a big change — that output, 3.6 percent of the total, lifting the economy to $16.6 trillion this year, is like adding a New Jersey to the nation’s economy — but it raises important questions about what we consider economic value and costs, and what we leave out.
+这不仅是一项重大变化——这一数值为经济总量的3.6%，把今年的美国经济规模抬升到16.6万亿美元，相当于经济上给美国增加了一个新泽西州——而且还提出了一些重要的问题：我们把什么视为经济价值或成本，又把什么给刨去了？
+The changes involved are pretty simple. Beforehand, if a factory bought a drill press, the government would count that as an investment that would generate income over time, depreciating along the way until its value added fell to zero.
+其中涉及的变化相当简单。以前，如果一家工厂购买了一台钻床，政府就会视其为一项投资，随时间的推移它会带来收入，同时也会折旧，直到带来的价值跌落到零。
+But consider the movie companies or TV studios that produce lasting hits like “Star Wars” or “Seinfeld.” They, too, spin off years of revenues. In that sense, their production is much like a capital investment, though there’s been no place in the national accounts to score that investment.
+但是，想想那些影视公司，打造了《星球大战》(Star Wars)和《宋飞传》(Seinfeld)等长盛不衰的大热作品。它们也能衍生多年的收入。从这个角度看，它们的制作也与资本投资十分相似，尽管国家账目里没有地方体现这种投资。
+Now there is a new category in the quarterly G.D.P. reports called “intellectual property products,” including “entertainment originals.” For example, the production costs of what the B.E.A., a part of the Commerce Department, calls “long-lived TV shows” — ones that provide a steady stream of income, like “Seinfeld” reruns — will for the first time be counted as investment. That’s right — the ultimate show about nothing will now add billions to G.D.P.
+现在，季度GDP报告中有了一个名为“知识产权产品”的新门类，其中包括“原创性娱乐作品”。比方说，商务部旗下的经济分析局口中的“长寿电视剧”的制作成本，将首次被核算为投资。所谓“长寿电视剧”就是像反复重播的《宋飞传》那样能提供稳定收入的作品。是的，这部以“什么也没发生”为主题的终极大作如今贡献出了几十亿美元的GDP。
+Research and development spending that was previously treated as an expense to business, the same as paper clips and electricity, will also now be treated as an investment with the potential to generate future income.
+研发开支以前被视为企业支出，与回形针和电力一样，如今它被看作是一种投资，在未来具有带来收入的潜力。
+The logic here is solid. Spend a few hours on Netflix and you’re happily consuming the results of considerable R & D in streaming technology, along with investments in the shows themselves. It seems clear that the intellectual property called “The Sopranos” is as valuable to its owners as the laptop and software enabling you to binge-watch it.
+其中的逻辑很严密。在Netflix上花上几个小时，你是在快乐地消费流媒体技术中的大量研发成果，以及节目本身的投资。看起来很明显，《黑道家族》(The Sopranos)这样的知识财产对其所有者的价值，与让你可以一次看个够的电脑和软件是一样宝贵的。
+Still, if that sounds squishy, that’s because it kind of is. Also, most people may not react well to being told that, according to the B.E.A., we’re all about $1,800 richer on a per-capita basis — but only on paper. Your paycheck’s still your paycheck. Have a nice day.
+不过，如果这听起来不太牢靠，那是因为的确是有点。而且，如果被告知，按照经济分析局的说法，我们的人均GDP多了大概1800美元，不过只是在纸面上，多数人的反应可能不会太好。你的工资单还是老样子。祝君愉快！
+But there are other, more significant problems with this new calculation. One is how to draw the lines around what is an “intellectual property product” and what isn’t.
+但是，这种新核算方法还有其他更大的问题。其中之一就是如何界定什么算是“知识产权产品”，什么又不算。
+Take online videos. We spend billions of hours watching videos free of charge on YouTube. Some people — not the ones with cats — spend considerable time and money putting these together. But since they are available at no cost, this will not add to G.D.P. In that sense, what’s really being valued here is entertainment that’s protected by copyright, which in the era of viral videos is actually a declining share of what we watch.
+以网上视频为例。我们共花了数十亿小时在YouTube上观看免费视频。有些人——不是那些上传自家猫咪视频的人——花了不少时间和金钱来完成这些东西。但是，由于这些视频不花钱就能被看到，就不会被算进GDP里。从这个意义上来讲，真正被算为有价值的是受到版权保护的娱乐作品。在如今的热点视频时代，这其实只占我们观看的作品中越来越小的部分。
+Another arbitrary ring must be drawn around what is lasting in terms of added value and what is fleeting. Journalism is out, for example: barring the unlikely event that generations to come deem this essay an essential read, it will not be considered an investment in the G.D.P. accounts. Nor will blogs, despite the fact that since your time is worth something to you, they add value to those who take the time to read them.
+另一个必须划分的主观界限是，在附加值方面，什么算是持久的，什么又是短暂的。比如，新闻作品就出局了。本文就不会在GDP核算中被视为一种投资，除非几代人之后，这篇文章成了人人必读的作品，但那是几乎不可能的。博客也出局了，尽管你的时间对你而言是有价值的，因而也就给那些花时间来阅读它们的人增值了。
+But perhaps the most arbitrary part of this or any other G.D.P. revision is not the value of what’s put in, but the cost of what’s left out.
+但是，本次和其他各次GDP调整中，最主观的部分或许不在于计入的项目有多大价值，而在于没有计入的项目造成了多大损失。
+The failure to account for environmental degradation is a serious shortcoming of our measurement system. If we use hydraulic fracturing to reach deep pools of natural gas and in the process pollute groundwater, we will count only the value of the gas. There is no subtraction for the polluted groundwater or the greenhouse gas emitted when the gas is burned.
+没能将环境退化计入GDP是我们核算体系的一个重大瑕疵。如果我们用水力压裂法来开采深处岩层里蕴藏的天然气，同时在这一过程中污染地下水，但我们只会计入天然气的价值，不会从中减去地下水遭污染，或者天然气燃烧时排放的温室气体造成的损失。
+Finally, while this revision is a big deal for those of us in the field, does it matter to more normal people? For one, while it lifts the level of G.D.P. going back many years, it doesn’t have much impact on the growth rate. Over the past year, for example, the economy grew an anemic 1.4 percent, meaning we’re still in the same slog we were in before.
+最后，虽然对于我们这些业内人士来说，这项修改意义重大，但它与更多普通人有关系吗？首先，它一下子提高了GDP的水平，包括过去多年的GDP水平，但它对增长率并没有多大影响。举例来说，过去一年，低迷的经济还是仅增长了1.4%，也就是说，我们的形势依旧严峻。
+True, since the change raises the level of G.D.P. but doesn’t affect the debt, it will lower the debt-to-G.D.P. ratio, which in tandem with falling deficits should give policy makers the political oxygen to implement a jobs measure. But given the state of Washington these days, don’t hold your breath.
+没错，由于这一变动提高了GDP水平，却不影响国债，它会降低国债对GDP的比例，结合持续降低的赤字，这应该会给政策制定者一些“政治氧气”，来实行刺激就业的举措。但考虑到华盛顿目前的情况，别指望它会很快发生。
+Too many Americans have felt disconnected from economic growth for a long time, something President Obama has stressed in recent speeches. Over this recovery, real G.D.P. is up 9 percent, while the typical household’s income is down 4 percent. So we’ll forgive you for not jumping for joy over the revisions.
+很长时间以来，太多的美国人已感到经济增长与己无关，奥巴马总统在最近的演说中也提出了这点。在这次经济复苏的过程中，实际GDP增长了9%，但普通家庭的收入水平则下降了4%。所以，你没有对这样的修改欢呼雀跃我们也不会介意。
+Still, as new sources of economic value emerge, it’s important to try to account for them, even if the accounting risks becoming more arbitrary as the measurement issues become more challenging. But it’s equally important to try to measure the value we’re destroying — to “net out” the environmental damage.
+当然，既然经济价值的新来源出现，那就应当尽量将它们计入，即便因为计算问题带来的挑战越来越大，核算也可能会变得越来越主观。但同样重要的是，也应尽量计入我们破坏了多少价值——计入环境破坏的成本。
+So here’s the deal, and let’s stick with the movies: we’ll count “Star Wars,” if they’ll count the findings of “An Inconvenient Truth.”
+所以应该这样做，我们还是来用电影来打比方：要是他们计算《难以忽视的真相》(An Inconvenient Truth)里的发现，我们就会计算《星球大战》(Star Wars)。

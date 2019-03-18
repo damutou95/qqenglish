@@ -1,0 +1,16 @@
+What do washing the dishes and uploading pictures to Facebook have in common?
+洗盘子和往Facebook上传图片有什么共同之处?
+In most places, not much. But in Paris, they both could help heat your local swimming pool.
+在大多数情况下，它们没什么交集。但在巴黎，它们都可以用来加热游泳池的水温。
+To keep its bathers from shivering and its energy bills from ballooning, the city has developed some clever ways to reuse excess heat from two unconventional sources, computer servers and sewage.
+为了既不让游泳的人冷得发抖，也不让能源账单飞涨，巴黎市想到了一些聪明的办法，将两种非常规来源的余热进行重复利用：电脑服务器和污水。
+The wastewater from sinks, toilets, washing machines and so on pours into the Paris sewer system at an average temperature of 55 to 68 degrees Fahrenheit. At the Aspirant Dunand swimming pool in the 14th Arrondissement of Paris, the stuff runs through pipes underneath the pool, where the warmth is captured with the help of metal plates in the sewage pipes. A heat-pump system then transfers it to the pool water.
+来自洗碗池、马桶、洗碗机等地方的废水以平均55至68华氏度（约合13-20摄氏度）的温度流入巴黎的污水管道系统。在位于第十四区的阿斯派兰特·迪南(Aspirant Dunand)游泳馆，这些水顺着游泳池下方的管道流动，排污管道里的金属板将其中的热量摄取，然后由一个热泵系统转移到池水中。
+The heat source at a swimming pool in the Butte aux Cailles neighborhood of the 13th Arrondissement will have to be kept much drier. A French start-up company called Stimergy is scheduled to install several hundred computer servers in the building’s basement over the next year. The heat thrown off by the servers will go to the boiler that heats water for the pool and locker-room showers — a “data furnace,” if you will.
+对于位于第十三区鹌鹑之丘(Butte aux Cailles)社区的一家游泳馆而言，热源必须更加干燥。一家名为Stimergy的法国创业公司将用明年一年的时间，在这栋大楼的地下室安装数百台电脑服务器。服务器散发的热量将进入一台锅炉，加热这家游泳馆的泳池和更衣室内使用的水——要是你愿意，可以称之为“数据火炉”。
+Jean-François Martins, the city’s deputy mayor in charge of sports, has said it is all part of a plan to make the city’s swimming pools more “eco-responsible” in preparation for the 2024 Olympic Games, which Paris is in the running to host. (Los Angeles and Budapest are the other contenders.)
+负责管理体育事务的巴黎副市长让-弗朗索瓦·马丁(Jean-François Martins)表示，这是一项计划的一部分，该计划旨在让巴黎的游泳馆更加“对生态负责”，为2024年奥运会做好准备。巴黎正在申请主办这一届奥运会。（洛杉矶和布达佩斯是另外两个参与竟逐的城市。）
+“We wish to reduce the environmental impact and ecological footprint of these facilities, while reducing chemical product use,” Mr. Martins said of the pools.
+“我们希望能减少这些设施的环境和生态影响，同时减少化学物质的使用，”马丁在谈论这些游泳馆时讲道。
+Making Paris more environmentally friendly is also high on the to-do list for Mayor Anne Hidalgo, a Socialist. To cut tailpipe emissions, her administration recently imposed a much-debated ban on vehicle traffic along a large section of the roadway that runs along the Seine.
+让巴黎变得更加环境友好，也是市长、社会主义者安妮·伊达尔戈(Anne Hidalgo)的任务清单中比较靠前的一项。为了减少尾气排放，她的政府最近实施了一项颇具争议的禁令，禁止车辆通过塞纳河沿岸的一大部分路段。

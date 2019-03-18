@@ -1,0 +1,22 @@
+At first, it seemed like a brilliant marketing plan. Perhaps it still is.
+起初，这看上去是一个非常棒的营销方案。或许现在依然如此。
+The popularity of the Chinese ride-sharing app Didi Dache (滴滴打车), which translates as “Honk Honk Hail a Cab,” inspired a simple pun. With the change of one character, the name became Didi Daren (滴滴打人), or “Honk Honk Beat a Person.”
+中国的招车应用软件滴滴打车（意思是嘀嘀两声打辆车）风靡一时，为一句简单的俏皮话提供了灵感。只消换掉一个字，“滴滴打车”就变成了“滴滴打人”（意思是嘀嘀两声打个人）。
+And in such a joke, one tech company in Hunan Province in the south saw an opportunity. The company, Changsha Zhang Kong Information Technology Limited, whose English name is Joke, decided to develop just such an app.
+中国南方省份湖南省的一家科技企业从上述笑话中看到了机会。这家名为长沙掌控信息科技有限公司(Joke)的企业，决定开发一款跟这句俏皮话同名的应用软件。
+“We heard about Didi Dache every day in the news, so we wanted to sort of take a free ride on its fame,” said the head of Joke’s business department, who would give only his surname, Yuan.
+“滴滴打车天天上新闻，所以我们就想搭个便车，”掌控公司营业部的袁姓负责人说。
+That is particularly true of apps for smartphones, which come out too quickly to track and are available for download on Android app stores that, unlike in the rest of the world, are not dominated by Google. As a result, products are not closely vetted before release, and companies seek any advantage to grab the attention of potential users. Sometimes the results can backfire, but sometimes it pays to be audacious.
+智能手机应用软件领域尤为如此：层出不穷的应用软件令人目不暇接，在安卓(Android)应用商店里即可下载，而且跟其他地方不同，这里的安卓应用商店并非由谷歌(Google)主导。因此，产品无需经过严格的审核就可以发布出去，企业纷纷投机取巧，以吸引潜在用户的眼球。这样做有时会产生适得其反的效果，但有时大胆而为带来了相应的回报。
+Now that it has gotten some attention, Didi Daren does have a chance at achieving some success. China’s smartphone users have proved to be relatively comfortable with social networks that connect them to strangers nearby. One successful application, called Momo, connected strangers looking for dates, love — and more — well before similar apps like Tinder became popular in the United States.
+即然滴滴打人已经受到了关注，它很有可能获得一定程度的成功。事实证明，中国的智能手机用户并不排斥能够把他们和附近的陌生人联系起来的社交网络。早在Tinder等陌生人交友应用红遍美国之前，帮助渴望约会、爱情以及更多东西的陌生人建立联系的陌陌就已在中国大获成功。
+Rather than create an “Uber for Assault,” Joke said it had intended to create a concierge service, much like the app Magic, which allows users to negotiate for services like deliveries and housecleaning.
+掌控公司称，他们要打造的并不是“用来召集打手的优步(Uber)”，而是一款跟Magic很像的礼宾服务应用软件，用户可以通过它跟提供快递、保洁等服务的人员接洽。
+Just as Dache means “to hail a cab,” one could, with a little creativity, take Daren to mean “hail a person.” But after the release in January, some users understandably took the name at its literal meaning. Chinese news outlets said that people were using the app to offer themselves as thugs for hire, though it was unclear if any such transactions were actually completed. The Yunnan Information News reported on Saturday that it had used the app to contact a man in Shanghai who offered, for 200 to 500 renminbi, or about $30 to $80, to put someone in the hospital.
+正如“打车”的意思是“叫车”，你也可以有点儿创意，把“打人”理解成“叫人”。但滴滴打人1月份上线后，一些用户却在按照字面意思来解读“打人”二字，他们这样想也是可以理解的。中国媒体称，有自称打手的人在滴滴打人上招揽生意，但目前尚不清楚他们是否真的跟人达成了交易。《云南信息报》周六报道称，该报已经通过这款应用软件联系到了一个身在上海的男人，他说只要200至500元人民币（约合30至80美元），他就可以让某个人躺进医院。
+It did not help that “Baozou Big News,” an online comedy show, broadcast a skit in February about an app that did just that, with a bullied nurse and a schoolgirl being pursued by a lecherous teacher ordering beatdowns of their tormentors.
+网络搞笑脱口秀《暴走大事件》今年2月播放的滑稽短剧对事情并没有什么帮助。剧中，一个遭受欺凌的护士和一个受到好色老师骚扰的女学生用一款应用软件找到打手，把欺负他们的人暴揍了一顿。
+Mr. Yuan said that Joke was aware that users might take the name literally, and that it included warnings in the app against criminal activity. Still, he said the company was surprised that the app was seen as a service for hiring thugs. “We didn’t anticipate this,” he said.
+袁姓主管称，掌控公司察觉到用户可能会按照字面意思来理解“滴滴打人”4个字，于是在这款应用软件中加入了反对犯罪行为的警示语。但他表示，该公司还是惊讶于滴滴打人竟被视为一款帮人雇佣打手的服务。“我们没料到这种情况，”他说。
+Over three months, the app was downloaded about 200,000 times. But to the likely disappointment of high-tech hoodlums, the company and several app stores pulled Didi Daren on Monday after several critical reports emerged in the Chinese news media. Mr. Yuan said Joke planned to release a new version of the app in a few weeks that would include a “secretary,” a function to vet requests that were previously negotiated directly between users. And the app will have a new name, he said. The company also plans to ask users to submit their suggestions.
+在3个月时间里，滴滴打人被下载了20万次。但让通晓高科技的流氓失望的是，中国媒体刊发了几篇批评性报道之后，周一，掌控公司和多家应用商店将滴滴打人下架处理。袁姓主管称，掌控公司计划在几周之内推出带有“秘书”功能的新版应用软件，用户发布的请求会受到审查，而在以前，用户间都是直接接洽的。另外，他说，这款应用软件会有一个新名字。该公司还打算让用户给出建议。

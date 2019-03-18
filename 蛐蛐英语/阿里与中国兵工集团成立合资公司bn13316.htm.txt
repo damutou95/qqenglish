@@ -1,0 +1,24 @@
+HONG KONG — Alibaba, the Chinese e-commerce titan, has always had a capricious streak when it comes to strategic investments and acquisitions.
+香港——在战略投资和收购方面，中国电子商务巨头阿里巴巴的表现一向难以捉摸。
+In the last two years, it has put money into insurance and finance, motion pictures, brick-and-mortar retailing and even a soccer franchise.
+过去的两年里，它投资了保险和金融、电影、实体零售，甚至还有一家足球俱乐部。
+Now it is cooperating with yet another unlikely partner: a Chinese state-owned arms and machinery producer, the China North Industries Corporation, or Norinco.
+现在，它与另一个看似不可能的公司成为了合作伙伴：中国兵器工业集团，一家国有武器和机械生产商。
+In a post on its website on Wednesday, Norinco said each of the two would hold a stake of 50 percent in Qianxun Weizhi Internet, a joint venture worth 2 billion renminbi, or about $310 million.
+本周三，兵器工业集团在官网上的一篇文章中表示，它和阿里巴巴合资成立千寻位置网络有限公司，公司注册资本20亿元人民币，双方各占50%的股权。
+Norinco — which has faced nonproliferation sanctions from the United States government over the last decade — appears to be an odd partner for Alibaba. But the cooperation shows how China’s largest Internet companies are trying to improve government relations by supporting state projects.
+在过去十年中，兵器工业集团曾遭到美国政府的防扩散制裁。对于阿里巴巴而言，它似乎是个奇怪的合作伙伴。但从这个合作中可以看出，中国最大的互联网公司如何通过支持国有项目来争取改善政府关系。
+In this case, the project is Beidou, a satellite navigation system that is China’s domestically developed answer to GPS.
+这个合作的项目是“北斗”，一套中国自主开发的卫星导航系统，相当于GPS。
+The new company, according to the post, will build applications and technology to support and work with the system. It will also show Alibaba’s support of broader Chinese industrial policy.
+网站上的文章显示，新公司将构建应用程序和技术，来为北斗系统提供支持和合作。这也展示了阿里巴巴对更广泛的中国产业政策的支持。
+Beidou has high-level government support and has attracted billions in investment, partly because of Beijing’s concerns that the United States could disable GPS signals in China, damaging the capabilities of its satellite-guided weapons.
+北斗系统获得了政府高层的支持，吸引了数以十亿计美元的投资，原因之一是北京担心美国关闭在中国的GPS信号，削弱中国卫星制导武器的能力。
+To ensure the viability of Beidou, the Chinese government has sought to increase the number of commercial users of the technology, even though the system is incomplete and GPS has a 95 percent share of the Chinese market.
+即使北斗系统并不完整，而且GPS在中国占有95%的市场份额，但为了确保北斗的可行性，中国政府一直努力提高这项技术的商业用户数量。
+The Chinese authorities have been slowly rolling out new rules that mandate the system’s use. In 2013, China’s transportation authority ordered all long-distance buses and vehicles transporting “dangerous articles” in nine provinces to install the system. Heavy trucks must also have the system, and the government has installed it in more than 50,000 Chinese fishing boats.
+中国政府一直在缓步出台强制使用北斗系统的新规。2013年，中国交通运输管理局要求九个省的所有长途客车和“危险物品”运送车辆安装该系统。重型卡车也必须安装北斗系统。此外，还有逾5万艘中国渔船在政府要求下安装了它。
+“Alibaba Group participated in this location-based services project in light of our strength in cloud computing and big data,” Alibaba’s spokeswoman, Melanie Lee, wrote in an email. “We hope to be able to provide businesses and developers with better location-based services.”
+“阿里巴巴集团确实参与位置网项目，基于在云计算和大数据方面积累的能力，”阿里巴巴发言人梅拉妮·李(Melanie Lee)在邮件中写道。“希望为企业和开发者提供更优质的位置服务。”
+In the early 2000s, Norinco was hit with sanctions by the Bush administration for the transfer of dual-use technologies to a company involved in Iran’s ballistic missile program. According to the State Department, the sanctions lapsed in the mid-2000s.
+21世纪初，兵器工业集团因将军民两用技术转移给一家参与伊朗弹道导弹项目的公司，遭到布什政府的制裁。据美国国务院，制裁措施已于2000年代中期失效。

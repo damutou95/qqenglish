@@ -1,0 +1,46 @@
+In findings that are fundamentally reshaping the scientific understanding of breast cancer, researchers have identified four genetically distinct types of the cancer. And within those types, they found hallmark genetic changes that are driving many cancers.
+研究人员识别出了四种基因类型各异的乳腺癌，这项研究结果将从根本上改变对乳腺癌的科学认识。在这四种类型内，研究人员还发现了促进许多癌症生长的标志性基因变异。
+These discoveries are expected to lead to new treatments with drugs already approved for cancers in other parts of the body and new ideas for more precise treatments aimed at genetic aberrations that now have no known treatment.
+人们期待这些发现，使已被批准的、治疗身体其他部位肿瘤的药物，能用到治疗乳腺癌的新方法上；同时，发现能激发新思路，针对目前没有办法治的一些基因突变，找到更精确疗法。
+The study, published online on Sunday in the journal Nature, is the first comprehensive genetic analysis of breast cancer, which kills more than 35,000 women a year in the United States. The new paper, and several smaller recent studies, are electrifying the field.
+这项研究周日在线发表于《自然》杂志(Nature)上，是首次对乳腺癌做的全面基因分析。这篇论文，以及最近几项较小规模的研究，大大振奋了乳腺癌研究领域。乳腺癌每年导致3.5万名美国女性死亡。
+“This is the road map for how we might cure breast cancer in the future,” said Dr. Matthew Ellis of Washington University, a researcher for the study.
+“这是未来我们可能找到如何治愈乳腺癌的路线图，”华盛顿大学(Washington University)的马修·埃利斯(Matthew Ellis)博士说，他参与了这项研究。
+Researchers and patient advocates caution that it will still take years to translate the new insights into transformative new treatments. Even within the four major types of breast cancer, individual tumors appear to be driven by their own sets of genetic changes. A wide variety of drugs will most likely need to be developed to tailor medicines to individual tumors.
+其他研究人员和病人权益倡导人士则警告说，将新发现转化为能改变现状的新疗法仍需多年的时间。即使在四种主要乳腺癌类型内，个体肿瘤看来是被它们自己不同的基因变异驱动的。很可能需要找到许多不同的药物才能订制出针对个体肿瘤的治疗方法。
+“There are a lot of steps that turn basic science into clinically meaningful results,” said Karuna Jaggar, executive director of Breast Cancer Action, an advocacy group. “It is the ‘stay tuned’ story.”
+“将基础科学转化为有临床意义的成果需要很多步骤，” 倡导团体乳腺癌行动(Breast Cancer Action)执行主管卡鲁纳·贾加尔(Karuna Jaggar)说。“这是个‘请继续关注’的故事。”
+The study is part of a large federal project, the Cancer Genome Atlas, to build maps of genetic changes in common cancers. Reports on similar studies of lung and colon cancer have been published recently. The breast cancer study was based on an analysis of tumors from 825 patients.
+本研究是美国联邦政府的大型项目、癌症基因组图谱(Cancer Genome Atlas)的一部分，项目旨在建立常见癌症的基因变异图谱。针对肺癌和结肠癌的类似研究结果已在早些时候发表。这次针对乳腺癌的研究来自对825名病人肿瘤的分析。
+The study focused on the most common types of breast cancer that are thought to arise in the milk duct. It concentrated on early breast cancers that had not yet spread to other parts of the body in order to find genetic changes that could be attacked, stopping a cancer before it metastasized.
+研究关注最常见的乳腺癌类型，也就是通常被认为起源于乳导管中的那些类型。重点在尚未扩散至身体其他部位的早期乳腺癌，以便找到可供攻击的基因变异，在癌症转移前将其遏制。
+The study’s biggest surprise involved a particularly deadly breast cancer whose tumor cells resemble basal cells of the skin and sweat glands, which are present in the deepest layer of the skin. These breast basal cells form a scaffolding for milk duct cells. Such cancers are often called triple negative but the study researchers call them basal-like.
+研究最出人意料的结果涉及一种致死率特别高的乳腺癌。这种乳腺癌的肿瘤细胞与皮肤和汗腺的基底细胞类似。基底细胞出现在皮肤的最深层，乳腺的基底细胞为乳导管细胞提供支架。虽然人们通常称这种癌为三阴性，但从事本项研究的人员称之为基底细胞样型乳腺癌。
+Basal-like cancers are most frequent in younger women, in African-Americans and in women with breast cancer genes BRCA1 and BRCA2.
+基底细胞样型乳腺癌最常发生在年轻女性、非洲裔美国人，以及携带BRCA1和 BRCA2乳腺癌基因的女性身上。
+And, the researchers report, their genetic derangements make these cancers a much closer kin of ovarian cancers than of other breast cancers. Basal-like breast cancers also resemble squamous cell cancer of the lung.
+研究人员还发现，这些肿瘤的基因紊乱使该型乳腺癌比其他类型的乳腺癌与卵巢癌更接近。基底细胞样型乳腺癌也与肺部鳞状细胞癌类似。
+“It’s incredible,” said Dr. James Ingle of the Mayo Clinic, one of the study’s 348 authors, of the ovarian cancer connection. “It raises the possibility that there may be a common cause.”
+研究论文的348名作者之一、梅约诊所(Mayo Clinic)的詹姆斯·英格尔博士(James Ingle)， 谈到与卵巢癌的关联时说，“真不敢相信。这提出了也许存在共同诱因的可能性。”
+The study gives a biologic reason to try routine treatments for ovarian cancer — platinum drugs, for example — in basal-like breast cancer, the investigators said. And a common class of drug used in breast cancer, anthracyclines (adriamycin or epirubicin), might be dropped from the basal-like cancer treatment regimen because they do not increase help in ovarian cancer.
+研究人员说，该研究为尝试采用卵巢癌的常规治疗方法（例如铂类药物）来治疗基底样乳腺癌提供了生物学上的理由。同时，也许可以把蒽环类药物（阿霉素或表阿霉素），不再用于基底细胞样型乳腺癌的治疗方案中，因为它们并不增加对卵巢癌治疗的帮助。
+Anthracyclines, Dr. Ellis said, “are the drugs most breast cancer patients dread because they are associated with heart damage and leukemia.”
+埃利斯博士说，蒽环类药物“是大多数乳腺癌患者特别害怕的药物，因为它们与心脏损伤及白血病有关联”。
+A new type of drug, PARP inhibitors, that seems to help squelch ovarian cancers, should also be tried in basal-like breast cancer, Dr. Ellis said.
+埃利斯博士还说，新型药物PARP抑制剂好像对消除卵巢癌有帮助，这种药物也该被用于治疗基底细胞样型乳腺癌的尝试。
+Two other types of breast cancer, accounting for most cases of the disease, arise from the luminal cells that line milk ducts. These cancers have proteins on their surfaces that grab estrogen, fueling their growth. Just about everyone with estrogen-fueled cancer gets the same treatment. Some do well. Others do not.
+占乳腺癌病例大多数的另外两种类型，起源于形成乳导管内层的腔细胞。这类癌细胞的表面有捕获雌激素的蛋白质，而雌激素促进癌细胞增长。几乎所有由雌激素催生的乳腺癌症患者都接受同样的治疗。一些人的疗效不错，另一些人的则不好。
+The genetic analysis divided luminal cancers into two distinct subtypes. The luminal A subtype had good prognoses while luminal B did not, suggesting that perhaps patients with luminal A tumors might do well with just hormonal therapy to block estrogen from spurring their cancers while luminal B patients might do better with chemotherapy in addition to hormonal therapy.
+基因分析把腔细胞乳腺癌分为两个不同的亚型。腔细胞A型的治疗预后良好，而腔细胞B型的预后不好，这表明也许腔细胞A型肿瘤患者可能只需接受激素治疗来阻止雌激素刺激癌细胞增长，而腔细胞B型肿瘤患者可能要在接受激素治疗的同时，增加化疗，效果才会更好。
+In some cases, genetic aberrations were so strongly associated with one or the other luminal subtype that they appeared to be the actual cause of the cancer, said Dr. Charles Perou of the University of North Carolina, who is the lead author of the study. And he called that “a stunning finding.”
+该研究的主要作者、北卡罗来纳大学(University of North Carolina)的查尔斯·佩鲁(Charles Perou)说，在一些病例中，某些基因变异与两种腔细胞亚型中的一种或另一种的关联如此之强，以至于这些变异看来就是该亚型癌的确切诱因。佩鲁称这是“惊人的发现。”
+“We are really getting at the roots of these cancers,” he said.
+“我们正在找到这些癌症的根本原因，”他说。
+After basal-like cancers, and luminal A and B cancers, the fourth type of breast cancer is what the researchers called HER2-enriched. Breast cancers often have extra copies of a gene, HER2, that drives their growth. A drug, Herceptin, can block the gene and has changed the prognosis for these patients from one of the worst in breast cancer to one of the best.
+基底细胞样型癌、腔细胞A型和腔细胞B型癌以外，还有第四种类型的乳腺癌，研究员们称之为HER2基因扩增型癌。乳腺癌患者通常携带过多的HER2基因拷贝，而HER2基因刺激癌细胞的增长。一种名为赫赛汀(Herceptin)的药物可以抑制此基因，使曾是患者预后最坏的乳腺癌变为预后最好的一种。
+Yet although Herceptin is approved for every breast cancer patient whose tumor makes too much HER2, the new analysis finds that not all of these tumors are alike. The HER2-enriched should respond readily to Herceptin; the other type might not.
+然而，虽然赫赛汀获准用于任何其肿瘤制造过多HER2基因拷贝的乳腺癌患者，但新的分析发现这些肿瘤并不都一样。赫赛汀对其中的HER2扩增型癌应该能轻而易举地起作用，而对其他的则不一定。
+The only way to know is to do a clinical trial, and one is already being planned. Herceptin is expensive and can occasionally damage the heart. “We absolutely only want to give it to patients who can benefit,” Dr. Perou said.
+证明是否如此的唯一途径是临床试验，现在有一个临床试验已经在计划之中。赫赛汀价格昂贵，偶尔还会对心脏造成损伤。“我们绝对只想给那些能够受益的患者用药，”佩鲁说道。
+For now, despite the tantalizing possibilities, patients will have to wait for clinical trials to see whether drugs that block the genetic aberrations can stop the cancers. And it could be a massive undertaking to get all the drug testing done. Because there are so many different ways a breast cancer cell can go awry, there may have to be dozens of drug studies, each focusing on a different genetic change.
+目前，尽管前景诱人，患者还需要等待临床试验的结果，以获知抑制基因变异的药物能否遏制癌症。完成所有的药物测试则可能是一项巨大的工程。因为乳腺癌细胞有太多不同的变异方式，因此可能需要做几十项药物研究，每一项针对一种不同的基因变异。

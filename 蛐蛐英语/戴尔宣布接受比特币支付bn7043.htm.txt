@@ -1,0 +1,24 @@
+Another well-known company is embracing digital money.
+又一家知名公司向数码货币张开了臂膀。
+On Friday, Dell announced that customers would be able to make purchases on its website using Bitcoin, claiming to become the biggest retailer yet to accept the virtual currency.
+周五，戴尔(Dell)宣布顾客可以在它的网站上使用比特币(Bitcoin)进行购买，并称自己是迄今最大的一家接受这种虚拟货币的零售商。
+“We put this together quickly as a result of listening to our customers,” said David Frink, a Dell spokesman. “It’s another way for customers to have a relationship with Dell.”
+“我们迅速促成此事，是倾听顾客声音的结果，”戴尔发言人戴维·弗林克(David Frink)说。“这是戴尔和顾客保持联络的又一种方式。”
+When retailers started accepting Bitcoin, the appeal was largely the currency’s ability to attract new customers with its novelty. But as Bitcoin has become more mainstream, merchants may now be embracing digital money to lower payment processing fees and make purchases easier for already-loyal customers.
+零售商最初开始接受比特币，主要源于这种货币对新顾客的吸引力。但是随着比特币越来越主流，商人也许需要通过接受数码货币来降低支付手续费，让那些本来已经很忠诚的顾客能够更便利地进行购买。
+“Retailers have very low margins, and online especially, and they’re in a constant battle with credit cards and banks to lower those fees,” said Gil Luria, an analyst with Wedbush Securities. “Now that they see this avenue for fees to go away, that’s really their big motivation.”
+“零售商的利润很低，尤其是在线零售，他们一直在和信用卡公司、银行搏斗，争取降低手续费，”韦德布什证券(Wedbush Securities)分析师吉尔·卢里亚(Gil Luria)说。“现在他们看到了一个可以免掉这笔费用的途径，这才是他们真正的动机。”
+To make accepting Bitcoin possible, Dell teamed up with Coinbase, a third-party payment processor that converts customers’ Bitcoins into dollars. Coinbase, which began with $25 million from the investment firm Andreessen Horowitz, approached Dell about accepting Bitcoin as a payment option a few months ago, said Adam White, the director of business development and strategy at Coinbase, who worked with Dell on the partnership. Dell reached out to Coinbase two weeks ago about adopting Bitcoin quickly, in time for back-to-school shopping, he said.
+为了能接受比特币支付，戴尔与第三方支付公司Coinbase建立了合作，后者负责把顾客的比特币兑换为美元，Coinbase是凭借投资公司安德森-霍洛维茨基金(Andreessen Horowitz)的2500万美元（约合1.55亿元人民币）投资创办起来的，该公司负责和戴尔合作的业务发展和战略总监亚当·怀特(Adam White)说，几个月前他的公司向戴尔提出建议，将比特币作为一种支付选项。他说两周前戴尔联系了Coinbase，表示要尽快采用比特币，以赶上返校购物潮。
+“Merchants are really waking up and seeing just how powerful using Bitcoin as a payment option is,” Mr. White said. “Adding Dell to our roster of merchants that accept Bitcoin is a great signal for the industry that Bitcoin is here to stay.”
+“商家正在觉醒，他们意识到比特币作为一种支付选项是多么强大，”怀特说。“现在戴尔加入到我们的商家阵营中来，选择接受比特币，这是对业界发出的一个重要讯号，表示比特币在确立地位。”
+Dell, which offers products ranging like personal computers, tablets and printers, had annual sales of nearly $60 billion in 2013. Companies working with Coinbase pay it a 1 percent processing fee after the first $1 million in sales.
+戴尔出售的产品包括个人电脑、平板电脑和打印机等，2013年的年销售额将近600亿美元。与Coinbase合作的公司在销售额超过100万美元以后要开始支付1%的手续费。
+About 35,000 merchants use Coinbase’s payment tools, Mr. White said, including Overstock.com, which began working with Coinbase in early January. The online travel booking website Expedia and the satellite television provider Dish Network have also partnered with Coinbase to accept Bitcoin.
+怀特说大约有3.5万个商家在使用Coinbase的支付工具，包括一月初开始合作的Overstock.com。在线旅游预订网站Expedia和卫星电视供应商Dish Network也已经与Coinbase合作，开始接受比特币支付。
+Despite a more widespread adoption of Bitcoin, it is not clear how many customers are using the currency to pay for goods and services. In its most recent quarterly filing, Overstock said that less than 1 percent of its sales were made in Bitcoin.
+比特币的应用范围在扩大，但究竟有多少顾客会使用这种货币来购买货品和服务，目前还不得而知。在最近一次的季度财报中，Overstock说使用比特币支付的交易在总销售额中不到1%。
+When Bitcoin was introduced in 2009 by a programmer, or a group of programmers, it appealed to a core group of anti-establishment enthusiasts and technology buffs, who operated on the fringes of the financial system. Since then, it has gained popularity, attracting venture capitalists and investment firms.
+比特币在2009年由一名程序员——或者是一组程序员——推出时，吸引到的核心人群是当权势力的激烈反对者和技术狂热人士，他们选择在金融体系的边缘地带活动。此后，比特币逐渐流行起来，引起了风险投资者和投资机构的兴趣。
+But without government regulation, the mainstream has yet to fully embrace the virtual currency. The price of Bitcoin has fluctuated wildly, from a few cents to more than $1,000 at its peak. Its current price is about $625, according to the website CoinDesk.
+但是，在缺乏政府监管的情况下，虚拟货币还是没能被主流全然接受。比特币的价格波动非常剧烈，低至几美分，最高时则超过1000美元。据CoinDesk网站的数据，目前它的价格大约在625美元。

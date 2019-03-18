@@ -1,0 +1,54 @@
+TAIPEI, Taiwan — Across Asia, motorized two-wheeled vehicles provide mobility for the masses, but emissions from hundreds of millions of scooters and motorcycles are responsible for more than half of traffic pollution in many cities, choking the air with hazardous levels of benzene and particulate matter, in addition to greenhouse gases.
+台湾台北——在亚洲，二轮机动车辆是民众普遍的代步工具。不过这些难以计数的机车所排放的气体，也得为许多城市的交通污染负上大半责任。这些废气使得空气中除了温室气体，还布满了苯与微粒物质，高达有害人体的程度。
+This year, a Taiwan-based startup called Gogoro has been using the scooter-filled streets of Taipei to test its Smartscooter, an electric scooter with an efficient all-electric drive train, sleek design and Internet of Things ingenuity. But Gogoro doesn’t want to be called a scooter company. It sees itself as an energy services company at heart.
+台湾起家的新创公司“睿能新动力(Gogoro)”自今年开始，在台北这个满街机车的城市测试他们的智慧双轮电动车。这是一种使用高效能全电力传动系统的电机车，造型时髦，还是一个智慧型物联网载具。不过Gogoro不甘于机车制造商的角色，他们自许为一间以能源服务为本的公司。
+“What technology has done to content, it can also do to energy,” said Horace Luke, Gogoro’s chief executive. The company operates a 4G-connected network of 90 battery-swapping stations around metropolitan Taipei serving a fleet of 2,000-plus smartscooters that are challenging their gasoline-powered rivals in performance — zero to 30 in just over 4 seconds — convenience, and environmental impact.
+“科技改变了我们吸收内容的方式，这种影响力也可以发挥在能源上，”Gogoro的执行长陆学森(Horace Luke)说。Gogoro在大台北都会区设有90座电池交换站，全都有4G网路连线，为两千多辆智慧型电机车服务。这些机车在性能(从0加速到时速30公里只需4秒)、便利性、环境影响等方面，都在挑战市面上与之竞争的汽油动力型机车。
+The Smartscooter is quickly gaining market share. As of late November, Gogoro’s flagship vehicle accounted for 95 percent of Taipei’s electric vehicles and 5 percent of scooters overall, Mr. Luke said.
+目前这些智慧型电机车正在快速抢攻市占率。陆学森表示，至十一月下旬，Gogoro的主力车款已占台北市电动型机车的95%，以及总机车数量的5%。
+Gogoro scooters are powered by two lithium-ion batteries that use the same Panasonic cells as Tesla batteries, with one charge enabling travel of up to 60 miles. When it’s time to swap in fresh batteries, a smartphone app offers directions to the closest station with available batteries (one is a 7-eleven convenience store). In seconds, the user replaces used batteries — which send vehicle diagnostics to the Gogoro network via Bluetooth — with the newest and most-charged batteries at the station.
+Gogoro机车使用的两个锂电池组由松下电器(Panasonic)生产的电池芯构成，和特斯拉(Tesla)电动车的电池芯是一样的。每次充满电后，最远行驶距离可达100km。需要更新电池的时候，车主可通过手机应用程序得知能取得有效电池且距离最近的交换站(其中一间还是7-11便利商店)。在这些站点上，数秒内就能取下旧电池，换上最新、电量最饱满的电池组，而那些旧电池会将车体分析资料经由蓝牙技术传送至Gogoro服务网。
+Panasonic has bought into Gogoro’s vision. In November, Gogoro announced that the Japanese company had joined the Taiwan government and the billionaire Samuel Yin as Series B, or second round, investors in Gogoro, making it the second electric vehicle maker to attract Panasonic capital, the other being Tesla. Shortly after raising $130 million in Series B funding, Gogoro announced that it would expand into Europe, beginning with Amsterdam.
+松下电器与Gogoro是英雄所见略同。Gogoro在十一月时宣布，这家日本公司已经加入台湾政府与百万富豪尹衍梁(Samuel Yin)的行列，成为他们的B轮(第二轮)投资者。他们也是继特斯拉之后，第二个吸引松下投入资金的电力运输工具制造商。在B轮融资筹得一亿三千万美金后，Gogoro很快就宣布他们将自阿姆斯特丹开始，进军欧洲市场。
+“The fundamentals of how people live changed in a decade with the smartphone,” Mr. Luke said. “If we put the same effort into how energy is consumed, how much can we change things in 10 years?”
+“过去十年来，人们的基本生活方式因为智慧型手机起了很大变化。”陆学森表示，“如果我们也对能源的使用投入同样心力，接下来十年，又能造成怎样的改变呢？”
+Mr. Luke speaks from experience. He was chief innovation officer at the Taiwan-based smartphone maker HTC from 2006 to 2011, helping transform the company from one that made products for other companies to a global brand. While at HTC, Mr. Luke and a colleague, Matt Taylor, began discussing their vision for a new company that would leverage technology for social impact. Being based in Taiwan — where 14 million scooters serve a population of 23 million — scooters seemed like a good place to start.
+陆学森的发言源自他工作的经验。他曾在2006至2011年间，担任台湾智慧型手机公司宏达电(HTC)的创意长，协助这间公司从代工厂转型成全球品牌。当陆学森还任职于HTC的时候，他和同事麦特‧泰勒(Matt Taylor)就开始讨论他们的共同愿景，也就是借由打造一间新创公司，使科技发挥社会影响力。由于他们身在台湾，一个有两千三百万人口骑着一千四百万辆机车的地方，所以这种交通工具似乎是个不错的起点。
+“The scooter hasn’t seen much evolution in the last 20 years,” Mr. Taylor said. “We asked ourselves if we could apply modern technology to something we see buzzing in the streets every day and make a better product in the process.”
+“机车自过去二十年来似乎没有多大的进展，”泰勒说，“我们自问，是不是能把现代科技运用在这种满街跑的东西上，并且从中创造出更好的产品来。”
+In 2011, the two men co-founded Gogoro, with Taylor as chief technology officer. They decided to rebuild the scooter from the ground up. Their initial focus was on performance and innovation, but minimizing environmental impact quickly became important.
+2011年，两人共同成立Gogoro，泰勒担任首席技术官。他们决定从头开始，重新设计机车。他们最初的重点在性能和创新上，但很快，把对环境的影响降低到最少变得重要起来。
+In Taiwan, pollution from scooter exhaust is a public health concern. Studies have found correlations between higher measurements of the fine particulate matter classified as PM2.5 in the air and increased cases of chronic obstructive pulmonary disease in local hospitals.
+在台湾，机车废气污染是一个公共卫生问题。研究发现，空气中被划分为PM2.5的微小颗粒物的测量数值升高，和当地医院慢性阻塞性肺病病例增加存在相关性。
+During peak traffic hours, exhaust hangs heavy on the city’s scooter lanes, also affecting air quality for nearby pedestrians. The amount of pollutants found in emissions from a new gas scooter exceeds the pollution found in new car emissions by a factor of 100 to 1,000, said André Prévôt of the Switzerland-based Paul Scherrer Institut. Scooters using two-stroke engines are the worst culprits, he said.
+交通高峰期间，浓重的废气笼罩着这座城市的机车道，并影响到了附近行人的空气质量。瑞士保罗·谢尔研究所(Paul Scherrer Institut)的安德烈·普雷沃(André Prévôt)称，一辆新汽油机车的排放物中污染物的含量，是一辆新汽车的100到1000倍。他说最糟糕的是使用二冲程发动机的机车。
+“The two-stroke engine scooter is the first vehicle to think about in terms of going all-electric, even before larger vehicles, because the pollution is much worse,” said Mr. Prévôt, who researched scooter emissions from 2010 through 2014. “It’s the logical next step in reducing traffic pollution in many Asian cities.”
+“如果要使用全电力，首先要考虑的甚至不是大型车辆，而是使用二冲程发动机的机车，因为它的污染要严重得多，”在2010到2014年间曾研究机车排放物的普雷沃说。“这是很多亚洲城市减少交通污染接下来应该采取的合理步骤。”
+The Taipei government agrees, and is actively promoting electric scooter purchases. The city’s Department of Environmental Protection offers replacement subsidies of around $45 for residents who retire their two-stroke scooters. A subsidy of up to $800 is available to those who replace their gas motorcycles with electric scooters. Gogoro Smartscooters currently cost between $2,200 and $2,375.
+认同这一观点的台北政府正在积极鼓励购买电动机车。该市环境保护局向弃用二冲程机车的民众发放约45美元的换车补贴。而用电动机车替代汽油摩托车的人，最高可获得800美元的补贴。Gogoro智慧型电动机车目前售价在2200美元到2375美元之间。
+In Gogoro’s most recent round of funding, the government also invested $30 million via its Taiwan Development Fund. The company appeals to a government concerned by the vulnerability of its semiconductor industry, an economic pillar that faces increasing competition from China. “They see Gogoro as a huge opportunity for furthering the tech sector,” Mr. Luke said.
+在Gogoro最近的一轮融资中，政府也通过台湾发展基金投资了3000万美元。作为台湾经济支柱的半导体行业面临着大陆日益激烈的竞争，其脆弱性让政府担忧，这家公司因此就有了吸引力。“他们认为Gogoro是进一步推动科技业的巨大机遇，”陆学森说。
+Taiwanese themselves have welcomed Gogoro. Elaine Kuan, a 29-year-old corporate accountant in Taipei, said she bought her Smartscooter in late July for its ease of riding and convenient technology, but also for its low environmental impact.
+台湾人自己也对Gogoro持欢迎态度。29岁的台北公司会计伊莲·关(Elaine Kuan)说自己在7月末买了一辆智慧型电动机车，因为它好骑，技术方便，对环境的影响也小。
+“I have asthma, so air pollution is a big deal to me,” Ms. Kuan said. “I hope that starting with myself I can slowly influence others and make the planet a place without vehicle emission pollution.”
+“我有哮喘，所以空气污染对我来说是大问题，”她说。“我希望从自己做起，再能慢慢影响其他人，让地球成为一个没有机动车尾气污染的地方。”
+Performance and convenience were the two main reasons Darren Liu, a 31-year-old pastry chef, bought his Smartscooter. “The riding experience and acceleration are much better than my previous gas-powered bike,” Mr. Liu said. “It’s the first electric scooter I’ve seen that can get up into the hills.” The battery swap model was also a big selling point. His previous experience using a relative’s electric scooter required hours of charging, compared with 30 seconds to swap his Gogoro batteries.
+性能和方便是31岁的糕点师达伦·刘(Darren Liu)买智慧型电动机车的两大原因。“骑行体验和加速都比我之前那辆汽油机车好很多，”他说。“这是我看到的第一辆能上山的电动机车。”电池交换模式也是一大卖点。他之前用亲戚的电动机车时，充电要好几个小时，而现在他的Gogoro电池只用30秒便可完成交换。
+As it expands beyond greater Taipei to Taoyuan — where it is headquartered — and the tech hub Hsinchu, Gogoro is exploring the possibilities offered by a growing network of battery stations.
+随着从大台北地区扩展到其总部所在地桃源和科技中心新竹，Gogoro正在探索一个不断扩大的电池交换站网络所带来的可能性。
+“At our core, we’re an energy company,” Mr. Taylor said. “Once the mix is actually working, it’s readily scalable.” The stations cost less than $10,000, have a small footprint and require only an outlet and Internet access, he said.
+“本质上，我们是一家能源公司，”泰勒说。“一旦二者的结合真的起作用了，就容易拓展了。”他表示，电池交换站的成本不到1万美元，碳足迹小，只需要一个插座和互联网接入。
+Mr. Luke said his company envisions an open system in which other companies develop products that can use Gogoro’s batteries.
+陆学森表示，公司设想的是一个开放的系统。在这个系统中，其他公司也能开发使用Gogoro电池的产品。
+Many companies — in fields as diverse as robotics, logistics and appliances — have inquired, he said. But he added that Gogoro’s longer-term vision was focused on “how to take energy and give it back to the grid when it needs it most.”
+他说，很多公司都来打听过。这些公司所处的领域多种多样，如机器人、物流和电器。但他接着表示，Gogoro的长远侧重点在“如何取电用电，并在电网最需要的时候把电回馈给电网。”
+Gogoro’s entrance into the market this year comes as car companies including General Motors, Ford and Daimler-Benz are beginning to view themselves as service providers rather than manufacturers.
+Gogoro今年进入这个市场之际，正值通用汽车(General Motors)、福特(Ford)和戴姆勒-奔驰(Daimler-Benz)等车企开始把自己当做服务供应商而非制造商。
+“There’s a transformation in the market where companies are being expected to expand into energy services,” said John Gartner of the consultancy Navigant Research. Companies that get involved in electric-powered mobility will naturally move toward stationary storage, he said.
+“市场发生了变革，企业被寄予了进入能源服务的期望，”咨询公司Navigant Research的约翰·加特纳(John Gartner)说。他表示，进入电动车领域的公司自然会向静态储存的方向发展。
+“They’re looking to expand both markets by getting to economies of scale faster,” Mr. Gartner added.
+“他们希望通过更快形成规模经济来开拓这两个市场，”加特纳说。
+Mr. Luke said that taking the scooter to Amsterdam in the first half of 2016 would provide a platform for demonstrating the role of Gogoro’s scooters and battery stations to new markets.
+陆学森表示，智慧型电动机车将在2016年上半年进入阿姆斯特丹，这会提供一个向新市场展示Gogoro电动机车和电池站所扮演角色的平台。
+“If you think about smart cities in the world today, Amsterdam comes up in the top three, if not the top one,” he said. “We’ve seen a lot of success in Taipei. We’re taking that momentum and building on that to move into Europe quickly.”
+“想到当今世界的智慧型城市，阿姆斯特丹即便不是第一，至少也是前三，”他说。“我们在台北看到了巨大成功。我们正借着这股势头，希望以此为基础迅速进入欧洲。”

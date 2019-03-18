@@ -1,0 +1,52 @@
+For years, Apple’s clout in the electronics world could be gauged by how easy it was to bump into devices tailor-made for a connection to an iPhone or iPod.
+多年来，要衡量苹果(Apple)在电子世界的影响力，只要看有多少设备是专门为了连接iPhone或iPod而定制的。
+Hotels outfitted guest rooms with alarm clocks containing a telltale wedge of 30 tiny pins that could play music from Apple’s devices and charge their batteries. Retail stores were thick with sound docks and other speaker systems meant to work with Apple gadgets.
+酒店为客房配备的闹钟上会包含由30个小针组成的苹果的标志性插头，可以通过它播放苹果设备中的音乐，并给设备充电。零售商店里也摆满了配合苹果设备的底座和其他扬声系统。
+But Apple’s iron grip on the digital accessories in hotel rooms, store shelves and living rooms is starting to slip — potentially risking the royalties it earns from accessory makers and, more significant, giving Apple customers more freedom to switch to rival products. That could be an issue for a company whose stock has been shaken in recent months as investors worry that the iPhone business is slowing.
+但苹果对酒店客房、商店货架和客厅电子配件产品的垄断地位正在开始下滑，这可能会危及它已赢得的配件生产商的许可费，更重要的是，可能会让苹果的消费者有更多自由，转而选择竞争对手的产品。这对苹果公司而言可能会是个问题。最近几个月，因为投资者担心iPhone业务正在放缓，苹果的股票饱受重创。
+Jeremy Horwitz, editor in chief of iLounge, a Web site devoted to Apple accessories, said Apple’s aggressive control over accessories for its products drove many makers to more open means of connecting devices, which helped feed the success of mobile devices made by other companies.
+专注于苹果配件的网站iLounge的主编杰里米·霍维茨(Jeremy Horwitz)称，苹果严格控制自己产品的配件，促使许多配件生产商转向更开放的设备连接方式，促成了其他公司生产的移动设备的成功。
+“At some point Apple’s obsession with having control over everything that is associated with its products may wind up biting it,” Mr. Horwitz said.
+“苹果沉迷于控制和自己产品相关的一切，在某个时刻，它可能终究会因此吃到苦头，”霍维茨说。
+The Bluetooth standard for wireless connections has allowed accessory makers to build products that can work with many kinds of devices because they no longer have to worry about a physical hook. Other phone makers like Samsung and tablet-computing device makers like Amazon have become strong alternatives in the eyes of gadget shoppers.
+无线连接的蓝牙标准使配件生产商能够生产出和多种设备相连的产品，因为他们不用再担心实物接口。在顾客眼里，其他包括三星(Samsung)在内的手机生产商，以及像亚马逊(Amazon)那样的平板电脑设备生产商，都已经变成了强有力的替代产品。
+And Apple itself provided an opening for competitors when it changed the way its phones connect to other devices, aggravating both its business partners and consumers.
+当苹果改变自己的手机与其他设备之间的连接方式时，它自己也为竞争对手提供了机会，而且激怒了商业合作伙伴和消费者。
+Now accessory makers are eager, even obliged, to think beyond Apple.
+如今，配件生产商迫切地，甚至觉得是必须地要去考虑苹果以外的产品。
+“We’ve had to adapt to new technology, support more devices and meet the growing demands of consumers looking for accessories that can accommodate multiple devices,” said Ezra S. Ashkenazi, chief executive of iHome, one of the biggest makers of iPhone clock radios and other Apple audio accessories. This year, iHome is releasing more products with Bluetooth than ever before, he said.
+“我们必须适应新技术，支持更多设备，满足消费者日渐增加的需求，消费者希望找到能适用多种设备的配件，”iHome的首席执行官埃兹拉·S·阿什凯纳齐(Ezra S. Ashkenazi)说。该公司是iPhone收音机闹钟和其他苹果音频配件最大的生产商之一。他说，iHome今年发布的配有蓝牙的产品比以往任何时候都多。
+Apple says it is fine with the wireless direction in which accessories are headed. “Apple provides users with the best wired and wireless connectivity options to work with the broadest range of accessories,” said Tom Neumayr, a spokesman for Apple. “As a result, iOS users have access to the world’s largest ecosystem of options and the most seamless integration with our products.”
+苹果称自己对于配件向无线方向发展毫无意见。“苹果为用户提供的是最好的有线和无线连接选择方案，可连接的配件种类也是最多的，”苹果的发言人汤姆·诺伊迈尔(Tom Neumayr)说。“因此，iOS用户能享受到世界上选择最多的生态系统，也能保证和我们产品最完美的融合。”
+Apple expected some grumbling from customers and partners last fall when it introduced in the iPhone 5 a new way for the mobile phone to connect to other devices. But its executives defended the connector, Lightning, because the new, smaller design allowed for slimmer phones and tablets.
+去年秋天，当苹果在iPhone 5上引入了一种新的手机同其他设备相连的方式时，它料到它会听到消费者和合作伙伴的怨言。但苹果的高管为这个名为闪电(Lightning)的接口进行了辩护，因为这个更小的新设计能让手机和平板电脑更轻便。
+While the 30-pin connector can be plugged into an old iPhone in only one way, a Lightning cable works even if it is flipped over.
+30针的接口只能以一种方向连接一部旧版iPhone手机，而闪电连接线还可以翻转过来使用。
+That change frustrated partners whose customers had invested in products that used Apple’s old 30-pin connector. Those older devices are incompatible with the latest Apple products without an adapter that Apple sells for $29 to connect to the latest Apple products. Also, the new Lightning connectors are more expensive to license and manufacture than the old ones, electronics makers say.
+许多合作伙伴的客户已经购买了使用苹果老版30针接口的产品，对他们来说，这一改变十分令人苦恼。如果不通过转换器连接，苹果的旧设备和最新产品就无法兼容，这种转换器苹果公司售价为29美元（约合178元人民币）。电子产品制造商称，新的闪电接口和旧接口相比，获得许可和生产的成本都更高。
+“A lot of us were bitten pretty badly by the connector transition,” said Ian Geise, senior vice president for marketing and product development at Voxx Accessories Corporation, which makes audio products under RCA, Acoustic Research and other brand names.
+Voxx配件公司(Voxx Accessories Corporation)为美国无线电公司(RCA)、音响研究(Acoustic Research)以及其他品牌制造音频产品，该公司的市场与产品开发高级副总裁伊恩·盖斯(Ian Geise)称，"改变接口让我们很多人都遭到很大损失。"
+Voxx has stopped making audio products with proprietary Apple connectors in them, though it is making a multiroom speaker system that uses AirPlay, Apple’s own technology for wirelessly connecting devices, Mr. Geise said.
+盖斯称，Voxx公司已经停止制造有苹果专属接口的音频产品，但该公司却在使用苹果自己用于无线连接设备的AirPlay技术打造一个跨房间音响系统。
+Logitech, which used to offer an array of speaker docks with the old 30-pin link, has also stopped using Apple connectors and, like many accessory makers, is creating speaker systems that connect to mobile devices over Bluetooth, the short-range wireless technology that is in practically every new mobile phone, tablet and car stereo.
+罗技公司(Logitech)曾生产过一系列不同的30针接口音箱底座，现在也不再使用苹果的接口，该公司和很多配件制造商一样，正在制造用蓝牙连接移动设备的音响系统，蓝牙这种短距离无线技术几乎已经普及到每一部新手机，平板电脑和汽车音响。
+The prevalence of the old Apple connector in accessories was partly a reflection of Apple’s dominance in the MP3 player market with the iPod, a business that is fading as smartphones become more important sources of music.
+苹果产品的旧接口在配件上的普及情况部分反映出苹果iPod在MP3播放器市场上的主导地位，iPod业务随着智能手机变成更重要的音乐播放源而出现萎缩。
+“Even before Apple shifted from the 30-pin connector to Lightning, the market had started shifting,” said Rory Dooley, senior vice president for music at Logitech. “Lightning came in and accelerated some of the change. People wanted to get away from these proprietary connectors.”
+罗技公司音乐部门高级副总裁罗里·杜利(Rory Dooley)说，"即便是在苹果从30针接口转向闪电接口之前，市场就已经开始出现变化。闪电接口的引入加速了一些变化的出现。人们想要摆脱这些专属接口。"
+Apple earns money from accessory makers who must pay royalties, an amount Apple does not disclose, to license Apple’s proprietary connectors for their products through a program Apple calls MFi (as in, Made for iPhone).
+苹果的取财之道还包括配件生产商必须向其缴纳的使用费，但苹果没有透露这一费用的数额。苹果通过一个名为"MFi"（意思是"为i制造"，比如“为iPhone制造”）的项目授权配件产品使用其专有接口。
+Still, it is not clear how much Apple will suffer from accessory makers shunning its connector. Apple’s entire family of iOS devices support Bluetooth, too, so they are just as compatible with wireless speaker systems.
+目前仍不清楚，配件生产商放弃苹果接口会给它们带来多大损失。苹果iOS设备全系列都支持蓝牙，所以这些设备也能和无线音箱系统兼容。
+There is no question consumers are moving toward wireless connections. Last year, American sales of digital speakers with physical docks fell 16 percent to $505 million, while wireless streaming speakers, most of which used Bluetooth, jumped 175 percent to $383 million, according to NPD Group, a research firm that tracks retail sales.
+毫无疑问，消费者都在转向无线连接。据跟踪零售销售数据的研究公司 NPD Group报告，去年，带实体底座的音箱销售额在美国下降了16%，降至5.05亿美元，而无线流媒体音箱（大多数使用蓝牙）的销售额上升了175%，达到3.83亿美元。
+Fewer people who buy sound systems that work only with Apple devices, in theory, could mean fewer obstacles for those interested in switching to competing phones and tablets in the future. And those competitors are gaining ground.
+只和苹果设备兼容的音响系统销量下降，理论上意味着在未来转向竞争品牌的手机或平板的障碍更少。这些竞争者的势力也在不断增强。
+In recent years, Samsung, for example, has gone from a bit player in the mobile phone business to the top dog. Its share of global smartphone shipments in the first quarter grew to 32.7 percent from 28.8 percent a year earlier, while Apple’s fell to 17.3 percent from 23 percent, according to IDC, a market and technology research firm.
+例如，在最近几年，三星从移动手机领域的小角色发展成为大赢家。根据市场和科技研究公司IDC的数据，三星在一季度全球智能手机出货量中的份额上涨到32.7%，其去年同期的数据为28.8%，而苹果的份额从去年同期的23%下降到17.3%。
+Apple, sensing that wireless would replace the physical cables tethering its devices to others, introduced AirPlay several years ago. The technology, which works over Wi-Fi home networks, appears to have gotten the most traction among people who use it to stream music and video into living rooms through Apple TV, a device made by the company that connects to home theater systems.
+苹果意识到无线技术终将取代把其产品和配件束缚在一起的实体连接线，于是该公司在几年前就推出了"AirPlay"技术。该技术在Wi-Fi家庭网络上运行，最喜爱这一技术的人会用它来通过Apple TV在客厅里播放音乐和视频，Apple TV也是苹果公司的产品，用来连接家庭影院系统。
+AirPlay is more common in high-end audio systems, partly because adding the technology contributes significant costs to a product — at least $30 per speaker system or receiver sold, according to one manufacturer.
+AirPlay在高端音响系统中的使用更普遍，这部分是因为添加这项技术会显著增加产品的成本——某生产商说，每卖出一个音箱系统或接收器就至少增加30美元。
+Among the broader electronics industry though, AirPlay has not taken off. “There’s very little support for AirPlay right now,” said Stephen Baker, an analyst at NPD. “It’s expensive. Bluetooth is very cost-effective.”
+但在更广泛的电子行业，AirPlay技术还没有得到普遍运用。"现在对AirPlay的支持很少，"NPD的分析人员斯蒂芬·贝克(Stephen Baker)说。"它很贵。蓝牙技术的成本效益很高。"

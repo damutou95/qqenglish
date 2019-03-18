@@ -1,0 +1,38 @@
+Numbers, addition, multiplication — the basic stuff of grade-school arithmetic — are suddenly the excited talk of cutting-edge mathematicians.
+数字、加法、乘法——这些小学算数知识最近却突然引起一些顶尖数学家的热烈讨论。
+On Aug. 30, with no fanfare, Shinichi Mochizuki, a mathematician at Kyoto University in Japan, dropped onto the Internet four papers.
+8月30日，日本京都大学数学家不声不响地在互联网上发表了四篇论文。
+The papers, encompassing 500 pages and four years of effort, claim to solve an important problem in number theory known as the abc conjecture. (No, it does not involve the alphabet; it has to do with integers and prime numbers, and the letters represent mathematical variables used in equations.)
+这几篇长达500页，包含望月新一(Shinichi Mochizuki)整整四年心血的论文宣称，解决了数学理论领域一个重要问题，这个问题被称作“abc猜想”(abc conjecture)。（注意，猜想和字母表没有任何关系，只和整数和质数有关，这里字母代表的是方程式中的变量。）
+He has remained quiet since then. Others have not.
+论文发表之后，望月新一没有发表任何评论，但其他人却对此议论纷纷。
+“I hope it’s right,” said Minhyong Kim, a mathematician at the University of Oxford in England. “It would be a fantastic breakthrough.”
+“我希望它是正确的，”一位英国牛津大学的数学家金明迥(Minhyong Kim)说，“如果确是如此，那会是一个巨大的突破。”
+What is even more fascinating is that Dr. Mochizuki has devised new mathematics machinery that he employs for the proof.
+更引人注目的是望月博士为了证明这个猜想，还创造出了一套新的数学方法。
+The abstract ideas and notations that mathematicians manipulate are unfathomable to most people. Dr. Mochizuki’s new mathematical language — on his Web page, he describes himself as an “inter-universal geometer” — is at present incomprehensible even to other top mathematicians.
+对大多数人而言，数学家们运用的抽象的概念和表示方法已经十分枯燥乏味了。而目前，望月博士独创的数学语言甚至在其他顶尖的数学家看来，也是晦涩难懂的——在他的网站上，他把自己描述成一个“跨宇宙几何学家”。
+“He’s taking what we know about numbers and addition and multiplication and really taking them apart,” Dr. Kim said. “He creates a whole new language — you could say a whole new universe of mathematical objects — in order to say something about the usual universe.”
+“他用的就是我们所熟知的数字、加法、乘法，但他把这些东西都彻底拆散了。”金博士说，“他发明了一种全新的语言——可以说是一个全新的数学宇宙——来解释这个正常宇宙的问题。”
+Jordan Ellenberg, a University of Wisconsin mathematician who writes a mathematics blog, Quomodocumque, said, “At first glance, it feels like you’re reading something from outer space.”
+数学博客《Quomodocumque》的作家，威斯康星大学(University of Wisconsin)的数学家乔丹·埃伦伯格(Jordan Ellenberg)说，“乍一看，你会感觉你在读天书。”
+Some wonder whether the accolades are coming too soon.
+有些人在怀疑赞誉是否来得太早。
+For other recent mathematical tours de force — the proofs of Fermat’s last theorem, by Andrew Wiles at Princeton in 1995, and the Poincaré conjecture, by Grigory Perelman, a Russian mathematician, in 2003 — other experts could not immediately tell whether the proofs were valid, but “at least in some outline version, they understood how this approach made sense,” said Nets Katz, a mathematician at Indiana University
+近年数学领域的其他成就还有：1995年，普林斯顿大学(Princeton University)的数学家安德鲁·维尔斯(Andrew Wiles) 证明了“费马大定理”(Fermat’s last theorem)；2003年，一位名叫格里戈里·佩雷尔曼的俄罗斯数学家完成了“庞加莱猜想”(Poincaré conjecture)的证明。从这些例子不难看出，其他专家不能立刻得出该证明成立与否的结论，但是“至少从大体上看，他们能理解证明的过程。”印第安纳大学(Indiana University)的数学家内茨·卡茨(Nets Katz)说。
+For Dr. Mochizuki’s abc conjecture proof, “that seems to be completely missing, and I’ve never seen that in my life,” Dr. Katz said. “It just seems a little odd that most of the people who say positive things about it cannot say what are the ingredients of the proof.”
+至于望月博士对“abc猜想”的证明，“那我可完全看不懂，我这辈子从来没见过这样的证明。”卡茨博士说，“但奇怪的是，很多人都对此有积极的评价，但他们中的大多数人却不能说清这个证明的要素是什么。”
+While they cannot yet make heads or tails of it, many are nonetheless taking it seriously, because Dr. Mochizuki already has a number of significant proofs to his credit. “He has a long track record, and he has a long track record of being original,” Dr. Ellenberg said.
+虽然他们还什么都搞不清楚，但还是有许多人对此很认真，因为望月博士已经成功地进行过几次重要的证明。“他成果累累，而且长期以来一直具有独创性。”埃伦伯格博士说。
+Indeed, much of the buzz is around the new techniques the mathematicians do not understand, potentially useful in unraveling similar problems and revealing deeper connections between numbers and geometry.
+的确，很多兴奋的言论都是围绕着数学家们所不理解的，但也许能用来解开相似问题和揭示数字与几何之间更深层次联系的新数学方法。
+“It’s a very basic restriction on how multiplicative properties of numbers can interact with addition,” Dr. Kim said about the abc conjecture. “Somebody might say: ‘Could there be anything new to discover about the relation between addition and multiplication? This is grade-school stuff.’ But there is.”
+“乘法属性和加法属性之间相互作用时存在的限制是很基础的，”金博士在谈及“abc猜想”的时候说，“一些人可能说：‘在加法和乘法之间的关系上还能发现什么新东西？这可是小学的知识。’但是确实是有可能的。”
+The conjecture, first proposed in the 1980s, considers a simple equation of three integers, a + b = c, where the three integers do not share any common divisors other than 1. For example, 1 + 2 = 3 and 81 + 64 = 145 satisfy that condition (but 2 + 2 = 4 does not). The conjecture also ties in the notion of prime numbers — integers greater than 1 that have no positive divisors other than 1 and themselves.
+“abc猜想”在80年代被首次提出，它研究的是一个简单的由三个整数构成的等式：a＋b＝c。等式中三个整数除了1以外没有任何公约数。举例来说，1＋2＝3和81＋64＝145就都满足条件（但2＋2＝4就不满足）。这个猜想还和质数的概念紧紧相关——大于1的整数除了1和它自身以外，没有任何正约数。
+“The conjecture says roughly that if there are prime numbers that divide either a or b too many times, then their presence has to be ‘balanced out’ by largish primes that divide c only a few times,” Dr. Kim said. “We see 3 divides 81 four times, and 2 divides 64 six times. But then, 145 equals 5 times 29, so you get the larger primes 5 and 29 dividing 145 just once.”
+“这个猜想的大意是，如果有质数能够多次约掉a或b，那么它们一定会被一个更大的，只可以约掉c几次的质数‘衡消’掉，”k博士说，“我们可以看到81能被3约四次，然后64能被2约六次，但是，145等于5乘以29,所以你能得到两个更大的质数5和29就只能约145一次。”
+As mathematicians learn Dr. Mochizuki’s new language, the proposed proof will take months or years of careful review, not just the 500 pages that Dr. Mochizuki just released but also reams of earlier work over the past dozen years.
+数学家们现在还在学习望月博士的新语言，所以他提交的证明则需要几个月甚至是几年的时间来进行一个细致的检查。需要检查的不仅是望月博士发布的500页论文，还有他在过去十几年中所作的大量的前期准备。
+“I’m very tentative about almost anything I say about it, because it’s such a long and technical paper,” Dr. Kim said. “It will take a long time to say something intelligent. It will take a while before we even have a general picture of the situation.”
+“我对我自己的话没有任何把握，因为这是一篇如此冗长而又高深的论文，”金博士说，“要等很长时间，才会出现有见地的评论。哪怕只是要我们对它形成一个大体的印象，就会耗费相当的时间。”

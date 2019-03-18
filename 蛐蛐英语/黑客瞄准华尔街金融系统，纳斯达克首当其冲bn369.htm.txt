@@ -1,0 +1,44 @@
+The indictment on Thursday of a long-running hacking ring is kindling fears that rogue programmers are going beyond theft and developing the capacity to wreak havoc on the broader financial system.
+周四，一个存在了很长时间的黑客团队遭受指控，而该案致使人们担心，那些胡作非为的程序员不仅可以进行偷窃，还获得了在大范围内严重破坏金融系统的能力。
+Five Eastern European computer programmers were charged by the United States attorney in New Jersey with hacking into the servers of more than a dozen large American companies and stealing 160 million credit card numbers in what the authorities called the largest hacking and data breach case ever.
+新泽西州的联邦检察官指控5名东欧电脑程序员侵入美国十多家大型企业的服务器，盗取了1.6亿个信用卡号码。当局称，这是迄今为止最大的黑客攻击及数据外泄案件。
+But one company had nothing to do with credit cards or bank accounts: Nasdaq.
+但有一家公司与信用卡或银行账户并无关联：纳斯达克(Nasdaq)。
+In a separate indictment unsealed in federal court in New York, one of the men, Aleksandr Kalinin of Russia, was charged with having gained access for two years to the servers of the Nasdaq stock exchange.
+另外在对纽约州联邦法院提交的起诉书中，其中一名程序员——来自俄罗斯的亚历山大·加里宁(Aleksandr Kalinin)被控在两年的时间里侵入纳斯达克证券交易所的服务器。
+While Mr. Kalinin never penetrated the main servers supporting Nasdaq’s trading operations — and appears to have caused limited damage at Nasdaq — the attack raised the prospect that hackers could be getting closer to the infrastructure that supports billions of dollars of trades each hour.
+虽然加里宁从未进入支持纳斯达克交易操作的主服务器，似乎只给该交易所带来有限的损失，但他的入侵行为说明，黑客可能正在接近那些每小时支持数十亿美元交易的基础设施。
+“As today’s allegations make clear, cybercriminals are determined to prey not only on individual bank accounts, but on the financial system itself,” Preet Bharara, the top federal prosecutor in Manhattan, said in announcing the case.
+驻曼哈顿的首席联邦检察官普里特·巴拉拉(Preet Bharara)介绍该案时表示，“就像今天的指控明确表明的那样，网络罪犯们下定决心，不仅要盗取个人银行账户，还要把金融系统本身当做猎物。”
+It is a pivotal moment, just a week after a report from the World Federation of Exchanges and an international group of regulators warned about the vulnerability of exchanges to cybercrime. The report said that hackers were shifting their focus away from stealing money and toward more “destabilizing aims.”
+这是一个关键时刻，就在一周之前，世界交易所联合会(World Federation of Exchanges)与一家国际监管组织联合发布了一份报告，对交易所面对网络犯罪的脆弱性发出警告。报告称，黑客们正将焦点从偷钱转向更具“破坏性的目标”。
+In a survey conducted for the report, 89 percent of the world’s exchanges said that hacking posed a “systemic risk” to global financial markets. “A presumption of safety (despite the reach and size of the threat) could open securities markets to a cyber ‘black swan’ event,” the report said.
+在为该报告所做的调查中，全球89%的交易所称，黑客攻击给全球金融市场带来“系统性风险”。报告称，“不顾威胁的影响与规模，就假定系统是安全的，这可能会让证券市场遭遇网络‘黑天鹅’事件。”
+At a Senate hearing on cybersecurity on Thursday, a representative of several financial industry groups, Mark Clancy, said that “for the financial services industry, cyberthreats are a constant reality and a potential systemic risk to the industry.”
+周四，在一场有关网络安全的参议院听证会中，几家金融行业协会的代表马克·克兰西(Mark Clancy)表示，“对于金融服务行业来说，网络威胁是一个持续存在的现实问题，可能会对这个行业带来系统性风险。”
+Over the last few years, accidental technological mishaps at the trading firm Knight Capital and the Nasdaq and BATS stock exchanges have revealed how even isolated programming errors can quickly ripple through the markets, causing significant losses in minutes.
+在过去几年中，骑士资本(Knight Capital)交易公司、纳斯达克及BATS证券交易所偶然出现的技术故障说明，即便是单一的程序设计错误也能够迅速影响市场，在几分钟内造成重大损失。
+The exchanges have been bolstering their defenses and their preparations for an assault on their computer systems. On July 18, an industry group led an exercise, referred to as Quantum Dawn 2, in which the exchanges and other financial firms responded to a simulated attack on the nation’s stock markets.
+各个交易所均已加强了防御及准备工作，以抵抗针对其计算机系统的攻击。7月18日，一家行业协会牵头举行了代号为“量子黎明2”(Quantum Dawn 2)的演习。在此次演习中，各家交易所及其他金融机构采取措施应对针对美国股票市场的模拟攻击。
+The attack on Nasdaq is far from the first time an exchange has been singled out by hackers. In a survey conducted for the World Federation of Exchanges report, 53 percent of all exchanges said they had experienced a cyberattack during the last year.
+此次对纳斯达克的攻击绝不是黑客首次把交易所作为目标。为世界交易所联合会的报告所做的调查显示，全部交易所中，有53%表示过去一年中经历过网络攻击。
+This year, the Prague Stock Exchange and several Czech banks were reportedly disabled for a brief time by an attack.
+有报道称，布拉格证券交易所(Prague Stock Exchange)及数家捷克银行今年因受到攻击而瘫痪了一小段时间。
+The public-facing Web sites of a number of American exchanges have been hacked. Just last week, Nasdaq said that hackers had gained access to the passwords of people using one of its online forums. Its sites were breached in October 2010, too. At the time, the exchange said the breach affected a single system, known as Directors Desk, used by company board members to exchange confidential information.
+数家美国交易所面向公众的网站曾遭黑客入侵。就在上周，纳斯达克表示，黑客利用公司旗下的一个在线论坛获得了用户密码。2010年10月，公司网站也曾被攻破。当时，纳斯达克承认，此事影响到了一个名为“董事办公桌”(Directors Desk)的系统，也就是企业董事用来交换机密信息的系统。
+The indictments unsealed on Thursday indicate a more wide-ranging scheme that prosecutors say gave Mr. Kalinin and his accomplices access to an unknown amount of information on numerous Nasdaq servers.
+周四公开的起诉书展现出的计划涉及更大范围。检方认为，加里宁及其同伙可以接触到纳斯达克诸多服务器上的海量数据。
+They were able to “execute commands on those servers, including commands to delete, change or steal data,” according to the indictment in Manhattan court.
+曼哈顿联邦法院收到的起诉书中写道，他们有能力“在这些服务器上执行指令，包括删除、篡改和窃取数据的指令”。
+At certain points they had enough information to “perform network or systems administrator functions” on the servers, the New Jersey indictment said. Mr. Kalinin had access to the servers, intermittently, until October 2010, according to the Manhattan indictment. Nasdaq discovered the breach itself and alerted the authorities, according to a person briefed on the investigation.
+新泽西联邦法院收到的起诉书则显示，他们一度掌握了足够的信息来在服务器上“执行网络或系统管理员功能”。曼哈顿的起诉书指控，加里宁时断时续地拥有进入这些服务器的能力，直到2010年10月。知情人士披露，纳斯达克自己发现了入侵情况，并上报给有关当局。
+A spokesman for Nasdaq said the company had no comment on the case.
+纳斯达克发言人表示，公司对本案不予置评。
+Paul M. Tiao, a former senior adviser on cybersecurity at the Federal Bureau of Investigation, said the Nasdaq breach was worrying because the servers the defendants attacked could have eventually provided an entryway to the more closely guarded trading systems.
+曾任联邦调查局(Federal Bureau of Investigation)网络安全高级顾问的保罗·M·邵(Paul M. Tiao)称，纳斯达克被攻破一事之所以令人担忧，是因为被告攻击的服务器有可能最终提供一条进入安保更严密的交易系统的途径。
+“This is the beginning of the process through which you can imagine that some bad actors would find their way into much more sensitive infrastructure,” said Mr. Tiao, now a partner at the law firm Hunton & Williams. “This is a significant cause for concern.”
+保罗·M·邵目前是何威律师事务所(Hunton & Williams)的合伙人，他说，“这只是一个开头，你可以想象，某些坏分子将找到办法，攻入敏感得多的基础设施中。这应该引起人们的严重关切。”
+The indictment from the United States attorney in New Jersey, which included information on the Nasdaq breach, said that Mr. Kalinin, who went by the nicknames Grig and Tempo, first cracked Nasdaq’s systems in late 2007 using so-called SQL injections. This technique infects a computer system with malicious software that in turn allows the attackers to steal or manipulate the contents of the system.
+新泽西的联邦检察官递交的起诉书中包含纳斯达克遭遇入侵的相关信息。该文件称，绰号Grig和Tempo的加里宁于2007年末利用所谓的“SQL注入攻击”首次攻破了纳斯达克的系统。这项技术利用恶意软件感染计算机系统，从而允许攻击者窃取或篡改系统内容。
+When an accomplice in Florida asked about attacking Nasdaq, Mr. Kalinin wrote on instant message: “NASDAQ is owned.”
+当佛罗里达州的一名同伙问及攻击纳斯达克一事的时候，加里宁通过即时信息回答：“纳斯达克是我的了。”

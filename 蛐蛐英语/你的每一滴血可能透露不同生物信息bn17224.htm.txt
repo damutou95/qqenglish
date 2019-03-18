@@ -1,0 +1,18 @@
+As diagnostic tests rely on ever-tinier amounts of blood, some scientists are striking a note of caution. As it turns out, not all drops of blood are identical.
+随着诊断化验所需的血量越来越微小，一些科学家对此提出了警告。事实上，并非所有的血滴都是一模一样的。
+Bioengineers at Rice University recently found that different drops from single fingerpricks on multiple subjects varied substantially on results for basic health measures like hemoglobin, white blood cell counts and platelet counts.
+莱斯大学的生物工程学者近期发现，检测来自单次手指采样的不同血滴，获得的血红蛋白、白细胞计数和血小板计数等基本健康指标存在显著差异。这一现象见于多位研究对象。
+Their study was published in The American Journal of Clinical Pathology.
+这项研究发表在了美国临床病理学杂志。
+To get results as accurate as those achieved by the traditional method — inserting a needle into an arm vein — the investigators had to average the results of six to nine drops, said Rebecca Richards-Kortum, the director of Rice 360°: Institute for Global Health Technologies, which did the research.
+传统采血方法是将针头插入臂部静脉，为了尽可能取得与此一致的结果，研究者们需要将来自6到9个血滴的化验结果进行平均，Rebecca Richards-Kortum说。由她领导的莱斯360°：全球健康技术研究院进行了这项研究。
+The investigators were careful not to squeeze or “milk” the subjects’ fingers, which has been known to invalidate results, said Meaghan Bond, the Rice bioengineering student who did the study with Dr. Richards-Kortum.
+研究者们谨慎避免捏挤实验对象的手指，防止像挤牛奶那样得到血样，否则会让结果作废，Meaghan Bond说。她在莱斯大学学习生物工程，和Richards-Kortum博士一起参与了这项研究。
+Instead, the researchers used long lancets. But some subjects still had to be excluded because they stopped bleeding too quickly.
+研究者用长柳叶刀代替了传统采血工具，但仍有一些实验对象由于止血速度过快不得不被排除在外。
+In poor countries, clinics in remote areas are eager for tests that can be done rapidly and without electricity, especially when no one trained to pierce veins is available. Donors like the Bill & Melinda Gates Foundation support numerous “lab in a box” or “lab on a chip” efforts to detect diseases like sickle-cell anemia, H.I.V. and malaria.
+在贫困国家，偏远缺电的诊所非常希望可以快速完成化验，特别是在没有人接受过静脉穿刺训练的情况下。例如比尔及梅琳达·盖茨基金会这样的捐助者为“盒装实验室”或“芯片实验室”等成果提供了支持，以检测镰刀细胞贫血症，艾滋病毒感染和疟疾等疾病。
+For patients in wealthy countries who fear needles or could benefit from point-of-care tests, companies like Theranos are miniaturizing collection vials and trying to do numerous tests on them — not always successfully.
+针对富裕国家那些恐惧针头的患者，或者得益于即时床边检测的患者，诸如Theranos这样的公司正在研发微型采血试管，并尝试对其进行多种试验，结果时有失败。
+“If you’re going to take a fingerprick stick to get your measures, you need to be aware that you’re sacrificing some accuracy,” Ms. Bond said.
+“如果想要通过手指采血来获得你的各项指标，需要注意的是，你会牺牲掉牺牲部分精确性，”Bond说。

@@ -1,0 +1,48 @@
+LONDON — Alan Rusbridger, the mop-haired, soft-spoken editor of The Guardian newspaper, finds himself in a shadowy battle with the British government over purloined secrets that the government will have a hard time winning in the Internet age.
+伦敦——头发蓬乱、说话温和的《卫报》(The Guardian)总编艾伦·拉斯布里杰(Alan Rusbridger)发现自己因为失窃的机密陷入一场与英国政府的暗斗，而在网络时代，政府将很难在这场斗争中获胜。
+The Guardian, which leans left and used to see itself as the voice of Britain’s socially conscious middle class, has struck a more combative tone in the last few years. It was deeply involved in publishing the WikiLeaks material and with that organization’s impresario, Julian Assange, and now with the lawyer Glenn Greenwald and the former National Security Agency contractor, turned leaker, Edward J. Snowden.
+左倾的《卫报》过去常常把自己视为英国具有社会意识的中产阶级的代言人，该报在过去几年中开始用更具战斗性的调子，曾深度卷入维基解密(WikiLeaks)资料的发表以及与维基解密的负责人朱利安·阿桑奇(Julian Assange)有关的事情，现在又卷入与律师格伦·格林沃尔德(Glenn Greenwald)以及由美国国家安全局(National Security Agency)承包商前雇员摇身变为泄密者的爱德华·J·斯诺登(Edward J. Snowden)的事情。
+Having gone global and remained free to readers on the Web, with a newsroom in New York as well as in London, The Guardian is a much harder news organization than most to intimidate or censor, as the British government, with no written Constitution or Bill of Rights to enshrine protections of free speech, has discovered.
+《卫报》已经实现全球化，其网站继续让读者免费浏览，该报在纽约和伦敦均设有新闻编辑部。正如英国政府所发现的，《卫报》比大多数新闻机构都更难威胁、更难审查。英国没有成文的宪法(Constitution)或《权利法案》(Bill of Rights)庄严保护言论自由。
+But the tale of the last two months, as Mr. Rusbridger tells it, at least, is an extraordinary one of attempted political interference. Agents of the British government descended on The Guardian’s offices to monitor three executives as they physically destroyed computer hard drives containing some of the classified material that Mr. Snowden downloaded from American intelligence databases and gave to Mr. Greenwald and others.
+但是，至少从如拉斯布里杰所讲的来看，过去两个月发生的是一个政府企图政治干预的离奇故事。英国政府的特工突然来到《卫报》的办公室，监督三名主管对计算机硬盘做出物质上的消灭，因为硬盘上存有一些斯诺登从美国情报数据库下载的机密资料，斯诺登把资料交给了格林沃尔德和其他人。
+“You have powerful protections in America that we don’t,” Mr. Rusbridger, 59, said Tuesday in an interview after publishing an op-ed article in his paper describing some of the government’s actions.
+周二，59岁的拉斯布里杰在自己的报纸发表了专栏文章，描述了政府的这些行动，之后他在采访中说，“在美国，你们(对言论自由)有强有力的保护，而我们没有。”
+In conversations with him, the British government threatened the paper with “prior restraint,” he said, to stop it from publishing material, and then demanded that The Guardian return or destroy the classified material it was holding.
+拉斯布里杰称，英国政府在与他交谈时，威胁称要对《卫报》进行“事先限制”，阻止该报公布资料，政府还要求该报归还或销毁所持有的机密资料。
+“It was quite explicit: we had to destroy it or give it back to them,” Mr. Rusbridger said in an earlier interview with the BBC. “I explained that there were other copies, not within the U.K., so I couldn’t see the point of destroying one copy. But because we had other copies I was happy to destroy a copy in London.”
+“要求非常明确，我们必须销毁资料，或者将资料还给他们，”拉斯布里杰在此前接受BBC采访时表示。“我解释说，资料还有其他备份，不在英国，因此我不明白销毁一个备份有什么意义。但正因为我们还有其他备份，我很情愿地销毁了我们在伦敦的备份。”
+The United States has sought the extradition of Mr. Snowden, now in Russia, but it has not acted to restrain newspaper publication or gone into newspaper offices to seize or destroy files and hard drives, as in Britain.
+美国政府一直寻求引渡斯诺登，他目前在俄罗斯，但美国没有像英国那样，采取行动限制报纸发表文章，或进入报社没收或销毁文件和硬盘。
+Mr. Rusbridger, Guardian editor since 1995, said he was prompted to describe the government’s actions after the British police detained Mr. Greenwald’s partner, David Michael Miranda, at Heathrow Airport on Sunday, on his way home from Berlin to Rio de Janeiro. Mr. Miranda had met another of those aiding Mr. Snowden, the filmmaker Laura Poitras, and was carrying encrypted material from her back to Mr. Greenwald in Brazil.
+拉斯布里杰自1995年开始担任《卫报》的总编辑，他表示，英国警方于周日在希思罗机场(Heathrow Airport)扣留了格林沃尔德的伴侣戴维·迈克尔·米兰达(David Michael Miranda)的事情，促使他发表文章描述政府对报社采取的行动。当时米兰达是在从柏林返回他居住的里约热内卢的途中。米兰达曾与另一位帮助斯诺登的人、电影制作人劳拉·普瓦塔斯(Laura Poitras)见面，他随身携带着普瓦塔斯转交给住在巴西的格林沃尔德的加密资料。
+Mr. Miranda, a Brazilian, was held in the transit area of the airport under Schedule 7 of Britain’s Terrorism Act 2000 for the legal maximum of nine hours; he was questioned and his electronic equipment seized before being released without charges.
+警方根据《2000 年反恐怖法》(Terrorism Act 2000)第7条款将巴西籍的米兰达扣留在机场的转机区，时间长达9个小时，这是法律允许的最长扣留时间。他接受了讯问，他的电子设备被没收。后来，警方没有对米兰达作出指控，而将其释放。
+He and Mr. Greenwald intend to file a lawsuit over the detention, Mr. Rusbridger said, “because it’s not clear that he was actually committing any offense in carrying material through Heathrow.”
+拉斯布里杰表示，米兰达和格林沃尔德打算就扣留一事提起诉讼，“因为他携带资料经过希斯罗机场是否构成犯罪行为并不清楚。”
+The British government has defended the detention. After saying little on Sunday or Monday, a Home Office spokeswoman said that the police had been looking for “stolen information” that could be of use to terrorists.
+英国政府为拘留一事进行辩解。英国内政部(Home Office)在周日和周一曾一度对此事评论甚少，这之后，一位女发言人表示，警方是在寻找可能对恐怖分子有用的“被盗信息”。
+“If the police believe that an individual is in possession of highly sensitive stolen information that would help terrorism, then they should act, and the law provides them a framework to do that,” the spokeswoman said. “Those who oppose this sort of action need to think about what they are condoning.”
+这名女发言人说，“如果警方认为，一个人持有有助于恐怖主义的高度敏感的被盗信息，那就应该采取行动，法律为他们提供了采取行动的准则。那些反对警方行动的人需要想想他们在支持什么。”
+The prime minister’s office was kept informed, as was the American government, which denied having asked Britain to take any action against Mr. Miranda.
+首相办公室及美国政府都已获悉此事，后者否认曾要求英国采取针对米兰达的行动。
+Mr. Rusbridger sees the detention as an act of intimidation.
+拉斯布里杰认为扣留米兰达是一种恐吓行为。
+Using terrorism legislation that “offers none of the protections that exist in mainland Britain is quite a disturbing new turn,” he said.
+他表示，利用“英国本土没有提供上述保护的反恐立法是一个令人不安的新变化。”
+Mr. Rusbridger said that two months ago he was contacted by “a very senior government official claiming to present the views of the prime minister,” David Cameron. There were two meetings in which officials “demanded the return or the destruction of the material we were working on,” and in other meetings, he said, officials said: “You’ve had your fun, now we want the stuff back,” and, “You’ve had your debate, there’s no need to write any more.”
+拉斯布里杰说，两个月前，“一名声称代表首相戴维·卡梅伦(David Cameron)的高级官员”曾与他联系。他说他们见了两次面，官方“要求(报社)归还或销毁我们正在分析的资料”。在与政府的其它接触中，官员曾说，“你们已经玩够了，现在我们想收回这些资料了”，还说，“你们展开过你们的辩论了，没必要再写文章了。”
+The officials then threatened legal action to obtain the documents. Then two security experts from Britain’s Government Communications Headquarters, known as G.C.H.Q., the counterpart to the American National Security Agency, came to oversee the destruction of hard drives in The Guardian basement by Guardian executives, Mr. Rusbridger said.
+后来，官员威胁要采取法律行动收缴文件。拉斯布里杰表示，英国的政府通讯总部（Government Communications Headquarters，简称GCHQ）派了两名安全专家来到《卫报》地下室监督该报主管销毁硬盘。GCHQ相当于美国的国家安全局(National Security Agency)。
+He called it “one of the most bizarre moments in The Guardian’s long history.”
+他称这是“《卫报》悠久的历史上，最奇怪的时刻之一”。
+Efforts to prevent publication of Snowden-related material began on June 7, when defense officials issued a confidential notice to newspapers and broadcasters in an attempt to limit the coverage of Mr. Snowden’s revelations about surveillance tactics employed by intelligence agencies in Britain and the United States.
+国防官员于6月7日开始了他们阻止斯诺登提供资料得到公开的努力，官方向报纸和广播公司发出秘密通知，试图限制有关斯诺登泄密的报道，斯诺登提供的资料揭露了英美情报机构所使用的监听监视手段。
+Editors were reminded not to publish information that could “jeopardize both national security and possibly U.K. personnel.” The notice followed The Guardian’s first publication of details of the American intelligence-gathering program called Prism.
+编辑们被告知不要发布会“危及国家安全及可能危及政府人员安全”的信息。这个通知是在《卫报》首次公布了有关美国情报收集项目——“棱镜”(Prism)的细节后发出的。
+Now, it is not just the opposition Labour Party that is questioning the use of the terrorism laws in this case to seize material intended for journalism, which in countries like the United States would be under more legal protection. David Davis, a Conservative member of Parliament, said that the responses of the Home Office fail “Logic 101.”
+现在，不仅反对党工党(Labour Party)对利用反恐法没收提供给新闻机构的资料的做法表示质疑，在美国这样的国家中，新闻报道资料有更多的法律保护。就连保守党议员戴维·戴维斯(David Davis)都表示，内政部的回应不符合“基本逻辑”。
+“’If you’re not on our side, you’re on the side of the terrorists,’ is what they’re trying to say,” Mr. Davis said.
+戴维斯说，“他们好像在说，‘如果你不支持我们，你就是支持恐怖分子。”
+Robert Wintemute, a professor of human rights law at King’s College, London, said that “I hope this is an aberration rather than a signal of a wider clampdown” on press freedom and human rights. “I do think Greenwald and Miranda should bring this to court, because winning in court will rein in the government’s powers,” he said.
+伦敦国王学院(King's College London)人权法教授罗伯特·温特缪特(Robert Wintemute)表示，“我希望这是一个反常行为，而不是一个广泛限制新闻自由及人权的信号。”他说，“我确实认为，格林沃尔德和米兰达应该诉诸法律，因为胜诉会使政府的权力受到限制。”

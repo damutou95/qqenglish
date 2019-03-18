@@ -1,0 +1,36 @@
+Astronomers said on Wednesday that they had discovered a lost generation of monster stars that ushered light into the universe after the Big Bang and jump-started the creation of the elements needed for planets and life before disappearing forever.
+天文学家在周三表示，他们发现了失踪的一代巨型恒星，是它们在宇宙大爆炸之后将光照入宇宙，并在永远消失之前，瞬间启动了星球及生命所需要的所有元素的创造。
+Modern-day stars like our sun have a healthy mix of heavy elements, known as metals, but in the aftermath of the Big Bang only hydrogen, helium and small traces of lithium were available to make the first stars.
+太阳等现代恒星拥有大量重元素，也就是金属元素，但在宇宙大爆炸之后，构成第一代恒星的元素只有氢、氦和少量锂。
+Such stars could have been hundreds or thousands of times as massive as the sun, according to calculations, burning brightly and dying quickly, only 200 million years after the universe began. Their explosions would have spewed into space the elements that started the chain of thermonuclear reactions by which subsequent generations of stars have gradually enriched the cosmos with elements like oxygen, carbon and iron.
+根据计算，此类恒星的质量可能是太阳质量的数百或数千倍，这些形成于宇宙大爆炸后2亿年的恒星猛烈燃烧，迅速消失。它们的爆炸应该向太空喷射了开启一系列热核反应的元素，后续的几代恒星通过热核反应逐渐为宇宙增添氧、碳、铁等元素。
+Spotting the older stars in action is one of the prime missions of the James Webb Space Telescope, to be launched by NASA in 2018. The discovery of such stars “would be wonderful,” James Peebles, a Princeton professor and one of the fathers of modern cosmology, said recently.
+寻找有活动的古老恒星是美国国家航空航天局(NASA)詹姆斯·韦伯太空望远镜的主要任务之一，该望远镜将于2018年发射。普林斯顿大学(Princeton)教授詹姆斯·佩布莱斯(James Peebles)最近表示，发现此类恒星“会是一件非常美妙的事情”，他是现代宇宙学奠基人之一。
+Now, in a paper to be published in The Astrophysical Journal, an international crew of astronomers led by David Sobral of the University of Lisbon, in Portugal, and the Leiden Observatory, in the Netherlands, said they had spotted the signature of these first-generation stars in a recently discovered galaxy that existed when the universe was only about 800 million years old. Its light has been traveling to us for 12.9 billion years, while succeeding generations of stars have worked their magic to make the universe interesting.
+在《天文物理期刊》(The Astrophysical Journal)即将刊登的一篇论文中，由葡萄牙里斯本大学(University of Lisbon)的戴维·索夫拉尔(David Sobral)、荷兰莱顿天文台(Leiden Observatory)带领的国际天文学家小组表示，他们在最近发现的星系中找到了第一代恒星的识别标志，该星系在宇宙只有大约8亿年历史的时候就出现了。该星系发出的光用了129亿年才到达地球，在此期间，后续的几代恒星施展魔法，让宇宙变得有趣。
+The galaxy, known as CR7, is three times as luminous as any previously found from that time, the authors said. Within it is a bright blue cloud that seems to contain only hydrogen and helium.
+作者表示，这个被称为CR7的星系的亮度是之前发现的同期星系的亮度的三倍。该星系里面是一个似乎只包含氢和氦的亮蓝色星云。
+In an email, Dr. Sobral called this the first direct evidence of the stars “that ultimately allowed us all to be here by fabricating heavy elements and changing the composition of the universe.”
+索夫拉尔在邮件中称，这是第一个直接证明这些恒星“通过创造重元素，改变宇宙的构成，最终使得我们得以存在”的证据。
+In a statement from the European Southern Observatory, he said, “It doesn’t really get any more exciting than this.”
+在欧洲南方天文台(European Southern Observatory)发表的声明中，他表示，“没有什么比这个更令人激动的了。”
+Garth Illingworth, an astronomer at the University of California, Santa Cruz, and a veteran of the search for early galaxies, pointed out, however, that these stars were appearing far later in cosmic history than theory had predicted.
+但加州大学圣克鲁斯分校(University of California, Santa Cruz)天文学家加思·伊林沃思(Garth Illingworth)指出，这些恒星在宇宙历史中出现的时间比理论预测的时间要晚得多。伊林沃思在寻找早期星系方面有丰富的经验。
+Dr. Sobral and his colleagues were using the Very Large Telescope of the Southern Observatory in Chile and the W. M. Keck Observatory in Hawaii, among other big telescopes, to build on an earlier search for glowing clouds of hydrogen that might represent very early galaxies. Galaxy CR7 — short for Cosmos Redshift 7, after the method by which distant objects in the universe are dated — stood out.
+索夫拉尔和他的同事利用南方天文台在智利设置的甚大望远镜(Very Large Telescope)、夏威夷的W·M·凯克天文台(W. M. Keck Observatory)及其他大型望远镜，继续之前寻找由氢组成的发光星云的工作，这些星云可能代表着早期的星系。他们发现了CR7星系——宇宙学红移值为7的天体(Cosmos Redshift 7)的缩写，得名于追溯宇宙中遥远物体所使用的方法。
+In an expanding universe, the farther away or back in time an object is, the faster it is receding, which causes the wavelength of light from it to lengthen, the way the pitch of a siren sounds lower after it passes. In astronomy, this lengthening is known as redshifting.
+在不断膨胀的宇宙中，一个物体越久远，消失的速度就越快，这导致物体发出的光的波长变长，就像救护车呼啸经过后，警报器的音高会逐渐降低。在天文学上，这种延长被称为红移。
+The galaxy’s name, Dr. Sobral said, was also inspired by the great Portuguese soccer player Cristiano Ronaldo, a.k.a. CR7.
+索夫拉尔表示，该星系的名称——CR7还受到葡萄牙优秀的足球运动员克里斯蒂亚诺·罗纳尔多(Cristiano Ronaldo)的启发。
+As in much of astronomy, the nomenclature of these star generations is awkwardly rooted in history and Earth-centered. Modern stars like the sun, with healthy abundances of so-called metals (anything heavier than helium), are now called Population I, mainly because they were the first known. They mostly inhabit the spiral arms and younger parts of galaxies like the Milky Way.
+在天文学的主要领域，各代恒星的命名都尴尬地遵从历史，是以地球为中心的。太阳等现代恒星拥有充裕的金属元素（比氦重的物质），它们现在被称为第一星族(Population I)，主要是因为它们是首批被发现的恒星。它们主要位于银河系(Milky Way)等星系的旋臂和年轻星团中。
+In the middle of the 20th century, however, the astronomer Walter Baade noticed that the stars in older parts of the galaxy, like its core or globular clusters, are older and have fewer metals. He called them Population II.
+但在20世纪中叶，天文学家瓦尔特·巴德(Walter Baade)注意到，该星系的古老星团——比如它的核心星团或球状星团——中的恒星年代更为久远，金属元素更少。他称之为第二星族(Population II)。
+The advent of the Big Bang theory of the origin of the universe forced astronomers to realize that the first stars must have had no metals at all; those are known as Population III.
+有关宇宙起源的大爆炸理论的出现，迫使天文学家认识到，第一代恒星肯定不包含金属元素；它们被称为第三星族(Population III)。
+Stars of both Population II and Population III are probably present in CR7, Dr. Sobral and his team report. While the blue cloud is metal-free, according to spectral measurements, the color of the rest of the galaxy is consistent with more evolved stars making up most of its mass. This suggests, they write, that the Population III stars there are late bloomers of a sort, forming from leftover clouds of pristine material as the galaxy was sending out its light 12.9 billion years ago.
+索夫拉尔和他的团队报告称，CR7星系中可能存在第二星族和第三星族的恒星。虽然根据光谱测量，这个蓝色星云不包含金属元素，但该星系剩余部分的颜色与演化程度较高的、构成其大部分质量的恒星一致。他们写道，这说明该星系中的第三星族恒星形成较晚，由该星系129亿年前发出光线时的崭新物质的残余星云发展而成。
+The only alternative explanation, Dr. Sobral said, is something so spectacular and unlikely that astronomers do not know if it has ever happened, namely a primordial cloud bypassing the star stage and collapsing directly into a black hole. That, he noted, is impossible to rule out because nobody really knows what it should look like.
+索夫拉尔表示，除此之外的唯一解释是，发生了一些惊人的、意想不到的事，天文学家还不知道这种事是否发生过，那就是原始星云越过恒星阶段，直接坍缩为黑洞。他指出，不能排除这种可能性，因为没人真的知道它看上去是什么样子。
+Further observations with the Hubble Space Telescope and the James Webb could help resolve the issue.
+利用哈勃太空望远镜和詹姆斯·韦伯太空望远镜进一步观察或许有助于这个问题的解决。

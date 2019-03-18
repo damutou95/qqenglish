@@ -1,0 +1,52 @@
+SAN FRANCISCO — Apple’s iTunes has grown stale. It is difficult to use and feels dated when compared with online music services like Spotify and Pandora. Pick your critique, and Apple has heard it.
+旧金山——苹果(Apple)的iTunes越来越老迈。它很难用，而且和Spotify、Pandora等其他在线音乐服务平台相比，感觉已经过时了。提出你的评论吧，苹果已经听到了。
+But an overhaul of Apple’s music products, which includes an integration of the Beats music service that the Cupertino, Calif., company acquired last year for $3 billion, shows that Apple, if anything, knows it has to grab attention while playing catch-up.
+但苹果音乐产品的大幅改革——包括整合去年出资30亿美元（约合190亿元人民币）收购的Beats音乐服务——表明苹果其实知道，自己必须在迎头赶上的同时吸引注意力。
+In a thoroughly choreographed presentation at Apple’s annual conference for software developers, celebrities including the movie director J. J. Abrams and the rapper Drake helped Apple on Monday perform the nifty trick of matching competitors like Google and Spotify while still appearing to be on the cutting edge of the tech scene.
+周一，在苹果面向软件开发者的年会上，包括电影导演J·J·艾布拉姆斯(J.J. Abrams)和说唱歌手德雷克(Drake)在内的名人，在一场精心安排的演示中帮助苹果完成了一次聪明的宣传，显示苹果在与谷歌(Google)和Spotify等竞争对手旗鼓相当的同时，看上去依然处在科技领域的前沿。
+“We weren’t the first phone, we weren’t the first music player. That’s not where revolutions are made,” Eddy Cue, Apple’s head of software and Internet services, said in an interview after the event. “Revolutions are about bringing it all together and having the best product that actually works.”
+“我们不是世界上第一款手机，也不是世界上第一款音乐播放器。变革不在于这些，”苹果的软件和互联网服务负责人艾迪·库伊(Eddy Cue)在会后接受采访时说。“变革是要把一切整合起来，要有一个真的好用的最佳产品。”
+The new music service was one part of a wide-ranging slate of announcements. Apple detailed new versions of its software systems for iPhones, iPads and Macs, offering features like public transit directions to its mapping software — a feature that Google and other mapping providers have supported for many years.
+新版音乐服务是一系列新推出产品的一部分。苹果详细介绍了面向iPhone、iPad和Mac的新版软件系统，提供的功能包括地图软件的公共交通路线——谷歌和其他地图供应商多年前就已支持该功能。
+For years, Apple’s strategy for selling iPhones and Macintosh computers has been to offer exclusive, high-quality software as a lure to reel people into buying its hardware. But the quality of its software started to slip last year, when the latest versions of the iPhone and Mac operating systems shipped with major bugs, including one that disabled the cell signal for a number of iPhone users last September.
+多年来，苹果销售iPhone和Mac电脑的战略一直是提供高质量的专属软件，以此作为诱饵去吸引消费者购买其硬件。但去年，其软件质量开始下滑，最新版本的iPhone和Mac操作系统推出时存在严重的缺陷，其中一个缺陷导致去年9月众多iPhone用户没有信号。
+To avoid a repeat, Apple on Monday introduced upgrades for its mobile and computer systems, iOS and OS X, with a strong focus on improving things under the hood, like stability, performance and battery life.
+为避免重蹈覆辙，苹果周一推出了移动和电脑系统，即iOS和OS X的升级版本，着重改善软件方面的表现，如稳定性、性能和电池寿命。
+The new version of iOS, called iOS 9, expands on existing features like Siri, Apple’s voice-controlled assistant. The updated assistant can respond to commands like “Show me photos from last August” to load the specific photo roll taken that month.
+新版iOS，即iOS 9，扩展了苹果的语音控制助手Siri等现有功能。升级后的助手能执行对“显示去年8月以后的照片”，或载入那个月拍摄的具体某个相簿等命令。
+When a user is receiving a phone call from an unfamiliar number, a user can ask “Who is calling?” and Siri will search emails for that phone number to identify the caller.
+接到一个不熟悉的号码打来的电话时，用户可以问“来电的是谁”，Siri就会在电子邮件中寻找那个号码，以识别来电者的身份。
+Apple also made changes to iOS that will significantly change the way iPads work. The company introduced a split-screen mode that allows multiple apps to run side-by-side, a big change from the current interface, which loads one app that takes up the entire screen.
+还有一些变化将大大改变iPad的运行方式。新版iOS推出了一种屏幕分割模式，允许多款应用并行运行，而不是像现在这样，运行一款应用便会占据整个屏幕，这是一个重大的变化。
+Apple made the change in anticipation of releasing a jumbo iPad that it plans to market as a device for professionals, according to a person briefed on the product.
+据一名了解相关产品的人士透露，苹果做出这一改变是在为一款大屏iPad做准备。该公司计划将其作为一款面向专业人士的设备来推销。
+The new Mac system, called El Capitan, also focuses on refining existing features. Apple added a button to its Safari web browser that mutes sound that unexpectedly starts playing from a webpage. Apple also expanded its search feature, called Spotlight, to do smarter searches. Typing “SF giants,” for example, will bring up the game scores and games schedule for the San Francisco Giants baseball team.
+新推出的Mac系统叫El Capitan，重点也在优化现有功能上。苹果在Safari网络浏览器上增设了一个按钮，可以降低网页上突然开始播放的声音。苹果还扩展了自己的搜索功能Spotlight，让用户进行更智能的搜索。比如，输入“SF giants（旧金山巨人）”，搜索结果中会出现旧金山巨人(San Francisco Giants)棒球队的比赛得分和赛程安排。
+El Capitan also emphasizes improving performance. Apple said apps would start about one and a half times as fast as in the previous version of OS X, and switching between apps would also be much snappier. The free upgrades for both the Mac and iPhone operating systems system will be available in the fall.
+El Capitan还强调改善性能。苹果称应用的启动速度大约是在上一版OS X环境下的1.5倍，应用之间的切换也会快很多。用户9月便可以免费更新Mac和iPhone的操作系统。
+Many of Apple’s new features represent an effort to make iPhones smarter and more contextually aware of users’ daily rhythms and needs. In doing this, the company is mimicking features that Google’s Android operating system has had for years.
+苹果的很多新功能表明，它希望iPhone更智能，更能根据情景意识到用户的日常节奏和需求。在这个过程中，公司正在效仿谷歌的Android操作系统多年前就已具备的一些功能。
+Google Maps has long had public transit directions, for instance. Apple’s new personal assistant, which would use cues like location, time of day and user patterns to suggest specific apps to use at that moment, is similar to the Google Now assistant, which is available on Android devices and can be downloaded to iPhones through the App Store.
+比如，谷歌地图(Google Maps)早就已经支持公共交通路线。而苹果新推出的私人助理会以地点、时间和用户习惯等信息为依据，在某个时候推荐用户使用某个应用，这也类似于Google Now的功能，后者不仅可以在Android设备上使用，还可以通过App Store下载到iPhone上。
+Siri’s expanded ability to search through photos is also similar to the new Google Photos software that the search giant unveiled two weeks ago at Google I/O, its own developer conference.
+经过扩展后，Siri在照片中搜索的能力也与新面世的软件Google Photos类似，后者是谷歌这个搜索巨头两周前在自己的开发者大会“Google I/O”上推出的。
+“Developers need Apple to compete seriously with Google on these ‘intelligent’ features to keep users on the platform,” said Justin Kaufman, director of engineering in the West Coast office of Raizlabs, a company that builds mobile applications for both the iOS and Android platforms.
+“开发者需要苹果真正做到在这些‘智能’功能上与谷歌相抗衡，以便让用户留在自己的平台上，”Raizlabs公司驻西海岸工程总监贾斯廷·考夫曼(Justin Kaufman)说。该公司在iOS和Android平台上开发移动应用。
+Apple expanded Apple Pay, its mobile payments service, to include a loyalty and rewards programs for some merchants. For example, users paying with Apple Pay at Walgreens and Dunkin’ Donuts can redeem points they have accrued through the retailer’s rewards program.
+苹果还扩展了移动支付服务Apple Pay，推出了针对部分商家的顾客忠诚度和奖励项目。比如，若在沃尔格林(Walgreen)和唐恩都乐(Dunkin' Donuts)使用Apple Pay支付，用户可兑换在这两家零售商的奖励活动中积累的积分。
+The company highlighted the announcement of Apple Music, an app and music service that it developed with Beats Electronics. The new application includes features that have long been familiar to customers of subscription-based streaming services like Spotify and Pandora, but Apple executives say their offering is better because it takes a confusing torrent of different methods to listen to music and ties them together in one place.
+Apple Music的推出是重头戏，这是苹果与Beats电子(Beats Electronics)共同开发的应用和音乐服务。对新推出的这款应用所包含的功能，Spotify和Pandora等流媒体服务的订阅用户早就司空见惯了，但苹果的高管称，他们的产品更胜一筹，因为它结合了大量不同的听音乐的方式，并将它们融为一体。
+“The music industry is a fragmented mess,” said Jimmy Iovine, the music executive who joined Apple after the Beats acquisition. The main difference with Apple’s offering is that a customer’s music downloads, the streaming music service and an Internet radio service can all be found inside the Apple Music app, he said.
+“音乐行业一片混乱，支离破碎，” 在Beats被收购后加入苹果的音乐业务高管吉米·艾欧文(Jimmy Iovine)说。他说，苹果这款产品主要的区别在于，消费者的音乐下载、流媒体音乐服务和网络电台服务都可以在Apple Music里找到。
+Apple Music allows users to search for songs and stream them over the Internet, similar to Spotify. The streaming service makes recommendations for other playlists and albums for people to listen to. The service will cost $10 a month or $15 a month for up to six family members.
+与Spotify类似，Apple Music允许用户搜索并通过网络传输歌曲。流媒体服务会向用户推荐其他播放列表和专辑。该服务的收费是每月10美元，如果每月付15美元，则最多可有六位家人同时使用该服务。
+The music app, which will be available June 30, also includes an overhauled version of iTunes Radio, the Pandora-like radio service Apple released in 2013. The radio service has added a live station, called Beats 1, that is curated by major names in the music industry, like the former BBC producer Zane Lowe.
+该音乐应用将于6月30日面市，改良后的iTunes Radio也被融入其中。2013年推出的这项电台服务与Pandora类似。此次iTunes Radio增添了一个名叫Beats 1的现场频道，由诸如前BBC制作人赞恩·罗维(Zane Lowe)这样的业界大腕负责。
+Apple has also integrated social media elements into Apple Music, enabling artists to publish posts about their albums and concerts, and allowing customers to post comments.
+苹果还在Apple Music中融入了社交媒体元素，让艺人能够发表有关其专辑和音乐会的帖子，消费者则能发帖评论。
+James McQuivey, a technology analyst for Forrester Research, said Apple was late to the streaming music party, but still has a chance to leapfrog the competition.
+弗雷斯特研究公司(Forrester Research)的科技行业分析师詹姆斯·麦奎维(James McQuivey)表示，苹果进入流媒体音乐领域的时间晚了，但依然有机会超越竞争对手。
+“Can Apple beat Spotify?” he asked. “Yes, it can, not because its service will be any better, but because it can build its new music service into the hundreds of millions of devices that its loyal Apple users already love.”
+“苹果能打败Spotify吗？”他问道。“能，但不是因为它的服务会略胜一筹，而是因为它能把自己新推出的音乐服务安装到数亿台设备上去，这些设备已经得到了忠实的苹果用户的喜爱。”
+Apple also demonstrated a news-reading mobile app called News, which will allow users to load articles from media outlets including The New York Times, ESPN and Wired. The app reformats web articles into magazinelike formats, similar to Flipboard, the popular reading app offered on Apple and Android devices.
+苹果还演示了一款名叫News的新闻阅读移动应用。用户可以用它从《纽约时报》、ESPN和Wired等媒体机构下载文章，它会将网络文章转换成类似于杂志的格式。这一点与颇受欢迎的阅读应用Flipboard类似，后者在苹果和Android设备上均可使用。

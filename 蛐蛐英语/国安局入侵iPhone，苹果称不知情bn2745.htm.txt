@@ -1,0 +1,26 @@
+Apple said Tuesday that it was unaware of the National Security Agency’s efforts to hack into the iPhone and has never facilitated agency efforts to install backdoors into its products.
+苹果(Apple)周二表示，对美国国家安全局（National Security Agency，简称NSA）入侵iPhone的行为不知情，也从未帮助该机构在自己的产品中植入“后门”。
+The Cupertino, Calif., company released a strongly worded statement in response to a recent article in the German magazine Der Spiegel, which reported that N.S.A. analysts refer internally to iPhone users as “zombies” who “pay for their own surveillance.”
+在位于加州的库比蒂诺，苹果公司发表了一份措辞强硬的声明，作为对德国杂志《明镜》(Der Spiegel)前不久发表的一篇文章的回应。该杂志报道称，NSA的分析师在内部把iPhone用户称作“为监控自己埋单的僵尸”。
+“Apple has never worked with the N.S.A. to create a backdoor in any of our products, including iPhone,” an Apple spokeswoman said in an email.
+“苹果从未与NSA合作，在包括iPhone在内的任何苹果产品中安装后门，”该公司的一名发言人在电子邮件中说。
+Der Spiegel released a number of slides detailing the agency’s hacking division — known internally as the Tailored Access Operations, or T.A.O. division. One  slide, describing an N.S.A. software implant called DROPOUTJEEP, stood out.
+《明镜》杂志公开了大量幻灯片，详细介绍了NSA负责入侵事务的部门。这个部门在内部被称作定制入口行动办公室（Tailored Access Operations，简称TAO）。其中一幅幻灯片特别醒目，它描述了NSA一款名为“遗失吉普”(DROPOUTJEEP)的植入软件。
+The agency described DROPOUTJEEP as a “software implant for Apple iPhone” that has all kinds of handy spy capabilities. DROPOUTJEEP can pull or push information onto the iPhone, snag SMS text messages, contact lists, voicemail and a person’s geolocation, both from the phone itself and from cell towers in close proximity.
+根据NSA的描述，“‘遗失吉普’是一款针对苹果iPhone手机的植入软件”，具备各种便利的监视功能。该软件既可以从手机本身，也可以从就近的手机信号塔进行操作，来窃取或发送信息，截取短信、联系人名单、语音留言以及用户所处地理位置的信息。
+It can also turn the iPhone into a “hot mic” using the phone’s own microphone as a recording device and capture images via the iPhone’s camera. (Reminder to readers: Masking tape is not a bad idea).
+这款软件还能把iPhone变成“处在工作状态的麦克风”，方法是把手机自带的麦克风用作录音设备，并通过手机摄像头拍摄图片。（提醒读者：用胶带把摄像头封住这个主意不错）。
+But the Der Spiegel report is based on information that is over five years old. The slide, dated January 2007 and last updated October 2008, claims that the agency requires close physical proximity to the iPhone to install DROPOUTJEEP.
+但《明镜》杂志的那篇报道是基于五年前的信息。那幅幻灯片标明的制作日期是2007年1月，最后一次更新是在2008年10月。该幻灯片称，NSA必须近距离接触iPhone，才能安装“遗失吉普”。
+“The initial release of DROPOUTJEEP will focus on installing the implant via close access methods,” the N.S.A. slide says.  Then, “A remote installation capability will be pursued for a future release.”
+“‘遗失吉普’最早的版本主要依靠以近距离接触的方式安装植入软件，”NSA的那幅幻灯片说。然后，“以后的版本将致力于实现远程安装”。
+Based on the timing of the report, the agency would have been targeting Apple’s iOS5 operating system. Apple released its latest iOS7 operating system last September.
+从该报道发表的时机来看，NSA的目标可能是苹果的iOS5操作系统。今年9月，苹果推出了最新的iOS7操作系统。
+Nevertheless, privacy activists point out that the agency’s capabilities have expanded, if anything, over the last five years. “Imagine what they have now,” Christopher Soghoian, a technology adviser at the American Civil Liberties Union, posted on Twitter.
+然而，隐私权利倡导人士指出，在过去五年里，NSA的能力很可能已经增强了。“想象一下他们现在具备的能力，”美国公民自由联盟(American Civil Liberties Union)的技术顾问克里斯托弗·索戈延(Christopher Soghoian)在Twitter上发帖说。
+Apple denied any involvement.
+苹果否认参与其中。
+“We have been unaware of this alleged N.S.A. program targeting our products,” Apple said in a statement. ”Our team is continuously working to make our products even more secure, and we make it easy for customers to keep their software up to date with the latest advancements.”
+“我们对这个所谓的NSA针对我们的产品制定的计划一无所知，”苹果在声明中说，“我们的团队正在不断努力，让我们的产品更安全，让顾客能轻松地把自己的软件升级到最新版本。”
+The company added, “Whenever we hear about attempts to undermine Apple’s industry-leading security, we thoroughly investigate and take appropriate steps to protect our customers. We will continue to use our resources to stay ahead of malicious hackers and defend our customers from security attacks, regardless of who’s behind them.”
+苹果公司补充说，“苹果产品的安全级别处于业内领先的水平，无论何时，只要听到有试图破坏苹果产品的安全的行为，我们都会彻底调查，并采取适当措施，保护顾客。我们将继续利用各种资源，走在恶意黑客的前面，保护顾客免受安全攻击，不管这些攻击的背后是谁。”

@@ -1,0 +1,24 @@
+Amazon’s Kindle is a tech-industry miracle. That sounds over-the-top; it’s not.
+亚马逊(Amazon)的Kindle是科技行业的一个奇迹。这话听起来很夸张，其实不然。
+In 2007, when the company first unveiled its e-reader, the device was an expensive ugly duckling whose future looked marginal at best. The first Kindle, which sold for $400 and was made by a company that had no track record in hardware, had a lot to overcome: the reluctance of the book industry to change its business model, the sentimentality of readers for the printed book, and its egregious industrial design, which looked like the product of the Soviet space program.
+2007年公司首次推出它的电子阅读器时，这款设备就是个昂贵的丑小鸭，前景显得微不足道。第一代Kindle售价为400美元（当时约合3000元人民币），出自一个毫无硬件制造背景的公司，并且面临重重困难：图书业不愿意改变其商业模式，读者对纸质书怀有依恋的情愫，而且产品设计很笨拙，看上去像是苏联太空计划的产物。
+Worst of all, the Kindle was a dedicated machine. Its only purpose was to let you read books that you purchased from Amazon’s online store. In the age of smartphones and apps, when a single phone does just about everything, most dedicated devices have had a rough ride. Sales of snapshot cameras and digital have crashed because their functions were eaten by phones.
+最糟的是，Kindle是台专用的机器。它的唯一用处是让你阅读从亚马逊的网店购买来的书。在智能手机和应用的时代，一部手机是无所不能的，专门性的设备大多处境艰难。快拍相机和数码相机的销售遭遇灭顶之灾，就是因为它们的功能被手机取代了。
+But not the Kindle. Amazon’s e-reader hasn’t merely survived, but thrived, thanks to a single-minded focus on the needs of obsessive readers. Each year Amazon slightly improved the Kindle’s prices, hardware and software, making it more competitive with print, and roiling the publishing industry in the process.
+但Kindle不一样。由于专注考虑重度阅读者的需求，亚马逊的电子阅读器不但活了下来，还发展得有声有色。亚马逊每年都会对Kindle的价格、硬件和软件做出改进，让它和纸质书相比更具竞争力，也让出版业陷入恐慌。
+Now, with its newest Kindle, the Voyage, Amazon is refining its e-reader once more. The Voyage’s main trick is a high-resolution display that mimics the look of a printed page. Text on its screen appears at a resolution of 300 pixels an inch, which is on par with the high-resolution displays now found on most of our other mobile devices.
+现在亚马逊推出了Kindle的最新款Voyage，再一次对它的电子阅读器进行了改良。Voyage的主要卖点是模仿印刷纸面效果的高分辨率屏幕。这种屏幕上的文字是以每英寸300像素的分辨率显示的，与现在市面上多数移动设备的高分辨率屏幕可等量齐观。
+Compared with  previous Kindles, text on the Kindle Voyage appears both sharper and in starker relief against the background. Graphics, like charts and graphs, look just as clear as they do in any black-and-white book.
+比起此前的Kindle，Kindle Voyage上的文字更清晰，和背景形成更鲜明的凸出效果。图表等图形看起来也更清晰了，就像在白底黑字的书上一样。
+The effect is beguiling. If you look at the new Kindle for any stretch of time, you don’t just forget that you’re reading an e-book; you forget that you’re using any kind of electronic device at all.
+这样的效果让人心旷神怡。捧着新款Kindle阅读，无论读多长时间，你都不会意识到自己是在读电子书，甚至都想不起自己是在用一台电子设备。
+Amazon says the Voyage offers a better approximation of print than has ever been available on an e-reader, but for me, it’s far better than that. It offers the visual clarity of printed text with the flexibility of an electronic device.
+亚马逊说Voyage是有史以来和印刷品最接近的电子阅读器，但在我看来，它要比纸书好得多。它有印刷文字的视觉清晰度，又有电子设备的灵活性。
+Given that combination, the Voyage functions as something like the executioner of the trusty old hardcover. Until recently, there were only two remaining reasons to hang on to books — either you just couldn’t get on board with the way a Kindle page looked, or you were suspicious of Amazon’s power and larger motives in the publishing industry, and you saw the printed book as the only bulwark against its overreach.
+有了这两个因素的结合，Voyage在某种程度上就成了一个刽子手，我们忠心耿耿的精装书老朋友们将死在它的刀下。继续看纸书的理由，近年来已经只剩下两个——要么你无法接受Kindle里书页的样子，要么你对亚马逊的势力以及在出版业的布局持怀疑态度，你认为要想遏制它的过度扩张，纸书是唯一一道屏障。
+The first reason is now gone. The Voyage, which at $199 and up is Amazon’s most expensive Kindle, doesn’t look just like the printed page. Like other Kindles, it does things the printed page can’t do.
+第一个原因已经不存在了。Voyage的售价为199美元起，是目前亚马逊最贵的一款Kindle设备，它不只是做出了纸张印刷的视觉效果。和其他Kindle一样，它还能做纸书做不到的事。
+Reading a long tome (say the “Game of Thrones” series) and you want to keep track of the characters? X-Ray, a feature built into most Kindle books, shows you a handy pop-up guide of every person you encounter. Need to look up a word? Just tap on it. Want to flip back and forth between footnotes and the main text? It’s just a matter of tapping; reading David Foster Wallace’s “Infinite Jest” on a Kindle isn’t the workout it is in print.
+看一本大部头的时候（比如“权力的游戏”系列），想厘清人物的脉络？多数Kindle书里都有一个叫X-Ray的功能，通过一个很实用的弹出框来介绍你读到的每个人物。想要查某个单词？点一下就行。想在脚注和内文之间来回翻看？也是点按几下就可以的事；在Kindle上读大卫·福斯特·华莱士(David Foster Wallace)的《无尽的玩笑》(Infinite Jest)，不用像读纸书那样顺便健身。
+The Voyage is Amazon’s thinnest Kindle, but I found that advantage to be of little significance; Amazon’s other recent Kindles have also been very thin.
+Voyage是亚马逊迄今最薄的一款Kindle，但我发现这个优势没那么明显；亚马逊近来推出的其他Kindle也很薄。

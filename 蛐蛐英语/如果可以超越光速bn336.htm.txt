@@ -1,0 +1,50 @@
+Beyond the security gate at the Johnson Space Center’s 1960s-era campus here, inside a two-story glass and concrete building with winding corridors, there is a floating laboratory.
+走进约翰逊航天中心(Johnson Space Center)的20世纪60年代建筑群的安全门，可以看到一栋两层的玻璃和混凝土楼房，里面有蜿蜒的走廊，还有一个漂浮的实验室。
+Harold G. White, a physicist and advanced propulsion engineer at NASA, beckoned toward a table full of equipment there on a recent afternoon: a laser, a camera, some small mirrors, a ring made of ceramic capacitors and a few other objects.
+最近某一天的下午，美国国家航空航天局(NASA)物理学家、先进推进工程师哈罗德·G·怀特(Harold G. White)指了指满桌子的设备：一个激光装置、一台摄像机、一些小镜子、一个由陶瓷电容器做成的环和其他几样东西。
+He and other NASA engineers have been designing and redesigning these instruments, with the goal of using them to slightly warp the trajectory of a photon, changing the distance it travels in a certain area, and then observing the change with a device called an interferometer. So sensitive is their measuring equipment that it was picking up myriad earthly vibrations, including people walking nearby. So they recently moved into this lab, which floats atop a system of underground pneumatic piers, freeing it from seismic disturbances.
+他和其他几名NASA工程师近期在设计和重新设计这些仪器，希望能用它们来稍稍扭曲一个光子的轨道，改变它在某个特定区域的运行距离，然后再用一台干涉仪来观察这种变化。他们的测量设备非常灵敏，可以探测到各种地面震动，甚至包括人们在附近的走动。所以，他们最近搬进了这个漂浮在一个地下充气支柱系统上的实验室，从而免受地面震动干扰。
+The team is trying to determine whether faster-than-light travel — warp drive — might someday be possible.
+这个研究组希望能确定究竟超光速航行——即曲速引擎(warp drive)——有朝一日是否会变得可能。
+Warp drive. Like on “Star Trek.”
+曲速引擎，就像《星际迷航》(Star Trek)中的情节。
+“Space has been expanding since the Big Bang 13.7 billion years ago,” said Dr. White, 43, who runs the research project. “And we know that when you look at some of the cosmology models, there were early periods of the universe where there was explosive inflation, where two points would’ve went receding away from each other at very rapid speeds.”
+“自从137亿年前的大爆炸以后，宇宙空间就一直在扩张，”43岁的怀特博士说。他是该研究项目的负责人。“而且我们知道，如果你看看其中一些宇宙学模型，就会了解宇宙在形成初期存在爆炸性膨胀的现象，比如两个点会以极快的速度彼此远离。”
+“Nature can do it,” he said. “So the question is, can we do it?”
+“自然能做到这一点，”他说。“所以问题是，我们能做到吗？”
+Einstein famously postulated that, as Dr. White put it, “thou shalt not exceed the speed of light,” essentially setting a galactic speed limit. But in 1994, a Mexican physicist, Miguel Alcubierre, theorized that faster-than-light speeds were possible in a way that did not contradict Einstein, though Dr. Alcubierre did not suggest anyone could actually construct the engine that could accomplish that.
+爱因斯坦(Einstein)曾有个著名推断，用怀特博士的话就是，“汝不可超越光速”，这实质上是给宇宙设定了一个速度限制。但在1994年，墨西哥物理学家米格尔·阿尔库别雷(Miguel Alcubierre)博士在不与爱因斯坦抵触的情况下推导出，超光速的速度是可能存在的，尽管他并未提出，人们真的可以制造出能够达到这种速度的引擎。
+His theory involved harnessing the expansion and contraction of space itself. Under Dr. Alcubierre’s hypothesis, a ship still couldn’t exceed light speed in a local region of space. But a theoretical propulsion system he sketched out manipulated space-time by generating a so-called “warp bubble” that would expand space on one side of a spacecraft and contract it on another.
+他的理论与利用空间本身的膨胀和收缩有关。根据阿尔库别雷博士的假设，飞船仍然无法在局部的宇宙空间超越光速。但他勾勒出一个理论上的推进系统，该系统可以生成一个所谓的“曲速泡”，藉此操纵时空，即在宇宙飞船的一侧扩张空间，在另一侧收缩空间。
+“In this way, the spaceship will be pushed away from the Earth and pulled towards a distant star by space-time itself,” Dr. Alcubierre wrote. Dr. White has likened it to stepping onto a moving walkway at an airport.
+“通过这种方式，时空本身就能使宇宙飞船飞离地球，飞向一颗遥远的星球，”阿尔库别雷博士写道。怀特博士说，这就像是走上了机场的自动人行道。
+But Dr. Alcubierre’s paper was purely theoretical, and suggested insurmountable hurdles. Among other things, it depended on large amounts of a little understood or observed type of “exotic matter” that violates typical physical laws.
+然而，阿尔库别雷博士的论文只限于理论，他还提出，这方面的努力将会遇到难以克服的困难。除了其他困难外，它将依赖于大量鲜少有人理解或观察到、违背传统物理法则的“奇异物质”。
+Dr. White believes that advances he and others have made render warp speed less implausible. Among other things, he has redesigned the theoretical warp-traveling spacecraft — and in particular a ring around it that is key to its propulsion system — in a way that he believes will greatly reduce the energy requirements.
+怀特博士认为，他与其他人所取得的进展使曲速不再那么不可信。他做了一系列工作，其中包括重新设计理论上的曲速航行宇宙飞船——尤其是环绕飞船的对推进系统至关重要的一个环——他认为这将大幅降低能量需求。
+For NASA, Dr. White’s warp speed experiments represent a rounding error in its budget, with about $50,000 spent on equipment in an agency that spends nearly $18 billion annually. The agency is far more focused on more achievable projects — building the next generation Orion series spacecraft, working on the International Space Station and preparing for a planned future mission to capture an asteroid.
+对于NASA来说，怀特博士的曲速实验的经费需求只是该机构预算的一个零头，该机构每年支出近180亿美元（约合1105亿元人民币）。这项实验在设备上的投入约为5万美元。NASA更关注那些更为切实可行的项目——建造下一代的猎户座(Orion)系列宇宙飞船，开展国际空间站(International Space Station)的工作，以及为未来计划中的捕获小行星的任务做准备。
+But it has made internal resources available for the project and freed up other engineers to assist Dr. White. It has also restored the pneumatic system in the laboratory Dr. White is using, to allow it to float. The lab was once used to test equipment for Apollo missions and has control panels underneath it that look like they belong in a fallout shelter that time forgot.
+但NASA毕竟为该项目调拨了内部资源，并指派其他工程师协助怀特博士。该机构还修复了怀特博士所用的实验室的气压系统，使其能够漂浮起来。该实验室曾被用于测试阿波罗(Apollo)登月任务的设备，其下面的控制面板就像是被时间遗忘的核爆炸掩体内的那种老式设备。
+Steve Stich, the deputy director of engineering at the Johnson Space Center, said, “You always have to be looking towards the future.” He held up his iPhone.
+约翰逊航天中心工程部副主任史蒂夫·斯蒂克(Steve Stich)表示，“你得始终展望未来。”他拿起了自己的iPhone。
+“Forty years ago, this was ‘Star Trek,’ Captain Kirk talking on a communicator whenever he wanted to,” he said. “But today it exists because people made the battery technology that allows this device to exist, worked on the software technology, worked on the computational technology, the touch screen.”
+“40年前，这就是《星际迷航》中的设备，柯克(Kirk)船长随时可以通过这种通信设备交谈，”他说。“但如今它切实存在了，因为人们发明了允许它存在的电池技术，还开发了软件技术、计算技术，触摸屏等等。”
+Theoretically, a warp drive could cut the travel time between stars from tens of thousands of years to weeks or months. But we should probably not book reservations anytime soon.
+理论上，曲速引擎能够将恒星之间的行程时间从数万年缩减至几周或几个月。但我们或许不该很快订座。
+Neil deGrasse Tyson, the well-known astrophysicist at the American Museum of Natural History, said some leap beyond our current technology would be needed to make interstellar travel feasible.
+美国自然历史博物馆(American Museum of Natural History)知名天体物理学家尼尔·德格拉斯·泰森(Neil deGrasse Tyson)表示，要使星际旅行成为可行，人类当前掌握的技术需要出现某种质的飞跃。
+“Routine travel among the stars is impossible without new discoveries regarding the fabric of space and time, or capability to manipulate it for our needs,” he said, adding, “By my read, the idea of a functioning warp drive remains far-fetched, but the real take-away is that people are thinking about it — reminding us all that the urge to explore continues to run deep in our species.”
+“没有时空结构方面的新发现，或者没有操纵时空、使其服务于我们的需要的能力，就不可能实现常态化的星际旅行，”他说。他补充表示，“根据我的理解，能够运行的曲速引擎的构想依然非常牵强，但它传递的真正信息是人们在思考这个问题——这提醒我们所有人，人类进行探索的欲望仍然根深蒂固。”
+Still, one of the most dubious is Dr. Alcubierre himself. He listed a number of concerns, starting with the vast amounts of exotic matter that would be needed.
+但最怀疑该项目的正是阿尔库别雷博士。他列出了很多问题，比如所需要的大量奇异物质。
+“The warp drive on this ground alone is impossible,” he said.
+他说，“仅凭这一点，曲速引擎也是不现实的。”
+And he posed a more fundamental question: How would you turn it on?
+他又提出一个更为根本的问题：该如何启动它呢？
+“At speeds larger than the speed of light, the front of the warp bubble cannot be reached by any signal from within the ship,” he said. “This does not just mean we can’t turn it off; it is much worse. It means we can’t even turn it on in the first place.”
+“由于速度比光速还快，曲速泡的前端无法收到从飞船内部发出的信号，”他说。“这不仅意味着我们无法关闭引擎；情况会更糟。这意味着我们根本无法启动它。”
+Dr. White, who has never spoken to Dr. Alcubierre, said “I appreciate his thoughts. I don’t know whether I agree with all of his observations, based on some work I’ve done.”
+从未与阿尔库别雷博士交谈过的怀特博士表示，“我感谢他的想法。基于我所做过的一些工作，我不知道我是否同意他的所有见解。”
+“He and I could certainly debate for a very long time,” he added.
+他补充说，“我和他一定会辩论很长时间。”

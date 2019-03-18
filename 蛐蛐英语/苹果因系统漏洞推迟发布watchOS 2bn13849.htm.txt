@@ -1,0 +1,12 @@
+Apple postponed the release of a software update to the Apple Watch, the smartwatch it released to much fanfare, and skepticism, earlier this year.
+苹果推迟了Apple Watch系统更新的发布时间。今年早些时候，苹果在推出这款智能手表时，曾引起不小的轰动和质疑。
+The company said that it found a flaw in the software, called watchOS 2, which had been scheduled for release on Wednesday.
+该公司表示，他们在名为watchOS 2的软件中发现了一个问题，该软件原计划于本周三发布。
+“We have discovered a bug in development of watchOS 2 that is taking a bit longer to fix than we expected. We will not release watchOS 2 today but will shortly,” a spokesperson for Apple said in a statement.
+“我们在开发watchOS 2的过程中发现了一个漏洞，修复这一问题所花费的时间比我们预期的长了一点。我们今天不会发布watchOS 2，但也不会让大家等太久，”苹果的一位发言人在一份声明中表示。
+The company did not elaborate on the bug, nor on the length of the delay. The new software is meant to add a few new capabilities to the Apple Watch, including the ability for developers to build more powerful apps, a feature that lets users reply to email directly from the device and a couple of new digital watch faces.
+苹果公司没有详细说明是什么漏洞，也没有明确延迟发布的时间。这次软件更新本将赋予Apple Watch一些新功能，包括帮助开发者开发更强大app的功能，让用户直接通过Apple Watch回邮件，以及一些新的数字手表界面。
+Apple held a big product event last week in San Francisco, at which Timothy D. Cook, the company’s chief executive, unveiled new luxury wristbands for the smartwatch, among a host of other product upgrades. The watch is the first brand new product that Apple has introduced under Mr. Cook, and the company set expectations relatively low for sales of the device by deciding not to break out sales figures for the watch.
+在苹果于上周在旧金山举行的盛大的产品发布会上，公司首席执行官蒂莫西·D·库克揭开了一系列产品更新的面纱，包括与奢侈品品牌合作推出的Apple Watch新表带。Apple Watch是库克执掌苹果公司后推出的第一款全新产品。苹果决定不对外公布这款设备的销售数字，这显示出他们对它的销售预期相对较低。
+In July when Apple reported quarterly financial results, analysts estimated the company had sold between 1.5 million and three million watches, which was less than the three million to five million watches they had predicted ahead of the earnings report. In a conference call at the time, Mr. Cook said the gadget had had “a great start.”
+今年7月，苹果发布季度财务报告时，分析师们估计该公司已经售出150－300万只Apple Watch，少于他们在收益报表发布前所预测的300-500万的销售量。在当时举行的一次电话会议上，库克表示，这款小设备有着“良好的开端”。

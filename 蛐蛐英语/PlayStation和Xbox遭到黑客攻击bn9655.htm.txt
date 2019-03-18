@@ -1,0 +1,16 @@
+The computer networks for Microsoft’s Xbox and Sony’s PlayStation 4 video game consoles were off line for most of Christmas Day, possibly because of an attack by a group of hackers with a history of targeting video games.
+圣诞节当天大部分时间，微软公司的Xbox、索尼公司的PlayStation4电子游戏平台的电脑网络断线，可能是一群有攻击电子游戏历史的黑客所致。 
+The hackers who call themselves the “Lizard Squad” claimed responsibility on Twitter for the shutdown, which essentially rendered the gaming devices unusable, but neither company confirmed the source of its problems. A Microsoft spokesman on Friday said the Xbox network was back up, but he declined to comment on the cause. Press officials for Sony did not immediately respond to requests for comment.
+这些自称“蜥蜴小组”(Lizard Squad)的黑客在Twitter上称对此次故障负责，它导致游戏设施无法使用，但两家公司都没有证实问题的起因。周五，微软的一位发言人说，Xbox的网络恢复了，但他拒绝对起因发表评论。索尼公司的新闻发言人没有立即回应要求发表评论的请求。
+The attack on the Sony and Microsoft gaming networks comes after a recent hacking of Sony Pictures’ computer network that law enforcement officials have linked to North Korea. There is no current evidence that the game system attack and the earlier hacking are connected.
+前不久，索尼影业的电脑网络遭到攻击，执法人员认为朝鲜与此事有关。目前没有证据表明，这次对游戏系统的攻击与那次攻击有关。
+On Thursday, the Lizard Squad claimed to have taken down Sony’s PlayStation Network and Xbox Live, Microsoft’s online game services.
+周四，蜥蜴小组声称攻破了索尼的PlayStation网络和微软的在线游戏服务Xbox Live。
+Gamers complained that they could not use their accounts. Both Sony PlayStation and Xbox Live acknowledged that they were having service problems through their Twitter accounts and service pages. On Twitter, Lizard Squad took credit, claiming that the attacks were its biggest yet.
+游戏玩家们投诉无法使用自己的账户。索尼PlayStation和Xbox Live通过Twitter账户和服务网页承认出现故障。蜥蜴小组在Twitter上称对此事负责，称这些攻击是它最大型的攻击。
+Lizard Squad said earlier that it planned to attack the gaming services on Christmas with a distributed denial of service, or DDoS, attack, in which servers are flooded with Internet traffic until they collapse under the load.
+之前，蜥蜴小组称，它计划采用分布式拒绝服务攻击（或称DDoS）在圣诞节攻击游戏服务公司，这种方式会导致服务器用量大增，直至不堪重负而瘫痪。
+Lizard Squad appeared to have made good on its threat. Some PlayStation and Xbox users reported issues connecting with servers for the consoles. The support pages for both Sony and Microsoft reported server issues.
+蜥蜴小组似乎兑现了自己的威胁。有些PlayStation和Xbox用户报告了一些与平台服务器有关的问题。索尼和微软的技术支持页面都报告了服务器故障问题。
+On Thursday, a man who has had his own brushes with the law appeared to have intervened. Kim Dotcom, the Internet entrepreneur accused of mass copyright theft and a self-proclaimed Xbox gamer, said on Twitter that he had an offer for Lizard Squad: If it stopped attacking the Sony and Microsoft servers, it could receive free access to his new privacy service Mega.Kim Dotcom did not immediately respond to a request for comment. The group claiming to be LizardSquad later said it had accepted Mr. Dotcom’s offer and stopped the attacks. 
+周四，一个自己也是一身麻烦的人介入此事。互联网企业家金姆·多特康姆(Kim Dotcom)曾被指控大量复制盗版。他自称Xbox玩家，在Twitter上向蜥蜴小组提议：如果该小组停止攻击索尼和微软服务器，他们将可以免费获得他的新隐私服务Mega。金姆·多特康姆没有马上回应要求评论的请求。“蜥蜴小组”后来说，它接受了多特康姆的提议，停止了攻击。

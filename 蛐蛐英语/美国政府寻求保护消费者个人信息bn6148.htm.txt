@@ -1,0 +1,42 @@
+The Federal Trade Commission on Tuesday called on Congress to protect consumers against the unchecked collection and sharing of their digital data — from websites visited to their marital status — by providing people with tools to view, suppress and fix their information.
+联邦贸易委员会（Federal Trade Commission，简称FTC）在周二对国会发出呼吁，希望向消费者提供查看、封锁和修正其信息的手段，从而让他们的数码数据——从网站访问历史到他们的婚姻状况——免遭肆无忌惮地收集与分享。
+The agency also said the little-known companies, known as data brokers, that analyze and sell huge amounts of the consumer information for marketing purposes, needed to be reined in and more transparent to the public.
+FTC还表示，一些被称为数据中间商的不知名公司，出于营销的目的对大量消费者信息进行分析和出售，这样的公司需要得到控制，并提高对公众的透明度。
+Companies that trade in consumer data, the agency said in a 110-page report about the industry, suffered from “a fundamental lack of transparency.”
+在FTC发布的一份关于该行业的110页报告中，该机构称从事消费者数据交易的公司“严重缺乏透明度。”
+“You may not know them, but data brokers know you,” Edith Ramirez, chairwoman of the F.T.C., said in a conference call. It is an industry, she said, that “operates largely in the dark,” yet it has remarkably detailed information that includes online and store purchases, political and religious affiliations, personal income, and socioeconomic status.
+“你可能不认识它们，但这些数据中间商却认识你们，”FTC主席艾迪丝·拉米雷兹(Edith Ramirez)在一次电话会议上说。她说这是一个“基本上在暗处运营”的产业，然而却拥有大量详尽的信息，包括在线和实体店购买、政治和宗教归属、个人收入和社会经济地位等。
+One data broker in the report, for example, had 3,000 data categories for nearly every American consumer.
+例如，报告中称有一个数据中间商为几乎所有美国消费者划分了3000类数据项。
+Data brokers analyze information collected about consumers to make automated assumptions about them, the report said. While the conclusions may determine the products and services offered to a person, the report said, the conclusions can be mistaken.
+报告说，数据中间商对收集到的消费者信息进行分析，对他们进行自动的推断。这个结论可能会决定向一个人推荐什么产品和服务，但结论本身可能是错的。
+Consumers are placed in data-driven social and demographic groups for marketing purposes with labels like “financially challenged,” “diabetes interest” and “smoker in household,” the report said.
+报告称，为了进行营销，消费者被归入到依数据划分的社交和特征群组中’，打上“财务有困难”、“关注糖尿病”和“居家吸烟者”等标签。
+The report explains how these software-generated groupings could affect a person. It said a person assumed to be a “biker enthusiast” might get special offers from the local motorcycle shop. But that same person might also have to pay higher fees for life insurance because insurers infer that person engages in risky behavior.
+报告解释了软件生成的群组会对一个人产生怎样的影响。如果一个人被假定为“摩托车狂热爱好者”，那么可能会从本地的摩托车行得到特殊优惠。但同样是这个人，可能也会需要支付更高的人寿保险费用，因为保险商会推断这个人有高风险的行为。
+The practices of data brokers have been described in news articles and in a few previous government reports, including one by the staff of the Senate Commerce Committee last December. But experts say the F.T.C.’s report, the conclusion of an 18-month investigation, is the most detailed and authoritative portrait to date.
+一些新闻报道和此前的几份政府报告已经描述了数据中间商的做法，其中包括去年12月参议院贸易会员会(Senate Commerce Committee)幕僚撰写的一份报告。但专家称，FTC在经过18个月的调查后得出的这份报告，做出了迄今最详尽、最权威的描绘。
+“For many Americans, this is going to be eye-opening,” said David C. Vladeck, a professor of law at Georgetown University and former senior F.T.C. official. “This is a very strong call to Congress to get something done.”
+“对很多美国人来说，这是他们闻所未闻的事情，”乔治城大学(Georgetown University)法学教授、前FTC高官戴维·C·弗拉德克(David C. Vladeck)说，“这是向国会发出了一次强有力的呼吁，要求他们采取行动。”
+The F.T.C. report adds momentum to the push in Washington to put new curbs on how information collected about people is used by companies. This month, the White House issued its own report that focused largely on how companies gather and use vast stores of data online about individuals, and how those practices could be used to discriminate against certain racial, ethnic or socioeconomic groups.
+对于在收集到关于人的信息以后，企业应该如何去使用它们，华盛顿正在加紧实施新的管制，FTC的报告进一步推动了这一进程。本月，白宫也发布了自己的报告，主要关注点在于，公司应该如何收集和使用网络中关于个人的海量数据，以及这些做法可能会被用于针对特定种族、民族或社会经济群体的歧视对待。
+The White House report called for a renewed push to pass a Consumer Privacy Bill of Rights, which President Obama first proposed in 2012. Several of the recommendations in the F.T.C. report are similar to those in the White House privacy proposal.
+白宫报告呼吁再一次尝试通过奥巴马总统在2012年首先提出的《消费者隐私权法案》(Consumer Privacy Bill of Rights)。FTC报告中有许多建议和白宫隐私权利提案是吻合的。
+In February, Senator John D. Rockefeller, Democrat of West Virginia, and Senator Edward Markey, Democrat of Massachusetts, introduced a bill that would require data brokers to disclose more information about their practices and to give consumers more control over their information collected and sold by the companies.
+西弗吉尼亚民主党参议员约翰·D·洛克菲勒(John D. Rockefeller)和马萨诸塞州民主党参议员爱德华·马基(Edward Markey)提出了一个法案，要求数据中间商就其运作方式做出更多的披露，给予消费者更多控制手段，决定自身的信息应该如何被收集并卖给公司。
+The data broker industry generally opposes legislation, asserting that effective self-regulation is the preferred solution in an industry that is changing quickly and growing rapidly. Peggy Hudson, senior vice president of government affairs for the Direct Marketing Association, which represents data brokers, said that the F.T.C. report, after a lengthy investigation, “still does not show there is consumer harm.”
+数据中间商产业总的来说对立法持反对态度，它们认为在一个迅速变化和增长着的产业中，有效的自律是更好的方案。贸易团体直销协会(Direct Marketing Association)政府事务高级副总裁佩奇·哈德逊(Peggy Hudson)说，在经过长时间调查后，FTC在报告中“仍无法表明消费者会受到伤害”。该协会目前是数据中间商的代言人。
+In the conference call with reporters, Ms. Ramirez, the F.T.C. chairwoman, said her agency’s investigation and report “did not identify any unlawful activity.”
+在和记者举行的电话会议中，FTC主席拉米雷兹说，委员会的调查和报告“没有发现任何不法活动。”
+The dangers cited by the F.T.C. are speculative, Ms. Hudson said, adding that existing laws prohibit the kind of potential discrimination that both the F.T.C. and White House big data reports described. “Self-regulation is working,” she said.
+哈德逊说，FTC提到的危险是一种推测，同时还指出，FTC和白宫的大数据报告中所描述的潜在歧视，现有法律已经做出禁止规定。“自律是有效的，”她说。
+Privacy groups generally praised the F.T.C. report on Tuesday, but said it could have gone further in its recommendations. Jeffrey Chester, executive director of the Center for Digital Democracy, described the detailed report as “a powerful and disturbing privacy wake-up call.”
+隐私权益团体对周二FTC的报告则基本上表示赞赏，但还是认为在建议上可以走得更远。数字民主中心(Center for Digital Democracy)总干事杰弗瑞·切斯特(Jeffrey Chester)形容这份详尽的报告是“一次有力的、令人不安的隐私觉醒呼吁。”
+Marc Rotenberg, executive director of Electronic Privacy Information Center, said the agency’s report placed too much responsibility on individual consumers to monitor the activities of data brokers. The problem, Mr. Rotenberg said, is that data brokers — unlike websites and retailers, for example — do not deal directly with consumers.
+电子隐私信息中心(Electronic Privacy Information Center)总干事马克·罗滕伯格(Marc Rotenberg)说，委员会报告把对数据中间商行为的监督责任过多地交到了消费者个人手中。罗滕伯格说，问题在于数据中间商和网站、零售商之类是不同的，它们并不直接和消费者打交道。
+“The consumer,” he said, “is not the customer, but the product.”
+他说，“消费者不是客户，是产品。”
+Data brokers, Mr. Rotenberg suggested, should be required to contact an individual when his or her information is about to be sold to an insurer, prospective employee or government agency, for example.
+罗滕伯格提出，当个人的信息即将被卖出，比如卖给一个保险商、潜在雇员或政府机构时，应该要求数据中间商与这个人联系。
+“There should be much clearer rights and stronger protections for the individual,” he said. “The F.T.C. didn’t go far enough. This was a missed opportunity.”
+“对个人应该有更清晰的权利和更严密的保护，”他说，“FTC的建议不够彻底。浪费了一个机会。”

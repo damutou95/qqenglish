@@ -1,0 +1,40 @@
+If a computer could ace the entrance exam for a top university, what would that mean for mere mortals with average intellects? This is a question that has bothered Noriko Arai, a mathematics professor, ever since the notion entered her head three years ago.
+如果一台电脑可以在一所顶尖大学的入学考试中拔得头筹，那对于仅仅拥有平均智力的凡人来说意味着什么？自三年前这个概念进入数学专业教授新井纪子(Noriko Arai)脑海之后，这个问题一直困扰着她。
+“I wanted to get a clear image of how many of our intellectual activities will be replaced by machines. That is why I started the project: Can a Computer Enter Tokyo University? — the Todai Robot Project,” she said in a recent interview.
+“我想要弄清楚，我们用头脑所完成的活动有多少将被电脑所取代。所以我开了这样一门课程《一台电脑能进入东京大学学习吗？——东大机器人项目》，”她在最近的一次采访中说。
+Tokyo University, known as Todai, is Japan’s best. Its exacting entry test requires years of cramming to pass and can defeat even the most erudite. Most current computers, trained in data crunching, fail to understand its natural language tasks altogether.
+简称东大(Todai)的东京大学(Tokyo University)是日本的最高学府。它的入学考试需要你接受多年的填鸭式教育并且击败最厉害的精英之后才能通过。如今最先进的电脑在数据处理方面很有经验，却理解不了东大考试中所有自然语言类的问题。
+Ms. Arai has set researchers at Japan’s National Institute of Informatics, where she works, the task of developing a machine that can jump the lofty Todai bar by 2021.
+新井发动她所就职的日本国家信息研究所的研究者们一起研发一款机器，使它能够在2021年前跃过东大那高傲的门槛。
+If they succeed, she said, such a machine should be capable, with appropriate programming, of doing many — perhaps most — jobs now done by university graduates.
+她说，如果他们成功了，通过适当的编程，这样的机器将有能力去做许多——有可能是大多数——现在由大学毕业生们来完成的工作。
+With the development of artificial intelligence, computers are starting to crack human skills like information summarization and language processing.
+随着人工智能的发展，电脑现在开始破解人类特有的一些技能，比如说信息归纳以及语言处理。
+Given the exponential growth of computing power and advances in artificial intelligence, or A.I., programs, the Todai robot’s task, though daunting, is feasible, Ms. Arai says. So far her protégé, a desktop computer named Todai-kun, is excelling in math and history but needs more effort in reading comprehension.
+新井认为，鉴于电脑能力指数级的增长以及人工智能或者人工智能项目所具有的优势，东大机器人项目尽管令人望而生畏，但仍然是可行的。目前，她的门徒——一部名为“东大君”(Todai-kun)的台式电脑在数学与历史方面能力过人，但在阅读理解方面还需要再下一番苦功。
+There is a significant danger, Ms. Arai says, that the widespread adoption of artificial intelligence, if not well managed, could lead to a radical restructuring of economic activity and the job market, outpacing the ability of social and education systems to adjust.
+新井表示这有一个重大的隐患：如果没有妥善管理，应用广泛的人工智能将导致激进的经济行为与职业市场重组，这种重组将超过社会与教育系统调节的能力。
+Intelligent machines could be used to replace expensive human resources, potentially undermining the economic value of much vocational education, Ms. Arai said.
+新井说，智能机器可能会被用来取代昂贵的人力资源，也可能会削弱职业教育的经济价值。
+“Educational investment will not be attractive to those without unique skills,” she said. Graduates, she noted, need to earn a return on their investment in training: “But instead they will lose jobs, replaced by information simulation. They will stay uneducated.”
+“教育投资对于那些不具备独特技能的人来说，将失去吸引力，”她说。她指出，大学毕业生们需要挣回他们在学习时付出的投资：“但是适得其反，他们将失去工作，被信息仿真所代替。他们会觉得还不如不接受教育的好。”
+In such a scenario, high-salary jobs would remain for those equipped with problem-solving skills, she predicted. But many common tasks now done by college graduates might vanish.
+她预测道，在如此的前景之中，高收入工作将继续为那些拥有解决问题的能力的人存在。但现在绝大多数由大学毕业生来完成的普通工作将会消失。
+“We do not know in which areas human beings outperform machines. That means we cannot prepare for the changes,” she said. “Even during the industrial revolution change was a lot slower.”
+“我们不知道人类在哪些领域比机器表现更出色。这意味着，我们无法为变革做出准备，”她说，“甚至在工业革命时代，变革也比现在缓慢得多。”
+Over the next 10 to 20 years, “10 percent to 20 percent pushed out of work by A.I. will be a catastrophe,” she says. “I can’t begin to think what 50 percent would mean — way beyond a catastrophe and such numbers can’t be ruled out if A.I. performs well in the future.”
+在接下来的10年至20年中，“10%至20%的人将会灾难性地被人工智能抢走工作，”她说，“我无法开始想象，50%会意味着什么——这远不止一场灾难，如果人工智能在未来发展得好，这个数字并不是不可能。”
+She is not alone in such an assessment. A recent study published by the Program on the Impacts of Future Technology, at Oxford University’s Oxford Martin School, predicted that nearly half of all jobs in the United States could be replaced by computers over the next two decades.
+她并不是唯一做出这一预估的人。一项最近由牛津大学马丁学院(Oxford University’s Oxford Martin School)未来技术影响力项目(Program on the Impacts of Future Technology)发表的研究表明，在未来的二十年时，美国有近一半的工作岗位将会被电脑代替。
+Some researchers disagree. Kazumasa Oguro, professor of economics at Hosei University in Tokyo, argues that smart machines should increase employment. “Most economists believe in the principle of comparative advantage,” he said. “Smart machines would help create 20 percent new white-collar jobs because they expand the economy. That’s comparative advantage.”
+有些研究者对此并不赞同。小黑一正(Kazumasa Oguro)在位于东京的法政大学(Hosei University)任职经济学教授，他认为智能机器将会提高就业率。“绝大多数经济学家相信相对优势原则(principle of comparative advantage)，”他说，“智能机器可以帮助我们创造出20%的白领新工作，因为他们扩展了经济。这是一个相对优势。”
+Others are less sanguine. Noriyuki Yanagawa, professor of economics at Tokyo University, says that Japan, with its large service sector, is particularly vulnerable.
+其他人并没有这么乐观。东京大学的经济学教授柳川范之(Noriyuki Yanagawa)说，服务业发达的日本在这样的前景下是尤为脆弱的。
+“A.I. will change the labor demand drastically and quickly,” he said. “For many workers, adjusting to the drastic change will be extremely difficult.”
+“人工智能将极大地、迅速地改变对劳力的需求，”他说，“对许多工人来说，去适应这种巨大的改变会非常困难。”
+Smart machines will give companies “the opportunity to automate many tasks, redesign jobs, and do things never before possible even with the best human work forces,” according to a report this year by the business consulting firm McKinsey.
+据商业咨询公司麦肯锡(McKinsey)今年的一份报告指出，智能机器将为各个公司提供“将许多工作自动化、重新设计职位、完成连最出色的人类雇员都从未做到过的事情的机会”。
+Advances in speech recognition, translation and pattern recognition threaten employment in the service sectors — call centers, marketing and sales — precisely the sectors that provide most jobs in developed economies. As if to confirm this shift from manpower to silicon power, corporate investment in the United States in equipment and software has never been higher, according to Andrew McAfee, the co-author of “Race Against the Machine” — a cautionary tale for the digitized economy.
+语音识别、翻译以及规律识别方面技术的进展威胁着服务业的就业情况——呼叫中心、市场与销售——正是在发达经济体中提供最多岗位的那些行业。安德鲁·迈克菲(Andrew McAfee)曾与人合写《与机器赛跑》(Race Against the Machine)——一个对数字化的经济发出警告的故事，他指出，就像是在确认这种从人力转向机械力的转换一样，美国公司在装备与软件方面的投资从来没有像现在这样高过。
+Yet according to the technology market research firm Gartner, top business executives worldwide have not grasped the speed of digital change or its potential impact on the workplace. Gartner’s 2013 chief executive survey, published in April, found that 60 percent of executives surveyed dismissed as “‘futurist fantasy” the possibility that smart machines could displace many white-collar employees within 15 years.
+不过根据科技市场研究公司高德纳(Gartner)的研究，全球的顶尖商业高管们还没有理解数字化变革的速度或它对于职场的潜在影响。高德纳在2013年年4月发表的高管调查发现，对于在将来15年内智能机器可能会取代许多白领雇员的工作这一可能，有60%接受调查的高管认为这只是“未来主义者的幻想”而不予重视。

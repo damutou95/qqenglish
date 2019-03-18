@@ -1,0 +1,38 @@
+SAN FRANCISCO — Russian hackers have been systematically targeting hundreds of Western oil and gas companies, as well as energy investment firms, according to private cybersecurity researchers.
+旧金山——私人网络安全研究人员称，俄罗斯黑客一直在系统性地把数百家西方石油和天然气公司，以及能源投资公司作为攻击目标。
+The motive behind the attacks appears to be industrial espionage — a natural conclusion given the importance of Russia’s oil and gas industry, the researchers said.
+这些攻击背后的动机似乎是商业情报。研究人员称，考虑到俄罗斯石油和天然气行业的重要性，这是一个自然而然的结论。
+The manner in which the Russian hackers are targeting the companies also gives them the opportunity to seize control of industrial control systems from afar, in much the same way the United States and Israel were able to use the Stuxnet computer worm in 2009 to take control of an Iranian nuclear facility’s computer systems and destroy a fifth of the country’s uranium supply, the researchers said.
+研究人员表示，俄罗斯黑客把相关公司作为攻击目标的手法，也让他们有机会远程操纵工业控制系统，方式与美国和以色列在2009年用“震网”(Stuxnet)电脑蠕虫病毒控制伊朗一处核设施的计算机系统，并摧毁该国五分之一的铀供应时，所采取的做法大致相同。
+The Russian attacks, which have affected over 1,000 organizations in more than 84 countries, were first discovered in August 2012 by researchers at CrowdStrike, a security company in Irvine, Calif. The company noticed an unusually sophisticated and aggressive Russian group targeting the energy sector, in addition to health care, governments and defense contractors.
+俄罗斯的袭击已经影响了超过84个国家的1000余家组织机构。2012年8月，位于加州欧文的安全公司CrowdStrike的研究人员首次发现了这类攻击。该公司注意到，一个异常老练、咄咄逼人的俄罗斯组织正在针对能源领域，以及医疗保健、政府机构和国防承包商作为发动攻击。
+The group was named “Energetic Bear” because the vast majority of its victims were oil and gas companies. And CrowdStrike’s researchers believed the hackers were backed by the Russian government given their apparent resources and sophistication and because the attacks occurred during Moscow working hours.
+该组织被称为“活力熊”(Energetic Bear)，因为其绝大部分受害者都是石油和天然气公司。CrowdStrike的研究人员认为，这些黑客得到了俄罗斯政府的支持，因为他们看上去掌握着一定资源、颇为老练，而且袭击均发生在莫斯科的工作时间。
+A report released Monday by Symantec, a computer security company based in Mountain View, Calif., detailed similar conclusions and added a new element — the Stuxnet-like remote control capability.
+加州山景市的电脑安全公司赛门铁克(Symantec)周一发布了一份报告。报告中详细说明了类似的结论，并增加了一个新元素——与“震网”类似的远程控制能力。
+In addition to basic hacking techniques, like sending mass emails containing malicious links or attachments, the group infected websites frequented by energy workers and investors in what is known as a “watering hole attack.”
+除基本的黑客手段，如发送大量包含恶意链接或附件的电子邮件外，该组织还通过所谓的“水坑式攻击”的手段，感染能源行业工作人员和投资者常去的网站。
+In this attack, instead of targeting a victim’s computer network directly, hackers infect websites their targets visit often — like an online menu for a Chinese restaurant — with malicious software. Without knowing it, workers visiting that site inadvertently download the so-called malware and help the hackers get inside their computer network.
+在这种攻击中，黑客并非直接把受害者的电脑网络当做攻击目标，而是用恶意软件感染他们的目标经常访问的网站，比如中餐馆的网上菜单。在不知情的情况下，访问该网站的工作人员就会意外下载被称为恶意软件的代码，帮助黑客侵入自己的计算机网络。
+The Russian hackers were careful to cover their tracks, the researchers said. They hid their malware using encryption techniques that made it difficult to identify their tools and where they came from. In some cases, researchers found evidence that the hackers were probing the core of victims’ machines, the part of the computer known as the BIOS, or basic input/output system. Unlike software, which can be patched and updated, once a computer’s hardware gets infected, it typically becomes unusable.
+研究人员称，俄罗斯黑客小心翼翼地掩盖自己的痕迹。他们用加密手法隐藏恶意软件，这样人们就很难识别他们的工具和来源。在一些个案中，研究人员发现的证据显示，这些黑客正在探查受害者电脑的核心，也就是电脑中的BIOS，即“基本输入输出系统”。不同于可以修复和升级的软件，一旦硬件被感染，电脑通常就不能用了。
+F-Secure, the Finnish security firm, also told its clients last week about the Russian hacking group, which Symantec has named “Dragonfly.”
+上周，芬兰网络安全公司F-Secure也向其客户讲述了俄罗斯黑客组织的情况，赛门铁克将该组织命名为“蜻蜓”(Dragonfly)。
+In the past six months, researchers say the group has become more aggressive and sophisticated.
+过去六个月，研究人员说该组织变得更有攻击性、更老练了。
+The Russian hackers have been breaking into the networks of industrial control software, or I.C.S., makers, inserting so-called Trojans into the software used by many oil and energy firms to allow employees to remotely get access to industrial control systems. So when oil and gas companies downloaded the latest version of the software, they inadvertently downloaded the hackers’ malware as well.
+俄罗斯黑客侵入了工控软件厂商的网络，在许多石油和能源企业用来让员工远程操作工控系统的软件中植入了所谓的“木马”(Trojan)程序。于是，石油和天然气公司下载最新版本的软件时，就会在不知情的情况下把黑客的恶意软件也下载下来。
+At least three industrial control software developers were affected, according to researchers at Symantec, F-Secure and CrowdStrike. The first was a maker of remote access tools for industrial control systems; the second, a European manufacturer of specialized industrial control devices; and the third, a European company that develops systems to manage wind turbines, natural gas plants and other energy infrastructure. They were not named by the security companies because of confidentiality agreements.
+赛门铁克、F-Secure和CrowdStrike的研究人员表示，至少有三家工控软件厂商受到了影响。第一家是工控系统远端访问工具厂商；第二家是专门生产工控设备的欧洲企业；第三家是研发风力涡轮机、天然气厂，及其他能源设施管理系统的欧洲公司。由于有保密协议，安全公司没有透露这些公司的名称。
+Security researchers estimate that more than 250 companies downloaded the infected software updates.
+据安全研究人员估计，已有超过250家公司下载了受感染的软件更新。
+“These infections not only gave the attackers a beachhead in the targeted organizations’ networks, but also gave them the means to mount sabotage operations against infected I.C.S. computers,” Symantec wrote in its report Monday.
+赛门铁克在周一的报告中写道，“这些行动不仅使袭击者在目标组织的网络中取得了一个滩头堡，还给他们提供了一个对受感染的工控电脑实施破坏的途径。”
+There was no evidence the Russian group intended to use its toehold in some networks to inflict damage, like blowing up an oil rig or power facility, said Kevin Haley, the director of security response at Symantec, in an interview. The apparent motive, Mr. Haley said, was to learn more about energy companies’ operations, strategic plans and technology. “But the potential for sabotage is there,” he added.
+尚无证据显示俄罗斯黑客组织打算利用它在一些网络中的阵地来实施破坏，赛门铁克安全应对部门的负责人凯文·黑利(Kevin Haley)在采访中说，比如炸毁石油钻井平台或发电设备。黑利说，明显的动机是更多地了解能源公司的经营、战略计划与技术。他还说，“但实施破坏的可能性是存在的。”
+More recently, Energetic Bear has been targeting companies in the financial sector, said Adam Meyers, CrowdStrike’s head of threat intelligence. In particular, the group has been attacking, with the watering hole technique, some websites frequented by firms that invest in the energy sector.
+最近，CrowdStrike的威胁情报总监亚当·迈耶斯(Adam Meyers)说，“活力熊”已经将目标对准金融领域的公司。尤其值得一提的是，该组织还在利用水坑手法，攻击投资能源行业的一些公司经常访问的网站。
+Once someone visits an infected site, Mr. Meyers said, attackers will infect their system, scan their device to see if it is worth hacking, and then install sophisticated hacking tools. For devices deemed uninteresting, the attackers simply clean up their tools and move along.
+迈耶斯说，一旦有人访问受到感染的网站，黑客就会入侵他们的系统，并扫描他们的设备，以确定是否值得攻击，然后再植入先进的黑客工具。对于一些被认为没有价值的设备，黑客就会清除自己的工具，接着寻找其他目标。
+“They are very aggressive,” Mr. Meyers said. “And very careful to cover their tracks.”
+“他们攻击性很强，”迈耶斯说。“也在非常小心地掩盖他们的足迹。”

@@ -1,0 +1,42 @@
+Long before the commercial success of the Internet, Brian J. Fox invented one of its most widely used tools.
+早在互联网取得商业成功之前，布赖恩·J·福克斯(Brian J. Fox)就发明了互联网中使用最广泛的工具之一。
+In 1987, Mr. Fox, then a young programmer, wrote Bash, short for Bourne-Again Shell, a free piece of software that is now built into more than 70 percent of the machines that connect to the Internet. That includes servers, computers, routers, some mobile phones and even everyday items like refrigerators and cameras.
+1987年，年轻的程序员福克斯编写了Bash（Bourne-Again Shell的简称）。如今，逾70%连入网络的机器都装有该免费软件，比如服务器、电脑、路由器、某些类型的手机，乃至冰箱和相机等日常用品。
+On Thursday, security experts warned that Bash contained a particularly alarming software bug that could be used to take control of hundreds of millions of machines around the world, potentially including Macintosh computers and smartphones that use the Android operating system.
+周四，安全专家警告，Bash存在一个极其令人担忧的软件漏洞，而这一漏洞可以被用于控制世界范围内数以亿计的机器，或许会危及麦金塔电脑(Macintosh)和使用Android操作系统的智能手机。
+The bug, named “Shellshock,” drew comparisons to the Heartbleed bug that was discovered in a crucial piece of software last spring.
+这个名为“Shellshock”的漏洞被拿来与今年春天在一重要软件中发现的“心脏出血”(Heartbleed)漏洞作比较。
+But Shellshock could be a bigger threat. While Heartbleed could be used to do things like steal passwords from a server, Shellshock can be used to take over the entire machine. And Heartbleed went unnoticed for two years and affected an estimated 500,000 machines, but Shellshock was not discovered for 22 years.
+不过，Shellshock有可能会带来更大的威胁。“心脏出血”漏洞可以被用于从服务器上盗取密码等行动，而Shellshock则可以用于控制整台机器。前者潜伏了两年，给大约50万台机器造成影响，而后者潜伏了22年后才被发现。
+That a flawed piece of code could go unnoticed for more than two decades could be surprising to many. But not to programmers.
+一种存在漏洞的代码能够在20多年的时间里不被发现，这可能会令很多人感到震惊。但程序员们并不吃惊。
+Many of the commercial tools that individual users and large corporations depend upon are built on top of programs that are written and maintained by a few unpaid volunteers in what is called the open-source community. That community, along with big companies like Google, adjusts and builds new things on top of older work. The Macintosh operating system, for example, is routinely updated, but it is built on top of older programs like Unix.
+个人用户及大型企业依赖的很多商用工具，基于的都是由开源社区的几名无偿志愿者编写并维护的程序。谷歌(Google)等大公司与开源社区一样，都是在之前产品的基础上改造、创造新东西。例如，麦金塔操作系统会定期更新，但它建立在Unix等老版程序的基础之上。
+Sometimes there are flaws in that code. And over the years, the flaw becomes part of all sorts of products.
+有时候，这种代码会出现漏洞。随着时间的流逝，漏洞成为了各种产品的一部分。
+Mr. Fox maintained Bash — which serves as a sort of software interpreter for different commands from a user — for five years before handing over the reins to Chet Ramey, a 49-year-old programmer who, for the last 22 years, has maintained the software as an unpaid hobby. That is, when he is not working at his day job as a senior technology architect at Case Western Reserve University in Ohio.
+福克斯对Bash——相当于用于解读用户不同指令的软件——维护了五年，然后将它交给现年49岁的程序员切特·雷米(Chet Ramey)。这项工作雷米一干就是22年，纯属业余爱好，没有报酬。他平时在凯斯西储大学(Case Western Reserve University)担任高级技术架构师，业余时间才维护Bash。
+Mr. Ramey said in an interview on Thursday that he believed he inadvertently introduced Shellshock in a new Bash feature in 1992, though he could not be sure because back then he was not keeping comprehensive logs. Through the years, he maintained Bash by himself and occasionally bug reports would arrive in his email inbox.
+雷米周四接受采访时表示，他认为是自己在1992年推出Bash的一项新功能时无意间引入了Shellshock，但他无法确定，因为当时没有进行详细的记录。这些年来，他一个人维护Bash，邮箱里偶尔会收到错误报告。
+On Sept. 12, he was contacted by Stephane Chazelas, another open-source enthusiast, about a potentially dangerous bug.
+9月12日，另一名开源爱好者斯特凡·查泽拉斯(Stephane Chazelas)联系上他，称存在一个可能很危险的漏洞。
+Mr. Chazelas discovered the flaw after finding a similar issue in another system a few months back. He tested the bug — which he called “Bashdoor”— against his own servers and looked for ways to detect and fix it.
+在发现这个漏洞的几个月前，查泽拉斯在另外一个系统里找到了类似问题。他在自己的服务器上测试这个被他称为“Bashdoor”的漏洞，并寻找修复它的方法。
+Working with Mr. Ramey and people who work on open-source security, Mr. Chazelas had a patch within hours. Then they contacted major software makers while trying to avoid tipping off hackers.
+与雷米和开源社区的安全工作人员合作，查泽拉斯数小时内就编写好了补丁。然后他们开始联系各大软件厂商，同时试图避免把风声走漏给黑客。
+An official alert from the National Institute of Standards and Technology warned that the vulnerability was a 10 out of 10, in terms of its severity, impact and exploitability, but low in terms of its complexity, meaning that it could be easily used by hackers.
+美国国家标准与技术研究院(National Institute of Standards and Technology)发出了正式警告，宣称在严重程度、影响和可利用性方面，该漏洞达到了最高分10，而且它的复杂性较低，这就意味着很容易被黑客利用。
+Security researchers say that as soon as the bug was reported they detected widespread Internet scanning by so-called white hat hackers — most likely security researchers — as well as people thought to be cybercriminals. The worry is that it is only a matter of time before somebody writes a program that will use Shellshock to take them over.
+安全研究人员说，这个漏洞一经通报，他们就发现，通常所说的“白帽黑客”——很可能是安全研究人员——以及有网络罪犯嫌疑的人，均对互联网进行了全面扫描。他们担心，迟早会有人编写一个程序，利用Shellshock来控制机器。
+Researchers noted that it would be much easier for this to happen with Internet-connected servers than with a personal Macintosh laptop, because individuals would have to connect their laptops to a public network that hackers knew they were connected to in order to exploit the vulnerability.
+研究人员指出，相较于麦金塔个人笔记本电脑，连接到互联网的服务器远远更容易受到这种攻击，因为你必须把自己的笔记本电脑连接到一个公共网络上，而且黑客需要知道你连接到哪个网络上，才能利用这个漏洞攻击你。
+Apple did not return a call seeking comment.
+苹果尚未回应置评请求。
+The Department of Homeland Security’s Computer Emergency Readiness Team, US-CERT, advised users and technology administrators to refer to their Linux or Unix-based operating systems suppliers for an appropriate patch. For users at home, security experts advised them to stay abreast of software updates and check manufacturer websites, particularly for hardware like routers.
+国土安全部旗下的计算机应急小组（Computer Emergency Readiness Team，简称US-CERT）建议用户和技术管理人员通知Linux或Unix操作系统的供应商，请他们提供相应的补丁。对于家庭用户，安全专家建议保持软件更新到最新版本，并查看生产商网站上的信息，特别是针对路由器这样的硬件。
+Even as some question the open-source community, its biggest advocates say the bug’s discovery — even after 22 years — at least proves that programmers never stop trying to get things right.
+即使一些人对开源社区有所质疑，但其最大的支持者提出，该漏洞被发现——就算是22年后才发现——至少也证明了程序员从来没有停止过纠错工作。
+In an interview Thursday, Mr. Fox, the Bash inventor, joked that his first reaction to the Shellshock discovery was, “Aha, my plan worked.”
+在本周四接受采访时，Bash的发明者福克斯开玩笑说，对于发现Shellshock漏洞这件事，他的第一反应是，“啊哈，我的计划成功了。”
+After the Heartbleed bug was discovered last spring, the nonprofit Linux Foundation worked with major technology companies like Amazon, Apple and Google on the Core Infrastructure Initiative, an effort to identify and fund core pieces of open-source infrastructure. Contacted Thursday, Jim Zemlin, the executive director of the Linux Foundation, said the initiative was contacting Mr. Ramey to see how it could help.
+今年春天“心脏出血”漏洞被发现后，非营利组织Linux基金会成立了核心基础设施联盟(Core Infrastructure Initiative)，与亚马逊(Amazon)、苹果(Apple)和谷歌(Google)等各大科技公司开展合作。该联盟的目的是识别和资助开源基础设施的核心件。本周四接受采访时，Linux基金会的执行总监吉姆·泽姆林(Jim Zemlin)称，该联盟正在联系雷米，看看他有没有需要帮忙的地方。

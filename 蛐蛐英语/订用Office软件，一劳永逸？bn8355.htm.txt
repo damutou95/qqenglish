@@ -1,0 +1,50 @@
+It must be tough to be on the Microsoft Office team. Year after year, you’re given the same assignment: add new features to Word, Excel, PowerPoint and Outlook. New features that people will pay for, but that won’t turn Microsoft’s cash cow into a bloated, sloshing mess.
+在微软办公软件Microsoft Office的团队工作必定是很艰辛的。一年又一年，你的任务都是一样的：给Word、Excel、PowerPoint和Outlook添加新的功能。这些新功能一方面将是人们愿意花钱购买的，另一方面不致把微软的“摇钱树”软件搞得庞大臃肿、速度缓慢。
+But how do you do that? Microsoft Word is already a word processor, a Web design program, a database and a floor wax. What on earth is left to add?
+但你怎么做到呢？微软的Word软件已经是文字处理器、网页设计程序、数据库、甚至还可用来给地板上蜡。究竟还能添加什么功能呢？
+For the last few versions, Microsoft has mostly shuffled around existing features. Reorganizing them into a Ribbon toolbar to make them easier to find, for example, or brightening the background for a cleaner look.
+此前的几个版本中，微软最多只是在几个已有的功能上做文章。例如，把它们重新放进Ribbon工具栏，以便于用户寻找，或增加背景的亮度，让其看起来更加干净。
+This year, the biggest news isn’t the software, but how you pay for it.
+今年，最大的新闻不是关于软件本身，而是你花钱购买的方式。
+Way 1: buy the Office suite as you always have, for $140 (Word, Excel, PowerPoint, OneNote) to $400 (those programs plus Outlook, Access and Publisher).
+方法1：像之前一样，买下Office套装软件，价格是140美元（Word、Excel、PowerPoint、OneNote）到400美元（外加Outlook、Access和Publisher）。
+Way 2: buy an annual subscription to these programs for $100 a year. That plan is called Office 365. (That’s right: the programs known for a year as Office 15 are sold as Office 2013, and available through Office 365. Nobody ever accused Microsoft of clarity in naming.)
+方法2：以一年100美元的价格订用这些软件。该计划被称为Office 365。（是的：Office 15这个名称叫了一年，后来改名Office 2013进行出售，并可通过Office 365计划获得。从来没有人指控微软在命名方面清晰明确。）
+Microsoft argues that this subscription offers all kinds of benefits. First, you can download and run the Office programs on up to five computers, including Macs and PCs. You can change which five they are at any time. (Windows PCs get Office 2013, with settings magically synced across computers. Macs get the older, less refined Office 2011 for Mac.)
+微软称，订用Office 365可以带来各种好处。首先，你可以在至多五台电脑上（包括Mac和PC）下载并运行Office软件。你可以在任何时候更换这五台电脑。（使用Windows操作系统的PC可以安装Office 2013，其设置可在不同电脑间神奇同步。Mac只能安装较早的、不那么精致的Office 2011 for Mac。）
+If your home or office has a bunch of computers, you could save money; buying five copies outright would set you back $700. That’s more economical only if you plan to use that increasingly ancient version for at least seven years.
+如果你家里或办公室里有几台电脑，那你有可能省钱；一次性购买五套会花掉你700美元。只有在你打算使用一个日渐过时的版本至少7年的情况下，这么做才会省钱。
+With a subscription, you’ll always get the latest version — Office 2015, Office 2031, Office 2119 — but, of course, you have to pay $100 a year forever. (If your subscription lapses, you can open or print your documents, but you can’t edit them or create new ones.)
+订用后，你就能一直获得最新版本——Office 2015、Office 2031、Office 2119——但当然，你以后每年都得支付100美元。（如果你的订用过期，你能打开或打印文档，但不能编辑或者新建文档。）
+You might be appalled at the notion of paying Microsoft an annual fee forever to get something you used to own outright. Or you might like the idea of a fixed, knowable fee that keeps you up to date.
+每年向微软支付费用以获得你本来可以一次性购得的东西——这种概念可能让你震惊。当然，你也可能喜欢这个概念：支付一笔固定、已知的费用，确保及时得到最新版软件。
+Either way, an Office 365 subscription gets you more than just five copies of the software. It also includes Office on Demand, which is the ability to download Office programs onto any Windows 7 or Windows 8 computer — at a branch office or a friend’s house, say. Touch up your slides, write up that proposal; when you log out, the downloaded Office software vanishes.
+无论你喜欢与否，订购Office 365后，你得到的不仅仅是五套Office软件。你还将获得Office on Demand服务，该服务让你能把Office软件下载到任何一台Windows 7或者Windows 8电脑上——比如说分支机构的办公室或朋友家的一台电脑。润色一下你的幻灯片，完成那份报告；当你退出后，你所下载的Office软件也将随之消失。
+The SkyDrive is a free 7-gigabyte online storage disk for files that you want to access from anywhere, from any computer, tablet or smartphone with an Internet connection. In Office 13, it’s more important; in fact, the factory setting is to save new documents onto your SkyDrive. And if you subscribe to Office 365, you get another 20 gigabytes. That’s a lot of slides and spreadsheets.
+SkyDrive是一项7GB的免费云存储服务，你可以通过任一联网电脑、平板或者智能手机，从任何地方访问里面的文档。在Office 2013中，这个服务更为重要；实际上，这套软件的出厂设置就是把新建文档存储到SkyDrive上。订购Office 365后，你能获得额外20GB的储存空间。这可是很多幻灯片和电子表格呢。
+Even that isn’t the end of the pot-sweetening. The same $100 fee also buys you one hour a month of free Skype-to-phone calls. (Microsoft bought Skype last year.) That is, from a computer, tablet or phone that has Skype installed, you can call to regular landline or cellphone numbers — something that usually costs a few cents a minute. (Calls to computers and smartphones, using Skype addresses, like Skibunny20304, are still free.)
+好戏还没完。支付了这100美元的订费后，你每月还能免费用Skype给普通电话打一个小时的电话。（微软去年收购了Skype。）也就是，从装有Skype的电脑、平板或者智能手机致电固定电话或者手机——通常这需要收取每分钟几美分的话费。（利用Skype账户，比如Skibunny20304，给电脑或者智能手机打电话，仍是免费的。）
+So far, it must sound as if the only thing new in Office 2013 is how you pay for it. But there are also plenty of nips and tucks to the software itself.
+说到现在，听起来好像Office 2013唯一新颖之处就是花钱购买它的方式。但其实软件本身还是有不少变动的。
+The programs have a new design that matches the clean, rectangular lines of Windows 8’s Start screen. No drop shadows, shaded toolbars or rounded corners on buttons or boxes.
+Office软件有了全新的设计，和Windows 8“开始”屏幕简洁、长方形线条十分相符。投影效果、有阴影效果的工具栏没了，按钮或者对话框上的圆角也不见了。
+Speaking of touch screens — and Microsoft has been speaking of them incessantly lately — a new Touch Mode is supposed to spread out Office’s buttons and menu items, so that you can more easily hit them with a finger. It’s not much spreading, though. You’ll still wish you had a mouse.
+说到触摸屏——最近微软不停地说到触摸屏——一个新的触摸模式理应把Office的按钮和菜单项铺开，让你更易于用手指触屏来操作。但是铺开的程度并不大。你还是会想要一个鼠标。
+Each Office program now has a new File-menu “experience,” which is Microsoft’s goofy word for “screen.” When you select one of the File menu’s commands — Open, Save, Print, Share and so on —  that File menu stays open, and the corresponding options for printing, saving or sharing appear in the main part of the window. It’s a good idea; it feels like fewer steps. (Only the Options command violates the consistency; it opens the usual preferences dialogue box.)
+现在，每一款Office软件都有一个新的文件菜单“体验”，这是微软用来指“屏幕”的一个很傻的词。当你选择文件菜单中的任一命令时——打开、保存、打印、分享等等——文件菜单仍然开着，相应的打印、保存或者分享选项出现在窗口的主要位置上。这是个不错的构想；感觉上省了一些步骤。（只有点“选项”菜单命令才会出现不一样的“体验”；它会打开寻常的偏好选项对话框。）
+There’s animation, too. The insertion-point cursor seems to glide along as you type; highlighting seems to flow from one Excel cell to another. In PowerPoint, your slides change in real time as you point to different design templates (before you actually click); Excel does the same as you browse chart types.
+还有一些动态效果。插入光标似乎随着你打字的进度而向前滑动；高亮效果也从Excel的一个单元格流向另一个单元格。在PowerPoint中，当你把鼠标指向不同的设计模板时（在实际点击前），幻灯片就会实时出现变换的预览效果；使用Excel时，浏览图表类型也有同样的效果。
+Microsoft has also created an app store for Office. Most of the software bits here are free; for example, you can add new chart styles to Excel, Twitter feeds to Outlook or language translation dictionaries to Word. It’s a sparse but intriguing catalog.
+微软还给Office建了app商店。这里的多数软件插件是免费的；比如，你可以给Excel增添新的图表风格，给Outlook安装查看Twitter帖子的功能，或者给Word配备语言翻译字典。App产品目录的内容不多，但很有意思。
+Each individual program has some new goodies, too. For example, Word can, after a moment of processing, open and save PDF documents. That’s genuinely useful, but it doesn’t work consistently. Some PDF documents open only as un-editable graphics — not as text — and some layouts shift quite a bit when converted to Word’s format.
+每一款软件都增添了一些新的有用功能。比如，在进行简短的处理后，Word能够打开和保存PDF文档。这真的很有用，但不是一直好用。一些PDF文档只能以无法编辑的图表格式（而不是文本格式）打开，而且转换成Word格式后，一些PDF文档的版面布局会出现不小的变化。
+Whenever you open a document, a little clickable balloon offers to take you to the spot where you stopped last time, even it was on another device; very slick. There’s also a Reading Mode, which lends any document a handsome, e-booklike layout.
+每次打开一个文档后，一个可点击的小气球可以把你带到你上次停下操作的地方，即使是在另外一个设备上；非常便捷。还有一个阅读模式，可以让任何文档变成类似于电子书的版面布局，颇为美观。
+In Excel, when you highlight some cells, a tiny tab button appears below and to the right. Click it to open a pop-up palette of relevant options: charting, formatting, totals and so on. Yes, these options are also on the Ribbon — but as you point to these, the formatting of your selected cells changes in real time. That way, you can try on the formatting without committing to anything.
+在Excel软件里，当你高亮一些单元格时，一个小小的标签按钮会出现在右下方，点按后将弹出相关选项的菜单，比如绘图、格式、加和等。当然，这些选项在Ribbon功能区上也有，但是当你移到此处的选项上，被选中的单元格的格式会出现相应的实时变化，这样，你可以不用真的完成，就能尝试各种格式。
+PowerPoint’s upgrades are similarly minor but welcome. For example, you can now snag a photo directly from your online Flickr or Facebook account, without having to download and save it first. And music that starts on one slide can now continue playing even as you move onto other slides.
+PowerPoint的改进也差不多细小而又可喜。比方说，现在可以直接从自己在网上的Flickr和Facebook账户上拖拽照片到幻灯片上，而无需先下载并保存。一张幻灯片上的音乐可以在你移动到其他幻灯片后继续播放。
+In Outlook, the touch-ups include “inline replies”: when you click Reply, you can type your response above the original message, without opening a new window. You can take a peek at your correspondents’ Facebook or LinkedIn posts right there beneath their messages. The calendar now displays the weather for the next few days, so you’ll know what to wear or pack. And you can now set up Hotmail and other Web-based e-mail accounts without needing add-on “connector” plug-ins.
+在Outlook软件里，改进包括“内联回复”功能：当你点击“回复”键的时候，可以在来信的上方直接输入回信，而不会弹出一个新窗口。你还可以在通讯者的邮件正文下方一窥他们的Facebook和LinkedIn帖子。日历功能现在可以显示出未来几天的天气情况，这样你就能知道该穿什么或者出门该带什么。而且，你还可以直接设置Hotmail或其他网页版电子邮箱账户，而无需首先安装“连接器”插件。
+Office is still enormous, complex and sprawling. It’s still about 47,000 times more software than anybody really needs. And you can still manage perfectly well without it; Google and OpenOffice.org still offer free equivalents of Word, Excel and PowerPoint. They’re not anywhere near as refined or feature-packed as Office 2013, but they get the job done, and they make collaboration easy.
+不过，Office一如既往地庞大、复杂而散乱，仍比任何人的实际需要多上4.7万倍。而且，你一如既往地可以不用Office也过得很好。Google和OpenOffice.org仍在提供Word、Excel和PowerPoint的免费替代品。它们远不如Office 2013那样精致而功能丰富，但是它们可以完成工作，而且很容易协同作业。

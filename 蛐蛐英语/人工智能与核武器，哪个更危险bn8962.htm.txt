@@ -1,0 +1,34 @@
+Ebola sounds like the stuff of nightmares. Bird flu and SARS also send shivers down my spine. But I’ll tell you what scares me most: artificial intelligence.
+埃博拉病毒听起来像噩梦。禽流感和SARS也让我脊背发凉。但是我告诉你什么让我最害怕：人工智能。
+The first three, with enough resources, humans can stop. The last, which humans are creating, could soon become unstoppable.
+如果有足够的资源，人类能阻止前三项疾病的传播。但最后一项是由人类所创造，它很快将变得无法阻挡。
+Before we get into what could possibly go wrong, let me first explain what artificial intelligence is. Actually, skip that. I’ll let someone else explain it: Grab an iPhone and ask Siri about the weather or stocks. Or tell her “I’m drunk.” Her answers are artificially intelligent.
+在我们探讨可能出现什么问题之前，让我先解释一下什么是人工智能。实际上不用我解释。我让别人来解释一下。你拿起iPhone，问问Siri天气和股票情况。或者对她说“我喝醉了”，她的回答就是人工智能的结果。
+Right now these artificially intelligent machines are pretty cute and innocent, but as they are given more power in society, these machines may not take long to spiral out of control.
+现在，这些人工智能机器非常可爱、无辜，但是随着它们在社会上被赋予更多权力，用不了多久它们就会失控。
+In the beginning, the glitches will be small but eventful. Maybe a rogue computer momentarily derails the stock market, causing billions in damage. Or a driverless car freezes on the highway because a software update goes awry.
+一开始只是些小毛病，但是它们意义重大。比如，一台出现故障的电脑瞬间让股市崩溃，导致数十亿美元的损失。或者一辆无人驾驶汽车因软件升级错误在高速公路上突然静止不动。
+But the upheavals can escalate quickly and become scarier and even cataclysmic. Imagine how a medical robot, originally programmed to rid cancer, could conclude that the best way to obliterate cancer is to exterminate humans who are genetically prone to the disease.
+但是这些骚乱能快速升级，变得非常可怕，甚至变成大灾难。想像一下，一个最初用来对抗癌症的医用机器人可能得出这样的结论：消灭癌症的最佳方法是消灭那些从基因角度讲易于患病的人。
+Nick Bostrom, author of the book “Superintelligence,” lays out a number of petrifying doomsday settings. One envisions self-replicating nanobots, which are microscopic robots designed to make copies of themselves. In a positive situation, these bots could fight diseases in the human body or eat radioactive material on the planet. But, Mr. Bostrom says, a “person of malicious intent in possession of this technology might cause the extinction of intelligent life on Earth.”
+《超级智能》(Superintelligence)一书的作者尼克·博斯特罗姆(Nick Bostrom)描述了几种会导致人类灭绝的可怕情况。一种是能自我复制的纳米机器人。在理想情态下，这些机器人能在人体内战胜疾病，或者消除地球上的放射性物质。但博斯特罗姆说，“如果有邪恶企图的人掌握了这种技术，那可能导致地球上智能生命的灭绝。”
+Artificial-intelligence proponents argue that these things would never happen and that programmers are going to build safeguards. But let’s be realistic: It took nearly a half-century for programmers to stop computers from crashing every time you wanted to check your email. What makes them think they can manage armies of quasi-intelligent robots?
+人工智能支持者们辩称，这些事情永远都不会发生，程序员们会设置一些防护措施。但是让我们现实一点：程序员们花了近半个世纪才能让你在每次想查看邮件时电脑不崩溃。是什么让他们认为自己能够驾驭这些准智能机器人大军？
+I’m not alone in my fear. Silicon Valley’s resident futurist, Elon Musk, recently said artificial intelligence is “potentially more dangerous than nukes.” And Stephen Hawking, one of the smartest people on earth, wrote that successful A. I. “would be the biggest event in human history. Unfortunately, it might also be the last.” There is a long list of computer experts and science fiction writers also fearful of a rogue robot-infested future.
+不是只有我一个人有这样的担心。硅谷的常驻未来主义者埃隆·马斯克(Elon Musk)最近说，人工智能“可能比核武器还危险”。斯蒂芬·霍金(Stephen Hawking)是地球上最聪明的人之一。他写道，成功的人工智能“会是人类历史上最重大的事件。不幸的是，它也可能会是最后一个大事件”。还有很多计算机专家和科幻小说作家担心未来的世界充满故障机器人。
+Two main problems with artificial intelligence lead people like Mr. Musk and Mr. Hawking to worry. The first, more near-future fear, is that we are starting to create machines that can make decisions like humans, but these machines don’t have morality and likely never will.
+人工智能有两个主要问题让马斯克和霍金等人担忧。离我们较近的一个问题是，我们正在创造一些能像人类一样做决定的机器人，但这些机器没有道德观念，而且很可能永远也不会有。
+The second, which is a longer way off, is that once we build systems that are as intelligent as humans, these intelligent machines will be able to build smarter machines, often referred to as superintelligence. That, experts say, is when things could really spiral out of control as the rate of growth and expansion of machines would increase exponentially. We can’t build safeguards into something that we haven’t built ourselves.
+第二个问题离我们较远。那就是，一旦我们创造出和人一样智能的系统，这些智能机器将能够建造更智能的机器，后者通常被称为超级智能。专家们说，到那时，事情真的会迅速失控，因为机器的增长和膨胀速度将是迅猛的。我们不可能在自己尚未建立的系统中设置防护措施。
+“We humans steer the future not because we’re the strongest beings on the planet, or the fastest, but because we are the smartest,” said James Barrat, author of “Our Final Invention: Artificial Intelligence and the End of the Human Era.” “So when there is something smarter than us on the planet, it will rule over us on the planet.”
+“我们人类掌控未来不是因为我们是地球上最强壮或最快的生物，而是因为我们是最智能的，”《我们的终极发明：人工智能和人类时代的终结》(Our Final Invention: Artificial Intelligence and the End of the Human Era)的作者詹姆斯·巴拉(James Barrat)说，“所以当这个星球上有比我们更智能的东西时，它将统治地球。”
+What makes it harder to comprehend is that we don’t actually know what superintelligent machines will look or act like. “Can a submarine swim? Yes, but it doesn’t swim like a fish,” Mr. Barrat said. “Does an airplane fly? Yes, but not like a bird. Artificial intelligence won’t be like us, but it will be the ultimate intellectual version of us.”
+更难理解的是，我们并不确切知道超级智能机器的外形或行为方式。“潜水艇会游泳吗？会，但它的游泳方式跟鱼不同，”巴拉说，“飞机会飞吗？会，但它的飞行方式跟鸟不同。人工智能不会跟我们一模一样，但它将是我们的终极智能版本。”
+Perhaps the scariest setting is how these technologies will be used by the military. It’s not hard to imagine countries engaged in an arms race to build machines that can kill.
+也许最可怕的是这些技术将会如何被军队利用。不难想像那些正在进行军备竞赛的国家会制造能杀人的机器。
+Bonnie Docherty, a lecturer on law at Harvard University and a senior researcher at Human Rights Watch, said that the race to build autonomous weapons with artificial intelligence — which is already underway — is reminiscent of the early days of the race to build nuclear weapons, and that treaties should be put in place now before we get to a point where machines are killing people on the battlefield.
+邦妮·多彻蒂(Bonnie Docherty)是哈佛大学的法律讲师，也是人权观察组织的高级研究员。她说，人工智能自主武器的军备竞赛正在进行，这让人想起了核武器竞赛的初期；在这些机器人上战场杀人之前，我们必须先订好条约。
+“If this type of technology is not stopped now, it will lead to an arms race,” said Ms. Docherty, who has written several reports on the dangers of killer robots. “If one state develops it, then another state will develop it. And machines that lack morality and mortally should not be given power to kill.”
+“如果现在不制止这种技术，它将会导致军备竞赛，”多彻蒂说。她写过几个报告，讲述杀手机器人的危险。“如果一个国家在开发它，那另一个国家也会开发。这些致命的机器缺乏道德观念，不应该被赋予杀人权力。”
+So how do we ensure that all these doomsday situations don’t come to fruition? In some instances, we likely won’t be able to stop them.
+那么我们如何保证所有这些世界末日的情形不会成为现实？在某些情况下，我们很可能无法阻止它们。

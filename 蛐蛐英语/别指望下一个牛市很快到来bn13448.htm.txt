@@ -1,0 +1,28 @@
+The smart advice during a falling stock market is not to panic. Selling out of panic often leads investors to miss out on the market recoveries that typically follow a drop, because it’s all but impossible to predict when such a recovery will begin.
+在股市跳水期间，明智的建议是不要恐慌。下跌过后，市场往往会反弹，但因为根本不可能预测这种反弹何时开始，出于恐慌而抛售，常常会导致投资者错失良机。
+But here is some different advice that’s worth hearing during a week like the current one: Don’t expect the next few decades of stock returns to be as good as the last few. Be prepared for a period in which market dips are not inevitably followed by bull markets that make the dips look like footnotes. Be prepared for something like mediocrity or even disappointment.
+但在本周的情况下，有一些不同的建议值得听听：不要指望未来几十年的股票收益会像过去几十年那么好。准备好面对一个新阶段：在经历市场跳水后，不一定会出现新一轮牛市，让之前的跌势显得像是个脚注。准备好接受市场表现平庸，甚至令人失望的局面吧。
+Why do I say this? Because stocks can’t boom forever. And the last 30 years, for all of their ups and downs, have mostly resembled one long boom. Stocks began rising in the early 1980s, and every market correction since then, including the financial crisis of 2007-8, has been quickly erased.
+为什么说这些？因为股市不可能永远繁荣。而过去的30年，虽然有涨有跌，但总体上还是像一个长久的繁荣期。80年代初期，股市开始上涨。自那以后的每一次市场调整，包括2007年到2008年的金融危机，都很快被抚平了。
+As a result, stock prices today remain historically expensive, even after the declines of recent weeks. Stocks are more highly valued than at any point from the 1940s through the mid-1990s, relative to long-term corporate earnings.
+结果就是，即便经历了最近几周的下跌，当前的股价依然处于历史高位。相对于企业的长期收益前景，现在股价被高估的程度，比40年代一直到90年代中期的任何一个时间点都更严重。
+Why does this comparison matter? Stocks are effectively a claim on the future earnings of companies. When stocks are expensive relative to past earnings, it’s harder for future earnings to live up to investors’ hopes.
+这种比较为什么重要？股票实际上代表着对企业未来收益的权利。如果股价相对于过去的收益显得太贵，那么未来的收益就更难达到投资者的期望。
+It’s true that there are some reasons to believe stocks should be more expensive than in earlier decades. The low level of interest rates — which holds down corporate costs and makes competing investments less attractive, increasing demand for stocks — is one such reason. The absence of big wars involving many countries, and the resulting destruction, is another, as the economist John Campbell has noted. A third reason is workers’ relative lack of bargaining power these days, which holds down wages to the benefit of profits.
+诚然，有一些原因会让人们认为，股价应该比早前几十年高。低利率是其中的原因之一。低利率压低了企业经营成本，降低了其他投资渠道的吸引力，同时提高了投资者对股票的需求。就像经济学家约翰·坎贝尔(John Campbell)指出的那样，另一个原因是没有发生涉及很多国家因而会带来巨大破坏的大规模战争。还有一个原因是，如今员工相对缺少议价权，这压低了工资，对企业利润有利。
+But, as I argued in May 2014, when making the case that stocks looked expensive:
+但就像我在去年5月提出，当时股价似乎过高时所说的：
+… any argument that depends on the notion of a new paradigm is one you should treat with a healthy amount of skepticism. Those arguments are usually wrong. They were wrong in the 1920s, when the economist Irving Fisher coined the phrase “permanently high plateau” to describe stocks. They were wrong in 1999, when the book “Dow 36,000” appeared. They were wrong in 2007, on the eve of the financial crisis.
+“……对于任何一种需要依靠新范式来论述的观点，都应该持合理的怀疑态度。因为那些论述通常都是错的。1920年代，经济学家欧文·费雪(Irving Fisher)创造出‘永久性的高地’(permanently high plateau)这个说法来描述股市时，就犯了这种错误。1999年，当《道指36000点》(Dow 36,000)一书面世时，其中的论述仍是错的。到金融危机前夕的2007年，一些论述还是错的。”
+“You can always think of reasons of why now is different,” Mr. Shiller told me, when I called him recently to ask his view of today’s stock prices. “But maybe the mind is too creative in thinking of how it’s different.”
+前不久，我打电话给席勒，问他对当前股价的看法。他对我说，“人们总有理由认为今时不同以往。但在认为如何不同这一点上，人的头脑可能太有创造力了。”
+Mr. Shiller, of course, is Robert Shiller, an economist and Nobel laureate whose data you see here. (I’ve updated the most recent data point.) It shows the value of the Standard & Poor’s 500 index relative to the earnings of the companies in that index over the prior 10 years. The 10-year span is long enough to include both economic good times and bad times.
+席勒当然指的是经济学家、诺贝尔奖得主罗伯特·J·席勒(Robert J. Shiller)，大家可以看看他提供的数据。（我更新了最新的数据点。）这些数据展示了标准普尔500指数相对于该指数所涵盖公司之前10年的收益值。10年的跨度足够包含经济形势好的时期和不好的时期。
+That data series cannot predict the future of the stock market. Nothing can. But it has as good a record as any metric in pointing out when stocks seem broadly undervalued or overvalued. It soared above 30 in 1929 and above 40 in 1999. It fell below 10 in the late 1970s and early 1980s, before the long three-decade stock boom began.
+这一系列数据无法预测股市的未来，也没有什么能够预测未来。但这些数据作为一种很好的度量标准，可以指出股票被普遍低估或高估的时期。这一数据在1929年飙升超过30，在1999年更是超过40。在20世纪70年代末80年代初降至10以下，此后进入了长达30年的股市繁荣发展时期。
+The New York Times columnist Paul Krugman (another Nobel laureate) noted in his Monday column that the world is suffering from a savings glut. “We’re seeing,” he wrote, “what happens when too much money is chasing too few investment opportunities.” What happens are bubbles — in stocks, real estate and other assets, in the United States, Asia and elsewhere. Neil Irwin has described the phenomenon as “the everything bubble.”
+《纽约时报》专栏作家保罗·克鲁格曼（Paul Krugman，又一位诺贝尔奖获得者）在周一发表的专栏文章中指出，整个世界因为储蓄过剩而受到损害。他写道：“我们看到，当过多资金追逐过少的投资机会时会发生什么。”那就是泡沫——美国、亚洲及其他地方的股市、房地产及其他资产都出现泡沫。尼尔·欧文( Neil Irwin)将这种现象描述为“一切皆泡沫”。
+The stock market is no longer in nearly as big or as bad of a bubble as it was in 1999 or 2007. But the market is still historically expensive. When it’s expensive, bad days happen more often than when it’s cheap.
+股市泡沫不像1999年或2007年的泡沫那样大，也没那么糟糕。但股市仍处于历史高位。与股价较低时相比，股价较高的时候更常出现糟糕的日子。
+None of this means you should start selling your stocks. They’re probably still the best long-term investment that exists. Just don’t get fooled into thinking that they’re always as good as they’ve been over the last generation.
+这并不意味着你应该开始抛售股票。股票仍可能是现存的最佳长期投资方式。只是不要上当受骗，以为股市会像过去几十年一样好。

@@ -1,0 +1,54 @@
+The apparent collapse of Bitcoin’s best-known and once-dominant trading platform has provoked outrage among its users, but it has also stirred hopes that the way may now be clear for more established players to transform and rein in a largely unregulated market.
+比特币最有名且一度占据主导地位的交易平台疑似破产，引发了该平台交易用户们的愤怒，但此事也让人们看到了希望，即时至今日，更有实力的玩家改革并控制基本无人监管的比特币市场的道路或许畅通了。
+Hours after it stopped trading without warning Monday night, the secretive Bitcoin exchange Mt. Gox said that it would “close all transactions for the time being in order to protect the site and our users.” The action and brief statement left users wondering where their money went, amid accusations that as much as 6 percent of the Bitcoins in circulation were now missing — worth more than $300 million at current exchange rates.
+周一夜间，神秘的比特币交易平台Mt. Gox毫无征兆地停止交易。几小时后，Mt. Gox称将“暂时关闭所有交易，以保护我们的网站和用户”。这一举动和简短声明让用户纷纷揣测自己的钱去了哪里，并且有人指责，流通中的比特币已有多达6%不知去向——按目前的交易价格计算，这些比特币的价值超过3亿美元（约合18亿元人民币）。
+Outside the offices of Mt. Gox in central Tokyo, disgruntled Bitcoin traders and their supporters held up signs that read “Where Are My Bitcoins?”
+在Mt. Gox位于东京市中心的办公室外，心怀不满的比特币交易者及其支持者高举标牌，上面写着“我的比特币哪里去了？”
+“I’m filled with disbelief,” said Kolin Burges, a trader from London who flew to Japan this month after the exchange stopped paying out funds. “I was prepared for the worst, but it’s hard to believe they might have lost their coins.”
+“我现在非常怀疑，”来自伦敦的交易者科林·伯吉斯(Kolin Burges)说，“我已经做了最坏的打算，但还是很难相信，他们可能把比特币弄丢了。”本月，在该交易平台停止提现后，伯吉斯乘飞机来到了日本。
+Yet the unanswered questions about Mt Gox did not shake the faith of many in Bitcoin. With one of its earliest online marketplaces seemingly gone, the world of virtual currency may now be forced to become a more mature part of the financial system.
+然而，有关Mt. Gox的这些未解谜团并未让许多人动摇对比特币的信心。Mt. Gox是最早的虚拟货币在线市场之一。鉴于这个市场似乎已经不复存在，虚拟货币世界可能会被迫变成金融体系中一个更成熟的组成部分。
+“I think it’s a significant event, but I think there’s a decent chance that it is part of what we would call this sort of shaking out of the industry as it matures and slowly becomes a little more regulated,” said Benjamin M. Lawsky, New York state’s top financial regulator.
+“我觉得这是件大事，但我认为，这也很可能是这个行业通过整合重组走向成熟和逐渐规范的进程的一部分，”纽约州级别最高的金融监管者本杰明·M·劳斯基(Benjamin M. Lawsky)说。
+Mr. Lawsky is not the only regulator trying to determine the next steps. Three commissioners from the Commodity Futures Trading Commission were at a meeting recently where Bitcoin was on the agenda, and the agency’s lawyers are also examining the regulators’ options, according to a person briefed on the matter who spoke on the condition of anonymity.
+劳斯基并不是唯一的一个试图确定下一步措施的监管人员。前不久，商品期货交易委员会(Commodity Futures Trading Commission)的三名成员出席了一场会议，比特币问题是那次会议的议程之一。熟悉相关情况的一名人士称，该委员会的律师也正在仔细检查这些监管者的可选措施。该人士要求匿名。
+Financial regulators around the world have weighed in over the last few months on how to oversee Bitcoin, with some countries, like Russia, banning it altogether, and others, like Germany, generally favoring the new technology.
+过去几个月里，全世界的金融监管者都参与了关于如何监管比特币的讨论，背景则是包括俄罗斯在内的一些国家完全禁止比特币，而德国等国总体赞成这一新技术。
+The interest in Bitcoin is that its underlying technology holds the promise of allowing users to move money around the world without using an intermediary, thus lowering the cost of financial transactions.
+比特币的好处在于，它背后的先进科技有望允许用户不通过中间人便可在世界范围内转移资金，从而降低金融交易的成本。
+Troubles at Mt. Gox have rattled the Bitcoin world before. A year ago, the exchange suspended operations for several hours, and Bitcoin trading nearly ground to a halt.
+之前，Mt. Gox也曾出现引发比特币世界骚乱的问题。一年前，该交易平台停止运营了好几个小时，比特币交易几乎陷于停顿。
+But since then some prominent venture capitalists have invested millions in new Bitcoin companies that are intended to provide more sophisticated platforms for virtual currency transactions. Many of those investors went public on Tuesday to declare their continued confidence in the technology.
+但自那以后，一些著名的风险投资人士已经向一些新的比特币公司投进了数百万的资金。这些新公司旨在为虚拟货币交易提供更高级的平台。周二，这些投资者当中的许多人都公开宣称，自己依然对这一技术抱有信心。
+Cameron Winklevoss, an early Bitcoin proponent who, along with his brother, Tyler, owns about $64.1 million worth of the virtual currency, said that Mt Gox’s closure “underscores just how far the Bitcoin ecosystem has come.”
+比特币的早期支持者卡梅伦·文克尔沃斯(Cameron Winklevoss)和兄弟泰勒(Tyler)拥有总值约6410万美元的比特币。文克尔沃斯说，Mt. Gox的倒闭“突显了比特币生态系统的进化程度”。
+“Several exchanges have seamlessly picked up the slack and the market price has shown remarkable resilience,” Mr. Winklevoss said in an email. “Mt. Gox is in the past, and the brightest minds in the room are hard at work building a responsible and secure future.”
+“好几家交易平台已经完美无缝地接替了它，市场价格也表现出了明显的回升，”文克尔沃斯在一封电子邮件中说，“Mt. Gox已经成了过去时，这个领域最聪明的人正在努力创造一个负责任、安全的未来。”
+Such optimism was reflected in the oft-volatile price of Bitcoin, which rose on Tuesday after plummeting overnight. Tuesday evening, the price of a Bitcoin stood around $525, not far from where it was when the Mt. Gox news emerged Monday night.
+这种乐观态度从比特币往往比较多变的价格上就可以看出来。周二，比特币的价格在前晚骤跌后出现上涨。周二晚间，比特币的单价在525美元左右，与周一夜间Mt. Gox的消息传来时差不多。
+“There’s a little bit of a sense of relief that the whole thing didn’t crumble,” said Gil Luria, a managing director at Wedbush Securities, who has written research notes on Bitcoins. “Over the next few weeks and months, we’re going to see new exchanges either gain prominence or emerge.”
+“让人略微松了一口气的是，整件事情并没有就此崩盘，”曾撰写比特币研究报告的韦德布什证券(Wedbush Securities)执行董事吉尔·卢里亚(Gil Luria)说。“在未来几周和几个月，我们会看到新的交易所要么变得更加重要，要么就开始崭露头角。”
+Many users of Mt. Gox had long ago given up on the company after numerous incidents in which it was forced to temporarily shut down.
+很久以前，Mt. Gox的许多用户就放弃了这家公司，因为此前发生的许多事故都曾迫使公司临时关门。
+At one point last year, Mt. Gox handled 80 percent of all Bitcoin transactions. But the exchange’s market share began to significantly decline last year, when newer exchanges like Bitstamp in Slovenia, and BTC-e in Bulgaria, took its place, according to data from the Genesis Block, a virtual currency research firm.
+去年，Mt. Gox处理的交易一度占到了所有比特币交易的80%。然而，根据虚拟货币研究公司创世区块(Genesis Block)提供的数据，Mt. Gox的市场份额在去年已经开始大幅下跌，斯洛文尼亚的Bitstamp和保加利亚的BTC-e等较新的交易所取代了它的位置。
+A number of other early Bitcoin companies have also struggled recently. A few weeks before the problems at Mt. Gox, the founder of the popular early exchange BitInstant, Charles Shrem, was arrested and accused of helping to facilitate drug transactions on the now-defunct online marketplace Silk Road.
+其他一些较早的比特币公司最近也举步维艰。在Mt. Gox出现问题几周前，广受欢迎的早期交易所BitInstant的创始人查尔斯·施雷姆(Charles Shrem)遭到了逮捕，并被控曾在现已停止运营的网络市场“丝路”(Silk Road)上协助毒品交易。
+“There’s definitely been a clear transition happening,” said Greg Schvey, the Genesis Block’s head of research.
+创世区块的研究负责人格雷格·施维(Greg Schvey)说，“毫无疑问，这个领域发生了一个明显的转变。”
+Companies dedicated to being more regulator-friendly for consumers and merchants, like BitPay, Coinbase and Circle, also grown in number and size. BitPay, for example, is currently working with 24,000 merchants to take payments in Bitcoin, up from 10,000 last September and 1,000 in 2012, according to a spokeswoman.
+BitPay、Coinbase和Circle等公司希望让监管者更容易对消费者和商户进行管理，这样的公司数目越来越多，规模也越变越大。例如，一名女发言人表示，BitPay目前正在与2.4万个商户合作采用比特币付款，而在去年9月和2012年，这个数字分别仅为1万和1000。
+Some early Bitcoin adopters have been uncomfortable with the involvement of banks and regulators in a virtual currency whose early appeal was its apparent freedom from any central bank or government. But many of the new Bitcoin companies have said that virtual currencies will have to face more regulation if they want to be widely used.
+比特币的一些早期接纳者对银行和监管者介入虚拟货币的情况感到不快，因为虚拟货币最早的吸引力就在于它似乎不受任何央行或政府控制。然而，许多新的比特币公司都表示，要想得到更广泛的使用，虚拟货币就必须面对更多监管。
+“I think it’s important always to know what the rules of the game are,” said Steve Hanke, a professor of applied economics at Johns Hopkins University.
+约翰·霍普金斯大学(Johns Hopkins University)的应用经济学教授史蒂夫·汉克(Steve Hanke)说，“我认为，重要的是始终了解游戏规则。”
+In Japan, financial regulators have so far declined to step in to help Mt. Gox customers, saying the virtual coins are a traded product, not a currency, and therefore remain outside of their purview.
+在日本，金融管理机构目前还不愿意出手帮助Mt. Gox的客户。他们称虚拟货币是一种用来交易的产品，并不是货币，所以还不在他们的管辖范围之内。
+Tibanne, the company that operates Mt. Gox out of Tokyo, according to the local registry office, has told other Bitcoin companies that it is planning to file for bankruptcy, according to John O’Brien, a spokesman for a coalition of Bitcoin companies that has been responding to the problems.
+当地注册办公室的资料显示，Tibanne在东京以外地区负责Mt. Gox的运营。一直在回应相关问题的比特币公司联盟的发言人约翰·奥布莱恩(John O’Brien)表示，Tibanne曾告诉其他比特币公司，它正在考虑提出破产申请。
+A bankruptcy administrator could distribute Mt. Gox’s assets — any remaining Bitcoins plus any nonvirtual cash — to its creditors, a process that could take a year or more. But the company could also be acquired, given the value of its customer list and name recognition.
+负责处理破产事宜的机构可以将Mt. Gox的资产——剩余的所有比特币及非虚拟货币——分给它的债权人，这个过程将需要一年乃至更长的时间。但是，由于公司客户名单的价值及其知名度，公司也可能会被收购。
+Even those who fear they have lost money they held with Mt. Gox remained enthusiastic on Tuesday about the potential of virtual currencies.
+周二，甚至那些担心失去自己存在Mt. Gox的资金的人也对虚拟货币的潜力维持着很高的热情。
+“My thoughts and my heart also go out to all of those others in the community who lost a lot more than me today,” said Rick Falkvinge, the 42-year-old founder of the Pirate political party based in Sweden. Despite losing what he said was $80,000 in Mt. Gox, Mr. Falkvinge said that he remained “absolutely bullish on Bitcoin.”
+“我的思想和心灵与这个群体中今天损失比我大的所有人在一起，”瑞典政党海盗党(Pirate)的创始人、42岁的里克·法尔克温吉(Rick Falkvinge)说。据他所说，他在Mt. Gox损失了8万美元，但他还是表示，他仍然“非常看好比特币”。

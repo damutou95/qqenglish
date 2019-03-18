@@ -1,0 +1,40 @@
+People wearing Google’s glasses are transported to a strange new world in which the Internet is always present as they view the world. But for people looking at the people wearing those glasses, the view is even stranger — someone wearing a computer processor, a battery and a tiny screen on her face.
+佩戴谷歌(Google)眼镜的人会被带入一个奇特的新世界，在那里，人们在观察世界时，互联网也总是呈现眼前。但如果你看到戴着这种眼镜的人，那副景象就更加奇特——竟会有人会在脸上戴着计算机处理器、电池和一块小屏幕。
+As Google and other companies begin to build wearable technology like glasses and watches, an industry not known for its fashion sense is facing a new challenge — how to be stylish. Design has always been important to technology, with products like Apple’s becoming fashion statements, but designing hardware that people will wear like jewelry is an entirely different task.
+当谷歌和其他公司开始制造眼镜和手表等可佩戴的技术产品时，这个并不以时尚感著称的产业，将面临一个新的挑战——如何显得时尚。设计对科技产业一直非常重要，像苹果公司(Apple)生产的产品就可以成为时尚的符号，但设计出人们能像首饰一样佩戴的硬件，却是一个全然不同的任务。
+In a sign of how acute the challenge is for Google, the company is negotiating with Warby Parker, an e-commerce start-up company that sells trendy eyeglasses, to help it design more fashionable frames, according to two people briefed on the negotiations who were not authorized to speak publicly because the partnership has not been made official. Google and Warby Parker declined to comment.
+谷歌面临的这个挑战相当棘手，其中一个迹象就是，谷歌正在进行磋商，由Warby Parker公司帮助它设计出时尚感更强的镜架，后者是一家销售时髦眼镜的电子商务创业企业。这一信息来自两名了解相关谈判情况的人，由于合作尚未正式宣布，他们没有公开发言的授权。谷歌和Warby Paker拒绝置评。
+They join other companies that are grappling with these design challenges, including big companies like Apple, Nike and Jawbone and smaller ones like Pebble, MetaWatch and Misfit Wearables.
+除了这两家公司之外，还有其他企业也在应对这种设计挑战，其中包括像苹果、耐克(Nike)和Jawbone之类的大公司，还有Pebble、MetaWatch和Misfit Wearables之类的小公司。
+Jawbone’s health-tracking wristband, Up, for instance, was designed by Yves Behar, the company’s chief creative officer and a well-known designer who has worked with fashion and furniture companies. Apple, which is said to be making a smart watch, has assigned some of its top designers to make curved glass that is comfortable and aesthetically appealing.
+例如，Jawbone跟踪健康状况的Up腕带是由伊夫·贝阿尔(Yves Behar)设计的，他是该公司的首席创意官和一位知名设计师，曾与时尚和家具公司合作过。据称，苹果公司将制造一款智能手表，该公司已经安排公司的一些顶级设计师，来制造舒适、美观的有弧度的玻璃。
+On Wednesday, Google began accepting applications to choose a small group of people to buy an early version of the glasses, called Google Glass. It hopes to sell Glass to the broader public this year, according to two people briefed on the plans.
+周三，谷歌开始接受少量用户的申请，这些人希望购买被命名为“谷歌眼镜”(Google Glass)的产品的早期版本。据两名了解这些计划的人士称，谷歌希望今年把这款眼镜投向更广泛的公众。
+The frames do not have lenses, though Google is experimenting with adding sunglass or prescription lenses in some versions. They have a tiny screen that appears much bigger from the wearer’s perspective than it does on the frame. Glass wearers can take pictures or record video without using their hands, send the images to friends or post them online, show walking directions, search the Web by voice command and offer language translations.
+这些镜架没有镜片，不过谷歌正在尝试在某些版本里加入太阳镜片或处方镜片。它们拥有一个微小的屏幕，尽管在镜架上显得很小，但在戴眼镜者看来却大得多。眼镜佩戴者无需动手就能拍照或录制视频、把图片发给朋友或发布在网上、显示行走路线、用语音指令搜索网络和提供语言翻译。
+The glasses reach the Internet through Wi-Fi or Bluetooth, which connects to the wireless service on a user’s cellphone. The glasses respond when a user speaks, touches the frame or moves the head.
+谷歌眼镜通过Wi-Fi和蓝牙上网，它能连接到用户手机的无线数据服务。用户说话、触摸镜架或移动头部时，眼镜都能作出回应。
+For Google, the glasses are a major step toward its dream of what is known as ubiquitous computing — the idea that computers and the Internet will be accessible anywhere and we can ask them to do things without lifting a finger.
+对谷歌来说，这种眼镜是该公司实现其梦想的重要一步，即所谓的“普适计算”(ubiquitous computing)。其设想是，能够在任何地方使用电脑和互联网，同时人们可以在不动一根手指的情况下发出指令。
+The glasses will eventually incorporate several Google products, which could become more useful when they are in front of a user’s eyes rather than on a phone or a computer screen.
+谷歌眼镜最终将与一些谷歌产品实现整合，这可能使它们变得更加便利，因为它们会出现在用户眼前，而不是在电话或电脑屏幕上。
+For instance, the latest version of the glasses can provide walking and hiking directions from Google Maps, alerts from Google Now about a coming meeting or a traffic jam, and video chats from Google Hangouts.
+例如，谷歌眼镜的最新版本可以用谷歌地图指示行走和徒步旅行的方向，还能提供Google Now发来的即将举行的会议或交通堵塞的提醒，以及“环聊”(Google Hangouts)的视频聊天。
+In a video released on Wednesday, Google offered ideas about what to do with the glasses. A ballerina could record and stream live video behind the scenes and onstage; a tourist in Thailand could ask Google to translate the word “delicious” while eating noodles on a boat; or a family could video chat over a long distance with a relative on her birthday.
+在周三发布的一段视频中，谷歌举例介绍了眼镜的用途。比如，芭蕾舞女演员可以在后台和舞台上录制视频并实时流媒体播放；在泰国旅行的游客可以在小船上吃面时，让谷歌把“好吃”翻译给别人听。在亲戚生日的时候，家人也可以与她远距离视频聊天。
+Though Google warns of technical bumps as people use the glasses, it has already solved many of the technical challenges. The biggest obstacle now is getting people to use them.
+虽然谷歌警告，随着人们开始使用这款眼镜，也会遭遇技术障碍，但该公司其实已经解决了许多技术挑战，现在最大的障碍是如何引导人们开始使用它。
+Though Google employees have been spotted wearing them in the San Francisco Bay Area, they receive strange looks, for example, from a bartender who made fun of his Glass-wearing patrons.
+尽管有人曾在旧金山湾区看到谷歌员工戴着谷歌眼镜，但别人看他们的目光却怪怪的，比如一名酒吧工作人员就曾对戴着谷歌眼镜的客人加以嘲笑。
+Privacy advocates worry about a day when people wearing glasses could use facial recognition to identify strangers on the street or surreptitiously record and broadcast conversations. On a more mundane level, rude behavior like checking e-mail during conversations would become much easier to hide.
+隐私权倡导人士担忧，有朝一日戴眼镜的人们可以用面部识别技术，指认街上的陌生人，或者偷偷地录制并广播谈话内容。在更日常的层面上，在与人交谈时查收电子邮件等不礼貌的行为，可能会更容易隐藏。
+“Changing behavior is much more challenging than changing technology,” said Olof Schybergson, founder and chief executive of Fjord, a design company that has helped clients build wearable devices.
+设计公司Fjord的创始人和首席执行官奥洛夫·施贝格森(Olof Schybergson)说，“改变行为比改变技术要难得多。”这家公司曾帮助客户制造可佩式设备。
+Then there is that fashion hurdle. The frames now look like wire wraparound glasses with hardware along one side.
+此外，时尚因素也是一个障碍。谷歌眼镜现在的镜架像是金属丝边框的太阳镜，硬件位于一侧。
+“If you look at other wearable pieces of functional technology, there’s a reason they’re not ubiquitous. There’s a reason we all make fun of someone wearing a Bluetooth or a BlackBerry holster,” said Daniella Yacobovsky, co-founder of BaubleBar, an online jewelry retailer. “Is it useful? Of course it is. Do I look like a tool? Yeah. I’m not going to wear it.”
+“如果你看看其他功能很强的可佩式技术设备，就会明白它们并非无处不在，是有理由的。我们看到腰上戴着蓝牙(Bluetooth)或黑莓(BlackBerry)套的人，就想嘲笑他们，这也是有原因的。”在线珠宝零售商BaubleBar的共同创始人丹妮埃拉·雅各伯夫斯基(Daniella Yacobovsky)说。“它有用吗？当然有用。可是我像个傻瓜吗？像。那我才不戴这玩意儿呢。”
+Google’s design team has made Glass’s look and comfort a priority, according to a person briefed on the company’s design process. Designers first made it in black, thinking it would flatter everyone, but they added colors because black frames can look heavy on a fair person. The glasses, which 18 months ago weighed eight pounds, are now lighter than a typical pair of sunglasses. Engineers have worked to shrink the components so wearers look less like cyborgs.
+一名对公司设计流程有所了解的人士称，谷歌的设计团队把谷歌眼镜的外观和舒适度视为需要优先考虑的问题。设计师最初将其设计为黑色，以为所有人都会喜欢，但后来他们又增加了其他色彩，因为淡肤色人群戴黑色镜架会显得太重了。谷歌眼镜在18个月前有八磅重（约合3.6千克），现在则比一般的太阳镜要轻。工程师们努力缩小了部件的尺寸，于是戴眼镜的人不再那么像机器人了。
+In addition to considering partnering with Warby Parker, Google is doing other things to recruit the fashion-savvy, particularly women. At Fashion Week last year, models wore colored versions on the runway for Diane von Furstenberg, and the designer made a behind-the-scenes video wearing the glasses.
+除了考虑与Warby Parker开展合作之外，谷歌也在采取其他措施，招募热衷时尚的人，尤其是女性。在去年的时装周上，黛安·冯·芙丝汀宝(Diane von Furstenberg)的模特们戴了彩色的版本，设计师本人也用这款眼镜录制了幕后视频。

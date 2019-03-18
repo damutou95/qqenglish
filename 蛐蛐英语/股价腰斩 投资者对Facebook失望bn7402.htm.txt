@@ -1,0 +1,38 @@
+Want to better understand the crazy world of technology stocks? That requires having a grasp of something that can best be described as the curse of the ordinary.
+你想更好地了解科技股的疯狂世界吗？那你需要理解，可以贴切地形容为“平凡诅咒”的东西是怎么一回事。
+That curse could mean that Facebook, which is already down by nearly 50 percent from its offering price to $19.05 on Friday, could drop even further.
+上周五，Facebook的股价已经跌到了19.05美元，比发行价低了将近50%。而这个诅咒意味着，Facebook的股价还可能继续下降。
+It's all about valuations.
+这完全都是估价的问题。
+Most efforts to judge the right stock market value for a company rely on profit forecasts. But earnings at young technology companies are harder to predict than at businesses using traditional approaches to generate earnings in other industries.
+正确评价公司股票市值的大部分工作都有赖于对公司盈利前景的预测。然而，和其他行业里利用传统途径赚钱的企业相比，新兴科技公司的收入更难预测。
+In times of optimism, that knowledge dearth can actually work to the advantage of technology companies. Executives fill that emptiness with promises of paradigm-breaking ways of doing business, prompting Wall Street analysts to project amazing profits. Investors get excited and flock to their stock debuts. In short, it's all about being seen as extraordinary.
+在乐观时期，知识的匮乏可以实实在在地助长科技公司的优势。高管们用突破常规的商业模式营造的乐观前景填补这样的知识空白，促使华尔街的分析师们对相关行业给出惊人的市场利润预测。投资者们兴奋地涌入市场，开始尝试股票投资。简而言之，公司要做的只是为自己塑造一个神话形象。
+That magic allowed Facebook to go public at a stock price that was an astronomical 100 times its earnings per share. Back in May, investors seemingly had little trouble believing that Facebook could entwine advertising into all interactions on its site and generate extraordinary revenue.
+这样的神话让Facebook以相当于每股收益100倍的天文股价上市。今年5月，投资者似乎不假思索地相信，Facebook能在它的所有网页互动模块中植入广告，由此获得神话般的收益。
+Indeed, each of the companies that have gone public in recent months has needed one main magical story. For Groupon, it was that the company had found a revolutionary marketing tool that was perfect for small businesses. The untapped market was theoretically huge.
+实际上，最近几个月上市的所有公司都需要一个重大的魔幻情节。对于团购网站Groupon来说，这个情节就是，它为小企业度身打造了一件革命性的营销工具。理论上说，这个未开发的市场十分巨大。
+But the nightmare begins when investors stop believing in that central story. Earnings don't have to be terrible, and they haven't been at the hardest hit firms - Facebook, Groupon and Zynga, the online game company. The earnings just have to contain a few clues that the dream won't be achieved.
+然而，当投资者不再相信这样的核心情节，噩梦就开始了。这种情况并不以公司收入状况十分糟糕为前提，也不一定出现在受创最严重的公司——Facebook，Groupon和在线游戏公司Zynga。只要公司的收入状况包含着几丝梦想无法实现的暗示，那就够了。
+Then, the transition from extraordinary to ordinary is brutal.
+然后，由不凡变为平凡的过程很残酷。
+Groupon is down 75 percent from its initial public offering. The market now values it as if it were any old marketing company; its shares are trading at 12 times the earnings that analysts are projecting for 2013, according to data from Thomson Reuters.
+Groupon的股价比首次公开募股时下降了75%。眼下，市场似乎把它和所有那些老式营销公司归为了一类；根据汤森路透(Thomson Reuters)的数据，它现在的股价是2013年分析师预测收益的12倍。
+This is a critical time for Facebook.
+对Facebook而言，现在是生死攸关的时刻。
+The faith level in the company is declining. Right now, Facebook is trading at 31 times the earnings that analysts are expecting for 2013. That's not too expensive, but it's far above Google's 2013 price-to-earnings ratio of 14 times.
+投资者对Facebook的忠诚度在下降。现在，Facebook的股价是2013年分析师预测收益的31倍。这并不算太昂贵，但是却比谷歌(Google)在同期的14倍市盈率高出了不少。
+One reason investors have fled the stock is that Facebook's second-quarter earnings showed few signs that it was close to achieving meteoric growth. "There have been almost no positive signals at Facebook in the past six months," said Anup Srivastava, an assistant professor at the Kellogg School of Management at Northwestern University. He thinks Facebook shares should be worth about $12, based on his estimates of the company's future cash flows.
+投资者撤出股市的一个原因就是，Facebook的二季度收益报告几乎不包含任何预示近期急速增长的信号。“在过去六个月里，Facebook几乎没有给出任何积极的信号。”西北大学(Northwestern University)凯洛格商学院(Kellogg School of Management)副教授阿努普·斯里瓦斯塔瓦(Anup Srivastava)这样说道。根据他对Facebook未来现金流量的预测，他认为，Facebook的合理股价应该在12美元左右。
+Such a fate may seem unthinkable, given how far the stock has already fallen. But Facebook may struggle to keep pace with Google, which, though it is a more mature Internet company, is still finding ways to grow fast. In its second quarter, the volume of "paid clicks" (the number of times users click on a link that generates revenue for Google) rose 42 percent from the year-earlier period. That's the fastest growth since 2007, according to analysts at Nomura. And despite its extraordinary growth, investors still give Google's shares only an ordinary valuation.
+考虑到Facebook的股价已经跌到如此地步，这样的命运似乎不可思议。不过，Facebook可能会尽力跟上谷歌的步伐。谷歌虽然是个更为成熟的互联网公司，但却依然能找到快速增长的路径。谷歌第二季度的“付费点击数”（用户点击某一能为谷歌带来收益的链接的次数）与去年同期相比上升了42%。据野村证券(Nomura)分析人士透露，这是谷歌自2007年之后取得的最快增长。尽管谷歌的增长速度非比寻常，投资者对它的股价估值依然很一般。
+But there's still hope for Facebook.
+不过，Facebook还有希望。
+Negativity can feed on itself in the stock market, and the over-optimism of the I.P.O. may simply have been replaced with rabid pessimism today. "As with most other young growth stocks, no one really knows Facebook's value," said Aswath Damodaran, a professor of finance at the New York University Stern School of Business. "That means people can overreact in both directions."
+在股市上，负面消息可能会导致恶性循环，到了今天，首次公开募股时的过度乐观情绪也可能就此让位于偏激的悲观情绪。“没有人真正了解Facebook的价值，就像人们不了解其他大多数年轻的成长型股票一样。”纽约大学(New York University)斯特恩商学院(Stern School of Business)金融学教授阿斯瓦斯·达莫达兰(Aswath Damodaran)评价道，“这意味着人们在正反两方面都可能产生过度反应。”
+There are ways to get back into investors' good graces. One is for Facebook to be more convincing when explaining why it's special.
+要想重获投资者的赏识还是有办法的。对Facebook来说，办法之一就是，在解释自身的特别之处时要表现得更具说服力。
+Since its own I.P.O., LinkedIn has kept investors enthralled. The company trades at 79 times projected 2013 earnings, a clear sign that the market believes the company has created a revolutionary space for companies to recruit.
+自打上市伊始，Linkedln就一直让投资者们如痴如醉。该公司的股票交易价格达到2013年预期收益的79倍，这是一个清晰的信号，显示市场确信，该公司已经为那些打算招人的公司创造了一个革命性的空间。
+Then there's Amazon.com, which is extraordinarily talented at projecting itself as extraordinary. Its shares trade at 100 times its projected 2013 earnings, even though it has reported what might look like disappointing earnings for several years. The dream is that Amazon is well on its way to dominating Internet commerce, and can look forward to prodigious profits.
+还有亚马逊(Amazon.com)，它在展示自己的非凡形象方面具有非凡的天分。它的股票交易价格达到2013年预期收益的100倍，尽管在过去几年里，它在财报里给出的收益令人失望。亚马逊提供的梦想是，公司在向电子商务霸主进军的途中表现出色，可望获得可观的利润。

@@ -1,0 +1,34 @@
+PARIS — The French government castigated the United States on Monday for carrying out extensive electronic eavesdropping within France, the latest diplomatic backlash against the National Security Agency’s wide surveillance net and another example of how disclosures about the program have strained relations — at least temporarily — with even the closest of Washington’s allies.
+巴黎——法国政府周一对美国提出了严厉谴责，原因是美国在法国实施了广泛的电子窃听行动。这是美国国家安全局（National Security Agency，简称NSA）开展的广泛的监听活动引发的最新外交后果。监听项目被公开后，即使是最亲密的盟友与美国的关系也受到了影响，至少是暂时的影响。法国的谴责就是这种影响最新的例子。
+The Foreign Ministry summoned the American ambassador, Charles H. Rivkin, who met with ministry officials after an article Monday in Le Monde, the authoritative French newspaper, that the N.S.A. had scooped up 70 million digital communications inside France in a single month, from Dec. 10, 2012, to Jan. 8, 2013.
+法国权威报纸《世界报》(Le Monde)周一刊文报道，NSA仅仅在2012年12月10日到2013年1月8日的近一个月时间里，就在法国境内窃听了7000万份数字通讯。紧接着，法国外交部召见了美国大使查尔斯·H·里夫金(Charles H. Rivkin)，后者与外交部官员举行了会晤。
+French officials called the spying “totally unacceptable” and demanded that it cease.
+法国官员称，间谍行为“完全不可接受”，并要求美国终止相关行动。
+“These kinds of practices between partners are totally unacceptable, and we must be assured that they are no longer being implemented,” Mr. Rivkin was told, according to a ministry spokesman, Alexandre Giorgini.
+法国外交部发言人亚历山大·乔尔吉尼(Alexandre Giorgini)表示，法国官员对里夫金说，“伙伴之间采取这种做法是完全不可接受的，必须向我方保证，不会再采取这种行为。”
+The same language was used late Monday in a statement from President François Hollande describing what he had said in an earlier telephone conversation with President Obama.
+法国总统弗朗索瓦·奥朗德(François Hollande)周一晚些时候发表了一则声明，描述了较早前他与奥巴马总统电话交谈的情形。这番声明中也使用了相同的措辞。
+The disclosures in France were based on secret documents provided by Edward J. Snowden, the former N.S.A. contractor whose decision to leak information about the surveillance programs has set off a global debate on the balance between security and privacy in the digital age.
+法国的公开报道是基于前NSA承包商雇员爱德华·J·斯诺登(Edward J. Snowden)提供的文档做出的。斯诺登泄露涉及监听项目的情报的决定，在全球引发了一场关于数字时代该如何平衡安全和隐私的辩论。
+On Sunday, Der Spiegel, a German newsmagazine, reported that the N.S.A. had intercepted communications inside the cabinet of the former Mexican president, Felipe Calderón.
+周日，德国新闻杂志《明镜》周刊(Der Spiegel)报道，NSA窃取了墨西哥前总统费利佩·卡尔德龙(Felipe Calderón)内阁中的通讯。
+Previous disclosures from the documents leaked by Mr. Snowden had already pulled the veil off N.S.A. spying on other allies, including Germany, Britain and Brazil. In June, Der Spiegel reported that the agency had eavesdropped on European Union offices in Brussels and Washington.
+斯诺登过去泄露的文档中披露出的信息，已经揭露出NSA在对其他盟友开展间谍活动，包括德国、英国和巴西。6月，《明镜》周刊报道NSA对布鲁塞尔和华盛顿的欧洲联盟(European Union)办公室进行了窃听。
+Probably the most serious diplomatic breach was the revelation in September that the N.S.A. had intercepted the communications of the Brazilian president, Dilma Rousseff. Brazil termed the spying “an unacceptable violation of sovereignty.”
+对外交关系最严重的破坏可能是9月披露的一个情节，即NSA窃听了巴西总统迪尔玛·罗塞夫(Dilma Rousseff)的通讯。巴西称相关间谍行为是对该国“主权不可接受的侵犯”。
+The French newspaper article on Monday was co-written by Glenn Greenwald, an American journalist whose articles have conveyed most of the Snowden revelations published so far, and a Le Monde correspondent.
+法国《世界报》周一刊登的文章是由美国记者格伦·格林沃尔德(Glenn Greenwald)与《世界报》一名记者共同撰写的。格林沃尔德撰写的许多文章揭示了斯诺登事件中迄今为止得到报道的大部分信息。
+The French interior minister, Manuel Valls, speaking on Europe 1 Radio, called the disclosures “shocking” and said they would “require explanation.”
+法国内政部长曼努埃尔·瓦尔斯(Manuel Valls)在欧洲一台广播频道(Europe 1 Radio)上说，被披露的这些信息“令人震惊”，还说“需要得到解释”。
+The article in Le Monde came as Secretary of State John Kerry arrived in Paris on Monday for talks on a possible peace process for Syria and discussions on Iran’s nuclear program.
+《世界报》的文章发表时正值美国国务卿约翰·克里(John Kerry)周一抵达巴黎，讨论可能发生的叙利亚和平进程，以及伊朗的核计划。
+Asked about the spying at a news conference here, Mr. Kerry stressed the security challenges in combating terrorism, saying that it was an “everyday,” “24/7” problem. He added: “We in the U.S. are currently reviewing the way that we gather intelligence. And I think that is appropriate.”
+克里在巴黎举行新闻发布会时，有记者问到了窃听问题。克里强调了打击恐怖主义的安全挑战，称反恐是一项“日复一日”、“分秒不停”的问题。他还说：“在美国，我们目前正在审视收集情报的方式。我想这是妥当的做法。”
+The article did not make entirely clear what the N.S.A. had swept up. But it appeared that the agency had taken a vacuum-cleaner approach, recording 70 million communications, the article said, including telephone calls and instant messages. It was not clear how many of those were listened to or read.
+文章并没有完全明确地指出NSA究竟收集了什么。不过文中称，NSA似乎采取了“吸尘器”似的手法，记录了7000万则通讯内容，包括电话通话和即时通讯交谈。并不清楚这些信息中有多少被人听过或读过。
+The article also noted that the interceptions were obtained using codes with the names “Drtbox” and “Whitebox,” with the vast majority having been gotten with the “Whitebox” code. However, it was not clear what those codes meant, or why the time frame was limited to a single month.
+文章还提到，窃听的情报是使用名为“脏盒”(Drtbox)或“白盒”(Whitebox)的代码取得的，而其中绝大多数是通过“白盒”代码取得的。然而并不清楚这些代码意味着什么，也不清楚时间段为什么限定在那一个月。
+Le Monde went on to say that the documents indicated that in addition to tracking communications between people suspected of having links to terrorism, the N.S.A. surveillance program might have targeted communications involving prominent figures in the worlds of business, politics or the French administration.
+接着，《世界报》写道，那些文档显示，除了监听涉嫌与恐怖主义有关的人之外，NSA的监听计划所针对的通讯内容，可能还涉及商界、政界或法国政府中的重要人物。
+However, many observers both then and now suggested that the French government’s harsh tone was in part political theater rather than genuine outrage because France runs its own version of a spying program on the Americans, which came to light in 2010. At that time, a previous White House director of national intelligence, Dennis C. Blair, tried to put in place a written agreement pledging that neither country would spy on the other’s soil — similar to the “gentleman’s agreement” that the United States has with Britain. However, the deal fell through in part because some members of both countries’ intelligence communities wanted to continue to spy on each other, said officials close to those negotiations.
+然而无论当时还是现在，许多观察人士都表示，法国政府的严厉语调部分上是政治表演，而不是真正的愤怒，因为法国在美国也有自己的间谍计划，后者是在2010年公之于众的。当时，白宫前国家情报事务总监丹尼斯·C·布莱尔(Dennis C. Blair)曾试图制定一份书面的协议，承诺两国都不会在对方领土上开展间谍活动，与美英两国的“君子协议”相似。然而协议最终不了了之，接近谈判的官员透露，部分原因是两国情报部门内部都有一些人，希望继续对对方开展间谍活动。

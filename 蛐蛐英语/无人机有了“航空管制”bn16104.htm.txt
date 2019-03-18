@@ -1,0 +1,28 @@
+Maybe drone makers can ease some of the pressure on themselves by building limits on their own machines.
+无人机厂家可以给他们的产品设限来面对新的挑战。
+DJI, a Chinese company that makes more small-scale drones than anyone else, announced on Tuesday a new, so-called geofencing system, which is a way to better control what a drone is flying over.
+全球产量最大的无人机厂家大疆于星期二宣称将启用“地理围栏”系统来更有效的控制无人机以规避可能的风险。
+The system, built on flying restrictions DJI first introduced in 2013, promises continually updated information on a machine’s airspace. Information on something like an airport is already in the system; this might add something like a request by emergency personnel not to fly over a forest fire.
+该系统源于2013年发布的大疆飞控概念，原理是无人机不断接收来自类似机场飞控中心的数据以避免误入类似森林火场的区域。
+“This is an example of the technology empowering operators to make smart decisions,” said Brendan Schulman, vice president of policy and legal affairs at DJI. “It’s an example of how technology solutions can address concerns.”
+大疆法务政策部副总监布兰登舒尔曼说：“此技术可以辅助无人机以避免误入从而打消人们对它们的顾虑”。
+What action to take is often up to drone’s pilot, though it is clear that freedom of the skies faces increasing limits. The system has built-in restrictions around sensitive locations such as prisons and power plants, where potential payloads, not the flying itself, are a concern.
+人们有自由飞行无人机的权力，但必要的管制需要加强。该飞控系统内建标记了诸如监狱发电厂等无人机飞行不存在问题但其所载物品是否违禁的区域。
+By default, the drone won’t be operable in such places, though users who open DJI accounts will be able to self-authorize flights in some locations.
+用户只有在登入大疆帐号的情形下才可以飞入特定区域，未登录的状态下是无法飞入的。
+Registering for those accounts will require verification from a credit or debit card, or a mobile phone number. DJI will apparently make the information available if there are legal investigations of flights, but it won’t collect or store the information for any other purpose for the free service. For national security locations (the company mentioned all of Washington as a “prohibited area”) even the override won’t work.
+免费的大疆帐号注册服务需要验证银行卡或者手机号，这些验证信息作监管机构合法调查取证用途，确保不会有其他任何用途。在涉及国家安全的区域（大疆提到华盛顿特区全境禁航），使用代理亦不可在该地区使用该服务。
+The move appears to be at least in part an effort to curb increasing regulation of drones.Mr. Shulman spoke about privacy and safety issues expressed by individuals and regulatory authorities.
+此举旨在满足愈发严格的无人机监管，舒尔曼先生说到尤其是在民众和当局更加顾虑无人机飞行带来的隐私和安全问题时。
+The Federal Aviation Administration, which is responsible for the conduct of most of what flies around, wants to register drones, and is mulling how to further control an airspace suddenly plied by millions more operators.
+负责全美管控飞行器的联邦航空管理局正在考量无人机注册以及如何更有效的管控这个井喷的数百万计的群体。
+As a result of new regulations, many companies besides DJI have taken steps to influence the rule-making. A number of interested parties, including Google, Amazon, GoPro, Parrot and 3D Robotics, are participating in the F.A.A.’s registration task force.
+在新的环境下，包括大疆在内的大多数公司都在帮助制定规则。相关的谷歌、亚马逊、GoPro、Parrot、3D机器人公司正参与联邦航空管理局注册项目。
+While DJI’s effort, which will go live in December, is proprietary, it shows a trend of building more awareness into the systems, which may become common among drone makers. It also shows an interesting conflict in building this artificial intelligence: DJI is leaving how to treat information about new “no fly” areas up to individual pilots.
+随着大疆独家的飞控系统将于12月份实际应用，在飞行系统中集成更多的智能或是无人机厂家的共识。大疆的方案倾向于在禁飞区时无人机手有更高权限，另一种方案则倾向于高度的人工智能用该有更高权限。
+One reason for this may be to avoid liability, either from offering a product that unnecessarily limits its buyers’ or from offering a product whose artificial “fencing” technology fails, opening it to lawsuits.
+这样做可以规避法律风险，出售无限制或者带有“围栏”功能却没有正常工作的产品都会面临诉讼。
+To Mr. Schulman, the new industry of drones is being unfairly singled out. “There is no other technology whose functionality is disabled by geography,” he said. “Your car’s speedometer goes to 100 miles per hour or more – it’s up to individuals to use that properly.”
+对舒尔曼先生而言这项新技术的应用会带来竞争劣势，他说到：“这种通过地理位置隔离的技术别无二家，就像车子上的码表写着100迈，不见得人人会跑那么快”。
+Whether the government, from federal agencies to local municipalities, feels the same way about robots in space remains to be seen.
+联邦和地方政府有着共识：空中的无人机会一直飞着。

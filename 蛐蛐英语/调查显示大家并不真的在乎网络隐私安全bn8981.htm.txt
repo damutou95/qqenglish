@@ -1,0 +1,34 @@
+Americans say they are deeply concerned about privacy on the web and their cellphones. They say they do not trust Internet companies or the government to protect it. Yet they keep using the services and handing over their personal information.
+美国人说他们非常关注网络和手机上的隐私问题。他们说自己不信任网络公司或者政府能保护这种隐私。但他们仍然使用那些服务，同时交出自己的个人信息。
+That paradox is captured in a new survey by Pew Research Center. It found that there is no communications channel, including email, cellphones or landlines, that the majority of Americans feel very secure using when sharing personal information. Of all the forms of communication, they trust landlines the most, and fewer and fewer people are using them.
+皮尤研究中心(Pew Research Center)的一项新调查捕捉到了这种悖论。它发现，大部分美国人都觉得在分享个人信息时，自己所使用的通讯渠道并不安全，包括电子邮件、移动电话和固定电话。在所有通讯方式中，他们最信任固定电话，然而使用它的人却愈来愈少。
+Distrust of digital communication has only increased, Pew found, with the young expressing the most concern by some measures, in the wake of the revelations by Edward Snowden about online surveillance by the government. Yet Americans for now seem to grudgingly accept that these are the trade-offs of living in the digital age — or else they fear that it is too late to do anything about it.
+对于数码通讯方式的不信任有增无减，皮尤研究中心发现，由于爱德华·斯诺登(Edward Snowden)揭露的政府网络监视行为，年轻人通过种种方式对这个问题表达的关切最多。然而，目前美国人似乎满腹抱怨地接受了这个问题，把它当做数码时代生活必须付出的代价，抑或认为对之进行任何改变为时已晚。
+“The reason is often they don’t have real choice,” said Marc Rotenberg, executive director of the Electronic Privacy Information Center. “It’s not like picking up the newspaper and realizing ice cream has too many calories and you can start eating frozen yogurt, information that people can act on.”
+“他们的理由通常是别无选择，”电子隐私信息中心的执行主管马克·罗腾伯格(Marc Rotenberg)说。“这不像拿起报纸，发现冰激凌卡路里含量太高，就改吃酸奶冰激凌，这些都是人们可以对之采取行动的信息。”
+One reason is that once people are invested in a service — if they have all their social contacts on Facebook or years of email on Gmail, for instance — they have a hard time giving it up.
+还有一个原因是，一旦人们投资了一种服务——比如说，如果他们所有的社会联系都在Facebook上，或者多年都用Gmail发电子邮件——要放弃这种服务就会很难。
+“It’s this modern economy that doesn’t really rely on price, but on connections and stickiness,” Mr. Rotenberg said. “The companies have done everything they can to make it impossible to go somewhere else.”
+“现代经济并不依赖价格，而是依赖感情和粘性，”罗腾伯格说。“公司尽一切力量让客户不可能转投其他服务。”
+Eighty-one percent of people do not feel secure using social media to share private information. Sixty-eight percent feel that way about online chats, 59 percent about text messaging, 57 percent about email, 46 percent about talking on cellphones and 31 percent about talking on landlines.
+81%的人在使用社交媒体分享私人信息时会觉得不安全。68%的人觉得在线聊天时透露私人信息不安全；59%的人觉得发短信时透露私人信息不安全；57%的人觉得发电子邮件时透露私人信息不安全；46%的人觉得在移动电话里说起私人信息不安全；31的人觉得在固定电话中说起私人信息不安全。
+In each case, those who said they were more aware of reports about government surveillance were more likely to say these communications were not secure.
+在每种方式中，声称自己更关注政府监视平民相关报道的人更倾向于认为通讯方式不安全。
+People harbor equal distrust of advertisers and the government, Pew found. Eighty percent of users of social networks say they are concerned about advertisers or businesses gaining access to their information there, and 70 percent say they are at least somewhat concerned about the government doing so without their knowledge.
+皮尤的调查发现，人们对广告商和政府有着同等程度的不信任。80%的社交媒体用户声称他们担心广告商或企业获取他们在社交媒体上的信息；70%的用户说他们至少担心政府在他们不知情的情况下，就从社交媒体获取他们的信息。
+Yet highlighting the privacy paradox, 55 percent of people say they are willing to share information about themselves with web companies in order to use their services free, and 36 percent say they appreciate that these services are more efficient because they have access to this information.
+然而，尽管强调隐私的悖论，55%的人说他们愿意与网络公司分享自己的私人信息，以便获取免费服务；36%的人说，他们欣赏那些因为获取信息而更有效率的服务。
+The types of digital information that people consider to be most sensitive are their Social Security numbers, health information, the content of emails and phone calls and their location. They are least sensitive about their purchasing habits, media consumption, political and religious views, and the identities of their friends.
+人们心目中最敏感的数码信息分别是他们的社会保险账号、健康信息、电子邮件内容、电话内容和自己所在的地点。他们对自己的购买习惯、媒体使用习惯、政治观和宗教观，以及自己朋友的身份最不敏感。
+People with more education and higher incomes tend to be more sensitive about their online privacy, Pew found. And despite perceptions that young people care little about digital privacy, they often care more than older people. Email is an example. Just over half of all adults consider the content of email messages to be very sensitive. Fifty-nine percent of young adults feel that way, compared with 42 percent of older adults.
+皮尤的调查表明，受教育程度高，收入水平更高的人对自己的网络隐私更加敏感。尽管有人认为年轻人不太在乎数码隐私，他们其实通常比年长者更加在意。以电子邮件为例。一半以上的成年人认为电子邮件内容非常敏感。59%的年轻组成年人有这种看法，而只有42%的年长组成年人这样认为。
+“There’s a pretty big, mounting body of evidence that suggests young adults are just as likely to care, if not more so, when it comes to awareness of government surveillance,” said Mary Madden, a senior researcher for Pew’s Internet Project and an author of the report.
+“有大量且不断增长的证据表明，在警惕政府监视方面，年轻人也和年长者一样在意，如果不是更在意的话，”皮尤互联网项目的资深调查员以及该项报告的执笔者玛丽·马登(Mary Madden)说。
+Pew offered some evidence that people are inured to the trade-offs of using digital services: Ninety-one percent agree or strongly agree that consumers have lost control over how their personal information is collected or used by companies. They are unsure what to do about it, though.
+皮尤的调查给出一些证据，表明人们已经习惯了使用数码服务的这些代价：91%的人同意或强烈同意，消费者对于公司收集或使用他们个人信息的方式已经失去控制。但他们并不确定对此应该怎样应对。
+Nearly two-thirds say they would like to do more to protect the privacy of their personal information online. About the same number think the government should do more to protect them.
+将近2/3的人说他们希望采取更多行动来保护网上个人信息的隐私。同样有2/3的人认为政府应当采取更多措施来保护他们。
+There are technical methods for protecting information, like PGP, a data encryption tool. But broader fixes would most likely come through policy changes, privacy advocates say.
+有若干技术方式可以保护个人信息，比如PGP，这是一种信息加密工具。但是，保护隐私的倡导者们声称，更广泛的保护手段要等待政策改变后才有可能生效。
+“The privacy survivalists will start exchanging PGP key prints, but that’s not going to work for most people,” Mr. Rotenberg said. “I think more needs to be done at the macro policy level to restore trust: update federal privacy laws, limit circumstances under which government gets access and mandate better security.”
+“隐私保护专家们会从转换PGP关键字开始，但这对于大多数人来说没有用处，”罗腾伯格说。“我认为宏观政策层面还有更多事要做，才能恢复人们的信任：要升级联邦隐私法律，限制政府获取隐私的范围，执行更好的安全保护措施。”

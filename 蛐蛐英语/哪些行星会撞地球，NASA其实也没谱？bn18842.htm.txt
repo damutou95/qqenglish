@@ -1,0 +1,70 @@
+More than 14,000 known asteroids zip through Earth’s neighborhood. They will all miss Earth in the coming decades.
+超过1.4万颗已知小行星有穿越地球周边的可能。在接下来的几十年里，它们全都会与地球擦肩而过。
+But hundreds of thousands more have not yet been discovered, and whether any of those are on course to slam into our planet, no one knows. So finding and tracking all the asteroids that could cross Earth’s path would allow officials to issue warnings and potentially provide time to deflect dangerous ones.
+但是，另有数以十万计的小行星还没被探测到，没人知道其中是否有一颗正在撞向我们的星球。所以我们需要寻找和跟踪所有可能与地球运行轨迹相交的小行星，这样专业人员可以提前发出警告，就可能有时间扭转危险小行星的运行方向。
+The community of scientists contemplating such doomsday possibilities is small and usually cordial — at least it was until Nathan P. Myhrvold barged in. Once the chief technologist at Microsoft, Myhrvold moved on to other endeavors like a six-volume, 2,438-page compendium of cooking knowledge that has been celebrated by chefs. (A sequel, about baking, is in the works.)
+深入考虑出现这种危急时刻的可能性的科学家圈子人数很有限，彼此之间的交往相当友好——至少在内森·P·迈尔沃尔德(Nathan P. Myhrvold)闯入之前是如此。迈尔沃尔德曾经担任微软的首席技术专家，之后转向其他事业，比如撰写六卷本、2438页的烹饪知识百科全书，这套书在厨师中已颇具名气。（有关烘焙的那本正在撰写之中。）
+He has also become a statistics scold of scientists. His latest target is NASA, in a squabble over data from the Wide-field Infrared Survey Explorer spacecraft.
+他也成为以数据质疑科学家的人。此人最近的标靶是美国航天局(NASA)，并已就该机构的广域红外线巡天探测卫星（Wide-field Infrared Survey Explorer，简称WISE）获取的数据与之陷入争执。
+WISE, launched in 2009, snapped images of three-quarters of a billion stars, galaxies and other celestial objects, including the heat emissions of asteroids. An offshoot called Neowise used the heat data to calculate the size and reflectivity of 158,000 asteroids.
+于2009年发射入太空的WISE捕捉到了一些图像，可以显示出7.5亿星体、星系和其他小行星，其中包括小行星的热排放。一个名为Neowise的分支项目利用这些热量排放数据，计算出了15.8万颗小行星的大小和反射率。
+Myhrvold contends that the Neowise analysis is deeply flawed. “The bad news is it’s all basically wrong,” he said. “Unfortunately for a lot of it, it’s never going to be as accurate as they had hoped.”
+迈尔沃尔德称Neowise的分析存在严重的缺陷。“坏消息是它基本上完全是错的，”他说。“不幸的是，其中的相当大一部分永远不会像他们原本希望的那样准确。”
+He submitted his own analysis of the Neowise results to the journal Icarus.
+他把自己针对Neowise的成果所做的分析提交给了《Icarus》杂志。
+Myhrvold is not arguing that NASA has overlooked dangers from the known asteroids. But he does question whether scientists know as much as they think they do.
+迈尔沃尔德并不是要争辩NASA忽略了来自已知小行星的威胁。他所质疑的是，这些科学家是否如自己想象的那样了解这些东西。
+He has also zeroed in on a proposed space-based telescope with a price tag of more than $500 million, the Near-Earth Object Camera, or Neocam, a project headed by some of the same scientists whose work he is second-guessing.
+他也把枪口瞄准了一个计划中的、造价超过5亿美元的天基望远镜，即近地天体望远镜（Near-Earth Object Camera，简称Neocam）。领导该项目的一些科学家，与他正在质疑的、获得了相关成果的科学家基本是同一拨人。
+Most of the millions of asteroids are found between the orbits of Mars and Jupiter, but some dip closer to the sun. There is no doubt that some will hit Earth someday.
+这几百万颗小行星大部分发现于火星和木星的运行轨道之间，只是其中有一些更加靠近太阳。有朝一日，其中一些势必会撞上地球。
+The bigger the asteroid, the greater the potential cataclysm. The reflectivity of the surface — what astronomers call albedo — tells how easily it can be detected.
+小行星的体积越大，潜在灾难的规模就越大。行星的表面反射率——天文学家称为反照率——决定了它有多容易被探测到。
+“From the practical perspective of finding asteroids,” Myhrvold said, “it’s really important that we know the distribution of diameters and the distribution of albedos.”
+“从发现小行星的实际角度讲，”迈尔沃尔德说，“知道它们直径分布和反照率分布的确非常重要。”
+According to NASA’s scientists, the estimates of asteroid diameters made by Neowise are often within 10 percent of the actual size. But Myhrvold says the uncertainties are much greater, more than 100 percent in many cases.
+据NASA的科学家讲，Neowise估算出的小行星直径与实际数值的误差通常在10%以内。但迈尔沃尔德表示，这种不确定性要大得多，在很多情况下大于100%。
+Space agency officials disagree. “He’s a very smart man,” said Lindley Johnson, who oversees NASA’s efforts to protect the planet from space rocks. “But that doesn’t make him an expert in everything.”
+对此，宇航局的工作人员不敢苟同。“他是一个非常聪明的人，”在NASA负责防止地球遭陨石撞击项目的林德利·约翰逊(Lindley Johnson)说道。“但这不代表他在任何领域都是专家。”
+Other scientists say that Myhrvold’s criticisms have merit.
+其他一些科学家则表示，迈尔沃尔德的批评有它的价值。
+“I do think he’s performed a really very useful service,” said Alan W. Harris, a senior research scientist at the Space Science Institute, “to do the error analysis more carefully and alert people that you shouldn’t just take some of the data out of the WISE table and just assume they’re gospel.”
+“我真的认为他做了一项非常有益的工作，”太空科学研究所(Space Science Institute)的资深科学家阿兰·W·哈里斯(Alan W. Harris)说道，“更仔细进行误差分析，然后警告人们你不该只是从WISE的数据表中拿出一些数据，然后就对它们深信不疑。”
+But even if Myhrvold is correct, Harris said the Neowise data “has good enough validity to be useful for most purposes.”
+不过哈里斯表示，就算迈尔沃尔德是对的，Neowise的数据“也足够有效，可以满足大多数需求。”
+Myhrvold was drawn into asteroids research when the B612 Foundation, a nonprofit organization that advocates planetary defense efforts, asked him to contribute money for Sentinel, a privately financed $450-million, asteroid-finding spacecraft.
+迈尔沃尔德是在倡导星球防御的非营利机构B612基金会(B612 Foundation)请他为哨兵(Sentinel)捐款时开始涉足小行星研究的。哨兵是一艘探测小行星的航天器，由私人赞助，造价4.5亿美元。
+“What they didn’t know is that I had been interested in killer asteroids for a long time,” Myhrvold said. After all, an asteroid slamming into Earth is believed to have brought the age of dinosaurs to an end 66 million years ago.
+“他们不知道的是，我对致命小行星感兴趣已经很久了，”迈尔沃尔德说。毕竟，人们一直认为6600万年前一颗小行星撞击地球是导致恐龙时代终结的原因。
+But Myhrvold learned of several other efforts, including NASA’s Neocam, which would cost about $500 million (plus the rocket to launch it), and the Large Synoptic Survey Telescope, a ground-based observatory already under construction in Chile.
+不过，迈尔沃尔德了解到，还存在好几个类似的项目，包括NASA预计耗资5亿美元（外加用来发射它的火箭的费用）的Neocam项目和一个正在智利建设的地基天文台——大型综合巡天望远镜(Large Synoptic Survey Telescope)。
+Each group offered computer simulations of how many unseen asteroids would be spotted, making different assumptions.
+对于还有多少未知的小行星有待发现，每个机构都提供了电脑模拟结果，做出了各自不同的假设。
+In a paper published in March in The Publications of the Astronomical Society of the Pacific, Myhrvold took a simpler approach to provide an apples-to-apples comparison. He looked at the volume of space that each telescope could observe, then calculated what fraction of unseen asteroids would pass through that space.
+在今年3月发表于《太平洋天文学会汇刊》(The Publications of the Astronomical Society of the Pacific)上的一篇论文中，迈尔沃尔德采取一种更简单的策略，提供了一种具有可比性的对照。他查看了每座望远镜所能观测到的太空面积，然后计算出有多大比例的不可见小行星将会穿越这片太空。
+“I thought it all looked quite reasonable,” said Steven R. Chesley, a senior research scientist at NASA’s Jet Propulsion Laboratory in Pasadena, California. “Nathan definitely brings a fresh approach.”
+“我认为这一切看上去很合理，”在加州帕萨迪纳市的美国宇航局喷气推进实验室(Jet Propulsion Laboratory)担任高级研究员的史蒂芬·R·切斯利说。“内森绝对给出了一种新办法。”
+In writing the paper published in March, Myhrvold talked with people working on the different projects, including Amy Mainzer, the principal investigator for Neocam and Neowise.
+迈尔沃尔德在3月发表的这篇论文的写作过程中，曾和参与了不同项目的人聊过，包括Neocam和Neowise项目的首席研究员艾米·迈因策尔(Amy Mainzer)。
+Myhrvold said that Mainzer argued that a ground-based telescope could not detect asteroids within Earth’s orbit because they would be too close to the horizon.
+迈尔沃尔德说，迈因策尔认为用地面望远镜无法探测地球轨道以内的小行星，因为它们离地平线太近了。
+That seemed strange to Myhrvold, because even amateurs can easily spot celestial objects far inside Earth’s orbit like Venus, 26 million miles closer to the sun than Earth.
+在迈尔沃尔德看来，这种观点有点奇怪。因为就连业余爱好者也可以很容易地观测到地球轨道内更为靠近太阳的天体——譬如金星，它与太阳的距离比地球与太阳的距离短了2600万英里。
+Myhrvold said Mainzer responded that large telescopes were not designed to point that close to the ground. But the one in Chile is, he noted.
+迈尔沃尔德说，迈因策尔回应称大型望远镜并非为观测如此接近地面的点而设计。但他指出，智利的那架却是为此设计的。
+Chesley of NASA is coordinating a more detailed analysis of the telescope’s asteroid-finding prowess, with preliminary findings expected in late summer.
+美国航空航天局的切斯利正安排就这一望远镜发现小行星的能力进行更为细致的分析，预计今年夏末会有初步结果。
+In recent presentations, NASA officials have portrayed Neocam more as a complement than a competitor. “It’s a team sport,” Johnson said. “There isn’t any one system that is going to provide us all the data we need.”
+在最近的展示中，NASA官员更倾向于把Neocam描述为互补性项目，而非竞争者。“这是一项团体运动，”约翰逊说。“没有任何一个系统能够提供我们需要的所有数据。”
+NASA declined to make Mainzer available for an interview. Responding to written questions, she said the Neowise team stood behind the findings and that the results had been validated by independent observations and other researchers.
+NASA拒绝让迈因策尔腾出时间接受采访。对于以书面形式提交的问题，她回应说，Neowise项目团队为这些发现背书，而且相关结果已经被独立观察和其他研究人员证实。
+The Principle of Hibachi Grills
+烧烤架原则
+It struck Myhrvold that the albedo calculations of the Neocam team violated a basic tenet of physics known as Kirchhoff’s law of thermal radiation, which says shinier objects radiate less heat.
+令迈尔沃尔德感到震惊的是，Neocam项目团队的反照率计算违背了一个物理学的基本原则，即所谓的基尔霍夫热辐射定律，该定律称，较为闪亮的物体散发的热能较少。
+A simple demonstration of that, Myhrvold said, is the shiny chrome cooking surface of a restaurant hibachi grill. A dark grill surface would bathe diners in uncomfortable waves of heat. The Neocam models failed to take into account the effects of reflected sunlight, he said.
+迈尔沃尔德说，举一个简单的例子就能说明这个道理：餐馆里的烧烤架表面镀了一层铬，闪闪发亮。而表面较为暗沉的烧烤架所散发的热能会让用餐者被热浪包围，很不舒服。他说，Neocam项目团队使用的模型没考虑到反射的阳光所带来的影响。
+He then took a closer look at Neowise, too. One aspect Myhrvold found curious was that in more than 100 instances, the Neowise team reported asteroid diameters that matched exactly what had previously been determined by other methods like radar measurements and spacecraft flybys. “I think it’s a pretty strong smoking gun that something is wrong,” he said.
+接着，他也对Neowise进行了更为仔细的审视。迈尔沃尔德发现的颇为奇怪的一点是，在超过100个实例中，Neowise项目团队所报告的小行星半径与此前经由雷达测量和航天器近距离观测等方式得到的结果完全相符。“我认为这绝对可以表明，有些地方出毛病了。”
+For her part, Mainzer said the asteroids with exact measurement matches were used for calibration and thus the values were set to those that had been previously observed.
+迈因策尔则表示，报告值和以前的测量结果完全相符的那些小行星是用来校准的，因此报告值被设定成了以前观测到的数值。

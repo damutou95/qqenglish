@@ -1,0 +1,38 @@
+Raw satellite transmission data from the vanished Malaysia Airlines Flight 370, released on Tuesday by the Malaysian government, provided further evidence that the plane crashed into the Indian Ocean after flying south and running out of fuel.
+马来西亚政府周二公布了失踪的马来西亚航空公司370航班卫星传输的原始数据，数据提供进一步证据表明，这架飞机是在向南飞行，燃料耗尽后坠毁于印度洋。
+Malaysia and Inmarsat, the global satellite communications company, released the data after weeks of pressure from relatives of the mostly Chinese passengers and from the Chinese government itself. The Malaysian Department of Civil Aviation released the data as the country’s prime minister, Najib Razak, was on his way to China for an official visit.
+马来西亚政府和全球卫星通讯公司Inmarsat在中国乘客家属及中国政府施加了数周压力之后，公布了这些数据，航班上的大多数乘客是中国人。马来西亚民航局(Malaysian Department of Civil Aviation)发布这些数据的时间，正值该国总理纳吉布·拉扎克(Najib Razak)踏上对中国进行国事访问的行程之际。
+The final satellite transmission was an automated request from the aircraft for another so-called electronic handshake.
+最后一次卫星传输是飞机自动发出的又一次所谓的电子握手请求。
+“This is consistent with satellite communication equipment on the aircraft powering up following a power interruption,” the Australian Transport Safety Bureau said in a separate statement. “The interruption in electrical supply may have been caused by fuel exhaustion.”
+“这与飞机上卫星通信设备在电源中断之后重新启动相符合，”澳大利亚交通安全局(Australian Transport Safety Bureau)在另行发布的声明中说，“电源供应中断可能是由于燃料耗尽造成的。”
+One of the Chinese relatives, Wang Le, who lost his mother on the plane, was unimpressed with the release of the data. “What help will publicizing this data provide toward finding the airplane?” he asked. “This kind of data is too technical for family members, we cannot understand it, and we also don’t know whether it’s real or fake.”
+中国乘客家属王乐对公布的数据不感兴趣，他的母亲在那架飞机上。“公布这些数据对找到飞机有什么帮助？”他问道，“这些数据对乘客家属来说太技术了，我们看不懂，我们也不知道这是真的还是假的。”
+Tim Farrar, a satellite communications consultant based in Menlo Park, Calif., said that the raw data appeared to support calculations by Inmarsat and by governments involved in the search that the missing plane, a Boeing 777-200, had crashed into the eastern Indian Ocean. These calculations have been that the lost plane turned south after it did a U-turn over the Gulf of Thailand, flew west across Peninsular Malaysia and then disappeared from radar just north of the Indonesian island of Sumatra.
+住在加州门洛帕克的卫星通信顾问蒂姆·法拉尔(Tim Farrar)说，这些原始数据似乎支持Inmarsat公司以及搜寻这架飞机的政府所做出的计算，这架型号为777-200的波音飞机坠落在印度洋东部。计算显示，失踪的飞机在泰国湾掉头之后向南飞去，飞过马来半岛西部，之后在印度尼西亚的苏门答腊岛以北从雷达上消失。
+When Inmarsat and government agencies initially realized that the plane kept flying for six hours after its communications gear was turned off over the Gulf of Thailand, they suggested arcs of possible locations for the aircraft either to the north in Central Asia or to the south in the eastern Indian Ocean.
+Inmarsat和政府机构最初意识到飞机在泰国湾上空关闭了通信设备后，又继续飞行了六小时的时候，他们曾提出飞机的位置可能是在两个弧形区域，一个是向北至中亚地区的弧形带，一个是向南至印度洋东部的弧形带。
+But the data released on Tuesday showed that small changes in the position of Inmarsat’s satellite relative to the Earth meant that the plane must have flown south, not north, Mr. Farrar said.
+但是，周二公布的数据显示，Inmarsat公司卫星的位置相对地球的微小变化表明，这架飞机肯定是向南飞了，而没有向北飞，法拉尔表示。
+Conspiracy theorists have suggested that the plane flew west-southwest, perhaps to Diego Garcia, a British atoll in the middle of the Indian Ocean where the United States maintains a large military base. Mr. Farrar said that the raw data disproved that.
+阴谋论者曾提出，飞机的飞行方向是西-西南，也许飞往了迪戈加西亚环礁，那是印度洋中的一个英属珊瑚岛，美国在那里有一个大型军事基地。法拉尔说，原始数据不支持这个说法。
+“That’s clearly not consistent with these arcs,” he said.
+“那种说法与这些弧线明显不符，”他说。
+One question ahead of the publication of the raw data was whether it would provide valuable information about aircraft movements to intelligence agencies in China, North Korea and elsewhere, and possibly to terrorists as well. The raw data finally released covers transmissions from the aircraft, a series of so-called electronic handshakes, but does not include more sensitive information on how Inmarsat’s ground station in Perth, Australia, receives and records satellite transmissions.
+公布这些原始数据之前曾有一个问题，那就是数据是否会为中国、朝鲜以及其他国家的情报机构、可能还有恐怖主义分子提供有关飞机飞行的有价值信息。最终公布的原始数据只包括来自飞机的传输，也就是一系列所谓的电子握手信号，不包括Inmarsat公司在澳大利亚珀斯的地面站如何接收及记录这些卫星传输的更敏感信息。
+Mr. Farrar said that differences among the satellite transmission terminals aboard various aircraft around the world meant that releasing the raw data from the aircraft would not necessarily make it possible for intelligence agencies or others to track flights elsewhere.
+法拉尔表示，世界范围内各种飞机搭载的卫星传输终端存在差异，意味着公布飞机原始数据不一定会使情报机构或其他人获得追踪其他航班的能力。
+In a series of statements released late Monday, the Australian Transport Safety Bureau said the mapping of the ocean floor, already underway, would take at least three months to complete, in water that could be as deep as 20,000 feet. Once this bathymetric survey has been completed, the bureau said, it could take a further year to finish the deep-sea search of the ocean floor for debris from the Boeing 777.
+在周一晚公布的一系列声明中，澳大利亚交通安全局(Australian Transport Safety Bureau)表示，已在进行的海底测绘工作还需要至少三个月的时间才能完成，测绘海域最深达两万英尺（约合6100米）。该机构表示，完成海洋探测后，可能还需要一年的时间来完成在深海海底搜寻波音777飞机残骸的工作。
+The bureau’s chief commissioner, Martin Dolan, said that the complexities surrounding the search “cannot be underestimated” but that he remained “confident of finding the aircraft.”
+澳大利亚交通安全局局长马丁·多兰(Martin Dolan)表示，搜索行动的复杂性“不容低估”，但他仍然“有信心找到飞机”。
+The satellite signaling, referred to as a handshake, was between an Inmarsat ground station in Perth, an Inmarsat satellite and the plane’s satellite communications system. For each transmission to the aircraft, the ground station recorded a “burst timing offset” and “burst frequency offset.”
+前述卫星信号亦即握手信号的传输各端分别是Inmarsat位于珀斯的地面接收站、Inmarsat的一颗卫星，以及失踪飞机的卫星通信系统。每次向飞机传输信号时，地面接收站都会记录“脉冲时序偏移”和“脉冲频率偏移”。
+The burst timing offset measures the time it takes for a transmission to make a round trip between the ground station, the satellite and the plane and then back. That allowed the authorities to calculate the distance between the satellite and the aircraft.
+脉冲时序偏移可以测量信号在地面接收站、卫星及飞机之间往返所需一次的时间，相关机构可以借此计算卫星与飞机之间的距离。
+The burst frequency offset was used to help estimate the jet’s speed and direction. This offset measures the difference between the expected frequency of the transmission and the frequency received at the ground station.
+脉冲频率偏移被用来估计飞机的速度和方向。这个偏移能够测量预计信号传输频率与地面接收站所收到的频率之间的差异。
+The Chinese survey ship Zhu Kezhen has begun mapping the ocean floor and will be joined by a commercial vessel in June. Private contractors will later be involved in the specialized deep-sea search for debris on the ocean floor.
+中国测量船“竺可桢号”已经开始绘制海底地形图，6月将有一艘商业船只与它会合。随后，私人承包商将参与专业性很强的深海海底残骸搜索。
+The safety bureau also noted that the suspected final location of the aircraft happened to intersect a flight corridor from the Cocos Islands to Perth. But the bureau seemed to play down the significance of this, only briefly mentioning that the site had a single flight route over it.
+交通安全局还指出，人们目前猜测的飞机消失地点刚好位于从科科群岛到珀斯的飞行走廊上。不过，该局只是简单指出有一条飞行路线经过该地区，似乎是在刻意淡化这一点的重要性。

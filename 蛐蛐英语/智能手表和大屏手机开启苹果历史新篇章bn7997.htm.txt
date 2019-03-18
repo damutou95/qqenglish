@@ -1,0 +1,60 @@
+CUPERTINO, Calif. — After three years as chief executive of Apple, Timothy D. Cook is starting to crystallize his vision for the company.
+加利福尼亚州库比提诺——在担任苹果公司(Apple)首席执行官三年后，蒂莫西·D·库克(Timothy D. Cook)开始践行他对公司的构想。
+Apple on Tuesday introduced a highly anticipated smartwatch, which combines health and fitness monitoring with mobile computer capabilities like maps. The company also introduced two new iPhones with larger screens.
+周二，苹果发布了一款备受期待的智能腕表，把健康和运动监测与地图等移动电脑的功能结合了起来。公司还推出了两款屏幕更大的新款iPhone。
+The smartwatch, named the Apple Watch, is a miniature computer strapped around the wrist and is the first product made under Mr. Cook’s leadership that branches Apple into a new type of product: a device in the growing field of fitness-tracking computers that can be worn on or around the body.
+这款智能手表名为Apple Watch。它是一台戴在手腕上的微型电脑，成为公司在库克的领导下推出的第一款新类别产品。这款设备涉足的是正在日益增长的可穿戴式健康追踪电脑市场。
+“We’ve been working incredibly hard on an entirely new product, and we believe this product will redefine what people expect from this category,” Mr. Cook said. “It is the next chapter in Apple’s story.”
+“我们为这个全新的产品付出了惊人的努力，我们相信这款产品能重新界定人们对此类产品的期望值，”库克说。“它翻开了苹果历史的新篇章。”
+The new iPhones, which have much larger screens than past models, are significant upgrades for Apple’s smartphone lineup, still by far the company’s largest source of profit. They cater to a growing appetite among consumers for bigger screens on smartphones, similar to what happened with televisions.
+新款iPhone的屏幕比过去的型号大很多，属于苹果智能手机产品线的一次重大提升。智能手机仍然是公司最大的利润来源，遥遥领先于其他产品。与电视一样，消费者也希望智能手机能搭配更大的屏幕，新款iPhone便迎合了这种需求。
+And they are a rare instance of Apple’s following market trends instead of creating them; Samsung, Apple’s chief rival, has captured a major share of the smartphone market with large phones.
+此外，新款手机也罕有地说明，苹果在跟随市场潮流，而不是创造潮流。苹果的主要竞争对手三星(Samsung)利用大屏幕设备占据了智能手机市场的主要份额。
+Apple displayed the new products in front of a packed auditorium here at the Flint Center for the Performing Arts, the same spot where the company introduced the Macintosh in 1984.
+苹果此次推出新产品选在了弗林特表演艺术中心(Flint Center for the Performing Arts)，礼堂内座无虚席。1984年，公司就是在这里推出了麦金塔电脑(Macintosh)。
+Although the Apple Watch is the company’s first wearable computer, it enters a crowded field. Samsung, Pebble and Sony lead the pack of companies producing these new devices, and sales are growing quickly. But the devices are nowhere near as popular as smartphones. IDC, the research company, estimates that 19 million smartwatches will ship in 2014, much lower than the 1.2 billion smartphones that it expects will ship this year.
+虽然Apple Watch是苹果的第一款可穿戴电脑，但这个市场早就挤满了各种产品。在众多生产这类新设备的公司中，三星、Pebble和索尼(Sony)处于领先位置，产品的销量也在迅速增加。不过，可穿戴设备的流行程度还远不及智能手机。据调研公司国际数据(IDC)估计，2014年，智能手表的出货量将达到1900万只，远远落后于智能手机12亿台的出货量。
+And despite the fanfare with which the news media has greeted Apple’s introduction of its first wearable device, analysts have expressed mixed views about its potential to become mainstream.
+尽管媒体把苹果推出第一款可穿戴设备一事炒得沸沸扬扬，但分析人士对它是否能成为市场主流仍然持保留态度。
+Apple said the Apple Watch would have a strong focus on health. It highlighted an app called Fitness that it made to track statistics for different exercises, like bicycling or running. An accelerometer tracks the movements, and a heart rate sensor helps measure the intensity of the workouts.
+苹果宣称，Apple Watch将着重关注健康领域。公司突出介绍的一款应用叫做Fitness，能够对不同的运动进行数据记录，比如骑车或跑步。腕表内置的加速测量仪能够追踪佩戴者的运动情况，心率传感器则可以用来衡量运动强度。
+The wearable computer has a rectangular screen for a face with a flexible display and comes in two sizes. It has a crown on the side that acts as a digital dial, which can be turned to zoom in; tapping the crown returns to the main menu. The watch can be attached to six strap styles, including stainless steel and leather.
+这款可穿戴电脑的表盘呈矩形，是一面具有韧性的显示屏，共有两种尺寸。表盘一侧有个表冠，起到数码旋钮的作用，可以用旋转操作来缩放屏幕；按下表冠就可回到主菜单。Apple Watch还可以搭配六种不同表带，材质包括不锈钢和皮革。
+Similar to a smartphone, the smartwatch can run a variety of apps. Tapping on the home screen zooms in on a “neighborhood” of apps. From there, the user can tap on the app. Apple demonstrated apps for a calendar, map navigation and a music player.
+与智能手机相似，这款智能腕表也能够运行各种应用程序。轻触主屏幕，集中了应用程序的页面就会放大展示。用户可以在上面点击相应的程序。苹果对日历、地图导航和音乐播放器应用进行了演示。
+The smartwatch will rely on wireless charging to replenish the battery.
+这款智能手表将通过无线方式进行充电。
+The watch will take advantage of Siri, Apple’s tool for controlling the device with voice commands. Pushing down on the crown activates Siri, and a command like “What movies are playing nearby?” will result in the watch loading show times for nearby theaters.
+Apple Watch还将利用语音助手Siri来进行操控。按下表冠即可启动Siri。例如，发出“附近有什么电影正在上映？”的指令，手表就会显示出周边影院的放映时间。
+Apple also said it would release a toolkit for software developers to build apps for the watch. It said many companies had already made Apple Watch apps, including W hotels, Pinterest and BMW.
+苹果还表示，将为软件开发人员发布工具包，以便为这款智能手表打造应用程序。苹果宣布，许多公司已经开发出了Apple Watch的应用，其中包括W酒店(W Hotels)、Pinterest和宝马(BMW)。
+James McQuivey, a consumer technology analyst for Forrester Research, said the Apple Watch had already accomplished one thing, even though it will not be in stores for a while.
+弗雷斯特研究公司(Forrester Research)的消费产品技术分析师詹姆斯·麦奎维(James McQuivey )表示，尽管一段时间内不会上市，但Apple Watch已经完成了一件事。
+“It has firmly established the smartwatch as a category, one with unique properties requiring a unique solution as opposed to a miniature smartphone pushed down onto your wrist,” he said.
+“它稳固地建立起了智能手表这一产品类别。智能手表有独特的性质，需要独特的解决方案，而不是戴在手腕上的迷你智能手机，”他说。
+Apple said there would be three editions of the watch: Apple Watch, Apple Watch Sport and Apple Watch Edition. Pricing for the Apple Watch starts at $350 and requires one of the newer iPhones. The watch will be available next year.
+苹果表示这款腕表将有三个版本：Apple Watch、Apple Watch Sport和Apple Watch Edition。Apple Watch的起步价为350美元，仅支持较新款的iPhone。产品将于明年开售。
+The two new iPhones, the iPhone 6 and the iPhone 6 Plus, measure 4.7 inches and 5.5 inches diagonally, much larger than the most recent iPhones, which measured 4 inches.
+新推出的iPhone 6和iPhone 6 Plus的屏幕对角线分别为4.7英寸和5.5英寸，比上一代iPhone的4英寸要大得多。
+Both iPhones have an aluminum back. Even though their screen sizes are larger, their bodies are thinner than past iPhones.
+这两款iPhone都采用了铝制后盖。尽管屏幕更大，但它们的机身均比之前的iPhone薄。
+To deal with concerns that a bigger phone will make using the phone with one hand difficult, Apple created the feature Reachability. Double tapping the physical button makes the picture slide down so that a user can reach over with one hand to tap something.
+为了应对屏幕更大会让单手操作变得困难的担忧，苹果创设了Reachability这个功能。点触两次实体按键便可让界面滑至屏幕下半部，这样用户一只手便可触控。
+The processor inside the new iPhones is about 25 percent faster than the previous version, according to Phil Schiller, Apple’s head of marketing. The iPhones have slightly better battery life than the previous iPhone, and they include new wireless capabilities to get faster Internet speeds from cellular networks.
+苹果公司负责营销的菲尔·席勒(Phil Schiller)表示，新iPhone的处理器速度比之前的版本快大约25%。这两款iPhone的电池寿命也比以前的略长，而且具有从蜂窝网络获得更快网速的无线新功能。
+In addition, they support making phone calls over a Wi-Fi network and have an improved camera with a sensor that reads light and does quicker autofocus.
+此外，它们支持通过Wi-Fi网络打电话，摄像头也得到了提升，并且带有一个能感光且更快地自动对焦的传感器。
+The iPhone 6 starting price with a contract is $200, while the iPhone 6 Plus is $300. They go on sale Sept. 19.
+iPhone 6合约机的起步价为200美元，iPhone 6 Plus合约机的起步价则是300美元。两款机器均将于9月19日开售。
+With the new iPhones and watch, Apple is moving deeper into the world of mobile payments. Apple demonstrated Apple Pay, a feature that allows users to pay for things in retail stores with the devices. This feature relies on near field communication, or NFC, a technology that allows devices to exchange information wirelessly over very short distances.
+随着推出新款iPhone和手表，苹果正深度介入移动支付领域。发布会上演示了Apple Pay功能。通过这一功能，用户可采用相应的设备在零售店里进行支付。这个功能基于的是近场通讯技术（Near Field Communication，简称NFC），从而允许设备在非常近的距离内用无线方式交换信息。
+The user’s payment information is stored on a chip inside the phone while credit card information is added to Apple’s wallet app, Passbook. Touching the phone’s fingerprint sensor allows the user to pay. With the watch, the user simply taps it against a merchant terminal.
+用户的支付信息将被存储在手机内部的一个芯片上，而信用卡信息则被添加到苹果的钱包应用Passbook中。用户点触手机的指纹传感器便可支付。在新推出的手表设备上，用户只需用它刷一下商户的支付终端。
+Apple said it did not track the payment information, including how much the purchase cost or where the purchase was made. Transactions are kept between the merchant and the bank.
+苹果称，不会追踪交易金额和场所等支付信息。交易信息仅限银行和商户知道。
+Companies supporting Apple Pay include Walgreens, Duane Reade, Staples, Subway, McDonald’s and the Apple Store.
+目前支持Apple Pay的公司包括沃尔格林(Walgreens)、Duane Reade、史泰博(Staples)、赛百味(Subway)、麦当劳(McDonald’s)和苹果零售店(Apple Store)。
+Samsung, the No. 1 phone maker in the world, was the first to successfully sell smartphones with larger screens. Inside Apple, at least some employees have expressed concern about the threat that bigger phones posed to the iPhone, according to court documents revealed in the latest patent fight between the two companies.
+世界最大的手机生产商三星是首个成功销售大屏智能手机的厂家。在苹果和三星最近那场专利大战中公开的法庭文件显示，在苹果内部，至少有部分雇员表达了对大屏幕手机威胁到了iPhone的担忧。
+Unlike smartwatches, bigger smartphones have already proved to be a big hit. IDC estimated that at least 20 percent of all smartphones shipped last year in China, the largest smartphone market in the world, were 5 inches or larger. It predicts that manufacturers this year will ship more “phablets,” or smartphones with screens measuring at least 5.5 diagonal inches, than laptops.
+不同于智能手表，大屏幕手机已被证明是热门产品。IDC估计，在全球最大的智能手机市场中国，去年出货的智能手机中，至少有20%的屏幕不小于5英寸。IDC预测，和笔记本电脑相比，各大生产商今年会出厂更多的“平板手机”，即屏幕至少为5.5英寸的智能手机。

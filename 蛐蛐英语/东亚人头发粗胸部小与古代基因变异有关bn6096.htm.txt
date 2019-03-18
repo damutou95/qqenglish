@@ -1,0 +1,42 @@
+Gaining a deep insight into human evolution, researchers have identified a mutation in a critical human gene as the source of several distinctive traits that make East Asians different from other races.
+研究人员在一个关键人类基因中发现了一种变异，认为这是引发东亚人有别于其他人种的几个显著特征的根源，对人类进化有了深入了解。
+The traits — thicker hair shafts, more sweat glands, characteristically identified teeth and smaller breasts — are the result of a gene mutation that occurred about 35,000 years ago, the researchers have concluded.
+研究者得出结论，这些特征是约3.5万年前一次基因变异的结果。这些特征包括较粗的毛干、更多汗腺、有显著特征的牙齿，以及较小的乳房。
+The discovery explains a crucial juncture in the evolution of East Asians. But the method can also be applied to some 400 other sites on the human genome. The DNA changes at these sites, researchers believe, mark the turning points in recent human evolution as the populations on each continent diverged from one another.
+该发现解释了东亚人种进化中的一个关键时刻。此外，这一研究方法也适用于人类基因组其他约400个位置的研究。研究人员认为，各大洲居民逐渐演化得彼此相异，而这些位置上的DNA变化标志着演化中的转折点。
+The first of those sites to be studied contains the gene known as EDAR. Africans and Europeans carry the standard version of the gene, but in most East Asians, one of the DNA units has mutated.
+其中一个最早被研究的位置包含叫做EDAR的基因。非洲人和欧洲人都携带有该基因的正常版本，但是在多数东亚人身上，其中一个DNA单位发生了变异。
+Seeking to understand if the gene was the cause of thicker hair in East Asians with the variant gene, a team of researchers led by Yana G. Kamberov and Pardis C. Sabeti at the Broad Institute in Cambridge, Mass., decided to test the gene in mice, where its effects could be more easily explored.
+携带该变异基因的东亚人头发较粗，是否是因为该基因？为了理解这一点，马萨诸塞州坎布里奇博德研究院(Broad Institute)的亚那·G·坎贝罗夫(Yana G. Kamberov)和帕尔迪斯·C·萨贝提(Pardis C. Sabeti)率领一组研究人员，决定在老鼠身上实验该基因，这样可以更容易探索该基因的影响。
+Mice already have EDAR, an ancient mammalian gene that plays a leading role in the embryo in shaping hair, skin and teeth. The Broad team engineered a strain of mice whose EDAR gene had the same DNA change as the East Asian version of EDAR.
+老鼠本身就有EDAR基因。这种古老的哺乳动物携带的基因在胚胎中起着塑造毛发、皮肤和牙齿的重要作用。博德团队使用基因技术培育了一种老鼠，这种老鼠的EDAR基因和东亚人身上的EDAR基因有着同样的DNA变化。
+When the mice grew up, the researchers found they did indeed have thicker hair shafts, confirming that the changed gene was the cause of East Asians’ thicker hair. But the gene had several other effects, they report in Thursday’s issue of the journal Cell.
+当老鼠长大后，研究人员发现它们的毛干的确较粗，证明那种发生变化的基因是东亚人毛发较粗的原因。但是，他们在周四的《细胞》(Cell)期刊中称，该基因还有其他几个方面的影响。
+One was that the mice, to the researchers’ surprise, had extra sweat glands. A Chinese member of the team, Sijia Wang, then tested people in China and discovered that they, too, had more numerous sweat glands, evidently another effect of the gene.
+令研究者吃惊的是，其中一种影响是这种老鼠汗腺较多。随后，团队中的一位中国研究人员汪思佳对中国人进行了测试，发现他们的汗腺也的确更丰富，显然这是该基因的另一种影响。
+Another surprise was that the engineered mice had less breast tissue, meaning that EDAR could be the reason that East Asian women have generally smaller breasts.
+另外一件令研究者吃惊的事是，这种用基因技术培育出的老鼠的乳腺组织较少。这意味着EDAR基因可能是亚洲女性通常胸部较小的原因。
+East Asians have distinctively shaped teeth for which their version of EDAR is probably responsible. But the mice were less helpful on this point; their teeth are so different from humans’ that the researchers could not see any specific change.
+东亚人的有着形状特征鲜明的牙齿，这可能也是他们携带的EDAR基因变体的影响。但是在这一点上，老鼠的研究也不能提供太多借鉴。老鼠的牙齿和人类牙齿迥异，研究者无法看出某种特别的变化。
+The finding that the gene has so many effects raises the question of which one was the dominant trigger for natural selection.
+该基因有这么多方面的影响。这一发现引发了一个疑问，主要是哪方面的影响引发了自然选择？
+Dr. Sabeti said the extra sweat glands could have been the feature favored by natural selection, with all the other effects being dragged along in its train.
+萨贝提博士说，汗腺多可能是自然选择偏爱的特征，其他方面的影响都是顺带产生的。
+“We’re the only mammals to have changed their entire hair pattern. So the changes in teeth, hair and breasts — it’s very possible they are the passengers and thermoregulation is the key,” she said, referring to the role of sweat glands in cooling the body.
+她说，“我们是唯一完全改变毛发模式的哺乳动物。所以牙齿、毛发和胸部的变化极可能是顺带出现的，而温度调节才是关键。”她指的是汗腺为身体降温的功能。
+East Asians are sometimes assumed to have evolved in a cold environment because of their narrow nostrils, which conserve heat, and the extra eyelid fat that insulates the eye. But the Broad team calculates that the EDAR variant arose about 35,000 years ago in central China and that the region was then quite warm and humid. Extra sweat glands would have been advantageous to the hunter-gatherers who lived at that time.
+人们有时假设东亚人曾在一个寒冷的环境里进化，因为他们的窄鼻孔可以保存热量、多余的眼皮脂肪可以防止眼部热量流失。但是博德团队估计，相关EDAR基因的变体大概在3.5万年前出现在中国的中部地区，而那时这一地区相对温暖、潮湿。更多的汗腺对当时生活在那里依靠狩猎和采集为生的人是有好处的。
+But Joshua Akey, a geneticist at the University of Washington in Seattle, said he thought the more likely cause of the gene’s spread among East Asians was sexual selection. Thick hair and small breasts are visible sexual signals which, if preferred by men, could quickly become more common as the carriers had more children. The genes underlying conspicuous traits, like blue eyes and blond hair in Europeans, have very strong signals of selection, Dr. Akey said, and the sexually visible effects of EDAR are likely to have been stronger drivers of natural selection than sweat glands.
+但是，西雅图华盛顿大学(University of Washington)的遗传学家乔舒亚·阿基(Joshua Akey)说，他认为这种基因在东亚的传播更可能是由于性选择。粗毛发和小胸是肉眼可见的性信号，如果男性偏好这种特质，随着携带此特征的女性孕育更多孩子，这种特质就可以迅速变得更普遍。阿基博士说，决定显性特征的基因，如欧洲人中的蓝眼、金发，有着很强的选择信号。与汗腺相比，EDAR基因可见的吸引异性的影响很可能在自然选择上发挥了更大作用。
+Yet a third view is held by Dr. Kamberov, who believes that each of the effects of the EDAR variant may have been favored by natural selection at a different time. A series of selections on different traits thus made the variant version so common among East Asians. About 93 percent of Han Chinese carry the variant, as do about 70 percent of people in Japan and Thailand, and 60 to 90 percent of American Indians, a population descended from East Asians.
+然而，坎贝罗夫博士持有第三种观点，他认为，在不同的时期，自然选择会更偏向于EDAR基因变体带来的不同后果。因此，对不同特征的一系列选择让这种变异在东亚人种里变得十分普遍。大概有93%的中国汉族人携带这种变异，大概有70%的日本人和泰国人、60%到90%的美洲印第安人携带这种变异。而美洲印第安人是东亚人的后裔。
+The Broad team is studying EDAR as part of a larger plan to identify all the genetic variants responsible for recent human evolution. Many researchers, including Dr. Sabeti, have devised ways of scanning the human genome to detect the fingerprints of natural selection. But these scans have typically identified large chunks of the genome that contain many genes. There is often no way to tell which gene was the target of natural selection.
+博德团队正努力辨识引起近期人类进化的各种基因变体，而EDAR只是他们研究内容之一。很多研究人员，包括萨贝提博士，已经创造出不同的方法来扫描人类基因组，以确定自然选择的痕迹。但这些扫描通常识别出包含很多基因的大块基因组，而没有办法识别哪一个基因才是自然选择的目标。
+A team led by Dr. Sabeti and Sharon R. Grossman of the Broad Institute has now refined the usual scanning methods and identified 412 sites on the genome that have been under selection. Each site is small enough that it contains at most a single gene.
+由萨贝提博士和博德研究所的沙伦·R·格罗斯曼(Sharon R. Grossman)带领的一个团队现在已经改进了常见的扫描模式，识别了基因组上412个自然选择的位置。每一个位置都足够小，它最多包含一个基因。
+Each race has a different set of selected regions, reflecting the fact that the human population had dispersed from its African homeland and faced different challenges that led to genetic adaptation on each continent. About 140 of the sites affected by natural selection are in Europeans, 140 in East Asians and 132 in Africans, the authors report in another article published Thursday in Cell.
+每一个种族都有一系列不同的所选区域，这反映了一个事实：人类离开非洲以后散布各地，面临了不同的挑战，因而导致每一个大陆上基因适应环境的情况并不一样。大概其中140个受自然选择影响的位置在欧洲人身上，140个在东亚人身上，132个在非洲人身上，作者们在另外一篇于周四发表在《细胞》杂志上的文章里写道。
+Inserting some of the other selected genes into mice might help explain why they were favored, and point to critical turning points in recent human evolution, Dr. Sabeti said.
+萨贝提博士说，将其他一些所选基因加入老鼠体中，也许能帮助解释为什么这些基因更受欢迎，并指出在近期人类演化中的转折点。
+In the case of EDAR, putting the gene into mice has only magnified the mystery of why it was selected. But the researchers are not discouraged. “A reflection of good science is that a step forward opens up a lot more questions,” Dr. Akey said.
+在EDAR的研究上，将这种基因植入老鼠体内只是让它被选择的原因变得更加神秘。但是研究人员并没有泄气。阿基博士说，“好科学的一个标志就是，前进一步会揭示出更多问题。”

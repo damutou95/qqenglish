@@ -1,0 +1,46 @@
+You’ve heard of the Quantified Self movement? It’s the rise of watches, clips and bracelets that monitor your physical activity, sleep and other biological functions. The idea is that continual numerical awareness of your lifestyle works to motivate you: to park farther away, to get off the subway one stop sooner, to take more stairs. You study the graphs, you crunch the numbers, you live a longer, healthier life. (And you try to avoid being a crashing bore at parties.)
+听说过自我量化(Quantified Self)运动吗？这是日渐兴起的用手表、夹子和腕带记录身体运动、睡眠和其他生理功能的运动。其构想是：对日常生活进行持续不断的数字记录，可以给人带来健康生活的动力，比如：把车停得更远一点、提前一站下地铁和多走楼梯等。研究这些图表和数字，你就能生活得更久、更健康。（而且你试图不成为聚会上让人扫兴的人。 ）
+The most popular such gizmo — or at least the most heavily marketed — has been Jawbone’s stylish, rubberized, shower-proof Up band ($130). For about a week on a battery charge, it quietly measures your movement, whether you are awake or asleep, and displays the results on your iPhone or Android phone.
+这种科技产品中最流行（或者说至少是营销力度最大的）一直是Jawbone公司的时尚款橡胶防水Up腕带(Up band)（售价130美元，约合800元人民币）。这种设备大约每周充电一次，就能在你睡觉或是清醒时悄悄测量你的活动，并把记录显示在iPhone或者是Android手机上。
+The trouble with the Up band, however, is the way it communicates with your phone. You remove the bracelet. Pull off a metal cap about the size of a blood cell. Plug the newly exposed connector into — get this — your phone’s headphone jack. Open the app. After the data transfer, disconnect the band, find the cap, snap it back on and put the bracelet on again.
+然而，Up腕带的问题是与手机连接的方式很复杂。首先要将腕带取下来。拔下差不多一个血细胞大小的金属盖，将刚刚暴露出来的连接器插入手机的耳机插口。打开应用程序。在数据传输之后，断开连接，找到金属盖，把它扣进去，再戴好腕带。
+No wireless? What is this, 1957?
+没有无线连接？这是怎么回事，1957年吗？
+The inconvenience is bad enough, but — well, let’s put it this way: There’s a reason Up sells a three-pack of replacement caps ($10).
+这样复杂已经够差劲了，但是还有，这么说吧：这家公司出售三件装的Up腕带备用金属盖（售价10美元）是有原因的。
+Now Fitbit, whose original 2008 tracker clipped to your clothing, has entered the bracelet game with a screamingly obvious improvement: Bluetooth. Its new Flex band ($100) communicates with your phone wirelessly and automatically. You don’t have to remove, dismantle or even touch the band on your wrist. The Flex’s factory setting is to transmit the data only when you open the Fitbit app on the phone, so you sacrifice little phone battery life.
+再来看Fitbit，该公司在2008年推出的首款追踪器夹在衣服上。现在，其新款产品带有一个明显的改进：蓝牙。该公司的新款Flex腕带（售价100美元）可以自动与手机无线联接。Flex的出厂设置是，只有手机上打开Fitbit应用时，才开始传输数据，这样你几乎不需要牺牲电池寿命。
+(The Nike FuelBand, $150, also uses Bluetooth, though it’s a simpler device; it doesn’t try to track sleep or diet.)
+（耐克公司[Nike]售价150美元的FuelBand也有蓝牙功能，尽管设备本身更简单；它不追踪睡眠和饮食状况。）
+The Flex band makes little attempt to score style points. It’s just a thin, solid gray or black rubber strap, a half-inch wide, thicker as it crosses the top of your wrist. But it’s incredibly light and comfortable. In fact, without looking, it’s hard to remember if you’re even wearing it.
+Flex腕带没怎么在时尚方面下功夫。它只是个轻薄的纯灰色或黑色橡胶环，半英寸宽，手腕上方的部分稍厚。不过，它极其轻便舒适。实际上，如果不看的话，很难想起你还带着这么个东西。
+Compared to the Up — which is shaped like an overgrown C, with overlapping ends — the Flex’s design has three advantages.
+Up的形状类似一个加长的字母C，末端部分重叠。相比之下，Flex的设计有三大优势。
+First, it’s a complete circle, so it doesn’t catch on clothing, fly off with your sweater or gouge your hugging partners.
+首先，它是个完整的圆环，因而不会挂到衣服、随毛衣脱落或者戳到你拥抱的人。
+Second, it has a sort of screen. It usually looks like a dark stripe across the band, just a graphic accent. But if you tap twice on it, a line of bright LED dots lights up — up to five, indicating your progress so far that day toward whatever activity goal you set for yourself (say, 10,000 steps). Each dot indicates 20 percent toward your goal; achieving 100 percent earns you a vibrating, five-light flashing rubber-band celebration.
+其次，它算是有个屏幕。一般情况下，它看起来就像是腕带上的一段深色条，只是某种图形上的强调。但是，如果触碰两次，就会点亮一串明亮的LED灯，最多能亮五个点，指示你当天运动目标（比如，步行1万步）的完成情况。每个点表示完成20%的目标；达到100%的时候，橡胶腕带就会以五灯闪耀加振动的方式庆祝。
+The third improvement is that you can remove the Flex’s heart — a tiny, shiny black capsule that’s held snugly in a pocket within the rubber. The beauty of this design is that you can snap that capsule into other Flex bands. You’re not stuck with the look of the original. Once you have bought the original gray-band or black-band Flex kit, you can buy a $30 set containing teal, orange and navy blue bands. And Fitbit may offer other styles in time.
+最后一个优势在于，可以取出Flex的核心部分，也就是紧密安放在橡胶构件中的一个细小锃亮的黑色胶囊状柱体。这种设计的美妙之处在于，你能轻易将它塞入其他的Flex腕带，而不必受困于原装产品的外形。只要买了原装的灰色或黑色Flex套装，就能花30美元买一套蓝绿色、橙色和藏青色的腕带。Fitbit公司今后还可能推出其他款式。
+Which is lucky, because the Flex has one sizable disadvantage: it’s hard to put on. The clasp — two metal prongs that snap into cutouts in the rubber — holds fast, but it’s fussy to connect.
+这一点很幸运，因为Flex有个不小的劣势：难以戴上。它的搭扣是按入橡胶孔的两个金属扣，虽然能扣得牢，但是扣上要费一番功夫。
+Fortunately, you don’t have to take it off much. You wear it sleeping, exercising, eating, swimming, showering. At any time, you can open the phone app to read the latest stats for the day: steps, distance, calories burned and so on.
+幸运的是，不用经常把它取下。你可以带着它睡觉、锻炼、吃饭、游泳和淋浴。你在任何时候都可以打开手机应用，读取当天的最新状态：锻炼的步数、距离和燃烧的卡路里等等。
+Alas, the software isn’t nearly as impressive.
+可惜，Flex的软件远远谈不上出色。
+It can show you daily, weekly, monthly or yearly graphs of your steps taken or calories burned, but can’t plot that data with other factors. For example, the Up software can plot hours of sleep against physical activity, so you can see how exercise affects your sleep.
+Flex可以显示你在每日、每周、每月或每年的步数或卡路里燃烧量，但不能把这些数据和其他因素相关联。例如，Up的软件可以在图表上把睡眠数据和身体运动数据重叠显示，这样你就能得知运动如何影响睡眠。
+Both bands can track your sleep, but neither can sense automatically that you’re going to bed. You have to tap the Flex band six times rapidly, until two LED dots fade out, to tell it that you’re retiring. (You also have to tell the Flex when you rise the next morning; the Up figures that out by itself.)
+这两种腕带都能追踪睡眠情况，但都不能自动测出你要上床睡觉了。你得快速触碰Flex腕带六次，直到两个LED亮点熄灭，这样就告诉腕带你要休息了。（次日早上，你还得告诉Flex你要起床了；Up可以自动测出你起床了。）
+Once it knows you’re in bed, the Flex software tracks the number of hours you sleep, when you’re “restless” (not really asleep but not fully awake), and how many times you wake during the night. But its sleep graph doesn’t distinguish light sleep from deep sleep, as the Up band does. You miss out on a fascinating window into yourself.
+一旦腕带知道你上床了，Flex的软件将会记录下你的睡眠时间和半醒半睡的时间，也会记录下你在夜间醒来的次数。但Flex的睡眠图不像Up那样会区分浅睡眠和深睡眠。你将错过一扇洞察自己的奇妙窗户。
+Fitbit says that it omitted this feature because it’s scientifically questionable. No studies or academic papers have established any correlation between motion — the only thing these monitors measure — and the depth of sleep, it says.
+Fitbit表示，他们之所以省略了这一功能，是因为这在科学上还有待研究。该公司说，迄今没有研究或学术论文发现运动（这些设备监测的唯一参数）和睡眠深度之间有任何关联。
+Neither band can track what you eat automatically — that would be not so much technology as witchcraft. Both require you to record your edibles manually. The Up makes that job easier and more visual, although few people bother.
+两款腕带都不能自动追踪你吃了什么——能做到这样的是魔法而非技术。它们都要求你手动记录饮食情况。Up腕带让这项工作更容易，视觉化程度更高，尽管很少有人费事利用这项功能。
+Both bands let you share your daily measurements with friends, relatives or blood rivals who own the same band. It’s amazing how well public humiliation works as a motivational force.
+两款腕带都能让你和佩戴相同腕带的亲友或劲敌分享每天的测量数据。作为一种激励动力，公诸于众的耻辱效果好得惊人。
+Choosing between these two bands is excruciating. The Up is more sophisticated and does a lot more, but that business of uncapping and plugging into the headphone jack is for the birds. The Flex tracks less data and does less with it, but its wireless syncing — to either your phone or your computer — is a beautiful thing that makes a world of difference. You can track your life in real time, instead of only at day’s end.
+在这两款腕带之间做出选择是一种折磨。Up的技术含量更高，功能多得多，但打开盖子和插入耳机接口的设计很不讨人喜欢。Flex追踪的数据更少，利用数据实现的功能也更少，但它能和手机或电脑无线同步，这个美妙的功能构成了天壤之别。你可以实时追踪自己的生活，而不是仅仅在一天结束的时候。
+In the end, though, comparing features is splitting hairs. All of these gadgets perform the Big Feature well: making you constantly aware of your inactivity and lack of sleep — and motivating you, gently and engagingly, to pilot your life onto a healthier track.
+不过归根结底，对比功能是在做不必要的过细区分。这些小玩意儿的主要功能都很出色：不断让你意识到自己缺乏活动和睡眠，并以温和、迷人的方式鼓励你让自己的生活进入更健康的轨道。

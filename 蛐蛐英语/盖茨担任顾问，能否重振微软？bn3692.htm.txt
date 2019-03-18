@@ -1,0 +1,32 @@
+SEATTLE — The last time Bill Gates played an active role at Microsoft, as chief software architect, he witnessed the company muffing its earliest efforts to become a major player in search, smartphones and tablet computers.
+西雅图——比尔·盖茨(Bill Gates)上一次在微软(Microsoft)发挥积极作用，担任首席软件架构师时，目睹了公司在成为搜索、智能手机及平板电脑领域巨头的最初努力中尝到的失败。
+In the six years since then, he has watched as the technology industry changed without him. The personal computer era that Microsoft so ably dominated during and after Mr. Gates’s heyday as Microsoft’s chief executive has started to fade away. Now, the focus is on social media and mobile devices that run in large part on cloud computing.
+接下来的六年时间里，盖茨眼看着技术产业在没有他的情况下发生转变。在盖茨名声最盛、担任微软首席执行官期间及之后的时间里，微软在个人电脑领域占据极大优势，这种优势已经开始逐渐消失。如今，微软致力于社交媒体和移动设备，而它们在很大程度上依赖云计算。
+And what technologies has Mr. Gates, who turned to philanthropy, been most vocal about during all that change? Things like self-contained toilets and vaccines.
+在这些转变发生的同时，投身慈善事业的盖茨最支持哪种技术呢？自给式马桶、疫苗这样的东西。
+“I am a little obsessed with fertilizer,” reads the first sentence of a column he wrote for a recent issue of Wired, the technology magazine.
+盖茨为最近一期的技术杂志《连线》(Wired)撰写的专栏文章的第一句话是，“我有点迷恋肥料。”
+Still, on Tuesday, Microsoft said that Mr. Gates was returning to the company as a product and technology adviser to Satya Nadella, the company’s new chief executive. And that raised obvious questions about how helpful Mr. Gates, 58, can be to Microsoft in a new generation of technology.
+但微软在周二表示，盖茨将回归微软，担任该公司新首席执行官萨蒂亚·纳德拉(Satya Nadella)的产品及技术顾问。这带来了一个显而易见的问题，在新技术时代，58岁的盖茨对微软有何益处呢？
+At least one thing is clear: Although Mr. Gates has spent most of his time for the last several years working on his charitable foundation, trying to eradicate polio and reduce hunger, he has not lost his passion for technology.
+至少有一件事非常明确：虽然盖茨过去几年的大部分时间都在忙于管理他的慈善基金，设法根除小儿麻痹症，减少饥饿，但他没有丧失对技术的热情。
+Four to six times a year, said a person close to him, Mr. Gates has received briefings on technology from Microsoft managers at his private offices in Kirkland, Wash., not far from Microsoft’s headquarters. These “demo days,” as they are called, typically last from four hours to half a day and feature products from Microsoft and its competitors, said this person, who spoke on the condition of anonymity to protect his relationship with Mr. Gates.
+据与盖茨关系密切的人士透露，盖茨会在华盛顿州柯克兰一个离微软总部不远的私人办公室里听取微软管理层的技术简报，每年举行四到六次的简报会议。这名知情人士表示，他们的这种所谓“演示日”通常持续四小时至半天，主要介绍微软及其竞争对手的产品，为了保护自己与盖茨的关系，这名知情人士要求匿名。
+The demos are in addition to the regular briefings Mr. Gates has received about Microsoft technology since he began devoting full-time energy toward his philanthropy. These shorter sessions include Microsoft product teams and researchers, whom he quizzes about their technology choices. He has also remained close to venture capitalists and is up to speed on early-stage investment trends in technology.
+自全身心投入慈善事业以来，除了定期听取有关微软技术的简报以外，盖茨还会观看上述展示。这些短暂会议的与会人员包括微软的产品团队和研究员，盖茨会查问他们的技术选择。他还与风险资本家保持密切关系，紧跟技术领域的早期投资潮流。
+Still, it is difficult to tell whether Mr. Gates’s thinking about the mission of Microsoft has changed with a little distance. During his time as chief executive, much of the company’s actions were motivated by an overarching impulse to protect Windows, its PC operating system and the root of its biggest profits. The company spent years in court battling antitrust suits over its efforts to squelch competitive products using Windows.
+但是，在和微软保持了一段距离后，盖茨对公司使命的看法是否已经改变，目前还很难说。在他担任首席执行官期间，微软采取的很多行动，都有着一个压倒一切的动机，那就是保护其PC操作系统以及最大利润来源Windows。由于用Windows打压竞争产品，微软在法庭上打了数年的反垄断官司。
+Inside the company, the strong protection of Windows sometimes hurt the development of new technologies, and it also weakened the company’s influence among outside developers who have shifted their energies to other devices and forms of programming.
+在微软内部，对Windows的着重保护有时也制约了新技术的发展，削弱了公司对外界开发者的影响力，这些开发者已经把精力转移到了其他设备和编程形式上。
+It is unclear whether Mr. Gates and Mr. Nadella are prepared to unshackle Microsoft from its Windows past. One possibility, suggested in a research report on Tuesday, would be to more aggressively develop mobile versions of the company’s Office software, without favoring Windows. Microsoft has already said it is developing a version of Office for the iPad, though it hasn’t announced a release date.
+目前还不清楚盖茨和纳德拉是否准备把微软从过去的Windows束缚中解脱出来。周二发布的一份研究报告称，微软可能会更加积极地开发Office软件的移动版本，不会偏重Windows。微软已经表示，它正在开发iPad版本的Office，不过没有提及发布日期。
+“We think it is a positive from a product perspective to have Mr. Gates help think through the repositioning of the business, recognizing the PC is no longer the driver of growth and there is a need to rethink the strategic direction of the business with an open mind for change,” Rick Sherlund, an analyst at Nomura Securities, wrote in the research report.
+“我们认为，从产品的角度来看，有盖茨帮助考虑这项业务的重新定位是件好事，大家都已经意识到PC不再是利润增长的驱动力，现在有必要以开放的、发展变化的心态重新思考这项业务的战略方向。”野村证券(Nomura Securities)分析师里克·谢伦德(Rick Sherlund)在这份报告中写道。
+As Microsoft describes it, Mr. Gates will be involved in any rethinking of strategy while under Mr. Nadella. And that, some former Microsoft employees say, is where he is at his best.
+正如微软所描述的，在纳德拉执掌微软期间，盖茨将参与所有涉及战略的重新思考。微软的一些前员工表示，那是盖茨最擅长的事情。
+“Unlike almost anyone I’ve ever met, Bill has the ability to quickly wrap his head around an extremely complex landscape that will include much more than just product features,” Gary Flake, a former Microsoft researcher, wrote in an email.
+“比尔能够迅速在脑海中构思出一幅极其复杂的图景，其中的内容远不止产品功能，我认识的人中差不多只有他才能办到这事，”微软前研究员加里·弗雷克(Gary Flake)在一封电子邮件中写道。
+And Mr. Flake said that Mr. Gates’s extensive world travels over the last six years — and a little distance from the company — could help him bring a new perspective.
+弗雷克说，过去的六年里，盖茨常常在世界各地旅行，跟公司略为疏远，这可能有助于他引入一个新的视角。
+“I expect that any tunnel vision that he may have had prior to leaving full-time status is now completely replaced with a new appreciation for how others view the world and what is really important to them,” Mr. Flake wrote. 
+“我觉得，关于别人如何看待这个世界，对他们而言真正重要的是什么，比尔有了一种新的认识；他离开微软全职岗位之前的任何井蛙之见，现在都已经完全被这种新的认识所取代，”弗雷克写道。

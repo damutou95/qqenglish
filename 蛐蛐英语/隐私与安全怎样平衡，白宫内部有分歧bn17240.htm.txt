@@ -1,0 +1,18 @@
+WASHINGTON — The intensifying legal battle over encryption between Apple and the Justice Department has all but obscured another more subtle division, the one inside the Obama administration itself.
+华盛顿——苹果公司与美国司法部之间就加密爆发的激烈法律冲突，几乎完全遮蔽了另一场更为微妙的纷争。这场纷争发生在奥巴马政府内部。
+Driven by competing and sometimes clashing interests about privacy, national security and the economy, some of the president's most senior aides are staking out a variety of positions on the issue.
+涉及隐私权、国家安全和经济的多种利益之间存在分歧，甚至有时针锋相对，所以奥巴马政府中一些级别最高的幕僚也在这个议题上提出了彼此各异的立场。
+The White House denies there is disagreement over the effort to force Apple to break into the phone used by one of the terrorists in the San Bernardino, California, shootings, but the differences on how to deal with the broader questions raised by encryption have become increasingly apparent.
+对于迫使苹果公司(Apple)破解加州圣贝纳迪诺枪击案的一名恐怖分子使用的手机的做法，白宫方面不承认存在分歧。但对于加密引发的更广泛的问题该如何应对，各方的意见分歧暴露得却越来越多。
+The FBI wants the ability to break into smartphones and computers for investigations. The Pentagon and intelligence officials worry that the same techniques could be used by foreign powers or hackers to drain data from phones used by the U.S. government, and that countries like China will demand the same access provided to U.S. law enforcement officials.
+联邦调查局(FBI)希望能在调查中破解手机和电脑。五角大楼和情报官员担心，外国势力或黑客可以使用同样的技术，从美国政府使用的手机里窃取数据，而中国这样的国家也会要求得到提供给美国执法官员的相同权限。
+The conflicting positions were on display last week. On Tuesday, James B. Comey Jr., director of the FBI, testified in Congress about the need for some kind of government action — he avoided the word “legislation” because the White House has specifically said it is not seeking that now — that would guarantee access to law enforcement, no matter how encryption technology evolves.
+分歧的立场上周表露无遗。周二，FBI局长小詹姆斯·B·科米(James B. Comey Jr.)在国会作证时称，需要采取某种政府行动，向执法机关授予访问数据的权限，无论加密技术如何发展——他刻意避免了“立法”一词，因为白宫曾明确表示，现在不寻求立法。
+Less than a day later, Defense Secretary Ash Carter, talking to technologists at an annual computer security conference in San Francisco, struck a very different tone.
+不到一天后，国防部长阿什·卡特(Ash Carter)在旧金山举行的一场年度计算机安全会议上，对科技界人士发言时，却采取了相当不同的语调。
+A law “written in an atmosphere of anger or grief,” he said, is “not likely to be the right answer.” Later he drove home the point, saying “it would be better to work this out rather than have a law written.”
+他说，“在愤怒或哀痛的气氛中写下的”法律，“应该不会是正确的解答”。之后他又重申了这一观点，表示“想办法解决这个问题，好过写一部法律”。
+Administration officials insist the comments do not reflect serious internal disagreements about policy. They say, for example, that the Justice Department and FBI also support strong encryption — with limits — while the heads of the intelligence agencies, responsible for securing government communications, understand the stresses on those investigating serious crimes.
+奥巴马政府官员坚称，这些评论不代表内部对政策存在分歧。比如他们说，司法部和FBI也支持强大的加密——但要有限度——而负责保障政府通讯安全的情报部门主管，也理解调查严重犯罪的部门承受的压力。
+But officials from the National Security Agency, the Department of Homeland Security and the Pentagon describe meetings in the White House Situation Room that go over the same territory and cannot find a middle ground.
+但是国家安全局(National Security Agency)、国土安全部(Department of Homeland Security)及五角大楼的官员则形容，白宫局势研究室里涉及相同议题的会议，找不到各方都认同的立场。

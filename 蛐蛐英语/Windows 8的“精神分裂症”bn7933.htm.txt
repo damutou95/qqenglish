@@ -1,0 +1,68 @@
+This may be the biggest week in Microsoft’s 37-year history. The company is releasing its very first computer (the Surface tablet), a new phone operating system (Windows Phone 8), and, believe it or not, two PC operating systems.
+上周可能是微软(Microsoft)成立37年来最重要的一周。微软发布了全新的电脑（Surface平板电脑）和一款新的手机操作系统(Windows Phone 8)，不管你信不信，微软还发布了两款个人电脑操作系统。
+I’m not talking about Windows 8 and Windows RT, which are, in fact, two new and distinct operating systems from Microsoft. I mean the two different worlds within Windows 8 alone, one designed primarily for touch screens, the other for mouse and keyboard. Individually, they are excellent — but you can’t use them individually. Microsoft has combined them into a superimposed, muddled mishmash called Windows 8, which goes on sale Friday at prices ranging from $15 to $40, depending on the offer and version.
+我说的不是Windows 8 和 Windows RT，这两个系统实际上是微软独立的新操作系统。我说的是Windows 8里的两套不同的操作环境，一套主要是为触摸屏设计的，另一套则是为使用鼠标和键盘设计的。这两套系统分别来说都很棒，可惜你不能单独使用其中一个。微软将它们结合在一起，组成了一个重叠、混合、揉成一团的系统——Windows 8。这款系统已于上周五开始发售，视优惠和版本的差异，价格从15美元到40美元不等。
+You can easily imagine how Microsoft got here. “PC sales have slowed,” some executive must have said. “This is a new age of touch screens! We need a fresh approach, a new Windows. Something bold, fluid and finger-friendly.”
+很容易想象微软是为何推出这一产品的。“个人电脑的销售放缓，”一些高管肯定这么说过。“现在是触摸屏的新时代！我们需要新的战略，新版的Windows。需要一些大胆、流畅且适合手指操作的东西。”
+“Well, hold on,” someone must have countered. “We can’t forget the 600 million regular mouse-driven PCs. We also need to update Windows 7 for them!”
+“等等，”有人一定反驳说。“不要忘了，还有六亿台鼠标驱动的常规个人电脑啊。我们也需要为它们更新Windows 7系统！”
+And then things went terribly wrong.
+于是，事情就变得非常糟糕。
+“Hey, I know!” somebody piped in. “Let’s combine those two Windows versions into one. One OS for all machines. Everybody’s happy!”
+“哎呀，我知道了！”有人高声说道。“就把这两个版本的Windows融合成一个可以适用于所有电脑的操作系统吧。如此一来，皆大欢喜！”
+Whoops.
+哎呦。
+Let’s tackle each version one at a time. (A note: I have written a how-to manual for Windows 8 for an independent publisher; it was neither commissioned by nor written in cooperation with Microsoft.)
+让我们分别看一下这两个版本。（注意：我曾为一家独立出版商写过一本Windows 8的操作指南。这本指南没有受到微软委托，也没有与微软合作编写。）
+DESKTOP WINDOWS This is my name for the traditional Windows: the land of overlapping windows, menus and the taskbar across the bottom. Here, you can run any of the four million traditional Windows apps, which Microsoft calls desktop apps: Photoshop, Quicken, tax software, games.
+“桌面Windows”：这是我对传统Windows的称谓：层层叠叠的窗口、各种菜单，还有屏幕底部的任务栏。在这个系统中，你可以任意使用400万个传统Windows应用程序，微软称之为桌面应用程序，如Photoshop、 Quicken、税务软件和游戏。
+Windows 8’s desktop is basically the well-regarded Windows 7 with a few choice enhancements, like faster start-up, a Lock screen that displays a clock and notifications, and more control over multiple-monitor arrangements.
+Windows 8桌面模式基本上是在广受好评的Windows 7基础上做了少许改进，比如加快了启动速度、可以显示时钟和通知的屏幕锁定画面，并且为多显示器增加了更多控制选项。
+You can now log into any Windows 8 PC with a Microsoft ID. Boom: your wallpaper, online mail accounts, contacts, photos and SkyDrive contents are instantly available. (SkyDrive is Microsoft’s free seven-gigabyte online hard drive.)
+你现在可以用微软账号登录到任何装有Windows 8的电脑中。噌的一下，你的壁纸、在线邮箱账户、联系人、照片和SkyDrive文件立即就可以使用了。（SkyDrive是微软提供的免费网络硬盘，容量为7GB。）
+There’s a superb new feature called Family Safety, which provides you, the all-knowing parent, with a weekly summary of how much time your offspring have spent on the PC, and which Web sites, searches, programs and downloads they’ve used. You can also set time limits for weekdays and weekends.
+家庭安全(Family Safety)是一项非常棒的新功能。它可以为无所不知的父母提供一份每周总结，列出孩子花了多长时间玩电脑，还有浏览网页、搜索、使用程序和下载文件的记录。你还可以设置平日和周末的电脑使用时间限制。
+Finally, there’s no more Start menu. The taskbar is still there, but the Start-menu icon isn’t on it. More on this in a moment.
+最后，没有“开始”菜单了。任务栏还在，但上面已经没有“开始”菜单图标了。这一点稍后再详细介绍。
+TILEWORLD The enormous, controversial change in Windows 8 is the overlaying of the second “operating system,” intended for touch screens.
+“磁贴世界”：Windows 8系统中引发争议的巨大改变是堆叠在上面的第二层“操作系统”，这个系统是为触摸屏设置的。
+(It’s not really called TileWorld. But Microsoft doesn’t have a good name for it. Insiders know it as the Metro interface — that was its code name — but Microsoft simply refers to it as Windows 8, which is so infuriatingly confusing you feel like firing somebody. I’m going to go with TileWorld.)
+（这个界面并不是真的叫做“磁贴世界”，可是微软还没想到一个好名字。内部人士用代号Metro界面称呼它，但微软只是简单地称之为Windows 8，这种称呼令人混淆，简直让你气得都想开除某个人了。我会继续使用“磁贴世界”这个名字。）
+TileWorld is modeled on Microsoft’s lovely Windows Phone software. It presents a home screen filled with colorful square and rectangular tiles. Each represents an app — and, often, that app’s latest data.
+“磁贴世界”效仿了微软可爱的Windows Phone软件。主屏幕上填满了各种正方形和长方形的彩色磁贴。每一个磁贴代表一个程序，通常还会显示程序的最新数据。
+For example, the Calendar tile displays your next appointment. The People tile (your address book) shows the latest post from your social networks. The Mail tile shows the subject line of the latest incoming message.
+比如，日历磁贴会显示你的下一项安排。联系人磁贴（你的地址簿）会显示来自社交网站最新的消息。邮件磁贴则会显示最新收到的邮件的标题。
+TileWorld is absolutely fantastic for tablets. The tiles glide gracefully with a swipe of your finger. You can “pin” frequently used tiles to the Start screen: programs, Web sites, playlists, photo albums, people from your contacts list, mail accounts or mailboxes, icons from Desktop Windows, and, of course, apps. The tiles are fun to rearrange, resize, cluster into groups and so on.
+对于平板电脑来说，“磁贴世界”的确非常出色。用手指轻轻一扫，那些磁贴就会优雅地滑动。你还可以把经常使用的磁贴“贴”在“开始”屏幕上，比如程序、网站、播放列表、相册、通讯录里的联系人、电子邮件账户或特定的邮箱、“桌面Windows”的图标，当然，还有应用软件。重新排列这些磁贴，调整它们的大小，对它们进行分组等等都很有趣。
+Swiping inward from the edges of a touch screen makes panels full of useful controls appear. A quick downward swipe on a tile is like right-clicking — a panel of relevant commands shows up.
+从触摸屏的边缘向内滑动，就会出现布满有用控件的界面。如果在某个磁贴上快速向下滑动，就会产生类似点击鼠标右键的效果，出现一个有相关命令的面板。
+TileWorld requires all new apps, and there aren’t very many available yet. They’re generally not as complex as regular Windows programs; they’re more like iPad apps. They’re full-screen, touch-friendly, mostly menuless. And they’re virus-free, since Microsoft controls the single source of them: the Windows Store.
+“磁贴世界”需要使用全新的应用，而目前还没有很多应用可供选择。这些应用软件通常不像一般的Windows程序那么复杂，而是更像iPad应用。它们都会以全屏显示，方便触摸操作，而且大多数都没有菜单栏。此外，这些软件中也不会带有病毒，因为微软公司控制着这些应用的唯一来源，即Windows应用商店(Windows Store)。
+Microsoft starts you off with apps for messaging, calendar, news, contacts, music and video playback, maps, weather, mail and photo viewing (pictures from Facebook, Flickr, your SkyDrive and other sources). It’s easy to split the screen between two TileWorld apps, so you can, for example, chug through e-mail as you watch a video.
+微软预置了消息发送、日历、新闻、联系人、音乐和视频回放、地图、天气、邮件，以及图片浏览（来自Facebook、Flickr、你的SkyDrive及其他地方的图片）等应用。把屏幕分割为两个部分，同时使用两个“磁贴世界”的应用程序也很简单，比如，这样一来你就可以一边看视频，一边查阅电子邮件了。
+DESKTOP + TILEWORLD TileWorld is fantastic for touch screens. Yes, there are mouse and keyboard equivalents for the touch gestures, but those are clearly afterthoughts.
+“桌面Windows”+“磁贴世界”：“磁贴世界”对于触摸屏非常出色。的确，每个触摸手势都有与其对应的鼠标和键盘操作，但这些很明显都是后来添加的。
+Conversely, Desktop Windows is obviously designed for the mouse. Most of the menus, window controls and buttons are too small for finger operation.
+相反，“桌面Windows”明显是为鼠标设计的。大多数菜单、窗口控件和按钮都太小，不方便手指操作。
+Unfortunately, in Windows 8, you can’t live exclusively in one world or the other.
+很不幸，如果使用Windows 8，你就不能只生活在其中的一个世界里。
+Even if all your programs live in TileWorld, you’ll still have to use Desktop Windows to work with files or disks, connect to networked folders or open the Control Panel. And even if all of your programs live in Desktop Windows, your PC still starts up in TileWorld, and you still have to use TileWorld to perform tasks like searching and address-book lookups.
+即便你所有的程序都运行在“磁贴世界”里，你还是需要使用“桌面Windows”来处理文件或硬盘、连接到网络文件夹，以及打开控制面板。而即使你所有的程序都运行在“桌面Windows”里，你的电脑还是会从“磁贴世界”里启动，而且你还是要用“磁贴世界”来执行搜索和查找地址薄等任务。
+The free program Pokki helps a lot. It restores the Start menu to the desktop, and can even take you straight there at start-up.
+免费程序Pokki很有帮助。它能把“开始”菜单还原到了桌面，甚至还能在系统启动时直接显示桌面。
+Even so, two worlds means insane, productivity-killing schizophrenia. The Windows 8 learning curve resembles Mount Everest.
+即便如此，两种操作系统的并存还是像得了精神分裂症一样，让人抓狂、影响工作效率。Windows 8的学习曲线像珠穆朗玛峰一样陡峭。
+For example, you have what feels like two different Web browsers, each with different designs and conventions. In TileWorld, the address bar is at the bottom; in Desktop Windows, it’s at the top. In the desktop version, your bookmarks appear as a Favorites list; in TileWorld, they’re horizontally scrolling icons.
+举个例子，你就像是有两个设计和使用习惯都不同的浏览器，在“磁贴世界”操作系统中，地址栏位于底部，而在“桌面Windows”中则位于顶部。在“桌面Windows”操作系统中，书签以收藏夹列表的形式出现，而在“磁贴世界”中，则是水平滚动的图标。
+Settings are now in three different places. The Help system is a scattered mess, too.
+“设置”功能现在分别在三个不同的位置，“帮助”系统也乱七八糟地分散在很多地方。
+Maybe it’s really not that confusing. All you have to understand is this:
+也许，这真的没有那么让人困惑。你只需要弄清楚以下情况就行了：
+There are two new versions of Windows, called Windows 8, for regular PCs and some tablets, and Windows RT, for cheaper tablets and laptops (not to mention Windows 8 Pro, which adds corporate features). Each edition has two environments, which Microsoft calls the desktop and Windows 8. In the Windows 8 environment, you can run only Windows 8 apps from the Windows Store. The Windows 8 version of Windows runs both desktop apps and Windows 8 apps; Windows RT runs only Windows 8 apps. Older apps’ icons can show up in both the desktop and the Windows 8 environment, but Windows 8 apps appear only in the Windows 8 environment. The Windows store sells both kinds of apps, but is the only source of Windows 8 apps.
+Windows有两个新版本，一个是用于普通个人电脑和某些平板电脑的Windows 8，另一个是用于较为廉价的平板电脑和笔记本电脑的Windows RT（暂且不提增加了企业版功能的Windows 8 Pro）。每个版本都有两种操作环境，微软将其分别称为“桌面”和“Windows 8”。在Windows 8操作环境下，只能运行Windows应用商店里提供的Windows 8应用程序。Windows 8版本的Windows操作系统既可以运行桌面应用软件，也可以运行Windows 8应用软件；Windows RT则只能运行Windows 8应用软件。在桌面操作环境和Windows 8操作环境下，都能够显示旧版软件的图标，但是只有在Windows 8操作环境下，才能显示Windows 8应用软件。这两种应用软件在Windows应用商店里都有销售，但Windows 8应用软件只能在Windows应用商店里获得。
+Got it?
+弄懂了吗？
+Me neither.
+我也没懂。
+You know what would have been perfect? Keeping the two operating systems separate. Put TileWorld and its universe of new touch screen apps on tablets. Put Windows 8 on mouse-and-keyboard PCs.
+你知道怎样做才完美吗？把两个操作系统分开。把“磁贴世界”以及与之配合的新触屏应用软件专门用于平板电脑；把Windows 8专用于使用鼠标和键盘的个人电脑。

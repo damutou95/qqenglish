@@ -1,0 +1,42 @@
+Hoping to give new meaning to the term “natural light,” a small group of biotechnology hobbyists and entrepreneurs has started a project to develop plants that glow, potentially leading the way for trees that can replace electric streetlamps and potted flowers luminous enough to read by.
+为了给“自然光”这个词增添新意，一个生物技术爱好者和创业者小组开展了一项发光植物的研究，在此基础上也许可以研发出取代路灯的树和能供阅读用的照明盆栽花卉。
+The project, which will use a sophisticated form of genetic engineering called synthetic biology, is attracting attention not only for its audacious goal, but for how it is being carried out.
+这项研究将利用基因工程的一种高级形式——合成生物学，而它之所以受到关注，不只是因为目标大胆，还因为它的实施方式。
+Rather than being the work of a corporation or an academic laboratory, it will be done by a small group of hobbyist scientists in one of the growing number of communal laboratories springing up around the nation as biotechnology becomes cheap enough to give rise to a do-it-yourself movement.
+这项研究不是由一个企业或者是一家学术实验室来完成，它将由一个科学家兴趣小组在一家公共实验室内完成，生物技术的成本已经足够的低廉，令人们自己动手成为可能，公共实验室在全国不断涌现。
+The project is also being financed in a D.I.Y. sort of way: It has attracted more than $250,000 in pledges from about 4,500 donors in about two weeks on the Web site Kickstarter.
+这项研究的融资也正通过一种DIY的方式进行：两周时间左右它便在Kickstarter网上吸引到约4500个出资人，承诺投资超过25万美元（约合153.53万元人民币）的资金。
+The effort is not the first of its kind. A university group created a glowing tobacco plant a few years ago by implanting genes from a marine bacterium that emits light. But the light was so dim that it could be perceived only if one observed the plant for at least five minutes in a dark room.
+这种研究并非首例。几年前一个大学社团曾通过将一种发光的海洋细菌注入植物体内而研制出了会发光的烟草植株。但是由于它发出的光线太微弱，只有在暗室里观察至少5秒钟之后人们才能感觉到它的发亮。
+The new project’s goals, at least initially, are similarly modest. “We hope to have a plant which you can visibly see in the dark (like glow-in-the-dark paint), but don’t expect to replace your light bulbs with version 1.0,” the project’s Kickstarter page says.
+这项新研究的目标，至少是初步目标，也同样保守。该研究的Kickstarter网页上称：“我们希望能研制出一种在黑暗中可以被看到的植物（就像夜光颜料那样），但是不要指望1.0版本就能取代你的电灯。”
+But part of the goal is more controversial: to publicize do-it-yourself synthetic biology and to “inspire others to create new living things.” As promising as that might seem to some, critics are alarmed at the idea of tinkerers creating living things in their garages. They fear that malicious organisms may be created, either intentionally or by accident.
+而该研究的有些目标则是有争议性的：推广DIY合成生物的理念以及“激励其他人创造新生物”。这在有些人听来可能很是振奋人心，但批评者对这种在自家车库就能创造生物的造物者的想法产生了警惕。他们害怕有可能会制造出有害生物体，不管是故意还是意外。
+Two environmental organizations, Friends of the Earth and the ETC Group, have written to Kickstarter and to the Agriculture Department, which regulates genetically modified crops, in an effort to shut down the glowing plant effort.
+两家环保组织地球之友(Friends of the Earth)和ETC组织(ETC Group)已经致函Kickstarter和农业部(Agriculture Department)，试图制止对发光植物的研究活动。
+The project “will likely result in widespread, random and uncontrolled release of bioengineered seeds and plants produced through the controversial and risky techniques of synthetic biology,” the two groups said in their letter demanding that Kickstarter remove the project from its Web site.
+这两个组织在要求Kickstarter从其网站上撤销该项目的信中称，这项研究"可能将会导致利用争议性的、危险的合成生物技术制造出的生物工程种子和植物出现大范围的、随机的、不受控制的扩散。”
+They note that the project has pledged to deliver seeds to many of its 4,000 contributors, making it perhaps the “first-ever intentional environmental release of an avowedly ‘synthetic biology’ organism anywhere in the world.” Kickstarter told the critics to take up their concerns with the project’s organizers. The Agriculture Department has not yet replied.
+他们提到，这项研究已经承诺要给4000多名支持者分发种子，这或许是“有史以来第一次将一种号称‘合成生物’的有机体有意地在全世界进行环境性释放”。Kickstarter让批评者向项目组织者表达他们的担心。农业部还未对此作出回复。
+Antony Evans, the manager of the glowing plant project, said in an interview that the activity would be safe.
+这个发光植物项目的经理安东尼·埃文斯(Antony Evans)在采访中称，这项活动是安全的。
+“What we are doing is very identical to what has been done in research laboratories and big institutions for 20 years,” he said. Still, he added, “We are very cognizant of the precedent we are setting” with the do-it-yourself project and that some of the money raised would be used to explore public policy issues.
+他说：“我们要进行的研究与研究实验室和大型机构在过去20年中一直进行的研究相同。”他还补充称，对DIY项目，“我们十分了解我们正在制造什么样的先例”，一部分筹集来的资金将用于探索公共政策方面的问题。
+Synthetic biology is a nebulous term and it is difficult to say how, if at all, it differs from genetic engineering.
+合成生物学是一个模糊的概念，很难把它和基因工程区分开来，或者说根本就分不开。
+In its simplest form, genetic engineering involves snipping a gene out of one organism and pasting it into the DNA of another. Synthetic biology typically involves synthesizing the DNA to be inserted, providing the flexibility to go beyond the genes found in nature.
+基因工程最简单的形式是从一个有机体内提取出一个基因，将它植入另一个有机物的DNA中。合成生物学通常是合成一个可供植入的DNA，同时具有可以超出自然界中已有基因范围的灵活性。
+The glowing plant project is the brainchild of Mr. Evans, a technology entrepreneur in San Francisco, and Omri Amirav-Drory, a biochemist. They met at Singularity University, a program that introduces entrepreneurs to futuristic technology.
+这项发光植物工程是旧金山一个科技创业者埃文斯和生物化学家奥姆里·阿米拉夫-德罗利(Omri Amirav-Drory)的创意。他们是在奇点大学(Singularity University)一个向创业者介绍未来主义技术的项目上结识。
+Dr. Amirav-Drory runs a company called Genome Compiler, which makes a program that can be used to design DNA sequences. When the sequence is done, it is transmitted to a mail-order foundry that synthesizes the DNA.
+阿米拉夫-德罗利经营着一家叫做Genome Compiler的公司，该公司的一个项目可以用于设计DNA序列。排序完成以后，将会传给一个接受邮购的工厂去合成DNA。
+Kyle Taylor, who received his doctorate in molecular and cell biology at Stanford last year, will be in charge of putting the synthetic DNA into the plant. The research will be done, at least initially, at BioCurious, a communal laboratory in Silicon Valley that describes itself as a “hackerspace for biotech.”
+去年在斯坦福大学(Stanford)拿到了分子和细胞生物学博士学位的凯尔·泰勒(Kyle Taylor)将负责把合成的DNA植入植物体内。这项研究将在BioCurious实验室完成，至少初步研究如此。BioCurious是一家位于硅谷的公共实验室，它称自己是一个“生物技术的黑客空间。”
+Whether it will ever be possible to replace light bulbs remains to be seen and depends to some extent on how much of the plant’s energy can be devoted to light production while still allowing the plant to grow. Mr. Evans said his group calculated, albeit with many assumptions, that a tree that covers a ground area of 10 meters (nearly 33 feet) by 10 meters might be able to cast as much light as a street lamp.
+发光植物是否可以取代电灯泡还有待确定，这同时也取决于这种植物在维持生长的同时将会用多少能量制造光亮。埃文斯称，虽然存在很多假设，但他的小组还是计算出，一株可以覆盖100平方米区域的大树或许可以制造出一盏街灯的光亮。
+While the Agriculture Department regulates genetically modified plants, it does so under a law covering plant pests.
+虽然农业部对转基因植物进行监管，但借助的却是一项植物病虫害方面的法律。
+Todd Kuiken, senior research associate at the Woodrow Wilson Center in Washington, who has been studying the governance of both synthetic biology and the do-it-yourself movement, said the glowing plant project was an ideal test case.
+华盛顿伍德罗·威尔逊国际学者中心(Woodrow Wilson Center)的高级研究助理托德·库伊肯(Todd Kuiken)对合成生物学和DIY运动都进行过研究，他称发光植物工程是一个理想的实验案例。
+“It exposes the gaps and holes in the regulatory structure, while it is, I would argue, a safe product in the grand scheme of things,” Dr. Kuiken said. “A serious look needs to be taken at the regulatory system to see if it can handle the questions synthetic biology is going to raise.”
+库伊肯说：“它暴露了监管结构中的缺失和漏洞，同时我必须要说的是，从大局上来看这是一个安全的产品。必须严格看待监管体系，检验它是否能解决合成生物学将会带来的问题。”

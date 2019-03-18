@@ -1,0 +1,60 @@
+Hold up your right hand, look this page straight in the eye, and answer truthfully: At this moment, is your computer completely backed up?
+举起你的右手，直视眼前的页面，并如实回答：此时此刻，你的电脑有完整备份吗？
+Did you answer “yes?” Congratulations, you statistical freak. Skip to the next article.
+你的回答是“有”？那恭喜你是个稀有动物。跳过此文去读下一篇文章吧。
+If you’re like the huge majority, however, your backup is out of date or nonexistent.
+但是，如果你属于绝大多数人，那你的电脑备份已经过期，或根本就不存在。
+And that situation is getting more dire every day. The world wants us to snap more pictures, download more movies, play more music, shoot more video. Well, great. But if something’s worth snapping, downloading, playing or shooting, then it’s also worth backing up.
+这一情形正变得越来越严重。在如今这个世界上，我们照的相片越来越多、下载的电影越来越多、播放的音乐越来越多、拍的电影越来越多。挺好的。但如果有些东西是值得拍照、下载、播放和拍摄的，那么这些东西也值得备份。
+So you buy an external hard drive. And another. And another. After a while, your desk looks like mine, festooned with a hideous archipelago of mismatched drives, each with a cable and a power cord.
+于是你购买了一个外置硬盘。又买了第二个。又买了第三个。一段时间以后，你的桌子就和我的一样，布满了一堆难看的不协调的硬盘，而且每一个都带有连接线和电源线。
+And by the way, those drives are not, themselves, backed up. Most contain the original files I’ve offloaded from the computer for long-term storage. If one of those drives dies, I’m out of luck.
+顺便提一句，这些硬盘自身可没有备份。大部分硬盘是供长期储存使用，且储存的是从电脑上卸载的源文件。如果其中一个硬盘出事了，那我可就倒霉了。
+Boy, does Drobo have a suggestion for people like me.
+所以，对我这样的人，Drobo的建议可真不错。
+See, corporations don’t go buying external drives from Best Buy. They use RAID arrays (Redundant Array of Independent Disks). That’s a passel of drives congregated inside a single metal box; clever software makes them look to a computer like one big drive. Or three smaller ones, or 50 little ones — however the highly paid system administrator decides to chop them up.
+你知道，企业才不会从百思买(Best Buy)购买外置硬盘。他们使用的是独立磁盘冗余阵列（Redundant Array of Independent Disks，简称RAID），即把多个磁盘集中在一个金属盒中，而一个不错的软件让这些磁盘在电脑上显得就像一个大硬盘，或是三个较小的硬盘，或50个小号的，反正那些高薪的系统管理员想怎么分割都行。
+As a bonus, thanks to a fancy encoding scheme, the files on a RAID system can be recovered even if one of the participating hard drives goes to the great junk drawer in the sky. (That’s why it’s R for “redundant.”)
+这种装置的好处之一就是，由于复杂的编码方案，即使其中一个硬盘死翘翘了，RAID系统上的文件也可以恢复。（这就是为什么R代表“冗余”的意思。）
+For several years now, a company that calls itself Drobo (short for “disk robot,” we’re told) has been pursuing a single dream: make RAID arrays for noncorporate people. High-end types, small businesses and creative professionals with little technical expertise and no technical staff.
+几年来，一个名为Drobo的公司（据我所知，该名称是“磁盘机器人”的简称）一直在追寻一个梦想：为非企业的人群生产RAID。这种RAID属于高端设备，可供那些几乎没有专业技术和技术人员的小企业以及创意专业人士使用。
+And next week, it will offer two new models: the Drobo 5D ($850 list) and the Drobo Mini ($650).
+下周（本文最初发表于10月18日——编注），该公司将推出两种新型号：Drobo 5D（标价为850美元）和 Drobo Mini（650美元）。
+A Drobo is just a sleek, glossy, black empty shell. You have to buy internal hard drives to insert like cartridges. Online, for example, you can snag a couple of 2-terabyte drives for $110 each. That ought to hold a few baby pictures.
+Drobo是一个外观炫酷、平整光滑的黑色外壳。你需要购买内部硬盘，然后像装墨盒一样地把它们插进箱子里。例如，你可以在网上购买几个2TB的硬盘，每个的价格为110美元，这应该足够你储存几张婴儿照片了。
+Once the drives arrive, you start to understand the nosebleed Drobo price tag — because there’s no setup or configuration. You don’t even have to attach the drives to rails or caddies or fiddle with screws, as you do with professional RAID systems; you just shove them in like frozen waffles going into a vertical toaster. The Drobo automatically assimilates them into your increasingly large virtual drive.
+一旦到了你手里，你就能开始理解Drobo那让人吐血的价格——因为你无需进行安装和配置。你甚至不用把硬盘固定到轨道上或盒子上，也不用去摆弄螺丝，但专业RAID系统则需要你这样做；你只需把硬盘塞进盒子里，就像把冷冻的华夫饼塞进立式的烤面包机里一样。Drobo会把这些硬盘自动同化为你的虚拟硬盘，并允许你随着时间推移增加更多硬盘。
+Also unlike most RAID systems, the drives you buy can be different brands, speeds and capacities; Drobo is an equal-opportunity enclosure.
+和大多数RAID系统不同，你可以购买不同品牌、速度和储存容量的硬盘。Drobo这个平台不会挑肥拣瘦。
+The Drobo 5D has slots for five drives — standard 3.5-inch, SATA internal drives, which these days come in capacities up to 4 terabytes each. The new Mini, the first Drobo that could be called portable (7 x 7 x 2 inches, suitable for peripatetic video editors and photographers), has four slots. They accept 2.5-inch laptop drives, which, these days, offer a maximum of 1 terabyte each (about $80).
+Drobo 5D可以容纳五个硬盘——标准规格的3.5英寸SATA内部硬盘，如今该规格硬盘的容量已经达到4TB。新型号Mini Drobo是该品牌第一个真正的便携式设备，有四个插槽，其规格为7 x 7 x 2英寸，适合那些游走四方的视频编辑和摄影家。它们也接受2.5英寸的笔记本电脑硬盘，如今这类硬盘的容量最高可达1TB（价格约为80美元）。
+Here’s the big payoff: As your life fills with files, you can fill your empty slots with more drives. Once you’ve filled them all, you can eject one of your smaller drives and replace it with a more capacious one. None of that requires copying files, reformatting a drive or managing anything. The Drobo system automatically recognizes new drives and makes them, too, part of the suddenly larger virtual hard drive. This breezy, suit-yourself flexibility is unheard-of in traditional RAID systems.
+Drobo的巨大好处之一是：随着你生活中的文件数量不断增多，你可以为空白的插槽安上更多硬盘。一旦所有的插槽都装满了，你可以拆走较小的硬盘，换上容量更大的硬盘。这一过程中你无需复制文件、重新格式化驱动或管理任何东西。Drobo系统会自动识别新的硬盘，并让新硬盘成为你突然扩容后的虚拟硬盘的一部分。这种轻松随意的灵活性是在传统的RAID系统中是前所未闻的。
+Here’s the other payoff: Drives die. When that happens, you don’t lose any data. In its RAID-y way, the Drobo auto-reconstructs everything that was on the corpse drive. You keep using all your files as if nothing had happened, even as the Drobo starts redistributing your files so that they’re protected against another drive failure, which can take hours or days.
+Drobo的另一个益处在于，即使硬盘坏损，你也不会丢失任何的数据。用其独有的RAID方式，Drobo会自动修复坏损硬盘上的所有数据。你可以继续使用所有的文件，就像什么都没发生一样，甚至在Drobo对你的文件进行重新分配之时也是如此。重新分配的目的是为了预防另一个硬盘也出现问题，这一过程可能会持续好几小时或好几天。
+Drobo’s trade-show reps are fond of this parlor trick: As a movie plays from a Drobo, they eject one, then two drives, simulating crashes of those disks — and the video doesn’t skip a frame.
+Drobo的展会人员很喜欢使用的演示方法是：在播放储存在Drobo里的电影文件时，展会人员会先取出一个硬盘，然后再取出一个，以此来模拟磁盘崩溃的情况——但电影画面没出现任何跳帧现象。
+Now, so far, this description could apply to all Drobo models; they’re distinguished primarily by the number of drives you can insert (4, 5, 8 or 12) and the kinds of connectors to your computer they offer (Ethernet, FireWire, USB, iSCSI). Each has a magnetically attached front door, a color-changing status light, and horizontal blue lights that serve as a “fuel gauge” for your virtual drive’s capacity. 
+到目前为止，以上的说明适用于Drobo的所有型号；各型号的主要区别在于可容纳的硬盘数量（4、5、8或12个）和不同类型的接口（以太网接口、火线[FireWire]接口、USB接口和互联网小型计算机接口）。每种型号都有磁性前门、变换颜色的状态指示灯、以及作为虚拟驱动容量“燃油表”的水平蓝光灯。
+What the two new Drobos add are Thunderbolt connectors, which hook up to recent Mac models. They also offer USB 3.0 jacks for connecting with Windows machines.
+Drobo的两种新型号增加了Thunderbolt接口，可以和新型号的Mac相连接。新型号还提供连接Windows设备的USB 3.0接口。
+The point is speed: USB 3.0 is about five times as fast as USB 2.0, and Thunderbolt is about twice as fast again.
+速度是重点：USB 3.0的速度几乎是USB 2.0的五倍，Thunderbolt的速度则大约是USB 3.0的两倍。
+Copying a 2.3-gigabyte folder of music files from a MacBook Air to a Drobo 5D took 35 seconds over the USB 3.0 connector, 19 over Thunderbolt. Backing up a single 520-megabyte video file took 5.5 seconds over USB 3.0, 3.5 over Thunderbolt.
+要从MacBook Air复制容量为2.3GB的音乐文件夹到Drobo 5D上，通过USB 3.0接口只需35秒，而通过Thunderbolt只需19秒。要备份一个520MB的视频文件，通过USB 3.0只需5.5秒，而通过Thunderbolt只需3.5秒。
+The 5D and Mini also offer a slot for a solid-state drive (basically, flash memory, with no moving parts) that it uses for acceleration. If you install one, the company says you’ll notice that large libraries of photos or music will get faster the more you use them. The SSD stores smallish data bits — photo thumbnails, music album data, and so on — so they’re delivered to your computer much faster.
+5D和Mini还为固态硬盘（基本上就是闪存，没有可移动的零件）提供一个插槽，用来增加速度。Drobo公司说，如果你安装一个固态硬盘，你会发现你拥有的大量图片或音乐文件会随着使用次数的增多而加快速度。固态硬盘会储存短小的数据位——图片缩略图、音乐专辑数据等——这样一来，它们就能以更快的速度传送到你的电脑。
+Now, there are some noteworthy flies in the Drobo ointment. First, the price is steep; at $850, the Drobo 5D costs $250 more than the Drobo S (an identical model except that it has FireWire instead of Thunderbolt and lacks the SSD slot).
+Drobo还是有美中不足之处。首先，它的售价很高。Drobo 5D的售价为850美元，比Drobo S贵250美元（Drobo S拥有的是火线接口，而不是Thunderbolt接口，也没有固态硬盘插槽，除此以外和5D型号没有差别）。
+Second, these babies connect to one computer, not your whole network.
+第二，Drobo设备只能和一个电脑连接，而不是你的所有电脑。
+Third, any storage or backup that’s right there in your home or office is vulnerable to fire, flood or thieves.
+第三，你家里或办公室里的任何储存或备份在遇到火灾、水灾或小偷时都难免于难。
+Finally, the data protection in RAID systems requires a huge sacrifice in disk space. On a Drobo, you lose the storage of your largest entire drive. If you buy four 1-terabyte drives, for example, you wind up with only 2.7 terabytes free for your storage. The rest is used to protect that data.
+最后，RAID系统上的数据保护需要很大的磁盘空间。在Drobo上，你需要为数据保护牺牲最大的硬盘的所有容量。例如，如果你买了四个1TB的硬盘，你最终只有2.7TB可供储存。剩下的空间都用来保护那些储存的数据了。
+Pessimist: “One whole drive sacrificed? What a ripoff!” Optimist: “A complete backup of my files that doesn’t require double the space? Amazing!”
+悲观者会说：“要牺牲一整个硬盘？简直是骗钱！”乐观者则会说：“完整备份所有文件而不会占据双倍空间？太棒了！”
+Now, clearly, a Drobo is absurd overkill for many people. If everything in your world fits on your computer’s built-in hard drive, one cheap external drive may be all the backup you need.
+目前，Drobo的过度杀伤力对很多人来说显然是荒谬的。如果你拥有的所有数据都可以存放在电脑的内置硬盘上，或许你只需要一个便宜的移动硬盘就可以实现备份了。
+But if you traffic in drive-busting files like photos, music and videos, or if losing your files would kill your small business, a Drobo might make good future-proofing sense.
+但如果你拥有大量足以让硬盘崩溃的图片、音乐或视频文件，如果丢失数据会毁掉你的小企业，那么Drobo在长期看来可能是合理的选择。

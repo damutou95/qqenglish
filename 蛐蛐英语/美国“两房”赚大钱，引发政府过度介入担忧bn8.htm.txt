@@ -1,0 +1,36 @@
+What was the most profitable insurance company last year?
+去年最赚钱的保险公司是哪家？
+It wasn’t Berkshire Hathaway. It was a company that nearly collapsed in the 2008 financial crisis because of reckless housing bets and then required a colossal taxpayer bailout.
+不是伯克希尔·哈撒韦公司(Berkshire Hathaway)，而是一家由于在房地产金融领域鲁莽行事，在2008年的金融危机中几近破产、后来需要纳税人出巨资来救助的公司。
+No, it was not American International Group.
+不，我们说的不是美国国际集团(American International Group)。
+It is Fannie Mae, the government-backed company that insures mortgages against default. Fannie made $17.2 billion last year, versus Berkshire Hathaway’s $14.8 billion. Fannie was the third-most profitable financial firm in 2012, after JPMorgan Chase and Wells Fargo. But this year, Fannie’s earnings could exceed even those of JPMorgan and Wells Fargo, if it decides to book a large tax-related gain.
+是房利美(Fannie Mae)，那家有政府背景、为抵押贷款提供违约担保的公司。在去年，房利美大赚了172亿美元，超过年利润148亿美元的伯克希尔·哈撒韦公司，位列摩根大通(JPMorgan Chase)和富国银行(Wells Fargo)之后，成为2012年第三大赚钱的金融公司。而在今年，如果房利美决定计入一大笔涉税收入的话，它的利润甚至可能超过摩根大通和富国银行。
+The huge profits rolling in at Fannie, and at its corporate sibling Freddie Mac, reflect the enormous role the government is playing in the housing market nearly five years after the crisis. As a result, the earnings will intensify the debate over the amount of involvement that government should have in housing.
+房利美及其兄弟公司房地美(Freddie Mac)赚得盆满钵满，反映出金融危机发生将近五年后，政府在房地产市场发挥的巨大作用。有关政府参与房地产金融市场之程度的讨论，也将因此加剧。
+“This should change the dialogue of what we want to do with the companies,” said Guy Cecala, publisher of Inside Mortgage Finance, a trade publication.
+“我们一直在讨论该拿这些公司怎么办，最近的情况应会影响到我们的这种讨论。”盖伊·切卡拉(Guy Cecala)说，他是行业杂志《抵押贷款金融内幕》(Inside Mortgage Finance)的发行人。
+Fannie and Freddie charge fees in return for a guarantee that they will pay back mortgages that default. In the first years after the crisis, that fee revenue was overwhelmed by losses. As those have abated, profits have returned for the two mortgage giants.
+房利美和房地美收取费用，为住房抵押贷款提供担保，并在发生违约的时候代为偿付。金融危机爆发后的第一年，它们收取的费用远远不足以弥补损失。而随着金融危机的减退，两大住房抵押贷款巨头也开始扭亏为盈。
+The big question looming over the housing market is how quickly to remove the support provided by Fannie and Freddie.
+如何迅速解除“两房”为房地产市场提供的支撑，是笼罩在这个市场头上的重大问题。
+They shore up the market by purchasing mortgages from banks and selling them on, with the guarantee, to bond investors. Because the companies are government backed, they can borrow at a very low cost. They then effectively pass on some of that cost advantage to homeowners, making home loans cheaper for the average borrower. In addition, the sheer purchasing power of Fannie and Freddie in the mortgage market means there is always strong demand for home loans, which induces banks to keep making them.
+“两房”托市的方式是从银行购买抵押贷款，进行担保，然后再把它们销售给债券投资者。由于这两家公司背后都有政府支持，它们的借款成本非常之低。于是，它们就能有效地把这一成本优势部分转移到房主头上，让一般借款人享有比较便宜的住房贷款。而且，由于“两房”在抵押贷款市场上具有强大的购买力，市场对购房贷款的需求总是很旺盛，这又导致了银行不断发放购房贷款。
+As much as all that has helped the housing market, it has led to a situation where the government backed 86 percent of all mortgages last year, according to Inside Mortgage Finance. In 2000, the figure was 47 percent.
+尽管在这些方面，“两房”是有利于房地产市场的，但据《抵押贷款金融内幕》报道，这也导致去年政府资助的住房抵押贷款比例达到了86%。而在2000年时，这个数字仅为47%。
+The concern in some quarters is that the government’s heavy involvement is distorting the housing market and the Treasury Department is moving too slowly to roll back the presence of Fannie Mae and Freddie Mac. “I’m glad Fannie Mae is showing an increase in income, but we have to remember that this is largely because we have crowded out private capital and made Fannie or Freddie the only viable execution option for new loans,” Senator Bob Corker, Republican of Tennessee, said in a statement.
+有人担心，政府对房地产市场的高度参与正使这个市场变得畸形，而财政部的动作太慢，不足以削弱“两房”的作用。田纳西州的共和党参议员鲍勃·考克(Bob Corker)在一份声明中说：“我很高兴房利美出现了收入增长，但是我们一定不要忘记，这在很大程度上是由于我们把私人资本挤出了局，使得新贷款除了房利美或房地美之外别无去处。”
+The last time the Treasury Department took a big step with housing was in early 2011, when it outlined for Congress how it planned to overhaul housing finance. Incremental measures are being taken, but what’s still missing is a concrete commitment to start scaling back Fannie and Freddie’s role at a certain date.
+财政部最近一次针对房地产市场采取大动作是在2011年年初，当时它向国会简述了房地产融资领域的整改方案。财务部采取了一些增量措施，但是仍未对削减房利美和房地美作用的具体日期做出承诺。
+“They still haven’t developed an actual transition plan for the companies that works toward a real reform goal,” said Jim Vogel, who analyzes debt markets for FTN Financial.
+“他们仍未为‘两房’制定切实可行的过渡计划，朝着一个真正的改革目标迈进。”FTN金融公司(FTN Financial)的债券分析师吉姆·沃格尔(Jim Vogel)说。
+Mr. Cecala says that one easy step to implement would be to set out a timetable for reducing the size of the loans that Fannie and Freddie guarantee. Those mortgages above the limit would have to be financed by private entities in the mortgage market. But there is little appetite for such a move. “No one wants to get blamed for breaking the housing recovery,” Mr. Cecala said.
+切卡拉说，一个简单的实施步骤是为降低房利美和房地美担保的贷款额度制定一张时间表。如果超过了一定限额，购房人就必须从住房抵押贷款市场上的私人公司那里融资。但是没什么人对这个提议感兴趣。切卡拉说：“这样做会被指责为破坏房地产市场的复苏，没人想为此背上骂名。”
+In reality, the status quo is likely to remain in the housing market for at least the next couple of years. After all, as the big profits pour in, the Treasury Department can look forward to getting back the money it plowed into Freddie and Fannie after the crisis. The taxpayers provided $116.1 billion of support to Fannie, which has paid the Treasury Department $35.6 billion in dividends out of its earnings.
+事实上，房地产市场至少在未来几年内，都有可能会维持现状。毕竟，在金融危机发生后，财政部向这两家公司注入了资金，现在“两房”财源滚滚，财政部也有望收回那些钱了。为支持房利美，纳税人们贡献了1161亿美元；目前房利美已从盈利中拿出356亿美元，作为红利支付给财政部。
+And taxpayers could get a huge windfall from Fannie soon. The reason has to do with accounting. In 2008, Fannie set aside a large amount of money to reflect the possibility that it might not get to use an asset that allows it to reduces its taxes. It now appears that the set aside sum, $58.9 billion at the end of last year, is no longer needed, because the tax asset can be utilized.
+由于一些会计做账方面的原因，纳税人可能很快就会从房利美那里获得大笔意外之财。房利美曾在2008年预提了大量资金，以应对其无法动用某项可减税资产的可能性。但现在，由于那项涉税资产又可以动用了，他们也就不再需要去年年底时预提的那589亿美元。
+Here’s how Fannie put it in a news release on Tuesday: “Fannie Mae expects to pay Treasury a significant dividend in the quarter following a release of the valuation allowance on the company’s deferred tax assets.” Mr. Vogel, the analyst, said Fannie could in theory borrow money to make a cash payment to the Treasury Department.
+房利美在周二（4月2日）发布新闻稿称：“在调整递延税项资产的计价备抵(Valuation Allowance)之后，该公司将于本季度向财政部支付大笔红利。”分析师沃格尔表示，理论上，房利美是可以通过借款来支付财政部现金的。
+“Right now, Fannie and Freddie appear to be cash machines for the federal government,” Mr. Cecala said.
+“当下，房利美和房地美就像是联邦政府的取款机。”切卡拉说。

@@ -1,0 +1,32 @@
+HONG KONG — Chinese stock market regulators have suspended more than 30 trading accounts, including one owned by the brokerage unit of the big American hedge fund Citadel, as they continue trying to stabilize the country’s volatile markets.
+香港——在试图稳定动荡的股市的过程中，中国证券市场监管机构已经对30多个账户采取了限制交易措施，其中包括美国大型对冲基金城堡投资(Citadel)经纪部门持有的一个账户。
+“We can confirm that while one account managed by Guosen Futures Ltd. — Citadel (Shanghai) Trading Ltd. — has had its trading on the Shenzhen exchange suspended, we continue to otherwise operate normally from our offices, and we continue to comply with all local laws and regulations,” Citadel wrote on Monday in an email.
+“我们在此确认国信期货有限责任公司－司度(上海)贸易有限公司账户被深圳证券交易所限制交易。目前，本公司各办公室的其它运营正常。我们将一如既往遵守中国的相关法律法规，” 城堡投资本周一在一封电邮中写道。
+The suspension came amid continued volatility in the markets, with Shanghai’s main share index closing an additional 1.1 percent lower on Monday. A week earlier, the index had plunged 8.5 percent in its biggest single-day loss in eight years.
+限制交易是在股市持续波动之际出现的。上证指数本周一再跌1.1%。一周前，该指数曾下跌8.5%，创下八年来最大单日跌幅。
+Chinese regulators have been taking exceptional measures to help halt the recent slide in the country’s markets, including buying shares directly and barring major shareholders of companies from selling their stakes. Despite these efforts, shares have continued to tumble. From their peak in mid-June, the total value of all domestically listed stocks has declined by about a third, shedding more than $3 trillion in market value.
+为了阻止近期的股市下滑，中国监管机构已采取不寻常的措施，包括直接购买股票，禁止公司大股东出售股权等。尽管如此，股价仍然在继续下跌。与6月中旬的高峰期相比，国内上市公司股票的总价值已经跌去了约三分之一，市值逾3万亿美元。
+The China Securities Regulatory Commission, which has in recent weeks pledged to crack down on “malicious” short-sellers and market manipulators, appears to be expanding its scrutiny to other types of trading.
+中国证监会近几周承诺将严厉打击“恶意”卖空者以及市场操纵者，现在他们似乎正在把目标范围扩大到其他类型的交易上。
+On Friday, the commission said it would strengthen its supervision of so-called program trading, which can include high speed, algorithmic or other computer-driven trading strategies. It said 24 such trading accounts on the Shanghai and Shenzhen exchanges had been suspended on suspicion of harming the market with rapid-fire share purchase or sale orders that were canceled before they could be fulfilled, a strategy known as spoofing.
+上周五，证监会表示，它会强化其对程序化交易的监督。程序化交易涉及高速度、算法或其他由计算机驱动的交易策略。证监会表示说，上交所和深交所已经有24个进行这种交易的账户被限制交易，因为它们频繁申报或频繁撤销申报买单和卖单，涉嫌用这种“电子欺骗”策略扰乱市场。
+By the time markets closed on Monday, the Shanghai and Shenzhen exchanges had announced suspensions for more than 10 additional accounts, bringing the total number of targeted accounts to more than 30.
+本周一收盘前，上交所和深交所宣布对另外10余个帐户限制交易，令这类账户的总数超过了30个。
+Spoofing “has the effect of boosting or pushing down the market, and during the recent period of market volatility the impact of this has been amplified,” Zhang Xiaojun, a spokesman for the regulator, said Friday in a statement on the agency’s website. Mr. Zhang was speaking generally about program trading and did not identify the accounts that had been suspended.
+证监会发言人张晓军本周五在该机构网站上的一份声明中说，程序化交易有“助涨助跌作用，特别是在近期股市大幅波动期间对市场的影响更为明显”。他概括地谈到了程序化交易进行，没有提及已经被限制交易的帐户名称。
+Citadel, which is based in Chicago, has several other accounts in China apart from the suspended Guosen account, and those continue to operate normally. The company has not been accused of wrongdoing.
+除了被暂停交易的国信账户，总部位于芝加哥的城堡投资集团在中国还有几个账户，这些账户继续正常运营。此前该公司没有得到过违规的指控。
+“Citadel has been actively investing in the region for 15 years, and has always maintained a constructive dialogue with regulators, including during the recent market volatility,” Citadel said on Monday.
+该公司在周一表示，“Citadel在华投资已有15年之久。无论是以往，还是近期在中国股市震荡期间，我们自始至终与中国相关监管部门保持积极和有益的沟通。”
+The entity that owns the suspended account, Citadel (Shanghai) Trading, is a locally registered firm wholly owned by Citadel and incorporated in 2010. Citic Securities, one of China’s biggest state-owned brokerages, once had a small stake in the unit, according to filings with the local government agency that regulates industry and commerce.
+拥有被暂停账户司度（上海）贸易公司的是一家在当地注册的城堡投资全资子公司，成立于2010年。负责管理工业及商业发展的当地政府部门的文件显示，中国最大的国有证券公司之一中信证券曾持有该公司的小额股份。
+China’s capital markets are still largely closed to foreigners.
+中国资本市场仍在很大程度上不对外国人开放。
+Although overseas investment firms face restrictions on buying stocks in Shanghai and Shenzhen, as well as strict limits on moving funds to and from mainland China, a small but increasing number of them, mainly hedge funds, have followed Citadel in recent years. Their strategy: incorporating local units in China so they can trade more freely as domestic entities, according to Chris Powers, a senior consultant at Z-Ben Advisors, a financial consulting firm based in Shanghai.
+海外投资公司在沪深股市购买股票受到限制，资金出入中国内地也受到限制，但一些为数不多的公司——主要是对冲基金——近些年来跟随城堡投资的步伐，这样的公司正日渐增多。总部设在上海的金融咨询公司泽奔咨询(Z-Ben Advisors)的高级顾问克里斯·鲍尔斯(Chris Powers)表示，他们的策略是：在中国当地成立公司，如此一来，它们就可以像国内的公司一样，更加自由地进行交易。
+It was unclear whether any of the remaining suspended trading accounts were tied to foreign investors. But the authorities’ action appears in line with a general campaign in recent weeks to give stock markets a lift — either by state-directed buying or by discouraging would-be sellers.
+目前尚不清楚其他被暂停的交易账户是否与外国投资者有关联。但当局的举动似乎与最近几周广泛开展的救市活动一致，通过在国家指导下的股票购买或阻止潜在卖家来救市。
+“In the last six weeks obviously you’ve had a lot of direct intervention into the market in terms of actually buying shares,” Mr. Powers said.
+鲍尔斯表示，“在过去六周的时间里，政府在购买股票方面明显采取了很多直接干预的举措。”
+“But a lot of the other measures are more about trying to instill confidence and encourage people to behave a certain way,” he added, “and preventing them from doing what Beijing considers are activities detrimental to the stock market.”
+“但很多其他的举措更多的是努力注入信心，鼓励人们做出一定反应，”他还表示，“阻止他们做出北京方面认为对股市不利的事情。”

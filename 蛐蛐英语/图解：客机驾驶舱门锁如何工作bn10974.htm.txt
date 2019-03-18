@@ -1,0 +1,28 @@
+Evidence from the cockpit voice recorder recovered from the wreckage of Germanwings Flight 9525 indicates that the co-pilot locked the captain out of the cockpit. Here are three different ways to unlock and lock the cockpit door, based on a video by Airbus, the manufacturer of the plane.
+从坠机现场残骸当中找到的驾驶舱录音显示，德国之翼9525航班的副驾驶员将机长锁在舱外。根据该飞机制造商空中客车(Airbus)公司的录像，有三种打开和锁住驾驶舱门的方式。
+Normal procedure for entering the cockpit
+进入驾驶舱的常规步骤
+1.A crew member calls the cockpit on an intercom.
+1. 通过对讲机呼叫驾驶舱。
+2. After making contact, the crew member presses the pound key on the keypad, which sets off a buzzer inside the cockpit.
+2. 取得联系之后，乘务人员按下输入盘上的井号键，启动驾驶舱里面的蜂鸣器。
+3. The pilot switches the door-control toggle from “NORM” to “UNLOCK.”
+3. 驾驶员将控制舱门的开关从“常规”切换到“解锁”。
+4. A green light on the keypad indicates that the door is unlocked.
+4. 输入盘的绿灯显示门已解锁。
+5. The crew member can enter the cockpit.
+5. 乘务人员可以进入驾驶舱。
+If a crew member believes the pilot is incapacitated
+如果乘务人员认为驾驶员丧失行动能力
+1. If a member of the flight crew follows the normal procedure for entering the cockpit and gets no response, he or she would enter an emergency code into the keypad, triggering a 30-second timer. All crew members know the emergency code.
+1. 如果乘务人员遵循进入驾驶舱的常规程序但没有得到回应，他（她）会按下输入盘上的紧急代码，触发一个30秒的定时器。所有乘务人员都知道紧急代码。
+2. After 30 seconds, if there is no response from the cockpit, the door unlocks for five seconds.
+2. 30 秒过后，如果驾驶舱仍未回应，舱门会在5秒后开启。
+3. The emergency code will not work if the pilot’s toggle is set to “LOCK.”
+3. 如果驾驶员的开关在“锁定”状态，紧急代码无法启动。
+If the pilot wants to keep others out of the cockpit
+如果驾驶员想把其他人锁在舱外
+1. The pilot, or someone else in the cockpit, can prevent anyone from entering by moving the door toggle to the “LOCK” position. 
+1. 驾驶员或者驾驶舱内的其他人可以将舱门开关切换到“锁定”状态，阻止其他人进入。   
+2. The “LOCK” position disables emergency access for five minutes at a time.
+2. 每切换一次“锁定”状态，紧急进入机制就会失灵五分钟。

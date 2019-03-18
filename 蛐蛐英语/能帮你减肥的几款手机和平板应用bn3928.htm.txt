@@ -1,0 +1,32 @@
+I have always been skinny, but I do need to watch what I eat. So I count my calories — with the help of smartphone and tablet apps.
+我一直都很瘦，但我确实得注意饮食了。所以我开始使用智能手机和平板电脑应用，来计算摄入的卡路里。
+One of the best is Calorie Counter & Diet Tracker by MyFitnessPal. Free on iOS and Android, it’s full of features for tracking food intake and exercise.
+其中最好用的之一是MyFitnessPal提供的“卡路里计数器与饮食追踪器”(Calorie Counter & Diet Tracker)，它在iOS和安卓系统上都是免费的，可以追踪记录摄入饮食和锻炼情况，有许多特色。
+The app asks basic questions about height, weight, age, exercise levels and target weight, and uses this data to calculate a sensible daily calorie intake. You are supposed to enter the calorie values of everything you eat; the app then helps you avoid overshooting your daily allowance.
+这个应用会询问你几个基本的问题，比如你的身高、体重、年龄、锻炼水平和目标体重，用这些数据为你计算出合理的日常卡路里摄入量。你应该输入自己吃下的所有食物的卡路里值，该应用会帮助你避免超过每日允许的摄入量。
+The app has a bar code scanner so it can look up most nutritional information directly from food packaging. This worked surprisingly well for me, getting the right information for everything from Heinz tomato soup to a Portuguese variant of the French cheese La Vache Qui Rit. All you have to do is enter how much you have eaten of a particular food to help the calorie calculation.
+这个应用有条形码扫描功能，可以通过直接扫描食品包装上的条形码，得到大多数食品的营养信息。这个功能对我来说出乎意料地有用，可以自动得到各种食品的正确信息，从亨氏番茄酱到葡萄牙出品的乐芝牛法国奶酪。只要输入某种食品你吃了多少，该应用就可以帮你计算出卡路里值。
+The scanner does not work all the time, so there is also a manual interface to enter the data. For each new food item, you type in the brand name, calorie count, fat content, salt content and so on. It’s slow, but you enter the data only once.
+这个扫描功能也不是随时都能用，所以该应用还附有一个手动界面，让用户输入数据。每输入一种新食物时，你可以输入它的品牌名字、卡路里含量、脂肪含量和盐含量等等。这样做比较慢，但这些数据只需输入一次。
+If you are really in a rush, or are estimating the calories in a restaurant meal, you can skip all this and just add the total calories.
+如果你确实很着急，或者在饭馆吃饭时，只能估算出一顿饭的卡路里值，那就可以跳过这些步骤，直接输入总卡路里。
+Calorie Counter also tracks your exercise regime and includes this with your daily calorie count. If you need nutritional advice, the app can tell you the healthfulness of the food you are eating, based on the nutritional data it has gathered.
+卡路里计数器还会跟踪你的锻炼情况，将它计入你每日的卡路里总量。如果你需要营养建议，该应用会根据它收集的营养数据，告诉你你所摄入的食物的营养情况。
+Its interface is simple, though not especially elegant, and it can feel a bit clinical. And Calorie Counter works best when you put in a lot of effort.
+这个应用界面简单，不过不算漂亮，甚至感觉有点简陋。需要费力输入才能发挥最佳功效。
+A similar but simpler app with a friendlier interface is Calorie Counter PRO by MyNetDiary, $4 on Android and iOS. It calculates your suggested calorie intake and helps you track eating habits and exercise sessions. A search function can look up common brands and grab their nutritional data from the web. It also has a bar code scanner feature but, as with the MyFitnessPal app, its reliability can vary.
+还有MyNetDiary提供的“卡路里计算器专业版”(Calorie Counter PRO)，功能类似，不过更简单一些，界面也更友好，在安卓和iOS系统上售价四美元。它能计算用户的卡路里建议摄入量，帮助你追踪自己的饮食习惯和锻炼情况。它有搜索功能，可以从网上查询普通食品品牌的营养数据。它也有条形码扫描功能，不过和MyFitnessPal的应用一样，扫描有时不能用。
+In general Calorie Counter PRO feels like its better-known rival, but you may find you can work with it more quickly. Also, it looks nicer.
+总体而言，MyFitnessPal的应用知名度更高，“卡路里计算器专业版”和它很像，但是上手更快，也更好看。
+A similar offering on Android is Calorie Counter by FatSecret. This app is also attractively designed and features the same tricks of logging food and exercise. It’s free.
+在安卓系统上的类似应用还有FatSecret提供的“卡路里计数器”(Calorie Counter)。这个应用设计也很美观，也有同样的记录饮食与锻炼功能。它是免费的。
+While all the diet apps are very hands-on, some add more automation. One is Meal Snap, a $3 iOS app, and when it works it can seem magical.
+所有的饮食控制类应用都要动手操作，但也有些应用添加了更加自动化的功能，比如iOS上的Meal Snap，售价三美元，简直有魔法般的效果。
+The app creates a daily food diary for you by recognizing the food from photos you shoot. It is supposed to be as simple as that. You take a picture, dial in data such as whether you are eating breakfast or lunch and add a quick text label, and the app estimates the calorie content.
+它能识别你为食物拍摄的照片，在此基础上为你生成每日的饮食日记。就是这么简单。你拍一张照片，输入“早餐”或“午餐”之类数据，再加上简单的文字标签，这个应用就能估算出卡路里含量。
+Many reviewers say it does a pretty good job, although its estimate can be a bit unpredictable. It also needs a network connection, which is something to think about when eating out.
+很多评论者说这个软件很不错，尽管估算的准确性有一点难以预料，而且还需要在联网状态下进行，如果外出就餐，就要把这点考虑进去。
+Eatly takes less effort. It also uses photos of food, but instead of estimating actual calorie counts it simply rates the food from “very healthy” through “it’s O.K.” to “unhealthy.” The app’s community of users does the rating, and you can take part by rating other users’ photos.
+“Eatly”这个应用就要省事些。它也是使用食物照片，但并不估算食物的实际卡路里值，只是评估食品“非常健康”、“还可以”或“不健康”。这个评估是由应用社区里的用户完成的，你可以参与评价其他用户的照片。
+The Entitle books app, free on iOS, has had a recent overhaul that modernizes its interface and adds a few extra features like a better library search function and bookmark-sharing between devices. Entitle, formerly known as eReatah, is an e-book subscription service that provides access to several new books a month, depending on how much you pay.
+“The Entitle”这个书籍应用在iOS上是免费的，它最近改版了一次，界面显得更加现代化了，还增添了一些额外功能，比如更好的图书馆搜寻功能和设备间的书签共享。Entitle之前的名字叫eReatah，是电子书订阅服务软件，每月提供几本新书，取决于你付费多少。

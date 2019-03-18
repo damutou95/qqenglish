@@ -1,0 +1,38 @@
+In most hospital delivery rooms, doctors routinely clamp and sever the umbilical cord less than a minute after an infant’s birth, a practice thought to reduce the risk of maternal hemorrhaging.
+在大多数医院的产房里，医生都会在婴儿出生后一分钟内夹住并剪短脐带，人们认为，这种做法会降低产妇大出血的风险。
+But a new analysis has found that delaying clamping for at least a minute after birth, which allows more time for blood to move from the placenta, significantly improves iron stores and hemoglobin levels in newborns and does not increase the risks to mothers.
+但是，一项新研究发现，如果把夹住脐带的时间推迟到婴儿至少出生一分钟之后，让血液有更多时间从胎盘流出，就可以极大地提高新生儿体内的铁含量和血红蛋白水平，而且不会给母亲增加危险。
+Doctors usually clamp the umbilical cord in two locations, near the infant’s navel and then farther along the cord, then cut it between the clamps. The timing of the procedure has been controversial for years, and the new analysis adds to a substantial body of evidence suggesting that clamping often occurs too quickly after delivery.
+医生通常会从两处夹住脐带，一处是在婴儿的肚脐附近，然后隔一段距离再夹一次，之后在中间剪断。数年来，这个过程的时间掌控一直很有争议，新的分析又增加了原本就已经为数众多的证据，表明人们在婴儿出生后夹住脐带的时间经常都来得太早。
+The new paper, published on Wednesday in The Cochrane Database of Systematic Reviews, may change minds, though perhaps not immediately. “I suspect we’ll have more and more delayed cord clamping,” said Dr. Jeffrey Ecker, the chair of committee on obstetrics practice for the American College of Obstetricians and Gynecologists.
+周三发表在《科克伦系统评价资料数据库》(The Cochrane Database of Systematic Reviews)上的这篇新论文可能会改变人们的观念，虽然改变的速度或许不会太快。“我认为，会有越来越多的人推迟夹住脐带的时间，”杰弗里· 埃克尔(Jeffrey Ecker)说。他在妇产科医师学会（American College of Obstetricians and Gynecologists，简称ACOG）负责产科实践的委员会担任主席。
+Newborns with later clamping had higher hemoglobin levels 24 to 48 hours postpartum and were less likely to be iron-deficient three to six months after birth, compared with term babies who had early cord clamping, the analysis found. Birth weight also was significantly higher on average in the late clamping group, in part because babies received more blood from their mothers.
+研究发现，与脐带剪断较早的新生儿相比，脐带剪断较晚的新生儿在出生24到48小时内的血红蛋白水平更高，在出生后三到六个月的时间里缺铁的几率也更低。此外，脐带剪断较晚的新生儿的出生体重明显较高，部分是因为婴儿从母体获得了更多血液。
+Delayed clamping did not increase the risk of severe postpartum hemorrhage, blood loss or reduced hemoglobin levels in mothers, the analysis found.
+分析发现，夹住脐带的时间推迟之后，并不会增加产妇严重出血、失血或血红蛋白减少的危险。
+“It’s a persuasive finding,” said Dr. Ecker. “It’s tough not to think that delayed cord clamping, including better iron stores and more hemoglobin, is a good thing.”
+“这是一项很有说服力的发现”，埃克尔说，“推迟夹住脐带能让婴儿储存更多铁元素，获得更多的血红蛋白，其中的好处很难否认。”
+The World Health Organization recommends clamping of the cord after one to three minutes because it “improves the iron status of the infant.” Occasionally delayed clamping can lead to jaundice in infants, caused by liver trouble or an excessive loss of red blood cells, and so the W.H.O. advises that access to therapy for jaundice be taken into consideration.
+世界卫生组织 (World Health Organization)建议在婴儿出生一到三分钟之后再夹住脐带，因为这样“可以提高婴儿体内的铁含量”。偶然情况之下，推迟夹住脐带可能会导致婴儿得黄疸病，这是一种由肝脏问题或红血球大量缺失所导致的疾病。有鉴于此，世界卫生组织建议要将黄疸病治疗条件考虑在内。
+By contrast, in December a committee opinion by the American College of Obstetricians and Gynecologists reviewed much of the same evidence as the new analysis but found it “insufficient to confirm or refute the potential for benefits from delayed umbilical cord clamping in term infants, especially in settings with rich resources.”
+然而，去年12月，ACOG曾在一份委员会意见中对新研究中所采用的很多证据进行了评估，称它发现这些证据“不足以确证或驳斥推迟夹住足月儿脐带可以带来好处的观点，尤其是在条件好的情况下”。
+The committee cited the risks of jaundice and the relative infrequency of iron deficiency in the United States as reasons for not changing longstanding practice.
+该委员会把黄疸病的风险和美国较少出现缺铁现象列为了不改变长期做法的理由。
+But Dr. Tonse Raju, a neonatologist and an author of the guidelines, said he personally favored delayed cord clamping, even more so after this “very strong paper.”
+但是，新生儿科专家、健康指南的作者唐瑟·拉朱(Tonse Raju)表示，他个人很赞成推迟夹住脐带的做法，在这篇“极有说服力的文章”发表之后，他更赞成这种做法了。
+The new report assessed data from 15 randomized trials involving 3,911 women and infant pairs. Eileen Hutton, a midwife who teaches obstetrics at McMaster University in Ontario and published a systematic review on cord clamping, called the report “comprehensive and well done” but said she felt the conclusion was “weakly worded,” considering the sum of evidence on the benefits of delayed cord clamping for neonates.
+新报告分析了从随机进行的15项试验中得到的数据，试验涉及3911对产妇和孩子。安大略麦克马斯特大学(McMaster University in Ontario)教授产科学的助产士艾琳·赫顿(Eileen Hutton)发表过一份关于夹脐带的系统性分析文章，认为这一报告十分“全面而且写得很好”。但她也表示，考虑到延迟夹脐带的时间会对新生儿有益的证据数量，她觉得报告的结论“表述有些苍白”。
+“The implications are huge,” Dr. Hutton said. “We are talking about depriving babies of 30 to 40 percent of their blood at birth — and just because we’ve learned a practice that’s bad.”
+赫顿称，“这件事情的意义十分重大。我们讨论的是在婴儿出生时切断他们30%到40%的血液，仅仅是因为我们学会了一种不好的做法。”
+Said Dr. Raju, a medical officer at the National Institute of Child Health and Human Development: “It’s a good chunk of blood the baby is going to get, if you wait a minute and a half or two minutes. They need that extra amount of blood to fill the lungs.” Healthy babies manage to compensate if they do not get the blood from the cord, he said, but researchers do not know how.
+国立儿童健康与人类发育研究所(National Institute of Child Health and Human Development)卫生干事拉朱医生称，“如果等上一分半或是两分钟，婴儿就可以得到很多血液。他们需要这部分额外的血液来供给肺部。”他说，健康的婴儿如果得不到这部分脐带血，总有办法补偿，但研究人员还不知道他们是怎么做到的。
+Susan McDonald, the lead author of the Cochrane review and a professor of midwifery at La Trobe University in Melbourne, Australia, said, “In terms of a healthy start for a baby, one thing we can do by delaying cord clamping is boost their iron stores for a little bit longer.”
+科克伦研究报告的主要作者苏珊·麦克唐纳(Susan McDonald)是澳大利亚墨尔本拉筹伯大学(La Trobe University)的助产学教授，她说，“说到给婴儿带来一个健康的开始，有件事情我们可以做到，那就是通过延迟夹住脐带来把他们储存铁的时间延长一点儿。”
+The new analysis did not include many women who had Caesarean sections, some experts noted.
+一些专家发现，这份新报告没有将选择剖腹产的众多妇女包括进去。
+“We don’t have enough information on the effects of delayed cord clamping for someone undergoing a Caesarean delivery in terms of postpartum hemorrhage,” said Dr. Cynthia Gyamfi-Bannerman, medical director of the perinatal clinic at Columbia University. “Waiting 30 or 60 seconds in a vaginal delivery in a low-risk patient is probably something we could do and wouldn’t have maternal consequences, but in a caesarean delivery, you’re cutting into a pregnant uterus that has a huge amount of blood.” In some scenarios, “there’s an increased risk of postpartum hemorrhage.”
+哥伦比亚大学(Columbia University)产前诊所医疗主任辛西娅·贾姆非-班纳曼(Cynthia Gyamfi-Bannerman)博士称，“在产后出血方面，我们没有掌握足够多的信息，没法判断延迟夹住脐带会给剖腹产的人带来什么影响。我们可以做的是，在低风险产妇通过产道生产时延迟30或者是60秒钟，这么做不会对母亲有什么影响。但在进行剖腹产的时候，医生要切进孕妇含有大量血液的子宫。”在一些情况中，“这会增大产后出血的风险。”
+Dr. McDonald acknowledged that the review did not include data on the long-term neurological outcomes for babies.
+麦克唐纳博士认为，这份报告没有包括婴儿神经所受长期影响的数据。
+“What will sway A.C.O.G. are a couple of studies in progress showing a potential long-term neurological benefit,” Dr. Raju said. Improved iron stores in theory could help reduce the risk of learning deficiencies and cognitive delay in children, which have been linked to iron-deficiency anemia in school-age children.
+ 拉朱医生称，“正在进行的一些研究将会展示这对神经带来的潜在长期好处，这将能让ACOG改变看法。”从理论上来讲，提高铁水平会有助于降低孩子学习缺陷和认知迟缓方面的风险，人们认为这种缺陷与学龄孩子缺铁性贫血有关。

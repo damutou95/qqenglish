@@ -1,0 +1,56 @@
+The Chinese Internet giant Alibaba is looking to join the ranks of Google and Microsoft with an initial public offering that could give it a value of more than $100 billion. But the company’s recent acquisition of the Hong Kong-listed company Citic 21CN shows just how much we still don’t know about Alibaba and its business.
+中国的互联网巨头阿里巴巴正寻求通过一场估值超过1000亿美元的首次公开募股，变成谷歌(Google)和微软(Microsoft)这一级别的企业。不过，从这家公司最近收购在香港上市的中信21世纪公司(Citic 21CN)的交易却可以看出，我们对阿里巴巴公司及其业务是多么地不了解。
+Alibaba announced last week that it was in a deal to buy a 54.3 percent stake in Citic 21CN for about $171 million. Before the announcement, Citic 21CN was a sleepy Bermuda company listed in Hong Kong since 1972 with its principal business in “system integration and software development.” Its stock was moribund, and its biggest shareholder was the Chinese state company Citic Group, hardly an Internet force.
+阿里巴巴上周宣布，正斥资约1.71亿美元（约合人民币10.37亿元）收购中信21世纪54.3%的股份。在宣布这一消息之前，中信21世纪是一家死气沉沉的百慕大公司，1972年在港上市，主要业务是“系统整合和软件开发”。该公司的股票一直是死水一潭，其最大的股东是中国国有企业中信集团(Citic Group)，在互联网业根本谈不上有影响。
+Why did Alibaba acquire this company?
+那阿里巴巴为什么还要收购这家公司？
+At the time, Alibaba stated that the investment was aimed at developing “a pharmaceutical product information platform by leveraging on Citic 21CN’s vast pool of pharmaceutical product data and combining this with Alibaba Group’s e-commerce, cloud computing and big data capabilities.”
+阿里巴巴当时的说法是，这笔投资旨在“以中信21世纪的药品资讯科技基础，结合阿里的电子商贸平台、云计算及大数据优势，进一步发展中国的药品数据平台”。
+It sounds a little like corporate mumbo jumbo, and it sent investors into a frenzy.
+这听起来有点像是企业空洞无物的官方说辞，但它却让投资者陷入了疯狂。
+In an unusual move, Alibaba did not pay a premium for a controlling stake in Citic 21CN. Instead, it paid almost a 60 percent discount to Citic 21N’s trading price only 10 days before. Other investors had no luck; they bid up Citic 21CN’s shares about 370 percent in a single day.
+不同寻常的是，阿里巴巴获得中信21世纪的控股权时的收购价没有溢价，反而较仅10天前的交易价格折让了60%。其他的投资者就没这么幸运了；他们用一天的时间就把中信21世纪的股价推高了370%。
+People speculated that the rise was because Alibaba’s investment in the company was a “backdoor listing.”
+人们猜测，中信21世纪的股价之所以上涨，是因为阿里巴巴投资该公司是在“借壳上市”。
+In a public filing with the Hong Kong Stock Exchange, Citic 21N stated that the acquisition “may involve the possible injection of certain complementary businesses by” Alibaba. This may have also spurred the backdoor I.P.O. speculation.
+香港交易所的公开文件显示，中信21世纪称，这笔收购交易“可能会涉及阿里巴巴向中信21世纪注入若干补充业务”。这可能也引发了有关阿里巴巴借壳上市的猜测。
+Frankly, if this is why people bid up Alibaba’s stock fourfold, it seems a silly assumption.
+坦率地说，如果人们是因为这个原因把阿里巴巴的股价推高到了原来的四倍，似乎有些愚蠢。
+Some have been speculating that Alibaba may want a backdoor I.P.O. because the Hong Kong Stock Exchange has refused to waive its “one share, one vote” rules. Such a waiver would allow Alibaba to complete an I.P.O. on the exchange with a structure that would keep control with its founder and executive chairman, Jack Ma, and a handful of top people at the company. It has been intimated by people close to Alibaba that it may move its I.P.O. to the United States or another location with more permissive rules.
+此前有人曾猜测，由于香港交易所拒绝撼动“一股一票”的原则，阿里巴巴可能会寻求借壳上市。只有港交所放弃这一原则，阿里巴巴才能够在那里上市，同时保证公司创始人兼董事局主席马云以及少数高层对公司的控制。接近阿里巴巴的人士说，公司可能会选择美国或其他限定更宽松的地点上市。
+Talk of Alibaba’s possible move to the United States has apparently prompted the Hong Kong Stock Exchange to show signs that it may waiver from its opposition. Recent reports are that the exchange is considering a public debate on whether to keep these rules.
+有关阿里巴巴可能赴美上市的说法似乎促使港交所流露出了一些可能放宽限制的迹象。最近有报道称，港交所正在考虑就是否保留这些规定进行公开讨论。
+But if the Hong Kong Stock Exchange doesn’t cave to pressure, does anyone think that Alibaba could surreptitiously shove billions of assets into Citic 21CN without the Hong Kong Stock Exchange saying something? The same rules barring Alibaba’s share structure would apply to Citic 21CN if Alibaba tried to use it as a backdoor listing.
+然而，如果港交所仍拒绝让步，难道有人会认为，阿里巴巴偷偷地把数十亿资产塞进中信21世纪，港交所会坐视不管？如果阿里巴巴想要借它的壳上市，与阿里巴巴的股权结构相冲突的规定将同样适用于中信21世纪。
+The rationale for this frenzy seems overblown, but the fact that it happened highlights perhaps a bigger issue. Alibaba’s acquisition was structured in a manner as if it were intended to incite speculation, which only heightens concerns over how this company will be run after its I.P.O. if it remains controlled by Mr. Ma and his colleagues.
+投资者这波狂热的理由似乎很牵强，但是，这种状况仍然发生了，这一事实似乎突显出一个更大的问题。阿里巴巴这笔收购交易的操作方法似乎就是为了引发猜测。这种猜测只会加剧人们的担忧：如果继续由马云和他的合伙人控制，这家公司在IPO之后将如何运营。
+Alibaba did not solely purchase this stake in Citic 21CN. Alibaba’s partner was Yunfeng Capital, a private equity firm also co-founded by Mr. Ma. Yunfeng is focused on investing in Chinese telecommunications, technology and health care companies. When the purchase clears Chinese regulatory authorities, Yunfeng will own 16.2 percent and Alibaba 38.1 percent of Citic 21CN.
+阿里巴巴并非独自收购中信21世纪的股份。它的合作伙伴是云峰基金，一家由马云联合创办的私募公司。云峰基金主要投资中国的电信、科技和保健公司。这笔交易获得中国监管机构的批准后，云峰将持有中信21世纪16.2%的股份，阿里巴巴将持有其38.1%的股份。
+Why would Alibaba acquire control of Citic 21CN with Mr. Ma’s private equity firm instead of going it alone? Certainly, it had the capital. If Alibaba, which underwent an $8 billion debt refinancing last year, can’t afford a $171 million purchase, then it has bigger problems.
+阿里巴巴为什么不独立收购中信21世纪的控股权，而是要与马云的私募公司一起做这件事？它完全有独立收购的资本。如果阿里巴巴连1.71亿美元的收购交易都承担不起，那它的麻烦就大了。阿里巴巴去年完成了80亿美元的债务再融资。
+When the transaction was announced, Alibaba did not explain why it acquired this stake with Yunfeng.
+宣布交易时，阿里巴巴没有解释为什么要和云峰一起收购中信21世纪的股份。
+When asked for comment, a representative of Alibaba directed me to the initial news release announcing the transaction.
+阿里巴巴的一名代表在接到我的置评请求后，让我去看最初宣布这一交易的新闻稿。
+In the absence of a compelling reason, the acquisition raised the question of whether Mr. Ma was benefiting from his ties to Alibaba. The e-commerce company is providing capital and expertise to Citic 21CN, and to the extent Alibaba uses its huge network in China to help the company, then Mr. Ma’s private equity fund firm will also benefit.
+由于没有令人信服的理由，这笔交易引发了关于马云是否正在利用他与阿里巴巴的关系来获利的疑问。这家电子商务公司将为中信21世纪提供资本和技术，利用其在中国的庞大网络帮助这家公司，那么，马云的私募基金公司毫无疑问也会从中获利。
+Mr. Ma has announced that his profits from Yunfeng will be donated to charity to benefit the Chinese environment, but the private equity firm will still benefit from the deal.
+马云已经宣布，他从云峰获得的收益将捐给慈善机构，用于改善中国的环境。但即便如此，这家私募公司仍然会从这笔交易中受益。
+It is hard to think how this would play out if Alibaba were listed in the United States. In 2007, when Google Ventures invested about $3.9 million in 23andMe, the company founded by Sergey Brin’s wife at the time, Anne Wojcicki, Google was criticized for investing in a start-up of a founder’s wife. That was only a few million dollars.
+很难想象，如果阿里巴巴已在美国上市，事情的结果会是怎样。2007年，谷歌风投(Google Ventures)向23andMe投资了大约390万美元。23andMe公司由谢尔盖·布林(Sergey Brin)的妻子安妮·沃西基(Anne Wojcicki)创办。谷歌因为投资了一名创始人的妻子创办的初创企业而受到了批评。谷歌只不过投资了几百万美元而已。
+The bigger question may be why Alibaba would acquire such a sleepy company.
+更大的疑问可能是，阿里巴巴为什么会收购这样一家缺乏活力的公司。
+In a filing with the Hong Kong Stock Exchange, Citic 21CN states that Alibaba’s intention is to develop Citic’s “domestic drug data platform as well as to develop a data standard for medical and health care products.”
+在港交所的文件中，中信21世纪说，阿里巴巴的目的是“发展及扩大其国内药品数据平台，以及就医疗及卫生保健产品制定数据标准”。
+Perhaps this business has promise, but it is not even Citic 21CN’s biggest. Drugs are a new area for the company and accounted for about 3 percent of its revenue of $63 million in its last fiscal year.
+也许这个业务是有前景的，但它甚至不是中信21世纪的最主要业务。药品业务对该公司来说是一个新领域，在上一财年的6300万美元营收中，该业务仅占大约3%。
+You might think that paying a huge amount for a company with little revenue is par for the course for an Internet giant. But Citic 21CN was not known for having a particularly compelling technology or vision. (It doesn’t even have an active website.) Indeed, if Citic 21CN were such a great company, you would have thought that Alibaba would have paid a premium to buy it. Alternatively, why not just buy the drug business itself rather than paying for the other businesses, too? Or spend $171 million to build a drug business yourself?
+你可能以为，斥巨资收购一家几乎没有营收的公司是互联网巨头常干的事。但是据外界所知，中信21世纪并没有一个特别吸引人的技术或愿景。（它甚至连一个活跃的网站也没有。）实际上，如果中信21世纪真是这么伟大的一家公司，阿里巴巴对其股票的收购肯定要溢价。或者，阿里巴巴为什么不单单收购药品业务，而是同时收购了其他业务了呢？再或者，它为什么不花1.71亿美元自己打造药品业务？
+This leaves the Citic 21CN investment as puzzling.
+综上所述，阿里巴巴的这笔交易令人困惑。
+This all may be well and good, because Alibaba is a private company now. Once it is public, however, Alibaba’s practices may fall under more scrutiny. If Mr. Ma and his colleagues keep control of the company, one has to wonder what this means for public shareholders. Will Alibaba continue to enter into deals with affiliates of Mr. Ma, and if it does, will it be for companies like this?
+这些也许都不是问题，因为阿里巴巴现在是一家私营公司。然而一旦上市，阿里巴巴的做法可能要受到更多审视。如果马云和他的合伙人保留公司的控制权，人们必然想要知道，这对公众股东意味着什么。阿里巴巴还能继续与马云名下的公司共同进行交易吗，如果是，还会收购像中信21世纪这样的公司吗？
+To be fair, hype around the next big company tends to cause frenzied speculation. We saw this with the Facebook I.P.O. Alibaba may also be prone to be more open about its dealings once it has public shareholders. It has already moved to resemble the corporate structure of a Western company and is a model in China for corporate governance.
+公平地说，围绕着一个未来大公司的炒作往往会引发疯狂的投机行为。这一点我们在Facebook公司的IPO中已经见过。一旦有了公众股东，阿里巴巴可能也会倾向于在交易方面更加公开。该公司已经开始模仿西方公司的企业结构，在中国是公司治理的典范。
+But the scrutiny is only going to get worse for Alibaba as it heads toward a public listing. Once Alibaba does go public, it no longer has the luxury of being coy about its actions, no matter how small. That’s the price you pay for being in the limelight, up among the technology giants of the world.
+但是，随着阿里巴巴离上市越来越近，它受到的审视只会愈加严格。一旦阿里巴巴上市，它就再也不可能秘而不宣地行动了，无论是多小的行动。这就是和全世界科技企业巨头一起站在聚光灯下的代价。

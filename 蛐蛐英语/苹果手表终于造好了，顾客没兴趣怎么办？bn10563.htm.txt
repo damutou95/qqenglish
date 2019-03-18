@@ -1,0 +1,54 @@
+SAN FRANCISCO — For Apple, the hard part — making a smartwatch — is nearly over.
+旧金山——对苹果(Apple)来说，难的那部分已经接近尾声——也就是做出一款智能手表。
+Soon it will be time for the harder part: selling the long-anticipated Apple Watch to consumers who, so far, are not very excited about the idea of wearing computers on their bodies.
+很快它要面对更难的一部分：把外界期盼已久的Apple Watch卖给消费者，而到目前为止，人们并不是很热衷于在身上穿戴一台电脑。
+The first batch of smartwatches from companies like Samsung Electronics, Motorola and LG did not sell well, nor were they particularly well reviewed. And wearable devices like the Google Glass eyewear that got mainstream attention — if not sales — were greeted with considerable skepticism.
+三星电子(Samsung Electronics)、摩托罗拉(Motorola)和LG等公司率先推出的第一批智能手表销量不佳，得到的评价也一般。像谷歌眼镜(Google Glass)这样的可穿戴设备得到了广泛关注——销量可能就是另一回事了——但也受到相当多的质疑。
+But Apple has been in this situation before. Most consumers didn’t care about computer tablets before Apple released the iPad, nor did they generally think about buying smartphones before the release of the iPhone. In both cases, the company overcame initial skepticism.
+这不是苹果第一次面对这样的局面。在他们推出iPad前，大多数消费者对平板电脑没什么兴趣，推出iPhone前，考虑买智能手机的人也不多。这两个例子里，公司都克服了最初的质疑。
+The Apple Watch, which Apple introduced last September and is expected to be in stores in April, is a miniature computer worn around the wrist, with a touch screen and a crown for navigating the device. There are three different models sold at different prices and the bands are interchangeable.
+苹果在去年9月推出的Apple Watch，预计将在4月上架销售，它是一个戴在手腕上的微型电脑，配有一块触摸屏和一个用于设备界面导航的表冠。一共有价格不一的三种型号，表带可以更换。
+Apple has marketed it as a device that can appeal to a range of customers like fitness buffs and luxury watch collectors. But it has limited its functions, making it more like a watch, more easily relatable than a tech doodad that happens to look like a watch, said Ben Bajarin, a consumer technology analyst for Creative Strategies.
+苹果对这种设备的市场定位很广，从健身狂人到豪华腕表藏家都是目标受众。但是创意策略公司(Creative Strategies)消费科技分析师本·巴加林(Ben Bajarin)说，苹果对其功能进行了限制，好让它更像一块手表，让人更容易接近，而不只是一个凑巧长得像表的高科技玩物。
+“This is a brand-new category. Most people have no frame of reference with a smartwatch,” said Mr. Bajarin.
+“这是一个全新的产品门类。面对一块智能手表，多数人是没有标准可参照的，”巴加林说。
+In late February, Apple sent out invitations to the media for an event to remind people about the best features of the watch and share some new details about the product, according to two people with knowledge of the event. Timothy D. Cook, Apple’s chief executive, is expected to be the host.
+2月底，苹果向媒体发出了一份活动邀请函，据两个了解该活动内情的人说，它的目的是重温这款手表的重要特性，并分享更多的细节。预计活动将由苹果首席执行官蒂莫西·D·库克(Timothy D. Cook)主持。
+Apple is expected to say more about price. The starting price for a basic Apple Watch is $350. Apple has not yet said how much people will have to pay for higher-end models, like the Apple Watch Edition, which is made of 18-karat gold, though watch enthusiasts estimate that it will cost upward of $10,000.
+苹果可能会透露更多定价方面的信息。Apple Watch基础款的价格是350美元（约合2200元人民币）。苹果尚未宣布高端型号的定价，比如使用了18K黄金的Apple Watch Edition，不过手表爱好者估计它的售价应该接近1万美元。
+The watch requires a connection to an iPhone to fully operate.
+手表需要和一台iPhone连接才能使用所有功能。
+Inside Apple, members of the team that worked on the watch product, code-named Gizmo, say it was a difficult engineering challenge. Three employees briefed on the project agreed to speak on the condition of anonymity.
+手表产品在苹果内部的项目代号为Gizmo，其开发团队成员说，它在工程上带来了严峻挑战。三名了解该项目的苹果雇员要求匿名接受采访。
+In an effort to maintain secrecy, engineers testing the watch outside the office even created fake casing that made the Apple device resemble a Samsung watch, one person said.
+其中一人说，为了保密，在办公室以外的地方测试手表的工程师甚至制作了假表壳，好让这个苹果设备看上去像一块三星手表。
+The people who created the watch have been described by Apple employees as an “all-star team.” Apple’s top designers and engineers who worked on its iPhone, iPad and Macs are all part of it, several Apple employees said. Top executives include Jony Ive, Apple’s head of design; Jeff Williams, the head of operations; and Kevin Lynch, a former Adobe executive, who leads the watch’s software development.
+苹果雇员称负责手表开发的是一个“全明星团队”。多位苹果雇员表示，团队中有参与过iPhone、iPad和Mac开发的苹果顶尖设计师和工程师。其高管包括苹果设计主管乔尼·艾夫(Jony Ive)；运营主管杰夫·威廉姆斯(Jeff Williams)；前奥多比公司(Adobe)高管、负责手表软件开发的凯文·林奇(Kevin Lynch)。
+Employees said it was challenging to cram powerful chips and sensors onto the watch’s circuit board, which is as tiny as a postage stamp.
+苹果雇员说，手表的电路板只有一张邮票那么大，要把强大的芯片和传感器塞进去是很困难的。
+Nearly two years ago, the company experimented with advanced health monitoring sensors that tracked blood pressure and stress, among other variables. Many of those experiments were abandoned more than 18 months ago after the sensors proved unreliable and cumbersome, these people said.
+将近两年前，公司曾尝试使用高级健康监测传感器，用于跟踪血压和精神压力等等因素。这些雇员说，几个月后一些传感器经证明还不够可靠，而且很笨重，许多实验因此被放弃了。
+Apple long ago decided that for the first version of the product, it would include a heart rate sensor and a sensor for tracking movement, to market the device as a fitness-tracking companion to the iPhone. It also has a chip that helps it make wireless payments.
+苹果早已决定在手表的首个版本中要使用心率传感器和运动跟踪传感器，这样就可以将它作为配合iPhone的健康跟踪工具来推广。表内还有一个可以无线支付的芯片。
+Battery life was also a concern on a device so small, and engineers mulled over how the watch’s power should be replenished. The company in the past experimented with multiple methods to recharge the watch, including solar charging. Eventually it settled with induction, a method in which an electrical current creates a magnetic field, which creates voltage that powers the watch.
+对于如此小巧的设备，电池寿命也是个问题，工程师们对手表的充电方式有过很多考虑。苹果实验了多种充电方式，包括太阳能充电。最终还是决定用电磁感应，用电流产生一个磁场，磁场进而产生电压用于充电。
+Apple has said the watch battery is estimated to last a full day, requiring a user to charge it at night, similar to a smartphone. The company also developed a yet-to-be-announced feature called Power Reserve, a mode that will run the watch on low energy but display only the time, according to one employee.
+苹果称手表的电池大概能维持一整天，用户需要每天晚上充电，和智能手机类似。据一位雇员称，公司还开发了一种尚未公布的“蓄能”(Power Reserve)特性，让手表可以在低电量情况下运转，但只显示时间。
+Apple will release the watch a bit later than it had hoped because of technology challenges. It probably didn’t help that several important employees jumped ship. Nest Labs, the smart appliance maker that was acquired by Google last year, poached a few engineers who were the very best on the watch team, according to two people. Among them was Bryan James, Apple’s former director of iPod software, who became a vice president for engineering at Nest in early 2014, these people said.
+由于在技术上遇到困难，手表的发布会比苹果预想的晚一些。而多名重要雇员的离职更是雪上加霜。有两人透露，去年被谷歌(Google)收购的智能家电制造商Nest Labs挖走了手表团队中的几名最优秀成员。其中包括苹果前iPad软件总监布莱恩·詹姆斯(Bryan James)，两人说他在2014年初成为Nest的工程副总裁。
+Still, when Apple releases its watch in April, it will enter a market already flooded with smartwatches running Android Wear, a version of Google’s Android software system tailored for wearable computers.
+此外，等到苹果在4月推出手表时，市场已经挤满了各种运行Android Wear的智能手表，后者是谷歌Android软件系统的一个定制版，专用于可穿戴电脑。
+The results so far for Android smartwatches have been disappointing. About 720,000 smartwatches with Android Wear were shipped in 2014, according to Canalys, the research firm.
+Android智能手表的销售数据，目前来看是令人失望的。据研究机构卡纳利斯公司(Canalys)的数据，2014年Android Wear智能手表出货量为72万块。
+Daniel Matte, an analyst for Canalys, said based on those numbers, it would be premature to call smartwatches a flop. He also predicts Apple’s watch will become the top-selling smartwatch next year.
+卡纳利斯分析师丹尼尔·迈特(Daniel Matte)说，从这样的数据来看，说智能手表已经失败过于草率。此外他还预测苹果的手表在明年将成为最热卖的智能手表。
+But it is unlikely to be a game-changer for Apple, at least anytime soon. Toni Sacconaghi, a financial analyst for Sanford C. Bernstein research, thinks the watch will make only a modest contribution to Apple’s bottom line this year. He predicts that Apple will ship 7.5 million watches in the second half of Apple’s fiscal year.
+但它不太可能成为苹果的一个划时代产品，至少短时间内不会。桑福德·伯恩斯坦公司(Sanford C. Bernstein)金融分析师托尼·萨克纳吉(Toni Sacconaghi)认为，手表在今年苹果的业绩中将只占很小一部分。他预测苹果在本财年下半年的手表出货量为750万块。
+That is peanuts compared with the tens of millions of iPhones that fly off the shelves every quarter.
+这跟季度销量在千万级的iPhone比起来只是零头。
+Companies that make watch apps will probably play an important role in defining the purpose of the Apple Watch, similar to the app developers for the iPhone and the iPad.
+制作手表应用的公司，可能会是决定Apple Watch用途的一股重要力量，和应用开发者在iPhone、iPad的发展中发挥的作用类似。
+Tero Kuittinen, a director for Frank N. Magid Associates who does consulting for app developers, said he had talked to about 20 app developers about the Apple Watch. Most of them, he said, were “cautiously optimistic.” But they worry apps for watches won’t be as lucrative as apps for phones because the tiny screen can limit features or — even worse — ads.
+为应用开发商提供咨询服务的弗兰克·N·马吉德公司(Frank N. Magid Associates)董事泰罗·库伊蒂宁(Tero Kuittinen)说，他已经和大约20个应用开发商谈过Apple Watch。他说多数人都抱着“谨慎乐观”的心态。但他们担心手表应用不会像手机应用那么赚钱，因为小屏幕会限制功能，更糟的是还会限制广告。
+David Barnard, an independent app developer, said he was expanding one of his iPhone apps to work with the Apple Watch. The app, called Launch Center Pro, can be customized to initiate different actions like setting the temperature of an Internet-connected thermostat or unlocking a door.
+独立应用开发者戴维·巴纳德(David Barnard)说，他正在把他的一个iPhone应用扩展到Apple Watch上。该应用叫做Launch Center Pro，可以定制各种操作，比如设定联网温控器的温度，或打开门锁。

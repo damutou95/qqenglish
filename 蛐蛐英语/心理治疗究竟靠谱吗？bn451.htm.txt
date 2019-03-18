@@ -1,0 +1,58 @@
+Mental-health care has come a long way since the remedy of choice was trepanation — drilling holes into the skull to release “evil spirits.” Over the last 30 years, treatments like cognitive-behavioral therapy, dialectical behavior therapy and family-based treatment have been shown effective for ailments ranging from anxiety and depression to post-traumatic stress disorder and eating disorders.
+古人们一度认为，心理问题是“邪灵”作祟，需要使用钻孔术，即在颅骨上钻孔来释放这些“邪灵”。如今，心理保健领域已经获得了长足的进步。研究显示，在过去的30年里，认知行为疗法、辩证行为疗法和家庭疗法均可有效地治疗从焦虑症、抑郁症到创伤后应激障碍、进食紊乱等一系列疾患。
+The trouble is, surprisingly few patients actually get these kinds of evidence-based treatments once they land on the couch — especially not cognitive behavioral therapy. In 2009, a meta-analysis conducted by leading mental-health researchers found that psychiatric patients in the United States and Britain rarely receive C.B.T., despite numerous trials demonstrating its effectiveness in treating common disorders. One survey of nearly 2,300 psychologists in the United States found that 69 percent used C.B.T. only part time or in combination with other therapies to treat depression and anxiety.
+问题是，几乎没有多少患者在接受诊察后真正获得了这些循证治疗，尤其是认知行为疗法。2009年，一项由一流的心理健康研究人员进行的荟萃分析发现，尽管认知行为疗法治疗常见疾病的有效性已经过大量试验证实，但美国和英国的精神病患者却很少接受这一疗法。此外，研究人员在调查了近2300名美国的心理医生后发现，在抑郁症和焦虑症的治疗中，有69%的患者仅在部分时间里使用认知行为疗法，或将其与其他疗法结合使用。
+C.B.T. refers to a number of structured, directive types of psychotherapy that focus on the thoughts behind a patient’s feelings and that often include exposure therapy and other activities.
+认知行为疗法泛指多种结构化的指导型心理治疗，通常包括暴露疗法等。这些疗法侧重于探讨潜藏于患者感觉背后的思想和观点。
+Instead, many patients are subjected to a kind of dim-sum approach — a little of this, a little of that, much of it derived more from the therapist’s biases and training than from the latest research findings. And even professionals who claim to use evidence-based treatments rarely do. The problem is called “therapist drift.”
+相反，许多患者接受了东拼西揍的“大杂烩式”治疗。该方法并非基于最新的研究成果，反而更多地受到治疗师自身的偏见和培训的影响。更有甚者，那些声称采用循证治疗的专业人员也很少坚持他们所承诺的治疗方法。这一问题称为“治疗师偏移”(therapist drift)。
+“A large number of people with mental health problems that could be straightforwardly addressed are getting therapies that have very little chance of being effective,” said Glenn Waller, chairman of the psychology department at the University of Sheffield and one of the authors of the meta-analysis.
+上述荟萃分析的作者之一，英国谢菲尔德大学(University of Sheffield)心理学系主席格伦·沃勒(Glenn Waller)指出：“许多患者本可以直截了当地解决自己的心理健康问题，却把大量时间浪费在几乎没可能奏效的疗法上。”
+A survey of 200 psychologists published in 2005 found that only 17 percent of them used exposure therapy (a form of C.B.T.) with patients with post-traumatic stress disorder, despite evidence of its effectiveness. In a 2009 Columbia University study, research findings had little influence on whether mental-health providers learned and used new treatments. Far more important was whether a new treatment could be integrated with the therapy the providers were already offering.
+一项发表于2005年的调查发现，虽然现有证据表明了暴露疗法（一种形式的认知行为疗法）对创伤后应激障碍的有效性，但该调查所涉及的200名心理医生中只有17%对其患者使用了该疗法。2009年哥伦比亚大学(Columbia University)的一项研究则显示，研究结果对心理保健服务提供者是否会学习和采用新的治疗方法影响甚微。他们更加重视的是，新的治疗方法能否整合入他们目前提供的治疗之中。
+The problem is not confined to the United States. Two years ago, Dr. Waller studied C.B.T. therapists in Britain treating adults with eating disorders to see what specific techniques they used. Dr. Waller found that fewer than half did anything remotely like evidence-based C.B.T.
+这一问题并不局限于美国。两年前，沃勒博士对英国的一些认知行为疗法治疗师进行了研究，并考察了他们在治疗患有进食紊乱症的成年患者时使用了哪些特定的技术。沃勒博士发现，只有不到半数的治疗师的工作带有些循证认知行为疗法的影子。
+“About 30 percent did something like motivational work, and 25 percent did something like mindfulness,” said Dr. Waller. “You wouldn’t buy a car under those conditions.”
+“约30%的治疗师只是简单地给患者来一番励志，25%则引导患者进行正念之类的修习，”沃勒博士说，“在这种情况下，你怎么可能放心地将健康托付给他们？”
+Why the gap? According to Dianne Chambless, a professor of psychology at the University of Pennsylvania, some therapists see their work as an art, a delicate and individualized process that works (or doesn’t) based on a therapist’s personality and relationship with a patient. Others see therapy as a more structured process rooted in science and proven effective in both research and clinical trials.
+在研究与实践之间为何会存在这样的鸿沟？据宾夕法尼亚大学(University of Pennsylvania)的心理学教授黛安娜·钱布利斯(Dianne Chambless)称，某些治疗师把治疗当成了艺术创作，一种以（或不以）其自身个性及其与患者之间的情感关联为基础进行的微妙的个体化过程。而其他人则认为这项工作是一项条理化的程序，它植根于科学，且其有效性在研究和临床试验中均得到了证实。
+“The idea of therapy as an art is a very powerful one,” she said. “Many psychologists believe they have skills that allow them to tailor a treatment to a client that’s better than any scientist can come up with with all their data.”
+“视治疗为艺术这一观念的力量相当强大，”钱布利斯教授说，“许多心理学家都相信自己掌握的技能足以为客户量身打造治疗方案，且其效果甚至比任何科学家凭借数据所能提出的方案还要更胜一筹。”
+The research suggests otherwise. A study by Kristin von Ranson, a clinical psychologist at the University of Calgary, and colleagues published last year concluded that when eating-disorder clinicians did not use an evidence-based treatment or blended it with other techniques for a more eclectic approach, patients fared worse, compared with those who received a more standardized treatment.
+然而，研究表明，事实恰恰相反。加拿大卡尔加里大学的临床心理学家克里斯廷·冯·兰森(Kristin von Ranson)和他的同事在去年发表的一项研究中总结道，在进食障碍的治疗中，与接受规范化治疗的患者相比，当临床医生未采用循证治疗或将其与别的技术一起搅和成折衷治疗法时，患者的情况就不那么乐观。
+Therapists who skew toward the “artistic” side say that so-called manualized treatment devalues crucial aspects of therapy like empathy, warmth and communication — the “therapeutic alliance.”
+倾向于“艺术性”的治疗师们宣称，所谓的“程式化治疗”(manualized treatment)贬低了共情、沟通以及温情这些“治疗联盟”的价值。
+“If you want a patient to be using a treatment that works, what’s most likely to get them there is the relationship you build with them,” said Bonnie Spring, a professor of psychiatry at Northwestern’s Feinberg School of Medicine.
+“如果你希望患者采用有效的治疗方法，与他们建立起感情联系很可能令你事半功倍，”西北大学(Northwestern)费恩柏格医学院的精神病学教授邦尼·斯普林(Bonnie Spring)表示。
+But some experts believe this is a false choice. “No one believes it’s a good idea to have a bad relationship with your client,” said Dr. Chambless. “The argument is really more, ‘Is a good relationship all we need to help a patient?’ ”
+但其他的一些专家则认为，这是一个错误的选择。“诚然谁也不会以为跟客户交恶会是个好主意，”钱布利斯博士说，“争论的真正焦点在于：‘仅仅靠跟患者搞好关系就足以帮助他们了吗？’”
+Besides, evidence-based treatments like C.B.T. still require expertise, clinical judgment and skill from practitioners, noted Terry Wilson, a professor of psychology at Rutgers University. “A stereotype of manualized treatment is: you go buy a book and it’s a rigid, lock step thing,” he said. “But when done competently, it’s anything but.”
+罗格斯大学(Rutgers University)的心理学教授特里·威尔逊(Terry Wilson)指出，此外，认知行为疗法等循证治疗还需要从业者拥有专业知识、临床判断和技能。“程式化治疗往往给人一种刻板印象，让人误以为这是一种单纯照章办事的因循僵化的过程，”他说，“但如果你能恰如其分地进行这项治疗，你会发现它完全不是这么一回事。”
+Differences in background and education play a role in a therapist’s perspective on evidence-based treatment. “You can become a therapist with very little training in how to think scientifically,” said Carolyn Becker, a professor of psychology at Trinity University in San Antonio. Psychiatrists, clinical psychologists, social workers and other mental-health professionals complete years of rigorous schooling and apprenticeships, but it is possible to practice therapy without such a foundation.
+出身背景和教育程度的差异均可影响治疗师对循证治疗的观点。“即使你几乎从未接受过科学思维的训练也可以成为一名治疗师，”圣安东尼奥三一大学(Trinity University)的心理学教授卡罗琳·贝克尔(Carolyn Becker)指出。精神科医生、临床心理学家、社会工作者和其他心理健康专业人员都需要完成数年严格的学校教育和见习，但治疗师们未必都具备上述基础。
+“A lot of students come in and say, ‘I hate science, but I’m good with people. I like to listen and help them,’ ” said Dr. Becker. There is little incentive for therapists to change what they are doing if they believe it works. But “every clinician overestimates how well they’re doing,” said Dr. Spring. Often patients simply feel they can’t tell a therapist when things aren’t going well.
+“有不少学生说：‘我讨厌科学，但我擅长与人交往。我乐于聆听患者们的倾诉，并给予他们所需的帮助，’”贝克尔博士补充道。只要治疗师们认定自己的工作行之有效，他们就不大情愿做出改变。不过，“每名临床医生都会高估自己的工作成效，”斯普林博士说，实际上，在很多情况下，患者只不过是觉得自己无法告诉治疗师“进展并不顺利”而已。
+“A lot of times, therapists just don’t know,” Dr. Chambless said. “People will say, ‘Thank you, I’m fine now, goodbye,’ and go into a different therapy.”
+“很多时候治疗师们只是被蒙在了鼓里，”钱布利斯博士说，“患者对他们说，‘谢谢你，我现在觉得好多了，再见’，然后又跑去接受另一套不同的治疗。”
+Despite the gap between research and practice, some experts are cautiously optimistic. Dr. Wilson believes mental health practitioners, especially younger clinicians, are slowly moving toward more evidence-based treatments. He pointed to a parallel shift among physicians that took place, he said, when medicine committed itself to science rather than to producing medical artists or gurus.
+尽管存在着这些差距，专家们对未来仍然抱持着谨慎乐观的态度。威尔逊博士认为，心理保健行业的从业者，特别是年轻的临床医生，正慢慢地向循证治疗的阵营迈进。他指出，当医学界更专注于科学而非生产所谓的“医疗艺术家”或“大师”时，在医生之中也会发生相应的偏移。
+“As a field, clinical psychology needs to do the same thing,” he said. “We need to commit ourselves to science.”
+“在临床心理学领域内也亟需发生同样的转型，”威尔逊博士说，“我们需要更加致力于科学研究和实践。”
+Need to find a therapist well-grounded in the latest research? Experts recommend interviewing prospective providers before starting therapy, especially if you are looking for a specific type of treatment. Useful questions include:
+你需要寻找一名深谙最新研究的治疗师吗？专家建议在开始治疗前先对他们进行一场面试，当你所寻求的是某种特定类型的治疗时尤其应该如此。有意义的问题包括：
+What kind of trainings have you done, and with whom?
+你完成了何种类型的培训，同侪都有哪些人？
+What professional associations do you belong to? (If you’re looking for a C.B.T. therapist, for instance, ask whether the therapist belongs to the Association for Behavioral and Cognitive Therapies, where most top C.B.T. researchers are members.)
+你属于哪个专业协会？（例如，当你的目标是寻找一名 CBT治疗师时，你可以询问他是否隶属“行为和认知疗法协会”，因为大多数顶尖的认知行为疗法研究人员都是该协会的成员。）
+What do you do to keep up on the research for treating my condition?
+为了更好地治疗我的病情，你将如何跟进最新的研究进展？
+How do you know that what you do in treatment works?
+你如何确知应进行哪些治疗？
+Do you consider yourself and your approach eclectic? (Therapists who subscribe to an eclectic approach are less likely to adhere to evidence-based treatments.)
+你是否认为你所采用的方法具有折衷主义倾向？（赞同折衷治疗法的治疗师不大可能会坚持循证治疗。）
+What manuals do you use?
+你使用的是何种治疗手册？
+What data can you show me about your own outcomes?
+你可以通过哪些数据来证实自己的成果？
+“A clinician who can’t tell you how many patients get well isn’t going to care that much if you get well,” said Dr. Waller.
+“如果一名临床医生无法告诉你有多少患者经过他的治疗后得到好转，那么他同样不会把你的病情放在心上，”沃勒博士如是说。

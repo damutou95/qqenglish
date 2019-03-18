@@ -1,0 +1,28 @@
+When it comes to PM2.5 pollution — tiny, grungy particles discharged into the air by factories, boilers and motor vehicles, which damage respiration — the Chinese government says 35 micrograms per cubic meter is a healthy maximum.
+PM2.5是工厂、锅炉、汽车排放到空气中的微小肮脏的颗粒，对呼吸系统有损害。中国政府表示，每立方米35微克PM2.5是不损害健康的上限值。
+But over the weekend, Shenyang, an industrial city in northeastern China, endured PM2.5 readings that exceeded 1,000, even 1,400 micrograms, per cubic meter, at some measuring stations, according to Xinhua, the state news agency. Even for a country where chronic smog has inspired superlatives like “airpocalypse” and “crazy bad,” the numbers from Shenyang prompted a kind of awed revulsion.
+但是据官方通讯社新华社的报道，上周末，中国东北工业城市沈阳的PM2.5超过了每立方米1000微克，某些测量站甚至测得1400的读数。在中国，顽固的雾霾已经引发了像“末日空气”(airpocalypse)和“糟糕透顶”(crazy bad)这样夸张的说法，但即使在这样一个国家，沈阳的PM2.5数字也不免令人惊惧。
+Pictures from the city showed hardy residents plowing on bicycles through a gray atmospheric soup that cut visibility to just a few dozen feet. Ailing people crammed respiratory sections of hospitals. And even Xinhua scolded the city government, accusing it of failing to enforce emergency measures to cut smog and to warn citizens to stay indoors.
+你可以在一些照片中看到，顽强的沈阳居民骑着自行车，穿过能见度只有几米的浓稠的灰色雾霾。病人挤满了医院的呼吸门诊。就连新华社也批评沈阳市政府未能实施紧急措施来减少雾霾，并且劝告市民留在室内。
+“Some people have raised questions: In the face of this gross smog and pollution, why was the government’s emergency response plan ‘obstructed?’ ” Xinhua wrote.
+“有人提出质疑，面对如此重度雾霾污染，政府应急预案为何‘梗阻’？”新华社写道。
+“A plan seems to have covered every angle, but in practice how workable is it?” asked Bi Deli, an environmental researcher in Shenyang, according to Xinhua. “Channels of communication are blocked, and instructions aren’t really implemented.”
+在新华社的报道中，沈阳的环境专家毕德利指出，“一份预案看起来面面俱到，实际上可操作性怎样？沟通渠道不畅通，各项指令不能真正落实。”
+The smog enveloped much of northeastern China, perhaps puzzling at a time when a slowing economy has reduced industrial production across the region. But the burst of pollution has coincided with the onset of winter, when boilers fire up to heat buildings, and a similar pall of smog arrived at about the same time last year and the year before.
+雾霾笼罩了中国东北的大部分地区，有些令人不解的是，随着经济放缓，该地区的工业生产也在减少，雾霾却出现在这个时候。但目前正值冬季来临，各城市开始烧锅炉为楼宇供暖，去年和前年的大约同一时间，也出现过类似的雾霾。
+But Qiao Xu, the director of the information office of the Shenyang environmental protection bureau, said in a telephone interview that the most likely culprit for the smog was farmers burning off stalks and stubble left after they harvested their crops.
+但沈阳市环保局信息公开处处长乔旭在接受电话采访时表示，这次雾霾的罪魁祸首，很可能是农民在收获庄稼之后焚烧秸秆和残茬的做法。
+Further chemical tests of the smog would give investigators clues to what caused it, but it did not show heavy concentrations of sulfur dioxide, which usually accompanies smog from coal burning, she said.
+对雾霾进一步开展化学分析后，就可以找到线索了解其成因，但燃煤形成的雾霾通常会伴随有高浓度的二氧化硫，而当前的数据并没有发现这种情况，她说。
+“This pollution was not restricted to Shenyang. The entire northeast has been affected,” Ms. Qiao said. “That shows that Shenyang’s local pollution has not played a decisive role.”
+“这次的污染不仅局限在沈阳，整个东北都受到了影响，”乔旭说。“这说明沈阳的本地污染源不是决定作用。”
+But wherever the pollution comes from, Chinese people appear increasingly impatient with these bouts of toxic air. Leaders have repeatedly promised to reduce pollution, and citizens have become much more aware of the threat to health from smog. Heavy masks, once a novelty favored by expatriates, are now common. And on the Internet, people lamented the latest air crisis.
+但不管污染是从哪里来的，中国人似乎越来越无法容忍频繁爆发的有毒空气了。领导人多次承诺要减少污染，民众也越来越多地认识到了雾霾对健康的威胁。笨重的口罩曾让人觉得新奇，是外籍人士喜欢用的，现在却变得很普遍。在网上，人们对最近这一轮空气质量危机也发出了抱怨。
+Ms. Qiao, the environment official, in turn, criticized Xinhua for its report on Shenyang, but she did not deny that the pollution measure had surpassed 1,400.
+前述环保官员乔旭反过来批评了新华社对沈阳的报道，但她并未否认污染指数超过了1400。
+“The Xinhua reporter had the contact information for the Bureau of Environmental Protection, my office and me personally,” she said, adding that she had not been contacted by the reporter. “I will not offer comment on their report.”
+“新华记者有我们环保局，办公室以及我个人的联系方式，”她说，但她表示该记者并未联系她求证。“我对他们的文章不予置评。”
+By Monday, measures of PM2.5 in Shenyang had dropped to below 300, before rising again in the evening, and the city government downgraded its warning to residents.
+到了周一，沈阳的PM2.5指数降到了300以下，但到傍晚再次升高。该市政府调低了对民众的警告。
+The United States Consulate in Shenyang also issues its own index of air quality there, as do American diplomatic posts in four additional Chinese cities. Over the previous 24 hours, the Shenyang consulate’s index said on Monday morning, pollution was “Beyond Index.”
+和美国在其他四个中国城市的外交机构一样，美国驻沈阳总领事馆也发布了自己的空气质量指数。周一上午，沈阳领事馆称在之前24小时里，污染指数“爆表”。

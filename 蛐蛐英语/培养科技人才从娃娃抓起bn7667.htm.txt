@@ -1,0 +1,62 @@
+SEATTLE — Leandre Nsabi, a senior at Rainier Beach High School here, received some bluntly practical advice from an instructor recently.
+西雅图——里德雷·恩萨比(Leandre Nsabi)是雷尼尔海滩高中(Rainier Beach High School)的一名学生，最近一位老师给了他一些颇为实用的建议。
+“My teacher said there’s a lot of money to be made in computer science,” Leandre said. “It could be really helpful in the future.”
+“老师告诉我学计算机能赚大钱，这门学问在将来真的能派上用场，” 里德雷这样说。
+That teacher, Steven Edouard, knows a few things about the subject. When he is not volunteering as a computer science instructor four days a week, Mr. Edouard works at Microsoft. He is one of 110 engineers from high-tech companies who are part of a Microsoft program aimed at getting high school students hooked on computer science, so they go on to pursue careers in the field.
+这位老师名叫史蒂文·爱德华(Steven Edouard)，对计算机这门学科，他确实有一些体会。爱德华平时在微软(Microsoft)工作，到高中当计算机老师是出于自愿，每周授课四天。他所参加的是微软的一个项目，目的是让高中生迷上计算机专业，进而在这一领域谋求职业发展。参与这个项目的共有110名来自高科技公司的工程师。
+In doing so, Microsoft is taking an unusual approach to tackling a shortage of computer science graduates — one of the most serious issues facing the technology industry, and a broader challenge for the nation’s economy.
+微软正在通过这种不寻常的方法来解决计算机专业本科毕业生不足的问题。这是美国科技行业目前面临的最严重问题之一，也给整个美国经济带来了挑战。
+There are likely to be 150,000 computing jobs opening up each year through 2020, according to an analysis of federal forecasts by the Association for Computing Machinery, a professional society for computing researchers. But despite the hoopla around start-up celebrities like Mark Zuckerberg of Facebook, fewer than 40,000 American students received bachelor’s degrees in computer science during 2010, the National Center for Education Statistics estimates. And the wider job market remains weak.
+美国计算机协会（Association for Computing Machinery，计算机研究人员专业学会）对联邦政府预测数据的分析表明，到2020年美国计算机行业每年有望创造15万个就业机会。Facebook首席执行官马克·扎克伯格(Mark Zuckerberg)等创业名人虽然十分风光，但美国国家教育数据统计中心(National Center for Education Statistics)估算，2010年美国的计算机专业本科毕业生还不到4万人。此外，整个就业市场依然低迷。
+“People can’t get jobs, and we have jobs that can’t be filled,” Brad Smith, Microsoft’s general counsel who oversees its philanthropic efforts, said in a recent interview.
+微软总法律顾问布拉德·史密斯(Brad Smith)负责监督这个无偿教育项目。他在最近接受采访时表示：“人们找不到工作，我们却招不到员工。”
+Big technology companies have complained for years about a dearth of technical talent, a problem they have tried to solve by lobbying for looser immigration rules to accommodate more foreign engineers and sponsoring tech competitions to encourage student interest in the industry. Google, for one, holds a programming summer camp for incoming ninth graders and underwrites an effort called CS4HS, in which high school teachers sharpen their computer science skills in workshops at local universities.
+多年来美国大型科技公司一直对科技人才匮乏的局面怨声载道。它们也一直在设法解决这个问题，比如游说政府放宽移民政策以便引进更多外国工程师，以及出资举办科技竞赛提高学生们对这个行业的兴趣。在这些公司中，谷歌(Google)为即将上九年级（相当于国内初三——译注）的学生开办了编程夏令营。该公司还承担了一项名为CS4HS的计划，内容是让高中教师在当地大学主办的工作坊里提升计算机技能。
+But Microsoft is sending its employees to the front lines, encouraging them to commit to teaching a high school computer science class for a full school year. Its engineers, who earn a small stipend for their classroom time, are in at least two hourlong classes a week and sometimes as many as five. Schools arrange the classes for first thing in the day to avoid interfering with the schedules of the engineers, who often do not arrive at Microsoft until the late morning.
+微软则把员工派上最前线，鼓励他们到高中去，教整整一个学年的计算机课。参加授课的工程师会拿到一小笔津贴，他们中间课时最少的为每周两小时，有些人的课时则多达五小时。由于这些工程师们经常在早上十点或十一点钟才到公司上班，学校首先要为他们排好课，以免干扰他们的日常工作。
+The program started as a grass-roots effort by Kevin Wang, a Microsoft engineer with a master’s degree in education from Harvard.
+这本是一项草根行动，由微软工程师凯文·王(Kevin Wang)首创。他曾在哈佛大学(Harvard)取得教育学硕士学位。
+In 2009, he began volunteering as a computer science teacher at a Seattle public high school on his way to work. After executives at Microsoft caught wind of what he was doing, they put financial support behind the effort — which is known as Technology Education and Literacy in Schools, or Teals — and let Mr. Wang run it full time.
+凯文·王从2009年开始志愿到上班途中经过的一所西雅图公立高中担任计算机课教师。微软管理层听闻此事后拿出了一笔资金，由他专门负责管理。现在这个项目的名称是“中学科技教育和普及”(Technology Education and Literacy in Schools)，简称Teals。
+The program is now in 22 schools in the Seattle area and has expanded to more than a dozen other schools in Washington, Utah, North Dakota, California and other states this academic year. Microsoft wants other big technology companies to back the effort so it can broaden the number of outside engineers involved.
+目前这个项目已覆盖西雅图地区的22所学校，本学年又延伸到华盛顿、犹他、北达科他和加利福尼亚等州的十几所中学。微软希望其他大型科技公司为该项目提供支持，以便让更多非本公司的工程师参与进来。
+This year, only 19 of the 110 teachers in the program are not Microsoft employees. In some cases, the program has thrown together volunteers from companies that spend a lot of their time beating each other up in the marketplace.
+今年这个项目有110名教师，其中只有19人来自微软以外。有时，来自不同公司的志愿者会共同给学生们上课，而他们的公司在市场上则是长期竞争对手。
+“I think education and bringing more people into the field is something all technology companies agree on,” said Alyssa Caulley, a Google software engineer, who, along with a Microsoft volunteer, is teaching a computer science class at Woodside High School in Woodside, Calif.
+谷歌软件工程师阿丽莎·考利(Alyssa Caulley)说：“对于科技教育以及把更多的人吸引到这个行业中来，我觉得所有科技公司都持赞成态度。”目前考利和一名微软工程师共同在加州伍德赛德高中(Woodside High School)教授计算机课程。
+While computer science can be an intimidating subject, Microsoft has sought to connect it to the technologies most students use in their everyday lives. At Rainier Beach High recently, Peli de Halleux, a Microsoft software engineer, taught a class on making software for mobile phones.
+虽然计算机科学会让人望而却步，但微软设法把它和多数学生日常使用的技术联系在了一起。该公司软件工程师佩里·德·哈留克斯(Peli de Halleux)最近在雷尼尔海滩高中的授课内容就是编写手机软件。
+The students buried their faces in the phones, supplied by Microsoft. They were asked to create programs that performed simple functions, like playing a random song when the phones were shaken.
+课堂上，学生们都在埋头研究微软提供的手机。他们的任务是编写一些功能简单的程序，比如晃动手机就能让它随机播放歌曲。
+Leandre, who took Mr. de Halleux’s mobile programming class last year and is in Mr. Edouard’s Advanced Placement computer science class this year, proudly showed off a simple game he had created, Sun Collector, in which players tilt the phone to dodge black balls and hit big yellow ones.
+里德雷去年上了哈留克斯的手机编程课，今年他选择了爱德华的大学计算机专业预科班。他骄傲地展示了自己编写的小游戏——太阳收集者(Sun Collector)。在这个游戏中，玩家通过改变手机的倾斜角度来躲避黑球并击打较大的黄球。
+“I never really understood what was behind these games,” he said. “Once you start getting it, it’s pretty easy to understand.”
+他说：“以前我一直不明白这些游戏背后到底是什么。弄懂了原理以后，理解起来就变得很容易了。”
+One of the most alarming trends for the technology industry has been students’ declining interest in computer science over the last decade.
+10年来让科技行业最为警惕的趋势之一就是学生们对计算机科学的兴趣不断减弱。
+While the number of bachelor’s degrees granted in computer science has been growing for the last several years, 2010’s figure, the most recent available, was still 33 percent lower than at the peak in 2004, according to the National Center for Education Statistics.
+美国国家教育数据统计中心的数据显示，虽然最近几年计算机专业本科毕业生的数量持续增长，但最新数据表明，2010年该专业本科毕业生人数仍比2004年的峰值低33%。
+Student interest in the field began to fade after the dot-com implosion a decade ago. It has picked up again in recent years, but slowly.
+10年前网络泡沫破灭后，学生们对计算机行业的兴趣开始下降。近几年这样的兴趣再次抬头，但增长缓慢。
+Most educators believe that for students to be excited about computer science, it is critical to introduce them to it at an early age. Yet support for the subject at cash-short K-12 schools has faded. In almost every state, computer science is taught as an elective, rather than a core requirement.
+多数教育人士相信，要想让计算机科学打动学生，关键在于尽早让他们接触这一学科。但美国基础教育体系资金不足，对这项工作的支持力度不断减弱。计算机课几乎在每个州都是选修课，而非核心必修课程。
+The percentage of graduates who earned credits in high school computer science classes fell to 19 percent in 2009 from 25 percent in 1990, making it the only subject among science, technology, engineering and mathematics courses to experience such a drop, according to a report by the Education Department.
+美国教育部在一份报告中指出，1990年通过计算机课拿到学分的高中毕业生所占比例为25%，到2009年这个比例降至19%，是科学、技术、工程和数学课程中唯一出现滑坡的科目。
+Those numbers are all the more surprising considering how attached teenagers are to their smartphones, tablet computers and Facebook accounts. But that fascination in most cases is with social communications and media, rather than the technology itself. Today’s easy-to-use gadgets have also concealed programming tools from users that were once far more prominent in computers.
+鉴于青少年是如此离不开智能手机、平板电脑和Facebook账号，这个数字就越发让人感到惊讶。不过，多数情况下让青少年感到痴迷的是社交和媒介，而不是技术本身。同时，现在的高科技产品简单易用，使用者不会接触到编程工具，而从前编程工具在计算机上的重要性要比现在高得多。
+Finding capable computer science teachers is also hard. Few other industries are as good as the technology business in its ability to divert would-be educators into far more lucrative corporate jobs. Mr. Edouard graduated from the University of Florida in 2011 and considered enlisting in Teach for America, but he also had multiple offers from technology employers.
+此外，有能力的计算机课教师也很难找到。几乎没有哪个行当能像科技行业这样，让有可能走上讲台的人转而选择其他酬劳要高得多的工作。爱德华2011年从佛罗里达大学(University of Florida)毕业时曾考虑过参加非营利组织“为美国而教”(Teach for America)，但多家科技公司向他伸出了橄榄枝。
+“In today’s day and age, with so many college loans, it’s tough to go into teaching,” he said.
+他说：“在今天这个时代，在有这么多大学贷款的情况下，当老师会很艰苦。”
+One of the biggest concerns about Microsoft’s effort is that most of its volunteers have little teaching experience. To comply with district licensing requirements and to help engineers with classroom challenges like managing unruly teenagers, a professional teacher is also in the room during lessons. One of the program’s tenets is that Microsoft engineers need to teach the teachers, alongside students, so that those instructors can eventually run an engaging computer science class on their own.
+对这个项目的主要顾虑之一是多数志愿者都没什么教学经验。为满足严格的授课资质要求并帮助工程师们应付课堂上出现的挑战，比如管束不听话的学生，他们上课时还会有一名职业教师在场。该项目的原则之一就是，除了教学生，微软工程师还要教老师，以便后者最终能自行教授一门让学生感兴趣的计算机课。
+“We are taking the kids farther than I could do,” said Michael Braun, a teacher at Rainier Beach High who is working with Microsoft volunteers.
+雷尼尔海滩高中教师迈克尔·布劳恩(Michael Braun)和微软的志愿者们一同工作，他说：“现在教给这些孩子的东西连我都不会。”
+There are still hiccups, including tensions between some of the professional teachers and the Microsoft engineers assigned to work with them, according to several people involved in the program, who did not want to be named for fear of seeming critical of Microsoft.
+据几位参与者介绍，这个项目还有些小问题，比如一些职业教师和同他们一道工作的微软工程师关系紧张。这几位参与者不希望笔者提及他们的名字，以免有苛责微软之嫌。
+Sarah Filman, a program manager at Microsoft, completed the intensive summer training that the company offers volunteers, preparing a lengthy PowerPoint presentation for the class she taught at a Seattle high school last year. “That’s the Microsoft way,” she said.
+微软项目经理莎拉·法尔曼(Sarah Filman)去年接受了公司提供的夏季集中培训，随后为西雅图一所中学的计算机课程准备了一篇长长的PowerPoint演示文稿。她说：“微软的人都这么做。”
+But as soon as she dimmed the lights in her classroom at the start of the year, her students had trouble focusing on the slide show, forcing Ms. Filman to change her methods. “I had to throw away a lot of what I had done,” she said.
+但今年初在课堂上使用时，法尔曼马上发现她的学生很难把注意力集中在长长的演示文稿上，这迫使她调整教学方法。她说：“我只能放弃许多已经准备好的东西。”
+For students in the Seattle area, Microsoft tries to drum up excitement in technology by organizing field trips to its campus and discussing the lucrative careers that await them. The students from Rainier Beach High who visited Microsoft last year were buzzing about their trips for days afterward.
+为了激发西雅图地区学生对科技的热情，微软组织他们到公司园区实地参观，还介绍了那些虚位以待并且钱途远大的职业。雷尼尔海滩高中的学生去年就曾到微软参观，过后仍对这次活动念念不忘。

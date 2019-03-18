@@ -1,0 +1,16 @@
+An unmanned cargo ship destined for the International Space Station blew up minutes after launching from the Cape Canaveral Air Force Station in Florida on Sunday morning, NASA said, raising questions about how the agency and its partners will continue keeping the station supplied.
+美国国家航空航天局(NASA)表示，周日上午，在从佛罗里达州的卡纳维拉尔角空军基地发射数分钟后，一艘前往国际空间站的无人驾驶货运飞船发生了爆炸。这对该机构及其合作伙伴将如何为空间站提供补给提出了疑问。
+The countdown had proceeded without a hitch or worries about weather, and the 208-foot-tall rocket lifted off at 10:21 a.m. Eastern time. But 2 minutes, 19 seconds later, just as George Diller, the commentator of NASA's television broadcast, said, “Data coming back shows vehicle on course, on track,” a cloud of white smoke emerged from the rocket's midsection, and then a rain of pieces started falling toward the Atlantic Ocean more than 20 miles below.
+倒计时进行得很顺利，天气方面也没有任何问题，208英尺（约合63.4米）高的火箭在美国东部时间上午10时21分升空。但是2分钟19秒后，正当NASA的电视直播评论员乔治·迪勒(George Diller)表示“传送回来的数据显示，飞船按计划在轨道上飞行”时，一团白色烟雾从火箭的中段冒出，然后雨点一般的碎片开始向20多英里之下的大西洋坠落。
+Elon Musk, the chief executive of SpaceX, reported on Twitter, “Falcon 9 experienced a problem shortly before first stage shutdown.” About an hour later, he added some preliminary analysis: “There was an overpressure event in the upper stage liquid oxygen tank. Data suggests counterintuitive cause.”
+SpaceX公司的首席执行官埃隆·马斯克(Elon Musk)在Twitter上表示：“‘猎鹰9号’在第一级燃料耗尽之前不久遇到了问题。”大约一个小时后，他又做了一些初步的分析：“火箭上一级的液氧罐有超压现象。数据表明，出现了有悖常理的原因。
+The more than 4,000 pounds of payload included a docking adapter needed for future crew capsules being developed by Boeing and SpaceX, student experiments and a camera to record meteors streaking into the earth's atmosphere.
+这艘飞船4000多磅的有效载荷中包括波音(Boeing)和SpaceX共同研发的供未来的船员舱使用的一个对接接合器、一些学生实验用具，以及准备记录流星进入地球大气层状况的一台摄像机。
+It was first failure in 19 launchings of the Falcon 9 rocket built by Space Exploration Technologies of Hawthorne, California, better known as SpaceX.
+这是位于加利福尼亚州霍桑的太空探索技术公司(Space Exploration Technologies Corporation)——更多地被简称为SpaceX——制造的“猎鹰9号”火箭19次发射历史上的首次失败。
+Until now, SpaceX has had a charmed record with the Falcon 9, avoiding the “infant mortality” that usually afflicts new rocket designs.
+迄今为止，SpaceX的“猎鹰9号”火箭保持了骄人的记录，避免了通常会困扰新火箭设计的“早期故障期”。
+This episode follows the failures of two other cargo rockets. In October, an Antares rocket, built by Orbital ATK, exploded on the launching pad in Virginia. In April, a Russian Progress rocket spun out of control, unable to reach the space station.
+在此次事故发生之前，还有另外两枚运载火箭发射失败。去年10月，Orbital ATK制造的安塔尔(Antares)火箭在弗吉尼亚州的发射台上爆炸。今年4月，俄罗斯“进步号”(Progress)火箭失去控制，无法到达空间站。
+The three astronauts on the space station — Scott J. Kelly of NASA and two Russians, Gennady Padalka and Mikhail Kornienko — are not in any immediate danger, with sufficient supplies to last until October, Michael T. Suffredini, NASA's space station program manager, said during a news conference on Friday.
+NASA空间站项目的负责人迈克尔·T·苏弗雷迪尼(Michael T. Suffredini)在周五的新闻发布会上表示，空间站的三名宇航员——NASA的斯科特·J·凯利(Scott J. Kelly)及两名俄罗斯人根纳季·帕达尔卡(Gennady Padalka)和米哈伊尔·科尔尼延科(Mikhail Kornienko)——暂时没有危险，他们的供给足以支撑到10月。

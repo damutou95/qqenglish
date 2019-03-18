@@ -1,0 +1,20 @@
+Seeking to spur itself in the fast-moving mobile phone sector, Intel is sinking $1.5 billion in a Chinese semiconductor business.
+试图加速进军正在迅速发展的移动电话领域的英特尔(Intel)，在中国一家半导体企业投入了90亿元。
+The investment in the business, Tsinghua Unigroup, a subsidiary of the state-owned Tsinghua Holdings Company, also involves agreements to create Intel-based chips with features like modems and wireless capability. The goal is to create a so-called system on a chip, or SOC, which can work inside inexpensive but technically advanced phones aimed at users in emerging markets.
+对国有企业清华控股旗下的清华紫光集团的这笔投资还涉及一系列开发基于英特尔构架的芯片的协议，这些芯片将具有调制解调器和无线连接等功能。此举的目标是开发一种所谓的系统芯片(SOC)。这种芯片能用在面向新兴市场用户的技术先进的低价手机中。
+Intel will receive about 20 percent of Spreadtrum Communications, a company controlled by Tshinghua Unigroup that currently makes these types of systems. Initially, Spreadtrum will use Intel designs, but the two companies may eventually cooperate on devising new kinds of systems on a chip, both for China and for other developing markets.
+英特尔将获得清华紫光旗下的公司展讯通信大约20%的股份。展讯通信目前在制造这类系统芯片。最初，展讯通信将使用英特尔的设计，但两家公司最终可能会合作设计面向中国和其他新兴市场的新型系统芯片。
+“Strategically, this is a long-term arrangement to develop a range of SOCs for the mobile market,” including smartphones and tablets, said Americo Lemos, vice president for Intel’s platform engineering group. “Spreadtrum has demonstrated they can produce large volumes fast, and we really want to increase the cadence that we bring out new products.”
+英特尔战略与产品规划副总裁亚美科·莱莫斯(Americo Lemos)说，“从战略上来说，这是开发一系列面向移动市场的系统芯片的长远安排”，包括智能手机和平板电脑。“展讯表明他们能迅速生产出大量产品，而我们真的希望加快推出新产品的节奏。”
+Intel is looking at developing new products faster than it has in the past and wants to produce these cheap systems on a chip “at the range of several hundred million” units, Mr. Lemos said. Given the number of regulatory approvals required, he said, products probably would not ship until the second half of 2015.
+莱莫斯表示，英特尔正在寻求以比过去更快的速度开发新产品，并希望生产“几亿”个这种低价系统芯片。他说，考虑到所需的监管审批的数量，可能要到2015年下半年才能发货。
+Intel may also acquire an advantage over Qualcomm, which has dominated much of the advanced mobile market in China.
+英特尔或许还能获得相对于高通(Qualcomm)的优势。在中国的高端移动市场，高通占据着一定的主导地位。
+Qualcomm has considered among the best for the management of things like fast data streams on smartphones.
+在智能手机上的高速数据流等信息的管理方面，高通被视作业界翘楚。
+If Intel can build similar technology with a Chinese partner, it could make significant inroads against its competitor, though the ultimate profitability of working in China is an open question.
+如果能与中国的合作伙伴一起打造出类似的技术，英特尔可能会给其竞争对手有力的一击，但在中国做生意能在最后带来多少利润，目前尚无定论。
+Another signal of Intel’s changed approach is that the systems on a chip will be made in foundries of the Taiwan Semiconductor Manufacturing Company, and not in Intel’s own facilities. While Intel does have semiconductor manufacturing facilities in China, they tend to be of an older variety, so as not to risk losing intellectual property. In addition, the Taiwan Semiconductor Manufacturing Company may just be better at making systems on a chip.
+英特尔改变了策略的另一个信号是，相关系统芯片将在台湾积体电路制造股份有限公司(Taiwan Semiconductor Manufacturing Company)的工厂，而非英特尔自己的工厂制造。尽管英特尔在中国也有半导体生产工厂，但它们往往比较老旧，为的是避开失去知识产权的风险。此外，在系统芯片的制造上，台湾的这家公司可能的确更胜一筹。
+Intel appears to be committed to such a strategy. In May, the company announced a deal with a Chinese company called RockChip to produce an Intel-designed system on a chip for inexpensive tablet computers using the Android operating system.
+英特尔似乎已下定决心，要执行这样一个战略。5月，该公司宣布与中国一家名为瑞芯微的公司达成了一项协议，生产一种由英特尔设计的系统芯片，面向使用Android操作系统的低价平板电脑。

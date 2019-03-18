@@ -1,0 +1,34 @@
+Google, like many tech companies, is a man’s world.
+和很多高科技公司一样，谷歌(Google)也是一家男性为主的企业。
+Started by a pair of men, its executive team is overwhelmingly male, and its work force is dominated by men. Over all, seven out of 10 people who work at Google are male.
+这家公司由两名男性创办，其高管团队绝大多数都是男性，而且公司员工也以男性为主。总体而言，在谷歌工作的人中，每十名就有七名是男性。
+Men make up 83 percent of Google’s engineering employees and 79 percent of its managers. In a report to the Equal Employment Opportunity Commission last year, Google said that of its 36 executives and top-ranking managers, just three are women.
+在工程技术人员中，男性占83%；在管理人员中，男性占79%。去年，在向公平就业机会委员会(Equal Employment Opportunity Commission)提交的一份报告中，谷歌表示，其36名决策层和高层管理人员中，只有三名是女性。
+Google’s leaders say they are unhappy about the firm’s poor gender diversity, and about the severe underrepresentation of blacks and Hispanics among its work force.
+谷歌高层表示，公司的性别多样性较差，而且雇员中黑人和西语裔的比例严重偏低，令他们感到失望。
+And so they are undertaking a long-term effort to improve these numbers, the centerpiece of which is a series of workshops aimed at making Google’s culture more accepting of diversity.
+因此，他们正在开展一项长期性的工作，来改善这些数字，而其中最主要的部分，是一系列旨在提升谷歌文化多元性的研讨会。
+There’s just one problem: The company has no solid evidence that the workshops, or many of its other efforts to improve diversity, are actually working.
+只是有一个问题：该公司并没有可靠的证据表明，在提高多样性方面，这些研讨会以及诸多其他努力确实发挥了效用。
+In some ways Google’s plan to fix its diversity issues resembles many of its most ambitious product ideas, from self-driving cars to wiring the country for superfast Internet.
+从某些方面来看，谷歌针对多样性问题开展的计划，类似于其很多雄心勃勃的产品项目——从研制无人驾驶汽车，到用超高速互联网连接全美。
+Google says its plan isn’t one-shot. It points out that it has been trying to improve its diversity for years by sponsoring programs to increase the number of women and minorities who go into tech, and meticulously studying the way it hires people in an effort to reduce bias.
+谷歌表示，这个计划不是一次性的。公司指出，多年来，它一直试图提升内部的多样性，途径包括支持一些增加高科技界女性和少数族裔的项目，以及认真研究自己雇佣员工的方式，以减少偏见。
+In May after pressure from civil rights leaders, the company published a report documenting the sex and race of its employees “to be candid about the issues,” Laszlo Bock, Google’s executive in charge of human resources, wrote at the time.
+今年5月，在民权领袖对谷歌施加压力之后，公司发布了一份关于员工性别和种族的报告。谷歌负责人力资源的高管拉兹洛·博克(Laszlo Bock)当时写到，这是为了“对有关问题做到开诚布公”。
+Google’s disclosure prompted a wave of similar reports across the industry, with Facebook, Apple, Yahoo and other tech giants issuing similarly dismal numbers about their work forces.
+谷歌披露这些信息之后，高科技公司纷纷效仿，Facebook、苹果(Apple)和雅虎(Yahoo)等科技业巨头也发布了相应的报告，其中的数字同样令人失望。
+Google’s diversity training workshops, which began last year and which more than half of Google’s nearly 49,000 employees have attended, are based on an emerging field of research in social psychology known as unconscious bias. These are the hidden, reflexive preferences that shape most people’s worldviews, and that can profoundly affect how welcoming and open a workplace is to different people and ideas.
+谷歌的多元化培训研讨会始于去年，在公司近4.9万名员工中，参加的人数已经超过了一半。研讨会的依据是一种名为“无意识偏见”的研究，属于社会心理学中的一个新兴领域。“无意识偏见”是隐蔽的、反射性的偏好。它们塑造了大多数人的世界观，而且可以深刻影响职场对不同人和不同理念的迎和开放程度。
+Google’s interest in hidden biases was sparked in 2012, when Mr. Bock read an article in The New York Times about a study that showed systematic discrimination against female applicants for scientific jobs in academia. The effect was so pervasive that researchers theorized the discrimination must be governed by unconscious cultural biases rather than overt sexism.
+谷歌对隐蔽性偏见的兴趣产生于2012年，当时博克在《纽约时报》上看到一篇文章。文中称，研究显示，向学术机构申请科研岗位的女性遭受了系统化的歧视。这样的情况非常普遍，因此研究人员推测，这种歧视肯定来自于无意识的文化偏见，而不是公开的性别歧视。
+Mr. Bock wondered how such unconscious biases were playing out at Google. “This is a pretty genteel environment, and you don’t usually see outright manifestations of bias,” he said. “Occasionally you’ll have some idiot do something stupid and hurtful, and I like to fire those people.”
+博克想知道，“无意识偏见”在谷歌如何发挥影响。“这是一个非常有教养的环境，你通常不会看到直接表现出来的偏见，”他说。“偶尔也会有几个白痴会做出愚蠢有害的事情，而我会解雇那些人。”
+But Mr. Bock suspected that the more pernicious bias was most likely pervasive and hidden, a deep-set part of the culture rather than the work of a few loudmouth sexists.
+不过博克怀疑，更有害的偏见很可能是普遍但隐蔽的，处于文化的深层部分，而不是几个大嘴巴的性别歧视者胡说八道。
+Improving diversity wasn’t just a feel-good goal for Google. Citing research that shows diverse teams can be more creative than homogeneous ones, Mr. Bock argued that a diverse work force could be good for Google’s business. Could Google investigate how biases were affecting people’s work — and, more important, could it change its own culture?
+提高多样性不仅是为了让谷歌感觉良好。博克称，研究显示，多样化的团队会比同质化团队更有创意，因此他认为，多元化的员工队伍也有益于谷歌的业务发展。那么，谷歌会研究偏见如何影响人们的工作吗？更重要的是，它会改变自己的文化吗？
+Google’s human resources group, which goes by the name People Operations, functions like a graduate school research lab, with staff scientists who are constantly analyzing the company’s internal operations. Mr. Bock asked one of these researchers, Brian Welle, to begin a project on hidden biases. After a few months, Dr. Welle came up with a 90-minute lecture targeted specifically at a skeptical, scientifically minded Google employee.
+谷歌人力资源团队名为“人力运营”(People Operations)。它的运作类似于研究生院的实验室，由团队中的科学家对公司的内部运作进行持续分析。博克责成团队中的研究员布莱恩·威勒(Brian Welle)开展了一个针对隐蔽性偏见的项目。几个月后，威勒博士准备好了一个90分钟长的讲座，专门以不轻信的、有科学头脑的谷歌员工为受众。
+Google offered several anecdotes that seem to indicate a less biased culture as a result of the training. Not long ago the company opened a new building, and someone spotted the fact that all the conference rooms were named after male scientists; in the past, that might have gone unmentioned, but this time the names were changed.
+谷歌提供的一些事例，似乎显示这种培训减少了公司文化中的偏见。不久前，谷歌一栋新大楼投入使用，有人发现，所有的会议室都以男性科学家命名；而在过去，此事可能就会被忽略，但这次，谷歌修改了会议室的名字。

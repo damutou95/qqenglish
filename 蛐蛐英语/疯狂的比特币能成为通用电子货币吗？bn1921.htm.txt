@@ -1,0 +1,40 @@
+How can bitcoin be anything but a passing fad?
+为什么比特币(bitcoin)居然不是一个短暂的风潮？
+It seems you can’t open a newspaper or read a website these days without hearing about the super-yet-mysterious virtual currency known as bitcoin.
+现在打开报纸或者在网站上读文章，恐怕很难不会读到比特币这种超级棒但又超级神秘的虚拟货币。
+Everyone’s talking about it. Richard Branson just began accepting bitcoin as a form of payment for flights on Virgin Galactic, which offers commercial spaceflights. The Chinese website Baidu endorsed the currency, and lawmakers in Washington are holding hearings about it. Even Ben S. Bernanke, the Federal Reserve chairman, told senators in a letter that virtual currencies “may hold long-term promise, particularly if the innovations promote a faster, more secure and more efficient payment system.”
+所有人都在聊比特币。理查德·布兰森(Richard Branson)刚刚开始在维珍银河(Virgin Galactic)接受比特币作为付款形式，这家公司提供商用航空旅行。中国网站百度也支持了这种货币，华盛顿的议员们也对比特币举行了听证会。就连美联储主席本·S·伯南克(Ben S. Bernanke)也在一封信中对参议员表示，虚拟货币“长期来看或许有希望，尤其是这些创新能够推动更快、更安全、更高效的支付体系时”。
+And then, of course, there is the sky-high march of the value of bitcoin. A year ago, bitcoin was worth a couple of bucks. Today bitcoin goes for $800 each, depending on the day. And the value can swing by more than $100 a day, if not more.
+当然还有比特币价值的高涨。一年前，比特币还只值几美元，今天一枚比特币的价值高达800美元（约合4973元人民币），而且价格每天都在变动，日波动幅度可能超过100美元甚至更多。
+If it all feels a bit like a 1999-style craze, that’s because it is. Peter Leeds of the Penny Stock newsletter put it to me this way: “In a matter of months you won’t be hearing about it. It will go the same way of Paris Hilton. People will move on to the next thing.”
+如果说这整件事都像是1999年那样的狂热，那是因为它的确是。“低价股”(Penny Stock)投资简报的彼得·利兹(Peter Leeds)这样对我说：“再过几个月时间，就听不到有人谈比特币了。下场就跟帕丽斯·希尔顿(Paris Hilton)一样，人们就会开始关注下一件事。”
+That’s not to say there aren’t fervent believers. Bitcoin’s early success was a result, in part, of an angry libertarian strain of investor looking for an alternative to the dollar, something akin to a digital version of gold, in the event the world comes to an end — or starts to look like a Keanu Reeves movie.
+并不是说比特币没有坚定的拥趸。比特币的成功，原因在部分上可以归结于，信奉自由意志主义的一种投资者感到愤怒，想要寻找一种能替代美元的东西，类似于数字版的黄金，以防世界末日，或者世界变成基努·里维斯(Keanu Reeves)的电影那样。
+But there seems to be a disconnect between the idea of what makes a great investment — or a great speculation — and a new currency that will be universally accepted.
+但是成为火爆的投资品，或者说投机品，跟成为一种被广泛接受的货币之间，似乎还有很大距离。
+Bitcoin, in the short or even long term, may turn out be a good investment in the same way that anything that is rare can be considered valuable. Like baseball cards. Or a Picasso. That’s because there are only so many of them.
+比特币在短期来看（甚至从长期来看）可能会是一个很好的投资品，就像任何一种稀有但被认为有价值的东西一样，例如棒球卡，或者毕加索的画。因为数量有限。
+But bitcoin aspires to be much more than a collectible, or frankly, even gold. It aspires to be a universal electronic currency. On that score, it is unlikely to succeed.
+然而比特币想要成为的，远远不只是收藏品，说老实话，甚至都不只是成为黄金。它想成为通用的电子货币。但在这一点上，它很难成功。
+Why?
+为什么？
+Let’s start with bitcoin’s value — or more accurately, the volatility of its value. Which merchants in their right mind are going to accept a currency that seemingly changes its value in wild swings every other day? Mr. Branson’s experience with bitcoin is instructive: While he happily accepted bitcoin as a form of payment, he quickly converted the payment into dollars.
+首先来谈比特币的价值，或者更准确地说，其价值的波动性。哪些脑筋正常的商人会接受一种价值似乎每天都在疯狂摇摆的货币呢？布兰森本人在比特币上的做法就很有参考意义：尽管他乐于接受比特币作为付款形式，但他会很快把付款兑换成美元。
+That doesn’t make bitcoin a currency. It makes it a way for merchants, like Shopify — which also accepts bitcoin — to get a little publicity.
+这样比特币可成不了货币，只能让它成为Shopify这样的商家（它也接受比特币）吸引关注的方式。
+Then there is the issue of how limited the supply of bitcoin truly is. Bitcoin is digitally “mined” by computers running an algorithm. (If you just rolled your eyes, you’re not alone.) The algorithm limits the total number of bitcoin ever mined to 21 million units.
+还有另外一个问题，即比特币的供应量到底多么有限。比特币是运行一种算法的电脑以数字方式“挖掘”的。（放心，你不是唯一一个看不明白的。）受到算法限制，能够挖掘出的比特币总数上限为2100万枚。
+But there is no Bernanke (or Janet Yellen) of bitcoin. Nobody knows who created it and no one controls it. That’s supposed to be a benefit. It’s also why the currency is often associated with illicit sales. Bitcoin can be transferred anonymously and without banks taking transaction fees. But if, and this is a big if, your peer-to-peer transaction doesn’t work properly, there is no central clearinghouse to complain to.
+但是并没有伯南克，或者珍妮特·耶伦(Janet Yellen)这样的人物监管比特币。没人知道它是谁创造的，由谁控制。这被认为是一个好处，也正是因为这个原因，比特币经常与不正当的交易行为联系在一起。比特币可以匿名转让，不会有银行收取交易费用。交易是端对端(P2P)开展的，如果交易出了问题，没有中央的结算机构可以投诉，而这是一个很大的问题。
+Whether the government ultimately seeks to regulate bitcoin is an open question. It seems hard to believe that the government would allow the growth of such an unregulated market in which moms and pops, widows and orphans, and other individuals may be subject to all kinds of fraud.
+政府最终会不会寻求监管比特币，仍是一个无从解答的问题。似乎很难相信政府会让这样一个不受监管的市场不断增长，平头百姓、弱势群体，以及其他普通人可能会遭受各种欺诈。
+Oddly, the Chinese government has seemingly embraced the early use of bitcoin. Gordon G. Chang, writing in Forbes, has a provocative explanation for that stance: “Digital money can undermine the dollar’s status as the world’s reserve currency. Bitcoin is on track to becoming the world’s first trillion-dollar nonfiat form of money.”
+奇怪的是，中国政府似乎对比特币的早期使用表示了支持。为《福布斯》(Forbes)撰稿的章家敦(Gordon G. Chang)对这种立场有一个争议性的解释：“数字货币可以破坏美元作为全球储备货币的地位，比特币即将成为全球首个万亿美元规模的非法定货币。”
+Finally, there is the question of what happens if other alternative digital currencies also rise. More than a dozen digital currencies are trying to compete with bitcoin. Can you imagine a world in which we all transact with dozens of different currencies every day with different rules? Neither can I.
+最后还有一个问题，如果其他替代性数字货币也崛起了会发生什么。不下十几种数字货币正在试图与比特币竞争。你能想象一个每天用数十种不同货币，以不同的规则进行交易的世界吗？我也不能想象。
+“Every big idea starts out sounding crazy. But not every crazy-sounding idea ends up being big,” Matthew O’Brien wrote in The Atlantic in a brilliant takedown of bitcoin.
+马修·奥布莱恩(Matthew O’Brien)在《大西洋》月刊(The Atlantic)上发表的一篇贬损比特币的妙文中写道，“每一个重大的想法最开始听起来都很疯狂，但并不是每一个听起来很疯狂的想法，都是重大创想。”
+In truth, the best bitcoin can hope for is to be a second-rate version of gold, if that. And Warren Buffett once described gold this way: “Gold gets dug out of the ground in Africa, or someplace. Then we melt it down, dig another hole, bury it again and pay people to stand around guarding it. It has no utility. Anyone watching from Mars would be scratching their head.”
+事实上，比特币所能企及的最好结局是成为二流版本的黄金。而且沃伦·巴菲特(Warren Buffett)曾经这样描述过黄金：“人们在非洲或其他地方把黄金挖出来，然后我们把它熔化掉，再挖一个坑，重新把它埋进去，而且花钱雇人守卫着黄金。黄金没有用处。要是有火星人在看着我们，恐怕正在挠头吧。”
+That’s pretty much the way a Martian might think about bitcoin.
+火星人大概也是这样思考比特币的。

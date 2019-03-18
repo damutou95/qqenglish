@@ -1,0 +1,24 @@
+PALO ALTO, Calif.— Not long after Gordon E. Moore proposed in 1965 that the number of transistors that could be etched on a silicon chip would continue to double approximately every 18 months, critics began predicting that the era of “Moore’s Law” would draw to a close.
+加州帕洛阿尔托——戈登·E·摩尔(Gordon E. Moore)在1965年时提出，大约每过18个月，硅芯片上蚀刻的晶体管数量就会增加一倍。之后不久，评论家就开始预言“摩尔定律”(Moore’s Law)的时代将接近尾声。
+More than ever recently, industry pundits have been warning that the progress of the semiconductor industry is grinding to a halt — and that the theory of Dr. Moore, an Intel co-founder, has run its course.
+最近，业界专家的警告越发言之凿凿：半导体行业的发展正在走向停滞，英特尔联合创始人摩尔博士的说法将要寿终正寝。
+If so, that will have a dramatic impact on the computer world. The innovation that has led to personal computers, music players and smartphones is directly related to the plunging cost of transistors, which are now braided by the billions onto fingernail slivers of silicon — computer chips — that may sell for as little as a few dollars each.
+如果真是如此，计算机世界将会受到巨大冲击。给我们带来个人电脑、音乐播放器和智能手机的创新，跟晶体管成本的快速下降之间存在直接关系。指甲大小的密布着数以十亿计晶体管的硅片——计算机芯片——最便宜的每颗只卖几美元。
+But Moore’s Law is not dead; it is just evolving, according to more optimistic scientists and engineers. Their contention is that it will be possible to create circuits that are closer to the scale of individual molecules by using a new class of nanomaterials — metals, ceramics, polymeric or composite materials that can be organized from the “bottom up,” rather than the top down.
+但是，较为乐观的科学家和工程师说，摩尔定律并没有死，它只不过在进化。他们认为，通过使用一类新型纳米材料，厂商有可能做出接近分子大小的电路。这类纳米材料包括金属、陶瓷、聚合或复合材料，它们可从“自下而上”而不是自上而下地构成。
+For instance, semiconductor designers are developing chemical processes that can make it possible to “self assemble” circuits by causing the materials to form patterns of ultrathin wires on a semiconductor wafer. Combining these patterns of nanowires with conventional chip-making techniques, the scientists believe, will lead to a new class of computer chips, keeping Moore’s Law alive while reducing the cost of making chips in the future.
+例如，半导体设计人员正在开发一些化学工艺，以便让这些材料在半导体晶片上形成极薄的电路图案，实现“自组装”(self assemble)电路。科学家们相信，把这些纳米电路图案和传统的芯片制造技术结合起来，会催生一种新型的计算机芯片，不仅让摩尔定律继续有效，而且也会减少未来芯片的制造成本。
+“The key is self assembly,” said Chandrasekhar Narayan, director of science and technology at IBM’s Almaden Research Center in San Jose, Calif. “You use the forces of nature to do your work for you. Brute force doesn’t work any more; you have to work with nature and let things happen by themselves.”
+“自组装是关键，”加州圣何塞IBM阿尔马登研究中心(Almaden Research Center)的科技主管钱德拉塞卡尔·纳拉扬(Chandrasekhar Narayan)说。“你用自然的力量帮你完成工作。用蛮力行不通了，你必须跟自然合作，让事情自然而然地发生。”
+To do this, semiconductor manufacturers will have to move from the silicon era to what might be called the era of computational materials. Researchers here in Silicon Valley, using powerful new supercomputers to simulate their predictions, are leading the way. While semiconductor chips are no longer made here, the new classes of materials being developed in this area are likely to reshape the computing world over the next decade.
+要做到这一点，半导体制造商必须从硅时代朝着或许可以称作“计算材料时代”的方向前进。硅谷的研究人员正在引领这个趋势，他们使用功能强大的新型超级计算机来模拟他们的预测。虽然半导体芯片不再在硅谷制造，但这里开发的新型材料有可能在未来十年里让计算机世界发生翻天地覆的变化。
+“Materials are very important to our human societies,” said Shoucheng Zhang, a Stanford University physicist who recently led a group of researchers to design a tin alloy that has superconductinglike properties at room temperature. “Entire eras are named after materials — the stone age, the iron age and now we have the silicon age. In the past they have been discovered serendipitously. Once we have the power to predict materials, I think it’s transformative.”
+“材料对人类社会非常重要，”斯坦福大学(Stanford University)的物理学家张首晟说。他最近带领一组研究人员设计出了一种锡合金材料，在室温下已经具有近似超导的性质。“所有时代都用材料来命名——石器时代、铁器时代，现在我们则有硅时代。在过去，材料是人们偶然发现的。一旦我们拥有了预测材料的能力，情形就会大不相同。”
+It is quite possible that the computational materials revolution may offer a path toward cheaper technologies for the next generation of computer chips.
+计算材料革命很可能会为发展下一代计算机芯片所需的廉价技术指明一条道路。
+That is IBM’s bet. The company is now experimenting with exotic polymers that automatically form into an ultrafine web and can be used to form circuit patterns onto silicon wafers.
+这就是IBM看好的方向。目前，该公司正在试验一种自动形成超细网状结构的外来聚合物，它可以用来在硅晶片上形成电路图案。
+Dr. Narayan is cautiously optimistic, saying there is a good chance that bottoms-up self-assembly techniques will eliminate the need to invest in new lithographic machines, costing $500 million, that use X-rays to etch smaller circuits. .
+纳拉扬博士对此持谨慎乐观的态度，他说，有了自下而上的自组装技术，厂商很可能就不再需要投资购买新的光刻机了。光刻机使用X射线来蚀刻微小的电路，价格为5亿美元（约合30亿元人民币）。
+“The answer is possibly yes,” he said, in describing a lower cost path to denser computer chips.
+在谈到用成本更低的方式来制作电路更密集的计算机芯片时，他说，“答案可能是肯定的。”

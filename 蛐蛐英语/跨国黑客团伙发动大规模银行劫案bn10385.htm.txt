@@ -1,0 +1,16 @@
+PALO ALTO, Calif. — In late 2013, an ATM in Kiev started dispensing cash at seemingly random times of day. No one had put in a card, or touched a button. Cameras showed that the piles of money were swept up by customers who appeared lucky to be there at the right moment.
+加利福尼亚州帕洛阿尔托——2013年末，基辅的一台自动提款机似乎开始随意吐钞。没人插入银行卡，也没人按动按钮。监控录像显示，成堆的现金被恰好出现在那里的幸运顾客一扫而空。
+But when a Russian cybersecurity firm, Kaspersky Lab, was called to Ukraine to investigate, it discovered that the errant machine was the least of the bank's problems.
+但俄罗斯网络安全公司卡巴斯基实验室(Kaspersky Lab)应乌克兰邀请前去进行调查时发现，提款机出差错只是银行遭遇的最小问题。
+The bank's internal computers, used by employees who process daily transfers and conduct bookkeeping, had been penetrated by malware that allowed cybercriminals to record their every move. The malicious software lurked for months, sending back video feeds and images that told a criminal group — including Russians and Europeans — how the bank conducted its daily routines, according to the investigators.
+银行员工每天用于处理日常交易和记账的内部电脑已遭到恶意软件入侵，网络犯罪分子能够记录电脑的所有操作。调查人员表示，恶意软件已经潜伏数月，将视频和图像资料发送给由俄罗斯人、欧洲人组成的犯罪团伙，告诉他们银行是如何开展日常工作的。
+And then it impersonated bank officers, not only turning on various cash machines, but transferring millions of dollars from banks in Russia, Japan, Switzerland, the United States and the Netherlands into dummy accounts set up in other countries.
+然后该团伙假扮银行人员，不仅启动了多台自动提款机，还将俄罗斯、日本、瑞士、美国及荷兰银行里数百万美元转入了在其他国家开设的临时账户。
+In a report to be published Monday, and provided in advance to The New York Times, Kaspersky Lab says the scope of this attack on more than 100 banks and other financial institutions in 30 nations could make it one of the largest bank thefts ever — and one conducted without the usual signs of robbery.
+卡巴斯基实验室将定于周一公布的报告预先提供给了《纽约时报》。报告显示，这场针对30个国家逾100家银行和金融机构的攻击行动，可能是有史以来规模最大的银行盗窃案之一，而且是在没有常见的抢劫迹象的情况下发生的。
+The Moscow-based firm says that because of nondisclosure agreements with the banks that were hit, it cannot name them. Officials at the White House and the FBI have been briefed on the findings but say it will take time to confirm them and assess the losses.
+这家总部位于莫斯科的网络安全公司表示，因为公司与遭袭的银行签订了保密协议，所以不能透露的银行的名称。白宫及联邦调查局(FBI)的官员了解了相关调查结果，但他们表示需要一些时间来核实，评估损失。
+Kaspersky Lab says it has seen evidence of $300 million in theft from its clients and believes the total could be triple that amount. But that projection is impossible to verify.
+卡巴斯基实验室表示，他们发现了犯罪分子盗取客户3亿美元（约合19亿元人民币）的证据，并认为总损失可能会是上述金额的三倍。但这一推测无法得到证实。
+The majority of the targets were in Russia, but many were in Japan, the United States and Europe.
+大部分攻击对象都在俄罗斯，也有很多在日本、美国和欧洲。

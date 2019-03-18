@@ -1,0 +1,52 @@
+From the day she was born, the girl had seizure after seizure. Doctors at Children’s Mercy Hospital in Kansas City, Mo., frantically tried to keep her alive. Weeks passed and every medication failed. Finally, her family decided to let their baby go, and the medical devices were withdrawn. She was 5 weeks old.
+从这个小女孩呱呱坠地起，她就癫痫不断。密苏里州堪萨斯市儿童慈善医院(Children’s Mercy Hospital)的医生们发了疯一般想要维持她的生命。几周过去了，所有药物宣告无效。最终，她的父母决定放弃，医疗器械被撤掉。她才五周大。
+Her doctors suspected a genetic disorder, and as it happened the hospital had just begun a study of a new technique for quickly analyzing the DNA of newborns, zeroing in on mutations that can cause disease.
+医生怀疑她有基因缺陷。正当此时该医院刚刚开始了一项研究：用新技术快速分析新生儿DNA，瞄准致病突变。
+This new method, published on Wednesday in the magazine Science Translational Medicine, is a proof of concept — a demonstration in four babies that it is possible to quickly scan a baby’s entire DNA and pinpoint a disease-causing mutation in a couple of days instead of the more typical weeks or months. The study’s investigators said the test could be one of the first practical fruits of the revolution in sequencing an individual’s entire DNA.
+新方法发表在10月3日的《科学转化医学》(Science Translational Medicine)上。作为概念验证，该研究以四个婴儿的实例证明了快速扫描婴儿全部DNA，精确找到致病基因突变是可以在几天（而非惯常的几周到几个月）之内完成的。研究者表示这种检测手段有可能跻身于个体完整基因测序革命的第一批实际成果。
+For the baby with seizures, her doctors provided a sample of her blood. The analysis took only 50 hours and provided an answer. The baby had a mortal gene mutation so rare that it had been reported just once before.
+医生提供了那个患癫痫的小女孩的血样。分析只用了50个小时就得出了答案：孩子有一个致命的基因突变，罕见到此前只有过一例报道。
+If only, said Dr. Joshua E. Petrikin, one of the baby’s doctors, the test could have been done within days of the baby’s birth.
+这个小女婴的主管大夫之一、乔舒亚·E·派特里金(Joshua E. Petrikin)医生说，要是她刚生下来的几天就做了测试该有多好。
+“There was no treatment, there was not anything that could have changed the outcome,” Dr. Petrikin said. “But we could have more appropriately counseled the family and bypassed what had to have been intense suffering.”
+“她的病情没法治疗，也不可能做什么来改变结局，” 派特里金医生说，“但是我们能更适当地询问家属，免去那些肯定极其痛苦的经历。”
+The baby, he explained, was heavily sedated, medicated and intubated for her entire brief life.
+他解释道，在这个孩子短暂的生命里，她经受了各种重度镇定、用药和插管。
+The idea behind the test is to take advantage of what is known about disease symptoms to narrow the search for genetic aberrations. And that, said Dr. Joe Gray, an expert in genome analysis at Oregon Health and Science University, “is a good step in the right direction.”
+测试的基本理念是充分利用已知的病症缩小基因变异的搜索范围。俄勒冈健康与科学大学(Oregon Health and Science University)基因组分析专家乔·格雷(Joe Gray)博士说：“这是朝着正确方向迈出的很好的一步。”
+“It’s a big genome,” said Dr. Gray, who was not involved with the study. “How do you know what part of it to search?”
+“基因组那么庞大，否则你怎么知道搜索哪一部分呢？”格雷博士并未参与此研究，他这样说。
+While more research needs to be done before the test is ready for widespread use, he applauded the effort. “If people don’t push the envelope like this, then we won’t get there,” Dr. Gray said.
+若要将测试推广，当然还需做更多研究，但他赞赏研究者的努力。“如果人们不像这样挑战极限的话，我们也达不到如此成就。”格雷说。
+About one in 20 babies in newborn intensive care units has a genetic disease, and all too often, no one can figure out what it is. Scientists identified the faulty genes for about 3,500 of 7,500 known genetic diseases, said the paper’s authors, adding that about 500 have treatments.
+大约每20个住在新生儿重症监护病房的宝宝里，就有一个患有基因缺陷。而且常有的情况是，没人知道是哪里出现了缺陷。论文的作者提到，在7500种已知的基因疾病里，科学家已经发现了其中3500种的缺陷基因，并且有500种已有治疗办法。
+To test their method, the investigators tried it with two babies whose disease had been diagnosed only through an autopsy. They quickly found the genetic causes. Then they tried the method on four babies who were seriously ill with suspected genetic diseases, including the baby with seizures. They quickly found the mutated gene in three of the four.
+为测试他们的方法，研究人员对两个婴儿进行了实验，他们的疾病直到尸检时才鉴定出来。研究者很快就发现了基因上的原因。接着他们又在四名怀疑是基因疾病的重症婴儿身上试验，包括前述的癫痫婴儿。他们迅速找到了其中三个婴儿体内的变异基因。
+The investigators also sequenced the DNA of an older brother of one of the babies who had the same genetic disorder — his organs were reversed. His heart was on the right, instead of the left, for example. This caused a heart defect that was corrected by surgery. The parents had been told the child had a condition that would not happen again.
+研究者还对一名婴儿的哥哥——患有同样基因疾病——进行了DNA测序：他的器官左右颠倒。比如他的心脏长在右边，而不是左边。所造成的心脏缺陷已通过手术纠正过来了。此前家长听说孩子的问题不会有遗传。
+Then their second baby had the same problem. The researchers found a new genetic defect, never seen before, that they suspect was the cause. They contacted doctors and discovered more than 100 other children with the same unexplained defect. Now the investigators are checking to see if some have the mutation, which would indicate it caused the problem. Then the parents could know of a prenatal diagnosis for future pregnancies.
+结果他们的第二个孩子患上了同样疾病。研究者发现了一个以前从未见过的新基因缺陷，他们认为这就是病因。联系了医生后，他们得知有100多名儿童都有着同样的、不明原因的疾病。现在研究者正在检查这些儿童是否也有此基因变异，这意味着它可能正是罪魁祸首。这样一来，家长们就能在以后再怀孕时进行产前诊断。
+The baby whose disease remained a mystery was another of Dr. Petrikin’s patients. When he was born, some skin was missing over his eyebrows and in patches on his scalp. Over weeks, he developed severe blistering, eventually losing nearly all the skin in his mouth and on his body and dying of an infection.
+那名病因未查明的小病人也是派特里金医生的病人。小病人出生时，他眉毛上面的一些皮肤和几块头皮不见了。几周以后，他长出了严重的水泡，后来几乎失去了嘴里和全身的所有皮肤，最终死于感染。
+“We still don’t know what caused it,” Dr. Petrikin said.
+“我们仍不明就里，”派特里金医生说。
+With the new method, a computer program searches for genes based on the baby’s symptoms. And because it focuses only on genes that cause diseases in newborns, it avoids an ethical problem: findings that are unrelated to the problem at hand. In sequencing and analyzing the entire DNA, researchers may discover, for example, aberrations leading to conditions that occur only in adults. Do parents really want to know that their sick baby has a gene that increases the risk of Alzheimer’s disease?
+新方法利用电脑程序依据婴儿的症状搜索基因。正因为只关注新生儿的致病基因，它就避免了伦理问题：得到当前目标问题以外的新发现，比如，发现了导致成年人才会出现的症状的变异基因。家长是否真的想知道，自己已患病的孩子还有着日后能引发老年痴呆症的基因么？
+“They did it right, and you rarely hear that from an ethicist,” said Dr. Lainie Friedman Ross, an ethicist and professor of pediatrics at the University of Chicago. Dr. Ross, who praised the researchers for deliberately avoiding such incidental findings, was also not involved with the study.
+“他们做的对——你肯定很少能从伦理学家这里听到这种评价，”芝加哥大学(University of Chicago)伦理学家及儿童学教授莱妮·弗里德曼·罗斯(Lainie Friedman Ross)博士赞扬研究者有意避开不包括在研究之内的意外发现的举措。
+The method is expensive, though, costing about $13,500. It is not yet covered by insurance.
+但是这项检测非常贵，大约13500美元。还不在保险报销的范围内。
+But Dr. Stephen F. Kingsmore, director of Children’s Mercy’s center for pediatric genomic medicine, expects to show it is cost effective and hopes insurers will pay for it. He noted that each day a baby spends in intensive care costs about $8,000, so any test that reduces that time would quickly pay for itself. A test that reveals a uniformly fatal genetic disease, for example, can allow parents and doctors to know that continuing life support in the hope the baby will improve is futile and only causing suffering. In the meantime, Dr. Kingsmore said, he is hoping a philanthropist will help defray the costs.
+然而，儿童慈善中心儿童基因组医学主管斯蒂芬·F·金斯莫尔(Stephen F. Kingsmore)医生想要告诉人们这是物有所值的，并希望保险公司为此付账。他提到，每个重症监护的小孩每天要花去8000美元，所以任何能缩短监护时间的办法都算是值了。比如，一个能够揭露普遍致命基因疾病的检测能够让家长和医生了解，继续使用生命维持手段、希望小孩能够有所改善只会徒劳无功，引起痛苦。同时，金斯莫尔医生还说，他希望慈善家能够帮助负担费用。
+To develop the test, the researchers used every clue about the sick newborn. Was the baby floppy? Was her cry abnormal, her breathing labored? A computer program factored in the symptoms and searched the baby’s DNA sequence for mutated genes that might be responsible.
+为做检测，研究者要掌握患病新生儿的一切症状。是否有软婴综合征？是不是哭声异常，呼吸困难？电脑程序纳入所有症状，在小孩的DNA中寻找可能诱发疾病的变异基因。
+A gene-sequencing company, Illumina, had a new machine with a prototype in Essex, England, that could sequence DNA in 25 hours, so researchers sent samples of babies’ blood there. The results, a hard drive full of data, were sent by Federal Express for analysis at the Missouri hospital. By the end of November, the hospital expects to have its own machine on site.
+一家名为Illumina基因测序公司最近研发出一台新仪器，在英国埃塞克斯的样机可以在25个小时内进行DNA测序，因此研究者将婴儿的血样拿给他们测试。一个装满检测结果的硬盘由联邦快递(Federal Express)送回密苏里医院以供分析。医院预计在11月底之前，自己添置一台这样的仪器。
+Although genetic causes for the diseases were found in three of the four babies, the diseases had no treatments — except for surgery for the brothers — and that baby was the only one who survived.
+尽管四个孩子中有三个的致病基因已经找到，但还没有治疗的办法——除了给婴儿哥哥做的手术——那个婴儿是他们中唯一活下来的。
+The biggest surprise for Dr. Kingsmore, though, was that the families greatly valued having a diagnosis.
+尽管如此，家长们对诊断结果的格外重视还是让金斯莫尔医生惊喜不已。
+When a baby has a mysterious disease, he said, the family often embarks on a terrifying diagnostic odyssey. “Test after test is performed,” he said. “Some tests are invasive; the child is suffering. The child is getting worse and worse — most spend their entire lives in the hospital, and there is no answer.”
+当孩子出现了神秘的病症，他说，全家都踏上了骇人的诊断苦旅。“做过一个又一个的检查，”他说，“有些检查是侵入性的，小孩子很痛苦。孩子的情况越来越糟，他们很多都始终住在医院里，也没有结果。”
+Just knowing the answer can be a comfort. “Providing a definitive diagnosis somehow brings closure,” Dr. Kingsmore said. “It is something they can name.”
+仅仅是知道结果也是一种安慰。“给出确切的诊断多少就算尘埃落定，”金斯莫尔说，“家长们总算能说得出原因来。”

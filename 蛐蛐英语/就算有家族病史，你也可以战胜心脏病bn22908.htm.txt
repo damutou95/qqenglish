@@ -1,0 +1,38 @@
+Billions of dollars are spent every year on medications that reduce the risk of heart disease — the No. 1 killer in the United States.
+每一年都有数十亿美元被用于降低心脏病风险的药物――心脏病是美国人的第一大杀手。
+But some people feel powerless to prevent it: Many of the risk factors seem baked into the cake at birth. Genetic factors can have a huge impact on people’s chances of dying of heart disease, and it has long been thought that those factors are almost always outside of one’s control.
+但在预防心脏病方面，有些人感到自己无能为力：许多风险因素似乎在一个人出生之际便已形成。遗传因素会对人们死于心脏病的几率产生巨大影响，长期以来，这些因素被认为几乎总是无法人为控制的。
+Recent research contradicts this, though, and that should give us all renewed hope.
+不过，近期的研究否定了这一点，应该能够带给我们所有人全新的希望。
+Since the 1930s, we’ve recognized that heart disease runs in families. For the last decade, we’ve been able to identify specific genes that are linked to coronary artery disease. In fact, these genes seem to have a cumulative effect. People who have more of them are at greater risk.
+自1930年代以来，我们已经认识到心脏病是有家族史的。在过去的十年中，我们已经能够识别与冠状动脉疾病相关的特定基因。事实上，这些基因似乎具有累积效应。拥有更多这种基因的人患病的风险也更大。
+Familial factors are some of the strongest arguments for using drugs like statins widely. After all, there’s only so much you can do about your cholesterol through diet and exercise changes. Some people can see reductions in cholesterol only through pharmacological intervention.
+家族性因素为广泛使用他汀类药物提供了一些颇为有力的论据。毕竟，通过运动和饮食方面的变化来控制胆固醇，你能做的只有那么多。有些人不得不通过药物干预来实现胆固醇的减少。
+Still, we tend to treat those at low risk with lifestyle changes, while those at high risk get more intensive therapy. A new study in The New England Journal of Medicine argues that thinking may be wrong.
+我们仍然倾向于以生活方式的改变来处理那些低风险者，而让高风险人群接受更强化的治疗。《新英格兰医学杂志》(The New England Journal of Medicine)的一项新研究认为，这种思路可能是错误的。
+Researchers gathered data from four large prospective cohort studies that followed thousands of people for years, looking at the relationships between various risk factors and heart disease. The first began enrolling patients in 1987 and the last in 2008. Even though specific genes of interest weren’t known when these studies began, data were available that allowed scientists to evaluate genetic risk decades later. Using about 50 different variations — single-nucleotide polymorphisms (otherwise known as SNPs) — researchers created a risk score.
+研究人员收集了来自四个大型前瞻性队列研究的数据，这些研究在多年中对数以千计的人们进行跟踪调查，观察各种危险因素与心脏病之间的关系。研究对患者的招募始于1987年，止于2008年。虽然在刚开始时，研究者尚不了解任何让他们感兴趣的具体基因，但当年对数据的搜集令科学家可以在几十年后评估相关的遗传风险。研究者使用了约50种不同的变异――单核苷酸多态性（亦称SNPs）――创建了风险评分系统。
+They also looked at how lifestyle factors were associated with outcomes. These included not smoking cigarettes, not being obese (having a B.M.I. less than 30), performing physical activity at least once a week and having a healthful diet pattern.
+他们还研究了生活方式因素如何与结果相关。这些因素包括不吸烟，不肥胖（BMI指数小于30），每周至少进行一次体育活动，并有健康的饮食模式。
+That last criterion was defined as doing at least half of the following recommendations: eating more fruits, nuts, vegetables, whole grains, fish and dairy products and eating less refined grains, processed meats, unprocessed red meats, sugar-sweetened beverages, trans fats and sodium. Every one of the four lifestyle factors was associated with a decreased risk of coronary events.
+最后一项被定义为至少做到以下建议的一半：更多食用水果、坚果、蔬菜、全谷物、鱼和奶制品，较少食用精加工谷物、加工肉类、未加工的红肉、加糖饮料、反式脂肪和钠。四种生活方式因素中的每一种都与冠状动脉病变风险降低相关。
+That’s the first bit of good news. Doing any one of these things makes a difference.
+这是最初的一点好消息。做上述任何一件事情都会有所帮助。
+But the effect is cumulative. The researchers divided people into three groups based on these factors. “Favorable” required at least three of the four factors, “intermediate” required two of them, and “unfavorable” required one or none. Across all studies, those with an unfavorable lifestyle had a risk that was 71 percent to 121 percent higher than those with a favorable lifestyle.
+但效果是累积性的。研究人员基于这些因素，将研究对象分为三组。“良好”需要做到四个因素中的至少三个，“中等”需要做到其中两个因素，而“不良”则是做到了其中的一个或没有。在所有研究中，生活方式不良组的风险比生活方式良好组的人高出71％至121％。
+More impressive was the reduction in coronary events — heart attacks, bypass procedures and death from cardiovascular causes — at every level of risk. Those with a favorable lifestyle, compared with those with an unfavorable lifestyle, had a 45 percent reduction in coronary events among those at low genetic risk, a 47 percent reduction among those with intermediate genetic risk, and a 46 percent reduction among those at high genetic risk.
+更令人印象深刻的是每个风险级别内冠状动脉病变（包括心脏病发作，冠状动脉搭桥手术，以及心血管原因导致的死亡）的减少。在低遗传风险人群中，生活方式良好者的冠状动脉病变比生活方式不佳者少45％，在中等遗传风险人群中少47％，在高遗传风险人群中要少46％。
+What does this mean in real-world numbers? Among those at high genetic risk in the oldest cohort study, 10.7 percent could expect to have a coronary event over a 10-year period if they had an unfavorable lifestyle. That number was reduced to 5.1 percent if they had a favorable lifestyle. Among those at low genetic risk, the 10-year event rate was 5.8 percent with an unfavorable lifestyle and 3.1 percent with a favorable lifestyle. In the other cohort studies, similar relative reductions were seen.
+这些折合成现实生活中的数字意味着什么？在时间最早的队列研究中，遗传风险高的人群如果过着不良的生活方式，则有10.7％的人预期可能在10年内发生冠状动脉病变。如果他们过着良好的生活方式，这个数字则会减少到5.1％。在低遗传风险的人群中，过不良生活方式的人10年内发病率为5.8％，过良好生活方式的人10年内发病率为3.1％。其他队列研究中，也可以看到类似的相应减少。
+These differences aren’t small. The risk of a coronary event in 10 years was halved. The absolute reduction, more than 5 percentage points in the genetic group at high risk, means that lifestyle changes are as powerful as, if not more powerful than, many drugs we recommend and pay billions of dollars for all the time.
+这些差别可不小。这意味着10年内冠状动脉病变的风险减半。在高风险遗传人群中超过5个百分点的绝对减少值，就意味着生活方式的变化与我们一直以来所推荐的，价值数十亿美元的许多药物一样有效，如果不是更有效的话。
+There are caveats, of course. All of the participants in these analyses were white, because there are few well-validated genetic studies in black populations. But the researchers also saw similar findings in the black population of the oldest cohort. These aren’t randomized controlled trials, and there could be other factors at play that we aren’t measuring. But the results were consistent over a number of studies, and the effect size is large.
+当然，也有附加说明。这些研究中的所有参与者都是白人，因为在黑人人群中罕有确定有效的遗传研究。但是研究人员在为时最早的针对黑人人群的队列研究中也发现了类似的结果。这些研究不是随机对照试验，也可能有其他我们并未予以衡量的因素在发挥作用。但是若干研究的结果是一致的，效应量很大。
+There are important lessons to be learned. These results should encourage us that genetics do not determine everything about our health. Changes in lifestyle can overcome much of the risk our DNA imposes.
+我们可以从中得到重要的教训。这些结果应当鼓励我们，遗传学不能决定健康的全部。生活方式的变化可以克服DNA加诸于我们的大量风险。
+Lifestyle changes are hugely important not only for those at low risk, but for those at high risk. The relative reductions in events were similar at all levels of genetic risk.
+生活方式的变化不仅对于遗传低风险的人群来说非常重要，对于高风险人群也非常重要。发病的相应减少在所有遗传风险水平中都是相似的。
+Moreover, given how changes in lifestyle will also reduce your risk of other diseases like cancer (the No. 2 killer), it’s clear that a healthier lifestyle could have huge implications for many, many more people.
+此外，鉴于生活方式的改变也会降低患癌症（第二大杀手）的风险，更为健康的生活方式显然可能对更多、更多的人产生巨大的影响。
+It’s important to acknowledge that these lifestyle recommendations are even less constrictive than those I’ve discussed in the past. You need only be a current nonsmoker; past smoking doesn’t exclude you. You can also be overweight, just not obese. And in contrast with most physical activity recommendations, it requires only once-a-week exercise, not the 30 minutes for five days that most professional organizations like the American Heart Association endorse.
+要承认，这些生活方式建议不像我过去曾经讨论过的那些建议那样严格，这一点也很重要。你只需要从现在开始不吸烟就可以；过去的吸烟史并不妨碍你行动起来。你可以超重，只要不肥胖就够了。与大多数锻炼建议相比，这个生活方式建议只需要每周一次的运动，而不是像美国心脏协会等大多数专业组织认可的每周锻炼五天，每次30分钟。

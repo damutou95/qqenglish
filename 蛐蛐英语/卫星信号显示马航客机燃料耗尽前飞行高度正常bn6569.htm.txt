@@ -1,0 +1,32 @@
+CANBERRA, Australia — Investigators looking into the disappearance of Malaysia Airlines Flight 370 have concluded that the plane was probably not seriously damaged and remained in controlled flight until it ran out of fuel over the southern Indian Ocean.
+澳大利亚堪培拉——调查马航370航班消失状况的研究人员已经得出结论，该飞机在南印度洋上空耗尽燃料之前，可能并未严重受损，一直处于受控状态。
+Their conclusion, reached in the past few weeks, helped prompt the decision to move the search area hundreds of miles to the southwest.
+他们在过去几周得出的这个结论，促使当局决定把搜索范围向西南方向移动数百英里。
+The main evidence for the conclusion lies in a re-examination of Malaysian radar data from the flight and a more detailed analysis of electronic “handshakes” that the aircraft exchanged with an Inmarsat satellite over the Equator, senior officials involved in the investigation said. The altitude data from that tracking now appears to have been inaccurate, officials said.
+参与调查的高级官员表示，该结论的主要证据来自研究人员对370航班雷达数据的重新核查，以及对该飞机与国际海事卫星组织(Inmarsat)赤道上空的一颗卫星进行的电子“握手”的更详细分析。现在看来，相关雷达给出的飞行高度数据是不准确的，官员们说。
+Malaysian military radar tracked the Boeing 777-200 with 239 people aboard as it performed a U-turn over the Gulf of Thailand on March 8, flew across Peninsular Malaysia and the Strait of Malacca and disappeared at the north end of the Indonesian island of Sumatra. Initial reports on the radar readings suggested that the plane soared to 45,000 feet, above its certified maximum altitude of 43,100 feet, then zoomed down low over the mountains of Peninsular Malaysia before climbing back to 23,000 feet or more over the Strait of Malacca.
+马来西亚军用雷达的追踪数据显示，这架载有239人的波音777-200飞机3月8日在泰国湾调头飞行，穿过马来西亚半岛和马六甲海峡，消失在了印度尼西亚苏门答腊岛北端。对雷达读数进行的初步研究报告称，这架飞机一度迅速拉升到逾4.5万英尺的高空，超过了其4.31万英尺的最大额定高度，然后它又急速降低高度，在马来西亚半岛的山区上空飞行，之后它至少回升至2.3万英尺，飞越了马六甲海峡。
+But a comprehensive international review of the data has concluded that the Malaysian radars had not been calibrated with enough precision to draw any conclusions about the altitude. “The primary radar data pertaining to altitude is regarded as unreliable,” said Angus Houston, the retired head of the Australian military who is now coordinating the search.
+但是，跨国研究人员对这些数据进行了全面核查后，得出了这样的结论：马来西亚没有对雷达进行足够精确的校准，不足以得出关于飞行高度的任何结论。“现在我们认为。关于飞行高度的基本雷达数据不可靠，”负责协调搜寻工作的澳大利亚前军方领导人安格斯·休斯顿(Angus Houston)说。
+Mr. Houston said in a telephone interview that it was clearly possible that the plane had been at 23,000 feet at some point during the portion of the flight that was tracked on radar. But he expressed skepticism that anyone could prove that the plane had soared and swooped after its U-turn.
+休斯顿在接受电话采访时说，在雷达跟踪370航班期间的某个时候，该飞机曾位于2.3万英尺的高度，这是完全有可能的。但他觉得，没有任何人能证明这架飞机在掉头之后进行过骤升骤降。
+Martin Dolan, the chief commissioner of the Australian Transport Safety Bureau, agreed with Mr. Houston. “There’s nothing reliable about height,” he said in an interview in his office here.
+澳大利亚交通安全局局长马丁·多兰(Martin Dolan)同意休斯敦的看法。“在飞行高度方面，我们没有任何可靠资料，”他在办公室里接受采访时说。
+Radar can give reliable readings of an aircraft’s location, speed and direction, but is reliable on altitude readings only if it is regularly and carefully calibrated to local atmospheric conditions.
+对于飞机的位置、速度和方向，雷达可以给出可靠的读数，但雷达只有在频繁、仔细地根据当地的大气条件进行了校准的情况下，才能给出可靠的飞行高度读数。
+Mr. Houston and Mr. Dolan each said that the most reliable data came from the electronic handshakes. That data yields a series of six hourly arcs as the aircraft apparently headed south across the Indian Ocean, and a seventh arc based on a partial handshake as the engines appeared to run into difficulty.
+休斯顿和多兰说，最可靠的数据来自电子握手。当370航班明显在印度洋上空向南飞行时，这些数据按小时生成了一系列弧线，共六条；当它的发动机似乎出现问题时，从一个不完整的电子握手数据可以引出第七条弧线。
+“The final arc is very clear,” Mr. Dolan said. “Everyone agrees that is where the aircraft ran out of fuel.”
+“最后一条弧线非常清楚，”多兰说。“大家一致认为，飞机就是在那里耗尽了燃料。”
+The Australian government initially searched in the northeast corner of the seventh arc, partly because that location was consistent with an aircraft that was limping through the sky fairly slowly because it was damaged, or had burned a great deal of fuel in altitude changes, or both. The initial search was also set off by the detection of undersea sounds that were judged at first to be from the locator beacons of the plane’s black boxes, although investigators later decided that was wrong.
+澳大利亚政府最初搜索的区域是在第七条弧线的东北角，一方面是因为如果370航班由于飞行高度变化而受损，或者消耗了大量燃料，亦或两个原因兼而有之，那么它飞行的速度会相对缓慢，可能会在这个区域坠入海中。另一方面，是因为在这个区域侦测到了水下声音，人们曾以为那是370航班黑匣子发出的定位信标，虽然调查人员后来发现不是。
+The next phase of the search will be hundreds of miles to the southwest, consistent with an aircraft that flew steadily south at a fairly high cruising speed from the time it disappeared near the northern tip of Sumatra until it ran out of fuel somewhere along the seventh arc, officials said. While the search zone is still being made final, it is likely to be a band from about 25 miles inside the seventh arc to 35 miles outside it, and extending roughly 400 miles along the arc in the southern Indian Ocean.
+搜索的下一阶段，将会在最初搜索区域西南方向数百英里以外的地方进行；如果飞机在苏门答腊岛北端附近失联之后，以相当高的巡航速度稳定飞行，直到在第七弧线的某处燃料耗尽，那么它坠入海中的位置就应该处于新的搜索区域内，官员们说。虽然新的搜索区域尚未最后确定，但它的范围很可能是从第七弧线内25英里到弧线外35英里，在南印度洋沿着弧线延伸约400英里。
+But the nearly 60-mile width of the band is based on a crucial assumption: that the plane was on autopilot when it ran out of fuel, and that the autopilot was unable to control the plane when the engines stopped. In that case, the plane would have stalled and fallen fairly quickly into the ocean somewhere near where the fuel ran out.
+但是，这个近60英里的宽度也是基于一个关键假设：当燃料耗尽时，这架飞机是在自动驾驶，一旦引擎停止运转，自动驾驶仪就无法再控制飞机。在这种情况下，飞机停止运作，快速跌落，就在燃料耗尽位置的不远处坠入海中。
+Private telecommunications analysts have done their own review of the electronic handshakes after Inmarsat published them, and also concluded that the most likely location was far southwest of the area initially searched and southwest even of the Australian mainland.
+国际海事卫星组织发布电子握手数据之后，电信行业的私人分析师也对它们进行了独立审查，他们同样认为，370航班最有可能坠海的位置是在最初搜查区域西南方向很远的地方，甚至是澳洲大陆的西南方。
+But if a skilled pilot was conscious and still at the controls when the fuel ran out, the plane could have glided more than 100 miles before it hit the water. In that case, an undersea debris field would lie far outside the new search zone, which is to be announced soon.
+但是，如果有一名技术娴熟的飞行员仍然神智清醒，而且仍然在操控飞机，那么当燃料耗尽后，飞机可能还会滑行100多英里才会坠入海中。在这种情况下，沉入海底的残骸就会和即将公布的新的搜索区域相距遥远。
+“We are cautiously optimistic that we will find the aircraft,” Mr. Dolan said, adding, “Some are more optimistic, and some are less so.”
+“我们审慎乐观地认为，这次我们会发现370航班，”多兰表示，“有人更乐观一些，有人没这么乐观。”

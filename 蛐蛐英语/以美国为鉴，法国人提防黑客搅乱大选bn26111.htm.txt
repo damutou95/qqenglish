@@ -1,0 +1,58 @@
+PARIS — Maybe it was the suspect timing of the leaked documents. Or the staggering amount and possibility that some were fake. Or a feeling among the French that, having witnessed how hacking may have altered the American election, they would not fall for the same ploy.
+巴黎——或许是因为文件泄露的时机比较可疑，或者是数量太惊人，以及想到其中有些可能是假的，再或者是法国人的一种感觉——他们见证了黑客有可能改变了美国的大选——让他们不愿落入同样的圈套。
+Whatever the reasons, newspapers and broadcasters in France have so far conspicuously avoided reporting any details of what was described Friday night as a “massive” pre-election hacking attack on Emmanuel Macron’s campaign.
+不管是出于什么原因，截止目前，法国的报纸和广播电视媒体一直避免报道有关周五晚埃马纽埃尔·马克龙(Emmanuel Macron)竞选团队选前遭所谓“大规模”黑客袭击的任何细节。
+The bereft coverage extended into Monday night, well after a 44-hour legal ban on election reporting surrounding the Sunday vote had lifted.
+这种不报道的情况持续到周一晚上，当时法律规定的周日投票报道44小时禁令已经失效有一段时间。
+By then it was clear that the hacked material — regardless of what it might contain — had caused no ill effects on the campaign of Macron, who won decisively over the far-right candidate Marine Le Pen.
+到那时，已经可以明确被窃取的材料——无论里面可能包含什么——没有对马克龙的竞选活动产生什么不良影响，后者击败极右翼候选人马琳·勒庞(Marine Le Pen)，赢得了决定性的胜利。
+Unlike the presidential campaign in the United States, where hacking of Hillary Clinton that was traced to Russia may have played a role in her defeat by Donald Trump, news of the hacking operation in France was met with silence, disdain and scorn.
+在美国的总统竞选中，被认为来自俄罗斯的黑客对希拉里·克林顿(Hillary Clinton)采取的行动，可能对唐纳德·特朗普击败她起到了一定的作用，与此不同的是，法国人对这场黑客袭击表现出沉默、蔑视与不屑。
+The contrast may have been amplified further by the absence of a French equivalent to the thriving tabloid culture in Britain or the robust right-wing broadcast media in the United States, where the Clinton hacking attack generated enormous negative coverage.
+因为法国没有英国那种繁荣的小报文化，也没有美国强大的右翼广播媒体，这种差异可能被进一步放大。在美国，针对克林顿的黑客袭击激起了无数负面报道。
+“We don’t have a Fox News in France,” said Johan Hufnagel, managing editor of the leftist daily Libération. “There’s no broadcaster with a wide audience and personalities who build this up and try to use it for their own agendas.”
+“在法国，我们没有福克斯新闻频道(Fox News)，”左翼日报《解放报》总编(Libération)约翰·胡夫纳格尔(Johan Hufnagel)说。“没有一个影响广泛的广播电视机构和名人放大此事，将之用于自己的议程。”
+He also said that French voters, with the benefit of hindsight, suspected any signs of destabilization that may have affected the vote in the American presidential election and Britain’s so-called Brexit referendum in June to leave the European Union.
+他还表示，因为有美国和英国的前车之鉴，法国选民对有可能影响了美国总统大选和去年6月英国脱欧公投的任何不稳定迹象都有所警惕。
+“French voters didn’t want to get into that game,” Hufnagel said. “They were mentally prepared after Trump and Brexit and the Russians, even if it’s not clear they’re behind it.”
+“法国选民不想落入那种圈套，”胡夫纳格尔说。“在特朗普、英国脱欧、俄罗斯人那些事发生后，他们在心理上有所准备，尽管目前并不清楚这次是否是他们主使。”
+Some Macron supporters initially feared that the reports of the hacking and his inability to respond could be devastating on the eve of voting.
+马克龙的一些支持者最初担心有关黑客袭击的报道、以及他无法做出应对的现实，会在选举前夕造成毁灭性的影响。
+The hacking lit up social media, especially in the United States, where far-right activists have joined together to spread extremist messages in Europe.
+这场袭击在社交媒体上引起轩然大波，尤其是在美国，那里的极右翼活动人士联合起来在欧洲传播极端主义的讯息。
+On Election Day, the French-language version of Sputnik, the Russia news outlet, played up social media coverage of the leaks.
+在选举日，俄罗斯卫星通讯社(Sputnik)法语版在社交媒体上大肆报道这次信息泄露事件。
+But the leaks did not get much traction in France, where news outlets respected the blackout. The documents landed at the eleventh hour, without time for journalists to scrutinize them properly before the ban went into effect.
+但泄密的消息没有在法国引起太大的注意，这里的新闻媒体遵守了政府发布的禁令。记者们在最后一刻才拿到文件，来不及在禁令生效之前对它们进行充分的核实。
+The news media also heeded an admonition by the government’s campaign regulatory body not to publish false news. Macron’s campaign said that fake documents had been mixed in with authentic ones.
+新闻媒体也听从了政府竞选活动监管机构发出的警告，即不得发布虚假信息。马克龙的竞选团队表示，这些文件中有真的，也有假的。
+There were also reports that Macron’s campaign, well aware that it was a hacking target, had deliberately fed hackers false information in responding to phishing emails, which may explain why the leaked data was disseminated late in the campaign.
+也有报道称，马克龙的竞选团队深知自己会成为黑客的目标，在收到钓鱼邮件后，故意用虚假信息给黑客喂料，这或许可以解释为什么外泄信息直到竞选快要结束时才被传播开去。
+“You can flood these addresses with multiple passwords and logins, true ones, false ones, so the people behind them use up a lot of time trying to figure them out,” The Daily Beast quoted Mounir Mahjoubi, the head of Macron’s digital team, as saying.
+“你可以大批量地给这些地址发去各种密码和登录信息，有真有假，如此一来地址背后的人就得花很多时间去分辨，”每日野兽网站(The Daily Beast)援引马克龙竞选团队数字部门负责人穆尼尔·马哈古比(Mounir Mahjoubi)的话称。
+Hufnagel said that Libération would take time to evaluate and verify the leaked documents before writing any articles about them.
+胡夫纳格尔说，《解放报》在撰写关于外泄文件的任何文章之前，都会花时间对其加以评估和证实。
+Le Monde, the country’s leading daily, said in an article published Saturday that it would also scrutinize the leaked material before writing.
+法国权威日报《世界报》(Le Monde)在周六发表的一篇文章中称，它也会在撰写文章前对外泄文件进行审核。
+“If those documents contain revelations, Le Monde of course, will publish them, after having investigated in accordance with our journalistic and ethical rules, without letting ourselves be manipulated by the publishing agenda of anonymous actors,” the newspaper said.
+“如果这些文件含有揭露性信息，《世界报》当然会在依照我们的新闻和伦理守则进行调查后，将其公之于众，而不会让自己受到匿名行动者的发表议程的操纵。”
+After that blackout ended Sunday night, most news outlets said only that the French authorities had opened an investigation.
+禁令于周日晚间解除后，大多数媒体只是表示，法国当局已经启动了调查。
+That reticence stretched across the landscape of newspapers in France, regardless of political leaning — Several weekly newsmagazines — the conservative Le Point, the centrist L’Express and the left-leaning L’Obs — also held back.
+这种缄默席卷了法国报界，无论采取什么政治立场，几家新闻周刊——保守派的《快报》(L'Express)、中间派的《新观察家》(L'Obs)和左派的《观点》(Le Point)——也没有报道。
+The Macron campaign has said little about the hacking and leaks beyond a statement late Friday night — just minutes before the blackout began — describing the operation as “massive and coordinated” and an effort to destabilize French democracy.
+马克龙的竞选团队除了在上周五深夜，也就是禁令马上就要生效时发了一份声明，几乎未就此次黑客入侵和文件泄露置评。声明称，这是一场“大规模的协同”行动，旨在颠覆法国的民主。
+For now, it appears the attack turned up mostly mundane documents. Although the coverage has hardly been comprehensive, no real smoking guns have been uncovered.
+目前看来，这场网络攻击所触及的似乎大多是颇为普通的文件。虽然报道还谈不上全面，但到目前尚未发现真正的猛料。
+“The good news is that there was an attempt at destabilization that didn’t work,” said Céline Pigalle, the top editor at BFM-TV, a private broadcaster. “The elements weren’t strong enough. But what would have happened if they had been?”
+“好消息是，颠覆企图没有得逞，”私立广播机构BFM-TV的主编赛琳·皮加尔(Céline Pigalle)。“料不够猛。但如果料足够猛，会发生什么？”
+Pigalle said the late-breaking document dump provided a reason to revise the news blackout law. It was created to give citizens time to reflect before voting, but in the era of social media, it gives anyone with a Twitter account an edge over France’s respected news outlets.
+皮加尔说，在禁令即将生效前发生的文件泄露事件，为修改新闻管制法规提供了一个理由。出台这样的法规是为了让公民在投票前有时间去思考，但在社交媒体时代，它让任何一个拥有Twitter账户的人，都比受尊重的法国媒体更有优势。
+“It denies the world as it exists today, when social media don’t stop,” she said.
+“它对现如今的状况视而不见，社交媒体可不会停下来，”她说。
+The National Front, Le Pen’s party, has a vexed relationship with the mainstream news media, which it has at once scorned and used.
+对勒庞领导的国民阵线(National Front)来说，与主流媒体之间的关系一直是一个颇为棘手的问题——它既谴责主流媒体，又要利用它们。
+The National Front does not have the equivalent of a Bill O’Reilly or a Sean Hannity, the right-wing commentators who helped shore up Trump’s presidential bid. While French commentators such as Éric Zemmour, a regular on radio and television who has a column in Le Figaro, have fed into a sense of decline and insecurity that the National Front tried to capitalize on politically, neither he nor other so-called neo-reactionary commentators endorsed the far-right party.
+国民阵线没有可与比尔·奥莱利(Bill O'Reilly)或肖恩·汉尼提(Sean Hannity)相提并论的人物的支持，这两名右翼评论员曾帮助提振特朗普的选情。一些法国评论员，比如常常上广播和电视节目，还为《费加罗报》(Le Figaro)写专栏的埃希克·泽穆尔(Éric Zemmour)，虽然帮助催生了一种国民阵线试图在政治上加以利用的没落和不安全之感，但他和其他所谓的新反动主义评论员都没给这个极右翼党派背书。
+In the United States, reaction to the Macron leaks was more animated, and Hillary Clinton took to Twitter to comment. “Victory for Macron, for France, the EU, & the world. Defeat to those interfering w/democracy. (But the media says I can’t talk about that).”
+在美国，马克龙文件外泄事件引发了更为热烈的反应，希拉里·克林顿(Hillary Clinton)在Twitter上发表了评论。“马克龙、法国、欧盟乃至整个世界的胜利。干扰民主的那些人的失败。（但媒体说我不能谈论这个）。”

@@ -1,0 +1,44 @@
+There are many things that make humans a unique species, but a couple stand out. One is our mind, the other our brain.
+许多事情让人类成为独一无二的物种，但其中两样尤为突出。一是我们的意识，二是我们的大脑。
+The human mind can carry out cognitive tasks that other animals cannot, like using language, envisioning the distant future and inferring what other people are thinking.
+人类的智力能执行其他动物无法做到的认知任务，比如运用语言、展望遥远的未来，以及推断他人的想法。
+The human brain is exceptional, too. At three pounds, it is gigantic relative to our body size. Our closest living relatives, chimpanzees, have brains that are only a third as big.
+人类的大脑也出类拔萃。它重3磅（约合1.4千克），相对于我们的体型可谓巨大。现存最接近的人类近亲是黑猩猩，而它们的脑部只有人类的三分之一大。
+Scientists have long suspected that our big brain and powerful mind are intimately connected. Starting about three million years ago, fossils of our ancient relatives record a huge increase in brain size. Once that cranial growth was underway, our forerunners started leaving behind signs of increasingly sophisticated minds, like stone tools and cave paintings.
+科学家们长期以来一直揣测，人类体积极大的大脑和强大的意识之间紧密相关。远古时近亲物种的化石显示，从大约300万年前开始，它们的大脑尺寸急剧增加。头颅甫一增大，我们的祖先就开始留下意识复杂度与日俱增的印记，比如石器和洞穴岩画。
+But scientists have long struggled to understand how a simple increase in size could lead to the evolution of those faculties. Now, two Harvard neuroscientists, Randy L. Buckner and Fenna M. Krienen, have offered a powerful yet simple explanation.
+不过，科学家们一直没法理解，简单的尺寸增加怎么会导致这些官能的进化呢？现在，两名哈佛的神经科学家兰迪·L·巴克纳(Randy L. Buckner)与费娜·M·克里嫩(Fenna M. Krienen)提出了一种有力而简洁的解释。
+In our smaller-brained ancestors, the researchers argue, neurons were tightly tethered in a relatively simple pattern of connections. When our ancestors’ brains expanded, those tethers ripped apart, enabling our neurons to form new circuits.
+两名研究者提出，脑部较小的人类祖先的神经元，是以较为简单的联接模式紧密地栓系在一起的。当人类祖先的大脑扩大之后，这些栓系被撕裂开来，从而给神经元形成新回路创造了条件。
+Dr. Buckner and Dr. Krienen call their idea the tether hypothesis, and present it in a paper in the December issue of the journal Trends in Cognitive Sciences.
+巴克纳博士与克里嫩博士将他们的理论称为“栓系假说”(tether hypothesis)，并以论文的形式发表在了12月号的《认知科学趋势》期刊(Trends in Cognitive Sciences)上。
+“I think it presents some pretty exciting ideas,” said Chet C. Sherwood, an expert on human brain evolution at George Washington University who was not involved in the research.
+“我认为这提出了一些相当令人兴奋的想法，”未参与该研究的乔治·华盛顿大学(George Washington University)人脑进化专家切特·C·舍伍德(Chet C. Sherwood)说。
+Dr. Buckner and Dr. Krienen developed their hypothesis after making detailed maps of the connections in the human brain using f.M.R.I. scanners. When they compared their maps with those of other species’ brains, they saw some striking differences.
+研究出该假说之前，巴克纳博士与克里嫩博士使用功能性磁共振成像仪(fMRI)扫描了人脑，得出详细的联接图。把这些图像与其他物种的大脑图像进行比较之后，他们看出了一些惊人的差异。
+The outer layers of mammal brains are divided into regions called cortices. The visual cortex, for example, occupies the rear of the brain. That is where neurons process signals from the eyes, recognizing edges, shading and other features.
+哺乳动物大脑的外层被划分成名为“脑皮层”的不同区域。比如，视觉皮层位于大脑后侧。在这里，神经元处理眼部传来的信号，分辨出边缘和阴影等特征。
+There are cortices for the other senses, too. The sensory cortices relay signals to another set of regions called motor cortices. The motor cortices send out commands. This circuit is good for controlling basic mammal behavior. “You experience something in the world and you respond to it,” Dr. Krienen said.
+其他知觉也有相应的皮层。各感觉皮层将信号传递到被称为“运动皮层”的另一片区域，然后由运动皮层发出指令。这一回路在控制基本的哺乳动物行为中颇为有效。“你感知到外界的东西，然后做出回应，”克里嫩博士说。
+This relatively simple behavior is reflected in how the neurons are wired. The neurons in one region mostly make short connections to a neighboring region. They carry signals through the brain like a bucket brigade from the sensory cortices to the motor cortices.
+这种较为简单的行为，在神经元的联接方式上也得到了反映。一个区域的神经元大多会与相邻区域建立短的联系。它们在大脑中传递信号的方式类似于从知觉区到运动区，一个接一个地传递。
+The bucket brigade begins to take shape when mammals are still embryos. Different regions of the brain release chemical signals, which attract developing neurons.
+当哺乳动物还是胚胎的时候，这种传递就开始成型。大脑的不同区域释放出化学信号，召唤正在形成的神经元。
+“They will tell a neuron, ‘You’re destined to go to the back of the brain and become a visual neuron,’ for example,” Dr. Krienen said.
+“比方说，它们会告诉一个神经元，‘你的使命是去到大脑后侧，成为一个视神经元，’”克里嫩博士说。
+After mammals are born, their experiences continue to strengthen this wiring. As a mammal sees more of the world, for example, neurons in the visual cortex form more connections to the motor cortices, so that the bucket brigade moves faster and more efficiently.
+哺乳动物出生后的种种生活体验将令这些神经元的网络进一步强化。例如，随着哺乳动物看到的东西越来越多，其视觉皮层上的神经元就会与运动皮层形成更多联接，这种一传一式的信号传递也会更加迅速和高效。
+Human brains are different. As they got bigger, their sensory and motor cortices barely expanded. Instead, it was the regions in between, known as the association cortices, that bloomed.
+人类的大脑却不是这样。在脑容量增大的过程中，其感觉皮层和运动皮层几乎没有增大，急剧增大的是这两者中间的区域，即所谓的联合皮层。
+Our association cortices are crucial for the kinds of thought that we humans excel at. Among other tasks, association cortices are crucial for making decisions, retrieving memories and reflecting on ourselves.
+联合皮层对于人类所擅长的多种思考至关重要。它在人类做出决定、检索记忆，以及自我反省的思维过程具有关键的作用，此外还有着其他功能。
+Association cortices are also unusual for their wiring. They are not connected in the relatively simple, bucket-brigade pattern found in other mammal brains. Instead, they link to one another with wild abandon. A map of association cortices looks less like an assembly line and more like the Internet, with each region linked to others near and far.
+联合皮层的神经网络也不同寻常。它们不是以相对简单的、一传一的模式相连的。相反，它们之间的联系杂乱无章。联合皮层的联接不像是一个流水线，更像是互联网，每个区域都彼此相联，无论远近。
+Dr. Buckner and Dr. Krienen argue that this change occurred because of the way brains develop. In the human brain, some neurons still receive chemical signals that cause them to form a bucket brigade from the sensory cortices to the motor cortices. But because of the brain’s size, some neurons are too far from the signals to follow their commands. “They may have broken off and formed a new circuit,” Dr. Buckner said.
+巴克纳博士和克里嫩博士称，这种变化是因为大脑发育的方式而产生的。在人类大脑中，一些神经元接收化学信号，并从感觉皮层传递到运动皮层。但是，因为人类大脑的尺寸较大，一些神经元距离这些信号太远，所以无法接收它们的指令。巴克纳博士说，“它们之间的联系可能会断裂，然后形成一个新的回路。”
+This new wiring may have been crucial to the evolution of the human mind. Our association cortices liberate us from the rapid responses of other mammal brains. These new brain regions can communicate without any input from the outside world, discovering new insights about our environment and ourselves.
+这种新型的神经网络对人类的进化至关重要。联合皮层把我们从其他哺乳动物大脑的那种即时反应中解放了出来。这些新的大脑区域不需要外界的输入就可以相互联系，从而使人类对周围环境和自身产生新的见解。
+Dr. Buckner foresees a number of ways in which the tether hypothesis could be tested. For example, many mammal brains, including chimpanzees’, have yet to be fully mapped. “We’re hoping that in the next 10 or 15 years, that might be possible,” he said.
+巴克纳博士预言了一些验证“栓系假说”的方法。例如，许多哺乳动物的大脑，包括黑猩猩的大脑，还没有被完全绘制出来。他说，“我们希望未来10到15年，这将成为可能。”
+Dr. Sherwood, the George Washington University expert, praised the hypothesis for being “fairly frugal.” The emergence of the human mind might not have been a result of a vast number of mutations that altered the fine structure of the brain. Instead, a simple increase in the growth of neurons could have untethered them from their evolutionary anchors, creating the opportunity for the human mind to emerge.
+乔治·华盛顿大学的专家舍伍德称赞了这个假说，称它“相当简洁”。人类意识的出现，可能不是因为大量的突变改变了大脑的细微结构。单单是神经元的进一步生长，就可能让它们冲破阻碍进化的牢笼，为人类意识的诞生创造机会。

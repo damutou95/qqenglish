@@ -1,0 +1,152 @@
+ST. LOUIS — Genetics researchers at Washington University, one of the world’s leading centers for work on the human genome, were devastated. Dr. Lukas Wartman, a young, talented and beloved colleague, had the very cancer he had devoted his career to studying. He was deteriorating fast. No known treatment could save him. And no one, to their knowledge, had ever investigated the complete genetic makeup of a cancer like his.
+圣路易斯——华盛顿大学的遗传学研究人员遭受到一个巨大的打击。他们的大学在人类基因组研究上处于世界领先地位，但现在，他们的一位年轻有为、深受喜爱的同事卢卡斯·沃特曼(Lukas Wartman)博士患上了癌症，而这种癌症正是他倾尽精力在研究的课题。他的病情在快速恶化，而现有的治疗方法却不救不了他。而且，据他们所知，此前还没有人调查过这种癌症的完整基因组成。
+So one day last July, Dr. Timothy Ley, associate director of the university’s genome institute, summoned his team. Why not throw everything we have at seeing if we can find a rogue gene spurring Dr. Wartman’s cancer, adult acute lymphoblastic leukemia, he asked? “It’s now or never,” he recalled telling them. “We will only get one shot.”
+去年7月的某一天，该大学基因研究所的副主任蒂莫西·利(Timothy Ley)博士召集了本组的成员。他问道，我们能不能不倾尽全力去寻找导致沃特曼博士患上成人急性淋巴细胞白血病的这个变异基因？“时不我待，”他说，自己当时这样告诉大家，“我们只有这一次机会。”
+Dr. Ley’s team tried a type of analysis that they had never done before. They fully sequenced the genes of both his cancer cells and healthy cells for comparison, and at the same time analyzed his RNA, a close chemical cousin to DNA, for clues to what his genes were doing.
+利博士的小组尝试了一种从来未曾运用过的分析方式。他们为癌症细胞和健康细胞的基因都做了完整测序，用以对比，同时还分析了他的RNA（在化学成分上和DNA类似），寻找基因活动的线索。
+The researchers on the project put other work aside for weeks, running one of the university’s 26 sequencing machines and supercomputer around the clock. And they found a culprit — a normal gene that was in overdrive, churning out huge amounts of a protein that appeared to be spurring the cancer’s growth.
+研究人员为了这一项目把其他的工作搁置了数周，一天24小时不停地开着大学里26台测序仪器中的一台，以及一台超级计算机。他们发现了元凶——一个正常基因过度活跃，导致一种蛋白质大量产生，似乎就是这刺激了癌细胞的增生。
+Even better, there was a promising new drug that might shut down the malfunctioning gene — a drug that had been tested and approved only for advanced kidney cancer. Dr. Wartman became the first person ever to take it for leukemia.
+更好的消息是，有一种很有前景的新药或许可以阻止失控基因的活动，这种药物只通过了晚期肾癌的测试和核准。沃特曼博士是服用此药来治疗白血病的第一人。
+And now, against all odds, his cancer is in remission and has been since last fall.
+度过九死一生的难关，他的癌症从去年秋天起开始有所缓解。
+While no one can say that Dr. Wartman is cured, after facing certain death last fall, he is alive and doing well. Dr. Wartman is a pioneer in a new approach to stopping cancer. What is important, medical researchers say, is the genes that drive a cancer, not the tissue or organ — liver or brain, bone marrow, blood or colon — where the cancer originates.
+没有人可以说沃特曼博士已经痊愈，但逃过了去年秋天的死亡命运，沃特曼博士活了过来，并恢复得不错。沃特曼博士成了尝试治疗癌症新方法的第一人。医学研究人员说，重要的是激发癌症的基因，而不是产生癌症的组织或器官——不管是肝脏、大脑、骨髓、血液还是结肠。 
+One woman’s breast cancer may have different genetic drivers from another woman’s and, in fact, may have more in common with prostate cancer in a man or another patient’s lung cancer.
+一位乳腺癌患者的致癌基因可能和另一位女性患者的截然不同，而实际上可能和某个前列腺癌患者，或肺癌患者的致癌基因更为相似。
+Under this new approach, researchers expect that treatment will be tailored to an individual tumor’s mutations, with drugs, eventually, that hit several key aberrant genes at once. The cocktails of medicines would be analogous to H.I.V. treatment, which uses several different drugs at once to strike the virus in a number of critical areas.
+通过新的抗癌手段，研究人员希望可以依据肿瘤的突变来“量身定做”治疗方案，并最终利用药物一次性影响数个关键的异常基因。这种混合制剂和艾滋病治疗方式类似，同时使用几种不同药物，在数个关键部位攻击病毒。
+Researchers differ about how soon the method, known as whole genome sequencing, will be generally available and paid for by insurance — estimates range from a few years to a decade or so. But they believe that it has enormous promise, though it has not yet cured anyone.
+这种被称为全基因组测序的治疗方法何时能够做到大众普及并被医保覆盖，研究人员对此莫衷一是——人们的估计从几年到十几年不等。但他们相信，这一治疗方法有巨大前景，虽然至今还没有治愈的案例。
+With a steep drop in the costs of sequencing and an explosion of research on genes, medical experts expect that genetic analyses of cancers will become routine. Just as pathologists do blood cultures to decide which antibiotics will stop a patient’s bacterial infection, so will genome sequencing determine which drugs might stop a cancer.
+随着测序技术成本的显著下降和基因研究的兴起，医学专家希望癌症的基因分析会成为常态。正如病理学家通过血液培养来决定哪一种抗生素能够阻止细菌感染，基因组测序也能够决定哪一种药物能够治愈癌症。
+“Until you know what is driving a patient’s cancer, you really don’t have any chance of getting it right,” Dr. Ley said. “For the past 40 years, we have been sending generals into battle without a map of the battlefield. What we are doing now is building the map.”
+“在你知道患者的致癌基因之前，你没有办法来治疗癌症，”利博士说。“在过去的40年中，我们的将军一直是没有地图就上战场。我们现在做的就是绘制地图。”
+Large drug companies and small biotechs are jumping in, starting to test drugs that attack a gene rather than a tumor type.
+大型制药公司和小型生物科技公司也加入了进来，开始测试药物，用新药攻击致病基因，而不是某一种肿瘤。
+Leading cancer researchers are starting companies to find genes that might be causing an individual’s cancer to grow, to analyze genetic data and to find and test new drugs directed against these genetic targets. Leading venture capital firms are involved.
+领先的癌症研究人员正在创立公司，致力于发现可能引起癌细胞增生的基因，做基因数据分析，并研发和测试针对致病基因的新药。一些领先的风险投资公司也参与了进来。
+For now, whole genome sequencing is in its infancy and dauntingly complex. The gene sequences are only the start — they come in billions of small pieces, like a huge jigsaw puzzle. The arduous job is to figure out which mutations are important, a task that requires skill, experience and instincts.
+目前，全基因组测序还处在初期阶段，且极其复杂。 基因序列只是开始——基因片段多达数十亿个，就像是一个巨大的拼图。工作的艰巨之处就是找到关键的突变，这需要技术、经验和直觉。
+So far, most who have chosen this path are wealthy and well connected. When Steve Jobs had exhausted other options to combat pancreatic cancer, he consulted doctors who coordinated his genetic sequencing and analysis. It cost him $100,000, according to his biographer. The writer Christopher Hitchens went to the head of the National Institutes of Health, Dr. Francis Collins, who advised him on where to get a genetic analysis of his esophageal cancer.
+到目前为止，那些选择基因测序治疗癌症的人多数都极有钱，而且人脉甚广。当史蒂夫·乔布斯(Steve Jobs)为治疗胰腺癌用尽了其他一切方法之后，他咨询医生并由医生协调安排进行了基因测序和分析。他的传记作者透露，为此他花费了10万美元。作家克里斯托弗·希钦斯(Christopher Hitchens)曾求助于美国国家健康研究院(National Institutes of Health)的院长弗朗西斯·科林斯(Francis Collins)博士，后者告诉了他到哪里可以做食道癌的基因分析。
+Harvard Medical School expects eventually to offer whole genome sequencing to help cancer patients identify treatments, said Heidi L. Rehm, who heads the molecular medicine laboratory at Harvard’s Partners Healthcare Center for Personalized Genetic Medicine. But later this year, Partners will take a more modest step, offering whole genome sequencing to patients with a suspected hereditary disorder in hopes of identifying mutations that might be causing the disease.
+哈佛医学院(Harvard Medical School)希望最终可以通过全基因测序来帮助癌症患者确定治疗方法，海蒂·L·雷姆(Heidi L. Rehm)说道。她负责哈佛医学院美国联盟医疗中心个性化遗传医学的分子医学实验室(Partners Healthcare Center for Personalized Genetic Medicine) 。但今年下半年，联盟医疗中心会先采取一个相对小的步骤，给疑似患有遗传病的患者做全基因组测序，希望找到可能导致了疾病发生的基因变异。
+Whole genome sequencing of the type that Dr. Wartman had, Dr. Rehm added, “is a whole other level of complexity.”
+雷姆博士说，对沃特曼博士进行的全基因组测序“其复杂程度更高得多”。
+Dr. Wartman was included by his colleagues in a research study, and his genetic analysis was paid for by the university and research grants. Such opportunities are not available to most patients, but Dr. Ley noted that the group had done such an analysis for another patient the year before and that no patients were being neglected because of the urgent work to figure out Dr. Wartman’s cancer.
+沃特曼博士的同事安排他加入了一项研究中，他的基因分析由大学和科研经费来支付。这种机会并不是大多数患者能有的，但利博士说，他们在前年也为另一个患者做了同样的基因分析。利博士还说，他们没有因为紧急研究沃特曼博士的病例而忽视其他患者。
+“The precedent for moving quickly on a sample to make a key decision was already established,” Dr. Ley said.
+“从样本入手快速分析，制定关键决策，已经有这样的先例了，”利博士说。
+Ethicists ask whether those with money and connections should have options far out of reach for most patients before such treatments become a normal part of medicine. And will people of more limited means be tempted to bankrupt their families in pursuit of a cure at the far edges?
+伦理学家提出了质问，在这样的治疗方法普及化之前，是否应该让那些社会关系发达的富人享有大多数患者无法企及的选择？那些资源有限的人是否会冒着家庭破产的危险去追求如此超前的治疗方法？
+“If we say we need research because this is a new idea, then why is it that rich people can even access it?” asked Wylie Burke, professor and chairwoman of the department of bioethics at the University of Washington. The saving grace, she said, is that the method will become available to all if it works.
+“如果说这是一个新想法，我们还要研究，那么为什么那些富人能得到这种治疗？”华盛顿大学生物伦理学院的教授兼院长怀利·伯克(Wylie Burke)问道。聊可慰藉的是，如果该方法有效，则会惠及大众。
+A Life in Medicine
+医学生涯
+It was pure happenstance that landed Dr. Wartman in a university at the forefront of cancer research. He grew up in small-town Indiana, aspiring to be a veterinarian like his grandfather. But in college, he worked summers in hospitals and became fascinated by cancer. He enrolled in medical school at Washington University in St. Louis, where he was drawn to research on genetic changes that occur in cancers of the blood. Dr. Wartman knew then what he wanted to do — become a physician researcher.
+沃特曼博士来到这所癌症研究的前沿大学完全是偶然。他在印第安纳州的一个小镇上长大，希望像他祖父一样成为一个兽医。但念大学时，他利用暑假时间在医院工作，从此开始对癌症研究着迷。他进入了位于圣路易斯的华盛顿大学医学院，并着手研究血癌的基因变异。沃特曼博士从那个时候就知道自己想干什么——成为一名科研型的内科医生。
+Those plans fell apart in the winter of 2002, his last year of medical school, when he went to California to be interviewed for a residency program at Stanford. On the morning of his visit, he was nearly paralyzed by an overwhelming fatigue.
+他的人生计划在2002年冬天破碎了。这是他在医学院的最后一年，期间他前往加利福利亚州参加斯坦福一个住院医生项目的面试。参加面试的当天，他忽然感到极度的疲惫，几乎瘫倒在地。
+“I could not get out of bed for an interview that was the most important of my life,” Dr. Wartman recalled. Somehow, he forced himself to drive to Palo Alto in a drenching rain. He rallied enough to get through the day.
+“我不能下床去参加此生最重要的面试，”沃特曼博士回忆说。然而，他强挺着冒雨开车到帕洛阿尔托。他强打精神熬过了一天。
+When he returned to St. Louis, he gave up running, too exhausted for the sport he loved. He started having night sweats.
+回到圣路易斯，他放弃了跑步，由于筋疲力竭而无法进行他最热爱的运动。他在夜间开始盗汗。
+“I thought it might be mono,” he said. “And I thought I would ride it out.”
+“我觉得可能是单核细胞增多症，”他说。“我以为自己能挺过去。”
+But then the long bones in his legs began to hurt. He was having fevers.
+但是接着，他腿部的长骨开始疼痛。他也开始发烧。
+He was so young then — only 25 — and had always been so healthy that his only doctor was a pediatrician. So he went to an urgent care center in February 2003. The doctor there thought his symptoms might come from depression, but noticed that his red and white blood cell counts were low. And Lukas Wartman, who had been fascinated by the biology of leukemia, began to suspect he had it.
+那时他还很年轻，只有25岁。他一直以来都很健康，唯一的医生还是儿科医生。他在2003年2月进入了急诊中心，那里的医生认为他的症状可能来自于抑郁，但发现他血液里的红细胞和白细胞数量很低。深入研究白血病的沃特曼博士开始怀疑自己患上了这种疾病。
+“I was definitely scared,” he said. “It was so unreal.”
+“我万分惊恐，”他说。“不敢相信。”
+The next day, Mr. Wartman, who was about to graduate from Washington University’s medical school, went back there for more tests. A doctor slid a long needle into his hip bone and drew out marrow for analysis.
+第二天，即将从华盛顿大学医学院毕业的沃特曼博士回到学校接受更多的化验。医生用长针头从他的髋骨中抽出骨髓用以分析。
+“We looked at the slide together,” Dr. Wartman said, recalling that terrible time. “It was packed with leukemia cells. I was in a state of shock.”
+“我们一起观察切片，”沃特曼博士说，回忆起那可怕的一刻。“上面满是白血病细胞。我吓坏了。”
+Dr. Wartman remained at the university for his residency and treatment: nine months of intensive chemotherapy, followed by 15 months of maintenance chemotherapy. Five years passed when the cancer seemed to be gone. But then it came back. Next came the most risky remedy — intensive chemotherapy to put the cancer into remission followed by a bone-marrow transplant from his younger brother.
+沃特曼博士留在学校接受治疗：九个月的高强度化疗之后是15个月的维持性化疗。五年之后，癌症似乎已经消失。但它又复发了。接下来是更加危险的治疗——用高强度化疗让癌症缓解，然后接受来自他弟弟的骨髓移植。
+Seven months after the transplant, feeling much stronger, he went to a major cancer meeting and sat in on a session on his type of leukemia. The speaker, a renowned researcher, reported that only 4 or 5 percent of those who relapsed survived.
+骨髓移植后七个月，沃特曼博士感觉身体好了很多，他前往一个重要的癌症研讨会，参加了以他所患的白血病类型为主题的会议。发言人是一位有名的研究者，他报告说复发病人的生存几率只有4%或5%。
+“My stomach turned,” Dr. Wartman said. “I will never forget the shock of hearing that number.”
+“我心里一动，”沃特曼博士说。“我永远忘不了听到那个数字时所感到的震惊。”
+But his personal gauge of recovery — how far he could run — was encouraging.
+但他自己用跑步的里程来衡量康复的程度。这样看来，结果是乐观的。
+By last spring, three years after his transplant, Dr. Wartman was running six to seven miles every other day and feeling good. “I thought maybe I would run a half marathon in the fall.”
+到去年春天，也就是接受骨髓移植的三年后，沃特曼博士每隔一天跑步六到七英里，并感觉不错。“我想，或许到了秋天我就能跑完半程马拉松。”
+Then the cancer came back. He remembered that number, 4 or 5 percent, for patients with one relapse. He had relapsed a second time.
+可是，癌症再次来袭。他记起了那个数字，对有一次复发的病人来说，生存几率是4%或5%。这是他第二次复发。
+This time, he said, “There is no number.”
+这一次，他说，“没有生存几率了。”
+His doctors put him on a clinical trial to try to beat the cancer with chemotherapy and hormones. It did not work.
+他的医生对他采取了临床试验，试图用化疗和激素注射来抗击癌症。没有成功。
+They infused him with his brother’s healthy marrow cells, to no avail.
+他们再次向他注射了他弟弟的健康骨髓细胞，但毫无效果。
+A Clue in RNA
+RNA的线索
+Dr. Wartman’s doctors realized then that their last best hope for saving him was to use all the genetic know-how and technology at their disposal.
+沃特曼博士的医生明白，他们最后的希望就是利用他们现有的所有基因技术。
+After their month of frantic work to beat cancer’s relentless clock, the group, led by Richard Wilson and Elaine Mardis, directors of the university’s genome institute, had the data. It was Aug. 31.
+这个抗癌小组的领导人是理查德·威尔逊(Richard Wilson) 和伊莱恩·马迪斯(Elaine Mardis)，他们都是大学基因研究所的主任。癌症的发展刻不容缓，他们疯狂工作了一个月，最终在8月31日获得了数据。
+The cancer’s DNA had, as expected, many mutations, but there was nothing to be done about them. There were no drugs to attack them.
+不出所料，癌细胞的DNA有过多次变异，但他们对此无能为力，没有对付变异的药物。
+But the other analysis, of the cancer’s RNA, was different. There was something there, something unexpected.
+但对癌细胞RNA的另一组分析却有所不同。有意想不到的结果。
+The RNA sequencing showed that a normal gene, FLT3, was wildly active in the leukemia cells. Its normal role is to make cells grow and proliferate. An overactive FLT3 gene might be making Dr. Wartman’s cancer cells multiply so quickly.
+RNA测序显示，一个正常基因FLT3在白血病细胞中超常活跃。这个基因的正常功能是让细胞生长和繁殖，而过度活跃的FLT3则可能会让沃特曼博士的癌细胞快速增多。
+Even better, there was a drug, sunitinib or Sutent, approved for treating advanced kidney cancer, that inhibits FLT3.
+更好的是，一种名为“舒尼替尼(sumitinib)”或“索坦(Sutent)”的药物能够抑制FLT3基因，该药物已经被核准可用于晚期肾癌的治疗。
+But it costs $330 a day, and Dr. Wartman’s insurance company would not pay for it. He appealed twice to his insurer and lost both times.
+但药物的费用是一天330美元，沃特曼博士的保险公司不愿支付这笔费用。他两次向保险公司提出请求，两次都失败而归。
+He also pleaded with the drug’s maker, Pfizer, to give him the drug under its compassionate use program, explaining that his entire salary was only enough to pay for 7 ½ months of Sutent. But Pfizer turned him down too.
+他还请求该药物的生产商辉瑞制药公司(Pfizer)以“爱心用药计划(compassionate use program)”的名义为他提供药物，他解释说他的全部工资只够支付七个半月的“索坦”。但辉瑞也拒绝了他的请求。
+As September went by, Dr. Wartman was getting panicky.
+9月就快过去了，沃特曼博士焦急万分。
+“Every day is a roller coaster,” he said at the time, “and everything is up in the air.”
+“每一天都像是坐过山车，”他当时这样说，“所有的事都悬而未决。”
+Desperate to try the drug, he scraped up the money to buy a week’s worth and began taking it on Sept. 16. Within days, his blood counts were looking more normal.
+他迫不及待地想尝试药物，好不容易凑出钱买了一周的剂量，在9月16日开始服用。他的血细胞计数看起来正常些了。
+But over dinner at a trendy St. Louis restaurant, he picked at his chicken and said he was afraid to hope.
+坐在圣路易斯的一家时髦餐厅里，他索然无味地扒弄着鸡肉，说自己已经不敢再期望。
+“Obviously it’s exciting,” he said. “But Sutent could have unanticipated effects on my bone marrow.” Maybe his rising red blood cell counts were just a side effect of the drug. Or maybe they were just a coincidence.
+“结果当然令人振奋，”他说。“但索坦会为我的骨髓带来预料之外的影响。”可能红细胞数量的增加只是该药的副作用。或许这只是巧合。
+“It’s hard to say if I feel any different,” Dr. Wartman said.
+“很难说我是否感到有什么不同，”沃特曼博士说。
+And the cost of the drug nagged at him. If it worked, how long could he afford to keep taking it?
+药物花销也让他感到烦恼。如果见效的话，他又能负担得起多长时间的药物治疗？
+The next day, a nurse at the hospital pharmacy called with what seemed miraculous news: a month’s supply of Sutent was waiting for Dr. Wartman. He did not know at the time, but the doctors in his division had pitched in to buy the drug.
+第二天，医院药房的护士打来电话，转告了一个近乎奇迹的消息：一个月的索坦药量正等着沃特曼博士。他当时并不知道，他那个部门的医生捐款为他买下了这些药。
+Two weeks later, his bone marrow, which had been full of leukemia cells, was clean, a biopsy showed.
+两周后的切片化验显示，他原本已经严重癌变的骨髓现在已经干净了。
+Still, he was nervous. The test involved taking out just a small amount of marrow. Cancer cells could be lurking unseen.
+但他还是感到不安。化验只抽取了少量的骨髓，而癌细胞可能仍潜伏着未被发现。
+The next test was flow cytometry, which used antibodies to label cancer cells. Again, there were no cancer cells.
+接下来的检查运用了流式细胞术，用抗体来对癌细胞进行标记。检查再次显示，没有癌细胞存在。
+But even flow cytometry could be misleading, Dr. Wartman told himself.
+沃特曼博士告诉自己，即使是流式细胞术也会出现错误结论。
+Finally, a yet more sensitive test, called FISH, was done. It labels cancer cells with fluorescent pieces of DNA to identify leukemia cells. Once again, there were none.
+最后，他们采用了更加精准的FISH检测 。该检测用荧光标记的DNA片段来确认白血病细胞。检测再一次显示，癌细胞已不见踪迹。
+“I can’t believe it,” his awe-struck physician, Dr. John DiPersio, told him.
+“这难以置信，”他的内科医生约翰·迪佩尔西奥(John DiPersio)感到万分惊异。
+Dr. Wartman, alone in his apartment, waited for his partner, Damon Berardi, to come home from work. That evening, Mr. Berardi, a 31-year-old store manager, opened the door with no idea of Dr. Wartman’s momentous news. To his surprise, Dr. Wartman was home early, waiting in the kitchen with champagne and two flutes he had given Mr. Berardi for Christmas. He told Mr. Berardi he should sit down.
+沃特曼博士一个人在公寓里等待着伴侣戴蒙·贝拉尔迪(Damon Berardi)下班回来。那天晚上，31岁的商店经理贝拉尔迪打开门时绝没有想到沃特曼博士会带来这一重大消息。他惊讶地发现沃特曼博士提早回了家，正坐在厨房里等着他，桌上放着香槟酒，还有沃特曼博士作为圣诞礼物送给他的长笛。沃特曼博士让贝拉尔迪坐下。
+“My leukemia is in remission,” he said. The men embraced exultantly, and Dr. Wartman popped open the champagne.
+“我的病情正在缓解，”他说。两人欣喜若狂地相拥在一起，沃特曼博士随即打开了香槟。
+“I felt an overwhelming sense of relief and a renewed vision of our future together,” Mr. Berardi said. “There were no tears at that moment. We had both had cried plenty. This was a moment of hope.”
+“我感到如释重负，一下子又看到了我们两个人的未来。”贝拉尔迪说道。“那一刻我们都没有哭。我们已经哭过不少次了。那一刻是希望的时刻。”
+Hunches and Decisions
+直觉和决策
+Dr. Wartman and his doctors had fateful decisions to make, with nothing but hunches to guide them. Should he keep taking Sutent or have another bone-marrow transplant now that he was in remission again?
+沃特曼博士和医生面临着生死攸关的抉择，却只能凭着直觉去决定。现在病情再次得到缓解，他是继续服用索坦，还是接受第二次骨髓移植手术？
+In the end, Dr. DiPersio decided Dr. Wartman should have the transplant because without it the cancer might mutate and escape the Sutent.
+最终，迪佩尔西奥博士作出决定：沃特曼博士应该再次接受骨髓移植，否则癌细胞可能会发生变异而导致索坦失效。
+Meanwhile, Pfizer had decided to give him the drug. Dr. Wartman has no idea why. Perhaps the company was swayed by an impassioned plea from his nurse practitioner, Stephanie Bauer.
+同时，辉瑞决定为他提供药物。沃特曼博士不知道为什么。或许是他的护理师斯蒂芬妮·鲍尔(Stephanie Bauer)的激烈恳求说服了这家公司。
+Dr. Wartman’s cancer is still gone, for now, but he has struggled with a common complication of bone-marrow transplants, in which the white blood cells of the transplanted marrow attack his cells as though they were foreign. He has had rashes and felt ill. But these complications are gradually lessening, and he is back at work in Dr. Ley’s lab.
+沃特曼博士的癌症目前没有复发，但他还要和一个骨髓移植的常见并发症作斗争，移植来的骨髓中的白细胞对他自身的细胞产生了排异反应，好像它们是外来细胞一样。他出了皮疹，感觉非常难受。但这些并发症在不断减轻，他又可以回到利博士的实验室工作了。
+His colleagues want to look for the same mutation in the cancer cells of other patients with his cancer. And they would like to start a clinical trial testing Sutent to discover whether the drug can help others with leukemia, or whether the solution they found was unique to Lukas Wartman.
+他的同事们意欲在这一癌症的其他患者的癌细胞中寻找同样的变异，它们还想发起对索坦的临床试验，以研究这一药物能否帮助其他白血病患者，还是只对卢卡斯·沃特曼有效。
+Dr. Wartman himself is left with nagging uncertainties. He knows how lucky he is, but what does the future hold? Can he plan a life? Is he cured?
+沃特曼博士自己也被种种不确定性所困扰。他知道自己相当幸运，但未来会如何？他能够计划自己的生活了吗？他被治愈了吗？
+“It’s a hard feeling to describe,” he said. “I am in uncharted waters.”
+“这是一种难以描述的感觉，”他说。“这是一条没有人走过的路。”

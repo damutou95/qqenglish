@@ -1,0 +1,50 @@
+What ever happened to the Goldilocks planet?
+适居带(Goldilocks)行星究竟发生了什么？ 
+It was big news back in September 2010 when a group led by Steven S. Vogt of the University of California, Santa Cruz, and R. Paul Butler of the Carnegie Institution for Science said they had discovered a small planet circling a small red star in the constellation Libra, at a distance smack in the middle of the so-called Goldilocks zone — that “just right” region where water on the surface is possible.
+2010年9月，一条消息引起了轰动。一支由加州大学圣克鲁斯分校(University of California, Santa Cruz)的史蒂文·S·沃格特(Steven S. Vogt)和卡内基科学研究所(Carnegie Institution for Science)的R·保罗·巴特勒(R. Paul Butler)领导的研究小组宣布，他们发现有一颗小行星在围绕一颗位于天秤座的红色小型恒星旋转，这颗行星刚好位于所谓的适居带(Goldilocks zone)上——那种位置“恰巧合适”，可能有水存在的地带。 
+If confirmed, Gliese 581g, as it is known, would be the first known exoplanet — that is, a planet outside our own solar system — that could support life. But within weeks, a group of exoplanet astronomers based at the Geneva Observatory in Switzerland under the leadership of Michel Mayor said they could not find the planet in their own extensive data on the star. After other papers appeared questioning the statistical significance of the new planet, most astronomers consigned it to the bin of failed dreams.
+如果得到证实，这颗被命名为Gliese 581g的行星将会成为第一个为人所知的可能存在生命的外部行星，也就是我们太阳系以外的行星。但是仅在几周之内，一群来自瑞士日内瓦天文台(Geneva Observatory)的外部行星天文学家说，他们有大量该恒星的资料，但却没有找到那颗行星的相关信息。这个团队的领导者是米歇尔·马约尔(Michel Mayor) 。后来又有一些论文发表，质疑这颗新行星的统计学意义，之后，多数天文学家都认为，这个梦想算是落空了。
+In July, however, Dr. Vogt and Dr. Butler struck back.
+然而，今年7月，沃格特和巴特勒作出了回应。
+In a paper in the journal Astronomische Nachrichten (Astronomical Notes) they argued that the planet does indeed show up in the Swiss observations, if they are analyzed properly.
+他们在杂志《天文学通报》(Astronomische Nachrichten)上发表了一篇文章，争辩道，如果对瑞士的观察结果进行正确分析，就会发现该行星的确出现在了观测结果中。
+“We see the planet in their data,” Dr. Butler said recently.
+巴特勒最近表示，“我们在他们的数据中看到了那颗行星。”
+The new paper has raised eyebrows, but has so far changed few minds.
+这篇新的论文引起了人们的惊讶，但是并没能改变多少人的看法。
+Typical was the response from Artie P. Hatzes, a former student of Dr. Vogt’s who is now at the Thuringian State Observatory in Tautenburg, Germany, who said it pained him to see his old mentor sticking to a conclusion “that is obviously wrong.”
+其中最为典型的是阿蒂·P·哈茨斯(Artie P. Hatzes)。他曾是沃格特的学生，现在在德国陶滕堡的图林根州天文台(Thuringian State Observatory)工作。他说，看到自己原来的导师在坚持一个“明显错误”的结论，他感到很痛心。
+Dr. Hatzes called Gliese 581g “a marginal detection” that was not supported by additional data, something that happens often. “I think that no amount of fancy analysis can replace having high-quality data and more of it,” he said.
+哈茨斯认为Gliese 581g是一个“边缘性的发现”，缺乏更多的数据支持，这种情况经常发生。他说，“我认为，任何花哨的分析，也不能代替拥有更多高质量的数据。”
+The impasse has led some astronomers to suggest that an outsider look at the data, but everyone is too busy with his or her own research. In the two years since Gliese 581g (pronounced GLEE-za) was announced, NASA’s Kepler satellite has identified more than 2,300 candidate planets in a small portion of the Milky Way in the Cygnus constellation, which scientists are sifting in hopes of soon discovering what some call Earth 2.0.
+鉴于出现了僵局，一些天文学家提议，让外部人士来查看这些资料，但是每个人都在忙于自己的研究。在宣布发现Gliese 581g 之后的两年中，美国国家航空航天局(NASA)的“开普勒”卫星在银河系天鹅星座发现了2300多个候选行星，科学家们正在对这些行星进行筛选，希望能够尽快发现所谓的“地球 2.0”。
+If nothing else, the dispute illustrates just how hard it is to find out what is going on only a short distance away in the universe. The star Gliese 581 is about 20 light-years away, next door in cosmic terms. The evidence for its planets comes from slight periodic variations in the star’s velocity, caused by gravitational tugs of planets swirling around it. The heavier the planet and the closer it is to its star, the bigger the tug, so it can take years to build up and parse the data for an entire system — the so-called wobble method.
+无论如何，这个争议表明，想要弄清楚宇宙中离我们并不遥远的地方的情况有多么困难。Gliese 581恒星距离我们约20光年，从宇宙范围来看就相当于我们的邻居了。它的周围存在行星的证据，来自它速度的微小周期性变化，这种变化是由围绕它公转的行星引力作用造成的。行星越重，离恒星越近，引力也就越强。要收集和分析整个星系的数据，可能要花费数年时间，也就是用所谓的“天体测定法”(wobble method)。
+It was on this basis, using sensitive spectrography on a telescope in Chile, that the Geneva team concluded by 2007 that there were four planets circling the star, two of them on either side of the “habitable zone.”
+正是基于这种方法，日内瓦研究组利用智利的一架望远镜，通过高灵敏度的摄谱术，于2007年得出结论，发现这颗恒星共有四颗行星，其中两颗分别在“适居带”的两侧。
+Three years later, Dr. Vogt and his colleagues added two more planets based on their own observations with the Keck telescope in Hawaii, including the one in the middle of the habitable zone, circling the star every 37 days.
+三年之后，通过位于夏威夷的“凯克”望远镜，沃格特和同事表示又发现了两颗行星，其中就包括那颗位于适居带的行星，它每37天绕恒星一周。
+The European astronomers were quick to say the new planet was not in their own data. But much to the annoyance of Dr. Vogt and his colleagues, that data was not made public for a year, in a paper posted to the Internet by Thierry Forveille of the Grenoble Observatory in France, the lead author.
+欧洲的天文学家迅速表示，他们的数据中没有那颗新发现的行星。更让沃格特和同事感到不满的是，那些数据有一年的时间没有正式公布，只是出现在法国格瑞诺布天文台(Grenoble Observatory)的蒂埃里·福韦耶(Thierry Forveille)作为第一作者在互联网上发表的一篇文章里。
+Dr. Forveille and his colleagues concluded that their data were best fit by a model in which Gliese 581 had four planets, one of which had an elongated elliptical orbit of 69 days.
+福韦耶和同事说，他们的数据与恒星Gliese 581有四颗行星的模型最吻合，其中一颗行星的运行轨道呈狭长的椭圆形，公转周期为69天。
+Dr. Vogt and his colleagues contend that such an arrangement would be unstable, leading to colliding planets within 200,000 years. Redoing the analysis and assuming that the orbits were all circular, they found leftover data points that could be explained by a fifth planet with an orbit of about 32 days, snugly in the habitable zone, and a mass slightly more than twice that of Earth, essentially confirming their original Goldilocks claim.
+沃格特和同事反驳称，这样的布局并不稳定，将会在20万年内发生行星相撞。通过重新分析数据，并假设所有行星的轨道都呈圆形，他们发现，剩余的数据点能够通过第五颗行星的存在得到解释。这颗行星的运行周期在32天左右，正好处在适居带上，质量略微超出地球的两倍，这基本上就证实了他们之前关于适居带行星的说法。 
+Getting this new study published was a tricky problem. Because the Forveille data had not yet been published in a peer-reviewed journal, Dr. Vogt was not able to publish his analysis of that data in The Astrophysical Journal, the journal of choice for American astronomers.
+让这篇新的研究报告获得发表有些困难。目前福韦耶的数据还未在任何有同行评议的期刊上发表过，因此沃格特也就不能把自己对那些数据的分析发表在美国天文学家们通常选择的《天文物理期刊》(The Astrophysical Journal)上。 
+So they sent it to Astronomische Nachrichten, one of the oldest astronomy journals in the world, but rarely the venue today for groundbreaking news. “So we will now publish their own data for them for all the world to see and analyze, and then judge for themselves whether the Swiss’s rebuttal claims have any credibility,” Dr. Vogt wrote.
+所以，他们把这篇研究报告送到了《天文学通报》。这是世界上历史最悠久的天文学期刊之一，但是目前，上面很少有轰动性的新闻。沃格特写道，“所以，我们现在要替他们公布他们自己的数据，让全世界去审阅和分析，之后再让他们自行判断，瑞士方面的反驳意见是否可信。”
+In an e-mail, Dr. Forveille shrugged off the new report, writing that his own team’s computer simulations showed that the planetary system with elliptical orbits was stable at least over 900,000 years.
+福韦耶在一封电子邮件中对这份新的报告表示不屑，他写道，自己团队的计算机模拟显示，椭圆形轨道的行星体系至少能在90万年内保持稳定。
+More to the point, he and other astronomers said, was that Dr. Vogt’s planet had a 4 percent chance of being a false alarm. That is far above the 1 percent chance normally considered a benchmark for planet detection, and much bigger than the margin Dr. Vogt and his colleagues had cited in their first paper.
+他和其他天文学家还说，更重要的是，沃格特发现的那颗行星有4%的可能属于误报，这比通常作为发现行星的1%误报率的衡量标准高出了很多，而且也比沃格特和他的同事们在第一篇论文中所说的概率大得多。
+Greg Laughlin of the University of California, Santa Cruz, an expert on planetary dynamics, said the chances of a false alarm rise to 12 percent when uncertainties about the star Gliese 581 itself — stellar noise — are added in.
+加州大学圣克鲁斯分校的行星动力学专家格雷格·劳林(Greg Laughlin)说，如果把Gliese 581恒星本身的不确定因素——恒星背景噪音——考虑进去，那么，这个发现的误报概率就升到了12%。
+But, he added, Dr. Vogt still had “a decent shot” of being right. It comes down to whether four planets with eccentric orbits or five planets with circular ones are a more economical fit to the data. But, of course, more data is needed. 
+但他也表示，沃格特仍有“一定的可能性”是对的。这取决于，四颗椭圆轨道的行星和五颗圆形轨道的行星，究竟哪一种模型和数据更加吻合。当然，还需要更多的数据。
+Eric Ford, an astronomer at the University of Florida who is involved with Kepler, noted that Carl Sagan had maintained that extraordinary claims require extraordinary evidence.
+佛罗里达大学(University of Florida)的天文学家埃里克·福特(Eric Ford)，也参与了“开普勒”太空天文台的研究，他指出，卡尔·萨根(Carl Sagan)曾说，不寻常的声明需要不寻常的证据。
+“In my judgment,” Dr. Ford said, “we do not have extraordinary evidence for the claimed planet Gliese 581g, at least not yet.”
+“根据我的判断，” 福特说，“我们并没有什么不同寻常的证据证明Gliese 581g行星的存在，至少目前还没有。”
+Dr. Hatzes agreed, but added, “I am sure this will not be the last we have heard of GL 581g.”
+哈茨斯表示同意，但他又说，“我相信，这绝不是我们最后一次听到GL 581g这个名字。”

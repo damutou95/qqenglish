@@ -1,0 +1,40 @@
+The thin plastic skin on Boeing’s 787 Dreamliner is an engineering marvel, a mix of carbon fibers and epoxy molded into large barrel-shaped sections that are then baked at up to 350 degrees in giant ovens.
+波音公司(Boeing)787梦想客机(Dreamliner)轻薄的塑料外壳是个工程学奇迹，用模具将碳纤维和环氧树脂塑成巨大的桶型部件，然后放入大熔炉在高达350度的温度下烧制而成。
+But while airlines love how this lightweight concoction saves fuel, the recent fire on a 787 at Heathrow Airport in London provides the first test of how difficult and costly it will be to repair serious damage. It’s happening at a pivotal moment for Boeing, which is eager to show that even significant damage to a carbon-composite plane like the 787 can be repaired as quickly and effectively as in the old aluminum models. Each day a jet remains grounded costs an airline tens of thousands of dollars.
+然而，尽管这一轻型混合物节省燃油的性能深受航空公司的喜爱，但最近发生在伦敦希思罗机场一架787客机的火灾，首次验证了修复严重损伤的难度和高昂成本。现在正值波音的关键时期，公司急于展示，像787这样的碳复合材料飞机，即使有重大损伤，也能与老式铝制机型修复得同样快、同样有效。一架飞机每停飞一天，就会让航空公司损失数万美元。
+Investigators believe that the cause of the fire, a pinched wire on an emergency transmitter, was fairly mundane. But the damage was anything but. The high temperatures weakened the supports in a 10-foot stretch at the top of the rear fuselage and seared the paint on the top of the skin, causing the most extensive damage yet to one of the new Dreamliners.
+调查人员认为，起火的原因相当简单，就是紧急发射器的一根电线扭曲，但造成的损失却绝不简单。高温削弱了机身后部顶端一块10英尺（约合3米）区域的支撑结构，烧坏了外壳顶部的油漆。这是新的梦想客机迄今为止所受到最严重的损伤。
+Aviation experts say Boeing will cut out the damaged areas and glue or, probably, bolt a large patch, made of overlapping panels of composite materials, onto the shiny new plane, which is less than a year old. “That’s a little like ‘Phantom of the Opera,’ where the guy had this mask to cover the fact that half his face was missing,” said Hans W. Weber, an aviation consultant in San Diego.
+航空专家表示，波音将把受损部分切割下来，然后用胶水，或者很可能是螺栓，把一块由多层复合材料板构成的大补丁，固定到这架使用不到一年的锃亮的新飞机上。圣迭戈航空顾问汉斯·W·韦伯(Hans W. Weber)说，“这有点像《歌剧魅影》(Phantom of the Opera)，里面那家伙戴着面具，掩盖他半边脸没了的事实。”
+Boeing will also need to install new composite supports, and possibly some made of stronger titanium, to hold that mask in place and shore up the structural integrity of the plane, owned by Ethiopian Airlines. If the damage were more extreme, the plane maker could remove the entire 23-foot-long barrel containing most of the jet’s rear fuselage and snap in another one, though composite experts doubt that it will do so in this case.
+波音还需要安装新的复合材料支架，其中一些可能将由强度更高的钛制成，目的是固定住补丁，并巩固飞机的结构强度。假如破损更严重，波音还可以把容纳机身后部大部分结构的23英尺长的桶状外壳整体取下，简单地换上新外壳。不过复合材料专家怀疑，此次这样做的可能性不大。拥有这架飞机的是埃塞俄比亚航空公司(Ethiopian Airlines)。
+Boeing said it was presenting the repair options to the airline and would not discuss them publicly. Its engineers are running computer models to analyze the costs and other trade-offs, like how much the added weight from the bracing might reduce the plane’s heralded fuel savings.
+波音表示，正准备把各种维修方案提交给该航空公司，不会公开对此进行讨论。波音的工程师正通过计算机模型分析花费，以及其他一些需要权衡的因素，比如支架增加的重量将在多大程度上削弱波音宣称的787省油量。
+Boeing executives say they have been developing the repair techniques for years, as they gradually increased the use of composite parts in other planes. And many of them are similar to the methods used with aluminum.
+波音高管表示，随着逐步增加其他机型上复合材料部件的应用，公司多年来一直在开发相关的维修技术，而且许多技术与铝制机型采用的维修方法类似。
+“We feel comfortable that we know how to address this issue and most other structural issues as they arise,” Boeing’s chief executive, W. James McNerney Jr., said last week.
+波音首席执行官小W·詹姆斯·迈克纳尼(W. James McNerney Jr.)上周称，“我们感觉很踏实，我们知道如何应对这一问题，以及可能出现的多数其他结构问题。”
+But some analysts seemed more skeptical, saying the fire on the Ethiopian jet raised a wild card that could make the repairs much more complicated than others on the 70 Dreamliners delivered since late 2011. Boeing said it had made smaller composite repairs on a few 787s that had been hit by lightning or bumped by airport service vehicles or mechanics’ tools.
+然而，一些分析人士似乎没那么有信心。2011年底以来，波音公司交付了70架梦想客机。分析人士认为，埃塞俄比亚航空公司飞机起火提出了一些未知问题，可能导致维修工作比其他已交付飞机的维修复杂得多。波音透露，公司曾在少数几架787上进行过规模较小的复合材料修复，这些飞机的破损源于雷击，或是被机场服务车或机修工具撞击。
+Given how crucial the innovative jets are to Boeing’s future — it expects to sell thousands of them in the coming decades — “they will do anything at this point to show that that airplane is repairable,” said Robert Mann, an aviation consultant in Port Washington, N.Y. “We’ll know how long it takes them to fix it, but realistically, we may never know what it costs.”
+波音希望在接下来的数十年里卖出数千架这样的飞机，鉴于这种创新型喷气机对波音的未来至关重要，纽约州华盛顿港航空顾问罗伯特·曼(Robert Mann)说，“此刻，他们会不惜采取任何措施，来显示飞机是可以修复的。我们会知道，波音公司需要多长时间来修复飞机，不过老实说，我们也许永远不会知道维修的成本。”
+The composite materials have created new challenges for airline mechanics, who need new maintenance tools and skills. Unlike aluminum, carbon structures do not dent visibly and require special ultrasound probes to identify damaged areas, and there is a shortage of mechanics with the right training.
+复合材料给航空机械师带来了新的挑战，他们需要新的维修工具和技巧。和铝制飞机不同，碳结构不会产生明显的凹陷，需要特殊的超声波探测器来辨别受损部位，而目前正缺少受过相关培训的机械师。
+To address these concerns, Boeing has devised repair kits to fix common types of damage, like when luggage carts bang against a plane.
+为了应对这些担忧，波音已经发明了新的维修工具包，以修复常见的损伤，比如行李车撞上飞机时产生的损伤。
+To reduce the need for complicated fixes, and cut repair time, Boeing has engineered spare parts that can be bolted onto areas that have been prone to damage on other planes. Those include damage around the plane’s nose, from pilots dragging the tail on the runway, or collisions with service vehicles near passenger and cargo doors.
+为了减少复杂维修的需要，并缩短维修时间，波音已经设计了一些备件，能够用螺栓固定到特定部位，这些都是其他机型上易于受损的部位。其中包括机鼻附近的损伤，由于驾驶员在跑道上拖着机尾滑行导致的损伤，以及客舱门或货舱门附近由服务车碰撞导致的损伤。
+“There are well-established repair techniques that have been developing to repair composite structures but it is fair to say that these recognized techniques are for smaller areas,” said Mark Tuttle, a professor of mechanical engineering and the director of the Center for Advanced Materials in Transport Aircraft Structures at the University of Washington.
+华盛顿大学(University of Washington)运输飞机结构先进材料卓越中心(Center of Excellence for Advanced Materials in Transport Aircraft Structures)主任、机械工程学教授马克·塔特尔(Mark Tuttle)说，“现在已经有完善的维修技术，用来维修复合材料的结构，不过，公平地说，这些得到认可的技术只适用于修复较小的部位。”
+For minor scrapes, mechanics can make simple repairs by bonding new layers of composite over the damaged areas with epoxy and heat from portable blowers. Other damage might require casting molds, special cutting tools, vacuum seals or small-scale ovens as well as bolts to hold the new composite layers in place.
+对于细微的剐蹭，机械师能够用环氧树脂和便携式鼓风机产生的热量，把新的复合材料层粘合到破损部位。其他破损可能需要铸模、特殊的切割工具、真空封接或小型熔炉和螺栓，才能把新复合材料层固定就位。
+The biggest problems come with more substantial damage, like on the Ethiopian Airlines jet. In this case, experts said, Boeing has to come up with a custom repair given the extent of the damage and its location at a critical area right in front of the tail, where the vertical stabilizer is attached to the fuselage.
+当损伤更严重时，最大的问题就来了，比如埃塞俄比亚航空公司这架飞机的损伤。专家说，在这种情况下，鉴于受损范围较大，受损部位位于机尾正前方的关键区域，在那里垂直尾翼连入机身，波音必须拿出一个定制的维修方案。
+Airbus has taken a somewhat different approach in building its A350 jets. Instead of the barrel-shaped architecture favored by Boeing, Airbus is using 40-foot to 60-foot composite panels for each section of the fuselage. Airbus contends that the process will make for easier repairs.
+空客(Airbus)在制造A350客机时采用了有点不一样的方式。它没用采用波音青睐的桶型构造，而是使用40英尺乘60英尺的复合材料板打造机身的各个部位。空客认为，这种工艺使维修更加容易。
+But as techniques improve, and airlines perfect the ability to cut out and replace damaged pieces within a section of the fuselage, it may not make much difference in the end whether the fuselage is made out of barrels or panels.
+不过，随着技术的改进，以及航空公司优化其能力，拆卸并替换机身特定部位受损部件，最终，机身是采取桶状构造还是以复合材料板打造，也许并没有太大区别。
+For now, though, all eyes will be on the Ethiopian jet and how the repair is handled.
+不过此刻，所有人都会把注意力放在这架埃塞俄比亚客机上，关注波音如何处理这一次维修。
+“This is a very important test for the industry and the airlines,” said Mr. Weber, the aviation consultant.
+航空顾问韦伯说，“对于航空业和航空公司而言，这是一次极其重大的考验。”

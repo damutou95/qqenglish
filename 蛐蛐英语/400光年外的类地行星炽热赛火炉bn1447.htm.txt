@@ -1,0 +1,34 @@
+Kepler 78b, a planet some 400 light-years away, is like hell on earth.
+开普勒78b(Kepler 78b)距地球400光年，是一颗地狱般炙热的行星。
+Astronomers described it on Wednesday as the first Earth-size planet that seems to be made of the same mixture of rock and iron as Earth, and that orbits a star similar to our sun.
+星期三，天文学家在介绍它时说，这是第一颗与地球大小相仿，看来同样由岩石和铁混合构成的行星。并且，它所绕行的恒星也类似太阳。
+But Kepler 78b would not be a pleasant place to visit. It whirls around its parent star, Kepler 78, at a distance of less than a million miles, and its year — the time it takes to complete one orbit — is just eight and a half hours. (By contrast, Earth is 93 million miles from the sun and, of course, completes its yearly orbit in a little over 365 days.)
+但是，开普勒78b绝不是一个人们乐于到访的地方。该行星的母恒星为开普勒78(Kepler 78)，两者距离不到100万英里（约合160万公里），完成一次公转的时间，也就是这颗行星上“一年”的时间，只有八个半小时。（相比之下，地球距太阳9300万英里，而且众所周知，完成一次公转的时间为365天多一点儿。）
+At that close proximity, the surface of Kepler 78b is infernally hot: 3,500 to 5,000 degrees Fahrenheit, or “well above the temperature where rock melts,” said Andrew W. Howard, an astronomer at the University of Hawaii and the lead author of one of two papers being published in the journal Nature. “This is probably one of the most hellish planets that have been discovered yet.”
+因为距离这样近，开普勒78b的地表热得仿佛地狱：温度高达3,500（约合1926摄氏度）到5,000华氏度。按照夏威夷大学(University of Hawaii)天文学家安德鲁·W·霍华德(Andrew W. Howard)的话来说，“这比岩石熔化的温度高得多。这可能是有史以来发现的地表温度最高的行星之一。”在《自然》(Nature)期刊上刊出的两篇相关论文里，霍华德是其中一篇的主要作者。
+Viewed from the surface of Kepler 78b, its star would cover 80 times more of the sky than the sun does in Earth’s sky.
+站在开普勒78b号行星上看，它的太阳在天空中会显得比地球的太阳大80倍。
+“It’s certainly not a habitable planet,” said Francesco Pepe, a professor of astronomy at the University of Geneva and the lead author of the other Nature paper.
+弗朗西斯科·佩佩(Francesco Pepe)是日内瓦大学(University of Geneva)的天文学教授，也是《自然》杂志上另一篇论文的主要作者。他说，“这颗行星肯定不宜居住。”
+Kepler 78b is the newest addition to the pantheon of oddball planets in the Milky Way. The first planet discovered around another sunlike star turned out to be about the size of Jupiter, but orbiting its star at what seemed to be an impossibly close orbit. Other discoveries over the years include a fluffy planet with a density less than that of cork and a planet blacker than coal.
+在银河系里，各种各样奇怪的行星有很多，开普勒78b是最新发现的一颗。第一颗发现的围绕类太阳恒星的行星，人们发现其体积跟木星差不多，但是其公转轨道距母恒星的距离看起来近得不可思议。这些年里，人们还发现过一颗质地蓬松的行星，密度比软木塞还小；还有一颗行星，颜色比煤还要深。
+“Exoplanets are just surprising us with their diversity,” said Dimitar D. Sasselov, a professor of astronomy at Harvard and a member of Dr. Pepe’s team, using the name for planets outside our solar system.
+迪米塔尔·D·撒塞尔洛夫(Dimitar D. Sasselov)是哈佛大学(Harvard)天文学教授，也是佩佩博士研究团队的成员，他说，“系外行星的多样性总会令我们大开眼界。”系外行星指的是太阳系之外的行星。
+Kepler 78b is one of more than 150 planets spotted by NASA’s Kepler spacecraft, which noted the dimming of the starlight when a planet passed in front.
+美国国家航空航天局(NASA)发射的开普勒(Kepler)太空望远镜共发现了150多颗行星，开普勒78b就是其中之一。当一颗行星从前方通过时，开普勒太空望远镜会记录下其星光的衰减。
+Those findings were published in August. But while Kepler can determine exoplanets’ size and orbit, it cannot measure their mass. For that, two teams of astronomers looked at Kepler 78b star from Earth. Dr. Howard’s team used the Keck 1 telescope in Hawaii; Dr. Pepe’s team used a telescope in the Canary Islands. They could not directly see the planet, but they could spot undulations in the frequency of light from the star caused by the gravitational pull of the planet. The heavier the planet, the larger the swings in frequency.
+这些发现在8月公布。不过，虽然开普勒号能够确认这些系外行星的大小和公转轨迹，但是却不能测定它们的质地。因此，两组天文学家从地球上对开普勒78b进行了观测。霍华德博士的团队采用的是位于夏威夷的凯克一号(Keck 1)望远镜；佩佩博士的团队使用的是位于加那利群岛的望远镜。他们都不能够直接观测到这颗行星，但是他们能够测量恒星发出的光频波动，而这些波动是由行星的引力造成的。行星的质量越大，光频的波动幅度也就越大。
+The teams coordinated their work, agreeing to publish their results at the same time, but they did not collaborate. They decided that they would not exchange their data and answers until their papers were almost complete so that each would serve as an independent check on the other.
+两支团队按照相似的工作进度开展研究，并同意同时发布结论，但是他们在工作上并无合作。他们决定，在论文完成之前绝不交换数据和答案。如此一来，这两个独立完成的研究才能相互验证其准确性。
+In the end, the two teams came up with nearly identical answers. The density of Kepler 78b is 0.2 pounds per cubic inch, the same as Earth’s, suggesting that the two planets’ makeup is very similar — an iron core with rocky, if melted, outer layers.
+最后，两支研究团队得到了几乎一致的结论。开普勒78b的密度为0.2磅/立方英寸（约合5.5克/立方厘米），与地球一致；这意味着这两颗行星的构成非常相似——都是铁的内核，外层覆盖着岩石（可能是熔融状态的）。
+“It’s the first really well measured Earthlike composition for a rocky extrasolar planet,” said L. Drake Deming, a professor of astronomy at the University of Maryland who was not a member of either team but wrote an accompanying commentary for Nature. That astronomers have already found an Earthlike planet suggests that there should be others in cooler, more life-friendly orbits. “You can reasonably conclude from that that it’s not rare, because you’ve found it pretty easily,” he said.
+L·德雷克·戴明(L. Drake Deming)是马里兰大学(University of Maryland)的天文学教授，他跟这两支研究团队都没有关系，但是专门为此次发现给《自然》期刊配发了一篇评论。他说，“它是第一颗经过精确测量的岩石构造、类似地球的太阳系外行星。”天文学家既然已经发现了一颗类地球的行星，这就意味着，肯定会有其他一些类地行星，温度较低，运行的轨迹也更适宜生命存在。戴明说，“你能从这个发现里得出结论：这类行星肯定不算少，因为没费什么力气就找到了一个。”
+That still leaves a mystery: how Kepler 78b got where it is. “Right now, we have no clue,” Dr. Sasselov said.
+但是还是有一个疑问：开普勒78b是如何出现在当前的位置上的？撒塞尔洛夫博士说，“现在，我们还没有什么线索。”
+It could not have formed there, because the star as a youngster would have extended into its orbit. A near-miss with another planet could have flung it toward the star, but in that case its orbit would have been elliptical, not circular. Or it was nudged inward by the material that formed the planets.
+它不可能是在这个位置上形成的，因为当时，这颗恒星年轻的时候，一定更大，会侵占它的轨道。或者，开普勒78b与另一颗行星擦肩而过，就会将它甩向恒星；不过这样一来，它的公转轨迹就应该是椭圆形的，而不是圆形的。或者，有可能它是被形成行星的物质推向恒星。
+Another possibility is that it was originally a gas giant like Saturn and that as the planet spiraled in toward the star, all of the gases were stripped away, leaving just the rocky core at the center.
+还有一种可能性，就是这颗行星一开始像是土星一样，是一个被气体环绕的巨大星体。随着该行星旋转着离恒星越来越近，所有的气体都逐渐脱离，只剩下行星中央的岩石内核。
+“Right now, this scenario doesn’t work, either,” Dr. Sasselov said. “If you want me to choose out of four bad ones, that’s probably the one which seems least so.”
+撒塞尔洛夫博士说，“现在，这个假设也说不通。但如果你希望我从这四个没什么说服力的假设中挑一个，那么最后这个假设倒像是最有可能的。”

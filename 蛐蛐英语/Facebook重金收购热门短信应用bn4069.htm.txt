@@ -1,0 +1,46 @@
+The frenzy to acquire fast-growing technology start-ups reached new heights on Wednesday as Facebook announced its largest acquisition ever, saying it would pay at least $16 billion for WhatsApp, a text messaging application with 450 million users around the world who pay little or no money for it.
+周三，Facebook宣布了它有史以来最大的一项收购，表示将以最少160亿美元（约合970亿元人民币）的价格买下在世界各地拥有4.5亿用户的短信应用WhatsApp。由此，这股收购快速增长的科技创业公司的狂热势头又达到了一个新高度。用户使用WhatsApp无需付费，或者仅需少量费用。
+The eye-popping price signals the lengths to which Facebook’s co-founder and chief executive, Mark Zuckerberg, will go to protect his company’s turf as the dominant social network on the web, and is sure to fuel the debate on whether consumer Internet companies are overvalued.
+这一令人瞠目结舌的价格意味着，Facebook的联合创始人兼首席执行官马克·扎克伯格(Mark Zuckerberg)会不惜代价捍卫公司网络社交媒体霸主的地位，这也一定会让有关消费互联网企业是否估值过高的辩论愈演愈烈。
+Facebook, in Menlo Park, Calif., will pay $4 billion in cash and $12 billion worth of shares for WhatsApp. But the ultimate cost of the deal could rise to $19 billion, with WhatsApp employees and founders potentially receiving an additional $3 billion in restricted stock units, which would vest over the next four years.
+总部位于加利福尼亚门洛帕克的Facebook将为WhatsApp支付40亿美元现金和价值120亿美元的股票。但由于WhatsApp的员工和创始人可能会另外得到价值30亿美元的流通受限股，并将在未来四年内获得这些股票，最后的成交金额可能将升至190亿美元。
+By any measure, Facebook is paying a steep price for a company that is widely used internationally but is less known in the United States. WhatsApp does not sell advertising and has very little revenue. It charges users a flat fee of $1 a year to use the service, and the first year is free.
+以任何标准衡量，Facebook都付了一个极高的价格。它所收购的这家公司，其服务在全球广泛使用，但在美国的名气却没那么响。WhatsApp不出售广告，营收也不多。它每年会向使用服务的用户收取固定的1美元，但第一年是免费的。
+The purchase price dwarfs the $1 billion Facebook paid for Instagram, the photo-sharing service. At the time of that deal in 2012, critics assailed Facebook for overpaying, and this megadeal is sure to attract similar scrutiny. And the price is also much higher than the $3 billion Facebook unsuccessfully offered to acquire Snapchat, another messaging service, late last year.
+相比这一价格，Facebook向照片分享服务Instagram支付的10亿美元就显得微不足道了。2012年进行Instagram的收购时，批评人士就说Facebook出价过高，而现在这笔巨额交易也必然会引来类似的关注。这一价格也比Facebook去年年底给另一个短信服务Snapchat的报价高出很多，当时Facebook提出了30亿美元，但遭到拒绝。
+But Mr. Zuckerberg is clearly willing to spend big to acquire hot messaging technologies, which typically attract younger people than Facebook does.
+但扎克伯格显然愿意花大价钱购买热门的即时通讯技术，因为相比起Facebook的用户，它们特别能吸引更年轻的用户群。
+“Facebook is constantly working to not lose anybody,” said Nate Elliott, an analyst with Forrester Research. “Sometimes that is them innovating on their own, sometimes that’s them mimicking competitors, and sometimes that’s them buying them competitors.”
+“Facebook一直在努力不流失任何一个用户，”弗雷斯特研究公司(Forrester Research)的分析师纳特·艾略特(Nate Elliott)说。“有时候，他们会自己创新开发，有时候他们会仿效竞争对手，而有时候他们会收购竞争对手。”
+The acquisition also reflects a new strategy at Facebook: The company intends to acquire or build a family of applications instead of simply buttressing its core social network.
+这项收购也反映了Facebook的一种新战略：不能一味只知完善它的核心社交网络，还要购买或者打造一个应用群。
+Now a 10-year-old social network with 1.2 billion users globally, Facebook has become so ubiquitous in many countries that it risks losing some of the attention of users.
+社交网络Facebook已创立10年，在全球有12亿用户。在许多国家，人们对它已习以为常，以至于一些用户可能对它不会那么关注了。
+In buying WhatApp, which is growing faster than its rival Twitter and other social services, Facebook gains access to customers who prefer communicating one-on-one or with very small groups rather than sharing information more widely.
+WhatsApp的增长要快过Twitter等它在社交服务领域的竞争对手。通过对它的收购，Facebook能够获取它的客户群，也就是那些更乐于一对一或者与有限数量的群体交流，而不是广泛分享信息的客户。
+Facebook also has struggled to gain traction in the message space in recent years, a big motivation for its failed offer for Snapchat. While Facebook Messenger, the company’s chat platform, is popular with users, recent attempts to create its own direct messaging service have failed.
+Facebook近年来一直努力想在即时通讯服务领域取得发展，这也是它对Snapchat的那项不成功收购的主要动因。虽然Facebook的聊天平台Facebook Messenger受到了注册用户的欢迎，但近来它想要自己打造独立的短信服务的种种努力，都以失败告终。
+Facebook is justifying the price of this deal by citing WhatsApp’s startling growth, which has been even faster than Facebook’s own in its early years. On a conference call with analysts, David Ebersman, Facebook’s chief financial officer, compared WhatsApp to companies with 1 billion users.
+Facebook对如此高价给出的理由是，WhatsApp的增长速度惊人，甚至比早年的Facebook还快。在与分析师的一场电话会议中，Facebook的首席财务官戴维·埃博斯曼(David Ebersman)认为，WhatsApp相当于那些有着10亿用户的公司。
+“The primary thing we focused on was how healthy this network is and the pace at which it was growing,” he said. “We looked at other networks that have achieved those kinds of scale” and that helped provide a framework, Mr. Ebersman said.
+他说，“我们首先关注的就是这家社交网络的健康状况与增长步调。”埃博斯曼还表示，“我们也研究了达到同等规模的其他网络，”而这种做法有助于提供基本框架。
+In the announcement on Facebook’s website, the company said that WhatsApp’s messaging volume is now approaching the entire volume of all text messages sent globally. Based on global estimates, that number could be as high as seven trillion messages sent on WhatsApp a year.
+在自家网站发表的声明中，Facebook表示，WhatsApp目前的通讯量接近于全球手机短信的发送总量。参照这一全球发送量来估算，WhatsApp上的讯息年发送量可能高达7万亿条。
+In a conference call with analysts, Jan Koum, WhatsApp’s co-founder and chief executive, played down the idea of putting ads on WhatsApp and said he was satisfied with its current subscription model.
+在与分析师进行的电话会议中，WhatsApp的联合创始人兼首席执行官扬·库姆(Jan Koum)对在WhatsApp上放广告的想法予以了淡化，自称对目前的注册模式相当满意。
+“Monetization is not going to be a priority for us,” Mr. Koum said.
+“挣钱并非是我们将来的重点，”库姆说。
+By some metrics, the cash and stock being paid for WhatsApp make it among the richest deals of all time. With 55 employees, WhatsApp is commanding a price equivalent to $344 million an employee, or about $28 a user.  And it is the largest acquisition ever of a venture capital-backed start-up, according to Dow Jones VentureSource.  
+按照某些计算方法，付给WhatsApp的现金加股票将这笔交易推至史上最贵之列。WhatsApp共有55名员工，相当于每个员工要价3.44亿美元，或是每名用户要价28美元。而且，根据道琼斯风险资源(Dow Jones VentureSource)的数据，这还是靠风投资金支撑的创业企业所经历的最大一宗收购案。
+Facebook had $7.9 billion in revenue last year, most of it from advertising. Mr. Zuckerberg said that money would help give WhatsApp the breathing room to focus on growth without needing to come up with an immediate plan for making money.
+Facebook去年的营收为79亿美元，大部分来自广告。扎克伯格称，充足的资金能给WhatsApp提供专注增长所需的喘息空间，让它不用立即拿出盈利方案。
+In that sense, Mr. Zuckerberg is following the successful strategy he used for Instagram, allowing the service to grow quickly before gradually adding in revenue — in Instagram’s case, from advertising.
+在这一点上，扎克伯格在复制自己用在Instagram上的成功模式。允许它首先高速增长，然后再逐步获取收入——Instagram的方式是引入广告。
+WhatsApp, which is based in a small office in Mountain View, Calif., was founded by Mr. Koum and Brian Acton, two former Yahoo executives, in 2009. 
+WhatsApp的总部位于加利福尼亚州的山景城，办公室不大。2009年，曾在雅虎(Yahoo)管理层任职的库姆与布莱恩·阿克顿(Brian Acton)联合创办了这家公司。
+Mr. Aston and Mr. Koum have enjoyed portraying WhatsApp as the antithesis of Silicon Valley. Unlike many young start-ups that clamor for attention, the WhatsApp founders often turn down interviews with the press.
+阿克顿与库姆乐于将WhatsApp塑造成硅谷反叛者的形象。与许多渴望曝光的年轻创业企业不同，WhatsApp的两位创始人常常拒绝媒体的采访要求。
+They have denounced the model of relying on advertising for revenue. And in an interview last year, they made clear that they were not quickly adding users with the goal of selling their business.
+他们不推崇依赖广告的盈利模式。去年接受采访时，他们明确表示，不会为了出售自己的公司来快速增加用户。
+“Selling the company is easy,” Mr. Koum said in an interview last year. “It happens in Silicon Valley all the time. Anybody can build a company and sell the company the next day. That doesn’t make you special, it doesn’t make you unique, it doesn’t make you all that great.”
+“卖掉公司很容易，”库姆在去年的一次采访中说。“在硅谷，这种事情每时每刻都在发生。任何人都可以开一家公司，然后第二天卖掉。这样做不会让你与众不同，不会让你独一无二，不会让你伟大卓越。”

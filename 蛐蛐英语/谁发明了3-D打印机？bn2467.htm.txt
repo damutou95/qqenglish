@@ -1,0 +1,28 @@
+In the early 1980s, an engineer named Chuck Hull approached his boss with an idea: to build a machine that printed out objects you could hold in your hand. His manager discouraged him — after all, the company produced UV lamps, not “Star Trek” replicators. But eventually the two men reached a compromise: Hull would dedicate himself to the company’s lamps by day; at night he’d cobble together his dream machine.
+在80年代早期，有一个叫查科·赫尔(Chuck Hull)的工程师向老板描述了一个想法：开发一台能够打印出看得见摸得着的实体物品的设备。老板的反应却多少让他有些失望：毕竟，公司生产的是紫外线灯，而不是电影《星际迷航》(Star Trek)中的复制器。然而最终这两个人达成了妥协：赫尔白天的时候专注于公司的紫外线灯业务；而晚上的时间，他可以摆弄他所谓的梦想机器。
+It was the UV lights that gave Hull his insight in the first place. The lamps were used in factories to harden a plastic veneer onto tabletops or rubber tiles. Hull realized that he could use UV light to etch plastic layers into whatever shape he liked and then stack these layers to form a 3-D object.
+起初给赫尔带来灵感的正是紫外线。在工厂里那些紫外线灯被用来将塑料贴面硬化在桌面或者橡胶板上。赫尔意识到他可以用紫外线将塑料蚀刻成他需要的任意形状，然后将它们逐层堆叠成一个三维的物体。
+At first he had to write code to tell his machine how to cut each layer, a painstaking process. “I was limited to fairly simple shapes,” he says. One day, for instance, he brought home a Munchkin-size cup to show his wife. “It looked like that thing you buy in the drugstore to wash out your eyes,” he says. And his first 3-D printer “was so kludged together that it looked post-apocalyptic, like some of the equipment they used in that movie ‘Waterworld.’ ”
+开始的时候，他必须通过编写代码告诉机器如何完成每一层的切割，这是一个异常艰辛的过程。“我被局限于一些比较简单的形状，”他说。譬如有一次，他带回家一个异常小巧的杯子展示给他的妻子。“它看起来就像你从药店买来冲洗眼睛用的东西，”他说道。而他的第一台3-D打印机“如此拼凑在一起好似后世界末日风格，与一些在电影《未来水世界》(Waterworld)中用到的机器如出一辙”。
+But by the mid-1980s, the printer had evolved into a working product, albeit one with a price tag of hundreds of thousands of dollars. Because the printer was too heavy to lug to demos, Hull made home movies to show to executives. “The movies were pretty corny,” but even so, he says, “we got a tremendous response.” Particularly in Detroit. “Back then, the U.S. automotive industry had fallen way behind Japan,” Hull says, and the car companies were desperate for a secret weapon. The 3-D printer was just that: Engineers could create their own prototypes for door handles or stick-shift knobs, rather than sending blueprints to a tool-and-die shop, shaving months off the design process.
+但是到了80年代中期，3-D打印机就已经演变成一个能够工作的产品，尽管当时价格昂贵至数十万美元。由于打印机过于沉重以致无法带去演示，赫尔自制了影片展示给企业的高管们。“影片本身甚至有些粗陋，”他说，即使这样，“我们依然获得了巨大的反响。”特别是在底特律。“在那时候，美国的汽车工业已经远远落后于日本，”赫尔说道，汽车公司都急切地需要一件秘密武器。3-D打印机恰好如其所愿：工程师们可以自己为门把手和换挡手柄制作模型，而不需要把图纸送去模具车间，从而把整个设计周期缩短了数月。
+Now that the technology is becoming affordable (printers start at $1,299), all kinds of people have caught 3-D fever. A University of California professor is working on printing out an entire house. Another 3-D artist has sculpted a “cyborg hand” that lets his son (who was born without several fingers) pick up a water bottle. More disturbing, a group called Defense Distributed claims to have produced a working gun from open-source plans and then printed it out.
+如今这项技术已经在价格上变得更加亲民（打印机起价1，299美金），所有的人都在为3-D技术而着迷。一位加州大学的教授正试图利用这项技术打印出一整栋房屋。另一位3-D艺术家则雕刻出了一只“机械手”从而使他的儿子（天生缺少几根手指）能够拿得起一个水瓶。更令人不安的是，一个名为分布式防御(Defense Distributed)的组织声称已经成功地基于开源方案生产出可用的枪支，并且将它打印了出来。 
+“Anything that can be made will be made by anyone anywhere,” wrote Joris Peels, a 3-D pioneer. “Anyone could 3-D-print a spoon, a land mine or a rose.”
+“任何可制造的东西将能够被任何人在任何地点制造出来”，3-D的先锋人物卓瑞思•皮尔斯(Joris Peels)这样写道，“任何人都可以利用3-D技术打印出一根汤匙、一枚地雷或是一朵玫瑰。”
+PROJECT SKUNKWORKS
+臭鼬工厂项目
+Tim Anderson co-founded Z Corp., which pioneered a fast method of 3-D printing.
+蒂姆·安德森(Tim Anderson)与他人共同创立了Z Corp.，这家公司开创了3-D快速打印的先河。
+How did you end up working on 3-D printers? 
+你是如何走上制作3-D打印机这条道路的？
+I was living in a student-run machine shop at M.I.T. It was an anarchist utopia where you could just show up and tinker. I was making a robot named Van Gogo that painted oil paintings. One day I was wandering the halls of M.I.T. picking through junk piles, and I ended up meeting people in the basement of Building 35. They were doing research on 3-D printing, and they needed an electronics guy. I said I was one. They came over to see my painting robot, and then they went their merry way. Then I had the revelation: “Gee, I should follow up on this. Because I could do the same stuff I was doing as an artist, call myself an engineer and get paid.” That’s how I spent three years as a gnome inside a 3-D printer.
+我当时住在麻省理工学院一个由学生运营的机械车间。它是一个无政府主义乌托邦式的地方，你可以就待在那里并且鼓捣你喜欢的东西。我当时正在制作一个会画油画的叫梵高的机器人。一天我正在麻省理工学院的大厅里溜达，在废物堆里挑挑拣拣，结果在35号楼的地下室里我遇到了一些人。他们当时正在研究3-D打印，并且需要一个懂电子技术的人。我告诉他们我就是他们要找的人。他们过来看了我的绘画机器人，然后就回去继续他们自己的事情了。我于是得到启发：“嘿，我应该跟进这件事情。因为我可以继续做我之前作为艺术家做的事情，只是把我自己当成工程师还可以拿到报酬。”这也就是我如何能像一个待在3-D打印机里的土地神一样，度过了三年时光。
+How did you first build a working prototype? 
+你是如何首先造出一个可工作的原型机的？
+I wasn’t hung up on appearances. I was Mr. Skunkworks. I went through junk piles to find parts from inkjet printers, and then built with those parts. We used a lot of inkjet nozzles in our machines.
+我并不因为它的样子而困扰。我就是臭鼬工厂先生。我在废物堆里到处寻找喷墨打印机的零件，然后就利用这些零件来组装我的打印机。在我们的机器里，用到了大量的喷墨打印机喷嘴。
+What were some of the earliest things that you scanned and printed at Z Corp.? 
+在Z Corp，你们最早扫描和打印出来的是些什么东西？
+The printer was popular right away for medical imaging. So we had a lot of skulls around. It’s good for surgeons to be able to see skulls in 3-D and practice breaking them and putting them back together.
+3-D打印机从一开始就在医学影响领域受到欢迎。因此我们制作了很多颅骨的模型。能够看到三维立体的颅骨，把它们拆开再拼回去，这对于外科医生而言是非常有帮助的。

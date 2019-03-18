@@ -1,0 +1,33 @@
+SEPANG, Malaysia — When hijackers took control of four airplanes on Sept. 11, 2001, and sent them hurtling low across the countryside toward New York and Washington, anxious passengers and flight attendants turned on their cellphones and began making calls to loved ones, airline managers and the authorities.
+马来西亚雪邦——2001年9月11日，劫机者控制了四架飞机，迫使飞机以较低高度飞越郊区，朝纽约和华盛顿飞去，这时候，焦虑的乘客和空乘人员纷纷打开自己的手机，开始给自己的亲人、航空公司管理人员及官方打电话。
+But when Malaysia Airlines Flight 370 did a wide U-turn in the middle of the night over the Gulf of Thailand and then spent nearly half an hour swooping over two large Malaysian cities and various towns and villages, there was apparently silence. As far as investigators have been able to determine, there have been no phone calls, Twitter or Weibo postings, Instagram photos or any other communication from anyone aboard the aircraft since it was diverted.
+但是，马来西亚航空(Malaysia Airlines)370航班于午夜时分在泰国湾上空大幅度调转方向，然后又在马来西亚的两个大城市及其他一些村镇的上空盘旋了将近半个小时，其间却似乎没有任何来自飞机的消息。从调查人员目前能够确定的情况来看，飞机转变航向后，人们没有接收到飞机上任何人的电话，Twitter、微博、Instagram照片和其他讯息。
+There has been no evidence “of any number they’re trying to contact, but anyway they are still checking and there are millions of records for them to process,” said Ahmad Jauhari Yahya, the chief executive of Malaysia Airlines, at a news conference on Monday.
+尚无证据表明“他们曾试图与任何号码进行联络，但他们仍在核实，还有数百万条记录等待他们处理”，马航首席执行官阿迈德·焦哈里·叶哈亚(Ahmad Jauhari Yahya)在周一的新闻发布会上说。
+The apparent absence of any word from the aircraft in an era of nearly ubiquitous mobile communications has prompted considerable debate among pilots, telecommunications specialists and others. Most of the people aboard the plane were from Malaysia or China, two countries where mobile phone use is extremely prevalent, especially among affluent citizens who take international flights.
+在移动通讯几乎无所不在的今天，这架飞机却似乎没有留下任何话语，这个事实引起了飞行员、通讯专家及其他一些人的诸多争论。飞机上的乘客大部分都来自马来西亚和中国，这两个国家的手机使用率非常高，在乘坐国际航班的富人当中尤其如此。
+Some theorize the silence signifies that the plane was flying too high for personal electronic devices to be used. Others wonder whether people aboard the flight even tried to make calls or send messages.
+有人认为，没有音信的情况说明飞机飞得太高，人们无法使用个人电子设备。还有人怀疑，飞机上的人可能根本不曾尝试拨打电话或发送讯息。
+According to military radar, the aircraft was flying extremely high shortly after its turn — as much as 45,000 feet, above the certified maximum altitude of 43,100 feet for the Boeing 777-200. It then descended as it crossed Peninsular Malaysia, flying as low as 23,000 feet before moving up to 29,500 feet and cruising there.
+军方雷达显示，转向后不久，飞机飞得特别高——高达45000英尺（约合13700米），超出了波音(Boeing)777-200的认证最大高度43100英尺。然后，飞机在飞越马来半岛时下降，以23000英尺的高度飞行了一段时间，随后又升到29500英尺的高度，并以这个高度进入巡航。
+Vincent Lau, an electronics professor specializing in wireless communications at Hong Kong University of Science and Technology, said that the altitude might have prevented passengers’ cellphones from connecting to base stations on the ground even if the phones were turned on during the flight or had been left on since departure.
+香港科技大学(Hong Kong University of Science and Technology)研究无线通讯的电子学教授刘坚能(Vincent Lau)表示，即便乘客的手机在飞行过程中被打开，或是起飞后一直处于开机状态，飞机的高度也可能会使手机无法连接位于地面的基站。
+The hijacked planes on Sept. 11 were flying very low toward urban targets when passengers and flight attendants made calls from those aircraft, he said.
+他说，9·11袭击当中，被劫飞机的乘客和空乘人员从飞机上打出电话的时候，飞机正在朝市区的目标飞，飞行高度很低。
+Base station signals spread out considerably over distance. So cellphones in a plane a few miles up, like Flight 370, would receive little if any signal, he said.
+基站信号会因距离而大幅削弱。所以，如果飞机飞到了几英里的高度，就像370航班那样，飞机上的手机信号就会非常弱，甚至完全没有信号。
+Base station design has improved since the Sept. 11 attacks to provide better, more focused coverage of specific areas on the ground. But that also means somewhat less signal intensity is wasted in directions where callers are unlikely to be located, such as directly overhead, Mr. Lau added.
+9·11袭击之后，为了给地面特定区域提供更好、更集中的覆盖，人们改进了基站的设计。刘坚能还说，但这也意味着，拨打电话者不太可能身处的地方——比如正上方——分配到的信号强度有所减弱。 Lam Wong-hing, a wireless communications specialist at the University of Hong Kong , said that cellphones transmit at one watt or less, while base stations typically transmit at 20 watts and sometimes much more. So even if a cellphone showed that it was receiving a signal while aloft, it might not be able to transmit a signal that was strong enough to make a connection, he said.
+香港大学(University of Hong Kong)无线通讯专家林皇兴(Lam Wong-hing)说，手机的发射功率不超过1瓦，而基站的发射功率通常为20瓦，有时甚至更高。他说，由此可知，即使手机在高空显示有信号，它可能也无法发出足以建立连接的信号。
+The metal in an aircraft reduces cellphone signals somewhat. If a passenger had pressed a cellphone against a plastic window with a line of sight to a cellphone tower then it is possible a connection might have been made even at a fairly high altitude, because plastic barely blocks a cellphone signal at all, Dr. Lam said.
+飞机上的金属也会在某种程度上削弱手机信号。林皇兴博士表示，如果乘客对着能够看到手机信号塔的塑料窗户拨打电话，在相当高的海拔接通电话也是可能的，因为塑料几乎不会阻碍手机信号。
+Many aircraft carry satellite phones, and the Malaysia Airlines jet was equipped with them in business class. The plane continued to send satellite pings for nearly seven hours after it was apparently diverted.
+很多飞机都带有卫星电话，这架马航飞机的商务舱也配有此类电话。明显改变航线之后，飞机在将近七个小时的时间里继续发送卫星脉冲信号。
+But the satellite phones are part of an aircraft’s in-flight entertainment system. If someone deliberately diverted a plane and turned off its transponder and other communications equipment, that person is likely to have disabled the in-flight entertainment system so that passengers could not figure out from the map that they were flying in the wrong direction, said a telecommunications expert who insisted on anonymity because he was not authorized to talk to the news media.
+然而，卫星电话是机载娱乐系统的一部分。一名通讯专家表示，如果有人蓄意改变航线，并且关闭了应答器和其他通讯设备，那这个人多半也关闭了机载娱乐系统，如此一来，乘客们就无法通过地图得知自己正朝着错误的方向飞行。这名专家坚持要求匿名，因为他没有获得对新闻媒体发言的授权。
+If the entertainment system was turned off, the satellite phones also would not work, the expert said.
+上述专家表示，如果娱乐系统被关闭，卫星电话也无法工作。
+The Chinese news media have reported that there have been some instances of people calling cellphones of passengers of the missing flight and hearing ring tones, sometimes days after the plane disappeared. Telecom experts have dismissed that as evidence that the cellphones are still in use, saying that a ring tone may be heard while the international phone system is searching for a phone and trying to connect a call.
+中国的新闻媒体曾报道，有人给失联航班上的乘客打了手机，并且听到了铃声，有些人拨打的时间是在航班失联几天之后。通讯专家已经表示，这无法证明手机仍在使用中，原因是当国际电话系统搜寻并试图连通电话时，或许能听到铃声。
+There have been no reports of anyone answering calls to the cellphones of passengers or flight attendants aboard the plane.
+尚无报告称机上乘客或乘务人员的手机有人应答。

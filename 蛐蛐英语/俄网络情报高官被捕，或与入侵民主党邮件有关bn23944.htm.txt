@@ -1,0 +1,30 @@
+A senior official in the Russian cyberintelligence department that American officials say oversaw last year’s election hacking has been arrested in Moscow on charges of treason, a Russian newspaper reported Wednesday.
+俄罗斯一家报纸周三报道称，俄罗斯网络情报部门的一名高级官员因叛国罪在莫斯科被捕，美国官员称其是针对去年大选的黑客行动的负责人。
+The arrest of Sergei Mikhailov, a senior officer of the Federal Security Service, or F.S.B., the main successor agency to the K.G.B., is a rare instance of turmoil in the country’s usually shadowy cybersecurity apparatus slipping into public view.
+这名高级官员名叫谢尔盖·米哈伊洛夫(Sergei Mikhailov)，他被前身为克格勃(KGB)的联邦安全局（Federal Security Service，简称FSB）逮捕一事，让人们难得有机会看到通常鲜为人知、但已渐渐进入公众视野的俄罗斯网络安全机构存在的扰动。
+Mr. Mikhailov served in the F.S.B.’s Center for Information Security, the agency’s cyberintelligence branch, which has been implicated in the American election hacking. But it is not clear whether the arrest was related to those intrusions.
+米哈伊洛夫曾任职于FSB的网络情报部门信息安全中心(Center for Information Security)，该中心与针对美国大选的黑客行动有牵连。但目前尚不清楚此次逮捕是否和那些网络入侵有关。
+He was detained along with one of Russia’s leading private-sector cybersecurity experts, Ruslan Stoyanov, the head of computer incident response investigations at the Kaspersky Lab, which makes antivirus programs.
+和他一起遭到拘捕的还有俄罗斯私营部门的知名网络安全专家、在生产反病毒程序的卡巴斯基实验室(Kaspersky Lab)任计算机事件响应调查负责人的鲁斯兰·斯托亚诺夫(Ruslan Stoyanov)。
+The company confirmed in a statement that Mr. Stoyanov had been arrested, but said his arrest “has nothing to do with Kaspersky Lab and its operations.”
+该公司在一则声明中证实斯托亚诺夫已经被逮捕，但表示他的被捕“与卡巴斯基实验室及其业务无关。”
+Still, the arrests of the men, who had cooperated in Russia to prosecute cybercriminals, shed light on the intersection of cybercrime, private antivirus companies and the Russian security services.
+不过，两人在俄罗斯曾就起诉网络犯罪分子相关事宜展开合作，他们的被捕让人看到网络犯罪、私营反病毒公司和俄罗斯安全部门之间的关联。
+Western cybersecurity analysts have said there are indications that the security services recruited among criminal hackers to carry out politicized computer intrusions ahead of last summer’s hacking of the Democratic National Committee in the United States, giving the hackers impunity to commit financially motivated attacks in exchange for their expertise.
+西方网络安全分析师称，有迹象显示，美国民主党全国代表大会(Democratic National Committee)的网络系统于去年夏天遭到入侵前，俄罗斯安全部门曾从黑客犯罪分子中招募人员，用来执行政治性网络攻击行动，这些黑客只需要付出专业技能，自己从事以谋财为目的的攻击就可以免受惩罚。
+The arrest raised the possibility that Mr. Mikhailov and Mr. Stoyanov had interfered in this cooperation. The newspaper article, in Kommersant, which cited unidentified sources in Moscow’s technology industry and the F.S.B., said the treason charges related to work on criminal hacking investigations.
+米哈伊洛夫和斯托亚诺夫的被捕说明他们可能参与了这种合作。《生意人报》(Kommersant)的文章援引莫斯科科技行业和FSB匿名消息人士的话称，两人的叛国罪名与黑客犯罪行动调查方面的工作有关。
+Alternatively, the detention of an official who would have been in a position to engage in the election hacking in America could indicate a good-will gesture to the United States, which has penalized Russia for the electoral meddling.
+另一种可能是，拘禁一名可能卷入了针对美国大选的黑客行动的官员，也许是在对美国示好——美国已经因为俄罗斯插手大选一事对其施以了惩罚。
+American intelligence agencies accused the F.S.B. and another Russian agency, the military’s Main Intelligence Directorate, or G.R.U., of hacking the Democratic National Committee and other electoral targets.
+美国情报机构指控FSB和俄罗斯的另一家情报机构——军方的总参谋部情报总局(Main Intelligence Directorate)——入侵了民主党全国代表大会以及其他与大选有关的目标的网络系统。
+The sanctions targeted the two Russian intelligence agencies. But private American cybersecurity investigators say the F.S.B., where Mr. Mikhailov was the second-most senior figure in the Center for Information Security, operated a group nicknamed Cozy Bear that stole data but never released it. The G.R.U., the American cybersleuths say, operated a group called Fancy Bear that stole electronic data and released it in an effort to help Donald J. Trump win the presidential election.
+美国的制裁针对的便是俄罗斯的这两个情报机构。不过，美国私营部门的网络安全调查人员说，FSB操控着一个绰号为“安逸熊”(Cozy Bear)的组织，该组织窃取了数据，但在设法帮助唐纳德·J·特朗普(Donald J. Trump)赢得大选的过程中，从未将数据泄露出去。在FSB的信息安全中心，米哈伊洛夫曾是二号人物。
+If confirmed, the arrest would be one of the highest-profile detentions for treason within the F.S.B. since the breakup of the Soviet Union.
+如果米哈伊洛夫被捕一事得到证实，将是苏联解体以来FSB内部人士因叛国罪遭拘捕的最重大案件。
+In another indication of high-level turmoil over cyberintelligence issues within the security agency, Kommersant reported on Jan. 13 that the director of the Center for Information Security, Andrei Gerasimov, would be fired. His termination was related to the investigation into the agency’s cooperation with Kaspersky on criminal hacking cases.
+该机构高层因网络安全问题发生震动的另一个迹象是，《生意人报》于1月13日报道称，信息安全中心的负责人安德烈·格拉西莫夫(Andrei Gerasimov)将被解职。解职原因牵扯到当局就FSB和卡巴斯基在处理黑客犯罪案件方面的合作展开的调查。
+Mr. Gerasimov, who has led the Center for Information Security since 2009, was described as building close ties with companies like the Kaspersky Lab as an element in Russia’s cybersecurity policy. He is also the deputy director for counterintelligence at the F.S.B.
+据说，自2009年以来，一直领导着信息安全中心的格拉西莫夫，和卡巴斯基实验室等公司建立起了亲密的关系——这种亲密关系是俄罗斯网络安全政策的一部分。格拉西莫夫还是FSB反情报部门的副主任。
+The F.S.B. did not respond to an email query about the arrests.
+FSB未回复就两人被捕事件提出质询的邮件。

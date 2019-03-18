@@ -1,0 +1,36 @@
+Why do the eyes of some animals, including goats, have horizontal-shaped pupils, while others, such as rattlesnakes and domestic cats, have vertical slits?
+为什么山羊之类的动物的瞳孔是水平形状，而响尾蛇和家猫等动物的瞳孔却是垂直的窄缝？
+It is a question that has longed intrigued researchers, and a study of 214 species published Friday suggests the answer may be strongly linked to giving animals a survival edge: vertical pupils and circular pupils help certain predators hunt, while horizontal pupils help other species spot predators from afar.
+这是长久以来困扰研究人员的一个问题，而上周五发表的一项针对214个物种的研究显示，答案可能和动物们获得自身生存优势的方式密切相关：竖条状瞳孔和圆形瞳孔有助于某些肉食动物捕猎，而水平状的瞳孔有助于另一些物种从远处发现捕猎者。
+Not all vision scientists accept the researchers’ hypothesis, however, citing examples of animals that do not fit cleanly into these classifications.
+不过，并非所有视觉科学家都接受这些研究者提出的这种假设，他们列举出了无法恰当归入这两种类别的动物。
+The research, which was conducted by a team of scientists from the University of California, Berkeley, and Durham University in Britain, was published in the journal Science Advances.
+这项研究由来自加州大学伯克利分校(University of California, Berkeley)和英国杜伦大学(Durham University)的科学家组成的团队完成，成果发布于新一期的《科学前沿》(Science Advances)。
+The team used computer models based on a sheep’s eye to support theories about why horizontal, vertical and circular pupil shapes benefit different animals.
+这个团队使用一个计算机模型来展示为什么水平状、垂直状和圆形的瞳孔分别对不同的动物有利。模型基于绵羊眼睛构建。
+When the model’s pupil was horizontal, more light could be captured from the left and right of the eye, not surprisingly, and less light from below and above the eye. This would allow grazing animals to better detect predators approaching from different directions, the researchers said.
+当模型的瞳孔呈水平状时，一点也不奇怪的是，眼睛能从左边和右边捕捉更多光线，而从上边和下边捕捉的光线则比较少。研究人员表示，这种瞳孔有利于食草动物更快察觉从不同方向靠近的捕猎者。
+“People had been saying that the horizontal pupil helps expand the horizontal view of the ground, they just hadn’t shown that,” said Martin S. Banks, a visual scientist from Berkeley and lead author on the paper. “Our contribution was to build a model and show that that happened.”
+“人们一直说，水平方向的瞳孔有利于扩展地面上的水平方向的视野，不过他们并没有把其中的原理展示出来，”来自伯克利的视觉科学家、这篇研究论文的第一作者马丁·S·班克斯(Martin S. Banks)说道。“我们的贡献就是，构建一个模型来展示出的确如此。”
+But there was an obvious caveat to this conclusion: What would happen if the sheep bent its head to the ground to eat? Logic would suggest that the horizontal pupil would become perpendicular to the ground.
+不过，这个结论有一个明显的疑点：如果羊低下头吃草的话会发生什么情况？按照逻辑讲，那种情况下，水平状的瞳孔就应该和地面垂直。
+But the researchers made a surprising discovery while taking pictures of goats at a petting zoo — the eyes actually rotate as much as 50 degrees when the head turns downward, keeping the pupils parallel to the ground. Dr. Banks assumed that other scientists had noted this ability, but he found no mention of it after doing an extensive search of the scientific literature.
+但研究人员在爱畜乐园给山羊拍照片时，有了一个惊人的发现——在低头时，山羊实际上会把眼睛旋转至多50度，使瞳孔和地面平行。班克斯博士原以为其他科学家已经注意到了这种能力，但在进行大量科学文献检索之后，他发现没人提到过这一点。
+The researchers then studied horses, antelopes and other grazing animals, and found that they could rotate their eyes as well.
+研究人员后来对马、羚羊及其他草食性动物进行研究，发现它们也能转动眼球。
+Dr. Banks and his team also used the computer model to identify advantages of vertical slit eyes. They found that vertical pupils help an ambush predator better estimate the distance to its prey by sharpening depth perception and its focus on a target.
+班克斯和他的团队还利用计算机模型确认竖条状眼睛的优势。他们发现，垂直的瞳孔可以增强对景深的知觉和对目标的聚焦，帮助埋伏的捕食者更好地估算它与猎物之间的距离。
+One asterisk on this explanation is that large predators like tigers and lions that ambush prey have circular pupils, not vertical. The authors reason that because these animals are taller, their eyes do not have to compensate as much for those visual cues.
+这个解释中值得注意的一点是，老虎、狮子等伏击猎物的大型捕食动物拥有圆形瞳孔，而不是竖条状瞳孔。作者推断称，因为这些动物比较高，它们的眼睛不需要在这些视觉提示做出那么多补偿。
+Critics of the paper say there are countless examples that undermine the authors’ theories. The chinchilla, for example, eats grass but has vertical slit pupils.
+针对该论文的批评人士表示，有无数可以反驳作者观点的例子。例如，毛丝鼠吃草，但它的瞳孔是竖条状。
+“There are so many exceptions to the rules the authors think to have discovered, that there must be much more to pupil shape than being predator or prey, big or small,” said Ronald H.H. Kröger, a biologist from Lunds University in Germany.
+“作者认为自己发现了规律，但有很多例外，因此，瞳孔的形状，远不只是捕食者或猎物、大或小这样简单的分别，”德国隆兹大学(Lunds University)生物学家罗纳德·H·H·克鲁格(Ronald H.H. Kröger)说。
+Jenny Read, a vision scientist at Newcastle University in Britain, said the paper presented “an incredibly neat example” of how evolution and natural selection have optimized the eyes over millions of years.
+英国纽卡斯尔大学视觉学家詹妮·里德(Jenny Read)表示，该论文展示了“一个非常巧妙的例子”，说明了演化和自然选择在数百万年来是如何优化眼睛的。
+She said she was most surprised by the authors’ findings about how grazing animals’ eyes rotate as they bend to eat, especially being a horse rider herself. “It’s very striking that with all the attention that animal eyes have attracted over the years that in the scientific literature no one has apparently noticed or commented on this,” she said.
+她表示，作者的研究结果中最令人震惊的发现是，草食性动物在俯身进食的时候眼睛会转动，特别是因为她自己也骑马。她说，“过去很多年，有很多科学文献都专注于动物眼睛，但似乎没人注意到这一点或就此发表评论，这令人震惊。”
+Hany Farid, a vision scientist from Dartmouth College who specializes in computer imaging analysis, appreciated how the authors’ computer model used geometry and optics to show “unarguably” that a vertical slit pupil produces a better field to discern the depth of vertical structures, which would be beneficial to certain predators.
+达特茅斯学院(Dartmouth College)研究计算机图像分析的视觉学家哈尼·法里德(Hany Farid)认为，作者的计算机模型利用几何学和光学“不容置疑”地展示了竖条状瞳孔可以产生更好的视野，有助于辨别垂直构造的纵深，这对某些捕食者是有利的。
+“I love science like this,” he said. “When you can look at it, you’re like, ‘Yeah, it’s totally obvious.’ ”
+“我喜欢这样的科学，”他说。“当你考虑这个问题的时候，你会觉得，‘是啊，这是显而易见的。’”

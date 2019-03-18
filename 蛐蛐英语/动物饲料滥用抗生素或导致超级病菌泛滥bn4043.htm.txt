@@ -1,0 +1,32 @@
+A federal analysis of 30 antibiotics used in animal feed found that the majority of them were likely to be contributing to the growing problem of bacterial infections that are resistant to treatment in people, according to documents released Monday by a health advocacy group.
+美国一家健康倡导团体在周一发布文件称，科学家们对可用于动物饲料的30种抗生素进行了一项全国性分析，结果表明，这些药物中有绝大部分都可造成人体内的细菌感染对治疗产生耐受性，且这一问题正日趋严峻。
+The analysis, conducted by the Food and Drug Administration and covering the years 2001 to 2010, was detailed in internal records that the nonprofit group, the Natural Resources Defense Council, obtained through a Freedom of Information Act request and subsequent litigation.
+该分析由美国食品和药品监督管理局(Food and Drug Administration, FDA)进行，调查范围涵盖了2001年至2010年，详情记载于非营利组织自然资源保护委员会(Natural Resources Defense Council)根据《信息自由法》(Freedom of Information Act)和后续诉讼获得的内部记录中。
+In the documents, some of which were reviewed by The New York Times, scientists from the F.D.A. studied 30 penicillin and tetracycline additives in animal feed. They found that 18 of them posed a high risk of exposing humans to antibiotic-resistant bacteria through food.
+《纽约时报》查阅了其中的部分资料。这些文件描述了FDA的科学家们就动物饲料使用的30种青霉素和四环素添加剂进行的有关研究。他们发现，其中18种为高风险药物，它们有可能通过食物渠道将人体暴露于抗生素耐受性细菌。
+Resistant bacteria make it difficult and sometimes impossible to treat infections with ordinary antibiotics. The scientists did not have enough data to judge the other 12 drugs.
+耐药菌导致人们难以甚至不可能通过常规抗生素来治疗感染。至于其他的12种药物，现有数据尚不足以使科学家们作出评判。
+At least two million Americans fall sick every year and about 23,000 die from antibiotic-resistant infections, the Centers for Disease Control and Prevention estimates. Representatives of the food industry largely blame hospitals and treatments given to people for the rise of deadly superbugs. But many scientists believe that indiscriminate use of antibiotics in animal feed is a major contributor.
+据美国疾病控制和预防中心(Centers for Disease Control and Prevention)估计，美国每年至少有200万人罹患各种疾病，其中约有2.3万人死于抗生素耐受性感染。食品工业的代表们往往将造成致命性超级病菌泛滥的主要责任归咎于医院和对患者采取的治疗。但许多科学家认为，在动物饲料中滥用抗生素才是罪魁祸首。
+Farmers and ranchers feed small amounts of the drugs to animals over their lifetimes to keep them healthy in crowded conditions, causing bacteria to develop a resistance passed on to people through the environment and eating meat from the animals.
+在动物的饲养周期中，农民和农场主们一直向其投喂少量的药物，以在拥挤的饲养条件下确保动物健康。但这种方法可导致细菌产生耐药性，且这种耐药性可通过环境、食用上述动物的肉制品等方式传播至人体。
+In a statement, the F.D.A. said the drugs under review had been “older, approved penicillin and tetracycline products,” and that the agency had issued letters to their producers asking for additional safety data. It said those efforts had been part of a broader assessment of antibiotics, also called antimicrobials, given to animals raised for food, and that it has since made major policy changes to address them.
+FDA在声明中表示，该研究审查的药物均为“获批已久的青霉素和四环素产品”，且该机构已致函这些药物的生产商，要求他们提供更多的安全性数据。并补充道，这些工作是针对食用动物用抗生素（又称抗菌素）进行的一项更全面评估的一部分。目前它们已经促成了若干重大的政策改变，期望能解决相关的问题。
+The F.D.A. has tried repeatedly to rein in the use of the drugs in animals. It adopted regulations in 1973 that required companies to submit studies showing that a drug’s use in animal feed did not promote resistance in people.
+FDA曾多次尝试对此类药物在动物中的使用严加管制。1973年，该机构通过了一项法规，要求有关公司提交研究报告，证明在动物饲料中使用某种药物不会促进人体内的病菌产生耐药性。
+In 1977, the agency proposed withdrawing approvals for animal feed additives containing penicillin and most tetracyclines, but it never followed through, said Avinash Kar, a lawyer for the Natural Resources Defense Council. The group sued the agency in 2012 to try to force it to carry out the 1977 proposal.
+1977年，FDA撤销了此前的批准令，不再允许常规使用含有青霉素和大多数四环素的动物饲料添加剂。不过自然资源保护委员会的律师阿维纳什·卡尔(Avinash Kar)说，该法令始终未得到彻底的贯彻，该保护组织于2012年起诉了FDA，试图迫使它执行1977年的议案。
+“This is an agency that has repeatedly found, since the 1970s, that these drugs pose a risk to human health, but it has not done anything meaningful with those conclusions,” Mr. Kar said.
+“FDA自20世纪70年代起就不断发现这些药物会对人体健康构成风险，但迄今为止，该机构却未对此采取过任何有意义的措施，”卡尔先生指出。
+But the agency has taken some steps in recent years. In 2012, it restricted the use of cephalosporins in animals. They are drugs that are also prescribed to treat pneumonia and strep throat in people.
+然而近年来，FDA已经在有步骤地展开行动。2012年，该机构限制了头孢菌素在动物中的使用——这些药物也可处方用于治疗人类的肺炎和链球菌性喉炎。
+Last year, the F.D.A. moved to phase out the indiscriminate use of antibiotics in cows, pigs and chickens, though it continued to allow them for the treatment of illness, a policy decision that consumer health advocates said weakened the new rule.
+去年，FDA更进一步，逐步废止了奶牛、猪和鸡饲养业中的抗生素滥用，但仍允许这些药物继续用于治疗疾病。有消费者健康倡导人士认为，后一条政策削弱了新法规的效力。
+“In December 2013, the F.D.A. began formal implementation of a strategy to phase out the use of all medically important antimicrobials,” the agency said. “The F.D.A. is confident that its current strategy to protect the effectiveness of medically important antimicrobials, including penicillins and tetracyclines, is the most efficient and effective way to change the use of these products in animal agriculture.”
+“2013年12月，FDA正式开始实施一项策略，逐步停止使用所有重要的医用抗菌剂，”该机构表示。“FDA确信，现有策略足以保持重要医用抗菌剂（包括青霉素类和四环素类）的有效性，它是改变畜牧业中上述产品使用情况的最有效、也是最高效的方式。”
+Mr. Kar said that only one of the 30 drugs studied ever met the government’s safety criteria. And it only satisfied the 1973 regulations that required companies to submit studies showing that a drug’s use in animal feed did not lead to drug resistance in bacteria that can affect human health.
+卡尔先生指出，在研究所涉及的30种药物中，只有一种药物曾经达到政府的安全性标准。但它也只是符合了1973年的法规，即要求公司提交研究报告，证明在动物饲料中使用该药物不会导致细菌产生足以影响人体健康的耐药性。
+In 2003, the agency issued guidelines that divided drugs into three categories according to how risky they were for human health. Under the guidelines, a high-risk drug should be used for no longer than 21 days at a time, and only for individual animals, not entire herds or flocks.
+2003年，FDA发布了一系列指南，根据其对人体健康的风险将各种药物分为三类。指南要求，高风险药物的单次用药期不得超过21天，且仅可用于单只动物，不得用于整个牛群或羊群。
+High-risk drugs are often allowed to be used much more broadly, said Carmen Cordova, a microbiologist for the Natural Resources Defense Council. The 2003 guidelines apply only to drugs that were approved after 2003, and the consumer group said none of the 30 drugs fell into that category. Mr. Kar said the F.D.A. analysis was still relevant.
+自然资源保护委员会的微生物学家卡门·科尔多瓦(Carmen Cordova)说，过去，高风险药物的使用往往较为宽松，2003年的一系列指南只适用于在该年后批准的药物，而FDA分析中的30种药物无一属于这个范畴，不过卡尔认为，FDA的这项分析在当下仍然具有其重要意义。

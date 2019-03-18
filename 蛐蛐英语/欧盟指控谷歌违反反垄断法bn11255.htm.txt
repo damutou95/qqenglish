@@ -1,0 +1,10 @@
+BRUSSELS — The European Union’s antitrust chief on Wednesday formally accused Google of abusing its dominance in web searches to the detriment of competitors and began official proceedings into whether its Android smartphone software forces phone makers to favor the company’s own services and applications.
+布鲁塞尔——欧盟反垄断最高官员周三正式指控谷歌(Google)利用其在网络搜索方面的主导地位，损害竞争对手，并将就Android智能手机软件是否强制手机制造商偏袒谷歌自身服务和应用的做法提起诉讼。
+“If the investigation confirmed our concerns, Google would have to face the legal consequences and change the way it does business in Europe,” said Margrethe Vestager, the European Union competition commissioner.
+“如果调查结果证实了我们的忧虑，谷歌将不得不面临法律后果，并且改变它在欧洲的商业模式，”欧盟竞争事务专员玛格丽特·韦斯塔格尔(Margrethe Vestager)说。
+The abuse charge focused on accusations that Google diverts traffic from its rivals to favor its own products and services, particularly websites for shopping. That led the European Commission to issue a set of formal charges, known as a statement of objections.
+指控主要集中在指责谷歌从竞争对手分流流量，偏向其自身产品和服务，尤其是购物网站。这导致欧盟委员会发布了一套被称为异议声明的正式指控。
+A large number of online operators have complained about Google in other areas, like travel and mapping. Ms. Vestager said that the inquiry might eventually expand beyond shopping sites.
+许多在线运营商已经抱怨过谷歌在旅游和地图等其他领域的做法。韦斯塔格尔说调查或将最终扩展到购物网站以外的领域。
+The commission also said it was stepping up a separate investigation into whether phone makers that agree to use Android — and that also want Google applications like YouTube — face contractual requirements to place those applications and other Google-branded applications in prominent positions on a mobile device.
+委员会还称，其正在加强一项独立调查，针对同意使用Android系统并希望使用YouTube等谷歌应用的手机制造商，调查是否存在合同要求它们在移动设备的显著位置放置谷歌品牌应用。

@@ -1,0 +1,30 @@
+WASHINGTON — The National Security Agency’s once-secret program that is collecting bulk records of Americans’ domestic phone calls is taking in a relatively small portion of the total volume of such calls each day, officials familiar with the program said on Friday.
+华盛顿——周五，熟悉美国国家安全局(National Security Agency)曾一度隐秘的项目的一些官员表示，目前，这个大量搜集美国本土通话记录的项目减少了从每日通话总量中提取记录的比例。
+While the agency is collecting a large amount of landline phone data, it has struggled to take in cellphone data, which has undergone explosive growth in recent years and presents additional technological hurdles, the officials said.
+前述官员称，虽然国安局正在搜集大量的固定电话数据，在采集移动电话数据方面却面临着困难。近年来，移动电话的使用量呈爆炸式增长，并且带来了额外的技术障碍。
+The revelation came days after the nation’s secretive Foreign Intelligence Surveillance Court approved President Obama’s proposal to impose new restrictions on when and how analysts with the N.S.A. may gain access to the raw database containing the bulk phone records, according to the Office of the Director of National Intelligence.
+国家情报总监办公室(Office of the Director of National Intelligence)表示，此前几天，美国秘密机构外国情报监视法院(Foreign Intelligence Surveillance Court)通过了奥巴马总统的提议，他提议对国安局分析员使用包含大量电话记录的原始数据库的时间及方式实施新的限制。
+The bulk call records program began under the Bush administration and was based on claimed wartime powers. In 2006, the program was brought under the surveillance court’s authority. It came to light after leaks by the former N.S.A. contractor Edward J. Snowden.
+该大型通话记录项目始于布什政府事情，以所谓的战时权力为基础。2006年，该项目开始接受监视法院的管理。前国安局承包商雇员爱德华·J·斯诺登(Edward J. Snowden)泄密事件发生之后，该项目才为世人所知。
+On Friday, The Washington Post reported that the N.S.A. is currently taking in data on less than 30 percent of phone calls. The article also said the agency had been collecting nearly all records about Americans’ phone calls in 2006, and that the N.S.A. was now trying to restore comprehensive coverage.
+《华盛顿邮报》(The Washington Post)周五报道，国安局目前搜集的通话数据不到总量的30%。文章还说，2006年，国安局2006年几乎搜集了美国人的所有通话记录，如今，国安局正试图恢复完全的覆盖范围。
+Officials partly confirmed The Post’s report, although they said it was difficult to put a precise number on the percentage. But they disputed that the agency had ever had near-universal access to phone data, saying cellphone records have always presented problems.
+官员部分确认了《邮报》的报道，同时又说，具体的比例很难确定。然而，他们不承认国安局曾经能够不受限制地获却电话数据，并且表示，手机通话记录始终难于搜集。
+The Wall Street Journal reported in June that T-Mobile and Verizon Wireless were not part of the N.S.A.’s data collection, and a report on surveillance policy last month by a review group appointed by Mr. Obama said that while the program “acquires a very large amount” of phone data each day, that was still “only a small percentage of the total” calls.
+据《华尔街日报》(The Wall Street Journal)6月报道，T-Mobile和威瑞森无线(Verizon Wireless)并未进入国安局的数据搜集范围。奥巴马任命的一个评审团队上月出具的监听政策报告也称，虽然该项目每天都会“获得海量的”电话数据，但它仍然”只是全部通话的一小部分”。
+One official said intelligence agencies have quietly chafed at assumptions that the N.S.A. was collecting all phone records. But they have been reluctant to correct the record because they did not want to draw attention to the gap and because it is, in fact, the agency’s goal to overcome technical hurdles that stop them from ingesting them all.
+一名官员称，对于NSA在搜集所有电话记录的揣测，情报机构私下里很感愤怒。但他们不愿修正这种说法，因为他们不想让人注意到这个差距，也因为实际上，该机构的目标正是克服那些阻碍他们获取所有记录的技术障碍。
+The greater attention to the gap puts new light on claims about the effectiveness of the program. Critics say the gap may undermine the argument that the program, as it currently exists, can provide peace of mind about links to potential terrorists: a negative result might instead mean only that the data was missing.
+对差距的更大关注让人们对与该项目效率有关的言论有了更多认识。批评人士称，这样的差距可能会驳倒一种说法，即当前的项目能让人万无一失地取得和潜在恐怖分子相关的线索：相反，安全无事的结论可能只意味着他们缺少相关的数据。
+Supporters, however, say the gap might undermine the argument that the program is ineffective because it has thwarted no attacks and uncovered only a minor case in which some men sent several thousand dollars to a Somali terrorist group.
+然而，支持者称，这样的差距可能会驳倒该项目没有成效的说法，后者的依据是该项目未能挫败任何袭击，而且只破获了一起小案。在那起案件中，一些男子送了索马里一个恐怖组织几千美元。
+“We should have a debate about how effective would it be if it were fully implemented,” one official said.
+“我们应该讨论一下，如果得到全面实施的话，这个项目能有怎样的成效，”一名官员说。
+In a speech last month, Mr. Obama announced that he intended to find a way to get the government out of the business of holding onto the bulk records, but he also said that its capabilities should be preserved.
+在上月的一次讲话中，奥巴马宣布自己打算找到一个办法，让政府不再继续搜集大量记录，但他也表示，政府的能力应该保留。
+Mr. Obama also announced that he wanted to immediately impose new limits on how the database is used, by requiring the N.S.A. to wait for a judge on the surveillance court to sign off before querying records associated with a number that is suspected of links to terrorism — except in emergencies — and by limiting analysts to only pulling up records of people who are up to two levels removed from that number.
+奥巴马还宣布，他希望立即就使用数据库的方式实施新的限制，办法是要求NSA在征得监视法院法官签字同意之后才能查询涉嫌与恐怖主义有关联的电话号码的记录——紧急情况除外——并要求分析员只能调用与那个号码关系间隔不超过两层的人的记录。
+Previously, the surveillance court had allowed the N.S.A. to decide that a search was justified, and had let analysts go up to three levels out — meaning an exponentially larger number of people’s calls would be scrutinized.
+之前，监视法院允许NSA自行决定是否可以查询，并允许分析员查阅关系间隔不超过三层的人的记录——这意味着多得多的人的电话会被审查。
+On Wednesday, according to a statement issued late Thursday in the name of James R. Clapper Jr., the director of national intelligence, the surveillance court issued an order amending the rules in line with Mr. Obama’s proposed changes.
+周四晚间，以国家情报总监小詹姆斯·R·克拉珀(James R. Clapper Jr.)的名义发布的一份声明称，监视法院于周三发布了一项命令，根据奥巴马的提议修正了相关规定。

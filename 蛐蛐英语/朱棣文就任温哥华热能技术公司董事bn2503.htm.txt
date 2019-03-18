@@ -1,0 +1,36 @@
+A Canadian company with a radically different approach to capturing carbon pollution from power plants has won an influential endorsement from Steven Chu, a Nobel Prize-winning physicist and a former secretary of energy, who is joining the company’s board.
+一家加拿大企业在捕集发电厂二氧化碳排放污染时另辟蹊径，赢得了朱棣文(Steven Chu)的重要支持。这名获得过诺贝尔奖的物理学家、美国前能源部长加入了该公司的董事会。
+The company, Inventys Thermal Technologies, based in Vancouver, British Columbia, will announce Dr. Chu’s appointment on Wednesday. Inventys has been working in a crucial area that has been mostly neglected: capturing carbon dioxide from natural gas.
+这家企业名为Inventys热能技术公司(Inventys Thermal Technologies)，总部位于不列颠哥伦比亚省的温哥华。公司将于周三宣布朱棣文博士的任命。Inventys关注的领域至关重要，却基本被忽视，那就是从天然气中捕集二氧化碳。
+The carbon dioxide is valuable in oil fields, and Inventys’ technology could also help limit climate change. Natural gas releases only about half as much carbon dioxide as coal per unit of electricity produced. But even that amount is triple what would be required to meet President Obama’s goal of cutting carbon output by 80 percent by midcentury.
+二氧化碳对油田而言有重大价值，而且Inventys的技术或许还有利于控制气候变化。天然气的每单位发电量产生的二氧化碳仅为煤炭的一半左右。不过，按照奥巴马总统提出的到本世纪中叶将碳排放削减80%的目标，就连天然气这样的排放量也三倍于目标水平。
+Dr. Chu said in a telephone interview that the chemical process for carbon capture that has been most widely tested, called amine chemistry, was so expensive that “we need better ideas.”
+朱棣文博士接受电话采访时称，测试面最广的碳捕集化学工艺“醇胺化学吸收法”的成本实在太高，因此“我们需要更好的想法”。
+Inventys instead uses a ceramic material on a drum that rotates inside smokestacks. Carbon dioxide sticks to the ceramic’s surface, but only weakly, in a process that André Boulet, one of the inventors of the technology and chief executive of Inventys, said resembles static cling.
+Inventys采用的是在烟道中旋转的鼓面上安装陶瓷材料。二氧化碳会吸附到陶瓷表面，不过相互作用很弱。该技术的发明人之一、Inventys的首席执行官安德烈·布莱(André Boulet)称，这一反应类似于静电吸附。
+That is an advantage. Dr. Chu said, because “you want it to be more loosely bound” so the carbon dioxide can be more easily separated from the ceramic material.
+这是一个优点。朱棣文博士称，因为“你希望结合得较为松散”，这样二氧化碳就能更容易地从陶瓷材料中分离出去。
+As the drum rotates, the surface is exposed to steam, which washes off the carbon dioxide. A test rig in Vancouver, at a boiler running on natural gas, is capturing carbon for about $15 a ton, Mr. Boulet said. That is less than a quarter of the cost of the amine system.
+随着鼓面的旋转，陶瓷表面接触到高温气流，从而去除二氧化碳。布莱称，在温哥华的一台燃气锅炉上进行的测试显示，碳捕集的成本约为每吨15美元（约合91元人民币）。这一数字不到醇胺化学吸收法的四分之一。
+In contrast, amines — a class of chemicals related to ammonia — are sprayed into gas coming out of coal furnaces. The amines bind strongly to the carbon dioxide, but separating it from the amines requires a lot of energy and can consume 30 percent of a power plant’s output. The Inventys backers say its technology will use 5 to 10 percent.
+相比之下，醇胺化学吸收法是将胺喷洒到煤炉排出的废气中。胺是与氨有关的一组化学物质，能与二氧化碳形成紧密的相互作用。不过，将二氧化碳从胺中分离出来需要很多能量，可能要耗费电厂发电量的30%。Inventys的支持者称，该公司的技术将仅需5%到10%。
+Inventys says it has kept costs low by borrowing the drum’s design from a technology already used in power plants for heat transfer.
+Inventys表示，之所以能维持低成本，是因为从电厂进行热传递的技术中借鉴了鼓面的设计。
+In either an amine system or a ceramic system, there is an additional cost for compressing the carbon dioxide so that it can be shipped by pipeline or moved underground for storage. That adds $15 or $20 a ton. Recent demonstrations of amine technology put the total costs of carbon dioxide and compression at $80 to $100 a ton, a price that Inventys hopes to substantially cut.
+无论是醇胺法还是陶瓷法，都需要额外的花销来压缩二氧化碳，以便通过管道运输或转移到地下封存。这将增加每吨15到20美元的成本。近期的醇胺法示范项目显示，二氧化碳捕集与压缩的总成本为每吨80到100美元。Inventys希望能大幅削减这一数字。
+“If you can get it to be in the scale of $40 or $50 a ton, that’s O.K.,” Dr. Chu said. “That’s not going to send electricity prices through the roof.”
+“能降到每吨四、五十美元就可以了，”朱棣文博士说。“这样就不会让电价飞涨。”
+The complete process is called carbon capture and storage, known as C.C.S. But if the carbon can be captured at sufficiently low cost, it is not waste; it can be sold at a profit to oil drillers, who use it to force oil out of the ground. As the price of oil has risen, so has the market price of carbon dioxide.
+完整的处理过程被称为“碳捕集与封存”(CCS)。但是如果能够以足够低的成本把碳捕集起来，那它就不再是废料了；可以把它卖给石油钻探企业牟利。油企可将二氧化碳打入地下，从而将石油压出来。随着油价的攀升，二氧化碳的市场价也随之上涨。
+Inventys has designed its system with profit in mind. The amine system can remove 90 percent of carbon from smoke, but Inventys captures a smaller fraction, 70 to 85 percent, choosing a level that produces the lowest cost per ton.
+Inventys设计这一系统的时候考虑到了盈利问题。醇胺法能去除烟气中90%的碳，而Inventys则稍低，为70%到85%，选择的是每吨成本最低的水平。
+The Inventys technology has been demonstrated so far only on a small scale, which makes independent experts cautious.
+截至目前，Inventys的技术仅进行了小试，因此独立专家出言谨慎。
+“If what they’re saying is true and their calculations are right, it has some promise,” said Victor K. Der, the North American operations manager of the Global CCS Institute, a nonprofit group. But, he added, “everything looks good on paper.”
+“如果他们说的属实、计算也准确的话，的确是有一定的前途，”非营利组织全球碳捕集与封存研究院(Global CCS Institute)的北美项目主管维克托·K·德尔(Victor K. Der)称。不过他还说，“所有东西理论上看都挺美好的。”
+Dr. Chu, who served as energy secretary during Mr. Obama’s first term, has often said that controlling greenhouse gases would require breakthroughs in technology, not just new rules and taxes. He said he accepted a seat on the Inventys board because he thought its technology had a good chance of succeeding.
+朱棣文博士曾在奥巴马的第一任期内担任能源部长。他常说，控制温室气体需要技术突破，而不能仅仅依靠新的法规和税赋来调节。他表示，之所以接受Inventys的董事一职，是因为他认为公司的技术很有希望获得成功。
+“If I thought there was no chance of it working, my compensation in stock options wouldn’t be worth anything,” he said.
+“如果我觉得没可能成功，我的期权报酬就一钱不值了，”他说。
+Since leaving office in April, he has joined just one other board of directors. He would not identify the company, but said it was in biofuels.
+自从今年4月离职后，除了这间公司，朱棣文博士仅加入了一家董事会。他拒绝给出那家企业的名字，只说它属于生物燃料领域。

@@ -1,0 +1,18 @@
+Russian hackers — possibly the same group that compromised the Democratic National Committee’s computer servers two months ago — have made top American athletes their latest target.
+一些俄罗斯黑客——跟两个月前侵入民主党全国委员会计算机服务器的可能是同一拨人——把美国顶尖运动员当成了最新目标。
+Joining an intercontinental dispute over sports doping, the hackers penetrated the World Anti-Doping Agency’s athlete database and publicly revealed private medical information about three of the United States’ most famous athletes: Serena Williams, Venus Williams and Simone Biles.
+这些黑客卷入与体育界兴奋剂事件有关的跨越大洲的争端，侵入了世界反兴奋剂机构(World Anti-Doping Agency)的运动员数据库，并公布了三位美国知名运动员的私人医疗信息。这三人分别是塞雷娜·威廉姆斯(Serena Williams)、维纳斯·威廉姆斯(Venus Williams)和西蒙·拜尔斯(Simone Biles)。
+The hackers published documents this week showing that the Williams sisters and Biles, who won four gold medals in gymnastics at the Rio Olympics last month, received medical exemptions to use banned drugs.
+黑客于本周公布的文件显示，威廉姆斯姐妹及在里约奥运会体操赛场上斩获四枚金牌的拜尔斯，均获得了使用禁药的医疗豁免权。
+The anti-doping agency confirmed the authenticity of the documents in a statement Tuesday, attributing the hack to Fancy Bear, a Russian cyberespionage group that forensics specialists have repeatedly tied to breaches against government agencies, nonprofits and corporations. That group is believed to be associated with GRU, Russia’s military intelligence agency suspected of involvement in the recent theft of emails and documents from the Democratic National Committee.
+世界反兴奋剂机构在周二的声明中确认了这些文件的真实性，并把此次黑客攻击归咎于“奢华熊”(Fancy Bear)。这是一个多次被鉴识专家与侵入政府机构、非营利组织和企业网络的行为联系起来的俄罗斯网络间谍组织。该团体据信与俄罗斯军事情报机构总参谋部情报总局(GRU)有关，后者被怀疑卷入了近期发生的民主党全国代表大会邮件和文件失窃案。
+“These criminal acts are greatly compromising the effort by the global antidoping community to re-establish trust in Russia,” WADA’s director general, Olivier Niggli, said Tuesday, referencing revelations of elaborate government-ordered doping by Russia that prompted more than 100 of the country’s athletes to be barred from Rio Games.
+“全球反兴奋剂界正竭力重建对俄罗斯的信任，而这些犯罪行为极大地损害了这种努力，”世界反兴奋剂机构总干事奥利维尔·尼格利(Olivier Niggli)周二表示。他指的是由俄罗斯政府下令实施的一项复杂的兴奋剂计划被曝光一事，此事导致逾百名俄罗斯运动员被里约奥运会拒之门外。
+The hackers wrote on their website that the United States had “played well but not fair” in Rio, and the medical documents were quickly hailed in Russia on Tuesday as evidence of widespread doping among American athletes, and the double-standards of global antidoping regulators.
+这群黑客在他们自己的网站上写道，美国在里约赛场上“表现得很好，但却违反了公平原则”。周二当天，这些医疗文件在俄罗斯很快就被描绘成了美国运动员普遍使用兴奋剂、国际反兴奋剂监察机构实行双重标准的绝佳证据。
+Dmitry Peskov, spokesman for President Vladimir V. Putin, said that the Kremlin was not involved in the hacks. “It’s simply ruled out,” Peskov said.
+俄罗斯总统弗拉基米尔·V·普京(Vladimir V. Putin)的发言人迪米特里·佩斯科夫(Dmitry Peskov)表示，克里姆林宫并未参与黑客攻击事件。“根本没有这种可能性，”佩斯科夫说。
+Revenge, apparently, motivated the WADA hacks. In May, The New York Times reported the account of Russia’s longtime anti-doping lab chief, who said the country had run a doping program and staged an elaborate cheating scheme at the 2014 Sochi Olympics. A subsequent report commissioned by WADA confirmed that account.
+复仇似乎是黑客攻击世界反兴奋剂机构的动机所在。《纽约时报》在5月份报道了俄罗斯反兴奋剂实验室前主任的说法。此人在这一职位上待过很长时间，他说俄罗斯实施了一项兴奋剂计划，并针对2014年的索契冬奥会筹划了复杂的作弊方案。世界反兴奋剂机构随后发布的报告确认了这种说法。
+The U.S. Anti-Doping Agency said Tuesday the American athletes in question had sought the requisite approvals to take typically prohibited substances.
+美国反兴奋剂机构周二表示，受到质疑的几位美国运动员按照规定寻求了使用这些通常意义上的违禁物质的许可。

@@ -1,0 +1,26 @@
+Scientists have known for decades that the ability to remember newly learned information declines with age, but it was not clear why. A new study may provide part of the answer.
+几十年来，科学家一直知道人对新获得信息的记忆能力会随年龄的增长而减弱，但却不清楚原因。最近的一次研究或许可以给出部分答案。
+The report, posted online on Sunday by the journal Nature Neuroscience, suggests that structural brain changes occurring naturally over time interfere with sleep quality, which in turn blunts the ability to store memories for the long term.
+周日发表在《自然神经科学》(Nature Neuroscience)杂志上的这份报告称，随时间推移而自然发生的大脑结构变化会影响睡眠质量，进而减弱长期储存记忆的能力。
+Previous research had found that the prefrontal cortex, the brain region behind the forehead, tends to lose volume with age, and that part of this region helps sustain quality sleep, which is critical to consolidating new memories. But the new experiment, led by researchers at the University of California, Berkeley, is the first to directly link structural changes with sleep-related memory problems.
+以前的研究发现，位于大脑前额后的前额叶皮层容量可能会随年龄增加而减少，而大脑该区域的这部分皮层会帮助维持对巩固新记忆来说至关重要的高质量睡眠。然而，这个在加州大学伯克利分校(University of California, Berkeley)研究人员带领下进行的新实验，首次直接将大脑的结构变化与与睡眠有关的记忆问题直接联系起来。
+The findings suggest that one way to slow memory decline in aging adults is to improve sleep, specifically the so-called slow-wave phase, which constitutes about a quarter of a normal night’s slumber.
+研究结果发现，衰老的成年人可以通过提高睡眠质量来减缓记忆力衰退，特别是改善所谓的慢波睡眠阶段，这一睡眠阶段约占整夜正常睡眠时间的四分之一。
+Doctors cannot reverse structural changes that occur with age any more than they can turn back time. But at least two groups are experimenting with electrical stimulation as a way to improve deep sleep in older people. By placing electrodes on the scalp, scientists can run a low current across the prefrontal area, essentially mimicking the shape of clean, high-quality slow waves.
+医生不可能恢复由衰老引起的脑结构变化，就像他们不能让时间倒流一样。但至少有两个研究小组正在实验用电刺激来为上了年纪的人改善深度睡眠。科学家将电极放在头皮上，在前额叶皮层区通上低电流，基本就是模仿纯净、高质量的慢波。
+The result: improved memory, at least in some studies. “There are also a number of other ways you can improve sleep, including exercise,” said Ken Paller, a professor of psychology and the director of the cognitive neuroscience program at Northwestern University, who was not involved in the research.
+结果是：至少在一些案例中，记忆能力得到了改善。“还有很多其他方法可以改善睡眠，比如运动。”没有参与这次研究工作的西北大学(Northwestern University)认知神经科学项目负责人及心理学教授肯·帕勒(Ken Paller)称。
+In the study, the research team took brain images from 19 people of retirement age and from 18 people in their early 20s. It found that a brain area called the medial prefrontal cortex, roughly behind the middle of the forehead, was about one-third smaller on average in the older group than in the younger one — a difference due to natural atrophy over time, previous research suggests.
+这项研究中，研究小组从19个处于退休年龄的人和18个20几岁的人中提取脑图。研究发现，大概位于前额中部后叫做内侧额叶前皮质(medial prefrontal cortex)的大脑区域，在年龄较大的一族人群中的容量比年轻人的平均要小三分之一，以前的研究认为，这一不同是由自然衰老造成。
+Before bedtime, the team had the two groups study a long list of words paired with nonsense syllables. The team used the nonwords because one type of memory that declines with age is for new, previously unseen information.
+研究小组让这两组被试者在睡觉前记忆一长串穿插着没有意义的字节的单词。该小组采用没有意义的词是因为，有一种随衰老而减弱的记忆针对的是以前未见过的新信息。
+After training on the pairs for half an hour or so, the participants took a test on some of them. The young group outscored the older group by about 25 percent.
+在给了这两组人群约半小时之后，就对被试者测试这些单词的记忆情况。年轻组的分数领先老年组的幅度约为25%。
+Then everyone went to bed — and bigger differences emerged. For one, the older group got only about a quarter of the amount of high-quality slow-wave sleep that the younger group did. It is thought that the brain moves memories from temporary to longer-term storage during this deep sleep.
+此后，两组被试人员都上床睡觉，更大的区别也就随之而来。首先，老年组被试者的高质量慢波睡眠时间只有年轻一组被试者的约四分之一。科学家认为，大脑是在这个深度睡眠阶段将短时记忆转成较长期记忆。
+On a second test, given in the morning, the younger group outscored the older group by about 55 percent. The estimated amount of atrophy in each person roughly predicted the difference between his or her evening and morning scores, the study found. Even seniors who were very sharp at night showed declines after sleeping.
+第二个测试是在早上进行，年轻一组被试者领先了老年组约55%。研究发现，测算出的个人衰退程度基本上可以预示他们在晚上和早上的得分差别。即便是那些在晚上记忆力很好的老年人在睡觉后也出现了分数下降的现象。
+“The analysis showed that the differences were due not to changes in capacity for memories, but to differences in sleep quality,” said Bryce A. Mander, a postdoctoral fellow at Berkeley and the lead author of the study. 
+这项研究的主要作者、伯克利分校博士后布赖斯·A·曼德(Bryce A. Mander)称，“分析显示，差别并非在于记忆力的变化，而在于睡眠质量的不同。”
+“Essentially, with age, you lose tissue in this prefrontal area,” said Matthew P. Walker, a professor of psychology and neuroscience and Berkeley and a co-author of the study. “You get less quality deep sleep, and have less opportunity to consolidate new memories.”
+伯克利分校心理学和神经科学教授及这项研究的另一名作者马修·P·沃克(Matthew P. Walker)称，“基本来说，随着年龄增长，人们会损失这部分前额叶区的一些组织。高质量睡眠时间变少，巩固新记忆的机会也就越少。”

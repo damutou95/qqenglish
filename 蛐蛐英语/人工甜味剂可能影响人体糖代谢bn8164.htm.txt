@@ -1,0 +1,44 @@
+Artificial sweeteners may disrupt the body’s ability to regulate blood sugar, causing metabolic changes that can be a precursor to diabetes, researchers are reporting.
+科研人员通报，人工甜味剂或许会干扰人体控制血糖的能力，导致可视为糖尿病前兆的代谢变化。
+That is “the very same condition that we often aim to prevent” by consuming sweeteners instead of sugar, said Dr. Eran Elinav, an immunologist at the Weizmann Institute of Science in Israel, at a news conference to discuss the findings.
+在讨论这一发现的新闻发布会上，以色列魏茨曼科学研究学院(Weizmann Institute of Science)的免疫学家埃兰·伊莱纳夫博士(Eran Elinav)表示，这“恰好是我们”用甜味剂代替糖时“通常希望避免的那种情况”。
+The scientists performed a multitude of experiments, mostly on mice, to back up their assertion that the sweeteners alter the microbiome, the population of bacteria that is in the digestive system.
+科学家们在以小鼠为主的实验对象身上进行了大量实验，以支持他们的结论：甜味剂会改变消化系统中的微生物菌群。
+The different mix of microbes, the researchers contend, changes the metabolism of glucose, causing levels to rise higher after eating and to decline more slowly than they otherwise would.
+研究人员指出，不同的菌群构成会改变葡萄糖的代谢，导致餐后血糖浓度升得更高、回落的速度也更慢。
+The findings by Dr. Elinav and his collaborators in Israel, including Eran Segal, a professor of computer science and applied mathematics at Weizmann, are being published Wednesday by the journal Nature.
+伊莱纳夫的以色列合作者中，包括魏茨曼学院的计算机科学与应用数学教授埃兰·赛加尔(Eran Segal)。他们的这项发现发表在周三出版的《自然》杂志(Nature)上。
+Cathryn R. Nagler, a professor of pathology at the University of Chicago who was not involved with the research but did write an accompanying commentary in Nature, called the results “very compelling.”
+芝加哥大学(University of Chicago)的病理学教授凯瑟琳·R·纳格勒(Cathryn R. Nagler)没有参与这项研究，不过在《自然》杂志上进行了相关评论，称他们的研究结果“非常有说服力”。
+She noted that many conditions, including obesity and diabetes, had been linked to changes in the microbiome. “What the study suggests,” she said, “is we should step back and reassess our extensive use of artificial sweeteners.”
+她指出，包括肥胖症和糖尿病在内的许多症状已被认为与微生物菌群的变化有关。“本研究表明，我们应该退后一步，重新评估我们对人工甜味剂的广泛使用，”她说。
+Previous studies on the health effects of artificial sweeteners have come to conflicting and confusing findings. Some found that they were associated with weight loss; others found the exact opposite, that people who drank diet soda actually weighed more.
+此前对人工甜味剂的健康影响进行的多项研究，得出了相互矛盾、令人困惑的结论。一些研究认为，甜味剂与减重有关；另一些则正好相反，发现饮用健怡汽水的人实际更重。
+Some found a correlation between artificial sweeteners and diabetes, but those findings were not entirely convincing: Those who switch to the products may already be overweight and prone to the disease.
+还有一些研究的结论是，人工甜味剂与糖尿病正相关。不过这些结论并不完全可信：那些放弃糖，而消费甜味剂产品的人可能本已超重，易于罹患糖尿病。
+While acknowledging that it is too early for broad or definitive conclusions, Dr. Elinav said he had already changed his own behavior.
+尽管承认得出广泛结论或决定性的结论还为时尚早，但伊莱纳夫表示，他已经对自身行为做出了改变。
+“I’ve consumed very large amounts of coffee, and extensively used sweeteners, thinking like many other people that they are at least not harmful to me and perhaps even beneficial,” he said. “Given the surprising results that we got in our study, I made a personal preference to stop using them.
+“我喝很多很多的咖啡，大量使用甜味剂，和很多人一样，以为它们起码不会伤害我的身体，说不定还有好处，”他说。“基于我们的研究得出的意外结果，我个人选择不再使用甜味剂。”
+“We don’t think the body of evidence that we present in humans is sufficient to change the current recommendations,” he continued. “But I would hope it would provoke a healthy discussion.”
+“我并不认为，我们提出的证据足以修改目前的饮食建议，”他接着说。“但我希望，这将引发一场良好的讨论。”
+In the initial set of experiments, the scientists added saccharin (the sweetener in the pink packets of Sweet’N Low), sucralose (the yellow packets of Splenda) or aspartame (the blue packets of Equal) to the drinking water of 10-week-old mice. Other mice drank plain water or water supplemented with glucose or with ordinary table sugar. After a week, there was little change in the mice who drank water or sugar water, but the group getting artificial sweeteners developed marked intolerance to glucose.
+在初步实验中，科学家们把糖精（粉色包装的纤而乐[Sweet’N Low]的甜味剂）、三氯蔗糖（黄色包装的善品糖[Splenda]的甜味剂）或阿斯巴甜（蓝色包装的怡口[Equal]的甜味剂）添加到饮用水中，让10周大的小鼠摄入。其他小鼠则喝白水，或者添加了葡萄糖或普通食糖的水。一周之后，饮用白水或糖水的小鼠变化不大，但摄入人工甜味剂的那组小鼠明显出现了葡萄糖耐受不良。
+Glucose intolerance, in which the body is less able to cope with large amounts of sugar, can lead to more serious illnesses like metabolic syndrome and Type 2 diabetes.
+葡萄糖耐受不良表明身体处理大量糖分的能力降低，可能会导致更加严重的疾病，比如代谢综合征和2型糖尿病。
+When the researchers treated the mice with antibiotics, killing much of the bacteria in the digestive system, the glucose intolerance went away.
+当研究人员对小鼠使用抗生素，杀死其消化系统中的很多细菌之后，它们的葡萄糖耐受不良问题就消失了。
+At present, the scientists cannot explain how the sweeteners affect the bacteria or why the three different molecules of saccharin, aspartame and sucralose result in similar changes in the glucose metabolism.
+目前，科学家尚无法解释甜味剂是如何影响这些细菌的，以及为什么在葡萄糖代谢过程中，糖精、阿斯巴甜和三氯蔗糖这三种不同的分子导致了类似的变化。
+To further test their hypothesis that the change in glucose metabolism was caused by a change in bacteria, they performed another series of experiments, this time focusing just on saccharin. They took intestinal bacteria from mice who had drank saccharin-laced water and injected them in mice that had never been exposed any saccharin. Those mice developed the same glucose intolerance. And DNA sequencing showed that saccharin had markedly changed the variety of bacteria in the guts of the mice that consumed it.
+科学家们假设葡萄糖代谢中的变化是由细菌的变化引起的，为了进一步检验这个假设，他们开展了另外一系列只针对糖精的实验。科学家们从摄入了糖精水的小鼠身上取出肠道细菌，注入到从未接触过任何糖精的小鼠体内。随后这些小鼠也出现了葡萄糖耐受不良。DNA测序表明，在摄入糖精的小鼠的肠道中，糖精明显改变了细菌种类的组合。
+Next, the researchers turned to a study they were conducting to track the effects of nutrition and gut bacteria on people’s long-term health. For 381 nondiabetic participants in the study, the researchers found a correlation between the reported use of any kind of artificial sweeteners and signs of glucose intolerance. In addition, the gut bacteria of those who used artificial sweeteners were different from those who did not.
+接下来，研究人员开始追踪营养和肠道细菌对人体长期健康的影响。这项研究有381例非糖尿病患者参加，研究人员发现，任何一种人工甜味剂的摄入，都和葡萄糖耐受不良体征之间存在着相关性。此外，有没有摄入人工甜味，肠道细菌会不一样。
+Finally, they recruited seven volunteers who normally did not use artificial sweeteners and over six days gave them the maximum amount of saccharin recommended by the United States Food and Drug Administration. In four of the seven, blood-sugar levels were disrupted in the same way as in mice.
+最后，研究人员招募了七名通常不使用人工甜味剂的志愿者，并在六天时间中，让他们摄入了美国食品与药品管理局（Food and Drug Administration，简称FDA）建议的糖精最大摄入量。结果七人中有四人的血糖值出现了与小鼠类似的变化。
+Further, when they injected the human participants’ bacteria into the intestines of mice, the animals again developed glucose intolerance, suggesting that effect was the same in both mice and humans.
+此外，当他们把人类受试者的细菌注入到小鼠的肠道中后，小鼠再次出现了葡萄糖耐受不良，这表明该效应在小鼠和人类中是相同的。
+“That experiment is compelling to me,” Dr. Nagler said.
+“我认为这个实验很令人信服，”纳格勒博士说。
+Intriguingly — “superstriking and interesting to us,” Dr. Segal said — the intestinal bacteria of the people who did experience effects were different from those who did not. This suggests that any effects of artificial sweeteners are not universal. It also suggests probiotics — medicines consisting of live bacteria — could be used to shift gut bacteria to a population that reversed the glucose intolerance.
+有趣的是——“让我们觉得既震惊又有趣”，西格尔博士说——出现了这种效应的人，其肠道细菌不同于没有经受它的人。这表明，人工甜味剂的任何效应都不是放之四海而皆准的。这也表明，益生菌——含有活细菌的药品——可用于改变肠道细菌群，以逆转葡萄糖耐受不良。
